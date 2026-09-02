@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Working Draft: Philippine Budget Hearings</title>
-  <link rel="stylesheet" href="/budget-hearings-2026/static/app.css?v=20260828-5">
-  <link rel="stylesheet" href="/budget-hearings-2026/static/refinement.css?v=20260828-5">
-  <script defer src="/budget-hearings-2026/static/app.js?v=20260828-5"></script>
+  <link rel="stylesheet" href="/budget-hearings-2026/static/app.css?v=20260831-ajax1">
+  <link rel="stylesheet" href="/budget-hearings-2026/static/refinement.css?v=20260902-agency4">
+  <script defer src="/budget-hearings-2026/static/app.js?v=20260902-agency4"></script>
 </head>
 <body>
   <header class="masthead">
     <a class="identity" href="/budget-hearings-2026/"><span><strong>Working Draft</strong><small>Philippine Budget Hearings</small></span></a>
-    
+
   </header>
   <main class="public-preview">
 <section class="preview-masthead">
@@ -29,19 +29,47 @@
 
 <section class="session-index" id="sessions" aria-labelledby="available-hearings">
   <header class="section-head">
-    <div><p class="preview-kicker">Available hearings</p><h2 id="available-hearings">Hearing packages</h2></div>
-    <p>Each hearing brings its reviewed transcript together with a source-linked digest.</p>
+    <div class="session-index-title">
+      <p class="preview-kicker">Available hearings</p>
+      <h2 id="available-hearings">Sessions</h2>
+    </div>
+    <p>Each session includes its reviewed transcript and, when ready, a source-linked digest.</p>
   </header>
+  <div class="agency-filter" role="search" aria-label="Filter hearings by agency">
+    <label for="agency-filter-input">Filter by agency</label>
+    <input id="agency-filter-input" type="search" placeholder="Agency name or acronym" autocomplete="off">
+  </div>
   <div class="session-list session-tile-grid">
-    
-      <article class="public-session-card session-tile">
+
+      <article class="public-session-card session-tile" data-agencies="PAGCOR Philippine Amusement and Gaming Corporation">
         <div class="session-summary">
           <p data-title-field="committee">House Committee of Appropriations</p>
-          <h3 aria-label="House Committee of Appropriations: DBCC Briefing - August 17, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/1">DBCC Briefing</a></h3>
-          <dl>
-            <div><dt>Date</dt><dd><time data-title-field="date" datetime="2026-08-17">August 17, 2026</time></dd></div>
-            <div><dt>Record</dt><dd>House &middot; FY2027</dd></div>
-          </dl>
+          <h3 aria-label="House Committee of Appropriations: PAGCOR - August 24, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/3">PAGCOR</a></h3>
+          <time class="session-date" data-title-field="date" datetime="2026-08-24">August 24, 2026</time>
+          <ul class="session-features" aria-label="Available features">
+            <li><a href="/budget-hearings-2026/records/3">Source transcript</a></li>
+            <li><a href="/budget-hearings-2026/digests/3">Source-linked digest</a></li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="public-session-card session-tile" data-agencies="DBM Department of Budget and Management DEPDev Department of Economy, Planning, and Development DOF Department of Finance BSP Bangko Sentral ng Pilipinas BIR Bureau of Internal Revenue BLGF Bureau of Local Government Finance BTr Bureau of the Treasury PPP Center Public-Private Partnership Center">
+        <div class="session-summary">
+          <p data-title-field="committee">House Committee of Appropriations</p>
+          <h3 aria-label="House Committee of Appropriations: DBCC Interpellation - August 17, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/2">DBCC Interpellation</a></h3>
+          <time class="session-date" data-title-field="date" datetime="2026-08-17">August 17, 2026</time>
+          <ul class="session-features" aria-label="Available features">
+            <li><a href="/budget-hearings-2026/records/2">Source transcript</a></li>
+            <li><a href="/budget-hearings-2026/digests/19">Source-linked digest</a></li>
+          </ul>
+        </div>
+      </article>
+    
+      <article class="public-session-card session-tile" data-agencies="DBM Department of Budget and Management DEPDev Department of Economy, Planning, and Development DOF Department of Finance BSP Bangko Sentral ng Pilipinas">
+        <div class="session-summary">
+          <p data-title-field="committee">House Committee of Appropriations</p>
+          <h3 aria-label="House Committee of Appropriations: DBCC Briefing and Interpellation - August 17, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/1">DBCC Briefing and Interpellation</a></h3>
+          <time class="session-date" data-title-field="date" datetime="2026-08-17">August 17, 2026</time>
           <ul class="session-features" aria-label="Available features">
             <li><a href="/budget-hearings-2026/records/1">Source transcript</a></li>
             <li><a href="/budget-hearings-2026/digests/1">Source-linked digest</a></li>
@@ -50,6 +78,7 @@
       </article>
     
   </div>
+  <p class="preview-empty" id="agency-filter-empty" hidden>No session matches that agency.</p>
 </section>
 </main>
   <footer><span>Created by <strong>Jaemark Tordecilla</strong>, journalist, technologist, and independent AI advisor.</span><span>Working Draft is not an official congressional record.</span></footer>

@@ -2,6 +2,29 @@ const video = document.querySelector('#source-video');
 const videoIsYouTube = video?.tagName === 'IFRAME';
 let sourceVideoTime = 0;
 
+const agencyFilterInput = document.querySelector('#agency-filter-input');
+const agencyFilterEmpty = document.querySelector('#agency-filter-empty');
+const agencySessionCards = [...document.querySelectorAll('.session-tile[data-agencies]')];
+
+function applyAgencyFilter() {
+  const terms = (agencyFilterInput?.value || '').trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+  let visible = 0;
+  agencySessionCards.forEach((card) => {
+    const haystack = (card.dataset.agencies || '').toLocaleLowerCase();
+    const matches = terms.every((term) => haystack.includes(term));
+    card.hidden = !matches;
+    if (matches) visible += 1;
+  });
+  if (agencyFilterEmpty) agencyFilterEmpty.hidden = visible !== 0;
+}
+
+agencyFilterInput?.addEventListener('input', applyAgencyFilter);
+agencyFilterInput?.addEventListener('keydown', (event) => {
+  if (event.key !== 'Escape') return;
+  agencyFilterInput.value = '';
+  applyAgencyFilter();
+});
+
 function sendSourceVideoCommand(func, args = []) {
   if (!videoIsYouTube || !video?.contentWindow) return;
   video.contentWindow.postMessage(JSON.stringify({ event: 'command', func, args }), 'https://www.youtube-nocookie.com');
@@ -65,7 +88,8 @@ const speakerSearchInput = document.querySelector('#transcript-speaker-search');
 const findPrevious = document.querySelector('#find-previous');
 const findNext = document.querySelector('#find-next');
 const findClear = document.querySelector('#find-clear');
-const turns = [...document.querySelectorAll('.turn')];
+const nextSpeaker = document.querySelector('#next-speaker');
+let turns = [...document.querySelectorAll('.turn')];
 const filterButtons = [...document.querySelectorAll('[data-filter]')];
 const resultLabel = document.querySelector('#filter-result');
 const noResults = document.querySelector('#no-filter-results');
@@ -206,6 +230,59 @@ findClear?.addEventListener('click', clearTranscriptFind);
 findPrevious?.setAttribute('disabled', '');
 findNext?.setAttribute('disabled', '');
 
+function effectiveSpeakerKey(turn) {
+  const reviewed = (turn?.dataset.speaker || '').trim();
+  if (reviewed && reviewed !== 'unresolved') return `reviewed:${reviewed}`;
+  const raw = (turn?.dataset.diarization || '').trim();
+  return raw ? `raw:${raw}` : 'unresolved';
+}
+
+function currentAuditTurn(visibleTurns) {
+  const transcriptTop = document.querySelector('#turn-list')?.getBoundingClientRect().top;
+  // This control is deliberately stateless: every click starts from the
+  // reader's present scroll position, never from the last highlighted/hash
+  // target. At the page top (or before the transcript reaches the viewport),
+  // navigation therefore restarts from the first visible transcript turn.
+  if (window.scrollY <= 8 || transcriptTop == null || transcriptTop >= window.innerHeight) {
+    return visibleTurns[0];
+  }
+  const auditLine = 120;
+  const firstAtAuditLine = visibleTurns.find((turn) => {
+    const rect = turn.getBoundingClientRect();
+    return rect.bottom > auditLine;
+  });
+  if (firstAtAuditLine) return firstAtAuditLine;
+  return visibleTurns.reduce((closest, turn) => {
+    const distance = Math.abs(turn.getBoundingClientRect().top - auditLine);
+    return !closest || distance < closest.distance ? { turn, distance } : closest;
+  }, null)?.turn || visibleTurns[0];
+}
+
+nextSpeaker?.addEventListener('click', () => {
+  const visibleTurns = turns.filter((turn) => !turn.hidden);
+  if (!visibleTurns.length) return;
+  const current = currentAuditTurn(visibleTurns);
+  const currentIndex = visibleTurns.indexOf(current);
+  const currentKey = effectiveSpeakerKey(current);
+  const target = visibleTurns.slice(currentIndex + 1).find((turn) => effectiveSpeakerKey(turn) !== currentKey);
+  if (!target) {
+    if (resultLabel) resultLabel.textContent = 'No later speaker handoff in this view';
+    return;
+  }
+  turns.forEach((turn) => turn.classList.remove('find-current'));
+  target.classList.add('find-current');
+  target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  target.focus({ preventScroll: true });
+  history.replaceState(null, '', `#${target.id}`);
+  if (video) seekSourceVideo(Number(target.dataset.start || 0), false);
+  if (resultLabel) {
+    const label = target.dataset.speaker !== 'unresolved'
+      ? target.dataset.speaker
+      : `raw ${target.dataset.diarization || 'unresolved'}`;
+    resultLabel.textContent = `Next speaker at ${target.id} · ${label}`;
+  }
+});
+
 document.querySelectorAll('[data-review-anchor]').forEach((link) => {
   link.addEventListener('click', () => {
     activeFilter = 'all';
@@ -215,7 +292,11 @@ document.querySelectorAll('[data-review-anchor]').forEach((link) => {
   });
 });
 
-document.querySelectorAll('[data-turn-form]').forEach((form) => {
+const boundTurnForms = new WeakSet();
+
+function bindTurnForm(form) {
+  if (boundTurnForms.has(form)) return;
+  boundTurnForms.add(form);
   const save = form.querySelector('.save');
   const editor = form.querySelector('[data-transcript-editor]');
   const value = form.querySelector('[data-transcript-value]');
@@ -223,12 +304,25 @@ document.querySelectorAll('[data-turn-form]').forEach((form) => {
   const speaker = form.querySelector('[name="speaker"]');
   const sourceNote = form.querySelector('[name="source_note"]');
   const cancel = form.querySelector('[data-cancel-edit]');
-  const originalText = value?.value || '';
-  const originalSpeaker = speaker?.value || '';
+  const status = form.querySelector('[data-save-status]');
+  let originalText = value?.value || '';
+  let originalSpeaker = speaker?.value || '';
+
+  function submittedEditorText() {
+    const rendered = editor?.innerText || '';
+    const domText = editor?.textContent || '';
+    return (rendered.trim() ? rendered : domText).trim();
+  }
+
+  function setStatus(message, kind = '') {
+    if (!status) return;
+    status.textContent = message;
+    status.dataset.kind = kind;
+  }
 
   function refreshSaveState() {
     if (!save) return;
-    const changedText = (editor?.innerText || '').trim() !== originalText;
+    const changedText = submittedEditorText() !== originalText;
     const changedSpeaker = (speaker?.value || '').trim() !== originalSpeaker;
     save.disabled = !changedText && !changedSpeaker;
   }
@@ -264,15 +358,55 @@ document.querySelectorAll('[data-turn-form]').forEach((form) => {
   });
 
   editor?.addEventListener('input', () => {
-    if (value) value.value = editor.innerText.trim();
+    if (value) value.value = submittedEditorText();
     form.classList.add('dirty');
     refreshSaveState();
   });
 
-  form.addEventListener('submit', (event) => {
-    if (value && editor) value.value = editor.innerText.trim();
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    const submittedText = submittedEditorText();
+    if (value) value.value = submittedText;
     refreshSaveState();
-    if (save?.disabled) event.preventDefault();
+    if (save?.disabled) return;
+    save.disabled = true;
+    setStatus('Savingâ€¦', 'pending');
+    try {
+      const formData = new FormData(form);
+      formData.set('text', submittedText);
+      formData.set('speaker', speaker?.value || '');
+      const response = await fetch(form.action, {
+        method: 'POST',
+        body: new URLSearchParams(formData),
+        headers: { Accept: 'application/json' },
+      });
+      const payload = await response.json().catch(() => ({}));
+      if (!response.ok || !payload.ok) throw new Error(payload.error || `Save failed (${response.status})`);
+      originalText = payload.text ?? value.value;
+      originalSpeaker = payload.speaker ?? '';
+      value.value = originalText;
+      editor.innerText = originalText;
+      editor.contentEditable = 'false';
+      speaker.value = originalSpeaker;
+      if (sourceNote) sourceNote.value = '';
+      const turn = form.closest('.turn');
+      if (turn) {
+        turn.dataset.message = originalText.toLocaleLowerCase();
+        turn.dataset.speaker = (originalSpeaker || 'unresolved').toLocaleLowerCase();
+        turn.classList.toggle('unresolved-turn', !originalSpeaker || originalSpeaker.toLocaleLowerCase().includes('unresolved'));
+        const speakerLabel = form.querySelector('.turn-meta strong');
+        if (speakerLabel) speakerLabel.textContent = originalSpeaker || 'Unresolved';
+      }
+      form.querySelectorAll('input:not([type="hidden"])').forEach((field) => { field.disabled = true; });
+      form.classList.remove('editing', 'dirty');
+      edit.textContent = 'Edit';
+      edit.disabled = false;
+      setStatus('Saved', 'success');
+      window.setTimeout(() => setStatus(''), 1600);
+    } catch (error) {
+      setStatus(error.message || 'Save failed', 'error');
+      refreshSaveState();
+    }
   });
 
   form.querySelectorAll('input:not([type="hidden"])').forEach((field) => {
@@ -288,7 +422,9 @@ document.querySelectorAll('[data-turn-form]').forEach((form) => {
       cancelEditing();
     }
   });
-});
+}
+
+document.querySelectorAll('[data-turn-form]').forEach(bindTurnForm);
 
 function selectionOffsetWithin(element) {
   const selection = window.getSelection();
@@ -317,10 +453,15 @@ const firstValue = crossTalkDialog?.querySelector('[data-split-value="first"]');
 const secondValue = crossTalkDialog?.querySelector('[data-split-value="second"]');
 const boundary = crossTalkDialog?.querySelector('[data-split-seconds]');
 const splitMeta = crossTalkDialog?.querySelector('[data-split-meta]');
+const splitStatus = crossTalkDialog?.querySelector('[data-split-status]');
+const splitSave = crossTalkDialog?.querySelector('.save-split');
 let splitStart = 0;
 let splitEnd = 0;
+const boundSplitButtons = new WeakSet();
 
-document.querySelectorAll('[data-split-turn]').forEach((openButton) => {
+function bindSplitButton(openButton) {
+  if (!openButton || boundSplitButtons.has(openButton)) return;
+  boundSplitButtons.add(openButton);
   openButton.addEventListener('click', () => {
     const turn = openButton.closest('.turn');
     const transcript = turn?.querySelector('[data-transcript-editor]');
@@ -328,23 +469,26 @@ document.querySelectorAll('[data-split-turn]').forEach((openButton) => {
     if (!crossTalkDialog || !crossTalkForm || !turn || !transcript) return;
     const text = transcript.innerText.trim();
     const point = editorialSplitPoint(text, selectionOffsetWithin(transcript));
-    firstCopy.innerText = text.slice(0, point).trim();
-    secondCopy.innerText = text.slice(point).trim();
+    firstCopy.value = text.slice(0, point).trim();
+    secondCopy.value = text.slice(point).trim();
     splitStart = Number(turn.dataset.start || 0);
     splitEnd = Number(turn.dataset.end || splitStart);
     const videoTime = videoIsYouTube ? sourceVideoTime : Number(video?.currentTime || 0);
     boundary.min = splitStart;
     boundary.max = splitEnd;
-    boundary.value = (videoTime > splitStart && videoTime < splitEnd ? videoTime : splitStart + ((splitEnd - splitStart) / 2)).toFixed(2);
+    boundary.value = (videoTime > splitStart && videoTime < splitEnd ? videoTime : splitStart + ((splitEnd - splitStart) / 2)).toFixed(6);
     crossTalkForm.action = openButton.dataset.action;
     crossTalkDialog.querySelector('[data-first-speaker]').value = speaker?.value || '';
     crossTalkDialog.querySelector('[name="second_speaker_name"]').value = '';
+    if (splitStatus) splitStatus.textContent = '';
     splitMeta.textContent = `${turn.id} · ${splitStart.toFixed(2)}–${splitEnd.toFixed(2)} seconds`;
     crossTalkDialog.showModal();
     document.body.classList.add('dialog-open');
     secondCopy.focus();
   });
-});
+}
+
+document.querySelectorAll('[data-split-turn]').forEach(bindSplitButton);
 
 crossTalkDialog?.querySelectorAll('[data-dialog-close]').forEach((button) => {
   button.addEventListener('click', () => crossTalkDialog.close());
@@ -355,7 +499,7 @@ crossTalkDialog?.addEventListener('close', () => document.body.classList.remove(
 crossTalkDialog?.querySelector('[data-use-video-time]')?.addEventListener('click', () => {
   const videoTime = videoIsYouTube ? sourceVideoTime : Number(video?.currentTime || 0);
   if (videoTime > splitStart && videoTime < splitEnd) {
-    boundary.value = videoTime.toFixed(2);
+    boundary.value = videoTime.toFixed(6);
   } else {
     boundary.setCustomValidity('Play the video inside this turn, then try again.');
     boundary.reportValidity();
@@ -363,15 +507,98 @@ crossTalkDialog?.querySelector('[data-use-video-time]')?.addEventListener('click
   }
 });
 
-crossTalkForm?.addEventListener('submit', (event) => {
-  firstValue.value = firstCopy.innerText.trim();
-  secondValue.value = secondCopy.innerText.trim();
+function formatTurnTime(seconds) {
+  const whole = Math.max(0, Math.floor(Number(seconds || 0)));
+  return [Math.floor(whole / 3600), Math.floor((whole % 3600) / 60), whole % 60]
+    .map((part) => String(part).padStart(2, '0')).join(':');
+}
+
+function applySegmentToTurn(turn, segment) {
+  const oldId = turn.id;
+  turn.id = segment.stable_id;
+  turn.dataset.start = segment.start_seconds;
+  turn.dataset.end = segment.end_seconds;
+  turn.dataset.speaker = (segment.speaker || 'unresolved').toLocaleLowerCase();
+  turn.dataset.message = segment.text.toLocaleLowerCase();
+  turn.classList.toggle('unresolved-turn', !segment.speaker || segment.speaker.toLocaleLowerCase().includes('unresolved'));
+  const timecode = turn.querySelector('.timecode');
+  if (timecode) {
+    timecode.dataset.seek = segment.start_seconds;
+    timecode.textContent = formatTurnTime(segment.start_seconds);
+    try {
+      const href = new URL(timecode.href, window.location.href);
+      href.searchParams.set('t', Math.floor(segment.start_seconds));
+      href.hash = 'source-video';
+      timecode.href = href.toString();
+    } catch {}
+  }
+  const form = turn.querySelector('[data-turn-form]');
+  if (!form) return;
+  form.action = form.action.replace(`/segments/${oldId}`, `/segments/${segment.stable_id}`);
+  form.classList.remove('editing', 'dirty');
+  const meta = form.querySelector('.turn-meta');
+  const speakerLabel = meta?.querySelector('strong');
+  const stableLabel = meta?.querySelector('span');
+  if (speakerLabel) speakerLabel.textContent = segment.speaker || 'Unresolved';
+  if (stableLabel) stableLabel.textContent = segment.stable_id;
+  const editor = form.querySelector('[data-transcript-editor]');
+  const textValue = form.querySelector('[data-transcript-value]');
+  const speakerInput = form.querySelector('[name="speaker"]');
+  if (editor) { editor.innerText = segment.text; editor.contentEditable = 'false'; }
+  if (textValue) textValue.value = segment.text;
+  if (speakerInput) speakerInput.value = segment.speaker || '';
+  form.querySelectorAll('input:not([type="hidden"])').forEach((field) => { field.disabled = true; });
+  const edit = form.querySelector('[data-edit-turn]');
+  const save = form.querySelector('.save');
+  if (edit) { edit.textContent = 'Edit'; edit.disabled = false; }
+  if (save) save.disabled = true;
+  const split = form.querySelector('[data-split-turn]');
+  if (split) split.dataset.action = `${form.action}/split`;
+}
+
+crossTalkForm?.addEventListener('submit', async (event) => {
+  event.preventDefault();
+  firstValue.value = firstCopy.value.trim();
+  secondValue.value = secondCopy.value.trim();
   if (!firstValue.value || !secondValue.value) {
-    event.preventDefault();
     const empty = !firstValue.value ? firstCopy : secondCopy;
     empty.focus();
     empty.classList.add('invalid');
     window.setTimeout(() => empty.classList.remove('invalid'), 1800);
+    return;
+  }
+  if (splitSave) splitSave.disabled = true;
+  if (splitStatus) { splitStatus.textContent = 'Saving splitâ€¦'; splitStatus.dataset.kind = 'pending'; }
+  try {
+    const splitData = new URLSearchParams(new FormData(crossTalkForm));
+    const response = await fetch(crossTalkForm.action, {
+      method: 'POST',
+      body: splitData,
+      headers: { Accept: 'application/json' },
+    });
+    const payload = await response.json().catch(() => ({}));
+    if (!response.ok || !payload.ok) throw new Error(payload.error || `Split failed (${response.status})`);
+    const [firstSegment, secondSegment] = payload.segments || [];
+    if (!firstSegment || !secondSegment) throw new Error('Split response was incomplete.');
+    const originalTurn = document.getElementById(firstSegment.stable_id);
+    if (!originalTurn) throw new Error('The source turn is no longer visible.');
+    const secondTurn = originalTurn.cloneNode(true);
+    applySegmentToTurn(originalTurn, firstSegment);
+    applySegmentToTurn(secondTurn, secondSegment);
+    originalTurn.after(secondTurn);
+    const index = turns.indexOf(originalTurn);
+    turns.splice(index < 0 ? turns.length : index + 1, 0, secondTurn);
+    bindTurnForm(secondTurn.querySelector('[data-turn-form]'));
+    bindSplitButton(secondTurn.querySelector('[data-split-turn]'));
+    const savedStatus = originalTurn.querySelector('[data-save-status]');
+    if (savedStatus) { savedStatus.textContent = 'Split saved'; savedStatus.dataset.kind = 'success'; }
+    crossTalkDialog.close();
+    history.replaceState(null, '', `#${firstSegment.stable_id}`);
+    applyTranscriptFilters();
+  } catch (error) {
+    if (splitStatus) { splitStatus.textContent = error.message || 'Split failed'; splitStatus.dataset.kind = 'error'; }
+  } finally {
+    if (splitSave) splitSave.disabled = false;
   }
 });
 

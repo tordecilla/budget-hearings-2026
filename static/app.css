@@ -270,6 +270,8 @@ button:disabled { opacity: .35; cursor: not-allowed; }
 .find-actions button:first-child { border-left: 1px solid var(--ph-blue); }
 .find-actions button:hover:not(:disabled) { background: var(--ph-blue); color: white; }
 .find-actions button:disabled { opacity: .35; cursor: default; }
+.find-actions .next-speaker { min-width: 112px; border-left: 1px solid var(--ph-blue); background: var(--ph-yellow); color: var(--ink); white-space: nowrap; }
+.find-actions .next-speaker:hover:not(:disabled) { background: #f5cf32; color: var(--ink); }
 #find-clear { min-width: auto; }
 .filter-result { padding: 10px 0; color: var(--muted); border-bottom: 1px solid var(--rule); font: 9px var(--sans); text-transform: uppercase; letter-spacing: .08em; }
 .turn { display: grid; grid-template-columns: 82px minmax(0,1fr); gap: 16px; padding: 22px 0; border-bottom: 1px solid var(--rule); scroll-margin-top: 132px; }
@@ -277,6 +279,7 @@ button:disabled { opacity: .35; cursor: not-allowed; }
 .turn:target { margin-inline: -18px; padding-inline: 18px; background: #f5e7c9; box-shadow: inset 5px 0 var(--red); }
 .turn.find-match { background: #f7f9fc; }
 .turn.find-speaker-match .turn-meta strong { background: #f2d879; color: var(--ink); box-shadow: 0 0 0 3px #f2d879; }
+.badge-diarization { border-color: #315f8a; background: #e9f1f7; color: #173c5f; font-family: var(--mono); letter-spacing: .03em; text-transform: none; }
 .turn.find-current { margin-inline: -14px; padding-inline: 14px; background: #fff3c8; box-shadow: inset 5px 0 var(--ph-red); }
 .find-highlight { padding: 0 .08em; background: #f2d879; color: inherit; }
 .timecode { align-self: start; padding: 8px 9px; border: 1px solid var(--red); background: transparent; color: var(--red); font: 10px var(--mono); }
@@ -595,6 +598,10 @@ h2 { letter-spacing: -.025em; }
 .cross-talk-actions > div { display: flex; align-items: center; gap: 14px; }
 .dialog-cancel { color: var(--muted); }
 .save-split { padding: 11px 14px; background: var(--ph-red); }
+.save-status, .split-status { min-width: 72px; color: #51606f; font: 700 10px/1.2 var(--sans); letter-spacing: .04em; }
+.save-status[data-kind="success"], .split-status[data-kind="success"] { color: #17653b; }
+.save-status[data-kind="error"], .split-status[data-kind="error"] { color: var(--ph-red); }
+.save-status[data-kind="pending"], .split-status[data-kind="pending"] { color: var(--ph-blue); }
 .identity-link { background: var(--red-soft); border-color: var(--ph-red); }
 .status-board { background: #edf2fb; border-color: var(--rule); }
 .coverage-line.large .coverage-track { border-color: var(--ph-blue); }
