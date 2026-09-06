@@ -25,6 +25,46 @@ agencyFilterInput?.addEventListener('keydown', (event) => {
   applyAgencyFilter();
 });
 
+const issuesSearchInput = document.querySelector('#issues-search-input');
+const issuesSearchStatus = document.querySelector('#issues-search-status');
+const issuesNoResults = document.querySelector('#issues-no-results');
+const issueTypeButtons = [...document.querySelectorAll('[data-tag-type]')];
+const issueTagCards = [...document.querySelectorAll('[data-tag-card]')];
+let activeTagType = 'all';
+
+function applyIssueFilters() {
+  const terms = (issuesSearchInput?.value || '').trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+  let visible = 0;
+  issueTagCards.forEach((card) => {
+    const typeMatches = activeTagType === 'all' || card.dataset.tagTypeValue === activeTagType;
+    const textMatches = terms.every((term) => (card.dataset.tagSearch || '').includes(term));
+    card.hidden = !(typeMatches && textMatches);
+    if (!card.hidden) visible += 1;
+  });
+  if (issuesSearchStatus) {
+    issuesSearchStatus.textContent = terms.length || activeTagType !== 'all'
+      ? `${visible} matching issue${visible === 1 ? '' : 's'}`
+      : `Showing all ${visible} issues`;
+  }
+  if (issuesNoResults) issuesNoResults.hidden = visible !== 0;
+}
+
+issueTypeButtons.forEach((button) => {
+  button.addEventListener('click', () => {
+    activeTagType = button.dataset.tagType || 'all';
+    issueTypeButtons.forEach((candidate) => candidate.classList.toggle('active', candidate === button));
+    applyIssueFilters();
+  });
+});
+issuesSearchInput?.addEventListener('input', applyIssueFilters);
+issuesSearchInput?.addEventListener('keydown', (event) => {
+  if (event.key !== 'Escape') return;
+  issuesSearchInput.value = '';
+  activeTagType = 'all';
+  issueTypeButtons.forEach((button) => button.classList.toggle('active', button.dataset.tagType === 'all'));
+  applyIssueFilters();
+});
+
 function sendSourceVideoCommand(func, args = []) {
   if (!videoIsYouTube || !video?.contentWindow) return;
   video.contentWindow.postMessage(JSON.stringify({ event: 'command', func, args }), 'https://www.youtube-nocookie.com');
@@ -83,16 +123,17 @@ if (video) {
   }
 }
 
-const textSearchInput = document.querySelector('#transcript-text-search');
-const speakerSearchInput = document.querySelector('#transcript-speaker-search');
-const findPrevious = document.querySelector('#find-previous');
-const findNext = document.querySelector('#find-next');
-const findClear = document.querySelector('#find-clear');
+// Public readers and the editorial workspace share the same find behavior.
+const textSearchInput = document.querySelector('#transcript-text-search, #public-text-search');
+const speakerSearchInput = document.querySelector('#transcript-speaker-search, #public-speaker-search');
+const findPrevious = document.querySelector('#find-previous, #public-find-previous');
+const findNext = document.querySelector('#find-next, #public-find-next');
+const findClear = document.querySelector('#find-clear, #public-find-clear');
 const nextSpeaker = document.querySelector('#next-speaker');
-let turns = [...document.querySelectorAll('.turn')];
+let turns = [...document.querySelectorAll('.turn, #public-turn-list .public-turn')];
 const filterButtons = [...document.querySelectorAll('[data-filter]')];
-const resultLabel = document.querySelector('#filter-result');
-const noResults = document.querySelector('#no-filter-results');
+const resultLabel = document.querySelector('#filter-result, #public-result');
+const noResults = document.querySelector('#no-filter-results, #public-empty');
 let activeFilter = 'all';
 let findMatches = [];
 let currentFindIndex = -1;
@@ -123,7 +164,7 @@ function clearTextHighlights() {
   document.querySelectorAll('mark.find-highlight').forEach((mark) => {
     mark.replaceWith(document.createTextNode(mark.textContent || ''));
   });
-  document.querySelectorAll('[data-transcript-editor]').forEach((copy) => copy.normalize());
+  document.querySelectorAll('[data-transcript-editor], .public-turn .turn-record > p').forEach((copy) => copy.normalize());
 }
 
 function highlightText(copy, needle) {
@@ -192,7 +233,7 @@ function updateTranscriptFind() {
   findMatches.forEach((turn) => {
     turn.classList.add('find-match');
     if (speakerNeedle) turn.classList.add('find-speaker-match');
-    if (textNeedle) highlightText(turn.querySelector('[data-transcript-editor]'), textNeedle);
+    if (textNeedle) highlightText(turn.querySelector('[data-transcript-editor], .turn-record > p'), textNeedle);
   });
   findPrevious?.toggleAttribute('disabled', !findMatches.length);
   findNext?.toggleAttribute('disabled', !findMatches.length);
@@ -283,12 +324,38 @@ nextSpeaker?.addEventListener('click', () => {
   }
 });
 
-document.querySelectorAll('[data-review-anchor]').forEach((link) => {
-  link.addEventListener('click', () => {
+let lastReviewTurn = document.querySelector('.turn:target');
+
+function refreshReviewNavigation(afterTurn = lastReviewTurn) {
+  lastReviewTurn = afterTurn;
+  const allTurns = [...document.querySelectorAll('.turn')];
+  const flagged = allTurns.filter((turn) => turn.classList.contains('unresolved-turn') && !turn.classList.contains('excluded-turn'));
+  const afterIndex = allTurns.indexOf(afterTurn);
+  const next = flagged.find((turn) => allTurns.indexOf(turn) > afterIndex) || flagged[0];
+  document.querySelectorAll('[data-review-anchor], .review-index-link').forEach((link) => {
+    link.hidden = flagged.length === 0;
+    link.href = next ? `#${next.id}` : '#unresolved';
+    const count = link.querySelector('b');
+    if (count) count.textContent = flagged.length;
+  });
+  const total = document.querySelector('.review-metrics .metric-alert dt');
+  if (total) total.textContent = flagged.length;
+  return next;
+}
+
+document.querySelectorAll('[data-review-anchor], .review-index-link').forEach((link) => {
+  link.addEventListener('click', (event) => {
+    event.preventDefault();
+    const target = refreshReviewNavigation();
+    if (!target) return;
     activeFilter = 'all';
     clearTranscriptFind();
     filterButtons.forEach((button) => button.classList.toggle('active', button.dataset.filter === 'all'));
     applyTranscriptFilters();
+    target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    target.focus({ preventScroll: true });
+    history.replaceState(null, '', `#${target.id}`);
+    refreshReviewNavigation(target);
   });
 });
 
@@ -393,7 +460,17 @@ function bindTurnForm(form) {
       if (turn) {
         turn.dataset.message = originalText.toLocaleLowerCase();
         turn.dataset.speaker = (originalSpeaker || 'unresolved').toLocaleLowerCase();
-        turn.classList.toggle('unresolved-turn', !originalSpeaker || originalSpeaker.toLocaleLowerCase().includes('unresolved'));
+        const needsReview = payload.needs_review ?? (!originalSpeaker || originalSpeaker.toLocaleLowerCase().includes('unresolved'));
+        turn.classList.toggle('unresolved-turn', needsReview);
+        const badge = form.querySelector('.turn-meta .badge-unknown');
+        if (!needsReview) badge?.remove();
+        else if (!badge && turn.dataset.excluded !== 'true') {
+          const reviewBadge = document.createElement('span');
+          reviewBadge.className = 'turn-badge badge-unknown';
+          reviewBadge.textContent = 'needs review';
+          form.querySelector('.turn-meta')?.append(reviewBadge);
+        }
+        refreshReviewNavigation(turn);
         const speakerLabel = form.querySelector('.turn-meta strong');
         if (speakerLabel) speakerLabel.textContent = originalSpeaker || 'Unresolved';
       }
@@ -629,33 +706,6 @@ document.querySelectorAll('[data-video-seek]').forEach((citation) => {
 });
 
 const publicSourceVideo = document.querySelector('#source-frame');
-const publicTextSearch = document.querySelector('#public-text-search');
-const publicSpeakerSearch = document.querySelector('#public-speaker-search');
-const publicFindClear = document.querySelector('#public-find-clear');
-const publicResult = document.querySelector('#public-result');
-const publicEmpty = document.querySelector('#public-empty');
-const publicTurns = [...document.querySelectorAll('#public-turn-list .public-turn')];
-
-function filterPublicTurns() {
-  const textNeedle = (publicTextSearch?.value || '').trim().toLowerCase();
-  const speakerNeedle = (publicSpeakerSearch?.value || '').trim().toLowerCase();
-  let visible = 0;
-  publicTurns.forEach((turn) => {
-    const matches = (!textNeedle || (turn.dataset.message || '').includes(textNeedle))
-      && (!speakerNeedle || (turn.dataset.speaker || '').includes(speakerNeedle));
-    turn.hidden = !matches;
-    if (matches) visible += 1;
-  });
-  if (publicResult) publicResult.textContent = `${visible} of ${publicTurns.length} turns remain in view`;
-  if (publicEmpty) publicEmpty.hidden = visible !== 0 || publicTurns.length === 0;
-}
-
-[publicTextSearch, publicSpeakerSearch].forEach((field) => field?.addEventListener('input', filterPublicTurns));
-publicFindClear?.addEventListener('click', () => {
-  if (publicTextSearch) publicTextSearch.value = '';
-  if (publicSpeakerSearch) publicSpeakerSearch.value = '';
-  filterPublicTurns();
-});
 
 function sendPublicYouTubeCommand(func, args = []) {
   if (!publicSourceVideo?.contentWindow) return;

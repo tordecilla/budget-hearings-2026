@@ -28,6 +28,7 @@
 .public-preview .agency-filter label { color:var(--navy); font:800 9px/1 var(--sans); text-transform:uppercase; letter-spacing:.1em; }
 .public-preview .agency-filter input { min-width:0; width:100%; padding:11px 12px; border:1px solid #aebac4; border-radius:0; background:#fff; color:var(--ink); font:13px/1.2 var(--sans); }
 .public-preview .agency-filter input:focus { border-color:var(--blue); outline:3px solid rgba(223,184,63,.42); outline-offset:1px; }
+.public-preview .session-agencies { display:none !important; }
 .public-preview .session-tile-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(min(100%,270px),1fr)); gap:18px; align-items:start; margin-top:30px; }
 .public-preview .session-tile { position:relative; display:block; height:auto; min-height:0; padding:26px; border:1px solid #bfc9d1; background:var(--white); box-shadow:0 1px 0 rgba(16,36,55,.04); overflow:hidden; transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease; }
 .public-preview .session-tile[hidden] { display:none; }
@@ -183,7 +184,11 @@
 .public-find label { display:grid; gap:6px; color:#5c6676; font:700 9px var(--sans); letter-spacing:.08em; text-transform:uppercase; }
 .public-find input { width:100%; min-width:0; padding:9px 10px; border:1px solid #9aaab6; background:#fff; color:#17233f; font:13px var(--sans); text-transform:none; letter-spacing:0; }
 .public-find-actions button { padding:9px 12px; border:1px solid #173653; background:#fff; color:#173653; font:700 9px var(--sans); letter-spacing:.08em; text-transform:uppercase; cursor:pointer; }
-.public-find-actions button:hover { background:#173653; color:#fff; }
+.public-find-actions button:hover:not(:disabled) { background:#173653; color:#fff; }
+.public-find-actions button:disabled { opacity:.45; cursor:default; }
+.public-turn.find-match { background:#f7f9fc; }
+.public-turn.find-speaker-match .turn-record h3 { background:#f2d879; color:var(--ink); }
+.public-transcript .public-turn.find-current { background:#fff3c8; box-shadow:inset 5px 0 var(--ph-red); }
 .public-transcript .turn-gutter button { padding:8px; border:1px solid #244f7c; background:#fff; color:#244f7c; font:750 10px var(--sans); cursor:pointer; }
 .public-transcript .turn-gutter button:hover { background:#244f7c; color:#fff; }
 .public-transcript .turn-gutter>a { color:#5c6676; font:8px var(--sans); letter-spacing:.06em; text-decoration:underline; text-transform:uppercase; }
@@ -193,6 +198,122 @@
   .public-find-dock { display:block; }
   .public-find { grid-template-columns:1fr; margin-top:15px; }
   .public-find-actions { margin-top:10px; }
+}
+
+/* Issue index: an editorial cross-reference, not a tag cloud. */
+.preview-site-nav { display:flex; justify-content:center; gap:2px; padding:0 clamp(20px,6vw,92px); border-bottom:1px solid #61768a; background:#173653; color:#fff; }
+.preview-site-nav a { padding:13px 24px; color:inherit; font:750 10px/1 var(--sans); letter-spacing:.1em; text-decoration:none; text-transform:uppercase; }
+.preview-site-nav a:hover { background:#244f7c; }
+.preview-site-nav a.active { background:#dfb83f; color:#172536; }
+.public-issues { --issues-blue:#173653; --issues-red:#b72d3b; --issues-gold:#dfb83f; --issues-ink:#162437; --issues-paper:#f4f5f3; min-height:calc(100vh - 150px); background:var(--issues-paper); color:var(--issues-ink); }
+.issues-hero { display:grid; grid-template-columns:minmax(0,1.5fr) minmax(340px,.7fr); gap:clamp(48px,8vw,130px); align-items:end; padding:clamp(58px,8vw,110px) clamp(24px,6vw,92px) clamp(52px,7vw,86px); background:linear-gradient(118deg,#fff 0 69%,#e8edf1 69%); }
+.issues-kicker { margin:0; color:var(--issues-red); font:800 10px/1.2 var(--sans); letter-spacing:.17em; text-transform:uppercase; }
+.issues-hero h1 { margin:14px 0 20px; color:var(--issues-blue); font:650 clamp(68px,10vw,142px)/.78 var(--serif); letter-spacing:-.07em; }
+.issues-hero-copy>p:last-child { max-width:720px; margin:0; padding-left:20px; border-left:5px solid var(--issues-red); color:#4f5c68; font:clamp(18px,2vw,27px)/1.4 var(--serif); }
+.issues-stats { display:grid; grid-template-columns:repeat(3,1fr); margin:0; border-top:3px solid var(--issues-blue); border-bottom:1px solid #b7c1ca; }
+.issues-stats div { min-width:0; padding:17px 12px 15px 0; }
+.issues-stats dt { color:var(--issues-blue); font:700 clamp(30px,4vw,48px)/1 var(--serif); }
+.issues-stats dd { margin:6px 0 0; color:#627080; font:750 8px/1.3 var(--sans); letter-spacing:.1em; text-transform:uppercase; }
+.issues-flag-rule { display:grid; height:8px; grid-template-columns:48fr 4fr 48fr; }
+.issues-flag-rule i:nth-child(1) { background:#244f7c; }
+.issues-flag-rule i:nth-child(2) { background:#dfb83f; }
+.issues-flag-rule i:nth-child(3) { background:#b72d3b; }
+.issues-sample-note { display:flex; justify-content:center; gap:7px; padding:10px clamp(20px,6vw,92px); border-bottom:1px solid #c99725; background:#f3d66e; color:#2a2a22; font:12px/1.4 var(--sans); text-align:center; }
+.issues-browser { max-width:1440px; margin:0 auto; padding:70px clamp(22px,6vw,96px) 100px; }
+.issues-browser-head { display:grid; grid-template-columns:1fr minmax(300px,470px); gap:60px; align-items:end; padding-bottom:25px; border-bottom:3px solid var(--issues-blue); }
+.issues-browser-head h2 { margin:7px 0 0; font:650 clamp(44px,6vw,74px)/.92 var(--serif); letter-spacing:-.045em; }
+.issues-search { display:grid; gap:7px; }
+.issues-search label { color:var(--issues-blue); font:800 9px/1 var(--sans); letter-spacing:.1em; text-transform:uppercase; }
+.issues-search input { width:100%; padding:12px 13px; border:1px solid #98a9b7; border-radius:0; background:#fff; color:var(--issues-ink); font:14px/1.2 var(--sans); }
+.issues-search p { margin:0; color:#657180; font:11px/1.35 var(--sans); }
+.issues-domain-nav { display:flex; gap:7px; margin:22px 0 45px; padding:0 0 14px; overflow-x:auto; border-bottom:1px solid #c5cdd3; scrollbar-width:thin; }
+.issues-domain-nav button { flex:0 0 auto; padding:9px 11px; border:1px solid #aebbc5; background:#fff; color:#334c63; font:750 9px/1.2 var(--sans); letter-spacing:.06em; text-transform:uppercase; cursor:pointer; }
+.issues-domain-nav button:hover,.issues-domain-nav button.active { border-color:var(--issues-blue); background:var(--issues-blue); color:#fff; }
+.issues-domain-list { display:grid; gap:55px; }
+.issues-domain { scroll-margin-top:90px; border-top:7px solid var(--issues-blue); background:#fff; box-shadow:0 12px 34px rgba(17,47,73,.08); animation:issues-rise .35s ease both; }
+.issues-domain[hidden],.specific-issue[hidden] { display:none; }
+.issues-domain-head { display:grid; grid-template-columns:64px minmax(0,1fr) 110px; gap:22px; align-items:start; padding:30px clamp(22px,4vw,46px); border-bottom:1px solid #c3ccd3; }
+.issues-domain-number { color:var(--issues-red); font:750 28px/1 var(--serif); }
+.issues-domain-label { margin:0 0 6px; color:#6b7783; font:800 8px/1 var(--sans); letter-spacing:.13em; text-transform:uppercase; }
+.issues-domain-head h2 { margin:0 0 8px; color:var(--issues-blue); font:650 clamp(30px,4vw,48px)/.98 var(--serif); letter-spacing:-.035em; }
+.issues-domain-head div>p:last-child { max-width:780px; margin:0; color:#596775; font:15px/1.5 var(--sans); }
+.issues-domain-count { display:grid; justify-items:end; color:#6b7783; text-align:right; }
+.issues-domain-count strong { color:var(--issues-blue); font:700 34px/1 var(--serif); }
+.issues-domain-count span { margin-top:5px; font:750 8px/1.2 var(--sans); letter-spacing:.09em; text-transform:uppercase; }
+.issues-hearing-strip { display:grid; grid-template-columns:110px minmax(0,1fr); gap:18px; padding:16px clamp(22px,4vw,46px); background:#eef2f4; }
+.issues-hearing-strip>p { margin:4px 0 0; color:#5e6c79; font:800 8px/1.2 var(--sans); letter-spacing:.12em; text-transform:uppercase; }
+.issues-hearing-strip article>a { display:flex; flex-wrap:wrap; gap:6px 14px; align-items:baseline; color:var(--issues-blue); font:13px/1.35 var(--sans); text-decoration-thickness:1px; text-underline-offset:3px; }
+.issues-hearing-strip article span { color:#6b7783; font-size:10px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; }
+.specific-issue-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); }
+.specific-issue { min-width:0; padding:27px clamp(22px,4vw,40px) 32px; border-bottom:1px solid #c7cfd5; }
+.specific-issue:nth-child(odd) { border-right:1px solid #c7cfd5; }
+.specific-issue-topline { display:flex; justify-content:space-between; gap:20px; color:#7a6a37; font:800 8px/1 var(--sans); letter-spacing:.11em; text-transform:uppercase; }
+.specific-issue h3 { margin:13px 0 9px; color:#1d3f60; font:650 clamp(23px,2.4vw,33px)/1.02 var(--serif); letter-spacing:-.025em; }
+.specific-issue>p { margin:0; color:#536170; font:14px/1.55 var(--sans); }
+.issue-cross-links { display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-top:16px; }
+.issue-cross-links span { color:#77818b; font:800 8px/1 var(--sans); letter-spacing:.09em; text-transform:uppercase; }
+.issue-cross-links a { padding:5px 7px; border:1px solid #b7c1c9; color:#36516a; font:700 9px/1 var(--sans); text-decoration:none; }
+.issue-cross-links a:hover { border-color:var(--issues-red); color:var(--issues-red); }
+.specific-hearings { margin-top:22px; padding-top:13px; border-top:2px solid #d7dde1; }
+.specific-hearings>p { margin:0 0 9px; color:#667480; font:800 8px/1 var(--sans); letter-spacing:.12em; text-transform:uppercase; }
+.specific-hearing-title { display:flex; justify-content:space-between; gap:20px; color:var(--issues-blue); font:12px/1.35 var(--sans); text-decoration-thickness:1px; text-underline-offset:3px; }
+.specific-hearing-title time { flex:0 0 auto; color:#6d7884; font-size:9px; font-weight:750; letter-spacing:.07em; text-transform:uppercase; }
+.issues-domain-only { margin:0; padding:28px clamp(22px,4vw,46px); color:#5d6975; font:italic 16px/1.5 var(--serif); }
+.issues-no-results { margin:40px 0; padding:32px; border:1px solid #b9c4cc; background:#fff; color:#596673; font:16px/1.5 var(--sans); }
+@keyframes issues-rise { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:none; } }
+@media (prefers-reduced-motion:reduce) { .issues-domain { animation:none; } }
+@media (max-width:800px) {
+  .issues-hero { grid-template-columns:1fr; gap:38px; background:#fff; }
+  .issues-browser { padding:50px 16px 75px; }
+  .issues-browser-head { grid-template-columns:1fr; gap:24px; }
+  .issues-domain-head { grid-template-columns:44px minmax(0,1fr); }
+  .issues-domain-count { display:none; }
+  .specific-issue-grid { grid-template-columns:1fr; }
+  .specific-issue:nth-child(odd) { border-right:0; }
+}
+@media (max-width:520px) {
+  .preview-site-nav { justify-content:stretch; padding:0; }
+  .preview-site-nav a { flex:1; text-align:center; }
+  .issues-hero { padding:52px 18px 45px; }
+  .issues-stats { grid-template-columns:repeat(3,minmax(0,1fr)); }
+  .issues-sample-note { display:block; text-align:left; }
+  .issues-domain-head { grid-template-columns:1fr; gap:10px; }
+  .issues-domain-number { font-size:17px; }
+  .issues-hearing-strip { grid-template-columns:1fr; gap:5px; }
+  .specific-hearing-title { display:grid; gap:4px; }
+}
+
+/* Flat tag index. The taxonomy hierarchy stays in data, not in the browse UI. */
+.public-preview .masthead nav a.active,.public-issues .masthead nav a.active { color:var(--ph-red); text-decoration:underline; text-decoration-thickness:2px; text-underline-offset:6px; }
+.flat-issues-hero h1 { font-size:clamp(62px,9vw,126px); }
+.flat-tag-index { max-width:1440px; margin:0 auto; padding:70px clamp(22px,6vw,96px) 100px; }
+.flat-tag-head { display:grid; grid-template-columns:1fr minmax(300px,470px); gap:60px; align-items:end; padding-bottom:25px; border-bottom:3px solid #173653; }
+.flat-tag-head h2 { margin:7px 0 0; font:650 clamp(44px,6vw,74px)/.92 var(--serif); letter-spacing:-.045em; }
+.flat-tag-filters { display:flex; gap:7px; margin:22px 0 34px; }
+.flat-tag-filters button { padding:9px 13px; border:1px solid #aebbc5; background:#fff; color:#334c63; font:750 9px/1.2 var(--sans); letter-spacing:.07em; text-transform:uppercase; cursor:pointer; }
+.flat-tag-filters button:hover,.flat-tag-filters button.active { border-color:#173653; background:#173653; color:#fff; }
+.flat-tag-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; align-items:stretch; }
+.flat-tag-card { display:flex; min-width:0; min-height:220px; flex-direction:column; padding:24px; border:1px solid #bbc6ce; border-top:5px solid #244f7c; background:#fff; box-shadow:0 5px 18px rgba(17,47,73,.05); transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease; }
+.flat-tag-card:hover { border-color:#244f7c; box-shadow:0 12px 28px rgba(17,47,73,.11); transform:translateY(-2px); }
+.flat-tag-card[hidden] { display:none; }
+.flat-tag-meta { display:flex; justify-content:space-between; color:#6c7883; font:800 8px/1 var(--sans); letter-spacing:.13em; text-transform:uppercase; }
+.flat-tag-card h2 { margin:18px 0 10px; color:#173653; font:650 clamp(24px,2.5vw,34px)/1.02 var(--serif); letter-spacing:-.03em; }
+.flat-tag-card>p { margin:0; color:#536170; font:14px/1.5 var(--sans); }
+.flat-tag-aliases { margin-top:13px!important; color:#687683!important; font-size:11px!important; }
+.flat-tag-hearings { margin-top:0; padding-top:20px; }
+.flat-tag-hearings h3 { margin:0 0 8px; padding-top:12px; border-top:2px solid #d6dde2; color:#7a6a37; font:800 8px/1 var(--sans); letter-spacing:.12em; text-transform:uppercase; }
+.flat-tag-hearings a { display:grid; gap:4px; padding:10px 11px; border-left:4px solid #dfb83f; background:#eef2f4; color:#173653; font:12px/1.3 var(--sans); text-decoration:none; }
+.flat-tag-hearings a:hover { background:#173653; color:#fff; }
+.flat-tag-hearings time { color:#687683; font:750 9px/1.2 var(--sans); letter-spacing:.07em; text-transform:uppercase; }
+.flat-tag-hearings a:hover time { color:#d9e0e5; }
+@media (max-width:980px) { .flat-tag-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media (max-width:700px) {
+  .flat-tag-index { padding:50px 16px 75px; }
+  .flat-tag-head { grid-template-columns:1fr; gap:24px; }
+  .flat-tag-grid { grid-template-columns:1fr; }
+  .flat-tag-card { min-height:0; }
+  .flat-tag-filters { overflow-x:auto; padding-bottom:4px; }
+  .flat-tag-filters button { flex:0 0 auto; }
 }
 @media (max-width:980px) {
   .public-transcript .public-workspace { grid-template-columns:1fr; }
