@@ -151,6 +151,10 @@
 .digest-public-turns>header .kicker { margin-top:0; }
 .digest-public-turns>header h2 { margin:0; color:#173653; font:550 clamp(30px,4vw,54px)/1 var(--serif); letter-spacing:-.04em; }
 .digest-public-turns>header>p:last-child { margin:10px 0 0; color:#5c6676; font:13px/1.5 var(--sans); }
+.digest-section-navigation { display:grid; gap:8px; padding:20px 0; border-bottom:1px solid #bcc5d2; }
+.digest-section-navigation label { color:#173653; font:700 12px var(--sans); }
+.digest-section-navigation select { width:100%; min-width:0; min-height:44px; padding:10px 12px; border:1px solid #8999aa; border-radius:0; background:#fff; color:#173653; font:14px var(--sans); }
+.digest-section-navigation select:focus-visible { outline:3px solid #dfb83f; outline-offset:3px; }
 .digest-finding { border-bottom:1px solid #bcc5d2; scroll-margin-top:90px; }
 .digest-finding>header { display:grid; grid-template-columns:48px minmax(0,1fr); gap:17px; padding:25px 0 14px; }
 .digest-finding>header>span { color:#b72d3b; font:italic 28px/1 var(--serif); }

@@ -794,6 +794,15 @@ document.querySelectorAll('[data-video-seek]').forEach((citation) => {
   });
 });
 
+const digestSectionSelect = document.querySelector('#digest-section-select');
+digestSectionSelect?.addEventListener('change', () => {
+  const section = document.getElementById(digestSectionSelect.value);
+  if (!section?.matches('.public-digest-section')) return;
+  window.location.hash = encodeURIComponent(section.id);
+  section.scrollIntoView({ block: 'start' });
+  section.focus({ preventScroll: true });
+});
+
 const publicSourceVideo = document.querySelector('#source-frame');
 
 function sendPublicYouTubeCommand(func, args = []) {
