@@ -184,10 +184,10 @@
 .public-transcript .record-nav { top:var(--public-masthead-height,76px); }
 .public-transcript .youtube-frame { top:calc(var(--public-masthead-height,76px) + var(--public-record-nav-height,42px) + 16px); }
 .public-transcript .public-turn { scroll-margin-top:calc(var(--public-masthead-height,76px) + var(--public-record-nav-height,42px) + var(--public-find-height,120px) + 16px); }
-.public-find-dock { position:sticky; top:calc(var(--public-masthead-height,76px) + var(--public-record-nav-height,42px)); z-index:15; display:grid; grid-template-columns:minmax(150px,.65fr) minmax(220px,1fr) auto; gap:18px; align-items:end; margin:28px 0 8px; padding:18px 0; border-block:1px solid #bcc5d2; background:#fff; box-shadow:0 8px 16px rgba(16,35,53,.1); }
+.public-find-dock { position:sticky; top:calc(var(--public-masthead-height,76px) + var(--public-record-nav-height,42px)); z-index:15; display:grid; grid-template-columns:minmax(150px,.65fr) minmax(220px,1fr) auto; gap:18px; align-items:end; margin:28px 0 8px; padding:18px clamp(12px,1.5vw,20px); border-block:1px solid #bcc5d2; background:#fff; box-shadow:0 8px 16px rgba(16,35,53,.1); }
 .public-find-dock-label .kicker { margin:0 0 6px; }
 .public-find-dock-label p:last-child { margin:0; color:#5c6676; font:11px var(--sans); }
-.public-find { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+.public-find { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); min-width:0; gap:10px; }
 .public-find label { display:grid; gap:6px; color:#5c6676; font:700 9px var(--sans); letter-spacing:.08em; text-transform:uppercase; }
 .public-find input { width:100%; min-width:0; padding:9px 10px; border:1px solid #9aaab6; background:#fff; color:#17233f; font:13px var(--sans); text-transform:none; letter-spacing:0; }
 .public-find-actions button { padding:9px 12px; border:1px solid #173653; background:#fff; color:#173653; font:700 9px var(--sans); letter-spacing:.08em; text-transform:uppercase; cursor:pointer; }
@@ -201,6 +201,10 @@
 .public-transcript .turn-gutter>a { color:#5c6676; font:8px var(--sans); letter-spacing:.06em; text-decoration:underline; text-transform:uppercase; }
 .public-transcript .public-turn[hidden] { display:none; }
 .public-empty { color:#5c6676; font:15px/1.5 var(--sans); }
+@media (max-width:1200px) {
+  .public-find-dock { grid-template-columns:minmax(0,1fr) auto; }
+  .public-find-dock-label { grid-column:1 / -1; }
+}
 @media (max-width:700px) {
   .public-find-dock { display:block; }
   .public-find { grid-template-columns:repeat(2,minmax(0,1fr)); margin-top:10px; }
