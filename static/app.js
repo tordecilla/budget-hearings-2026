@@ -30,7 +30,29 @@ const issuesSearchStatus = document.querySelector('#issues-search-status');
 const issuesNoResults = document.querySelector('#issues-no-results');
 const issueTypeButtons = [...document.querySelectorAll('[data-tag-type]')];
 const issueTagCards = [...document.querySelectorAll('[data-tag-card]')];
+const issueGrid = document.querySelector('.flat-tag-grid');
+const issueSortInputs = [...document.querySelectorAll('input[name="issue-sort"]')];
 let activeTagType = 'all';
+
+function applyIssueSort() {
+  if (!issueGrid) return;
+  const mode = issueSortInputs.find((input) => input.checked)?.value || 'alphabetical';
+  const ordered = issueTagCards.map((card, index) => ({ card, index }));
+  ordered.sort((a, b) => {
+    let difference = 0;
+    if (mode === 'discussed') {
+      difference = Number(b.card.dataset.issueCount) - Number(a.card.dataset.issueCount);
+    } else if (mode === 'latest') {
+      difference = (b.card.dataset.issueLatest || '').localeCompare(a.card.dataset.issueLatest || '');
+    }
+    // The server renders alphabetically; retain that order for ties and the default.
+    return difference || a.index - b.index;
+  });
+  issueGrid.append(...ordered.map(({ card }) => card));
+}
+
+issueSortInputs.forEach((input) => input.addEventListener('change', applyIssueSort));
+applyIssueSort();
 
 function applyIssueFilters() {
   const terms = (issuesSearchInput?.value || '').trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
@@ -124,8 +146,24 @@ if (video) {
 }
 
 // Public readers and the editorial workspace share the same find behavior.
+const publicTranscript = document.querySelector('.public-transcript');
+if (publicTranscript) {
+  const stickyParts = [
+    [document.querySelector('.masthead'), '--public-masthead-height'],
+    [publicTranscript.querySelector('.record-nav'), '--public-record-nav-height'],
+    [publicTranscript.querySelector('.public-find-dock'), '--public-find-height'],
+  ];
+  const updateFindOffsets = () => stickyParts.forEach(([element, property]) => {
+    if (element) publicTranscript.style.setProperty(property, `${element.getBoundingClientRect().height}px`);
+  });
+  updateFindOffsets();
+  const findSizeObserver = new ResizeObserver(updateFindOffsets);
+  stickyParts.forEach(([element]) => { if (element) findSizeObserver.observe(element); });
+}
+
 const textSearchInput = document.querySelector('#transcript-text-search, #public-text-search');
 const speakerSearchInput = document.querySelector('#transcript-speaker-search, #public-speaker-search');
+const canonicalSpeakerDirectory = JSON.parse(document.querySelector('#canonical-speaker-directory')?.textContent || '[]');
 const findPrevious = document.querySelector('#find-previous, #public-find-previous');
 const findNext = document.querySelector('#find-next, #public-find-next');
 const findClear = document.querySelector('#find-clear, #public-find-clear');
@@ -208,6 +246,9 @@ function selectFindMatch(index, shouldScroll = true) {
 function updateTranscriptFind() {
   const textNeedle = (textSearchInput?.value || '').trim().toLocaleLowerCase();
   const speakerNeedle = (speakerSearchInput?.value || '').trim().toLocaleLowerCase();
+  const canonicalMatches = new Set(speakerNeedle ? canonicalSpeakerDirectory
+    .filter((entry) => [entry.name, ...entry.aliases].some((name) => name.toLocaleLowerCase().includes(speakerNeedle)))
+    .map((entry) => entry.name.toLocaleLowerCase()) : []);
   clearTextHighlights();
   turns.forEach((turn) => turn.classList.remove('find-match', 'find-current', 'find-speaker-match'));
   currentFindIndex = -1;
@@ -227,7 +268,8 @@ function updateTranscriptFind() {
 
   findMatches = turns.filter((turn) => {
     const messageMatch = !textNeedle || (turn.dataset.message || '').includes(textNeedle);
-    const speakerMatch = !speakerNeedle || (turn.dataset.speaker || '').includes(speakerNeedle);
+    const speakerMatch = !speakerNeedle || (turn.dataset.speaker || '').includes(speakerNeedle)
+      || canonicalMatches.has(turn.dataset.speaker || '');
     return messageMatch && speakerMatch;
   });
   findMatches.forEach((turn) => {
@@ -326,6 +368,13 @@ nextSpeaker?.addEventListener('click', () => {
 
 let lastReviewTurn = document.querySelector('.turn:target');
 
+function speakerNeedsReview(speaker) {
+  const label = String(speaker || '').trim().toLocaleLowerCase();
+  if (label === 'committee secretary') return false;
+  return !label || ['unresolved', 'unidentified', 'unknown', 'mixed', 'needs_review', 'needs_audio_review', 'unknown_acknowledged'].some((marker) => label.includes(marker))
+    || /(?:\brespondent\b|\bhouse member questioning\b|(?:official|representative|chairperson|director|secretary)\s*$)/i.test(label);
+}
+
 function refreshReviewNavigation(afterTurn = lastReviewTurn) {
   lastReviewTurn = afterTurn;
   const allTurns = [...document.querySelectorAll('.turn')];
@@ -365,6 +414,7 @@ function bindTurnForm(form) {
   if (boundTurnForms.has(form)) return;
   boundTurnForms.add(form);
   const save = form.querySelector('.save');
+  const check = form.querySelector('[data-check-turn]');
   const editor = form.querySelector('[data-transcript-editor]');
   const value = form.querySelector('[data-transcript-value]');
   const edit = form.querySelector('[data-edit-turn]');
@@ -432,17 +482,25 @@ function bindTurnForm(form) {
 
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
-    const submittedText = submittedEditorText();
+    const checking = event.submitter === check;
+    const submittedText = checking ? originalText : submittedEditorText();
     if (value) value.value = submittedText;
     refreshSaveState();
-    if (save?.disabled) return;
+    if (!checking && save?.disabled) return;
+    if (check?.disabled) return;
+    if (check) check.disabled = true;
     save.disabled = true;
     setStatus('Savingâ€¦', 'pending');
     try {
       const formData = new FormData(form);
       formData.set('text', submittedText);
-      formData.set('speaker', speaker?.value || '');
-      const response = await fetch(form.action, {
+      formData.set('speaker', checking ? originalSpeaker : (speaker?.value || ''));
+      if (checking) {
+        formData.set('action', 'check');
+        formData.set('start_seconds', form.closest('.turn').dataset.start);
+        formData.set('end_seconds', form.closest('.turn').dataset.end);
+      }
+      const response = await fetch(form.getAttribute('action'), {
         method: 'POST',
         body: new URLSearchParams(formData),
         headers: { Accept: 'application/json' },
@@ -478,11 +536,14 @@ function bindTurnForm(form) {
       form.classList.remove('editing', 'dirty');
       edit.textContent = 'Edit';
       edit.disabled = false;
-      setStatus('Saved', 'success');
+      if (check) check.textContent = checking ? 'Checked' : 'Mark checked';
+      setStatus(checking ? 'Checked ? no changes' : 'Saved', 'success');
       window.setTimeout(() => setStatus(''), 1600);
     } catch (error) {
       setStatus(error.message || 'Save failed', 'error');
       refreshSaveState();
+    } finally {
+      if (check) check.disabled = false;
     }
   });
 
@@ -528,13 +589,36 @@ const firstCopy = crossTalkDialog?.querySelector('[data-split-copy="first"]');
 const secondCopy = crossTalkDialog?.querySelector('[data-split-copy="second"]');
 const firstValue = crossTalkDialog?.querySelector('[data-split-value="first"]');
 const secondValue = crossTalkDialog?.querySelector('[data-split-value="second"]');
-const boundary = crossTalkDialog?.querySelector('[data-split-seconds]');
+const boundary = crossTalkDialog?.querySelector('[name=second_start_seconds]');
 const splitMeta = crossTalkDialog?.querySelector('[data-split-meta]');
 const splitStatus = crossTalkDialog?.querySelector('[data-split-status]');
 const splitSave = crossTalkDialog?.querySelector('.save-split');
 let splitStart = 0;
 let splitEnd = 0;
 const boundSplitButtons = new WeakSet();
+
+function formatSplitClock(seconds) {
+  const milliseconds = Math.round(Number(seconds) * 1000);
+  const hours = Math.floor(milliseconds / 3600000);
+  const minutes = Math.floor(milliseconds / 60000) % 60;
+  const wholeSeconds = Math.floor(milliseconds / 1000) % 60;
+  return `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(wholeSeconds).padStart(2, '0')}.${String(milliseconds % 1000).padStart(3, '0')}`;
+}
+
+function parseSplitClock(value) {
+  const parts = value.trim().split(':').map(part => part.trim());
+  const valid = parts.length >= 2 && parts.length <= 3
+    && parts.slice(0, -1).every(part => /^\d+$/.test(part))
+    && /^\d{1,2}(?:[.,]\d+)?$/.test(parts.at(-1));
+  if (!valid) throw new Error('Enter a split time such as 1:23:45 or 23:45. Decimals are optional.');
+  const numbers = parts.map(part => Number(part.replace(',', '.')));
+  if (numbers.at(-1) >= 60 || (numbers.length === 3 && numbers[1] >= 60)) {
+    throw new Error('Seconds and minutes within an hour must be below 60.');
+  }
+  const seconds = numbers.reduce((total, part) => total * 60 + part, 0);
+  if (!Number.isFinite(seconds)) throw new Error('Enter a valid split time.');
+  return seconds;
+}
 
 function bindSplitButton(openButton) {
   if (!openButton || boundSplitButtons.has(openButton)) return;
@@ -551,14 +635,15 @@ function bindSplitButton(openButton) {
     splitStart = Number(turn.dataset.start || 0);
     splitEnd = Number(turn.dataset.end || splitStart);
     const videoTime = videoIsYouTube ? sourceVideoTime : Number(video?.currentTime || 0);
-    boundary.min = splitStart;
-    boundary.max = splitEnd;
-    boundary.value = (videoTime > splitStart && videoTime < splitEnd ? videoTime : splitStart + ((splitEnd - splitStart) / 2)).toFixed(6);
+    crossTalkForm.elements.first_start_seconds.value = formatSplitClock(splitStart);
+    crossTalkForm.elements.expected_start_seconds.value = splitStart;
+    crossTalkForm.elements.expected_end_seconds.value = splitEnd;
+    boundary.value = formatSplitClock(videoTime > splitStart && videoTime < splitEnd ? videoTime : splitStart + ((splitEnd - splitStart) / 2));
     crossTalkForm.action = openButton.dataset.action;
     crossTalkDialog.querySelector('[data-first-speaker]').value = speaker?.value || '';
     crossTalkDialog.querySelector('[name="second_speaker_name"]').value = '';
     if (splitStatus) splitStatus.textContent = '';
-    splitMeta.textContent = `${turn.id} · ${splitStart.toFixed(2)}–${splitEnd.toFixed(2)} seconds`;
+    splitMeta.textContent = `Original turn: ${formatSplitClock(splitStart)} \u2013 ${formatSplitClock(splitEnd)}`;
     crossTalkDialog.showModal();
     document.body.classList.add('dialog-open');
     secondCopy.focus();
@@ -576,7 +661,7 @@ crossTalkDialog?.addEventListener('close', () => document.body.classList.remove(
 crossTalkDialog?.querySelector('[data-use-video-time]')?.addEventListener('click', () => {
   const videoTime = videoIsYouTube ? sourceVideoTime : Number(video?.currentTime || 0);
   if (videoTime > splitStart && videoTime < splitEnd) {
-    boundary.value = videoTime.toFixed(6);
+    boundary.value = formatSplitClock(videoTime);
   } else {
     boundary.setCustomValidity('Play the video inside this turn, then try again.');
     boundary.reportValidity();
@@ -597,7 +682,7 @@ function applySegmentToTurn(turn, segment) {
   turn.dataset.end = segment.end_seconds;
   turn.dataset.speaker = (segment.speaker || 'unresolved').toLocaleLowerCase();
   turn.dataset.message = segment.text.toLocaleLowerCase();
-  turn.classList.toggle('unresolved-turn', !segment.speaker || segment.speaker.toLocaleLowerCase().includes('unresolved'));
+  turn.classList.toggle('unresolved-turn', speakerNeedsReview(segment.speaker));
   const timecode = turn.querySelector('.timecode');
   if (timecode) {
     timecode.dataset.seek = segment.start_seconds;
@@ -611,7 +696,7 @@ function applySegmentToTurn(turn, segment) {
   }
   const form = turn.querySelector('[data-turn-form]');
   if (!form) return;
-  form.action = form.action.replace(`/segments/${oldId}`, `/segments/${segment.stable_id}`);
+  form.setAttribute('action', form.getAttribute('action').replace(`/segments/${oldId}`, `/segments/${segment.stable_id}`));
   form.classList.remove('editing', 'dirty');
   const meta = form.querySelector('.turn-meta');
   const speakerLabel = meta?.querySelector('strong');
@@ -630,7 +715,7 @@ function applySegmentToTurn(turn, segment) {
   if (edit) { edit.textContent = 'Edit'; edit.disabled = false; }
   if (save) save.disabled = true;
   const split = form.querySelector('[data-split-turn]');
-  if (split) split.dataset.action = `${form.action}/split`;
+  if (split) split.dataset.action = `${form.getAttribute('action')}/split`;
 }
 
 crossTalkForm?.addEventListener('submit', async (event) => {
@@ -648,6 +733,10 @@ crossTalkForm?.addEventListener('submit', async (event) => {
   if (splitStatus) { splitStatus.textContent = 'Saving splitâ€¦'; splitStatus.dataset.kind = 'pending'; }
   try {
     const splitData = new URLSearchParams(new FormData(crossTalkForm));
+    for (const input of crossTalkForm.querySelectorAll('[data-split-clock]')) {
+      try { splitData.set(input.name, String(parseSplitClock(input.value))); }
+      catch (error) { input.focus(); throw error; }
+    }
     const response = await fetch(crossTalkForm.action, {
       method: 'POST',
       body: splitData,

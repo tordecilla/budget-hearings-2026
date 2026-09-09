@@ -563,10 +563,10 @@ h2 { letter-spacing: -.025em; }
 .editing .turn-controls label, .editing .turn-controls .cancel-edit, .editing .turn-controls .save { display: grid; }
 .editing .turn-controls .save { display: block; }
 .editing .turn-controls .cancel-edit { display: block; }
-.editing .edit-turn { display: none; }
+.editing .edit-turn, .editing .check-turn { display: none; }
 .editing .turn-controls { flex-wrap: wrap; padding: 14px; border: 1px solid #c4cfda; background: #f4f7fb; }
-.edit-turn, .split-turn { padding: 6px 0; background: transparent; color: var(--ph-blue); font-size: 9px; }
-.edit-turn:hover, .split-turn:hover { text-decoration: underline; }
+.edit-turn, .split-turn, .check-turn { padding: 6px 0; background: transparent; color: var(--ph-blue); font-size: 9px; }
+.edit-turn:hover, .split-turn:hover, .check-turn:hover { text-decoration: underline; }
 .split-turn { display: none; margin-right: auto; }
 .editing .split-turn, .split-turn.split-priority { display: inline-block; }
 .split-turn.split-priority { padding: 7px 10px; border: 1px solid var(--ph-red); color: var(--ph-red); }
@@ -904,3 +904,31 @@ h2 { letter-spacing: -.025em; }
 .turn-controls .source-note input { width: 250px; padding: 7px 0; border: 0; border-bottom: 1px solid var(--rule); background: transparent; font: 10px var(--sans); }
 .turn-controls .source-note { display: none; }
 .editing .turn-controls .source-note { display: grid; }
+
+/* Split editor: one readable, full-width section per turn. */
+.cross-talk-dialog { width: min(780px, calc(100vw - 32px)); border-radius: 10px; }
+.cross-talk-head h2 { font-size: 28px; }
+.cross-talk-head [data-split-meta] { font-size: 13px; font-variant-numeric: tabular-nums; }
+.cross-talk-dialog .voice-card { grid-template-columns: 1fr; gap: 14px; padding: 20px 28px; }
+.cross-talk-dialog .voice-card > header { justify-content: space-between; }
+.cross-talk-dialog .voice-card b { font-size: 15px; }
+.cross-talk-dialog .voice-card small { font-size: 12px; }
+.cross-talk-dialog .cut-point { grid-template-columns: 1fr 1fr; gap: 16px; padding: 0; border: 0; background: transparent; }
+.cross-talk-dialog .voice-card label { gap: 6px; font-size: 11px; letter-spacing: .04em; }
+.cross-talk-dialog .voice-card input { width: 100%; box-sizing: border-box; padding: 10px 12px; font-size: 15px; border-radius: 4px; }
+.cross-talk-dialog input[data-split-clock] { font-family: ui-monospace, Consolas, monospace; font-size: 18px; font-variant-numeric: tabular-nums; }
+.cross-talk-dialog .split-copy { width: 100%; box-sizing: border-box; min-height: 110px; resize: vertical; border-radius: 4px; }
+.cross-talk-dialog .cross-talk-actions { position: sticky; bottom: 0; gap: 12px; border-top: 1px solid var(--rule); }
+.cross-talk-dialog .split-status { flex: 1; font-size: 13px; }
+@media (max-width: 600px) {
+  .cross-talk-dialog .voice-card { padding: 16px; }
+  .cross-talk-dialog .voice-card > header { align-items: baseline; flex-wrap: wrap; }
+  .cross-talk-dialog .cut-point { gap: 10px; }
+  .cross-talk-dialog input[data-split-clock] { font-size: 15px; padding: 10px 7px; }
+}
+
+.cross-talk-dialog .split-time-row { display: flex; align-items: center; gap: 24px; padding: 18px 28px; border-bottom: 1px solid var(--rule); background: #e9eef3; }
+.cross-talk-dialog .split-time-row label { display: grid; gap: 6px; font: 700 12px var(--sans); }
+.cross-talk-dialog .split-time-row input { width: 170px; padding: 10px 12px; border: 1px solid #aeb9c5; border-radius: 4px; background: white; }
+.cross-talk-dialog .split-time-row p { margin: 0; max-width: 320px; font: 13px/1.5 var(--sans); color: var(--muted); }
+@media (max-width: 600px) { .cross-talk-dialog .split-time-row { align-items: flex-start; flex-direction: column; gap: 10px; padding: 16px; } }

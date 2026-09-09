@@ -177,7 +177,10 @@
 .public-transcript .correction-note { margin-top:22px; padding:18px; border-left:4px solid #dfb83f; background:#203f5e; color:#fff; }
 .public-transcript .correction-note b { font:700 11px var(--sans); letter-spacing:.08em; text-transform:uppercase; }
 .public-transcript .correction-note p { margin:6px 0 0; color:#d4dfe8; font:12px/1.45 var(--sans); }
-.public-find-dock { display:grid; grid-template-columns:minmax(150px,.65fr) minmax(220px,1fr) auto; gap:18px; align-items:end; margin:28px 0 8px; padding:18px 0; border-block:1px solid #bcc5d2; }
+.public-transcript .record-nav { top:var(--public-masthead-height,76px); }
+.public-transcript .youtube-frame { top:calc(var(--public-masthead-height,76px) + var(--public-record-nav-height,42px) + 16px); }
+.public-transcript .public-turn { scroll-margin-top:calc(var(--public-masthead-height,76px) + var(--public-record-nav-height,42px) + var(--public-find-height,120px) + 16px); }
+.public-find-dock { position:sticky; top:calc(var(--public-masthead-height,76px) + var(--public-record-nav-height,42px)); z-index:15; display:grid; grid-template-columns:minmax(150px,.65fr) minmax(220px,1fr) auto; gap:18px; align-items:end; margin:28px 0 8px; padding:18px 0; border-block:1px solid #bcc5d2; background:#fff; box-shadow:0 8px 16px rgba(16,35,53,.1); }
 .public-find-dock-label .kicker { margin:0 0 6px; }
 .public-find-dock-label p:last-child { margin:0; color:#5c6676; font:11px var(--sans); }
 .public-find { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
@@ -196,7 +199,7 @@
 .public-empty { color:#5c6676; font:15px/1.5 var(--sans); }
 @media (max-width:700px) {
   .public-find-dock { display:block; }
-  .public-find { grid-template-columns:1fr; margin-top:15px; }
+  .public-find { grid-template-columns:repeat(2,minmax(0,1fr)); margin-top:10px; }
   .public-find-actions { margin-top:10px; }
 }
 
@@ -296,8 +299,13 @@
 .flat-tag-card { display:flex; min-width:0; min-height:220px; flex-direction:column; padding:24px; border:1px solid #bbc6ce; border-top:5px solid #244f7c; background:#fff; box-shadow:0 5px 18px rgba(17,47,73,.05); transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease; }
 .flat-tag-card:hover { border-color:#244f7c; box-shadow:0 12px 28px rgba(17,47,73,.11); transform:translateY(-2px); }
 .flat-tag-card[hidden] { display:none; }
-.flat-tag-meta { display:flex; justify-content:space-between; color:#6c7883; font:800 8px/1 var(--sans); letter-spacing:.13em; text-transform:uppercase; }
-.flat-tag-card h2 { margin:18px 0 10px; color:#173653; font:650 clamp(24px,2.5vw,34px)/1.02 var(--serif); letter-spacing:-.03em; }
+.issues-sort { min-width:0; margin:22px 0 24px; padding:0; border:0; }
+.issues-sort legend { padding:0; color:#173653; font:800 9px/1.2 var(--sans); letter-spacing:.1em; text-transform:uppercase; }
+.issues-sort-options { display:flex; flex-wrap:wrap; gap:4px 24px; }
+.issues-sort label { display:inline-flex; align-items:center; gap:8px; min-height:44px; color:#334c63; font:600 13px/1.3 var(--sans); cursor:pointer; }
+.issues-sort input { width:16px; height:16px; margin:0; accent-color:#173653; }
+.issues-sort input:focus-visible { outline:2px solid #244f7c; outline-offset:4px; }
+.flat-tag-card h2 { margin:0 0 10px; color:#173653; font:650 clamp(24px,2.5vw,34px)/1.02 var(--serif); letter-spacing:-.03em; }
 .flat-tag-card>p { margin:0; color:#536170; font:14px/1.5 var(--sans); }
 .flat-tag-aliases { margin-top:13px!important; color:#687683!important; font-size:11px!important; }
 .flat-tag-hearings { margin-top:0; padding-top:20px; }
