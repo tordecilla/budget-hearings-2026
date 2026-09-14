@@ -23,11 +23,16 @@
 .public-preview .section-head h2 { margin:8px 0 0; color:var(--ink); font:650 clamp(45px,6vw,78px)/.95 var(--serif); letter-spacing:-.035em; }
 .public-preview .section-head>p { margin:0; color:var(--muted); font:14px/1.5 var(--sans); }
 .public-preview .session-index-title { min-width:0; }
+.public-preview .hearing-filters { display:flex; align-items:end; flex-wrap:wrap; gap:18px 28px; margin-top:24px; }
 .public-preview .agency-filter { display:grid; gap:7px; }
-.public-preview .session-index>.agency-filter { width:min(100%,460px); margin-top:24px; }
+.public-preview .hearing-filters>.agency-filter { width:min(100%,460px); }
 .public-preview .agency-filter label { color:var(--navy); font:800 9px/1 var(--sans); text-transform:uppercase; letter-spacing:.1em; }
 .public-preview .agency-filter input { min-width:0; width:100%; padding:11px 12px; border:1px solid #aebac4; border-radius:0; background:#fff; color:var(--ink); font:13px/1.2 var(--sans); }
 .public-preview .agency-filter input:focus { border-color:var(--blue); outline:3px solid rgba(223,184,63,.42); outline-offset:1px; }
+.public-preview .chamber-filter { display:flex; align-items:center; flex-wrap:wrap; gap:8px 14px; min-height:42px; margin:0; padding:0; border:0; }
+.public-preview .chamber-filter legend { width:100%; margin-bottom:2px; color:var(--navy); font:800 9px/1 var(--sans); text-transform:uppercase; letter-spacing:.1em; }
+.public-preview .chamber-filter label { display:inline-flex; align-items:center; gap:5px; color:var(--ink); font:600 12px/1.2 var(--sans); white-space:nowrap; cursor:pointer; }
+.public-preview .chamber-filter input { accent-color:var(--blue); }
 .public-preview .session-agencies { display:none !important; }
 .public-preview .session-tile-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(min(100%,270px),1fr)); gap:18px; align-items:start; margin-top:30px; }
 .public-preview .session-tile { position:relative; display:block; height:auto; min-height:0; padding:26px; border:1px solid #bfc9d1; background:var(--white); box-shadow:0 1px 0 rgba(16,36,55,.04); overflow:hidden; transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease; }

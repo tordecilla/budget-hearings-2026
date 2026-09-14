@@ -5,25 +5,29 @@ let sourceVideoTime = 0;
 const agencyFilterInput = document.querySelector('#agency-filter-input');
 const agencyFilterEmpty = document.querySelector('#agency-filter-empty');
 const agencySessionCards = [...document.querySelectorAll('.session-tile[data-agencies]')];
+const chamberFilterInputs = [...document.querySelectorAll('input[name="chamber-filter"]')];
 
-function applyAgencyFilter() {
+function applyHearingFilters() {
   const terms = (agencyFilterInput?.value || '').trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+  const chamber = chamberFilterInputs.find((input) => input.checked)?.value || 'all';
   let visible = 0;
   agencySessionCards.forEach((card) => {
     const haystack = (card.dataset.agencies || '').toLocaleLowerCase();
-    const matches = terms.every((term) => haystack.includes(term));
+    const matches = terms.every((term) => haystack.includes(term))
+      && (chamber === 'all' || card.dataset.chamber === chamber);
     card.hidden = !matches;
     if (matches) visible += 1;
   });
   if (agencyFilterEmpty) agencyFilterEmpty.hidden = visible !== 0;
 }
 
-agencyFilterInput?.addEventListener('input', applyAgencyFilter);
+agencyFilterInput?.addEventListener('input', applyHearingFilters);
 agencyFilterInput?.addEventListener('keydown', (event) => {
   if (event.key !== 'Escape') return;
   agencyFilterInput.value = '';
-  applyAgencyFilter();
+  applyHearingFilters();
 });
+chamberFilterInputs.forEach((input) => input.addEventListener('change', applyHearingFilters));
 
 const issuesSearchInput = document.querySelector('#issues-search-input');
 const issuesSearchStatus = document.querySelector('#issues-search-status');

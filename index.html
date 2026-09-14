@@ -35,13 +35,105 @@
     </div>
     <p>Each session includes its reviewed transcript and, when ready, a source-linked digest.</p>
   </header>
-  <div class="agency-filter" role="search" aria-label="Filter hearings by agency">
-    <label for="agency-filter-input">Filter by agency</label>
-    <input id="agency-filter-input" type="search" placeholder="Agency name or acronym" autocomplete="off">
+  <div class="hearing-filters" role="search" aria-label="Filter hearings">
+    <div class="agency-filter">
+      <label for="agency-filter-input">Filter by agency</label>
+      <input id="agency-filter-input" type="search" placeholder="Agency name or acronym" autocomplete="off">
+    </div>
+    <fieldset class="chamber-filter">
+      <legend>Chamber</legend>
+      <label><input type="radio" name="chamber-filter" value="all" checked> All</label>
+      <label><input type="radio" name="chamber-filter" value="senate"> Senate</label>
+      <label><input type="radio" name="chamber-filter" value="house"> House of Representatives</label>
+    </fieldset>
   </div>
   <div class="session-list session-tile-grid">
     
-      <article class="public-session-card session-tile" data-agencies="PCO Presidential Communications Office PBS-BBS Philippine Broadcasting Service - Bureau of Broadcast Services BCS Bureau of Communication Services NIB News and Information Bureau NPO National Printing Office PIA Philippine Information Agency RTVM Radio Television Malacañang IBC Intercontinental Broadcasting Corporation PTV People&#39;s Television Network APO APO Production Unit, Inc.">
+      <article class="public-session-card session-tile" data-agencies="OVP Office of the Vice President" data-chamber="house">
+        <div class="session-summary">
+          <p data-title-field="committee">House Committee on Appropriations</p>
+          <h3 aria-label="House Committee on Appropriations: OVP - September 2, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/26">OVP</a></h3>
+          <time class="session-date" data-title-field="date" datetime="2026-09-02T05:28:11+00:00">September 2, 2026</time>
+          <ul class="session-features" aria-label="Available features">
+            <li><a href="/budget-hearings-2026/records/26">Source transcript</a></li>
+            <li><a href="/budget-hearings-2026/digests/39">Source-linked digest</a></li>
+          </ul>
+        </div>
+      </article>
+    
+      <article class="public-session-card session-tile" data-agencies="DOE Department of Energy ERC Energy Regulatory Commission NEA National Electrification Administration NAPOCOR National Power Corporation PSALM Power Sector Assets and Liabilities Management Corporation TransCo National Transmission Corporation PNOC Philippine National Oil Company" data-chamber="house">
+        <div class="session-summary">
+          <p data-title-field="committee">House Committee on Appropriations</p>
+          <h3 aria-label="House Committee on Appropriations: DOE and ERC - September 2, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/27">DOE and ERC</a></h3>
+          <time class="session-date" data-title-field="date" datetime="2026-09-02T02:59:41+00:00">September 2, 2026</time>
+          <ul class="session-features" aria-label="Available features">
+            <li><a href="/budget-hearings-2026/records/27">Source transcript</a></li>
+            <li><a href="/budget-hearings-2026/digests/42">Source-linked digest</a></li>
+          </ul>
+        </div>
+      </article>
+    
+      <article class="public-session-card session-tile" data-agencies="DA Department of Agriculture NIA National Irrigation Administration" data-chamber="house">
+        <div class="session-summary">
+          <p data-title-field="committee">House Committee on Appropriations</p>
+          <h3 aria-label="House Committee on Appropriations: DA and NIA Part 2 - September 1, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/25">DA and NIA Part 2</a></h3>
+          <time class="session-date" data-title-field="date" datetime="2026-09-01T09:47:21+00:00">September 1, 2026</time>
+          <ul class="session-features" aria-label="Available features">
+            <li><a href="/budget-hearings-2026/records/25">Source transcript</a></li>
+            <li><a href="/budget-hearings-2026/digests/41">Source-linked digest</a></li>
+          </ul>
+        </div>
+      </article>
+    
+      <article class="public-session-card session-tile" data-agencies="COMELEC Commission on Elections" data-chamber="house">
+        <div class="session-summary">
+          <p data-title-field="committee">House Committee on Appropriations</p>
+          <h3 aria-label="House Committee on Appropriations: COMELEC - September 1, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/24">COMELEC</a></h3>
+          <time class="session-date" data-title-field="date" datetime="2026-09-01T07:12:11+00:00">September 1, 2026</time>
+          <ul class="session-features" aria-label="Available features">
+            <li><a href="/budget-hearings-2026/records/24">Source transcript</a></li>
+            <li><a href="/budget-hearings-2026/digests/37">Source-linked digest</a></li>
+          </ul>
+        </div>
+      </article>
+    
+      <article class="public-session-card session-tile" data-agencies="CSC Civil Service Commission CESB Career Executive Service Board" data-chamber="house">
+        <div class="session-summary">
+          <p data-title-field="committee">House Committee on Appropriations</p>
+          <h3 aria-label="House Committee on Appropriations: CSC - September 1, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/22">CSC</a></h3>
+          <time class="session-date" data-title-field="date" datetime="2026-09-01T05:13:17+00:00">September 1, 2026</time>
+          <ul class="session-features" aria-label="Available features">
+            <li><a href="/budget-hearings-2026/records/22">Source transcript</a></li>
+            <li><a href="/budget-hearings-2026/digests/38">Source-linked digest</a></li>
+          </ul>
+        </div>
+      </article>
+    
+      <article class="public-session-card session-tile" data-agencies="DA Department of Agriculture NIA National Irrigation Administration" data-chamber="house">
+        <div class="session-summary">
+          <p data-title-field="committee">House Committee on Appropriations</p>
+          <h3 aria-label="House Committee on Appropriations: DA and NIA Part 1 - September 1, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/23">DA and NIA Part 1</a></h3>
+          <time class="session-date" data-title-field="date" datetime="2026-09-01T02:29:11+00:00">September 1, 2026</time>
+          <ul class="session-features" aria-label="Available features">
+            <li><a href="/budget-hearings-2026/records/23">Source transcript</a></li>
+            <li><a href="/budget-hearings-2026/digests/40">Source-linked digest</a></li>
+          </ul>
+        </div>
+      </article>
+    
+      <article class="public-session-card session-tile" data-agencies="OP Office of the President OES Office of the Executive Secretary NTF-ELCAC National Task Force to End Local Communist Armed Conflict" data-chamber="house">
+        <div class="session-summary">
+          <p data-title-field="committee">House Committee on Appropriations</p>
+          <h3 aria-label="House Committee on Appropriations: OP - September 1, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/21">OP</a></h3>
+          <time class="session-date" data-title-field="date" datetime="2026-09-01T01:29:26+00:00">September 1, 2026</time>
+          <ul class="session-features" aria-label="Available features">
+            <li><a href="/budget-hearings-2026/records/21">Source transcript</a></li>
+            <li><a href="/budget-hearings-2026/digests/35">Source-linked digest</a></li>
+          </ul>
+        </div>
+      </article>
+    
+      <article class="public-session-card session-tile" data-agencies="PCO Presidential Communications Office PBS-BBS Philippine Broadcasting Service - Bureau of Broadcast Services BCS Bureau of Communication Services NIB News and Information Bureau NPO National Printing Office PIA Philippine Information Agency RTVM Radio Television Malacañang IBC Intercontinental Broadcasting Corporation PTV People&#39;s Television Network APO APO Production Unit, Inc." data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: PCO - August 27, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/18">PCO</a></h3>
@@ -53,7 +145,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="CHED Commission on Higher Education LEB Legal Education Board">
+      <article class="public-session-card session-tile" data-agencies="CHED Commission on Higher Education LEB Legal Education Board" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: CHED - August 27, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/20">CHED</a></h3>
@@ -65,7 +157,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DILG Department of the Interior and Local Government PNP Philippine National Police BFP Bureau of Fire Protection BJMP Bureau of Jail Management and Penology NAPOLCOM National Police Commission PPSC Philippine Public Safety College LGA Local Government Academy NYC National Youth Commission NCMF National Commission on Muslim Filipinos PCW Philippine Commission on Women ECCD Council Early Childhood Care and Development Council">
+      <article class="public-session-card session-tile" data-agencies="DILG Department of the Interior and Local Government PNP Philippine National Police BFP Bureau of Fire Protection BJMP Bureau of Jail Management and Penology NAPOLCOM National Police Commission PPSC Philippine Public Safety College LGA Local Government Academy NYC National Youth Commission NCMF National Commission on Muslim Filipinos PCW Philippine Commission on Women ECCD Council Early Childhood Care and Development Council" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DILG - August 27, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/17">DILG</a></h3>
@@ -77,7 +169,19 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DMW Department of Migrant Workers OWWA Overseas Workers Welfare Administration NMP National Maritime Polytechnic">
+      <article class="public-session-card session-tile" data-agencies="DBM Department of Budget and Management DEPDev Department of Economy, Planning, and Development DOF Department of Finance BSP Bangko Sentral ng Pilipinas BIR Bureau of Internal Revenue BOC Bureau of Customs AMLC Anti-Money Laundering Council" data-chamber="senate">
+        <div class="session-summary">
+          <p data-title-field="committee">Senate Committee on Finance</p>
+          <h3 aria-label="Senate Committee on Finance: DBCC Briefing - August 27, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/35">DBCC Briefing</a></h3>
+          <time class="session-date" data-title-field="date" datetime="2026-08-27T01:54:22+00:00">August 27, 2026</time>
+          <ul class="session-features" aria-label="Available features">
+            <li><a href="/budget-hearings-2026/records/35">Source transcript</a></li>
+            <li><a href="/budget-hearings-2026/digests/36">Source-linked digest</a></li>
+          </ul>
+        </div>
+      </article>
+    
+      <article class="public-session-card session-tile" data-agencies="DMW Department of Migrant Workers OWWA Overseas Workers Welfare Administration NMP National Maritime Polytechnic" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DMW - August 26, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/15">DMW</a></h3>
@@ -89,7 +193,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DPWH Department of Public Works and Highways">
+      <article class="public-session-card session-tile" data-agencies="DPWH Department of Public Works and Highways" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DPWH Part 2 - August 26, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/14">DPWH Part 2</a></h3>
@@ -101,7 +205,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DENR Department of Environment and Natural Resources EMB Environmental Management Bureau MGB Mines and Geosciences Bureau BMB Biodiversity Management Bureau FMB Forest Management Bureau LMB Land Management Bureau NAMRIA National Mapping and Resource Information Authority NWRB National Water Resources Board LWUA Local Water Utilities Administration MWSS Metropolitan Waterworks and Sewerage System LLDA Laguna Lake Development Authority ERDB Ecosystems Research and Development Bureau PCSD Palawan Council for Sustainable Development NRDC Natural Resources Development Corporation">
+      <article class="public-session-card session-tile" data-agencies="DENR Department of Environment and Natural Resources EMB Environmental Management Bureau MGB Mines and Geosciences Bureau BMB Biodiversity Management Bureau FMB Forest Management Bureau LMB Land Management Bureau NAMRIA National Mapping and Resource Information Authority NWRB National Water Resources Board LWUA Local Water Utilities Administration MWSS Metropolitan Waterworks and Sewerage System LLDA Laguna Lake Development Authority ERDB Ecosystems Research and Development Bureau PCSD Palawan Council for Sustainable Development NRDC Natural Resources Development Corporation" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DENR - August 26, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/16">DENR</a></h3>
@@ -113,7 +217,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DPWH Department of Public Works and Highways">
+      <article class="public-session-card session-tile" data-agencies="DPWH Department of Public Works and Highways" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DPWH Part 1 - August 26, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/13">DPWH Part 1</a></h3>
@@ -125,7 +229,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="COA Commission on Audit">
+      <article class="public-session-card session-tile" data-agencies="COA Commission on Audit" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: COA - August 25, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/12">COA</a></h3>
@@ -137,7 +241,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DHSUD Department of Human Settlements and Urban Development HSAC Human Settlements Adjudication Commission NHA National Housing Authority SHFC Social Housing Finance Corporation NHMFC National Home Mortgage Finance Corporation Pag-IBIG Home Development Mutual Fund">
+      <article class="public-session-card session-tile" data-agencies="DHSUD Department of Human Settlements and Urban Development HSAC Human Settlements Adjudication Commission NHA National Housing Authority SHFC Social Housing Finance Corporation NHMFC National Home Mortgage Finance Corporation Pag-IBIG Home Development Mutual Fund" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DHSUD - August 25, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/11">DHSUD</a></h3>
@@ -149,7 +253,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="OMB Office of the Ombudsman">
+      <article class="public-session-card session-tile" data-agencies="OMB Office of the Ombudsman" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: Office of the Ombudsman - August 25, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/9">Office of the Ombudsman</a></h3>
@@ -161,7 +265,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DND Department of National Defense AFP Armed Forces of the Philippines OCD Office of Civil Defense GA Government Arsenal NDCP National Defense College of the Philippines PVAO Philippine Veterans Affairs Office VMMC Veterans Memorial Medical Center">
+      <article class="public-session-card session-tile" data-agencies="DND Department of National Defense AFP Armed Forces of the Philippines OCD Office of Civil Defense GA Government Arsenal NDCP National Defense College of the Philippines PVAO Philippine Veterans Affairs Office VMMC Veterans Memorial Medical Center" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DND - August 25, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/10">DND</a></h3>
@@ -173,7 +277,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DOST Department of Science and Technology PAGASA Philippine Atmospheric, Geophysical and Astronomical Services Administration PCAARRD Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development FNRI Food and Nutrition Research Institute PHIVOLCS Philippine Institute of Volcanology and Seismology MIRDC Metals Industry Research and Development Center ASTI Advanced Science and Technology Institute PNRI Philippine Nuclear Research Institute">
+      <article class="public-session-card session-tile" data-agencies="DOST Department of Science and Technology PAGASA Philippine Atmospheric, Geophysical and Astronomical Services Administration PCAARRD Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development FNRI Food and Nutrition Research Institute PHIVOLCS Philippine Institute of Volcanology and Seismology MIRDC Metals Industry Research and Development Center ASTI Advanced Science and Technology Institute PNRI Philippine Nuclear Research Institute" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DOST - August 24, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/8">DOST</a></h3>
@@ -185,7 +289,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DOJ Department of Justice PCGG Presidential Commission on Good Government BI Bureau of Immigration NBI National Bureau of Investigation">
+      <article class="public-session-card session-tile" data-agencies="DOJ Department of Justice PCGG Presidential Commission on Good Government BI Bureau of Immigration NBI National Bureau of Investigation" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DOJ Part 2 - August 24, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/7">DOJ Part 2</a></h3>
@@ -197,7 +301,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="PCSO Philippine Charity Sweepstakes Office">
+      <article class="public-session-card session-tile" data-agencies="PCSO Philippine Charity Sweepstakes Office" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: PCSO - August 24, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/4">PCSO</a></h3>
@@ -209,7 +313,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DOJ Department of Justice NBI National Bureau of Investigation BI Bureau of Immigration BuCor Bureau of Corrections OSG Office of the Solicitor General PAO Public Attorney&#39;s Office LRA Land Registration Authority PPA Parole and Probation Administration PCGG Presidential Commission on Good Government OGCC Office of the Government Corporate Counsel OADR Office for Alternative Dispute Resolution">
+      <article class="public-session-card session-tile" data-agencies="DOJ Department of Justice NBI National Bureau of Investigation BI Bureau of Immigration BuCor Bureau of Corrections OSG Office of the Solicitor General PAO Public Attorney&#39;s Office LRA Land Registration Authority PPA Parole and Probation Administration PCGG Presidential Commission on Good Government OGCC Office of the Government Corporate Counsel OADR Office for Alternative Dispute Resolution" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DOJ Part 1 - August 24, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/6">DOJ Part 1</a></h3>
@@ -221,7 +325,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DTI Department of Trade and Industry BOI Board of Investments PEZA Philippine Economic Zone Authority CDA Cooperative Development Authority APECO Aurora Pacific Economic Zone and Freeport Authority SB Corp Small Business Corporation EMB Export Marketing Bureau FAP Film Academy of the Philippines">
+      <article class="public-session-card session-tile" data-agencies="DTI Department of Trade and Industry BOI Board of Investments PEZA Philippine Economic Zone Authority CDA Cooperative Development Authority APECO Aurora Pacific Economic Zone and Freeport Authority SB Corp Small Business Corporation EMB Export Marketing Bureau FAP Film Academy of the Philippines" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DTI - August 24, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/5">DTI</a></h3>
@@ -233,7 +337,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="PAGCOR Philippine Amusement and Gaming Corporation">
+      <article class="public-session-card session-tile" data-agencies="PAGCOR Philippine Amusement and Gaming Corporation" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: PAGCOR - August 24, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/3">PAGCOR</a></h3>
@@ -245,7 +349,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DBM Department of Budget and Management DEPDev Department of Economy, Planning, and Development DOF Department of Finance BSP Bangko Sentral ng Pilipinas BIR Bureau of Internal Revenue BLGF Bureau of Local Government Finance BTr Bureau of the Treasury PPP Center Public-Private Partnership Center PDIC Philippine Deposit Insurance Corporation">
+      <article class="public-session-card session-tile" data-agencies="DBM Department of Budget and Management DEPDev Department of Economy, Planning, and Development DOF Department of Finance BSP Bangko Sentral ng Pilipinas BIR Bureau of Internal Revenue BLGF Bureau of Local Government Finance BTr Bureau of the Treasury PPP Center Public-Private Partnership Center PDIC Philippine Deposit Insurance Corporation" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DBCC Interpellation - August 17, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/2">DBCC Interpellation</a></h3>
@@ -257,7 +361,7 @@
         </div>
       </article>
     
-      <article class="public-session-card session-tile" data-agencies="DBM Department of Budget and Management DEPDev Department of Economy, Planning, and Development DOF Department of Finance BSP Bangko Sentral ng Pilipinas">
+      <article class="public-session-card session-tile" data-agencies="DBM Department of Budget and Management DEPDev Department of Economy, Planning, and Development DOF Department of Finance BSP Bangko Sentral ng Pilipinas" data-chamber="house">
         <div class="session-summary">
           <p data-title-field="committee">House Committee on Appropriations</p>
           <h3 aria-label="House Committee on Appropriations: DBCC Briefing and Interpellation - August 17, 2026" data-title-field="subject"><a href="/budget-hearings-2026/records/1">DBCC Briefing and Interpellation</a></h3>
