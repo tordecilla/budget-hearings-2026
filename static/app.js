@@ -8,11 +8,14 @@ const agencySessionCards = [...document.querySelectorAll('.session-tile[data-age
 const chamberFilterInputs = [...document.querySelectorAll('input[name="chamber-filter"]')];
 
 function applyHearingFilters() {
-  const terms = (agencyFilterInput?.value || '').trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+  const query = (agencyFilterInput?.value || '').trim().toLocaleLowerCase()
+    .replace(/\bcsos?\b/g, 'civil society organizations');
+  const terms = query.split(/\s+/).filter(Boolean);
   const chamber = chamberFilterInputs.find((input) => input.checked)?.value || 'all';
   let visible = 0;
   agencySessionCards.forEach((card) => {
-    const haystack = (card.dataset.agencies || '').toLocaleLowerCase();
+    const subject = card.querySelector('[data-title-field="subject"]')?.textContent || '';
+    const haystack = `${card.dataset.agencies || ''} ${subject}`.toLocaleLowerCase();
     const matches = terms.every((term) => haystack.includes(term))
       && (chamber === 'all' || card.dataset.chamber === chamber);
     card.hidden = !matches;

@@ -129,12 +129,16 @@ h2 { font-size: clamp(28px, 3vw, 44px); letter-spacing: -.035em; margin: 0; }
 .desk-tally div:last-child { border: 0; }
 .desk-tally strong { color: var(--red); font: 42px/1 var(--serif); }
 .desk-tally span { font: 10px var(--sans); text-transform: uppercase; letter-spacing: .12em; }
-.workflow-strip { display: grid; grid-template-columns: repeat(5,1fr); background: var(--ink); color: var(--paper); padding: 0 clamp(20px,5vw,80px); }
+.workflow-strip { display: grid; grid-template-columns: repeat(6,1fr); background: var(--ink); color: var(--paper); padding: 0 clamp(20px,5vw,80px); }
 .workflow-strip div { min-height: 88px; display: flex; align-items: center; gap: 13px; padding: 20px; border-right: 1px solid rgba(255,255,255,.18); font: 10px var(--sans); text-transform: uppercase; letter-spacing: .1em; }
 .workflow-strip div:last-child { border: 0; }
 .workflow-strip b { color: var(--gold); font-size: 17px; }
 .workflow-strip .active { background: var(--red); }
 .workflow-strip .active b { color: white; }
+.workflow-strip .digest-review-total { background: rgba(223,184,63,.16); }
+.digest-review-notice { display: block; margin: 12px 0; padding: 10px 12px; background: #fff4cf; border-left: 4px solid var(--gold); color: var(--ink); font: 700 13px/1.4 var(--sans); text-decoration: none; }
+.digest-review-notice:hover { background: #ffe8a0; }
+.digest-review-notice:focus-visible { outline: 2px solid var(--blue); outline-offset: 3px; }
 .case-ledger, .decision-section, .speaker-section, .evidence-section, .history-section, .digest-list { padding: 64px clamp(20px,5vw,80px) 90px; }
 .section-rule { display: flex; justify-content: space-between; align-items: end; gap: 30px; padding-bottom: 15px; margin-bottom: 22px; border-bottom: 4px double var(--ink); }
 .section-rule span, .section-rule > a { color: var(--muted); font: 10px var(--sans); text-transform: uppercase; letter-spacing: .1em; }
