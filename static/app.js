@@ -812,6 +812,29 @@ digestSectionSelect?.addEventListener('change', () => {
 
 const publicSourceVideo = document.querySelector('#source-frame');
 
+const agencyIndexSearch = document.querySelector('#agency-index-search');
+if (agencyIndexSearch) {
+  const agencyRows = [...document.querySelectorAll('[data-agency-search]')];
+  const agencyCount = document.querySelector('#agency-index-count');
+  const agencyEmpty = document.querySelector('#agency-index-empty');
+  const normalizeAgencySearch = (value) => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+  const agencySearchValues = agencyRows.map((row) => normalizeAgencySearch(row.dataset.agencySearch));
+  const filterAgencyIndex = () => {
+    const query = normalizeAgencySearch(agencyIndexSearch.value);
+    let matches = 0;
+    agencyRows.forEach((row, index) => {
+      row.hidden = !agencySearchValues[index].includes(query);
+      if (!row.hidden) matches += 1;
+    });
+    agencyCount.textContent = query
+      ? `${matches} of ${agencyRows.length} agencies`
+      : `${agencyRows.length} agencies`;
+    agencyEmpty.hidden = matches !== 0;
+  };
+  agencyIndexSearch.addEventListener('input', filterAgencyIndex);
+  filterAgencyIndex();
+}
+
 function sendPublicYouTubeCommand(func, args = []) {
   if (!publicSourceVideo?.contentWindow) return;
   publicSourceVideo.contentWindow.postMessage(JSON.stringify({ event: 'command', func, args }), 'https://www.youtube-nocookie.com');
