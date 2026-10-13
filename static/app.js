@@ -813,6 +813,26 @@ digestSectionSelect?.addEventListener('change', () => {
 const publicSourceVideo = document.querySelector('#source-frame');
 
 const agencyIndexSearch = document.querySelector('#agency-index-search');
+const speakerIndexSearch = document.querySelector('#speaker-index-search');
+if (speakerIndexSearch) {
+  const categories = [...document.querySelectorAll('input[name="speaker-category"]')];
+  const rows = [...document.querySelectorAll('[data-speaker-search]')];
+  const normalize = (value) => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+  const filter = () => {
+    const query = normalize(speakerIndexSearch.value);
+    const category = categories.find((radio) => radio.checked)?.value || '';
+    let matches = 0;
+    rows.forEach((row) => {
+      row.hidden = !normalize(row.dataset.speakerSearch).includes(query) || (category !== '' && row.dataset.speakerCategory !== category);
+      if (!row.hidden) matches += 1;
+    });
+    document.querySelector('#speaker-index-count').textContent = `${matches} of ${rows.length} speakers`;
+    document.querySelector('#speaker-index-empty').hidden = matches !== 0;
+  };
+  speakerIndexSearch.addEventListener('input', filter);
+  categories.forEach((radio) => radio.addEventListener('change', filter));
+  filter();
+}
 if (agencyIndexSearch) {
   const agencyRows = [...document.querySelectorAll('[data-agency-search]')];
   const agencyCount = document.querySelector('#agency-index-count');
