@@ -1,0 +1,1094 @@
+{
+  "hearing": {
+    "hearing_id": 1,
+    "title": "House Committee on Appropriations: DBCC Briefing and Interpellation - August 17, 2026",
+    "hearing_date": "2026-08-17",
+    "official_url": "https://www.youtube.com/watch?v=Vyh2qpSR1JA"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h1/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Briefing",
+      "text": "Committee Chairperson Mikaela Angela B. Suansing opened the hearing before BSP Deputy Governor Zeno Ronald R. Abenoja, DEPDev Secretary Arsenio M. Balisacan, DOF Secretary Frederick D. Go, and Acting DBM Secretary Kim Robert C. De Leon presented the monetary outlook, growth and employment, fiscal position, and the proposed expenditure program.",
+      "citations": []
+    },
+    {
+      "label": "Transparency",
+      "text": "Rep. Tobias \"Toby\" M. Tiangco questioned pre-plenary scrutiny of the House budget and requested public, district-level NEP information.",
+      "citations": []
+    },
+    {
+      "label": "Procedure",
+      "text": "Deputy Speaker Janette L. Garin proposed referring the point of order to the committee and House leadership; Suansing suspended and resumed the briefing, and Rep. Antonio \"Tonypet\" T. Albano withdrew the point.",
+      "citations": []
+    },
+    {
+      "label": "Allocations",
+      "text": "Rep. Romeo S. Momo Sr., Deputy Speaker Janette L. Garin, and Rep. Tobias \"Toby\" M. Tiangco distinguished DPWH District Engineering Office totals from Congressional District Office budgets, while the requested district summary and allocation parameters remained open.",
+      "citations": []
+    },
+    {
+      "label": "Rail and electricity",
+      "text": "Rep. Salvador A. Pleyto pressed for timely North-South Commuter Railway funding and asked how electricity costs affect households; DBM, DEPDev, and BSP supplied funding, household-share, and inflation-risk context.",
+      "citations": []
+    },
+    {
+      "label": "Pay and flood control",
+      "text": "Rep. Antonio L. Tinio questioned salary and PERA timing, alleged recurring NEP padding or insertions, and challenged the geographic distribution of flood-control funds.",
+      "citations": []
+    },
+    {
+      "label": "Fiscal delivery",
+      "text": "Rep. Ryan S. Recto linked underspending to procurement bottlenecks, questioned unsettled revenue assumptions, and asked about oil and Middle East risks; DBM, DOF, and BSP described their available responses.",
+      "citations": []
+    }
+  ],
+  "method_note": "AI-assisted working draft grounded in the reviewed Development Budget Coordination Committee transcript, archived source media and original-language captions, immutable ASR, raw diarization, the official replay, and official DBM/DOF/BSP/DEPDev/House references. Every substantive item retains narrow stable-ID citations. Names and titles use on-record recognition/turn context or official primary forms; functional roles are retained where exact identity is not established. Filipino, English, and code-switching in the transcript remain verbatim.",
+  "sections": [
+    {
+      "key": "agency-briefings",
+      "label": "The DBCC briefing: monetary stability, growth, fiscal space, and spending priorities",
+      "items": [
+        {
+          "label": "",
+          "text": "BSP Deputy Governor Zeno Ronald R. Abenoja reported that inflation rose from 2.4% in February 2026 to 7.2% in April before easing to 6.2% in July. He said the BSP raised its policy rate from 4.25% through two 25-basis-point increases, bringing it to 4.75%, and presented inflation forecasts of 6.4% for 2026 and 4.5% for 2027 while keeping the 3% medium-term target.",
+          "citations": [
+            {
+              "stable_id": "asr-000253",
+              "start_seconds": 2438.38,
+              "clock": "00:40:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000253"
+            },
+            {
+              "stable_id": "asr-000255",
+              "start_seconds": 2456.38,
+              "clock": "00:40:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000255"
+            },
+            {
+              "stable_id": "asr-000263",
+              "start_seconds": 2504.38,
+              "clock": "00:41:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000263"
+            },
+            {
+              "stable_id": "asr-000276",
+              "start_seconds": 2560.38,
+              "clock": "00:42:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000276"
+            },
+            {
+              "stable_id": "asr-000279",
+              "start_seconds": 2574.38,
+              "clock": "00:42:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000279"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "DEPDev Secretary Arsenio M. Balisacan described weaker domestic demand and investment alongside a softening labor market. He reported 4 million net jobs generated between the first halves of 2022 and 2026, but said employment then declined by 166,000 over the preceding year and unemployment rose to 4.2% in June 2026, framing restored momentum and better-quality jobs as urgent priorities.",
+          "citations": [
+            {
+              "stable_id": "asr-000504",
+              "start_seconds": 3330.38,
+              "clock": "00:55:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000504"
+            },
+            {
+              "stable_id": "asr-000509",
+              "start_seconds": 3346.38,
+              "clock": "00:55:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000509"
+            },
+            {
+              "stable_id": "asr-000512",
+              "start_seconds": 3356.38,
+              "clock": "00:55:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000512"
+            },
+            {
+              "stable_id": "asr-000525",
+              "start_seconds": 3397.38,
+              "clock": "00:56:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000525"
+            },
+            {
+              "stable_id": "asr-000530",
+              "start_seconds": 3417.38,
+              "clock": "00:56:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000530"
+            },
+            {
+              "stable_id": "asr-000531",
+              "start_seconds": 3423.38,
+              "clock": "00:57:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000531"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "DOF Secretary Frederick D. Go presented fiscal consolidation alongside continued revenue mobilization. He reported first-half 2026 tax collections of P2.14 trillion, 5.4% above the comparable period, and distinguished national-government debt of 63.2% of GDP from general-government debt of 56.8%, the measure he compared with the 70% international benchmark.",
+          "citations": [
+            {
+              "stable_id": "asr-000784",
+              "start_seconds": 4492.08,
+              "clock": "01:14:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000784"
+            },
+            {
+              "stable_id": "asr-000800",
+              "start_seconds": 4536.08,
+              "clock": "01:15:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000800"
+            },
+            {
+              "stable_id": "asr-000821",
+              "start_seconds": 4597.08,
+              "clock": "01:16:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000821"
+            },
+            {
+              "stable_id": "asr-000895",
+              "start_seconds": 4782.08,
+              "clock": "01:19:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000895"
+            },
+            {
+              "stable_id": "asr-000933",
+              "start_seconds": 4868.08,
+              "clock": "01:21:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000933"
+            },
+            {
+              "stable_id": "asr-000937",
+              "start_seconds": 4880.08,
+              "clock": "01:21:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000937"
+            },
+            {
+              "stable_id": "asr-000948",
+              "start_seconds": 4912.08,
+              "clock": "01:21:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-000948"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Acting DBM Secretary Kim Robert C. De Leon described the P7.2-trillion 2027 National Expenditure Program as a prioritized plan rather than a compilation of more than P11 trillion in agency requests. He reported P112 billion in unprogrammed appropriations and P1.467 trillion for infrastructure, equal to 4.4% of GDP, spread across public works, transportation, agriculture, education, defense, digital infrastructure, health, and other agencies.",
+          "citations": [
+            {
+              "stable_id": "asr-001221",
+              "start_seconds": 5553.04,
+              "clock": "01:32:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-001221"
+            },
+            {
+              "stable_id": "asr-001231",
+              "start_seconds": 5609.96,
+              "clock": "01:33:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-001231"
+            },
+            {
+              "stable_id": "asr-001233",
+              "start_seconds": 5628.44,
+              "clock": "01:33:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-001233"
+            },
+            {
+              "stable_id": "asr-001236",
+              "start_seconds": 5646.12,
+              "clock": "01:34:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-001236"
+            },
+            {
+              "stable_id": "asr-001245",
+              "start_seconds": 5699.38,
+              "clock": "01:34:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-001245"
+            },
+            {
+              "stable_id": "asr-001287",
+              "start_seconds": 5883.6,
+              "clock": "01:38:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-001287"
+            },
+            {
+              "stable_id": "asr-001290",
+              "start_seconds": 5901.6,
+              "clock": "01:38:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-001290"
+            },
+            {
+              "stable_id": "asr-001547",
+              "start_seconds": 6783.6,
+              "clock": "01:53:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-001547"
+            },
+            {
+              "stable_id": "asr-001549",
+              "start_seconds": 6789.6,
+              "clock": "01:53:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-001549"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tiangco-dbm-transparency",
+      "label": "Tiangco and DBM: House-budget visibility",
+      "items": [
+        {
+          "label": "",
+          "text": "Rep. Tobias \"Toby\" M. Tiangco questioned why the House budget was not scheduled for a pre-plenary briefing and asked whether any law exempted the House from presenting its budget before plenary. He tied the question to public visibility into how prior budgets were spent and how the 2027 proposal was formed.",
+          "citations": [
+            {
+              "stable_id": "asr-002163",
+              "start_seconds": 8858.76,
+              "clock": "02:27:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002163"
+            },
+            {
+              "stable_id": "asr-002167",
+              "start_seconds": 8864.220000000001,
+              "clock": "02:27:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002167"
+            },
+            {
+              "stable_id": "asr-002174",
+              "start_seconds": 8872.4,
+              "clock": "02:27:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002174"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Acting DBM Secretary Kim Robert C. De Leon said some agencies, executive offices, and SUCs also proceed without pre-plenary hearings. He did not announce a House exemption or decide the request; he said the matter would be submitted for House leadership's consideration.",
+          "citations": [
+            {
+              "stable_id": "asr-002175",
+              "start_seconds": 8875.62,
+              "clock": "02:27:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002175"
+            },
+            {
+              "stable_id": "asr-002182",
+              "start_seconds": 8881.68,
+              "clock": "02:28:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002182"
+            },
+            {
+              "stable_id": "asr-002316",
+              "start_seconds": 9000.0,
+              "clock": "02:30:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002316"
+            },
+            {
+              "stable_id": "asr-002367",
+              "start_seconds": 9229.64,
+              "clock": "02:33:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002367"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Tiangco compared the 2025 and 2026 NEP, GAA, and House-inserted figures and asked why the House could not disclose the basis and spending of the changes. Kim answered that the disputed change had been deliberated in plenary and that members had an opportunity to question the sponsor there. The exchange clarified the competing positions but did not establish a dedicated House pre-plenary process.",
+          "citations": [
+            {
+              "stable_id": "asr-002347",
+              "start_seconds": 9151.64,
+              "clock": "02:32:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002347"
+            },
+            {
+              "stable_id": "asr-002353",
+              "start_seconds": 9166.64,
+              "clock": "02:32:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002353"
+            },
+            {
+              "stable_id": "asr-002356",
+              "start_seconds": 9174.64,
+              "clock": "02:32:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002356"
+            },
+            {
+              "stable_id": "asr-002360",
+              "start_seconds": 9195.64,
+              "clock": "02:33:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002360"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Tiangco then requested a simpler public presentation of DPWH district and party-list budgets from the NEP, arguing that citizens should not have to total hundreds of pages themselves. He asked how the public could identify where projects went and which party-list proponent was associated with a budget.",
+          "citations": [
+            {
+              "stable_id": "asr-002511",
+              "start_seconds": 9958.6,
+              "clock": "02:45:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002511"
+            },
+            {
+              "stable_id": "asr-002516",
+              "start_seconds": 9994.2,
+              "clock": "02:46:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002516"
+            },
+            {
+              "stable_id": "asr-002527",
+              "start_seconds": 10039.22,
+              "clock": "02:47:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002527"
+            },
+            {
+              "stable_id": "asr-002531",
+              "start_seconds": 10054.32,
+              "clock": "02:47:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002531"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "procedure-and-suspension",
+      "label": "Point of order and negotiated procedure",
+      "items": [
+        {
+          "label": "",
+          "text": "Rep. Antonio \"Tonypet\" T. Albano argued that pre-plenary questions could be handled among members rather than taking time from prepared DBCC questions. Rep. Tobias \"Toby\" M. Tiangco replied that the issue was itself a point of order and that the House should not receive less scrutiny than departments whose spending it examines.",
+          "citations": [
+            {
+              "stable_id": "asr-002381",
+              "start_seconds": 9260.64,
+              "clock": "02:34:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002381"
+            },
+            {
+              "stable_id": "asr-002390",
+              "start_seconds": 9291.64,
+              "clock": "02:34:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002390"
+            },
+            {
+              "stable_id": "asr-002397",
+              "start_seconds": 9316.64,
+              "clock": "02:35:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002397"
+            },
+            {
+              "stable_id": "asr-002408",
+              "start_seconds": 9347.64,
+              "clock": "02:35:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002408"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Deputy Speaker Janette L. Garin proposed referring Tiangco's concern to the Committee on Appropriations for deliberation while allowing the DBCC pre-plenary to continue. Albano maintained that the point of order should be taken first but also recognized that Tiangco still had time for relevant questions.",
+          "citations": [
+            {
+              "stable_id": "asr-002416",
+              "start_seconds": 9371.64,
+              "clock": "02:36:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002416"
+            },
+            {
+              "stable_id": "asr-002426",
+              "start_seconds": 9407.64,
+              "clock": "02:36:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002426"
+            },
+            {
+              "stable_id": "asr-002443",
+              "start_seconds": 9463.64,
+              "clock": "02:37:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002443"
+            },
+            {
+              "stable_id": "asr-002447",
+              "start_seconds": 9475.64,
+              "clock": "02:37:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002447"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Committee Chairperson Mikaela Angela B. Suansing offered to raise the matter with House leadership and the committee's executive committee rather than issue a ruling in the room. Rep. Edgar R. Erice added that the concern involved equitable, not necessarily equal, distribution of House resources and should be considered in plenary. The procedural outcome was deferral and referral, not a merits ruling.",
+          "citations": [
+            {
+              "stable_id": "asr-002465",
+              "start_seconds": 9543.64,
+              "clock": "02:39:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002465"
+            },
+            {
+              "stable_id": "asr-002471",
+              "start_seconds": 9568.64,
+              "clock": "02:39:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002471"
+            },
+            {
+              "stable_id": "asr-002478",
+              "start_seconds": 9585.64,
+              "clock": "02:39:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002478"
+            },
+            {
+              "stable_id": "asr-002483",
+              "start_seconds": 9613.64,
+              "clock": "02:40:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002483"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Garin requested a short suspension, Suansing suspended and then resumed the briefing, and Albano withdrew his point of order. Suansing then invited Tiangco to continue with questions for the agencies present.",
+          "citations": [
+            {
+              "stable_id": "asr-002490",
+              "start_seconds": 9679.68,
+              "clock": "02:41:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002490"
+            },
+            {
+              "stable_id": "asr-002492",
+              "start_seconds": 9689.36,
+              "clock": "02:41:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002492"
+            },
+            {
+              "stable_id": "asr-002500",
+              "start_seconds": 9885.300000000001,
+              "clock": "02:44:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002500"
+            },
+            {
+              "stable_id": "asr-002503",
+              "start_seconds": 9892.160000000002,
+              "clock": "02:44:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002503"
+            },
+            {
+              "stable_id": "asr-002506",
+              "start_seconds": 9909.800000000001,
+              "clock": "02:45:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002506"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "district-allocations",
+      "label": "District and DPWH allocations",
+      "items": [
+        {
+          "label": "",
+          "text": "Rep. Romeo S. Momo Sr. said each District Engineering Office has a total budget and listed projects, and that project information is posted through district-office accounts. He emphasized constituent access but explained that NCR and regional projects are not simply totals by congressional district.",
+          "citations": [
+            {
+              "stable_id": "asr-002552",
+              "start_seconds": 10187.16,
+              "clock": "02:49:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002552"
+            },
+            {
+              "stable_id": "asr-002558",
+              "start_seconds": 10218.68,
+              "clock": "02:50:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002558"
+            },
+            {
+              "stable_id": "asr-002563",
+              "start_seconds": 10236.16,
+              "clock": "02:50:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002563"
+            },
+            {
+              "stable_id": "asr-002566",
+              "start_seconds": 10250.74,
+              "clock": "02:50:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002566"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Garin clarified that a DPWH District Engineering Office is not the same entity as a Congressional District Office. She said a regional allocation could better reflect equitable distribution, but this did not resolve Tiangco's request for a congressional-district summary.",
+          "citations": [
+            {
+              "stable_id": "asr-002575",
+              "start_seconds": 10288.880000000001,
+              "clock": "02:51:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002575"
+            },
+            {
+              "stable_id": "asr-002577",
+              "start_seconds": 10297.960000000001,
+              "clock": "02:51:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002577"
+            },
+            {
+              "stable_id": "asr-002581",
+              "start_seconds": 10325.08,
+              "clock": "02:52:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002581"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Tiangco replied that an engineering-office total does not equal the budget of the congressional district and asked again for the latter to be shown. Suansing said the matter would be referred to DPWH, leaving the requested public summary unresolved in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002586-split-2",
+              "start_seconds": 10363.84,
+              "clock": "02:52:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002586-split-2"
+            },
+            {
+              "stable_id": "asr-002590",
+              "start_seconds": 10383.0,
+              "clock": "02:53:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002590"
+            },
+            {
+              "stable_id": "asr-002592",
+              "start_seconds": 10393.96,
+              "clock": "02:53:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002592"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Erice raised a separate question about the parameters used to determine regional, national, and district allocations, naming need, population, and land area as possible considerations. The bounded record ends with the question; no agency parameter list or answer is captured through asr-002598.",
+          "citations": [
+            {
+              "stable_id": "asr-002594-split-2",
+              "start_seconds": 10411.52,
+              "clock": "02:53:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002594-split-2"
+            },
+            {
+              "stable_id": "asr-002596",
+              "start_seconds": 10425.64,
+              "clock": "02:53:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002596"
+            },
+            {
+              "stable_id": "asr-002598",
+              "start_seconds": 10441.720000000001,
+              "clock": "02:54:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002598"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pleyto-rail-electricity-inflation",
+      "label": "Pleyto: rail delivery, electricity costs, and inflation",
+      "items": [
+        {
+          "label": "",
+          "text": "Rep. Salvador A. Pleyto tied the President's announced partial North-South Commuter Railway operation in the Northern Segment to a funding question: he asked what DOTR requested for the 2027 segment and what amount reached the NEP, then asked the same for the Malolos-to-Clark segment. He urged that funding not be reduced and that releases be timely, while the transcript does not capture a segment-by-segment final allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-002618",
+              "start_seconds": 10584.54,
+              "clock": "02:56:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002618"
+            },
+            {
+              "stable_id": "asr-002620",
+              "start_seconds": 10603.54,
+              "clock": "02:56:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002620"
+            },
+            {
+              "stable_id": "asr-002627",
+              "start_seconds": 10649.16,
+              "clock": "02:57:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002627"
+            },
+            {
+              "stable_id": "asr-002628",
+              "start_seconds": 10654.960000000001,
+              "clock": "02:57:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002628"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Acting DBM Secretary Kim Robert C. De Leon answered that the 2027 NEP proposal for the North-South Commuter Railway system was P123.843 billion, including P95 billion at the 2026 GAA level, and described it as the largest increase compared with that level. He said the Northern Segment was central to the partial-operation target, but acknowledged that the exact North/South breakdown was not available in the room and would be provided later.",
+          "citations": [
+            {
+              "stable_id": "asr-002645",
+              "start_seconds": 10706.1,
+              "clock": "02:58:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002645"
+            },
+            {
+              "stable_id": "asr-002650",
+              "start_seconds": 10731.22,
+              "clock": "02:58:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002650"
+            },
+            {
+              "stable_id": "asr-002651",
+              "start_seconds": 10741.98,
+              "clock": "02:59:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002651"
+            },
+            {
+              "stable_id": "asr-002661",
+              "start_seconds": 10822.82,
+              "clock": "03:00:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002661"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Pleyto asked whether rising electricity rates consume a significant share of Filipino household budgets, especially for lower-income families, and whether households substitute away from food, education, or health spending when electricity rises. DEPDev Secretary Arsenio M. Balisacan answered that electricity spending is price-sensitive and averaged 5.3% of household expenditure, or about P17,057 per year, with a lower share among lower-income groups; the exchange did not quantify behavioral substitution.",
+          "citations": [
+            {
+              "stable_id": "asr-002666",
+              "start_seconds": 10852.82,
+              "clock": "03:00:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002666"
+            },
+            {
+              "stable_id": "asr-002671",
+              "start_seconds": 10897.08,
+              "clock": "03:01:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002671"
+            },
+            {
+              "stable_id": "asr-002678",
+              "start_seconds": 10941.22,
+              "clock": "03:02:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002678"
+            },
+            {
+              "stable_id": "asr-002680",
+              "start_seconds": 10952.539999999999,
+              "clock": "03:02:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002680"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Pleyto connected electricity pass-through to prices and asked BSP how it responds to rising inflation. BSP Deputy Governor Zeno Ronald R. Abenoja said BSP monitors electricity and spillovers into other Consumer Price Index components; he cited recent readings of 6.4% and 6.2% and an outlook around 6.4% for the year including crude-oil, gasoline, and electricity effects.",
+          "citations": [
+            {
+              "stable_id": "asr-002692",
+              "start_seconds": 11015.32,
+              "clock": "03:03:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002692"
+            },
+            {
+              "stable_id": "asr-002696",
+              "start_seconds": 11035.179999999998,
+              "clock": "03:03:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002696"
+            },
+            {
+              "stable_id": "asr-002703",
+              "start_seconds": 11066.78,
+              "clock": "03:04:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002703"
+            },
+            {
+              "stable_id": "asr-002711",
+              "start_seconds": 11108.68,
+              "clock": "03:05:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002711"
+            },
+            {
+              "stable_id": "asr-002719",
+              "start_seconds": 11151.2,
+              "clock": "03:05:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002719"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tinio-pay-nep-flood-control",
+      "label": "Tinio: compensation, NEP integrity, and flood-control priorities",
+      "items": [
+        {
+          "label": "",
+          "text": "Rep. Antonio L. Tinio asked when civilian employees could expect another salary increase after the fourth tranche and separately asked whether the P2,000 monthly PERA could rise in the 2027 budget. DBM said a compensation study would determine the timing and amount of any salary adjustment, with results expected in the second half of the following year, while a PERA study targeted a recommendation before year-end and possible accommodation in 2027 through the Miscellaneous Personnel Benefits Fund. No increase was committed in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002728",
+              "start_seconds": 11193.36,
+              "clock": "03:06:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002728"
+            },
+            {
+              "stable_id": "asr-002732",
+              "start_seconds": 11215.16,
+              "clock": "03:06:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002732"
+            },
+            {
+              "stable_id": "asr-002746",
+              "start_seconds": 11285.28,
+              "clock": "03:08:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002746"
+            },
+            {
+              "stable_id": "asr-002757",
+              "start_seconds": 11331.04,
+              "clock": "03:08:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002757"
+            },
+            {
+              "stable_id": "asr-002770",
+              "start_seconds": 11401.220000000001,
+              "clock": "03:10:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002770"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Tinio argued that recurring differences between large NEP proposals and materially smaller GAA amounts could enable insertions, citing foreign-assisted DOTR examples of P135 billion in the NEP versus P64 billion in the GAA. DBM responded that its NEP amounts reflected evaluated requirements, were below the agency proposal in the cited case, and that later reductions could delay foreign-assisted implementation; DBM said the submitted NEP was already with Congress and did not identify a further IRATA submission in this record.",
+          "citations": [
+            {
+              "stable_id": "asr-002779",
+              "start_seconds": 11459.240000000002,
+              "clock": "03:10:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002779"
+            },
+            {
+              "stable_id": "asr-002789",
+              "start_seconds": 11511.04,
+              "clock": "03:11:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002789"
+            },
+            {
+              "stable_id": "asr-002794",
+              "start_seconds": 11541.04,
+              "clock": "03:12:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002794"
+            },
+            {
+              "stable_id": "asr-002795",
+              "start_seconds": 11548.060000000001,
+              "clock": "03:12:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002795"
+            },
+            {
+              "stable_id": "asr-002807",
+              "start_seconds": 11615.24,
+              "clock": "03:13:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002807"
+            },
+            {
+              "stable_id": "asr-002816",
+              "start_seconds": 11691.0,
+              "clock": "03:14:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002816"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Tinio challenged the distribution of flood-control projects: he highlighted that 113 of 197 District Engineering Offices had projects and that Region 11 had none, despite flooding in Davao. DBM said its evaluation followed proposals submitted by DPWH and deferred a fuller explanation to DPWH; Tinio maintained that the pattern could lead to insertions and that reforms might not hold. The distribution question remained unresolved in the captured response.",
+          "citations": [
+            {
+              "stable_id": "asr-002824",
+              "start_seconds": 11735.02,
+              "clock": "03:15:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002824"
+            },
+            {
+              "stable_id": "asr-002828",
+              "start_seconds": 11753.86,
+              "clock": "03:15:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002828"
+            },
+            {
+              "stable_id": "asr-002833",
+              "start_seconds": 11784.76,
+              "clock": "03:16:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002833"
+            },
+            {
+              "stable_id": "asr-002840",
+              "start_seconds": 11828.04,
+              "clock": "03:17:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002840"
+            },
+            {
+              "stable_id": "asr-002843",
+              "start_seconds": 11841.939999999999,
+              "clock": "03:17:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002843"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Tinio asked whether a leadership fund existed in the budget and questioned why roughly P40–49 billion in flood-control amounts was lodged in the DPWH central office while also appearing distributed to regions. DBM answered that no leadership fund was in the budget and explained that foreign-assisted projects are ordinarily tagged to central offices; Tinio disputed that explanation for the local flood-control projects he cited and said the process still resembled the old practice.",
+          "citations": [
+            {
+              "stable_id": "asr-002845",
+              "start_seconds": 11854.14,
+              "clock": "03:17:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002845"
+            },
+            {
+              "stable_id": "asr-002847",
+              "start_seconds": 11866.68,
+              "clock": "03:17:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002847"
+            },
+            {
+              "stable_id": "asr-002850",
+              "start_seconds": 11873.640000000001,
+              "clock": "03:17:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002850"
+            },
+            {
+              "stable_id": "asr-002857",
+              "start_seconds": 11927.26,
+              "clock": "03:18:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002857"
+            },
+            {
+              "stable_id": "asr-002862",
+              "start_seconds": 11959.380000000001,
+              "clock": "03:19:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002862"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Tinio proposed that flood-control funding should instead support classrooms, contrasting the flood-control increase with a stated 2027 target of only 700 classrooms against a reported 160,000-classroom shortage. DBM cited DepEd's 2026 absorptive capacity and a planned 2027 classroom and school-infrastructure package through public-private partnership, with an estimated P105.7-billion project cost outside the regular appropriations act. The record does not resolve the policy tradeoff or establish that the classroom target was changed.",
+          "citations": [
+            {
+              "stable_id": "asr-002869",
+              "start_seconds": 12014.480000000001,
+              "clock": "03:20:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002869"
+            },
+            {
+              "stable_id": "asr-002870",
+              "start_seconds": 12019.380000000001,
+              "clock": "03:20:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002870"
+            },
+            {
+              "stable_id": "asr-002878",
+              "start_seconds": 12050.12,
+              "clock": "03:20:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002878"
+            },
+            {
+              "stable_id": "asr-002888",
+              "start_seconds": 12089.240000000002,
+              "clock": "03:21:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002888"
+            },
+            {
+              "stable_id": "asr-002892",
+              "start_seconds": 12109.380000000001,
+              "clock": "03:21:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002892"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "recto-fiscal-delivery",
+      "label": "Recto: underspending, revenues, and inflation risks",
+      "items": [
+        {
+          "label": "",
+          "text": "Rep. Ryan S. Recto asked DBM how the government would prevent underspending while capital outlays were proposed to rise 13.8%, noting a 2.3% second-quarter 2026 economic slowdown and his calculation that resources shifted from GOCCs to DPWH represented 27.33%. DBM answered that infrastructure projects in the 2027 NEP had undergone documentary-completeness scrutiny, allowing agencies to begin early procurement before enactment and proceed with award and implementation once the budget passed. The exchange established a proposed mechanism, not proof of execution.",
+          "citations": [
+            {
+              "stable_id": "asr-002895-split-2",
+              "start_seconds": 12178.07,
+              "clock": "03:22:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002895-split-2"
+            },
+            {
+              "stable_id": "asr-002896",
+              "start_seconds": 12199.38,
+              "clock": "03:23:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002896"
+            },
+            {
+              "stable_id": "asr-002897",
+              "start_seconds": 12229.38,
+              "clock": "03:23:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002897"
+            },
+            {
+              "stable_id": "asr-002899",
+              "start_seconds": 12266.140000000001,
+              "clock": "03:24:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002899"
+            },
+            {
+              "stable_id": "asr-002903",
+              "start_seconds": 12291.460000000001,
+              "clock": "03:24:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002903"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Recto questioned optimistic revenue projections through 2030 while a pending tax bill could raise personal-income-tax thresholds, exempt minimum corporate income tax, and alter excise taxes. He asked whether unresolved rates and the roughly P85-billion revenue-loss context had been included in projections. DOF Secretary Frederick Go said the proposed revenue-enhancing and revenue-eroding measures were not included, and that collections would depend on how the legislature finalized the bill after deliberations.",
+          "citations": [
+            {
+              "stable_id": "asr-002912",
+              "start_seconds": 12337.2,
+              "clock": "03:25:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002912"
+            },
+            {
+              "stable_id": "asr-002914",
+              "start_seconds": 12349.380000000001,
+              "clock": "03:25:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002914"
+            },
+            {
+              "stable_id": "asr-002915",
+              "start_seconds": 12369.02,
+              "clock": "03:26:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002915"
+            },
+            {
+              "stable_id": "asr-002922",
+              "start_seconds": 12408.800000000001,
+              "clock": "03:26:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002922"
+            },
+            {
+              "stable_id": "asr-002926",
+              "start_seconds": 12438.800000000001,
+              "clock": "03:27:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002926"
+            },
+            {
+              "stable_id": "asr-002932",
+              "start_seconds": 12472.2,
+              "clock": "03:27:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002932"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Recto asked whether BSP's declining inflation targets were too optimistic given underspending, the unresolved Middle East crisis, global trade uncertainty, and volatile capital flows. BSP Deputy Governor Zeno Ronald R. Abenoja explained that 6.4% for 2026, 4.5% for 2027, and 3.1% for 2028 were forecasts from the prior Monetary Policy Meeting, while the 3% target plus or minus 1% remained unchanged; he identified oil prices, El Niño, and the lagged effects of monetary policy as risks and said the forecast would be updated at the next Monetary Board meeting.",
+          "citations": [
+            {
+              "stable_id": "asr-002936",
+              "start_seconds": 12491.28,
+              "clock": "03:28:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002936"
+            },
+            {
+              "stable_id": "asr-002942",
+              "start_seconds": 12527.44,
+              "clock": "03:28:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002942"
+            },
+            {
+              "stable_id": "asr-002945",
+              "start_seconds": 12542.76,
+              "clock": "03:29:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002945"
+            },
+            {
+              "stable_id": "asr-002951",
+              "start_seconds": 12587.44,
+              "clock": "03:29:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002951"
+            },
+            {
+              "stable_id": "asr-002960",
+              "start_seconds": 12663.02,
+              "clock": "03:31:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002960"
+            },
+            {
+              "stable_id": "asr-002975",
+              "start_seconds": 12762.68,
+              "clock": "03:32:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002975"
+            }
+          ]
+        },
+        {
+          "label": "",
+          "text": "Recto followed up on the Dubai crude assumption and cited a study's higher price scenario, asking whether contingency plans existed if the Middle East conflict pushed crude prices higher and more people fell below the poverty threshold. DBM answered that regular budget line items remained available for an oil crisis and could be mobilized in 2027, including targeted subsidies and fuel support for affected and vulnerable populations such as farmers and fisherfolk. The exchange did not specify a trigger, amount, or agency-level contingency schedule.",
+          "citations": [
+            {
+              "stable_id": "asr-002982",
+              "start_seconds": 12789.18,
+              "clock": "03:33:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002982"
+            },
+            {
+              "stable_id": "asr-002988",
+              "start_seconds": 12820.82,
+              "clock": "03:33:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002988"
+            },
+            {
+              "stable_id": "asr-002994",
+              "start_seconds": 12845.48,
+              "clock": "03:34:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002994"
+            },
+            {
+              "stable_id": "asr-002995",
+              "start_seconds": 12852.6,
+              "clock": "03:34:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002995"
+            },
+            {
+              "stable_id": "asr-002998",
+              "start_seconds": 12862.68,
+              "clock": "03:34:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-002998"
+            },
+            {
+              "stable_id": "asr-003004",
+              "start_seconds": 12895.64,
+              "clock": "03:34:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/1/#asr-003004"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

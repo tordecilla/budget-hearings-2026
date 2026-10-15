@@ -1,0 +1,1296 @@
+{
+  "hearing": {
+    "hearing_id": 80,
+    "title": "House Plenary: FY 2027 General Appropriations Bill Day 1 Part 2 - September 15, 2026",
+    "hearing_date": "2026-09-15",
+    "official_url": "https://www.youtube.com/watch?v=EbDO2fljIqA"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h80/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "DEPDev planning priorities",
+      "text": "Members challenged the evidence behind development targets and sought stronger support for agriculture, livelihoods, education, and productive investment.",
+      "citations": []
+    },
+    {
+      "label": "DBM program allocations",
+      "text": "The discussion examined health financing, 4Ps caseload assumptions, and personnel-benefit proposals, with requests kept separate from settled amounts.",
+      "citations": []
+    },
+    {
+      "label": "Funding transparency",
+      "text": "Questions about earmarks, unprogrammed appropriations, savings, and local support led to commitments to provide records, while several comparisons remained unresolved.",
+      "citations": []
+    }
+  ],
+  "method_note": "Financial figures are attributed to the speaker, fiscal year, scope, and status stated in the hearing. Revenue projections, NEP allocations, funding-source breakdowns, member requests, and indicative proposals are kept distinct.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget proposals",
+      "items": [
+        {
+          "label": "Department of Economy, Planning, and Development (DEPDev)",
+          "text": "No full DEPDev or attached-agency FY 2027 NEP total or original request total was stated in this continuation. Rep. Sarah Jane I. Elago cited projected FY 2027 VAT collections of PHP860 billion and asked whether the projection implied an increase of PHP97.6 billion, or 12.8 percent; the sponsor referred the revenue projection to the Department of Finance. This was a national revenue projection, not a DEPDev allocation. Elago urged stronger support for agriculture and livelihoods, Rep. Renee Louise M. Co pressed the Philippine Development Plan education-spending target, and Rep. Edgar R. Erice sought a development strategy linking borrowing and investment to jobs and productivity. Rep. Sergio C. Dagooc also challenged PSA data gathering and survey timeliness. These discussions produced no recorded DEPDev appropriation change. The later motion terminated DEPDev and attached-agency and corporation deliberations except PSA; it did not approve appropriations.",
+          "citations": [
+            {
+              "stable_id": "asr-000057",
+              "start_seconds": 110.94,
+              "clock": "00:01:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000057"
+            },
+            {
+              "stable_id": "asr-000084",
+              "start_seconds": 168.92000000000002,
+              "clock": "00:02:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000084"
+            },
+            {
+              "stable_id": "asr-000095",
+              "start_seconds": 193.42000000000002,
+              "clock": "00:03:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000095"
+            },
+            {
+              "stable_id": "asr-000419",
+              "start_seconds": 1885.7,
+              "clock": "00:31:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000419"
+            },
+            {
+              "stable_id": "asr-001615",
+              "start_seconds": 6360.22,
+              "clock": "01:46:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001615"
+            },
+            {
+              "stable_id": "asr-003912",
+              "start_seconds": 13971.92,
+              "clock": "03:52:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003912"
+            }
+          ]
+        },
+        {
+          "label": "Department of Budget and Management (DBM)",
+          "text": "No institutional DBM FY 2027 NEP or original agency-request total was stated. The 2027 NEP National Health Insurance Program allocation was PHP74 billion. The sponsor said the current-year PHP129 billion PhilHealth allocation included a one-time PHP60 billion return; excluding it produced an adjusted PHP69 billion comparison, so the proposed PHP74 billion was PHP5 billion higher on that basis. The sponsor described PHP55 billion as coming from sin tax and PHP19 billion from PAGCOR and PCSO shares. Separately, the hearing cited projected 2027 PhilHealth earmarks of PHP59.495 billion from tobacco and PHP15.731 billion from sugar-sweetened beverages (SSB), alongside a stated PHP75.856 billion total UHC earmark; the hearing did not reconcile those figures. Rep. Dadah Kiram Ismula called for restoring missing health funds; DBM said it would comply with amounts authorized by the GAA, without a restoration being adopted in the exchange. The 2027 4Ps NEP allocation was PHP99 billion, compared with about PHP113 billion the prior year; DBM attributed the lower amount to DSWD's reduced household target. The proposed Miscellaneous Personnel Benefits Fund (MPBF) was PHP55 billion, with PHP11.79 billion described as an indicative PERA provision and PHP500 per month as the current indicative increase. Rep. Antonio L. Tinio urged raising the monthly PERA from PHP2,000 to PHP5,000 and restoring school and hospital funding; no final PERA increase was fixed and no restoration was adopted in his round. The later motion terminated DBM interpellations, not the appropriation itself.",
+          "citations": [
+            {
+              "stable_id": "asr-000805",
+              "start_seconds": 2746.0,
+              "clock": "00:45:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000805"
+            },
+            {
+              "stable_id": "asr-000821",
+              "start_seconds": 2824.78,
+              "clock": "00:47:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000821"
+            },
+            {
+              "stable_id": "asr-000822",
+              "start_seconds": 2831.8,
+              "clock": "00:47:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000822"
+            },
+            {
+              "stable_id": "asr-000830",
+              "start_seconds": 2876.82,
+              "clock": "00:47:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000830"
+            },
+            {
+              "stable_id": "asr-000831",
+              "start_seconds": 2885.06,
+              "clock": "00:48:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000831"
+            },
+            {
+              "stable_id": "asr-000871",
+              "start_seconds": 3076.46,
+              "clock": "00:51:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000871"
+            },
+            {
+              "stable_id": "asr-000862",
+              "start_seconds": 3036.76,
+              "clock": "00:50:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000862"
+            },
+            {
+              "stable_id": "asr-001323",
+              "start_seconds": 5142.12,
+              "clock": "01:25:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001323"
+            },
+            {
+              "stable_id": "asr-001325",
+              "start_seconds": 5151.24,
+              "clock": "01:25:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001325"
+            },
+            {
+              "stable_id": "asr-001334",
+              "start_seconds": 5180.62,
+              "clock": "01:26:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001334"
+            },
+            {
+              "stable_id": "asr-001312",
+              "start_seconds": 5063.26,
+              "clock": "01:24:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001312"
+            },
+            {
+              "stable_id": "asr-002752",
+              "start_seconds": 10333.6,
+              "clock": "02:52:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002752"
+            },
+            {
+              "stable_id": "asr-002754",
+              "start_seconds": 10365.82,
+              "clock": "02:52:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002754"
+            },
+            {
+              "stable_id": "asr-002919",
+              "start_seconds": 11222.56,
+              "clock": "03:07:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002919"
+            },
+            {
+              "stable_id": "asr-003078",
+              "start_seconds": 11618.56,
+              "clock": "03:13:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003078"
+            },
+            {
+              "stable_id": "asr-003098",
+              "start_seconds": 11692.77,
+              "clock": "03:14:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003098"
+            },
+            {
+              "stable_id": "asr-003116",
+              "start_seconds": 11757.26,
+              "clock": "03:15:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003116"
+            },
+            {
+              "stable_id": "asr-003322",
+              "start_seconds": 12357.880000000001,
+              "clock": "03:25:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003322"
+            },
+            {
+              "stable_id": "asr-001428",
+              "start_seconds": 5498.92,
+              "clock": "01:31:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001428"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-depdev",
+      "label": "Department of Economy, Planning, and Development (DEPDev)",
+      "items": [
+        {
+          "label": "Rep. Sarah Jane I. Elago",
+          "text": "Rep. Sarah Jane I. Elago questioned the proposed economy's reliance on household consumption and the effect of VAT on purchasing power. She cited projected FY 2027 VAT collections of PHP860 billion and asked whether the budget implied an increase of PHP97.6 billion, or 12.8 percent. Appropriations Committee sponsor Rep. Bella Vanessa B. Suansing said the Department of Finance (DOF) was better placed to answer the VAT revenue projection. Turning to production, Elago said agriculture, forestry, and fishing contributed 1.8 percent to GDP growth from 2023 to 2025, compared with 19.8 percent for industry, and argued that budget support for local agriculture, fuel assistance, and food self-sufficiency was inadequate. Suansing attributed the sector's weak performance to external shocks, including El Nino and typhoons, as well as persistent low productivity, declining farm sizes, and variable yields.\n\nElago asked what would help people remain above the poverty line after DEPDev reported that 8.8 million people had moved above it between 2021 and 2025. Suansing confirmed the figure and explained that it meant their incomes crossed the poverty threshold. Elago questioned whether that alone meant a stable or sufficient income and cited poverty thresholds of PHP16,842 for a five-person family in the National Capital Region (NCR) and PHP14,634 outside NCR, describing the NCR threshold as PHP488 per day. She said minimum wages in 12 regions were below DEPDev's threshold, and that many of the four million jobs generated since 2020 were underemployed. She argued that emergency assistance received much more funding than livelihood and micro, small, and medium enterprise programs, and pressed for decent wages, stable jobs, and added household income so families would not fall back into poverty.\n\nOn the NAIA public-private partnership (PPP), Elago asked whether affected stakeholders had been consulted before approval, how many consultations took place, and whether recommendations were included in the concession agreement. Suansing said consultation occurs during the feasibility study; DEPDev was gathering the project details and agreed to submit them. Elago raised concerns about large retailers' role in public markets and the effect on small vendors; Suansing said market administration was within local government jurisdiction. On PPP monitoring, fee changes, and grievances, Suansing said oversight depends on each project and contract, but grievances could be reported to the PPP Center. She confirmed that the Center was handling complaints about privatization projects and promised to furnish the case information. Elago called for the House to review the PPP Center's work.",
+          "citations": [
+            {
+              "stable_id": "asr-000104",
+              "start_seconds": 211.20000000000002,
+              "clock": "00:03:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000104"
+            },
+            {
+              "stable_id": "asr-000108",
+              "start_seconds": 219.20000000000002,
+              "clock": "00:03:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000108"
+            },
+            {
+              "stable_id": "asr-000140",
+              "start_seconds": 301.2,
+              "clock": "00:05:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000140"
+            },
+            {
+              "stable_id": "asr-000162",
+              "start_seconds": 347.2,
+              "clock": "00:05:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000162"
+            },
+            {
+              "stable_id": "asr-000180",
+              "start_seconds": 385.2,
+              "clock": "00:06:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000180"
+            },
+            {
+              "stable_id": "asr-000247",
+              "start_seconds": 539.78,
+              "clock": "00:08:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000247"
+            },
+            {
+              "stable_id": "asr-000251",
+              "start_seconds": 549.34,
+              "clock": "00:09:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000251"
+            },
+            {
+              "stable_id": "asr-000274",
+              "start_seconds": 637.86,
+              "clock": "00:10:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000274"
+            },
+            {
+              "stable_id": "asr-000275",
+              "start_seconds": 646.74,
+              "clock": "00:10:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000275"
+            },
+            {
+              "stable_id": "asr-000280",
+              "start_seconds": 687.22,
+              "clock": "00:11:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000280"
+            },
+            {
+              "stable_id": "asr-000288",
+              "start_seconds": 753.9399999999999,
+              "clock": "00:12:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000288"
+            },
+            {
+              "stable_id": "asr-000294",
+              "start_seconds": 811.06,
+              "clock": "00:13:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000294"
+            },
+            {
+              "stable_id": "asr-000303",
+              "start_seconds": 880.54,
+              "clock": "00:14:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000303"
+            },
+            {
+              "stable_id": "asr-000307",
+              "start_seconds": 908.88,
+              "clock": "00:15:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000307"
+            },
+            {
+              "stable_id": "asr-000314",
+              "start_seconds": 981.2,
+              "clock": "00:16:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000314"
+            },
+            {
+              "stable_id": "asr-000334",
+              "start_seconds": 1174.46,
+              "clock": "00:19:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000334"
+            },
+            {
+              "stable_id": "asr-000340",
+              "start_seconds": 1230.16,
+              "clock": "00:20:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000340"
+            },
+            {
+              "stable_id": "asr-000343",
+              "start_seconds": 1250.54,
+              "clock": "00:20:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000343"
+            }
+          ]
+        },
+        {
+          "label": "Rep. Renee Louise M. Co",
+          "text": "Rep. Renee Louise M. Co asked sponsor Rep. Bella Vanessa B. Suansing to explain the Philippine Development Plan statement that education policies had undermined better-performing private schools, as reflected in declining private-school enrollment. Suansing attributed the statement to the Plan being drafted during the pandemic, when many private schools closed, and agreed it was not a development indicator; she said she would provide a detailed justification after the Department of Economy, Planning, and Development (DEPDev) retrieved its basis. Co raised the constitutional complementarity of public and private education, sought a written explanation and possible revision, and warned that public-private classroom or commercial-space projects could be used to justify cuts to public education. She also asked how the government would meet the Plan and Education 2030 spending target: the Plan cited education spending of 4-6% of GDP, while Co said the NEP ratio was about 3.95%. She pointed to reduced year-on-year budgets for 49 of 113 state universities and colleges and asked what DEPDev had done to advance the target. Suansing said education remained a priority, but DEPDev recommends policy and does not control sector budget allocations; she cited its recommendations through EDCOM and its technical-secretariat role, without giving a path to the spending target. Co requested that the Department report the economic and social effects of missing the targets.\n\nCo then asked whether DEPDev had assessed development trade-offs from the Philippines-United States Critical Minerals Memorandum of Understanding, which she viewed as potentially giving the United States preferential access and constraining other partnerships. Suansing said DEPDev was not involved in the proposed memorandum and had not reviewed its effects. Co connected the agreement to Executive Order 122 and asked whether DEPDev had contributed to that framework or assessed its effects; Suansing said no assessment had yet been conducted and DEPDev had not been brought into implementation. She assured Co that DEPDev would examine the concerns once involved. Co requested findings on the agreement and follow-on actions, including their development effects, to accompany the requested education explanation, and questioned whether decisions served Philippine interests. No assessment or substantive answer on the trade-offs was provided in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-000357",
+              "start_seconds": 1330.76,
+              "clock": "00:22:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000357"
+            },
+            {
+              "stable_id": "asr-000380",
+              "start_seconds": 1641.0,
+              "clock": "00:27:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000380"
+            },
+            {
+              "stable_id": "asr-000402",
+              "start_seconds": 1784.38,
+              "clock": "00:29:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000402"
+            },
+            {
+              "stable_id": "asr-000415",
+              "start_seconds": 1855.7,
+              "clock": "00:30:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000415"
+            },
+            {
+              "stable_id": "asr-000426",
+              "start_seconds": 1929.7,
+              "clock": "00:32:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000426"
+            },
+            {
+              "stable_id": "asr-000477",
+              "start_seconds": 2040.7,
+              "clock": "00:34:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000477"
+            },
+            {
+              "stable_id": "asr-000627",
+              "start_seconds": 2348.7,
+              "clock": "00:39:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000627"
+            },
+            {
+              "stable_id": "asr-000669",
+              "start_seconds": 2434.7,
+              "clock": "00:40:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000669"
+            },
+            {
+              "stable_id": "asr-000729",
+              "start_seconds": 2556.7,
+              "clock": "00:42:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000729"
+            },
+            {
+              "stable_id": "asr-000739",
+              "start_seconds": 2576.7,
+              "clock": "00:42:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000739"
+            }
+          ]
+        },
+        {
+          "label": "Rep. Edgar R. Erice",
+          "text": "Rep. Edgar R. Erice asked whether government borrowing financed durable development or recurring aid, and whether national spending was aligned with the Philippine Development Plan. Sponsor Rep. Bella Vanessa B. Suansing said the Department of Economy, Planning, and Development (DEPDev) formulates policy and updates the Plan, but does not control contracted loans or the revenue program for investments. She said studies existed on social programs, poverty alleviation, and national development, while DEPDev was checking which studies on fiscal sustainability it had on file.\n\nErice asked for the growth strategy behind the proposed 2027 budget and projections of jobs, productivity, and output over one-, three-, and five-year horizons. Suansing pointed to external shocks and short- and medium-term support for vulnerable sectors. In response to his questions about delayed public investment, weaker private investment, and questionable infrastructure, she identified fiscal multipliers as one input to budget crafting: 2.03 for public administration, 1.24 for agriculture, 2.33 for public education, and 1.32 for public health. She offered to furnish a longer list and a side-by-side view of NEP shares, but gave no job or output projections.\n\nErice questioned spending choices that he said reduced human-capital sectors while increasing aid and lump-sum allocations, citing LGSF utilization of 58% and unspent cash-assistance and TUPAD funds. Suansing attributed some nominal sector decreases to one-off increases in the prior budget deliberation, then said DEPDev lacked authority over NEP crafting and sector allocations. She later clarified that DEPDev participates in sector prioritization reflected in the NEP, advises through the Economic Development Council, and is part of the DBCC; its recommendations follow the Philippine Development Plan. Erice challenged whether aid and LGSF favored political allies and urged the Department to guide future human-capital, livelihood, and productivity priorities. Suansing reiterated DEPDev's recommendation role without addressing the allegation or giving a specific allocation plan.",
+          "citations": [
+            {
+              "stable_id": "asr-001500",
+              "start_seconds": 5964.9400000000005,
+              "clock": "01:39:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001500"
+            },
+            {
+              "stable_id": "asr-001509",
+              "start_seconds": 6030.92,
+              "clock": "01:40:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001509"
+            },
+            {
+              "stable_id": "asr-001533",
+              "start_seconds": 6168.64,
+              "clock": "01:42:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001533"
+            },
+            {
+              "stable_id": "asr-001541",
+              "start_seconds": 6185.26,
+              "clock": "01:43:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001541"
+            },
+            {
+              "stable_id": "asr-001590",
+              "start_seconds": 6306.2,
+              "clock": "01:45:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001590"
+            },
+            {
+              "stable_id": "asr-001599",
+              "start_seconds": 6323.44,
+              "clock": "01:45:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001599"
+            },
+            {
+              "stable_id": "asr-001602",
+              "start_seconds": 6329.1,
+              "clock": "01:45:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001602"
+            },
+            {
+              "stable_id": "asr-001604",
+              "start_seconds": 6337.22,
+              "clock": "01:45:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001604"
+            },
+            {
+              "stable_id": "asr-001606",
+              "start_seconds": 6343.12,
+              "clock": "01:45:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001606"
+            },
+            {
+              "stable_id": "asr-001691",
+              "start_seconds": 6521.18,
+              "clock": "01:48:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001691"
+            },
+            {
+              "stable_id": "asr-001715",
+              "start_seconds": 6571.18,
+              "clock": "01:49:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001715"
+            },
+            {
+              "stable_id": "asr-001733",
+              "start_seconds": 6609.18,
+              "clock": "01:50:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001733"
+            },
+            {
+              "stable_id": "asr-001751",
+              "start_seconds": 6659.18,
+              "clock": "01:50:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001751"
+            },
+            {
+              "stable_id": "asr-001790",
+              "start_seconds": 6739.18,
+              "clock": "01:52:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001790"
+            },
+            {
+              "stable_id": "asr-001807",
+              "start_seconds": 6773.18,
+              "clock": "01:52:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001807"
+            }
+          ]
+        },
+        {
+          "label": "Rep. Sergio C. Dagooc",
+          "text": "Rep. Sergio C. Dagooc pressed the Department of Economy, Planning, and Development (DEPDev) over the age of data supplied for his question about electricity and oil costs as shares of production and service costs. He said he needed those shares to judge whether a proposed tax reduction would reach consumer and pump prices. Although he acknowledged DEPDev's timely response to his budget-briefing request, the figures supplied through the Philippine Statistics Authority (PSA) were based on 2018 input-output data. He argued that electricity prices had changed too much for those shares to guide present budget and investment priorities, and questioned whether the old data underlay DEPDev's approach to high power costs and Agus-Pulangi rehabilitation. Those were his concerns about the data's policy consequences, not an established finding that a particular project recommendation used the 2018 table.\n\nDagooc asked who in DEPDev prepared the reply and who at PSA supplied the figures. He also challenged the frequency of PSA's business and industry survey, invoking its duty to provide timely, accurate statistics and warning that stale inputs could distort DEPDev's economic models. Budget sponsor Rep. Bella Vanessa B. Suansing said DEPDev uses econometric models and explained that PSA's input-output tables depend on a business and industry census conducted on a six-year cycle. She said the latest survey was conducted in 2025 with 2024 reference data, and PSA was ready to provide preliminary input-output and electricity-cost figures if Dagooc wanted them, while emphasizing that they were not yet official statistics. She attributed survey timing to the interagency PSA Board, chaired by the DEPDev secretary.\n\nDagooc rejected the survey-cycle explanation as an answer to whether the figures were current enough for economic planning and whether the timing met PSA's charter. He pressed the agency's budget justification, then cut short his questioning of DEPDev and PSA to leave time for other members. The offered preliminary figures and the requested preparer identities were not supplied during this round.\n\nRep. Sergio C. Dagooc manifested continuing frustration with how the Philippine Statistics Authority (PSA) fulfilled its charter, saying its data-gathering problems and a six-year survey cycle were hard to reconcile with the annual utility surveys he completed as a cooperative manager. He argued that the data had a bearing on budget decisions and should be examined further. Dagooc moved to terminate interpellations on the Department of Economy, Planning, and Development (DEPDev) and its attached agencies while expressly excluding PSA. The majority joined; Deputy Speaker Mercedes K. Alvarez heard no objection and declared the interpellations terminated. This unit records no separate disposition of the PSA budget.\n\nRep. Sergio C. Dagooc withdrew his earlier motion and replaced it with one to end interpellation and debate on the proposed budget of the Department of Economy, Planning, and Development (DEPDev), its attached agencies and corporations, except the Philippine Statistics Authority (PSA). Majority representative Rep. Munir N. Arbison Jr. joined the motion. With no objection, Deputy Speaker Mercedes K. Alvarez declared interpellation on that scope terminated. The PSA exception remained, and this action did not approve the appropriations.",
+          "citations": [
+            {
+              "stable_id": "asr-001869",
+              "start_seconds": 6913.18,
+              "clock": "01:55:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001869"
+            },
+            {
+              "stable_id": "asr-001923",
+              "start_seconds": 7022.1,
+              "clock": "01:57:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001923"
+            },
+            {
+              "stable_id": "asr-001936",
+              "start_seconds": 7072.74,
+              "clock": "01:57:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001936"
+            },
+            {
+              "stable_id": "asr-001944",
+              "start_seconds": 7123.6,
+              "clock": "01:58:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001944"
+            },
+            {
+              "stable_id": "asr-001969",
+              "start_seconds": 7221.18,
+              "clock": "02:00:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001969"
+            },
+            {
+              "stable_id": "asr-001982",
+              "start_seconds": 7315.18,
+              "clock": "02:01:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001982"
+            },
+            {
+              "stable_id": "asr-002043",
+              "start_seconds": 7483.58,
+              "clock": "02:04:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002043"
+            },
+            {
+              "stable_id": "asr-002106",
+              "start_seconds": 7584.06,
+              "clock": "02:06:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002106"
+            },
+            {
+              "stable_id": "asr-002109",
+              "start_seconds": 7590.14,
+              "clock": "02:06:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002109"
+            },
+            {
+              "stable_id": "asr-002114",
+              "start_seconds": 7599.92,
+              "clock": "02:06:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002114"
+            },
+            {
+              "stable_id": "asr-002118",
+              "start_seconds": 7608.06,
+              "clock": "02:06:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002118"
+            },
+            {
+              "stable_id": "asr-002143",
+              "start_seconds": 7612.46,
+              "clock": "02:06:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002143"
+            },
+            {
+              "stable_id": "asr-002145",
+              "start_seconds": 7622.14,
+              "clock": "02:07:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002145"
+            },
+            {
+              "stable_id": "asr-002148",
+              "start_seconds": 7639.98,
+              "clock": "02:07:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002148"
+            },
+            {
+              "stable_id": "asr-002184",
+              "start_seconds": 7784.34,
+              "clock": "02:09:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002184"
+            },
+            {
+              "stable_id": "asr-002190",
+              "start_seconds": 7853.22,
+              "clock": "02:10:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002190"
+            },
+            {
+              "stable_id": "asr-002214",
+              "start_seconds": 7945.94,
+              "clock": "02:12:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002214"
+            },
+            {
+              "stable_id": "asr-002215",
+              "start_seconds": 7951.94,
+              "clock": "02:12:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002215"
+            },
+            {
+              "stable_id": "asr-003789",
+              "start_seconds": 13568.12,
+              "clock": "03:46:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003789"
+            },
+            {
+              "stable_id": "asr-003815",
+              "start_seconds": 13643.36,
+              "clock": "03:47:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003815"
+            },
+            {
+              "stable_id": "asr-003797",
+              "start_seconds": 13597.04,
+              "clock": "03:46:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003797"
+            },
+            {
+              "stable_id": "asr-003841",
+              "start_seconds": 13700.4,
+              "clock": "03:48:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003841"
+            },
+            {
+              "stable_id": "asr-003899",
+              "start_seconds": 13908.66,
+              "clock": "03:51:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003899"
+            },
+            {
+              "stable_id": "asr-003906",
+              "start_seconds": 13922.54,
+              "clock": "03:52:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003906"
+            },
+            {
+              "stable_id": "asr-003908",
+              "start_seconds": 13941.92,
+              "clock": "03:52:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003908"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dbm",
+      "label": "Department of Budget and Management (DBM)",
+      "items": [
+        {
+          "label": "Rep. Iris Marie Demesa Montes",
+          "text": "4K Rep. Iris Marie Demesa Montes questioned the Department of Budget and Management (DBM) over the proposed 2027 health allocation and what she saw as a threat to universal health care (UHC) services. Budget sponsor Rep. Bella Vanessa B. Suansing attributed the health-budget decline to Health Facilities Enhancement Program utilization and implementation delays, a return of that program and medical-assistance funding to National Expenditure Program levels, and a one-time PHP60 billion return to the Philippine Health Insurance Corporation (PhilHealth) that could not recur. Montes compared PhilHealth's PHP129 billion current-year allocation with PHP74 billion proposed for 2027. Suansing answered that the current-year figure included the one-time return: excluding it gives PHP69 billion, making the proposed allocation PHP5 billion higher on that basis. Montes still questioned whether the underlying public contribution would support primary care, outpatient and catastrophic benefits; the sponsor did not give service-by-service targets in this exchange.\n\nMontes then sought the sources of the proposed PhilHealth allocation and an accounting of past sin-tax, Philippine Amusement and Gaming Corporation (PAGCOR) and Philippine Charity Sweepstakes Office (PCSO) remittances. After initially calling one component a national subsidy, Suansing corrected the breakdown to PHP55 billion from sin tax and PHP19 billion from PAGCOR and PCSO shares. Montes contrasted PhilHealth's arrears figure with the smaller DBM figure; Suansing specified that DBM's amount covered PAGCOR and PCSO, leaving the broader figures unreconciled. At Montes's request, the sponsor committed to submit DBM's official itemized arrears and remittance accounting, including legacy premium-subsidy obligations. On Montes's question about unremitted earmarked collections, Suansing said UHC revenue is earmarked under law but lacks a cash-tracking mechanism, and relayed DBM's position that the variance remains in the general fund. Montes argued that government must honor those earmarks and timely finance PhilHealth rather than leave contributors bearing the gap.\n\nMontes also asked where proceeds of an ADB-JICA UHC policy loan went, how its first three subprograms were financed and repaid, and whether their health-system targets had been met. Suansing explained that a policy loan enters the general fund and is attributed to UHC programs across the Department of Health (DOH), including facilities and medical assistance, rather than exclusively to PhilHealth. Montes requested loan amounts, terms, implementing agencies, fiscal projections and output assessments before deliberations ended. Suansing said DBM would comply with line-by-line details and projections; no assessment or loan accounting was delivered on the floor.",
+          "citations": [
+            {
+              "stable_id": "asr-000776",
+              "start_seconds": 2656.7,
+              "clock": "00:44:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000776"
+            },
+            {
+              "stable_id": "asr-000801",
+              "start_seconds": 2727.48,
+              "clock": "00:45:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000801"
+            },
+            {
+              "stable_id": "asr-000817",
+              "start_seconds": 2813.2,
+              "clock": "00:46:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000817"
+            },
+            {
+              "stable_id": "asr-000835",
+              "start_seconds": 2901.28,
+              "clock": "00:48:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000835"
+            },
+            {
+              "stable_id": "asr-000885",
+              "start_seconds": 3146.82,
+              "clock": "00:52:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000885"
+            },
+            {
+              "stable_id": "asr-000888",
+              "start_seconds": 3181.18,
+              "clock": "00:53:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000888"
+            },
+            {
+              "stable_id": "asr-000897",
+              "start_seconds": 3238.7,
+              "clock": "00:53:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000897"
+            },
+            {
+              "stable_id": "asr-000900",
+              "start_seconds": 3263.96,
+              "clock": "00:54:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000900"
+            },
+            {
+              "stable_id": "asr-000907",
+              "start_seconds": 3316.84,
+              "clock": "00:55:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000907"
+            },
+            {
+              "stable_id": "asr-000925",
+              "start_seconds": 3393.88,
+              "clock": "00:56:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000925"
+            },
+            {
+              "stable_id": "asr-000926",
+              "start_seconds": 3400.88,
+              "clock": "00:56:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000926"
+            },
+            {
+              "stable_id": "asr-000972",
+              "start_seconds": 3504.4,
+              "clock": "00:58:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-000972"
+            },
+            {
+              "stable_id": "asr-001040",
+              "start_seconds": 3806.04,
+              "clock": "01:03:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001040"
+            },
+            {
+              "stable_id": "asr-001046",
+              "start_seconds": 3853.04,
+              "clock": "01:04:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001046"
+            },
+            {
+              "stable_id": "asr-001063",
+              "start_seconds": 4000.96,
+              "clock": "01:06:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001063"
+            },
+            {
+              "stable_id": "asr-001082",
+              "start_seconds": 4060.96,
+              "clock": "01:07:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001082"
+            },
+            {
+              "stable_id": "asr-001093",
+              "start_seconds": 4125.5599999999995,
+              "clock": "01:08:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001093"
+            },
+            {
+              "stable_id": "asr-001103",
+              "start_seconds": 4180.4,
+              "clock": "01:09:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001103"
+            },
+            {
+              "stable_id": "asr-001114",
+              "start_seconds": 4239.72,
+              "clock": "01:10:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001114"
+            }
+          ]
+        },
+        {
+          "label": "Rep. Dadah Kiram Ismula",
+          "text": "Rep. Dadah Kiram Ismula asked how the Department of Budget and Management (DBM) applies the Universal Health Care (UHC) Act and sin-tax laws. Appropriations Committee sponsor Rep. Bella Vanessa B. Suansing confirmed the statutory earmarks she described: 60 percent of excise taxes on alcohol, heated tobacco, and vapor products for UHC, and another 20 percent for medical assistance to indigent patients and public-hospital upgrades. Suansing said the funds are earmarked but not automatically appropriated; after Ismula said the law itself appropriates them and the Executive cannot divert them, Suansing agreed they cannot be diverted. Ismula cited FY 2026 estimates totaling over PHP500 billion. Suansing later distinguished collection projections from programmed amounts: she gave 2026 programmed tobacco of PHP164.386 billion and SSB of PHP37.67 billion, and said the Department of Finance (DOF) was better placed to speak to actual revenue projections. For FY 2027 Budget of Expenditures and Sources of Financing (BESF) Table C.3, Suansing gave projected collections of PHP39.669 billion from SSB, PHP182.209 billion from tobacco, and PHP136.713 billion from alcohol, describing their total as PHP357 billion. For 2027 health earmarks, she cited PHP59.495 billion from tobacco and PHP15.731 billion from SSB for PhilHealth, no alcohol allocation to PhilHealth, and PHP75.856 billion in total earmarked revenue for UHC. The component figures and stated total were not reconciled on the floor. She said this was the basis for the NEP's PHP74 billion National Health Insurance Program allocation. Ismula asked whether this left a shortfall against statutory earmarking, and Suansing agreed.\n\nSuansing described a recurring certification problem: earmarked revenues require certification before they can be programmed, but the certification may not arrive in time for budget planning. She said DBM relies on the certification, while DOF is better placed to explain its issuance; DBM was in dialogue with DOF to expedite certifications. Ismula requested a complete accounting of sin-tax collections against actual health allocations from 2020 to the present, and Suansing committed that DBM would provide it. Ismula also asked whether DBM would release and execute any health funds Congress restores; Suansing said DBM would comply as authorized by the General Appropriations Act (GAA).\n\nOn unprogrammed appropriations (UA), Ismula asked whether disbursements above programmed levels from FY 2022 to FY 2025 partly reflected UA releases; Suansing said they did, along with continuing appropriations. Ismula cited the 2025 Fiscal Risk Statement's warning that UA added PHP118 billion, or 0.66 percentage points, to the deficit-to-GDP ratio, and questioned how that fit with the description of UA as deficit-neutral. Suansing attributed the effect mainly to loan-proceeds disbursements and transfers from programmed to unprogrammed items. She said DBM estimated each PHP30 billion in excess disbursement would add 0.1 percentage point to the debt-to-GDP ratio. Ismula requested annual UA releases for FY 2022-2025 by expense class and implementing agency, a detailed list of funded programs and projects, and a report comparing UA releases with deficit increases against original and adjusted programs. Suansing agreed to provide the data and report to Ismula and Rep. Laila Delima; the exchange included no annual release totals.",
+          "citations": [
+            {
+              "stable_id": "asr-001166",
+              "start_seconds": 4500.0,
+              "clock": "01:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001166"
+            },
+            {
+              "stable_id": "asr-001168",
+              "start_seconds": 4514.42,
+              "clock": "01:15:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001168"
+            },
+            {
+              "stable_id": "asr-001176",
+              "start_seconds": 4564.16,
+              "clock": "01:16:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001176"
+            },
+            {
+              "stable_id": "asr-001179",
+              "start_seconds": 4576.76,
+              "clock": "01:16:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001179"
+            },
+            {
+              "stable_id": "asr-001207",
+              "start_seconds": 4728.76,
+              "clock": "01:18:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001207"
+            },
+            {
+              "stable_id": "asr-001206",
+              "start_seconds": 4724.56,
+              "clock": "01:18:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001206"
+            },
+            {
+              "stable_id": "asr-001263",
+              "start_seconds": 4878.4,
+              "clock": "01:21:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001263"
+            },
+            {
+              "stable_id": "asr-001273",
+              "start_seconds": 4931.48,
+              "clock": "01:22:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001273"
+            },
+            {
+              "stable_id": "asr-001274",
+              "start_seconds": 4937.08,
+              "clock": "01:22:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001274"
+            },
+            {
+              "stable_id": "asr-001276",
+              "start_seconds": 4953.58,
+              "clock": "01:22:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001276"
+            },
+            {
+              "stable_id": "asr-001281",
+              "start_seconds": 4968.58,
+              "clock": "01:22:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001281"
+            },
+            {
+              "stable_id": "asr-001354",
+              "start_seconds": 5231.46,
+              "clock": "01:27:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001354"
+            },
+            {
+              "stable_id": "asr-001374",
+              "start_seconds": 5285.72,
+              "clock": "01:28:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001374"
+            },
+            {
+              "stable_id": "asr-001405",
+              "start_seconds": 5369.9400000000005,
+              "clock": "01:29:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001405"
+            },
+            {
+              "stable_id": "asr-001424",
+              "start_seconds": 5468.92,
+              "clock": "01:31:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001424"
+            },
+            {
+              "stable_id": "asr-001445",
+              "start_seconds": 5630.64,
+              "clock": "01:33:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001445"
+            },
+            {
+              "stable_id": "asr-001447",
+              "start_seconds": 5644.22,
+              "clock": "01:34:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001447"
+            },
+            {
+              "stable_id": "asr-001454",
+              "start_seconds": 5700.4,
+              "clock": "01:35:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001454"
+            },
+            {
+              "stable_id": "asr-001469",
+              "start_seconds": 5778.9,
+              "clock": "01:36:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001469"
+            },
+            {
+              "stable_id": "asr-001479",
+              "start_seconds": 5861.08,
+              "clock": "01:37:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001479"
+            },
+            {
+              "stable_id": "asr-001487",
+              "start_seconds": 5913.78,
+              "clock": "01:38:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-001487"
+            }
+          ]
+        },
+        {
+          "label": "Rep. Roberto Nazal",
+          "text": "Rep. Roberto Nazal asked whether Section 38 of the Administrative Code permits suspending expenditure before a SARO or allotment is issued. Appropriations Committee sponsor Rep. Bella Vanessa B. Suansing said the Department of Budget and Management (DBM) could suspend an appropriation before initial allotment. She read from Araulio v. Aquino and said the passage Nazal cited was a separate opinion, not the Supreme Court's decision; Nazal disputed that reading and argued the decision bars suspension of appropriations before funds are released and allotted. Suansing maintained DBM's position but said it had not invoked Section 38 or suspended an appropriation or allotment as of the hearing. The legal interpretations remained in conflict; no suspension was reported in this exchange.\n\nNazal and Suansing agreed that temporary suspension does not by itself create savings; savings require a separate qualifying basis such as completion, final discontinuance or abandonment, or efficiencies. Suansing said an agency head certifies the project-specific basis and that DBM checks obligation status in agency financial reports. She cited PHP20,059,488,612 in 2025 continuing appropriations offered in 2026 as savings from a mix of completion, discontinuance, abandonment, and efficiency grounds. Nazal asked for project-level certifications, the affected projects, and where savings were augmented; Suansing committed to provide the line-by-line records, including a copy of documents held by DBM. The two also addressed conflicting accounts of returned DPWH SAROs: Nazal cited DPWH's report of returns in 2025, while Suansing said DBM had no corresponding certification or negative SARO and, when asked directly, reported no 2025 DPWH return. She said DBM would submit records to resolve the discrepancy. She stated other agencies had returned SAROs and promised further data; no final reconciliation with the DPWH account appears here.\n\nNazal argued that DBM should apply checks beyond agency-head certifications, warning that without validation savings could be declared arbitrarily and funds augmented elsewhere. Suansing said DBM relied on agency-head certifications for technical grounds, recognized Nazal's concern, submitted to Congress's authority to add safeguards, and agreed to provide a list of projects declared savings and their augmentation destinations by Thursday. On the separate question of a NEP chapter tracking overall savings and where they went, Suansing said general pooling of savings was not allowed and that the 2023 NEP chapter had appeared because the Bayanihan Law provided for it. She committed to submit an existing report to Nazal and said DBM would study whether to restore a recurring NEP chapter; she did not commit to including it in the NEP. Nazal maintained that similar reporting existed before Bayanihan, so the history and the requested restoration remained unresolved.",
+          "citations": [
+            {
+              "stable_id": "asr-002271",
+              "start_seconds": 8142.86,
+              "clock": "02:15:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002271"
+            },
+            {
+              "stable_id": "asr-002282",
+              "start_seconds": 8190.0,
+              "clock": "02:16:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002282"
+            },
+            {
+              "stable_id": "asr-002317",
+              "start_seconds": 8470.9,
+              "clock": "02:21:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002317"
+            },
+            {
+              "stable_id": "asr-002331",
+              "start_seconds": 8533.3,
+              "clock": "02:22:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002331"
+            },
+            {
+              "stable_id": "asr-002354",
+              "start_seconds": 8613.14,
+              "clock": "02:23:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002354"
+            },
+            {
+              "stable_id": "asr-002391",
+              "start_seconds": 8704.06,
+              "clock": "02:25:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002391"
+            },
+            {
+              "stable_id": "asr-002430",
+              "start_seconds": 8808.12,
+              "clock": "02:26:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002430"
+            },
+            {
+              "stable_id": "asr-002435",
+              "start_seconds": 8817.8,
+              "clock": "02:26:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002435"
+            },
+            {
+              "stable_id": "asr-002493",
+              "start_seconds": 9111.08,
+              "clock": "02:31:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002493"
+            },
+            {
+              "stable_id": "asr-002496",
+              "start_seconds": 9134.34,
+              "clock": "02:32:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002496"
+            },
+            {
+              "stable_id": "asr-002531",
+              "start_seconds": 9279.6,
+              "clock": "02:34:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002531"
+            },
+            {
+              "stable_id": "asr-002549",
+              "start_seconds": 9348.52,
+              "clock": "02:35:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002549"
+            },
+            {
+              "stable_id": "asr-002564",
+              "start_seconds": 9424.3,
+              "clock": "02:37:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002564"
+            },
+            {
+              "stable_id": "asr-002628",
+              "start_seconds": 9726.7,
+              "clock": "02:42:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002628"
+            },
+            {
+              "stable_id": "asr-002645",
+              "start_seconds": 9829.94,
+              "clock": "02:43:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002645"
+            },
+            {
+              "stable_id": "asr-002674",
+              "start_seconds": 9958.16,
+              "clock": "02:45:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002674"
+            },
+            {
+              "stable_id": "asr-002690",
+              "start_seconds": 10020.1,
+              "clock": "02:47:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002690"
+            },
+            {
+              "stable_id": "asr-002711",
+              "start_seconds": 10138.16,
+              "clock": "02:48:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002711"
+            },
+            {
+              "stable_id": "asr-002726",
+              "start_seconds": 10233.34,
+              "clock": "02:50:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002726"
+            }
+          ]
+        },
+        {
+          "label": "Rep. JC M. Abalos",
+          "text": "4Ps Party-list Rep. JC M. Abalos asked the Department of Budget and Management (DBM) to explain the proposed 2027 allocation for the Pantawid Pamilyang Pilipino Program (4Ps). Budget sponsor Rep. Bella Vanessa B. Suansing confirmed PHP99 billion in the 2027 National Expenditure Program, down from roughly PHP113 billion the previous year, and attributed the reduction to fewer beneficiary households as some graduated from the program. Abalos questioned the move from an approximately 4.4 million-household target to 3.5 million and asked what empirical evidence supported it. Suansing said DBM was using the Department of Social Welfare and Development's (DSWD) Listahanan while reconciling it with the Community-Based Monitoring System (CBMS). She later clarified that DSWD itself set the 3.5 million target and DBM used the implementing agency's proposed level in calculating the allocation; she deferred the target's technical basis to DSWD.\n\nAbalos said households remained on a waitlist, some former Listahanan households could not be matched in CBMS, and the Middle East oil shock could increase poverty beyond the data used for the reduced caseload. He sought a breakdown of active households by data source, the number still under validation and how long reconciliation had run. Suansing said DBM lacked the reconciliation timeline and household-level details, which she said DSWD would have. Abalos challenged budgeting on a reduced caseload before the lists were reconciled and asked whether a previously qualified, waitlisted family missing from CBMS could seek inclusion, re-enumeration or independent validation. He closed by requesting that DBM and the sponsor furnish the mechanism used for such cases. No mechanism or substantive answer to that final request was given in this round.",
+          "citations": [
+            {
+              "stable_id": "asr-002755",
+              "start_seconds": 10368.52,
+              "clock": "02:52:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002755"
+            },
+            {
+              "stable_id": "asr-002762",
+              "start_seconds": 10398.82,
+              "clock": "02:53:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002762"
+            },
+            {
+              "stable_id": "asr-002763",
+              "start_seconds": 10406.54,
+              "clock": "02:53:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002763"
+            },
+            {
+              "stable_id": "asr-002769",
+              "start_seconds": 10447.58,
+              "clock": "02:54:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002769"
+            },
+            {
+              "stable_id": "asr-002776",
+              "start_seconds": 10496.54,
+              "clock": "02:54:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002776"
+            },
+            {
+              "stable_id": "asr-002800",
+              "start_seconds": 10641.98,
+              "clock": "02:57:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002800"
+            },
+            {
+              "stable_id": "asr-002808",
+              "start_seconds": 10689.4,
+              "clock": "02:58:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002808"
+            },
+            {
+              "stable_id": "asr-002821",
+              "start_seconds": 10740.0,
+              "clock": "02:59:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002821"
+            },
+            {
+              "stable_id": "asr-002834",
+              "start_seconds": 10804.56,
+              "clock": "03:00:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002834"
+            },
+            {
+              "stable_id": "asr-002840",
+              "start_seconds": 10858.74,
+              "clock": "03:00:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002840"
+            },
+            {
+              "stable_id": "asr-002853",
+              "start_seconds": 10961.0,
+              "clock": "03:02:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002853"
+            },
+            {
+              "stable_id": "asr-002855",
+              "start_seconds": 10973.46,
+              "clock": "03:02:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002855"
+            },
+            {
+              "stable_id": "asr-002863",
+              "start_seconds": 11009.26,
+              "clock": "03:03:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002863"
+            }
+          ]
+        },
+        {
+          "label": "Rep. Antonio L. Tinio",
+          "text": "ACT Teachers Rep. Antonio L. Tinio criticized past reductions to the Miscellaneous Personnel Benefits Fund (MPBF) and to foreign-assisted projects of the Department of Transportation (DOTr), alleging that such cuts had made room for congressional additions. For 2027, he asked whether the proposed PHP55 billion MPBF would finance an increase in the personnel economic relief allowance (PERA). Budget sponsor Rep. Bella Vanessa B. Suansing confirmed that an increase was planned and that an indicative portion of the fund was set aside for it, but said the final increase had not been fixed. She later identified about PHP11.79 billion as the indicative PERA provision and described a PHP500 monthly increase as the current indicative level. Tinio urged Congress to protect or raise the MPBF and reiterated his longstanding demand to raise PERA from PHP2,000 to PHP5,000 a month. Those were appeals during deliberation, not an approved increase or appropriation change.\n\nTinio argued that renewed flood-control spending had come while proposed school and hospital operating and personnel budgets were cut or barely increased. He cited small nominal school operating-budget gains, no proposed new Teacher I positions, reduced classroom construction and an unfunded ARAL learning-recovery program, and lower hospital personnel and operating allocations. He urged restoration and additional funding, if necessary by reducing flood control. Suansing said the Department of Budget and Management (DBM) would check his personal-services and operating-budget comparisons against its records; she expected no personal-services reduction and acknowledged inflation pressure on operating costs. For schools, she pointed to an enrollment-based formula and said DBM and the Department of Education (DepEd) would review it again. For Department of Health (DOH) hospitals, she said government subsidy, transfers and PhilHealth payments formed part of the funding calculation. Tinio countered that future reimbursements could not replace readily available operating money. No restoration motion was adopted in this round.\n\nOn release controls, Tinio said large portions of the budget placed under later-release requirements delayed validation, bidding and classroom construction. Suansing distinguished lump-sum funds requiring release documents from departmental funds and agreed that evaluation of new projects could cause delays; she cautioned that departmental funds were not all congressional additions. Tinio then questioned disparities in past Financial Assistance to Local Government Units (FALGU) awards within the Local Government Support Fund (LGSF), using Manila and Naga building projects as examples beside much smaller local works. He asked what governed DBM's discretion. Suansing answered that allocations depended on which local governments submitted project proposals. Tinio said the proposed 2027 LGSF, including FALGU, remained larger and that he would return to the issue in later lump-sum deliberations. The exchange produced no decision to change those proposed appropriations or the approval process.",
+          "citations": [
+            {
+              "stable_id": "asr-002914",
+              "start_seconds": 11196.56,
+              "clock": "03:06:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002914"
+            },
+            {
+              "stable_id": "asr-002916",
+              "start_seconds": 11206.56,
+              "clock": "03:06:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002916"
+            },
+            {
+              "stable_id": "asr-002946",
+              "start_seconds": 11313.56,
+              "clock": "03:08:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002946"
+            },
+            {
+              "stable_id": "asr-002957",
+              "start_seconds": 11345.56,
+              "clock": "03:09:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-002957"
+            },
+            {
+              "stable_id": "asr-003111",
+              "start_seconds": 11710.44,
+              "clock": "03:15:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003111"
+            },
+            {
+              "stable_id": "asr-003183",
+              "start_seconds": 12088.96,
+              "clock": "03:21:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003183"
+            },
+            {
+              "stable_id": "asr-003214",
+              "start_seconds": 12146.5,
+              "clock": "03:22:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003214"
+            },
+            {
+              "stable_id": "asr-003244",
+              "start_seconds": 12200.58,
+              "clock": "03:23:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003244"
+            },
+            {
+              "stable_id": "asr-003275",
+              "start_seconds": 12259.76,
+              "clock": "03:24:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003275"
+            },
+            {
+              "stable_id": "asr-003339",
+              "start_seconds": 12392.18,
+              "clock": "03:26:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003339"
+            },
+            {
+              "stable_id": "asr-003377",
+              "start_seconds": 12463.58,
+              "clock": "03:27:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003377"
+            },
+            {
+              "stable_id": "asr-003393",
+              "start_seconds": 12492.92,
+              "clock": "03:28:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003393"
+            },
+            {
+              "stable_id": "asr-003436",
+              "start_seconds": 12583.62,
+              "clock": "03:29:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003436"
+            },
+            {
+              "stable_id": "asr-003458",
+              "start_seconds": 12627.46,
+              "clock": "03:30:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003458"
+            },
+            {
+              "stable_id": "asr-003468",
+              "start_seconds": 12647.86,
+              "clock": "03:30:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003468"
+            },
+            {
+              "stable_id": "asr-003508",
+              "start_seconds": 12777.46,
+              "clock": "03:32:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003508"
+            },
+            {
+              "stable_id": "asr-003530",
+              "start_seconds": 12878.28,
+              "clock": "03:34:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003530"
+            },
+            {
+              "stable_id": "asr-003545",
+              "start_seconds": 12948.04,
+              "clock": "03:35:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003545"
+            },
+            {
+              "stable_id": "asr-003557",
+              "start_seconds": 12995.4,
+              "clock": "03:36:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003557"
+            },
+            {
+              "stable_id": "asr-003567",
+              "start_seconds": 13070.92,
+              "clock": "03:37:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003567"
+            },
+            {
+              "stable_id": "asr-003650",
+              "start_seconds": 13240.24,
+              "clock": "03:40:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003650"
+            },
+            {
+              "stable_id": "asr-003654",
+              "start_seconds": 13248.5,
+              "clock": "03:40:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003654"
+            },
+            {
+              "stable_id": "asr-003711",
+              "start_seconds": 13368.68,
+              "clock": "03:42:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003711"
+            },
+            {
+              "stable_id": "asr-003736",
+              "start_seconds": 13422.2,
+              "clock": "03:43:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003736"
+            },
+            {
+              "stable_id": "asr-003761",
+              "start_seconds": 13473.8,
+              "clock": "03:44:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003761"
+            }
+          ]
+        },
+        {
+          "label": "Outcome of DBM debate",
+          "text": "Rep. Antonio L. Tinio, on behalf of the minority, moved to terminate deliberations on the proposed DBM budget. Rep. Daphne A. Lagon, for the majority, joined the motion to end interpellations on the proposed budget, including attached agencies. Deputy Speaker Mercedes K. Alvarez stated the joint motion, called for objections, and, hearing none, declared the interpellations terminated. The motion and ruling ended the interpellation period; they did not approve the DBM appropriation.",
+          "citations": [
+            {
+              "stable_id": "asr-003856",
+              "start_seconds": 13738.52,
+              "clock": "03:48:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003856"
+            },
+            {
+              "stable_id": "asr-003859",
+              "start_seconds": 13746.26,
+              "clock": "03:49:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003859"
+            },
+            {
+              "stable_id": "asr-003864",
+              "start_seconds": 13759.62,
+              "clock": "03:49:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003864"
+            },
+            {
+              "stable_id": "asr-003868",
+              "start_seconds": 13768.24,
+              "clock": "03:49:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003868"
+            },
+            {
+              "stable_id": "asr-003869",
+              "start_seconds": 13770.52,
+              "clock": "03:49:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003869"
+            },
+            {
+              "stable_id": "asr-003877",
+              "start_seconds": 13783.38,
+              "clock": "03:49:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/80/#asr-003877"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

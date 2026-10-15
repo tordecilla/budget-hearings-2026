@@ -1,0 +1,2951 @@
+{
+  "hearing": {
+    "hearing_id": 16,
+    "title": "House Committee on Appropriations: DENR - August 26, 2026",
+    "hearing_date": "2026-08-26",
+    "official_url": "https://www.youtube.com/watch?v=WaA75rWZLbM"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h16/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Budget and priorities",
+      "text": "DENR's FY 2027 proposal covered forest restoration, land patents, mineral development, water services and ecosystem protection. Members pressed DENR, MGB, EMB, BMB, LWUA, NWRB and LLDA on local delivery and funding gaps.",
+      "citations": []
+    },
+    {
+      "label": "Flooding and water",
+      "text": "Members called for coordinated river-basin planning, stronger watershed and mangrove funding, hazard-informed infrastructure and assessment of Bulacan Airport's effects on Pampanga. DENR described plans still under review and assessment, acknowledged resource limits and promised follow-up studies and coordination.",
+      "citations": []
+    },
+    {
+      "label": "Mining and land",
+      "text": "Disputed permits, consultation, quarrying, forestland titles and rehabilitation dominated several rounds. DENR promised investigations and records, a Siruma reversion filing target, and rapid Homonhon assessment results before plenary; proposed bans and cancellations were not generally announced as completed actions.",
+      "citations": []
+    },
+    {
+      "label": "Waste and public services",
+      "text": "The exchanges covered solid-waste implementation, future solar and battery waste, imported e-waste, Manila Bay enforcement, threatened trees, lake-shore displacement and strained water districts. Several requests ended in promised reports, referrals or unresolved questions rather than final decisions.",
+      "citations": []
+    },
+    {
+      "label": "Committee outcome",
+      "text": "Presiding Deputy Speaker Jose C. Alvarez qualified the roughly P556-million augmentation motion by available fiscal space. Rep. Mikaela Angela B. Suansing requested a formal, prioritized DENR submission for the Budget Amendments Review Subcommittee. The committee terminated the DENR briefing and suspended proceedings until August 27 at 9 a.m.; it did not enact the budget.",
+      "citations": [
+        {
+          "stable_id": "asr-010147",
+          "start_seconds": 31276.58,
+          "clock": "08:41:16",
+          "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010147"
+        }
+      ]
+    }
+  ],
+  "method_note": "Figures and commitments are reported as stated at the hearing. Proposed funding, requested sanctions and promised studies remain subject to the qualifications recorded in each exchange. Follow timestamps to the transcript and official video.",
+  "sections": [
+    {
+      "key": "02-agency_presentation",
+      "label": "Agency presentation",
+      "items": [
+        {
+          "label": "P28.04-billion proposal and natural-capital priorities",
+          "text": "The FY 2027 DENR NEP allocation was PHP 28.04 billion for DENR, its 17 regional offices, bureaus and attached agencies, against an original PHP 55.040579 billion DBM request including Tier 2. With a mandate covering 15.8 million hectares of classified forestlands and over 36,000 kilometers of coastline, DENR Acting Secretary Juan Miguel T. Cuna framed the priorities around community impact despite limited fiscal space. He proposed shifting the National Greening Program toward forest-landscape restoration and community enterprises, issuing up to 43,000 land patents in 2027, and pursuing a 2% mining contribution to GDP by 2028 through small-scale mining support, critical-mineral mapping and regulatory enforcement.",
+          "citations": [
+            {
+              "stable_id": "asr-000068",
+              "start_seconds": 698.25,
+              "clock": "00:11:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000068"
+            },
+            {
+              "stable_id": "asr-000069",
+              "start_seconds": 704.01,
+              "clock": "00:11:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000069"
+            },
+            {
+              "stable_id": "asr-000070",
+              "start_seconds": 712.15,
+              "clock": "00:11:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000070"
+            },
+            {
+              "stable_id": "asr-000081",
+              "start_seconds": 740.04,
+              "clock": "00:12:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000081"
+            },
+            {
+              "stable_id": "asr-004225",
+              "start_seconds": 13037.44,
+              "clock": "03:37:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004225"
+            },
+            {
+              "stable_id": "asr-004226",
+              "start_seconds": 13040.2,
+              "clock": "03:37:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004226"
+            },
+            {
+              "stable_id": "asr-004227",
+              "start_seconds": 13041.2,
+              "clock": "03:37:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004227"
+            },
+            {
+              "stable_id": "asr-004228",
+              "start_seconds": 13043.5,
+              "clock": "03:37:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004228"
+            }
+          ]
+        },
+        {
+          "label": "Water, waste and ecosystem resilience",
+          "text": "Cuna proposed P124 million in assistance to local water districts for isolated and unserved barangays. He reported that extended producer responsibility had mobilized over 1,000 enterprises and diverted 244 million kilograms of packaging waste, alongside continued work on Manila Bay, the Pasig River and Laguna Lake. Cuna reported an operating 24-hour geohazards center, interventions targeting 18 high-exposure provinces, and stronger management of 121 legislated protected areas and marine networks. DENR was building technical capacity and staffing to establish site-specific ecosystem accounts under PENCAS for planning and budgets.",
+          "citations": [
+            {
+              "stable_id": "asr-000100",
+              "start_seconds": 812.41,
+              "clock": "00:13:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000100"
+            },
+            {
+              "stable_id": "asr-000102",
+              "start_seconds": 819.77,
+              "clock": "00:13:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000102"
+            },
+            {
+              "stable_id": "asr-000111",
+              "start_seconds": 865.43,
+              "clock": "00:14:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000111"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-comparison",
+      "label": "Budget proposal and requests",
+      "items": [
+        {
+          "label": "Original request and conditional addition",
+          "text": "Acting Secretary Juan Miguel T. Cuna gave the original DBM request including Tier 2 in response to questioning; the presentation gives the NEP comparison. Rep. Rufus B. Rodriguez moved a separate PHP 556.617-million addition for land-management and water-resource items, conditionally approved at the hearing subject to consolidation with government-wide additions and fiscal space; that was not final enactment.",
+          "citations": [
+            {
+              "stable_id": "asr-000068",
+              "start_seconds": 698.25,
+              "clock": "00:11:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000068"
+            },
+            {
+              "stable_id": "asr-000069",
+              "start_seconds": 704.01,
+              "clock": "00:11:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000069"
+            },
+            {
+              "stable_id": "asr-000845",
+              "start_seconds": 2553.38,
+              "clock": "00:42:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000845"
+            },
+            {
+              "stable_id": "asr-004217",
+              "start_seconds": 13011.4,
+              "clock": "03:36:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004217"
+            },
+            {
+              "stable_id": "asr-004224",
+              "start_seconds": 13035.76,
+              "clock": "03:37:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004224"
+            },
+            {
+              "stable_id": "asr-004444",
+              "start_seconds": 13373.66,
+              "clock": "03:42:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004444"
+            },
+            {
+              "stable_id": "asr-004454",
+              "start_seconds": 13385.52,
+              "clock": "03:43:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004454"
+            },
+            {
+              "stable_id": "asr-004455",
+              "start_seconds": 13386.92,
+              "clock": "03:43:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004455"
+            },
+            {
+              "stable_id": "asr-004475",
+              "start_seconds": 13411.98,
+              "clock": "03:43:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004475"
+            },
+            {
+              "stable_id": "asr-010147",
+              "start_seconds": 31276.58,
+              "clock": "08:41:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010147"
+            }
+          ]
+        },
+        {
+          "label": "Conditional DENR budget increase motion",
+          "text": "Rep. Rufus B. Rodriguez moved to approve a PHP 556.617-million addition to the DENR budget for land-management, patent, building and water-resource needs. The motion was seconded, and Presiding Deputy Speaker Jose C. Alvarez declared it approved subject to consolidation with government-wide additions. That hearing outcome did not establish a final enacted appropriation. DENR Acting Secretary Juan Miguel T. Cuna had earlier identified PHP 100 million for registration fees on unclaimed patents as one of the component requests; it is part of the discussed additions, not another total to add.",
+          "citations": [
+            {
+              "stable_id": "asr-004217",
+              "start_seconds": 13011.4,
+              "clock": "03:36:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004217"
+            },
+            {
+              "stable_id": "asr-004254",
+              "start_seconds": 13093.7,
+              "clock": "03:38:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004254"
+            },
+            {
+              "stable_id": "asr-004259",
+              "start_seconds": 13101.2,
+              "clock": "03:38:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004259"
+            },
+            {
+              "stable_id": "asr-004427",
+              "start_seconds": 13350.16,
+              "clock": "03:42:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004427"
+            },
+            {
+              "stable_id": "asr-004444",
+              "start_seconds": 13373.66,
+              "clock": "03:42:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004444"
+            },
+            {
+              "stable_id": "asr-004454",
+              "start_seconds": 13385.52,
+              "clock": "03:43:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004454"
+            },
+            {
+              "stable_id": "asr-004455",
+              "start_seconds": 13386.92,
+              "clock": "03:43:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004455"
+            },
+            {
+              "stable_id": "asr-004462",
+              "start_seconds": 13397.3,
+              "clock": "03:43:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004462"
+            },
+            {
+              "stable_id": "asr-004475",
+              "start_seconds": 13411.98,
+              "clock": "03:43:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004475"
+            }
+          ]
+        },
+        {
+          "label": "Other funding requests and later amendment priorities",
+          "text": "Rep. Alyssa Michaela \"Mica\" M. Gonzales sought funding for Bacolor land-boundary work, with DENR to submit the request. Rep. Maximo B. Rodriguez Jr. later supported an increase for rehabilitation of planted areas, citing a roughly PHP 400-million existing line; Deputy Speaker Jose C. Alvarez asked for a written addition request, without another approval. Rep. Cheeno Miguel D. Almario sought more forest-ranger funding; Rep. Leonel \"Jhong\" D. Ceniza requested additional EMB and MGB regional funding; Rep. Mauricio G. Domogan offered to seek forest-reserve augmentation if existing funding proved inadequate and asked for stronger mining-monitoring staff. NWRB identified an unquantified database request above the NEP. Rep. Mikaela Angela B. Suansing asked DENR for a prioritized list for later amendment review and received a commitment to provide it. No further increase was approved in those exchanges.",
+          "citations": [
+            {
+              "stable_id": "asr-002019",
+              "start_seconds": 6398.68,
+              "clock": "01:46:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002019"
+            },
+            {
+              "stable_id": "asr-004938",
+              "start_seconds": 14683.82,
+              "clock": "04:04:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004938"
+            },
+            {
+              "stable_id": "asr-004954",
+              "start_seconds": 14714.64,
+              "clock": "04:05:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004954"
+            },
+            {
+              "stable_id": "asr-005246",
+              "start_seconds": 15326.92,
+              "clock": "04:15:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005246"
+            },
+            {
+              "stable_id": "asr-005305",
+              "start_seconds": 15600.32,
+              "clock": "04:20:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005305"
+            },
+            {
+              "stable_id": "asr-005738",
+              "start_seconds": 16518.56,
+              "clock": "04:35:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005738"
+            },
+            {
+              "stable_id": "asr-006158",
+              "start_seconds": 17856.5,
+              "clock": "04:57:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006158"
+            },
+            {
+              "stable_id": "asr-006267",
+              "start_seconds": 18168.98,
+              "clock": "05:02:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006267"
+            },
+            {
+              "stable_id": "asr-008985",
+              "start_seconds": 23735.28,
+              "clock": "06:35:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008985"
+            },
+            {
+              "stable_id": "asr-010326",
+              "start_seconds": 31463.04,
+              "clock": "08:44:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010326"
+            },
+            {
+              "stable_id": "asr-004964",
+              "start_seconds": 14735.52,
+              "clock": "04:05:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004964"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "04-san_fernando",
+      "label": "Rep. Elijah Rumbaoa San Fernando",
+      "items": [
+        {
+          "label": "Survey backlogs and farmers’ security of tenure",
+          "text": "Cuna described DENR’s agricultural and residential free-patent process through field, regional and land-management offices, and confirmed its survey and land-classification roles. San Fernando challenged delays and office-to-office referrals that leave farmers paying private surveyors or unable to secure tenure. Cuna and LMB Director Emelyne Talabis acknowledged inadequate survey and dispute-resolution funding; DENR said requests and annual targets inform allocations, with survey funds held at regional level. San Fernando requested the targets and supporting documents. On a 40-hectare San Narciso, Quezon case where a private claim had reportedly failed but occupants still lacked tenure, Regional Executive Director Henry Adornado undertook to obtain the PENRO details and stepped out to make the call. Adobo said missing application requirements could prevent processing; no case-specific resolution was delivered in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-000144",
+              "start_seconds": 1010.04,
+              "clock": "00:16:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000144"
+            },
+            {
+              "stable_id": "asr-000149",
+              "start_seconds": 1028.04,
+              "clock": "00:17:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000149"
+            },
+            {
+              "stable_id": "asr-000428",
+              "start_seconds": 1663.46,
+              "clock": "00:27:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000428"
+            },
+            {
+              "stable_id": "asr-000450",
+              "start_seconds": 1729.46,
+              "clock": "00:28:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000450"
+            }
+          ]
+        },
+        {
+          "label": "Foreshore leases and fishing communities",
+          "text": "Talabis explained that foreshore use is handled through lease agreements and that funded delineation and profiling update old cadastral information. She cited a Region I pilot where fisherfolk believed to be on foreshore were found on alienable and disposable land, allowing their applications to proceed. Alvarez suggested seeking the Philippine Reclamation Authority’s land-for-the-landless assistance and offered help; this was the chair’s proposal, not a DENR tenure award. San Fernando would request further documents and signaled interest in another round.",
+          "citations": [
+            {
+              "stable_id": "asr-000506",
+              "start_seconds": 1818.1,
+              "clock": "00:30:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000506"
+            },
+            {
+              "stable_id": "asr-000517",
+              "start_seconds": 1856.3,
+              "clock": "00:30:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000517"
+            },
+            {
+              "stable_id": "asr-000554",
+              "start_seconds": 1988.28,
+              "clock": "00:33:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000554"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "05-amatong",
+      "label": "Rep. Adrian Michael A. Amatong",
+      "items": [
+        {
+          "label": "Gutalac mining, consent and rehabilitation",
+          "text": "Amatong sought assurance against mining expansion across Gutalac and alleged that a company began without genuine indigenous consent, cut hundreds of large, old trees during exploration, and failed to provide the rehabilitation plan and updates he requested. Amatong said he would accept mining that complied with the law. Cuna promised monitoring and progressive rehabilitation; Fragada would check tree cutting and rehabilitation with regional officials and coordinate with Amatong. Cuna apologized for the lack of reporting, committed regional officials to report directly to Amatong, and said the central enforcement office would investigate the allegations. The hearing did not establish the allegations as findings or announce a permit cancellation.",
+          "citations": [
+            {
+              "stable_id": "asr-000598",
+              "start_seconds": 2092.16,
+              "clock": "00:34:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000598"
+            },
+            {
+              "stable_id": "asr-000610",
+              "start_seconds": 2122.58,
+              "clock": "00:35:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000610"
+            },
+            {
+              "stable_id": "asr-000741",
+              "start_seconds": 2380.22,
+              "clock": "00:39:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000741"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "06-dejesus_unresolved",
+      "label": "Rep. Presley C. De Jesus",
+      "items": [
+        {
+          "label": "Energy-project clearances and DENR funding",
+          "text": "De Jesus sought the number of pending and approved energy service contracts. Cuna clarified that DOE issues service contracts and DENR handles environmental compliance certificates; EMB Director Michael Drake P. Matias undertook to provide details and a list of energy projects, including solar and offshore wind. De Jesus argued that DENR's modest budget increase was inadequate for its responsibilities and supported augmentation for environmental protection and climate resilience.",
+          "citations": [
+            {
+              "stable_id": "asr-000775",
+              "start_seconds": 2437.04,
+              "clock": "00:40:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000775"
+            },
+            {
+              "stable_id": "asr-000786",
+              "start_seconds": 2460.1,
+              "clock": "00:41:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000786"
+            },
+            {
+              "stable_id": "asr-000827",
+              "start_seconds": 2520.82,
+              "clock": "00:42:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000827"
+            },
+            {
+              "stable_id": "asr-000844",
+              "start_seconds": 2552.12,
+              "clock": "00:42:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000844"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "07-cojuangco",
+      "label": "Rep. Mark O. Cojuangco",
+      "items": [
+        {
+          "label": "Land classification and technical groups for legislation",
+          "text": "Cojuangco welcomed progress on unclassified lands along Lingayen and Binmaley, while noting remaining corrections, and credited DENR and NAMRIA’s mapping work. For proposed legislation, he requested DENR technical support on siting an interim facility for partially used nuclear fuel and defining the lower Agno River’s path through his district. Cuna agreed to technical working groups drawing on EMB, MGB and LMB, with the regional office helping on the river description and PNRI coordination available for the nuclear work.",
+          "citations": [
+            {
+              "stable_id": "asr-000904",
+              "start_seconds": 2638.66,
+              "clock": "00:43:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000904"
+            },
+            {
+              "stable_id": "asr-000937",
+              "start_seconds": 2735.94,
+              "clock": "00:45:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000937"
+            },
+            {
+              "stable_id": "asr-000959",
+              "start_seconds": 2841.19,
+              "clock": "00:47:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000959"
+            }
+          ]
+        },
+        {
+          "label": "Solar-site runoff and flooding",
+          "text": "Cojuangco linked runoff from hundreds of hectares of foothill solar installations in Bugallon and Aguilar to silted waterways and severe flooding. Cuna committed regional offices to investigate and check ECC compliance, including erosion controls; the exchange did not establish a final finding of liability.",
+          "citations": [
+            {
+              "stable_id": "asr-000974",
+              "start_seconds": 2896.92,
+              "clock": "00:48:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000974"
+            },
+            {
+              "stable_id": "asr-000988",
+              "start_seconds": 2944.32,
+              "clock": "00:49:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-000988"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "08-ismula",
+      "label": "Rep. Dadah Kiram Ismula",
+      "items": [
+        {
+          "label": "Mining renewals and community consent",
+          "text": "Ismula questioned consultation and prior-consent compliance in the Didipio and Tampakan FTAA renewals and sought documentary proof. Teh identified P53.6 million for strengthened mineral regulation and enforcement; Ismula repeated the unit as billion, but the official answer was million. MGB Director Larry M. Heradez said OceanaGold’s renewal passed through the Office of the President and consent processes and offered to investigate contrary evidence. Cuna maintained that consultation occurs and committed to submit the documents. Ismula stressed that original approval should not substitute for fresh consultation on renewal.",
+          "citations": [
+            {
+              "stable_id": "asr-001007",
+              "start_seconds": 3070.1,
+              "clock": "00:51:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001007"
+            },
+            {
+              "stable_id": "asr-001012",
+              "start_seconds": 3101.673,
+              "clock": "00:51:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001012"
+            },
+            {
+              "stable_id": "asr-001014",
+              "start_seconds": 3119.8,
+              "clock": "00:51:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001014"
+            },
+            {
+              "stable_id": "asr-001026",
+              "start_seconds": 3202.42,
+              "clock": "00:53:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001026"
+            },
+            {
+              "stable_id": "asr-001038",
+              "start_seconds": 3254.42,
+              "clock": "00:54:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001038"
+            }
+          ]
+        },
+        {
+          "label": "Waste-contractor accountability and worker protection",
+          "text": "Ismula asked about contractor vetting, conflicts of interest, renewal consultations and waste-picker compensation and safety. Cuna assigned private-contract selection and renewal to LGUs, while retaining DENR’s technical-assistance and landfill ECC-monitoring roles; he said complaints prompt coordination with LGUs. Rep. Edgar R. Erice pointed to DILG for complaints. Eneran said landfill employment was a provider/LGU matter and referred to restrictions on settlers, without supplying a concrete compensation or occupational-safety mechanism.",
+          "citations": [
+            {
+              "stable_id": "asr-001068",
+              "start_seconds": 3469.62,
+              "clock": "00:57:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001068"
+            },
+            {
+              "stable_id": "asr-001071",
+              "start_seconds": 3493.78,
+              "clock": "00:58:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001071"
+            },
+            {
+              "stable_id": "asr-001116",
+              "start_seconds": 3689.96,
+              "clock": "01:01:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001116"
+            },
+            {
+              "stable_id": "asr-001122",
+              "start_seconds": 3718.15,
+              "clock": "01:01:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001122"
+            }
+          ]
+        },
+        {
+          "label": "Forest-investment compliance funding",
+          "text": "Ismula pressed for a specific monitoring allocation for forest-investment agreements rather than a general description of the program. FMB Director Arturo E. Fadriquela confirmed 1.18 million hectares of potential investment areas, three agreements and regional monitoring as projects proceed. DENR Undersecretary Jonas R. Leones ultimately specified P60 million in 2027 for compliance monitoring of awarded tenure holders.",
+          "citations": [
+            {
+              "stable_id": "asr-001130",
+              "start_seconds": 3747.22,
+              "clock": "01:02:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001130"
+            },
+            {
+              "stable_id": "asr-001145",
+              "start_seconds": 3817.88,
+              "clock": "01:03:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001145"
+            },
+            {
+              "stable_id": "asr-001165",
+              "start_seconds": 3961.5,
+              "clock": "01:06:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001165"
+            },
+            {
+              "stable_id": "asr-001171",
+              "start_seconds": 3982.06,
+              "clock": "01:06:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001171"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "10-teves",
+      "label": "Rep. Jose \"Bong\" J. Teves Jr.",
+      "items": [
+        {
+          "label": "Waste plans versus actual segregation and flood prevention",
+          "text": "Teves challenged the apparent 92% solid-waste compliance rate against continuing floods and his cited finding that only six of Metro Manila’s 17 LGUs complied with source segregation. Cuna and Matias clarified that 92% concerned plans submitted or approved, not implementation. They promised stronger enforcement with DILG and regional offices, monitoring of segregation and collection, and notices to violators so only residual waste reaches landfills. Asked who would collect recyclables, Undersecretary Ignatius Rodriguez instead described DILG participation and a resolution urging activation of barangay waste committees; no specific collection partner was identified.",
+          "citations": [
+            {
+              "stable_id": "asr-001277",
+              "start_seconds": 4388.442,
+              "clock": "01:13:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001277"
+            },
+            {
+              "stable_id": "asr-001283",
+              "start_seconds": 4422.087,
+              "clock": "01:13:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001283"
+            },
+            {
+              "stable_id": "asr-001323",
+              "start_seconds": 4650.38,
+              "clock": "01:17:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001323"
+            },
+            {
+              "stable_id": "asr-001335",
+              "start_seconds": 4722.825,
+              "clock": "01:18:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001335"
+            },
+            {
+              "stable_id": "asr-001388",
+              "start_seconds": 4935.754,
+              "clock": "01:22:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001388"
+            },
+            {
+              "stable_id": "asr-001427",
+              "start_seconds": 5101.56,
+              "clock": "01:25:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001427"
+            }
+          ]
+        },
+        {
+          "label": "Commission resources, unused appropriations and legal reform",
+          "text": "Rodriguez said the National Solid Waste Management Commission had no separate budget or staffing, relied on roughly P3.5 million annually from EMB, and commissioners could visit only about 12–20 LGUs a year. Teves cited P2.23 billion in unused 2025 DENR appropriations and asked why it could not support MRFs, watersheds or disposal facilities. That funding question received no specific accounting answer. Cuna pointed to the waste-to-energy bill’s House third-reading passage and a separate proposal to review RA 9003, on which DENR had provided inputs.",
+          "citations": [
+            {
+              "stable_id": "asr-001401",
+              "start_seconds": 4993.411,
+              "clock": "01:23:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001401"
+            },
+            {
+              "stable_id": "asr-001417",
+              "start_seconds": 5047.46,
+              "clock": "01:24:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001417"
+            },
+            {
+              "stable_id": "asr-001435",
+              "start_seconds": 5138.14,
+              "clock": "01:25:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001435"
+            },
+            {
+              "stable_id": "asr-001436",
+              "start_seconds": 5139.76,
+              "clock": "01:25:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001436"
+            },
+            {
+              "stable_id": "asr-001487",
+              "start_seconds": 5257.76,
+              "clock": "01:27:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001487"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "12-erice_first",
+      "label": "Rep. Edgar R. Erice",
+      "items": [
+        {
+          "label": "Flood prevention and a unified Metro Manila government",
+          "text": "Erice argued that fragmented LGU plans cannot manage shared waterways, garbage, informal settlements and transport, and proposed studying an elected metropolitan government with a governor and legislative assembly. He dismissed cleanup alone as insufficient. Cuna described DENR’s EIA and discharge-permit roles, roughly 1,427 NCR estero rangers, trash traps, private-sector Adopt-an-Estero work and multi-stakeholder water-quality management boards. He offered to discuss Erice’s proposed study with the commission chaired by Usec. Rodriguez and its agency/LGU representatives; DENR did not commit to establish a regional government.",
+          "citations": [
+            {
+              "stable_id": "asr-001534",
+              "start_seconds": 5359.72,
+              "clock": "01:29:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001534"
+            },
+            {
+              "stable_id": "asr-001543",
+              "start_seconds": 5380.18,
+              "clock": "01:29:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001543"
+            },
+            {
+              "stable_id": "asr-001688",
+              "start_seconds": 5683.22,
+              "clock": "01:34:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001688"
+            },
+            {
+              "stable_id": "asr-001810",
+              "start_seconds": 5925.6,
+              "clock": "01:38:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001810"
+            }
+          ]
+        },
+        {
+          "label": "Environmental review of flood-control projects",
+          "text": "Erice challenged narrowing waterways and asked whether major pumping stations, cisterns and flood-control works required environmental assessment. Matias described a draft administrative order on ECC coverage, said DENR determines thresholds while consulting DPWH, and identified failure to observe easements during construction as a cause of constriction. Erice pressed DENR to exercise its mandate; the draft was not announced as final.",
+          "citations": [
+            {
+              "stable_id": "asr-009554",
+              "start_seconds": 25848.62,
+              "clock": "07:10:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009554"
+            },
+            {
+              "stable_id": "asr-009581",
+              "start_seconds": 25912.08,
+              "clock": "07:11:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009581"
+            },
+            {
+              "stable_id": "asr-009623",
+              "start_seconds": 25993.64,
+              "clock": "07:13:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009623"
+            },
+            {
+              "stable_id": "asr-009633",
+              "start_seconds": 26013.98,
+              "clock": "07:13:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009633"
+            },
+            {
+              "stable_id": "asr-009666",
+              "start_seconds": 26077.44,
+              "clock": "07:14:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009666"
+            }
+          ]
+        },
+        {
+          "label": "Financing mineral exploration and domestic processing",
+          "text": "Cuna said the critical-minerals framework predated Pax Silica and aimed at stable policy and domestic value addition. Heradez said further exploration and processing capacity were needed to establish quantities and exploit identified minerals. Officials cited P157 million for exploration and acknowledged the funding gap. Erice proposed competitive bidding of nonperforming mining tenements and legislation returning part of the proceeds to DENR/MGB for exploration. Cabalda said EO 122 already called for competitive selection and welcomed the revenue proposal; Erice offered to work with DENR and sponsor a bill. No earmarking law or augmentation was approved in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-009675",
+              "start_seconds": 26132.42,
+              "clock": "07:15:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009675"
+            },
+            {
+              "stable_id": "asr-009677-split-1",
+              "start_seconds": 26146.94,
+              "clock": "07:15:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009677-split-1"
+            },
+            {
+              "stable_id": "asr-009692",
+              "start_seconds": 26248.22,
+              "clock": "07:17:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009692"
+            },
+            {
+              "stable_id": "asr-009700-split-1",
+              "start_seconds": 26317.14,
+              "clock": "07:18:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009700-split-1"
+            },
+            {
+              "stable_id": "asr-009730",
+              "start_seconds": 26461.22,
+              "clock": "07:21:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009730"
+            },
+            {
+              "stable_id": "asr-009770",
+              "start_seconds": 26572.56,
+              "clock": "07:22:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009770"
+            },
+            {
+              "stable_id": "asr-009772",
+              "start_seconds": 26578.44,
+              "clock": "07:22:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009772"
+            },
+            {
+              "stable_id": "asr-009804",
+              "start_seconds": 26649.42,
+              "clock": "07:24:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009804"
+            },
+            {
+              "stable_id": "asr-009839",
+              "start_seconds": 26730.0,
+              "clock": "07:25:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009839"
+            },
+            {
+              "stable_id": "asr-009869",
+              "start_seconds": 26769.76,
+              "clock": "07:26:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009869"
+            },
+            {
+              "stable_id": "asr-009883",
+              "start_seconds": 26799.66,
+              "clock": "07:26:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009883"
+            }
+          ]
+        },
+        {
+          "label": "Water-district joint-venture disputes",
+          "text": "Erice asked LWUA's authority to address tensions involving water districts and PrimeWater. LWUA Acting Administrator Jose Moises F. Salonga said districts remained bound by their joint-venture contracts and LWUA monitored delivery of contracted services under the Public Service Act, but that the Act did not give LWUA quasi-judicial powers over these disputes.",
+          "citations": [
+            {
+              "stable_id": "asr-009912",
+              "start_seconds": 26884.71,
+              "clock": "07:28:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009912"
+            },
+            {
+              "stable_id": "asr-009928",
+              "start_seconds": 26917.58,
+              "clock": "07:28:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009928"
+            },
+            {
+              "stable_id": "asr-009948",
+              "start_seconds": 26956.92,
+              "clock": "07:29:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009948"
+            },
+            {
+              "stable_id": "asr-009950",
+              "start_seconds": 26960.74,
+              "clock": "07:29:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009950"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "13-mica_gonzales",
+      "label": "Rep. Alyssa Michaela \"Mica\" M. Gonzales",
+      "items": [
+        {
+          "label": "Waste education and assistance to barangays",
+          "text": "Gonzales urged renewed waste-management education in Pampanga after recent garbage problems. Cuna described DENR assistance with MRFs, waste plans and waste-characterization surveys, and called for stronger work with DepEd and DILG under the Environmental Education and Awareness Act. He also noted that poor collection in dense communities encourages dumping into waterways.",
+          "citations": [
+            {
+              "stable_id": "asr-001863",
+              "start_seconds": 6032.36,
+              "clock": "01:40:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001863"
+            },
+            {
+              "stable_id": "asr-001880",
+              "start_seconds": 6067.1,
+              "clock": "01:41:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001880"
+            },
+            {
+              "stable_id": "asr-001951",
+              "start_seconds": 6208.4,
+              "clock": "01:43:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-001951"
+            }
+          ]
+        },
+        {
+          "label": "Restoring Bacolor's buried lot boundaries",
+          "text": "Gonzales requested funding to reestablish political boundaries and control points and relocate lots in lahar-affected Bacolor so displaced residents could identify their properties. Cuna answered yes when the chair asked for a commitment to additional funds and said the regional executive director was to submit the request; no amount or completed allocation was announced.",
+          "citations": [
+            {
+              "stable_id": "asr-002018",
+              "start_seconds": 6393.22,
+              "clock": "01:46:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002018"
+            },
+            {
+              "stable_id": "asr-002029",
+              "start_seconds": 6466.42,
+              "clock": "01:47:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002029"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "14-bag_ao",
+      "label": "Rep. Arlene \"Kaka\" J. Bag-ao",
+      "items": [
+        {
+          "label": "Dinagat mining oversight and Hibusong protection",
+          "text": "Bag-ao challenged Dinagat’s lack of a dedicated mining-monitoring allocation and reliance on Facebook notices about the long-suspended East Coast Mining application in Hibusong. Teh cited P53.6 million nationally and P12.29 million for Caraga, with no Dinagat breakdown, and offered to use other regional activity funds. Bag-ao sought an official visit, the suspension order and a definitive closure to mining, also raising the bonsai forest and a water shortage affecting 17,000 people. Fragada committed a visit, proper official communication and examination of claims and monitoring arrangements; he assured no mining in the bonsai-forest area but made wider closure conditional on checking the situation. He agreed to provide the suspension order. No unconditional island-wide closure order was issued in the hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-002041",
+              "start_seconds": 6513.1,
+              "clock": "01:48:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002041"
+            },
+            {
+              "stable_id": "asr-002052",
+              "start_seconds": 6562.82,
+              "clock": "01:49:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002052"
+            },
+            {
+              "stable_id": "asr-002053",
+              "start_seconds": 6564.06,
+              "clock": "01:49:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002053"
+            },
+            {
+              "stable_id": "asr-002117",
+              "start_seconds": 6902.9,
+              "clock": "01:55:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002117"
+            },
+            {
+              "stable_id": "asr-002128",
+              "start_seconds": 6956.8,
+              "clock": "01:55:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002128"
+            },
+            {
+              "stable_id": "asr-002163",
+              "start_seconds": 7114.64,
+              "clock": "01:58:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002163"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "16-pimentel",
+      "label": "Rep. Alexander Ty Pimentel",
+      "items": [
+        {
+          "label": "Release of seized Cantilan equipment",
+          "text": "Pimentel challenged DENR Caraga’s continued detention of equipment seized in a Cantilan anti-illegal-mining operation despite release orders he described as final and executory. Heradez initially cited an enforcement agency’s motion for reconsideration. After Pimentel read the order’s statement that no timely motion or appeal had been filed, Cuna relayed that the motion was indeed late and said it should be disregarded and the equipment released. Alvarez summarized the assurance as release the next day. The exchange did not report that release had already occurred.",
+          "citations": [
+            {
+              "stable_id": "asr-002286",
+              "start_seconds": 7493.36,
+              "clock": "02:04:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002286"
+            },
+            {
+              "stable_id": "asr-002446",
+              "start_seconds": 7706.8,
+              "clock": "02:08:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002446"
+            },
+            {
+              "stable_id": "asr-002625",
+              "start_seconds": 7892.12,
+              "clock": "02:11:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002625"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "17-dagooc",
+      "label": "Rep. Sergio C. Dagooc",
+      "items": [
+        {
+          "label": "Dinagat no-mining assurances and oversight",
+          "text": "Dagooc supported Bag-ao’s concerns while crediting recent regional visits and consultation in Loreto. Cuna gave categorical assurances against mining in Hibusong and in the identified bonsai-forest and watershed areas, describing the latter as protected or no-go zones. Dagooc urged permanent local monitoring capacity and follow-through on noncompliant operators. Cuna said an existing provincial environment office could need monitoring-fund augmentation. On the apparent concentration of funds in the Office of the Secretary, Cuna clarified that this budget includes regional offices and staff bureaus, while MGB and EMB have separate budgets.",
+          "citations": [
+            {
+              "stable_id": "asr-002677",
+              "start_seconds": 7947.6,
+              "clock": "02:12:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002677"
+            },
+            {
+              "stable_id": "asr-002791",
+              "start_seconds": 8059.16,
+              "clock": "02:14:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002791"
+            },
+            {
+              "stable_id": "asr-002855",
+              "start_seconds": 8100.22,
+              "clock": "02:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002855"
+            },
+            {
+              "stable_id": "asr-002886",
+              "start_seconds": 8219.44,
+              "clock": "02:16:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002886"
+            },
+            {
+              "stable_id": "asr-002890",
+              "start_seconds": 8238.06,
+              "clock": "02:17:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002890"
+            }
+          ]
+        },
+        {
+          "label": "Preparing for discarded solar equipment and lithium batteries",
+          "text": "Dagooc urged DENR to budget now for the future disposal of rooftop-solar equipment and battery-storage systems. Cuna and Matias cited accredited treatment, storage and disposal facilities, but Matias acknowledged the need to study disposal at scale. Alvarez pressed for nationwide readiness as batteries reach end of life; no comprehensive capacity plan or funding amount was produced.",
+          "citations": [
+            {
+              "stable_id": "asr-002897",
+              "start_seconds": 8271.64,
+              "clock": "02:17:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002897"
+            },
+            {
+              "stable_id": "asr-002914",
+              "start_seconds": 8335.12,
+              "clock": "02:18:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002914"
+            }
+          ]
+        },
+        {
+          "label": "Unpaid mining workers",
+          "text": "Dagooc sought at least partial wage payments for Dinagat workers caught in a dispute between a mining company and its service provider. Cuna committed central and regional MGB coordination and asked the undersecretary he addressed as Usec Mark to obtain the company details and intervene; the hearing recorded an undertaking to assist, not payment of the arrears.",
+          "citations": [
+            {
+              "stable_id": "asr-002958",
+              "start_seconds": 8536.26,
+              "clock": "02:22:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002958"
+            },
+            {
+              "stable_id": "asr-002969",
+              "start_seconds": 8584.36,
+              "clock": "02:23:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002969"
+            },
+            {
+              "stable_id": "asr-002986",
+              "start_seconds": 8658.88,
+              "clock": "02:24:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-002986"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "19-gomez",
+      "label": "Rep. Richard I. Gomez",
+      "items": [
+        {
+          "label": "Palompon watershed, illegal extraction and Ormoc water",
+          "text": "Gomez asked DENR to act on written concerns about the Palompon watershed and illegal logging, quarrying and mining in his district. He cited Ormoc’s quarry controls, rehabilitation requirements, water-quality management and single-use-plastic ban as local practices, and sought help with the city-operated water system. He clarified that Ormoc already had a water permit. Cuna acknowledged Mayor Lucy Torres-Gomez’s call, said the Water Resources Management Office and NWRB would explore assistance, and agreed to schedule an Ormoc visit. Specific enforcement outcomes were left for follow-up on the written submissions.",
+          "citations": [
+            {
+              "stable_id": "asr-003027",
+              "start_seconds": 9542.58,
+              "clock": "02:39:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003027"
+            },
+            {
+              "stable_id": "asr-003092",
+              "start_seconds": 9810.2,
+              "clock": "02:43:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003092"
+            },
+            {
+              "stable_id": "asr-003107",
+              "start_seconds": 9853.92,
+              "clock": "02:44:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003107"
+            },
+            {
+              "stable_id": "asr-003112",
+              "start_seconds": 9861.78,
+              "clock": "02:44:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003112"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "20-de_lima",
+      "label": "Rep. Leila M. de Lima",
+      "items": [
+        {
+          "label": "Mangrove earthballing before survival studies are complete",
+          "text": "De Lima questioned the interim permission to relocate mangroves for infrastructure and sought a suspension while survival evidence remained disputed. Cuna said mangrove restoration had funding and described an avoidance-first mitigation hierarchy, ongoing ERDB studies targeted for completion in December, and a policy planned for early 2027 with civil-society participation. He defended interim guidance as responding to project requests, cited extraction methods and relocation sites as survival factors, and said offset planting was already required. Alvarez suggested replacement planting instead of earthballing; Cuna replied that the cutting prohibition would require legislative change. DENR undertook to evaluate suspension, not to suspend permits immediately.",
+          "citations": [
+            {
+              "stable_id": "asr-003134",
+              "start_seconds": 9913.0,
+              "clock": "02:45:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003134"
+            },
+            {
+              "stable_id": "asr-003256",
+              "start_seconds": 10237.54,
+              "clock": "02:50:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003256"
+            },
+            {
+              "stable_id": "asr-003424",
+              "start_seconds": 10876.54,
+              "clock": "03:01:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003424"
+            },
+            {
+              "stable_id": "asr-003526",
+              "start_seconds": 11252.74,
+              "clock": "03:07:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003526"
+            }
+          ]
+        },
+        {
+          "label": "Chinese nationals in illegal mining and FTAA consultation",
+          "text": "De Lima cited repeated raids involving Chinese nationals and demanded investigation of financiers and syndicates rather than reliance on deportation. Cuna promised a full operations report and list to her and the committee. Heradez reported six FTAAs, two operating and four non-operating, including a cancelled Palawan agreement under litigation, and described force-majeure extensions. De Lima disputed dispensing with fresh consultation at renewal. Heradez cited consultation at EIA scoping and mining-project-feasibility approval and said a new LGU endorsement was not required for already-approved continuing operations, leaving their policy disagreement unresolved.",
+          "citations": [
+            {
+              "stable_id": "asr-003161",
+              "start_seconds": 10018.28,
+              "clock": "02:46:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003161"
+            },
+            {
+              "stable_id": "asr-003306",
+              "start_seconds": 10536.76,
+              "clock": "02:55:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003306"
+            },
+            {
+              "stable_id": "asr-003333",
+              "start_seconds": 10614.9,
+              "clock": "02:56:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003333"
+            },
+            {
+              "stable_id": "asr-003557",
+              "start_seconds": 11311.36,
+              "clock": "03:08:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003557"
+            }
+          ]
+        },
+        {
+          "label": "Zambales dredging operators and sand destinations",
+          "text": "De Lima asked whether China Harbor Engineering still held a valid dredging permit and demanded a documented chain of custody for extracted sand. Newly assigned regional MGB director Glenn Noble listed current operators on the Maloma, Santo Tomas and Bucao rivers and said material went to the Bulacan airport and Manila Bay reclamation. His initial denial of the named company was challenged by Alvarez. The exchange supplied neither the requested custody documents nor a conclusive account of China Harbor’s historical involvement.",
+          "citations": [
+            {
+              "stable_id": "asr-003218",
+              "start_seconds": 10127.46,
+              "clock": "02:48:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003218"
+            },
+            {
+              "stable_id": "asr-003382",
+              "start_seconds": 10753.4,
+              "clock": "02:59:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003382"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "21-yamsuan",
+      "label": "Rep. Brian Raymund S. Yamsuan",
+      "items": [
+        {
+          "label": "Critical-mineral safeguards and biodiversity submissions",
+          "text": "Yamsuan requested DENR’s position on the Mombasa Declaration against illegal fishing and updates on the 30-by-30 biodiversity agenda, particularly terrestrial mapping. He asked how accelerated critical-mineral permitting would protect communities, including in relation to Pax Silica. Cuna described limits on disturbed areas and progressive rehabilitation before moving to another site. Cabalda said faster permitting would not waive environmental and social safeguards, that the policy targets critical minerals rather than all minerals, and that a critical-minerals list was due within the first 30 days to define covered projects. Alvarez directed submission of the policy position; the biodiversity requests were not answered substantively in the room.",
+          "citations": [
+            {
+              "stable_id": "asr-003617",
+              "start_seconds": 11448.52,
+              "clock": "03:10:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003617"
+            },
+            {
+              "stable_id": "asr-003657",
+              "start_seconds": 11536.54,
+              "clock": "03:12:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003657"
+            },
+            {
+              "stable_id": "asr-003706",
+              "start_seconds": 11636.8,
+              "clock": "03:13:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003706"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "22-co_first",
+      "label": "Rep. Renee Louise M. Co",
+      "items": [
+        {
+          "label": "Pax Silica, New Clark City and cumulative environmental impacts",
+          "text": "Co questioned whether Pax Silica had an EIA and whether communities had been consulted, citing potential effects on water, power and land. Cuna said no specific project description or EIA application had reached EMB. Matias distinguished the development-plan ECC from individual locator projects, which would require their own EIAs, consultation and cumulative-impact assessment. Regional EMB director Martin Jose Despi clarified that the existing master-plan ECC covers about 9,400 hectares of New Clark City; the 1,600-hectare area lacked concrete locator details and would need another assessment. Co sought a written account of data-center and semiconductor-hub impacts before plenary. Despi offered available information subject to concrete details, without a firm deadline. Alvarez argued water concerns should not foreclose the opportunity; Co maintained that cumulative environmental risks warranted scrutiny.",
+          "citations": [
+            {
+              "stable_id": "asr-003750",
+              "start_seconds": 11783.6,
+              "clock": "03:16:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003750"
+            },
+            {
+              "stable_id": "asr-003770",
+              "start_seconds": 11874.4,
+              "clock": "03:17:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003770"
+            },
+            {
+              "stable_id": "asr-003863",
+              "start_seconds": 12222.94,
+              "clock": "03:23:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003863"
+            },
+            {
+              "stable_id": "asr-003891",
+              "start_seconds": 12313.48,
+              "clock": "03:25:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-003891"
+            }
+          ]
+        },
+        {
+          "label": "Critical-mineral exploration and the US memorandum",
+          "text": "Co asked what steps followed the critical-minerals framework and whether it arose from the Philippines-US memorandum. Heradez described continuing exploration and feasibility work on known mineral resources and the possibility of mineral reservations carrying additional government royalties. Co requested the identified minerals list and the memorandum itself; Cuna agreed to submit the requested material through the committee. The memorandum’s effect on the framework was not explained substantively.",
+          "citations": [
+            {
+              "stable_id": "asr-004008",
+              "start_seconds": 12581.68,
+              "clock": "03:29:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004008"
+            },
+            {
+              "stable_id": "asr-004026",
+              "start_seconds": 12638.56,
+              "clock": "03:30:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004026"
+            },
+            {
+              "stable_id": "asr-004053",
+              "start_seconds": 12720.72,
+              "clock": "03:32:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004053"
+            },
+            {
+              "stable_id": "asr-004080",
+              "start_seconds": 12782.96,
+              "clock": "03:33:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004080"
+            }
+          ]
+        },
+        {
+          "label": "Imported electronic waste and the Basel Ban Amendment",
+          "text": "Co sought accountability for more than 230 reported e-waste shipments already received and asked whether intercepted cargo could be returned. Matias described recycler monitoring, a complicating trial-court decision and coordination with Customs to retain subsequent shipments aboard vessels. He assumed retained cargo would return to its origin; he did not account for all earlier shipments or confirm their return. On the Basel Ban Amendment, Cuna said concurrence requests had been sent in 2023 but DTI and PEZA had not issued certificates. He expressly described employment and materials-recovery concerns as his surmise, not an official explanation from those agencies. Co urged faster ratification and continued action against foreign waste dumping.",
+          "citations": [
+            {
+              "stable_id": "asr-009312",
+              "start_seconds": 25363.32,
+              "clock": "07:02:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009312"
+            },
+            {
+              "stable_id": "asr-009350",
+              "start_seconds": 25437.78,
+              "clock": "07:03:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009350"
+            },
+            {
+              "stable_id": "asr-009392",
+              "start_seconds": 25522.44,
+              "clock": "07:05:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009392"
+            },
+            {
+              "stable_id": "asr-009414",
+              "start_seconds": 25566.66,
+              "clock": "07:06:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009414"
+            },
+            {
+              "stable_id": "asr-009449",
+              "start_seconds": 25639.4,
+              "clock": "07:07:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009449"
+            },
+            {
+              "stable_id": "asr-009465",
+              "start_seconds": 25670.34,
+              "clock": "07:07:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009465"
+            },
+            {
+              "stable_id": "asr-009491",
+              "start_seconds": 25723.98,
+              "clock": "07:08:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009491"
+            },
+            {
+              "stable_id": "asr-009504",
+              "start_seconds": 25748.24,
+              "clock": "07:09:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009504"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "23-rufus_rodriguez",
+      "label": "Rep. Rufus B. Rodriguez",
+      "items": [
+        {
+          "label": "Restoring priority land and water funding",
+          "text": "Rodriguez called for restoration of priority land and water programs. The discussion identified P100 million for free-patent registration fees that beneficiaries could not afford; Rodriguez also cited foreshore mapping and patent work and P270 million for phase two of an eight-storey LMB/DENR building supporting digital operations. Cuna itemized a further P105 million for water programs: P65 million for managed aquifer recharge and P40 million for regionalized digital water governance and equipment. Rodriguez moved approval with P556.617 million in additional funding. Alvarez declared the motion approved subject to consolidation with additions for other government agencies; this was a committee-stage action, not an enacted appropriation.",
+          "citations": [
+            {
+              "stable_id": "asr-004217",
+              "start_seconds": 13011.4,
+              "clock": "03:36:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004217"
+            },
+            {
+              "stable_id": "asr-004224",
+              "start_seconds": 13035.76,
+              "clock": "03:37:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004224"
+            },
+            {
+              "stable_id": "asr-004259",
+              "start_seconds": 13101.2,
+              "clock": "03:38:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004259"
+            },
+            {
+              "stable_id": "asr-004366",
+              "start_seconds": 13256.48,
+              "clock": "03:40:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004366"
+            },
+            {
+              "stable_id": "asr-004386",
+              "start_seconds": 13291.18,
+              "clock": "03:41:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004386"
+            },
+            {
+              "stable_id": "asr-004391",
+              "start_seconds": 13296.84,
+              "clock": "03:41:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004391"
+            },
+            {
+              "stable_id": "asr-004404",
+              "start_seconds": 13319.16,
+              "clock": "03:41:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004404"
+            },
+            {
+              "stable_id": "asr-004444",
+              "start_seconds": 13373.66,
+              "clock": "03:42:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004444"
+            },
+            {
+              "stable_id": "asr-004454",
+              "start_seconds": 13385.52,
+              "clock": "03:43:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004454"
+            },
+            {
+              "stable_id": "asr-004455",
+              "start_seconds": 13386.92,
+              "clock": "03:43:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004455"
+            },
+            {
+              "stable_id": "asr-004463",
+              "start_seconds": 13398.88,
+              "clock": "03:43:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004463"
+            }
+          ]
+        },
+        {
+          "label": "Cagayan de Oro mining and logging protection",
+          "text": "Rodriguez reiterated his bills to make Cagayan de Oro mining-free and logging-free, noted that they had not become law, and thanked successive DENR officials for withholding mining exploration permits and preventing cutting there. He credited regional enforcement against illegal mining and logging and requested an extension for the acting regional director.",
+          "citations": [
+            {
+              "stable_id": "asr-004105",
+              "start_seconds": 12832.46,
+              "clock": "03:33:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004105"
+            },
+            {
+              "stable_id": "asr-004164",
+              "start_seconds": 12937.26,
+              "clock": "03:35:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004164"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "24-sheen_gonzales_first",
+      "label": "Rep. Christopher Sheen P. Gonzales",
+      "items": [
+        {
+          "label": "Homonhon mining titles, operators and rehabilitation",
+          "text": "Gonzales demanded a clear account of the division of the Cambayas MPSA into Nickelace and Chromite King and the further use of operating agreements. He argued that layered operators obscured accountability and asked why previously promised records had not arrived. Heradez identified the original area as 3,015 hectares and undertook to supply complete documentation and an operator map to the committee and Gonzales, with next-day follow-up pressed by Alvarez. Fragada said he had met the companies and operators and given them until October to address investigated noncompliance and rehabilitation, while reviewing how the title and operating arrangements developed. Alvarez requested personal explanations and joined the rehabilitation follow-up. Gonzales acknowledged mining’s local benefits but insisted on lawful, orderly operations and noted his pending investigation resolution. He also thanked Region VIII for timberland data supporting his proposed legislation.",
+          "citations": [
+            {
+              "stable_id": "asr-004519",
+              "start_seconds": 13485.48,
+              "clock": "03:44:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004519"
+            },
+            {
+              "stable_id": "asr-004538",
+              "start_seconds": 13528.24,
+              "clock": "03:45:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004538"
+            },
+            {
+              "stable_id": "asr-004601",
+              "start_seconds": 13791.78,
+              "clock": "03:49:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004601"
+            },
+            {
+              "stable_id": "asr-004698",
+              "start_seconds": 14116.68,
+              "clock": "03:55:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004698"
+            }
+          ]
+        },
+        {
+          "label": "Homonhon mine status and a rapid assessment before plenary",
+          "text": "Gonzales asked about Mount Sinai and multiple operators under Cambayas-related MPSAs. Heradez said Mount Sinai had been under care and maintenance since 2013, and that earlier practice allowed multiple operating agreements before DENR adopted a one-operator, one-MPSA policy. Gonzales invoked cancellation for violations and pressed for action. Heradez committed to a rapid general assessment and concrete action afterward, agreed to meet Gonzales the next day and to provide the result before plenary. No permit cancellation was announced.",
+          "citations": [
+            {
+              "stable_id": "asr-009965",
+              "start_seconds": 27021.0,
+              "clock": "07:30:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009965"
+            },
+            {
+              "stable_id": "asr-009969",
+              "start_seconds": 27037.24,
+              "clock": "07:30:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009969"
+            },
+            {
+              "stable_id": "asr-009991",
+              "start_seconds": 27113.36,
+              "clock": "07:31:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009991"
+            },
+            {
+              "stable_id": "asr-010001",
+              "start_seconds": 27147.68,
+              "clock": "07:32:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010001"
+            },
+            {
+              "stable_id": "asr-010011",
+              "start_seconds": 27207.58,
+              "clock": "07:33:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010011"
+            },
+            {
+              "stable_id": "asr-010018",
+              "start_seconds": 27249.44,
+              "clock": "07:34:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010018"
+            },
+            {
+              "stable_id": "asr-010031",
+              "start_seconds": 27306.54,
+              "clock": "07:35:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010031"
+            },
+            {
+              "stable_id": "asr-010037",
+              "start_seconds": 27319.96,
+              "clock": "07:35:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010037"
+            },
+            {
+              "stable_id": "asr-010039",
+              "start_seconds": 27327.66,
+              "clock": "07:35:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010039"
+            }
+          ]
+        },
+        {
+          "label": "Secretary-level commitment on Homonhon",
+          "text": "In his third and final intervention, Gonzales sought the secretary's and undersecretary's backing for action on Homonhon mining. Cuna acknowledged an irregular situation among the island's mining tenements and committed to take action to put matters in order. Fragada endorsed the secretary's statement; no additional deadline or specific sanction was announced.",
+          "citations": [
+            {
+              "stable_id": "asr-010067",
+              "start_seconds": 31136.02,
+              "clock": "08:38:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010067"
+            },
+            {
+              "stable_id": "asr-010108",
+              "start_seconds": 31215.38,
+              "clock": "08:40:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010108"
+            },
+            {
+              "stable_id": "asr-010131",
+              "start_seconds": 31255.08,
+              "clock": "08:40:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "25-maximo_rodriguez",
+      "label": "Rep. Maximo B. Rodriguez Jr.",
+      "items": [
+        {
+          "label": "Maintaining planted forests and seeking added funding",
+          "text": "Rodriguez sought stronger funding to rehabilitate previously planted areas. Cuna corrected the enhancement target to 30,375 hectares and distinguished it from new planting; Fadriquela described enrichment planting, reforestation, agroforestry and assisted-natural-regeneration protection, with P408 million for roughly 30,000 hectares within the P1.6-billion National Greening Program. Rodriguez proposed a further roughly P400 million and asked DENR for a supporting request. Alvarez required another written submission; it was not already part of the earlier P550-plus-million augmentation.",
+          "citations": [
+            {
+              "stable_id": "asr-004454",
+              "start_seconds": 13385.52,
+              "clock": "03:43:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004454"
+            },
+            {
+              "stable_id": "asr-004455",
+              "start_seconds": 13386.92,
+              "clock": "03:43:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004455"
+            },
+            {
+              "stable_id": "asr-004841",
+              "start_seconds": 14462.26,
+              "clock": "04:01:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004841"
+            },
+            {
+              "stable_id": "asr-004856",
+              "start_seconds": 14494.3,
+              "clock": "04:01:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004856"
+            },
+            {
+              "stable_id": "asr-004897",
+              "start_seconds": 14585.06,
+              "clock": "04:03:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004897"
+            },
+            {
+              "stable_id": "asr-004901",
+              "start_seconds": 14594.12,
+              "clock": "04:03:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004901"
+            },
+            {
+              "stable_id": "asr-004924",
+              "start_seconds": 14653.26,
+              "clock": "04:04:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004924"
+            },
+            {
+              "stable_id": "asr-004938",
+              "start_seconds": 14683.82,
+              "clock": "04:04:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004938"
+            },
+            {
+              "stable_id": "asr-004954",
+              "start_seconds": 14714.64,
+              "clock": "04:05:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004954"
+            },
+            {
+              "stable_id": "asr-004964",
+              "start_seconds": 14735.52,
+              "clock": "04:05:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004964"
+            }
+          ]
+        },
+        {
+          "label": "Stewardship tenure and decentralized approvals",
+          "text": "Rodriguez proposed legislation converting stewardship lands to permanent titles and urged regional processing to spare poor applicants trips to Manila. Cuna clarified that stewardship contracts run for 25 years, renewable once, and are not titles; conversion would require forestland reclassification. Alvarez offered to co-sponsor legislation, while Cuna limited transfer to next of kin. Cuna agreed to revisit approval thresholds by application size, explaining that existing 25-year instruments are signed centrally by the supervising undersecretary rather than necessarily the secretary.",
+          "citations": [
+            {
+              "stable_id": "asr-004989",
+              "start_seconds": 14784.72,
+              "clock": "04:06:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-004989"
+            },
+            {
+              "stable_id": "asr-005035",
+              "start_seconds": 14877.12,
+              "clock": "04:07:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005035"
+            },
+            {
+              "stable_id": "asr-005081",
+              "start_seconds": 14974.96,
+              "clock": "04:09:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005081"
+            },
+            {
+              "stable_id": "asr-005129",
+              "start_seconds": 15067.2,
+              "clock": "04:11:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005129"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "26-almario",
+      "label": "Rep. Cheeno Miguel D. Almario",
+      "items": [
+        {
+          "label": "Needs-based protected-area funding and more forest rangers",
+          "text": "With a proposed P1.3 billion for management of 113 legislated protected areas, Almario challenged allocation by available fiscal space rather than actual protected-area needs, citing Mount Hamiguitan and its buffer zone. Alicer described regional proposals, standard PAMB administrative costs and board-endorsed rehabilitation plans within regional allocations; Cuna stressed the limits of DENR’s own appropriation. Almario requested a proposed needs-based funding formula. Fadriquela said added funding would improve the ranger ratio from one per 3,000 hectares to one per 2,000, with one per 1,000 a longer-term goal. Almario supported more ranger funding and reforestation attention to Mindanao alongside Sierra Madre; Cuna agreed to submit other NGP priority areas.",
+          "citations": [
+            {
+              "stable_id": "asr-005182",
+              "start_seconds": 15173.72,
+              "clock": "04:12:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005182"
+            },
+            {
+              "stable_id": "asr-005186",
+              "start_seconds": 15180.72,
+              "clock": "04:13:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005186"
+            },
+            {
+              "stable_id": "asr-005202",
+              "start_seconds": 15217.14,
+              "clock": "04:13:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005202"
+            },
+            {
+              "stable_id": "asr-005277",
+              "start_seconds": 15451.82,
+              "clock": "04:17:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005277"
+            },
+            {
+              "stable_id": "asr-005284",
+              "start_seconds": 15486.9,
+              "clock": "04:18:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005284"
+            },
+            {
+              "stable_id": "asr-005326",
+              "start_seconds": 15644.1,
+              "clock": "04:20:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005326"
+            },
+            {
+              "stable_id": "asr-005355",
+              "start_seconds": 15698.84,
+              "clock": "04:21:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005355"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "27-ceniza",
+      "label": "Rep. Leonel \"Jhong\" D. Ceniza",
+      "items": [
+        {
+          "label": "Davao de Oro small-scale mining and river siltation",
+          "text": "Ceniza cited 40 pending Minahang Bayan applicants and burdensome requirements. Cuna described interim small-scale contracts and one-stop assistance with BSP, DOLE and other agencies and directed MGB to schedule it in Davao de Oro. Cuna and Heradez set out a 50,000-metric-ton annual production ceiling. Ceniza alleged some operators used small-scale labels for much larger activity and linked uncontrolled waste to river-bed siltation and downstream flooding; Cuna directed regional MGB and EMB checks. Alvarez advocated a permanent local office, and Ceniza requested registered small- and large-scale operator lists; Heradez agreed to submit, with next-day delivery pressed by the chair.",
+          "citations": [
+            {
+              "stable_id": "asr-005441",
+              "start_seconds": 15774.64,
+              "clock": "04:22:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005441"
+            },
+            {
+              "stable_id": "asr-005471",
+              "start_seconds": 15837.26,
+              "clock": "04:23:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005471"
+            },
+            {
+              "stable_id": "asr-005616",
+              "start_seconds": 16124.76,
+              "clock": "04:28:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005616"
+            },
+            {
+              "stable_id": "asr-005628",
+              "start_seconds": 16154.78,
+              "clock": "04:29:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005628"
+            },
+            {
+              "stable_id": "asr-005657",
+              "start_seconds": 16221.96,
+              "clock": "04:30:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005657"
+            },
+            {
+              "stable_id": "asr-005676",
+              "start_seconds": 16321.8,
+              "clock": "04:32:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005676"
+            },
+            {
+              "stable_id": "asr-005748",
+              "start_seconds": 16541.84,
+              "clock": "04:35:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005748"
+            },
+            {
+              "stable_id": "asr-005756",
+              "start_seconds": 16567.28,
+              "clock": "04:36:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005756"
+            }
+          ]
+        },
+        {
+          "label": "Regional resources and school geohazard assessments",
+          "text": "Teh stated proposed NEP allocations of P3.1 billion for EMB and P1.89 billion for MGB. Ceniza supported stronger regional budgets and complained that budget constraints prevented school-site safety assessments after earthquakes, leaving him or mayors to shoulder costs. Cuna agreed to check the particular requests with both bureaus, while Alvarez pressed for regular visits and said limited funds should not excuse inaction. Ceniza also supported Almario’s call for more forest rangers.",
+          "citations": [
+            {
+              "stable_id": "asr-005679",
+              "start_seconds": 16333.52,
+              "clock": "04:32:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005679"
+            },
+            {
+              "stable_id": "asr-005684",
+              "start_seconds": 16349.64,
+              "clock": "04:32:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005684"
+            },
+            {
+              "stable_id": "asr-005685",
+              "start_seconds": 16356.02,
+              "clock": "04:32:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005685"
+            },
+            {
+              "stable_id": "asr-005686",
+              "start_seconds": 16361.08,
+              "clock": "04:32:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005686"
+            },
+            {
+              "stable_id": "asr-005713",
+              "start_seconds": 16445.36,
+              "clock": "04:34:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005713"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "28-fuentebella_first",
+      "label": "Rep. Arnie B. Fuentebella",
+      "items": [
+        {
+          "label": "Siruma title dispute and reversion timetable",
+          "text": "Fuentebella challenged Wanderlust’s claimed 1,014.92-hectare property, citing forestland, water and agrarian-reform overlaps. Cuna said timberland and the sea should not be privately titled but a title must be annulled by a competent court. DENR was finalizing the survey and reversion request, targeting filing in the second week of October; its case would cover the forestland portion, with DAR responsible for its own coverage. Cuna said officials had not located survey plan SI-2676 despite searches. Fuentebella welcomed the timetable while describing fenced-off land occupied by poor farmers and fishers.",
+          "citations": [
+            {
+              "stable_id": "asr-005779",
+              "start_seconds": 16617.74,
+              "clock": "04:36:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005779"
+            },
+            {
+              "stable_id": "asr-005801",
+              "start_seconds": 16723.9,
+              "clock": "04:38:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005801"
+            },
+            {
+              "stable_id": "asr-005849",
+              "start_seconds": 16885.96,
+              "clock": "04:41:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005849"
+            },
+            {
+              "stable_id": "asr-005855",
+              "start_seconds": 16911.7,
+              "clock": "04:41:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005855"
+            }
+          ]
+        },
+        {
+          "label": "White-clay extraction, stockpiles and deputized enforcement",
+          "text": "Fuentebella showed Siruma quarry damage and sought a total white-clay mining ban. Regional MGB director Guillermo Molina said the site looked large-scale despite the permit history. He explained that residual stockpiles could be sold under specified orders, but the former permittee had not availed of that route and disposal had been disallowed. Fuentebella alleged unauthorized hauling by provincial-task-force members and others, disputing Molina’s two-truckload report with a figure of 90. Molina denied authorizing stockpile removal, distinguished a Tinambac permit from Siruma, and described an earlier investigation, cease-and-desist order and recommendation concerning the Tinambac stockpile. He agreed to supply individual deputization orders for Sagip Kalikasan personnel. No total ban was announced in this round.",
+          "citations": [
+            {
+              "stable_id": "asr-005960",
+              "start_seconds": 17175.2,
+              "clock": "04:46:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-005960"
+            },
+            {
+              "stable_id": "asr-006017",
+              "start_seconds": 17333.02,
+              "clock": "04:48:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006017"
+            },
+            {
+              "stable_id": "asr-006044",
+              "start_seconds": 17461.68,
+              "clock": "04:51:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006044"
+            },
+            {
+              "stable_id": "asr-006068",
+              "start_seconds": 17551.12,
+              "clock": "04:52:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006068"
+            }
+          ]
+        },
+        {
+          "label": "White-clay seizure order",
+          "text": "Fuentebella requested a DENR confiscation or seizure order for a reported 32,000-cubic-meter white-clay stockpile. Molina said he had heard the province issued an order but confirmed that DENR had not. Alvarez joined the request and directed action the following day; the exchange did not establish that DENR had issued the order or completed confiscation.",
+          "citations": [
+            {
+              "stable_id": "asr-006428",
+              "start_seconds": 18498.96,
+              "clock": "05:08:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006428"
+            },
+            {
+              "stable_id": "asr-006445",
+              "start_seconds": 18532.24,
+              "clock": "05:08:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006445"
+            },
+            {
+              "stable_id": "asr-006458",
+              "start_seconds": 18557.78,
+              "clock": "05:09:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006458"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "29-domogan",
+      "label": "Rep. Mauricio G. Domogan",
+      "items": [
+        {
+          "label": "Cordillera watershed funding",
+          "text": "Domogan sought adequate protection funding for the Cordillera watersheds supplying major dams. Teh described National Greening Program enrichment and assisted natural regeneration, correcting the figure to P16,000 per hectare for about 8,000 hectares, or roughly P130 million, alongside other forest-reserve protection and maintenance work. Domogan supported augmentation if existing funds were insufficient.",
+          "citations": [
+            {
+              "stable_id": "asr-006132",
+              "start_seconds": 17716.32,
+              "clock": "04:55:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006132"
+            },
+            {
+              "stable_id": "asr-006146",
+              "start_seconds": 17792.16,
+              "clock": "04:56:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006146"
+            },
+            {
+              "stable_id": "asr-006150",
+              "start_seconds": 17811.56,
+              "clock": "04:56:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006150"
+            },
+            {
+              "stable_id": "asr-006151",
+              "start_seconds": 17817.06,
+              "clock": "04:56:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006151"
+            }
+          ]
+        },
+        {
+          "label": "Waste-disposal sites and small-scale mining enforcement",
+          "text": "Domogan asked DENR to reserve suitable public land for waste-disposal facilities because Baguio had to send waste outside the city. Matias explained siting restrictions and the need to align with LGU land-use plans, and committed to regional work to identify suitable areas. Domogan separately reported river and rice-field damage from small-scale mining and sought more monitoring staff. Cuna said DENR would seek manpower support with stakeholders and reiterate regional enforcement: small-scale mining must be within Minahang Bayan areas, mercury is prohibited, and cyanide use is regulated.",
+          "citations": [
+            {
+              "stable_id": "asr-006160",
+              "start_seconds": 17871.06,
+              "clock": "04:57:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006160"
+            },
+            {
+              "stable_id": "asr-006183",
+              "start_seconds": 17995.68,
+              "clock": "04:59:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006183"
+            },
+            {
+              "stable_id": "asr-006229",
+              "start_seconds": 18095.68,
+              "clock": "05:01:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006229"
+            },
+            {
+              "stable_id": "asr-006242",
+              "start_seconds": 18120.34,
+              "clock": "05:02:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006242"
+            },
+            {
+              "stable_id": "asr-006298",
+              "start_seconds": 18232.64,
+              "clock": "05:03:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006298"
+            }
+          ]
+        },
+        {
+          "label": "Localizing Baguio title validation",
+          "text": "Domogan sought amendments to PD 1271 to localize validation of affected Baguio townsite titles, citing the burden of bringing about a thousand petitions through national offices without a dedicated budget. Alvarez supported the initiative, and Cuna committed DENR support; no amendment or new validation mechanism was adopted at the hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-006334",
+              "start_seconds": 18304.84,
+              "clock": "05:05:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006334"
+            },
+            {
+              "stable_id": "asr-006387",
+              "start_seconds": 18411.78,
+              "clock": "05:06:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006387"
+            },
+            {
+              "stable_id": "asr-006393",
+              "start_seconds": 18420.88,
+              "clock": "05:07:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006393"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "31-bolilia",
+      "label": "Rep. Amado Carlos A. Bolilia IV",
+      "items": [
+        {
+          "label": "Quarrying along Batangas bypass roads",
+          "text": "Bolilia reported extensive quarrying of mountains near the Lipa-Rosario and Lipa-Santo Tomas bypasses and asked DENR to inspect and, if possible, stop the operations. Cuna initially said DENR was checking for ECCs, then reported that ECCs existed and committed to examine quarry-permit expiration and environmental compliance. Regional Executive Director Henry Adornado would report to Bolilia. The exchange produced a review commitment, not an announced closure. Bolilia supported passage and augmentation of the DENR budget.",
+          "citations": [
+            {
+              "stable_id": "asr-006484",
+              "start_seconds": 18613.64,
+              "clock": "05:10:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006484"
+            },
+            {
+              "stable_id": "asr-006529",
+              "start_seconds": 18706.54,
+              "clock": "05:11:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006529"
+            },
+            {
+              "stable_id": "asr-006554",
+              "start_seconds": 18755.96,
+              "clock": "05:12:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006554"
+            },
+            {
+              "stable_id": "asr-006564",
+              "start_seconds": 18775.88,
+              "clock": "05:12:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006564"
+            },
+            {
+              "stable_id": "asr-006583",
+              "start_seconds": 18814.66,
+              "clock": "05:13:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006583"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "32-aquino",
+      "label": "Rep. Jose \"Joboy\" S. Aquino II",
+      "items": [
+        {
+          "label": "Butuan water-district assistance and unpaid obligations",
+          "text": "Aquino followed up on documents the Butuan City Water District had not submitted after an earlier meeting, delaying prospective assistance or a loan and threatening construction before the October rainy season. He also raised unpaid creditors. LWUA Administrator Salonga said he would call the general manager in on Monday and study a provisional rate or other means to support the request. Alvarez directed that the matter be addressed before plenary. No loan amount, release or completed settlement was confirmed.",
+          "citations": [
+            {
+              "stable_id": "asr-006604",
+              "start_seconds": 18856.12,
+              "clock": "05:14:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006604"
+            },
+            {
+              "stable_id": "asr-006617",
+              "start_seconds": 18885.52,
+              "clock": "05:14:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006617"
+            },
+            {
+              "stable_id": "asr-006631",
+              "start_seconds": 18965.1,
+              "clock": "05:16:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006631"
+            },
+            {
+              "stable_id": "asr-006648",
+              "start_seconds": 19018.84,
+              "clock": "05:16:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006648"
+            },
+            {
+              "stable_id": "asr-006699",
+              "start_seconds": 19121.12,
+              "clock": "05:18:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006699"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "33-leo_rodriguez",
+      "label": "Rep. Eulogio \"Leo\" R. Rodriguez",
+      "items": [
+        {
+          "label": "Permanent staff for Catanduanes Natural Park",
+          "text": "Rodriguez thanked DENR for permits to use typhoon-felled trees, storage for confiscated forest products and additional forest-protection personnel, then pressed for permanent plantilla positions for Catanduanes Natural Park. Alicer explained that DBM approvals were phased and initially concentrated on the largest protected areas. He later cited a March 2026 request for 1,706 positions covering additional categories. The request remained pending; no approval date for Catanduanes was given.",
+          "citations": [
+            {
+              "stable_id": "asr-006725",
+              "start_seconds": 19178.755,
+              "clock": "05:19:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006725"
+            },
+            {
+              "stable_id": "asr-006744",
+              "start_seconds": 19237.68,
+              "clock": "05:20:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006744"
+            },
+            {
+              "stable_id": "asr-006760",
+              "start_seconds": 19278.1,
+              "clock": "05:21:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006760"
+            },
+            {
+              "stable_id": "asr-006845",
+              "start_seconds": 19442.4,
+              "clock": "05:24:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006845"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "34-catulpos",
+      "label": "Rep. Elmer V. Catulpos",
+      "items": [
+        {
+          "label": "Flood-management framework and limited funding",
+          "text": "Catulpos questioned whether DENR had enough staff and funding to review DPWH flood-control plans against the National Flood Management Framework. NWRB Executive Director Sevillo D. David Jr. said the framework had been prepared and awaited the secretary's final review, with DENR river-basin plans and nature-based solutions to complement DPWH infrastructure. Teh identified P278 million for integrated water-resource management and operations, P52.9 million for regional water-resource utilization work, P21 million for river-basin operations and P28 million for scaling nature-based solutions. She acknowledged the funding was insufficient, including for monitoring, and said DENR would prioritize 18 major river basins.",
+          "citations": [
+            {
+              "stable_id": "asr-006915",
+              "start_seconds": 19559.72,
+              "clock": "05:25:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006915"
+            },
+            {
+              "stable_id": "asr-006950",
+              "start_seconds": 19710.72,
+              "clock": "05:28:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006950"
+            },
+            {
+              "stable_id": "asr-006967",
+              "start_seconds": 19769.52,
+              "clock": "05:29:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006967"
+            },
+            {
+              "stable_id": "asr-006976",
+              "start_seconds": 19828.62,
+              "clock": "05:30:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006976"
+            },
+            {
+              "stable_id": "asr-006979",
+              "start_seconds": 19851.1,
+              "clock": "05:30:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006979"
+            },
+            {
+              "stable_id": "asr-006980",
+              "start_seconds": 19859.18,
+              "clock": "05:30:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006980"
+            },
+            {
+              "stable_id": "asr-006981",
+              "start_seconds": 19869.74,
+              "clock": "05:31:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006981"
+            }
+          ]
+        },
+        {
+          "label": "Integrating liquefaction into hazard-based planning",
+          "text": "Citing General Santos experience, Catulpos sought merged PHIVOLCS and MGB hazard data so flood-control concurrence, building permits and land-use plans account for liquefaction. Queaño explained that engineering geological and geohazard assessments must consider all hazards, with proponents hiring geologists and MGB reviewing the assessments. He said the maps were available together through HazardHunter and offered MGB assistance reviewing LGU land-use plans; the exchange did not announce a new merged certification process.",
+          "citations": [
+            {
+              "stable_id": "asr-006987",
+              "start_seconds": 19900.72,
+              "clock": "05:31:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-006987"
+            },
+            {
+              "stable_id": "asr-007004",
+              "start_seconds": 19991.46,
+              "clock": "05:33:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007004"
+            },
+            {
+              "stable_id": "asr-007027",
+              "start_seconds": 20080.84,
+              "clock": "05:34:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007027"
+            },
+            {
+              "stable_id": "asr-007053",
+              "start_seconds": 20180.18,
+              "clock": "05:36:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007053"
+            },
+            {
+              "stable_id": "asr-007058",
+              "start_seconds": 20207.5,
+              "clock": "05:36:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007058"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "35-vergara",
+      "label": "Rep. Julius Cesar \"Jay\" V. Vergara",
+      "items": [
+        {
+          "label": "Nueva Ecija quarrying, irrigation disruption and watershed planning",
+          "text": "Vergara cited a National Irrigation Administration letter reporting disruption affecting 37,657.83 hectares, and contrasted 205 recorded quarry operators with reported gravel-tax collections of about P401,000 in 2022 and P1.03 million in 2023. He alleged prolonged illegal quarrying and linked denuded uplands and downstream flooding, calling for a coordinated master plan rather than agency blame. Cuna directed the regional office to coordinate with DPWH and other agencies on a technical working group, with MGB Central to initiate the work. Alvarez asked DENR to study the problem and report to Vergara.",
+          "citations": [
+            {
+              "stable_id": "asr-007089",
+              "start_seconds": 20327.86,
+              "clock": "05:38:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007089"
+            },
+            {
+              "stable_id": "asr-007104",
+              "start_seconds": 20426.86,
+              "clock": "05:40:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007104"
+            },
+            {
+              "stable_id": "asr-007110",
+              "start_seconds": 20459.88,
+              "clock": "05:40:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007110"
+            },
+            {
+              "stable_id": "asr-007111",
+              "start_seconds": 20465.96,
+              "clock": "05:41:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007111"
+            },
+            {
+              "stable_id": "asr-007218",
+              "start_seconds": 20762.18,
+              "clock": "05:46:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007218"
+            },
+            {
+              "stable_id": "asr-007233",
+              "start_seconds": 20794.1,
+              "clock": "05:46:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007233"
+            },
+            {
+              "stable_id": "asr-007283",
+              "start_seconds": 20880.28,
+              "clock": "05:48:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007283"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "36-bondoc",
+      "label": "Rep. Anna York P. Bondoc, M.D.",
+      "items": [
+        {
+          "label": "Mangroves and cleanup for flooded Pampanga communities",
+          "text": "Bondoc sought stronger natural flood protection for chronically flooded communities around Macabebe and Masantol. Cuna cited mangrove planting and about 80 estero rangers, P13.9 million for a 200-hectare mangrove target in 2026, and P15 million proposed for 2027, while identifying a shortage of suitable planting areas. Bondoc sought an increase. Alvarez proposed P30 million annually for ten years and pledged to fight for additional funding; this was not a completed appropriation. Bondoc also commended the expanding multi-agency Bantay Sapa cleanup and supported DENR's budget.",
+          "citations": [
+            {
+              "stable_id": "asr-007332",
+              "start_seconds": 20957.28,
+              "clock": "05:49:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007332"
+            },
+            {
+              "stable_id": "asr-007407",
+              "start_seconds": 21071.08,
+              "clock": "05:51:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007407"
+            },
+            {
+              "stable_id": "asr-007541",
+              "start_seconds": 21190.1,
+              "clock": "05:53:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007541"
+            },
+            {
+              "stable_id": "asr-007586",
+              "start_seconds": 21240.5,
+              "clock": "05:54:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007586"
+            },
+            {
+              "stable_id": "asr-007608",
+              "start_seconds": 21294.5,
+              "clock": "05:54:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007608"
+            },
+            {
+              "stable_id": "asr-007680",
+              "start_seconds": 21379.04,
+              "clock": "05:56:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007680"
+            },
+            {
+              "stable_id": "asr-007726",
+              "start_seconds": 21427.32,
+              "clock": "05:57:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007726"
+            },
+            {
+              "stable_id": "asr-007729",
+              "start_seconds": 21430.38,
+              "clock": "05:57:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007729"
+            },
+            {
+              "stable_id": "asr-007969",
+              "start_seconds": 21834.1,
+              "clock": "06:03:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007969"
+            }
+          ]
+        },
+        {
+          "label": "Bulacan Airport impacts on Pampanga",
+          "text": "Bondoc requested the long-sought environmental impact study and inclusion of her district in assessment and mitigation, suspecting that airport reclamation displaced water toward Pampanga while expressly declining to assert proven causation. Matias said affected stakeholders should be included and would coordinate with the regional office. Cuna first said DENR would explore conducting its own assessment, then committed to formulate terms of reference and inform Bondoc. No completed study or amended ECC was announced.",
+          "citations": [
+            {
+              "stable_id": "asr-007786",
+              "start_seconds": 21496.6,
+              "clock": "05:58:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007786"
+            },
+            {
+              "stable_id": "asr-007854",
+              "start_seconds": 21596.32,
+              "clock": "05:59:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007854"
+            },
+            {
+              "stable_id": "asr-007896",
+              "start_seconds": 21689.14,
+              "clock": "06:01:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007896"
+            },
+            {
+              "stable_id": "asr-007920",
+              "start_seconds": 21736.4,
+              "clock": "06:02:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007920"
+            },
+            {
+              "stable_id": "asr-007962",
+              "start_seconds": 21822.22,
+              "clock": "06:03:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-007962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "37-guintu",
+      "label": "Rep. Ivan Howard A. Guintu",
+      "items": [
+        {
+          "label": "Capiz marine and forest protection",
+          "text": "Guintu sought protection for Tucad Reef and the Pilar seagrass meadow, citing 125 hectares of seagrass and 110 hectares of coral reef threatened by illegal fishing. Cuna explained that a suitability assessment precedes protected-area recommendation and said the papers were at PENRO level, to be sent to BMB for evaluation once received centrally. Guintu also requested forest-protection officers for Capiz after reported forest loss; Cuna requested a formal submission. Neither protected status nor new positions were approved during the exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-008029",
+              "start_seconds": 21954.42,
+              "clock": "06:05:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008029"
+            },
+            {
+              "stable_id": "asr-008045",
+              "start_seconds": 21991.9,
+              "clock": "06:06:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008045"
+            },
+            {
+              "stable_id": "asr-008053",
+              "start_seconds": 22007.08,
+              "clock": "06:06:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008053"
+            },
+            {
+              "stable_id": "asr-008068",
+              "start_seconds": 22041.16,
+              "clock": "06:07:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008068"
+            },
+            {
+              "stable_id": "asr-008080",
+              "start_seconds": 22063.54,
+              "clock": "06:07:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008080"
+            },
+            {
+              "stable_id": "asr-008100",
+              "start_seconds": 22103.06,
+              "clock": "06:08:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008100"
+            }
+          ]
+        },
+        {
+          "label": "Development on land still classified as forest",
+          "text": "For built-up highway-adjacent land still classified as permanent forest, Guintu asked how poorer municipalities could pursue development. Cuna described the Sustainable Forest Land Management Agreement, with a 25-year term renewable for another 25 years and multiple permitted uses, and offered direct Forest Management Bureau coordination. This was a possible tenurial route, not a land-reclassification or project approval.",
+          "citations": [
+            {
+              "stable_id": "asr-008106",
+              "start_seconds": 22114.46,
+              "clock": "06:08:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008106"
+            },
+            {
+              "stable_id": "asr-008143",
+              "start_seconds": 22188.88,
+              "clock": "06:09:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008143"
+            },
+            {
+              "stable_id": "asr-008168",
+              "start_seconds": 22241.84,
+              "clock": "06:10:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008168"
+            },
+            {
+              "stable_id": "asr-008206",
+              "start_seconds": 22315.28,
+              "clock": "06:11:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008206"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "38-vargas",
+      "label": "Rep. Patrick Michael D. Vargas",
+      "items": [
+        {
+          "label": "LWUA funding against water-district demand",
+          "text": "Vargas sought augmentation of the cited P29.5 million NEP allocation for LWUA. Salonga distinguished internally funded loans recovered from consumers from GAA-funded grants and put the water districts' combined wish list at almost P3 billion. Vargas undertook to seek more funding without promising the full amount.",
+          "citations": [
+            {
+              "stable_id": "asr-008233",
+              "start_seconds": 22370.34,
+              "clock": "06:12:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008233"
+            },
+            {
+              "stable_id": "asr-008240",
+              "start_seconds": 22382.1,
+              "clock": "06:13:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008240"
+            },
+            {
+              "stable_id": "asr-008255",
+              "start_seconds": 22410.76,
+              "clock": "06:13:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008255"
+            },
+            {
+              "stable_id": "asr-008288",
+              "start_seconds": 22474.1,
+              "clock": "06:14:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008288"
+            },
+            {
+              "stable_id": "asr-008305",
+              "start_seconds": 22506.7,
+              "clock": "06:15:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008305"
+            },
+            {
+              "stable_id": "asr-008307",
+              "start_seconds": 22511.4,
+              "clock": "06:15:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008307"
+            }
+          ]
+        },
+        {
+          "label": "La Mesa Dam safety and capacity",
+          "text": "Vargas asked about reinforcing and enhancing La Mesa Dam amid overflow fears affecting Novaliches and downstream communities, and about coordination with Quezon City's drainage master plan. Alvarez urged DENR to initiate a technical working group with DPWH on structural integrity. Cuna said he would relay the concerns to the absent MWSS administrator; no engineering assessment or upgrade was confirmed.",
+          "citations": [
+            {
+              "stable_id": "asr-008320",
+              "start_seconds": 22537.6,
+              "clock": "06:15:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008320"
+            },
+            {
+              "stable_id": "asr-008349",
+              "start_seconds": 22597.06,
+              "clock": "06:16:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008349"
+            },
+            {
+              "stable_id": "asr-008378",
+              "start_seconds": 22657.5,
+              "clock": "06:17:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008378"
+            },
+            {
+              "stable_id": "asr-008394",
+              "start_seconds": 22689.88,
+              "clock": "06:18:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008394"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "39-cayton",
+      "label": "Rep. Timothy Joseph E. Cayton",
+      "items": [
+        {
+          "label": "Nueva Vizcaya exploration permits and community opposition",
+          "text": "Cayton sought a review of exploration permits amid protests, cases against opponents, consultation complaints and alleged overlap with forest, watershed and ancestral-domain areas. Heradez said Northern Luzon's permit remained existing and allegations were under investigation, while WOGEL's exploration operations were suspended. Cayton also asked DENR to review applications in Santa Fe and Aritao before issuance and withhold or cancel them if material deficiencies were established. No cancellation of Northern Luzon's permit was announced.",
+          "citations": [
+            {
+              "stable_id": "asr-008419",
+              "start_seconds": 22742.12,
+              "clock": "06:19:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008419"
+            },
+            {
+              "stable_id": "asr-008462",
+              "start_seconds": 22828.4,
+              "clock": "06:20:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008462"
+            },
+            {
+              "stable_id": "asr-008481",
+              "start_seconds": 22861.66,
+              "clock": "06:21:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008481"
+            },
+            {
+              "stable_id": "asr-008560",
+              "start_seconds": 22969.74,
+              "clock": "06:22:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008560"
+            },
+            {
+              "stable_id": "asr-008613",
+              "start_seconds": 23022.34,
+              "clock": "06:23:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008613"
+            }
+          ]
+        },
+        {
+          "label": "Assessing occupied forest land for reclassification",
+          "text": "Cayton sought a province-wide review of occupied public or forest land where classification impeded infrastructure. Cuna said he had instructed the regional executive director to conduct a biophysical assessment and would support a bill to reclassify built-up areas no longer suitable as forest. Cayton requested a clear report as the basis for legislation; no land was reclassified at the hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-008635",
+              "start_seconds": 23046.88,
+              "clock": "06:24:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008635"
+            },
+            {
+              "stable_id": "asr-008718",
+              "start_seconds": 23140.26,
+              "clock": "06:25:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008718"
+            },
+            {
+              "stable_id": "asr-008745",
+              "start_seconds": 23165.46,
+              "clock": "06:26:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008745"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "40-cruz",
+      "label": "Rep. Agatha Paula \"Agay\" A. Cruz",
+      "items": [
+        {
+          "label": "From flood-management plans to funded implementation",
+          "text": "Cruz pressed DENR to lead ridge-to-reef flood management and identify actual 2027 programs arising from its framework. David said the draft still required consultation and DepDev infrastructure-committee approval. The ADB-supported Pampanga River Basin initiative remained at climate-risk assessment and identification of nature-based solutions, not implementation. On a unified water and flood database, he described existing separate systems and a 2027 request above the NEP to integrate them with other agencies. The exchange did not establish delivery of the 2026 requirement Cruz asked about.",
+          "citations": [
+            {
+              "stable_id": "asr-008803",
+              "start_seconds": 23225.98,
+              "clock": "06:27:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008803"
+            },
+            {
+              "stable_id": "asr-008879",
+              "start_seconds": 23313.52,
+              "clock": "06:28:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008879"
+            },
+            {
+              "stable_id": "asr-008943",
+              "start_seconds": 23469.44,
+              "clock": "06:31:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008943"
+            },
+            {
+              "stable_id": "asr-008950",
+              "start_seconds": 23531.44,
+              "clock": "06:32:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008950"
+            },
+            {
+              "stable_id": "asr-008969",
+              "start_seconds": 23654.36,
+              "clock": "06:34:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008969"
+            },
+            {
+              "stable_id": "asr-008973",
+              "start_seconds": 23675.47,
+              "clock": "06:34:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008973"
+            },
+            {
+              "stable_id": "asr-008985",
+              "start_seconds": 23735.28,
+              "clock": "06:35:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008985"
+            }
+          ]
+        },
+        {
+          "label": "Oversight powers, airport impacts and Bulacan greening",
+          "text": "Cruz also asked who had enforcement responsibility for waterways, requested the San Miguel airport environmental impact assessment, and sought additional greening support for Bulacan's fifth district. The responses focused on planning and databases; these additional requests received no distinct substantive answer or quantified allocation before the round ended.",
+          "citations": [
+            {
+              "stable_id": "asr-008927",
+              "start_seconds": 23378.86,
+              "clock": "06:29:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008927"
+            },
+            {
+              "stable_id": "asr-008932",
+              "start_seconds": 23409.86,
+              "clock": "06:30:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008932"
+            },
+            {
+              "stable_id": "asr-008995",
+              "start_seconds": 23782.84,
+              "clock": "06:36:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-008995"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "41-pleyto",
+      "label": "Rep. Salvador A. Pleyto",
+      "items": [
+        {
+          "label": "Watershed investment and measurable flood protection",
+          "text": "Pleyto asked for watershed rehabilitation budgets, coordination with DPWH, allocations per critical watershed and evidence that interventions reduce downstream flooding. Teh identified a P28 million nature-based-solutions line supplemented by other water and river-basin activities, with coordination through DepDev's infrastructure committee. Fadriquela cited 131 critical watersheds, 16 priority landscapes and P3 billion in broader 2027 forest-development, protection and soil-conservation initiatives related to flood mitigation. Per-watershed funding depended on size and rehabilitation needs. No watershed-by-watershed allocation table or downstream-impact measurement was supplied. Pleyto supported the budget while seeking substantial nature-based investment.",
+          "citations": [
+            {
+              "stable_id": "asr-009016",
+              "start_seconds": 23900.74,
+              "clock": "06:38:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009016"
+            },
+            {
+              "stable_id": "asr-009025",
+              "start_seconds": 23935.18,
+              "clock": "06:38:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009025"
+            },
+            {
+              "stable_id": "asr-009038",
+              "start_seconds": 24012.68,
+              "clock": "06:40:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009038"
+            },
+            {
+              "stable_id": "asr-009048",
+              "start_seconds": 24072.54,
+              "clock": "06:41:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009048"
+            },
+            {
+              "stable_id": "asr-009051",
+              "start_seconds": 24093.96,
+              "clock": "06:41:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009051"
+            },
+            {
+              "stable_id": "asr-009059",
+              "start_seconds": 24157.22,
+              "clock": "06:42:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009059"
+            },
+            {
+              "stable_id": "asr-009059-split-1",
+              "start_seconds": 24163.9,
+              "clock": "06:42:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009059-split-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "42-elago",
+      "label": "Rep. Sarah Jane I. Elago",
+      "items": [
+        {
+          "label": "Manila Bay rehabilitation costs and enforcement",
+          "text": "Elago asked how much the 2026-2031 Manila Bay strategy would cost, citing inadequate resettlement resources. Teh said budgets were determined yearly, and Leones outlined the program's key result areas without producing a full-plan cost. On enforcement, Leones reported 67,535 establishments inspected, 16,722 notices of violation, 350 cease-and-desist orders and 191 ex parte orders for 2019-2026. He said fines were remitted to the Treasury and committed to submit collection data; no amount collected was given.",
+          "citations": [
+            {
+              "stable_id": "asr-009101",
+              "start_seconds": 24397.1,
+              "clock": "06:46:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009101"
+            },
+            {
+              "stable_id": "asr-009118",
+              "start_seconds": 24514.46,
+              "clock": "06:48:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009118"
+            },
+            {
+              "stable_id": "asr-009137",
+              "start_seconds": 24632.28,
+              "clock": "06:50:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009137"
+            },
+            {
+              "stable_id": "asr-009140",
+              "start_seconds": 24641.86,
+              "clock": "06:50:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009140"
+            },
+            {
+              "stable_id": "asr-009150-split-1",
+              "start_seconds": 24714.28,
+              "clock": "06:51:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009150-split-1"
+            },
+            {
+              "stable_id": "asr-009152",
+              "start_seconds": 24721.84,
+              "clock": "06:52:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009152"
+            }
+          ]
+        },
+        {
+          "label": "Tree-cutting permits and replacement effectiveness",
+          "text": "Elago raised residents' concerns about 1,069 trees linked to the Metro Manila Bridges Project. Cuna said no tree-cutting permit had been issued for the application he described, reduced from 21 to 17 trees and returned to DPWH for requirements including consultation. For the Southern Access Link, he said earlier permits had expired with no new application or extension request. Asked whether replacement seedlings were effective, Fadriquela described ratios of 100 seedlings per naturally grown tree and 50 per planted tree and offered planting records. The response did not provide an effectiveness study.",
+          "citations": [
+            {
+              "stable_id": "asr-009163",
+              "start_seconds": 24771.72,
+              "clock": "06:52:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009163"
+            },
+            {
+              "stable_id": "asr-009172",
+              "start_seconds": 24845.18,
+              "clock": "06:54:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009172"
+            },
+            {
+              "stable_id": "asr-009182",
+              "start_seconds": 24917.12,
+              "clock": "06:55:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009182"
+            },
+            {
+              "stable_id": "asr-009185",
+              "start_seconds": 24938.26,
+              "clock": "06:55:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009185"
+            },
+            {
+              "stable_id": "asr-009188",
+              "start_seconds": 24972.26,
+              "clock": "06:56:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009188"
+            },
+            {
+              "stable_id": "asr-009197",
+              "start_seconds": 25019.28,
+              "clock": "06:56:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009197"
+            }
+          ]
+        },
+        {
+          "label": "Laguna Lake road impacts, shoreland titles and displacement",
+          "text": "Elago requested an ECC-compliance report for the Laguna Lake Road Network and assistance for residents facing displacement and competing private land claims. LLDA Acting General Manager Parumog distinguished EMB's ECC role from LLDA's, explained shoreland and title-reversion issues around the 12.5-meter elevation boundary, and said affected cases were handled through the project's inter-agency technical working group. He agreed to supply the requested status report; no individual title dispute or relocation was resolved in the exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-009206",
+              "start_seconds": 25097.6,
+              "clock": "06:58:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009206"
+            },
+            {
+              "stable_id": "asr-009210",
+              "start_seconds": 25134.44,
+              "clock": "06:58:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009210"
+            },
+            {
+              "stable_id": "asr-009219",
+              "start_seconds": 25165.56,
+              "clock": "06:59:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009219"
+            },
+            {
+              "stable_id": "asr-009228",
+              "start_seconds": 25191.34,
+              "clock": "06:59:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009228"
+            },
+            {
+              "stable_id": "asr-009269",
+              "start_seconds": 25276.5,
+              "clock": "07:01:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009269"
+            },
+            {
+              "stable_id": "asr-009286",
+              "start_seconds": 25311.54,
+              "clock": "07:01:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009286"
+            },
+            {
+              "stable_id": "asr-009298",
+              "start_seconds": 25335.78,
+              "clock": "07:02:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009298"
+            },
+            {
+              "stable_id": "asr-009304",
+              "start_seconds": 25347.04,
+              "clock": "07:02:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-009304"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "48-alvarez_fiscal_manifestation",
+      "label": "Deputy Speaker Jose C. Alvarez",
+      "items": [
+        {
+          "label": "Fiscal-space condition on the augmentation motion",
+          "text": "Deputy Speaker Jose C. Alvarez clarified that the earlier approved motion for roughly P556 million in additional DENR funding remained subject to fiscal space provided by the executive and final allocation across agencies. He pledged to include the request if fiscal space allowed; the motion did not guarantee the additional appropriation.",
+          "citations": [
+            {
+              "stable_id": "asr-010140",
+              "start_seconds": 31267.16,
+              "clock": "08:41:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010140"
+            },
+            {
+              "stable_id": "asr-010147",
+              "start_seconds": 31276.58,
+              "clock": "08:41:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010147"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "49-closing",
+      "label": "Rep. Mikaela Angela B. Suansing",
+      "items": [
+        {
+          "label": "Prioritized amendment request and termination of the briefing",
+          "text": "Rep. Mikaela Angela B. Suansing asked DENR to submit a formal, prioritized augmentation request for open, line-by-line consideration by the Budget Amendments Review Subcommittee, given limited fiscal space and competing agency requests. Cuna agreed to comply. Suansing sought the letter as soon as possible, ultimately specifying early the following week, with the subcommittee expected to convene before plenary. On Rep. Christopher Sheen P. Gonzales's motion, seconded by Suansing, Deputy Speaker Jose C. Alvarez terminated the DENR budget briefing, including attached agencies and corporations. A further motion suspended committee proceedings for resumption on August 27, 2026 at 9 a.m.; this was termination of the briefing, not final passage of the budget.",
+          "citations": [
+            {
+              "stable_id": "asr-010240",
+              "start_seconds": 31375.52,
+              "clock": "08:42:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010240"
+            },
+            {
+              "stable_id": "asr-010279",
+              "start_seconds": 31415.36,
+              "clock": "08:43:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010279"
+            },
+            {
+              "stable_id": "asr-010297",
+              "start_seconds": 31431.26,
+              "clock": "08:43:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010297"
+            },
+            {
+              "stable_id": "asr-010331",
+              "start_seconds": 31468.64,
+              "clock": "08:44:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010331"
+            },
+            {
+              "stable_id": "asr-010338",
+              "start_seconds": 31526.4,
+              "clock": "08:45:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010338"
+            },
+            {
+              "stable_id": "asr-010355",
+              "start_seconds": 31606.66,
+              "clock": "08:46:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010355"
+            },
+            {
+              "stable_id": "asr-010361",
+              "start_seconds": 31633.58,
+              "clock": "08:47:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010361"
+            },
+            {
+              "stable_id": "asr-010371",
+              "start_seconds": 31656.34,
+              "clock": "08:47:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/16/#asr-010371"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

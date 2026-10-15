@@ -1,0 +1,7156 @@
+1
+00:00:01,070 --> 00:00:02,810
+Committee Secretary: Geesnell Baba Yap,
+
+2
+00:00:04,130 --> 00:00:06,390
+Committee Secretary: Representative Girlie Veloso,
+
+3
+00:00:08,250 --> 00:00:11,230
+Committee Secretary: Deputy Minority Leader Antonio Tinio,
+
+4
+00:00:12,890 --> 00:00:16,010
+Committee Secretary: Representative Renee Louise Co,
+
+5
+00:00:16,930 --> 00:00:19,230
+Committee Secretary: Representative Sarah Jane Elago,
+
+6
+00:00:20,830 --> 00:00:24,350
+Committee Secretary: Deputy Majority Leader Gil Cabarangay Jr. Acosta,
+
+7
+00:00:25,770 --> 00:00:27,970
+Committee Secretary: Representative Robert Nazal,
+
+8
+00:00:27,970 --> 00:00:32,110
+Committee Secretary: Representative Mark Anthony Santos,
+
+9
+00:00:33,470 --> 00:00:36,870
+Committee Secretary: Representative Jesus Bong Suntay,
+
+10
+00:00:38,930 --> 00:00:42,230
+Committee Secretary: Representative Leonel Jhong Ceniza,
+
+11
+00:00:42,930 --> 00:00:45,970
+Committee Secretary: and Representative Isidro Ungab.
+
+12
+00:00:47,190 --> 00:00:52,770
+Committee Secretary: May we also acknowledge our guests from the Office of the Vice President.
+
+13
+00:00:52,770 --> 00:00:56,690
+Committee Secretary: We have Undersecretary and Chief of Staff,
+
+14
+00:00:57,150 --> 00:00:57,770
+Committee Secretary: Attorney
+
+15
+00:00:57,970 --> 00:00:58,970
+Committee Secretary: Sulaika Lopez,
+
+16
+00:01:01,200 --> 00:01:05,240
+Committee Secretary: Director from Administrative and Financial Services Office,
+
+17
+00:01:05,380 --> 00:01:07,060
+Committee Secretary: Attorney Rosaline Sanchez,
+
+18
+00:01:09,300 --> 00:01:12,640
+Committee Secretary: Director for Strategy Management Office,
+
+19
+00:01:13,260 --> 00:01:15,420
+Committee Secretary: Attorney Sunshine Chari Fajarda,
+
+20
+00:01:17,460 --> 00:01:19,000
+Committee Secretary: and Director for Operations,
+
+21
+00:01:19,140 --> 00:01:20,380
+Committee Secretary: Mr. Norman Baloro,
+
+22
+00:01:22,260 --> 00:01:24,140
+Committee Secretary: Chief Legal Affairs Division,
+
+23
+00:01:24,140 --> 00:01:27,100
+Committee Secretary: Attorney Emily Rose Torintira,
+
+24
+00:01:29,270 --> 00:01:30,470
+Committee Secretary: Chief Budget Division,
+
+25
+00:01:30,730 --> 00:01:34,270
+Committee Secretary: Attorney Kelvin Jerome Tenido,
+
+26
+00:01:34,280 --> 00:01:38,090
+Committee Secretary: and Chief Accountant, Ms. Julieta Villa Del Rey.
+
+27
+00:01:38,450 --> 00:01:39,390
+Committee Secretary: That's all, Mr. Chair.
+
+28
+00:01:41,590 --> 00:01:42,330
+Deputy Speaker Jose C. Alvarez: Thank you, Comsec.
+
+29
+00:01:43,650 --> 00:01:46,590
+Deputy Speaker Jose C. Alvarez: For the information of our STEAM colleagues,
+
+30
+00:01:47,190 --> 00:01:54,330
+Deputy Speaker Jose C. Alvarez: I'd like to remind you that this budget briefing is about the budget of the Office of the Vice President.
+
+31
+00:01:55,630 --> 00:02:03,090
+Deputy Speaker Jose C. Alvarez: Therefore, I'd like to request that all questions regarding issues that have been forwarded
+
+32
+00:02:03,090 --> 00:02:03,590
+Deputy Speaker Jose C. Alvarez: to the Senate,
+
+33
+00:02:04,290 --> 00:02:06,650
+Deputy Speaker Jose C. Alvarez: we should avoid asking questions.
+
+34
+00:02:06,890 --> 00:02:08,730
+Deputy Speaker Jose C. Alvarez: Dito lang po tayo, we confined to the budget.
+
+35
+00:02:08,890 --> 00:02:12,390
+Deputy Speaker Jose C. Alvarez: It was reduced already compared to 2026.
+
+36
+00:02:13,830 --> 00:02:21,850
+Deputy Speaker Jose C. Alvarez: And we'll do the question and answer with the long-standing tradition,
+
+37
+00:02:21,850 --> 00:02:22,910
+Deputy Speaker Jose C. Alvarez: una yung minority,
+
+38
+00:02:23,510 --> 00:02:24,510
+Deputy Speaker Jose C. Alvarez: sunod ang majority,
+
+39
+00:02:25,410 --> 00:02:27,310
+Deputy Speaker Jose C. Alvarez: kung mayroon ng independent,
+
+40
+00:02:29,630 --> 00:02:33,010
+Deputy Speaker Jose C. Alvarez: and then each member is allowed five minutes,
+
+41
+00:02:33,090 --> 00:02:34,290
+Deputy Speaker Jose C. Alvarez: to ask questions.
+
+42
+00:02:34,410 --> 00:02:35,530
+Deputy Speaker Jose C. Alvarez: When you hear the bell,
+
+43
+00:02:36,190 --> 00:02:38,310
+Deputy Speaker Jose C. Alvarez: please speed up your questioning
+
+44
+00:02:38,310 --> 00:02:41,110
+Deputy Speaker Jose C. Alvarez: para hindi nasa matagalan dito
+
+45
+00:02:41,110 --> 00:02:43,790
+Deputy Speaker Jose C. Alvarez: dahil ang dami pa natin yung mga hearing na iba.
+
+46
+00:02:45,270 --> 00:02:47,870
+Deputy Speaker Jose C. Alvarez: The budget of the Vice President,
+
+47
+00:02:48,090 --> 00:02:51,210
+Deputy Speaker Jose C. Alvarez: as you can see from the briefing paper,
+
+48
+00:02:51,950 --> 00:02:54,930
+Deputy Speaker Jose C. Alvarez: has been very much different from last year.
+
+49
+00:02:55,030 --> 00:02:56,490
+Deputy Speaker Jose C. Alvarez: Last year was a little bit high,
+
+50
+00:02:57,010 --> 00:02:58,330
+Deputy Speaker Jose C. Alvarez: and now mababang mababa.
+
+51
+00:02:58,830 --> 00:03:00,510
+Deputy Speaker Jose C. Alvarez: And so,
+
+52
+00:03:01,170 --> 00:03:02,930
+Deputy Speaker Jose C. Alvarez: we'd like to listen to
+
+53
+00:03:02,930 --> 00:03:05,430
+Deputy Speaker Jose C. Alvarez: the presentation of Attorney Lopez.
+
+54
+00:03:06,250 --> 00:03:07,090
+Deputy Speaker Jose C. Alvarez: Atty. Lopez,
+
+55
+00:03:07,270 --> 00:03:08,650
+Deputy Speaker Jose C. Alvarez: you have the floor.
+
+56
+00:03:09,390 --> 00:03:10,510
+Deputy Speaker Jose C. Alvarez: Thank you very much, ma'am.
+
+57
+00:03:10,590 --> 00:03:12,950
+Undersecretary Sulaika T. Lopez: Thank you very much, Congressman Alvarez.
+
+58
+00:03:13,070 --> 00:03:14,890
+Undersecretary Sulaika T. Lopez: Magandang hapon sa lahat.
+
+59
+00:03:15,270 --> 00:03:17,030
+Undersecretary Sulaika T. Lopez: We are the Office of the Vice President,
+
+60
+00:03:17,250 --> 00:03:21,830
+Undersecretary Sulaika T. Lopez: and we are here today to present to you our proposed budget for calendar year,
+
+61
+00:03:22,130 --> 00:03:24,170
+Undersecretary Sulaika T. Lopez: or fiscal year rather, 2027.
+
+62
+00:03:24,450 --> 00:03:27,510
+Undersecretary Sulaika T. Lopez: We would like to start with a short audiovisual presentation
+
+63
+00:03:27,510 --> 00:03:31,410
+Undersecretary Sulaika T. Lopez: to be followed by a presentation by our Chief of Budget Division,
+
+64
+00:03:31,410 --> 00:03:32,910
+Undersecretary Sulaika T. Lopez: Atty. Kelvin Tenido,
+
+65
+00:03:33,110 --> 00:03:35,250
+Undersecretary Sulaika T. Lopez: on the highlights of our budget proposal.
+
+66
+00:03:35,930 --> 00:03:38,710
+Undersecretary Sulaika T. Lopez: If the members of the committee will indulge,
+
+67
+00:03:38,750 --> 00:03:41,790
+Undersecretary Sulaika T. Lopez: we'd like to request the Secretariat to please play our video.
+
+68
+00:03:42,350 --> 00:03:42,830
+Undersecretary Sulaika T. Lopez: Thank you.
+
+69
+00:03:54,480 --> 00:03:57,260
+Presentation video: For millions of ordinary Filipino families,
+
+70
+00:03:57,740 --> 00:04:00,140
+Presentation video: every single day is a fight for survival
+
+71
+00:04:00,140 --> 00:04:02,220
+Presentation video: against rising living costs
+
+72
+00:04:02,220 --> 00:04:04,200
+Presentation video: and tight household budgets.
+
+73
+00:04:05,340 --> 00:04:07,380
+Presentation video: One illness or natural disaster
+
+74
+00:04:07,380 --> 00:04:10,180
+Presentation video: can trigger an immediate household crisis,
+
+75
+00:04:10,800 --> 00:04:12,120
+Presentation video: forcing hard choices
+
+76
+00:04:12,120 --> 00:04:13,500
+Presentation video: between food,
+
+77
+00:04:14,000 --> 00:04:15,000
+Presentation video: education,
+
+78
+00:04:15,000 --> 00:04:17,000
+Presentation video: and basic survival.
+
+79
+00:04:17,000 --> 00:04:19,000
+Presentation video: This is where public assistance
+
+80
+00:04:19,000 --> 00:04:21,000
+Presentation video: must be swift,
+
+81
+00:04:21,000 --> 00:04:22,000
+Presentation video: active,
+
+82
+00:04:22,000 --> 00:04:23,000
+Presentation video: and responsive.
+
+83
+00:04:23,000 --> 00:04:31,560
+Presentation video: The Office of the Vice President serves as a direct bridge to communities,
+
+84
+00:04:31,560 --> 00:04:34,560
+Presentation video: bringing public service closer to Filipinos,
+
+85
+00:04:34,560 --> 00:04:39,560
+Presentation video: particularly for underserved areas and marginalized groups.
+
+86
+00:04:39,560 --> 00:04:45,560
+Presentation video: The OVP operates hand-in-hand with nine agencies to expand national social protection,
+
+87
+00:04:45,560 --> 00:04:46,560
+Presentation video: social security,
+
+88
+00:04:46,560 --> 00:04:48,560
+Presentation video: strengthening government presence,
+
+89
+00:04:48,560 --> 00:04:50,560
+Presentation video: amplifying existing programs,
+
+90
+00:04:50,560 --> 00:04:53,560
+Presentation video: and ensuring relief reaches families
+
+91
+00:04:53,560 --> 00:04:55,560
+Presentation video: when emergencies strike.
+
+92
+00:04:55,560 --> 00:04:57,560
+Presentation video: Every peso in this budget
+
+93
+00:04:57,560 --> 00:04:59,560
+Presentation video: is an investment in human dignity
+
+94
+00:04:59,560 --> 00:05:01,560
+Presentation video: and direct public service.
+
+95
+00:05:01,560 --> 00:05:16,740
+Presentation video: Our mandate is clear,
+
+96
+00:05:16,740 --> 00:05:20,740
+Presentation video: ensuring direct access to basic social services.
+
+97
+00:05:20,740 --> 00:05:22,740
+Presentation video: In 2025,
+
+98
+00:05:22,740 --> 00:05:25,740
+Presentation video: we serve 1.39 million Filipinos,
+
+99
+00:05:25,740 --> 00:05:28,740
+Presentation video: surpassing our target by 33%.
+
+100
+00:05:28,740 --> 00:05:31,740
+Presentation video: For the first half of 2026,
+
+101
+00:05:31,740 --> 00:05:35,740
+Presentation video: our reach stands at over 773,000 individuals
+
+102
+00:05:35,740 --> 00:05:37,740
+Presentation video: through targeted programs
+
+103
+00:05:37,740 --> 00:05:40,740
+Presentation video: tailored to specific community needs.
+
+104
+00:05:40,740 --> 00:05:42,740
+Presentation video: To sustain these results,
+
+105
+00:05:42,740 --> 00:05:47,740
+Presentation video: the OVP has consistently maintained a high budget utilization rate,
+
+106
+00:05:47,740 --> 00:05:53,700
+Presentation video: averaging over 90% in previous years.
+
+107
+00:05:53,700 --> 00:05:55,700
+Presentation video: For fiscal year 2027,
+
+108
+00:05:55,700 --> 00:05:59,700
+Presentation video: the proposed P785,204,000
+
+109
+00:05:59,700 --> 00:06:01,700
+Presentation video: peso budget
+
+110
+00:06:01,700 --> 00:06:05,700
+Presentation video: ensures that resources entrusted to the office
+
+111
+00:06:05,700 --> 00:06:07,700
+Presentation video: directly translate into efficient,
+
+112
+00:06:07,700 --> 00:06:08,700
+Presentation video: measurable,
+
+113
+00:06:08,700 --> 00:06:10,700
+Presentation video: public service.
+
+114
+00:06:11,700 --> 00:06:15,700
+Presentation video: These resources directly fund nine core initiatives
+
+115
+00:06:15,700 --> 00:06:18,700
+Presentation video: targeting 1.4 million beneficiaries nationwide.
+
+116
+00:06:18,700 --> 00:06:24,100
+Presentation video: Microenterprise grants through Magnegosyo Tonight
+
+117
+00:06:24,100 --> 00:06:26,100
+Presentation video: for individuals and groups.
+
+118
+00:06:27,100 --> 00:06:28,100
+Presentation video: School supplies,
+
+119
+00:06:28,100 --> 00:06:29,100
+Presentation video: rainwear,
+
+120
+00:06:29,100 --> 00:06:30,100
+Presentation video: and dental kits
+
+121
+00:06:30,100 --> 00:06:32,100
+Presentation video: for last mile learners
+
+122
+00:06:32,100 --> 00:06:34,100
+Presentation video: under the Pagbabago campaign
+
+123
+00:06:34,100 --> 00:06:36,100
+Presentation video: and fostering youth leadership
+
+124
+00:06:36,100 --> 00:06:38,100
+Presentation video: and educational exposure
+
+125
+00:06:38,100 --> 00:06:40,100
+Presentation video: through You Can Be VP.
+
+126
+00:06:40,100 --> 00:06:43,100
+Presentation video: Deploying rapid relief during calamities
+
+127
+00:06:43,100 --> 00:06:46,100
+Presentation video: through disaster operations.
+
+128
+00:06:46,100 --> 00:06:48,100
+Presentation video: Providing basic family sustenance
+
+129
+00:06:48,100 --> 00:06:51,100
+Presentation video: through the RISE program.
+
+130
+00:06:51,100 --> 00:06:53,100
+Presentation video: While kalusugad food trucks
+
+131
+00:06:53,100 --> 00:06:55,100
+Presentation video: deliver hot meals for frontliners
+
+132
+00:06:55,100 --> 00:06:58,100
+Presentation video: and vulnerable communities.
+
+133
+00:06:58,100 --> 00:07:01,100
+Presentation video: Libring Sakay offers free daily transit
+
+134
+00:07:01,100 --> 00:07:04,960
+Presentation video: along high density routes.
+
+135
+00:07:04,960 --> 00:07:06,960
+Presentation video: Delivering wheelchairs to senior citizens
+
+136
+00:07:06,960 --> 00:07:08,960
+Presentation video: and persons with disabilities.
+
+137
+00:07:09,960 --> 00:07:12,960
+Presentation video: And providing specialized burial kits
+
+138
+00:07:12,960 --> 00:07:14,960
+Presentation video: under Al Janaza support
+
+139
+00:07:14,960 --> 00:07:16,960
+Presentation video: to honor sacred Islamic rites.
+
+140
+00:07:16,960 --> 00:07:18,960
+Presentation video: Behind each proposed allocation
+
+141
+00:07:18,960 --> 00:07:22,960
+Presentation video: is a program designed to answer a specific Filipino need.
+
+142
+00:07:23,960 --> 00:07:26,960
+Presentation video: When tight budgets leave zero safety net,
+
+143
+00:07:26,960 --> 00:07:27,960
+Presentation video: Microenterprise grants turn daily survivors
+
+144
+00:07:27,960 --> 00:07:30,960
+Presentation video: into sustainable income
+
+145
+00:07:30,960 --> 00:07:33,960
+Presentation video: for women and local groups.
+
+146
+00:07:34,960 --> 00:07:36,960
+Presentation video: Free bags and school supplies
+
+147
+00:07:36,960 --> 00:07:39,960
+Presentation video: absorb major out-of-pocket educational costs
+
+148
+00:07:39,960 --> 00:07:41,960
+Presentation video: freeing up limited family income
+
+149
+00:07:41,960 --> 00:07:43,960
+Presentation video: for other student needs.
+
+150
+00:07:43,960 --> 00:07:47,820
+Presentation video: Free public transport
+
+151
+00:07:47,820 --> 00:07:49,820
+Presentation video: cuts daily commuting costs.
+
+152
+00:07:49,820 --> 00:07:52,820
+Presentation video: Preserving take-home wages for food,
+
+153
+00:07:52,820 --> 00:07:53,820
+Presentation video: health care,
+
+154
+00:07:53,820 --> 00:07:55,820
+Presentation video: and basic necessities.
+
+155
+00:07:56,820 --> 00:07:58,820
+Presentation video: Emergency relief and food packs
+
+156
+00:07:58,820 --> 00:08:00,820
+Presentation video: provide immediate nutrition,
+
+157
+00:08:00,820 --> 00:08:02,820
+Presentation video: preventing vulnerable families
+
+158
+00:08:02,820 --> 00:08:04,820
+Presentation video: from experiencing acute hunger
+
+159
+00:08:04,820 --> 00:08:06,820
+Presentation video: when disasters strike.
+
+160
+00:08:07,820 --> 00:08:09,820
+Presentation video: Mobility aid and funeral support
+
+161
+00:08:09,820 --> 00:08:11,820
+Presentation video: protect family dignity
+
+162
+00:08:11,820 --> 00:08:14,820
+Presentation video: when unexpected expenses hit hardest.
+
+163
+00:08:14,820 --> 00:08:18,190
+Presentation video: These are targeted interventions
+
+164
+00:08:18,190 --> 00:08:20,190
+Presentation video: that shield families
+
+165
+00:08:20,190 --> 00:08:22,190
+Presentation video: from immediate household crisis.
+
+166
+00:08:23,190 --> 00:08:25,190
+Presentation video: To serve effectively,
+
+167
+00:08:25,190 --> 00:08:28,190
+Presentation video: a national office must have a local footprint.
+
+168
+00:08:28,190 --> 00:08:29,190
+Presentation video: Operated through
+
+169
+00:08:29,190 --> 00:08:31,190
+Presentation video: ten satellite offices station-wide,
+
+170
+00:08:31,190 --> 00:08:33,190
+Presentation video: the OVP has conducted thousands
+
+171
+00:08:33,190 --> 00:08:35,190
+Presentation video: of community engagements,
+
+172
+00:08:35,190 --> 00:08:37,190
+Presentation video: exceeding targets
+
+173
+00:08:37,190 --> 00:08:39,190
+Presentation video: by assessing needs on the ground,
+
+174
+00:08:40,190 --> 00:08:42,190
+Presentation video: coordinating with local government units,
+
+175
+00:08:42,190 --> 00:08:45,190
+Presentation video: and delivering complementary assistance
+
+176
+00:08:45,190 --> 00:08:47,190
+Presentation video: where it matters most.
+
+177
+00:08:48,190 --> 00:08:50,190
+Presentation video: The strength of this model is simple.
+
+178
+00:08:50,190 --> 00:08:52,190
+Presentation video: National support brought directly
+
+179
+00:08:52,190 --> 00:08:54,190
+Presentation video: to local communities.
+
+180
+00:08:55,190 --> 00:08:56,190
+Presentation video: To sustain operations
+
+181
+00:08:56,190 --> 00:08:58,190
+Presentation video: and maintain nationwide service delivery,
+
+182
+00:08:59,190 --> 00:09:02,190
+Presentation video: the Office of the Vice President
+
+183
+00:09:02,190 --> 00:09:04,190
+Presentation video: proposes a total fiscal year
+
+184
+00:09:04,190 --> 00:09:06,190
+Presentation video: 2027 budget
+
+185
+00:09:06,190 --> 00:09:11,190
+Presentation video: of 785,204,000 pesos.
+
+186
+00:09:12,190 --> 00:09:14,190
+Presentation video: Over 70% of this proposal
+
+187
+00:09:14,190 --> 00:09:17,190
+Presentation video: is allocated to operating expenses,
+
+188
+00:09:17,190 --> 00:09:20,190
+Presentation video: directly powering program execution,
+
+189
+00:09:20,190 --> 00:09:22,190
+Presentation video: satellite office operations,
+
+190
+00:09:22,190 --> 00:09:24,190
+Presentation video: and community assistance.
+
+191
+00:09:25,190 --> 00:09:28,190
+Presentation video: Combined with 193,103,000 pesos,
+
+192
+00:09:28,190 --> 00:09:31,190
+Presentation video: dedicated strictly
+
+193
+00:09:31,190 --> 00:09:33,190
+Presentation video: to direct program activities,
+
+194
+00:09:33,190 --> 00:09:35,190
+Presentation video: this budget provides
+
+195
+00:09:35,190 --> 00:09:37,190
+Presentation video: the structural support needed
+
+196
+00:09:37,190 --> 00:09:39,190
+Presentation video: to serve over 1.4 million
+
+197
+00:09:39,190 --> 00:09:41,190
+Presentation video: target beneficiaries.
+
+198
+00:09:41,190 --> 00:09:43,190
+Presentation video: Our budget proposal reflects
+
+199
+00:09:43,190 --> 00:09:46,190
+Presentation video: a lean, focused operation
+
+200
+00:09:46,190 --> 00:09:48,190
+Presentation video: designed to maximize every peso
+
+201
+00:09:48,190 --> 00:09:50,190
+Presentation video: for direct public service.
+
+202
+00:09:50,190 --> 00:09:54,700
+Presentation video: Office of the Vice President
+
+203
+00:09:54,700 --> 00:09:56,700
+Presentation video: bringing national government
+
+204
+00:09:56,700 --> 00:09:58,700
+Presentation video: closer to the people.
+
+205
+00:10:12,100 --> 00:10:13,640
+Atty. Kelvin Jerome Tenido: Secretariat for the PowerPoint, please.
+
+206
+00:10:25,920 --> 00:10:27,260
+Atty. Kelvin Jerome Tenido: Good afternoon, everyone.
+
+207
+00:10:27,740 --> 00:10:29,070
+Atty. Kelvin Jerome Tenido: Presenting the highlights
+
+208
+00:10:29,070 --> 00:10:30,070
+Atty. Kelvin Jerome Tenido: and salient features
+
+209
+00:10:30,070 --> 00:10:32,070
+Atty. Kelvin Jerome Tenido: of the OVP budget
+
+210
+00:10:32,070 --> 00:10:34,070
+Atty. Kelvin Jerome Tenido: under the fiscal year 2027
+
+211
+00:10:34,070 --> 00:10:37,070
+Atty. Kelvin Jerome Tenido: National Expenditure Program, or NEP.
+
+212
+00:10:37,070 --> 00:10:39,070
+Atty. Kelvin Jerome Tenido: The Department of Budget and Management,
+
+213
+00:10:39,070 --> 00:10:40,070
+Atty. Kelvin Jerome Tenido: or DBM,
+
+214
+00:10:40,070 --> 00:10:41,070
+Atty. Kelvin Jerome Tenido: has recommended the amount
+
+215
+00:10:41,070 --> 00:10:43,070
+Atty. Kelvin Jerome Tenido: of 785,204,000
+
+216
+00:10:43,070 --> 00:10:45,070
+Atty. Kelvin Jerome Tenido: as agency-specific budget
+
+217
+00:10:45,070 --> 00:10:47,070
+Atty. Kelvin Jerome Tenido: for fiscal year 2027,
+
+218
+00:10:47,070 --> 00:10:50,070
+Atty. Kelvin Jerome Tenido: vis-a-vis the 779.901 million
+
+219
+00:10:50,070 --> 00:10:52,070
+Atty. Kelvin Jerome Tenido: proposal of the OVP.
+
+220
+00:10:52,070 --> 00:10:53,070
+Atty. Kelvin Jerome Tenido: The amount recommended
+
+221
+00:10:53,070 --> 00:10:55,070
+Atty. Kelvin Jerome Tenido: is net of RLIP
+
+222
+00:10:55,070 --> 00:10:57,070
+Atty. Kelvin Jerome Tenido: and is 11.7% lower
+
+223
+00:10:57,070 --> 00:10:59,070
+Atty. Kelvin Jerome Tenido: than the FY2026 budget
+
+224
+00:10:59,070 --> 00:11:01,070
+Atty. Kelvin Jerome Tenido: as appropriated.
+
+225
+00:11:01,070 --> 00:11:03,070
+Atty. Kelvin Jerome Tenido: The proposed budget will cover
+
+226
+00:11:03,070 --> 00:11:06,070
+Atty. Kelvin Jerome Tenido: PS, MOE, and capital outlay.
+
+227
+00:11:06,070 --> 00:11:08,070
+Atty. Kelvin Jerome Tenido: For PS, inclusive of RLIP,
+
+228
+00:11:08,070 --> 00:11:09,070
+Atty. Kelvin Jerome Tenido: the recommended budget
+
+229
+00:11:09,070 --> 00:11:11,070
+Atty. Kelvin Jerome Tenido: for fiscal year 2027
+
+230
+00:11:11,070 --> 00:11:14,070
+Atty. Kelvin Jerome Tenido: is 235.776 million,
+
+231
+00:11:14,070 --> 00:11:16,070
+Atty. Kelvin Jerome Tenido: which is 29.4%
+
+232
+00:11:16,070 --> 00:11:18,070
+Atty. Kelvin Jerome Tenido: of the total budget.
+
+233
+00:11:18,070 --> 00:11:21,070
+Atty. Kelvin Jerome Tenido: The amount is higher by 9.7%
+
+234
+00:11:21,070 --> 00:11:23,070
+Atty. Kelvin Jerome Tenido: than the FY2026 PS level.
+
+235
+00:11:23,070 --> 00:11:25,070
+Atty. Kelvin Jerome Tenido: PS covers salaries,
+
+236
+00:11:25,070 --> 00:11:26,070
+Atty. Kelvin Jerome Tenido: benefits,
+
+237
+00:11:26,070 --> 00:11:27,070
+Atty. Kelvin Jerome Tenido: and allowances
+
+238
+00:11:27,070 --> 00:11:30,070
+Atty. Kelvin Jerome Tenido: of 183 field positions.
+
+239
+00:11:30,070 --> 00:11:31,070
+Atty. Kelvin Jerome Tenido: It also includes
+
+240
+00:11:31,070 --> 00:11:32,070
+Atty. Kelvin Jerome Tenido: the special duty allowance
+
+241
+00:11:32,070 --> 00:11:34,070
+Atty. Kelvin Jerome Tenido: for military and uniform personnel
+
+242
+00:11:34,070 --> 00:11:39,070
+Atty. Kelvin Jerome Tenido: and salary for 69 non-permanent positions.
+
+243
+00:11:39,070 --> 00:11:41,070
+Atty. Kelvin Jerome Tenido: The total proposed PS budget,
+
+244
+00:11:41,070 --> 00:11:42,070
+Atty. Kelvin Jerome Tenido: including RLIP,
+
+245
+00:11:42,070 --> 00:11:45,070
+Atty. Kelvin Jerome Tenido: is 235.776 million.
+
+246
+00:11:45,070 --> 00:11:47,070
+Atty. Kelvin Jerome Tenido: For MOE,
+
+247
+00:11:47,070 --> 00:11:48,070
+Atty. Kelvin Jerome Tenido: the recommended budget
+
+248
+00:11:48,070 --> 00:11:51,070
+Atty. Kelvin Jerome Tenido: is 561.651 million,
+
+249
+00:11:51,070 --> 00:11:53,070
+Atty. Kelvin Jerome Tenido: which is 70.1%
+
+250
+00:11:53,070 --> 00:11:56,070
+Atty. Kelvin Jerome Tenido: of the total budget.
+
+251
+00:11:56,070 --> 00:11:58,070
+Atty. Kelvin Jerome Tenido: The MOE includes allocations
+
+252
+00:11:58,070 --> 00:11:59,070
+Atty. Kelvin Jerome Tenido: for the following
+
+253
+00:11:59,070 --> 00:12:00,070
+Atty. Kelvin Jerome Tenido: supplies and materials
+
+254
+00:12:00,070 --> 00:12:02,070
+Atty. Kelvin Jerome Tenido: as well as financial assistance
+
+255
+00:12:02,070 --> 00:12:03,070
+Atty. Kelvin Jerome Tenido: and subsidies,
+
+256
+00:12:03,070 --> 00:12:04,070
+Atty. Kelvin Jerome Tenido: which are intended
+
+257
+00:12:04,070 --> 00:12:05,070
+Atty. Kelvin Jerome Tenido: for goods and grants
+
+258
+00:12:05,070 --> 00:12:06,070
+Atty. Kelvin Jerome Tenido: that will be directly received
+
+259
+00:12:06,070 --> 00:12:10,070
+Atty. Kelvin Jerome Tenido: by the OVP target beneficiaries.
+
+260
+00:12:10,070 --> 00:12:12,070
+Atty. Kelvin Jerome Tenido: Travel and representation expenses
+
+261
+00:12:12,070 --> 00:12:13,070
+Atty. Kelvin Jerome Tenido: to support the operational needs
+
+262
+00:12:13,070 --> 00:12:14,070
+Atty. Kelvin Jerome Tenido: of the OVP
+
+263
+00:12:14,070 --> 00:12:16,070
+Atty. Kelvin Jerome Tenido: in implementing its programs
+
+264
+00:12:16,070 --> 00:12:17,070
+Atty. Kelvin Jerome Tenido: and projects,
+
+265
+00:12:17,070 --> 00:12:18,070
+Atty. Kelvin Jerome Tenido: including its ceremonial
+
+266
+00:12:18,070 --> 00:12:20,070
+Atty. Kelvin Jerome Tenido: and executive functions.
+
+267
+00:12:20,070 --> 00:12:21,070
+Atty. Kelvin Jerome Tenido: Also, provisions
+
+268
+00:12:21,070 --> 00:12:22,070
+Atty. Kelvin Jerome Tenido: for professional services
+
+269
+00:12:22,070 --> 00:12:23,070
+Atty. Kelvin Jerome Tenido: to cover the service fees
+
+270
+00:12:23,070 --> 00:12:24,070
+Atty. Kelvin Jerome Tenido: of consultants
+
+271
+00:12:24,070 --> 00:12:26,070
+Atty. Kelvin Jerome Tenido: and contract of service personnel,
+
+272
+00:12:26,070 --> 00:12:28,070
+Atty. Kelvin Jerome Tenido: rent lease expenses,
+
+273
+00:12:28,070 --> 00:12:30,070
+Atty. Kelvin Jerome Tenido: IT-related consultancy services
+
+274
+00:12:30,070 --> 00:12:32,070
+Atty. Kelvin Jerome Tenido: as per the ISSP,
+
+275
+00:12:32,070 --> 00:12:33,070
+Atty. Kelvin Jerome Tenido: and the operational needs
+
+276
+00:12:33,070 --> 00:12:34,070
+Atty. Kelvin Jerome Tenido: of the OVP central
+
+277
+00:12:34,070 --> 00:12:35,070
+Atty. Kelvin Jerome Tenido: and satellite offices,
+
+278
+00:12:35,070 --> 00:12:37,070
+Atty. Kelvin Jerome Tenido: among others.
+
+279
+00:12:37,070 --> 00:12:40,990
+Atty. Kelvin Jerome Tenido: As for the capital outlay,
+
+280
+00:12:40,990 --> 00:12:41,990
+Atty. Kelvin Jerome Tenido: the total capital outlay budget
+
+281
+00:12:41,990 --> 00:12:43,990
+Atty. Kelvin Jerome Tenido: is only 0.41%
+
+282
+00:12:43,990 --> 00:12:45,990
+Atty. Kelvin Jerome Tenido: of the total recommended budget,
+
+283
+00:12:45,990 --> 00:12:48,990
+Atty. Kelvin Jerome Tenido: or equivalent to 3.3 million.
+
+284
+00:12:48,990 --> 00:12:49,990
+Atty. Kelvin Jerome Tenido: Recommended CO covers
+
+285
+00:12:49,990 --> 00:12:51,990
+Atty. Kelvin Jerome Tenido: the procurement of various information
+
+286
+00:12:51,990 --> 00:12:52,990
+Atty. Kelvin Jerome Tenido: and communication technologies
+
+287
+00:12:52,990 --> 00:12:54,990
+Atty. Kelvin Jerome Tenido: and equipment
+
+288
+00:12:54,990 --> 00:12:57,990
+Atty. Kelvin Jerome Tenido: covered by the OVP ISSP.
+
+289
+00:12:57,990 --> 00:12:59,990
+Atty. Kelvin Jerome Tenido: By appropriation source,
+
+290
+00:12:59,990 --> 00:13:01,990
+Atty. Kelvin Jerome Tenido: the amount under agency-specific budget
+
+291
+00:13:01,990 --> 00:13:04,990
+Atty. Kelvin Jerome Tenido: is 785.204 million
+
+292
+00:13:04,990 --> 00:13:06,990
+Atty. Kelvin Jerome Tenido: and 15.554 million
+
+293
+00:13:06,990 --> 00:13:08,990
+Atty. Kelvin Jerome Tenido: under the automatic appropriations
+
+294
+00:13:08,990 --> 00:13:10,990
+Atty. Kelvin Jerome Tenido: for RLIP.
+
+295
+00:13:10,990 --> 00:13:12,990
+Atty. Kelvin Jerome Tenido: Of the total OVP budget
+
+296
+00:13:12,990 --> 00:13:15,990
+Atty. Kelvin Jerome Tenido: under the fiscal year 2027 NEP,
+
+297
+00:13:15,990 --> 00:13:17,990
+Atty. Kelvin Jerome Tenido: 193.103 million
+
+298
+00:13:17,990 --> 00:13:18,990
+Atty. Kelvin Jerome Tenido: or 24.6%
+
+299
+00:13:18,990 --> 00:13:20,990
+Atty. Kelvin Jerome Tenido: is allotted for various goods
+
+300
+00:13:20,990 --> 00:13:22,990
+Atty. Kelvin Jerome Tenido: and grants under socioeconomic program
+
+301
+00:13:22,990 --> 00:13:23,990
+Atty. Kelvin Jerome Tenido: dividend,
+
+302
+00:13:23,990 --> 00:13:25,990
+Atty. Kelvin Jerome Tenido: which will directly benefit Filipinos.
+
+303
+00:13:25,990 --> 00:13:27,990
+Atty. Kelvin Jerome Tenido: This excludes the logistics
+
+304
+00:13:27,990 --> 00:13:28,990
+Atty. Kelvin Jerome Tenido: and other operational costs
+
+305
+00:13:28,990 --> 00:13:29,990
+Atty. Kelvin Jerome Tenido: which are necessary
+
+306
+00:13:29,990 --> 00:13:31,990
+Atty. Kelvin Jerome Tenido: to implement the programs.
+
+307
+00:13:31,990 --> 00:13:33,990
+Atty. Kelvin Jerome Tenido: Presenting the comparative budget
+
+308
+00:13:33,990 --> 00:13:35,990
+Atty. Kelvin Jerome Tenido: of the OVP from fiscal years
+
+309
+00:13:35,990 --> 00:13:37,990
+Atty. Kelvin Jerome Tenido: 2022 to 2026
+
+310
+00:13:37,990 --> 00:13:38,990
+Atty. Kelvin Jerome Tenido: under the GAA
+
+311
+00:13:38,990 --> 00:13:41,990
+Atty. Kelvin Jerome Tenido: and 2027 under the NEP.
+
+312
+00:13:41,990 --> 00:13:44,990
+Atty. Kelvin Jerome Tenido: Prior to fiscal year 2023,
+
+313
+00:13:44,990 --> 00:13:45,990
+Atty. Kelvin Jerome Tenido: the OVP's budget ranged
+
+314
+00:13:45,990 --> 00:13:48,990
+Atty. Kelvin Jerome Tenido: from 700 to 900 million.
+
+315
+00:13:48,990 --> 00:13:49,990
+Atty. Kelvin Jerome Tenido: It was only in fiscal years
+
+316
+00:13:49,990 --> 00:13:51,990
+Atty. Kelvin Jerome Tenido: 2023 and 2024
+
+317
+00:13:51,990 --> 00:13:52,990
+Atty. Kelvin Jerome Tenido: that the budget exceeded
+
+318
+00:13:52,990 --> 00:13:54,990
+Atty. Kelvin Jerome Tenido: 1 billion pesos,
+
+319
+00:13:54,990 --> 00:13:56,990
+Atty. Kelvin Jerome Tenido: primarily due to the increased allocation
+
+320
+00:13:56,990 --> 00:13:59,990
+Atty. Kelvin Jerome Tenido: for financial assistance or subsidies
+
+321
+00:13:59,990 --> 00:14:00,990
+Atty. Kelvin Jerome Tenido: to support the provision
+
+322
+00:14:00,990 --> 00:14:02,990
+Atty. Kelvin Jerome Tenido: for medical and burial assistance.
+
+323
+00:14:02,990 --> 00:14:04,990
+Atty. Kelvin Jerome Tenido: The OVP's budget returned
+
+324
+00:14:04,990 --> 00:14:06,990
+Atty. Kelvin Jerome Tenido: to its pre-2023 level
+
+325
+00:14:06,990 --> 00:14:10,990
+Atty. Kelvin Jerome Tenido: with 744.15 million allocated for 2025.
+
+326
+00:14:10,990 --> 00:14:12,990
+Atty. Kelvin Jerome Tenido: The same budget level is maintained
+
+327
+00:14:12,990 --> 00:14:14,990
+Atty. Kelvin Jerome Tenido: under the proposed 2027 budget
+
+328
+00:14:14,990 --> 00:14:16,990
+Atty. Kelvin Jerome Tenido: with cost adjustments
+
+329
+00:14:16,990 --> 00:14:18,990
+Atty. Kelvin Jerome Tenido: including the mandated salary increases.
+
+330
+00:14:18,990 --> 00:14:20,990
+Atty. Kelvin Jerome Tenido: Since 2022
+
+331
+00:14:20,990 --> 00:14:22,990
+Atty. Kelvin Jerome Tenido: and even with the higher budgets
+
+332
+00:14:22,990 --> 00:14:24,990
+Atty. Kelvin Jerome Tenido: in 2023 and 2024,
+
+333
+00:14:24,990 --> 00:14:26,990
+Atty. Kelvin Jerome Tenido: the OVP was able to maintain
+
+334
+00:14:26,990 --> 00:14:28,990
+Atty. Kelvin Jerome Tenido: a high full-year budget utilization
+
+335
+00:14:28,990 --> 00:14:32,990
+Atty. Kelvin Jerome Tenido: or obligation rate of at least 85.55%.
+
+336
+00:14:32,990 --> 00:14:34,990
+Atty. Kelvin Jerome Tenido: Presented is the comparison
+
+337
+00:14:34,990 --> 00:14:37,990
+Atty. Kelvin Jerome Tenido: of the 2025 and 2026 GAA
+
+338
+00:14:37,990 --> 00:14:40,990
+Atty. Kelvin Jerome Tenido: and the 2027 proposed budget
+
+339
+00:14:40,990 --> 00:14:41,990
+Atty. Kelvin Jerome Tenido: under the NEP.
+
+340
+00:14:41,990 --> 00:14:45,990
+Atty. Kelvin Jerome Tenido: The 102.147 million net decrease
+
+341
+00:14:45,990 --> 00:14:47,990
+Atty. Kelvin Jerome Tenido: in the 2027 proposed budget
+
+342
+00:14:47,990 --> 00:14:49,990
+Atty. Kelvin Jerome Tenido: compared with the 2026 appropriation
+
+343
+00:14:49,990 --> 00:14:51,990
+Atty. Kelvin Jerome Tenido: is primarily due to the adoption
+
+344
+00:14:51,990 --> 00:14:53,990
+Atty. Kelvin Jerome Tenido: of the 2025 budget level
+
+345
+00:14:53,990 --> 00:14:56,990
+Atty. Kelvin Jerome Tenido: and the consideration of cost adjustments.
+
+346
+00:14:56,990 --> 00:14:59,990
+Atty. Kelvin Jerome Tenido: The OVP has consistently made the
+
+347
+00:15:00,000 --> 00:15:02,460
+Atty. Kelvin Jerome Tenido: use of its budget over the past years
+
+348
+00:15:02,460 --> 00:15:03,400
+Atty. Kelvin Jerome Tenido: to deliver
+
+349
+00:15:03,400 --> 00:15:05,760
+Atty. Kelvin Jerome Tenido: and sustain key programs.
+
+350
+00:15:06,280 --> 00:15:08,240
+Atty. Kelvin Jerome Tenido: As the second highest office in the land,
+
+351
+00:15:08,620 --> 00:15:10,140
+Atty. Kelvin Jerome Tenido: the OVP aims to promote the
+
+352
+00:15:10,140 --> 00:15:11,460
+Atty. Kelvin Jerome Tenido: welfare of every Filipino
+
+353
+00:15:11,460 --> 00:15:13,980
+Atty. Kelvin Jerome Tenido: in line with its vision to create lasting
+
+354
+00:15:13,980 --> 00:15:15,960
+Atty. Kelvin Jerome Tenido: impact on the lives of every Filipino
+
+355
+00:15:15,960 --> 00:15:18,200
+Atty. Kelvin Jerome Tenido: through its socio-economic program
+
+356
+00:15:18,200 --> 00:15:20,320
+Atty. Kelvin Jerome Tenido: delivery. Since 2022,
+
+357
+00:15:20,520 --> 00:15:21,900
+Atty. Kelvin Jerome Tenido: the OVP has implemented the
+
+358
+00:15:21,900 --> 00:15:23,100
+Atty. Kelvin Jerome Tenido: following programs.
+
+359
+00:15:23,860 --> 00:15:26,140
+Atty. Kelvin Jerome Tenido: Pagbabago ang Million Learners
+
+360
+00:15:26,140 --> 00:15:27,880
+Atty. Kelvin Jerome Tenido: and Trees Campaign, Disaster
+
+361
+00:15:27,880 --> 00:15:29,020
+Atty. Kelvin Jerome Tenido: Response Operations,
+
+362
+00:15:29,020 --> 00:15:31,620
+Atty. Kelvin Jerome Tenido: Relief for Indigents and Individuals
+
+363
+00:15:31,620 --> 00:15:32,920
+Atty. Kelvin Jerome Tenido: in Crises and Emergencies,
+
+364
+00:15:33,560 --> 00:15:34,440
+Atty. Kelvin Jerome Tenido: You Can Be VP,
+
+365
+00:15:35,180 --> 00:15:37,420
+Atty. Kelvin Jerome Tenido: Libring Sakay, Kalusugan Food
+
+366
+00:15:37,420 --> 00:15:39,140
+Atty. Kelvin Jerome Tenido: Rack, Magnegosyo Taday,
+
+367
+00:15:39,600 --> 00:15:41,160
+Atty. Kelvin Jerome Tenido: and Medical and Burial Assistance.
+
+368
+00:15:42,240 --> 00:15:43,380
+Atty. Kelvin Jerome Tenido: The OVP
+
+369
+00:15:43,380 --> 00:15:45,160
+Atty. Kelvin Jerome Tenido: programs are implemented in the Central
+
+370
+00:15:45,160 --> 00:15:47,340
+Atty. Kelvin Jerome Tenido: Office and through the 10 Satellite Offices
+
+371
+00:15:47,340 --> 00:15:48,800
+Atty. Kelvin Jerome Tenido: and 1 Extension Office,
+
+372
+00:15:49,300 --> 00:15:51,520
+Atty. Kelvin Jerome Tenido: which we continue to operate in key areas
+
+373
+00:15:51,520 --> 00:15:53,480
+Atty. Kelvin Jerome Tenido: in Luzon, Visayas, and Mindanao
+
+374
+00:15:53,480 --> 00:15:55,540
+Atty. Kelvin Jerome Tenido: to provide Filipinos with immediate
+
+375
+00:15:55,540 --> 00:15:57,500
+Atty. Kelvin Jerome Tenido: access to the services offered by the
+
+376
+00:15:57,500 --> 00:15:58,020
+Atty. Kelvin Jerome Tenido: OVP.
+
+377
+00:15:58,020 --> 00:16:00,440
+Atty. Kelvin Jerome Tenido: In Luzon, we have Cagayan Valley
+
+378
+00:16:00,440 --> 00:16:02,480
+Atty. Kelvin Jerome Tenido: S.O., Pangasinan S.O.,
+
+379
+00:16:02,480 --> 00:16:03,420
+Atty. Kelvin Jerome Tenido: and Bicol S.O.
+
+380
+00:16:03,920 --> 00:16:06,540
+Atty. Kelvin Jerome Tenido: In Visayas, Cebu, Bohol, and Siquijor
+
+381
+00:16:06,540 --> 00:16:08,460
+Atty. Kelvin Jerome Tenido: S.O., Eastern Visayas
+
+382
+00:16:08,460 --> 00:16:10,240
+Atty. Kelvin Jerome Tenido: S.O., Panay, and Negros
+
+383
+00:16:10,240 --> 00:16:12,640
+Atty. Kelvin Jerome Tenido: Islands S.O., and in Mindanao,
+
+384
+00:16:13,080 --> 00:16:14,440
+Atty. Kelvin Jerome Tenido: Caraga S.O.,
+
+385
+00:16:14,440 --> 00:16:16,200
+Atty. Kelvin Jerome Tenido: Southern Mindanao S.O.,
+
+386
+00:16:16,200 --> 00:16:18,560
+Atty. Kelvin Jerome Tenido: Western Mindanao S.O., and Barm S.O.
+
+387
+00:16:18,840 --> 00:16:20,240
+Atty. Kelvin Jerome Tenido: We also maintained our
+
+388
+00:16:20,240 --> 00:16:21,940
+Atty. Kelvin Jerome Tenido: Extension Office in Tondo, Manila.
+
+389
+00:16:22,700 --> 00:16:24,500
+Atty. Kelvin Jerome Tenido: For Fiscal Year 2025,
+
+390
+00:16:24,820 --> 00:16:26,360
+Atty. Kelvin Jerome Tenido: the OVP had a
+
+391
+00:16:26,360 --> 00:16:28,440
+Atty. Kelvin Jerome Tenido: target of 1,047,935
+
+392
+00:16:29,040 --> 00:16:29,640
+Atty. Kelvin Jerome Tenido: beneficiaries
+
+393
+00:16:29,640 --> 00:16:32,320
+Atty. Kelvin Jerome Tenido: for all the programs, and a total
+
+394
+00:16:32,320 --> 00:16:34,440
+Atty. Kelvin Jerome Tenido: of 1,395,867
+
+395
+00:16:35,140 --> 00:16:36,720
+Atty. Kelvin Jerome Tenido: individuals and groups were served.
+
+396
+00:16:37,340 --> 00:16:38,280
+Atty. Kelvin Jerome Tenido: The high performance
+
+397
+00:16:38,280 --> 00:16:39,800
+Atty. Kelvin Jerome Tenido: was achieved with the help of
+
+398
+00:16:39,800 --> 00:16:41,920
+Atty. Kelvin Jerome Tenido: 417 strategic partnerships
+
+399
+00:16:41,920 --> 00:16:44,080
+Atty. Kelvin Jerome Tenido: that were established with government
+
+400
+00:16:44,080 --> 00:16:46,100
+Atty. Kelvin Jerome Tenido: agencies, civil society
+
+401
+00:16:46,100 --> 00:16:48,380
+Atty. Kelvin Jerome Tenido: organizations, medical institutions,
+
+402
+00:16:48,960 --> 00:16:50,480
+Atty. Kelvin Jerome Tenido: and other external stakeholders.
+
+403
+00:16:51,220 --> 00:16:52,360
+Atty. Kelvin Jerome Tenido: Likewise, the OVP
+
+404
+00:16:52,360 --> 00:16:54,340
+Atty. Kelvin Jerome Tenido: successfully implemented 100%
+
+405
+00:16:54,340 --> 00:16:55,720
+Atty. Kelvin Jerome Tenido: of all planned projects,
+
+406
+00:16:56,360 --> 00:16:57,540
+Atty. Kelvin Jerome Tenido: and achieved a high average
+
+407
+00:16:57,540 --> 00:16:59,400
+Atty. Kelvin Jerome Tenido: satisfaction rating of 98%
+
+408
+00:16:59,400 --> 00:17:01,720
+Atty. Kelvin Jerome Tenido: for its services, including
+
+409
+00:17:01,720 --> 00:17:03,360
+Atty. Kelvin Jerome Tenido: the requests acted upon
+
+410
+00:17:03,360 --> 00:17:05,060
+Atty. Kelvin Jerome Tenido: within the standard processing time.
+
+411
+00:17:05,840 --> 00:17:07,280
+Atty. Kelvin Jerome Tenido: Finally, the office completed
+
+412
+00:17:07,280 --> 00:17:09,460
+Atty. Kelvin Jerome Tenido: a total of 2,906
+
+413
+00:17:09,460 --> 00:17:11,200
+Atty. Kelvin Jerome Tenido: engagements with partners
+
+414
+00:17:11,200 --> 00:17:13,240
+Atty. Kelvin Jerome Tenido: and stakeholders. As to the
+
+415
+00:17:13,240 --> 00:17:15,040
+Atty. Kelvin Jerome Tenido: financial targets, in 2025,
+
+416
+00:17:15,800 --> 00:17:17,200
+Atty. Kelvin Jerome Tenido: the OVP obligation rate
+
+417
+00:17:17,200 --> 00:17:18,860
+Atty. Kelvin Jerome Tenido: was above the 90% mark.
+
+418
+00:17:19,300 --> 00:17:21,200
+Atty. Kelvin Jerome Tenido: The OVP had 93% budget
+
+419
+00:17:21,200 --> 00:17:22,800
+Atty. Kelvin Jerome Tenido: utilization rate, with
+
+420
+00:17:22,800 --> 00:17:25,420
+Atty. Kelvin Jerome Tenido: 851.836 million amount
+
+421
+00:17:25,420 --> 00:17:26,080
+Atty. Kelvin Jerome Tenido: obligated,
+
+422
+00:17:26,360 --> 00:17:28,620
+Atty. Kelvin Jerome Tenido: and with disbursement rate of 81%
+
+423
+00:17:28,620 --> 00:17:31,220
+Atty. Kelvin Jerome Tenido: or 687.848 million
+
+424
+00:17:31,220 --> 00:17:32,100
+Atty. Kelvin Jerome Tenido: amount disbursed.
+
+425
+00:17:33,240 --> 00:17:34,420
+Atty. Kelvin Jerome Tenido: For fiscal year
+
+426
+00:17:34,420 --> 00:17:36,740
+Atty. Kelvin Jerome Tenido: 2026, as of June 30,
+
+427
+00:17:37,420 --> 00:17:38,540
+Atty. Kelvin Jerome Tenido: the OVP has continued
+
+428
+00:17:38,540 --> 00:17:40,640
+Atty. Kelvin Jerome Tenido: the implementation of its flagship programs
+
+429
+00:17:40,640 --> 00:17:42,300
+Atty. Kelvin Jerome Tenido: designed to provide Filipino people
+
+430
+00:17:42,300 --> 00:17:44,300
+Atty. Kelvin Jerome Tenido: with access to basic social services.
+
+431
+00:17:44,840 --> 00:17:47,980
+Atty. Kelvin Jerome Tenido: With a target of 1,511,168
+
+432
+00:17:47,980 --> 00:17:48,440
+Atty. Kelvin Jerome Tenido: beneficiaries
+
+433
+00:17:48,440 --> 00:17:50,580
+Atty. Kelvin Jerome Tenido: for the year, a total of
+
+434
+00:17:50,580 --> 00:17:53,000
+Atty. Kelvin Jerome Tenido: 773,858
+
+435
+00:17:53,000 --> 00:17:55,120
+Atty. Kelvin Jerome Tenido: individuals, or 51%
+
+436
+00:17:55,120 --> 00:17:56,280
+Atty. Kelvin Jerome Tenido: of the target were served,
+
+437
+00:17:56,360 --> 00:17:58,320
+Atty. Kelvin Jerome Tenido: across all OVP programs
+
+438
+00:17:58,320 --> 00:18:00,380
+Atty. Kelvin Jerome Tenido: and services during the first semester.
+
+439
+00:18:01,340 --> 00:18:02,260
+Atty. Kelvin Jerome Tenido: The OVP has also
+
+440
+00:18:02,260 --> 00:18:03,940
+Atty. Kelvin Jerome Tenido: established 85 partnerships
+
+441
+00:18:03,940 --> 00:18:06,320
+Atty. Kelvin Jerome Tenido: to support the development and implementation
+
+442
+00:18:06,320 --> 00:18:07,740
+Atty. Kelvin Jerome Tenido: of its various initiatives.
+
+443
+00:18:08,580 --> 00:18:10,300
+Atty. Kelvin Jerome Tenido: Notably, the OVP
+
+444
+00:18:10,300 --> 00:18:12,280
+Atty. Kelvin Jerome Tenido: successfully implemented 100%
+
+445
+00:18:12,280 --> 00:18:14,600
+Atty. Kelvin Jerome Tenido: of all planned projects and compassing activities
+
+446
+00:18:14,600 --> 00:18:16,060
+Atty. Kelvin Jerome Tenido: such as social preparation,
+
+447
+00:18:16,800 --> 00:18:18,280
+Atty. Kelvin Jerome Tenido: technical assistance, and program
+
+448
+00:18:18,280 --> 00:18:20,340
+Atty. Kelvin Jerome Tenido: implementations. Furthermore, the
+
+449
+00:18:20,340 --> 00:18:21,660
+Atty. Kelvin Jerome Tenido: OVP achieved an average
+
+450
+00:18:21,660 --> 00:18:25,300
+Atty. Kelvin Jerome Tenido: satisfaction rating of 97.96%
+
+451
+00:18:25,300 --> 00:18:26,340
+Atty. Kelvin Jerome Tenido: for its services,
+
+452
+00:18:26,360 --> 00:18:28,360
+Atty. Kelvin Jerome Tenido: exceeding the target of 90%.
+
+453
+00:18:28,980 --> 00:18:30,240
+Atty. Kelvin Jerome Tenido: In addition,
+
+454
+00:18:30,920 --> 00:18:32,300
+Atty. Kelvin Jerome Tenido: the office completed a total
+
+455
+00:18:32,300 --> 00:18:34,580
+Atty. Kelvin Jerome Tenido: of 2,724 engagements
+
+456
+00:18:34,580 --> 00:18:36,580
+Atty. Kelvin Jerome Tenido: with partners and stakeholders,
+
+457
+00:18:37,260 --> 00:18:38,540
+Atty. Kelvin Jerome Tenido: further strengthening collaboration
+
+458
+00:18:38,540 --> 00:18:40,420
+Atty. Kelvin Jerome Tenido: and support for its programs.
+
+459
+00:18:41,960 --> 00:18:44,380
+Atty. Kelvin Jerome Tenido: As of June 30, 2026,
+
+460
+00:18:44,580 --> 00:18:46,360
+Atty. Kelvin Jerome Tenido: the OVP has 961.11
+
+461
+00:18:46,880 --> 00:18:48,660
+Atty. Kelvin Jerome Tenido: million total release allotment.
+
+462
+00:18:49,080 --> 00:18:50,260
+Atty. Kelvin Jerome Tenido: For the first semester,
+
+463
+00:18:51,060 --> 00:18:52,580
+Atty. Kelvin Jerome Tenido: the OVP has already obligated
+
+464
+00:18:52,580 --> 00:18:54,640
+Atty. Kelvin Jerome Tenido: 43% of the available allotment,
+
+465
+00:18:54,640 --> 00:18:56,240
+Atty. Kelvin Jerome Tenido: equivalent to 413.3%
+
+466
+00:18:56,360 --> 00:18:58,660
+Atty. Kelvin Jerome Tenido: .97 million, and with a disbursement
+
+467
+00:18:58,660 --> 00:19:00,080
+Atty. Kelvin Jerome Tenido: rate of 62% or
+
+468
+00:19:00,080 --> 00:19:01,880
+Atty. Kelvin Jerome Tenido: 256.318 million.
+
+469
+00:19:02,660 --> 00:19:04,620
+Atty. Kelvin Jerome Tenido: The OVP holds a distinct position
+
+470
+00:19:04,620 --> 00:19:05,680
+Atty. Kelvin Jerome Tenido: in our bureaucracy.
+
+471
+00:19:06,220 --> 00:19:07,980
+Atty. Kelvin Jerome Tenido: As the second highest office in the land,
+
+472
+00:19:07,980 --> 00:19:09,680
+Atty. Kelvin Jerome Tenido: the OVP carries out functions
+
+473
+00:19:09,680 --> 00:19:11,700
+Atty. Kelvin Jerome Tenido: that complement the work
+
+474
+00:19:11,700 --> 00:19:13,420
+Atty. Kelvin Jerome Tenido: of other government agencies
+
+475
+00:19:13,420 --> 00:19:16,180
+Atty. Kelvin Jerome Tenido: while advancing the well-being
+
+476
+00:19:16,180 --> 00:19:17,240
+Atty. Kelvin Jerome Tenido: of the Filipino people.
+
+477
+00:19:17,960 --> 00:19:19,940
+Atty. Kelvin Jerome Tenido: The OVP's proposed agency-specific
+
+478
+00:19:19,940 --> 00:19:21,980
+Atty. Kelvin Jerome Tenido: budget in the amount of 785.204
+
+479
+00:19:22,620 --> 00:19:23,880
+Atty. Kelvin Jerome Tenido: million for the fiscal year
+
+480
+00:19:23,880 --> 00:19:26,220
+Atty. Kelvin Jerome Tenido: 2027 will help us
+
+481
+00:19:26,220 --> 00:19:27,320
+Atty. Kelvin Jerome Tenido: continue with our mission
+
+482
+00:19:27,320 --> 00:19:29,400
+Atty. Kelvin Jerome Tenido: to deliver efficient, accessible,
+
+483
+00:19:29,720 --> 00:19:30,980
+Atty. Kelvin Jerome Tenido: and responsive public service
+
+484
+00:19:30,980 --> 00:19:32,480
+Atty. Kelvin Jerome Tenido: for the good of all Filipinos.
+
+485
+00:19:32,720 --> 00:19:33,120
+Atty. Kelvin Jerome Tenido: Thank you.
+
+486
+00:19:34,360 --> 00:19:36,760
+Deputy Speaker Jose C. Alvarez: Maraming salamat, OVP family,
+
+487
+00:19:37,080 --> 00:19:39,080
+Deputy Speaker Jose C. Alvarez: pero nakakalungkot.
+
+488
+00:19:40,260 --> 00:19:41,340
+Deputy Speaker Jose C. Alvarez: Mukhang ang Palawan
+
+489
+00:19:41,340 --> 00:19:43,740
+Deputy Speaker Jose C. Alvarez: hindi kasama sa Republic of the Philippines.
+
+490
+00:19:45,480 --> 00:19:46,840
+Deputy Speaker Jose C. Alvarez: Wala mang kayo doon opisina,
+
+491
+00:19:46,980 --> 00:19:47,480
+Deputy Speaker Jose C. Alvarez: pambihira.
+
+492
+00:19:50,640 --> 00:19:52,140
+Deputy Speaker Jose C. Alvarez: Magreklamo na lang may ano eh.
+
+493
+00:19:52,140 --> 00:19:54,360
+Deputy Speaker Jose C. Alvarez: Sige.
+
+494
+00:19:56,220 --> 00:19:58,360
+Deputy Speaker Jose C. Alvarez: We'll allow a few questions
+
+495
+00:19:58,360 --> 00:19:59,380
+Deputy Speaker Jose C. Alvarez: and then
+
+496
+00:19:59,380 --> 00:20:01,360
+Deputy Speaker Jose C. Alvarez: there's a motion then
+
+497
+00:20:01,360 --> 00:20:02,940
+Deputy Speaker Jose C. Alvarez: we'll finish the
+
+498
+00:20:02,940 --> 00:20:05,680
+Deputy Speaker Jose C. Alvarez: hearing today. Thank you.
+
+499
+00:20:05,680 --> 00:20:07,280
+Deputy Speaker Jose C. Alvarez: But first,
+
+500
+00:20:07,960 --> 00:20:09,760
+Deputy Speaker Jose C. Alvarez: we must acknowledge the additional
+
+501
+00:20:09,760 --> 00:20:10,620
+Deputy Speaker Jose C. Alvarez: members present.
+
+502
+00:20:10,760 --> 00:20:14,300
+Committee Secretary: Additional members present,
+
+503
+00:20:14,880 --> 00:20:15,500
+Committee Secretary: Vice Chair
+
+504
+00:20:15,500 --> 00:20:17,360
+Committee Secretary: Josefina Taliado,
+
+505
+00:20:18,540 --> 00:20:19,600
+Committee Secretary: Vice Chair Agustina
+
+506
+00:20:19,600 --> 00:20:21,600
+Committee Secretary: Dominic Ditsiti
+
+507
+00:20:21,600 --> 00:20:23,780
+Committee Secretary: Napancho, and Vice Chair
+
+508
+00:20:23,780 --> 00:20:25,420
+Committee Secretary: Maria Isabel Zagarbaria.
+
+509
+00:20:26,220 --> 00:20:27,160
+Committee Secretary: Thank you, Mr. Chair.
+
+510
+00:20:29,610 --> 00:20:30,530
+Deputy Speaker Jose C. Alvarez: Thank you, Mr. Chair.
+
+511
+00:20:30,530 --> 00:20:32,950
+Deputy Speaker Jose C. Alvarez: And first on the list
+
+512
+00:20:32,950 --> 00:20:34,670
+Deputy Speaker Jose C. Alvarez: is our friend,
+
+513
+00:20:35,670 --> 00:20:38,030
+Deputy Speaker Jose C. Alvarez: Honorable Robert Nasal.
+
+514
+00:20:39,530 --> 00:20:41,690
+Deputy Speaker Jose C. Alvarez: Do you have some questions?
+
+515
+00:20:42,030 --> 00:20:43,590
+Rep. Roberto Nazal: I just have a quick manifestation,
+
+516
+00:20:43,850 --> 00:20:44,270
+Rep. Roberto Nazal: Mr. Chair.
+
+517
+00:20:45,330 --> 00:20:47,570
+Rep. Roberto Nazal: Good afternoon to the
+
+518
+00:20:47,570 --> 00:20:48,630
+Rep. Roberto Nazal: Office of the Vice President.
+
+519
+00:20:48,790 --> 00:20:50,450
+Rep. Roberto Nazal: Good afternoon, Paul Yusek Zulaika.
+
+520
+00:20:52,370 --> 00:20:53,650
+Rep. Roberto Nazal: Yesterday, this committee
+
+521
+00:20:53,650 --> 00:20:55,730
+Rep. Roberto Nazal: extended to the Office of the President
+
+522
+00:20:55,730 --> 00:20:56,930
+Rep. Roberto Nazal: a long-standing courtesy.
+
+523
+00:20:56,930 --> 00:20:57,030
+Rep. Roberto Nazal: Thank you.
+
+524
+00:20:58,170 --> 00:21:28,150
+Rep. Roberto Nazal: Yesterday this committee extended to the Office of the President a longstanding courtesy, passing its budget without interpellation in recognition of its standing as co-equal branch of government. Today I respectfully ask that this committee extend the same courtesy to the Office of the Vice President. The Vice President is currently facing the weight of impeachment proceedings, a burden already heavy enough on its own. Her budget, moreover, has not grown; it remains modest and unremarkable. In fact, the budget proposal is even lower than the
+
+525
+00:21:28,170 --> 00:21:28,230
+Rep. Roberto Nazal: Thank you, Mr. President.
+
+526
+00:21:28,890 --> 00:21:29,870
+Rep. Roberto Nazal: Presenting nothing
+
+527
+00:21:29,870 --> 00:21:32,370
+Rep. Roberto Nazal: that would warrant a departure from the courtesy
+
+528
+00:21:32,370 --> 00:21:34,130
+Rep. Roberto Nazal: this committee was willing to extend
+
+529
+00:21:34,130 --> 00:21:34,770
+Rep. Roberto Nazal: just yesterday.
+
+530
+00:21:35,810 --> 00:21:38,350
+Rep. Roberto Nazal: Mr. Chairman, this is not a request for special
+
+531
+00:21:38,350 --> 00:21:40,410
+Rep. Roberto Nazal: treatment. It is simply a request
+
+532
+00:21:40,410 --> 00:21:41,130
+Rep. Roberto Nazal: for consistency.
+
+533
+00:21:41,870 --> 00:21:44,150
+Rep. Roberto Nazal: That this committee treat every co-equal branch of
+
+534
+00:21:44,150 --> 00:21:46,270
+Rep. Roberto Nazal: government with the same measure of respect
+
+535
+00:21:46,270 --> 00:21:48,230
+Rep. Roberto Nazal: and fairness regardless of the
+
+536
+00:21:48,230 --> 00:21:49,490
+Rep. Roberto Nazal: circumstances surrounding it.
+
+537
+00:21:50,390 --> 00:21:51,090
+Rep. Roberto Nazal: Mr. Chairman,
+
+538
+00:21:52,030 --> 00:21:54,210
+Rep. Roberto Nazal: after a brief manifestation from members,
+
+539
+00:21:54,370 --> 00:21:56,150
+Rep. Roberto Nazal: I move for the termination of the budget
+
+540
+00:21:56,150 --> 00:21:58,150
+Rep. Roberto Nazal: briefing of the Office of the Vice President,
+
+541
+00:21:58,170 --> 00:22:00,670
+Rep. Roberto Nazal: without prejudice to any questions or
+
+542
+00:22:00,670 --> 00:22:02,610
+Rep. Roberto Nazal: clarifications that members may raise
+
+543
+00:22:02,610 --> 00:22:04,230
+Rep. Roberto Nazal: during the plenary sessions.
+
+544
+00:22:04,650 --> 00:22:05,390
+Rep. Roberto Nazal: Thank you, Mr. Chair.
+
+545
+00:22:05,530 --> 00:22:06,050
+Rep. Antonio L. Tinio: Mr. Chair.
+
+546
+00:22:06,250 --> 00:22:06,970
+Rep. Iris Marie Demesa Montes: Mr. Chair.
+
+547
+00:22:07,170 --> 00:22:07,630
+Rep. Antonio L. Tinio: Mr. Chair.
+
+548
+00:22:08,270 --> 00:22:08,830
+Rep. Antonio L. Tinio: Objection.
+
+549
+00:22:09,150 --> 00:22:12,270
+Deputy Speaker Jose C. Alvarez: There's a motion, but it's not yet seconded.
+
+550
+00:22:13,150 --> 00:22:13,830
+Deputy Speaker Jose C. Alvarez: Meron bang second?
+
+551
+00:22:14,330 --> 00:22:14,750
+Committee participant (seconding member): Second.
+
+552
+00:22:14,990 --> 00:22:15,470
+Committee member: Mr. Chair, I second the motion.
+
+553
+00:22:16,190 --> 00:22:16,790
+Rep. Antonio L. Tinio: Objection.
+
+554
+00:22:16,950 --> 00:22:19,010
+Deputy Speaker Jose C. Alvarez: It's a second, but there's an objection so...
+
+555
+00:22:20,610 --> 00:22:24,190
+Rep. Antonio L. Tinio: Chair, may I explain my objection?
+
+556
+00:22:25,630 --> 00:22:26,490
+Rep. Antonio L. Tinio: Mr. Chair,
+
+557
+00:22:26,490 --> 00:22:28,830
+Rep. Antonio L. Tinio: mukhang maling aral yung
+
+558
+00:22:28,840 --> 00:22:32,640
+Rep. Antonio L. Tinio: hinugot ng kagalang-galang na kasama natin dito
+
+559
+00:22:32,640 --> 00:22:57,100
+Rep. Antonio L. Tinio: si Rep. Nazal sa nangyari kahapon. Nilinaw natin kahapon sa ating paliwanag na dapat ibasura na itong inter-parliamentary courtesy lalo na pag-usapin ng budget dahil ang tungkulin natin ng lahat ng nasa gobyerno ay maging transparent
+
+560
+00:22:57,100 --> 00:22:59,940
+Rep. Antonio L. Tinio: sa kung paano ginagamit
+
+561
+00:22:59,940 --> 00:23:01,350
+Rep. Antonio L. Tinio: kung paano ginagamit ang pondo ng taong bayan.
+
+562
+00:23:02,150 --> 00:23:07,670
+Rep. Antonio L. Tinio: Kaya sa halip na sabihin dapat gawing patas
+
+563
+00:23:07,670 --> 00:23:12,370
+Rep. Antonio L. Tinio: o kung hindi tatanungin ang hindi bubusisiin ang budget ng Office of the President,
+
+564
+00:23:13,030 --> 00:23:18,510
+Rep. Antonio L. Tinio: hindi na rin bubusisiin ang budget ng Office of the Vice President.
+
+565
+00:23:18,510 --> 00:23:22,050
+Rep. Antonio L. Tinio: Ano susunod dito? Another co-equal branch is the judiciary.
+
+566
+00:23:22,830 --> 00:23:26,370
+Rep. Antonio L. Tinio: Mag-move na rin ba kayo na hindi na rin natin bubulat-latin
+
+567
+00:23:26,370 --> 00:23:30,650
+Rep. Antonio L. Tinio: o bubusisiin ang budget ng judiciary?
+
+568
+00:23:31,350 --> 00:23:32,630
+Rep. Antonio L. Tinio: Hindi naman nangyayari yun ever.
+
+569
+00:23:33,350 --> 00:23:37,430
+Rep. Antonio L. Tinio: So, kailangan itigil na po natin ang practice na ito.
+
+570
+00:23:37,870 --> 00:23:44,430
+Rep. Antonio L. Tinio: Anyway, I am sure handa naman na sagutin ang Office of the Vice President
+
+571
+00:23:44,430 --> 00:23:47,990
+Rep. Antonio L. Tinio: anumang mga tanong kaugnay sa kanilang budget ngayon.
+
+572
+00:23:47,990 --> 00:23:50,890
+Rep. Antonio L. Tinio: So, I object to the motion, Mr. Chair.
+
+573
+00:23:51,210 --> 00:23:55,210
+Deputy Speaker Jose C. Alvarez: Okay, there's a motion about manifestation lang yun, Julie.
+
+574
+00:23:55,290 --> 00:23:56,270
+Deputy Speaker Jose C. Alvarez: Si Candid, hindi.
+
+575
+00:23:56,370 --> 00:23:56,830
+Deputy Speaker Jose C. Alvarez: Naman motion.
+
+576
+00:23:57,370 --> 00:23:58,290
+Deputy Speaker Jose C. Alvarez: Ah, nag-motion pala.
+
+577
+00:23:58,650 --> 00:23:59,550
+Deputy Speaker Jose C. Alvarez: But there's an objection.
+
+578
+00:24:00,550 --> 00:24:06,490
+Deputy Speaker Jose C. Alvarez: So, instead of proceeding to divide the body,
+
+579
+00:24:06,650 --> 00:24:10,690
+Deputy Speaker Jose C. Alvarez: I will ask the resource persons if they are willing to answer a few questions
+
+580
+00:24:10,690 --> 00:24:15,550
+Deputy Speaker Jose C. Alvarez: and then we will proceed with terminating this briefing.
+
+581
+00:24:16,390 --> 00:24:17,210
+Deputy Speaker Jose C. Alvarez: Is that alright, Kong?
+
+582
+00:24:18,830 --> 00:24:24,650
+Deputy Speaker Jose C. Alvarez: Is it alright, Atonis Ulayka, if you yield to a few questions regarding the budget?
+
+583
+00:24:24,650 --> 00:24:26,190
+Deputy Speaker Jose C. Alvarez: Is it alright?
+
+584
+00:24:26,370 --> 00:24:29,590
+Undersecretary Sulaika T. Lopez: Yes, Your Honor.
+
+585
+00:24:29,790 --> 00:24:31,830
+Undersecretary Sulaika T. Lopez: We are ready to answer the questions.
+
+586
+00:24:31,830 --> 00:24:38,070
+Deputy Speaker Jose C. Alvarez: If it is alright, then maybe I'll ask our team colleague to just withdraw the motion for a while
+
+587
+00:24:38,070 --> 00:24:44,270
+Deputy Speaker Jose C. Alvarez: and hold it in abeyance because yung resource persons are willing to answer the question
+
+588
+00:24:44,270 --> 00:24:47,690
+Deputy Speaker Jose C. Alvarez: so that the minority will be satisfied.
+
+589
+00:24:48,830 --> 00:24:49,570
+Deputy Speaker Jose C. Alvarez: Tama ba yan, boss?
+
+590
+00:24:50,470 --> 00:24:50,990
+Deputy Speaker Jose C. Alvarez: Tama po.
+
+591
+00:24:52,330 --> 00:24:52,930
+Deputy Speaker Jose C. Alvarez: Okay.
+
+592
+00:24:53,930 --> 00:24:55,530
+Deputy Speaker Jose C. Alvarez: Mr. Chair, point of order.
+
+593
+00:24:56,370 --> 00:25:00,410
+Deputy Speaker Jose C. Alvarez: Well, considering there was a motion which was properly seconded,
+
+594
+00:25:01,410 --> 00:25:04,750
+Deputy Speaker Jose C. Alvarez: the proper course of action would be to divide the house.
+
+595
+00:25:05,050 --> 00:25:15,790
+Deputy Speaker Jose C. Alvarez: But if our good friend, Congress Mantino, would limit the questions to the budget submitted,
+
+596
+00:25:15,990 --> 00:25:21,730
+Deputy Speaker Jose C. Alvarez: then I will not insist that we divide the house and proceed with the motion.
+
+597
+00:25:21,730 --> 00:25:26,050
+Deputy Speaker Jose C. Alvarez: Since we did not divide the house and I asked for permission from the source person,
+
+598
+00:25:26,050 --> 00:25:30,370
+Deputy Speaker Jose C. Alvarez: whether they are willing to answer a few questions,
+
+599
+00:25:30,890 --> 00:25:33,750
+Deputy Speaker Jose C. Alvarez: maybe we will hold the motion in abeyance.
+
+600
+00:25:34,530 --> 00:25:37,090
+Deputy Speaker Jose C. Alvarez: Pagkatapos, we take it up after the few questions.
+
+601
+00:25:37,450 --> 00:25:38,010
+Deputy Speaker Jose C. Alvarez: Kung pwede lang.
+
+602
+00:25:38,670 --> 00:25:42,030
+Deputy Speaker Jose C. Alvarez: We'll just ask Congressman Nassal to withhold the motion first.
+
+603
+00:25:42,830 --> 00:25:47,470
+Deputy Speaker Jose C. Alvarez: Congressman Nassal, can you make your motion static in nature for a while
+
+604
+00:25:47,470 --> 00:25:52,110
+Deputy Speaker Jose C. Alvarez: so that we can allow the minority to ask questions to the resource person?
+
+605
+00:25:52,110 --> 00:25:55,490
+Rep. Roberto Nazal: I'm willing to withhold the motion.
+
+606
+00:25:56,050 --> 00:26:01,790
+Rep. Roberto Nazal: But the resource person already acknowledged that they are willing to answer the questions
+
+607
+00:26:01,790 --> 00:26:04,730
+Rep. Roberto Nazal: insofar as the budget is concerned.
+
+608
+00:26:05,310 --> 00:26:06,370
+Deputy Speaker Jose C. Alvarez: So can we...
+
+609
+00:26:06,370 --> 00:26:10,530
+Deputy Speaker Jose C. Alvarez: In consideration, the questions will be very limited.
+
+610
+00:26:10,530 --> 00:26:16,670
+Deputy Speaker Jose C. Alvarez: Can we also recognize our esteemed colleague, Congressman Eresi is here.
+
+611
+00:26:17,050 --> 00:26:17,470
+Deputy Speaker Jose C. Alvarez: Thank you.
+
+612
+00:26:17,470 --> 00:26:25,470
+Deputy Speaker Jose C. Alvarez: And first on the list would be our colleague, Repto.
+
+613
+00:26:26,050 --> 00:26:28,890
+Deputy Speaker Jose C. Alvarez: Tinio, it's your chance.
+
+614
+00:26:29,730 --> 00:26:32,250
+Deputy Speaker Jose C. Alvarez: Please confine to the budget proposal.
+
+615
+00:26:34,950 --> 00:26:36,290
+Rep. Antonio L. Tinio: Mr. Chair, opo.
+
+616
+00:26:36,790 --> 00:26:39,690
+Rep. Antonio L. Tinio: Thank you, Congressman Eresi.
+
+617
+00:26:39,990 --> 00:26:41,070
+Rep. Antonio L. Tinio: Baka hindi nyo narinig yun.
+
+618
+00:26:41,830 --> 00:26:45,630
+Rep. Antonio L. Tinio: Una, gusto ko lang i-manifest sa mga kasama natin sa kongreso na
+
+619
+00:26:45,630 --> 00:26:53,750
+Rep. Antonio L. Tinio: hindi pwedeng limitahan ng sinuang member ang iba pa sa kung ano ang itatanong.
+
+620
+00:26:54,930 --> 00:26:56,310
+Rep. Antonio L. Tinio: Nagre-responuhan tayo dito.
+
+621
+00:26:57,650 --> 00:27:06,410
+Rep. Antonio L. Tinio: At sa budget briefings, tinatanong ang mga questions kaugnay sa budget.
+
+622
+00:27:07,350 --> 00:27:13,750
+Rep. Antonio L. Tinio: Pero mayroon din mga tanongs regarding policy which are not necessarily or immediately related to the budget.
+
+623
+00:27:14,390 --> 00:27:15,090
+Rep. Antonio L. Tinio: Kala ka rin yan.
+
+624
+00:27:15,990 --> 00:27:24,410
+Rep. Antonio L. Tinio: So kaya po, gusto ko lang i-registro na hindi maaari at hindi natin tinatanggap na kondisyon
+
+625
+00:27:24,410 --> 00:27:27,630
+Rep. Antonio L. Tinio: yung okay, ang tanong lang ay dito lang sa budget.
+
+626
+00:27:27,650 --> 00:27:35,530
+Rep. Antonio L. Tinio: Dahil kayo mismo, yung mga nagsasabi niya na magkasama tayo sa budget hearing sa ibang mga department,
+
+627
+00:27:35,690 --> 00:27:38,810
+Rep. Antonio L. Tinio: hindi nyo naman pinapractice yun.
+
+628
+00:27:39,530 --> 00:27:43,170
+Rep. Antonio L. Tinio: So anyway, setting that aside.
+
+629
+00:27:43,850 --> 00:27:45,950
+Rep. Antonio L. Tinio: Mr. Chair, I have my time.
+
+630
+00:27:45,990 --> 00:27:47,410
+Rep. Jesus "Bong" C. Suntay: Just a point of order, Mr. Chair.
+
+631
+00:27:48,430 --> 00:27:49,630
+Rep. Jesus "Bong" C. Suntay: Because of the manifestation made...
+
+632
+00:27:49,630 --> 00:27:51,310
+Deputy Speaker Jose C. Alvarez: Just a while, Cong Tinio.
+
+633
+00:27:52,110 --> 00:27:52,410
+Deputy Speaker Jose C. Alvarez: Yes.
+
+634
+00:27:52,410 --> 00:27:52,610
+Rep. Jesus "Bong" C. Suntay: Yes.
+
+635
+00:27:54,230 --> 00:27:56,410
+Rep. Jesus "Bong" C. Suntay: Just because of the manifestation made.
+
+636
+00:27:57,650 --> 00:28:01,970
+Rep. Jesus "Bong" C. Suntay: Kasi there was a motion to observe parliamentary courtesy.
+
+637
+00:28:02,870 --> 00:28:08,690
+Rep. Jesus "Bong" C. Suntay: While we understand the position of the good congressman, kaya nga pumayag tayo eh,
+
+638
+00:28:09,230 --> 00:28:15,530
+Rep. Jesus "Bong" C. Suntay: na congressman Nazal agreed to temporary withhold.
+
+639
+00:28:15,690 --> 00:28:17,690
+Rep. Jesus "Bong" C. Suntay: Kasi pagkaganyan, that we do not observe.
+
+640
+00:28:17,770 --> 00:28:19,870
+Rep. Jesus "Bong" C. Suntay: We observed it for the office of the President eh.
+
+641
+00:28:19,870 --> 00:28:26,670
+Rep. Jesus "Bong" C. Suntay: If we do not extend the same courtesy, then I will also insist that we just divide the house.
+
+642
+00:28:27,650 --> 00:28:30,170
+Rep. Antonio L. Tinio: Mr. Chair, Mr. Chair.
+
+643
+00:28:30,330 --> 00:28:33,230
+Deputy Speaker Jose C. Alvarez: Anyway, Congressman Bong Suntay, ako naman ang timon.
+
+644
+00:28:33,970 --> 00:28:40,310
+Deputy Speaker Jose C. Alvarez: If there is a question that tingin ko na hindi na dapat sagutin dahil nandoon na sa Senado,
+
+645
+00:28:41,790 --> 00:28:43,990
+Deputy Speaker Jose C. Alvarez: and if there is a question outside the budget,
+
+646
+00:28:44,630 --> 00:28:47,510
+Deputy Speaker Jose C. Alvarez: tanungin ko yung mga resource persons kung gusto ba nilang sagutin.
+
+647
+00:28:48,110 --> 00:28:52,110
+Deputy Speaker Jose C. Alvarez: Kung sinabi nilang hindi nila pwedeng masagot, then I will also roll against it.
+
+648
+00:28:52,870 --> 00:28:53,330
+Deputy Speaker Jose C. Alvarez: Okay ba yan?
+
+649
+00:28:56,060 --> 00:28:57,660
+Rep. Edgar R. Erice: Mr. Chair, Mr. Chair.
+
+650
+00:28:57,660 --> 00:28:57,700
+Rep. Antonio L. Tinio: Mr. Chair.
+
+651
+00:28:57,900 --> 00:28:58,900
+Rep. Antonio L. Tinio: Mr. Chair.
+
+652
+00:28:59,060 --> 00:29:00,760
+Rep. Antonio L. Tinio: May I proceed with my questions?
+
+653
+00:29:02,140 --> 00:29:08,180
+Rep. Edgar R. Erice: May we just ask the, you know, in every question, kung ayaw naman nilang sagutin, pwede naman nilang hindi sagutin.
+
+654
+00:29:09,080 --> 00:29:13,300
+Rep. Edgar R. Erice: Para makita nila yung depression ng office of the President na ayaw sumagot,
+
+655
+00:29:13,460 --> 00:29:16,700
+Rep. Edgar R. Erice: at yung office of the Vice President na gusto sumagot.
+
+656
+00:29:16,920 --> 00:29:17,620
+Deputy Speaker Jose C. Alvarez: Tama nga naman.
+
+657
+00:29:17,780 --> 00:29:22,240
+Deputy Speaker Jose C. Alvarez: But if the question is irrelevant to today's proceedings, I will roll against it.
+
+658
+00:29:22,240 --> 00:29:23,840
+Deputy Speaker Jose C. Alvarez: They can simply say that it's irrelevant.
+
+659
+00:29:24,280 --> 00:29:25,820
+Deputy Speaker Jose C. Alvarez: I will rule against it.
+
+660
+00:29:26,040 --> 00:29:26,820
+Deputy Speaker Jose C. Alvarez: Okay? Cong Tinio.
+
+661
+00:29:26,820 --> 00:29:27,760
+Deputy Speaker Jose C. Alvarez: You have the floor.
+
+662
+00:29:29,060 --> 00:29:32,480
+Rep. Antonio L. Tinio: Mr. Chair, no question is irrelevant in budget proceedings.
+
+663
+00:29:32,700 --> 00:29:33,600
+Rep. Antonio L. Tinio: Yun po ang posisyon natin.
+
+664
+00:29:33,820 --> 00:29:37,080
+Rep. Antonio L. Tinio: But anyway, let me proceed with my question.
+
+665
+00:29:39,960 --> 00:29:42,800
+Rep. Antonio L. Tinio: It so happens, my questions are related to the budget.
+
+666
+00:29:43,440 --> 00:29:43,580
+Rep. Antonio L. Tinio: Okay.
+
+667
+00:29:45,780 --> 00:29:56,980
+Rep. Antonio L. Tinio: So, Mr. Chair, yung office of the Vice President, kakaiba, dahil nga, essentially, meron siyang, yung MOE ng office of the Vice President,
+
+668
+00:29:56,980 --> 00:29:59,780
+Rep. Antonio L. Tinio: ang pinaka-bulto nito ay
+
+669
+00:29:59,840 --> 00:30:02,200
+Rep. Antonio L. Tinio: para sa mga
+
+670
+00:30:02,200 --> 00:30:05,960
+Rep. Antonio L. Tinio: discretionary programs ng Vice President.
+
+671
+00:30:06,580 --> 00:30:11,820
+Rep. Antonio L. Tinio: And this has been true of the office, hindi lang ngayon, kung hindi kahit toon pa.
+
+672
+00:30:13,520 --> 00:30:20,540
+Rep. Antonio L. Tinio: Historically, ang natatandaan ko, talagang nangyari yan noong panahon ni Vice President Binay
+
+673
+00:30:20,540 --> 00:30:23,800
+Rep. Antonio L. Tinio: under the Aquino administration because it was that time,
+
+674
+00:30:23,800 --> 00:30:34,060
+Rep. Antonio L. Tinio: he used to be senator, tapos yung pork barrel niya noon, may pidaf pa noon,
+
+675
+00:30:34,600 --> 00:30:39,160
+Rep. Antonio L. Tinio: nung naging Vice President siya, yung allocation nilipat sa Office of the Vice President.
+
+676
+00:30:41,500 --> 00:30:47,800
+Rep. Antonio L. Tinio: Kaya ganun lumaki ang pondo ng Office of the Vice President.
+
+677
+00:30:48,340 --> 00:30:52,820
+Rep. Antonio L. Tinio: Nagkaroon ng malaking MOE para sa mga programa.
+
+678
+00:30:53,820 --> 00:30:55,320
+Rep. Antonio L. Tinio: Now, kakaiba ito.
+
+679
+00:30:55,400 --> 00:30:59,820
+Rep. Antonio L. Tinio: So, dahil discretionary nga yung mga program, kung anong maisip ng Vice Presidente,
+
+680
+00:31:00,240 --> 00:31:01,140
+Rep. Antonio L. Tinio: yun ang ipatutupad.
+
+681
+00:31:01,380 --> 00:31:07,320
+Rep. Antonio L. Tinio: Totoo yan, noong panahon ni VP Binay, ni Robredo, at ngayon ni Duterte.
+
+682
+00:31:08,240 --> 00:31:12,220
+Rep. Antonio L. Tinio: So, ngayon, merong mga programa ito.
+
+683
+00:31:12,600 --> 00:31:16,940
+Rep. Antonio L. Tinio: At ang tanong ko niyan, kasi ang kaibahan, usually, pag may mga ayuda programs,
+
+684
+00:31:16,940 --> 00:31:24,900
+Rep. Antonio L. Tinio: ang nag-implement, DSWD or DOH, but in the case of the Office of the Vice President,
+
+685
+00:31:24,900 --> 00:31:28,460
+Rep. Antonio L. Tinio: direct ang nag-implement yung opisina mismo.
+
+686
+00:31:29,240 --> 00:31:32,200
+Rep. Antonio L. Tinio: So, of course, ang importante dito ay guidelines.
+
+687
+00:31:32,760 --> 00:31:36,600
+Rep. Antonio L. Tinio: So, ang tanong lang po natin, meron po bang malinaw na guidelines
+
+688
+00:31:36,600 --> 00:31:45,100
+Rep. Antonio L. Tinio: ang bawat programa rito, yung mga mag-negosyo taday, wheelchair distribution,
+
+689
+00:31:45,860 --> 00:31:47,740
+Rep. Antonio L. Tinio: pagbabago campaign, and so on and so forth.
+
+690
+00:31:48,880 --> 00:31:51,640
+Rep. Antonio L. Tinio: At accessible po ba ito sa publiko?
+
+691
+00:31:51,640 --> 00:31:54,640
+Undersecretary Sulaika T. Lopez: So, for the record, Your Honor, yes.
+
+692
+00:31:54,900 --> 00:31:58,840
+Undersecretary Sulaika T. Lopez: All our programs, all the nine core programs of the Office of the Vice President
+
+693
+00:31:58,840 --> 00:32:02,080
+Undersecretary Sulaika T. Lopez: are covered by manuals of operation.
+
+694
+00:32:02,780 --> 00:32:08,960
+Undersecretary Sulaika T. Lopez: Several manuals of operation that is regularly updated in consultation with the Commission on Audit
+
+695
+00:32:08,960 --> 00:32:14,000
+Undersecretary Sulaika T. Lopez: to further improve process requirements, Your Honor.
+
+696
+00:32:15,860 --> 00:32:21,200
+Rep. Antonio L. Tinio: Kineko po yung, of course, may manual kayo, kailangan din available sa publiko.
+
+697
+00:32:21,200 --> 00:32:24,880
+Rep. Antonio L. Tinio: So, for the most part, sa website, nandun yung manual.
+
+698
+00:32:24,900 --> 00:32:25,980
+Rep. Antonio L. Tinio: May mga requirements, di ba?
+
+699
+00:32:26,040 --> 00:32:27,180
+Rep. Antonio L. Tinio: May mga ilan lang na hindi.
+
+700
+00:32:27,300 --> 00:32:32,100
+Rep. Antonio L. Tinio: For example, yung You Can Be VP, wala pong detalya dito.
+
+701
+00:32:32,280 --> 00:32:36,860
+Rep. Antonio L. Tinio: And I noticed in the budget, 1.1 million ang proposed budget,
+
+702
+00:32:37,260 --> 00:32:39,200
+Rep. Antonio L. Tinio: tapos yung target beneficiaries, dalawa lang.
+
+703
+00:32:40,160 --> 00:32:44,420
+Rep. Antonio L. Tinio: So, parang ang dating niyan, tigpa 500,000 plus.
+
+704
+00:32:44,880 --> 00:32:46,100
+Deputy Speaker Jose C. Alvarez: Yung You Can Be VP.
+
+705
+00:32:46,760 --> 00:32:47,440
+Rep. Antonio L. Tinio: Ano ba yun?
+
+706
+00:32:47,440 --> 00:32:54,460
+Rep. Antonio L. Tinio: At ganun ba talaga kalaki ang grant na ibibigay ng office, kalahating milyon?
+
+707
+00:32:54,900 --> 00:32:56,340
+Rep. Antonio L. Tinio: Para sa dalawang beneficiary?
+
+708
+00:32:56,720 --> 00:32:57,320
+Rep. Antonio L. Tinio: Tornes Olaiga.
+
+709
+00:32:57,680 --> 00:32:58,660
+Undersecretary Sulaika T. Lopez: Yes, Your Honor.
+
+710
+00:32:59,240 --> 00:33:01,660
+Undersecretary Sulaika T. Lopez: So, just to add to the earlier question,
+
+711
+00:33:02,060 --> 00:33:07,280
+Undersecretary Sulaika T. Lopez: some of our manuals of operation or the procedure is actually found in our citizens charter.
+
+712
+00:33:07,680 --> 00:33:12,700
+Undersecretary Sulaika T. Lopez: But you're right, the You Can Be VP is not included in the citizens charter.
+
+713
+00:33:12,880 --> 00:33:21,060
+Undersecretary Sulaika T. Lopez: Siguro for more detailed process as regards the You Can Be VP program,
+
+714
+00:33:21,180 --> 00:33:24,640
+Undersecretary Sulaika T. Lopez: we can have our Director for Operations, Director Baloro, discuss it further.
+
+715
+00:33:24,640 --> 00:33:25,480
+Undersecretary Sulaika T. Lopez: Go ahead, Norman.
+
+716
+00:33:25,480 --> 00:33:25,980
+Director Norman Valora: Thank you, Yusek.
+
+717
+00:33:26,260 --> 00:33:30,220
+Director Norman Valora: Mr. Chair, for enlightenment, Mr. Chair,
+
+718
+00:33:30,660 --> 00:33:38,440
+Director Norman Valora: the two You Can Be VP program are those learners that can be part of the engagements,
+
+719
+00:33:38,820 --> 00:33:41,640
+Director Norman Valora: both local or international with the Vice President.
+
+720
+00:33:41,820 --> 00:33:47,720
+Director Norman Valora: But however, this is not just only limited with the exposure of these particular learners,
+
+721
+00:33:47,880 --> 00:33:50,260
+Director Norman Valora: but we are also doing with the Junior Leadership Program.
+
+722
+00:33:51,060 --> 00:33:54,580
+Director Norman Valora: Recently, Your Honor, we already have five.
+
+723
+00:33:55,480 --> 00:34:00,660
+Director Norman Valora: So, what we are doing right now is we are giving them the skills development
+
+724
+00:34:00,660 --> 00:34:05,020
+Director Norman Valora: just to ensure that they can also coach or mentor other young learners
+
+725
+00:34:05,020 --> 00:34:08,160
+Director Norman Valora: to be also a good leader in the country, Your Honor.
+
+726
+00:34:10,430 --> 00:34:18,420
+Rep. Antonio L. Tinio: Why is the grant apparently 550,000 per learner or individual?
+
+727
+00:34:19,140 --> 00:34:23,460
+Director Norman Valora: Your Honor, this is not only limited for, like, for example,
+
+728
+00:34:23,560 --> 00:34:26,380
+Director Norman Valora: the 500,000 is to be given to the recipient, Your Honor.
+
+729
+00:34:26,380 --> 00:34:27,380
+Director Norman Valora: This is to be used.
+
+730
+00:34:27,520 --> 00:34:29,620
+Director Norman Valora: This is to be used with the other activities to be conducted
+
+731
+00:34:29,620 --> 00:34:32,180
+Director Norman Valora: in line with the You Can Be VP program, Your Honor.
+
+732
+00:34:33,700 --> 00:34:34,060
+Rep. Antonio L. Tinio: Okay.
+
+733
+00:34:34,200 --> 00:34:36,480
+Rep. Antonio L. Tinio: Kasi, well, baka kailangang ilinaw niyo.
+
+734
+00:34:36,580 --> 00:34:39,580
+Rep. Antonio L. Tinio: Kasi ang sabi rito, number of beneficiaries, two learners.
+
+735
+00:34:40,900 --> 00:34:43,560
+Director Norman Valora: So, that's just only the target, Your Honor,
+
+736
+00:34:43,720 --> 00:34:47,680
+Director Norman Valora: that we can identify, Your Honor, as an eligible learner
+
+737
+00:34:47,680 --> 00:34:52,980
+Director Norman Valora: that can also be exposed with the local and international engagement
+
+738
+00:34:52,980 --> 00:34:54,740
+Director Norman Valora: with the Vice President, Your Honor.
+
+739
+00:34:54,740 --> 00:34:57,500
+Director Norman Valora: But however, we also have other activities,
+
+740
+00:34:57,520 --> 00:35:01,340
+Director Norman Valora: Your Honor, with regard to mentoring and enhancing the skills,
+
+741
+00:35:01,540 --> 00:35:03,960
+Director Norman Valora: the knowledge, and the attitudes of these learners, Your Honor.
+
+742
+00:35:04,200 --> 00:35:04,260
+Rep. Antonio L. Tinio: Okay.
+
+743
+00:35:06,200 --> 00:35:09,940
+Rep. Antonio L. Tinio: Ang, sa, in terms of number of beneficiaries niyo,
+
+744
+00:35:10,160 --> 00:35:11,600
+Rep. Antonio L. Tinio: sabi niyo, 1.4 million.
+
+745
+00:35:11,760 --> 00:35:14,220
+Rep. Antonio L. Tinio: Pero ang bulto talaga nito ay dun sa Libreng Sakay.
+
+746
+00:35:14,400 --> 00:35:18,200
+Rep. Antonio L. Tinio: 1.2 million of the 1.4 million beneficiaries
+
+747
+00:35:18,200 --> 00:35:20,420
+Rep. Antonio L. Tinio: are with the Libreng Sakay program.
+
+748
+00:35:21,400 --> 00:35:25,160
+Rep. Antonio L. Tinio: Pero ang budget niya, hindi naman yung pinakamalaki, 22 million.
+
+749
+00:35:25,700 --> 00:35:26,860
+Rep. Antonio L. Tinio: So, could you,
+
+750
+00:35:27,520 --> 00:35:29,220
+Rep. Antonio L. Tinio: clarify lang, para mas malinaw,
+
+751
+00:35:29,560 --> 00:35:30,720
+Rep. Antonio L. Tinio: ilang sasakyan po ba
+
+752
+00:35:30,720 --> 00:35:34,960
+Rep. Antonio L. Tinio: ang involved sa Libreng Sakay program?
+
+753
+00:35:35,460 --> 00:35:37,140
+Rep. Antonio L. Tinio: At paano yung arrangement dito?
+
+754
+00:35:37,960 --> 00:35:39,800
+Rep. Antonio L. Tinio: Service contracting ba ito?
+
+755
+00:35:40,400 --> 00:35:42,400
+Rep. Antonio L. Tinio: Bumili ba kayo ng sariling sasakyan?
+
+756
+00:35:43,140 --> 00:35:44,080
+Rep. Antonio L. Tinio: Please explain.
+
+757
+00:35:44,780 --> 00:35:45,640
+Rep. Antonio L. Tinio: Please explain, Attorney.
+
+758
+00:35:45,960 --> 00:35:46,800
+Undersecretary Sulaika T. Lopez: Alright, thank you.
+
+759
+00:35:47,400 --> 00:35:48,960
+Undersecretary Sulaika T. Lopez: Thank you, Sir.
+
+760
+00:35:49,460 --> 00:35:54,480
+Undersecretary Sulaika T. Lopez: Alright, currently, the Libreng Sakay program has nine buses across the country.
+
+761
+00:35:55,320 --> 00:35:57,280
+Undersecretary Sulaika T. Lopez: Four are flying in Metro Manila,
+
+762
+00:35:57,520 --> 00:36:03,220
+Undersecretary Sulaika T. Lopez: two, one for Cavite, P-TEX, correct, no?
+
+763
+00:36:03,300 --> 00:36:07,020
+Undersecretary Sulaika T. Lopez: And then we have for Quiapo to Commonwealth, dalawa.
+
+764
+00:36:07,460 --> 00:36:10,120
+Undersecretary Sulaika T. Lopez: And then also, also for the EDSA carousel.
+
+765
+00:36:10,580 --> 00:36:13,120
+Undersecretary Sulaika T. Lopez: And then we also have buses for Tacloban,
+
+766
+00:36:13,640 --> 00:36:15,440
+Undersecretary Sulaika T. Lopez: Bacolod, the city of Bacolod,
+
+767
+00:36:16,000 --> 00:36:19,520
+Undersecretary Sulaika T. Lopez: Davao City, Cebu, and...
+
+768
+00:36:21,260 --> 00:36:23,380
+Undersecretary Sulaika T. Lopez: Yun lang. So, nine na pala.
+
+769
+00:36:23,380 --> 00:36:25,680
+Undersecretary Sulaika T. Lopez: Wala sa Palawan at saka sa Nueva Ecija.
+
+770
+00:36:25,780 --> 00:36:26,820
+Undersecretary Sulaika T. Lopez: Yes, we heard you, Sir.
+
+771
+00:36:27,520 --> 00:36:30,900
+Undersecretary Sulaika T. Lopez: So, sa kabuuan, nationwide, nine na sasakyan.
+
+772
+00:36:31,000 --> 00:36:31,620
+Undersecretary Sulaika T. Lopez: That is true.
+
+773
+00:36:31,920 --> 00:36:33,020
+Undersecretary Sulaika T. Lopez: Nine buses, yes.
+
+774
+00:36:33,160 --> 00:36:35,240
+Undersecretary Sulaika T. Lopez: This is a partnership, if I may add also,
+
+775
+00:36:35,380 --> 00:36:38,640
+Undersecretary Sulaika T. Lopez: to also recognize our partners for the Libreng Sakay.
+
+776
+00:36:39,060 --> 00:36:42,720
+Undersecretary Sulaika T. Lopez: We are working with the LTFRB and also with the MMDA.
+
+777
+00:36:43,160 --> 00:36:45,480
+Undersecretary Sulaika T. Lopez: They are the ones, and also, of course, the OTR,
+
+778
+00:36:45,920 --> 00:36:48,780
+Undersecretary Sulaika T. Lopez: they're the ones who plan the routes for the buses
+
+779
+00:36:48,780 --> 00:36:53,440
+Undersecretary Sulaika T. Lopez: because that is not an expertise of the Office of the Vice President.
+
+780
+00:36:53,440 --> 00:36:53,500
+Undersecretary Sulaika T. Lopez: Okay.
+
+781
+00:36:53,500 --> 00:37:01,560
+Undersecretary Sulaika T. Lopez: Yung binili ba yung sasakyan or service contracting, how does it work?
+
+782
+00:37:01,860 --> 00:37:02,100
+Undersecretary Sulaika T. Lopez: Okay.
+
+783
+00:37:02,420 --> 00:37:05,800
+Undersecretary Sulaika T. Lopez: Siguro, Director Norman, for the operation details.
+
+784
+00:37:07,380 --> 00:37:14,660
+Director Norman Valora: Your Honor, we have a partnership with the other transportation service.
+
+785
+00:37:14,860 --> 00:37:17,120
+Director Norman Valora: We have with the Jack Liner, Your Honor.
+
+786
+00:37:17,120 --> 00:37:20,440
+Director Norman Valora: We have also with the Rural Transit Mindanao Incorporated.
+
+787
+00:37:20,880 --> 00:37:23,380
+Director Norman Valora: We have this Oisinco City Tours and Dakudos.
+
+788
+00:37:23,500 --> 00:37:28,000
+Director Norman Valora: This is through a memorandum of agreement.
+
+789
+00:37:28,020 --> 00:37:28,680
+Director Norman Valora: This is our bus company.
+
+790
+00:37:29,000 --> 00:37:29,320
+Director Norman Valora: Yes.
+
+791
+00:37:29,660 --> 00:37:33,820
+Director Norman Valora: But however, Your Honor, we have also two buses being purchased
+
+792
+00:37:33,820 --> 00:37:36,020
+Director Norman Valora: under the Office of the Vice President, Your Honor.
+
+793
+00:37:37,280 --> 00:37:37,580
+Director Norman Valora: Okay.
+
+794
+00:37:37,780 --> 00:37:42,240
+Rep. Antonio L. Tinio: Sa dalawang bus binili ng Office of the OVP, tapos yung pito.
+
+795
+00:37:42,680 --> 00:37:44,960
+Director Norman Valora: Private partners, Your Honor, under USUFRA.
+
+796
+00:37:45,480 --> 00:37:49,100
+Rep. Antonio L. Tinio: Pahingin na lang po nung listahan ng mga private partners.
+
+797
+00:37:50,180 --> 00:37:51,000
+Rep. Antonio L. Tinio: I'll give you.
+
+798
+00:37:51,560 --> 00:37:53,040
+Rep. Antonio L. Tinio: Si Jaime Chowa.
+
+799
+00:37:53,500 --> 00:37:57,660
+Rep. Antonio L. Tinio: And so, pero ito, kasi nine buses lang, pero 1.2 million.
+
+800
+00:37:57,840 --> 00:38:02,940
+Rep. Antonio L. Tinio: Parang, baka, ibig sabihin, hindi naman siguro talaga,
+
+801
+00:38:03,440 --> 00:38:08,780
+Rep. Antonio L. Tinio: kumbaga, baby, paano na-compute yung 1.2 million?
+
+802
+00:38:08,960 --> 00:38:12,860
+Rep. Antonio L. Tinio: Kasi parang, hindi natin ma-reconcile.
+
+803
+00:38:12,960 --> 00:38:14,420
+Rep. Antonio L. Tinio: Syam na bus, 1.2 million.
+
+804
+00:38:15,760 --> 00:38:16,360
+Director Norman Valora: Siguro.
+
+805
+00:38:17,120 --> 00:38:18,020
+Director Norman Valora: Thank you.
+
+806
+00:38:18,320 --> 00:38:20,580
+Director Norman Valora: Mr. Chair, we have nine buses.
+
+807
+00:38:20,580 --> 00:38:23,480
+Director Norman Valora: In the nine buses, Your Honor, we have the capacity of around,
+
+808
+00:38:23,500 --> 00:38:26,060
+Director Norman Valora: 46 passengers per bus.
+
+809
+00:38:26,480 --> 00:38:27,980
+Director Norman Valora: And then, with that, Your Honor, like, for example,
+
+810
+00:38:28,060 --> 00:38:30,260
+Director Norman Valora: I just have to walk through with you as an experience,
+
+811
+00:38:30,400 --> 00:38:31,700
+Director Norman Valora: the one conducting monitoring.
+
+812
+00:38:32,160 --> 00:38:34,940
+Director Norman Valora: For example, Your Honor, in one bus, in the EDSA carousel,
+
+813
+00:38:35,260 --> 00:38:36,940
+Director Norman Valora: merong 46 na makakasakay.
+
+814
+00:38:37,260 --> 00:38:41,460
+Director Norman Valora: So, ang kinakount po namin ay yung mga nag-onboard.
+
+815
+00:38:42,040 --> 00:38:44,840
+Director Norman Valora: So, with the help of our bus conductors there,
+
+816
+00:38:44,900 --> 00:38:47,960
+Director Norman Valora: the one doing the tickers, 1, 2, 3 na sumasakay.
+
+817
+00:38:48,240 --> 00:38:51,000
+Director Norman Valora: So, in our average, Your Honor, based on the history,
+
+818
+00:38:51,000 --> 00:38:53,000
+Director Norman Valora: we can accommodate around 442 passengers.
+
+819
+00:38:53,500 --> 00:38:56,440
+Director Norman Valora: 442 passengers per bus, sa isang araw.
+
+820
+00:38:56,440 --> 00:38:58,440
+Director Norman Valora: But, what's good about this, Your Honor,
+
+821
+00:38:58,440 --> 00:39:00,440
+Director Norman Valora: is we're just only doing with the peak hours.
+
+822
+00:39:00,440 --> 00:39:03,440
+Director Norman Valora: So, we're conducting or implementing the operations
+
+823
+00:39:03,440 --> 00:39:06,940
+Director Norman Valora: from, in the morning, from 5 a.m. to 9 a.m.
+
+824
+00:39:06,940 --> 00:39:09,660
+Director Norman Valora: And in the afternoon, that's 5 p.m. to 9 p.m.
+
+825
+00:39:09,660 --> 00:39:12,060
+Director Norman Valora: So, if we're going to calculate that, Your Honor,
+
+826
+00:39:12,060 --> 00:39:15,060
+Director Norman Valora: in the 422, for example, in a day,
+
+827
+00:39:15,060 --> 00:39:17,440
+Director Norman Valora: we have to multiply in the nine buses, Your Honor,
+
+828
+00:39:17,440 --> 00:39:20,440
+Director Norman Valora: then we can get that particular number, Your Honor.
+
+829
+00:39:20,440 --> 00:39:23,440
+Director Norman Valora: And that's the reason why we can really document,
+
+830
+00:39:23,440 --> 00:39:27,440
+Director Norman Valora: with regard to the number of passengers assisted per day, Your Honor.
+
+831
+00:39:27,440 --> 00:39:28,180
+Director Norman Valora: Okay.
+
+832
+00:39:28,180 --> 00:39:33,440
+Director Norman Valora: So, mas siguro, commutes per day and per year.
+
+833
+00:39:33,440 --> 00:39:33,940
+Rep. Antonio L. Tinio: Yes, Your Honor.
+
+834
+00:39:33,940 --> 00:39:36,940
+Rep. Antonio L. Tinio: Do you want to know the owners of the bus company?
+
+835
+00:39:36,940 --> 00:39:38,140
+Rep. Antonio L. Tinio: Ah, well, kung...
+
+836
+00:39:38,140 --> 00:39:39,940
+Rep. Antonio L. Tinio: Jack Liner is Jaime Chua.
+
+837
+00:39:39,940 --> 00:39:40,680
+Rep. Antonio L. Tinio: Sige, ibig.
+
+838
+00:39:40,680 --> 00:39:43,280
+Rep. Antonio L. Tinio: Yaseris Liner is Janshon Pamili.
+
+839
+00:39:43,280 --> 00:39:44,080
+Rep. Antonio L. Tinio: Okay.
+
+840
+00:39:44,080 --> 00:39:45,080
+Rep. Antonio L. Tinio: Sino ang number 3?
+
+841
+00:39:45,080 --> 00:39:46,080
+Rep. Antonio L. Tinio: Sige po.
+
+842
+00:39:46,080 --> 00:39:47,080
+Rep. Antonio L. Tinio: Kilala ko lahat yan.
+
+843
+00:39:47,080 --> 00:39:49,080
+Rep. Antonio L. Tinio: Eh, bus manufacturer ako eh.
+
+844
+00:39:49,080 --> 00:39:51,080
+Deputy Speaker Jose C. Alvarez: Mr. Chair, you are Uy Cinco.
+
+845
+00:39:51,080 --> 00:39:53,080
+Deputy Speaker Jose C. Alvarez: Uy Cinco, taga-daba mo na.
+
+846
+00:39:53,440 --> 00:39:54,440
+Deputy Speaker Jose C. Alvarez: Ah?
+
+847
+00:39:54,440 --> 00:39:56,440
+Deputy Speaker Jose C. Alvarez: O, di rin ako nang ilagamay.
+
+848
+00:39:56,440 --> 00:39:58,440
+Deputy Speaker Jose C. Alvarez: Small, small-timer yun.
+
+849
+00:39:58,440 --> 00:40:01,440
+Deputy Speaker Jose C. Alvarez: Yung Seres at saka Jack Liner, big-time yun.
+
+850
+00:40:01,440 --> 00:40:06,440
+Deputy Speaker Jose C. Alvarez: So, more often, they drive, the old bus owners,
+
+851
+00:40:06,440 --> 00:40:09,440
+Deputy Speaker Jose C. Alvarez: or the bus liners, provide also the driver.
+
+852
+00:40:09,440 --> 00:40:14,440
+Deputy Speaker Jose C. Alvarez: Pero yung Puel, they also provide o kayo bumibili ng Puel.
+
+853
+00:40:14,440 --> 00:40:16,440
+Deputy Speaker Jose C. Alvarez: For the record lang.
+
+854
+00:40:16,440 --> 00:40:18,440
+Deputy Speaker Jose C. Alvarez: Puel is on the end of the OVP year.
+
+855
+00:40:18,440 --> 00:40:20,440
+Rep. Antonio L. Tinio: Okay. So, magandang tanong po yan.
+
+856
+00:40:20,440 --> 00:40:22,440
+Rep. Antonio L. Tinio: Yung 22 million na yan, kasi yung bus...
+
+857
+00:40:22,440 --> 00:40:23,440
+Rep. Antonio L. Tinio: Masama, Puel.
+
+858
+00:40:23,440 --> 00:40:24,440
+Rep. Antonio L. Tinio: Provided.
+
+859
+00:40:24,440 --> 00:40:25,440
+Rep. Antonio L. Tinio: Oo.
+
+860
+00:40:25,440 --> 00:40:29,440
+Rep. Antonio L. Tinio: Yung driver, sabi ni Chair, ay provided na rin ng private.
+
+861
+00:40:29,440 --> 00:40:33,440
+Rep. Antonio L. Tinio: So, ano yung pinagagastusan ng budget? Gasolina.
+
+862
+00:40:33,440 --> 00:40:36,440
+Rep. Antonio L. Tinio: Very reasonable yun. Gasolina lang at saka minor repairs.
+
+863
+00:40:36,440 --> 00:40:37,440
+Rep. Antonio L. Tinio: Maintenance?
+
+864
+00:40:37,440 --> 00:40:38,440
+Rep. Antonio L. Tinio: Maintenance.
+
+865
+00:40:38,440 --> 00:40:40,440
+Rep. Antonio L. Tinio: Yung pasahod sa driver, hindi na sa inyo?
+
+866
+00:40:40,440 --> 00:40:41,440
+Rep. Antonio L. Tinio: Yes, atin.
+
+867
+00:40:41,440 --> 00:40:42,440
+Rep. Antonio L. Tinio: Including your owner.
+
+868
+00:40:42,440 --> 00:40:43,440
+Rep. Antonio L. Tinio: Ah, including din.
+
+869
+00:40:43,440 --> 00:40:44,440
+Undersecretary Sulaika T. Lopez: Yes, and the bus conductors.
+
+870
+00:40:44,440 --> 00:40:45,440
+Undersecretary Sulaika T. Lopez: Ah, yun pala.
+
+871
+00:40:45,440 --> 00:40:48,440
+Undersecretary Sulaika T. Lopez: Salaries, wages, maintenance, fuel.
+
+872
+00:40:48,440 --> 00:40:49,440
+Undersecretary Sulaika T. Lopez: Okay.
+
+873
+00:40:49,440 --> 00:40:50,440
+Undersecretary Sulaika T. Lopez: Okay, at least.
+
+874
+00:40:50,440 --> 00:40:51,440
+Undersecretary Sulaika T. Lopez: Thank you.
+
+875
+00:40:51,440 --> 00:40:52,440
+Undersecretary Sulaika T. Lopez: Clarified.
+
+876
+00:40:52,440 --> 00:40:53,440
+Undersecretary Sulaika T. Lopez: Tama?
+
+877
+00:40:53,440 --> 00:40:54,440
+Undersecretary Sulaika T. Lopez: Tama.
+
+878
+00:40:54,440 --> 00:40:55,440
+Undersecretary Sulaika T. Lopez: Oo.
+
+879
+00:40:55,440 --> 00:40:56,440
+Undersecretary Sulaika T. Lopez: So, tama ka na.
+
+880
+00:40:56,440 --> 00:40:57,440
+Undersecretary Sulaika T. Lopez: Okay.
+
+881
+00:40:57,440 --> 00:40:58,440
+Undersecretary Sulaika T. Lopez: Your honors.
+
+882
+00:40:58,440 --> 00:40:59,440
+Undersecretary Sulaika T. Lopez: Tapos ka na.
+
+883
+00:40:59,440 --> 00:41:00,440
+Undersecretary Sulaika T. Lopez: Tapos na 5 minutes mo eh.
+
+884
+00:41:00,440 --> 00:41:01,440
+Undersecretary Sulaika T. Lopez: Alright, your honors.
+
+885
+00:41:01,440 --> 00:41:02,440
+Undersecretary Sulaika T. Lopez: If I may add.
+
+886
+00:41:02,440 --> 00:41:03,440
+Undersecretary Sulaika T. Lopez: Sir, if I may add.
+
+887
+00:41:03,440 --> 00:41:04,440
+Undersecretary Sulaika T. Lopez: O, kita mo, very cooperative.
+
+888
+00:41:04,440 --> 00:41:05,440
+Undersecretary Sulaika T. Lopez: Saan ka maghanap ng ganyan?
+
+889
+00:41:05,440 --> 00:41:06,440
+Undersecretary Sulaika T. Lopez: Di ba?
+
+890
+00:41:06,440 --> 00:41:07,440
+Undersecretary Sulaika T. Lopez: Alright.
+
+891
+00:41:07,440 --> 00:41:08,440
+Undersecretary Sulaika T. Lopez: I think in November, no?
+
+892
+00:41:08,440 --> 00:41:13,440
+Undersecretary Sulaika T. Lopez: Mid-November, we are expecting the onboarding of our 4 million passengers.
+
+893
+00:41:13,440 --> 00:41:14,440
+Undersecretary Sulaika T. Lopez: Wow!
+
+894
+00:41:14,440 --> 00:41:15,440
+Undersecretary Sulaika T. Lopez: Already.
+
+895
+00:41:15,440 --> 00:41:16,440
+Undersecretary Sulaika T. Lopez: Okay.
+
+896
+00:41:16,440 --> 00:41:18,440
+Undersecretary Sulaika T. Lopez: And then, we'd like to, of course, to invite the members of the Congress.
+
+897
+00:41:18,440 --> 00:41:20,440
+Undersecretary Sulaika T. Lopez: If you can, you can ride the...
+
+898
+00:41:20,440 --> 00:41:21,440
+Undersecretary Sulaika T. Lopez: You can give us passes.
+
+899
+00:41:21,440 --> 00:41:22,440
+Undersecretary Sulaika T. Lopez: Yes, sir.
+
+900
+00:41:22,440 --> 00:41:23,440
+Undersecretary Sulaika T. Lopez: It's available for everyone.
+
+901
+00:41:23,440 --> 00:41:24,440
+Undersecretary Sulaika T. Lopez: Okay.
+
+902
+00:41:24,440 --> 00:41:25,440
+Undersecretary Sulaika T. Lopez: Sige.
+
+903
+00:41:25,440 --> 00:41:26,440
+Undersecretary Sulaika T. Lopez: Thank you.
+
+904
+00:41:26,440 --> 00:41:32,440
+Rep. Antonio L. Tinio: So, chair, intayin ko na lang yung list of the providers and so on.
+
+905
+00:41:32,440 --> 00:41:33,440
+Rep. Antonio L. Tinio: At saka yung mga regarding the...
+
+906
+00:41:33,440 --> 00:41:34,440
+Rep. Antonio L. Tinio: Magkakilala ko yan.
+
+907
+00:41:34,440 --> 00:41:35,440
+Rep. Antonio L. Tinio: Magkakakuntayin ko sa obscene naman.
+
+908
+00:41:35,440 --> 00:41:36,440
+Rep. Antonio L. Tinio: Ano yung...
+
+909
+00:41:36,440 --> 00:41:37,440
+Rep. Antonio L. Tinio: You can be VP program.
+
+910
+00:41:37,440 --> 00:41:38,440
+Rep. Antonio L. Tinio: You can be VP.
+
+911
+00:41:38,440 --> 00:41:39,440
+Rep. Antonio L. Tinio: Okay.
+
+912
+00:41:39,440 --> 00:41:40,440
+Rep. Antonio L. Tinio: Thank you.
+
+913
+00:41:40,440 --> 00:41:41,440
+Deputy Speaker Jose C. Alvarez: Salamat.
+
+914
+00:41:41,440 --> 00:41:42,440
+Deputy Speaker Jose C. Alvarez: You're welcome, your honor.
+
+915
+00:41:42,440 --> 00:41:43,440
+Deputy Speaker Jose C. Alvarez: Thank you.
+
+916
+00:41:43,440 --> 00:41:44,440
+Deputy Speaker Jose C. Alvarez: Okay.
+
+917
+00:41:44,440 --> 00:41:49,440
+Deputy Speaker Jose C. Alvarez: Next on the list, our very own Honorable Rev. Rene Co.
+
+918
+00:41:49,440 --> 00:41:51,440
+Deputy Speaker Jose C. Alvarez: Not the relative of Saldeco.
+
+919
+00:41:51,440 --> 00:41:52,440
+Rep. Renee Louise M. Co: Yes.
+
+920
+00:41:52,440 --> 00:41:53,440
+Rep. Renee Louise M. Co: As clarified last year.
+
+921
+00:41:53,440 --> 00:41:54,440
+Rep. Renee Louise M. Co: Ayan.
+
+922
+00:41:54,440 --> 00:41:55,440
+Rep. Renee Louise M. Co: Sige.
+
+923
+00:41:55,440 --> 00:41:56,440
+Rep. Renee Louise M. Co: Thank you, chair.
+
+924
+00:41:56,440 --> 00:42:01,440
+Rep. Renee Louise M. Co: And salamat po sa Office of the Vice President sa pagsagot ng mga ilang tanong.
+
+925
+00:42:01,440 --> 00:42:08,440
+Rep. Renee Louise M. Co: Siguro ang tanong ko rin po ay tungkol po sa mga programa na pinupondohan po ng Office
+
+926
+00:42:08,440 --> 00:42:09,440
+Rep. Renee Louise M. Co: of the Vice President.
+
+927
+00:42:09,440 --> 00:42:14,440
+Rep. Renee Louise M. Co: In particular, meron po dito yung pinakamalaking spending is yung pagbabago campaign, which
+
+928
+00:42:14,440 --> 00:42:16,440
+Rep. Renee Louise M. Co: is distribution of bags.
+
+929
+00:42:16,440 --> 00:42:19,440
+Rep. Renee Louise M. Co: And even yung wheelchair distribution.
+
+930
+00:42:19,440 --> 00:42:20,440
+Rep. Renee Louise M. Co: Algenaza kits.
+
+931
+00:42:20,440 --> 00:42:26,440
+Rep. Renee Louise M. Co: Siguro ang tanong ko po, paano po nag-a-identify ng target beneficiaries yung OVP?
+
+932
+00:42:26,440 --> 00:42:27,440
+Rep. Renee Louise M. Co: Paano po niya...
+
+933
+00:42:27,440 --> 00:42:36,440
+Rep. Renee Louise M. Co: Ano yung process niya sa pag-tukoy sino itong 150,000 learners, itong 600 clients for both
+
+934
+00:42:36,440 --> 00:42:38,440
+Rep. Renee Louise M. Co: wheelchair and algenaza kits, etc.?
+
+935
+00:42:38,440 --> 00:42:39,440
+Undersecretary Sulaika T. Lopez: Thank you, ma'am.
+
+936
+00:42:39,440 --> 00:42:40,440
+Undersecretary Sulaika T. Lopez: Yes, sir.
+
+937
+00:42:40,440 --> 00:42:45,440
+Undersecretary Sulaika T. Lopez: As mentioned earlier, there are manuals of operation that cover these programs.
+
+938
+00:42:45,440 --> 00:42:48,440
+Undersecretary Sulaika T. Lopez: For a complete detailed process flow of the pagbabago a million learners campaign, there's
+
+939
+00:42:48,440 --> 00:42:55,440
+Undersecretary Sulaika T. Lopez: a full list of the pagbabago a million learners campaign and the algenaza and wheelchair
+
+940
+00:42:55,440 --> 00:42:56,440
+Undersecretary Sulaika T. Lopez: distribution.
+
+941
+00:42:56,440 --> 00:42:59,440
+Undersecretary Sulaika T. Lopez: We can have our director for operations discuss it further.
+
+942
+00:42:59,440 --> 00:43:00,440
+Undersecretary Sulaika T. Lopez: Go ahead.
+
+943
+00:43:00,440 --> 00:43:01,440
+Director Norman Valora: Sige po.
+
+944
+00:43:01,440 --> 00:43:02,440
+Director Norman Valora: Thank you.
+
+945
+00:43:02,440 --> 00:43:03,440
+Director Norman Valora: Mr.
+
+946
+00:43:03,440 --> 00:43:04,440
+Director Norman Valora: Director Norman, you have the floor.
+
+947
+00:43:04,440 --> 00:43:05,440
+Director Norman Valora: Thank you, Your Honor.
+
+948
+00:43:05,440 --> 00:43:11,440
+Director Norman Valora: Mr. Chair, with regard to the eligibility of our learners, it's the Department of Education
+
+949
+00:43:11,440 --> 00:43:16,440
+Director Norman Valora: and the People's Organization identified the schools to be the recipients of the pagbabago
+
+950
+00:43:16,440 --> 00:43:17,440
+Director Norman Valora: bag.
+
+951
+00:43:17,440 --> 00:43:22,440
+Director Norman Valora: And we have a special project still with the assessment and evaluation of the Special
+
+952
+00:43:22,440 --> 00:43:27,440
+Director Norman Valora: Projects Division na siya po yung gumagawa ng aming project design and even the implementation
+
+953
+00:43:27,440 --> 00:43:30,440
+Director Norman Valora: together with the satellite offices all across the country.
+
+954
+00:43:30,440 --> 00:43:31,440
+Director Norman Valora: That's number one.
+
+955
+00:43:31,440 --> 00:43:38,440
+Director Norman Valora: Second is we are also considering one of our priorities, Your Honor, are the GIDA areas
+
+956
+00:43:38,440 --> 00:43:44,440
+Director Norman Valora: and even the last-mile school na tinatawag po ng Department of Education kasi doon po sa
+
+957
+00:43:44,440 --> 00:43:45,440
+Director Norman Valora: assessment namin, sila po yung medyo deprived sa mga programa na meron po ang pagbabago ng
+
+958
+00:43:45,440 --> 00:43:52,440
+Director Norman Valora: government, at meron din po kami mga experience, Your Honor, na even yung mga teachers
+
+959
+00:43:52,440 --> 00:43:59,440
+Director Norman Valora: could really testify na it's their first time to receive such assistance coming from
+
+960
+00:43:59,440 --> 00:44:00,440
+Director Norman Valora: the government.
+
+961
+00:44:00,440 --> 00:44:05,440
+Director Norman Valora: For the janasa kit, Your Honor, this is in line with our respect to the brothers and
+
+962
+00:44:05,440 --> 00:44:06,440
+Director Norman Valora: sisters in the Islam community.
+
+963
+00:44:06,440 --> 00:44:13,440
+Director Norman Valora: It's the first time in the Office of the Vice President to offer a particular burial kit
+
+964
+00:44:13,440 --> 00:44:15,420
+Director Norman Valora: right after po na mamatay po yung ating mga mother, mother and percent, members of the
+
+965
+00:44:15,440 --> 00:44:17,600
+Director Norman Valora: Muslim brothers and sisters, within 24 hours
+
+966
+00:44:17,600 --> 00:44:18,960
+Director Norman Valora: kailangan po sila mailibing.
+
+967
+00:44:19,360 --> 00:44:21,380
+Director Norman Valora: So right then and there, maibigay po namin
+
+968
+00:44:21,380 --> 00:44:23,400
+Director Norman Valora: ito sa kanila ang dyanasakits. This is not
+
+969
+00:44:23,400 --> 00:44:25,380
+Director Norman Valora: only available in BARM, but
+
+970
+00:44:25,380 --> 00:44:27,320
+Director Norman Valora: only in the, and also in the 10
+
+971
+00:44:27,320 --> 00:44:29,280
+Director Norman Valora: satellite offices all across the country.
+
+972
+00:44:29,680 --> 00:44:31,360
+Director Norman Valora: And for the wheelchair, Your Honor, this is
+
+973
+00:44:31,360 --> 00:44:33,480
+Director Norman Valora: upon the request. It might be from
+
+974
+00:44:33,480 --> 00:44:35,080
+Director Norman Valora: the other organizations, Your Honor,
+
+975
+00:44:35,240 --> 00:44:37,460
+Director Norman Valora: even the local government unit, and even
+
+976
+00:44:37,460 --> 00:44:39,200
+Director Norman Valora: the walk-in clients, Your Honor,
+
+977
+00:44:39,340 --> 00:44:41,240
+Director Norman Valora: who wish to be afforded with the
+
+978
+00:44:41,240 --> 00:44:43,600
+Director Norman Valora: wheelchairs or other mobility devices,
+
+979
+00:44:43,800 --> 00:44:44,080
+Director Norman Valora: Your Honor.
+
+980
+00:44:45,440 --> 00:44:47,140
+Rep. Renee Louise M. Co: So to clarify po, Mr. Chair,
+
+981
+00:44:47,500 --> 00:44:49,520
+Rep. Renee Louise M. Co: mukhang yung wheelchair and algenasakits,
+
+982
+00:44:49,620 --> 00:44:50,980
+Rep. Renee Louise M. Co: this is walk-in.
+
+983
+00:44:51,360 --> 00:44:53,340
+Rep. Renee Louise M. Co: Kung sino po lalapit sa OVP.
+
+984
+00:44:54,400 --> 00:44:56,200
+Rep. Renee Louise M. Co: Tapos yung sa pagbabago,
+
+985
+00:44:56,720 --> 00:44:57,920
+Rep. Renee Louise M. Co: partnership.
+
+986
+00:44:58,300 --> 00:45:00,000
+Rep. Renee Louise M. Co: So siguro ang clarification ko na
+
+987
+00:45:00,000 --> 00:45:02,120
+Rep. Renee Louise M. Co: lang po, paano po ba nasisimulan
+
+988
+00:45:02,120 --> 00:45:04,180
+Rep. Renee Louise M. Co: yung process flow na ito? Ang OVP po ba
+
+989
+00:45:04,180 --> 00:45:04,940
+Rep. Renee Louise M. Co: through its satellite
+
+990
+00:45:04,940 --> 00:45:07,880
+Rep. Renee Louise M. Co: units or offices
+
+991
+00:45:07,880 --> 00:45:10,120
+Rep. Renee Louise M. Co: ay naghahanap kung
+
+992
+00:45:10,120 --> 00:45:12,100
+Rep. Renee Louise M. Co: saan po kulang? May lumalapit
+
+993
+00:45:12,100 --> 00:45:14,040
+Rep. Renee Louise M. Co: po ba sa satellite mga offices?
+
+994
+00:45:14,280 --> 00:45:15,580
+Rep. Renee Louise M. Co: Ano po yung parang basically
+
+995
+00:45:15,580 --> 00:45:18,040
+Rep. Renee Louise M. Co: starting step one kung paano po
+
+996
+00:45:18,040 --> 00:45:19,400
+Rep. Renee Louise M. Co: nag-a-identify ng ganito?
+
+997
+00:45:19,800 --> 00:45:21,640
+Director Norman Valora: Normally lumalapit. Thank you.
+
+998
+00:45:21,800 --> 00:45:23,940
+Director Norman Valora: Mr. Richard, yes. Number one is
+
+999
+00:45:23,940 --> 00:45:25,780
+Director Norman Valora: this is through the collaboration
+
+1000
+00:45:25,780 --> 00:45:28,060
+Director Norman Valora: with the Department of Education. Bago po
+
+1001
+00:45:28,060 --> 00:45:30,020
+Director Norman Valora: magsimula yung Brigada Eskwela,
+
+1002
+00:45:30,160 --> 00:45:31,680
+Director Norman Valora: nakakaroon po kami ng meeting
+
+1003
+00:45:31,680 --> 00:45:33,880
+Director Norman Valora: with the Department of Education through also
+
+1004
+00:45:33,880 --> 00:45:35,820
+Director Norman Valora: the regional offices. Here in the Central
+
+1005
+00:45:35,820 --> 00:45:38,060
+Director Norman Valora: Office, Your Honor, this is through our
+
+1006
+00:45:38,060 --> 00:45:39,500
+Director Norman Valora: the Central Office of DepEd.
+
+1007
+00:45:39,500 --> 00:45:41,620
+Director Norman Valora: So from there, Your Honor, we can already
+
+1008
+00:45:41,620 --> 00:45:43,300
+Director Norman Valora: identify particular
+
+1009
+00:45:43,300 --> 00:45:45,600
+Director Norman Valora: schools who should be a priority of the
+
+1010
+00:45:45,600 --> 00:45:47,640
+Director Norman Valora: Department of Education to be given.
+
+1011
+00:45:47,900 --> 00:45:49,720
+Director Norman Valora: And then meron din po mga people's organization,
+
+1012
+00:45:49,880 --> 00:45:51,660
+Director Norman Valora: Your Honor, who are directly writing
+
+1013
+00:45:51,660 --> 00:45:53,600
+Director Norman Valora: a letter addressed to the Vice President
+
+1014
+00:45:53,600 --> 00:45:55,760
+Director Norman Valora: asking for support, especially
+
+1015
+00:45:55,760 --> 00:45:57,180
+Director Norman Valora: mag nanakita po nila.
+
+1016
+00:45:57,180 --> 00:45:59,400
+Director Norman Valora: And we're also including, Your Honor,
+
+1017
+00:45:59,520 --> 00:46:01,160
+Director Norman Valora: not only the DepEd schools, but even
+
+1018
+00:46:01,160 --> 00:46:02,760
+Director Norman Valora: the Madrasa schools, Your Honor.
+
+1019
+00:46:04,000 --> 00:46:05,360
+Rep. Renee Louise M. Co: I ask these questions,
+
+1020
+00:46:05,500 --> 00:46:06,780
+Rep. Renee Louise M. Co: Mr. Chair, dahil
+
+1021
+00:46:06,780 --> 00:46:09,200
+Rep. Renee Louise M. Co: syempre noble yung pagkakaroon
+
+1022
+00:46:09,200 --> 00:46:11,260
+Rep. Renee Louise M. Co: ng distribution ng mga paangailangan
+
+1023
+00:46:11,260 --> 00:46:12,940
+Rep. Renee Louise M. Co: ng ating mga mayan. Pero
+
+1024
+00:46:12,940 --> 00:46:15,000
+Rep. Renee Louise M. Co: gusto rin natin yung pinakamarami ang
+
+1025
+00:46:15,000 --> 00:46:17,120
+Rep. Renee Louise M. Co: makaabot and ayaw natin ng duplication.
+
+1026
+00:46:17,660 --> 00:46:19,280
+Rep. Renee Louise M. Co: So, hindi man sa ayaw ng duplication,
+
+1027
+00:46:19,420 --> 00:46:21,220
+Rep. Renee Louise M. Co: pero ina-avoid natin para mas ma-spread
+
+1028
+00:46:21,220 --> 00:46:23,140
+Rep. Renee Louise M. Co: out yung makakuha ng mga ganitong
+
+1029
+00:46:23,140 --> 00:46:24,740
+Rep. Renee Louise M. Co: mga servisyo. So,
+
+1030
+00:46:25,840 --> 00:46:26,740
+Rep. Renee Louise M. Co: sinicheck natin kung
+
+1031
+00:46:27,180 --> 00:46:29,400
+Rep. Renee Louise M. Co: ano po bang coordination yung ginagawa
+
+1032
+00:46:29,400 --> 00:46:31,580
+Rep. Renee Louise M. Co: and paano nai-ensure na
+
+1033
+00:46:31,580 --> 00:46:33,280
+Rep. Renee Louise M. Co: walang duplication? Baka po pwedeng
+
+1034
+00:46:33,280 --> 00:46:35,360
+Rep. Renee Louise M. Co: maitanong. Anong, paano po nai-ensure na walang
+
+1035
+00:46:35,360 --> 00:46:37,760
+Rep. Renee Louise M. Co: duplication with the LGU, with doon
+
+1036
+00:46:37,760 --> 00:46:38,920
+Rep. Renee Louise M. Co: sa iba't-ibang mga
+
+1037
+00:46:38,920 --> 00:46:41,560
+Rep. Renee Louise M. Co: beneficiaries ng people's
+
+1038
+00:46:41,560 --> 00:46:43,680
+Rep. Renee Louise M. Co: organizations or ng iba't-ibang agencies?
+
+1039
+00:46:44,200 --> 00:46:45,520
+Director Norman Valora: Director Norman, please go ahead.
+
+1040
+00:46:45,580 --> 00:46:47,900
+Director Norman Valora: Thank you. Mr. Chair, we have this data
+
+1041
+00:46:47,900 --> 00:46:49,700
+Director Norman Valora: or the dashboard monitoring.
+
+1042
+00:46:50,640 --> 00:46:51,840
+Director Norman Valora: Every learner,
+
+1043
+00:46:52,040 --> 00:46:53,620
+Director Norman Valora: Your Honor, coming from the Department
+
+1044
+00:46:53,620 --> 00:46:55,660
+Director Norman Valora: of Education, we're listing this. At saka
+
+1045
+00:46:55,660 --> 00:46:57,160
+Director Norman Valora: pag-type namin sa mga pangalan,
+
+1046
+00:46:57,180 --> 00:46:59,600
+Director Norman Valora: nakikita agad namin kung may duplication.
+
+1047
+00:46:59,820 --> 00:47:01,140
+Director Norman Valora: So, we have to ensure, Your Honor,
+
+1048
+00:47:01,560 --> 00:47:03,280
+Director Norman Valora: na hindi po, kasi lalo na po yung
+
+1049
+00:47:03,280 --> 00:47:05,260
+Director Norman Valora: sa COA, they're very particular with the
+
+1050
+00:47:05,260 --> 00:47:07,340
+Director Norman Valora: ilang beses na bigyan
+
+1051
+00:47:07,340 --> 00:47:09,460
+Director Norman Valora: ang bata. So, we have to ensure, Your Honor,
+
+1052
+00:47:09,600 --> 00:47:11,660
+Director Norman Valora: yung dashboard namin, talagang
+
+1053
+00:47:11,660 --> 00:47:13,220
+Director Norman Valora: naka-master list po sila.
+
+1054
+00:47:13,320 --> 00:47:15,160
+Director Norman Valora: And all of these documents, Your Honor,
+
+1055
+00:47:15,220 --> 00:47:17,280
+Director Norman Valora: is being verified and signed by the
+
+1056
+00:47:17,280 --> 00:47:18,860
+Director Norman Valora: Department of Education, Your Honor.
+
+1057
+00:47:19,340 --> 00:47:20,640
+Rep. Renee Louise M. Co: Is this master list
+
+1058
+00:47:20,640 --> 00:47:23,360
+Rep. Renee Louise M. Co: coordinated with yung ibang agency?
+
+1059
+00:47:23,580 --> 00:47:24,820
+Rep. Renee Louise M. Co: So, hindi siya internal lang?
+
+1060
+00:47:24,820 --> 00:47:27,140
+Rep. Renee Louise M. Co: Yes, Your Honor. So, bali sa ibang mga agency,
+
+1061
+00:47:27,180 --> 00:47:29,040
+Rep. Renee Louise M. Co: din ay may visibility
+
+1062
+00:47:29,040 --> 00:47:31,640
+Rep. Renee Louise M. Co: kayo na nabigyan na to, yung hindi pa,
+
+1063
+00:47:31,940 --> 00:47:33,140
+Rep. Renee Louise M. Co: bibigyan namin. Tama po ba?
+
+1064
+00:47:33,580 --> 00:47:35,140
+Director Norman Valora: Your Honor, this is really through the
+
+1065
+00:47:35,140 --> 00:47:37,140
+Director Norman Valora: collaboration because the DepEd really can
+
+1066
+00:47:37,140 --> 00:47:39,280
+Director Norman Valora: really tell us, Your Honor, kung nabigyan po sila
+
+1067
+00:47:39,280 --> 00:47:41,480
+Director Norman Valora: o wala. But as what I mentioned earlier,
+
+1068
+00:47:41,600 --> 00:47:43,200
+Director Norman Valora: Your Honor, we are really focused on
+
+1069
+00:47:43,200 --> 00:47:45,200
+Director Norman Valora: the GIDA and then the
+
+1070
+00:47:45,200 --> 00:47:47,040
+Director Norman Valora: last mile schools identified
+
+1071
+00:47:47,040 --> 00:47:49,020
+Director Norman Valora: by the Department of Education, Your Honor.
+
+1072
+00:47:49,920 --> 00:47:50,860
+Rep. Renee Louise M. Co: Mr. Chair,
+
+1073
+00:47:51,040 --> 00:47:53,320
+Rep. Renee Louise M. Co: syempre, nakikita
+
+1074
+00:47:53,320 --> 00:47:55,380
+Rep. Renee Louise M. Co: natin yung mga services na ginagawa.
+
+1075
+00:47:55,380 --> 00:47:57,120
+Rep. Renee Louise M. Co: Pero ang inasahan
+
+1076
+00:47:57,120 --> 00:47:59,140
+Rep. Renee Louise M. Co: ko din po, for example, sa second highest
+
+1077
+00:47:59,140 --> 00:48:00,760
+Rep. Renee Louise M. Co: office of the land, ay meron siyang
+
+1078
+00:48:00,760 --> 00:48:02,500
+Rep. Renee Louise M. Co: papel din sa policy.
+
+1079
+00:48:02,920 --> 00:48:04,700
+Rep. Renee Louise M. Co: So, sa pag-set ng policy
+
+1080
+00:48:04,700 --> 00:48:06,520
+Rep. Renee Louise M. Co: sa na-direksyon
+
+1081
+00:48:06,520 --> 00:48:08,760
+Rep. Renee Louise M. Co: ng bansa.
+
+1082
+00:48:09,160 --> 00:48:11,160
+Rep. Renee Louise M. Co: So, siguro, ang tanong ko, dahil hindi naman po
+
+1083
+00:48:11,160 --> 00:48:13,000
+Rep. Renee Louise M. Co: naksama sa report, ano po bang
+
+1084
+00:48:13,000 --> 00:48:14,780
+Rep. Renee Louise M. Co: policy efforts ng
+
+1085
+00:48:14,780 --> 00:48:17,440
+Rep. Renee Louise M. Co: OVP? May research arm po ba yan?
+
+1086
+00:48:17,700 --> 00:48:18,940
+Rep. Renee Louise M. Co: Nag-a-advise po ba yan sa
+
+1087
+00:48:18,940 --> 00:48:21,020
+Rep. Renee Louise M. Co: ibang-ibang agencies? May ganun po bang efforts?
+
+1088
+00:48:23,770 --> 00:48:24,050
+Rep. Renee Louise M. Co: Torne?
+
+1089
+00:48:25,010 --> 00:48:26,750
+Undersecretary Sulaika T. Lopez: Thank you. Actually, ma'am,
+
+1090
+00:48:26,810 --> 00:48:28,790
+Undersecretary Sulaika T. Lopez: one of the things that
+
+1091
+00:48:28,790 --> 00:48:30,830
+Undersecretary Sulaika T. Lopez: one of our institutional projects
+
+1092
+00:48:30,830 --> 00:48:31,790
+Undersecretary Sulaika T. Lopez: really is the
+
+1093
+00:48:31,790 --> 00:48:34,330
+Undersecretary Sulaika T. Lopez: creation of the
+
+1094
+00:48:34,330 --> 00:48:36,690
+Undersecretary Sulaika T. Lopez: OVP charter. And we are very
+
+1095
+00:48:36,690 --> 00:48:38,490
+Undersecretary Sulaika T. Lopez: lucky that through representative
+
+1096
+00:48:38,490 --> 00:48:40,830
+Undersecretary Sulaika T. Lopez: and former president and vice president
+
+1097
+00:48:40,830 --> 00:48:42,750
+Undersecretary Sulaika T. Lopez: Gloria Macapagal-Arroyo, she has
+
+1098
+00:48:42,750 --> 00:48:44,330
+Undersecretary Sulaika T. Lopez: filed House Bill
+
+1099
+00:48:44,330 --> 00:48:46,950
+Undersecretary Sulaika T. Lopez: number 4215.
+
+1100
+00:48:47,330 --> 00:48:48,690
+Undersecretary Sulaika T. Lopez: It is actually entitled
+
+1101
+00:48:48,690 --> 00:48:50,550
+Undersecretary Sulaika T. Lopez: an act providing for the
+
+1102
+00:48:50,550 --> 00:48:52,490
+Undersecretary Sulaika T. Lopez: charter of the office of the vice president
+
+1103
+00:48:52,490 --> 00:48:54,190
+Undersecretary Sulaika T. Lopez: of the Republic of the Philippines,
+
+1104
+00:48:54,650 --> 00:48:56,410
+Undersecretary Sulaika T. Lopez: defining its powers and functions
+
+1105
+00:48:56,410 --> 00:48:58,230
+Undersecretary Sulaika T. Lopez: and appropriating funds therefore.
+
+1106
+00:48:58,790 --> 00:49:00,830
+Undersecretary Sulaika T. Lopez: And for other purposes, it is hoped,
+
+1107
+00:49:00,830 --> 00:49:02,210
+Undersecretary Sulaika T. Lopez: Your Honor, that this
+
+1108
+00:49:02,210 --> 00:49:05,090
+Undersecretary Sulaika T. Lopez: bill or this form of legislation will be
+
+1109
+00:49:05,090 --> 00:49:07,210
+Undersecretary Sulaika T. Lopez: able to empower
+
+1110
+00:49:07,210 --> 00:49:09,010
+Undersecretary Sulaika T. Lopez: future vice presidents
+
+1111
+00:49:09,010 --> 00:49:11,210
+Undersecretary Sulaika T. Lopez: to be able to lead the office
+
+1112
+00:49:11,210 --> 00:49:12,790
+Undersecretary Sulaika T. Lopez: with the programs
+
+1113
+00:49:12,790 --> 00:49:14,310
+Undersecretary Sulaika T. Lopez: that are institutionalized.
+
+1114
+00:49:14,690 --> 00:49:16,630
+Undersecretary Sulaika T. Lopez: So, it will not be, well,
+
+1115
+00:49:16,770 --> 00:49:18,410
+Undersecretary Sulaika T. Lopez: in a way, as what was mentioned
+
+1116
+00:49:18,410 --> 00:49:20,430
+Undersecretary Sulaika T. Lopez: kanina ni Representative Tino,
+
+1117
+00:49:20,770 --> 00:49:22,510
+Undersecretary Sulaika T. Lopez: na depende na lang sa programa
+
+1118
+00:49:22,510 --> 00:49:25,030
+Undersecretary Sulaika T. Lopez: ng susunod na
+
+1119
+00:49:25,030 --> 00:49:26,910
+Undersecretary Sulaika T. Lopez: nakaupong vice president.
+
+1120
+00:49:27,130 --> 00:49:28,770
+Undersecretary Sulaika T. Lopez: So, that is really one of our,
+
+1121
+00:49:28,790 --> 00:49:30,530
+Undersecretary Sulaika T. Lopez: our programs, our
+
+1122
+00:49:30,530 --> 00:49:33,250
+Undersecretary Sulaika T. Lopez: institutional, ang direksyon
+
+1123
+00:49:33,250 --> 00:49:35,250
+Undersecretary Sulaika T. Lopez: nun. Parang institutionalizing
+
+1124
+00:49:35,250 --> 00:49:36,910
+Undersecretary Sulaika T. Lopez: the OVP. Yes, and the
+
+1125
+00:49:36,910 --> 00:49:37,670
+Undersecretary Sulaika T. Lopez: programs.
+
+1126
+00:49:39,250 --> 00:49:40,230
+Rep. Renee Louise M. Co: Pero for now po,
+
+1127
+00:49:40,850 --> 00:49:43,050
+Rep. Renee Louise M. Co: ayun nga po, dahil siguro may expectation na
+
+1128
+00:49:43,050 --> 00:49:45,410
+Rep. Renee Louise M. Co: pagtulong, pagbukas
+
+1129
+00:49:45,410 --> 00:49:46,890
+Rep. Renee Louise M. Co: din sa public opinion ng
+
+1130
+00:49:46,890 --> 00:49:49,130
+Rep. Renee Louise M. Co: policy direksyon ng bansa,
+
+1131
+00:49:49,530 --> 00:49:51,350
+Rep. Renee Louise M. Co: di ba, very highly contentious
+
+1132
+00:49:51,350 --> 00:49:52,950
+Rep. Renee Louise M. Co: everywhere, ito po yung
+
+1133
+00:49:52,950 --> 00:49:54,050
+Rep. Renee Louise M. Co: pinag-uusapan dito sa
+
+1134
+00:49:54,050 --> 00:49:57,410
+Rep. Renee Louise M. Co: budget deliberations as well.
+
+1135
+00:49:57,870 --> 00:49:58,610
+Rep. Renee Louise M. Co: Meron po bang,
+
+1136
+00:49:58,790 --> 00:50:01,070
+Rep. Renee Louise M. Co: staff, meron po bang
+
+1137
+00:50:01,070 --> 00:50:03,130
+Rep. Renee Louise M. Co: body sa loob
+
+1138
+00:50:03,130 --> 00:50:04,830
+Rep. Renee Louise M. Co: ng OVP that discusses
+
+1139
+00:50:04,830 --> 00:50:07,170
+Rep. Renee Louise M. Co: policy? Paano po ba nito nakakommunicate
+
+1140
+00:50:07,170 --> 00:50:09,050
+Rep. Renee Louise M. Co: sa publiko? Paano po ba ito nakakommunicate
+
+1141
+00:50:09,050 --> 00:50:10,050
+Rep. Renee Louise M. Co: sa iba't ibang ahensya?
+
+1142
+00:50:10,050 --> 00:50:12,290
+Undersecretary Sulaika T. Lopez: Okay. Balikan ko lang
+
+1143
+00:50:12,290 --> 00:50:13,910
+Undersecretary Sulaika T. Lopez: kanina yung creation ng OVP
+
+1144
+00:50:13,910 --> 00:50:15,610
+Undersecretary Sulaika T. Lopez: charter, no?
+
+1145
+00:50:15,850 --> 00:50:17,850
+Undersecretary Sulaika T. Lopez: There is a provision there that identifies
+
+1146
+00:50:17,850 --> 00:50:20,090
+Undersecretary Sulaika T. Lopez: a specific office for policy
+
+1147
+00:50:20,090 --> 00:50:21,810
+Undersecretary Sulaika T. Lopez: research. That's one.
+
+1148
+00:50:22,090 --> 00:50:23,950
+Undersecretary Sulaika T. Lopez: But right now, that is being handled by
+
+1149
+00:50:23,950 --> 00:50:25,890
+Undersecretary Sulaika T. Lopez: the office of Director Shine Fajarda.
+
+1150
+00:50:26,290 --> 00:50:28,170
+Undersecretary Sulaika T. Lopez: She handles the strategic management
+
+1151
+00:50:28,170 --> 00:50:28,750
+Undersecretary Sulaika T. Lopez: office.
+
+1152
+00:50:28,790 --> 00:50:30,530
+Undersecretary Sulaika T. Lopez: Ito yung coordination with various
+
+1153
+00:50:30,530 --> 00:50:32,710
+Undersecretary Sulaika T. Lopez: national government agencies and also
+
+1154
+00:50:32,710 --> 00:50:34,730
+Undersecretary Sulaika T. Lopez: with the private sector and how
+
+1155
+00:50:34,730 --> 00:50:36,590
+Undersecretary Sulaika T. Lopez: for opportunities that they can partner
+
+1156
+00:50:36,590 --> 00:50:38,410
+Undersecretary Sulaika T. Lopez: with the office of the Vice President
+
+1157
+00:50:38,410 --> 00:50:40,310
+Undersecretary Sulaika T. Lopez: and of course, help in
+
+1158
+00:50:40,310 --> 00:50:42,010
+Undersecretary Sulaika T. Lopez: delivering public service.
+
+1159
+00:50:42,090 --> 00:50:43,350
+Undersecretary Sulaika T. Lopez: Beling, kung?
+
+1160
+00:50:43,830 --> 00:50:46,370
+Rep. Renee Louise M. Co: To clarify, meron pong
+
+1161
+00:50:46,370 --> 00:50:48,150
+Rep. Renee Louise M. Co: at least point person
+
+1162
+00:50:48,150 --> 00:50:50,450
+Rep. Renee Louise M. Co: para sa pag-aasikaso ng
+
+1163
+00:50:50,450 --> 00:50:52,370
+Rep. Renee Louise M. Co: policy issues. Yes, that is correct.
+
+1164
+00:50:52,650 --> 00:50:54,590
+Rep. Renee Louise M. Co: Ito, bubukas ko po sa OVP
+
+1165
+00:50:54,590 --> 00:50:56,850
+Rep. Renee Louise M. Co: at binubukas din natin
+
+1166
+00:50:56,850 --> 00:50:58,430
+Rep. Renee Louise M. Co: sa iba't ibang ahensya na
+
+1167
+00:50:58,790 --> 00:50:59,870
+Rep. Renee Louise M. Co: alam po dito sa
+
+1168
+00:50:59,870 --> 00:51:02,330
+Rep. Renee Louise M. Co: budget deliberations ngayon,
+
+1169
+00:51:02,690 --> 00:51:04,530
+Rep. Renee Louise M. Co: yung isa sa mga pinakamalaking
+
+1170
+00:51:04,530 --> 00:51:06,130
+Rep. Renee Louise M. Co: policy pivots or even
+
+1171
+00:51:06,130 --> 00:51:08,550
+Rep. Renee Louise M. Co: commitments na ginagawa ng
+
+1172
+00:51:08,550 --> 00:51:10,590
+Rep. Renee Louise M. Co: bansa na ito at concern
+
+1173
+00:51:10,590 --> 00:51:12,290
+Rep. Renee Louise M. Co: ng kabataan ay yung Pax Silica.
+
+1174
+00:51:12,850 --> 00:51:14,410
+Rep. Renee Louise M. Co: So, ano po ba ang pagtingin ng
+
+1175
+00:51:14,410 --> 00:51:16,170
+Rep. Renee Louise M. Co: OVP sa Pax Silica?
+
+1176
+00:51:16,830 --> 00:51:18,470
+Rep. Renee Louise M. Co: Pax Silica? Meron po ba?
+
+1177
+00:51:18,550 --> 00:51:20,470
+Rep. Renee Louise M. Co: Meron po ba siyang policy research na ginawa?
+
+1178
+00:51:20,710 --> 00:51:21,730
+Rep. Renee Louise M. Co: It's not part of your budget.
+
+1179
+00:51:22,170 --> 00:51:24,070
+Undersecretary Sulaika T. Lopez: Sir, we are authorized to answer
+
+1180
+00:51:24,070 --> 00:51:26,710
+Undersecretary Sulaika T. Lopez: only those questions related
+
+1181
+00:51:26,710 --> 00:51:28,530
+Undersecretary Sulaika T. Lopez: to the 2027 proposed budget.
+
+1182
+00:51:28,790 --> 00:51:31,410
+Undersecretary Sulaika T. Lopez: If you want, I can answer for them.
+
+1183
+00:51:31,750 --> 00:51:33,130
+Undersecretary Sulaika T. Lopez: Alam ko na yung stance ni Chair
+
+1184
+00:51:33,130 --> 00:51:34,030
+Rep. Renee Louise M. Co: tungkol sa Pax Silica.
+
+1185
+00:51:34,050 --> 00:51:35,390
+Rep. Renee Louise M. Co: I am pro Pax Silica.
+
+1186
+00:51:35,610 --> 00:51:37,530
+Rep. Renee Louise M. Co: Matagal na kami nag-uusap kami ni Chair.
+
+1187
+00:51:37,750 --> 00:51:40,610
+Rep. Renee Louise M. Co: Pero tinatanong po natin dahil VP Sara Duterte
+
+1188
+00:51:40,610 --> 00:51:42,310
+Rep. Renee Louise M. Co: was asked this question
+
+1189
+00:51:42,310 --> 00:51:44,430
+Rep. Renee Louise M. Co: and at least noong
+
+1190
+00:51:44,430 --> 00:51:46,570
+Rep. Renee Louise M. Co: binigay yun ay hindi po
+
+1191
+00:51:46,570 --> 00:51:49,210
+Rep. Renee Louise M. Co: essentially nakapagbigay ng pananaw
+
+1192
+00:51:49,210 --> 00:51:50,450
+Rep. Renee Louise M. Co: si VP Sara Duterte.
+
+1193
+00:51:50,890 --> 00:51:52,510
+Rep. Renee Louise M. Co: And usap-usapin yung Pax Silica
+
+1194
+00:51:52,510 --> 00:51:54,590
+Rep. Renee Louise M. Co: ng kabataan, ng iba't ibang ahensya.
+
+1195
+00:51:54,810 --> 00:51:56,450
+Rep. Renee Louise M. Co: We've been asking different agencies.
+
+1196
+00:51:56,450 --> 00:51:58,590
+Rep. Renee Louise M. Co: We have asked the Department of Agriculture,
+
+1197
+00:51:58,790 --> 00:52:01,290
+Rep. Renee Louise M. Co: the DTI, the DENR.
+
+1198
+00:52:01,370 --> 00:52:02,330
+Rep. Renee Louise M. Co: Not daw sila.
+
+1199
+00:52:02,590 --> 00:52:04,870
+Rep. Renee Louise M. Co: Hindi pa alam kung saan papunta to
+
+1200
+00:52:04,870 --> 00:52:06,810
+Rep. Renee Louise M. Co: dahil hindi pa complete yung research nila.
+
+1201
+00:52:07,010 --> 00:52:08,790
+Rep. Renee Louise M. Co: So given na may policy coordinator
+
+1202
+00:52:09,370 --> 00:52:10,330
+Rep. Renee Louise M. Co: po ang OVP,
+
+1203
+00:52:10,810 --> 00:52:12,710
+Rep. Renee Louise M. Co: meron na po bang initial
+
+1204
+00:52:12,710 --> 00:52:14,830
+Rep. Renee Louise M. Co: na steps ang OVP para
+
+1205
+00:52:14,830 --> 00:52:16,450
+Rep. Renee Louise M. Co: i-research yung Pax Silica
+
+1206
+00:52:16,450 --> 00:52:18,770
+Rep. Renee Louise M. Co: and then maglabas ng pananaw policy-wise po
+
+1207
+00:52:18,770 --> 00:52:19,090
+Rep. Renee Louise M. Co: sa publiko?
+
+1208
+00:52:19,090 --> 00:52:20,230
+Rep. Renee Louise M. Co: That's a reasonable question.
+
+1209
+00:52:21,030 --> 00:52:22,770
+Undersecretary Sulaika T. Lopez: Actually, just to mention, ma'am,
+
+1210
+00:52:22,870 --> 00:52:24,350
+Undersecretary Sulaika T. Lopez: there are some
+
+1211
+00:52:24,350 --> 00:52:27,210
+Undersecretary Sulaika T. Lopez: legislators who asked comments
+
+1212
+00:52:27,210 --> 00:52:28,650
+Undersecretary Sulaika T. Lopez: of the Office of the Vice President.
+
+1213
+00:52:28,790 --> 00:52:30,710
+Undersecretary Sulaika T. Lopez: Especially on certain
+
+1214
+00:52:30,710 --> 00:52:32,870
+Undersecretary Sulaika T. Lopez: proposed legislation. And this is handled
+
+1215
+00:52:32,870 --> 00:52:34,870
+Undersecretary Sulaika T. Lopez: by the Office of the Strategic
+
+1216
+00:52:34,870 --> 00:52:36,970
+Undersecretary Sulaika T. Lopez: Management Office. I think one of
+
+1217
+00:52:36,970 --> 00:52:37,850
+Undersecretary Sulaika T. Lopez: those is also
+
+1218
+00:52:37,850 --> 00:52:40,990
+Undersecretary Sulaika T. Lopez: the issue on, or the concerns
+
+1219
+00:52:40,990 --> 00:52:43,010
+Undersecretary Sulaika T. Lopez: on Pax Silica. Because we have also
+
+1220
+00:52:43,010 --> 00:52:43,830
+Undersecretary Sulaika T. Lopez: been
+
+1221
+00:52:43,830 --> 00:52:46,830
+Undersecretary Sulaika T. Lopez: in receipt of some letters
+
+1222
+00:52:46,830 --> 00:52:48,930
+Undersecretary Sulaika T. Lopez: stating their positions
+
+1223
+00:52:48,930 --> 00:52:50,930
+Undersecretary Sulaika T. Lopez: on the Pax Silica.
+
+1224
+00:52:51,430 --> 00:52:52,710
+Undersecretary Sulaika T. Lopez: So for now, may
+
+1225
+00:52:52,710 --> 00:52:55,010
+Undersecretary Sulaika T. Lopez: position na po ba ang OVP or si VP Sara
+
+1226
+00:52:55,010 --> 00:52:55,730
+Undersecretary Sulaika T. Lopez: on Pax Silica?
+
+1227
+00:52:55,730 --> 00:52:55,890
+Undersecretary Sulaika T. Lopez: Wala pa.
+
+1228
+00:52:56,850 --> 00:52:57,190
+Undersecretary Sulaika T. Lopez: No.
+
+1229
+00:52:58,790 --> 00:53:00,650
+Undersecretary Sulaika T. Lopez: I cannot comment on that, Your Honor, because
+
+1230
+00:53:00,650 --> 00:53:02,590
+Undersecretary Sulaika T. Lopez: we are just authorized to answer for the
+
+1231
+00:53:02,590 --> 00:53:04,550
+Undersecretary Sulaika T. Lopez: reasonable naman yung sagot.
+
+1232
+00:53:04,630 --> 00:53:05,590
+Undersecretary Sulaika T. Lopez: Reasonable naman yung question.
+
+1233
+00:53:05,590 --> 00:53:07,130
+Undersecretary Sulaika T. Lopez: We will note that question.
+
+1234
+00:53:08,070 --> 00:53:10,950
+Rep. Renee Louise M. Co: Baka po maari bago sumalang
+
+1235
+00:53:10,950 --> 00:53:12,410
+Rep. Renee Louise M. Co: sa plenary deliberations,
+
+1236
+00:53:12,610 --> 00:53:14,850
+Rep. Renee Louise M. Co: may initial pong maisumite
+
+1237
+00:53:14,850 --> 00:53:16,790
+Rep. Renee Louise M. Co: ang OVP na sa pagtingin niya
+
+1238
+00:53:16,790 --> 00:53:18,470
+Rep. Renee Louise M. Co: sa Pax Silica. Again, we've been asking
+
+1239
+00:53:18,470 --> 00:53:19,530
+Rep. Renee Louise M. Co: different agencies.
+
+1240
+00:53:20,290 --> 00:53:22,410
+Rep. Renee Louise M. Co: Hindi po promising na hindi po
+
+1241
+00:53:22,410 --> 00:53:24,550
+Rep. Renee Louise M. Co: nabibigyan ng pananaw tayo
+
+1242
+00:53:24,550 --> 00:53:26,510
+Rep. Renee Louise M. Co: kung anong epekto nito
+
+1243
+00:53:26,510 --> 00:53:28,230
+Rep. Renee Louise M. Co: sa ibang larangan ng ating
+
+1244
+00:53:28,230 --> 00:53:28,630
+Rep. Renee Louise M. Co: Pax Silica.
+
+1245
+00:53:28,790 --> 00:53:30,950
+Rep. Renee Louise M. Co: Lipunan, ng bayan,
+
+1246
+00:53:31,570 --> 00:53:33,250
+Rep. Renee Louise M. Co: given yung maraming considerations
+
+1247
+00:53:33,250 --> 00:53:35,310
+Rep. Renee Louise M. Co: ng kabataan. So, yun lang po
+
+1248
+00:53:35,310 --> 00:53:37,430
+Rep. Renee Louise M. Co: muna for now dahil wala pa pong
+
+1249
+00:53:37,430 --> 00:53:39,150
+Rep. Renee Louise M. Co: pananaw si VP Sara or ang OVP
+
+1250
+00:53:39,150 --> 00:53:41,430
+Rep. Renee Louise M. Co: on Pax Silica. We're hoping for
+
+1251
+00:53:41,430 --> 00:53:43,210
+Rep. Renee Louise M. Co: the same to be transmitted to this
+
+1252
+00:53:43,210 --> 00:53:44,890
+Deputy Speaker Jose C. Alvarez: representation. Thank you very much and
+
+1253
+00:53:44,890 --> 00:53:47,250
+Deputy Speaker Jose C. Alvarez: if there is, if the team
+
+1254
+00:53:47,250 --> 00:53:49,230
+Deputy Speaker Jose C. Alvarez: would like to reply, please send your
+
+1255
+00:53:49,230 --> 00:53:51,250
+Deputy Speaker Jose C. Alvarez: reply in writing to my committee.
+
+1256
+00:53:51,550 --> 00:53:51,890
+Deputy Speaker Jose C. Alvarez: Thank you.
+
+1257
+00:53:53,110 --> 00:53:55,250
+Deputy Speaker Jose C. Alvarez: Next on the list would be
+
+1258
+00:53:56,730 --> 00:53:57,250
+Deputy Speaker Jose C. Alvarez: our
+
+1259
+00:53:58,790 --> 00:54:00,970
+Deputy Speaker Jose C. Alvarez: esteemed colleague, Sara
+
+1260
+00:54:00,970 --> 00:54:01,330
+Deputy Speaker Jose C. Alvarez: Elago.
+
+1261
+00:54:02,630 --> 00:54:04,950
+Rep. Sarah Jane I. Elago: Maraming salamat, Mr. Chair. Nais ko pong
+
+1262
+00:54:04,950 --> 00:54:07,090
+Rep. Sarah Jane I. Elago: magsimula sa isang maikling manifestasyon
+
+1263
+00:54:07,090 --> 00:54:08,970
+Rep. Sarah Jane I. Elago: tungkol sa matter ng parliamentary
+
+1264
+00:54:08,970 --> 00:54:11,510
+Rep. Sarah Jane I. Elago: courtesy. Isa rin ho
+
+1265
+00:54:11,510 --> 00:54:12,950
+Rep. Sarah Jane I. Elago: ang representasyon na ito mula sa
+
+1266
+00:54:12,950 --> 00:54:15,170
+Rep. Sarah Jane I. Elago: kababaihan na naninindigan na dapat
+
+1267
+00:54:15,170 --> 00:54:17,150
+Rep. Sarah Jane I. Elago: nang tanggalin ang parliamentary courtesy
+
+1268
+00:54:17,150 --> 00:54:19,030
+Rep. Sarah Jane I. Elago: lalong-lalo na ho pagdating sa
+
+1269
+00:54:19,030 --> 00:54:20,890
+Rep. Sarah Jane I. Elago: budget deliberations ng mga
+
+1270
+00:54:20,890 --> 00:54:22,950
+Rep. Sarah Jane I. Elago: nasa pinakamatataas na posisyon
+
+1271
+00:54:22,950 --> 00:54:24,910
+Rep. Sarah Jane I. Elago: sa ating bayan. Wala ho yan
+
+1272
+00:54:24,910 --> 00:54:27,030
+Rep. Sarah Jane I. Elago: sa laki o liit ng pondo
+
+1273
+00:54:27,030 --> 00:54:27,970
+Rep. Sarah Jane I. Elago: dahil
+
+1274
+00:54:28,790 --> 00:54:30,650
+Rep. Sarah Jane I. Elago: kailangan natin atiyakin
+
+1275
+00:54:30,650 --> 00:54:32,990
+Rep. Sarah Jane I. Elago: na ang lahat, ang kongresong ito
+
+1276
+00:54:32,990 --> 00:54:35,330
+Rep. Sarah Jane I. Elago: ay gumagampan sa kanyang obligasyon
+
+1277
+00:54:35,330 --> 00:54:36,850
+Rep. Sarah Jane I. Elago: na matiyak na
+
+1278
+00:54:36,850 --> 00:54:38,630
+Rep. Sarah Jane I. Elago: ang bawat budget proposal
+
+1279
+00:54:38,630 --> 00:54:40,410
+Rep. Sarah Jane I. Elago: ay dumadaan sa
+
+1280
+00:54:40,410 --> 00:54:43,270
+Rep. Sarah Jane I. Elago: mabusisi na pagsisiyasat
+
+1281
+00:54:43,270 --> 00:54:44,890
+Rep. Sarah Jane I. Elago: ng makabuluhan
+
+1282
+00:54:44,890 --> 00:54:46,730
+Rep. Sarah Jane I. Elago: na layunin na kung para
+
+1283
+00:54:46,730 --> 00:54:48,750
+Rep. Sarah Jane I. Elago: saan ba ang bawat programa,
+
+1284
+00:54:49,010 --> 00:54:51,070
+Rep. Sarah Jane I. Elago: ang bawat aktividad, bawat proyekto
+
+1285
+00:54:51,070 --> 00:54:52,970
+Rep. Sarah Jane I. Elago: at pagtitiyak na ang bawat
+
+1286
+00:54:52,970 --> 00:54:54,910
+Rep. Sarah Jane I. Elago: piso ay nagagamit para
+
+1287
+00:54:54,910 --> 00:54:57,070
+Rep. Sarah Jane I. Elago: sa interes ng mamamayang
+
+1288
+00:54:57,070 --> 00:54:58,670
+Rep. Sarah Jane I. Elago: Pilipino at ng ating bansang
+
+1289
+00:54:58,670 --> 00:55:00,370
+Rep. Sarah Jane I. Elago: Pilipinas. Ngayon,
+
+1290
+00:55:00,550 --> 00:55:02,810
+Rep. Sarah Jane I. Elago: nais kong magsimula
+
+1291
+00:55:02,810 --> 00:55:04,510
+Rep. Sarah Jane I. Elago: doon sa ating programa
+
+1292
+00:55:04,510 --> 00:55:06,990
+Rep. Sarah Jane I. Elago: na magnegosyo para sa mga
+
+1293
+00:55:06,990 --> 00:55:09,130
+Rep. Sarah Jane I. Elago: individuals, para sa mga CSOs.
+
+1294
+00:55:09,570 --> 00:55:11,130
+Rep. Sarah Jane I. Elago: Ito ho bang mga beneficiarys?
+
+1295
+00:55:11,790 --> 00:55:12,750
+Rep. Sarah Jane I. Elago: Yung beneficiaries
+
+1296
+00:55:12,750 --> 00:55:14,470
+Rep. Sarah Jane I. Elago: natin mula 2023
+
+1297
+00:55:14,470 --> 00:55:16,870
+Rep. Sarah Jane I. Elago: ay umabot ho
+
+1298
+00:55:16,870 --> 00:55:18,390
+Rep. Sarah Jane I. Elago: halos 10,000
+
+1299
+00:55:18,390 --> 00:55:20,910
+Rep. Sarah Jane I. Elago: at sa actual po,
+
+1300
+00:55:21,150 --> 00:55:22,630
+Rep. Sarah Jane I. Elago: kung isasama natin yung mga
+
+1301
+00:55:22,630 --> 00:55:24,150
+Rep. Sarah Jane I. Elago: individuals, mas marami pa.
+
+1302
+00:55:24,610 --> 00:55:26,790
+Rep. Sarah Jane I. Elago: Ang mga natatanggap po ba per beneficiary
+
+1303
+00:55:26,790 --> 00:55:27,850
+Rep. Sarah Jane I. Elago: ay pare-pareho?
+
+1304
+00:55:28,670 --> 00:55:30,670
+Rep. Sarah Jane I. Elago: O depende ho yan sa kanilang mga
+
+1305
+00:55:30,670 --> 00:55:31,170
+Rep. Sarah Jane I. Elago: proposals?
+
+1306
+00:55:32,130 --> 00:55:35,250
+Director Norman Valora: Director for Operations, Director Valora, will answer this.
+
+1307
+00:55:35,290 --> 00:55:37,070
+Director Norman Valora: Okay, Director Norman, ito ba ka?
+
+1308
+00:55:37,730 --> 00:55:38,930
+Director Norman Valora: Thank you. Madam Chair,
+
+1309
+00:55:39,310 --> 00:55:41,090
+Director Norman Valora: we have two categories in terms
+
+1310
+00:55:41,090 --> 00:55:42,650
+Director Norman Valora: of the eligibility
+
+1311
+00:55:42,650 --> 00:55:45,150
+Director Norman Valora: of our magnegosyo
+
+1312
+00:55:45,150 --> 00:55:47,110
+Director Norman Valora: today based on the manual operations.
+
+1313
+00:55:47,470 --> 00:55:48,790
+Director Norman Valora: One, we have this individual
+
+1314
+00:55:48,790 --> 00:55:50,130
+Director Norman Valora: where we can,
+
+1315
+00:55:50,610 --> 00:55:52,810
+Director Norman Valora: the grantee or the recipient
+
+1316
+00:55:52,810 --> 00:55:55,010
+Director Norman Valora: can receive 15,000 pesos.
+
+1317
+00:55:55,550 --> 00:55:56,850
+Director Norman Valora: So lahat po sila, Your Honor,
+
+1318
+00:55:57,050 --> 00:55:58,550
+Director Norman Valora: regardless of their kind,
+
+1319
+00:55:58,670 --> 00:56:00,390
+Director Norman Valora: of business that they are
+
+1320
+00:56:00,390 --> 00:56:02,370
+Director Norman Valora: proposing to the Office of the...
+
+1321
+00:56:02,370 --> 00:56:04,170
+Director Norman Valora: Regardless of section, kasi day,
+
+1322
+00:56:04,890 --> 00:56:06,670
+Director Norman Valora: magnegosyo tayo, mayroon magbabae
+
+1323
+00:56:06,670 --> 00:56:07,530
+Director Norman Valora: ito na ninyong gusto.
+
+1324
+00:56:08,030 --> 00:56:10,210
+Director Norman Valora: All walks of life po, and all genders.
+
+1325
+00:56:10,250 --> 00:56:12,270
+Director Norman Valora: Karamihan babae. Meron din pong lalaki.
+
+1326
+00:56:12,490 --> 00:56:13,170
+Director Norman Valora: Eh bakit day?
+
+1327
+00:56:14,350 --> 00:56:15,910
+Director Norman Valora: Day at saka dong, sana yan.
+
+1328
+00:56:16,450 --> 00:56:17,850
+Director Norman Valora: Sige. Your Honor, is an...
+
+1329
+00:56:17,850 --> 00:56:19,690
+Director Norman Valora: To answer also,
+
+1330
+00:56:20,190 --> 00:56:21,170
+Director Norman Valora: Mr. Chair,
+
+1331
+00:56:22,090 --> 00:56:24,150
+Director Norman Valora: Your Honor, is a second, is we have
+
+1332
+00:56:24,150 --> 00:56:26,570
+Director Norman Valora: the CSO, or the Civil Society Organization.
+
+1333
+00:56:27,250 --> 00:56:28,170
+Director Norman Valora: We are granted
+
+1334
+00:56:28,670 --> 00:56:30,910
+Director Norman Valora: around 150,000 pesos.
+
+1335
+00:56:31,490 --> 00:56:32,730
+Director Norman Valora: Also based on the
+
+1336
+00:56:32,730 --> 00:56:34,110
+Director Norman Valora: feasibility study that they're doing.
+
+1337
+00:56:34,250 --> 00:56:36,730
+Director Norman Valora: But that's really, lahat po sila
+
+1338
+00:56:36,730 --> 00:56:38,210
+Director Norman Valora: ay 150,000.
+
+1339
+00:56:38,570 --> 00:56:39,730
+Director Norman Valora: So with that, Your Honor,
+
+1340
+00:56:40,250 --> 00:56:42,570
+Director Norman Valora: in the Civil Society Organization,
+
+1341
+00:56:42,970 --> 00:56:43,990
+Director Norman Valora: they're also undergoing
+
+1342
+00:56:43,990 --> 00:56:46,910
+Director Norman Valora: accreditation
+
+1343
+00:56:46,910 --> 00:56:48,710
+Director Norman Valora: of the Office of the Vice President
+
+1344
+00:56:48,710 --> 00:56:50,950
+Director Norman Valora: just to ensure that they have this authority
+
+1345
+00:56:50,950 --> 00:56:52,530
+Director Norman Valora: and the legitimacy
+
+1346
+00:56:52,530 --> 00:56:54,390
+Director Norman Valora: as a Civil Society Organization.
+
+1347
+00:56:55,130 --> 00:56:56,930
+Director Norman Valora: So with that, Your Honor, in the group,
+
+1348
+00:56:56,930 --> 00:56:58,650
+Director Norman Valora: they should be around,
+
+1349
+00:56:58,670 --> 00:57:00,930
+Director Norman Valora: 20 to 25 as a minimum
+
+1350
+00:57:00,930 --> 00:57:02,430
+Director Norman Valora: number of
+
+1351
+00:57:02,430 --> 00:57:04,610
+Director Norman Valora: clients or members. So that's the reason,
+
+1352
+00:57:04,770 --> 00:57:06,710
+Director Norman Valora: Your Honor, if you can see, in the 2023,
+
+1353
+00:57:07,190 --> 00:57:08,330
+Director Norman Valora: marami po ang mga
+
+1354
+00:57:08,330 --> 00:57:09,810
+Director Norman Valora: clients, but
+
+1355
+00:57:09,810 --> 00:57:12,690
+Director Norman Valora: sinasali po namin yung mga participating
+
+1356
+00:57:12,690 --> 00:57:14,450
+Director Norman Valora: members ng bawat grupo.
+
+1357
+00:57:14,770 --> 00:57:16,690
+Director Norman Valora: That's the reason why there's a number.
+
+1358
+00:57:17,130 --> 00:57:18,510
+Director Norman Valora: But in the individuals, Your Honor,
+
+1359
+00:57:18,610 --> 00:57:20,630
+Director Norman Valora: they are receiving 15,000 pesos
+
+1360
+00:57:20,630 --> 00:57:21,150
+Director Norman Valora: each.
+
+1361
+00:57:22,570 --> 00:57:24,710
+Rep. Sarah Jane I. Elago: May we know, Mr. Chair, what is the
+
+1362
+00:57:24,710 --> 00:57:26,730
+Rep. Sarah Jane I. Elago: measurable outcome of
+
+1363
+00:57:26,730 --> 00:57:28,650
+Rep. Sarah Jane I. Elago: this program? How many of you?
+
+1364
+00:57:28,650 --> 00:57:30,530
+Rep. Sarah Jane I. Elago: How many of the beneficiaries have actually
+
+1365
+00:57:30,530 --> 00:57:32,630
+Rep. Sarah Jane I. Elago: been able to grow or
+
+1366
+00:57:32,630 --> 00:57:34,810
+Rep. Sarah Jane I. Elago: sustain their enterprises?
+
+1367
+00:57:36,170 --> 00:57:37,050
+Director Norman Valora: Thank you.
+
+1368
+00:57:37,550 --> 00:57:38,910
+Director Norman Valora: Madam Chair, with regard
+
+1369
+00:57:38,910 --> 00:57:40,690
+Director Norman Valora: to the success
+
+1370
+00:57:40,690 --> 00:57:42,650
+Director Norman Valora: indicators,
+
+1371
+00:57:44,410 --> 00:57:44,690
+Director Norman Valora: we are
+
+1372
+00:57:44,690 --> 00:57:46,730
+Director Norman Valora: that the OVP has its way
+
+1373
+00:57:46,730 --> 00:57:48,270
+Director Norman Valora: of how to ensure
+
+1374
+00:57:48,270 --> 00:57:50,450
+Director Norman Valora: to monitor. Kasi po,
+
+1375
+00:57:50,630 --> 00:57:52,690
+Director Norman Valora: after ng grant, after 90
+
+1376
+00:57:52,690 --> 00:57:54,690
+Director Norman Valora: days, we're also doing the monitoring.
+
+1377
+00:57:55,330 --> 00:57:56,910
+Director Norman Valora: So honestly, hindi naman po talaga
+
+1378
+00:57:56,910 --> 00:57:58,630
+Director Norman Valora: perfect. Hindi naman po lahat.
+
+1379
+00:57:58,650 --> 00:58:00,630
+Director Norman Valora: Naging successful. But what we are
+
+1380
+00:58:00,630 --> 00:58:02,090
+Director Norman Valora: doing is we're doing the
+
+1381
+00:58:02,090 --> 00:58:04,110
+Director Norman Valora: to ensure that there is a
+
+1382
+00:58:04,110 --> 00:58:06,610
+Director Norman Valora: to sustain the program that
+
+1383
+00:58:06,610 --> 00:58:08,450
+Director Norman Valora: we are giving. Minsan po,
+
+1384
+00:58:08,530 --> 00:58:10,310
+Director Norman Valora: nai-refer din po namin sila sa
+
+1385
+00:58:10,310 --> 00:58:12,650
+Director Norman Valora: appropriate agencies. But in the aspect of
+
+1386
+00:58:12,650 --> 00:58:14,790
+Director Norman Valora: the OVP, ang ginagawa po namin,
+
+1387
+00:58:14,910 --> 00:58:16,430
+Director Norman Valora: Your Honor, is nagkakaroon po,
+
+1388
+00:58:16,550 --> 00:58:18,090
+Director Norman Valora: kami were conducting monitoring
+
+1389
+00:58:18,090 --> 00:58:20,650
+Director Norman Valora: 90 days after the
+
+1390
+00:58:20,650 --> 00:58:22,650
+Director Norman Valora: grant ng individuals po,
+
+1391
+00:58:22,710 --> 00:58:23,090
+Director Norman Valora: Your Honor.
+
+1392
+00:58:24,630 --> 00:58:26,530
+Rep. Sarah Jane I. Elago: May we get the numbers, Mr.
+
+1393
+00:58:26,530 --> 00:58:28,370
+Rep. Sarah Jane I. Elago: Chair, from the years,
+
+1394
+00:58:28,650 --> 00:58:30,830
+Rep. Sarah Jane I. Elago: 2023. It's good that there is active
+
+1395
+00:58:30,830 --> 00:58:32,850
+Rep. Sarah Jane I. Elago: monitoring. Because we need to
+
+1396
+00:58:32,850 --> 00:58:34,830
+Rep. Sarah Jane I. Elago: ensure that all
+
+1397
+00:58:34,830 --> 00:58:36,650
+Rep. Sarah Jane I. Elago: these assistance
+
+1398
+00:58:36,650 --> 00:58:38,910
+Rep. Sarah Jane I. Elago: are translated to
+
+1399
+00:58:38,910 --> 00:58:40,950
+Rep. Sarah Jane I. Elago: measurable
+
+1400
+00:58:40,950 --> 00:58:42,430
+Rep. Sarah Jane I. Elago: outcomes that
+
+1401
+00:58:42,430 --> 00:58:44,090
+Rep. Sarah Jane I. Elago: could really help uplift
+
+1402
+00:58:44,090 --> 00:58:46,930
+Rep. Sarah Jane I. Elago: not just the individual
+
+1403
+00:58:46,930 --> 00:58:48,730
+Rep. Sarah Jane I. Elago: but the CSOs
+
+1404
+00:58:48,730 --> 00:58:50,610
+Rep. Sarah Jane I. Elago: standing
+
+1405
+00:58:50,610 --> 00:58:52,690
+Rep. Sarah Jane I. Elago: in terms of what they
+
+1406
+00:58:52,690 --> 00:58:54,710
+Rep. Sarah Jane I. Elago: need to ensure that they are able
+
+1407
+00:58:54,710 --> 00:58:56,810
+Rep. Sarah Jane I. Elago: to sustain these enterprises.
+
+1408
+00:58:57,330 --> 00:58:58,330
+Rep. Sarah Jane I. Elago: Napakahalagan yan
+
+1409
+00:58:58,650 --> 00:59:00,490
+Rep. Sarah Jane I. Elago: Mr. Chair, kasi sa bawat
+
+1410
+00:59:00,490 --> 00:59:01,190
+Rep. Sarah Jane I. Elago: kabuhayan,
+
+1411
+00:59:01,790 --> 00:59:03,930
+Rep. Sarah Jane I. Elago: hindi lang po
+
+1412
+00:59:03,930 --> 00:59:06,430
+Rep. Sarah Jane I. Elago: isang tao ang nakikinabang, diba?
+
+1413
+00:59:06,810 --> 00:59:08,590
+Rep. Sarah Jane I. Elago: Ang kanilang mga pamilya, yung kanilang mga
+
+1414
+00:59:08,590 --> 00:59:10,790
+Rep. Sarah Jane I. Elago: komunidad. Kaya kailangan natin tiyakin
+
+1415
+00:59:10,790 --> 00:59:11,550
+Rep. Sarah Jane I. Elago: na
+
+1416
+00:59:11,550 --> 00:59:14,470
+Rep. Sarah Jane I. Elago: pagdating sa mga kahalintulad
+
+1417
+00:59:14,470 --> 00:59:16,130
+Rep. Sarah Jane I. Elago: ng mga programa, halimbawa po,
+
+1418
+00:59:16,470 --> 00:59:18,130
+Rep. Sarah Jane I. Elago: ang DSWD meron din pong
+
+1419
+00:59:18,130 --> 00:59:20,730
+Rep. Sarah Jane I. Elago: sustainable livelihood program. Wala tayong
+
+1420
+00:59:20,730 --> 00:59:22,910
+Rep. Sarah Jane I. Elago: duplication at matitiyak natin
+
+1421
+00:59:22,910 --> 00:59:24,110
+Rep. Sarah Jane I. Elago: na ang
+
+1422
+00:59:24,110 --> 00:59:26,690
+Rep. Sarah Jane I. Elago: naibibigay po ng mga subsidiya
+
+1423
+00:59:26,690 --> 00:59:28,490
+Rep. Sarah Jane I. Elago: ay nagsisilbihan,
+
+1424
+00:59:28,650 --> 00:59:30,630
+Rep. Sarah Jane I. Elago: e para dun sa layunin, at hindi po
+
+1425
+00:59:30,630 --> 00:59:32,610
+Rep. Sarah Jane I. Elago: nawawaldas o nasasayang lamang.
+
+1426
+00:59:33,690 --> 00:59:34,650
+Director Norman Valora: Sige, Director.
+
+1427
+00:59:35,070 --> 00:59:35,670
+Director Norman Valora: Thank you, Your Honor.
+
+1428
+00:59:36,450 --> 00:59:38,230
+Director Norman Valora: Madam Chair, we will be providing
+
+1429
+00:59:38,230 --> 00:59:40,330
+Director Norman Valora: Madam Chair, not Mr. Chair.
+
+1430
+00:59:40,470 --> 00:59:41,830
+Director Norman Valora: Mr. Chair. Ikaw, ganoon.
+
+1431
+00:59:42,370 --> 00:59:44,150
+Director Norman Valora: Sorry, I apologize. Kusi-on daka.
+
+1432
+00:59:44,850 --> 00:59:46,730
+Director Norman Valora: Mr. Chair, we will be providing
+
+1433
+00:59:46,730 --> 00:59:48,350
+Director Norman Valora: you the list of our
+
+1434
+00:59:48,350 --> 00:59:50,430
+Director Norman Valora: clients served, beneficiaries
+
+1435
+00:59:50,430 --> 00:59:52,590
+Director Norman Valora: for the individuals in the group
+
+1436
+00:59:52,590 --> 00:59:54,110
+Director Norman Valora: also, Mr. Chair.
+
+1437
+00:59:54,830 --> 00:59:56,510
+Rep. Sarah Jane I. Elago: Okay. Binabanggit nyo ho kanina
+
+1438
+00:59:56,510 --> 00:59:58,270
+Rep. Sarah Jane I. Elago: na meron kayong manual of operations.
+
+1439
+00:59:58,650 --> 00:59:59,410
+Rep. Sarah Jane I. Elago: Kada programa.
+
+1440
+01:00:00,000 --> 01:00:02,500
+Rep. Sarah Jane I. Elago: maari pong masumite na lang sa ating
+
+1441
+01:00:02,500 --> 01:00:04,480
+Rep. Sarah Jane I. Elago: komite at makita natin
+
+1442
+01:00:04,480 --> 01:00:06,260
+Rep. Sarah Jane I. Elago: dito yung mga success indicators
+
+1443
+01:00:06,260 --> 01:00:08,700
+Rep. Sarah Jane I. Elago: at matiyak din po natin na
+
+1444
+01:00:08,700 --> 01:00:10,500
+Rep. Sarah Jane I. Elago: kung may mga natulungan, meron pang
+
+1445
+01:00:10,500 --> 01:00:11,900
+Rep. Sarah Jane I. Elago: matutulungan po na iba.
+
+1446
+01:00:12,100 --> 01:00:13,380
+Rep. Sarah Jane I. Elago: Pagdating po sa mga kabuhay.
+
+1447
+01:00:13,400 --> 01:00:14,900
+Rep. Sarah Jane I. Elago: You can submit to the committee.
+
+1448
+01:00:16,180 --> 01:00:18,640
+Rep. Sarah Jane I. Elago: Ngayon naman, Mr. Chair,
+
+1449
+01:00:19,140 --> 01:00:20,440
+Rep. Sarah Jane I. Elago: nabanggit din po kanina yung
+
+1450
+01:00:20,440 --> 01:00:22,740
+Rep. Sarah Jane I. Elago: tungkol sa You Can Be VP program
+
+1451
+01:00:22,740 --> 01:00:24,400
+Rep. Sarah Jane I. Elago: at hindi po ito yung unang
+
+1452
+01:00:24,400 --> 01:00:26,520
+Rep. Sarah Jane I. Elago: pagkakataon na nabusisi
+
+1453
+01:00:26,520 --> 01:00:28,240
+Rep. Sarah Jane I. Elago: ang programa na ito dahil nga
+
+1454
+01:00:28,240 --> 01:00:29,640
+Rep. Sarah Jane I. Elago: napakalaki po ng pondo.
+
+1455
+01:00:30,000 --> 01:00:32,280
+Rep. Sarah Jane I. Elago: Vis-a-vis dun sa
+
+1456
+01:00:32,280 --> 01:00:33,420
+Rep. Sarah Jane I. Elago: number of
+
+1457
+01:00:33,420 --> 01:00:36,640
+Rep. Sarah Jane I. Elago: beneficiary na nakalagay po
+
+1458
+01:00:36,640 --> 01:00:38,380
+Rep. Sarah Jane I. Elago: sa inyong report ay dalawa lamang.
+
+1459
+01:00:38,840 --> 01:00:40,680
+Rep. Sarah Jane I. Elago: So kung dalawa lang ang nakalagay dito
+
+1460
+01:00:40,680 --> 01:00:42,320
+Rep. Sarah Jane I. Elago: nasa half a million yan per
+
+1461
+01:00:42,320 --> 01:00:44,760
+Rep. Sarah Jane I. Elago: beneficiary. Pero nabanggit nyo kanina
+
+1462
+01:00:44,760 --> 01:00:46,480
+Rep. Sarah Jane I. Elago: na meron din kayong mga related
+
+1463
+01:00:46,480 --> 01:00:48,160
+Rep. Sarah Jane I. Elago: activities and projects.
+
+1464
+01:00:48,160 --> 01:00:48,840
+Rep. Sarah Jane I. Elago: Ilang dalawa yun?
+
+1465
+01:00:49,820 --> 01:00:52,280
+Rep. Sarah Jane I. Elago: Activities and projects nakaugnay nito.
+
+1466
+01:00:52,820 --> 01:00:55,020
+Rep. Sarah Jane I. Elago: Pwede po ba kayong magbahagi
+
+1467
+01:00:55,020 --> 01:00:56,860
+Rep. Sarah Jane I. Elago: sa ating komite?
+
+1468
+01:00:56,980 --> 01:00:58,860
+Rep. Sarah Jane I. Elago: Kung ano itong mga activities na ito?
+
+1469
+01:01:00,000 --> 01:01:01,700
+Director Norman Valora: Mr. Chair,
+
+1470
+01:01:01,840 --> 01:01:04,640
+Director Norman Valora: aside from we are conducting
+
+1471
+01:01:04,640 --> 01:01:06,160
+Director Norman Valora: a huddle meeting with them
+
+1472
+01:01:06,160 --> 01:01:08,320
+Director Norman Valora: just to ensure that
+
+1473
+01:01:08,320 --> 01:01:10,060
+Director Norman Valora: they are okay. So we have the
+
+1474
+01:01:10,060 --> 01:01:12,080
+Director Norman Valora: kumustahan that we are doing with our
+
+1475
+01:01:12,080 --> 01:01:14,140
+Director Norman Valora: program Focal. That's
+
+1476
+01:01:14,140 --> 01:01:15,960
+Director Norman Valora: monthly, Your Honor.
+
+1477
+01:01:16,680 --> 01:01:18,140
+Director Norman Valora: Minsan nagzo-zoom po kami.
+
+1478
+01:01:18,520 --> 01:01:20,340
+Director Norman Valora: And when there's a program, there's a
+
+1479
+01:01:20,340 --> 01:01:22,220
+Director Norman Valora: big event of the Office of the Vice President
+
+1480
+01:01:22,220 --> 01:01:23,580
+Director Norman Valora: like Pasidungog
+
+1481
+01:01:23,580 --> 01:01:26,140
+Director Norman Valora: and other related activities na
+
+1482
+01:01:26,140 --> 01:01:28,040
+Director Norman Valora: may showcase ang mga programa
+
+1483
+01:01:28,040 --> 01:01:29,920
+Director Norman Valora: ng OVP. Yung limang
+
+1484
+01:01:29,920 --> 01:01:31,620
+Director Norman Valora: bata na nakita po natin kanina
+
+1485
+01:01:31,620 --> 01:01:34,040
+Director Norman Valora: sa audiovisual presentation, sila po
+
+1486
+01:01:34,040 --> 01:01:35,620
+Director Norman Valora: yung mga five recipients
+
+1487
+01:01:35,620 --> 01:01:38,100
+Director Norman Valora: na pinapapunta po din namin
+
+1488
+01:01:38,100 --> 01:01:40,060
+Director Norman Valora: sa Manila. Kasi nanggaling po ito sila
+
+1489
+01:01:40,060 --> 01:01:41,420
+Director Norman Valora: sa iba't ibang probinsya.
+
+1490
+01:01:41,840 --> 01:01:43,840
+Director Norman Valora: So through that, Your Honor, through
+
+1491
+01:01:43,840 --> 01:01:46,220
+Director Norman Valora: the exposure na meron po
+
+1492
+01:01:46,220 --> 01:01:48,020
+Director Norman Valora: sila, like also mentoring
+
+1493
+01:01:48,020 --> 01:01:49,760
+Director Norman Valora: na ginagawa po namin. And this
+
+1494
+01:01:49,760 --> 01:01:51,920
+Director Norman Valora: year, Your Honor, we're going to conduct the
+
+1495
+01:01:51,920 --> 01:01:53,920
+Director Norman Valora: Junior Leadership Program per
+
+1496
+01:01:53,920 --> 01:01:56,100
+Director Norman Valora: cluster. So we will be doing that
+
+1497
+01:01:56,100 --> 01:01:58,160
+Director Norman Valora: for Luzon, Visayas, and Mindanao,
+
+1498
+01:01:58,220 --> 01:01:59,900
+Director Norman Valora: Your Honor. So ang ibig sabihin,
+
+1499
+01:01:59,920 --> 01:02:02,020
+Director Norman Valora: hindi po directly binibigay
+
+1500
+01:02:02,020 --> 01:02:03,780
+Director Norman Valora: po namin yung cash sa aming
+
+1501
+01:02:03,780 --> 01:02:06,340
+Director Norman Valora: mga recipients, but ginagamit
+
+1502
+01:02:06,340 --> 01:02:07,840
+Director Norman Valora: po namin yung pera para
+
+1503
+01:02:07,840 --> 01:02:09,600
+Director Norman Valora: sa mga activities, programs
+
+1504
+01:02:09,600 --> 01:02:11,760
+Director Norman Valora: related to You Can Be VP
+
+1505
+01:02:11,760 --> 01:02:13,240
+Director Norman Valora: program, Your Honor, Mr. Chair.
+
+1506
+01:02:13,820 --> 01:02:15,700
+Rep. Sarah Jane I. Elago: Malaking concern to Mr. Chair, kasi
+
+1507
+01:02:15,700 --> 01:02:18,180
+Rep. Sarah Jane I. Elago: halimbawa po, ang 1.1
+
+1508
+01:02:18,180 --> 01:02:20,300
+Rep. Sarah Jane I. Elago: million, pwede po yan makatulong
+
+1509
+01:02:20,300 --> 01:02:21,800
+Rep. Sarah Jane I. Elago: sa 100 na junior
+
+1510
+01:02:21,800 --> 01:02:23,320
+Rep. Sarah Jane I. Elago: high school students.
+
+1511
+01:02:23,600 --> 01:02:25,700
+Rep. Sarah Jane I. Elago: Kung itutumbas po natin yan
+
+1512
+01:02:25,700 --> 01:02:27,620
+Rep. Sarah Jane I. Elago: dun sa 11,000 pesos
+
+1513
+01:02:27,620 --> 01:02:29,600
+Rep. Sarah Jane I. Elago: na financial assistance
+
+1514
+01:02:29,920 --> 01:02:31,620
+Rep. Sarah Jane I. Elago: sa kanila. Ngayon, kung
+
+1515
+01:02:31,620 --> 01:02:33,120
+Rep. Sarah Jane I. Elago: hindi naman po
+
+1516
+01:02:33,120 --> 01:02:35,800
+Rep. Sarah Jane I. Elago: kinikwento ng numero
+
+1517
+01:02:35,800 --> 01:02:37,460
+Rep. Sarah Jane I. Elago: yung extent ng
+
+1518
+01:02:37,460 --> 01:02:39,600
+Rep. Sarah Jane I. Elago: servisyo o kaya naman yung
+
+1519
+01:02:39,600 --> 01:02:41,640
+Rep. Sarah Jane I. Elago: ginagawa sa ilalim ng programa, baka
+
+1520
+01:02:41,640 --> 01:02:43,580
+Rep. Sarah Jane I. Elago: panahon na po para baguhin itong mga
+
+1521
+01:02:43,580 --> 01:02:45,340
+Rep. Sarah Jane I. Elago: performance indicators na ito.
+
+1522
+01:02:45,840 --> 01:02:47,680
+Rep. Sarah Jane I. Elago: At nais po natin malaman at
+
+1523
+01:02:47,680 --> 01:02:49,720
+Rep. Sarah Jane I. Elago: masumite na lang sa committee, yung
+
+1524
+01:02:49,720 --> 01:02:52,200
+Rep. Sarah Jane I. Elago: detalye po ng mga activities
+
+1525
+01:02:52,200 --> 01:02:54,700
+Rep. Sarah Jane I. Elago: na kinuha po natin
+
+1526
+01:02:54,700 --> 01:02:56,280
+Rep. Sarah Jane I. Elago: ang pondo mula dito
+
+1527
+01:02:56,280 --> 01:02:58,200
+Rep. Sarah Jane I. Elago: sa You Can Be VP program.
+
+1528
+01:02:58,580 --> 01:02:59,780
+Rep. Sarah Jane I. Elago: Bukod po sa activities, yung
+
+1529
+01:02:59,780 --> 01:03:01,880
+Rep. Sarah Jane I. Elago: report din po ng number of participants,
+
+1530
+01:03:02,220 --> 01:03:03,800
+Rep. Sarah Jane I. Elago: sinasabi nyo, hindi lang naman ito
+
+1531
+01:03:03,800 --> 01:03:05,300
+Rep. Sarah Jane I. Elago: dalawa o lima, pero
+
+1532
+01:03:05,300 --> 01:03:07,680
+Rep. Sarah Jane I. Elago: mas marami pa pong mga nagiging
+
+1533
+01:03:07,680 --> 01:03:09,840
+Rep. Sarah Jane I. Elago: recipients. Ang ngayon naman,
+
+1534
+01:03:10,020 --> 01:03:11,620
+Rep. Sarah Jane I. Elago: Mr. Chair, nais ko rin magtanong
+
+1535
+01:03:11,620 --> 01:03:12,640
+Rep. Sarah Jane I. Elago: tungkol sa kanilang
+
+1536
+01:03:12,640 --> 01:03:15,220
+Rep. Sarah Jane I. Elago: plantilya positions.
+
+1537
+01:03:15,580 --> 01:03:17,440
+Rep. Sarah Jane I. Elago: You have a substantial proposal
+
+1538
+01:03:17,440 --> 01:03:19,260
+Rep. Sarah Jane I. Elago: for the next year at
+
+1539
+01:03:19,260 --> 01:03:21,720
+Rep. Sarah Jane I. Elago: 220.232
+
+1540
+01:03:21,720 --> 01:03:23,740
+Rep. Sarah Jane I. Elago: million pesos. How many
+
+1541
+01:03:23,740 --> 01:03:25,800
+Rep. Sarah Jane I. Elago: personnel does this support and what is
+
+1542
+01:03:25,800 --> 01:03:27,480
+Rep. Sarah Jane I. Elago: the current plantilya vis-a-vis
+
+1543
+01:03:27,480 --> 01:03:29,580
+Rep. Sarah Jane I. Elago: the number of permanent and contractual
+
+1544
+01:03:29,780 --> 01:03:31,980
+Rep. Sarah Jane I. Elago: employees and how much is actually
+
+1545
+01:03:31,980 --> 01:03:33,820
+Rep. Sarah Jane I. Elago: spent on salaries, allowances,
+
+1546
+01:03:33,960 --> 01:03:35,800
+Rep. Sarah Jane I. Elago: and other compensation versus
+
+1547
+01:03:35,800 --> 01:03:37,960
+Rep. Sarah Jane I. Elago: the services they actually
+
+1548
+01:03:37,960 --> 01:03:39,800
+Rep. Sarah Jane I. Elago: render? Thank you,
+
+1549
+01:03:39,900 --> 01:03:41,180
+Undersecretary Sulaika T. Lopez: Mr. Chair. For this,
+
+1550
+01:03:41,180 --> 01:03:43,680
+Undersecretary Sulaika T. Lopez: this will be answered by our
+
+1551
+01:03:43,680 --> 01:03:45,880
+Undersecretary Sulaika T. Lopez: Director for Admin and Financial Service,
+
+1552
+01:03:46,200 --> 01:03:47,780
+Undersecretary Sulaika T. Lopez: si Director Lynn. Go ahead, ma'am.
+
+1553
+01:03:48,860 --> 01:03:49,780
+Atty. Rosalynne L. Sanchez: Mr. Chair, may I be
+
+1554
+01:03:49,780 --> 01:03:51,120
+Atty. Rosalynne L. Sanchez: allowed to ask?
+
+1555
+01:03:51,760 --> 01:03:53,580
+Atty. Rosalynne L. Sanchez: Rosaline. Yes, Mr. Chair.
+
+1556
+01:03:53,600 --> 01:03:55,460
+Atty. Rosalynne L. Sanchez: Please, go ahead. Thank you, Mr. Chair.
+
+1557
+01:03:55,920 --> 01:03:57,400
+Atty. Rosalynne L. Sanchez: Mr. Chair, we have
+
+1558
+01:03:57,400 --> 01:03:59,140
+Atty. Rosalynne L. Sanchez: in our plantilya,
+
+1559
+01:03:59,780 --> 01:04:01,360
+Atty. Rosalynne L. Sanchez: 248 authorized
+
+1560
+01:04:01,360 --> 01:04:03,640
+Atty. Rosalynne L. Sanchez: positions. That includes
+
+1561
+01:04:03,640 --> 01:04:05,700
+Atty. Rosalynne L. Sanchez: both permanent and
+
+1562
+01:04:05,700 --> 01:04:07,160
+Atty. Rosalynne L. Sanchez: coterminous positions.
+
+1563
+01:04:08,340 --> 01:04:09,240
+Atty. Rosalynne L. Sanchez: To date, it is,
+
+1564
+01:04:09,620 --> 01:04:11,540
+Atty. Rosalynne L. Sanchez: we have 182
+
+1565
+01:04:11,540 --> 01:04:13,500
+Atty. Rosalynne L. Sanchez: actual employees for the
+
+1566
+01:04:13,500 --> 01:04:15,420
+Atty. Rosalynne L. Sanchez: 248 positions.
+
+1567
+01:04:16,100 --> 01:04:17,600
+Atty. Rosalynne L. Sanchez: In addition to that, we have
+
+1568
+01:04:17,600 --> 01:04:19,840
+Atty. Rosalynne L. Sanchez: 69 casual and
+
+1569
+01:04:19,840 --> 01:04:21,240
+Atty. Rosalynne L. Sanchez: contractual positions
+
+1570
+01:04:21,240 --> 01:04:23,960
+Atty. Rosalynne L. Sanchez: on top of the plantilya positions.
+
+1571
+01:04:24,660 --> 01:04:25,660
+Atty. Rosalynne L. Sanchez: And the total
+
+1572
+01:04:25,660 --> 01:04:27,240
+Atty. Rosalynne L. Sanchez: budget for
+
+1573
+01:04:27,240 --> 01:04:29,140
+Atty. Rosalynne L. Sanchez: personnel services,
+
+1574
+01:04:29,780 --> 01:04:31,880
+Atty. Rosalynne L. Sanchez: as presented earlier,
+
+1575
+01:04:32,260 --> 01:04:33,340
+Atty. Rosalynne L. Sanchez: is at
+
+1576
+01:04:33,340 --> 01:04:40,280
+Atty. Rosalynne L. Sanchez: 220 million pesos,
+
+1577
+01:04:40,520 --> 01:04:41,340
+Rep. Sarah Jane I. Elago: excluding our lift.
+
+1578
+01:04:42,840 --> 01:04:43,520
+Rep. Sarah Jane I. Elago: Maraming salamat.
+
+1579
+01:04:43,660 --> 01:04:46,000
+Rep. Sarah Jane I. Elago: For my last set of questions, Mr. Chair,
+
+1580
+01:04:46,580 --> 01:04:47,860
+Rep. Sarah Jane I. Elago: ang travel expenses,
+
+1581
+01:04:47,960 --> 01:04:49,720
+Rep. Sarah Jane I. Elago: 51 million pesos ang proposal
+
+1582
+01:04:49,720 --> 01:04:51,640
+Rep. Sarah Jane I. Elago: for the next year. Magkano na ako
+
+1583
+01:04:51,640 --> 01:04:53,700
+Rep. Sarah Jane I. Elago: ang nagastos for 2025 and
+
+1584
+01:04:53,700 --> 01:04:55,140
+Rep. Sarah Jane I. Elago: 2026 to date?
+
+1585
+01:04:59,520 --> 01:04:59,940
+Rep. Sarah Jane I. Elago: Thank you.
+
+1586
+01:05:00,740 --> 01:05:02,840
+Rep. Sarah Jane I. Elago: Dahil naubos na ang time ko, Mr. Chair.
+
+1587
+01:05:03,580 --> 01:05:04,860
+Rep. Sarah Jane I. Elago: Hintayin na lang po natin yung
+
+1588
+01:05:04,860 --> 01:05:06,960
+Rep. Sarah Jane I. Elago: sagot at gusto ko rin humalaman
+
+1589
+01:05:06,960 --> 01:05:08,480
+Rep. Sarah Jane I. Elago: kung magkano ho dito yung
+
+1590
+01:05:08,480 --> 01:05:10,140
+Rep. Sarah Jane I. Elago: nakalaan para sa
+
+1591
+01:05:10,140 --> 01:05:12,660
+Rep. Sarah Jane I. Elago: attendance sa mga ceremonial
+
+1592
+01:05:12,660 --> 01:05:13,880
+Rep. Sarah Jane I. Elago: at executive functions.
+
+1593
+01:05:14,760 --> 01:05:16,820
+Atty. Rosalynne L. Sanchez: Mr. Chair, the total budget
+
+1594
+01:05:16,820 --> 01:05:18,900
+Atty. Rosalynne L. Sanchez: for 2025
+
+1595
+01:05:18,900 --> 01:05:21,120
+Atty. Rosalynne L. Sanchez: is 56 million pesos.
+
+1596
+01:05:21,760 --> 01:05:23,140
+Atty. Rosalynne L. Sanchez: Out of that, we have
+
+1597
+01:05:23,140 --> 01:05:25,500
+Atty. Rosalynne L. Sanchez: spent 12.9
+
+1598
+01:05:25,500 --> 01:05:27,160
+Atty. Rosalynne L. Sanchez: million pesos for foreign
+
+1599
+01:05:27,160 --> 01:05:28,160
+Atty. Rosalynne L. Sanchez: travel and
+
+1600
+01:05:28,160 --> 01:05:31,240
+Atty. Rosalynne L. Sanchez: 32.5
+
+1601
+01:05:31,240 --> 01:05:33,380
+Atty. Rosalynne L. Sanchez: million pesos for local travel.
+
+1602
+01:05:34,380 --> 01:05:34,580
+Atty. Rosalynne L. Sanchez: All,
+
+1603
+01:05:34,860 --> 01:05:36,680
+Atty. Rosalynne L. Sanchez: the amounts mentioned earlier
+
+1604
+01:05:36,680 --> 01:05:38,460
+Atty. Rosalynne L. Sanchez: cover not the
+
+1605
+01:05:38,460 --> 01:05:40,820
+Atty. Rosalynne L. Sanchez: travel expenses of all
+
+1606
+01:05:40,820 --> 01:05:42,980
+Atty. Rosalynne L. Sanchez: OVP personnel, as well
+
+1607
+01:05:42,980 --> 01:05:44,940
+Atty. Rosalynne L. Sanchez: as some expenses of the
+
+1608
+01:05:44,940 --> 01:05:45,900
+Atty. Rosalynne L. Sanchez: security personnel.
+
+1609
+01:05:46,660 --> 01:05:49,020
+Atty. Rosalynne L. Sanchez: So, that's the same
+
+1610
+01:05:49,020 --> 01:05:50,600
+Atty. Rosalynne L. Sanchez: budget that we use for our
+
+1611
+01:05:50,600 --> 01:05:52,840
+Atty. Rosalynne L. Sanchez: engagement and to implement our programs.
+
+1612
+01:05:53,220 --> 01:05:54,300
+Atty. Rosalynne L. Sanchez: As mentioned earlier,
+
+1613
+01:05:54,840 --> 01:05:56,600
+Atty. Rosalynne L. Sanchez: we go to last mile schools,
+
+1614
+01:05:56,780 --> 01:05:58,340
+Atty. Rosalynne L. Sanchez: GIDA areas, so
+
+1615
+01:05:58,340 --> 01:06:00,680
+Atty. Rosalynne L. Sanchez: we incur substantial
+
+1616
+01:06:00,680 --> 01:06:02,760
+Atty. Rosalynne L. Sanchez: travel expenses to implement our
+
+1617
+01:06:02,760 --> 01:06:03,360
+Atty. Rosalynne L. Sanchez: programs.
+
+1618
+01:06:06,430 --> 01:06:07,730
+Rep. Sarah Jane I. Elago: Hintayin na lang natin yung detailyo nito,
+
+1619
+01:06:08,730 --> 01:06:11,530
+Rep. Sarah Jane I. Elago: Mr. Chair, from 2023 hanggang
+
+1620
+01:06:11,530 --> 01:06:13,750
+Rep. Sarah Jane I. Elago: sa proposal po natin for
+
+1621
+01:06:13,750 --> 01:06:15,270
+Rep. Sarah Jane I. Elago: 2027. Maraming salamat.
+
+1622
+01:06:15,390 --> 01:06:16,250
+Deputy Speaker Jose C. Alvarez: Thank you very much.
+
+1623
+01:06:16,250 --> 01:06:16,650
+Deputy Speaker Jose C. Alvarez: And
+
+1624
+01:06:16,650 --> 01:06:19,410
+Deputy Speaker Jose C. Alvarez: last on the list,
+
+1625
+01:06:19,770 --> 01:06:22,450
+Deputy Speaker Jose C. Alvarez: before we all go home,
+
+1626
+01:06:23,710 --> 01:06:24,150
+Deputy Speaker Jose C. Alvarez: Congressman
+
+1627
+01:06:24,150 --> 01:06:26,210
+Deputy Speaker Jose C. Alvarez: Negay Erize from the
+
+1628
+01:06:26,210 --> 01:06:27,490
+Deputy Speaker Jose C. Alvarez: Lone District of
+
+1629
+01:06:27,490 --> 01:06:31,260
+Undersecretary Sulaika T. Lopez: Good afternoon, sir.
+
+1630
+01:06:32,520 --> 01:06:33,160
+Deputy Speaker Jose C. Alvarez: Caloocan?
+
+1631
+01:06:33,920 --> 01:06:35,320
+Deputy Speaker Jose C. Alvarez: Lone District na yun?
+
+1632
+01:06:35,760 --> 01:06:38,420
+Deputy Speaker Jose C. Alvarez: Three districts. Anyway, the Chair,
+
+1633
+01:06:38,440 --> 01:06:40,420
+Deputy Speaker Jose C. Alvarez: I will request a five-minute
+
+1634
+01:06:40,420 --> 01:06:42,300
+Deputy Speaker Jose C. Alvarez: break, kung are si...
+
+1635
+01:06:42,300 --> 01:06:45,780
+Rep. Edgar R. Erice: Binitin ako.
+
+1636
+01:06:46,220 --> 01:06:47,140
+Rep. Edgar R. Erice: Binitin niyo ako.
+
+1637
+01:06:50,440 --> 01:06:51,720
+Rep. Edgar R. Erice: I need to go to the toilet.
+
+1638
+01:09:25,200 --> 01:09:27,460
+Rep. Edgar R. Erice: Thank you, Mr. Chair.
+
+1639
+01:09:27,460 --> 01:09:28,920
+Rep. Edgar R. Erice: Good afternoon to the Office
+
+1640
+01:09:28,920 --> 01:09:30,300
+Rep. Edgar R. Erice: of the Vice President and Family.
+
+1641
+01:09:30,780 --> 01:09:32,560
+Rep. Edgar R. Erice: Alam niyo po, hindi ko na kayo tatanungin sa budget,
+
+1642
+01:09:32,800 --> 01:09:35,040
+Rep. Edgar R. Erice: kasi pinag-aaralan ko yung mga budget
+
+1643
+01:09:35,040 --> 01:09:36,220
+Rep. Edgar R. Erice: ng Vice President.
+
+1644
+01:09:36,880 --> 01:09:37,840
+Rep. Edgar R. Erice: Ang panahon ni
+
+1645
+01:09:37,840 --> 01:09:40,880
+Rep. Edgar R. Erice: President Aquino, yung budget
+
+1646
+01:09:40,880 --> 01:09:42,800
+Rep. Edgar R. Erice: ni Vice President,
+
+1647
+01:09:43,000 --> 01:09:44,220
+Rep. Edgar R. Erice: Binay, ay
+
+1648
+01:09:44,220 --> 01:09:46,040
+Rep. Edgar R. Erice: 0.02%
+
+1649
+01:09:46,040 --> 01:09:47,380
+Rep. Edgar R. Erice: ng national budget.
+
+1650
+01:09:48,400 --> 01:09:50,140
+Rep. Edgar R. Erice: Nung panahon naman ni
+
+1651
+01:09:50,140 --> 01:09:51,360
+Rep. Edgar R. Erice: President Duterte,
+
+1652
+01:09:51,700 --> 01:09:53,960
+Rep. Edgar R. Erice: ganun din, 0.02%
+
+1653
+01:09:53,960 --> 01:09:54,980
+Rep. Edgar R. Erice: yung budget ni
+
+1654
+01:09:54,980 --> 01:09:57,680
+Rep. Edgar R. Erice: Vice President Lenny. Ngayon,
+
+1655
+01:09:57,820 --> 01:10:00,260
+Rep. Edgar R. Erice: 0.01%. Kaya hindi ko
+
+1656
+01:10:00,260 --> 01:10:02,340
+Rep. Edgar R. Erice: natatanungin. Wala nang tatanungin.
+
+1657
+01:10:02,620 --> 01:10:04,000
+Rep. Edgar R. Erice: Wala nang uusisain.
+
+1658
+01:10:04,460 --> 01:10:06,640
+Rep. Edgar R. Erice: At mukhang self-explanatory
+
+1659
+01:10:06,640 --> 01:10:07,800
+Rep. Edgar R. Erice: naman lang yung budget niyo.
+
+1660
+01:10:08,020 --> 01:10:09,020
+Rep. Edgar R. Erice: Pero you cannot deny
+
+1661
+01:10:09,020 --> 01:10:12,400
+Rep. Edgar R. Erice: that the Vice President,
+
+1662
+01:10:13,000 --> 01:10:15,200
+Rep. Edgar R. Erice: is the second
+
+1663
+01:10:15,200 --> 01:10:16,380
+Rep. Edgar R. Erice: highest official of the land.
+
+1664
+01:10:17,060 --> 01:10:17,460
+Rep. Edgar R. Erice: And
+
+1665
+01:10:17,460 --> 01:10:20,980
+Rep. Edgar R. Erice: siguro po,
+
+1666
+01:10:21,160 --> 01:10:23,140
+Rep. Edgar R. Erice: one of the most popular leaders,
+
+1667
+01:10:23,760 --> 01:10:25,200
+Rep. Edgar R. Erice: political leaders in the country.
+
+1668
+01:10:25,200 --> 01:10:27,340
+Rep. Edgar R. Erice: May mga issues po na
+
+1669
+01:10:27,340 --> 01:10:29,120
+Rep. Edgar R. Erice: hindi ko naman gusto
+
+1670
+01:10:29,120 --> 01:10:30,900
+Rep. Edgar R. Erice: sagutin niyo. Alam ko naman hindi niyo
+
+1671
+01:10:30,900 --> 01:10:33,300
+Rep. Edgar R. Erice: masasagot. Pero I think
+
+1672
+01:10:33,300 --> 01:10:35,140
+Rep. Edgar R. Erice: the Vice President
+
+1673
+01:10:35,140 --> 01:10:36,200
+Rep. Edgar R. Erice: should also
+
+1674
+01:10:36,200 --> 01:10:38,860
+Rep. Edgar R. Erice: express
+
+1675
+01:10:38,860 --> 01:10:40,140
+Rep. Edgar R. Erice: her opinion.
+
+1676
+01:10:41,620 --> 01:10:42,840
+Rep. Edgar R. Erice: For example,
+
+1677
+01:10:43,000 --> 01:10:44,820
+Rep. Edgar R. Erice: nakita naman natin yung problema
+
+1678
+01:10:44,820 --> 01:10:45,660
+Rep. Edgar R. Erice: natin sa
+
+1679
+01:10:45,660 --> 01:10:48,840
+Rep. Edgar R. Erice: corruption sa ating bansa.
+
+1680
+01:10:49,180 --> 01:10:50,440
+Rep. Edgar R. Erice: At mayroong mga proposed
+
+1681
+01:10:50,440 --> 01:10:52,800
+Rep. Edgar R. Erice: reforms. Gusto po natin
+
+1682
+01:10:52,800 --> 01:10:54,700
+Rep. Edgar R. Erice: malaman lang kung ano yung
+
+1683
+01:10:54,700 --> 01:10:56,460
+Rep. Edgar R. Erice: mga, kung ano yung
+
+1684
+01:10:56,460 --> 01:10:58,480
+Rep. Edgar R. Erice: kanyang opinion
+
+1685
+01:10:58,480 --> 01:11:00,240
+Rep. Edgar R. Erice: dito sa mga reform
+
+1686
+01:11:00,240 --> 01:11:02,540
+Rep. Edgar R. Erice: proposals. For example,
+
+1687
+01:11:02,800 --> 01:11:04,580
+Rep. Edgar R. Erice: yung Cadena Act, para naman mas
+
+1688
+01:11:04,580 --> 01:11:06,360
+Rep. Edgar R. Erice: transparent yung accountability.
+
+1689
+01:11:07,440 --> 01:11:08,720
+Rep. Edgar R. Erice: Ano ba ang kanyang
+
+1690
+01:11:08,720 --> 01:11:09,800
+Rep. Edgar R. Erice: position dito?
+
+1691
+01:11:10,160 --> 01:11:11,300
+Rep. Edgar R. Erice: Meron din pong
+
+1692
+01:11:11,300 --> 01:11:14,660
+Rep. Edgar R. Erice: mainit na
+
+1693
+01:11:14,660 --> 01:11:16,620
+Rep. Edgar R. Erice: issue tungkol sa political
+
+1694
+01:11:16,620 --> 01:11:18,560
+Rep. Edgar R. Erice: dynasties na
+
+1695
+01:11:18,560 --> 01:11:20,680
+Rep. Edgar R. Erice: isa sa mga sinasabi,
+
+1696
+01:11:20,780 --> 01:11:22,400
+Rep. Edgar R. Erice: isa sa pinakadahilan ng
+
+1697
+01:11:22,400 --> 01:11:24,060
+Rep. Edgar R. Erice: patuloy na corruption
+
+1698
+01:11:24,060 --> 01:11:26,220
+Rep. Edgar R. Erice: because of the system of
+
+1699
+01:11:26,220 --> 01:11:29,100
+Rep. Edgar R. Erice: political dynasties.
+
+1700
+01:11:30,320 --> 01:11:31,180
+Rep. Edgar R. Erice: Gusto lang natin
+
+1701
+01:11:31,180 --> 01:11:32,800
+Rep. Edgar R. Erice: din malaman yung position dito
+
+1702
+01:11:32,800 --> 01:11:34,940
+Rep. Edgar R. Erice: ni Vice President. Tapos
+
+1703
+01:11:34,940 --> 01:11:36,800
+Rep. Edgar R. Erice: alam naman natin na isa sa mga
+
+1704
+01:11:36,800 --> 01:11:38,400
+Rep. Edgar R. Erice: binabato sa
+
+1705
+01:11:38,400 --> 01:11:40,420
+Rep. Edgar R. Erice: mga Duterte ay yung
+
+1706
+01:11:40,420 --> 01:11:41,280
+Rep. Edgar R. Erice: mga
+
+1707
+01:11:41,300 --> 01:11:43,500
+Rep. Edgar R. Erice: violent war on drugs.
+
+1708
+01:11:44,360 --> 01:11:45,520
+Rep. Edgar R. Erice: Pero siyempre, iba naman yung
+
+1709
+01:11:45,520 --> 01:11:46,920
+Rep. Edgar R. Erice: tatay, iba naman yung anak.
+
+1710
+01:11:47,260 --> 01:11:49,480
+Rep. Edgar R. Erice: So, mahalaga siguro na malaman
+
+1711
+01:11:49,480 --> 01:11:51,300
+Rep. Edgar R. Erice: ang mga mamamayang Pilipino kung ano
+
+1712
+01:11:51,300 --> 01:11:53,580
+Rep. Edgar R. Erice: yung kanyang mga
+
+1713
+01:11:53,580 --> 01:11:55,500
+Rep. Edgar R. Erice: paninindigan
+
+1714
+01:11:55,500 --> 01:11:56,600
+Rep. Edgar R. Erice: sa mga ito.
+
+1715
+01:11:57,460 --> 01:11:59,520
+Rep. Edgar R. Erice: So, kung maipaabot nyo lang
+
+1716
+01:11:59,520 --> 01:12:01,480
+Rep. Edgar R. Erice: na kung po pwede, magkaroon siya
+
+1717
+01:12:01,480 --> 01:12:03,440
+Rep. Edgar R. Erice: ng maliwanag na
+
+1718
+01:12:03,440 --> 01:12:05,580
+Rep. Edgar R. Erice: statements tungkol dito
+
+1719
+01:12:05,580 --> 01:12:07,140
+Rep. Edgar R. Erice: sa mga bagay nito. Yan lang po.
+
+1720
+01:12:07,260 --> 01:12:07,600
+Rep. Edgar R. Erice: Salamat.
+
+1721
+01:12:08,860 --> 01:12:10,940
+Rep. Edgar R. Erice: Attorney, you may or may not answer?
+
+1722
+01:12:11,300 --> 01:12:13,180
+Rep. Edgar R. Erice: But if you answer, we will appreciate.
+
+1723
+01:12:14,600 --> 01:12:15,180
+Rep. Edgar R. Erice: Thank you.
+
+1724
+01:12:15,200 --> 01:12:16,800
+Rep. Edgar R. Erice: I am not seeking the answer of
+
+1725
+01:12:16,800 --> 01:12:19,120
+Rep. Edgar R. Erice: Atty. Lopez. I am just
+
+1726
+01:12:19,120 --> 01:12:20,820
+Rep. Edgar R. Erice: expressing my
+
+1727
+01:12:20,820 --> 01:12:23,160
+Rep. Edgar R. Erice: desire na
+
+1728
+01:12:23,160 --> 01:12:24,740
+Rep. Edgar R. Erice: maipabot nila sa Vice President
+
+1729
+01:12:24,740 --> 01:12:27,280
+Rep. Edgar R. Erice: at pagkatapos iparating sa atin.
+
+1730
+01:12:27,540 --> 01:12:27,700
+Rep. Edgar R. Erice: At
+
+1731
+01:12:27,700 --> 01:12:31,300
+Rep. Edgar R. Erice: kung maari, kung sa tingin niya
+
+1732
+01:12:31,300 --> 01:12:33,320
+Rep. Edgar R. Erice: it will be beneficial to her
+
+1733
+01:12:33,320 --> 01:12:35,100
+Rep. Edgar R. Erice: kung malalaman
+
+1734
+01:12:35,100 --> 01:12:36,860
+Rep. Edgar R. Erice: ang mamamayang Pilipino yung kanyang
+
+1735
+01:12:36,860 --> 01:12:39,460
+Rep. Edgar R. Erice: paninindigan sa mga bagay na ito.
+
+1736
+01:12:39,460 --> 01:12:40,060
+Rep. Edgar R. Erice: Salamat po.
+
+1737
+01:12:41,300 --> 01:12:43,100
+Undersecretary Sulaika T. Lopez: Thank you very much, Mr. Chair,
+
+1738
+01:12:43,220 --> 01:12:45,020
+Undersecretary Sulaika T. Lopez: and also thank you to the esteemed congressman.
+
+1739
+01:12:45,640 --> 01:12:47,340
+Undersecretary Sulaika T. Lopez: Yes, we will relay
+
+1740
+01:12:47,340 --> 01:12:49,380
+Undersecretary Sulaika T. Lopez: this particular manifestation
+
+1741
+01:12:49,380 --> 01:12:50,760
+Undersecretary Sulaika T. Lopez: to the Vice President.
+
+1742
+01:12:51,400 --> 01:12:52,280
+Deputy Speaker Jose C. Alvarez: Very good.
+
+1743
+01:12:52,280 --> 01:12:52,620
+Undersecretary Sulaika T. Lopez: Thank you.
+
+1744
+01:12:54,620 --> 01:12:59,420
+Rep. Ma. Isabel L. Sagarbarria: Mr. Chair, good afternoon.
+
+1745
+01:12:59,800 --> 01:13:00,040
+Deputy Speaker Jose C. Alvarez: Yes.
+
+1746
+01:13:00,520 --> 01:13:03,320
+Rep. Ma. Isabel L. Sagarbarria: Mr. Chair, I move that the committee terminate its hearing
+
+1747
+01:13:03,320 --> 01:13:05,180
+Rep. Ma. Isabel L. Sagarbarria: on the proposed fiscal year
+
+1748
+01:13:05,180 --> 01:13:07,300
+Rep. Ma. Isabel L. Sagarbarria: 2027 budget of the Office
+
+1749
+01:13:07,300 --> 01:13:09,120
+Rep. Ma. Isabel L. Sagarbarria: of the Vice President under
+
+1750
+01:13:09,120 --> 01:13:11,220
+Rep. Ma. Isabel L. Sagarbarria: House Bill No. 10858.
+
+1751
+01:13:11,300 --> 01:13:13,180
+Rep. Ma. Isabel L. Sagarbarria: I so move, Mr. Chair.
+
+1752
+01:13:13,180 --> 01:13:13,460
+Rep. Roberto Nazal: Second.
+
+1753
+01:13:14,740 --> 01:13:15,540
+Deputy Speaker Jose C. Alvarez: There is a motion.
+
+1754
+01:13:15,700 --> 01:13:19,020
+Deputy Speaker Jose C. Alvarez: And for the static motion of
+
+1755
+01:13:19,020 --> 01:13:21,120
+Deputy Speaker Jose C. Alvarez: Congressman Nazal, I'd like to
+
+1756
+01:13:21,120 --> 01:13:23,360
+Deputy Speaker Jose C. Alvarez: request him to make it also
+
+1757
+01:13:23,360 --> 01:13:24,780
+Deputy Speaker Jose C. Alvarez: a dynamic motion
+
+1758
+01:13:24,780 --> 01:13:26,700
+Deputy Speaker Jose C. Alvarez: so we can together
+
+1759
+01:13:26,700 --> 01:13:28,740
+Deputy Speaker Jose C. Alvarez: terminate this briefing.
+
+1760
+01:13:30,060 --> 01:13:34,590
+Rep. Roberto Nazal: Mr. Chair, I move to terminate
+
+1761
+01:13:34,590 --> 01:13:35,370
+Rep. Roberto Nazal: the
+
+1762
+01:13:35,370 --> 01:13:42,750
+Rep. Roberto Nazal: I move to terminate the budget briefing.
+
+1763
+01:13:42,750 --> 01:13:44,950
+Deputy Speaker Jose C. Alvarez: And then there's another
+
+1764
+01:13:44,950 --> 01:13:46,630
+Deputy Speaker Jose C. Alvarez: motion. Thank you very much.
+
+1765
+01:13:47,170 --> 01:13:48,910
+Deputy Speaker Jose C. Alvarez: And to the Office of the Vice
+
+1766
+01:13:48,910 --> 01:13:50,870
+Deputy Speaker Jose C. Alvarez: President, maraming salamat for answering
+
+1767
+01:13:50,870 --> 01:13:52,250
+Deputy Speaker Jose C. Alvarez: the few questions that we
+
+1768
+01:13:52,250 --> 01:13:54,890
+Deputy Speaker Jose C. Alvarez: requested. And this
+
+1769
+01:13:54,890 --> 01:13:57,190
+Deputy Speaker Jose C. Alvarez: Mr. Chair, there's another motion before we end.
+
+1770
+01:13:57,470 --> 01:13:59,010
+Rep. Ma. Isabel L. Sagarbarria: Mr. Chair, I move
+
+1771
+01:13:59,010 --> 01:14:00,930
+Rep. Ma. Isabel L. Sagarbarria: that we suspend the committee hearing here
+
+1772
+01:14:00,930 --> 01:14:02,910
+Rep. Ma. Isabel L. Sagarbarria: at Dandaya Hall on
+
+1773
+01:14:02,910 --> 01:14:04,970
+Rep. Ma. Isabel L. Sagarbarria: House Bill 10858 until
+
+1774
+01:14:04,970 --> 01:14:06,890
+Rep. Ma. Isabel L. Sagarbarria: tomorrow, September 3
+
+1775
+01:14:06,890 --> 01:14:08,830
+Rep. Ma. Isabel L. Sagarbarria: at 9 a.m. I so move.
+
+1776
+01:14:09,130 --> 01:14:10,750
+Deputy Speaker Jose C. Alvarez: Yes, another motion.
+
+1777
+01:14:10,750 --> 01:14:10,990
+Deputy Speaker Jose C. Alvarez: Another motion.
+
+1778
+01:14:12,750 --> 01:14:13,710
+Deputy Speaker Jose C. Alvarez: This hearing to
+
+1779
+01:14:13,710 --> 01:14:16,230
+Deputy Speaker Jose C. Alvarez: be suspended. And
+
+1780
+01:14:16,230 --> 01:14:18,450
+Deputy Speaker Jose C. Alvarez: there being no objection,
+
+1781
+01:14:18,690 --> 01:14:19,770
+Deputy Speaker Jose C. Alvarez: this hearing is suspended.
+
+1782
+01:14:20,610 --> 01:14:21,930
+Deputy Speaker Jose C. Alvarez: Thank you. Until
+
+1783
+01:14:21,930 --> 01:14:24,730
+Deputy Speaker Jose C. Alvarez: September 3, 2026.
+
+1784
+01:14:24,850 --> 01:14:26,490
+Deputy Speaker Jose C. Alvarez: 9 a.m.
+
+1785
+01:14:26,770 --> 01:14:28,610
+Deputy Speaker Jose C. Alvarez: And for the
+
+1786
+01:14:28,610 --> 01:14:29,850
+Deputy Speaker Jose C. Alvarez: motion of
+
+1787
+01:14:29,850 --> 01:14:32,290
+Deputy Speaker Jose C. Alvarez: Congresswoman Sagarbarria, thank you very much.
+
+1788
+01:14:32,570 --> 01:14:34,510
+Deputy Speaker Jose C. Alvarez: This briefing is terminated.
+
+1789
+01:14:36,510 --> 01:14:37,630
+Deputy Speaker Jose C. Alvarez: Pirma, bayad.
+

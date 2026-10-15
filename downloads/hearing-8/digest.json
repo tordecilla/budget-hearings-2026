@@ -1,0 +1,752 @@
+{
+  "hearing": {
+    "hearing_id": 8,
+    "title": "House Committee on Appropriations: DOST - August 24, 2026",
+    "hearing_date": "2026-08-24",
+    "official_url": "https://www.youtube.com/watch?v=VYtfAHFQw8Q"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h8/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Captured source",
+      "text": "The FY 2027 NEP proposed PHP 30.8 billion for DOST and attached bodies, versus PHP 32.1 billion in the FY 2026 GAA, according to Rep. Antonio L. Tinio. The recording starts mid-answer during Rep. Eulogio \"Leo\" R. Rodriguez's interpellation; the earlier PowerPoint and original department-wide DBM submission are not captured.",
+      "citations": []
+    },
+    {
+      "label": "Budget and capital works",
+      "text": "The FY 2027 DOST NEP proposed PHP 30.8 billion versus PHP 32.1 billion in the FY 2026 GAA. Members contrasted the proposed DOST budget and attached-agency reductions with project status. PAGASA cited already funded 2026 capital items, FNRI identified an unfinished Phase 4 and a ₱400 million request, and PNRI was described as having completed project phases. The captured hearing approved none of the requested restorations.",
+      "citations": []
+    },
+    {
+      "label": "Grant policy",
+      "text": "DBM defended placing ongoing agency R&D grants directly in agency budgets to speed implementation. DOST Secretary Renato U. Solidum Jr. and House members argued that fixed placement reduced flexibility for proposal-driven, cross-institutional, and emergency research. DBM differed and deferred to Congress; no re-centralization, safeguard text, compromise, or drafting commitment was adopted.",
+      "citations": []
+    },
+    {
+      "label": "Research to public use",
+      "text": "Across evidence kits, agriculture, fisheries, HANDA, and Science for Peace, answers emphasized pilots, coordination, regional implementation, end-user procurement, and continuing local capacity. They often did not supply requested adoption rates, quantified outcomes, funded scale, or delivery dates.",
+      "citations": []
+    },
+    {
+      "label": "AI and data sovereignty",
+      "text": "The AI exchanges described NAICRI's grant-funded status, ASTI's shared compute service, H200 installation, commercial data-center rental, regional ambitions, and a DOST data-sovereignty platform. They did not provide a complete funded 26-fold capacity plan, exact processor count, power-source answer, settled DOST-DICT division of responsibility, or implementation timetable.",
+      "citations": []
+    },
+    {
+      "label": "Priority funding requests",
+      "text": "DOST Secretary Renato U. Solidum Jr. identified ₱800 million as the next-year need for Virology Institute Phases 1 and 2 and a ₱309 million 2027 projection for graduate-stipend alignment. Committee Chair Rep. Mikaela Angela B. Suansing requested supporting tables and a prioritized institutional-amendment list. These were needs, projections, routing, and requests—not funding approvals, releases, delivery promises, or final restorations.",
+      "citations": []
+    },
+    {
+      "label": "Support and outcome",
+      "text": "Several members advocated support or increases for DOST, and Committee Chair Rep. Mikaela Angela B. Suansing said the department had partners who would advocate for its budget; no amount or appropriation was approved. Rep. Renee Louise M. Co's request for pre-plenary deliberations received only a discussion-and-coordination response. The hearing closed with Rep. Nicanor M. Briones's termination and suspension motions and presiding Rep. Amben S. Amante's rulings, with proceedings set to resume August 25, 2026 at 9 a.m.",
+      "citations": []
+    }
+  ],
+  "method_note": "The archived source begins after the agency presentation, so no presentation section is reconstructed. Each complete round was separately drafted, fully edited, and adversarially validated. Visible citations are sparse navigation anchors; every active reviewed stable ID remains in dependency metadata. Only Tinio's and Fernandez's repeated appearances are grouped here.",
+  "sections": [
+    {
+      "key": "budget-comparison",
+      "label": "Budget proposal and requests",
+      "items": [
+        {
+          "label": "DOST proposed budget and requested funding",
+          "text": "The proposed FY 2027 NEP allocation for DOST and attached bodies was PHP 30.8 billion, compared with PHP 32.1 billion in the FY 2026 GAA, as stated by Rep. Antonio L. Tinio. The captured hearing does not establish DOST's department-wide request to DBM. FNRI's PHP 400 million request to finish Phase 4 of its building is a specific project request, not the department total. The recording begins mid-hearing, so the missing opening presentation limits this comparison.",
+          "citations": [
+            {
+              "stable_id": "asr-000730",
+              "start_seconds": 2163.8,
+              "clock": "00:36:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000730"
+            },
+            {
+              "stable_id": "asr-000790",
+              "start_seconds": 2359.04,
+              "clock": "00:39:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000790"
+            }
+          ]
+        },
+        {
+          "label": "Calls to restore or increase the DOST budget",
+          "text": "Rep. Sarah Jane I. Elago called for cuts to be restored to FY 2026 levels and for further increases where agencies needed them. Rep. Bella Vanessa B. Suansing, Rep. Nicanor M. Briones and Rep. Dan S. Fernandez each voiced support for increasing DOST funding, with Fernandez qualifying it as possible. These were member manifestations, not formal budget motions; no amount, amendment or approval followed.",
+          "citations": [
+            {
+              "stable_id": "asr-000236",
+              "start_seconds": 920.1,
+              "clock": "00:15:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000236"
+            },
+            {
+              "stable_id": "asr-000722",
+              "start_seconds": 2137.8,
+              "clock": "00:35:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000722"
+            },
+            {
+              "stable_id": "asr-001055",
+              "start_seconds": 3353.76,
+              "clock": "00:55:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001055"
+            },
+            {
+              "stable_id": "asr-001069",
+              "start_seconds": 3402.16,
+              "clock": "00:56:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001069"
+            }
+          ]
+        },
+        {
+          "label": "Specific project funding requests and AI capacity",
+          "text": "DOST-FNRI Director Jacus S. Nacis identified a PHP 400 million FY 2027 request to complete Phase 4 of its building, which Tinio brought to the Appropriations chair. DOST-ASTI Director Franz A. de Leon cited PHP 300 million already provided as initial DOST grant-in-aid seed funding for NAICRI and hoped for more support, potentially from development partners, without giving a further amount. Neither exchange records a new appropriation.",
+          "citations": [
+            {
+              "stable_id": "asr-000790",
+              "start_seconds": 2359.04,
+              "clock": "00:39:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000790"
+            },
+            {
+              "stable_id": "asr-000964",
+              "start_seconds": 2870.52,
+              "clock": "00:47:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000964"
+            }
+          ]
+        },
+        {
+          "label": "Grant placement and proposed institutional amendments",
+          "text": "Committee Chair Rep. Mikaela Angela B. Suansing explored moving roughly PHP 1.25 billion in grant-in-aid funding from attached-agency budgets back to the DOST Office of the Secretary to preserve flexibility, with possible safeguards; this was a proposed relocation, not an increase to the total. DBM defended the new allocation policy but deferred to Congress, and Suansing sought further DBM-DOST consultation. DOST Secretary Renato U. Solidum Jr. gave PHP 800 million as the next-year need to complete Virology Institute buildings and a PHP 309 million FY 2027 projection to align graduate stipends with CHED. Committee Chair Rep. Mikaela Angela B. Suansing asked DOST to prioritize and submit its institutional amendment list, ideally that week, for subcommittee consideration. The hearing recorded no adoption of these proposals or funding approvals.",
+          "citations": [
+            {
+              "stable_id": "asr-001212",
+              "start_seconds": 3998.119,
+              "clock": "01:06:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001212"
+            },
+            {
+              "stable_id": "asr-001350",
+              "start_seconds": 4648.88,
+              "clock": "01:17:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001350"
+            },
+            {
+              "stable_id": "asr-001447",
+              "start_seconds": 4872.719,
+              "clock": "01:21:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001447"
+            },
+            {
+              "stable_id": "asr-001480",
+              "start_seconds": 4940.305,
+              "clock": "01:22:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001480"
+            },
+            {
+              "stable_id": "asr-001538",
+              "start_seconds": 5058.0,
+              "clock": "01:24:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001538"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rodriguez-continuation",
+      "label": "Rep. Eulogio \"Leo\" R. Rodriguez continuation: weather radar and Bicol fisheries",
+      "items": [
+        {
+          "label": "Virac weather-radar restoration, interim Bicol coverage, and uncertain completion date",
+          "text": "The archived recording begins in the middle of PAGASA Administrator Nathaniel T. Servando's answer, so Rodriguez's initiating question is unavailable. The first audible words give a period of “24 months or 2 years,” but the missing question and preceding answer prevent determining exactly what the period measures. Servando explained that Bicol was not completely blind despite the nonfunctional Virac radar because operational radars in Laoang, Daet, and Masbate provided redundant coverage. He hoped Virac could be operationalized the following year but expressed confidence only that it would be operational by 2028. Rodriguez said the long-idle, publicly funded facility had become a viewing site, stressed Catanduanes's exposure as a point of origin for typhoons, and asked whether it would be abandoned or restored. He closed the topic by saying constituents had heard that operations could return the following year. The captured exchange supplies no repair budget, procurement milestone, or unconditional next-year completion commitment.",
+          "citations": [
+            {
+              "stable_id": "asr-000001",
+              "start_seconds": 45.16,
+              "clock": "00:00:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000001"
+            },
+            {
+              "stable_id": "asr-000003",
+              "start_seconds": 91.159,
+              "clock": "00:01:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000003"
+            }
+          ]
+        },
+        {
+          "label": "Bicol fisheries decline, PCAARRD technology-transfer bottlenecks, and a 2027 request with a conditional expansion response",
+          "text": "Rodriguez cited PSA figures showing Bicol's economy grew only 0.5% in 2025, the lowest among regional economies; agriculture, fisheries, and forestry contracted by 2.9%, while fisheries declined by 10.7%. He said Catanduanes fisheries production had risen in 2025 but its contribution to the provincial economy remained low, and asked where the bottleneck lay, what PCAARRD and other agencies had done, and what measurable gains existed in production, income, jobs, or value adding. After Secretary Renato U. Solidum Jr. referred the question, DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora described current aquaculture and marine-resource projects, an abaca initiative involving Catanduanes State University, technology rollouts through regional offices and partner universities, and technology transfer as a bottleneck requiring help from LGUs and agencies including DA-BFAR. Ebora said PCAARRD would review and enhance existing initiatives for the province but supplied no measured outcome. When Rodriguez pressed for specific 2027 projects and expected results, Ebora said PCAARRD would explore expanding the inland-aquaculture tilapia program and other marine-resource work. Based on experience from pilot testing in other provinces, PCAARRD would then implement the work in Catanduanes while coordinating with Catanduanes State University and its regional consortium. The answer remained prospective: expansion was still framed as a possibility to explore, and no approved allocation, confirmed 2027 schedule, or quantified expected result was supplied. Rodriguez ended by mentioning a bill on the matter and urging assistance for fishers, whom he described as a high-poverty basic sector. Rep. Amben S. Amante acknowledged the close within the owned scope; the read-only right neighbor begins his recognition of Rep. Sarah Jane Elago.",
+          "citations": [
+            {
+              "stable_id": "asr-000037",
+              "start_seconds": 160.4,
+              "clock": "00:02:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000037"
+            },
+            {
+              "stable_id": "asr-000103",
+              "start_seconds": 292.441,
+              "clock": "00:04:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000103"
+            },
+            {
+              "stable_id": "asr-000127",
+              "start_seconds": 386.485,
+              "clock": "00:06:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000127"
+            },
+            {
+              "stable_id": "asr-000131",
+              "start_seconds": 407.191,
+              "clock": "00:06:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "elago",
+      "label": "Sarah Jane Elago: evidence kits, research access, and food thresholds",
+      "items": [
+        {
+          "label": "From DOST research to usable sexual-assault evidence kits",
+          "text": "The recording resumes after a long source gap with DOST Secretary Renato U. Solidum Jr. already answering an unavailable question. He said DOST had supported the R&D and readiness for commercialization, while appropriate end-user organizations had to procure the technology, and that DOST remained in dialogue with the UP technology producer. The missing question is not reconstructed. Rep. Sarah Jane I. Elago then pressed the wider gap between DOST research outputs and public use, asking whether sexual-assault evidence-kit technology could reach women and children protection units in public hospitals so evidence could be collected promptly. Solidum said scaling and commercialization were problems across DOST innovations. DOST could provide limited support for production and use cases and coordinate directly with agencies such as DOJ and PNP, but could not indefinitely produce and distribute the kits itself. He hoped Tatak Pinoy procurement preference would help Filipino-developed technology and said preserving DNA evidence could help identify perpetrators. The exchange established no procurement decision, deployment schedule, purchasing commitment, or nationwide distribution plan.",
+          "citations": [
+            {
+              "stable_id": "asr-000153",
+              "start_seconds": 604.966,
+              "clock": "00:10:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000153"
+            },
+            {
+              "stable_id": "asr-000159",
+              "start_seconds": 642.631,
+              "clock": "00:10:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000159"
+            },
+            {
+              "stable_id": "asr-000175",
+              "start_seconds": 762.19,
+              "clock": "00:12:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000175"
+            }
+          ]
+        },
+        {
+          "label": "Wider use of science and agricultural innovation, with a call to restore cuts",
+          "text": "Elago broadened the issue beyond DOST itself, citing innovations from the Philippine Science High School system and LGU-funded scientists in high schools, then contrasting that potential with farmers discarding unsold carrots, onions, cabbage, and other produce. She argued that Philippine natural resources, research, and science and technology should support national development. She then declared support for restoring agency budget cuts to their 2026 levels and, where needed, increasing budgets. This was Elago's policy and budget position; no government answer, restoration amount, or committee approval followed in this part of the round.",
+          "citations": [
+            {
+              "stable_id": "asr-000206",
+              "start_seconds": 855.661,
+              "clock": "00:14:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000206"
+            }
+          ]
+        },
+        {
+          "label": "FNRI meal-cost evidence and the realism of poverty thresholds",
+          "text": "Elago asked what amount FNRI used for nutritionally adequate menu bundles. DOST-FNRI Director Jacus S. Nacis said FNRI based the bundles on Philippine Dietary Reference Intakes and designed them to meet at least one-third of nutritional requirements. When pressed for the amount, Nacis said he could not give an exact current computation because it involved many considerations. He then cited a 2023 study of adolescent meals at around ₱30.25 per meal. Nacis explained that FNRI's recipes were costed using market values for their raw materials and that current prices could be entered for a fresh calculation. Citing DBM's report to Congress, Elago compared the FNRI figure with a ₱111 NCR poverty figure and a ₱77 food amount, which she converted to roughly ₱26 per meal; she added that the amount outside NCR was about ₱23 per meal. She argued that FNRI's unadjusted 2022–2023 figure was already about ₱30 and that the current subsistence threshold was unrealistic and should be updated for inflation. Elago requested FNRI's latest study and future plans, but neither Nacis nor another official gave an explicit submission commitment, updated figure, or timetable. Rep. Amben S. Amante then closed Elago's round; his recognition of the next member continues across the right boundary.",
+          "citations": [
+            {
+              "stable_id": "asr-000241",
+              "start_seconds": 930.7,
+              "clock": "00:15:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000241"
+            },
+            {
+              "stable_id": "asr-000257",
+              "start_seconds": 962.885,
+              "clock": "00:16:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000257"
+            },
+            {
+              "stable_id": "asr-000276",
+              "start_seconds": 1001.444,
+              "clock": "00:16:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000276"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bella-suansing",
+      "label": "Bella Vanessa Suansing: agriculture, disaster tools, and peacebuilding",
+      "items": [
+        {
+          "label": "Project SARAI, climate-smart agriculture adoption, and El Niño irrigation technology",
+          "text": "Rep. Bella Vanessa B. Suansing asked how Project SARAI—Smarter Approaches to Reinvigorate Agriculture as an Industry in the Philippines—worked, where it operated, and whether soil information guided crop selection. Secretary Solidum described a DOST-PCAARRD research program first implemented by UPLB and now operated regionally, integrating satellite remote sensing, GIS and crop mapping, weather and rainfall data, forecasting, pest and disease monitoring, water and nutrient management, mobile applications, and site-specific advisories. He said SARAI operated in all regions according to locally selected commodities, including urban farming in NCR; soil health and classification helped identify suitable crops. He also cited complementary technologies outside SARAI, including seaweed foliar fertilizer that could raise rice production by up to 30%, and distinguished Smart Aqua work under DOST-PCAARRD. Suansing then pressed DOST to link its completed technologies with the Department of Agriculture and other national programs. Solidum described coordination through PCAARRD governance, regional and provincial offices, and consortia, while acknowledging that utilization of developed technologies might not be 100%. In the context of El Niño, Suansing urged national integration of climate-smart technology. Solidum said pilots and promotion had not accelerated adoption fast enough for climate risks, so DOST was moving implementation to the regional level with DA, LGUs, cooperatives, and farmers. He said DOST and PCAARRD interventions had been proposed for the El Niño task force and described drip and furrow irrigation and a mobile solar-irrigation trailer developed with Nueva Ecija University of Science and Technology. The trailer could move between farms, draw surface or shallow-well water, and reduce diesel use. He expressed hope that LGUs would avail themselves of it; he did not give a funded rollout count, appropriation, adoption deadline, or verified national uptake rate.",
+          "citations": [
+            {
+              "stable_id": "asr-000353",
+              "start_seconds": 1155.159,
+              "clock": "00:19:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000353"
+            },
+            {
+              "stable_id": "asr-000378",
+              "start_seconds": 1205.679,
+              "clock": "00:20:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000378"
+            },
+            {
+              "stable_id": "asr-000494",
+              "start_seconds": 1440.52,
+              "clock": "00:24:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000494"
+            },
+            {
+              "stable_id": "asr-000539",
+              "start_seconds": 1530.96,
+              "clock": "00:25:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000539"
+            }
+          ]
+        },
+        {
+          "label": "HANDA disaster platform, LGU-controlled SOS reporting, and evacuation-route data",
+          "text": "After noting DOST's smart flood-management work and the integrated water-resource and flood-mitigation strategy under the 2026 GAA, Suansing asked whether health-authority feedback from HANDA's emergency SOS function ran through LGUs or the DOH central office. Solidum described HANDA as an integrated disaster-preparedness and response platform combining early-warning systems for LGUs and the public. He said incident reporting would be activated only when an LGU chose to use and manage it, because reports should not be accepted without someone responsible for them; deployments for an LGU or the national OCD could be customized. He also described an AI chatbot for hazard questions and evacuation-route planning and said HANDA had been launched the preceding March. On Suansing's follow-up, he said DILG and OCD supplied the selected evacuation sites and the software used a phone's GPS location to assess hazards and identify the nearest site. The answer established LGU opt-in management but did not specifically resolve whether health feedback goes through LGUs or DOH central.",
+          "citations": [
+            {
+              "stable_id": "asr-000626",
+              "start_seconds": 1709.279,
+              "clock": "00:28:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000626"
+            },
+            {
+              "stable_id": "asr-000632",
+              "start_seconds": 1726.679,
+              "clock": "00:28:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000632"
+            },
+            {
+              "stable_id": "asr-000662",
+              "start_seconds": 1828.159,
+              "clock": "00:30:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000662"
+            },
+            {
+              "stable_id": "asr-000663",
+              "start_seconds": 1839.159,
+              "clock": "00:30:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000663"
+            }
+          ]
+        },
+        {
+          "label": "Science for Peace support for former MILF combatants and sustained local capacity",
+          "text": "Suansing asked about Science for Peace for former MILF combatants. Solidum said the Office of the Presidential Adviser on Peace, Reconciliation and Unity approached DOST through Region XII for help in BARMM. He described a first phase serving six former MILF camps with potable-water and livelihood interventions: catfish production using SAFEWATRS, a cost-effective DOST-ITDI purification system with replaceable membranes; halal bread production; weaving; satellite Starlink; and a library-in-a-box for children. He said another phase would follow and framed the program as using science, technology, and innovation to meet basic needs and create opportunities supportive of peace. He stressed that technology could not simply be delivered and abandoned: communities needed trust and continuing capacity support. The exchange gave no appropriation, individual beneficiary count, implementation timetable, or independently measured livelihood or peace result.",
+          "citations": [
+            {
+              "stable_id": "asr-000669",
+              "start_seconds": 1869.24,
+              "clock": "00:31:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000669"
+            },
+            {
+              "stable_id": "asr-000671",
+              "start_seconds": 1885.039,
+              "clock": "00:31:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000671"
+            }
+          ]
+        },
+        {
+          "label": "PHIVOLCS earthquake response, El Niño consultation, and support for a larger DOST budget",
+          "text": "In a closing manifestation, Suansing thanked PHIVOLCS Director Teresito C. Bacolcol and PHIVOLCS personnel for helping Sultan Kudarat during January earthquake swarms through tsunami-warning monitoring, hazard mapping, and REDAS seminars in the coastal municipalities of Kalamansig, Lebak, and Palimbang. She also thanked PAGASA Administrator Nathaniel T. Servando, whom she said she repeatedly consulted when El Niño advisories began, and described Sultan Kudarat as highly vulnerable to a coming super El Niño. She declared support for DOST's budget and for increasing it. This was the member's advocacy; the round records no committee vote, approved increase, or agency commitment in response.",
+          "citations": [
+            {
+              "stable_id": "asr-000700",
+              "start_seconds": 2052.8,
+              "clock": "00:34:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000700"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "antonio-tinio",
+      "label": "Antonio Tinio: agency reductions, research grants, and national AI capacity",
+      "items": [
+        {
+          "label": "PAGASA and FNRI reductions: completed capital items and an unfinished building phase",
+          "text": "The proposed FY 2027 DOST NEP total was ₱30.8 billion versus ₱32.1 billion in the FY 2026 GAA; Rep. Antonio L. Tinio cited these figures and asked what selected attached-agency reductions would affect. On the roughly 12.5% PAGASA reduction he cited, Administrator Nathaniel T. Servando said the decrease was in capital outlay because projects already funded in 2026 would not need another 2027 appropriation, citing a river-basin warning system and X-band radar. Servando confirmed that operations were not reduced and had increased. Tinio then cited FNRI's fall from about ₱1.1 billion to ₱634 million. DOST-FNRI Director Jacus S. Nacis tied the cut to capital outlay for the institute building, said Phase 4 would remain incomplete, and identified a ₱400 million 2027 request to finish it. Tinio called the request to the Appropriations chair's attention; no restoration or funding approval occurred in the round.",
+          "citations": [
+            {
+              "stable_id": "asr-000730",
+              "start_seconds": 2163.8,
+              "clock": "00:36:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000730"
+            },
+            {
+              "stable_id": "asr-000745",
+              "start_seconds": 2227.68,
+              "clock": "00:37:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000745"
+            },
+            {
+              "stable_id": "asr-000764",
+              "start_seconds": 2290.92,
+              "clock": "00:38:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000764"
+            },
+            {
+              "stable_id": "asr-000770",
+              "start_seconds": 2317.56,
+              "clock": "00:38:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000770"
+            }
+          ]
+        },
+        {
+          "label": "MIRDC increase and relocation of grant-in-aid funds",
+          "text": "Tinio contrasted the reductions with what he read as a 73.6% MIRDC increase, from ₱316 million to ₱549 million. Solidum said grant-in-aid funding formerly held by the Office of the Secretary had been transferred by DBM to agencies including MIRDC, explaining part of the apparent agency increase. He said the funding could support mandate-related technology development and the Quatro/Industry 4.0 program, including artificial intelligence, robotics, automation, mechanization, metals work, and advanced manufacturing. The answer described a change in where funds were lodged and possible uses; it did not show an equivalent increase in DOST's overall resources or identify a single capital-outlay project accounting for the full amount.",
+          "citations": [
+            {
+              "stable_id": "asr-000794",
+              "start_seconds": 2369.839,
+              "clock": "00:39:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000794"
+            },
+            {
+              "stable_id": "asr-000801",
+              "start_seconds": 2391.0,
+              "clock": "00:39:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000801"
+            }
+          ]
+        },
+        {
+          "label": "NAICRI compute capacity, H200 installation, regional rollout, and provisional funding",
+          "text": "Tinio asked why the National AI Center for Research and Innovation did not appear as a separate budget item and connected it to DOST's target of increasing government high-performance computing power 26-fold by 2028. Solidum said NAICRI was a continuing R&D program funded through grant-in-aid and that ASTI had proposed more compute capacity. ASTI Director Franz A. de Leon described an approximately decade-old shared high-performance computing service for DOST institutes, other government agencies, and academe, with AI workloads requiring GPU-based architecture. He said ASTI's existing data center was housed in a container van; expansion would rent commercial data-center space while ASTI installed and operated its own GPUs to strengthen sovereign capacity. De Leon said newer H200 equipment was then being installed and that NAICRI was planned for rollout beyond NCR and Mega Manila. He did not have the exact processor count and estimated five major compute servers, accompanied by storage and network upgrades. He identified ₱300 million in initial DOST grant-in-aid seed funding and hoped for more support, potentially from development partners. The response did not provide a complete costed and funded 26-fold plan, and it did not answer Tinio's question about the cluster's power source or his Pax Silica concern.",
+          "citations": [
+            {
+              "stable_id": "asr-000830",
+              "start_seconds": 2469.319,
+              "clock": "00:41:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000830"
+            },
+            {
+              "stable_id": "asr-000836",
+              "start_seconds": 2488.44,
+              "clock": "00:41:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000836"
+            },
+            {
+              "stable_id": "asr-000908",
+              "start_seconds": 2648.92,
+              "clock": "00:44:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000908"
+            }
+          ]
+        },
+        {
+          "label": "National AI strategy, data sovereignty, agency roles, and requested documents",
+          "text": "Tinio argued that the Philippines needed nationally owned digital and AI infrastructure to avoid growing dependence on foreign cloud, data, and AI services. He requested detailed information on current national compute capacity, expansion plans, and regional deployment, and asked whether DOST or DICT led indigenous AI infrastructure. Solidum said DOST had developed the National AI Strategy, covering the AI factory/infrastructure, human resources, policy, financing, model development, and partnerships. Under the implementation strategy, he assigned DOST the lead for R&D infrastructure, talent management, and language-model development with DTI, DICT, academe, industry, and government partners; DICT also handled connectivity and infrastructure but worked mainly with the private sector. For data sovereignty, Solidum described DOST's Geospatial Analytics and Technology Solutions platform, a planned DOST-managed GeoAI Hub using Philippine-owned geospatial data, the iTanong language model, and a repository analogous to an app store for models using Filipino datasets. Tinio asked DOST to provide National AI Strategy data and documents, then asked whether Director de Leon was the appropriate follow-up contact. Solidum's brief “Opo” followed the contact question; it did not explicitly promise document delivery, establish a date or submission package, or create a separate funded commitment.",
+          "citations": [
+            {
+              "stable_id": "asr-000969",
+              "start_seconds": 2886.04,
+              "clock": "00:48:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000969"
+            },
+            {
+              "stable_id": "asr-000987",
+              "start_seconds": 2986.68,
+              "clock": "00:49:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-000987"
+            },
+            {
+              "stable_id": "asr-001013",
+              "start_seconds": 3166.359,
+              "clock": "00:52:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001013"
+            }
+          ]
+        },
+        {
+          "label": "AI sovereignty, national strategy, and a data-first DOST response",
+          "text": "In a postscript to his earlier round, Rep. Antonio Tinio supported Filipino control over AI and data, warning that Philippine data could improve foreign models while Filipinos remained paying customers. He noted that a national AI strategy had been mentioned, then cited and characterized U.S. official Jacob Helberg's “Digital Sovereignty Trap” argument and Pax Silica as discouraging countries from developing their own AI capacity; these external claims are presented as Tinio's account, not independently established by the hearing record. Tinio rejected that position and asked DOST for its view. Renato U. Solidum Jr. answered that AI is a technology and large language models can be developed, but relayed advice that countries should build smaller language models for their specific needs rather than try to compete directly with already advanced systems. He said data would be more powerful than AI and that DOST's focus was to develop a data-sovereignty platform. Tinio commended that position and urged continued development of Philippine infrastructure and capability using Philippine data for Filipino needs. The exchange did not outline the national AI strategy, assign compute or data responsibilities between DOST and DICT, specify computing capacity or architecture, or give a budget, governance mechanism, implementation timetable, or measurable delivery commitment.",
+          "citations": [
+            {
+              "stable_id": "asr-001073",
+              "start_seconds": 3421.96,
+              "clock": "00:57:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001073"
+            },
+            {
+              "stable_id": "asr-001110",
+              "start_seconds": 3605.92,
+              "clock": "01:00:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001110"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "nicanor-briones",
+      "label": "Nicanor M. Briones: egg-processing technology and DOST budget support",
+      "items": [
+        {
+          "label": "Egg-processing technologies and claimed shelf-life gains",
+          "text": "Rep. Nicanor M. Briones thanked DOST for support to farmers and the egg industry through programs he identified as DOST-BIST and CRADLE, and praised coordination between DOST and the Department of Agriculture. He attributed several food-processing gains to DOST-supported technology: a boiled-egg brine solution that he said could preserve boiled eggs for up to five years; a liquefied-egg processing plant that extended storage beyond the ordinary 10–12 days; and an egg-powder processing plant that he likewise said could extend shelf life to five years. His description of liquefied eggs included both “more than a month” and “more than five months”; the record does not resolve whether this was a correction or comparison, so the draft does not normalize it into a single duration. Briones said these technologies could ease delivery for calamity response, child nutrition, hotels, and industrial partners. He credited benefits to the Batangas Egg Producers Cooperative and San Jose, which he called the country's egg basket and said produced 12 million eggs a day. These are Briones's on-record claims; no agency official answered, confirmed the performance figures, or supplied measured outcomes during this manifestation.",
+          "citations": [
+            {
+              "stable_id": "asr-001020",
+              "start_seconds": 3196.839,
+              "clock": "00:53:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001020"
+            }
+          ]
+        },
+        {
+          "label": "Request for greater DOST funding and procedural close",
+          "text": "Briones expressed hope that DOST's budget would be increased, thanked the department, and yielded. No amount, amendment, agency commitment, or committee action followed. Rep. Amben S. Amante thanked him; the chair's next acknowledgment begins in the read-only right neighbor.",
+          "citations": [
+            {
+              "stable_id": "asr-001055",
+              "start_seconds": 3353.76,
+              "clock": "00:55:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001055"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "dan-fernandez",
+      "label": "Dan Fernandez: manifestations supporting DOST",
+      "items": [
+        {
+          "label": "Support for DOST performance and a possible budget increase",
+          "text": "After the chair invited his final word of support, Rep. Dan S. Fernandez said he would not ask questions. He described Secretary Renato U. Solidum Jr. as one of the performing secretaries, extended that assessment to the entire department, and said he was there only to support DOST's budget and, if possible, increase it. This was a member manifestation, not an interpellation or government answer. Fernandez gave no amount, line item, funding source, amendment, or condition beyond “if possible,” and the exchange records no motion, committee approval, agency commitment, or budget outcome. Rep. Amben S. Amante thanked him and moved to a postscript question from Rep. Antonio L. Tinio.",
+          "citations": [
+            {
+              "stable_id": "asr-001066",
+              "start_seconds": 3390.303,
+              "clock": "00:56:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001066"
+            }
+          ]
+        },
+        {
+          "label": "Support for DOST flexibility without weaker safeguards being adopted",
+          "text": "Rep. Dan S. Fernandez said he was adding support for DOST and argued that the department should be given flexibility because, in his account, it had no record of fund misuse, was a performing agency, and had been reliable in disasters. He went further and said safeguards were not important or appeared unnecessary for DOST. These were Fernandez's policy views in a brief manifestation. He proposed no specific amendment, safeguard change, amount, or mechanism, and the committee did not adopt a flexibility policy or remove any control in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-001577",
+              "start_seconds": 5186.917,
+              "clock": "01:26:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001577"
+            }
+          ]
+        },
+        {
+          "label": "Suansing's PISAY experience, stipend figures, and budget advocacy",
+          "text": "Rep. Mikaela Angela B. Suansing responded that DOST's presentation struck her as being overwhelmingly about accomplishments: she characterized 98% of its slides as covering programs and projects and also said only three slides concerned numbers and the budget. The record gives no total slide count, so those two statements are retained as Suansing's impression and are not converted into a verified or mathematically reconciled proportion. She connected her support to her statement that she was a product of the Philippine Science High School System, saying PISAY and DOST shaped her interest in numbers and analytical skills. She recalled receiving a ₱500 monthly stipend and stated that the current minimum monthly stipend was ₱2,000, while her intervening “four or five” question did not establish a separate amount. She commended DOST and said it had partners who would advocate for its budget. Her remarks expressed support; they did not approve an appropriation, promise a specific increase, change stipend levels, or commit the committee to Fernandez's proposed flexibility.",
+          "citations": [
+            {
+              "stable_id": "asr-001582",
+              "start_seconds": 5226.758,
+              "clock": "01:27:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001582"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "renee-co",
+      "label": "Rep. Renee Louise M. Co: request for pre-plenary deliberations with other executive offices",
+      "items": [
+        {
+          "label": "Pre-plenary request for eleven other executive offices",
+          "text": "Rep. Renee Louise M. Co asked the Committee on Appropriations to consider pre-plenary deliberations ahead of separate plenary budget deliberations for other executive offices. She said the offices' layered concerns might not be adequately addressed only in plenary and listed the Anti-Money Laundering Council, Bases Conversion and Development Authority, Climate Change Commission, Komisyon sa Wikang Filipino, Metropolitan Manila Development Authority, National Commission on Indigenous Peoples, National Intelligence Coordinating Agency, National Security Council, PDEA, PEZA, and SBMA. Rep. Mikaela Angela B. Suansing said the matter had already been discussed with Co, that they would discuss it further, and that they would coordinate on how to proceed with the named offices. This was a procedural response to continue coordination—not approval of pre-plenary deliberations, a commitment to convene them, a schedule, a change to plenary procedure, or a disposition of any office's budget.",
+          "citations": [
+            {
+              "stable_id": "asr-001132",
+              "start_seconds": 3700.839,
+              "clock": "01:01:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001132"
+            },
+            {
+              "stable_id": "asr-001156",
+              "start_seconds": 3784.874,
+              "clock": "01:03:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001156"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mikaela-suansing",
+      "label": "Mikaela Angela B. Suansing: DOST reductions, grants, Virology Institute, and graduate stipends",
+      "items": [
+        {
+          "label": "PNRI capital-outlay reduction after completion of project phases",
+          "text": "After Rep. Amben S. Amante asked for last words, Committee Chair Rep. Mikaela Angela B. Suansing reframed them as a message of support, thanked Vice Chairs Amante and Nicanor Briones for facilitating the hearing, and said they would remain DOST's partners through plenary deliberations. She then revisited the large agency reductions. She first described PNRI's differential as ₱364 million and later as a ₱345 million decrease; the exchange does not reconcile those figures. Asked whether PNRI resembled PAGASA or FNRI, Secretary Renato U. Solidum Jr. first said FNRI, then explained that all phases of the PNRI project were complete and funding for that capital outlay had stopped. Because that explanation conflicts with the earlier description of FNRI's unfinished building, the supported conclusion is limited to completed PNRI capital work. The project was not named and no restoration was proposed.",
+          "citations": [
+            {
+              "stable_id": "asr-001180",
+              "start_seconds": 3864.72,
+              "clock": "01:04:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001180"
+            },
+            {
+              "stable_id": "asr-001199",
+              "start_seconds": 3918.52,
+              "clock": "01:05:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001199"
+            }
+          ]
+        },
+        {
+          "label": "Grant-in-aid decentralization, lost flexibility, and a proposed House compromise",
+          "text": "Suansing asked whether the roughly ₱1.25 billion grant pool should remain distributed among DOST agencies in the 2027 NEP or return to the Office of the Secretary; later she referred to ₱1.2 billion without explaining whether she was rounding. DBM Budget and Management Bureau-F Director Vivien V. Labastilla explained that a new internal budget-preparation policy moved ongoing agency R&D projects from the central grant-in-aid pool to agency-specific budgets, leaving central GIA funding mainly for outside stakeholders. She said the change was intended to speed implementation, avoid interagency transfers, and eliminate trust-receipt handling, and later confirmed that it was in an internal memorandum. Solidum accepted the intent but said project allocations had been mismatched: proposal-driven or cross-institutional work was lodged in agencies such as PAGASA and PHIVOLCS that could not release funds to outside implementers. He cited emergency-response research, said he had written DBM, reported 98% utilization under the centralized arrangement, and warned that fixed allocations would remove flexibility to fund strong new proposals or shift resources. Labastilla said DBM based the 2027 levels on DOST's submitted list of ongoing R&D projects. Suansing favored restoring central flexibility with possible safeguards; Labastilla respectfully differed, then deferred to Congress. Rep. Jurdin Jesus \"JJ\" M. Romualdo also supported congressional safeguards. Suansing requested post-hearing DBM-DOST consultations through the vice chairs and asked DBM to draft possible special provisions. The round approved no re-centralization, safeguard text, or compromise, and Labastilla made no express drafting commitment.",
+          "citations": [
+            {
+              "stable_id": "asr-001203",
+              "start_seconds": 3935.48,
+              "clock": "01:05:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001203"
+            },
+            {
+              "stable_id": "asr-001221",
+              "start_seconds": 4050.799,
+              "clock": "01:07:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001221"
+            },
+            {
+              "stable_id": "asr-001269",
+              "start_seconds": 4257.64,
+              "clock": "01:10:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001269"
+            },
+            {
+              "stable_id": "asr-001357",
+              "start_seconds": 4691.08,
+              "clock": "01:18:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001357"
+            },
+            {
+              "stable_id": "asr-001365",
+              "start_seconds": 4708.96,
+              "clock": "01:18:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001365"
+            },
+            {
+              "stable_id": "asr-001380",
+              "start_seconds": 4738.92,
+              "clock": "01:18:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001380"
+            }
+          ]
+        },
+        {
+          "label": "₱800 million to complete Virology Institute phases, with DOST to originate the request",
+          "text": "Suansing asked how much was needed to finish Phases 1 and 2 of the Virology Institute buildings so operations could begin in New Clark City. Solidum answered ₱800 million for the next year and said the work was ongoing; Suansing then characterized it as Tier 1. He said DPWH usually makes the allocation and that the construction was lodged under DPWH. His following phrase about 2026 and an absent allocation remains partly unclear in the transcript. When Suansing asked whether the next request should originate from DOST or DPWH, Solidum answered, “Sa amin na lang. Sa amin,” and she confirmed, “Sa inyo na lang po.” The exchange therefore points to DOST as the originating agency; it records no funding approval, release status, or completion timetable.",
+          "citations": [
+            {
+              "stable_id": "asr-001433",
+              "start_seconds": 4845.0,
+              "clock": "01:20:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001433"
+            },
+            {
+              "stable_id": "asr-001443",
+              "start_seconds": 4865.28,
+              "clock": "01:21:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001443"
+            },
+            {
+              "stable_id": "asr-001468-split-2",
+              "start_seconds": 4917.997,
+              "clock": "01:21:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001468-split-2"
+            }
+          ]
+        },
+        {
+          "label": "₱309 million proposal to align graduate stipends with CHED",
+          "text": "Suansing asked for the indicative amount to align DOST master's and PhD grants with CHED rates. Solidum gave a ₱309 million 2027 projection covering around 5,000 graduate scholars. The exchange described monthly master's stipends rising from ₱30,000 to ₱38,000 and PhD stipends from ₱38,000 to ₱50,000—respective increases of ₱8,000 and ₱12,000. Suansing requested a table of scholar counts and amounts. The exchange contains no express delivery commitment or date for the table and no approval of the ₱309 million proposal.",
+          "citations": [
+            {
+              "stable_id": "asr-001475",
+              "start_seconds": 4930.36,
+              "clock": "01:22:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001475"
+            },
+            {
+              "stable_id": "asr-001480",
+              "start_seconds": 4940.305,
+              "clock": "01:22:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001480"
+            }
+          ]
+        },
+        {
+          "label": "Prioritized institutional amendments under limited fiscal space",
+          "text": "Suansing summarized three priorities—the grant arrangement, Virology Institute construction, and graduate-stipend alignment—and recalled DOST's earlier statement that it had a list of other already-started construction items to submit. Citing limited fiscal space, she asked DOST to prioritize its institutional-amendment wish list, explain whether projects required full funding or could proceed partially, and send the material to the Appropriations Committee as soon as possible, preferably within the week, for Budget Amendments Review Subcommittee deliberations. She promised advocacy and consideration, not approval of every request. Neither the recalled construction list nor the prioritized institutional list was delivered during the block, and no final restoration amount or committee decision was recorded.",
+          "citations": [
+            {
+              "stable_id": "asr-001519",
+              "start_seconds": 5019.6,
+              "clock": "01:23:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001519"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "closing",
+      "label": "Closing motions: DOST budget briefing terminated and committee proceedings suspended",
+      "items": [
+        {
+          "label": "DOST budget briefing formally terminated",
+          "text": "Rep. Nicanor M. Briones moved to terminate the budget briefing of the Department of Science and Technology and its attached agencies. Presiding chair Rep. Amben S. Amante asked for a second, stated that the motion had been moved and seconded, and declared it carried. No separate audible seconding utterance or identifiable seconder survives in the source, so none is personally attributed; source-absent asr-001600 remains excluded. Amante then paused the close with “wait lang,” and Rep. Mikaela Angela B. Suansing reminded the committee that one further procedural motion remained.",
+          "citations": [
+            {
+              "stable_id": "asr-001595",
+              "start_seconds": 5315.84,
+              "clock": "01:28:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001595"
+            },
+            {
+              "stable_id": "asr-001601",
+              "start_seconds": 5329.719,
+              "clock": "01:28:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001601"
+            }
+          ]
+        },
+        {
+          "label": "Committee proceedings suspended until August 25, 2026 at 9 a.m.",
+          "text": "After Amante thanked DOST officials and committee members for their participation, Briones separately moved to suspend committee proceedings and resume them the following day, August 25, 2026, at 9 a.m., then said, “I so move.” Amante stated that the motion had been moved and duly seconded and declared the proceedings suspended until that date and time. The source contains no separately audible seconding response or name, so the seconder remains unidentified. The final active words are Amante's “in the morning”; no later resumption, vote, substantive exchange, or adjournment appears before the recording ends.",
+          "citations": [
+            {
+              "stable_id": "asr-001610",
+              "start_seconds": 5374.08,
+              "clock": "01:29:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001610"
+            },
+            {
+              "stable_id": "asr-001612",
+              "start_seconds": 5385.32,
+              "clock": "01:29:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/8/#asr-001612"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

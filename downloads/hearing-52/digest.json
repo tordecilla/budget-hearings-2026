@@ -1,0 +1,2778 @@
+{
+  "hearing": {
+    "hearing_id": 52,
+    "title": "Senate Committee on Finance: DOJ - September 24, 2026",
+    "hearing_date": "2026-09-24",
+    "official_url": "https://www.youtube.com/watch?v=Nm73fsqsclA"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h52/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Justice and enforcement capacity",
+      "text": "Subcommittee G chair Senator Francis Kiko Pangilinan and Senators Panfilo Lacson and Joseph Victor \"JV\" G. Ejercito pressed Secretary Fredderick A. Vida and officials of the Department of Justice (DOJ) and its attached agencies on whether resources could support effective prosecutions, investigations, victim protection and fair treatment in custody. They highlighted staffing and equipment constraints at the National Bureau of Investigation (NBI), online child-protection funding, and agricultural-smuggling case-building. DOJ described its case-disposition calculation and agreed to add an explanatory notation and provide more disaggregated case information.",
+      "citations": []
+    },
+    {
+      "label": "Revenue, restoration and modernization",
+      "text": "Members sought clearer accounting for DOJ-family remittances and returns, special accounts, confidential-fund levels, witness protection and agency operating needs. The Bureau of Immigration (BI) explained the express-lane split, while the NBI requested higher agent hazard pay and Lacson identified its statutory basis. Members also examined immigration-system phases and the proposed Civil Aviation and Immigration Security Services partnership; BI said the proposal remained under review, with no final decision. The restoration and augmentation proposals discussed across the hearing were not recorded as approved appropriations.",
+      "citations": []
+    },
+    {
+      "label": "Corrections, food systems and plenary conditions",
+      "text": "DOJ and Bureau of Corrections (BuCor) officials discussed a stepwise transfer of the Bureau of Jail Management and Penology (BJMP) toward DOJ, with a technical working group with the Department of the Interior and Local Government (DILG) preparing a draft executive order and provincial-jail responsibilities identified as a legal issue. Senators also examined direct purchasing from farmers and fisherfolk, food procurement and agricultural-smuggling enforcement. DOJ agreed to provide input at a separate meeting before plenary. Pangilinan said he would endeavor to endorse restoration requests and deemed the budget submitted for plenary consideration subject to the requested information and separate meeting; this was not an appropriation approval.",
+      "citations": []
+    }
+  ],
+  "method_note": "Budget amounts are separated by status: agency submission, NEP recommendation, prior-year approved budget, and later restoration or augmentation requests. Hearing statements, estimates and unresolved scope differences remain attributed to the speakers. A request, expression of support or conditional plenary submission does not itself approve an appropriation.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Department-wide FY2027 proposal and NEP recommendation",
+          "text": "For FY2027, the Department of Justice (DOJ) and its attached agencies requested PHP 121.63 billion. The FY2027 National Expenditure Program (NEP) recommended PHP 46.435 billion for DOJ and its constituent attached agencies. Separately, DOJ Undersecretary Majken Anika S. Gran-Ong compared that NEP recommendation with the FY2026 approved DOJ-family budget of PHP 45.525 billion.",
+          "citations": [
+            {
+              "stable_id": "asr-000317",
+              "start_seconds": 1472.7,
+              "clock": "00:24:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000317"
+            },
+            {
+              "stable_id": "asr-000320",
+              "start_seconds": 1478.3600000000001,
+              "clock": "00:24:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000320"
+            },
+            {
+              "stable_id": "asr-000325",
+              "start_seconds": 1487.3200000000002,
+              "clock": "00:24:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000325"
+            },
+            {
+              "stable_id": "asr-000354",
+              "start_seconds": 1545.78,
+              "clock": "00:25:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000354"
+            },
+            {
+              "stable_id": "asr-000355",
+              "start_seconds": 1547.8600000000001,
+              "clock": "00:25:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000355"
+            },
+            {
+              "stable_id": "asr-000359",
+              "start_seconds": 1554.12,
+              "clock": "00:25:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000359"
+            },
+            {
+              "stable_id": "asr-000360",
+              "start_seconds": 1556.52,
+              "clock": "00:25:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000360"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-doj-and-attached-agencies",
+      "label": "DOJ and attached agencies budget",
+      "items": [
+        {
+          "label": "Appropriation mix and national-budget share",
+          "text": "The FY2027 NEP allocation was 68.32% for personal services, 24.42% for maintenance and other operating expenses, and 7.26% for capital outlay at selected DOJ agencies. Gran-Ong attributed the increase over FY2026 chiefly to salaries and compensation. Gran-Ong said the DOJ-family NEP allocation was 0.64% of the national proposal of PHP 7.2 trillion.",
+          "citations": [
+            {
+              "stable_id": "asr-000328",
+              "start_seconds": 1494.6399999999999,
+              "clock": "00:24:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000328"
+            },
+            {
+              "stable_id": "asr-000331",
+              "start_seconds": 1500.8600000000001,
+              "clock": "00:25:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000331"
+            },
+            {
+              "stable_id": "asr-000334",
+              "start_seconds": 1506.7800000000002,
+              "clock": "00:25:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000334"
+            },
+            {
+              "stable_id": "asr-000338",
+              "start_seconds": 1515.4,
+              "clock": "00:25:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000338"
+            },
+            {
+              "stable_id": "asr-000342",
+              "start_seconds": 1522.26,
+              "clock": "00:25:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000342"
+            }
+          ]
+        },
+        {
+          "label": "DOJ-family receipts and special-account return",
+          "text": "Lacson asked how much the income-generating DOJ family remitted to the National Treasury and how much returned through special accounts. DOJ Undersecretary Majken Anika S. Gran-Ong identified the National Bureau of Investigation (NBI), Bureau of Immigration (BI), Land Registration Authority (LRA), DOJ Office of the Secretary proper and Presidential Commission on Good Government (PCGG) as agencies with special accounts; the Office of the Secretary's income came from legal fees, service income and miscellaneous income. She reported total 2025 DOJ-family income of PHP 18,715,924,000. DOJ Assistant Secretary Maria Elisa B. Germar said she did not have the department-wide return total but could give agency figures. Lacson clarified that he sought the total returned through National Expenditure Program (NEP) special-account allocations, and Germar confirmed there were no returns outside special accounts.",
+          "citations": [
+            {
+              "stable_id": "asr-000679",
+              "start_seconds": 2423.24,
+              "clock": "00:40:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000679"
+            },
+            {
+              "stable_id": "asr-000680",
+              "start_seconds": 2424.92,
+              "clock": "00:40:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000680"
+            },
+            {
+              "stable_id": "asr-000611",
+              "start_seconds": 2272.04,
+              "clock": "00:37:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000611"
+            },
+            {
+              "stable_id": "asr-000649",
+              "start_seconds": 2347.1800000000003,
+              "clock": "00:39:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000649"
+            },
+            {
+              "stable_id": "asr-000720",
+              "start_seconds": 2504.5,
+              "clock": "00:41:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000720"
+            }
+          ]
+        },
+        {
+          "label": "DOJ remittances and releases",
+          "text": "Secretary of Justice Fredderick A. Vida reported that the DOJ family had remitted ₱18,715,924,000 to the Bureau of the Treasury, while ₱262,778,000 had been released from the Treasury special account to the DOJ family. Lacson noted the difference and said the committee would take note. These are aggregate remittance and release figures, not the BI express-lane collection split discussed earlier.",
+          "citations": [
+            {
+              "stable_id": "asr-003599",
+              "start_seconds": 7456.0,
+              "clock": "02:04:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003599"
+            },
+            {
+              "stable_id": "asr-003601",
+              "start_seconds": 7467.34,
+              "clock": "02:04:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003601"
+            },
+            {
+              "stable_id": "asr-003603",
+              "start_seconds": 7478.14,
+              "clock": "02:04:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003603"
+            },
+            {
+              "stable_id": "asr-003604",
+              "start_seconds": 7482.72,
+              "clock": "02:04:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003604"
+            }
+          ]
+        },
+        {
+          "label": "Restoration wish list for DOJ and attached agencies",
+          "text": "Senator Francis Kiko Pangilinan said he would meet separately with the department to review its restoration request and wish list, and would endeavor to endorse restoration so the agencies could do their work. Reading the list aloud, he gave an opening figure as “1 billion 26 million 795”; the transcript does not make the final grouping's unit clear. He then mentioned buildings at PHP 568 million alongside confidential-fund restoration and general administration; PHP 229 million for the Bureau of Corrections (BuCor); PHP 276 million for the Bureau of Immigration (BI), followed by hazard pay; and the National Bureau of Investigation (NBI), followed by PHP 299 million plus plus and additional confidential funds. The spoken sequence does not establish the precise scope or category of every figure. Pangilinan described an effort to endorse and obtain restoration; no amount was approved in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-005613",
+              "start_seconds": 12143.9,
+              "clock": "03:22:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005613"
+            },
+            {
+              "stable_id": "asr-005620",
+              "start_seconds": 12154.9,
+              "clock": "03:22:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005620"
+            },
+            {
+              "stable_id": "asr-005627",
+              "start_seconds": 12163.9,
+              "clock": "03:22:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005627"
+            },
+            {
+              "stable_id": "asr-005629",
+              "start_seconds": 12165.9,
+              "clock": "03:22:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005629"
+            },
+            {
+              "stable_id": "asr-005630",
+              "start_seconds": 12166.9,
+              "clock": "03:22:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005630"
+            },
+            {
+              "stable_id": "asr-005631",
+              "start_seconds": 12167.9,
+              "clock": "03:22:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005631"
+            },
+            {
+              "stable_id": "asr-005635",
+              "start_seconds": 12171.9,
+              "clock": "03:22:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005635"
+            },
+            {
+              "stable_id": "asr-005636",
+              "start_seconds": 12172.9,
+              "clock": "03:22:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005636"
+            },
+            {
+              "stable_id": "asr-005628",
+              "start_seconds": 12164.9,
+              "clock": "03:22:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005628"
+            },
+            {
+              "stable_id": "asr-005634",
+              "start_seconds": 12170.9,
+              "clock": "03:22:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005634"
+            },
+            {
+              "stable_id": "asr-005605",
+              "start_seconds": 12133.9,
+              "clock": "03:22:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005605"
+            },
+            {
+              "stable_id": "asr-005640",
+              "start_seconds": 12176.9,
+              "clock": "03:22:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005640"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-doj-office-of-the-secretary",
+      "label": "DOJ Office of the Secretary budget",
+      "items": [
+        {
+          "label": "Funding for child protection",
+          "text": "Pangilinan said the proposed FY2027 allocation for the National Coordination Center against Online Sexual Abuse or Exploitation of Children (OSAEC) and Child Sexual Abuse or Exploitation Materials (CISAEM) had fallen to ₱35.7 million, 61% below the FY2026 enacted level. He called for the state to act quickly against abuse of children and included the funding reduction among the issues for the DOJ's response.",
+          "citations": [
+            {
+              "stable_id": "asr-000066",
+              "start_seconds": 634.98,
+              "clock": "00:10:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000066"
+            },
+            {
+              "stable_id": "asr-000067",
+              "start_seconds": 638.4,
+              "clock": "00:10:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000067"
+            },
+            {
+              "stable_id": "asr-000068",
+              "start_seconds": 646.7,
+              "clock": "00:10:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000068"
+            }
+          ]
+        },
+        {
+          "label": "DOJ Office of the Secretary and program funding",
+          "text": "The FY2027 NEP provides the DOJ Office of the Secretary (OSEC) ₱13.930 billion: 70.67% for personal services, 12.46% for MOOE and 16.86% for capital outlay. The NPS budget increased 7.64%. The special enforcement and protection program was reduced to ₱204 million in FY2027 from FY2026 appropriations of ₱402 million, following reductions in anti-trafficking, anti-cybercrime and online sexual abuse or exploitation of children and child sexual abuse or exploitation materials budgets. The FY2027 target disposition rate for criminal complaints handled by the NPS was 97%; the Witness Protection Program aimed to act on all coverage applications, and special enforcement units targeted completion of 95.34% of investigations.\n\nThe recommended corrections-program appropriations fell 21.05% in FY2027. Pardons and parole services were recommended at ₱37 million, 2.63% below current-year approved funding. Victims' Compensation Service was reduced from ₱19 million in FY2026 to ₱8 million in FY2027. Under a ₱205 million FY2027 working budget for legal services, 4.59% above FY2026, the legal staff target was to act within the budget on 97.01% of legal-service requests.",
+          "citations": [
+            {
+              "stable_id": "asr-000384",
+              "start_seconds": 1604.12,
+              "clock": "00:26:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000384"
+            },
+            {
+              "stable_id": "asr-000386",
+              "start_seconds": 1607.74,
+              "clock": "00:26:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000386"
+            },
+            {
+              "stable_id": "asr-000387",
+              "start_seconds": 1610.24,
+              "clock": "00:26:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000387"
+            },
+            {
+              "stable_id": "asr-000388",
+              "start_seconds": 1612.26,
+              "clock": "00:26:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000388"
+            },
+            {
+              "stable_id": "asr-000389",
+              "start_seconds": 1614.32,
+              "clock": "00:26:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000389"
+            },
+            {
+              "stable_id": "asr-000390",
+              "start_seconds": 1616.3,
+              "clock": "00:26:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000390"
+            },
+            {
+              "stable_id": "asr-000393",
+              "start_seconds": 1622.22,
+              "clock": "00:27:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000393"
+            },
+            {
+              "stable_id": "asr-000402",
+              "start_seconds": 1639.6599999999999,
+              "clock": "00:27:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000402"
+            },
+            {
+              "stable_id": "asr-000403",
+              "start_seconds": 1642.26,
+              "clock": "00:27:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000403"
+            },
+            {
+              "stable_id": "asr-000407",
+              "start_seconds": 1649.74,
+              "clock": "00:27:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000407"
+            },
+            {
+              "stable_id": "asr-000412",
+              "start_seconds": 1660.2,
+              "clock": "00:27:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000412"
+            },
+            {
+              "stable_id": "asr-000416",
+              "start_seconds": 1668.48,
+              "clock": "00:27:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000416"
+            },
+            {
+              "stable_id": "asr-000419",
+              "start_seconds": 1674.7,
+              "clock": "00:27:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000419"
+            },
+            {
+              "stable_id": "asr-000424",
+              "start_seconds": 1684.28,
+              "clock": "00:28:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000424"
+            },
+            {
+              "stable_id": "asr-000429",
+              "start_seconds": 1694.32,
+              "clock": "00:28:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000429"
+            },
+            {
+              "stable_id": "asr-000430",
+              "start_seconds": 1696.2,
+              "clock": "00:28:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000430"
+            },
+            {
+              "stable_id": "asr-000434",
+              "start_seconds": 1704.06,
+              "clock": "00:28:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000434"
+            },
+            {
+              "stable_id": "asr-000446",
+              "start_seconds": 1728.1399999999999,
+              "clock": "00:28:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000446"
+            },
+            {
+              "stable_id": "asr-000447",
+              "start_seconds": 1730.88,
+              "clock": "00:28:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000447"
+            },
+            {
+              "stable_id": "asr-000448",
+              "start_seconds": 1732.26,
+              "clock": "00:28:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000448"
+            },
+            {
+              "stable_id": "asr-000425",
+              "start_seconds": 1686.38,
+              "clock": "00:28:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000425"
+            },
+            {
+              "stable_id": "asr-000443",
+              "start_seconds": 1722.1599999999999,
+              "clock": "00:28:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000443"
+            },
+            {
+              "stable_id": "asr-000385",
+              "start_seconds": 1606.44,
+              "clock": "00:26:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000385"
+            }
+          ]
+        },
+        {
+          "label": "DOJ confidential-fund request and restoration proposals",
+          "text": "Senator Joseph Victor \"JV\" G. Ejercito asked how reduced confidential funding would affect DOJ investigations and witness protection. Secretary of Justice Fredderick A. Vida said DOJ sought to restore confidential funding to the FY2026 level of PHP 1.1 billion. For FY2027, the NEP proposed PHP 579.4 million, which Ejercito described as 45.8% lower than the FY2026 level; Vida confirmed.\n\nVida identified restoration requests for the Office of the Secretary proper (PHP 214 million against PHP 34 million in the NEP) and the Witness Protection Program (PHP 500 million against PHP 319.9 million in the NEP). He said the Inter-Agency Council Against Trafficking's PHP 10 million was insufficient and needed augmentation. These were requests and restoration proposals; no approval or disposition was recorded in this round.",
+          "citations": [
+            {
+              "stable_id": "asr-001205",
+              "start_seconds": 3507.3,
+              "clock": "00:58:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001205"
+            },
+            {
+              "stable_id": "asr-001208",
+              "start_seconds": 3512.08,
+              "clock": "00:58:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001208"
+            },
+            {
+              "stable_id": "asr-001211",
+              "start_seconds": 3515.7200000000003,
+              "clock": "00:58:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001211"
+            },
+            {
+              "stable_id": "asr-001223",
+              "start_seconds": 3531.94,
+              "clock": "00:58:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001223"
+            },
+            {
+              "stable_id": "asr-001226",
+              "start_seconds": 3537.62,
+              "clock": "00:58:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001226"
+            },
+            {
+              "stable_id": "asr-001230",
+              "start_seconds": 3543.08,
+              "clock": "00:59:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001230"
+            },
+            {
+              "stable_id": "asr-001234",
+              "start_seconds": 3549.86,
+              "clock": "00:59:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001234"
+            },
+            {
+              "stable_id": "asr-001235",
+              "start_seconds": 3551.42,
+              "clock": "00:59:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001235"
+            },
+            {
+              "stable_id": "asr-001241",
+              "start_seconds": 3558.66,
+              "clock": "00:59:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001241"
+            }
+          ]
+        },
+        {
+          "label": "Office of Cybercrime and anti-OSAEC/CISAEM funding",
+          "text": "Vida requested restoration of PHP 475,000 for the DOJ Office of Cybercrime, explaining that its mandate had narrowed after the creation of the Cybercrime Investigation and Coordinating Center (CICC) and other bodies. He said the Office would seek confidential funds only for activities it needed and that DOJ favored regular procurement and liquidation where applicable. Ejercito and Lacson discussed the annual allocation, with Lacson stating PHP 425,000 while other turns cite PHP 475,000; the hearing contains both figures without a reconciliation. Vida also sought PHP 5 million for the National Coordination Center against Online Sexual Abuse and Exploitation of Children and Child Sexual Abuse or Exploitation Materials (NCC-OSAEC-CISAEM), which he said had received zero confidential funding in the proposal. These amounts were requests; no disposition was recorded.",
+          "citations": [
+            {
+              "stable_id": "asr-001249",
+              "start_seconds": 3566.7799999999997,
+              "clock": "00:59:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001249"
+            },
+            {
+              "stable_id": "asr-001273",
+              "start_seconds": 3592.84,
+              "clock": "00:59:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001273"
+            },
+            {
+              "stable_id": "asr-001283",
+              "start_seconds": 3606.96,
+              "clock": "01:00:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001283"
+            },
+            {
+              "stable_id": "asr-001290",
+              "start_seconds": 3621.4,
+              "clock": "01:00:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001290"
+            },
+            {
+              "stable_id": "asr-001356",
+              "start_seconds": 3755.1,
+              "clock": "01:02:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001356"
+            },
+            {
+              "stable_id": "asr-001358",
+              "start_seconds": 3759.16,
+              "clock": "01:02:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001358"
+            },
+            {
+              "stable_id": "asr-002681",
+              "start_seconds": 5805.92,
+              "clock": "01:36:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002681"
+            },
+            {
+              "stable_id": "asr-002690",
+              "start_seconds": 5814.06,
+              "clock": "01:36:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002690"
+            }
+          ]
+        },
+        {
+          "label": "Witness Protection Program funding request",
+          "text": "Ejercito asked whether the Witness Protection Program (WPP) budget was sufficient for 2027 and noted a request for an additional PHP 500 million that the Department of Budget and Management (DBM) had not provided. DOJ Secretary Fredderick A. Vida said the largest reduction was the confidential fund; the program was operating on a budget of around PHP 500 million for 2026, and continuing the same level of witness engagements would be difficult. Vida's basic request was to return to 2026 funding levels. Asked whether more state witnesses, including in flood-control investigations, could be expected, Vida said the number was unpredictable and that the existing system could take more witnesses if necessary.",
+          "citations": [
+            {
+              "stable_id": "asr-004383",
+              "start_seconds": 9675.72,
+              "clock": "02:41:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004383"
+            },
+            {
+              "stable_id": "asr-004385",
+              "start_seconds": 9690.72,
+              "clock": "02:41:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004385"
+            },
+            {
+              "stable_id": "asr-004388",
+              "start_seconds": 9707.72,
+              "clock": "02:41:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004388"
+            },
+            {
+              "stable_id": "asr-004367",
+              "start_seconds": 9627.72,
+              "clock": "02:40:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004367"
+            },
+            {
+              "stable_id": "asr-004400",
+              "start_seconds": 9752.72,
+              "clock": "02:42:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004400"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-bureau-of-corrections",
+      "label": "Bureau of Corrections budget",
+      "items": [
+        {
+          "label": "Bureau of Corrections budget and service targets",
+          "text": "The FY2027 NEP-recommended budget for BuCor was ₱11.93 billion, 9.66% above its FY2026 appropriations of ₱10.88 billion. With the recommendation, BuCor expected to safeguard an average of 56,454 PDLs daily and have 98.13% participate in rehabilitation programs.",
+          "citations": [
+            {
+              "stable_id": "asr-000453",
+              "start_seconds": 1742.2,
+              "clock": "00:29:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000453"
+            },
+            {
+              "stable_id": "asr-000454",
+              "start_seconds": 1744.44,
+              "clock": "00:29:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000454"
+            },
+            {
+              "stable_id": "asr-000456",
+              "start_seconds": 1747.98,
+              "clock": "00:29:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000456"
+            },
+            {
+              "stable_id": "asr-000459",
+              "start_seconds": 1754.04,
+              "clock": "00:29:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000459"
+            },
+            {
+              "stable_id": "asr-000462",
+              "start_seconds": 1759.88,
+              "clock": "00:29:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000462"
+            },
+            {
+              "stable_id": "asr-000460",
+              "start_seconds": 1757.42,
+              "clock": "00:29:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000460"
+            },
+            {
+              "stable_id": "asr-000463",
+              "start_seconds": 1762.26,
+              "clock": "00:29:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000463"
+            }
+          ]
+        },
+        {
+          "label": "Bureau of Corrections prison-facility request",
+          "text": "Ejercito said the NEP did not recommend the Bureau of Corrections (BuCor)'s PHP 63.5 billion request for construction of prison facilities. No disposition of this request was recorded in the round.",
+          "citations": [
+            {
+              "stable_id": "asr-001104",
+              "start_seconds": 3389.82,
+              "clock": "00:56:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001104"
+            }
+          ]
+        },
+        {
+          "label": "BuCor food budget and direct purchasing proposal",
+          "text": "Pangilinan said the Bureau of Corrections (BuCor) had about PHP 2 billion in food purchases and proposed allocating at least part of that amount to rice and other food bought directly from farmer and fisherfolk organizations under the Sagip Saka Act. He asked BuCor to consider a program like the Bureau of Jail Management and Penology (BJMP), or a hybrid of bidding and direct purchases. Director General Gregorio Pio P. Catapang Jr. said BuCor currently bids out food at PHP 100 per person deprived of liberty per day; under the bidding process, the winning contractor is required to procure farm products from local farmer cooperatives serving operating prison and penal farms. Catapang said BuCor operates about 32,000 hectares of penal-farm land, grows some of its own food, and has a joint venture with the Department of Agriculture. He described weekly low-cost public sales when there is surplus and said the agency wants to contribute to food security. Pangilinan requested supporting documentation and a report on how much of BuCor's food budget reaches farmers and fisherfolk. Vida said the department would require attached agencies to submit purchases and related projects, and would issue a department circular, after legal review, with implementation guidelines and an annual report to monitor the Act's benefits. Pangilinan requested the documentation and asked BuCor to consider combining bidding with direct purchases.",
+          "citations": [
+            {
+              "stable_id": "asr-004676",
+              "start_seconds": 10608.26,
+              "clock": "02:56:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004676"
+            },
+            {
+              "stable_id": "asr-004727",
+              "start_seconds": 10710.26,
+              "clock": "02:58:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004727"
+            },
+            {
+              "stable_id": "asr-004728",
+              "start_seconds": 10712.26,
+              "clock": "02:58:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004728"
+            },
+            {
+              "stable_id": "asr-004785",
+              "start_seconds": 10827.18,
+              "clock": "03:00:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004785"
+            },
+            {
+              "stable_id": "asr-004786",
+              "start_seconds": 10829.58,
+              "clock": "03:00:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004786"
+            },
+            {
+              "stable_id": "asr-004845",
+              "start_seconds": 10947.58,
+              "clock": "03:02:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004845"
+            },
+            {
+              "stable_id": "asr-004717",
+              "start_seconds": 10690.26,
+              "clock": "02:58:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004717"
+            }
+          ]
+        },
+        {
+          "label": "Sagip Saka purchases, local supply and food prices",
+          "text": "Pangilinan said the Sagip Saka Act allows national and local government bodies to buy accredited food and agricultural products directly from farmer and fisherfolk organizations for government programs. He first cited about PHP 591 million in BJMP food purchases and later referred to the amount as PHP 590 million from farmers and fisherfolk, and described a San Luis, Pampanga farmers' organization selling produce to jails in Regions III and the National Capital Region. He first corrected a claimed PHP 13 million sale to PHP 7 million, then separately referred to PHP 13 million in sales for that year; the precise period and relationship between those two figures are not clear in the exchange. Pangilinan said direct purchases improved food supplied to persons deprived of liberty and returned income to local stores and transport.\n\nHe also cited Quezon City's rice-subsidy purchases of about PHP 500 million through farmers' associations in the Irrigators Association Network he linked to the National Irrigation Administration (NIA). Pangilinan compared a typical bidding price of PHP 65 per kilogram with the PHP 55 per kilogram wholesale direct-purchase price, saying the lower rate saved the city about PHP 200 million. He described PHP 11.6 billion in direct government purchases from farmers and fisherfolk as of September 2026, against DBM's estimate of more than PHP 170 billion in food purchases by the whole government each year. He urged BuCor to consider direct purchases for part of its food needs, while Vida committed to collect the agencies' purchase data and report results as described in the BuCor budget discussion.",
+          "citations": [
+            {
+              "stable_id": "asr-004624",
+              "start_seconds": 10504.26,
+              "clock": "02:55:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004624"
+            },
+            {
+              "stable_id": "asr-004625",
+              "start_seconds": 10506.26,
+              "clock": "02:55:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004625"
+            },
+            {
+              "stable_id": "asr-004665",
+              "start_seconds": 10586.26,
+              "clock": "02:56:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004665"
+            },
+            {
+              "stable_id": "asr-004691",
+              "start_seconds": 10638.26,
+              "clock": "02:57:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004691"
+            },
+            {
+              "stable_id": "asr-004703",
+              "start_seconds": 10662.26,
+              "clock": "02:57:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004703"
+            },
+            {
+              "stable_id": "asr-004704",
+              "start_seconds": 10664.26,
+              "clock": "02:57:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004704"
+            },
+            {
+              "stable_id": "asr-004711",
+              "start_seconds": 10678.26,
+              "clock": "02:57:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004711"
+            },
+            {
+              "stable_id": "asr-004712",
+              "start_seconds": 10680.26,
+              "clock": "02:58:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004712"
+            },
+            {
+              "stable_id": "asr-004856",
+              "start_seconds": 10969.64,
+              "clock": "03:02:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004856"
+            },
+            {
+              "stable_id": "asr-004636",
+              "start_seconds": 10528.26,
+              "clock": "02:55:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004636"
+            },
+            {
+              "stable_id": "asr-004639",
+              "start_seconds": 10534.26,
+              "clock": "02:55:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004639"
+            },
+            {
+              "stable_id": "asr-004690",
+              "start_seconds": 10636.26,
+              "clock": "02:57:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004690"
+            },
+            {
+              "stable_id": "asr-004701",
+              "start_seconds": 10658.26,
+              "clock": "02:57:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004701"
+            },
+            {
+              "stable_id": "asr-004705",
+              "start_seconds": 10666.26,
+              "clock": "02:57:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004705"
+            },
+            {
+              "stable_id": "asr-004847",
+              "start_seconds": 10951.1,
+              "clock": "03:02:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004847"
+            },
+            {
+              "stable_id": "asr-004848",
+              "start_seconds": 10953.76,
+              "clock": "03:02:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004848"
+            },
+            {
+              "stable_id": "asr-004857",
+              "start_seconds": 10971.56,
+              "clock": "03:02:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004857"
+            },
+            {
+              "stable_id": "asr-004858",
+              "start_seconds": 10973.66,
+              "clock": "03:02:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004858"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-bureau-of-immigration",
+      "label": "Bureau of Immigration budget",
+      "items": [
+        {
+          "label": "Bureau of Immigration budget and service targets",
+          "text": "The FY2027 NEP-recommended BI budget was ₱2.98 billion, 35.8% below FY2026. Gran-Ong said BI would clear 99.99% of foreign arrivals and departures and dispose within 60 days of 95.91% of intelligence cases.",
+          "citations": [
+            {
+              "stable_id": "asr-000467",
+              "start_seconds": 1769.78,
+              "clock": "00:29:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000467"
+            },
+            {
+              "stable_id": "asr-000468",
+              "start_seconds": 1772.24,
+              "clock": "00:29:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000468"
+            },
+            {
+              "stable_id": "asr-000469",
+              "start_seconds": 1774.2,
+              "clock": "00:29:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000469"
+            },
+            {
+              "stable_id": "asr-000472",
+              "start_seconds": 1779.26,
+              "clock": "00:29:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000472"
+            },
+            {
+              "stable_id": "asr-000474",
+              "start_seconds": 1783.6599999999999,
+              "clock": "00:29:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000474"
+            },
+            {
+              "stable_id": "asr-000477",
+              "start_seconds": 1790.4,
+              "clock": "00:29:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000477"
+            },
+            {
+              "stable_id": "asr-000478",
+              "start_seconds": 1792.1399999999999,
+              "clock": "00:29:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000478"
+            }
+          ]
+        },
+        {
+          "label": "BI collections and overtime pay",
+          "text": "BI Commissioner Joel Anthony M. Viado reported PHP 4,669,787,927 remitted to the National Treasury in 2025 and PHP 2,658,991,272 for January through July 2026. He said BI had no special account; 11% of express-lane-fee collections went directly to the Treasury, amounting to PHP 249,309,317.50 in 2025 and PHP 197,436,965 for January through July 2026. After Pangilinan clarified that the 2025 collection figure was in the billions, Viado restated the full amount.\n\nLacson asked whether BI received any of its remittances back and raised restoring overtime pay, which Viado confirmed came from airlines. Lacson asked the committee chair to study how it could be restored; Pangilinan said the committee would review it and suggested incorporating the issue into BI's modernization bill. No restoration was approved in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-000864",
+              "start_seconds": 2780.3,
+              "clock": "00:46:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000864"
+            },
+            {
+              "stable_id": "asr-000866",
+              "start_seconds": 2786.02,
+              "clock": "00:46:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000866"
+            },
+            {
+              "stable_id": "asr-000868",
+              "start_seconds": 2788.24,
+              "clock": "00:46:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000868"
+            },
+            {
+              "stable_id": "asr-000876",
+              "start_seconds": 2806.24,
+              "clock": "00:46:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000876"
+            },
+            {
+              "stable_id": "asr-000877",
+              "start_seconds": 2811.9,
+              "clock": "00:46:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000877"
+            },
+            {
+              "stable_id": "asr-000893",
+              "start_seconds": 2841.38,
+              "clock": "00:47:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000893"
+            },
+            {
+              "stable_id": "asr-000900",
+              "start_seconds": 2859.84,
+              "clock": "00:47:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000900"
+            },
+            {
+              "stable_id": "asr-000914",
+              "start_seconds": 2898.16,
+              "clock": "00:48:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000914"
+            },
+            {
+              "stable_id": "asr-000930",
+              "start_seconds": 2942.92,
+              "clock": "00:49:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000930"
+            },
+            {
+              "stable_id": "asr-000943",
+              "start_seconds": 2978.92,
+              "clock": "00:49:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000943"
+            },
+            {
+              "stable_id": "asr-000950",
+              "start_seconds": 2991.74,
+              "clock": "00:49:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000950"
+            }
+          ]
+        },
+        {
+          "label": "Bureau of Immigration confidential-fund request",
+          "text": "Vida said the Bureau of Immigration (BI) had PHP 20 million in confidential funds for FY2027, the same amount as FY2026. Commissioner Joel Anthony M. Viado said additional funding would help its nationwide intelligence operations, with fewer than 100 intelligence agents and a small fugitive-search unit. Ejercito also noted that the NEP did not recommend PHP 1.602 billion for BI information-technology expansion. Asked for a proposal, Viado requested an additional PHP 10 million to PHP 20 million, or 50% to 100% of the existing amount. The additional amount was a request; no disposition was recorded.",
+          "citations": [
+            {
+              "stable_id": "asr-001301",
+              "start_seconds": 3646.02,
+              "clock": "01:00:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001301"
+            },
+            {
+              "stable_id": "asr-001313",
+              "start_seconds": 3670.98,
+              "clock": "01:01:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001313"
+            },
+            {
+              "stable_id": "asr-001314",
+              "start_seconds": 3672.08,
+              "clock": "01:01:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001314"
+            },
+            {
+              "stable_id": "asr-001350",
+              "start_seconds": 3742.94,
+              "clock": "01:02:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001350"
+            },
+            {
+              "stable_id": "asr-001351",
+              "start_seconds": 3745.42,
+              "clock": "01:02:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001351"
+            },
+            {
+              "stable_id": "asr-001352",
+              "start_seconds": 3747.32,
+              "clock": "01:02:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001352"
+            },
+            {
+              "stable_id": "asr-001099",
+              "start_seconds": 3381.92,
+              "clock": "00:56:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001099"
+            },
+            {
+              "stable_id": "asr-001100",
+              "start_seconds": 3383.98,
+              "clock": "00:56:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001100"
+            }
+          ]
+        },
+        {
+          "label": "Bureau of Immigration express-lane collections and remittances",
+          "text": "Senator Panfilo Lacson asked Bureau of Immigration (BI) Commissioner Joel Anthony M. Viado how express-lane collections were used. He cited the FY2026 special provision's allocation of collections: 64% for overtime, 25% for contractual personnel and 11% remitted to the Bureau of the Treasury. Viado clarified that BI collects the full amount, uses the 64% and 25% shares for those purposes, and sends the 11% share directly to the National Treasury.\n\nLacson cited BI's 2025 actual receipts of ₱2,027,699,000 as of December 31, expenditures at 92.6%, and a ₱346,400 cash balance for Treasury remittance.",
+          "citations": [
+            {
+              "stable_id": "asr-003441",
+              "start_seconds": 7051.58,
+              "clock": "01:57:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003441"
+            },
+            {
+              "stable_id": "asr-003443",
+              "start_seconds": 7054.4,
+              "clock": "01:57:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003443"
+            },
+            {
+              "stable_id": "asr-003445",
+              "start_seconds": 7057.98,
+              "clock": "01:57:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003445"
+            },
+            {
+              "stable_id": "asr-003446",
+              "start_seconds": 7061.48,
+              "clock": "01:57:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003446"
+            },
+            {
+              "stable_id": "asr-003448",
+              "start_seconds": 7064.18,
+              "clock": "01:57:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003448"
+            },
+            {
+              "stable_id": "asr-003461",
+              "start_seconds": 7087.48,
+              "clock": "01:58:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003461"
+            },
+            {
+              "stable_id": "asr-003463",
+              "start_seconds": 7093.32,
+              "clock": "01:58:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003463"
+            },
+            {
+              "stable_id": "asr-003466",
+              "start_seconds": 7097.9,
+              "clock": "01:58:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003466"
+            },
+            {
+              "stable_id": "asr-003486",
+              "start_seconds": 7133.4,
+              "clock": "01:58:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003486"
+            },
+            {
+              "stable_id": "asr-003487",
+              "start_seconds": 7135.78,
+              "clock": "01:58:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003487"
+            },
+            {
+              "stable_id": "asr-003488",
+              "start_seconds": 7136.68,
+              "clock": "01:58:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003488"
+            },
+            {
+              "stable_id": "asr-003489",
+              "start_seconds": 7138.34,
+              "clock": "01:58:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003489"
+            }
+          ]
+        },
+        {
+          "label": "BI system allocations and e-gate phases",
+          "text": "Senator Joseph Victor 'JV' G. Ejercito said the Bureau of Immigration (BI) had received almost PHP 10 billion in Border Management Information System (BMIS) allocations from 2017 through 2026. He cited PHP 524 million for 2027, compared with PHP 2.6 billion in 2024, PHP 3.8 billion in 2025 and PHP 1.8 billion in 2026, and asked what the system covered beyond airport e-gates.\n\nBI Commissioner Joel Anthony M. Viado described e-gate project phases: the first phase was initially PHP 1.9 billion and had been lowered to PHP 1.5 billion; he gave the second phase as approximately PHP 1,347,057,000 and the third phase for 2026 as PHP 536,072,000. Later, when Senator Panfilo Lacson asked what was needed for phase one, Viado said PHP 1.3 billion had already been provided. The exchange does not reconcile the differing phase-one amounts. Lacson confirmed that phase two was in the NEP and asked whether it was sufficient; Viado said it was enough.\n\nViado said phase one's procurement was complete, with a notice to proceed issued March 12, 2026, and implementation planned over nine months. Phase two's technical specifications were submitted to the DOJ Chief Information Technology Officer and approved September 8, 2026; the invitation to bid was posted September 19, with a pre-bid conference set for September 30. For phase three, BI had constituted a project management team and was preparing technical specifications after market scoping.",
+          "citations": [
+            {
+              "stable_id": "asr-003674",
+              "start_seconds": 7659.14,
+              "clock": "02:07:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003674"
+            },
+            {
+              "stable_id": "asr-003675",
+              "start_seconds": 7666.6,
+              "clock": "02:07:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003675"
+            },
+            {
+              "stable_id": "asr-003677",
+              "start_seconds": 7674.74,
+              "clock": "02:07:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003677"
+            },
+            {
+              "stable_id": "asr-003678",
+              "start_seconds": 7678.32,
+              "clock": "02:07:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003678"
+            },
+            {
+              "stable_id": "asr-003679",
+              "start_seconds": 7681.4,
+              "clock": "02:08:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003679"
+            },
+            {
+              "stable_id": "asr-003745",
+              "start_seconds": 7982.6,
+              "clock": "02:13:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003745"
+            },
+            {
+              "stable_id": "asr-003747",
+              "start_seconds": 8003.74,
+              "clock": "02:13:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003747"
+            },
+            {
+              "stable_id": "asr-003751",
+              "start_seconds": 8016.06,
+              "clock": "02:13:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003751"
+            },
+            {
+              "stable_id": "asr-003818",
+              "start_seconds": 8193.52,
+              "clock": "02:16:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003818"
+            },
+            {
+              "stable_id": "asr-003819",
+              "start_seconds": 8196.16,
+              "clock": "02:16:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003819"
+            },
+            {
+              "stable_id": "asr-003664",
+              "start_seconds": 7634.42,
+              "clock": "02:07:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003664"
+            },
+            {
+              "stable_id": "asr-003687",
+              "start_seconds": 7707.94,
+              "clock": "02:08:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003687"
+            },
+            {
+              "stable_id": "asr-003832",
+              "start_seconds": 8222.26,
+              "clock": "02:17:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003832"
+            },
+            {
+              "stable_id": "asr-003845",
+              "start_seconds": 8240.66,
+              "clock": "02:17:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003845"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-land-registration-authority",
+      "label": "Land Registration Authority budget",
+      "items": [
+        {
+          "label": "Land Registration Authority budget and service targets",
+          "text": "The FY2027 NEP-recommended Land Registration Authority (LRA) budget was ₱3.28 billion, 13.7% above its FY2026 budget of ₱2.88 billion. The authority targeted issuing at least 93.62% of titles and annotating 95.64% within 20 days after complete documents were submitted.",
+          "citations": [
+            {
+              "stable_id": "asr-000481",
+              "start_seconds": 1798.0,
+              "clock": "00:29:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000481"
+            },
+            {
+              "stable_id": "asr-000482",
+              "start_seconds": 1800.02,
+              "clock": "00:30:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000482"
+            },
+            {
+              "stable_id": "asr-000483",
+              "start_seconds": 1800.55,
+              "clock": "00:30:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000483"
+            },
+            {
+              "stable_id": "asr-000485",
+              "start_seconds": 1813.26,
+              "clock": "00:30:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000485"
+            },
+            {
+              "stable_id": "asr-000486",
+              "start_seconds": 1819.9,
+              "clock": "00:30:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000486"
+            }
+          ]
+        },
+        {
+          "label": "LRA remittance and proposed restoration",
+          "text": "Germar first cited PHP 2.2 billion as the LRA's 2025 special-account amount, then clarified that this was the special account in the general fund. LRA Administrator Gerardo P. Sirios said the LRA remitted about PHP 11.4 billion to the National Treasury in 2025. He explained that the agency was entitled under Presidential Decree No. 1529 to retain 20% through a special account, while the NEP provided 15% of its earnings. Lacson said this left a 5-percentage-point shortfall and proposed correcting it by returning the missing share to the LRA; the exchange records a proposal and the senator's stated intent to support the department, with no formal motion or disposition recorded. Lacson cited PHP 1.78 billion for the LRA in the NEP special-account return and repeated that the cited amount was short by 5%.",
+          "citations": [
+            {
+              "stable_id": "asr-000757",
+              "start_seconds": 2584.66,
+              "clock": "00:43:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000757"
+            },
+            {
+              "stable_id": "asr-000758",
+              "start_seconds": 2588.66,
+              "clock": "00:43:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000758"
+            },
+            {
+              "stable_id": "asr-000759",
+              "start_seconds": 2593.66,
+              "clock": "00:43:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000759"
+            },
+            {
+              "stable_id": "asr-000799",
+              "start_seconds": 2662.66,
+              "clock": "00:44:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000799"
+            },
+            {
+              "stable_id": "asr-000800",
+              "start_seconds": 2664.66,
+              "clock": "00:44:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000800"
+            },
+            {
+              "stable_id": "asr-000801",
+              "start_seconds": 2666.66,
+              "clock": "00:44:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000801"
+            },
+            {
+              "stable_id": "asr-000805",
+              "start_seconds": 2672.66,
+              "clock": "00:44:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000805"
+            },
+            {
+              "stable_id": "asr-000806",
+              "start_seconds": 2674.66,
+              "clock": "00:44:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000806"
+            },
+            {
+              "stable_id": "asr-000819",
+              "start_seconds": 2689.66,
+              "clock": "00:44:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000819"
+            },
+            {
+              "stable_id": "asr-000835",
+              "start_seconds": 2722.16,
+              "clock": "00:45:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000835"
+            },
+            {
+              "stable_id": "asr-000836",
+              "start_seconds": 2725.06,
+              "clock": "00:45:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000836"
+            },
+            {
+              "stable_id": "asr-001017",
+              "start_seconds": 3211.36,
+              "clock": "00:53:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001017"
+            },
+            {
+              "stable_id": "asr-001019",
+              "start_seconds": 3217.74,
+              "clock": "00:53:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001019"
+            },
+            {
+              "stable_id": "asr-000824",
+              "start_seconds": 2700.0,
+              "clock": "00:45:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000824"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-national-bureau-of-investigation",
+      "label": "National Bureau of Investigation budget",
+      "items": [
+        {
+          "label": "NBI investigative capacity and staffing",
+          "text": "Pangilinan questioned a 23% reduction in the National Bureau of Investigation (NBI) budget, including a nearly 90% cut to capital outlay, as cybercrime, scams, human trafficking and major financial crimes grow more complex. He linked investigative capacity to the availability of investigators, prosecutors, field offices, forensic tools and case-tracking systems. He also cited 898 vacant authorized positions and urged the DOJ to fill vacancies and equip investigators so it can build stronger cases and protect victims.",
+          "citations": [
+            {
+              "stable_id": "asr-000043",
+              "start_seconds": 519.74,
+              "clock": "00:08:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000043"
+            },
+            {
+              "stable_id": "asr-000044",
+              "start_seconds": 524.1,
+              "clock": "00:08:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000044"
+            },
+            {
+              "stable_id": "asr-000070",
+              "start_seconds": 657.42,
+              "clock": "00:10:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000070"
+            },
+            {
+              "stable_id": "asr-000071",
+              "start_seconds": 664.3399999999999,
+              "clock": "00:11:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000071"
+            },
+            {
+              "stable_id": "asr-000072",
+              "start_seconds": 672.86,
+              "clock": "00:11:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000072"
+            }
+          ]
+        },
+        {
+          "label": "National Bureau of Investigation budget and service targets",
+          "text": "The FY2027 NEP-recommended NBI budget was ₱3.03 billion, 22.34% below FY2026's ₱3.9 billion. The NBI expected to process more than 6.6 million clearances, with at least 98% issued within 10 minutes, and committed to conduct at least 50,000 investigations in FY2027.",
+          "citations": [
+            {
+              "stable_id": "asr-000487",
+              "start_seconds": 1826.98,
+              "clock": "00:30:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000487"
+            },
+            {
+              "stable_id": "asr-000488",
+              "start_seconds": 1843.64,
+              "clock": "00:30:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000488"
+            },
+            {
+              "stable_id": "asr-000489",
+              "start_seconds": 1850.7,
+              "clock": "00:30:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000489"
+            },
+            {
+              "stable_id": "asr-000490",
+              "start_seconds": 1856.38,
+              "clock": "00:30:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000490"
+            }
+          ]
+        },
+        {
+          "label": "NBI clearance receipts and retained income",
+          "text": "NBI Director Melvin Matibag said the NBI remitted PHP 855,101,000 in 2025, earned from NBI clearances. He described a PHP 130 clearance charge plus PHP 30 for the system provider, or PHP 160 total, and said the NBI modernization law entitled the bureau to 30% of earnings subject to a PHP 150 million annual cap; the NBI received the capped PHP 150 million each year.",
+          "citations": [
+            {
+              "stable_id": "asr-000962",
+              "start_seconds": 3011.82,
+              "clock": "00:50:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000962"
+            },
+            {
+              "stable_id": "asr-000964",
+              "start_seconds": 3021.42,
+              "clock": "00:50:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000964"
+            },
+            {
+              "stable_id": "asr-000966",
+              "start_seconds": 3026.7200000000003,
+              "clock": "00:50:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000966"
+            },
+            {
+              "stable_id": "asr-000967",
+              "start_seconds": 3028.2,
+              "clock": "00:50:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000967"
+            },
+            {
+              "stable_id": "asr-000970",
+              "start_seconds": 3042.3,
+              "clock": "00:50:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000970"
+            },
+            {
+              "stable_id": "asr-000972",
+              "start_seconds": 3050.52,
+              "clock": "00:50:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000972"
+            }
+          ]
+        },
+        {
+          "label": "National Bureau of Investigation confidential-fund request",
+          "text": "Vida stated National Bureau of Investigation (NBI) confidential funding as PHP 350.4 million in FY2026 and PHP 175.4 million in the FY2027 NEP. NBI Director Melvin Matibag clarified that the FY2026 GAAPO was about PHP 174 million and that congressional enhancement brought the amount to PHP 300 million; NBI sought about PHP 1 billion for FY2027. Matibag distinguished the original appropriation from its congressional enhancement. Matibag said the requested increase would support investigative operations and tools, citing an average cost of PHP 100,000 to PHP 200,000 per operation and about PHP 40 million monthly for 200 operations. He said the prior-year PHP 300 million allocation was divided into roughly PHP 25 million per month and described adjustments to travel and staffing to work within available funds. These were funding explanations and requests, not an approved increase.",
+          "citations": [
+            {
+              "stable_id": "asr-001383",
+              "start_seconds": 3806.78,
+              "clock": "01:03:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001383"
+            },
+            {
+              "stable_id": "asr-001387",
+              "start_seconds": 3814.78,
+              "clock": "01:03:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001387"
+            },
+            {
+              "stable_id": "asr-001414",
+              "start_seconds": 3873.14,
+              "clock": "01:04:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001414"
+            },
+            {
+              "stable_id": "asr-001418",
+              "start_seconds": 3881.14,
+              "clock": "01:04:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001418"
+            },
+            {
+              "stable_id": "asr-001422",
+              "start_seconds": 3888.64,
+              "clock": "01:04:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001422"
+            },
+            {
+              "stable_id": "asr-001496",
+              "start_seconds": 4037.8,
+              "clock": "01:07:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001496"
+            },
+            {
+              "stable_id": "asr-001497",
+              "start_seconds": 4040.66,
+              "clock": "01:07:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001497"
+            },
+            {
+              "stable_id": "asr-001500",
+              "start_seconds": 4045.62,
+              "clock": "01:07:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001500"
+            },
+            {
+              "stable_id": "asr-002407",
+              "start_seconds": 5465.78,
+              "clock": "01:31:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002407"
+            },
+            {
+              "stable_id": "asr-002417",
+              "start_seconds": 5482.1,
+              "clock": "01:31:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002417"
+            },
+            {
+              "stable_id": "asr-002419",
+              "start_seconds": 5485.82,
+              "clock": "01:31:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002419"
+            },
+            {
+              "stable_id": "asr-002422",
+              "start_seconds": 5490.12,
+              "clock": "01:31:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002422"
+            }
+          ]
+        },
+        {
+          "label": "NBI hazard-pay request and committee follow-up",
+          "text": "National Bureau of Investigation (NBI) Director Melvin Matibag requested an increase in agents' hazard pay from ₱4,000 to ₱15,000 per month, estimating an additional ₱97 million a year. He said the NBI had about 370 agents nationwide and had written to the Department of Budget and Management to increase staffing; he described a modernization-law minimum of six agents per region and district across 82 provinces.\n\nAfter Lacson asked whether the NBI Modernization Act already covered hazard pay, Matibag initially said he found no such provision. Lacson then located and read Section 10(E), Benefits and Privileges, which provides for hazard pay subject to applicable laws and rules. Matibag agreed the law supplied a basis and confirmed the ₱97 million annual calculation. Pangilinan directed him to address the request to the committee chair through Pangilinan, the committee vice chair. The exchange established the legal basis and submission route; the requested pay increase was not recorded as approved.",
+          "citations": [
+            {
+              "stable_id": "asr-003613",
+              "start_seconds": 7503.38,
+              "clock": "02:05:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003613"
+            },
+            {
+              "stable_id": "asr-003615",
+              "start_seconds": 7510.46,
+              "clock": "02:05:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003615"
+            },
+            {
+              "stable_id": "asr-003616",
+              "start_seconds": 7512.02,
+              "clock": "02:05:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003616"
+            },
+            {
+              "stable_id": "asr-003625",
+              "start_seconds": 7537.32,
+              "clock": "02:05:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003625"
+            },
+            {
+              "stable_id": "asr-003630",
+              "start_seconds": 7554.74,
+              "clock": "02:05:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003630"
+            },
+            {
+              "stable_id": "asr-003631",
+              "start_seconds": 7557.18,
+              "clock": "02:05:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003631"
+            },
+            {
+              "stable_id": "asr-003647",
+              "start_seconds": 7598.0,
+              "clock": "02:06:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003647"
+            },
+            {
+              "stable_id": "asr-003649",
+              "start_seconds": 7601.94,
+              "clock": "02:06:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003649"
+            },
+            {
+              "stable_id": "asr-003659",
+              "start_seconds": 7621.9,
+              "clock": "02:07:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003659"
+            },
+            {
+              "stable_id": "asr-003660",
+              "start_seconds": 7625.48,
+              "clock": "02:07:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003660"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-office-of-the-government-corporate-counsel",
+      "label": "Office of the Government Corporate Counsel budget",
+      "items": [
+        {
+          "label": "Office of the Government Corporate Counsel budget and targets",
+          "text": "The FY2027 NEP-recommended Office of the Government Corporate Counsel (OGCC) budget was ₱310 million, 2.21% below its FY2026 budget of ₱316 million. For FY2027, OGCC targeted filing all court pleadings within the prescribed period and reviewing 82% of contracts and rendering legal opinions within that period.",
+          "citations": [
+            {
+              "stable_id": "asr-000491",
+              "start_seconds": 1863.42,
+              "clock": "00:31:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000491"
+            },
+            {
+              "stable_id": "asr-000492",
+              "start_seconds": 1871.18,
+              "clock": "00:31:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000492"
+            },
+            {
+              "stable_id": "asr-000493",
+              "start_seconds": 1878.24,
+              "clock": "00:31:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000493"
+            },
+            {
+              "stable_id": "asr-000494",
+              "start_seconds": 1885.44,
+              "clock": "00:31:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000494"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-office-of-the-solicitor-general",
+      "label": "Office of the Solicitor General budget",
+      "items": [
+        {
+          "label": "Office of the Solicitor General budget and targets",
+          "text": "The FY2027 NEP-recommended Office of the Solicitor General (OSG) budget was ₱2.14 billion, up 13.15% from ₱1.9 billion in FY2026. The OSG aimed to act on at least 98% of referred cases in FY2027, with 99% acted on within 30 days, and resolve all naturalization petitions by year-end.",
+          "citations": [
+            {
+              "stable_id": "asr-000495",
+              "start_seconds": 1891.5,
+              "clock": "00:31:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000495"
+            },
+            {
+              "stable_id": "asr-000496",
+              "start_seconds": 1901.34,
+              "clock": "00:31:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000496"
+            },
+            {
+              "stable_id": "asr-000497",
+              "start_seconds": 1906.04,
+              "clock": "00:31:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000497"
+            },
+            {
+              "stable_id": "asr-000498",
+              "start_seconds": 1911.02,
+              "clock": "00:31:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000498"
+            },
+            {
+              "stable_id": "asr-000499",
+              "start_seconds": 1915.24,
+              "clock": "00:31:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000499"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-parole-and-probation-administration",
+      "label": "Parole and Probation Administration budget",
+      "items": [
+        {
+          "label": "Parole and Probation Administration budget and target",
+          "text": "The FY2027 NEP-recommended Parole and Probation Administration (PPA) budget was ₱1.25 billion, about 3.61% below its FY2026 approved budget of ₱1.3 billion. PPA expected 98.96% of clients to comply with its terms.",
+          "citations": [
+            {
+              "stable_id": "asr-000500",
+              "start_seconds": 1922.54,
+              "clock": "00:32:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000500"
+            },
+            {
+              "stable_id": "asr-000501",
+              "start_seconds": 1928.3600000000001,
+              "clock": "00:32:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000501"
+            },
+            {
+              "stable_id": "asr-000502",
+              "start_seconds": 1936.1,
+              "clock": "00:32:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000502"
+            },
+            {
+              "stable_id": "asr-000503",
+              "start_seconds": 1943.08,
+              "clock": "00:32:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000503"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-presidential-commission-on-good-government",
+      "label": "Presidential Commission on Good Government budget",
+      "items": [
+        {
+          "label": "Presidential Commission on Good Government budget and remittance target",
+          "text": "The FY2027 NEP-recommended Presidential Commission on Good Government (PCGG) budget was ₱339 million, 9.35% above its current-year appropriations of ₱310 million. PCGG targeted submitting at least ₱846 million in surrendered or sequestered assets to the Bureau of the Treasury in FY2027. This target is a remittance of assets, not an appropriation or operating budget.",
+          "citations": [
+            {
+              "stable_id": "asr-000504",
+              "start_seconds": 1945.24,
+              "clock": "00:32:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000504"
+            },
+            {
+              "stable_id": "asr-000505",
+              "start_seconds": 1961.66,
+              "clock": "00:32:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000505"
+            },
+            {
+              "stable_id": "asr-000506",
+              "start_seconds": 1967.2,
+              "clock": "00:32:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000506"
+            },
+            {
+              "stable_id": "asr-000507",
+              "start_seconds": 1975.24,
+              "clock": "00:32:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000507"
+            }
+          ]
+        },
+        {
+          "label": "Recovered asset proceeds",
+          "text": "The Presidential Commission on Good Government (PCGG) reported about ₱1.57 billion in recovered amounts and proceeds from fully taken-over sequestered assets in 2025 and expected to remit the same amount to the Treasury by year-end.",
+          "citations": [
+            {
+              "stable_id": "asr-000293",
+              "start_seconds": 1423.72,
+              "clock": "00:23:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000293"
+            },
+            {
+              "stable_id": "asr-000296",
+              "start_seconds": 1430.6599999999999,
+              "clock": "00:23:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000296"
+            },
+            {
+              "stable_id": "asr-000297",
+              "start_seconds": 1432.48,
+              "clock": "00:23:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000297"
+            },
+            {
+              "stable_id": "asr-000294",
+              "start_seconds": 1426.8600000000001,
+              "clock": "00:23:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000294"
+            },
+            {
+              "stable_id": "asr-000295",
+              "start_seconds": 1428.26,
+              "clock": "00:23:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000295"
+            }
+          ]
+        },
+        {
+          "label": "PCGG remittance and returned share",
+          "text": "Lacson asked PCGG Chairperson Melchor Quirino C. Sadang to clarify the commission's return. Sadang said PCGG remitted PHP 1.571 billion to the National Treasury and was entitled to 10%, half of which went to the Office of the Solicitor General (OSG) for representing the government in court. Of the PHP 1.5 billion discussed, Sadang said PCGG had availed of PHP 23 million. Lacson connected the OSG's PHP 118.6 million NEP amount to a portion of this return; Sadang confirmed it was part of the amount.",
+          "citations": [
+            {
+              "stable_id": "asr-001035",
+              "start_seconds": 3267.54,
+              "clock": "00:54:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001035"
+            },
+            {
+              "stable_id": "asr-001036",
+              "start_seconds": 3272.92,
+              "clock": "00:54:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001036"
+            },
+            {
+              "stable_id": "asr-001038",
+              "start_seconds": 3278.48,
+              "clock": "00:54:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001038"
+            },
+            {
+              "stable_id": "asr-001043",
+              "start_seconds": 3290.96,
+              "clock": "00:54:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001043"
+            },
+            {
+              "stable_id": "asr-001050",
+              "start_seconds": 3295.96,
+              "clock": "00:54:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001050"
+            },
+            {
+              "stable_id": "asr-001054",
+              "start_seconds": 3300.48,
+              "clock": "00:55:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001054"
+            },
+            {
+              "stable_id": "asr-001055",
+              "start_seconds": 3303.3,
+              "clock": "00:55:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001055"
+            },
+            {
+              "stable_id": "asr-001020",
+              "start_seconds": 3223.62,
+              "clock": "00:53:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-public-attorney-s-office",
+      "label": "Public Attorney's Office budget",
+      "items": [
+        {
+          "label": "Public Attorney's Office budget and targets",
+          "text": "The FY2027 NEP-recommended Public Attorney's Office (PAO) budget was ₱7.101 billion, 6.10% above its FY2026 budget of ₱6.693 billion. PAO targeted favorable judgments in 83.05% of disposed cases, including appeals, and action on all nonjudicial-service requests within two hours.",
+          "citations": [
+            {
+              "stable_id": "asr-000508",
+              "start_seconds": 1978.56,
+              "clock": "00:32:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000508"
+            },
+            {
+              "stable_id": "asr-000509",
+              "start_seconds": 1984.74,
+              "clock": "00:33:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000509"
+            },
+            {
+              "stable_id": "asr-000510",
+              "start_seconds": 1992.04,
+              "clock": "00:33:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000510"
+            },
+            {
+              "stable_id": "asr-000511",
+              "start_seconds": 1997.74,
+              "clock": "00:33:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000511"
+            },
+            {
+              "stable_id": "asr-000512",
+              "start_seconds": 2002.24,
+              "clock": "00:33:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000512"
+            },
+            {
+              "stable_id": "asr-000513",
+              "start_seconds": 2005.24,
+              "clock": "00:33:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000513"
+            }
+          ]
+        },
+        {
+          "label": "PAO trust-fund allowances",
+          "text": "Public Attorney's Office (PAO) Chief Persida V. Rueda-Acosta cited PHP 243,476,758.98 deposited overall in the PAO National Treasury Account trust fund and more than PHP 44,687,000 deposited in 2025. She said PAO had received none of the fund for the statutory special allowances of authorized PAO officials and lawyers, and said the promised upgrading of senior lawyers to the prosecutors' equivalent had also not been implemented by the Department of Budget and Management (DBM).",
+          "citations": [
+            {
+              "stable_id": "asr-000982",
+              "start_seconds": 3085.6,
+              "clock": "00:51:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000982"
+            },
+            {
+              "stable_id": "asr-000983",
+              "start_seconds": 3086.7200000000003,
+              "clock": "00:51:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000983"
+            },
+            {
+              "stable_id": "asr-000984",
+              "start_seconds": 3092.4,
+              "clock": "00:51:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000984"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-office-for-alternative-dispute-resolution",
+      "label": "Office for Alternative Dispute Resolution budget",
+      "items": [
+        {
+          "label": "Office for Alternative Dispute Resolution budget and targets",
+          "text": "The FY2027 NEP-recommended Office for Alternative Dispute Resolution (OADR) budget was ₱139 million, 16.27% below the current-year appropriation. Despite the reduction, OADR targeted training 1,880 practitioners and implementers and acting on all accreditation applications in FY2027.",
+          "citations": [
+            {
+              "stable_id": "asr-000515",
+              "start_seconds": 2014.14,
+              "clock": "00:33:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000515"
+            },
+            {
+              "stable_id": "asr-000516",
+              "start_seconds": 2017.8,
+              "clock": "00:33:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000516"
+            },
+            {
+              "stable_id": "asr-000517",
+              "start_seconds": 2023.84,
+              "clock": "00:33:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000517"
+            },
+            {
+              "stable_id": "asr-000518",
+              "start_seconds": 2030.08,
+              "clock": "00:33:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000518"
+            },
+            {
+              "stable_id": "asr-000519",
+              "start_seconds": 2035.24,
+              "clock": "00:33:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000519"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-department-of-justice-and-attached-agencies-presentation",
+      "label": "Department of Justice and attached agencies presentation",
+      "items": [
+        {
+          "label": "Opening and DOJ mandate",
+          "text": "Secretary of Justice Fredderick A. Vida presented the Department of Justice (DOJ) proposal for fiscal year 2027 with its attached agencies, then yielded to Undersecretary Majken Anika S. Gran-Ong. The DOJ's mandate spans criminal investigation, prosecution and corrections, immigration and citizenship, land titling, and free legal assistance for indigent people. Gran-Ong described the department's aim as an effective and equitable administration of justice grounded in the rule of law.",
+          "citations": [
+            {
+              "stable_id": "asr-000085",
+              "start_seconds": 760.2,
+              "clock": "00:12:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000085"
+            },
+            {
+              "stable_id": "asr-000110",
+              "start_seconds": 904.68,
+              "clock": "00:15:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000110"
+            }
+          ]
+        },
+        {
+          "label": "Prosecution and case outcomes",
+          "text": "The National Prosecution Service (NPS) handled 428,779 cases in 2025 and disposed of 395,780. Gran-Ong reported that 99.12% of cases were resolved within the prescribed 120 days, compared with 99.08% in 2024; the count included preliminary investigations, inquest cases and motions for reconsideration. The prosecution success rate reached 90.84% in 2025, up from 90.14% in 2024, which she attributed to stronger pretrial case-building, evidence standards and proactive criminal investigation.\n\nFor the first half of 2026, the NPS prosecution success rate was 91.38%; the case disposition rate was 97.96%. Gran-Ong separately cited a 94.94% success rate at the midyear point while anticipating further improvement by year-end. The Witness Protection Program reported 100% performance across its three first-half indicators. Special Enforcement and Protection Units reported 95.18% successful prosecution of monitored cases in 2025 and 94.23% in the first half of 2026; the special enforcement cluster's investigation-completion rate was 95.34% in 2025 and 95.76% at midyear 2026.",
+          "citations": [
+            {
+              "stable_id": "asr-000118",
+              "start_seconds": 967.6800000000001,
+              "clock": "00:16:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000118"
+            },
+            {
+              "stable_id": "asr-000137",
+              "start_seconds": 1073.46,
+              "clock": "00:17:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000137"
+            },
+            {
+              "stable_id": "asr-000148",
+              "start_seconds": 1135.58,
+              "clock": "00:18:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000148"
+            }
+          ]
+        },
+        {
+          "label": "Law enforcement, corrections and legal services",
+          "text": "In the first half of 2026, the department reported issuing all parole and executive-clemency resolutions and acting on all victim-compensation claims received in 2025 and the first half of 2026. The legal-services program acted on 99.12% of requests in the first half of 2026, compared with 99.05% in 2025.\n\nThe National Bureau of Investigation (NBI) conducted 32,419 investigations in the first half of 2026, against 56,212 for all of 2025. It processed 99.28% of clearance requests within 10 minutes in 2025 and 98.79% at the 2026 midyear point. The Bureau of Immigration (BI) cleared 99.99% of foreign arrivals and departures in 2025 and sustained that rate in the first half of 2026; it also exceeded its 95.91% target for intelligence cases disposed within 60 days by 0.51 percentage points.\n\nThe Bureau of Corrections (BuCor) managed an average of 52,708 persons deprived of liberty (PDLs) in the first half of 2026, down from 53,972 in 2025. Participation in rehabilitation programs rose to 98.60% from 97.97%. The Parole and Probation Administration (PPA) reported client compliance of 99.46% in the first half of 2026, compared with 98.96% in 2025; participation in community rehabilitation was 98.69% for 2025 and 98.75% at the 2026 midyear point.\n\nThe Public Attorney's Office (PAO) reported favorable judgments in disposed cases in 2025 and 2026 and a 91.43% alternative-dispute-resolution success rate in 2025. The Office of the Solicitor General (OSG) acted on 98.3% of its cases in 2025 and 98.6% in 2026 and acted on all naturalization petitions across the periods assessed. The Office of the Government Corporate Counsel (OGCC) filed all pleadings within the prescribed period from 2025 through 2026; at the 2026 midyear point it had reviewed contracts and rendered legal opinions within the prescribed period at an 88% rate, eight percentage points above the prior-year rate. The Land Registration Authority (LRA) reported that 93.94% of titles were issued and 95.67% annotated within 20 days of complete documents. The Office for Alternative Dispute Resolution (OADR) trained 3,392 practitioners and implementers in 2025 and acted on all applications for accreditation and training-program approval in 2025 and 2026.",
+          "citations": [
+            {
+              "stable_id": "asr-000158",
+              "start_seconds": 1155.6,
+              "clock": "00:19:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000158"
+            },
+            {
+              "stable_id": "asr-000174",
+              "start_seconds": 1187.82,
+              "clock": "00:19:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000174"
+            },
+            {
+              "stable_id": "asr-000214",
+              "start_seconds": 1267.56,
+              "clock": "00:21:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000214"
+            },
+            {
+              "stable_id": "asr-000239",
+              "start_seconds": 1316.66,
+              "clock": "00:21:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000239"
+            },
+            {
+              "stable_id": "asr-000304",
+              "start_seconds": 1446.7,
+              "clock": "00:24:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000304"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-priorities",
+      "label": "Opening priorities",
+      "items": [
+        {
+          "label": "Justice that works for ordinary Filipinos",
+          "text": "Opening the Committee on Finance, Subcommittee G hearing on the Department of Justice (DOJ) and its attached agencies' proposed FY2027 budget, Senator Francis Kiko Pangilinan framed the discussion around whether the justice system can deliver prompt, affordable, humane and equal justice, hold wrongdoers accountable, and operate transparently. Drawing on his experience defending the DOJ budget as Senate Committee on Justice chairperson 25 years earlier, he asked the department to explain its strategic plans and performance targets. Pangilinan also cited a Commission on Audit (COA)-based figure of ₱1.3 trillion in government funds stolen each year, underscoring the stakes he attached to an effective justice system.",
+          "citations": [
+            {
+              "stable_id": "asr-000033",
+              "start_seconds": 461.26,
+              "clock": "00:07:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000033"
+            },
+            {
+              "stable_id": "asr-000034",
+              "start_seconds": 467.3,
+              "clock": "00:07:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000034"
+            },
+            {
+              "stable_id": "asr-000037",
+              "start_seconds": 480.0,
+              "clock": "00:08:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000037"
+            },
+            {
+              "stable_id": "asr-000077",
+              "start_seconds": 692.0,
+              "clock": "00:11:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000077"
+            },
+            {
+              "stable_id": "asr-000081",
+              "start_seconds": 717.42,
+              "clock": "00:11:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000081"
+            }
+          ]
+        },
+        {
+          "label": "Agriculture-smuggling cases and accountability",
+          "text": "Pangilinan said that, of 45 agriculture economic-sabotage complaints referred to the DOJ by May, 35 had been returned for additional case-building. He connected agriculture smuggling to harm to farmers and fishers, persistently high food prices and hunger, and asked where forfeitures and convictions were. He urged the DOJ to coordinate agencies, build cases that can be brought to court, protect victims and hold offenders accountable.",
+          "citations": [
+            {
+              "stable_id": "asr-000060",
+              "start_seconds": 600.0,
+              "clock": "00:10:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000060"
+            },
+            {
+              "stable_id": "asr-000063",
+              "start_seconds": 622.2,
+              "clock": "00:10:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000063"
+            },
+            {
+              "stable_id": "asr-000064",
+              "start_seconds": 628.22,
+              "clock": "00:10:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000064"
+            },
+            {
+              "stable_id": "asr-000073",
+              "start_seconds": 679.64,
+              "clock": "00:11:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000073"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-panfilo-lacson",
+      "label": "Senator Panfilo Lacson",
+      "items": [
+        {
+          "label": "Case-disposition calculation and performance data",
+          "text": "Senator Panfilo Lacson questioned the Department of Justice (DOJ) calculation of a 99.12% disposition rate against 428,779 cases in 2025; his calculation was 92.3%. DOJ Secretary Fredderick A. Vida explained that the department treated 428,000 as the case universe, counted 395,780 resolved by December 31, and excluded 29,000 of 32,000 pending cases because they remained within the 120-day preliminary-investigation period. He said DOJ would add a notation explaining the calculation.\n\nLacson also asked for a case-performance chain showing how complaints progressed through filing, trial, dismissal, withdrawal, plea bargain, conviction, acquittal, archiving, appeal and final resolution. Vida agreed to submit disaggregated data with appropriate filters.",
+          "citations": [
+            {
+              "stable_id": "asr-000533",
+              "start_seconds": 2077.46,
+              "clock": "00:34:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000533"
+            },
+            {
+              "stable_id": "asr-000551",
+              "start_seconds": 2143.7,
+              "clock": "00:35:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000551"
+            },
+            {
+              "stable_id": "asr-000579",
+              "start_seconds": 2217.92,
+              "clock": "00:36:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000579"
+            },
+            {
+              "stable_id": "asr-000606",
+              "start_seconds": 2264.08,
+              "clock": "00:37:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000606"
+            }
+          ]
+        },
+        {
+          "label": "Proposed transfer and eventual consolidation of correctional services",
+          "text": "Lacson asked DOJ Secretary Fredderick A. Vida and Bureau of Corrections (BuCor) Director General Gregorio Pio P. Catapang Jr. about Secretary Juanito Victor “Jonvic” Remulla's proposal to transfer the Bureau of Jail Management and Penology (BJMP) from the Department of the Interior and Local Government (DILG) to the Department of Justice (DOJ), potentially leading to a unified correctional and penology system. Vida supported that direction and said a transfer could proceed operationally under the President's reorganization authority without a new law.\n\nCatapang proposed a stepwise approach: first detach BJMP from DILG as a bureau, address BuCor's internal issues before 2028, then have the DOJ Secretary conduct a sunset review on how to merge the services. He agreed that eventual consolidation was the goal. Vida described transferring BJMP to DOJ as the first step. Senator Francis Kiko Pangilinan said an executive order under the Administrative Code could effect the transfer.\n\nDOJ Undersecretary Deo Marco reported that DOJ, DILG and BJMP had formed a technical working group and expected to finish a draft executive order by the end of that month. He identified a possible issue under the Local Government Code, which assigns provincial jails to provinces. When Pangilinan asked for the exact provision, Marco said he would look it up. The draft order was still in progress; no transfer had been completed in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-003501",
+              "start_seconds": 7153.6,
+              "clock": "01:59:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003501"
+            },
+            {
+              "stable_id": "asr-003511",
+              "start_seconds": 7174.22,
+              "clock": "01:59:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003511"
+            },
+            {
+              "stable_id": "asr-003527",
+              "start_seconds": 7212.62,
+              "clock": "02:00:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003527"
+            },
+            {
+              "stable_id": "asr-003568",
+              "start_seconds": 7369.34,
+              "clock": "02:02:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003568"
+            },
+            {
+              "stable_id": "asr-003587",
+              "start_seconds": 7426.72,
+              "clock": "02:03:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003587"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "NBI enforcement, cyber threats and foreign interference",
+          "text": "Matibag described the NBI's growing cybercrime workload, saying about seven of ten complaints involved cybercrime, scams or related activity. He discussed investigations of online threats and coordination with foreign counterparts, and said the NBI was preparing a legislative framework for age-gating and threat monitoring, with schools helping validate threats. Ejercito asked whether foreign funding might support online influence activity. Matibag said there were strong indications of information manipulation and interference by foreign entities, explicitly cautioning that this did not necessarily mean a foreign government or sovereign; he also discussed transnational organized crime and possible foreign support for destabilizing activity. No specific sovereign attribution was established. He said the NBI would report progress to the Senate.\n\nMatibag said NBI planned overseas liaison capacity under its modernization law, beginning in selected regions with Filipino workers, and was preparing a framework with the Department of Foreign Affairs. Senator Francis Kiko Pangilinan urged a pilot approach and offered committee help; Matibag said implementation depended on funding and suggested some presence could begin the following year. For operational support, Matibag cited in-kind food provisions and donated drones from Philip Morris for crime-fighting use, as well as assistance from the Philippine Charity Sweepstakes Office (PCSO), Philippine Amusement and Gaming Corporation (PAGCOR) and DOJ. These were described as support and coordination, not appropriations.",
+          "citations": [
+            {
+              "stable_id": "asr-001732",
+              "start_seconds": 4505.72,
+              "clock": "01:15:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001732"
+            },
+            {
+              "stable_id": "asr-001744",
+              "start_seconds": 4530.44,
+              "clock": "01:15:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001744"
+            },
+            {
+              "stable_id": "asr-001887",
+              "start_seconds": 4817.84,
+              "clock": "01:20:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001887"
+            },
+            {
+              "stable_id": "asr-002079",
+              "start_seconds": 5091.9,
+              "clock": "01:24:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002079"
+            },
+            {
+              "stable_id": "asr-002184",
+              "start_seconds": 5208.72,
+              "clock": "01:26:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002184"
+            },
+            {
+              "stable_id": "asr-001688",
+              "start_seconds": 4421.8,
+              "clock": "01:13:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001688"
+            },
+            {
+              "stable_id": "asr-001693",
+              "start_seconds": 4430.74,
+              "clock": "01:13:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001693"
+            },
+            {
+              "stable_id": "asr-001715",
+              "start_seconds": 4473.4,
+              "clock": "01:14:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-001715"
+            }
+          ]
+        },
+        {
+          "label": "Agricultural smuggling enforcement and case-building",
+          "text": "Ejercito welcomed DOJ's lead role under the Anti-Agricultural Economic Sabotage Act and said enforcement should protect farmers and consumers and produce cases against major smugglers. Prosecutor General Richard Anthony Fadullon reported about 58 complaints filed under Republic Act 12022 and 10 indictments, with seized goods in those indicted matters valued at about PHP 529,641,506.80. Separately, he said referred cases had been returned for additional case-building. Vida confirmed that 45 cases had been referred and 35 returned for case build-up. These are distinct counts and values. Fadullon said DOJ worked with the Philippine National Police (PNP), NBI and Department of Finance, while private entities including Philip Morris supported prosecutors and law enforcement across regions so case-building would not be centralized in Manila. He said implementation funding had not yet been released and that seized products and enforcement personnel could disappear; resources and earlier release would help agencies conduct operations.\n\nPangilinan cited prior reports of more than 100 agriculture-smuggling cases forwarded to DOJ, saying 90 had been dismissed and that the Bureau of Customs (BOC) failed to supply certified true copies in 90% of cases. Vida confirmed document deficiencies, including missing bills of lading and certified copies, and said DOJ was directing BOC officials to complete case-build-up. DOJ was returning cases to BOC or the Bureau of Internal Revenue (BIR) for resubmission within timelines, subject to prescription rules, with possible dereliction-of-duty consequences for noncompliance. Matibag said NBI would pursue cases against responsible operators, including a private-port operator, rather than only drivers and helpers.\n\nPangilinan challenged DOJ and NBI to show that major smugglers were not untouchable and pledged support for their budgets if enforcement produced results. Vida responded that DOJ would apply the rule of law and prosecute those who should be prosecuted. Pangilinan said smuggling harms farmers, fishers and consumers and undermines food security; he offered support and committed to continue working with DOJ toward results. Ejercito likewise supported effective implementation and enforcement against smuggling, cartel activity, profiteering and hoarding. Matibag said a tripartite DOJ-Bureau of Customs-NBI agreement focused on case-building was planned for September 28. Pangilinan asked why the Department of Agriculture was not included; Vida explained that the agreement addressed case-building and coordination after cases were being dismissed for missing documents. The agreement was described as planned, not completed.",
+          "citations": [
+            {
+              "stable_id": "asr-002746",
+              "start_seconds": 5879.76,
+              "clock": "01:37:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002746"
+            },
+            {
+              "stable_id": "asr-002869",
+              "start_seconds": 6017.16,
+              "clock": "01:40:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002869"
+            },
+            {
+              "stable_id": "asr-002891",
+              "start_seconds": 6044.32,
+              "clock": "01:40:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002891"
+            },
+            {
+              "stable_id": "asr-002892",
+              "start_seconds": 6045.4,
+              "clock": "01:40:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002892"
+            },
+            {
+              "stable_id": "asr-002893",
+              "start_seconds": 6046.94,
+              "clock": "01:40:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-002893"
+            },
+            {
+              "stable_id": "asr-003134",
+              "start_seconds": 6445.98,
+              "clock": "01:47:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003134"
+            },
+            {
+              "stable_id": "asr-003143",
+              "start_seconds": 6471.14,
+              "clock": "01:47:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003143"
+            },
+            {
+              "stable_id": "asr-003173",
+              "start_seconds": 6539.88,
+              "clock": "01:48:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003173"
+            },
+            {
+              "stable_id": "asr-003228",
+              "start_seconds": 6673.94,
+              "clock": "01:51:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003228"
+            },
+            {
+              "stable_id": "asr-003259",
+              "start_seconds": 6741.68,
+              "clock": "01:52:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003259"
+            },
+            {
+              "stable_id": "asr-003312",
+              "start_seconds": 6859.64,
+              "clock": "01:54:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003312"
+            }
+          ]
+        },
+        {
+          "label": "E-gate functions, access and officer discretion",
+          "text": "Viado said the e-gate system is intended to strengthen border control, prevent fraud and speed immigration processing. Its components include biometrics-capture devices at staffed counters; self-service gates that read passports, capture and match live biometrics, check regulatory records and open only when checks pass; a central Automated Biometric Identification System; monitoring workstations; secure data exchange; administrative and document-verification software; network and server infrastructure; integration with border-control databases; backup and disaster recovery; maintenance and warranty; and staff training. He said the system must connect airports nationwide, not only those in Metro Manila.\n\nViado described facial recognition and automated processing as a staged transition. Although e-gates may reduce or eventually remove some manual counter processing, he said BI was still at an early stage, expected passenger traffic to rise, needed officers to staff gates and systems, and would retain immigration-officer discretion to prevent entry. When an e-gate flags a problem, human intervention is still needed. Viado said BI had about 1,800–1,900 immigration officers nationwide and was short-staffed; he noted the officers' broad island and coastal-area responsibilities.\n\nViado reported 78 donated e-gates at Terminals 1 and 3 from New NAIA Infra Corporation (NNIC), which allowed BI to direct its own funds to other airports. He said 47 e-gates were deployed in Cebu, Clark, Bohol and Davao, alongside 57 biometric-capture devices. A departure order would trigger a red flag and prevent passage, with an officer intervening.\n\nEjercito asked why eligibility differed for arrivals and departures. Viado said Filipinos could use e-gates on arrival from the December 2025 launch; overseas Filipino workers (OFWs) could use them on departure from February 2026; eligible temporary visitors under Executive Order No. 408's 30-day visa-free arrangement could use departure gates from May 2026; foreign nationals in the Balikbayan Program, non-first-time Filipino travelers and people registered with the Commission on Filipinos Overseas could use departure gates from June 2026. BI planned to open arrival access to other eligible foreign nationals in the first quarter of 2027 and departure access in the second quarter. Viado said Filipino departures still required anti-trafficking checks under the Inter-Agency Council Against Trafficking, of which BI is a member.",
+          "citations": [
+            {
+              "stable_id": "asr-003690",
+              "start_seconds": 7713.58,
+              "clock": "02:08:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003690"
+            },
+            {
+              "stable_id": "asr-003808",
+              "start_seconds": 8165.04,
+              "clock": "02:16:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003808"
+            },
+            {
+              "stable_id": "asr-003921",
+              "start_seconds": 8415.92,
+              "clock": "02:20:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003921"
+            },
+            {
+              "stable_id": "asr-003928",
+              "start_seconds": 8433.1,
+              "clock": "02:20:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-003928"
+            },
+            {
+              "stable_id": "asr-004042",
+              "start_seconds": 8699.22,
+              "clock": "02:24:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004042"
+            },
+            {
+              "stable_id": "asr-004059",
+              "start_seconds": 8745.22,
+              "clock": "02:25:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004059"
+            }
+          ]
+        },
+        {
+          "label": "CAIS border-screening proposal and passenger fee",
+          "text": "Ejercito asked about the proposed Civil Aviation and Immigration Security Services (CAIS) public-private partnership (PPP), including its purpose, proponent and estimated PHP 10.7 billion project cost. Viado stressed that CAIS remained under review and that no final decision had been made; support for border-security modernization did not mean automatic approval. He said the proponent still had to justify its fee, technology, financial structure and commercial terms, and that BI, the Department of Justice (DOJ), the Department of Finance and the PPP Center would independently assess whether the proposal was necessary, reasonable and in the public interest.\n\nViado described CAIS as an integrated system combining advanced passenger information, biometrics, automated immigration processing, threat analytics and command functions, with technology refreshes every four years over 20 years. He estimated PHP 10.7 billion in initial private-proponent spending, PHP 116 billion in operating costs over 20 years, and PHP 52.2 billion for hardware upgrades over that period. He said the system would connect existing systems and use passenger manifests and relevant databases, including INTERPOL, to assess travelers before they reached the border. Viado said BI itself would incur no expense under the proposal.\n\nFor recovery of the proponent's costs, Viado described a proposed service fee of US$4 per travel, or US$8 for a round trip, He separately quoted a little over PHP 240 for the proposed per-travel charge. He compared this with charges he cited in Japan (about PHP 1,100), Hong Kong (PHP 1,400–1,500), Thailand (about PHP 1,800), Singapore (about PHP 2,400) and Australia (about PHP 2,600). He said the fee would be integrated into the airline ticket; no such charge was then being collected in the Philippines. Viado said the proposal and fee remained under evaluation and technical review by BI, DOJ and the PPP Center, with public consultation still to be arranged.",
+          "citations": [
+            {
+              "stable_id": "asr-004098",
+              "start_seconds": 8930.22,
+              "clock": "02:28:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004098"
+            },
+            {
+              "stable_id": "asr-004143",
+              "start_seconds": 9058.2,
+              "clock": "02:30:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004143"
+            },
+            {
+              "stable_id": "asr-004145",
+              "start_seconds": 9063.46,
+              "clock": "02:31:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004145"
+            },
+            {
+              "stable_id": "asr-004148",
+              "start_seconds": 9070.68,
+              "clock": "02:31:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004148"
+            },
+            {
+              "stable_id": "asr-004151",
+              "start_seconds": 9076.82,
+              "clock": "02:31:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004151"
+            },
+            {
+              "stable_id": "asr-004296",
+              "start_seconds": 9434.72,
+              "clock": "02:37:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004296"
+            },
+            {
+              "stable_id": "asr-004301",
+              "start_seconds": 9446.72,
+              "clock": "02:37:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004301"
+            },
+            {
+              "stable_id": "asr-004303",
+              "start_seconds": 9453.72,
+              "clock": "02:37:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004303"
+            },
+            {
+              "stable_id": "asr-004306",
+              "start_seconds": 9464.72,
+              "clock": "02:37:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004306"
+            },
+            {
+              "stable_id": "asr-004312",
+              "start_seconds": 9475.72,
+              "clock": "02:37:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004312"
+            },
+            {
+              "stable_id": "asr-004314",
+              "start_seconds": 9481.72,
+              "clock": "02:38:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004314"
+            },
+            {
+              "stable_id": "asr-004315",
+              "start_seconds": 9484.72,
+              "clock": "02:38:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004315"
+            },
+            {
+              "stable_id": "asr-004316",
+              "start_seconds": 9487.72,
+              "clock": "02:38:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004316"
+            },
+            {
+              "stable_id": "asr-004318",
+              "start_seconds": 9491.72,
+              "clock": "02:38:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004318"
+            },
+            {
+              "stable_id": "asr-004105",
+              "start_seconds": 8960.62,
+              "clock": "02:29:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004105"
+            },
+            {
+              "stable_id": "asr-004149",
+              "start_seconds": 9072.34,
+              "clock": "02:31:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004149"
+            },
+            {
+              "stable_id": "asr-004152",
+              "start_seconds": 9080.1,
+              "clock": "02:31:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004152"
+            },
+            {
+              "stable_id": "asr-004350",
+              "start_seconds": 9589.72,
+              "clock": "02:39:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004350"
+            },
+            {
+              "stable_id": "asr-004340",
+              "start_seconds": 9555.72,
+              "clock": "02:39:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004340"
+            }
+          ]
+        },
+        {
+          "label": "State-witness criteria and flood-control investigations",
+          "text": "Ejercito asked how prosecutors weigh an accused person's evidence, participation in the crime and restitution when considering admission as a state witness. Prosecutor General Richard Anthony Fadullon said applicants are not automatically admitted: the case must involve a grave penalty, the testimony must be substantially relevant and corroborable on most material points, and the applicant must not be the most guilty. He said restitution is not expressly required by statute, but an agreement with the Justice Secretary may set conditions, including whether the applicant will return funds.\n\nAsked about contractors and public officials in flood-control cases, Fadullon said an accused may be discharged as a state witness even after a case is filed, depending on the value of the testimony. He reported about 14 live cases filed and referred to the Office of the Ombudsman and being handled by DOJ prosecutors. Other matters remained under evaluation or investigation by the National Bureau of Investigation (NBI), which continued gathering evidence to identify liability and others who might be accountable.",
+          "citations": [
+            {
+              "stable_id": "asr-004402",
+              "start_seconds": 9767.72,
+              "clock": "02:42:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004402"
+            },
+            {
+              "stable_id": "asr-004407",
+              "start_seconds": 9795.72,
+              "clock": "02:43:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004407"
+            },
+            {
+              "stable_id": "asr-004414",
+              "start_seconds": 9890.72,
+              "clock": "02:44:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004414"
+            },
+            {
+              "stable_id": "asr-004418",
+              "start_seconds": 9920.8,
+              "clock": "02:45:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004418"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-francis-kiko-pangilinan",
+      "label": "Senator Francis Kiko Pangilinan",
+      "items": [
+        {
+          "label": "Restitution testimony and state-witness agreements",
+          "text": "Senator Francis Kiko Pangilinan asked how the government reconciled an amount of PHP 1.841 million described as restituted with testimony by Undersecretary Bernardo that he had turned over PHP 5 billion each year for three years to then Secretary Bonoan, or about PHP 15 billion in total. Pangilinan emphasized that the testimony was under oath and that both men were state witnesses, while describing the alleged PHP 15 billion as subject to rebuttal.\n\nProsecutor General Richard Anthony Fadullon clarified that DOJ did not process Bonoan as a state witness or through the Witness Protection Program: he had been charged, and the Ombudsman filed the case with the Sandiganbayan before the decision to use him as a state witness. Fadullon said the conditions and any return computation were not visible to DOJ. He explained that restitution computations for DOJ witnesses use project-specific statements, project involvement, the percentage allegedly received, and validation against other respondents; it is not a figure selected without a basis. Secretary of Justice Fredderick A. Vida added that agreements with four current state witnesses covered only the particular project in which a witness admitted earning money improperly; a later-discovered project would not be covered by that agreement. Pangilinan said government still had an obligation to clarify the figures, but recognized that this matter was with the Ombudsman and suggested the Finance Committee or plenary could ask it. No reconciliation or total restitution figure for the testimony was provided in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-004446",
+              "start_seconds": 10043.12,
+              "clock": "02:47:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004446"
+            },
+            {
+              "stable_id": "asr-004454",
+              "start_seconds": 10090.64,
+              "clock": "02:48:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004454"
+            },
+            {
+              "stable_id": "asr-004456",
+              "start_seconds": 10095.64,
+              "clock": "02:48:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004456"
+            },
+            {
+              "stable_id": "asr-004462",
+              "start_seconds": 10110.16,
+              "clock": "02:48:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004462"
+            },
+            {
+              "stable_id": "asr-004464",
+              "start_seconds": 10115.28,
+              "clock": "02:48:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004464"
+            },
+            {
+              "stable_id": "asr-004468",
+              "start_seconds": 10134.72,
+              "clock": "02:48:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004468"
+            },
+            {
+              "stable_id": "asr-004480",
+              "start_seconds": 10194.72,
+              "clock": "02:49:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004480"
+            },
+            {
+              "stable_id": "asr-004440",
+              "start_seconds": 10008.42,
+              "clock": "02:46:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004440"
+            },
+            {
+              "stable_id": "asr-004486",
+              "start_seconds": 10214.36,
+              "clock": "02:50:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004486"
+            },
+            {
+              "stable_id": "asr-004539",
+              "start_seconds": 10331.14,
+              "clock": "02:52:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004539"
+            },
+            {
+              "stable_id": "asr-004465",
+              "start_seconds": 10119.12,
+              "clock": "02:48:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004465"
+            },
+            {
+              "stable_id": "asr-004478",
+              "start_seconds": 10182.16,
+              "clock": "02:49:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004478"
+            }
+          ]
+        },
+        {
+          "label": "Agricultural smuggling meeting and committee inputs",
+          "text": "Pangilinan requested a separate meeting with DOJ Secretary Vida and the NBI director before plenary on agricultural smuggling, to obtain DOJ input while the committee finalized its report. Vida agreed that DOJ would make itself available. Pangilinan said he was willing to meet regularly and wanted DOJ's input on the committee's prior hearings. The meeting was agreed to, with no date set in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-004578",
+              "start_seconds": 10413.02,
+              "clock": "02:53:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004578"
+            },
+            {
+              "stable_id": "asr-004598",
+              "start_seconds": 10448.26,
+              "clock": "02:54:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004598"
+            }
+          ]
+        },
+        {
+          "label": "Farm-gate and retail price disparities",
+          "text": "Pangilinan argued that direct market access can give farmers a reliable buyer and help raise production and supply. As an example, he said tomatoes had been bought from farmers for PHP 4 per kilogram, while transport from Baguio to Manila added about PHP 10 per kilogram; he estimated that a reasonable Manila price could be PHP 15 per kilogram, or PHP 30 with a doubled margin, while the Metro Manila selling price he cited was PHP 90 per kilogram, leaving a PHP 60 margin. He used the comparison to criticize low farm-gate prices alongside high retail food costs and said dependable government purchasing could benefit farmers and consumers. These were his examples and estimates in the hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-004880",
+              "start_seconds": 11017.9,
+              "clock": "03:03:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004880"
+            },
+            {
+              "stable_id": "asr-004885",
+              "start_seconds": 11028.3,
+              "clock": "03:03:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004885"
+            },
+            {
+              "stable_id": "asr-004907",
+              "start_seconds": 11070.9,
+              "clock": "03:04:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004907"
+            },
+            {
+              "stable_id": "asr-004908",
+              "start_seconds": 11073.44,
+              "clock": "03:04:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004908"
+            },
+            {
+              "stable_id": "asr-004917",
+              "start_seconds": 11091.18,
+              "clock": "03:04:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004917"
+            },
+            {
+              "stable_id": "asr-004920",
+              "start_seconds": 11097.42,
+              "clock": "03:04:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004920"
+            },
+            {
+              "stable_id": "asr-004924",
+              "start_seconds": 11105.44,
+              "clock": "03:05:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004924"
+            },
+            {
+              "stable_id": "asr-004927",
+              "start_seconds": 11111.06,
+              "clock": "03:05:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004927"
+            },
+            {
+              "stable_id": "asr-004881",
+              "start_seconds": 11019.58,
+              "clock": "03:03:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004881"
+            },
+            {
+              "stable_id": "asr-004911",
+              "start_seconds": 11079.18,
+              "clock": "03:04:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004911"
+            },
+            {
+              "stable_id": "asr-004912",
+              "start_seconds": 11080.7,
+              "clock": "03:04:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004912"
+            }
+          ]
+        },
+        {
+          "label": "Local jails and proposed executive-order transfer",
+          "text": "Pangilinan asked whether Section 17 of the Local Government Code makes provincial jails an exclusive local-government responsibility. Undersecretary Deo Marco described the provision as requiring local governments to endeavor to be self-reliant and provide listed basic services, including provincial jails. Pangilinan emphasized that 'endeavor' did not make the mandate exclusive or assign primary responsibility, and Marco agreed that the law left room for an executive order transferring the Bureau of Jail Management and Penology (BJMP) to DOJ. Marco said DOJ had a legal basis, based on its study, and was drafting an order for presidential approval; he cited a prior transfer of the Philippine Coast Guard by executive order as an example.\n\nPangilinan said Department of the Interior and Local Government (DILG) Secretary Juanito Victor C. Remulla supported the proposal and pressed for a working deadline, suggesting it could be done before year-end if the President wished. Vida said there was a clear roadmap, but no issuance date or completed transfer was stated. Pangilinan noted that agencies had previously been moved from the Department of Agriculture to the Office of the President by executive order.",
+          "citations": [
+            {
+              "stable_id": "asr-005084",
+              "start_seconds": 11394.18,
+              "clock": "03:09:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005084"
+            },
+            {
+              "stable_id": "asr-005104",
+              "start_seconds": 11428.56,
+              "clock": "03:10:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005104"
+            },
+            {
+              "stable_id": "asr-005128",
+              "start_seconds": 11459.96,
+              "clock": "03:10:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005128"
+            },
+            {
+              "stable_id": "asr-005146",
+              "start_seconds": 11488.44,
+              "clock": "03:11:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005146"
+            },
+            {
+              "stable_id": "asr-005161",
+              "start_seconds": 11507.48,
+              "clock": "03:11:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005161"
+            },
+            {
+              "stable_id": "asr-005168",
+              "start_seconds": 11517.08,
+              "clock": "03:11:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005168"
+            }
+          ]
+        },
+        {
+          "label": "Prosecution success, convictions and evidence-standard reforms",
+          "text": "Pangilinan distinguished prosecution success from conviction rates. He cited DOJ figures of 91% prosecution success and 59% convictions for 2026, and 90.8% success and 44.7% convictions for 2025, then asked how conviction rates could improve. He cited international comparisons of 80% to 90%, Japan at about 90% or more, and Singapore at 95%, while explicitly saying the figures came from AI and needed validation. These were his attributed comparisons, not verified benchmarks.\n\nVida reported that in 2025 courts decided 404,124 cases, including 180,000 convictions (44%), 18,234 acquittals, 23,017 successfully mediated matters, 30,000 archived cases and 14,000 transferred for jurisdiction. He described 56% as disposed by the courts while separating convictions from other outcomes. For the first half of 2026, he said the conviction rate had risen from 44.75% to 59.21%, almost 60%, following DOJ's higher filing standard: prima facie evidence with reasonable certainty of conviction. Vida said stronger screening reduced cases filed in court, dismissed cases that could not be won, and improved access to legal services by preventing people without effective counsel from being subjected to weak cases.\n\nFadullon said the higher evidence standard was introduced in 2023, so most cases in the historical figures had been filed under the former probable-cause standard. He described earlier prosecutor-law-enforcement collaboration at the start of a case, including National Bureau of Investigation (NBI), Philippine National Police (PNP), Philippine Drug Enforcement Agency (PDEA), Bureau of Internal Revenue (BIR) and Bureau of Customs (BOC), as necessary to build stronger cases; he said the process was still adjusting and coordination could improve. He characterized the smaller set of filed cases as quality cases more likely to succeed in court.",
+          "citations": [
+            {
+              "stable_id": "asr-004995",
+              "start_seconds": 11243.22,
+              "clock": "03:07:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-004995"
+            },
+            {
+              "stable_id": "asr-005044",
+              "start_seconds": 11337.04,
+              "clock": "03:08:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005044"
+            },
+            {
+              "stable_id": "asr-005204",
+              "start_seconds": 11568.96,
+              "clock": "03:12:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005204"
+            },
+            {
+              "stable_id": "asr-005251",
+              "start_seconds": 11652.22,
+              "clock": "03:14:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005251"
+            },
+            {
+              "stable_id": "asr-005325",
+              "start_seconds": 11762.58,
+              "clock": "03:16:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005325"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-closing-commitments-and-plenary-submission",
+      "label": "Closing commitments and plenary submission",
+      "items": [
+        {
+          "label": "Justice system accountability and delayed convictions",
+          "text": "Senator Francis Kiko Pangilinan said the flood-control scandal put the justice system on trial along with the politicians and public-works officials implicated. He recalled that people had welcomed the Sandiganbayan conviction of those involved in the 2004 fertilizer scam, but it came 21 years later. Pangilinan warned that the public would doubt the system if the current corruption cases followed the same path. He framed the hearings and prosecutions as part of a wider effort to redirect the country's course, with the Senate, House and impeachment process also subject to judgment by history.",
+          "citations": [
+            {
+              "stable_id": "asr-005432",
+              "start_seconds": 11897.28,
+              "clock": "03:18:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005432"
+            },
+            {
+              "stable_id": "asr-005480",
+              "start_seconds": 11959.42,
+              "clock": "03:19:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005480"
+            },
+            {
+              "stable_id": "asr-005495",
+              "start_seconds": 11977.8,
+              "clock": "03:19:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005495"
+            },
+            {
+              "stable_id": "asr-005532",
+              "start_seconds": 12020.56,
+              "clock": "03:20:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005532"
+            }
+          ]
+        },
+        {
+          "label": "Plenary submission and suspension",
+          "text": "Pangilinan made plenary submission conditional on the department providing the requested documents and information and on a separate meeting. Subject to those steps, he deemed the DOJ and attached-agency budget submitted for plenary consideration. He thanked the officials and suspended the subcommittee hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-005641",
+              "start_seconds": 12192.76,
+              "clock": "03:23:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005641"
+            },
+            {
+              "stable_id": "asr-005642",
+              "start_seconds": 12204.54,
+              "clock": "03:23:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005642"
+            },
+            {
+              "stable_id": "asr-005643",
+              "start_seconds": 12216.74,
+              "clock": "03:23:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-005643"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

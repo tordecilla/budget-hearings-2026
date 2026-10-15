@@ -1,0 +1,5389 @@
+{
+  "hearing": {
+    "id": 21,
+    "title": "House Committee on Appropriations: OP - September 1, 2026",
+    "hearing_date": "2026-09-01",
+    "official_url": "https://www.youtube.com/watch?v=er7cgNmaAm8"
+  },
+  "revision_id": 3951,
+  "revision_number": 50,
+  "notice": "AI-assisted working draft. AI can make errors. Always check quotations, names, rulings, and other consequential details against the official video.",
+  "segments": [
+    {
+      "stable_id": "asr-000001",
+      "start_seconds": 239.92,
+      "end_seconds": 256.24,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "The budget hearing of the Committee on Appropriations on House Bill No. 10858, the Fiscal Year 2027 General Appropriations Bill, is hereby resumed."
+    },
+    {
+      "stable_id": "asr-000002",
+      "start_seconds": 258.33,
+      "end_seconds": 268.47,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Please rise for the singing of the National Anthem and remain standing for the prayer to be led by Vice Chair Irene Labad-Labad."
+    },
+    {
+      "stable_id": "asr-000003",
+      "start_seconds": 278.24,
+      "end_seconds": 317.92,
+      "speaker": "National Anthem video singers",
+      "text": "[unclear]"
+    },
+    {
+      "stable_id": "asr-000004",
+      "start_seconds": 317.94,
+      "end_seconds": 327.6,
+      "speaker": "National Anthem video singers",
+      "text": "Lupa ng araw, nang luala hati't pagsinta, buhay ay langit sa piling mo."
+    },
+    {
+      "stable_id": "asr-000005",
+      "start_seconds": 328.88,
+      "end_seconds": 338.04,
+      "speaker": "National Anthem video singers",
+      "text": "Habi'y gaya na pag may mga abig, ang mamatay ng dahil sa'yo."
+    },
+    {
+      "stable_id": "asr-000006",
+      "start_seconds": 346.1,
+      "end_seconds": 353.82,
+      "speaker": "Rep. Irene G. Labadlabad",
+      "text": "Almighty God, we come before you today with grateful hearts as we begin this budget briefing of the Office of the President."
+    },
+    {
+      "stable_id": "asr-000007",
+      "start_seconds": 354.2,
+      "end_seconds": 355.4,
+      "speaker": "Rep. Irene G. Labadlabad",
+      "text": "Grant wisdom."
+    },
+    {
+      "stable_id": "asr-000008",
+      "start_seconds": 355.42,
+      "end_seconds": 363.68,
+      "speaker": "Rep. Irene G. Labadlabad",
+      "text": "Grant wisdom and discernment to the Chair, the Honorable Members of this Committee, and all officials and representatives gathered here today."
+    },
+    {
+      "stable_id": "asr-000009",
+      "start_seconds": 364.48,
+      "end_seconds": 374.14,
+      "speaker": "Rep. Irene G. Labadlabad",
+      "text": "Guide our discussions so that they may be conducted with respect, transparency, and a sincere commitment to the welfare of the Filipino people."
+    },
+    {
+      "stable_id": "asr-000010",
+      "start_seconds": 375.02,
+      "end_seconds": 382.84,
+      "speaker": "Rep. Irene G. Labadlabad",
+      "text": "As we deliberate on the resources entrusted to government, remind us that public funds are a public trust."
+    },
+    {
+      "stable_id": "asr-000011",
+      "start_seconds": 382.84,
+      "end_seconds": 385.12,
+      "speaker": "Rep. Irene G. Labadlabad",
+      "text": "Give us the wisdom to distinguish."
+    },
+    {
+      "stable_id": "asr-000012",
+      "start_seconds": 385.42,
+      "end_seconds": 391.94,
+      "speaker": "Rep. Irene G. Labadlabad",
+      "text": "What is necessary, and the prudence to ensure that every peso serves a meaningful public purpose."
+    },
+    {
+      "stable_id": "asr-000013",
+      "start_seconds": 392.74,
+      "end_seconds": 399.68,
+      "speaker": "Rep. Irene G. Labadlabad",
+      "text": "May our decisions uplift our communities, strengthen our institutions, and advance the common good."
+    },
+    {
+      "stable_id": "asr-000014",
+      "start_seconds": 400.54,
+      "end_seconds": 405.92,
+      "speaker": "Rep. Irene G. Labadlabad",
+      "text": "Bless our leaders, our nation, and the people whom we are privileged to serve."
+    },
+    {
+      "stable_id": "asr-000015",
+      "start_seconds": 406.44,
+      "end_seconds": 409.54,
+      "speaker": "Rep. Irene G. Labadlabad",
+      "text": "With humility and faith, we offer this prayer."
+    },
+    {
+      "stable_id": "asr-000016",
+      "start_seconds": 410.18,
+      "end_seconds": 410.38,
+      "speaker": "Rep. Irene G. Labadlabad",
+      "text": "Amen."
+    },
+    {
+      "stable_id": "asr-000017",
+      "start_seconds": 420.93,
+      "end_seconds": 422.45,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Committee Secretary, please acknowledge..."
+    },
+    {
+      "stable_id": "asr-000018",
+      "start_seconds": 423.49,
+      "end_seconds": 427.41,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "May we acknowledge the members present and the resource persons present today."
+    },
+    {
+      "stable_id": "asr-000019",
+      "start_seconds": 428.79,
+      "end_seconds": 430.89,
+      "speaker": "Committee Secretary",
+      "text": "Good morning. Thank you, Mr. Chairman."
+    },
+    {
+      "stable_id": "asr-000020",
+      "start_seconds": 431.41,
+      "end_seconds": 434.13,
+      "speaker": "Committee Secretary",
+      "text": "May we acknowledge the following members."
+    },
+    {
+      "stable_id": "asr-000021",
+      "start_seconds": 434.79,
+      "end_seconds": 437.23,
+      "speaker": "Committee Secretary",
+      "text": "Senior Deputy Speaker, Ferdinand Hernandez."
+    },
+    {
+      "stable_id": "asr-000022",
+      "start_seconds": 438.45,
+      "end_seconds": 440.39,
+      "speaker": "Committee Secretary",
+      "text": "Minority Leader, Marcelino Libanan."
+    },
+    {
+      "stable_id": "asr-000023",
+      "start_seconds": 441.47,
+      "end_seconds": 443.51,
+      "speaker": "Committee Secretary",
+      "text": "Deputy Majority Leader, Bong Tevez."
+    },
+    {
+      "stable_id": "asr-000024",
+      "start_seconds": 444.55,
+      "end_seconds": 446.67,
+      "speaker": "Committee Secretary",
+      "text": "Deputy Speaker, Bambi Emano."
+    },
+    {
+      "stable_id": "asr-000025",
+      "start_seconds": 448.11,
+      "end_seconds": 450.35,
+      "speaker": "Committee Secretary",
+      "text": "Deputy Minority Leader, Antonio Tinio."
+    },
+    {
+      "stable_id": "asr-000026",
+      "start_seconds": 451.21,
+      "end_seconds": 453.41,
+      "speaker": "Committee Secretary",
+      "text": "Deputy Majority Leader, John Baron."
+    },
+    {
+      "stable_id": "asr-000027",
+      "start_seconds": 453.81,
+      "end_seconds": 458.13,
+      "speaker": "Committee Secretary",
+      "text": "Deputy Majority Leader, Lower Vice Chancellor,"
+    },
+    {
+      "stable_id": "asr-000028",
+      "start_seconds": 458.13,
+      "end_seconds": 459.57,
+      "speaker": "Committee Secretary",
+      "text": "Chair Mica Suansing."
+    },
+    {
+      "stable_id": "asr-000029",
+      "start_seconds": 460.23,
+      "end_seconds": 461.79,
+      "speaker": "Committee Secretary",
+      "text": "Senior Vice Chair, Albert Garcia."
+    },
+    {
+      "stable_id": "asr-000030",
+      "start_seconds": 462.29,
+      "end_seconds": 464.77,
+      "speaker": "Committee Secretary",
+      "text": "Vice Chair, Monique Lagdameo."
+    },
+    {
+      "stable_id": "asr-000031",
+      "start_seconds": 465.47,
+      "end_seconds": 467.25,
+      "speaker": "Committee Secretary",
+      "text": "Vice Chair, Irene Labadlabad."
+    },
+    {
+      "stable_id": "asr-000032",
+      "start_seconds": 467.77,
+      "end_seconds": 469.53,
+      "speaker": "Committee Secretary",
+      "text": "Vice Chair, Dante Garcia."
+    },
+    {
+      "stable_id": "asr-000033",
+      "start_seconds": 470.09,
+      "end_seconds": 471.99,
+      "speaker": "Committee Secretary",
+      "text": "Vice Chair, Ditse Tina Pancho."
+    },
+    {
+      "stable_id": "asr-000034",
+      "start_seconds": 472.79,
+      "end_seconds": 474.49,
+      "speaker": "Committee Secretary",
+      "text": "Vice Chair, Driesneel Yap."
+    },
+    {
+      "stable_id": "asr-000035",
+      "start_seconds": 475.05,
+      "end_seconds": 477.39,
+      "speaker": "Committee Secretary",
+      "text": "Vice Chair, Bernadette Escudero."
+    },
+    {
+      "stable_id": "asr-000036",
+      "start_seconds": 478.71,
+      "end_seconds": 482.11,
+      "speaker": "Committee Secretary",
+      "text": "Vice Chair, Maria Christina Talavera Lopez."
+    },
+    {
+      "stable_id": "asr-000037",
+      "start_seconds": 482.11,
+      "end_seconds": 492.13,
+      "speaker": "Committee Secretary",
+      "text": "Vice Chair Ompong Ordanez, Vice Chair Marcy Chodoro, Vice Chair Joboy Aquino, Vice Chair Mike Tan."
+    },
+    {
+      "stable_id": "asr-000038",
+      "start_seconds": 492.87,
+      "end_seconds": 500.21,
+      "speaker": "Committee Secretary",
+      "text": "We also have Representative Edgar Erice, Representative Miro Quimbo, Representative Elijah San Fernando,"
+    },
+    {
+      "stable_id": "asr-000039",
+      "start_seconds": 501.05,
+      "end_seconds": 508.79,
+      "speaker": "Committee Secretary",
+      "text": "Representative Carlos Loria, Representative Rene Co, Representative Tonypet Albano,"
+    },
+    {
+      "stable_id": "asr-000040",
+      "start_seconds": 508.79,
+      "end_seconds": 516.79,
+      "speaker": "Committee Secretary",
+      "text": "Representative Carl Ligaspi, Representative Sara Elago, Representative Iris Montes,"
+    },
+    {
+      "stable_id": "asr-000041",
+      "start_seconds": 517.43,
+      "end_seconds": 525.47,
+      "speaker": "Committee Secretary",
+      "text": "Representative Caroline Aguiao, Representative Benjamin Agarau, Representative Kenneth Tereng,"
+    },
+    {
+      "stable_id": "asr-000042",
+      "start_seconds": 526.25,
+      "end_seconds": 531.63,
+      "speaker": "Committee Secretary",
+      "text": "Representative Ricardo Cruz, Representative Christine Singson Mijan,"
+    },
+    {
+      "stable_id": "asr-000043",
+      "start_seconds": 531.63,
+      "end_seconds": 538.63,
+      "speaker": "Committee Secretary",
+      "text": "Representative Salvador Pleyto, Vice Chair Angela Garcia, Representative Edsel Galea,"
+    },
+    {
+      "stable_id": "asr-000044",
+      "start_seconds": 538.79,
+      "end_seconds": 548.23,
+      "speaker": "Committee Secretary",
+      "text": "Representative Richard Gomez, Representative Alan T., Vice Chair Joseph Tan, and Vice Chair Bernadette Escudero."
+    },
+    {
+      "stable_id": "asr-000045",
+      "start_seconds": 549.23,
+      "end_seconds": 559.03,
+      "speaker": "Committee Secretary",
+      "text": "And Madam Chair, Mr. Chairman, may we acknowledge the Office of the Executive Secretary,"
+    },
+    {
+      "stable_id": "asr-000046",
+      "start_seconds": 559.03,
+      "end_seconds": 561.89,
+      "speaker": "Committee Secretary",
+      "text": "headed by Executive Secretary Ralph Recto. Good morning, sir."
+    },
+    {
+      "stable_id": "asr-000047",
+      "start_seconds": 563.15,
+      "end_seconds": 567.47,
+      "speaker": "Committee Secretary",
+      "text": "Senior Deputy Executive Secretary Maria Lualhati Dorotan Choseco."
+    },
+    {
+      "stable_id": "asr-000048",
+      "start_seconds": 568.79,
+      "end_seconds": 573.77,
+      "speaker": "Committee Secretary",
+      "text": "Deputy Executive Secretary for Finance and Administration, Joseph Irvin Ovenza."
+    },
+    {
+      "stable_id": "asr-000049",
+      "start_seconds": 575.21,
+      "end_seconds": 579.21,
+      "speaker": "Committee Secretary",
+      "text": "Deputy Executive Secretary for Legal Affairs, Jesse Hermogenes Andres."
+    },
+    {
+      "stable_id": "asr-000050",
+      "start_seconds": 580.85,
+      "end_seconds": 586.13,
+      "speaker": "Committee Secretary",
+      "text": "Deputy Executive Secretary for General Administration, Daniel Maria Riesa Culangel."
+    },
+    {
+      "stable_id": "asr-000051",
+      "start_seconds": 587.15,
+      "end_seconds": 591.91,
+      "speaker": "Committee Secretary",
+      "text": "Deputy Executive Secretary for Support Services and Auxiliaries, Danny Santiago."
+    },
+    {
+      "stable_id": "asr-000052",
+      "start_seconds": 594.3,
+      "end_seconds": 600.04,
+      "speaker": "Committee Secretary",
+      "text": "Director General Maria Helen De La Vega, Office of the Director General for Operations."
+    },
+    {
+      "stable_id": "asr-000053",
+      "start_seconds": 600.26,
+      "end_seconds": 611.02,
+      "speaker": "Committee Secretary",
+      "text": "Executive Director Danilo Pamonag, National Secretariat of the National Task Force to End Local Armed Conflict, or NTF-LCAP."
+    },
+    {
+      "stable_id": "asr-000054",
+      "start_seconds": 612.82,
+      "end_seconds": 615.28,
+      "speaker": "Committee Secretary",
+      "text": "Undersecretary Facundo Falufox de Fort."
+    },
+    {
+      "stable_id": "asr-000055",
+      "start_seconds": 617.42,
+      "end_seconds": 619.5,
+      "speaker": "Committee Secretary",
+      "text": "Undersecretary Georgina Anya."
+    },
+    {
+      "stable_id": "asr-000056",
+      "start_seconds": 622.14,
+      "end_seconds": 624.08,
+      "speaker": "Committee Secretary",
+      "text": "Undersecretary Erwin Santaana."
+    },
+    {
+      "stable_id": "asr-000057",
+      "start_seconds": 625.76,
+      "end_seconds": 628.3,
+      "speaker": "Committee Secretary",
+      "text": "Undersecretary Leonardo Roy Cervantes."
+    },
+    {
+      "stable_id": "asr-000058",
+      "start_seconds": 629.02,
+      "end_seconds": 631.3,
+      "speaker": "Committee Secretary",
+      "text": "Assistant Executive Secretary Rowena Santana."
+    },
+    {
+      "stable_id": "asr-000059",
+      "start_seconds": 632.08,
+      "end_seconds": 634.08,
+      "speaker": "Committee Secretary",
+      "text": "Undersecretary Daniel Sanchez."
+    },
+    {
+      "stable_id": "asr-000060",
+      "start_seconds": 634.08,
+      "end_seconds": 636.08,
+      "speaker": "Committee Secretary",
+      "text": "That's all, Mr. Chairman."
+    },
+    {
+      "stable_id": "asr-000061",
+      "start_seconds": 636.08,
+      "end_seconds": 640.08,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Maraming salamat, Committee Secretary."
+    },
+    {
+      "stable_id": "asr-000062",
+      "start_seconds": 640.08,
+      "end_seconds": 647.08,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "To the Honorable Executive Secretary Ralph Recto, our former colleague,"
+    },
+    {
+      "stable_id": "asr-000063",
+      "start_seconds": 647.08,
+      "end_seconds": 651.08,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "and the officials of the Office of the President,"
+    },
+    {
+      "stable_id": "asr-000064",
+      "start_seconds": 651.08,
+      "end_seconds": 657.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Senior Deputy Speaker Ferdinand Hernandez,"
+    },
+    {
+      "stable_id": "asr-000065",
+      "start_seconds": 657.48,
+      "end_seconds": 660.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Chair Mika Suansing,"
+    },
+    {
+      "stable_id": "asr-000066",
+      "start_seconds": 660.48,
+      "end_seconds": 663.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "distinguished members of the Committee on Appropriations,"
+    },
+    {
+      "stable_id": "asr-000067",
+      "start_seconds": 663.48,
+      "end_seconds": 667.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "my esteemed colleagues in the House of Representatives,"
+    },
+    {
+      "stable_id": "asr-000068",
+      "start_seconds": 667.48,
+      "end_seconds": 669.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "our honored guests,"
+    },
+    {
+      "stable_id": "asr-000069",
+      "start_seconds": 669.48,
+      "end_seconds": 672.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "isang magandang umaga po sa ating lahat."
+    },
+    {
+      "stable_id": "asr-000070",
+      "start_seconds": 672.48,
+      "end_seconds": 675.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Today, we deliberate on the proposed"
+    },
+    {
+      "stable_id": "asr-000071",
+      "start_seconds": 675.48,
+      "end_seconds": 686.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "10,156,000,000 budget allocation of the Office of the President for Fiscal Year 2027."
+    },
+    {
+      "stable_id": "asr-000072",
+      "start_seconds": 686.48,
+      "end_seconds": 692.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "The proposed budget is intended to ensure that the country's highest executive office,"
+    },
+    {
+      "stable_id": "asr-000073",
+      "start_seconds": 692.48,
+      "end_seconds": 700.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "is fully equipped to carry out its constitutional and administrative mandates,"
+    },
+    {
+      "stable_id": "asr-000074",
+      "start_seconds": 700.48,
+      "end_seconds": 705.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "and to respond to the specific needs and requirements of the President"
+    },
+    {
+      "stable_id": "asr-000075",
+      "start_seconds": 705.48,
+      "end_seconds": 711.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "in exercise of his responsibility as Head of State and Government,"
+    },
+    {
+      "stable_id": "asr-000076",
+      "start_seconds": 711.48,
+      "end_seconds": 715.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Chief Executive, and Commander-in-Chief."
+    },
+    {
+      "stable_id": "asr-000077",
+      "start_seconds": 715.48,
+      "end_seconds": 720.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "The Office of the President is mandated to assist the President"
+    },
+    {
+      "stable_id": "asr-000078",
+      "start_seconds": 720.48,
+      "end_seconds": 725.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "in the management of the affairs of the Government of the Republic of the Philippines,"
+    },
+    {
+      "stable_id": "asr-000079",
+      "start_seconds": 725.48,
+      "end_seconds": 731.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "to provide consultative research, fact-finding, and advisory services to the President,"
+    },
+    {
+      "stable_id": "asr-000080",
+      "start_seconds": 731.48,
+      "end_seconds": 737.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "and to provide technical and administrative support on matters concerning development,"
+    },
+    {
+      "stable_id": "asr-000081",
+      "start_seconds": 737.48,
+      "end_seconds": 743.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "management, general government administration, and internal administration."
+    },
+    {
+      "stable_id": "asr-000082",
+      "start_seconds": 743.48,
+      "end_seconds": 749.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "In this regard, the proposed budget is designed to provide the necessary resources"
+    },
+    {
+      "stable_id": "asr-000083",
+      "start_seconds": 749.48,
+      "end_seconds": 756.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "for the Office of the President to effectively fulfill its mandate and responsibilities,"
+    },
+    {
+      "stable_id": "asr-000084",
+      "start_seconds": 756.48,
+      "end_seconds": 762.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "ensure timely, efficient, and responsive support to the President,"
+    },
+    {
+      "stable_id": "asr-000085",
+      "start_seconds": 762.48,
+      "end_seconds": 770.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "sustain the administrative, advisory, consultative, and other essential functions of the Office,"
+    },
+    {
+      "stable_id": "asr-000086",
+      "start_seconds": 770.48,
+      "end_seconds": 775.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "and to strengthen coordination across the Government."
+    },
+    {
+      "stable_id": "asr-000087",
+      "start_seconds": 775.48,
+      "end_seconds": 777.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "With this in mind,"
+    },
+    {
+      "stable_id": "asr-000088",
+      "start_seconds": 777.48,
+      "end_seconds": 779.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "the proposed 10,000,000,000,000"
+    },
+    {
+      "stable_id": "asr-000089",
+      "start_seconds": 779.48,
+      "end_seconds": 782.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "or 156,000,000 budget"
+    },
+    {
+      "stable_id": "asr-000090",
+      "start_seconds": 782.48,
+      "end_seconds": 791.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "is directed towards advancing the interests and serving the needs of the Filipino people."
+    },
+    {
+      "stable_id": "asr-000091",
+      "start_seconds": 791.48,
+      "end_seconds": 793.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Maraming salamat po muli"
+    },
+    {
+      "stable_id": "asr-000092",
+      "start_seconds": 793.48,
+      "end_seconds": 796.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "at magandang umaga sa ating lahat."
+    },
+    {
+      "stable_id": "asr-000093",
+      "start_seconds": 796.48,
+      "end_seconds": 801.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Once again, kay ES at sa buong Office of the President family,"
+    },
+    {
+      "stable_id": "asr-000094",
+      "start_seconds": 801.48,
+      "end_seconds": 804.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "welcome to the House of the People."
+    },
+    {
+      "stable_id": "asr-000095",
+      "start_seconds": 804.48,
+      "end_seconds": 806.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "With that,"
+    },
+    {
+      "stable_id": "asr-000096",
+      "start_seconds": 806.48,
+      "end_seconds": 808.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "may I"
+    },
+    {
+      "stable_id": "asr-000097",
+      "start_seconds": 813.2,
+      "end_seconds": 814.2,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "request"
+    },
+    {
+      "stable_id": "asr-000098",
+      "start_seconds": 814.2,
+      "end_seconds": 821.2,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "the Office of the President to proceed with their presentation for their budget for Fiscal Year 2027."
+    },
+    {
+      "stable_id": "asr-000099",
+      "start_seconds": 821.2,
+      "end_seconds": 822.2,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Thank you."
+    },
+    {
+      "stable_id": "asr-000100",
+      "start_seconds": 824.57,
+      "end_seconds": 827.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Thank you very much, Mr. Chairman,"
+    },
+    {
+      "stable_id": "asr-000101",
+      "start_seconds": 827.57,
+      "end_seconds": 829.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "former colleagues,"
+    },
+    {
+      "stable_id": "asr-000102",
+      "start_seconds": 829.57,
+      "end_seconds": 831.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Magandang umaga sa inyong lahat."
+    },
+    {
+      "stable_id": "asr-000103",
+      "start_seconds": 831.57,
+      "end_seconds": 832.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Good morning."
+    },
+    {
+      "stable_id": "asr-000104",
+      "start_seconds": 832.57,
+      "end_seconds": 833.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Your Honors,"
+    },
+    {
+      "stable_id": "asr-000105",
+      "start_seconds": 833.57,
+      "end_seconds": 838.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "I appear before this distinguished body to present, explain, and more importantly,"
+    },
+    {
+      "stable_id": "asr-000106",
+      "start_seconds": 838.57,
+      "end_seconds": 843.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "seek your support for the proposed 2027 budget of the Office of the President."
+    },
+    {
+      "stable_id": "asr-000107",
+      "start_seconds": 844.57,
+      "end_seconds": 846.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "I am here not merely because our laws require"
+    },
+    {
+      "stable_id": "asr-000108",
+      "start_seconds": 846.57,
+      "end_seconds": 849.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "the Executive to defend its budget before Congress,"
+    },
+    {
+      "stable_id": "asr-000109",
+      "start_seconds": 849.57,
+      "end_seconds": 852.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "which holds the constitutional power of the purse."
+    },
+    {
+      "stable_id": "asr-000110",
+      "start_seconds": 852.57,
+      "end_seconds": 855.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "I am here above all in faithful compliance"
+    },
+    {
+      "stable_id": "asr-000111",
+      "start_seconds": 855.57,
+      "end_seconds": 858.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "with the President's standing directive,"
+    },
+    {
+      "stable_id": "asr-000112",
+      "start_seconds": 858.57,
+      "end_seconds": 860.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "honor Congress,"
+    },
+    {
+      "stable_id": "asr-000113",
+      "start_seconds": 860.57,
+      "end_seconds": 862.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "respect its mandate,"
+    },
+    {
+      "stable_id": "asr-000114",
+      "start_seconds": 862.57,
+      "end_seconds": 864.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and regard it as a full partner"
+    },
+    {
+      "stable_id": "asr-000115",
+      "start_seconds": 864.57,
+      "end_seconds": 867.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "in advancing the welfare of our people"
+    },
+    {
+      "stable_id": "asr-000116",
+      "start_seconds": 867.57,
+      "end_seconds": 870.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and protecting the national interests."
+    },
+    {
+      "stable_id": "asr-000117",
+      "start_seconds": 870.57,
+      "end_seconds": 873.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "The President firmly believes that governance is strengthened"
+    },
+    {
+      "stable_id": "asr-000118",
+      "start_seconds": 873.57,
+      "end_seconds": 876.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "when the Executive and Legislative branches work together,"
+    },
+    {
+      "stable_id": "asr-000119",
+      "start_seconds": 876.57,
+      "end_seconds": 879.57,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "not as competing centers of power,"
+    },
+    {
+      "stable_id": "asr-000120",
+      "start_seconds": 879.57,
+      "end_seconds": 884.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "but as co-equal institutions"
+    },
+    {
+      "stable_id": "asr-000121",
+      "start_seconds": 884.68,
+      "end_seconds": 887.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "united by common duty to the Filipino people."
+    },
+    {
+      "stable_id": "asr-000122",
+      "start_seconds": 887.68,
+      "end_seconds": 892.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "To enable the Office of the President to perform its constitutional responsibilities,"
+    },
+    {
+      "stable_id": "asr-000123",
+      "start_seconds": 892.68,
+      "end_seconds": 897.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "we respectfully propose a budget of 10.15 billion pesos"
+    },
+    {
+      "stable_id": "asr-000124",
+      "start_seconds": 897.68,
+      "end_seconds": 899.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "for 2027."
+    },
+    {
+      "stable_id": "asr-000125",
+      "start_seconds": 900.0,
+      "end_seconds": 912.48,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "This represents only 0.14% or roughly one-seventh of 1% of the proposed P7.2 trillion national budget."
+    },
+    {
+      "stable_id": "asr-000126",
+      "start_seconds": 913.1,
+      "end_seconds": 917.76,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "It is also 64% lower than the previous year's level."
+    },
+    {
+      "stable_id": "asr-000127",
+      "start_seconds": 918.56,
+      "end_seconds": 923.8,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "This substantial reduction reflects the lower operational requirements of our delivery units"
+    },
+    {
+      "stable_id": "asr-000128",
+      "start_seconds": 923.8,
+      "end_seconds": 928.88,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and the completion of activities related to the Philippines' hosting of the ASEAN Summit,"
+    },
+    {
+      "stable_id": "asr-000129",
+      "start_seconds": 928.88,
+      "end_seconds": 933.24,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "for which no additional funding will be required next year."
+    },
+    {
+      "stable_id": "asr-000130",
+      "start_seconds": 933.9,
+      "end_seconds": 939.1,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "In short, we're asking for less while remaining fully prepared to do more."
+    },
+    {
+      "stable_id": "asr-000131",
+      "start_seconds": 939.88,
+      "end_seconds": 946.04,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "We believe this amount is sufficient for the Presidency to meet the exacting demands of leading the nation"
+    },
+    {
+      "stable_id": "asr-000132",
+      "start_seconds": 946.04,
+      "end_seconds": 950.46,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "at a time of overlapping domestic and external challenges,"
+    },
+    {
+      "stable_id": "asr-000133",
+      "start_seconds": 950.46,
+      "end_seconds": 958.36,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "from geopolitical tensions and disruptions in the Middle East to typhoons, El Nino, and other calamities."
+    },
+    {
+      "stable_id": "asr-000134",
+      "start_seconds": 958.98,
+      "end_seconds": 964.54,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "This budget will sustain the work of the Office of the President's 49 delivery units,"
+    },
+    {
+      "stable_id": "asr-000135",
+      "start_seconds": 965.38,
+      "end_seconds": 970.66,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "the machinery that keeps the highest office of government delivering for the Filipino people."
+    },
+    {
+      "stable_id": "asr-000136",
+      "start_seconds": 971.6,
+      "end_seconds": 978.76,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "It will support cabinet meetings, policy consultations, presidential engagements, and official travels,"
+    },
+    {
+      "stable_id": "asr-000137",
+      "start_seconds": 979.22,
+      "end_seconds": 987.6800000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and the daily operations of Malacanang as the nation's principal center of decision-making and executive coordination."
+    },
+    {
+      "stable_id": "asr-000138",
+      "start_seconds": 988.88,
+      "end_seconds": 992.7,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "More importantly, it will help bring timely assistance to vulnerable families"
+    },
+    {
+      "stable_id": "asr-000139",
+      "start_seconds": 992.7,
+      "end_seconds": 996.94,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and enable the government to respond swiftly in times of emergencies."
+    },
+    {
+      "stable_id": "asr-000140",
+      "start_seconds": 998.06,
+      "end_seconds": 1004.62,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Every day, the President's schedule is full because the demands of governing do not pause."
+    },
+    {
+      "stable_id": "asr-000141",
+      "start_seconds": 1005.52,
+      "end_seconds": 1009.1,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "But activity alone is not our measure of performance."
+    },
+    {
+      "stable_id": "asr-000142",
+      "start_seconds": 1009.42,
+      "end_seconds": 1017.46,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "The real test of every peso spent is whether it solves a problem, improves a life, or strengthens the nation."
+    },
+    {
+      "stable_id": "asr-000143",
+      "start_seconds": 1017.46,
+      "end_seconds": 1022.3199999999999,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "This is a standard we apply to every peso in this budget proposal."
+    },
+    {
+      "stable_id": "asr-000144",
+      "start_seconds": 1023.4,
+      "end_seconds": 1029.02,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "We ensure that every policy, meeting, engagement, and official mission yields a public dividend,"
+    },
+    {
+      "stable_id": "asr-000145",
+      "start_seconds": 1029.5,
+      "end_seconds": 1039.02,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "whether through jobs, investment, stronger national security, better public services, or more opportunities for our people."
+    },
+    {
+      "stable_id": "asr-000146",
+      "start_seconds": 1039.88,
+      "end_seconds": 1044.22,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Your Honors, we recognize that public funds are not the government's money."
+    },
+    {
+      "stable_id": "asr-000147",
+      "start_seconds": 1044.46,
+      "end_seconds": 1047.44,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "They are the people's money earned through their hard labor."
+    },
+    {
+      "stable_id": "asr-000148",
+      "start_seconds": 1047.46,
+      "end_seconds": 1054.04,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "And entrusted to us in the expectation that the government will uplift their lives."
+    },
+    {
+      "stable_id": "asr-000149",
+      "start_seconds": 1054.76,
+      "end_seconds": 1060.76,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "That is why fiscal discipline and accountability remain central to the operations of the President."
+    },
+    {
+      "stable_id": "asr-000150",
+      "start_seconds": 1061.58,
+      "end_seconds": 1069.9,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "For Fiscal Year 2025, the Commission on Audit issued the Office of the President an unmodified opinion."
+    },
+    {
+      "stable_id": "asr-000151",
+      "start_seconds": 1070.76,
+      "end_seconds": 1074.84,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "This is the highest audit opinion an agency may receive."
+    },
+    {
+      "stable_id": "asr-000152",
+      "start_seconds": 1074.84,
+      "end_seconds": 1076.84,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "And the OPs..."
+    },
+    {
+      "stable_id": "asr-000153",
+      "start_seconds": 1077.46,
+      "end_seconds": 1082.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Third consecutive unmodified opinion since 2022."
+    },
+    {
+      "stable_id": "asr-000154",
+      "start_seconds": 1082.68,
+      "end_seconds": 1096.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "This means that based on COA's independent audit, the OPs' financial statements were presented fairly in all material respects and in accordance with applicable public sector accounting standards."
+    },
+    {
+      "stable_id": "asr-000155",
+      "start_seconds": 1097.68,
+      "end_seconds": 1099.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "This is a badge of good housekeeping."
+    },
+    {
+      "stable_id": "asr-000156",
+      "start_seconds": 1100.68,
+      "end_seconds": 1106.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "This is proof that the Filipino people's money is accounted for and that their trust is respected."
+    },
+    {
+      "stable_id": "asr-000157",
+      "start_seconds": 1107.46,
+      "end_seconds": 1116.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Rest assured, we crafted the proposed budget strictly within the parameters and processes established by the DBM."
+    },
+    {
+      "stable_id": "asr-000158",
+      "start_seconds": 1116.68,
+      "end_seconds": 1118.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "We sought no special treatment."
+    },
+    {
+      "stable_id": "asr-000159",
+      "start_seconds": 1118.68,
+      "end_seconds": 1127.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "We submit this proposal with full respect for Congress's constitutional authority and with readiness to answer your questions."
+    },
+    {
+      "stable_id": "asr-000161",
+      "start_seconds": 1131.68,
+      "end_seconds": 1133.68,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Thank you very much, Executive Secretary Ralph Recto."
+    },
+    {
+      "stable_id": "asr-000163",
+      "start_seconds": 1135.68,
+      "end_seconds": 1147.68,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "The presentation of the Office of the President having been concluded, the Chair now recognizes the Minority Leader for the proper motion."
+    },
+    {
+      "stable_id": "asr-000164",
+      "start_seconds": 1149.26,
+      "end_seconds": 1150.84,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Honorable Libanan, you are recognized."
+    },
+    {
+      "stable_id": "asr-000165",
+      "start_seconds": 1151.4,
+      "end_seconds": 1165.6,
+      "speaker": "Minority Leader Marcelino C. Libanan",
+      "text": "Thank you, Mr. Chair. Mr. Chair, on the part of the minority, I move that we extend the institutional and interbranch courtesy to the Office of the President for the budget"
+    },
+    {
+      "stable_id": "asr-000173",
+      "start_seconds": 1165.68,
+      "end_seconds": 1172.82,
+      "speaker": "Minority Leader Marcelino C. Libanan",
+      "text": "of fiscal year 2027 subject however to some manifestations by some members of"
+    },
+    {
+      "stable_id": "asr-000174",
+      "start_seconds": 1172.82,
+      "end_seconds": 1177.92,
+      "speaker": "Minority Leader Marcelino C. Libanan",
+      "text": "the minority most especially that the office of the president is represented"
+    },
+    {
+      "stable_id": "asr-000175",
+      "start_seconds": 1177.92,
+      "end_seconds": 1185.6,
+      "speaker": "Minority Leader Marcelino C. Libanan",
+      "text": "by knowledge than our dear colleague yes Ralph recto whose brilliance and hard"
+    },
+    {
+      "stable_id": "asr-000176",
+      "start_seconds": 1185.6,
+      "end_seconds": 1192.26,
+      "speaker": "Minority Leader Marcelino C. Libanan",
+      "text": "work we know fully well mr. chair I therefore move to terminate further"
+    },
+    {
+      "stable_id": "asr-000177",
+      "start_seconds": 1192.26,
+      "end_seconds": 1197.12,
+      "speaker": "Minority Leader Marcelino C. Libanan",
+      "text": "deliberations and further discussions on the budget of the office of president"
+    },
+    {
+      "stable_id": "asr-000178",
+      "start_seconds": 1197.12,
+      "end_seconds": 1205.06,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "thank you very much for that motion honorable Lebanon may we now recognize"
+    },
+    {
+      "stable_id": "asr-000179",
+      "start_seconds": 1205.06,
+      "end_seconds": 1212.28,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "senior deputy speaker for Ferdinand Hernandez"
+    },
+    {
+      "stable_id": "asr-000179-split-2",
+      "start_seconds": 1212.28,
+      "end_seconds": 1216.2,
+      "speaker": "Senior Deputy Speaker Ferdinand L. Hernandez",
+      "text": "thank you mr. chair on behalf"
+    },
+    {
+      "stable_id": "asr-000180",
+      "start_seconds": 1216.2,
+      "end_seconds": 1221.7,
+      "speaker": "Senior Deputy Speaker Ferdinand L. Hernandez",
+      "text": "of the majority we joined minority and move that the"
+    },
+    {
+      "stable_id": "asr-000181",
+      "start_seconds": 1221.7,
+      "end_seconds": 1222.24,
+      "speaker": "Senior Deputy Speaker Ferdinand L. Hernandez",
+      "text": "committee excepted"
+    },
+    {
+      "stable_id": "asr-000182",
+      "start_seconds": 1222.26,
+      "end_seconds": 1227.42,
+      "speaker": "Senior Deputy Speaker Ferdinand L. Hernandez",
+      "text": "constitutional and interbranch courtesy to the office of the president and"
+    },
+    {
+      "stable_id": "asr-000183",
+      "start_seconds": 1227.42,
+      "end_seconds": 1232.76,
+      "speaker": "Senior Deputy Speaker Ferdinand L. Hernandez",
+      "text": "terminate further discussion and interpolation on its proposed fiscal"
+    },
+    {
+      "stable_id": "asr-000184",
+      "start_seconds": 1232.76,
+      "end_seconds": 1236.74,
+      "speaker": "Senior Deputy Speaker Ferdinand L. Hernandez",
+      "text": "year 2027 budget I so move"
+    },
+    {
+      "stable_id": "asr-000184-split-2",
+      "start_seconds": 1236.74,
+      "end_seconds": 1239.01,
+      "speaker": "Committee member/seconding voice",
+      "text": "Mr. Chair, second."
+    },
+    {
+      "stable_id": "asr-000184-split-2-split-2",
+      "start_seconds": 1239.01,
+      "end_seconds": 1241.28,
+      "speaker": "Committee member",
+      "text": "Mr. Chair, we object."
+    },
+    {
+      "stable_id": "asr-000185",
+      "start_seconds": 1241.28,
+      "end_seconds": 1248.18,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "there is a motion and duly seconded. we would like to recognize the Honorable Tonchi."
+    },
+    {
+      "stable_id": "asr-000186",
+      "start_seconds": 1248.18,
+      "end_seconds": 1251.78,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Thank you, Mr. Chair. I object and I would like to explain my"
+    },
+    {
+      "stable_id": "asr-000187",
+      "start_seconds": 1251.78,
+      "end_seconds": 1252.22,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "objection"
+    },
+    {
+      "stable_id": "asr-000188",
+      "start_seconds": 1252.26,
+      "end_seconds": 1257.26,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Ito na naman po tayo."
+    },
+    {
+      "stable_id": "asr-000189",
+      "start_seconds": 1257.26,
+      "end_seconds": 1265.7,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "May motion na naman para sa parliamentary courtesy para sa Office of the President."
+    },
+    {
+      "stable_id": "asr-000190",
+      "start_seconds": 1265.7,
+      "end_seconds": 1270.7,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Ibig sabihin, hindi na daw magtatanong ang Kongreso tungkol sa budget na"
+    },
+    {
+      "stable_id": "asr-000191",
+      "start_seconds": 1270.7,
+      "end_seconds": 1275.9,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ipine-present ng Office of the President. Alam niyo po katulad ng"
+    },
+    {
+      "stable_id": "asr-000192",
+      "start_seconds": 1275.9,
+      "end_seconds": 1277.06,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "sinabi natin last year,"
+    },
+    {
+      "stable_id": "asr-000193",
+      "start_seconds": 1277.06,
+      "end_seconds": 1284.26,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Dapat ibasura na ng kongresong ito ang parliamentary courtesy, lalo na sa usapin ng budget."
+    },
+    {
+      "stable_id": "asr-000194",
+      "start_seconds": 1285.1399999999999,
+      "end_seconds": 1288.24,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Ang gusto ng taong bayan ay transparency."
+    },
+    {
+      "stable_id": "asr-000195",
+      "start_seconds": 1291.18,
+      "end_seconds": 1299.4,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Kailangang patas. Dapat patas ang kongresong ito sa application ng prinsipyo ng transparency."
+    },
+    {
+      "stable_id": "asr-000196",
+      "start_seconds": 1300.02,
+      "end_seconds": 1306.6399999999999,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Lakas maka-demand ng kongresong ito ng transparency para sa Office of the Vice President."
+    },
+    {
+      "stable_id": "asr-000197",
+      "start_seconds": 1307.06,
+      "end_seconds": 1310.68,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Dapat ganun din para sa Office of the President."
+    },
+    {
+      "stable_id": "asr-000198",
+      "start_seconds": 1311.32,
+      "end_seconds": 1322.84,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Lalo pa ngayon dahil ang taong bayan gustong marinig ang paliwanag ng Office of the President"
+    },
+    {
+      "stable_id": "asr-000199",
+      "start_seconds": 1322.84,
+      "end_seconds": 1329.96,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "sa pagkakasangkot ng Presidente at ng mga cabinet officials niya mismo hinggil sa issue ng flood control."
+    },
+    {
+      "stable_id": "asr-000200",
+      "start_seconds": 1331.04,
+      "end_seconds": 1336.28,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Kailangang magpaliwanag ang Office of the President kung bakit talos kalahati ng kanyang budget"
+    },
+    {
+      "stable_id": "asr-000201",
+      "start_seconds": 1336.28,
+      "end_seconds": 1337.02,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ay confidential."
+    },
+    {
+      "stable_id": "asr-000202",
+      "start_seconds": 1337.06,
+      "end_seconds": 1352.4,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "and intelligence funds. The people want answers direct from the Office of the President. Iyon ang gusto nating marinig. At ito lang ang pagkakataon para direktang marinig ang kanilang mga sagot."
+    },
+    {
+      "stable_id": "asr-000203",
+      "start_seconds": 1353.18,
+      "end_seconds": 1363.69,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Kaya again, tayo po ay tumututol sa motion para mag-extend ng parliamentary courtesy."
+    },
+    {
+      "stable_id": "asr-000204",
+      "start_seconds": 1363.69,
+      "end_seconds": 1368.69,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "And lastly, this is a challenge direct to..."
+    },
+    {
+      "stable_id": "asr-000205",
+      "start_seconds": 1369.01,
+      "end_seconds": 1370.95,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "The Executive Secretary."
+    },
+    {
+      "stable_id": "asr-000206",
+      "start_seconds": 1372.09,
+      "end_seconds": 1379.07,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Ito ay kung sakaling magtagumpay ang motion na ito, tandaan po natin, this is merely a courtesy."
+    },
+    {
+      "stable_id": "asr-000207",
+      "start_seconds": 1380.09,
+      "end_seconds": 1387.8899999999999,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "At any time, pwedeng i-wave ng Office of the President at pwedeng niyang piliin na sagutin, sumagot sa mga tanong."
+    },
+    {
+      "stable_id": "asr-000208",
+      "start_seconds": 1388.09,
+      "end_seconds": 1389.43,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Kaya muli, we object."
+    },
+    {
+      "stable_id": "asr-000209",
+      "start_seconds": 1391.03,
+      "end_seconds": 1393.77,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "The objection is noted."
+    },
+    {
+      "stable_id": "asr-000210",
+      "start_seconds": 1393.77,
+      "end_seconds": 1396.77,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "And before the Chair makes a ruling..."
+    },
+    {
+      "stable_id": "asr-000211",
+      "start_seconds": 1399.79,
+      "end_seconds": 1408.29,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Anuman ang maging risulta ng ating botohan, lahat po ng ating mga katanungan, clarification, suggestions,"
+    },
+    {
+      "stable_id": "asr-000212",
+      "start_seconds": 1409.01,
+      "end_seconds": 1417.77,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "will be answered either here or at the plenary where we will have a wider platform for everyone to witness."
+    },
+    {
+      "stable_id": "asr-000213",
+      "start_seconds": 1419.13,
+      "end_seconds": 1420.5900000000001,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "So having said that,"
+    },
+    {
+      "stable_id": "asr-000214",
+      "start_seconds": 1422.33,
+      "end_seconds": 1428.77,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "the Committee shall now vote on the pending motion as related by..."
+    },
+    {
+      "stable_id": "asr-000215",
+      "start_seconds": 1429.01,
+      "end_seconds": 1438.73,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "the chair all those in favor please raise their hands in favor of the motion"
+    },
+    {
+      "stable_id": "asr-000216",
+      "start_seconds": 1438.73,
+      "end_seconds": 1508.73,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "in favor of the motion to terminate the hearing okay once again those who are in"
+    },
+    {
+      "stable_id": "asr-000217",
+      "start_seconds": 1508.73,
+      "end_seconds": 1513.27,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "favor of the motion to terminate the budget briefing of the office of the"
+    },
+    {
+      "stable_id": "asr-000218",
+      "start_seconds": 1513.27,
+      "end_seconds": 1550.8,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "president please raise your hands thank you very much"
+    },
+    {
+      "stable_id": "asr-000219",
+      "start_seconds": 1550.8,
+      "end_seconds": 1626.88,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "those opposed to the motion please raise your hands"
+    },
+    {
+      "stable_id": "asr-000220",
+      "start_seconds": 1626.88,
+      "end_seconds": 1630.13,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "mr. chair point of parliamentary inquiry"
+    },
+    {
+      "stable_id": "asr-000220-split-2",
+      "start_seconds": 1630.13,
+      "end_seconds": 1636.83,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "let's wait for the vote to be completed then I will"
+    },
+    {
+      "stable_id": "asr-000221",
+      "start_seconds": 1636.83,
+      "end_seconds": 1741.71,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "acknowledge your parliamentary inquiry. with 37 members voting in the affirmative and"
+    },
+    {
+      "stable_id": "asr-000222",
+      "start_seconds": 1741.71,
+      "end_seconds": 1750.83,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "five in the negative the motion is carried the committee hereby extend"
+    },
+    {
+      "stable_id": "asr-000223",
+      "start_seconds": 1750.83,
+      "end_seconds": 1751.71,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "institutional"
+    },
+    {
+      "stable_id": "asr-000224",
+      "start_seconds": 1751.71,
+      "end_seconds": 1757.8899999999999,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "and interbranch courtesy to the office of the president and terminates further"
+    },
+    {
+      "stable_id": "asr-000225",
+      "start_seconds": 1757.8899999999999,
+      "end_seconds": 1764.97,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "discussion and interpellation on its proposed fiscal year 2027 budget the"
+    },
+    {
+      "stable_id": "asr-000226",
+      "start_seconds": 1764.97,
+      "end_seconds": 1770.85,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "committee thanks the executive secretary Ralph recto and officials and"
+    },
+    {
+      "stable_id": "asr-000227",
+      "start_seconds": 1770.85,
+      "end_seconds": 1776.01,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "representatives of the office of the president for their attendance and"
+    },
+    {
+      "stable_id": "asr-000228",
+      "start_seconds": 1776.01,
+      "end_seconds": 1779.95,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "cooperation for this morning's hearing"
+    },
+    {
+      "stable_id": "asr-000228-split-2",
+      "start_seconds": 1779.95,
+      "end_seconds": 1781.47,
+      "speaker": "Committee member",
+      "text": "mr. chair"
+    },
+    {
+      "stable_id": "asr-000229",
+      "start_seconds": 1781.71,
+      "end_seconds": 1785.1,
+      "speaker": "Committee member",
+      "text": "mr. chair may we be allowed to manifest mr. chair."
+    },
+    {
+      "stable_id": "asr-000229-split-2",
+      "start_seconds": 1785.1,
+      "end_seconds": 1788.49,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "yes will the Honorable"
+    },
+    {
+      "stable_id": "asr-000230",
+      "start_seconds": 1788.49,
+      "end_seconds": 1793.03,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Rene Cove come in for because I recognize her earlier"
+    },
+    {
+      "stable_id": "asr-000230-split-2",
+      "start_seconds": 1793.03,
+      "end_seconds": 1794.75,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "mr. chair just to"
+    },
+    {
+      "stable_id": "asr-000231",
+      "start_seconds": 1794.75,
+      "end_seconds": 1800.0,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "clarify because according to section 120 the vote"
+    },
+    {
+      "stable_id": "asr-000235",
+      "start_seconds": 1800.0,
+      "end_seconds": 1805.94,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "have not been have will not terminate yet until we have explained the vote and"
+    },
+    {
+      "stable_id": "asr-000236",
+      "start_seconds": 1805.94,
+      "end_seconds": 1811.04,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "this representation would like to explain their vote now mr. chair mr."
+    },
+    {
+      "stable_id": "asr-000237",
+      "start_seconds": 1811.04,
+      "end_seconds": 1814.94,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "chair, tumatayo po ako ngayon sa Makabayan Block upang"
+    },
+    {
+      "stable_id": "asr-000238",
+      "start_seconds": 1814.94,
+      "end_seconds": 1818.66,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "maghain ng opisyal na manipestasyon ukol sa panukalang budget ng Office of the"
+    },
+    {
+      "stable_id": "asr-000239",
+      "start_seconds": 1818.66,
+      "end_seconds": 1823.4,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "President para sa taong 2027. Gusto ko lang po ulit linawin na"
+    },
+    {
+      "stable_id": "asr-000240",
+      "start_seconds": 1823.4,
+      "end_seconds": 1828.5,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "ang kaban ng bayan ay hindi po personal na pag-aari ng Malacañang at hindi po"
+    },
+    {
+      "stable_id": "asr-000241",
+      "start_seconds": 1828.5,
+      "end_seconds": 1833.5,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "natin gusto na ituloy ang broken tradition of extended parliamentary courtesy to the"
+    },
+    {
+      "stable_id": "asr-000242",
+      "start_seconds": 1833.5,
+      "end_seconds": 1837.86,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "office of the president. Ang power of the purse ay nakalaan at nabibilang sa"
+    },
+    {
+      "stable_id": "asr-000243",
+      "start_seconds": 1837.86,
+      "end_seconds": 1843.62,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "hislatura bilang kinatawan ng mamamayan at hindi kailanman dapat iisuko sa"
+    },
+    {
+      "stable_id": "asr-000244",
+      "start_seconds": 1843.62,
+      "end_seconds": 1848.22,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "ekotibo. Noong mga nakaraang deliberasyon, nakita natin"
+    },
+    {
+      "stable_id": "asr-000245",
+      "start_seconds": 1848.22,
+      "end_seconds": 1852.56,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "kung paano ginagawang pormalidad ang mabilisang pag-aproba na lamang ang"
+    },
+    {
+      "stable_id": "asr-000246",
+      "start_seconds": 1852.56,
+      "end_seconds": 1857.84,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "deliberasyon sa budget ng pangulo dahil sa tinatawag na courtesy. Subalit sa harap"
+    },
+    {
+      "stable_id": "asr-000247",
+      "start_seconds": 1857.84,
+      "end_seconds": 1858.22,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "ng"
+    },
+    {
+      "stable_id": "asr-000249",
+      "start_seconds": 1858.36,
+      "end_seconds": 1862.62,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "napakaraming krisis na kinakaharap ng bansa ngayon marapat lamang na"
+    },
+    {
+      "stable_id": "asr-000250",
+      "start_seconds": 1862.62,
+      "end_seconds": 1867.48,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "ideklara natin na ang bawat piso at sentimo ng 2027 national expenditure"
+    },
+    {
+      "stable_id": "asr-000251",
+      "start_seconds": 1867.48,
+      "end_seconds": 1874.08,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "program na mula sa pawis, dugo at buwis ng mamamayang Pilipino ay i-explain at"
+    },
+    {
+      "stable_id": "asr-000252",
+      "start_seconds": 1874.08,
+      "end_seconds": 1881.16,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "ipakita kung paano ito igasta. Nakita isang ehemplo po na ang malaking"
+    },
+    {
+      "stable_id": "asr-000253",
+      "start_seconds": 1881.16,
+      "end_seconds": 1885.96,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "kontradiksyon na transparency daw ang priority principle pero walang"
+    },
+    {
+      "stable_id": "asr-000254",
+      "start_seconds": 1885.96,
+      "end_seconds": 1888.08,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "pampublikong impormasyon ukol sa proseso"
+    },
+    {
+      "stable_id": "asr-000255",
+      "start_seconds": 1888.08,
+      "end_seconds": 1896.46,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "ng implementasyon o audit ng bilyong-bilyong piso na nailalaan sa Support to Barangay Development Program ng NTF-ELCAC"
+    },
+    {
+      "stable_id": "asr-000256",
+      "start_seconds": 1896.46,
+      "end_seconds": 1897.8,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "kung saan ang pangulo po ang"
+    },
+    {
+      "stable_id": "asr-000258",
+      "start_seconds": 1898.0,
+      "end_seconds": 1905.08,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "nagsisilbing chairperson. Binubuhusan po ito ng bilyon-bilyon kada taon mula"
+    },
+    {
+      "stable_id": "asr-000259",
+      "start_seconds": 1905.08,
+      "end_seconds": 1910.46,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "1.95 billion noong 2025 GA naging 8 billion noong 2026 at ngayon 9.74"
+    },
+    {
+      "stable_id": "asr-000260",
+      "start_seconds": 1910.46,
+      "end_seconds": 1916.74,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "billion na this 2027. Nagagamit na rin ang pondo na ito sa panunupil ng"
+    },
+    {
+      "stable_id": "asr-000261",
+      "start_seconds": 1916.74,
+      "end_seconds": 1922.18,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Ito sa panunupil ng mamayan at mas malalapa na hindi malinaw ang proseso ng paggasta."
+    },
+    {
+      "stable_id": "asr-000262",
+      "start_seconds": 1922.38,
+      "end_seconds": 1930.9,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Isa pong proseso na gusto nating ilinaw na nakasalang ngayon sa deliberasyon kahit sa level ng Senado."
+    },
+    {
+      "stable_id": "asr-000263",
+      "start_seconds": 1931.1399999999999,
+      "end_seconds": 1932.9,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Although yun po ay Office of the Vice President."
+    },
+    {
+      "stable_id": "asr-000264",
+      "start_seconds": 1934.04,
+      "end_seconds": 1941.38,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Ayaw na po natin na magawing gamiting pagbalatbunga ang mga proyekto tulad ng farm-to-market roads or school buildings under BDP"
+    },
+    {
+      "stable_id": "asr-000265",
+      "start_seconds": 1941.38,
+      "end_seconds": 1947.56,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "para lamang magtayo ng panibagong forma ng pork barrel at political patronage sa lokal na antas."
+    },
+    {
+      "stable_id": "asr-000266",
+      "start_seconds": 1948.1,
+      "end_seconds": 1954.38,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Bakit kailangang dumaan sa isang counter-insurgency task force ang pondo para sa mga paaralan at health centers"
+    },
+    {
+      "stable_id": "asr-000267",
+      "start_seconds": 1954.38,
+      "end_seconds": 1957.68,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "samantalang nariyan naman ang DepEd at DOH?"
+    },
+    {
+      "stable_id": "asr-000268",
+      "start_seconds": 1958.06,
+      "end_seconds": 1963.82,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Napatunayan na natin ang ganitong sistema ay naging bukal lamang ng red tagging, panunupil sa mga sibilyan"
+    },
+    {
+      "stable_id": "asr-000269",
+      "start_seconds": 1963.82,
+      "end_seconds": 1969.04,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "at mga kadudadudang proyekto habang patuloy na naghihirap ang mga marginalized sectors."
+    },
+    {
+      "stable_id": "asr-000270",
+      "start_seconds": 1970.1,
+      "end_seconds": 1971.3600000000001,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Hanggang ngayon,"
+    },
+    {
+      "stable_id": "asr-000271",
+      "start_seconds": 1971.38,
+      "end_seconds": 1977.46,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "hindi pa rin natin nakikita ang malawakang pananagutan sa flood control corruption"
+    },
+    {
+      "stable_id": "asr-000272",
+      "start_seconds": 1977.46,
+      "end_seconds": 1984.38,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "at sa gitna po ng mga aligasyon na involved, hindi lang si Pangulo pero ang mga cabinet secretaries"
+    },
+    {
+      "stable_id": "asr-000273",
+      "start_seconds": 1985.0,
+      "end_seconds": 1989.56,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "at ang pagbahana naman sa iba't-ibang bahagi ng Pilipinas."
+    },
+    {
+      "stable_id": "asr-000274",
+      "start_seconds": 1990.42,
+      "end_seconds": 1996.84,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Kine-question natin ano po ba ang priority policies ng administrasyon para pangalagaan ang kalikasan."
+    },
+    {
+      "stable_id": "asr-000275",
+      "start_seconds": 1996.84,
+      "end_seconds": 2000.94,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Ngayong nakikita natin ang tuloy na tuloy na pagkalbo ng mga bundok,"
+    },
+    {
+      "stable_id": "asr-000276",
+      "start_seconds": 2001.38,
+      "end_seconds": 2009.7,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "ang pagkakaroon ng executive orders para ayusin yung mas malawakang pagmimina sa bansa?"
+    },
+    {
+      "stable_id": "asr-000277",
+      "start_seconds": 2009.7,
+      "end_seconds": 2014.68,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Paano natin masisigurado na wala na magiging mas malalang pagbaha,"
+    },
+    {
+      "stable_id": "asr-000278",
+      "start_seconds": 2014.68,
+      "end_seconds": 2021.3,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "mas malalang pagwasak ng kalikasan na sa dulo po nito paghihirap ng mamamayan ang dulot?"
+    },
+    {
+      "stable_id": "asr-000279",
+      "start_seconds": 2021.3,
+      "end_seconds": 2029.9,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Mr. Chair, lahat po ito kailangang pag-usapan and therefore wala pong puwang ang parliamentary courtesy,"
+    },
+    {
+      "stable_id": "asr-000280",
+      "start_seconds": 2029.9,
+      "end_seconds": 2031.08,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "sa ganitong panahon,"
+    },
+    {
+      "stable_id": "asr-000281",
+      "start_seconds": 2031.08,
+      "end_seconds": 2037.52,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "na ang mga taong bayan ay napakaraming tanong, hindi lang sa paggasta ng buong administrasyon,"
+    },
+    {
+      "stable_id": "asr-000282",
+      "start_seconds": 2038.02,
+      "end_seconds": 2041.16,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "but more importantly, the Office of the President."
+    },
+    {
+      "stable_id": "asr-000283",
+      "start_seconds": 2041.54,
+      "end_seconds": 2044.22,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Thank you, Mr. Chair. That ends my explanation."
+    },
+    {
+      "stable_id": "asr-000284",
+      "start_seconds": 2044.3,
+      "end_seconds": 2044.8,
+      "speaker": "Rep. Renee Louise M. Co",
+      "text": "Mr. Chair."
+    },
+    {
+      "stable_id": "asr-000285",
+      "start_seconds": 2045.3600000000001,
+      "end_seconds": 2047.7,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Maraming salamat, the Honorable Rene Co."
+    },
+    {
+      "stable_id": "asr-000286",
+      "start_seconds": 2048.14,
+      "end_seconds": 2054.68,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Your manifestation is noted at lahat po ito, sasagutin on or before the plenary."
+    },
+    {
+      "stable_id": "asr-000287",
+      "start_seconds": 2054.68,
+      "end_seconds": 2062.84,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "May I now recognize, the Chair now recognizes the Honorable Elijah San Fernando for his manifestation."
+    },
+    {
+      "stable_id": "asr-000288",
+      "start_seconds": 2063.14,
+      "end_seconds": 2064.08,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "You have five minutes."
+    },
+    {
+      "stable_id": "asr-000289",
+      "start_seconds": 2064.34,
+      "end_seconds": 2065.84,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Maraming salamat po, Mr. Chair."
+    },
+    {
+      "stable_id": "asr-000290",
+      "start_seconds": 2067.06,
+      "end_seconds": 2070.06,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Mismong si Executive Secretary Ralph Recto na po ang nagsabi."
+    },
+    {
+      "stable_id": "asr-000291",
+      "start_seconds": 2071.0,
+      "end_seconds": 2079.46,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Ang marching order ni Pangulong Bongbong Marcos, nandito sila because they would like to honor and respect the mandate of Congress."
+    },
+    {
+      "stable_id": "asr-000292",
+      "start_seconds": 2079.46,
+      "end_seconds": 2084.46,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "At ang mandato ng Kongreso particular ng ating..."
+    },
+    {
+      "stable_id": "asr-000293",
+      "start_seconds": 2085.4,
+      "end_seconds": 2096.62,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Bulwagan ay busisiin ang bawat piso at sentimong inilalagak sa mga opisina at ahensya ng gobyerno kahit pa ito'y pumapatungkol"
+    },
+    {
+      "stable_id": "asr-000294",
+      "start_seconds": 2096.62,
+      "end_seconds": 2101.08,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "sa pinakamataas na opisina ng ating bayan, ang Office of the President."
+    },
+    {
+      "stable_id": "asr-000295",
+      "start_seconds": 2101.08,
+      "end_seconds": 2112.86,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Mr. Chair, no other than the President, President Bongbong Marcos, has repeatedly said na dapat magkaroon ng transparency at accountability"
+    },
+    {
+      "stable_id": "asr-000296",
+      "start_seconds": 2112.86,
+      "end_seconds": 2114.08,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "at all levels."
+    },
+    {
+      "stable_id": "asr-000297",
+      "start_seconds": 2114.68,
+      "end_seconds": 2126.2200000000003,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Pero ngayon, Mr. Chair, tila nadidefeat yung sinasabi ni Pangulong Bongbong Marcos tungkol sa transparency at accountability."
+    },
+    {
+      "stable_id": "asr-000298",
+      "start_seconds": 2126.2200000000003,
+      "end_seconds": 2139.14,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Mr. Chair, ang kortesiya po ay dapat na mas binibigay sa mga taxpayer, sa mga manggagawa at ordinaryong Pilipino na nagbabayad ng buwis."
+    },
+    {
+      "stable_id": "asr-000299",
+      "start_seconds": 2140.44,
+      "end_seconds": 2144.1,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Ngayon pa po, nalubog yung mga kababayan natin sa baha."
+    },
+    {
+      "stable_id": "asr-000300",
+      "start_seconds": 2144.68,
+      "end_seconds": 2150.2200000000003,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "At umaharap yung bansa natin sa sangkatutak na mga problema, lalong-lalo na ang mga manggagawa."
+    },
+    {
+      "stable_id": "asr-000301",
+      "start_seconds": 2151.0,
+      "end_seconds": 2159.32,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "E dapat lang po na mabusisiin natin yung bawat piso na nilalaan sa mga opisina ng ating pamahalaan, lalong-lalo na sa Office of the President."
+    },
+    {
+      "stable_id": "asr-000302",
+      "start_seconds": 2159.66,
+      "end_seconds": 2167.38,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Kaya po tumututol ang mga manggagawa doon sa parliamentary courtesy na iginagawad natin sa Office of the President."
+    },
+    {
+      "stable_id": "asr-000303",
+      "start_seconds": 2167.92,
+      "end_seconds": 2170.06,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Muli po, binibigyang diin natin."
+    },
+    {
+      "stable_id": "asr-000304",
+      "start_seconds": 2170.48,
+      "end_seconds": 2174.6,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Ang kortesiya ay dapat mas ibigay natin sa mga manggagawa."
+    },
+    {
+      "stable_id": "asr-000305",
+      "start_seconds": 2174.68,
+      "end_seconds": 2181.98,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "At ordinaryong Pilipino na gustong malaman, hindi lamang yung bawat piso na ilalagak natin sa Office of the President,"
+    },
+    {
+      "stable_id": "asr-000306",
+      "start_seconds": 2182.58,
+      "end_seconds": 2188.76,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "kundi pati na rin ano ang mga policy statement, policy direction ng Office of the President"
+    },
+    {
+      "stable_id": "asr-000307",
+      "start_seconds": 2188.76,
+      "end_seconds": 2194.66,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "na may kinalaman sa pang-araw-araw na buhay ng mga manggagawa at ordinaryong Pilipino."
+    },
+    {
+      "stable_id": "asr-000308",
+      "start_seconds": 2194.66,
+      "end_seconds": 2198.2,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Kaya Mr. Chair, muli ko pong binibigyang diin."
+    },
+    {
+      "stable_id": "asr-000309",
+      "start_seconds": 2198.98,
+      "end_seconds": 2204.66,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Ang mga manggagawa at ordinaryong Pilipino ay tumututol at hindi sumasangayon."
+    },
+    {
+      "stable_id": "asr-000310",
+      "start_seconds": 2204.68,
+      "end_seconds": 2211.2200000000003,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Sa pinagpasahan ng kumiting ito, nabigyan ng parliamentary courtesy ang Office of the President."
+    },
+    {
+      "stable_id": "asr-000311",
+      "start_seconds": 2211.62,
+      "end_seconds": 2213.02,
+      "speaker": "Rep. Elijah Rumbaoa San Fernando",
+      "text": "Maraming salamat po, Mr. Chair."
+    },
+    {
+      "stable_id": "asr-000312",
+      "start_seconds": 2213.66,
+      "end_seconds": 2217.3,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Thank you very much, Honorable Elijah San Fernando."
+    },
+    {
+      "stable_id": "asr-000313",
+      "start_seconds": 2218.24,
+      "end_seconds": 2224.68,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Again, your manifestation is noted at ito pong lahat ng inyong katanungan at paglilinaw ay sasagutin"
+    },
+    {
+      "stable_id": "asr-000314",
+      "start_seconds": 2225.3,
+      "end_seconds": 2231.62,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "honor before the budget defense of the Office of the President in plenary."
+    },
+    {
+      "stable_id": "asr-000315",
+      "start_seconds": 2231.86,
+      "end_seconds": 2234.2200000000003,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Thank you very much. Your manifestation is noted."
+    },
+    {
+      "stable_id": "asr-000316",
+      "start_seconds": 2234.68,
+      "end_seconds": 2238.2,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "May we now recognize the Honorable Sara Elago. Please proceed."
+    },
+    {
+      "stable_id": "asr-000317",
+      "start_seconds": 2238.76,
+      "end_seconds": 2246.88,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Mr. Chair, ang mga kababaihan ay kasama sa nananawagan ng buong-buo na transparency at accountability."
+    },
+    {
+      "stable_id": "asr-000318",
+      "start_seconds": 2247.86,
+      "end_seconds": 2253.2799999999997,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Nananawagan na magkaroon ng kasagutan sa maraming nilang katanungan,"
+    },
+    {
+      "stable_id": "asr-000319",
+      "start_seconds": 2253.7,
+      "end_seconds": 2262.16,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "lalong-lalo na sa panahon ngayon na pagkataas-taas ng presyo ng bigas, ng pagkain, ng kuryente, ng langis,"
+    },
+    {
+      "stable_id": "asr-000320",
+      "start_seconds": 2262.94,
+      "end_seconds": 2264.66,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "mababa ang sahod."
+    },
+    {
+      "stable_id": "asr-000321",
+      "start_seconds": 2264.68,
+      "end_seconds": 2271.2799999999997,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Hindi na kasya sa pangaraw-araw na pangangailangan ng kanilang mga pamilya at ng kanilang mga komunidad."
+    },
+    {
+      "stable_id": "asr-000322",
+      "start_seconds": 2272.92,
+      "end_seconds": 2278.0,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Matindi ang epekto ng pagbaha ng sunod-sunod na kalamidad."
+    },
+    {
+      "stable_id": "asr-000323",
+      "start_seconds": 2278.5,
+      "end_seconds": 2281.08,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Nandyan pa ang banta ng Super El Nino."
+    },
+    {
+      "stable_id": "asr-000324",
+      "start_seconds": 2281.82,
+      "end_seconds": 2288.96,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Sa kabila nito, Mr. Chair, nabagsak-nabagsak din ang ating lokal na agrikultura at manupaktura."
+    },
+    {
+      "stable_id": "asr-000325",
+      "start_seconds": 2289.26,
+      "end_seconds": 2293.76,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Nakita rin natin sa pangkabuan sa national budget,"
+    },
+    {
+      "stable_id": "asr-000326",
+      "start_seconds": 2294.68,
+      "end_seconds": 2301.08,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "napakaliit pa rin na prioridad ang binibigay natin sa pagpapayaman ng lokal na produksyon ng bigas."
+    },
+    {
+      "stable_id": "asr-000327",
+      "start_seconds": 2301.7200000000003,
+      "end_seconds": 2307.08,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Nang suporta na binibigay natin sa ating mga lokal na nagtatanim ng gulay at prutas."
+    },
+    {
+      "stable_id": "asr-000328",
+      "start_seconds": 2307.4,
+      "end_seconds": 2313.36,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "At sa pangkabuan, ang binibigay natin na suporta para sa pagpapayaman ng lokal na agrikultura."
+    },
+    {
+      "stable_id": "asr-000329",
+      "start_seconds": 2314.0,
+      "end_seconds": 2320.38,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Sa kabila ng napakarami at patong-patong na problema ng ating mga kababayan,"
+    },
+    {
+      "stable_id": "asr-000330",
+      "start_seconds": 2321.56,
+      "end_seconds": 2324.02,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "lalong-lalo na ho na sa taon-taon,"
+    },
+    {
+      "stable_id": "asr-000331",
+      "start_seconds": 2324.68,
+      "end_seconds": 2329.62,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "top one yung high prices ng mga bilihin sa kanilang mga dinadaing,"
+    },
+    {
+      "stable_id": "asr-000332",
+      "start_seconds": 2330.12,
+      "end_seconds": 2338.46,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "ay pinapataw pa rin natin yung mga nagpapahirap na mga buwis sa ating mga naghihirap na nga ng mga kababayan,"
+    },
+    {
+      "stable_id": "asr-000333",
+      "start_seconds": 2338.9,
+      "end_seconds": 2342.44,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "tulad ng value-added tax at ng excise tax sa langis."
+    },
+    {
+      "stable_id": "asr-000334",
+      "start_seconds": 2342.44,
+      "end_seconds": 2354.24,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Hindi ba dapat panahon na para ma-review natin itong mga buwis na pinakapinapasan ng mga pinakamahihirap at pinakanakakaranas ng gutom"
+    },
+    {
+      "stable_id": "asr-000335",
+      "start_seconds": 2354.24,
+      "end_seconds": 2356.5,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "sa ating mga kababayan?"
+    },
+    {
+      "stable_id": "asr-000336",
+      "start_seconds": 2357.12,
+      "end_seconds": 2366.44,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Nandyan din po, naggawad na ang kongreso na ito ng emergency powers para suspindihin o bawasan muna temporarily"
+    },
+    {
+      "stable_id": "asr-000337",
+      "start_seconds": 2366.44,
+      "end_seconds": 2371.42,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "o kaya naman tuluyan ang maibasura ang excise tax sa petroleum products."
+    },
+    {
+      "stable_id": "asr-000338",
+      "start_seconds": 2371.42,
+      "end_seconds": 2381.06,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Ngunit sa ngayon, ang sinususpindi pa lang natin yung excise tax sa LPG at kerosene, paano naman po ang diesel, paano naman po ang gasolina,"
+    },
+    {
+      "stable_id": "asr-000339",
+      "start_seconds": 2381.2,
+      "end_seconds": 2383.92,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "paano naman ang ibang mga petroleum products."
+    },
+    {
+      "stable_id": "asr-000340",
+      "start_seconds": 2384.24,
+      "end_seconds": 2391.14,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Diyan ho lubos na nakaasa ang ating mga magsasaka para sa kanilang mga makina na ginagamit sa pagtatanim."
+    },
+    {
+      "stable_id": "asr-000341",
+      "start_seconds": 2391.7,
+      "end_seconds": 2397.04,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Paano naman yung ating mga mangingisda na ginagamit po ang crudo para sa kanilang pagpapalaot."
+    },
+    {
+      "stable_id": "asr-000342",
+      "start_seconds": 2397.04,
+      "end_seconds": 2401.32,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Kaya nga naman, nandirito ho kami para sana mag-iit."
+    },
+    {
+      "stable_id": "asr-000343",
+      "start_seconds": 2401.84,
+      "end_seconds": 2410.02,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Hindi lang sana pero dapat eh, masagot natin yung katanungan, hindi lang po ng mga kababaihan kundi ng ating mga kababayan."
+    },
+    {
+      "stable_id": "asr-000344",
+      "start_seconds": 2410.42,
+      "end_seconds": 2414.18,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Kung bakit wala ho ang decisive na action para pababain."
+    },
+    {
+      "stable_id": "asr-000345",
+      "start_seconds": 2414.24,
+      "end_seconds": 2419.08,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Yung presyo ng bigas, yung presyo ng pagkain, yung presyo ng langis."
+    },
+    {
+      "stable_id": "asr-000346",
+      "start_seconds": 2419.62,
+      "end_seconds": 2429.74,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Bakit hindi natin tanggalin muna kahit temporarily o tuluyan na na maibasura at seryoso na matalakay at magkaroon ng direksyon"
+    },
+    {
+      "stable_id": "asr-000347",
+      "start_seconds": 2429.74,
+      "end_seconds": 2437.18,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "para hindi po pinapasan ng ordinaryong mamamayan itong patong-patong na mga buwis tulad ng VAT."
+    },
+    {
+      "stable_id": "asr-000348",
+      "start_seconds": 2437.18,
+      "end_seconds": 2444.18,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "At pag-isipan naman natin kung paano yung mga malalaking korporasyon, yung mga superbilyonaryo dito sa ating bansin."
+    },
+    {
+      "stable_id": "asr-000349",
+      "start_seconds": 2444.24,
+      "end_seconds": 2446.5,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Ang ating papatawan ng buwis."
+    },
+    {
+      "stable_id": "asr-000350",
+      "start_seconds": 2447.06,
+      "end_seconds": 2453.1,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "At kung paano rin natin lubos na mapapayaman ang agrikultura, ang manupaktura, ang industriya,"
+    },
+    {
+      "stable_id": "asr-000351",
+      "start_seconds": 2453.52,
+      "end_seconds": 2460.92,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "ang dami ng micro, small, at medium enterprises na lubos na umaasa sa ating pamahalaan para sa suporta,"
+    },
+    {
+      "stable_id": "asr-000352",
+      "start_seconds": 2461.2200000000003,
+      "end_seconds": 2469.14,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "para mabuild yung capacity nila na mag-export at mapaunlad ang ating bansa at lumikha ng trabaho dito sa ating bayan."
+    },
+    {
+      "stable_id": "asr-000353",
+      "start_seconds": 2469.32,
+      "end_seconds": 2474.14,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Bukod po dyan, lubos po na umaasa yung ating mga magsasaka at mga katulad."
+    },
+    {
+      "stable_id": "asr-000354",
+      "start_seconds": 2474.24,
+      "end_seconds": 2480.3,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Mga katutubo na mauna yung interest nila sa kanilang lupa, na mauna yung interest nila sa lokal na agrikultura,"
+    },
+    {
+      "stable_id": "asr-000355",
+      "start_seconds": 2480.76,
+      "end_seconds": 2488.56,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "imbis na unahin yung paghahanda para dito sa mga negosasyon na may kinalaman sa paksilika."
+    },
+    {
+      "stable_id": "asr-000356",
+      "start_seconds": 2489.04,
+      "end_seconds": 2496.02,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Ang panawagan nila, lupa para sa magsasaka, lupa para sa mga katutubo, hindi para sa paksilika."
+    },
+    {
+      "stable_id": "asr-000357",
+      "start_seconds": 2496.02,
+      "end_seconds": 2504.1,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Kaya muli, Mr. Che, tayo po ay dismayado na ang mga katanungan at napakaraming mabibigat ng mga usapin,"
+    },
+    {
+      "stable_id": "asr-000358",
+      "start_seconds": 2504.1,
+      "end_seconds": 2505.7799999999997,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "na ito ay hindi natalakay ngayon."
+    },
+    {
+      "stable_id": "asr-000359",
+      "start_seconds": 2506.2200000000003,
+      "end_seconds": 2513.82,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Dapat ang parliamentary courtesy ay sa mamamayang Pilipino na lubos na umaasa na sama-sama tayong lahat"
+    },
+    {
+      "stable_id": "asr-000360",
+      "start_seconds": 2513.82,
+      "end_seconds": 2520.04,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "na aangat noong pagdating sa pinapangarap natin na pambansang pagunlad"
+    },
+    {
+      "stable_id": "asr-000361",
+      "start_seconds": 2520.04,
+      "end_seconds": 2523.9,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "at para sa susunod na henerasyon ng sambayan ng Pilipino."
+    },
+    {
+      "stable_id": "asr-000362",
+      "start_seconds": 2523.9,
+      "end_seconds": 2525.46,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Maraming salamat, Mr. Chair."
+    },
+    {
+      "stable_id": "asr-000363",
+      "start_seconds": 2525.82,
+      "end_seconds": 2526.52,
+      "speaker": "Rep. Sarah Jane I. Elago",
+      "text": "Mr. Chair."
+    },
+    {
+      "stable_id": "asr-000364",
+      "start_seconds": 2527.0,
+      "end_seconds": 2530.74,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Maraming salamat, Honorable Sarah Ilago."
+    },
+    {
+      "stable_id": "asr-000365",
+      "start_seconds": 2531.58,
+      "end_seconds": 2533.9,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Those are very valid concerns."
+    },
+    {
+      "stable_id": "asr-000366",
+      "start_seconds": 2534.1,
+      "end_seconds": 2536.02,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "And your manifestation is noted."
+    },
+    {
+      "stable_id": "asr-000367",
+      "start_seconds": 2536.34,
+      "end_seconds": 2545.36,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "And once again, the Office of the President will answer all these concerns on or before their date at the plenary."
+    },
+    {
+      "stable_id": "asr-000368",
+      "start_seconds": 2546.04,
+      "end_seconds": 2547.0,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "So thank you very much."
+    },
+    {
+      "stable_id": "asr-000369",
+      "start_seconds": 2548.32,
+      "end_seconds": 2549.34,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "Mr. Chair."
+    },
+    {
+      "stable_id": "asr-000370",
+      "start_seconds": 2550.68,
+      "end_seconds": 2556.2799999999997,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Before we recognize the Honorable Montez, I would like to recognize the Honorable Edgar Erize."
+    },
+    {
+      "stable_id": "asr-000371",
+      "start_seconds": 2557.1,
+      "end_seconds": 2562.42,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "I am not a member of the Appropriations Committee, but I would like to express my support"
+    },
+    {
+      "stable_id": "asr-000372",
+      "start_seconds": 2562.42,
+      "end_seconds": 2565.84,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "to the President's $10 billion budget."
+    },
+    {
+      "stable_id": "asr-000373",
+      "start_seconds": 2566.5,
+      "end_seconds": 2577.04,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "simply because ah sa tingin ko po ay ah sumunod ng pangulo na tayo ay nasa austerity at binaba niya ng 64%"
+    },
+    {
+      "stable_id": "asr-000374",
+      "start_seconds": 2577.04,
+      "end_seconds": 2587.38,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "'yung kanyang budget at 'yun pong uh confidential funds I think at this point in time very necessary para sa ating pangulo"
+    },
+    {
+      "stable_id": "asr-000375",
+      "start_seconds": 2587.38,
+      "end_seconds": 2589.38,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "So bale nais ko pong ah"
+    },
+    {
+      "stable_id": "asr-000376",
+      "start_seconds": 2590.26,
+      "end_seconds": 2591.38,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "hingin ang ah attensyon ng Executive"
+    },
+    {
+      "stable_id": "asr-000377",
+      "start_seconds": 2592.42,
+      "end_seconds": 2603.7,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Secretary at ng mga Kabinete na may mga malalaking katanungan na dapat sagutin during the plenary."
+    },
+    {
+      "stable_id": "asr-000378",
+      "start_seconds": 2603.7,
+      "end_seconds": 2608.34,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "At ito po ay ang una, una ang katanungan po."
+    },
+    {
+      "stable_id": "asr-000379",
+      "start_seconds": 2608.34,
+      "end_seconds": 2617.3,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "We are in a severe quarterly deceleration as manifested by our GDP."
+    },
+    {
+      "stable_id": "asr-000380",
+      "start_seconds": 2617.3,
+      "end_seconds": 2621.7200000000003,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Apat na quarters na po po pabagsak ng pabagsak ang ating GDP"
+    },
+    {
+      "stable_id": "asr-000382",
+      "start_seconds": 2622.26,
+      "end_seconds": 2627.84,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Ito po ay ang mga dahilan, of course, the external factor, inflation"
+    },
+    {
+      "stable_id": "asr-000383",
+      "start_seconds": 2628.5,
+      "end_seconds": 2636.12,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "pero may pangatlong dahilan na pumipigil sa pag-angat o pag-recover ng ating bansa"
+    },
+    {
+      "stable_id": "asr-000384",
+      "start_seconds": 2636.36,
+      "end_seconds": 2641.7799999999997,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Ito po yung flood control at budget ah anomaly"
+    },
+    {
+      "stable_id": "asr-000385",
+      "start_seconds": 2642.58,
+      "end_seconds": 2651.2799999999997,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Ah at yan po ay pinapatunayan na ang pagka-recover na nung mga kapitbahay nating mga bansa"
+    },
+    {
+      "stable_id": "asr-000386",
+      "start_seconds": 2651.2799999999997,
+      "end_seconds": 2652.58,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "even Vietnam,"
+    },
+    {
+      "stable_id": "asr-000387",
+      "start_seconds": 2652.58,
+      "end_seconds": 2652.7,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "[unclear]"
+    },
+    {
+      "stable_id": "asr-000388",
+      "start_seconds": 2652.7,
+      "end_seconds": 2657.06,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "8% GDP ngayon po. So ang malaki pong"
+    },
+    {
+      "stable_id": "asr-000389",
+      "start_seconds": 2657.06,
+      "end_seconds": 2657.66,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "katanungan,"
+    },
+    {
+      "stable_id": "asr-000390",
+      "start_seconds": 2657.66,
+      "end_seconds": 2675.02,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "paano itong 2027 budget makakatulong upang iangat yung ating ekonomiya? Noong 2023 po, ang fiscal space para sa mga developmental projects capital outlay"
+    },
+    {
+      "stable_id": "asr-000391",
+      "start_seconds": 2675.02,
+      "end_seconds": 2675.1,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "[unclear]"
+    },
+    {
+      "stable_id": "asr-000392",
+      "start_seconds": 2675.12,
+      "end_seconds": 2675.46,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "is"
+    },
+    {
+      "stable_id": "asr-000393",
+      "start_seconds": 2675.46,
+      "end_seconds": 2675.6,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "[unclear]"
+    },
+    {
+      "stable_id": "asr-000394",
+      "start_seconds": 2675.6,
+      "end_seconds": 2675.98,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "[unclear]"
+    },
+    {
+      "stable_id": "asr-000395",
+      "start_seconds": 2675.98,
+      "end_seconds": 2677.34,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "25%."
+    },
+    {
+      "stable_id": "asr-000396",
+      "start_seconds": 2677.34,
+      "end_seconds": 2678.04,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "2024"
+    },
+    {
+      "stable_id": "asr-000397",
+      "start_seconds": 2678.04,
+      "end_seconds": 2678.84,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "po,"
+    },
+    {
+      "stable_id": "asr-000398",
+      "start_seconds": 2678.84,
+      "end_seconds": 2679.4,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "21"
+    },
+    {
+      "stable_id": "asr-000399",
+      "start_seconds": 2679.4,
+      "end_seconds": 2679.76,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "%."
+    },
+    {
+      "stable_id": "asr-000400",
+      "start_seconds": 2679.76,
+      "end_seconds": 2686.98,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Twenty-twenty-five po, nineteen percent. Ganon din po, twenty-twenty-six, nineteen percent."
+    },
+    {
+      "stable_id": "asr-000401",
+      "start_seconds": 2687.24,
+      "end_seconds": 2693.7,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Ngayon po, sa aking pag-aaral, labing-anim na porsyento na lamang ang Fiscal Space for Developmental Project."
+    },
+    {
+      "stable_id": "asr-000402",
+      "start_seconds": 2694.96,
+      "end_seconds": 2700.0,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "At dito po sa sixteen percent na ito, thirty-seven percent po dito ay"
+    },
+    {
+      "stable_id": "asr-000403",
+      "start_seconds": 2700.0,
+      "end_seconds": 2701.68,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "mga pork pa po."
+    },
+    {
+      "stable_id": "asr-000404",
+      "start_seconds": 2702.38,
+      "end_seconds": 2703.54,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Soft and hard pork."
+    },
+    {
+      "stable_id": "asr-000405",
+      "start_seconds": 2704.2,
+      "end_seconds": 2705.9,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Kabilang na po rito yung presidential"
+    },
+    {
+      "stable_id": "asr-000406",
+      "start_seconds": 2705.9,
+      "end_seconds": 2708.14,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "pork na 58 billion."
+    },
+    {
+      "stable_id": "asr-000407",
+      "start_seconds": 2708.94,
+      "end_seconds": 2709.92,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Halimbawa po"
+    },
+    {
+      "stable_id": "asr-000408",
+      "start_seconds": 2709.92,
+      "end_seconds": 2711.8,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "ng presidential pork,"
+    },
+    {
+      "stable_id": "asr-000409",
+      "start_seconds": 2711.92,
+      "end_seconds": 2714.16,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "pinamigay po na 8 billion sa mga barangay,"
+    },
+    {
+      "stable_id": "asr-000410",
+      "start_seconds": 2714.34,
+      "end_seconds": 2715.02,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "mga scholarship,"
+    },
+    {
+      "stable_id": "asr-000411",
+      "start_seconds": 2715.8,
+      "end_seconds": 2717.82,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "mga 100,000 per barangay,"
+    },
+    {
+      "stable_id": "asr-000412",
+      "start_seconds": 2717.94,
+      "end_seconds": 2720.14,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "na wala naman po tayong measure,"
+    },
+    {
+      "stable_id": "asr-000413",
+      "start_seconds": 2720.68,
+      "end_seconds": 2721.96,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "walang absorptive"
+    },
+    {
+      "stable_id": "asr-000414",
+      "start_seconds": 2721.96,
+      "end_seconds": 2723.68,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "capacity ang gobyerno"
+    },
+    {
+      "stable_id": "asr-000415",
+      "start_seconds": 2723.68,
+      "end_seconds": 2724.92,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "para mamonitor ito."
+    },
+    {
+      "stable_id": "asr-000416",
+      "start_seconds": 2726.18,
+      "end_seconds": 2728.18,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Iyan po ay napatunayan"
+    },
+    {
+      "stable_id": "asr-000417",
+      "start_seconds": 2728.18,
+      "end_seconds": 2729.9,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "na sa patuloy na korupsyon"
+    },
+    {
+      "stable_id": "asr-000418",
+      "start_seconds": 2729.9,
+      "end_seconds": 2731.1,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "ng mga"
+    },
+    {
+      "stable_id": "asr-000419",
+      "start_seconds": 2731.1,
+      "end_seconds": 2733.6,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "budget ng barangay na"
+    },
+    {
+      "stable_id": "asr-000420",
+      "start_seconds": 2733.6,
+      "end_seconds": 2736.08,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "nato-tolerate po ng commission and audit"
+    },
+    {
+      "stable_id": "asr-000421",
+      "start_seconds": 2736.08,
+      "end_seconds": 2738.2,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "at sayang po yung pera"
+    },
+    {
+      "stable_id": "asr-000422",
+      "start_seconds": 2738.2,
+      "end_seconds": 2740.48,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "kung dito lang po mapupunta."
+    },
+    {
+      "stable_id": "asr-000423",
+      "start_seconds": 2741.24,
+      "end_seconds": 2741.88,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Sa ngayon po,"
+    },
+    {
+      "stable_id": "asr-000424",
+      "start_seconds": 2743.16,
+      "end_seconds": 2744.98,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "ang inutangin natin"
+    },
+    {
+      "stable_id": "asr-000425",
+      "start_seconds": 2744.98,
+      "end_seconds": 2746.1,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "ay 1.6"
+    },
+    {
+      "stable_id": "asr-000426",
+      "start_seconds": 2746.1,
+      "end_seconds": 2747.52,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "billion. Trillion."
+    },
+    {
+      "stable_id": "asr-000427",
+      "start_seconds": 2747.92,
+      "end_seconds": 2748.8,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "1.6 trillion."
+    },
+    {
+      "stable_id": "asr-000428",
+      "start_seconds": 2749.7,
+      "end_seconds": 2752.04,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "At ang ating"
+    },
+    {
+      "stable_id": "asr-000429",
+      "start_seconds": 2752.04,
+      "end_seconds": 2754.2,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "nakalaan para sa developmental"
+    },
+    {
+      "stable_id": "asr-000430",
+      "start_seconds": 2754.2,
+      "end_seconds": 2755.82,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "project ay"
+    },
+    {
+      "stable_id": "asr-000431",
+      "start_seconds": 2755.82,
+      "end_seconds": 2757.82,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "1.1 trillion"
+    },
+    {
+      "stable_id": "asr-000432",
+      "start_seconds": 2757.82,
+      "end_seconds": 2759.88,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "lamang. So, ibig sabihin"
+    },
+    {
+      "stable_id": "asr-000433",
+      "start_seconds": 2759.88,
+      "end_seconds": 2761.58,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "po, ang inuutang natin for"
+    },
+    {
+      "stable_id": "asr-000434",
+      "start_seconds": 2761.58,
+      "end_seconds": 2763.78,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "government operations, personnel services"
+    },
+    {
+      "stable_id": "asr-000435",
+      "start_seconds": 2763.78,
+      "end_seconds": 2764.98,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "na at MOOE."
+    },
+    {
+      "stable_id": "asr-000436",
+      "start_seconds": 2765.4,
+      "end_seconds": 2767.44,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Hindi na po para sa developmental"
+    },
+    {
+      "stable_id": "asr-000437",
+      "start_seconds": 2767.44,
+      "end_seconds": 2769.78,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "project. Ang pag-angat na ekonomiya"
+    },
+    {
+      "stable_id": "asr-000438",
+      "start_seconds": 2769.78,
+      "end_seconds": 2770.68,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "4%,"
+    },
+    {
+      "stable_id": "asr-000439",
+      "start_seconds": 2770.68,
+      "end_seconds": 2773.74,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "ang pag-angat ng utang"
+    },
+    {
+      "stable_id": "asr-000440",
+      "start_seconds": 2773.74,
+      "end_seconds": 2775.38,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "halos 10%."
+    },
+    {
+      "stable_id": "asr-000441",
+      "start_seconds": 2775.38,
+      "end_seconds": 2778.14,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "So, dapat po ito yung mga mahalalagang"
+    },
+    {
+      "stable_id": "asr-000442",
+      "start_seconds": 2778.14,
+      "end_seconds": 2779.94,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "maipaliwanag sa mga"
+    },
+    {
+      "stable_id": "asr-000443",
+      "start_seconds": 2779.94,
+      "end_seconds": 2781.88,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "mamamayan para maunawaan"
+    },
+    {
+      "stable_id": "asr-000444",
+      "start_seconds": 2781.88,
+      "end_seconds": 2783.48,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "nila saan ba ang direksyon"
+    },
+    {
+      "stable_id": "asr-000445",
+      "start_seconds": 2783.48,
+      "end_seconds": 2785.24,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "ng bansa na ito."
+    },
+    {
+      "stable_id": "asr-000446",
+      "start_seconds": 2785.48,
+      "end_seconds": 2787.36,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Ito ba ay paangat"
+    },
+    {
+      "stable_id": "asr-000447",
+      "start_seconds": 2787.36,
+      "end_seconds": 2789.16,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "sa susunod na"
+    },
+    {
+      "stable_id": "asr-000448",
+      "start_seconds": 2789.16,
+      "end_seconds": 2791.22,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "dalawang buwan"
+    },
+    {
+      "stable_id": "asr-000449",
+      "start_seconds": 2791.22,
+      "end_seconds": 2793.48,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "ng ating"
+    },
+    {
+      "stable_id": "asr-000450",
+      "start_seconds": 2793.48,
+      "end_seconds": 2795.22,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Pangulo? Ano ba ang direksyon"
+    },
+    {
+      "stable_id": "asr-000451",
+      "start_seconds": 2795.22,
+      "end_seconds": 2797.3,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "na tatahakin? Ano ba ang"
+    },
+    {
+      "stable_id": "asr-000452",
+      "start_seconds": 2797.3,
+      "end_seconds": 2799.3,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "gagawin para itong 2027"
+    },
+    {
+      "stable_id": "asr-000453",
+      "start_seconds": 2799.3,
+      "end_seconds": 2801.42,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "budget at 2028 budget"
+    },
+    {
+      "stable_id": "asr-000454",
+      "start_seconds": 2801.42,
+      "end_seconds": 2803.22,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "ay mapakinabangan para"
+    },
+    {
+      "stable_id": "asr-000455",
+      "start_seconds": 2803.22,
+      "end_seconds": 2805.12,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "sa pag-angat ng buhay ng mga"
+    },
+    {
+      "stable_id": "asr-000456",
+      "start_seconds": 2805.12,
+      "end_seconds": 2806.38,
+      "speaker": "Rep. Edgar R. Erice",
+      "text": "Pilipino? Salamat po."
+    },
+    {
+      "stable_id": "asr-000457",
+      "start_seconds": 2807.64,
+      "end_seconds": 2809.2,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Thank you very much, the Honorable"
+    },
+    {
+      "stable_id": "asr-000458",
+      "start_seconds": 2809.2,
+      "end_seconds": 2810.86,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Erice, for your"
+    },
+    {
+      "stable_id": "asr-000459",
+      "start_seconds": 2810.86,
+      "end_seconds": 2812.84,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "very significant"
+    },
+    {
+      "stable_id": "asr-000460",
+      "start_seconds": 2812.84,
+      "end_seconds": 2813.92,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "manifestation."
+    },
+    {
+      "stable_id": "asr-000461",
+      "start_seconds": 2815.3,
+      "end_seconds": 2816.26,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "May I now recognize..."
+    },
+    {
+      "stable_id": "asr-000462",
+      "start_seconds": 2816.26,
+      "end_seconds": 2819.06,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Before that, may I manifest"
+    },
+    {
+      "stable_id": "asr-000463",
+      "start_seconds": 2819.16,
+      "end_seconds": 2820.68,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "that I'll be listed"
+    },
+    {
+      "stable_id": "asr-000464",
+      "start_seconds": 2820.68,
+      "end_seconds": 2822.12,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "for my manifestation"
+    },
+    {
+      "stable_id": "asr-000465",
+      "start_seconds": 2822.12,
+      "end_seconds": 2825.12,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "in support 100% of the budget"
+    },
+    {
+      "stable_id": "asr-000466",
+      "start_seconds": 2825.12,
+      "end_seconds": 2827.3,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "of President Bongbong Marcos."
+    },
+    {
+      "stable_id": "asr-000467",
+      "start_seconds": 2828.5,
+      "end_seconds": 2828.82,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Your"
+    },
+    {
+      "stable_id": "asr-000468",
+      "start_seconds": 2828.82,
+      "end_seconds": 2830.98,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "manifestation is..."
+    },
+    {
+      "stable_id": "asr-000469",
+      "start_seconds": 2830.98,
+      "end_seconds": 2832.06,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "And you will be recognized"
+    },
+    {
+      "stable_id": "asr-000470",
+      "start_seconds": 2832.06,
+      "end_seconds": 2835.52,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "after Congresswoman Iris Montez."
+    },
+    {
+      "stable_id": "asr-000471",
+      "start_seconds": 2835.54,
+      "end_seconds": 2836.64,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Thank you, Mr. Chairman."
+    },
+    {
+      "stable_id": "asr-000472",
+      "start_seconds": 2836.98,
+      "end_seconds": 2838.48,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Yes. Honorable Montez,"
+    },
+    {
+      "stable_id": "asr-000473",
+      "start_seconds": 2838.7,
+      "end_seconds": 2839.73,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "please proceed."
+    },
+    {
+      "stable_id": "asr-000473-split-2",
+      "start_seconds": 2839.73,
+      "end_seconds": 2840.8,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "stable_id": "asr-000474",
+      "start_seconds": 2841.1,
+      "end_seconds": 2842.88,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "I would just like to manifest that my"
+    },
+    {
+      "stable_id": "asr-000475",
+      "start_seconds": 2842.88,
+      "end_seconds": 2845.06,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "negative vote is not"
+    },
+    {
+      "stable_id": "asr-000476",
+      "start_seconds": 2845.06,
+      "end_seconds": 2847.16,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "directed against the office of the President"
+    },
+    {
+      "stable_id": "asr-000477",
+      "start_seconds": 2847.16,
+      "end_seconds": 2849.14,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "or the person occupying the office."
+    },
+    {
+      "stable_id": "asr-000478",
+      "start_seconds": 2849.16,
+      "end_seconds": 2851.32,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "Rather, it's a vote"
+    },
+    {
+      "stable_id": "asr-000479",
+      "start_seconds": 2851.32,
+      "end_seconds": 2853.14,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "in favor of transparency,"
+    },
+    {
+      "stable_id": "asr-000480",
+      "start_seconds": 2853.42,
+      "end_seconds": 2854.94,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "accountability, and the"
+    },
+    {
+      "stable_id": "asr-000481",
+      "start_seconds": 2854.94,
+      "end_seconds": 2856.8,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "constitutional duty of Congress"
+    },
+    {
+      "stable_id": "asr-000482",
+      "start_seconds": 2856.8,
+      "end_seconds": 2859.24,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "to scrutinize every peso of public"
+    },
+    {
+      "stable_id": "asr-000483",
+      "start_seconds": 2859.24,
+      "end_seconds": 2861.08,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "funds. I commend the office of"
+    },
+    {
+      "stable_id": "asr-000484",
+      "start_seconds": 2861.08,
+      "end_seconds": 2863.16,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "the President for submitting a lower"
+    },
+    {
+      "stable_id": "asr-000485",
+      "start_seconds": 2863.16,
+      "end_seconds": 2864.94,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "budget in"
+    },
+    {
+      "stable_id": "asr-000486",
+      "start_seconds": 2864.94,
+      "end_seconds": 2866.88,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "consideration, perhaps, of the dire"
+    },
+    {
+      "stable_id": "asr-000487",
+      "start_seconds": 2866.88,
+      "end_seconds": 2868.92,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "situation we are in right now."
+    },
+    {
+      "stable_id": "asr-000488",
+      "start_seconds": 2869.26,
+      "end_seconds": 2871.08,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "But let me just also emphasize"
+    },
+    {
+      "stable_id": "asr-000489",
+      "start_seconds": 2871.08,
+      "end_seconds": 2873.08,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "that the national budget is the"
+    },
+    {
+      "stable_id": "asr-000490",
+      "start_seconds": 2873.08,
+      "end_seconds": 2874.88,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "most important policy document"
+    },
+    {
+      "stable_id": "asr-000491",
+      "start_seconds": 2874.88,
+      "end_seconds": 2876.9,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "that comes before this chamber"
+    },
+    {
+      "stable_id": "asr-000492",
+      "start_seconds": 2876.9,
+      "end_seconds": 2879.04,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "and no office, regardless of"
+    },
+    {
+      "stable_id": "asr-000493",
+      "start_seconds": 2879.04,
+      "end_seconds": 2880.82,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "its stature, should be exempt from"
+    },
+    {
+      "stable_id": "asr-000494",
+      "start_seconds": 2880.82,
+      "end_seconds": 2883.1,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "meaningful scrutiny. So it is"
+    },
+    {
+      "stable_id": "asr-000495",
+      "start_seconds": 2883.1,
+      "end_seconds": 2884.96,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "for that reason that I"
+    },
+    {
+      "stable_id": "asr-000496",
+      "start_seconds": 2884.96,
+      "end_seconds": 2887.04,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "voted no to the motion. Thank you, Mr."
+    },
+    {
+      "stable_id": "asr-000497",
+      "start_seconds": 2887.2,
+      "end_seconds": 2888.03,
+      "speaker": "Rep. Iris Marie Demesa Montes",
+      "text": "Chair."
+    },
+    {
+      "stable_id": "asr-000497-split-2",
+      "start_seconds": 2888.03,
+      "end_seconds": 2889.22,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Maraming salamat,"
+    },
+    {
+      "stable_id": "asr-000498",
+      "start_seconds": 2889.36,
+      "end_seconds": 2891.12,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Honorable Montez."
+    },
+    {
+      "stable_id": "asr-000499",
+      "start_seconds": 2891.68,
+      "end_seconds": 2893.34,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Next, may we recognize"
+    },
+    {
+      "stable_id": "asr-000500",
+      "start_seconds": 2893.34,
+      "end_seconds": 2895.18,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "the Honorable Rufus"
+    },
+    {
+      "stable_id": "asr-000501",
+      "start_seconds": 2895.18,
+      "end_seconds": 2896.22,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Rodriguez."
+    },
+    {
+      "stable_id": "asr-000501-split-2",
+      "start_seconds": 2896.22,
+      "end_seconds": 2897.2,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Thank you, Mr. Chairman."
+    },
+    {
+      "stable_id": "asr-000502",
+      "start_seconds": 2897.56,
+      "end_seconds": 2898.74,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Good morning, Madam Chair."
+    },
+    {
+      "stable_id": "asr-000503",
+      "start_seconds": 2900.0,
+      "end_seconds": 2901.36,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "May distinguished colleagues"
+    },
+    {
+      "stable_id": "asr-000504",
+      "start_seconds": 2901.36,
+      "end_seconds": 2903.2,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "and, of course, good morning"
+    },
+    {
+      "stable_id": "asr-000505",
+      "start_seconds": 2903.2,
+      "end_seconds": 2904.7,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "to AS Ralph Recto"
+    },
+    {
+      "stable_id": "asr-000506",
+      "start_seconds": 2904.7,
+      "end_seconds": 2907.06,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "and the entire OP family"
+    },
+    {
+      "stable_id": "asr-000507",
+      "start_seconds": 2907.06,
+      "end_seconds": 2909.0,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "here. Let me manifest,"
+    },
+    {
+      "stable_id": "asr-000508",
+      "start_seconds": 2909.04,
+      "end_seconds": 2911.18,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Madam Chairman, that"
+    },
+    {
+      "stable_id": "asr-000509",
+      "start_seconds": 2911.18,
+      "end_seconds": 2913.22,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "we, that I, this representation"
+    },
+    {
+      "stable_id": "asr-000510",
+      "start_seconds": 2913.22,
+      "end_seconds": 2914.82,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "from Cagayan, De Oro City,"
+    },
+    {
+      "stable_id": "asr-000511",
+      "start_seconds": 2915.28,
+      "end_seconds": 2916.72,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the city of golden friendship,"
+    },
+    {
+      "stable_id": "asr-000512",
+      "start_seconds": 2918.14,
+      "end_seconds": 2919.62,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "supports 100%"
+    },
+    {
+      "stable_id": "asr-000513",
+      "start_seconds": 2919.62,
+      "end_seconds": 2921.22,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the entire budget"
+    },
+    {
+      "stable_id": "asr-000514",
+      "start_seconds": 2921.22,
+      "end_seconds": 2922.88,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "of the office of the President."
+    },
+    {
+      "stable_id": "asr-000515",
+      "start_seconds": 2923.26,
+      "end_seconds": 2925.16,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Why? Because our"
+    },
+    {
+      "stable_id": "asr-000516",
+      "start_seconds": 2925.16,
+      "end_seconds": 2927.44,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "President deserves support"
+    },
+    {
+      "stable_id": "asr-000517",
+      "start_seconds": 2927.44,
+      "end_seconds": 2929.24,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "and admiration"
+    },
+    {
+      "stable_id": "asr-000518",
+      "start_seconds": 2929.24,
+      "end_seconds": 2930.86,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "and we have to love him first."
+    },
+    {
+      "stable_id": "asr-000519",
+      "start_seconds": 2932.04,
+      "end_seconds": 2933.14,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "He is the President"
+    },
+    {
+      "stable_id": "asr-000520",
+      "start_seconds": 2933.14,
+      "end_seconds": 2935.4,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "who is doing the right"
+    },
+    {
+      "stable_id": "asr-000521",
+      "start_seconds": 2935.4,
+      "end_seconds": 2937.08,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "track in foreign policy."
+    },
+    {
+      "stable_id": "asr-000522",
+      "start_seconds": 2937.08,
+      "end_seconds": 2938.62,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "The President,"
+    },
+    {
+      "stable_id": "asr-000523",
+      "start_seconds": 2939.04,
+      "end_seconds": 2941.12,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "who made sure that not"
+    },
+    {
+      "stable_id": "asr-000524",
+      "start_seconds": 2941.12,
+      "end_seconds": 2942.98,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "an inch of our territory,"
+    },
+    {
+      "stable_id": "asr-000525",
+      "start_seconds": 2943.66,
+      "end_seconds": 2945.06,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "which is national"
+    },
+    {
+      "stable_id": "asr-000526",
+      "start_seconds": 2945.06,
+      "end_seconds": 2947.34,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "territory, Article 1, the first important"
+    },
+    {
+      "stable_id": "asr-000527",
+      "start_seconds": 2947.34,
+      "end_seconds": 2949.28,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "statement and"
+    },
+    {
+      "stable_id": "asr-000528",
+      "start_seconds": 2949.28,
+      "end_seconds": 2951.14,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "provision in our Constitution is"
+    },
+    {
+      "stable_id": "asr-000529",
+      "start_seconds": 2951.14,
+      "end_seconds": 2952.26,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "national territory."
+    },
+    {
+      "stable_id": "asr-000530",
+      "start_seconds": 2953.12,
+      "end_seconds": 2955.08,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "And our President, Mr. Chairman,"
+    },
+    {
+      "stable_id": "asr-000531",
+      "start_seconds": 2955.22,
+      "end_seconds": 2957.2,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Madam Chair, made sure"
+    },
+    {
+      "stable_id": "asr-000532",
+      "start_seconds": 2957.2,
+      "end_seconds": 2958.7799999999997,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "that we have the right pivot"
+    },
+    {
+      "stable_id": "asr-000533",
+      "start_seconds": 2958.7799999999997,
+      "end_seconds": 2961.08,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "to like-minded countries"
+    },
+    {
+      "stable_id": "asr-000534",
+      "start_seconds": 2961.08,
+      "end_seconds": 2962.7,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "like the United States,"
+    },
+    {
+      "stable_id": "asr-000535",
+      "start_seconds": 2963.32,
+      "end_seconds": 2963.84,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Japan,"
+    },
+    {
+      "stable_id": "asr-000536",
+      "start_seconds": 2964.7,
+      "end_seconds": 2966.6,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the European Union,"
+    },
+    {
+      "stable_id": "asr-000537",
+      "start_seconds": 2967.44,
+      "end_seconds": 2967.98,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Australia,"
+    },
+    {
+      "stable_id": "asr-000538",
+      "start_seconds": 2967.98,
+      "end_seconds": 2970.34,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "New Zealand, and others"
+    },
+    {
+      "stable_id": "asr-000539",
+      "start_seconds": 2970.34,
+      "end_seconds": 2972.58,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "because this is a matter"
+    },
+    {
+      "stable_id": "asr-000540",
+      "start_seconds": 2972.58,
+      "end_seconds": 2974.56,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "of international law"
+    },
+    {
+      "stable_id": "asr-000541",
+      "start_seconds": 2974.56,
+      "end_seconds": 2976.6,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "and President Marcos"
+    },
+    {
+      "stable_id": "asr-000542",
+      "start_seconds": 2976.6,
+      "end_seconds": 2978.58,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "indeed is"
+    },
+    {
+      "stable_id": "asr-000543",
+      "start_seconds": 2978.58,
+      "end_seconds": 2980.3,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "trying to protect our"
+    },
+    {
+      "stable_id": "asr-000544",
+      "start_seconds": 2980.3,
+      "end_seconds": 2982.04,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "West Philippine Sea, our"
+    },
+    {
+      "stable_id": "asr-000545",
+      "start_seconds": 2982.04,
+      "end_seconds": 2984.44,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "200-mile economic zone as provided for"
+    },
+    {
+      "stable_id": "asr-000546",
+      "start_seconds": 2984.44,
+      "end_seconds": 2986.06,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "by the 1982"
+    },
+    {
+      "stable_id": "asr-000547",
+      "start_seconds": 2986.06,
+      "end_seconds": 2988.26,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "United Nations Convention"
+    },
+    {
+      "stable_id": "asr-000548",
+      "start_seconds": 2988.26,
+      "end_seconds": 2989.12,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "of the Law of the Sea."
+    },
+    {
+      "stable_id": "asr-000549",
+      "start_seconds": 2990.14,
+      "end_seconds": 2992.36,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Mr. Chairman, that is"
+    },
+    {
+      "stable_id": "asr-000550",
+      "start_seconds": 2992.36,
+      "end_seconds": 2994.3,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "one aspect that why"
+    },
+    {
+      "stable_id": "asr-000551",
+      "start_seconds": 2994.3,
+      "end_seconds": 2995.84,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "we have to support the President"
+    },
+    {
+      "stable_id": "asr-000552",
+      "start_seconds": 2995.84,
+      "end_seconds": 2997.86,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "in his quest"
+    },
+    {
+      "stable_id": "asr-000553",
+      "start_seconds": 2997.86,
+      "end_seconds": 3000.08,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "that no foreign power"
+    },
+    {
+      "stable_id": "asr-000554",
+      "start_seconds": 3000.08,
+      "end_seconds": 3001.7200000000003,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "should be able"
+    },
+    {
+      "stable_id": "asr-000555",
+      "start_seconds": 3001.7200000000003,
+      "end_seconds": 3003.96,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "to get our"
+    },
+    {
+      "stable_id": "asr-000556",
+      "start_seconds": 3003.96,
+      "end_seconds": 3005.48,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "200-mile economic zone."
+    },
+    {
+      "stable_id": "asr-000557",
+      "start_seconds": 3006.26,
+      "end_seconds": 3008.26,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Secondly, the President"
+    },
+    {
+      "stable_id": "asr-000558",
+      "start_seconds": 3008.26,
+      "end_seconds": 3010.14,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "was the person"
+    },
+    {
+      "stable_id": "asr-000559",
+      "start_seconds": 3010.14,
+      "end_seconds": 3012.2200000000003,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "who made sure that during"
+    },
+    {
+      "stable_id": "asr-000560",
+      "start_seconds": 3012.2200000000003,
+      "end_seconds": 3013.52,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "his SONA"
+    },
+    {
+      "stable_id": "asr-000561",
+      "start_seconds": 3013.52,
+      "end_seconds": 3016.16,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "brought about these flood control"
+    },
+    {
+      "stable_id": "asr-000562",
+      "start_seconds": 3016.16,
+      "end_seconds": 3018.34,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "issues. And therefore,"
+    },
+    {
+      "stable_id": "asr-000563",
+      "start_seconds": 3018.82,
+      "end_seconds": 3020.14,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "those who are responsible"
+    },
+    {
+      "stable_id": "asr-000564",
+      "start_seconds": 3020.14,
+      "end_seconds": 3022.48,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "through our ombudsman"
+    },
+    {
+      "stable_id": "asr-000565",
+      "start_seconds": 3022.48,
+      "end_seconds": 3024.56,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "will face justice"
+    },
+    {
+      "stable_id": "asr-000566",
+      "start_seconds": 3024.56,
+      "end_seconds": 3026.3,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "for this. I'm just"
+    },
+    {
+      "stable_id": "asr-000567",
+      "start_seconds": 3026.3,
+      "end_seconds": 3027.82,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "happy to note that there is no"
+    },
+    {
+      "stable_id": "asr-000568",
+      "start_seconds": 3027.86,
+      "end_seconds": 3029.74,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "ghost project in the second"
+    },
+    {
+      "stable_id": "asr-000569",
+      "start_seconds": 3029.74,
+      "end_seconds": 3031.7200000000003,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "district of Cagayan de Oro nor"
+    },
+    {
+      "stable_id": "asr-000570",
+      "start_seconds": 3031.7200000000003,
+      "end_seconds": 3034.0,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "substandard projects"
+    },
+    {
+      "stable_id": "asr-000571",
+      "start_seconds": 3034.0,
+      "end_seconds": 3036.26,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "of flood control. Everything is completed"
+    },
+    {
+      "stable_id": "asr-000572",
+      "start_seconds": 3036.26,
+      "end_seconds": 3038.48,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "and also on"
+    },
+    {
+      "stable_id": "asr-000573",
+      "start_seconds": 3038.48,
+      "end_seconds": 3039.6,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the proper"
+    },
+    {
+      "stable_id": "asr-000574",
+      "start_seconds": 3039.6,
+      "end_seconds": 3042.56,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "standards, Madam Chairman."
+    },
+    {
+      "stable_id": "asr-000575",
+      "start_seconds": 3042.7,
+      "end_seconds": 3044.3,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "We passed COA, we passed the"
+    },
+    {
+      "stable_id": "asr-000576",
+      "start_seconds": 3044.3,
+      "end_seconds": 3045.82,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "NBI, we passed the"
+    },
+    {
+      "stable_id": "asr-000577",
+      "start_seconds": 3045.82,
+      "end_seconds": 3048.4,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "DPWH, we passed the NEDA"
+    },
+    {
+      "stable_id": "asr-000578",
+      "start_seconds": 3048.4,
+      "end_seconds": 3050.1,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "or the examination"
+    },
+    {
+      "stable_id": "asr-000579",
+      "start_seconds": 3050.1,
+      "end_seconds": 3052.2,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "immediately after the President"
+    },
+    {
+      "stable_id": "asr-000580",
+      "start_seconds": 3052.2,
+      "end_seconds": 3054.16,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "pronounced those"
+    },
+    {
+      "stable_id": "asr-000581",
+      "start_seconds": 3054.16,
+      "end_seconds": 3056.26,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "na mahiya naman because of"
+    },
+    {
+      "stable_id": "asr-000582",
+      "start_seconds": 3056.26,
+      "end_seconds": 3057.34,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the flood control."
+    },
+    {
+      "stable_id": "asr-000583",
+      "start_seconds": 3057.86,
+      "end_seconds": 3059.82,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Therefore, Mr. Chairman,"
+    },
+    {
+      "stable_id": "asr-000584",
+      "start_seconds": 3060.46,
+      "end_seconds": 3062.48,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "as a member of this"
+    },
+    {
+      "stable_id": "asr-000585",
+      "start_seconds": 3062.48,
+      "end_seconds": 3064.3,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Congress, all the way"
+    },
+    {
+      "stable_id": "asr-000586",
+      "start_seconds": 3064.3,
+      "end_seconds": 3066.48,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "from Mindanao, we"
+    },
+    {
+      "stable_id": "asr-000587",
+      "start_seconds": 3066.48,
+      "end_seconds": 3068.18,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "are therefore here to"
+    },
+    {
+      "stable_id": "asr-000588",
+      "start_seconds": 3068.18,
+      "end_seconds": 3070.34,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "signify our full support."
+    },
+    {
+      "stable_id": "asr-000589",
+      "start_seconds": 3070.86,
+      "end_seconds": 3072.16,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "First, the President"
+    },
+    {
+      "stable_id": "asr-000590",
+      "start_seconds": 3072.16,
+      "end_seconds": 3074.24,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "stands on the right way"
+    },
+    {
+      "stable_id": "asr-000591",
+      "start_seconds": 3074.24,
+      "end_seconds": 3075.74,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "to counter China."
+    },
+    {
+      "stable_id": "asr-000592",
+      "start_seconds": 3076.2799999999997,
+      "end_seconds": 3078.12,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Number two, anti-corruption"
+    },
+    {
+      "stable_id": "asr-000593",
+      "start_seconds": 3078.12,
+      "end_seconds": 3079.98,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "campaign, the President appointing"
+    },
+    {
+      "stable_id": "asr-000594",
+      "start_seconds": 3079.98,
+      "end_seconds": 3082.14,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "a very illustrious member of ours,"
+    },
+    {
+      "stable_id": "asr-000595",
+      "start_seconds": 3082.36,
+      "end_seconds": 3083.8,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the ombudsman, to start"
+    },
+    {
+      "stable_id": "asr-000596",
+      "start_seconds": 3083.8,
+      "end_seconds": 3085.6,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "already, he has been filing"
+    },
+    {
+      "stable_id": "asr-000597",
+      "start_seconds": 3085.6,
+      "end_seconds": 3087.7799999999997,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "and more will be filed to make"
+    },
+    {
+      "stable_id": "asr-000598",
+      "start_seconds": 3087.7799999999997,
+      "end_seconds": 3089.96,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "sure those responsible will face"
+    },
+    {
+      "stable_id": "asr-000599",
+      "start_seconds": 3089.96,
+      "end_seconds": 3091.56,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "justice."
+    },
+    {
+      "stable_id": "asr-000600",
+      "start_seconds": 3092.36,
+      "end_seconds": 3093.86,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "So, Mr. Chairman, many things"
+    },
+    {
+      "stable_id": "asr-000601",
+      "start_seconds": 3093.86,
+      "end_seconds": 3096.26,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "and then, of course, the assistance"
+    },
+    {
+      "stable_id": "asr-000602",
+      "start_seconds": 3096.26,
+      "end_seconds": 3098.1,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "to farmers and fisherfolk."
+    },
+    {
+      "stable_id": "asr-000603",
+      "start_seconds": 3098.2,
+      "end_seconds": 3099.82,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "The President was in Cagayan de Oro"
+    },
+    {
+      "stable_id": "asr-000604",
+      "start_seconds": 3099.82,
+      "end_seconds": 3101.9,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "distributing 10,000"
+    },
+    {
+      "stable_id": "asr-000605",
+      "start_seconds": 3101.9,
+      "end_seconds": 3103.82,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "to our farmers"
+    },
+    {
+      "stable_id": "asr-000606",
+      "start_seconds": 3103.82,
+      "end_seconds": 3106.06,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "and fisherfolk of Region 10."
+    },
+    {
+      "stable_id": "asr-000607",
+      "start_seconds": 3107.06,
+      "end_seconds": 3107.7,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "The President"
+    },
+    {
+      "stable_id": "asr-000608",
+      "start_seconds": 3107.7,
+      "end_seconds": 3110.12,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "also made sure that we,"
+    },
+    {
+      "stable_id": "asr-000609",
+      "start_seconds": 3110.5,
+      "end_seconds": 3111.86,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the members of Congress,"
+    },
+    {
+      "stable_id": "asr-000610",
+      "start_seconds": 3111.86,
+      "end_seconds": 3114.04,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "are able to have access"
+    },
+    {
+      "stable_id": "asr-000611",
+      "start_seconds": 3114.04,
+      "end_seconds": 3115.86,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "to the DSWD,"
+    },
+    {
+      "stable_id": "asr-000612",
+      "start_seconds": 3116.86,
+      "end_seconds": 3117.54,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the DOLE,"
+    },
+    {
+      "stable_id": "asr-000613",
+      "start_seconds": 3117.7799999999997,
+      "end_seconds": 3120.06,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the TESDA, and of course,"
+    },
+    {
+      "stable_id": "asr-000614",
+      "start_seconds": 3120.2,
+      "end_seconds": 3121.34,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the Department of Health."
+    },
+    {
+      "stable_id": "asr-000615",
+      "start_seconds": 3121.76,
+      "end_seconds": 3123.46,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "All of those, Mr. Chairman,"
+    },
+    {
+      "stable_id": "asr-000616",
+      "start_seconds": 3124.2799999999997,
+      "end_seconds": 3126.0,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "would show, would compel"
+    },
+    {
+      "stable_id": "asr-000617",
+      "start_seconds": 3126.0,
+      "end_seconds": 3128.14,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "us, compel this Congress"
+    },
+    {
+      "stable_id": "asr-000618",
+      "start_seconds": 3128.14,
+      "end_seconds": 3129.9,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "to make sure that"
+    },
+    {
+      "stable_id": "asr-000619",
+      "start_seconds": 3129.9,
+      "end_seconds": 3131.18,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the budget of the President"
+    },
+    {
+      "stable_id": "asr-000620",
+      "start_seconds": 3131.18,
+      "end_seconds": 3142.9700000000003,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "na wala."
+    },
+    {
+      "stable_id": "asr-000621",
+      "start_seconds": 3144.41,
+      "end_seconds": 3145.63,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Back to the TV."
+    },
+    {
+      "stable_id": "asr-000622",
+      "start_seconds": 3146.9700000000003,
+      "end_seconds": 3148.07,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "And therefore, with that,"
+    },
+    {
+      "stable_id": "asr-000623",
+      "start_seconds": 3148.43,
+      "end_seconds": 3150.09,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "I end my manifestation"
+    },
+    {
+      "stable_id": "asr-000624",
+      "start_seconds": 3150.09,
+      "end_seconds": 3152.41,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "and again, best wishes to"
+    },
+    {
+      "stable_id": "asr-000625",
+      "start_seconds": 3152.41,
+      "end_seconds": 3154.57,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the President, ES Ralph"
+    },
+    {
+      "stable_id": "asr-000626",
+      "start_seconds": 3154.57,
+      "end_seconds": 3156.29,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Recto, who is doing very best"
+    },
+    {
+      "stable_id": "asr-000627",
+      "start_seconds": 3156.29,
+      "end_seconds": 3158.25,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "to be able to have the"
+    },
+    {
+      "stable_id": "asr-000628",
+      "start_seconds": 3158.37,
+      "end_seconds": 3160.65,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "our government"
+    },
+    {
+      "stable_id": "asr-000629",
+      "start_seconds": 3160.65,
+      "end_seconds": 3163.19,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "functionaries perform"
+    },
+    {
+      "stable_id": "asr-000630",
+      "start_seconds": 3163.19,
+      "end_seconds": 3164.49,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "through the ES."
+    },
+    {
+      "stable_id": "asr-000631",
+      "start_seconds": 3164.73,
+      "end_seconds": 3166.77,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "So, with that, I thank you, Mr. Chairman."
+    },
+    {
+      "stable_id": "asr-000632",
+      "start_seconds": 3167.11,
+      "end_seconds": 3168.71,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Thank you for giving this opportunity"
+    },
+    {
+      "stable_id": "asr-000633",
+      "start_seconds": 3168.71,
+      "end_seconds": 3170.25,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "to the representative"
+    },
+    {
+      "stable_id": "asr-000634",
+      "start_seconds": 3170.25,
+      "end_seconds": 3172.25,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "of the City of Cagayan de Oro,"
+    },
+    {
+      "stable_id": "asr-000635",
+      "start_seconds": 3172.59,
+      "end_seconds": 3174.35,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the City of Golden Friendship,"
+    },
+    {
+      "stable_id": "asr-000636",
+      "start_seconds": 3174.55,
+      "end_seconds": 3176.15,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "the gateway to Mindanao."
+    },
+    {
+      "stable_id": "asr-000637",
+      "start_seconds": 3176.33,
+      "end_seconds": 3177.31,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Thank you, Mr. Chairman."
+    },
+    {
+      "stable_id": "asr-000638",
+      "start_seconds": 3178.41,
+      "end_seconds": 3178.99,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Mr. Chair,"
+    },
+    {
+      "stable_id": "asr-000639",
+      "start_seconds": 3178.99,
+      "end_seconds": 3179.85,
+      "speaker": "Rep. Rufus B. Rodriguez",
+      "text": "Mr. Chair,"
+    },
+    {
+      "stable_id": "asr-000640",
+      "start_seconds": 3179.9700000000003,
+      "end_seconds": 3183.07,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Maraming salamat. I would like to thank the Honorable Rodriguez"
+    },
+    {
+      "stable_id": "asr-000641",
+      "start_seconds": 3183.07,
+      "end_seconds": 3185.19,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "for your manifestation."
+    },
+    {
+      "stable_id": "asr-000642",
+      "start_seconds": 3185.39,
+      "end_seconds": 3186.31,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Huwag po kayong mag-alala."
+    },
+    {
+      "stable_id": "asr-000643",
+      "start_seconds": 3186.99,
+      "end_seconds": 3188.35,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Hindi po nahalata ng atas,"
+    },
+    {
+      "stable_id": "asr-000644",
+      "start_seconds": 3188.37,
+      "end_seconds": 3189.91,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "ating committee, kahit hindi po"
+    },
+    {
+      "stable_id": "asr-000645",
+      "start_seconds": 3189.91,
+      "end_seconds": 3191.37,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "naka-on yung mic nyo kanina."
+    },
+    {
+      "stable_id": "asr-000646",
+      "start_seconds": 3191.91,
+      "end_seconds": 3193.21,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Dinig na dinig po kayo"
+    },
+    {
+      "stable_id": "asr-000647",
+      "start_seconds": 3193.21,
+      "end_seconds": 3196.13,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "sa buong silid"
+    },
+    {
+      "stable_id": "asr-000648",
+      "start_seconds": 3196.13,
+      "end_seconds": 3197.4700000000003,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "ngayong umaga."
+    },
+    {
+      "stable_id": "asr-000649",
+      "start_seconds": 3197.63,
+      "end_seconds": 3199.13,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "So, it didn't make a difference,"
+    },
+    {
+      "stable_id": "asr-000650",
+      "start_seconds": 3199.29,
+      "end_seconds": 3200.13,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Honorable Rodriguez."
+    },
+    {
+      "stable_id": "asr-000651",
+      "start_seconds": 3200.29,
+      "end_seconds": 3201.27,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "So, thank you very much"
+    },
+    {
+      "stable_id": "asr-000652",
+      "start_seconds": 3201.27,
+      "end_seconds": 3202.65,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "for your manifestation."
+    },
+    {
+      "stable_id": "asr-000653",
+      "start_seconds": 3203.21,
+      "end_seconds": 3205.37,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Yes, we recognize again"
+    },
+    {
+      "stable_id": "asr-000654",
+      "start_seconds": 3205.37,
+      "end_seconds": 3206.63,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "the Honorable Tino."
+    },
+    {
+      "stable_id": "asr-000655",
+      "start_seconds": 3207.01,
+      "end_seconds": 3207.55,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Thank you, Chair."
+    },
+    {
+      "stable_id": "asr-000656",
+      "start_seconds": 3208.31,
+      "end_seconds": 3210.45,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Chair, dahil nagmamanifest tayo"
+    },
+    {
+      "stable_id": "asr-000657",
+      "start_seconds": 3210.45,
+      "end_seconds": 3212.29,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ng mga itatanong sana natin"
+    },
+    {
+      "stable_id": "asr-000658",
+      "start_seconds": 3212.29,
+      "end_seconds": 3214.15,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "and we still expect answers"
+    },
+    {
+      "stable_id": "asr-000659",
+      "start_seconds": 3214.15,
+      "end_seconds": 3216.13,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "in the plenary, so let me manifest"
+    },
+    {
+      "stable_id": "asr-000660",
+      "start_seconds": 3216.13,
+      "end_seconds": 3218.33,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "some of the questions I would have"
+    },
+    {
+      "stable_id": "asr-000661",
+      "start_seconds": 3218.33,
+      "end_seconds": 3219.5299999999997,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "asked today."
+    },
+    {
+      "stable_id": "asr-000662",
+      "start_seconds": 3220.11,
+      "end_seconds": 3222.35,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Una, tungkol sa flood control."
+    },
+    {
+      "stable_id": "asr-000663",
+      "start_seconds": 3223.29,
+      "end_seconds": 3224.35,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Kaya po narito"
+    },
+    {
+      "stable_id": "asr-000664",
+      "start_seconds": 3224.35,
+      "end_seconds": 3225.83,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ang kagalang-galang na"
+    },
+    {
+      "stable_id": "asr-000665",
+      "start_seconds": 3225.83,
+      "end_seconds": 3228.05,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Executive Secretary Recto"
+    },
+    {
+      "stable_id": "asr-000666",
+      "start_seconds": 3228.05,
+      "end_seconds": 3230.33,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "dahil sinibak yung kanyang"
+    },
+    {
+      "stable_id": "asr-000667",
+      "start_seconds": 3230.33,
+      "end_seconds": 3231.01,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "predecessor"
+    },
+    {
+      "stable_id": "asr-000668",
+      "start_seconds": 3231.01,
+      "end_seconds": 3233.75,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "at iba pang mga"
+    },
+    {
+      "stable_id": "asr-000669",
+      "start_seconds": 3233.75,
+      "end_seconds": 3235.67,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "cabinet officials"
+    },
+    {
+      "stable_id": "asr-000670",
+      "start_seconds": 3235.67,
+      "end_seconds": 3238.17,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "na pinangalanan ni Zaldico"
+    },
+    {
+      "stable_id": "asr-000671",
+      "start_seconds": 3238.17,
+      "end_seconds": 3240.55,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "at saka ni DPWH"
+    },
+    {
+      "stable_id": "asr-000672",
+      "start_seconds": 3240.55,
+      "end_seconds": 3242.0299999999997,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Yusek Bernardo"
+    },
+    {
+      "stable_id": "asr-000673",
+      "start_seconds": 3242.0299999999997,
+      "end_seconds": 3243.73,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "na sangkot daw"
+    },
+    {
+      "stable_id": "asr-000674",
+      "start_seconds": 3243.73,
+      "end_seconds": 3246.63,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "sa paglagay"
+    },
+    {
+      "stable_id": "asr-000675",
+      "start_seconds": 3246.63,
+      "end_seconds": 3247.99,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ng mga insertion sa"
+    },
+    {
+      "stable_id": "asr-000676",
+      "start_seconds": 3247.99,
+      "end_seconds": 3249.49,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "2025 budget"
+    },
+    {
+      "stable_id": "asr-000677",
+      "start_seconds": 3249.49,
+      "end_seconds": 3251.99,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "at pag-facilitate ng kickback"
+    },
+    {
+      "stable_id": "asr-000678",
+      "start_seconds": 3251.99,
+      "end_seconds": 3253.69,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "para sa Pangulo mismo."
+    },
+    {
+      "stable_id": "asr-000679",
+      "start_seconds": 3254.41,
+      "end_seconds": 3256.11,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "So, ang tanong po natin, bakit sila"
+    },
+    {
+      "stable_id": "asr-000680",
+      "start_seconds": 3256.11,
+      "end_seconds": 3258.27,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "sinibak? Bakit walang"
+    },
+    {
+      "stable_id": "asr-000681",
+      "start_seconds": 3258.27,
+      "end_seconds": 3260.01,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "anumang paliwanag at bakit"
+    },
+    {
+      "stable_id": "asr-000682",
+      "start_seconds": 3260.01,
+      "end_seconds": 3261.83,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "hanggang ngayon walang investigasyon"
+    },
+    {
+      "stable_id": "asr-000683",
+      "start_seconds": 3261.83,
+      "end_seconds": 3264.29,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "sa mga opisyal na ito"
+    },
+    {
+      "stable_id": "asr-000684",
+      "start_seconds": 3264.29,
+      "end_seconds": 3265.99,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "na sangkot"
+    },
+    {
+      "stable_id": "asr-000685",
+      "start_seconds": 3265.99,
+      "end_seconds": 3268.15,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "umano sa flood control"
+    },
+    {
+      "stable_id": "asr-000686",
+      "start_seconds": 3268.15,
+      "end_seconds": 3270.13,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "kasama na ang Pangulo?"
+    },
+    {
+      "stable_id": "asr-000687",
+      "start_seconds": 3270.61,
+      "end_seconds": 3271.9700000000003,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Pangalawa, kaugnay sa"
+    },
+    {
+      "stable_id": "asr-000688",
+      "start_seconds": 3271.9700000000003,
+      "end_seconds": 3274.23,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "confidential and intelligence funds."
+    },
+    {
+      "stable_id": "asr-000689",
+      "start_seconds": 3274.77,
+      "end_seconds": 3276.15,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Bakit halos"
+    },
+    {
+      "stable_id": "asr-000690",
+      "start_seconds": 3276.15,
+      "end_seconds": 3277.87,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "kalahati ng budget ng"
+    },
+    {
+      "stable_id": "asr-000691",
+      "start_seconds": 3277.87,
+      "end_seconds": 3279.07,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Office of the President"
+    },
+    {
+      "stable_id": "asr-000692",
+      "start_seconds": 3279.07,
+      "end_seconds": 3281.63,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "4.55 billion pesos"
+    },
+    {
+      "stable_id": "asr-000693",
+      "start_seconds": 3281.63,
+      "end_seconds": 3284.07,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ay confidential and intelligence"
+    },
+    {
+      "stable_id": "asr-000694",
+      "start_seconds": 3284.07,
+      "end_seconds": 3284.73,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "funds?"
+    },
+    {
+      "stable_id": "asr-000695",
+      "start_seconds": 3285.39,
+      "end_seconds": 3287.87,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Kung binubusisi ngayon"
+    },
+    {
+      "stable_id": "asr-000696",
+      "start_seconds": 3287.87,
+      "end_seconds": 3289.99,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ang total na"
+    },
+    {
+      "stable_id": "asr-000697",
+      "start_seconds": 3289.99,
+      "end_seconds": 3291.85,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "612.5"
+    },
+    {
+      "stable_id": "asr-000698",
+      "start_seconds": 3291.85,
+      "end_seconds": 3293.81,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "million na"
+    },
+    {
+      "stable_id": "asr-000699",
+      "start_seconds": 3293.81,
+      "end_seconds": 3295.5299999999997,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "confidential funds ng"
+    },
+    {
+      "stable_id": "asr-000700",
+      "start_seconds": 3295.5299999999997,
+      "end_seconds": 3297.73,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Office of the Vice President sa loob"
+    },
+    {
+      "stable_id": "asr-000701",
+      "start_seconds": 3297.73,
+      "end_seconds": 3300.23,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ng ilang taon lang yan"
+    },
+    {
+      "stable_id": "asr-000702",
+      "start_seconds": 3300.23,
+      "end_seconds": 3302.05,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "bakit hindi"
+    },
+    {
+      "stable_id": "asr-000703",
+      "start_seconds": 3302.05,
+      "end_seconds": 3303.21,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "binubusisi"
+    },
+    {
+      "stable_id": "asr-000704",
+      "start_seconds": 3303.21,
+      "end_seconds": 3305.67,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "o bakit hindi pinapaliwanag"
+    },
+    {
+      "stable_id": "asr-000705",
+      "start_seconds": 3305.67,
+      "end_seconds": 3307.67,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ng Office of the President"
+    },
+    {
+      "stable_id": "asr-000706",
+      "start_seconds": 3307.87,
+      "end_seconds": 3309.79,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "kung bakit ganung kalaki"
+    },
+    {
+      "stable_id": "asr-000707",
+      "start_seconds": 3309.79,
+      "end_seconds": 3312.25,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ang kanyang confidential"
+    },
+    {
+      "stable_id": "asr-000708",
+      "start_seconds": 3312.25,
+      "end_seconds": 3314.19,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "and intelligence funds."
+    },
+    {
+      "stable_id": "asr-000709",
+      "start_seconds": 3314.4700000000003,
+      "end_seconds": 3315.57,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "So, kailangan po,"
+    },
+    {
+      "stable_id": "asr-000710",
+      "start_seconds": 3315.93,
+      "end_seconds": 3318.05,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "as I said, patas"
+    },
+    {
+      "stable_id": "asr-000711",
+      "start_seconds": 3318.05,
+      "end_seconds": 3320.11,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "na aplikasyon ng prinsipyo"
+    },
+    {
+      "stable_id": "asr-000712",
+      "start_seconds": 3320.11,
+      "end_seconds": 3322.37,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ng transparency. Gusto natin"
+    },
+    {
+      "stable_id": "asr-000713",
+      "start_seconds": 3322.37,
+      "end_seconds": 3324.35,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "ng mga sagot sa mga katanungan ito."
+    },
+    {
+      "stable_id": "asr-000714",
+      "start_seconds": 3324.81,
+      "end_seconds": 3325.83,
+      "speaker": "Rep. Antonio L. Tinio",
+      "text": "Maraming salamat, Mr. Chair."
+    },
+    {
+      "stable_id": "asr-000715",
+      "start_seconds": 3327.79,
+      "end_seconds": 3329.39,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "So, thank you very much"
+    },
+    {
+      "stable_id": "asr-000716",
+      "start_seconds": 3329.39,
+      "end_seconds": 3331.5299999999997,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "the Honorable Tino."
+    },
+    {
+      "stable_id": "asr-000717",
+      "start_seconds": 3333.59,
+      "end_seconds": 3335.35,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Ayan na po ang huli"
+    },
+    {
+      "stable_id": "asr-000718",
+      "start_seconds": 3335.35,
+      "end_seconds": 3336.73,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "sa lahat ng"
+    },
+    {
+      "stable_id": "asr-000719",
+      "start_seconds": 3336.73,
+      "end_seconds": 3338.99,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "ating mga membro na gusto,"
+    },
+    {
+      "stable_id": "asr-000720",
+      "start_seconds": 3339.15,
+      "end_seconds": 3341.15,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "magbigay ng kanilang"
+    },
+    {
+      "stable_id": "asr-000721",
+      "start_seconds": 3341.15,
+      "end_seconds": 3342.57,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "manifestation"
+    },
+    {
+      "stable_id": "asr-000722",
+      "start_seconds": 3342.57,
+      "end_seconds": 3343.85,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "and"
+    },
+    {
+      "stable_id": "asr-000723",
+      "start_seconds": 3343.85,
+      "end_seconds": 3347.13,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "once again, I saw the"
+    },
+    {
+      "stable_id": "asr-000724",
+      "start_seconds": 3347.13,
+      "end_seconds": 3349.09,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Office of the President, the staff, taking"
+    },
+    {
+      "stable_id": "asr-000725",
+      "start_seconds": 3349.09,
+      "end_seconds": 3351.07,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "notes intently and I saw"
+    },
+    {
+      "stable_id": "asr-000726",
+      "start_seconds": 3351.07,
+      "end_seconds": 3353.41,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "the Executive Secretary"
+    },
+    {
+      "stable_id": "asr-000727",
+      "start_seconds": 3353.41,
+      "end_seconds": 3354.83,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Ralph Recto talagang"
+    },
+    {
+      "stable_id": "asr-000728",
+      "start_seconds": 3354.83,
+      "end_seconds": 3357.05,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "yung kanyang"
+    },
+    {
+      "stable_id": "asr-000729",
+      "start_seconds": 3357.05,
+      "end_seconds": 3359.29,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "atensyon ay nakatuon"
+    },
+    {
+      "stable_id": "asr-000730",
+      "start_seconds": 3359.29,
+      "end_seconds": 3361.07,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "dun sa mga katanungan ng ating"
+    },
+    {
+      "stable_id": "asr-000731",
+      "start_seconds": 3361.07,
+      "end_seconds": 3363.39,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "mga membro and itong lahat po"
+    },
+    {
+      "stable_id": "asr-000732",
+      "start_seconds": 3363.39,
+      "end_seconds": 3365.17,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "ay sasagutin, honor"
+    },
+    {
+      "stable_id": "asr-000733",
+      "start_seconds": 3365.17,
+      "end_seconds": 3367.33,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "before the plenary, nang sa ganon"
+    },
+    {
+      "stable_id": "asr-000734",
+      "start_seconds": 3367.33,
+      "end_seconds": 3369.13,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "ay marinig ng ating mga kababayan."
+    },
+    {
+      "stable_id": "asr-000735",
+      "start_seconds": 3369.15,
+      "end_seconds": 3371.19,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Ang kasagutan dito po"
+    },
+    {
+      "stable_id": "asr-000736",
+      "start_seconds": 3371.19,
+      "end_seconds": 3373.45,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "sa mga importanteng katanungan"
+    },
+    {
+      "stable_id": "asr-000737",
+      "start_seconds": 3373.45,
+      "end_seconds": 3374.9700000000003,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "na ito. So,"
+    },
+    {
+      "stable_id": "asr-000738",
+      "start_seconds": 3375.29,
+      "end_seconds": 3375.77,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "with that,"
+    },
+    {
+      "stable_id": "asr-000739",
+      "start_seconds": 3379.37,
+      "end_seconds": 3381.63,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "as was instituted"
+    },
+    {
+      "stable_id": "asr-000740",
+      "start_seconds": 3381.63,
+      "end_seconds": 3382.93,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "by our leadership"
+    },
+    {
+      "stable_id": "asr-000741",
+      "start_seconds": 3382.93,
+      "end_seconds": 3385.19,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "and our chair, starting"
+    },
+    {
+      "stable_id": "asr-000742",
+      "start_seconds": 3385.19,
+      "end_seconds": 3386.79,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "with the last budget,"
+    },
+    {
+      "stable_id": "asr-000743",
+      "start_seconds": 3387.01,
+      "end_seconds": 3389.33,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "last year's budget proceeding, yung ating"
+    },
+    {
+      "stable_id": "asr-000744",
+      "start_seconds": 3389.33,
+      "end_seconds": 3391.13,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "mahigpit na ugnayan"
+    },
+    {
+      "stable_id": "asr-000745",
+      "start_seconds": 3391.13,
+      "end_seconds": 3392.9700000000003,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "with the CSOs. So,"
+    },
+    {
+      "stable_id": "asr-000746",
+      "start_seconds": 3393.23,
+      "end_seconds": 3394.73,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "nag-submit po sila sa"
+    },
+    {
+      "stable_id": "asr-000747",
+      "start_seconds": 3394.73,
+      "end_seconds": 3396.17,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Committee on Appropriations,"
+    },
+    {
+      "stable_id": "asr-000748",
+      "start_seconds": 3396.17,
+      "end_seconds": 3398.25,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "kay Chair Mika Swansing"
+    },
+    {
+      "stable_id": "asr-000749",
+      "start_seconds": 3398.25,
+      "end_seconds": 3398.65,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "at,"
+    },
+    {
+      "stable_id": "asr-000750",
+      "start_seconds": 3399.15,
+      "end_seconds": 3401.15,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "itong mga katanungan, mga"
+    },
+    {
+      "stable_id": "asr-000751",
+      "start_seconds": 3401.15,
+      "end_seconds": 3403.31,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "clarifications and suggestions"
+    },
+    {
+      "stable_id": "asr-000752",
+      "start_seconds": 3403.31,
+      "end_seconds": 3405.5299999999997,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "ay ibibigay din po namin"
+    },
+    {
+      "stable_id": "asr-000753",
+      "start_seconds": 3405.5299999999997,
+      "end_seconds": 3407.0299999999997,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "sa Office of the President"
+    },
+    {
+      "stable_id": "asr-000754",
+      "start_seconds": 3407.0299999999997,
+      "end_seconds": 3409.17,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "para masagot din po ang mga"
+    },
+    {
+      "stable_id": "asr-000755",
+      "start_seconds": 3409.17,
+      "end_seconds": 3410.99,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "hinain, mga"
+    },
+    {
+      "stable_id": "asr-000756",
+      "start_seconds": 3410.99,
+      "end_seconds": 3413.55,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "concerns at mga queries"
+    },
+    {
+      "stable_id": "asr-000757",
+      "start_seconds": 3413.55,
+      "end_seconds": 3414.95,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "ng ating partners"
+    },
+    {
+      "stable_id": "asr-000758",
+      "start_seconds": 3414.95,
+      "end_seconds": 3416.91,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "na civil society."
+    },
+    {
+      "stable_id": "asr-000759",
+      "start_seconds": 3417.5299999999997,
+      "end_seconds": 3419.4700000000003,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "And again, all this will be"
+    },
+    {
+      "stable_id": "asr-000760",
+      "start_seconds": 3419.4700000000003,
+      "end_seconds": 3421.11,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "answered, honor before"
+    },
+    {
+      "stable_id": "asr-000761",
+      "start_seconds": 3421.11,
+      "end_seconds": 3423.33,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "the plenary. So, having"
+    },
+    {
+      "stable_id": "asr-000762",
+      "start_seconds": 3423.33,
+      "end_seconds": 3425.23,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "said that, the committee proceedings"
+    },
+    {
+      "stable_id": "asr-000763",
+      "start_seconds": 3425.23,
+      "end_seconds": 3427.29,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "are hereby suspended and will"
+    },
+    {
+      "stable_id": "asr-000764",
+      "start_seconds": 3427.29,
+      "end_seconds": 3429.13,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "resume at 3pm for"
+    },
+    {
+      "stable_id": "asr-000765",
+      "start_seconds": 3429.15,
+      "end_seconds": 3431.15,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "the Commission on Election"
+    },
+    {
+      "stable_id": "asr-000766",
+      "start_seconds": 3431.15,
+      "end_seconds": 3433.43,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Budget hearing. Once again,"
+    },
+    {
+      "stable_id": "asr-000767",
+      "start_seconds": 3433.43,
+      "end_seconds": 3435.49,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "maraming salamat, Executive Secretary"
+    },
+    {
+      "stable_id": "asr-000768",
+      "start_seconds": 3435.49,
+      "end_seconds": 3437.65,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Ralph Recto at sa lahat"
+    },
+    {
+      "stable_id": "asr-000769",
+      "start_seconds": 3437.65,
+      "end_seconds": 3439.45,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "ng Office of the President"
+    },
+    {
+      "stable_id": "asr-000770",
+      "start_seconds": 3439.45,
+      "end_seconds": 3440.61,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "sa inyong"
+    },
+    {
+      "stable_id": "asr-000771",
+      "start_seconds": 3440.61,
+      "end_seconds": 3443.41,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "pagdating sa hearing"
+    },
+    {
+      "stable_id": "asr-000772",
+      "start_seconds": 3443.41,
+      "end_seconds": 3444.25,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "ngayong umaga."
+    },
+    {
+      "stable_id": "asr-000773",
+      "start_seconds": 3445.41,
+      "end_seconds": 3446.91,
+      "speaker": "Rep. Albert S. Garcia",
+      "text": "Session is suspended."
+    }
+  ]
+}

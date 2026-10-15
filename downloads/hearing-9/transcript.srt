@@ -1,0 +1,5668 @@
+1
+00:00:08,840 --> 00:00:13,598
+Rep. Rufus B. Rodriguez: The budget briefing is now called to order.
+
+2
+00:00:15,505 --> 00:00:20,855
+Rep. Rufus B. Rodriguez: First, acknowledgment of members and resource persons. Secretary Jess.
+
+3
+00:00:25,360 --> 00:00:26,690
+Committee Secretary: Good morning, Your Honors.
+
+4
+00:00:26,690 --> 00:00:31,890
+Committee Secretary: May we acknowledge the following members present today: Vice Chair Rufus Rodriguez;
+
+5
+00:00:31,890 --> 00:00:37,490
+Committee Secretary: Assistant Minority Leader Iris Montes; Senior Deputy Speaker Ferdinand Hernandez;
+
+6
+00:00:37,490 --> 00:00:44,530
+Committee Secretary: Assistant Minority Leader Chel Diokno; Deputy Majority Leader Crispin Remulla;
+
+7
+00:00:45,730 --> 00:00:52,850
+Committee Secretary: Vice Chair Lalo Matugas; Vice Chair Gerryboy Espina; Vice Chair Ma. Cristina Talavera Lopez;
+
+8
+00:00:53,570 --> 00:01:01,170
+Committee Secretary: Vice Chair Mike Tan; Rep. Ricardo Cruz; Representative Johnny Pimentel;
+
+9
+00:01:03,330 --> 00:01:07,170
+Committee Secretary: Representative Salvador Pleyto;
+
+10
+00:01:07,490 --> 00:01:14,930
+Committee Secretary: Representative Girlie Veloso; Representative Eulogio Rodriguez; Representative Toby Tiangco; and from the
+
+11
+00:01:14,930 --> 00:01:24,270
+Committee Secretary: Office of the Ombudsman, we have Ombudsman Jesus Crispin Remulla. Good morning, sir. Deputy Ombudsman
+
+12
+00:01:24,270 --> 00:01:32,910
+Committee Secretary: Jose M. Balmeo, Jr.; our Special Prosecutor, Justice Mariflor Punzalan Castillo; Assistant
+
+13
+00:01:32,910 --> 00:01:41,740
+Committee Secretary: Ombudsman Margaret Raizza Andaman; Assistant Ombudsman Luigi Bonoan, Jr.;
+
+14
+00:01:42,220 --> 00:01:50,292
+Committee Secretary: Assistant Ombudsman Jose Dominic Clavano IV; Assistant Ombudsman Eliseo DC Cruz. That's all, Your Honor.
+
+15
+00:01:52,300 --> 00:02:03,000
+Rep. Rufus B. Rodriguez: Thank you very much, ComSec. So, uh, first of all, let me welcome our Honorable Ombudsman,
+
+16
+00:02:03,000 --> 00:02:10,300
+Rep. Rufus B. Rodriguez: our very own was with us in the congress the house of representatives uh former secretary of justice
+
+17
+00:02:10,860 --> 00:02:14,540
+Rep. Rufus B. Rodriguez: now the Ombudsman, Boying. Welcome.
+
+18
+00:02:16,140 --> 00:02:21,500
+Rep. Rufus B. Rodriguez: i would also like to welcome everyone for this briefing of the office of the ombudsman
+
+19
+00:02:22,540 --> 00:02:28,780
+Rep. Rufus B. Rodriguez: headed by Ombudsman Remulla. The Office of the Ombudsman, one of the constitutional bodies
+
+20
+00:02:29,420 --> 00:02:40,460
+Rep. Rufus B. Rodriguez: established under the 1987 constitution has a recommended budget of 7.06 billion for fiscal year
+
+21
+00:02:41,020 --> 00:02:48,760
+Rep. Rufus B. Rodriguez: 2027. This represents an increase of approximately 10%.
+
+22
+00:02:48,760 --> 00:02:59,420
+Rep. Rufus B. Rodriguez: from its current fiscal year 2026 budget of 6.42 billion and accounts for
+
+23
+00:02:59,420 --> 00:03:11,020
+Rep. Rufus B. Rodriguez: about 0.15 percent of the 4.6-trillion national government budget. This proposed increase will
+
+24
+00:03:11,020 --> 00:03:13,260
+Rep. Rufus B. Rodriguez: provide additional resources
+
+25
+00:03:13,260 --> 00:03:15,660
+Rep. Rufus B. Rodriguez: to strengthen the Office's mandate
+
+26
+00:03:15,660 --> 00:03:23,600
+Rep. Rufus B. Rodriguez: and key programs, particularly its Anti-Corruption Investigation Program, the Anti-Corruption
+
+27
+00:03:23,600 --> 00:03:31,360
+Rep. Rufus B. Rodriguez: Enforcement Program, the Ombudsman Public Assistance Program, and the Corruption Prevention
+
+28
+00:03:31,360 --> 00:03:32,760
+Rep. Rufus B. Rodriguez: Program.
+
+29
+00:03:32,760 --> 00:03:40,720
+Rep. Rufus B. Rodriguez: The Office of the Ombudsman plays a vital role in upholding accountability—I repeat
+
+30
+00:03:40,720 --> 00:03:47,020
+Rep. Rufus B. Rodriguez: again—accountability and integrity in public service.
+
+31
+00:03:47,020 --> 00:03:54,040
+Rep. Rufus B. Rodriguez: Through the investigation and case build-up, as well as the enforcement of administrative,
+
+32
+00:03:54,040 --> 00:04:03,620
+Rep. Rufus B. Rodriguez: civil and criminal liability, the Office contributes significantly to ensuring that they will
+
+33
+00:04:03,620 --> 00:04:10,700
+Rep. Rufus B. Rodriguez: effectively be able to—the government operates efficiently, responsibly, and effectively
+
+34
+00:04:10,700 --> 00:04:13,260
+Rep. Rufus B. Rodriguez: and in accordance with law.
+
+35
+00:04:13,260 --> 00:04:19,100
+Rep. Rufus B. Rodriguez: Given this crucial mandate, the Office of the Ombudsman rightly looks to Congress, and
+
+36
+00:04:19,100 --> 00:04:25,120
+Rep. Rufus B. Rodriguez: particularly the House of Representatives, for the necessary budgetary support to enable
+
+37
+00:04:25,120 --> 00:04:34,600
+Rep. Rufus B. Rodriguez: it to effectively discharge its constitutional functions—not only for fiscal year 2027
+
+38
+00:04:34,600 --> 00:04:36,340
+Rep. Rufus B. Rodriguez: but also in the years ahead.
+
+39
+00:04:37,253 --> 00:04:41,455
+Rep. Rufus B. Rodriguez: At the same time, we recognize that every peso appropriated
+
+40
+00:04:42,130 --> 00:04:47,058
+Rep. Rufus B. Rodriguez: by Congress carries with it a responsibility to the Filipino people.
+
+41
+00:04:47,740 --> 00:04:52,680
+Rep. Rufus B. Rodriguez: The resources entrusted to this Office of the Ombudsman
+
+42
+00:04:52,680 --> 00:04:57,920
+Rep. Rufus B. Rodriguez: must therefore be utilized judiciously, efficiently,
+
+43
+00:04:58,640 --> 00:05:01,400
+Rep. Rufus B. Rodriguez: and with the highest standards of accountability.
+
+44
+00:05:02,260 --> 00:05:07,740
+Rep. Rufus B. Rodriguez: We trust that this Office will continue to use the support provided by Congress
+
+45
+00:05:07,740 --> 00:05:13,140
+Rep. Rufus B. Rodriguez: with the same zeal and dedication in carrying out its mandate
+
+46
+00:05:13,140 --> 00:05:18,740
+Rep. Rufus B. Rodriguez: and strengthening public confidence in the Ombudsman as the watchdog,
+
+47
+00:05:19,580 --> 00:05:25,180
+Rep. Rufus B. Rodriguez: I repeat, the watchdog of government, mobilizer for accountability,
+
+48
+00:05:26,180 --> 00:05:31,000
+Rep. Rufus B. Rodriguez: official critic of wrongdoing, and dispenser of justice.
+
+49
+00:05:31,660 --> 00:05:34,280
+Rep. Rufus B. Rodriguez: Ultimately, our common objective is clear,
+
+50
+00:05:34,280 --> 00:05:36,680
+Rep. Rufus B. Rodriguez: to protect public funds,
+
+51
+00:05:37,200 --> 00:05:37,720
+Rep. Rufus B. Rodriguez: uphold equality,
+
+52
+00:05:37,740 --> 00:05:39,240
+Rep. Rufus B. Rodriguez: integrity in government,
+
+53
+00:05:39,980 --> 00:05:45,740
+Rep. Rufus B. Rodriguez: and ensure that the public office remains a service to the Filipino people.
+
+54
+00:05:46,360 --> 00:05:49,006
+Rep. Rufus B. Rodriguez: The Filipino people deserve no less.
+
+55
+00:05:49,107 --> 00:05:50,795
+Rep. Rufus B. Rodriguez: Uh, thank you very much.
+
+56
+00:05:51,440 --> 00:05:55,520
+Rep. Rufus B. Rodriguez: Now, we would like to ask the Office of the Ombudsman
+
+57
+00:05:55,520 --> 00:05:59,080
+Rep. Rufus B. Rodriguez: for the, the Ombudsman, uh,
+
+58
+00:05:59,080 --> 00:06:02,080
+Rep. Rufus B. Rodriguez: the Honorable Jesus Crispin “Boying” Remulla,
+
+59
+00:06:02,080 --> 00:06:05,543
+Rep. Rufus B. Rodriguez: you may now proceed with your presentation.
+
+60
+00:06:07,280 --> 00:06:10,893
+Ombudsman Jesus Crispin C. Remulla: Thank you, Mr. Chairman, and thank you, members of the House,
+
+61
+00:06:11,440 --> 00:06:15,719
+Ombudsman Jesus Crispin C. Remulla: members of the Committee, and former colleagues, my former colleagues.
+
+62
+00:06:16,599 --> 00:06:20,319
+Ombudsman Jesus Crispin C. Remulla: And, of course, uh, present here with me is the team from the Ombudsman's Office
+
+63
+00:06:20,319 --> 00:06:21,524
+Ombudsman Jesus Crispin C. Remulla: to present our budget.
+
+64
+00:06:22,160 --> 00:06:28,000
+Ombudsman Jesus Crispin C. Remulla: And this opportunity is very important for us to be able to face, uh, the members of the House
+
+65
+00:06:28,000 --> 00:06:31,480
+Ombudsman Jesus Crispin C. Remulla: which is in charge of the appropriations of the Philippine government.
+
+66
+00:06:32,240 --> 00:06:37,100
+Ombudsman Jesus Crispin C. Remulla: And, uh, if there's one thing that can be said about what we do,
+
+67
+00:06:37,759 --> 00:06:39,226
+Ombudsman Jesus Crispin C. Remulla: or how we handle our job,
+
+68
+00:06:39,680 --> 00:06:41,360
+Ombudsman Jesus Crispin C. Remulla: at least personally on my side,
+
+69
+00:06:41,360 --> 00:06:44,880
+Ombudsman Jesus Crispin C. Remulla: I cannot wait every morning to get to the office.
+
+70
+00:06:44,880 --> 00:06:46,432
+Ombudsman Jesus Crispin C. Remulla: It's something that we love to do.
+
+71
+00:06:47,000 --> 00:06:51,899
+Ombudsman Jesus Crispin C. Remulla: We believe that, uh, serving the country is a most noble calling,
+
+72
+00:06:52,319 --> 00:06:57,755
+Ombudsman Jesus Crispin C. Remulla: and that, uh, the people deserve the best service from all of us.
+
+73
+00:06:58,479 --> 00:07:05,230
+Ombudsman Jesus Crispin C. Remulla: And, uh, to be able to help me present the budget will be Assistant Ombudsman Luigi Bonoan.
+
+74
+00:07:05,759 --> 00:07:06,698
+Ombudsman Jesus Crispin C. Remulla: Thank you. Good morning.
+
+75
+00:07:08,234 --> 00:07:12,200
+Rep. Rufus B. Rodriguez: Assistant Ombudsman Luigi Bonoan is recognized.
+
+76
+00:07:13,720 --> 00:07:14,849
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Good morning, Your Honors.
+
+77
+00:07:15,680 --> 00:07:22,280
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Today we have actually prepared PowerPoint, uh, to show the members of the Committee
+
+78
+00:07:22,280 --> 00:07:26,720
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: on our achievements as well as our budgetary needs.
+
+79
+00:07:26,720 --> 00:07:33,199
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: And to delve into this more, um, I'd like to introduce our Director, uh, OIC,
+
+80
+00:07:33,199 --> 00:07:36,639
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: the Head of the Financial Services of the Office of the Ombudsman,
+
+81
+00:07:36,639 --> 00:07:40,639
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Director Christopher Lim, to, uh, present the PowerPoint.
+
+82
+00:07:40,639 --> 00:07:41,528
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Thank you, Your Honors.
+
+83
+00:07:42,240 --> 00:07:49,375
+Rep. Rufus B. Rodriguez: Director Christopher Lim is now recognized to present the budget of the Office of the Ombudsman.
+
+84
+00:07:52,159 --> 00:07:53,960
+Office of the Ombudsman Director IV Christopher B. Lim: Thank you, Mr. Chair.
+
+85
+00:07:53,960 --> 00:07:59,905
+Office of the Ombudsman Director IV Christopher B. Lim: I have the honor to present to you the budget of the Office of the Ombudsman for fiscal year 2027.
+
+86
+00:08:00,560 --> 00:08:06,400
+Office of the Ombudsman Director IV Christopher B. Lim: So, the Office of the Ombudsman shall strive to continue the faithful performance
+
+87
+00:08:06,400 --> 00:08:08,140
+Office of the Ombudsman Director IV Christopher B. Lim: of its constitutional mandate,
+
+88
+00:08:08,960 --> 00:08:13,507
+Office of the Ombudsman Director IV Christopher B. Lim: especially as it relates to the fight against corruption through the following measures,
+
+89
+00:08:13,895 --> 00:08:20,520
+Office of the Ombudsman Director IV Christopher B. Lim: fact-finding and or case build-up, prosecution, administrative adjudication,
+
+90
+00:08:20,520 --> 00:08:24,425
+Office of the Ombudsman Director IV Christopher B. Lim: graft prevention, and auxiliary public assistance services.
+
+91
+00:08:25,599 --> 00:08:30,800
+Office of the Ombudsman Director IV Christopher B. Lim: So, going now to the highlights and major thrusts of the FY2027 budget,
+
+92
+00:08:30,800 --> 00:08:34,837
+Office of the Ombudsman Director IV Christopher B. Lim: the recommended budget level by the Department of Budget and Management
+
+93
+00:08:35,080 --> 00:08:38,839
+Office of the Ombudsman Director IV Christopher B. Lim: for the Office of the Ombudsman for 2027
+
+94
+00:08:38,839 --> 00:08:45,920
+Office of the Ombudsman Director IV Christopher B. Lim: is ₱7,232,934,000, including automatic appropriations in conformity
+
+95
+00:08:45,920 --> 00:08:49,130
+Office of the Ombudsman Director IV Christopher B. Lim: with the pronouncement of the Constitution and its enabling law,
+
+96
+00:08:49,600 --> 00:08:54,360
+Office of the Ombudsman Director IV Christopher B. Lim: R.A. No. 6770, on fiscal autonomy,
+
+97
+00:08:54,360 --> 00:08:58,399
+Office of the Ombudsman Director IV Christopher B. Lim: that appropriations of the Office of the Ombudsman may not be reduced
+
+98
+00:08:58,399 --> 00:09:01,440
+Office of the Ombudsman Director IV Christopher B. Lim: below the amount appropriated from the previous years.
+
+99
+00:09:01,440 --> 00:09:05,959
+Office of the Ombudsman Director IV Christopher B. Lim: It represents 0.1% of the national expenditure program
+
+100
+00:09:05,959 --> 00:09:08,182
+Office of the Ombudsman Director IV Christopher B. Lim: of ₱7.2 trillion.
+
+101
+00:09:09,839 --> 00:09:13,680
+Office of the Ombudsman Director IV Christopher B. Lim: The details of the recommendation with comparative figures
+
+102
+00:09:13,680 --> 00:09:18,760
+Office of the Ombudsman Director IV Christopher B. Lim: for the 2026 current budget and the 2027 DBM-NEP
+
+103
+00:09:18,760 --> 00:09:21,800
+Office of the Ombudsman Director IV Christopher B. Lim: are summarized on the screen.
+
+104
+00:09:21,800 --> 00:09:29,560
+Office of the Ombudsman Director IV Christopher B. Lim: For personal services, it consists of ₱3,760,765,000.
+
+105
+00:09:29,560 --> 00:09:32,079
+Office of the Ombudsman Director IV Christopher B. Lim: For maintenance and other operating expenses,
+
+106
+00:09:32,079 --> 00:09:37,120
+Office of the Ombudsman Director IV Christopher B. Lim: it’s ₱2,444,135,000.
+
+107
+00:09:37,120 --> 00:09:42,893
+Office of the Ombudsman Director IV Christopher B. Lim: For capital outlay, it's ₱857,100,000.
+
+108
+00:09:43,240 --> 00:09:49,399
+Office of the Ombudsman Director IV Christopher B. Lim: For automatic appropriations, ₱168,332,000.
+
+109
+00:09:49,399 --> 00:09:54,120
+Office of the Ombudsman Director IV Christopher B. Lim: And OMB share in MCSF, or Military Camp Sales Fund,
+
+110
+00:09:54,120 --> 00:09:56,090
+Office of the Ombudsman Director IV Christopher B. Lim: is ₱2,602,000.
+
+111
+00:09:56,560 --> 00:10:04,088
+Office of the Ombudsman Director IV Christopher B. Lim: For a total regular agency budget of ₱7,232,934,000.
+
+112
+00:10:05,480 --> 00:10:08,560
+Office of the Ombudsman Director IV Christopher B. Lim: Uh, with respect to comparative data for the 2026 budget
+
+113
+00:10:08,560 --> 00:10:14,040
+Office of the Ombudsman Director IV Christopher B. Lim: and the 2027 DBM-NEP per program, uh, including RLIP, uh,
+
+114
+00:10:14,040 --> 00:10:18,120
+Office of the Ombudsman Director IV Christopher B. Lim: for general administration and support, consists of
+
+115
+00:10:18,120 --> 00:10:22,212
+Office of the Ombudsman Director IV Christopher B. Lim: ₱4,905,983,000.
+
+116
+00:10:23,240 --> 00:10:28,399
+Office of the Ombudsman Director IV Christopher B. Lim: It comprises of 67.83% of the budget structure.
+
+117
+00:10:28,399 --> 00:10:36,990
+Office of the Ombudsman Director IV Christopher B. Lim: For support to operations, it's ₱147,354,000, or 2.04%.
+
+118
+00:10:37,000 --> 00:10:39,600
+Office of the Ombudsman Director IV Christopher B. Lim: For anti-corruption investigation program,
+
+119
+00:10:39,600 --> 00:10:46,310
+Office of the Ombudsman Director IV Christopher B. Lim: it is ₱945,737,000, or 13.08%.
+
+120
+00:10:47,200 --> 00:10:49,720
+Office of the Ombudsman Director IV Christopher B. Lim: For anti-corruption enforcement program,
+
+121
+00:10:49,720 --> 00:10:57,717
+Office of the Ombudsman Director IV Christopher B. Lim: ₱721,168,000, or 9.97%.
+
+122
+00:10:58,920 --> 00:11:02,000
+Office of the Ombudsman Director IV Christopher B. Lim: For ombudsman public assistance program,
+
+123
+00:11:02,000 --> 00:11:07,657
+Office of the Ombudsman Director IV Christopher B. Lim: it's ₱290,934,000, or 4.02%.
+
+124
+00:11:08,160 --> 00:11:10,360
+Office of the Ombudsman Director IV Christopher B. Lim: For anti-corruption prevention program,
+
+125
+00:11:10,360 --> 00:11:16,480
+Office of the Ombudsman Director IV Christopher B. Lim: it's ₱211,758,000, or 2.93%.
+
+126
+00:11:16,480 --> 00:11:18,320
+Office of the Ombudsman Director IV Christopher B. Lim: And for locally funded projects,
+
+127
+00:11:18,320 --> 00:11:21,360
+Office of the Ombudsman Director IV Christopher B. Lim: such as, uh, whistleblower account rewards,
+
+128
+00:11:21,360 --> 00:11:26,000
+Office of the Ombudsman Director IV Christopher B. Lim: it's ₱10,000,000, uh, which is 0.14%,
+
+129
+00:11:26,000 --> 00:11:27,721
+Office of the Ombudsman Director IV Christopher B. Lim: for a total of 100%.
+
+130
+00:11:32,800 --> 00:11:37,040
+Office of the Ombudsman Director IV Christopher B. Lim: So the salient features of the recommendation are as follows.
+
+131
+00:11:37,040 --> 00:11:39,399
+Office of the Ombudsman Director IV Christopher B. Lim: Requirements for the filling up of position
+
+132
+00:11:39,399 --> 00:11:42,318
+Office of the Ombudsman Director IV Christopher B. Lim: in the amount of ₱1.662 billion.
+
+133
+00:11:42,880 --> 00:11:44,720
+Office of the Ombudsman Director IV Christopher B. Lim: Allocation for pension benefits
+
+134
+00:11:44,720 --> 00:11:48,781
+Office of the Ombudsman Director IV Christopher B. Lim: in the amount of ₱169,381,000.
+
+135
+00:11:49,360 --> 00:11:50,920
+Office of the Ombudsman Director IV Christopher B. Lim: Provision for terminal leave
+
+136
+00:11:50,920 --> 00:11:53,084
+Office of the Ombudsman Director IV Christopher B. Lim: and retirement gratuity benefits.
+
+137
+00:11:53,639 --> 00:11:57,920
+Office of the Ombudsman Director IV Christopher B. Lim: For mandatory, it's ₱78,869,000.
+
+138
+00:11:57,920 --> 00:12:00,138
+Office of the Ombudsman Director IV Christopher B. Lim: And for optional, ₱310,758,000,
+
+139
+00:12:02,959 --> 00:12:06,668
+Office of the Ombudsman Director IV Christopher B. Lim: for a total of ₱389,627,000.
+
+140
+00:12:08,240 --> 00:12:10,320
+Office of the Ombudsman Director IV Christopher B. Lim: The recommended maintenance
+
+141
+00:12:10,320 --> 00:12:15,123
+Office of the Ombudsman Director IV Christopher B. Lim: and other operating expenses amounting to ₱2.4 billion
+
+142
+00:12:15,560 --> 00:12:19,560
+Office of the Ombudsman Director IV Christopher B. Lim: include a provision of ₱51.468 million
+
+143
+00:12:19,560 --> 00:12:21,535
+Office of the Ombudsman Director IV Christopher B. Lim: for confidential expenses
+
+144
+00:12:21,760 --> 00:12:24,360
+Office of the Ombudsman Director IV Christopher B. Lim: in support of the Office of the Ombudsman's
+
+145
+00:12:24,360 --> 00:12:26,320
+Office of the Ombudsman Director IV Christopher B. Lim: constitutionally mandated functions
+
+146
+00:12:26,320 --> 00:12:29,753
+Office of the Ombudsman Director IV Christopher B. Lim: of investigation, prosecution, and graft prevention.
+
+147
+00:12:30,440 --> 00:12:31,610
+Office of the Ombudsman Director IV Christopher B. Lim: Additional provision of ₱2,602,000
+
+148
+00:12:34,680 --> 00:12:36,519
+Office of the Ombudsman Director IV Christopher B. Lim: for training to be charged against
+
+149
+00:12:36,519 --> 00:12:37,820
+Office of the Ombudsman Director IV Christopher B. Lim: the Ombudsman's share
+
+150
+00:12:38,079 --> 00:12:40,402
+Office of the Ombudsman Director IV Christopher B. Lim: of the Military Camp Sales Proceeds Fund.
+
+151
+00:12:41,240 --> 00:12:44,639
+Office of the Ombudsman Director IV Christopher B. Lim: Allocation for the agency's information, communications,
+
+152
+00:12:44,639 --> 00:12:46,079
+Office of the Ombudsman Director IV Christopher B. Lim: technology requirements
+
+153
+00:12:46,079 --> 00:12:51,134
+Office of the Ombudsman Director IV Christopher B. Lim: in the total amount of ₱497,549,000,
+
+154
+00:12:51,600 --> 00:12:55,977
+Office of the Ombudsman Director IV Christopher B. Lim: MOOE of ₱247,000,000,
+
+155
+00:12:56,800 --> 00:13:00,320
+Office of the Ombudsman Director IV Christopher B. Lim: and CO component of ₱250,000,000
+
+156
+00:13:00,320 --> 00:13:03,760
+Office of the Ombudsman Director IV Christopher B. Lim: to support, uh, the Office of the Ombudsman IT system
+
+157
+00:13:03,760 --> 00:13:06,389
+Office of the Ombudsman Director IV Christopher B. Lim: and infrastructure modernization initiatives.
+
+158
+00:13:07,199 --> 00:13:10,199
+Office of the Ombudsman Director IV Christopher B. Lim: The construction of a document storage building
+
+159
+00:13:10,199 --> 00:13:11,600
+Office of the Ombudsman Director IV Christopher B. Lim: for Ombudsman Visayas
+
+160
+00:13:11,600 --> 00:13:14,641
+Office of the Ombudsman Director IV Christopher B. Lim: is provided an amount of ₱11.5 million
+
+161
+00:13:16,160 --> 00:13:18,120
+Office of the Ombudsman Director IV Christopher B. Lim: in view of the agency's critical mandate
+
+162
+00:13:18,120 --> 00:13:20,839
+Office of the Ombudsman Director IV Christopher B. Lim: to investigate and prosecute cases
+
+163
+00:13:20,839 --> 00:13:22,880
+Office of the Ombudsman Director IV Christopher B. Lim: involving graft and corruption,
+
+164
+00:13:22,880 --> 00:13:25,560
+Office of the Ombudsman Director IV Christopher B. Lim: which requires the secure preservation,
+
+165
+00:13:25,560 --> 00:13:27,600
+Office of the Ombudsman Director IV Christopher B. Lim: systematic organization,
+
+166
+00:13:27,600 --> 00:13:31,440
+Office of the Ombudsman Director IV Christopher B. Lim: and timely retrieval of large volumes of case records,
+
+167
+00:13:31,440 --> 00:13:34,115
+Office of the Ombudsman Director IV Christopher B. Lim: evidence files, and administrative documents.
+
+168
+00:13:35,639 --> 00:13:37,625
+Office of the Ombudsman Director IV Christopher B. Lim: An amount of ₱95 million
+
+169
+00:13:38,760 --> 00:13:41,120
+Office of the Ombudsman Director IV Christopher B. Lim: has been retained for the continued upgrade
+
+170
+00:13:41,120 --> 00:13:43,092
+Office of the Ombudsman Director IV Christopher B. Lim: of depreciated office equipment,
+
+171
+00:13:43,440 --> 00:13:44,830
+Office of the Ombudsman Director IV Christopher B. Lim: furniture, and fixtures.
+
+172
+00:13:45,760 --> 00:13:47,720
+Office of the Ombudsman Director IV Christopher B. Lim: An amount of ₱500 million
+
+173
+00:13:47,720 --> 00:13:49,959
+Office of the Ombudsman Director IV Christopher B. Lim: as funding support for the purchase
+
+174
+00:13:49,959 --> 00:13:52,947
+Office of the Ombudsman Director IV Christopher B. Lim: of OMB building under a lease-purchase agreement.
+
+175
+00:14:05,639 --> 00:14:08,360
+Office of the Ombudsman Director IV Christopher B. Lim: So, moving on, other relevant information
+
+176
+00:14:08,360 --> 00:14:10,279
+Office of the Ombudsman Director IV Christopher B. Lim: to help the committee in the deliberations
+
+177
+00:14:10,279 --> 00:14:13,880
+Office of the Ombudsman Director IV Christopher B. Lim: of the 2027 proposed budget
+
+178
+00:14:13,880 --> 00:14:16,959
+Office of the Ombudsman Director IV Christopher B. Lim: Two: additional confidential funds
+
+179
+00:14:16,959 --> 00:14:21,800
+Office of the Ombudsman Director IV Christopher B. Lim: of ₱148,532,000;
+
+180
+00:14:21,800 --> 00:14:23,519
+Office of the Ombudsman Director IV Christopher B. Lim: funding requirements for the creation
+
+181
+00:14:23,519 --> 00:14:25,040
+Office of the Ombudsman Director IV Christopher B. Lim: of the Ombudsman Marshal
+
+182
+00:14:25,040 --> 00:14:26,839
+Office of the Ombudsman Director IV Christopher B. Lim: and additional positions
+
+183
+00:14:26,839 --> 00:14:28,680
+Office of the Ombudsman Director IV Christopher B. Lim: to augment the general administration
+
+184
+00:14:28,680 --> 00:14:31,000
+Office of the Ombudsman Director IV Christopher B. Lim: and support units,
+
+185
+00:14:31,000 --> 00:14:33,480
+Office of the Ombudsman Director IV Christopher B. Lim: motor vehicles for officials
+
+186
+00:14:33,480 --> 00:14:34,880
+Office of the Ombudsman Director IV Christopher B. Lim: and general dispatch,
+
+187
+00:14:34,880 --> 00:14:37,759
+Office of the Ombudsman Director IV Christopher B. Lim: and purchase of new building,
+
+188
+00:14:37,759 --> 00:14:38,759
+Office of the Ombudsman Director IV Christopher B. Lim: office building,
+
+189
+00:14:38,759 --> 00:14:40,568
+Office of the Ombudsman Director IV Christopher B. Lim: in the amount of ₱6.5 billion.
+
+190
+00:14:42,199 --> 00:14:43,839
+Office of the Ombudsman Director IV Christopher B. Lim: So,
+
+191
+00:14:43,839 --> 00:14:46,079
+Office of the Ombudsman Director IV Christopher B. Lim: So, we also would like to request
+
+192
+00:14:46,079 --> 00:14:48,920
+Office of the Ombudsman Director IV Christopher B. Lim: the restatement of special provisions
+
+193
+00:14:48,920 --> 00:14:50,440
+Office of the Ombudsman Director IV Christopher B. Lim: for 2026,
+
+194
+00:14:50,440 --> 00:14:52,769
+Office of the Ombudsman Director IV Christopher B. Lim: which are already provided in the 2026 GAA.
+
+195
+00:14:53,440 --> 00:14:55,638
+Office of the Ombudsman Director IV Christopher B. Lim: Number one is use of savings.
+
+196
+00:14:56,600 --> 00:14:58,920
+Office of the Ombudsman Director IV Christopher B. Lim: The Ombudsman is authorized to use savings
+
+197
+00:14:58,920 --> 00:15:00,240
+Office of the Ombudsman Director IV Christopher B. Lim: from the appropriations
+
+198
+00:15:00,240 --> 00:15:05,000
+Office of the Ombudsman Director IV Christopher B. Lim: of the Office of the Ombudsman to augment actual deficiencies in any item of its
+
+199
+00:15:05,000 --> 00:15:11,079
+Office of the Ombudsman Director IV Christopher B. Lim: appropriations for the current year which may include the following purposes printing and or
+
+200
+00:15:11,079 --> 00:15:17,800
+Office of the Ombudsman Director IV Christopher B. Lim: publications of decisions resolutions and training information materials repair maintenance and
+
+201
+00:15:17,800 --> 00:15:24,079
+Office of the Ombudsman Director IV Christopher B. Lim: improvement of central and regional offices facilities and equipment purchase of equipment
+
+202
+00:15:24,079 --> 00:15:30,560
+Office of the Ombudsman Director IV Christopher B. Lim: books journals and periodicals necessary expenses for the employment of temporary
+
+203
+00:15:30,560 --> 00:15:36,120
+Office of the Ombudsman Director IV Christopher B. Lim: contractual and casual employees and payment of extraordinary and miscellaneous expenses
+
+204
+00:15:36,120 --> 00:15:41,120
+Office of the Ombudsman Director IV Christopher B. Lim: and transportation allowances and other authorized benefits of its officials and
+
+205
+00:15:41,120 --> 00:15:46,550
+Office of the Ombudsman Director IV Christopher B. Lim: employees subject to pertinent budgeting accounting and auditing rules and regulation
+
+206
+00:15:48,160 --> 00:15:53,839
+Office of the Ombudsman Director IV Christopher B. Lim: Use of income. The Office of the Ombudsman may use the income it generates from fees and
+
+207
+00:15:53,839 --> 00:15:54,199
+Office of the Ombudsman Director IV Christopher B. Lim: other
+
+208
+00:15:54,199 --> 00:15:58,680
+Office of the Ombudsman Director IV Christopher B. Lim: authorized collections subject to the pertinent section in the general
+
+209
+00:15:58,680 --> 00:16:03,880
+Office of the Ombudsman Director IV Christopher B. Lim: provisions of this Act for purposes as may be specifically authorized during or
+
+210
+00:16:03,880 --> 00:16:10,000
+Office of the Ombudsman Director IV Christopher B. Lim: by applicable provisions of law. Release of payment of retirement benefits and
+
+211
+00:16:10,000 --> 00:16:15,360
+Office of the Ombudsman Director IV Christopher B. Lim: pensions. Appropriations authorized for the payment of, uh, retirement benefits and
+
+212
+00:16:15,360 --> 00:16:21,639
+Office of the Ombudsman Director IV Christopher B. Lim: pensions of the Ombudsman and his or her deputies, the Special Prosecutor and all
+
+213
+00:16:21,639 --> 00:16:26,120
+Office of the Ombudsman Director IV Christopher B. Lim: qualified officials and employees of the Office of the Ombudsman with salary
+
+214
+00:16:26,120 --> 00:16:32,959
+Office of the Ombudsman Director IV Christopher B. Lim: grade 26 to 29 under Section 2 of R.A. No. 11059 shall be released directly to the
+
+215
+00:16:32,959 --> 00:16:38,399
+Office of the Ombudsman Director IV Christopher B. Lim: Office of the Ombudsman subject to the computation and conditions prescribed in
+
+216
+00:16:38,399 --> 00:16:45,759
+Office of the Ombudsman Director IV Christopher B. Lim: applicable retirement laws, rules and regulations. Retirement of the Ombudsman,
+
+217
+00:16:45,759 --> 00:16:49,839
+Office of the Ombudsman Director IV Christopher B. Lim: Deputy Ombudsman or the Special Prosecutor. Service for a full term for
+
+218
+00:16:49,839 --> 00:16:52,295
+Office of the Ombudsman Director IV Christopher B. Lim: purposes of the retirement of the Ombudsman.
+
+219
+00:16:52,920 --> 00:16:58,639
+Office of the Ombudsman Director IV Christopher B. Lim: Deputy Ombudsman or the Special Prosecutor under R.A. No. 11059 may be
+
+220
+00:16:58,639 --> 00:17:03,519
+Office of the Ombudsman Director IV Christopher B. Lim: satisfied if the concerned official has rendered a continuous service in the
+
+221
+00:17:03,519 --> 00:17:09,520
+Office of the Ombudsman Director IV Christopher B. Lim: Office of the Ombudsman of at least two years as Ombudsman, Deputy Ombudsman or
+
+222
+00:17:09,520 --> 00:17:15,039
+Office of the Ombudsman Director IV Christopher B. Lim: Special Prosecutor and has rendered a cumulative service in the government for
+
+223
+00:17:15,039 --> 00:17:20,640
+Office of the Ombudsman Director IV Christopher B. Lim: a total of seven years including the two years rendered continuously as Ombudsman,
+
+224
+00:17:20,640 --> 00:17:23,294
+Office of the Ombudsman Director IV Christopher B. Lim: Deputy Ombudsman or Special Prosecutor.
+
+225
+00:17:24,039 --> 00:17:32,480
+Office of the Ombudsman Director IV Christopher B. Lim: In any event, an Ombudsman, Deputy Ombudsman or Special Prosecutor who has rendered at least seven years in
+
+226
+00:17:32,480 --> 00:17:36,440
+Office of the Ombudsman Director IV Christopher B. Lim: government with the last two years of the service having been rendered
+
+227
+00:17:36,440 --> 00:17:41,520
+Office of the Ombudsman Director IV Christopher B. Lim: continuously in the Office of the Ombudsman as Ombudsman, Deputy Ombudsman
+
+228
+00:17:41,520 --> 00:17:47,679
+Office of the Ombudsman Director IV Christopher B. Lim: or Special Prosecutor shall likewise be entitled to retire and receive during
+
+229
+00:17:47,679 --> 00:17:52,160
+Office of the Ombudsman Director IV Christopher B. Lim: the residue of his or her natural life the same benefits provided by the Ombudsman.
+
+230
+00:17:52,160 --> 00:17:59,039
+Office of the Ombudsman Director IV Christopher B. Lim: under R.A. No. 11059. An official or employee claiming retirement benefits under R.A.
+
+231
+00:17:59,039 --> 00:18:08,440
+Office of the Ombudsman Director IV Christopher B. Lim: No. 11059 may only do so once. So these provisions concerning use of
+
+232
+00:18:08,440 --> 00:18:13,880
+Office of the Ombudsman Director IV Christopher B. Lim: savings, use of income, release of payment of retirement benefits and pension and
+
+233
+00:18:13,880 --> 00:18:18,200
+Office of the Ombudsman Director IV Christopher B. Lim: retirement of the ombudsman, deputy ombudsman, and the special prosecutor
+
+234
+00:18:18,200 --> 00:18:23,120
+Office of the Ombudsman Director IV Christopher B. Lim: are indispensable safeguards that uphold the office's constitutionally guaranteed
+
+235
+00:18:23,120 --> 00:18:27,919
+Office of the Ombudsman Director IV Christopher B. Lim: independence and fiscal autonomy. It is earnestly hoped that the foregoing
+
+236
+00:18:27,919 --> 00:18:31,440
+Office of the Ombudsman Director IV Christopher B. Lim: provisions will be included in the general appropriations bill that will be
+
+237
+00:18:31,440 --> 00:18:37,880
+Office of the Ombudsman Director IV Christopher B. Lim: passed by the House of Representatives. So in closing, it cannot be denied that
+
+238
+00:18:37,880 --> 00:18:42,067
+Office of the Ombudsman Director IV Christopher B. Lim: the Philippines struggles every day with a problem of poverty and corruption.
+
+239
+00:18:42,480 --> 00:18:47,520
+Office of the Ombudsman Director IV Christopher B. Lim: Indeed, there is a positive association between corruption and poverty. Corruption
+
+240
+00:18:47,520 --> 00:18:53,440
+Office of the Ombudsman Director IV Christopher B. Lim: affects all of us, endangers our national life. It makes the poor poorer.
+
+241
+00:18:53,440 --> 00:18:57,760
+Office of the Ombudsman Director IV Christopher B. Lim: Reduce incidences of corruption increases government savings that can in
+
+242
+00:18:57,760 --> 00:19:03,720
+Office of the Ombudsman Director IV Christopher B. Lim: turn be used for poverty alleviation projects of this administration. Thus, the
+
+243
+00:19:03,720 --> 00:19:09,000
+Office of the Ombudsman Director IV Christopher B. Lim: office of the ombudsman earnestly hope that the House of Representatives in
+
+244
+00:19:09,000 --> 00:19:13,960
+Office of the Ombudsman Director IV Christopher B. Lim: considering the office of the ombudsman's budget for 2027 and that of
+
+245
+00:19:13,960 --> 00:19:18,640
+Office of the Ombudsman Director IV Christopher B. Lim: the succeeding years would realize the crucial role it performs in the
+
+246
+00:19:18,640 --> 00:19:24,120
+Office of the Ombudsman Director IV Christopher B. Lim: investigation and/or case build-up and enforcement of administrative and
+
+247
+00:19:24,120 --> 00:19:29,840
+Office of the Ombudsman Director IV Christopher B. Lim: criminal liability to promote efficient service by the government to the people
+
+248
+00:19:29,840 --> 00:19:36,200
+Office of the Ombudsman Director IV Christopher B. Lim: through its proactive approaches. The office of the ombudsman in return commits that the budgetary
+
+249
+00:19:36,200 --> 00:19:42,280
+Office of the Ombudsman Director IV Christopher B. Lim: support it needs will not be spent aimlessly but will be utilized with the usual zeal and
+
+250
+00:19:42,280 --> 00:19:48,400
+Office of the Ombudsman Director IV Christopher B. Lim: dedication to enhance the confidence of the general public in the OMB as their watchdog,
+
+251
+00:19:48,400 --> 00:19:52,480
+Office of the Ombudsman Director IV Christopher B. Lim: mobilizer, official critic, and dispenser of justice because
+
+252
+00:19:52,480 --> 00:19:56,350
+Office of the Ombudsman Director IV Christopher B. Lim: the Filipino deserves no less. Thank you, Your Honors.
+
+253
+00:19:57,120 --> 00:20:03,180
+Rep. Rufus B. Rodriguez: Thank you for the presentation, Mr. Lim, for the Office of the Ombudsman’s budget.
+
+254
+00:20:04,020 --> 00:20:11,280
+Rep. Rufus B. Rodriguez: Now, may I acknowledge before we proceed the members who have also are now attending this
+
+255
+00:20:11,280 --> 00:20:23,520
+Rep. Rufus B. Rodriguez: particular hearing. We have Vice Chair Lolita Javier, Representative Arlene Ayon. We have Vice
+
+256
+00:20:23,520 --> 00:20:25,520
+Rep. Rufus B. Rodriguez: We have Vice Chair Ma. Isabel Sagarbarria.
+
+257
+00:20:27,000 --> 00:20:34,700
+Rep. Rufus B. Rodriguez: We have Vice Chair Bernadette Barbers. And the Deputy Majority Leader,
+
+258
+00:20:34,700 --> 00:20:40,750
+Rep. Rufus B. Rodriguez: Baronda, and also Vice Chair Emmarie “Lolypop” Ouano-Dizon.
+
+259
+00:20:40,760 --> 00:20:44,149
+Committee Secretary: And Vice Chair Loreto Amante.
+
+260
+00:20:44,159 --> 00:21:02,029
+Rep. Rufus B. Rodriguez: And Vice Chair Loreto Amante. So once again, so now let us start the discussions. And so, I remind our distinguished colleagues that each member is given five minutes. The clock is there.
+
+261
+00:21:02,039 --> 00:21:07,600
+Rep. Rufus B. Rodriguez: Five minutes for questioning or interpellation, excluding the response of
+
+262
+00:21:07,640 --> 00:21:14,020
+Rep. Rufus B. Rodriguez: the resource persons and when you hear the bell sound it means that you only
+
+263
+00:21:14,020 --> 00:21:21,440
+Rep. Rufus B. Rodriguez: have 30 seconds that's the sound and you have only 30 seconds to wind up with
+
+264
+00:21:21,440 --> 00:21:26,360
+Rep. Rufus B. Rodriguez: your questions as part of a long-standing and respected tradition
+
+265
+00:21:26,360 --> 00:21:31,580
+Rep. Rufus B. Rodriguez: of the House of Representatives to accord preferential treatment to the
+
+266
+00:21:31,580 --> 00:21:37,320
+Rep. Rufus B. Rodriguez: minority members of the house followed by the independent members and then the
+
+267
+00:21:37,320 --> 00:21:43,720
+Rep. Rufus B. Rodriguez: majority members in an alternating manner the chair now recognizes from the
+
+268
+00:21:43,720 --> 00:21:51,640
+Rep. Rufus B. Rodriguez: minority I have here the list now and from the minority we recognize the
+
+269
+00:21:51,640 --> 00:21:55,880
+Rep. Rufus B. Rodriguez: Honorable Representative Iris Marie Demesa Montes
+
+270
+00:21:55,880 --> 00:21:56,568
+Rep. Rufus B. Rodriguez: to my right.
+
+271
+00:21:57,918 --> 00:22:01,279
+Rep. Iris Marie Demesa Montes: Thank you, Mr. Chair. Magandang umaga po sa lahat, Ombudsman
+
+272
+00:22:01,279 --> 00:22:25,700
+Rep. Iris Marie Demesa Montes: Remulla and to the Ombudsman family, magandang araw po sa inyo. Ilang katanungan lamang po mula sa Kababaihan, Kabalikatan para sa Kapakanan at Kaunlaran ng Bayan, or 4K Party-list. Umpisahan ko lang po muna siguro sa mga numero. Maaari ko po bang malaman: ano po ang current resolution and conviction rate ng ating opisina, and how does this compare to the previous years?
+
+273
+00:22:26,340 --> 00:22:39,740
+Ombudsman Jesus Crispin C. Remulla: A.O. Bonoan will answer the question, Your Honor.
+
+274
+00:22:39,785 --> 00:22:43,885
+Rep. Rufus B. Rodriguez: Yes. Assistant Ombudsman Bonoan, you are recognized.
+
+275
+00:22:44,695 --> 00:22:46,840
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Thank you. Thank you, sir. As of June 30,
+
+276
+00:22:46,840 --> 00:22:54,120
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: 2026 the ombudsman reached a conviction rate of 65.52% in the Sandigan
+
+277
+00:22:54,120 --> 00:23:01,580
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Bayan. Now you may ask what measures were taken by the office to improve the
+
+278
+00:23:01,580 --> 00:23:05,520
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: conviction rate in the past five years and we
+
+279
+00:23:05,520 --> 00:23:09,840
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: actually have amended our rules of procedure to fast-track both the
+
+280
+00:23:09,840 --> 00:23:15,680
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: preliminary investigation as well as the fact-finding initiatives of our office.
+
+281
+00:23:15,680 --> 00:23:22,520
+Rep. Iris Marie Demesa Montes: So ibig sabihin po sa current year po mas mataas, nag-increase po. Tama po ba?
+
+282
+00:23:22,520 --> 00:23:30,360
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Yes ma'am. As 2025 ma'am our conviction rate in the Sandigan Bayan was 42% as
+
+283
+00:23:30,360 --> 00:23:35,400
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: compared to this year's 65.52%. Thank you. Of this of this
+
+284
+00:23:35,400 --> 00:23:40,860
+Rep. Iris Marie Demesa Montes: of these cases how many corruption cases involving high-ranking officials
+
+285
+00:23:40,860 --> 00:23:46,840
+Rep. Iris Marie Demesa Montes: perhaps from salary grade 29 and above have been filed, resolved and
+
+286
+00:23:46,840 --> 00:23:47,723
+Rep. Iris Marie Demesa Montes: prosecuted?
+
+287
+00:23:49,495 --> 00:23:55,279
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Your Honor, um, I can, uh, I can answer your question, uh, by
+
+288
+00:23:55,279 --> 00:24:00,160
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: distinguishing between our conviction rate in the Sandigan Bayan which
+
+289
+00:24:00,160 --> 00:24:05,400
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: prosecutes high-ranking government officials ranked SG 27 and
+
+290
+00:24:05,400 --> 00:24:12,960
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: above and lower courts which prosecute those 26 and below. So in 2025 the
+
+291
+00:24:12,960 --> 00:24:19,740
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: conviction rate for the lower courts was 77.6% and as of June 30 this year it is
+
+292
+00:24:19,740 --> 00:24:26,760
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: 64.91% as compared to as previously mentioned 42% in 2025 and
+
+293
+00:24:26,760 --> 00:24:35,240
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: 65.52% in 2026 for the Sandigan Bayan. Thank you. Of this also how many have been
+
+294
+00:24:35,240 --> 00:24:44,520
+Rep. Iris Marie Demesa Montes: the subject of motu proprio investigation of the Ombudsman?
+
+295
+00:24:44,520 --> 00:24:48,500
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Your Honor, at present we don’t have the data to distinguish between motu
+
+296
+00:24:48,500 --> 00:24:51,720
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: proprio and those that were filed with the office, but we can provide the
+
+297
+00:24:51,720 --> 00:24:52,726
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: committee with the data.
+
+298
+00:24:52,928 --> 00:24:55,880
+Rep. Iris Marie Demesa Montes: Thank you, Mr. Chair. I would appreciate receiving that
+
+299
+00:24:55,880 --> 00:25:03,480
+Rep. Iris Marie Demesa Montes: information. Moving on po. What safeguards are in place to
+
+300
+00:25:03,480 --> 00:25:08,680
+Rep. Iris Marie Demesa Montes: ensure that your office is insulated from political influence especially
+
+301
+00:25:08,860 --> 00:25:12,000
+Rep. Iris Marie Demesa Montes: in cases involving high-ranking officials?
+
+302
+00:25:19,250 --> 00:25:23,090
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Well, Your Honor, we really just do our job
+
+303
+00:25:23,090 --> 00:25:26,190
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: and we heed our mandate as provided for in the Constitution,
+
+304
+00:25:26,470 --> 00:25:32,630
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: which is to prosecute and investigate cases without fear and without favor, Your Honor.
+
+305
+00:25:33,250 --> 00:25:34,050
+Rep. Iris Marie Demesa Montes: Maraming salamat po.
+
+306
+00:25:36,050 --> 00:25:39,950
+Rep. Iris Marie Demesa Montes: Um, nakita ko po sa inyong capital outlay, you requested for an increase,
+
+307
+00:25:40,050 --> 00:25:43,430
+Rep. Iris Marie Demesa Montes: but I also saw na meron kayong request for buildings and all that.
+
+308
+00:25:43,430 --> 00:25:52,550
+Rep. Iris Marie Demesa Montes: Doon po ba sa capital outlay na increase ninyo, does it cover forensic digital purchase or procurement of tools?
+
+309
+00:25:52,670 --> 00:25:58,990
+Rep. Iris Marie Demesa Montes: Alam naman po natin kung gaano kahalaga ito para mas maging efficient yung inyong investigation.
+
+310
+00:26:00,890 --> 00:26:15,110
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: To my understanding, Your Honor, yes. Yes, it does.
+
+311
+00:26:15,110 --> 00:26:21,070
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: This is one of the initiatives of this new administration
+
+312
+00:26:21,070 --> 00:26:24,170
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: to improve our capacities.
+
+313
+00:26:24,170 --> 00:26:26,250
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: At least with regard to digitalization.
+
+314
+00:26:27,250 --> 00:26:28,370
+Rep. Iris Marie Demesa Montes: Maraming salamat po.
+
+315
+00:26:30,090 --> 00:26:34,870
+Rep. Iris Marie Demesa Montes: Um, tungkol naman po sa regional reach ng Office of the Ombudsman,
+
+316
+00:26:35,230 --> 00:26:44,910
+Rep. Iris Marie Demesa Montes: ano po ang ano, how will your 2027 budget ensure that ma-expand natin po 'yung Ombudsman presence in the region
+
+317
+00:26:44,910 --> 00:26:47,590
+Rep. Iris Marie Demesa Montes: and it becomes accessible to the region?
+
+318
+00:26:47,910 --> 00:26:57,280
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Your Honor, actually, we are also looking at expanding
+
+319
+00:26:57,440 --> 00:27:02,220
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: our investigations and our reach to BARMM,
+
+320
+00:27:02,440 --> 00:27:05,700
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: to the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+321
+00:27:06,320 --> 00:27:11,440
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: And also, we have also requested budgets for our different regional offices
+
+322
+00:27:11,440 --> 00:27:15,320
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: in Luzon, Visayas, Mindanao, as well as our satellite offices.
+
+323
+00:27:15,320 --> 00:27:22,220
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: This budget will ensure their accessibility to the public
+
+324
+00:27:22,220 --> 00:27:25,600
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: and continuous presence.
+
+325
+00:27:25,600 --> 00:27:25,880
+Rep. Iris Marie Demesa Montes: Yeah.
+
+326
+00:27:25,880 --> 00:27:27,799
+Rep. Iris Marie Demesa Montes: Do we have measurable indicators?
+
+327
+00:27:27,799 --> 00:27:32,559
+Rep. Iris Marie Demesa Montes: Perhaps mga numero na puwedeng magpatunay kung ilan ang nafa-file doon,
+
+328
+00:27:32,559 --> 00:27:36,320
+Rep. Iris Marie Demesa Montes: and how—gaano po ka-efficient 'yung ating regional offices?
+
+329
+00:27:36,320 --> 00:27:38,080
+Rep. Iris Marie Demesa Montes: If you don't have the data right now,
+
+330
+00:27:38,080 --> 00:27:41,640
+Rep. Iris Marie Demesa Montes: we also appreciate, um, receiving the same from you,
+
+331
+00:27:41,640 --> 00:27:42,969
+Rep. Iris Marie Demesa Montes: katulad po ng kanina.
+
+332
+00:27:44,039 --> 00:27:51,080
+Rep. Iris Marie Demesa Montes: Ano po. Um, ah, siguro po 'yung huling question ko na lang po kay Ombudsman Remulla.
+
+333
+00:27:51,080 --> 00:27:56,039
+Rep. Iris Marie Demesa Montes: Kamakailan po, um, naipahayag po ninyo at ako'y, uh,
+
+334
+00:27:56,039 --> 00:27:58,360
+Rep. Iris Marie Demesa Montes: ang kinatawang ito ay nalungkot
+
+335
+00:27:58,360 --> 00:28:03,240
+Rep. Iris Marie Demesa Montes: sa inyong pahayag na tama po ba na sinabi ninyo na wala na tayo—
+
+336
+00:28:03,240 --> 00:28:06,480
+Rep. Iris Marie Demesa Montes: ang taong bayan ay wala nang maaasahan sa DPWH?
+
+337
+00:28:06,480 --> 00:28:11,720
+Rep. Iris Marie Demesa Montes: Ano po ba ang naging basehan ng statement po ninyo tungkol dito?
+
+338
+00:28:11,720 --> 00:28:14,200
+Ombudsman Jesus Crispin C. Remulla: Ito po yung, salamat po sa tanong na yan,
+
+339
+00:28:14,200 --> 00:28:19,880
+Ombudsman Jesus Crispin C. Remulla: at maaari pong linawin ang konteksto ng aking pagsasabi niyan.
+
+340
+00:28:19,880 --> 00:28:25,537
+Ombudsman Jesus Crispin C. Remulla: Pinag-uusapan po namin ang acquisition ng building, uh,
+
+341
+00:28:26,200 --> 00:28:33,340
+Ombudsman Jesus Crispin C. Remulla: ng NBI, kasi nga ako po yung dating Secretary of Justice
+
+342
+00:28:33,340 --> 00:28:36,360
+Ombudsman Jesus Crispin C. Remulla: at kabisado ko po yung mga nagiging problema
+
+343
+00:28:36,360 --> 00:28:43,060
+Ombudsman Jesus Crispin C. Remulla: sa pagpapagawa at pagtatalaga ng building ng gobyerno.
+
+344
+00:28:44,060 --> 00:28:47,500
+Ombudsman Jesus Crispin C. Remulla: At ang isa pong naging problema na nakita kong matindi
+
+345
+00:28:47,500 --> 00:28:50,420
+Ombudsman Jesus Crispin C. Remulla: ay yung Bureau of Immigration Building.
+
+346
+00:28:51,440 --> 00:28:56,020
+Ombudsman Jesus Crispin C. Remulla: Inabot ho iyan halos ng walong bilyon at labindalawang taon,
+
+347
+00:28:56,020 --> 00:29:00,040
+Ombudsman Jesus Crispin C. Remulla: at hanggang ngayon, ngayon lang yata na tapos,
+
+348
+00:29:00,820 --> 00:29:03,020
+Ombudsman Jesus Crispin C. Remulla: yung driveway papunta po sa parking lot niya.
+
+349
+00:29:03,900 --> 00:29:05,560
+Ombudsman Jesus Crispin C. Remulla: Yung driveway po niya, hindi ho kakasya.
+
+350
+00:29:05,940 --> 00:29:07,860
+Ombudsman Jesus Crispin C. Remulla: Ang kakasya lang po, Wigo.
+
+351
+00:29:08,420 --> 00:29:09,940
+Ombudsman Jesus Crispin C. Remulla: Yung maliit po na sasakyan,
+
+352
+00:29:10,620 --> 00:29:12,720
+Ombudsman Jesus Crispin C. Remulla: pag may dala kayong pickup o SUV,
+
+353
+00:29:13,360 --> 00:29:16,380
+Ombudsman Jesus Crispin C. Remulla: hindi na po kakasya at hindi na po makakaparada sa taas.
+
+354
+00:29:17,300 --> 00:29:18,720
+Ombudsman Jesus Crispin C. Remulla: Ang problema po kasi,
+
+355
+00:29:19,680 --> 00:29:21,860
+Ombudsman Jesus Crispin C. Remulla: pag may government building na ginagawa,
+
+356
+00:29:22,620 --> 00:29:25,780
+Ombudsman Jesus Crispin C. Remulla: alam naman natin na hindi ho madali magpatayo ng building.
+
+357
+00:29:26,020 --> 00:29:28,780
+Ombudsman Jesus Crispin C. Remulla: Ito yung building, maraming pong cost overrun yan.
+
+358
+00:29:29,340 --> 00:29:31,340
+Ombudsman Jesus Crispin C. Remulla: Pero pag ito po tinamaan ng graft
+
+359
+00:29:31,340 --> 00:29:35,180
+Ombudsman Jesus Crispin C. Remulla: at tinamaan ng kickback mentality,
+
+360
+00:29:36,100 --> 00:29:39,060
+Ombudsman Jesus Crispin C. Remulla: talaga po mauubos pati yung building at mauubos po yung driveway.
+
+361
+00:29:39,800 --> 00:29:44,320
+Ombudsman Jesus Crispin C. Remulla: Ganoon kasama ang nakita kong pangyayari sa akin pong karanasan.
+
+362
+00:29:44,860 --> 00:29:47,280
+Ombudsman Jesus Crispin C. Remulla: Dito po sa gobyerno, matagal na po ako sa gobyerno.
+
+363
+00:29:47,880 --> 00:29:50,860
+Ombudsman Jesus Crispin C. Remulla: Nagsimula po ako sa gobyerno 1992.
+
+364
+00:29:50,860 --> 00:29:56,000
+Ombudsman Jesus Crispin C. Remulla: At hindi naman po tuloy-tuloy, pero kadalasan po yan.
+
+365
+00:29:56,020 --> 00:29:59,020
+Ombudsman Jesus Crispin C. Remulla: Hanggang 2026, halos sa gobyerno po ako.
+
+366
+00:30:00,080 --> 00:30:12,820
+Ombudsman Jesus Crispin C. Remulla: Nakita ko lahat ng pangyayari sa paggastos ng pera ng bayan, at ang pagpapagawa ng building, isa po sa pinakanakakamuhi pong nangyayari sa atin.
+
+367
+00:30:12,940 --> 00:30:24,720
+Ombudsman Jesus Crispin C. Remulla: Nakakaawa po 'yung ating mga—lagay natin sa paaralan pa lamang, ang paaralan po ng mga bata na kaunting-kaunti na ang ginawa, halos ang sama ng standard.
+
+368
+00:30:24,720 --> 00:30:39,200
+Ombudsman Jesus Crispin C. Remulla: Pero itong mga building po na talagang kinakailangan ng gobyerno, talagang pagka nagpatayo po tayo at may [unclear] po sa pagpapatayo ng building, talaga pong naging substandard po talaga ang building.
+
+369
+00:30:39,900 --> 00:30:48,780
+Ombudsman Jesus Crispin C. Remulla: Ayun nga, example ho niyan, Immigration Building sa Macapagal Boulevard na dapat ho napakaganda kung titingnan natin ang naging gastos.
+
+370
+00:30:49,040 --> 00:30:54,260
+Ombudsman Jesus Crispin C. Remulla: Halos walong bilyon ang aking pagkakaunawa. Pero kung titingnan ko ho at i-value ninyo ngayon,
+
+371
+00:30:54,720 --> 00:30:59,160
+Ombudsman Jesus Crispin C. Remulla: sa ngayong merkado, kung magkano po 'yung building na 'yon, baka hindi ho umabot ng two billion.
+
+372
+00:31:00,360 --> 00:31:03,120
+Ombudsman Jesus Crispin C. Remulla: Kaya ang laki po ng ano, ng sayang eh.
+
+373
+00:31:03,640 --> 00:31:12,540
+Ombudsman Jesus Crispin C. Remulla: Yun po, probably, it’s a point of emphasis na kinakailangan pong bantayan natin ang kaban ng bayan pagdating po sa pagpapatayo ng mga gusali.
+
+374
+00:31:13,860 --> 00:31:17,660
+Rep. Iris Marie Demesa Montes: Thank you, Ombudsman. I share your observations and frustration.
+
+375
+00:31:18,240 --> 00:31:22,860
+Rep. Iris Marie Demesa Montes: So, given that po, ano po ang maaaring maitulong ng Ombudsman?
+
+376
+00:31:22,860 --> 00:31:35,260
+Rep. Iris Marie Demesa Montes: Given yung ganyang observation ninyo, upang linisin natin ang ahensyang ito ng katiwalian, without preempting whatever investigation you are currently doing right now, kung meron po,
+
+377
+00:31:35,660 --> 00:31:43,840
+Rep. Iris Marie Demesa Montes: Para po, maging dekalidad yung ating mga infrastruktura at maibalik natin ang kumpiyansa ng taong bayan sa ahensya.
+
+378
+00:31:44,840 --> 00:31:51,080
+Ombudsman Jesus Crispin C. Remulla: Unang-una siguro, kung talagang DPWH ang pag-uusapan, dapat ho ginagamit natin ang RDC.
+
+379
+00:31:51,080 --> 00:31:53,960
+Ombudsman Jesus Crispin C. Remulla: Lahat po ng proyekto, dapat po nakaplano.
+
+380
+00:31:54,480 --> 00:31:58,800
+Ombudsman Jesus Crispin C. Remulla: Hindi ho puwedeng, “Bigyan mo ako ng listahan ng gagawin mong kalye, tapos ako nang bahala.”
+
+381
+00:31:59,060 --> 00:31:59,780
+Ombudsman Jesus Crispin C. Remulla: Hindi po ganun eh.
+
+382
+00:32:00,220 --> 00:32:01,280
+Ombudsman Jesus Crispin C. Remulla: Dapat ho yan nakaplano.
+
+383
+00:32:01,820 --> 00:32:07,400
+Ombudsman Jesus Crispin C. Remulla: Ang laki po ng gobyerno natin, marami tayong gobyerno na gumagawa ng trabaho para planuhin na maayos ang lahat.
+
+384
+00:32:08,200 --> 00:32:09,760
+Ombudsman Jesus Crispin C. Remulla: Pero hindi po dapat ganun ah.
+
+385
+00:32:10,180 --> 00:32:15,520
+Ombudsman Jesus Crispin C. Remulla: Dapat po talaga deliberate tayo at every step of the way sa paggastos ng pera ng bayan.
+
+386
+00:32:15,920 --> 00:32:18,080
+Ombudsman Jesus Crispin C. Remulla: Yun nga 'yung nagiging problema natin,
+
+387
+00:32:18,080 --> 00:32:23,640
+Ombudsman Jesus Crispin C. Remulla: yung ating mga regional development plans, parang hindi ho nasunod nung bandang huli.
+
+388
+00:32:23,920 --> 00:32:28,780
+Ombudsman Jesus Crispin C. Remulla: Itong mga nakaraang taon, lahat po naging flood-control budget na lang.
+
+389
+00:32:29,500 --> 00:32:40,980
+Ombudsman Jesus Crispin C. Remulla: Ang nangyari po sa budget natin, yung mga sabihin natin, flagship project ng Pangulo, nawala, naging unprogrammed fund na lang.
+
+390
+00:32:41,600 --> 00:32:44,940
+Ombudsman Jesus Crispin C. Remulla: Yung po ating foreign-assisted project, naging unprogrammed na lang.
+
+391
+00:32:44,940 --> 00:32:47,900
+Ombudsman Jesus Crispin C. Remulla: Kaya ang aming pong gagawin dito,
+
+392
+00:32:48,080 --> 00:32:54,880
+Ombudsman Jesus Crispin C. Remulla: sa aming opisina, magtatayo ho kami ng isang committee na babantayan lamang ang budget
+
+393
+00:32:54,880 --> 00:32:57,860
+Ombudsman Jesus Crispin C. Remulla: at kung paano ho ginagastos ang pera ng bayan,
+
+394
+00:32:58,320 --> 00:33:02,860
+Ombudsman Jesus Crispin C. Remulla: na pwede na rin ho maging sumbungan ng taong bayan kung meron pong pagmamalabis.
+
+395
+00:33:03,620 --> 00:33:09,340
+Ombudsman Jesus Crispin C. Remulla: So, yung pagbabantay po ng budget, isa na ho sa direct functions namin, ang tingin ko na pinakamahalaga.
+
+396
+00:33:11,020 --> 00:33:12,900
+Rep. Iris Marie Demesa Montes: Maraming salamat po, Ombudsman.
+
+397
+00:33:12,960 --> 00:33:14,160
+Rep. Iris Marie Demesa Montes: I still have a little time.
+
+398
+00:33:14,160 --> 00:33:16,300
+Rep. Iris Marie Demesa Montes: Let me just siguro state that,
+
+399
+00:33:16,300 --> 00:33:26,640
+Rep. Iris Marie Demesa Montes: ang kinatawang ito po ay kaisa ninyo sa inyong hangarin upang palakasin muli ang tiwala ng taong bayan sa ahensya.
+
+400
+00:33:27,060 --> 00:33:33,600
+Rep. Iris Marie Demesa Montes: At alam po natin, nasabi nyo po sa inyong closing statement sa presentation, yung impact ng corruption.
+
+401
+00:33:34,120 --> 00:33:43,320
+Rep. Iris Marie Demesa Montes: And umaasa po kami na tunay na ang opisina ng Ombudsman ay ang magiging watchdog, mobilizer, official critic, and dispenser of justice.
+
+402
+00:33:43,320 --> 00:33:43,960
+Rep. Iris Marie Demesa Montes: At ako
+
+403
+00:33:43,960 --> 00:33:52,120
+Rep. Iris Marie Demesa Montes: po'y naniniwala din na sa huling phrase ng inyong presentation, that the Filipino people deserve no less.
+
+404
+00:33:52,120 --> 00:33:53,679
+Rep. Iris Marie Demesa Montes: Maraming salamat po, Mr. Chair.
+
+405
+00:33:53,679 --> 00:33:55,039
+Rep. Rufus B. Rodriguez: Maraming salamat po.
+
+406
+00:33:55,039 --> 00:33:58,120
+Rep. Rufus B. Rodriguez: Thank you, Representative Iris Montes.
+
+407
+00:33:58,120 --> 00:34:06,783
+Rep. Rufus B. Rodriguez: Before we proceed to the next interpellator, may I now acknowledge the arrival of Representative Karl Fernandez Legazpi.
+
+408
+00:34:08,774 --> 00:34:12,284
+Rep. Rufus B. Rodriguez: We have Representative Mark Anthony Santos.
+
+409
+00:34:13,955 --> 00:34:18,224
+Rep. Rufus B. Rodriguez: We have Assistant Minority Leader Robert Nazal.
+
+410
+00:34:19,777 --> 00:34:25,615
+Rep. Rufus B. Rodriguez: And Deputy Minority Leader Antonio Tinio.
+
+411
+00:34:26,645 --> 00:34:27,252
+Rep. Rufus B. Rodriguez: Tony.
+
+412
+00:34:27,691 --> 00:34:28,400
+Rep. Rufus B. Rodriguez: And one more.
+
+413
+00:34:29,918 --> 00:34:34,000
+Rep. Rufus B. Rodriguez: And we have Representative Franz Pumaren.
+
+414
+00:34:34,000 --> 00:34:34,340
+Rep. Rufus B. Rodriguez: Welcome.
+
+415
+00:34:34,947 --> 00:34:38,255
+Rep. Rufus B. Rodriguez: So we now go to the second interpellator.
+
+416
+00:34:38,795 --> 00:34:40,839
+Rep. Rufus B. Rodriguez: He will belong to the independent.
+
+417
+00:34:40,839 --> 00:34:43,402
+Rep. Rufus B. Rodriguez: We have minority, independent, majority.
+
+418
+00:34:43,874 --> 00:34:44,667
+Rep. Rufus B. Rodriguez: Congressman.
+
+419
+00:34:45,325 --> 00:34:47,840
+Rep. Rufus B. Rodriguez: And then, Toby Tiangco is now recognized.
+
+420
+00:34:49,257 --> 00:34:50,084
+Rep. Tobias "Toby" M. Tiangco: Thank you, Mr. Chair.
+
+421
+00:34:50,405 --> 00:34:53,037
+Rep. Tobias "Toby" M. Tiangco: Uh, Mr. Chair, um, wala po akong tanong.
+
+422
+00:34:53,290 --> 00:34:57,480
+Rep. Tobias "Toby" M. Tiangco: Um, I just want to manifest that I support the budget of the Office of the Ombudsman.
+
+423
+00:34:57,480 --> 00:35:02,680
+Rep. Tobias "Toby" M. Tiangco: Especially, Mr. Chair, the amendments that they are requesting for the general provisions, no?
+
+424
+00:35:02,680 --> 00:35:05,035
+Rep. Tobias "Toby" M. Tiangco: And I'm sure, uh, you will be one with me.
+
+425
+00:35:05,356 --> 00:35:06,824
+Rep. Tobias "Toby" M. Tiangco: We've known each other very well.
+
+426
+00:35:07,162 --> 00:35:11,079
+Rep. Tobias "Toby" M. Tiangco: Um, because yung Office of the Ombudsman is part of the CFAG,
+
+427
+00:35:11,079 --> 00:35:15,599
+Rep. Tobias "Toby" M. Tiangco: the, um, uh, Constitutional Fiscal Autonomy Group, no.
+
+428
+00:35:15,835 --> 00:35:23,902
+Rep. Tobias "Toby" M. Tiangco: So I hope that the, um, amendments to the special provisions will also be applicable to the other members of the CFAG.
+
+429
+00:35:24,273 --> 00:35:27,216
+Rep. Tobias "Toby" M. Tiangco: Hindi lang po doon sa Office of the Ombudsman.
+
+430
+00:35:27,440 --> 00:35:32,440
+Rep. Tobias "Toby" M. Tiangco: Um, sana po we make it applicable to the Commission on Elections,
+
+431
+00:35:32,440 --> 00:35:37,216
+Rep. Tobias "Toby" M. Tiangco: to the Civil Service Commission, to the Commission on Audit, and the Commission on Human Rights.
+
+432
+00:35:37,942 --> 00:35:42,363
+Rep. Tobias "Toby" M. Tiangco: And this was my, um, ito po advocacy ko since 2013, eh.
+
+433
+00:35:42,818 --> 00:35:44,599
+Rep. Tobias "Toby" M. Tiangco: I was already supporting their fiscal autonomy.
+
+434
+00:35:45,119 --> 00:35:47,453
+Rep. Tobias "Toby" M. Tiangco: So I'm surprised that it's still an issue right now, no?
+
+435
+00:35:47,880 --> 00:35:48,440
+Rep. Tobias "Toby" M. Tiangco: So yun lang po.
+
+436
+00:35:48,440 --> 00:35:53,319
+Rep. Tobias "Toby" M. Tiangco: And I hope at the proper time, the Chairman will be the one to introduce the amendments in the floor.
+
+437
+00:35:53,319 --> 00:35:54,158
+Rep. Tobias "Toby" M. Tiangco: Thank you very much, Mr. Chair.
+
+438
+00:35:54,158 --> 00:35:56,359
+Rep. Rufus B. Rodriguez: Thank you, Representative Toby Tiangco.
+
+439
+00:35:56,359 --> 00:36:01,359
+Rep. Rufus B. Rodriguez: Thank you for your full support for the budget of the Ombudsman.
+
+440
+00:36:01,359 --> 00:36:03,240
+Rep. Rufus B. Rodriguez: And of course, also the special provisions.
+
+441
+00:36:04,359 --> 00:36:07,372
+Rep. Rufus B. Rodriguez: The other commissions are also having that already.
+
+442
+00:36:07,422 --> 00:36:08,992
+Rep. Rufus B. Rodriguez: The COMELEC and the others.
+
+443
+00:36:09,397 --> 00:36:11,319
+Rep. Rufus B. Rodriguez: Civil Service and COA.
+
+444
+00:36:11,319 --> 00:36:14,880
+Rep. Rufus B. Rodriguez: But the focus now is the Ombudsman.
+
+445
+00:36:14,880 --> 00:36:19,119
+Rep. Rufus B. Rodriguez: We agree with you, and we support you in the special provisions for the Ombudsman.
+
+446
+00:36:20,040 --> 00:36:21,680
+Rep. Rufus B. Rodriguez: So that is the stand of the Chair.
+
+447
+00:36:22,560 --> 00:36:24,839
+Rep. Rufus B. Rodriguez: Uh, we have to get the approval of everyone here.
+
+448
+00:36:25,480 --> 00:36:27,453
+Rep. Rufus B. Rodriguez: But, uh, thank you for your proposal.
+
+449
+00:36:27,554 --> 00:36:27,908
+Rep. Tobias "Toby" M. Tiangco: Yes.
+
+450
+00:36:29,022 --> 00:36:33,800
+Rep. Tobias "Toby" M. Tiangco: Yung doon sa savings, use of income, retirement benefits,
+
+451
+00:36:33,800 --> 00:36:37,105
+Rep. Tobias "Toby" M. Tiangco: and sana isama na rin po natin yung validity of appropriations.
+
+452
+00:36:38,860 --> 00:36:43,062
+Rep. Rufus B. Rodriguez: We will have that language recommended to the plenary.
+
+453
+00:36:43,520 --> 00:36:44,079
+Rep. Rufus B. Rodriguez: Thank you very much.
+
+454
+00:36:44,240 --> 00:36:44,950
+Rep. Tobias "Toby" M. Tiangco: Thank you very much, Mr. Chair.
+
+455
+00:36:45,200 --> 00:36:47,839
+Rep. Rufus B. Rodriguez: Thank you, Congressman Toby Tiangco.
+
+456
+00:36:47,839 --> 00:36:49,492
+Rep. Rufus B. Rodriguez: Now we go to the majority.
+
+457
+00:36:50,119 --> 00:36:52,867
+Rep. Rufus B. Rodriguez: And we have the representative from Baguio.
+
+458
+00:36:53,599 --> 00:36:56,680
+Rep. Rufus B. Rodriguez: The Honorable Representative Mauricio Domogan.
+
+459
+00:36:58,680 --> 00:37:07,582
+Rep. Mauricio G. Domogan: Thank you, Mr. Chairman, Apo, Ombudsman, and the members of the family of the Ombudsman.
+
+460
+00:37:08,800 --> 00:37:11,733
+Rep. Mauricio G. Domogan: First, I join.
+
+461
+00:37:13,400 --> 00:37:20,119
+Rep. Mauricio G. Domogan: Of course, Congressman Tiangco and the others, fully supporting,
+
+462
+00:37:20,119 --> 00:37:24,592
+Rep. Mauricio G. Domogan: including the proposed amendments of the budget of the Ombudsman.
+
+463
+00:37:25,119 --> 00:37:27,292
+Rep. Mauricio G. Domogan: We have some few questions.
+
+464
+00:37:29,440 --> 00:37:33,940
+Rep. Mauricio G. Domogan: During the hearing on the Committee on Justice on the Impeachment,
+
+465
+00:37:35,319 --> 00:37:42,901
+Rep. Mauricio G. Domogan: Witness Ramil Madriaga came out with two names.
+
+466
+00:37:43,520 --> 00:37:46,917
+Rep. Mauricio G. Domogan: One of them happens to be with the Ombudsman.
+
+467
+00:37:48,119 --> 00:37:49,685
+Rep. Mauricio G. Domogan: Maybe we know what happened to that.
+
+468
+00:37:55,240 --> 00:37:59,590
+Rep. Rufus B. Rodriguez: Ombudsman Remulla, please respond to the query of Congressman Domogan.
+
+469
+00:38:00,359 --> 00:38:03,117
+Ombudsman Jesus Crispin C. Remulla: Yes, thank you, Your Honor.
+
+470
+00:38:03,920 --> 00:38:12,400
+Ombudsman Jesus Crispin C. Remulla: The Internal Affairs Bureau of the Ombudsman is now on the case of Mr. Madriaga, of what was mentioned by Mr. Madriaga.
+
+471
+00:38:12,400 --> 00:38:18,240
+Ombudsman Jesus Crispin C. Remulla: And that we already had the show-cause order issued to the person referred to by Mr. Madriaga.
+
+472
+00:38:18,240 --> 00:38:19,680
+Ombudsman Jesus Crispin C. Remulla: And he has already answered.
+
+473
+00:38:19,680 --> 00:38:26,880
+Ombudsman Jesus Crispin C. Remulla: So, the IAB is now pursuing, the Internal Affairs Bureau is pursuing the case to its proper logical conclusion.
+
+474
+00:38:26,880 --> 00:38:27,603
+Ombudsman Jesus Crispin C. Remulla: Thank you, Your Honor.
+
+475
+00:38:28,160 --> 00:38:29,881
+Rep. Rufus B. Rodriguez: Thank you, Representative Domogan.
+
+476
+00:38:30,280 --> 00:38:32,319
+Rep. Mauricio G. Domogan: Thank you, Chairman.
+
+477
+00:38:32,680 --> 00:38:33,610
+Rep. Rufus B. Rodriguez: Next.
+
+478
+00:38:36,400 --> 00:38:44,359
+Rep. Mauricio G. Domogan: From your records, how many had been received by your office?
+
+479
+00:38:44,359 --> 00:38:45,960
+Rep. Mauricio G. Domogan: complaints
+
+480
+00:38:45,960 --> 00:38:46,960
+Rep. Mauricio G. Domogan: involving
+
+481
+00:38:46,960 --> 00:38:55,109
+Rep. Mauricio G. Domogan: Having conflict interest of incumbent officials of government,
+
+482
+00:38:56,000 --> 00:38:57,556
+Rep. Mauricio G. Domogan: particularly congressmen and senators?
+
+483
+00:39:02,079 --> 00:39:03,023
+Rep. Mauricio G. Domogan: Do you have records?
+
+484
+00:39:05,240 --> 00:39:11,720
+Ombudsman Jesus Crispin C. Remulla: Your Honor, there aren't many complaints when it comes to conflict of interest.
+
+485
+00:39:11,720 --> 00:39:17,079
+Ombudsman Jesus Crispin C. Remulla: It is something motu proprio that we start the investigations of the conflict of interest.
+
+486
+00:39:17,079 --> 00:39:30,901
+Ombudsman Jesus Crispin C. Remulla: Probably, one reason is because I've been, I was a member of this house for four terms, and actually, I was elected to five terms, and I was very aware of the conflict of interest emanating at that time.
+
+487
+00:39:31,640 --> 00:39:40,604
+Ombudsman Jesus Crispin C. Remulla: But, as a member of the house, we know the culture here is that, well, if I may be a little more informal in my words, walang basagan ng trip.
+
+488
+00:39:41,760 --> 00:39:46,200
+Ombudsman Jesus Crispin C. Remulla: But, Your Honor, I have been given a constitutional duty to check on
+
+489
+00:39:46,200 --> 00:39:46,599
+Ombudsman Jesus Crispin C. Remulla: conflicts
+
+490
+00:39:46,599 --> 00:39:46,839
+Ombudsman Jesus Crispin C. Remulla: of
+
+491
+00:39:46,839 --> 00:39:48,240
+Ombudsman Jesus Crispin C. Remulla: interest and
+
+492
+00:39:48,240 --> 00:39:48,960
+Ombudsman Jesus Crispin C. Remulla: graft and corruption.
+
+493
+00:39:48,960 --> 00:39:53,319
+Ombudsman Jesus Crispin C. Remulla: That's why I think that that knowledge came to me very handily.
+
+494
+00:39:53,319 --> 00:39:56,787
+Ombudsman Jesus Crispin C. Remulla: And, that's where the motu proprio started.
+
+495
+00:39:57,319 --> 00:40:04,800
+Ombudsman Jesus Crispin C. Remulla: But there are other, there are other people who give us information that do not necessarily file complaints.
+
+496
+00:40:04,800 --> 00:40:07,250
+Ombudsman Jesus Crispin C. Remulla: But, we use this to start investigations, Your Honor.
+
+497
+00:40:09,839 --> 00:40:10,844
+Rep. Mauricio G. Domogan: Thank you, Mr. Chairman.
+
+498
+00:40:11,720 --> 00:40:17,400
+Rep. Rufus B. Rodriguez: Thank you, Representative Domogan and our Ombudsman.
+
+499
+00:40:17,400 --> 00:40:19,720
+Rep. Rufus B. Rodriguez: We go now to—back to—
+
+500
+00:40:19,720 --> 00:40:20,319
+Rep. Mauricio G. Domogan: Not yet finished.
+
+501
+00:40:20,319 --> 00:40:21,079
+Rep. Mauricio G. Domogan: I'm not yet finished.
+
+502
+00:40:21,079 --> 00:40:21,920
+Rep. Rufus B. Rodriguez: Please proceed.
+
+503
+00:40:21,920 --> 00:40:24,790
+Rep. Rufus B. Rodriguez: You still have 3 minutes and 32 seconds.
+
+504
+00:40:24,800 --> 00:40:25,897
+Rep. Rufus B. Rodriguez: I thought you're finished.
+
+505
+00:40:26,599 --> 00:40:27,044
+Rep. Mauricio G. Domogan: I'm sorry.
+
+506
+00:40:28,760 --> 00:40:30,520
+Rep. Mauricio G. Domogan: No problem, Mr. Chairman.
+
+507
+00:40:32,160 --> 00:40:38,958
+Rep. Mauricio G. Domogan: Now, talking of these problems of corruption, which is appearing to be number one in our country today,
+
+508
+00:40:40,800 --> 00:40:45,168
+Rep. Mauricio G. Domogan: relative specifically to government projects,
+
+509
+00:40:47,480 --> 00:40:53,487
+Rep. Mauricio G. Domogan: I noticed that the requirement of pre-audit had been removed.
+
+510
+00:40:58,280 --> 00:41:00,085
+Rep. Mauricio G. Domogan: That was in 2011.
+
+511
+00:41:01,520 --> 00:41:03,157
+Rep. Mauricio G. Domogan: That was in 2011.
+
+512
+00:41:04,880 --> 00:41:07,679
+Rep. Mauricio G. Domogan: Because when pre-audit was being followed,
+
+513
+00:41:09,040 --> 00:41:16,599
+Rep. Mauricio G. Domogan: well, my seatmate here, who happens to be the regional director of the Cordillera,
+
+514
+00:41:16,599 --> 00:41:23,319
+Rep. Mauricio G. Domogan: when we rehabilitated the city of Baguio from the ruins of the killer earthquake of 1990,
+
+515
+00:41:23,319 --> 00:41:24,841
+Rep. Mauricio G. Domogan: wala namang red flag eh.
+
+516
+00:41:25,440 --> 00:41:28,317
+Rep. Mauricio G. Domogan: Kasi kailangan ninyong pre-audit.
+
+517
+00:41:28,839 --> 00:41:30,629
+Rep. Mauricio G. Domogan: Now, may we get your view.
+
+518
+00:41:31,240 --> 00:41:41,564
+Rep. Mauricio G. Domogan: Do you support us with the bill that we make as mandatory for payment of government projects,
+
+519
+00:41:42,119 --> 00:41:46,119
+Rep. Mauricio G. Domogan: pre-audit coupled with geomapping of the seed projects?
+
+520
+00:41:46,119 --> 00:41:47,720
+Rep. Mauricio G. Domogan: So that, klaro, na nandiyan.
+
+521
+00:41:47,720 --> 00:41:52,240
+Rep. Mauricio G. Domogan: Siguro, kung may lulusot pa na ghost project,
+
+522
+00:41:52,240 --> 00:41:59,232
+Rep. Mauricio G. Domogan: hindi ko na alam kung mayroon pa kung pre-audit complemented by geomapping.
+
+523
+00:42:00,200 --> 00:42:02,084
+Ombudsman Jesus Crispin C. Remulla: It would be a big help, Your Honor.
+
+524
+00:42:02,880 --> 00:42:05,155
+Ombudsman Jesus Crispin C. Remulla: However, that's already the province of the COA.
+
+525
+00:42:05,359 --> 00:42:11,956
+Ombudsman Jesus Crispin C. Remulla: And I believe that probably COA should be able to address that issue.
+
+526
+00:42:12,400 --> 00:42:15,040
+Ombudsman Jesus Crispin C. Remulla: And maybe they will best lead more personnel.
+
+527
+00:42:15,040 --> 00:42:20,760
+Ombudsman Jesus Crispin C. Remulla: Because they're always, the limitation of COA, as far as I'm concerned,
+
+528
+00:42:20,760 --> 00:42:23,680
+Ombudsman Jesus Crispin C. Remulla: as far as I've heard, is that they lack the people.
+
+529
+00:42:23,680 --> 00:42:27,329
+Ombudsman Jesus Crispin C. Remulla: Maybe they need a bigger complement of people to do the job, Your Honor.
+
+530
+00:42:29,280 --> 00:42:31,079
+Rep. Mauricio G. Domogan: Thank you, Apo, Ombudsman.
+
+531
+00:42:31,079 --> 00:42:36,610
+Rep. Mauricio G. Domogan: We brought this with COA, and they fully support it, only they want additional personnel.
+
+532
+00:42:37,680 --> 00:42:39,559
+Rep. Mauricio G. Domogan: Tama po iyong sabi mo.
+
+533
+00:42:39,559 --> 00:42:42,770
+Rep. Mauricio G. Domogan: So, we hope that the bill that we did file,
+
+534
+00:42:43,760 --> 00:42:44,525
+Rep. Mauricio G. Domogan: should,
+
+535
+00:42:46,680 --> 00:42:47,400
+Rep. Mauricio G. Domogan: be passed.
+
+536
+00:42:47,400 --> 00:42:55,628
+Rep. Mauricio G. Domogan: Because I am confident that this can be a good weapon against this ghost project
+
+537
+00:42:58,440 --> 00:43:00,269
+Rep. Mauricio G. Domogan: happening in our country today.
+
+538
+00:43:07,520 --> 00:43:10,520
+Rep. Mauricio G. Domogan: Next.
+
+539
+00:43:10,520 --> 00:43:13,020
+Rep. Mauricio G. Domogan: The complaints that have been filed with your good office,
+
+540
+00:43:13,020 --> 00:43:15,440
+Rep. Mauricio G. Domogan: Apo, Ombudsman,
+
+541
+00:43:15,440 --> 00:43:17,040
+Rep. Mauricio G. Domogan: how long it will take?
+
+542
+00:43:17,040 --> 00:43:22,679
+Rep. Mauricio G. Domogan: Because usually, there's a period for the conduct of the preliminary investigation,
+
+543
+00:43:23,160 --> 00:43:23,880
+Rep. Mauricio G. Domogan: everything.
+
+544
+00:43:23,880 --> 00:43:26,881
+Rep. Mauricio G. Domogan: How long it will take to be processed?
+
+545
+00:43:28,960 --> 00:43:34,087
+Ombudsman Jesus Crispin C. Remulla: Sir, the first stage that we undertake here is fact-finding.
+
+546
+00:43:35,920 --> 00:43:38,960
+Rep. Mauricio G. Domogan: And how many days of fact-finding? Thirty days? Sixty days?
+
+547
+00:43:38,960 --> 00:43:42,359
+Ombudsman Jesus Crispin C. Remulla: Which is 30 days for non-complex cases,
+
+548
+00:43:42,359 --> 00:43:45,440
+Ombudsman Jesus Crispin C. Remulla: and 60 days for more complex cases.
+
+549
+00:43:45,440 --> 00:43:47,671
+Ombudsman Jesus Crispin C. Remulla: And then we have preliminary investigation,
+
+550
+00:43:48,000 --> 00:43:50,400
+Ombudsman Jesus Crispin C. Remulla: which is another 60 days.
+
+551
+00:43:50,400 --> 00:43:52,400
+Ombudsman Jesus Crispin C. Remulla: 30 to 60 days, Your Honor.
+
+552
+00:43:52,400 --> 00:43:54,119
+Ombudsman Jesus Crispin C. Remulla: 60 days maximum.
+
+553
+00:43:54,119 --> 00:43:59,146
+Ombudsman Jesus Crispin C. Remulla: So, right now, we already put in tighter deadlines to do our work.
+
+554
+00:43:59,480 --> 00:44:04,520
+Ombudsman Jesus Crispin C. Remulla: And we just hired 60 more lawyers, Your Honor.
+
+555
+00:44:04,520 --> 00:44:07,800
+Ombudsman Jesus Crispin C. Remulla: This year, we've hired 60 lawyers,
+
+556
+00:44:07,800 --> 00:44:11,040
+Ombudsman Jesus Crispin C. Remulla: and we will be hiring 40 more for the year,
+
+557
+00:44:11,040 --> 00:44:12,920
+Ombudsman Jesus Crispin C. Remulla: for a total of 100 lawyers,
+
+558
+00:44:12,920 --> 00:44:16,319
+Ombudsman Jesus Crispin C. Remulla: to help us meet that kind of deadline,
+
+559
+00:44:16,319 --> 00:44:19,079
+Ombudsman Jesus Crispin C. Remulla: because it can be very stringent on those
+
+560
+00:44:19,079 --> 00:44:20,932
+Ombudsman Jesus Crispin C. Remulla: conducting the investigations, Your Honor.
+
+561
+00:44:22,720 --> 00:44:24,400
+Rep. Mauricio G. Domogan: Thank you, Apo, Ombudsman.
+
+562
+00:44:24,400 --> 00:44:27,850
+Rep. Mauricio G. Domogan: Well, I brought this up because I know of some cases
+
+563
+00:44:28,920 --> 00:44:30,432
+Rep. Mauricio G. Domogan: which are still pending there,
+
+564
+00:44:30,960 --> 00:44:32,035
+Rep. Mauricio G. Domogan: that had been filed
+
+565
+00:44:32,500 --> 00:44:34,500
+Rep. Mauricio G. Domogan: some time
+
+566
+00:44:34,500 --> 00:44:37,280
+Rep. Mauricio G. Domogan: ago.
+
+567
+00:44:37,280 --> 00:44:37,756
+Rep. Mauricio G. Domogan: Anyway,
+
+568
+00:44:38,400 --> 00:44:39,612
+Rep. Mauricio G. Domogan: we totally support,
+
+569
+00:44:40,559 --> 00:44:41,232
+Rep. Mauricio G. Domogan: as we said,
+
+570
+00:44:41,960 --> 00:44:44,540
+Rep. Mauricio G. Domogan: your budget, including the proposed amendment.
+
+571
+00:44:45,160 --> 00:44:45,535
+Rep. Mauricio G. Domogan: So,
+
+572
+00:44:46,880 --> 00:44:47,459
+Rep. Mauricio G. Domogan: and,
+
+573
+00:44:48,640 --> 00:44:49,282
+Rep. Mauricio G. Domogan: we commend
+
+574
+00:44:50,040 --> 00:44:52,943
+Rep. Mauricio G. Domogan: the tenacity of our present Ombudsman
+
+575
+00:44:53,319 --> 00:44:54,108
+Rep. Mauricio G. Domogan: to really
+
+576
+00:44:54,800 --> 00:44:56,048
+Rep. Mauricio G. Domogan: go after those
+
+577
+00:44:56,960 --> 00:44:58,280
+Rep. Mauricio G. Domogan: involved.
+
+578
+00:44:58,280 --> 00:45:02,480
+Rep. Mauricio G. Domogan: in anomalies within your jurisdiction.
+
+579
+00:45:02,480 --> 00:45:04,480
+Rep. Mauricio G. Domogan: Thank you, Apo Ombudsman and the family.
+
+580
+00:45:04,480 --> 00:45:06,119
+Rep. Mauricio G. Domogan: Thank you, Apo Chairman.
+
+581
+00:45:06,119 --> 00:45:07,390
+Rep. Rufus B. Rodriguez: Thank you, Your Honor.
+
+582
+00:45:07,400 --> 00:45:09,110
+Rep. Rufus B. Rodriguez: Thank you, Congressman Domogan.
+
+583
+00:45:09,640 --> 00:45:10,831
+Rep. Rufus B. Rodriguez: Next in the list.
+
+584
+00:45:11,920 --> 00:45:14,425
+Rep. Rufus B. Rodriguez: Before that, let me just recognize
+
+585
+00:45:14,920 --> 00:45:16,535
+Rep. Rufus B. Rodriguez: Congressman Edgar Erice.
+
+586
+00:45:17,359 --> 00:45:18,307
+Rep. Rufus B. Rodriguez: Thank you for coming.
+
+587
+00:45:19,000 --> 00:45:20,109
+Rep. Rufus B. Rodriguez: Who else?
+
+588
+00:45:20,119 --> 00:45:20,399
+Rep. Rufus B. Rodriguez: Bago lang.
+
+589
+00:45:22,160 --> 00:45:22,508
+Rep. Rufus B. Rodriguez: Okay na.
+
+590
+00:45:23,480 --> 00:45:25,225
+Rep. Rufus B. Rodriguez: So we will now go to
+
+591
+00:45:25,640 --> 00:45:27,368
+Rep. Rufus B. Rodriguez: the next interpellator.
+
+592
+00:45:27,920 --> 00:45:32,768
+Rep. Rufus B. Rodriguez: We have, yeah, from the majority-minority,
+
+593
+00:45:33,400 --> 00:45:35,401
+Rep. Rufus B. Rodriguez: Representative Chel Diokno.
+
+594
+00:45:37,440 --> 00:45:38,990
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you, Chair Rufus.
+
+595
+00:45:39,000 --> 00:45:41,069
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Magandang umaga po, Ombudsman Remulla
+
+596
+00:45:41,079 --> 00:45:43,349
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: at sa lahat ng taga-Ombudsman.
+
+597
+00:45:43,359 --> 00:45:45,155
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: At sa mga kasamahan din po natin.
+
+598
+00:45:45,839 --> 00:45:48,270
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I totally agree with your statement earlier
+
+599
+00:45:48,280 --> 00:45:50,470
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that the people deserve the best,
+
+600
+00:45:50,480 --> 00:45:52,445
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: especially when it comes to anti-corruption.
+
+601
+00:45:53,760 --> 00:45:55,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: And I know that the Office of the Ombudsman
+
+602
+00:45:55,839 --> 00:45:58,150
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: is just one of several agencies
+
+603
+00:45:58,160 --> 00:45:59,470
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that is,
+
+604
+00:45:59,480 --> 00:46:01,030
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: really, dapat nakatutok
+
+605
+00:46:01,040 --> 00:46:03,790
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: pagdating sa isyong ito.
+
+606
+00:46:03,800 --> 00:46:05,309
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I'd like to share something
+
+607
+00:46:05,319 --> 00:46:06,470
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: with the Ombudsman
+
+608
+00:46:06,480 --> 00:46:09,109
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that perhaps you're not aware of.
+
+609
+00:46:09,119 --> 00:46:10,549
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: About 20 years ago,
+
+610
+00:46:10,559 --> 00:46:13,083
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I was provided with a copy of a study
+
+611
+00:46:13,720 --> 00:46:15,790
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that was submitted to your office
+
+612
+00:46:15,800 --> 00:46:17,309
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: which showed that
+
+613
+00:46:17,319 --> 00:46:20,069
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: out of 110 persons
+
+614
+00:46:20,079 --> 00:46:23,073
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: convicted of graft and corruption offenses,
+
+615
+00:46:24,359 --> 00:46:24,910
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: sasampu lang po
+
+616
+00:46:24,920 --> 00:46:26,667
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: ang actually nakakulong.
+
+617
+00:46:27,400 --> 00:46:28,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: These refer to convictions
+
+618
+00:46:28,839 --> 00:46:28,990
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: already,
+
+619
+00:46:29,000 --> 00:46:30,886
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: already by final judgment.
+
+620
+00:46:31,280 --> 00:46:32,630
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: And one of the recommendations
+
+621
+00:46:32,640 --> 00:46:33,750
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: of that study,
+
+622
+00:46:33,760 --> 00:46:35,030
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I can provide you with a copy.
+
+623
+00:46:35,040 --> 00:46:36,269
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I still have a copy, sir.
+
+624
+00:46:36,839 --> 00:46:38,530
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Is that the government
+
+625
+00:46:39,240 --> 00:46:42,040
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: create a centralized system
+
+626
+00:46:42,480 --> 00:46:45,549
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: for ensuring that those convicted,
+
+627
+00:46:45,559 --> 00:46:48,390
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: especially those who appeal their convictions,
+
+628
+00:46:48,400 --> 00:46:50,990
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: actually serve their sentences.
+
+629
+00:46:51,000 --> 00:46:51,950
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: As I understand it,
+
+630
+00:46:51,960 --> 00:46:52,510
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: as of now,
+
+631
+00:46:52,520 --> 00:46:56,230
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: there is no such system in place.
+
+632
+00:46:56,240 --> 00:46:58,169
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: What may I know your stand,
+
+633
+00:46:58,179 --> 00:46:59,030
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Ombudsman Remulla,
+
+634
+00:46:59,040 --> 00:47:00,790
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: on this and what can we do
+
+635
+00:47:00,800 --> 00:47:02,910
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: to move forward with this proposal
+
+636
+00:47:02,920 --> 00:47:04,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that has already been on the table
+
+637
+00:47:04,839 --> 00:47:06,560
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: for more than 20 years?
+
+638
+00:47:09,480 --> 00:47:10,150
+Ombudsman Jesus Crispin C. Remulla: Your Honor,
+
+639
+00:47:10,160 --> 00:47:11,750
+Ombudsman Jesus Crispin C. Remulla: our legal system is one
+
+640
+00:47:11,760 --> 00:47:13,430
+Ombudsman Jesus Crispin C. Remulla: which is not very clear
+
+641
+00:47:13,440 --> 00:47:15,309
+Ombudsman Jesus Crispin C. Remulla: when it comes to people
+
+642
+00:47:15,319 --> 00:47:17,230
+Ombudsman Jesus Crispin C. Remulla: who have been sentenced
+
+643
+00:47:17,240 --> 00:47:19,170
+Ombudsman Jesus Crispin C. Remulla: by the Anti-Graft Court
+
+644
+00:47:19,180 --> 00:47:20,212
+Ombudsman Jesus Crispin C. Remulla: or by any lower court.
+
+645
+00:47:21,400 --> 00:47:21,578
+Ombudsman Jesus Crispin C. Remulla: Usually,
+
+646
+00:47:23,060 --> 00:47:24,700
+Ombudsman Jesus Crispin C. Remulla: people are still allowed to post bail
+
+647
+00:47:25,240 --> 00:47:26,590
+Ombudsman Jesus Crispin C. Remulla: after they've been sentenced.
+
+648
+00:47:28,160 --> 00:47:29,390
+Ombudsman Jesus Crispin C. Remulla: But I think there are
+
+649
+00:47:29,400 --> 00:47:32,150
+Ombudsman Jesus Crispin C. Remulla: this has to be
+
+650
+00:47:32,160 --> 00:47:32,902
+Ombudsman Jesus Crispin C. Remulla: redefined in our times.
+
+651
+00:47:34,440 --> 00:47:36,158
+Ombudsman Jesus Crispin C. Remulla: We have to make people face the music
+
+652
+00:47:36,640 --> 00:47:37,762
+Ombudsman Jesus Crispin C. Remulla: that once convicted,
+
+653
+00:47:38,880 --> 00:47:40,208
+Ombudsman Jesus Crispin C. Remulla: you serve your sentence immediately
+
+654
+00:47:42,040 --> 00:47:44,670
+Ombudsman Jesus Crispin C. Remulla: and only the appeal can stop
+
+655
+00:47:44,680 --> 00:47:45,950
+Ombudsman Jesus Crispin C. Remulla: the service of your sentence.
+
+656
+00:47:45,960 --> 00:47:46,537
+Ombudsman Jesus Crispin C. Remulla: Let's say,
+
+657
+00:47:48,599 --> 00:47:50,671
+Ombudsman Jesus Crispin C. Remulla: one is sentenced by original trial court
+
+658
+00:47:51,599 --> 00:47:53,589
+Ombudsman Jesus Crispin C. Remulla: for homicide,
+
+659
+00:47:53,599 --> 00:47:54,974
+Ombudsman Jesus Crispin C. Remulla: which is a bailable offense.
+
+660
+00:47:56,200 --> 00:47:57,390
+Ombudsman Jesus Crispin C. Remulla: The presumption is the court
+
+661
+00:47:57,400 --> 00:47:58,619
+Ombudsman Jesus Crispin C. Remulla: already did the right thing.
+
+662
+00:47:59,359 --> 00:48:00,273
+Ombudsman Jesus Crispin C. Remulla: But because,
+
+663
+00:48:00,599 --> 00:48:02,069
+Ombudsman Jesus Crispin C. Remulla: we allow them to post bail
+
+664
+00:48:02,079 --> 00:48:03,390
+Ombudsman Jesus Crispin C. Remulla: after conviction
+
+665
+00:48:03,400 --> 00:48:04,778
+Ombudsman Jesus Crispin C. Remulla: in the appellate process,
+
+666
+00:48:05,680 --> 00:48:07,670
+Ombudsman Jesus Crispin C. Remulla: there is no time determined.
+
+667
+00:48:07,680 --> 00:48:09,349
+Ombudsman Jesus Crispin C. Remulla: There's no time for this
+
+668
+00:48:09,359 --> 00:48:10,263
+Ombudsman Jesus Crispin C. Remulla: to mature into
+
+669
+00:48:12,880 --> 00:48:14,150
+Ombudsman Jesus Crispin C. Remulla: something that has to be served
+
+670
+00:48:14,160 --> 00:48:15,899
+Ombudsman Jesus Crispin C. Remulla: by the person sentenced.
+
+671
+00:48:16,200 --> 00:48:17,190
+Ombudsman Jesus Crispin C. Remulla: So, the appellate process
+
+672
+00:48:17,200 --> 00:48:19,109
+Ombudsman Jesus Crispin C. Remulla: is very defective, Your Honor.
+
+673
+00:48:19,119 --> 00:48:19,829
+Ombudsman Jesus Crispin C. Remulla: There is no time,
+
+674
+00:48:19,839 --> 00:48:20,710
+Ombudsman Jesus Crispin C. Remulla: there's no timetable
+
+675
+00:48:20,720 --> 00:48:22,230
+Ombudsman Jesus Crispin C. Remulla: for the appellate process.
+
+676
+00:48:22,240 --> 00:48:23,932
+Ombudsman Jesus Crispin C. Remulla: You go to the Court of Appeals
+
+677
+00:48:24,319 --> 00:48:25,390
+Ombudsman Jesus Crispin C. Remulla: and then the Supreme Court,
+
+678
+00:48:25,400 --> 00:48:26,699
+Ombudsman Jesus Crispin C. Remulla: then we don't know what will happen.
+
+679
+00:48:27,400 --> 00:48:29,602
+Ombudsman Jesus Crispin C. Remulla: So, are we going to allow
+
+680
+00:48:30,079 --> 00:48:30,990
+Ombudsman Jesus Crispin C. Remulla: people to post bail
+
+681
+00:48:31,000 --> 00:48:32,069
+Ombudsman Jesus Crispin C. Remulla: after they've been convicted
+
+682
+00:48:32,079 --> 00:48:33,150
+Ombudsman Jesus Crispin C. Remulla: or are we going to let them
+
+683
+00:48:33,160 --> 00:48:34,430
+Ombudsman Jesus Crispin C. Remulla: serve their sentence?
+
+684
+00:48:34,440 --> 00:48:36,870
+Ombudsman Jesus Crispin C. Remulla: I think that's the critical thing
+
+685
+00:48:36,880 --> 00:48:38,069
+Ombudsman Jesus Crispin C. Remulla: that there's an elephant in the room
+
+686
+00:48:38,079 --> 00:48:40,270
+Ombudsman Jesus Crispin C. Remulla: that we have to ask
+
+687
+00:48:40,280 --> 00:48:42,190
+Ombudsman Jesus Crispin C. Remulla: the Supreme Court about
+
+688
+00:48:42,200 --> 00:48:45,390
+Ombudsman Jesus Crispin C. Remulla: because it's wasting
+
+689
+00:48:45,400 --> 00:48:46,730
+Ombudsman Jesus Crispin C. Remulla: our government resources
+
+690
+00:48:47,680 --> 00:48:49,270
+Ombudsman Jesus Crispin C. Remulla: if we do not actually implement
+
+691
+00:48:49,280 --> 00:48:50,712
+Ombudsman Jesus Crispin C. Remulla: these decisions immediately.
+
+692
+00:48:51,400 --> 00:48:52,870
+Ombudsman Jesus Crispin C. Remulla: So, the immediate implementation
+
+693
+00:48:52,880 --> 00:48:53,870
+Ombudsman Jesus Crispin C. Remulla: of decisions, I think,
+
+694
+00:48:53,880 --> 00:48:56,150
+Ombudsman Jesus Crispin C. Remulla: is one of the best ways
+
+695
+00:48:56,160 --> 00:48:59,150
+Ombudsman Jesus Crispin C. Remulla: to make sure that people
+
+696
+00:48:59,160 --> 00:48:59,390
+Ombudsman Jesus Crispin C. Remulla: will live,
+
+697
+00:48:59,400 --> 00:49:00,854
+Ombudsman Jesus Crispin C. Remulla: will not do the offense again
+
+698
+00:49:01,200 --> 00:49:02,913
+Ombudsman Jesus Crispin C. Remulla: because unless they serve sentence
+
+699
+00:49:03,839 --> 00:49:05,630
+Ombudsman Jesus Crispin C. Remulla: and they are put behind bars
+
+700
+00:49:05,640 --> 00:49:06,288
+Ombudsman Jesus Crispin C. Remulla: immediately,
+
+701
+00:49:06,920 --> 00:49:07,750
+Ombudsman Jesus Crispin C. Remulla: people will forget
+
+702
+00:49:07,760 --> 00:49:09,150
+Ombudsman Jesus Crispin C. Remulla: that they have been convicted
+
+703
+00:49:09,160 --> 00:49:10,000
+Ombudsman Jesus Crispin C. Remulla: after a while.
+
+704
+00:49:10,440 --> 00:49:12,030
+Ombudsman Jesus Crispin C. Remulla: So, it's something that we have to face
+
+705
+00:49:12,040 --> 00:49:12,937
+Ombudsman Jesus Crispin C. Remulla: as a country.
+
+706
+00:49:13,319 --> 00:49:14,190
+Ombudsman Jesus Crispin C. Remulla: Maybe we have to ask
+
+707
+00:49:14,200 --> 00:49:14,789
+Ombudsman Jesus Crispin C. Remulla: the Supreme Court
+
+708
+00:49:14,799 --> 00:49:15,907
+Ombudsman Jesus Crispin C. Remulla: the same question, Your Honor.
+
+709
+00:49:16,680 --> 00:49:17,746
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Tama po kayo, O Ombudsman.
+
+710
+00:49:18,480 --> 00:49:20,589
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: And I believe...
+
+711
+00:49:20,599 --> 00:49:21,610
+Rep. Rufus B. Rodriguez: Chel, I'd just like to
+
+712
+00:49:22,520 --> 00:49:23,829
+Rep. Rufus B. Rodriguez: also remind the Ombudsman
+
+713
+00:49:23,839 --> 00:49:25,910
+Rep. Rufus B. Rodriguez: that the presumption of innocence
+
+714
+00:49:25,920 --> 00:49:27,331
+Rep. Rufus B. Rodriguez: is in the Constitution.
+
+715
+00:49:27,920 --> 00:49:29,052
+Rep. Rufus B. Rodriguez: Even the Supreme Court
+
+716
+00:49:29,880 --> 00:49:31,145
+Rep. Rufus B. Rodriguez: will not be able
+
+717
+00:49:31,680 --> 00:49:33,136
+Rep. Rufus B. Rodriguez: to decree
+
+718
+00:49:33,680 --> 00:49:35,630
+Rep. Rufus B. Rodriguez: that upon conviction
+
+719
+00:49:35,640 --> 00:49:36,910
+Rep. Rufus B. Rodriguez: in the RTC,
+
+720
+00:49:36,920 --> 00:49:39,390
+Rep. Rufus B. Rodriguez: you go to jail.
+
+721
+00:49:39,400 --> 00:49:40,950
+Rep. Rufus B. Rodriguez: Our Constitution
+
+722
+00:49:40,960 --> 00:49:43,497
+Rep. Rufus B. Rodriguez: mentions about final judgment.
+
+723
+00:49:43,960 --> 00:49:45,623
+Rep. Rufus B. Rodriguez: So, we have the right to appeal
+
+724
+00:49:45,960 --> 00:49:48,309
+Rep. Rufus B. Rodriguez: and the worst criminal
+
+725
+00:49:48,319 --> 00:49:49,555
+Rep. Rufus B. Rodriguez: who has been convicted
+
+726
+00:49:50,119 --> 00:49:57,858
+Rep. Rufus B. Rodriguez: has the, has the, has the, has the, uh, uh, has he, has she, has
+
+727
+00:49:58,280 --> 00:50:00,589
+Rep. Rufus B. Rodriguez: the, the opportunity to always question
+
+728
+00:50:00,599 --> 00:50:02,589
+Rep. Rufus B. Rodriguez: Because of the presumption
+
+729
+00:50:02,599 --> 00:50:04,430
+Rep. Rufus B. Rodriguez: of innocence.
+
+730
+00:50:04,440 --> 00:50:07,589
+Rep. Rufus B. Rodriguez: So, we ask our dear Ombudsman
+
+731
+00:50:07,599 --> 00:50:08,670
+Rep. Rufus B. Rodriguez: to comment on that.
+
+732
+00:50:08,680 --> 00:50:10,190
+Rep. Rufus B. Rodriguez: Because the proposal
+
+733
+00:50:10,200 --> 00:50:12,750
+Rep. Rufus B. Rodriguez: for them to go directly to jail
+
+734
+00:50:12,760 --> 00:50:14,390
+Rep. Rufus B. Rodriguez: precisely contradicts
+
+735
+00:50:14,400 --> 00:50:16,470
+Rep. Rufus B. Rodriguez: the constitutional presumption
+
+736
+00:50:16,480 --> 00:50:17,770
+Rep. Rufus B. Rodriguez: of innocence.
+
+737
+00:50:18,240 --> 00:50:19,643
+Ombudsman Jesus Crispin C. Remulla: Your Honor,
+
+738
+00:50:20,280 --> 00:50:22,109
+Ombudsman Jesus Crispin C. Remulla: it is a presumption of innocence
+
+739
+00:50:22,119 --> 00:50:22,910
+Ombudsman Jesus Crispin C. Remulla: is very important.
+
+740
+00:50:22,920 --> 00:50:24,065
+Ombudsman Jesus Crispin C. Remulla: I agree with you.
+
+741
+00:50:24,720 --> 00:50:27,322
+Ombudsman Jesus Crispin C. Remulla: But when a person is convicted,
+
+742
+00:50:27,920 --> 00:50:29,510
+Ombudsman Jesus Crispin C. Remulla: we have already armed
+
+743
+00:50:29,520 --> 00:50:31,710
+Ombudsman Jesus Crispin C. Remulla: the court has already given its judgment
+
+744
+00:50:31,720 --> 00:50:34,342
+Ombudsman Jesus Crispin C. Remulla: as to the guilt or innocence of the accused.
+
+745
+00:50:34,960 --> 00:50:36,750
+Ombudsman Jesus Crispin C. Remulla: It's not even a disputable presumption.
+
+746
+00:50:36,760 --> 00:50:38,527
+Ombudsman Jesus Crispin C. Remulla: It's something that has to be put
+
+747
+00:50:38,920 --> 00:50:39,961
+Ombudsman Jesus Crispin C. Remulla: into the hands of the court.
+
+748
+00:50:40,799 --> 00:50:43,670
+Ombudsman Jesus Crispin C. Remulla: But that presumption disappears.
+
+749
+00:50:43,680 --> 00:50:46,643
+Ombudsman Jesus Crispin C. Remulla: The presumption of innocence disappears
+
+750
+00:50:47,319 --> 00:50:47,858
+Ombudsman Jesus Crispin C. Remulla: once a court
+
+751
+00:50:49,359 --> 00:50:50,153
+Ombudsman Jesus Crispin C. Remulla: armed with jurisdiction
+
+752
+00:50:51,000 --> 00:50:52,246
+Ombudsman Jesus Crispin C. Remulla: sentences a person
+
+753
+00:50:52,680 --> 00:50:53,258
+Ombudsman Jesus Crispin C. Remulla: to jail.
+
+754
+00:50:54,040 --> 00:50:55,250
+Ombudsman Jesus Crispin C. Remulla: That's what I believe, Your Honor.
+
+755
+00:50:55,599 --> 00:50:57,150
+Ombudsman Jesus Crispin C. Remulla: It becomes...
+
+756
+00:50:57,160 --> 00:50:59,150
+Ombudsman Jesus Crispin C. Remulla: It's not even a disputable
+
+757
+00:50:59,160 --> 00:50:59,990
+Ombudsman Jesus Crispin C. Remulla: presumption.
+
+758
+00:51:00,000 --> 00:51:01,549
+Ombudsman Jesus Crispin C. Remulla: The presumption of innocence
+
+759
+00:51:01,559 --> 00:51:02,950
+Ombudsman Jesus Crispin C. Remulla: is already overturned
+
+760
+00:51:02,960 --> 00:51:04,227
+Ombudsman Jesus Crispin C. Remulla: by a conviction, Your Honor.
+
+761
+00:51:05,559 --> 00:51:07,349
+Rep. Rufus B. Rodriguez: We have a difference of opinion
+
+762
+00:51:07,760 --> 00:51:08,210
+Rep. Rufus B. Rodriguez: that, yes,
+
+763
+00:51:09,839 --> 00:51:10,403
+Rep. Rufus B. Rodriguez: Congressman, please proceed.
+
+764
+00:51:11,400 --> 00:51:12,817
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you. Thank you, Mr. Chair.
+
+765
+00:51:13,559 --> 00:51:15,470
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: My question really was not
+
+766
+00:51:15,480 --> 00:51:16,910
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: directed at the issue of bail,
+
+767
+00:51:16,920 --> 00:51:18,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: although I do agree that
+
+768
+00:51:18,839 --> 00:51:20,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: the Supreme Court should revisit
+
+769
+00:51:20,839 --> 00:51:23,270
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: issues about bail pending appeal.
+
+770
+00:51:23,280 --> 00:51:25,670
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Ang tanong ko po ay ganito.
+
+771
+00:51:25,680 --> 00:51:27,270
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Assuming meron nang na-convict
+
+772
+00:51:27,280 --> 00:51:28,390
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: ng Sandigan Bayan,
+
+773
+00:51:28,400 --> 00:51:29,150
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: pinrosecute,
+
+774
+00:51:29,160 --> 00:51:30,710
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: ng ombudsman.
+
+775
+00:51:30,720 --> 00:51:33,109
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: You spend millions of pesos
+
+776
+00:51:33,119 --> 00:51:35,497
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: taking that prosecution to conviction.
+
+777
+00:51:36,000 --> 00:51:37,910
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: The accused now
+
+778
+00:51:37,920 --> 00:51:38,838
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: makes an appeal.
+
+779
+00:51:39,280 --> 00:51:41,230
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: The appeal can last anywhere
+
+780
+00:51:41,240 --> 00:51:42,910
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: from a few years to
+
+781
+00:51:42,920 --> 00:51:44,270
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: many, many years.
+
+782
+00:51:44,280 --> 00:51:47,789
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Pag bumaba yung appeal, na-affirm ang conviction,
+
+783
+00:51:47,799 --> 00:51:49,150
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: many things can happen
+
+784
+00:51:49,160 --> 00:51:50,990
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: before that person is actually
+
+785
+00:51:51,000 --> 00:51:52,789
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: apprehended and put to jail
+
+786
+00:51:52,799 --> 00:51:54,430
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: to serve his sentence.
+
+787
+00:51:54,440 --> 00:51:56,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Ang tanong ko po ay, apparently,
+
+788
+00:51:56,839 --> 00:51:58,950
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: there is no centralized system
+
+789
+00:51:58,960 --> 00:52:01,282
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that our government has to track that
+
+790
+00:52:02,040 --> 00:52:03,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: so that maraming nakakalusot
+
+791
+00:52:03,839 --> 00:52:06,230
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: na sayang lang ang ginawa natin
+
+792
+00:52:06,240 --> 00:52:08,150
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: pag-prosecute na convict,
+
+793
+00:52:08,160 --> 00:52:09,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: hindi naman pala nakulong.
+
+794
+00:52:09,839 --> 00:52:11,670
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Now, does that bother
+
+795
+00:52:11,680 --> 00:52:13,109
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: the office of the ombudsman?
+
+796
+00:52:13,119 --> 00:52:15,069
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Have you undertaken any efforts
+
+797
+00:52:15,079 --> 00:52:16,910
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: to create that system?
+
+798
+00:52:16,920 --> 00:52:20,030
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Because this has to go beyond your office.
+
+799
+00:52:20,040 --> 00:52:22,030
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Kailangan po magkakasama po diyan
+
+800
+00:52:22,040 --> 00:52:24,349
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: ang Department of Justice,
+
+801
+00:52:24,359 --> 00:52:25,630
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: ang BuCor,
+
+802
+00:52:25,640 --> 00:52:27,109
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: and other agencies so that
+
+803
+00:52:27,119 --> 00:52:29,024
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: we have that system to track.
+
+804
+00:52:29,440 --> 00:52:30,869
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: May I have your views on that,
+
+805
+00:52:30,879 --> 00:52:31,775
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Ombudsman Remulla?
+
+806
+00:52:32,240 --> 00:52:34,150
+Ombudsman Jesus Crispin C. Remulla: I agree wholeheartedly, Your Honor,
+
+807
+00:52:34,160 --> 00:52:36,710
+Ombudsman Jesus Crispin C. Remulla: that we need to track all of these convictions.
+
+808
+00:52:36,720 --> 00:52:39,048
+Ombudsman Jesus Crispin C. Remulla: In fact, in our budget presentation,
+
+809
+00:52:39,440 --> 00:52:41,390
+Ombudsman Jesus Crispin C. Remulla: we asked for funding
+
+810
+00:52:41,400 --> 00:52:42,549
+Ombudsman Jesus Crispin C. Remulla: for the creation of the office
+
+811
+00:52:42,559 --> 00:52:44,093
+Ombudsman Jesus Crispin C. Remulla: of the Ombudsman Marshal,
+
+812
+00:52:44,559 --> 00:52:46,186
+Ombudsman Jesus Crispin C. Remulla: which will be given that
+
+813
+00:52:46,760 --> 00:52:48,110
+Ombudsman Jesus Crispin C. Remulla: responsibility to track
+
+814
+00:52:48,480 --> 00:52:50,641
+Ombudsman Jesus Crispin C. Remulla: the status of all the persons
+
+815
+00:52:51,799 --> 00:52:52,829
+Ombudsman Jesus Crispin C. Remulla: in jail
+
+816
+00:52:52,839 --> 00:52:55,349
+Ombudsman Jesus Crispin C. Remulla: or sentenced to jail
+
+817
+00:52:55,359 --> 00:52:56,510
+Ombudsman Jesus Crispin C. Remulla: or accused
+
+818
+00:52:56,520 --> 00:52:58,572
+Ombudsman Jesus Crispin C. Remulla: so that we will have a complete
+
+819
+00:53:02,920 --> 00:53:03,950
+Ombudsman Jesus Crispin C. Remulla: inventory of the people
+
+820
+00:53:03,960 --> 00:53:05,549
+Ombudsman Jesus Crispin C. Remulla: who are being charged in the court,
+
+821
+00:53:05,559 --> 00:53:06,942
+Ombudsman Jesus Crispin C. Remulla: in our legal system, Your Honor.
+
+822
+00:53:07,760 --> 00:53:09,254
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you, Ombudsman.
+
+823
+00:53:09,720 --> 00:53:11,870
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I think that it's especially important now
+
+824
+00:53:11,880 --> 00:53:13,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that you have about 200
+
+825
+00:53:13,839 --> 00:53:16,230
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: flood control cases that you're probing
+
+826
+00:53:16,240 --> 00:53:18,248
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: and at least four already in court.
+
+827
+00:53:18,720 --> 00:53:19,910
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Mahirap po naman kung
+
+828
+00:53:19,920 --> 00:53:22,630
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: aabot tayo sa punto na
+
+829
+00:53:22,640 --> 00:53:24,670
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: later on, although you
+
+830
+00:53:24,680 --> 00:53:27,390
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: vigorously prosecuted and secured convictions,
+
+831
+00:53:27,400 --> 00:53:29,309
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: hindi rin naman pala makukulong
+
+832
+00:53:29,319 --> 00:53:30,990
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: yung mga dapat na kulong.
+
+833
+00:53:31,000 --> 00:53:32,870
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Because the people have really been calling
+
+834
+00:53:32,880 --> 00:53:34,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: for accountability and I think
+
+835
+00:53:34,839 --> 00:53:36,950
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that's a very important aspect of it.
+
+836
+00:53:36,960 --> 00:53:38,789
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Now, my next question, Sir,
+
+837
+00:53:38,799 --> 00:53:41,671
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: would pertain to witness protection.
+
+838
+00:53:42,280 --> 00:53:43,990
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Alam po natin na ang meron lang
+
+839
+00:53:44,000 --> 00:53:45,870
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: witness protection provided by law
+
+840
+00:53:45,880 --> 00:53:47,789
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: ang Department of Justice.
+
+841
+00:53:47,799 --> 00:53:50,230
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I was looking over the
+
+842
+00:53:50,240 --> 00:53:51,870
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: materials provided by your office.
+
+843
+00:53:51,880 --> 00:53:53,589
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I did not see any
+
+844
+00:53:53,599 --> 00:53:55,589
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: suggestion or proposal for
+
+845
+00:53:55,599 --> 00:53:57,670
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that kind of program. May I have your views
+
+846
+00:53:57,680 --> 00:53:58,276
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: on that, Sir?
+
+847
+00:53:59,200 --> 00:54:01,390
+Ombudsman Jesus Crispin C. Remulla: That's also, Your Honor,
+
+848
+00:54:01,400 --> 00:54:03,549
+Ombudsman Jesus Crispin C. Remulla: thank you for the question because
+
+849
+00:54:03,559 --> 00:54:07,510
+Ombudsman Jesus Crispin C. Remulla: that's also one of the functions of the
+
+850
+00:54:07,520 --> 00:54:08,349
+Ombudsman Jesus Crispin C. Remulla: Ombudsman Marshal that we are
+
+851
+00:54:08,359 --> 00:54:09,430
+Ombudsman Jesus Crispin C. Remulla: creating this year
+
+852
+00:54:10,000 --> 00:54:11,033
+Ombudsman Jesus Crispin C. Remulla: because
+
+853
+00:54:12,400 --> 00:54:13,390
+Ombudsman Jesus Crispin C. Remulla: there has to be a special
+
+854
+00:54:13,400 --> 00:54:15,430
+Ombudsman Jesus Crispin C. Remulla: body undertaking all of this. Even the
+
+855
+00:54:15,440 --> 00:54:18,829
+Ombudsman Jesus Crispin C. Remulla: service of
+
+856
+00:54:18,839 --> 00:54:19,789
+Ombudsman Jesus Crispin C. Remulla: subpoenas and other
+
+857
+00:54:19,799 --> 00:54:21,510
+Ombudsman Jesus Crispin C. Remulla: functions have to be done by our own
+
+858
+00:54:21,520 --> 00:54:23,630
+Ombudsman Jesus Crispin C. Remulla: people.
+
+859
+00:54:23,640 --> 00:54:25,430
+Ombudsman Jesus Crispin C. Remulla: We can always delegate it to the
+
+860
+00:54:25,440 --> 00:54:28,270
+Ombudsman Jesus Crispin C. Remulla: police, Your Honor, but we feel
+
+861
+00:54:28,280 --> 00:54:29,069
+Ombudsman Jesus Crispin C. Remulla: that we
+
+862
+00:54:29,079 --> 00:54:31,230
+Ombudsman Jesus Crispin C. Remulla: can be more effective if we have our own
+
+863
+00:54:31,240 --> 00:54:32,397
+Ombudsman Jesus Crispin C. Remulla: marshals to do it, Your Honor.
+
+864
+00:54:33,799 --> 00:54:35,349
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you and I'm very
+
+865
+00:54:35,359 --> 00:54:37,430
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: curious. I'd like to know more about
+
+866
+00:54:37,440 --> 00:54:39,230
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that marshal's concept
+
+867
+00:54:39,240 --> 00:54:41,392
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: kasi baka po makatulong din tayo dyan.
+
+868
+00:54:42,079 --> 00:54:43,030
+Ombudsman Jesus Crispin C. Remulla: Yes, Your Honor. The Supreme Court
+
+869
+00:54:43,040 --> 00:54:45,390
+Ombudsman Jesus Crispin C. Remulla: adopted its own marshals
+
+870
+00:54:45,400 --> 00:54:47,910
+Ombudsman Jesus Crispin C. Remulla: already and I think that's where we're
+
+871
+00:54:47,920 --> 00:54:49,230
+Ombudsman Jesus Crispin C. Remulla: it's not our original idea. I think
+
+872
+00:54:49,240 --> 00:54:51,061
+Ombudsman Jesus Crispin C. Remulla: we're following it from the Supreme Court, Your Honor.
+
+873
+00:54:52,200 --> 00:54:53,190
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: May tanong din po ako,
+
+874
+00:54:53,200 --> 00:54:55,109
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Chair, kay Ombudsman,
+
+875
+00:54:55,119 --> 00:54:57,109
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: kay Atty. Bonoan. Earlier, you
+
+876
+00:54:57,119 --> 00:54:58,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: mentioned conviction rates of
+
+877
+00:54:58,839 --> 00:55:01,230
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: 65%. I'm very happy
+
+878
+00:55:01,240 --> 00:55:03,069
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: to hear that the Ombudsman is
+
+879
+00:55:03,079 --> 00:55:05,430
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: using conviction rates because yesterday
+
+880
+00:55:05,440 --> 00:55:07,109
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: when the DOJ appeared before
+
+881
+00:55:07,119 --> 00:55:09,030
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: us, ang sabi nila, ang ginagamit nila
+
+882
+00:55:09,040 --> 00:55:10,750
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: ay PSR,
+
+883
+00:55:10,760 --> 00:55:12,870
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Prosecutorial Success Rate at
+
+884
+00:55:12,880 --> 00:55:15,230
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Hindi Conviction. But I don't think
+
+885
+00:55:15,240 --> 00:55:17,030
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: PSR really covers
+
+886
+00:55:17,040 --> 00:55:19,023
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: the data that we need to know
+
+887
+00:55:19,359 --> 00:55:21,029
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: especially in terms of performance
+
+888
+00:55:21,039 --> 00:55:22,415
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: of the prosecution.
+
+889
+00:55:23,640 --> 00:55:24,980
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Ang tanong ko po ay
+
+890
+00:55:26,119 --> 00:55:26,600
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: shouldn't
+
+891
+00:55:27,160 --> 00:55:28,710
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: would you agree that there should be
+
+892
+00:55:28,720 --> 00:55:30,789
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: a government-wide
+
+893
+00:55:30,799 --> 00:55:32,510
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: gauge kung halimbawa
+
+894
+00:55:32,520 --> 00:55:34,589
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: ang ginagamit ninyo ay conviction rate?
+
+895
+00:55:34,599 --> 00:55:36,168
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Shouldn't that be the same
+
+896
+00:55:36,520 --> 00:55:38,829
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: gauge that other prosecutorial
+
+897
+00:55:38,839 --> 00:55:40,285
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: agencies use?
+
+898
+00:55:42,200 --> 00:55:42,589
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Your Honor,
+
+899
+00:55:42,599 --> 00:55:44,825
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: thank you for that question. Yes, sir.
+
+900
+00:55:45,160 --> 00:55:46,549
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Um, we definitely agree with you
+
+901
+00:55:46,559 --> 00:55:48,510
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: that, uh, a singular
+
+902
+00:55:48,520 --> 00:55:50,789
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: uh, statistic government-wide for prosecutions
+
+903
+00:55:50,799 --> 00:55:53,349
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: would be, uh, beneficial.
+
+904
+00:55:53,359 --> 00:55:53,768
+Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.: Yes, sir.
+
+905
+00:55:55,039 --> 00:55:56,670
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you for that. Because I, I think
+
+906
+00:55:56,680 --> 00:55:59,190
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that that has to be uniform.
+
+907
+00:55:59,200 --> 00:56:00,710
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: If we want to make sure that we are
+
+908
+00:56:00,720 --> 00:56:02,870
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: doing our job. Just one last question
+
+909
+00:56:02,880 --> 00:56:04,737
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: for the—for Ombudsman
+
+910
+00:56:05,079 --> 00:56:05,800
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Remulla. Um,
+
+911
+00:56:06,640 --> 00:56:08,990
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: noong, um, August 27,
+
+912
+00:56:09,000 --> 00:56:11,390
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: 2025, nabanggit ni Pangulo
+
+913
+00:56:11,400 --> 00:56:12,750
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: na dapat ibalik
+
+914
+00:56:12,760 --> 00:56:14,789
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: yung practice of conducting lifestyle
+
+915
+00:56:14,799 --> 00:56:16,950
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: checks. May I know what progress
+
+916
+00:56:16,960 --> 00:56:18,990
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: the Ombudsman has made in reviving
+
+917
+00:56:19,000 --> 00:56:21,349
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: this very important
+
+918
+00:56:21,359 --> 00:56:22,827
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: procedure? Thank you, sir.
+
+919
+00:56:23,400 --> 00:56:24,630
+Ombudsman Jesus Crispin C. Remulla: We're doing this right now,
+
+920
+00:56:24,640 --> 00:56:26,810
+Ombudsman Jesus Crispin C. Remulla: Your Honor. We have
+
+921
+00:56:28,000 --> 00:56:28,710
+Ombudsman Jesus Crispin C. Remulla: 107
+
+922
+00:56:28,720 --> 00:56:30,549
+Ombudsman Jesus Crispin C. Remulla: lifestyle checks being conducted
+
+923
+00:56:30,559 --> 00:56:32,710
+Ombudsman Jesus Crispin C. Remulla: as we speak. And we are
+
+924
+00:56:32,720 --> 00:56:34,750
+Ombudsman Jesus Crispin C. Remulla: adding more to the list because we have
+
+925
+00:56:34,760 --> 00:56:36,445
+Ombudsman Jesus Crispin C. Remulla: been actively pursuing
+
+926
+00:56:37,960 --> 00:56:39,029
+Ombudsman Jesus Crispin C. Remulla: information
+
+927
+00:56:39,039 --> 00:56:40,950
+Ombudsman Jesus Crispin C. Remulla: on the people in
+
+928
+00:56:40,960 --> 00:56:43,094
+Ombudsman Jesus Crispin C. Remulla: Customs, in LTO,
+
+929
+00:56:44,119 --> 00:56:45,018
+Ombudsman Jesus Crispin C. Remulla: and other
+
+930
+00:56:46,960 --> 00:56:48,870
+Ombudsman Jesus Crispin C. Remulla: income-generating agencies of the government
+
+931
+00:56:48,880 --> 00:56:50,670
+Ombudsman Jesus Crispin C. Remulla: because this is where most
+
+932
+00:56:50,680 --> 00:56:52,990
+Ombudsman Jesus Crispin C. Remulla: of the lifestyle
+
+933
+00:56:53,000 --> 00:56:54,670
+Ombudsman Jesus Crispin C. Remulla: sins happen,
+
+934
+00:56:54,680 --> 00:56:55,970
+Ombudsman Jesus Crispin C. Remulla: including the BIR, Your Honor.
+
+935
+00:56:57,160 --> 00:56:58,589
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you for that, Mr.
+
+936
+00:56:58,599 --> 00:57:00,470
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Chair. I have no more questions. Just a final
+
+937
+00:57:00,480 --> 00:57:02,589
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: comment that I'm very happy to hear
+
+938
+00:57:02,599 --> 00:57:04,710
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that you have been conducting lifestyle
+
+939
+00:57:04,720 --> 00:57:06,349
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: checks. Kasi malamang kung
+
+940
+00:57:06,359 --> 00:57:09,630
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: nasagawa po sana natin yan noon
+
+941
+00:57:09,640 --> 00:57:10,710
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: yung nangyari kay halimbawa
+
+942
+00:57:10,720 --> 00:57:12,750
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: kay Usec. Bernardo who had to return
+
+943
+00:57:12,760 --> 00:57:14,670
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: 500 million. I'm sure
+
+944
+00:57:14,680 --> 00:57:16,810
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: a lifestyle check would have already
+
+945
+00:57:17,400 --> 00:57:18,670
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: shown us that there
+
+946
+00:57:18,680 --> 00:57:20,950
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: are issues insofar as
+
+947
+00:57:20,960 --> 00:57:22,670
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: his governance are concerned.
+
+948
+00:57:22,680 --> 00:57:23,746
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you, Mr. Chair.
+
+949
+00:57:24,860 --> 00:57:27,390
+Rep. Rufus B. Rodriguez: Thank you, Representative Chel Diokno.
+
+950
+00:57:27,520 --> 00:57:28,845
+Rep. Rufus B. Rodriguez: Let me just state that, uh,
+
+951
+00:57:29,280 --> 00:57:31,160
+Rep. Rufus B. Rodriguez: this representation
+
+952
+00:57:31,160 --> 00:57:33,039
+Rep. Rufus B. Rodriguez: supports the marshals
+
+953
+00:57:33,039 --> 00:57:34,760
+Rep. Rufus B. Rodriguez: to be created for
+
+954
+00:57:34,760 --> 00:57:36,760
+Rep. Rufus B. Rodriguez: the ombudsman. First,
+
+955
+00:57:36,760 --> 00:57:39,200
+Rep. Rufus B. Rodriguez: to protect the ombudsman. Secondly,
+
+956
+00:57:39,200 --> 00:57:40,799
+Rep. Rufus B. Rodriguez: for the processes to be given
+
+957
+00:57:40,799 --> 00:57:42,839
+Rep. Rufus B. Rodriguez: fast. And third, to make
+
+958
+00:57:42,839 --> 00:57:45,000
+Rep. Rufus B. Rodriguez: sure that those convicted by final
+
+959
+00:57:45,000 --> 00:57:46,839
+Rep. Rufus B. Rodriguez: judgment are also put
+
+960
+00:57:46,839 --> 00:57:48,799
+Rep. Rufus B. Rodriguez: to jail. Because after all,
+
+961
+00:57:48,799 --> 00:57:50,930
+Rep. Rufus B. Rodriguez: these are cases coming from the ombudsman.
+
+962
+00:57:51,119 --> 00:57:52,559
+Rep. Rufus B. Rodriguez: So we have a conference with
+
+963
+00:57:52,559 --> 00:57:55,000
+Rep. Rufus B. Rodriguez: uh, our Assistant Ombudsman
+
+964
+00:57:55,000 --> 00:57:56,289
+Rep. Rufus B. Rodriguez: Luigi here, and, uh,
+
+965
+00:57:56,960 --> 00:57:57,809
+Rep. Rufus B. Rodriguez: I was the author
+
+966
+00:57:58,520 --> 00:58:00,559
+Rep. Rufus B. Rodriguez: of the, uh, marshal,
+
+967
+00:58:00,559 --> 00:58:02,480
+Rep. Rufus B. Rodriguez: uh, the creation of marshals
+
+968
+00:58:02,480 --> 00:58:05,079
+Rep. Rufus B. Rodriguez: in the Supreme Court. So we are ready
+
+969
+00:58:05,079 --> 00:58:06,839
+Rep. Rufus B. Rodriguez: to be able to heed your
+
+970
+00:58:06,839 --> 00:58:08,880
+Rep. Rufus B. Rodriguez: call to be able to support
+
+971
+00:58:08,880 --> 00:58:10,640
+Rep. Rufus B. Rodriguez: that. And I hope other members will
+
+972
+00:58:10,640 --> 00:58:14,438
+Rep. Rufus B. Rodriguez: support. We have to give the
+
+973
+00:58:14,760 --> 00:58:15,640
+Rep. Rufus B. Rodriguez: ombudsman the marshals
+
+974
+00:58:15,640 --> 00:58:17,039
+Rep. Rufus B. Rodriguez: that are needed. Thank you. So next
+
+975
+00:58:17,039 --> 00:58:18,799
+Rep. Rufus B. Rodriguez: in the list will now
+
+976
+00:58:18,799 --> 00:58:20,839
+Rep. Rufus B. Rodriguez: come from the majority.
+
+977
+00:58:20,839 --> 00:58:23,252
+Rep. Rufus B. Rodriguez: So I call on Ma. Isabel
+
+978
+00:58:23,415 --> 00:58:24,246
+Rep. Rufus B. Rodriguez: Sagarbarria.
+
+979
+00:58:25,599 --> 00:58:26,650
+Rep. Rufus B. Rodriguez: Ikaw na karon mosulti,
+
+980
+00:58:26,650 --> 00:58:27,031
+Rep. Rufus B. Rodriguez: Misa.
+
+981
+00:58:30,319 --> 00:58:33,200
+Rep. Ma. Isabel L. Sagarbarria: Salamat, Mr. Chair. Maayong hapon
+
+982
+00:58:33,200 --> 00:58:35,359
+Rep. Ma. Isabel L. Sagarbarria: sa tanan. Actually,
+
+983
+00:58:35,359 --> 00:58:38,270
+Rep. Ma. Isabel L. Sagarbarria: Mr. Chair, this is not an interpolation,
+
+984
+00:58:38,280 --> 00:58:39,400
+Rep. Ma. Isabel L. Sagarbarria: but rather a message
+
+985
+00:58:39,400 --> 00:58:42,200
+Rep. Ma. Isabel L. Sagarbarria: of support to the ombudsman family.
+
+986
+00:58:42,200 --> 00:58:43,240
+Rep. Ma. Isabel L. Sagarbarria: I would like to express
+
+987
+00:58:43,240 --> 00:58:45,240
+Rep. Ma. Isabel L. Sagarbarria: my support for the proposed budget of
+
+988
+00:58:45,240 --> 00:58:46,371
+Rep. Ma. Isabel L. Sagarbarria: the office of the ombudsman.
+
+989
+00:58:47,440 --> 00:58:49,359
+Rep. Ma. Isabel L. Sagarbarria: We recognize its vital role
+
+990
+00:58:49,359 --> 00:58:51,319
+Rep. Ma. Isabel L. Sagarbarria: in promoting accountability,
+
+991
+00:58:51,319 --> 00:58:54,160
+Rep. Ma. Isabel L. Sagarbarria: transparency, and good governance.
+
+992
+00:58:54,160 --> 00:58:55,400
+Rep. Ma. Isabel L. Sagarbarria: We value the integrity
+
+993
+00:58:55,400 --> 00:58:57,599
+Rep. Ma. Isabel L. Sagarbarria: and independence with the office
+
+994
+00:58:57,599 --> 00:58:59,280
+Rep. Ma. Isabel L. Sagarbarria: which the office carries out
+
+995
+00:58:59,280 --> 00:59:01,910
+Rep. Ma. Isabel L. Sagarbarria: its constitutional mandate.
+
+996
+00:59:01,920 --> 00:59:02,960
+Rep. Ma. Isabel L. Sagarbarria: As Vice Chairperson
+
+997
+00:59:02,960 --> 00:59:05,039
+Rep. Ma. Isabel L. Sagarbarria: of the Committee on Appropriations,
+
+998
+00:59:05,039 --> 00:59:07,079
+Rep. Ma. Isabel L. Sagarbarria: I believe that providing adequate
+
+999
+00:59:07,079 --> 00:59:08,920
+Rep. Ma. Isabel L. Sagarbarria: resources to the ombudsman is
+
+1000
+00:59:08,920 --> 00:59:11,200
+Rep. Ma. Isabel L. Sagarbarria: an investment in strengthening
+
+1001
+00:59:11,200 --> 00:59:13,039
+Rep. Ma. Isabel L. Sagarbarria: our institutions
+
+1002
+00:59:13,039 --> 00:59:15,710
+Rep. Ma. Isabel L. Sagarbarria: and restoring public trust.
+
+1003
+00:59:15,720 --> 00:59:17,160
+Rep. Ma. Isabel L. Sagarbarria: We fully support a budget
+
+1004
+00:59:17,160 --> 00:59:19,039
+Rep. Ma. Isabel L. Sagarbarria: that will enable the office to
+
+1005
+00:59:19,039 --> 00:59:21,599
+Rep. Ma. Isabel L. Sagarbarria: continue upholding integrity
+
+1006
+00:59:21,599 --> 00:59:23,359
+Rep. Ma. Isabel L. Sagarbarria: and ensuring accountability
+
+1007
+00:59:23,359 --> 00:59:24,760
+Rep. Ma. Isabel L. Sagarbarria: in public service.
+
+1008
+00:59:24,760 --> 00:59:26,883
+Rep. Ma. Isabel L. Sagarbarria: Thank you so much, Mr. Chair. [unclear]
+
+1009
+00:59:27,440 --> 00:59:28,165
+Rep. Rufus B. Rodriguez: Thank you, Your Honor.
+
+1010
+00:59:28,680 --> 00:59:29,630
+Rep. Rufus B. Rodriguez: Thank you very much.
+
+1011
+00:59:29,640 --> 00:59:31,029
+Rep. Rufus B. Rodriguez: That is
+
+1012
+00:59:31,039 --> 00:59:32,468
+Rep. Rufus B. Rodriguez: an expression of support.
+
+1013
+00:59:33,520 --> 00:59:35,236
+Rep. Rufus B. Rodriguez: Let us give a hand to
+
+1014
+00:59:36,280 --> 00:59:38,932
+Rep. Rufus B. Rodriguez: to Ma. Isabel Sagarbarria.
+
+1015
+00:59:40,799 --> 00:59:41,390
+Rep. Rufus B. Rodriguez: Thank you.
+
+1016
+00:59:41,400 --> 00:59:42,273
+Rep. Rufus B. Rodriguez: So next,
+
+1017
+00:59:42,640 --> 00:59:44,270
+Rep. Rufus B. Rodriguez: we will go to the next
+
+1018
+00:59:44,280 --> 00:59:45,462
+Rep. Rufus B. Rodriguez: interpellator.
+
+1019
+00:59:46,440 --> 00:59:48,470
+Rep. Rufus B. Rodriguez: And we certainly would like
+
+1020
+00:59:48,480 --> 00:59:50,963
+Rep. Rufus B. Rodriguez: to have from the minority
+
+1021
+00:59:52,280 --> 00:59:53,510
+Rep. Rufus B. Rodriguez: our assistant,
+
+1022
+00:59:53,520 --> 00:59:54,029
+Rep. Rufus B. Rodriguez: our Deputy
+
+1023
+00:59:54,039 --> 00:59:58,557
+Rep. Rufus B. Rodriguez: our Deputy Minority Leader, Antonio Tinio. The floor is yours.
+
+1024
+01:00:02,359 --> 01:00:03,687
+Rep. Antonio L. Tinio: Thank you, Mr. Chair.
+
+1025
+01:00:04,599 --> 01:00:12,327
+Rep. Antonio L. Tinio: Mr. Chair, napakahalaga po ng Office of the Ombudsman, lalo pa at of course,
+
+1026
+01:00:14,280 --> 01:00:24,123
+Rep. Antonio L. Tinio: you know, hinaharap pa rin ng bansa ang isa sa mga pinakamalaking corruption scandal sa kasaysayan.
+
+1027
+01:00:24,760 --> 01:00:26,840
+Rep. Antonio L. Tinio: Of course, ang tinutukoy ko yung flood control.
+
+1028
+01:00:27,599 --> 01:00:37,589
+Rep. Antonio L. Tinio: At ngayon, ang Office of the Ombudsman na lang ang tanging opisina na nagtutuloy pa ng investigasyon at pagkaso sa mga sangkot.
+
+1029
+01:00:39,079 --> 01:00:42,483
+Rep. Antonio L. Tinio: Yung House, matagal nang hindi nag-investigate.
+
+1030
+01:00:43,039 --> 01:00:45,757
+Rep. Antonio L. Tinio: Yung Blue Ribbon Committee, tumigil na.
+
+1031
+01:00:46,280 --> 01:00:47,933
+Rep. Antonio L. Tinio: Yung ICI is defunct.
+
+1032
+01:00:48,359 --> 01:00:49,756
+Rep. Antonio L. Tinio: So, Ombudsman na lang talaga.
+
+1033
+01:00:50,760 --> 01:00:56,829
+Rep. Antonio L. Tinio: Okay, at kayo ang inaasahan ngayon na mag-deliver doon sa panawagan na lahat ng
+
+1034
+01:00:56,839 --> 01:00:58,042
+Rep. Antonio L. Tinio: lahat ng sangkot dapat managot.
+
+1035
+01:00:58,640 --> 01:01:05,950
+Rep. Antonio L. Tinio: At esensyal dun sa slogan na yun, popular slogan na yun, yung kailangan maging fair.
+
+1036
+01:01:05,960 --> 01:01:10,681
+Rep. Antonio L. Tinio: Ibig sabihin, patas walang kinikilingan, lahat ng sangkot dapat managot.
+
+1037
+01:01:17,480 --> 01:01:21,177
+Rep. Antonio L. Tinio: Ngayon, ang tanong po natin ay,
+
+1038
+01:01:23,760 --> 01:01:31,150
+Rep. Antonio L. Tinio: Kumusta po ang investigasyon, particular kaugnay sa involvement ng mga...
+
+1039
+01:01:31,160 --> 01:01:34,711
+Rep. Antonio L. Tinio: officials ng Malacañang mismo, no,
+
+1040
+01:01:36,119 --> 01:01:40,069
+Rep. Antonio L. Tinio: Kaugnay na na-involve sa flood control.
+
+1041
+01:01:40,079 --> 01:01:41,866
+Rep. Antonio L. Tinio: Or at least na merong mga...
+
+1042
+01:01:44,559 --> 01:01:48,312
+Rep. Antonio L. Tinio: statement at testimonya na nagsasabing involved sila.
+
+1043
+01:01:49,079 --> 01:01:53,932
+Rep. Antonio L. Tinio: So, I am talking about the public statements made by Zaldy Co, for one.
+
+1044
+01:01:56,960 --> 01:02:00,789
+Rep. Antonio L. Tinio: And also, Usec. Bernardo.
+
+1045
+01:02:00,799 --> 01:02:08,697
+Rep. Antonio L. Tinio: of DPWH, as relayed by Sen. Ping Lacson in the official records of the Senate.
+
+1046
+01:02:09,559 --> 01:02:15,818
+Rep. Antonio L. Tinio: So, of course, yung video testimony ni Zaldy Co, malamang napanood ng marami yan.
+
+1047
+01:02:16,440 --> 01:02:18,704
+Rep. Antonio L. Tinio: Binanggit niya na...
+
+1048
+01:02:20,960 --> 01:02:22,315
+Rep. Antonio L. Tinio: Ilang opisyal ang binanggit niya.
+
+1049
+01:02:23,000 --> 01:02:27,563
+Rep. Antonio L. Tinio: DBM Secretary Pangandaman, Executive Secretary Bersamin,
+
+1050
+01:02:31,720 --> 01:02:32,963
+Rep. Antonio L. Tinio: Undersecretary Adrian Bersamin.
+
+1051
+01:02:34,520 --> 01:02:35,731
+Rep. Antonio L. Tinio: Usec. Jojo Cadiz.
+
+1052
+01:02:36,440 --> 01:02:49,771
+Rep. Antonio L. Tinio: Among others, na inutos daw ng Presidente na maglagay ng 100-billion-peso insertion sa 2025 budget.
+
+1053
+01:02:51,000 --> 01:02:57,162
+Rep. Antonio L. Tinio: Tapos, si Usec. Bernardo naman, as relayed by Sen. Ping Lacson,
+
+1054
+01:02:58,920 --> 01:03:02,427
+Rep. Antonio L. Tinio: and this is in the records of the Senate,
+
+1055
+01:03:03,400 --> 01:03:04,047
+Rep. Antonio L. Tinio: sabi niya,
+
+1056
+01:03:06,640 --> 01:03:11,029
+Rep. Antonio L. Tinio: Usec. Bernardo corroborated yung sinabi ni Zaldy Co.
+
+1057
+01:03:11,039 --> 01:03:16,720
+Rep. Antonio L. Tinio: Sabi niya, sa 100 billion na yan, 51 billion, ako ang trumabaho.
+
+1058
+01:03:17,720 --> 01:03:21,293
+Rep. Antonio L. Tinio: At, allegedly, sabi rin ni Yusek Bernardo,
+
+1059
+01:03:23,680 --> 01:03:26,120
+Rep. Antonio L. Tinio: nakipagsabwatan siya with Usec. Trygve Olaivar
+
+1060
+01:03:28,920 --> 01:03:36,093
+Rep. Antonio L. Tinio: Of DepEd, to deliver a total of 8 billion in kickbacks to the President,
+
+1061
+01:03:36,799 --> 01:03:42,944
+Rep. Antonio L. Tinio: including 2 billion delivered through an exchange of armored cars at Diamond Hotel
+
+1062
+01:03:44,319 --> 01:03:47,029
+Rep. Antonio L. Tinio: in March of 2025.
+
+1063
+01:03:47,039 --> 01:03:47,770
+Rep. Antonio L. Tinio: Very detailed.
+
+1064
+01:03:48,640 --> 01:03:49,070
+Rep. Antonio L. Tinio: Okay.
+
+1065
+01:03:49,880 --> 01:03:54,352
+Rep. Antonio L. Tinio: So, ang tanong po ay, bakit hanggang ngayon,
+
+1066
+01:03:55,200 --> 01:03:59,349
+Rep. Antonio L. Tinio: ay wala pang anumang imbestigasyon na isinasagawa
+
+1067
+01:03:59,359 --> 01:04:00,950
+Rep. Antonio L. Tinio: sa lahat ng mga opisyal
+
+1068
+01:04:02,200 --> 01:04:06,755
+Rep. Antonio L. Tinio: ng dating opisyal ng kabinete na binanggit?
+
+1069
+01:04:07,839 --> 01:04:11,630
+Rep. Antonio L. Tinio: Yun po ang importanteng tanong natin dito.
+
+1070
+01:04:11,640 --> 01:04:17,269
+Rep. Antonio L. Tinio: Bakit hanggang ngayon, ay wala pang tayong naririnig na anumang investigasyon?
+
+1071
+01:04:17,279 --> 01:04:20,086
+Rep. Antonio L. Tinio: Let me mention that on March 30,
+
+1072
+01:04:20,880 --> 01:04:25,638
+Rep. Antonio L. Tinio: meron pong private individuals led by David Michael San Juan,
+
+1073
+01:04:28,039 --> 01:04:29,190
+Rep. Antonio L. Tinio: former Representative Franz Castro,
+
+1074
+01:04:29,200 --> 01:04:30,869
+Rep. Antonio L. Tinio: among others,
+
+1075
+01:04:31,359 --> 01:04:37,383
+Rep. Antonio L. Tinio: who filed a
+
+1076
+01:04:37,580 --> 01:04:41,390
+Rep. Antonio L. Tinio: letter or a complaint to the Ombudsman para imbestigahan ang mga ito.
+
+1077
+01:04:41,400 --> 01:04:42,614
+Rep. Rufus B. Rodriguez: To the Ombudsman, please.
+
+1078
+01:04:44,599 --> 01:04:45,430
+Rep. Rufus B. Rodriguez: Ombudsman Remulla, to respond.
+
+1079
+01:04:45,440 --> 01:04:48,858
+Ombudsman Jesus Crispin C. Remulla: Wala ho siguro naririnig sapagkat hindi ho namin
+
+1080
+01:04:49,599 --> 01:04:55,230
+Ombudsman Jesus Crispin C. Remulla: trabahong ipabalita yung aming pinakukulo pa.
+
+1081
+01:04:55,240 --> 01:04:59,675
+Ombudsman Jesus Crispin C. Remulla: Kasi nga, hindi ho madaling magbuo ng kaso.
+
+1082
+01:05:00,400 --> 01:05:02,746
+Ombudsman Jesus Crispin C. Remulla: Ang pagbubuo ng kaso ay base sa ebidensya.
+
+1083
+01:05:03,440 --> 01:05:06,510
+Ombudsman Jesus Crispin C. Remulla: At hindi ho natin maaaring ipamalita sa tao
+
+1084
+01:05:06,520 --> 01:05:10,323
+Ombudsman Jesus Crispin C. Remulla: ang bawat kilos na ginagawa namin.
+
+1085
+01:05:10,839 --> 01:05:13,529
+Ombudsman Jesus Crispin C. Remulla: Yun lang po, humihingi lang kami ng kaunting pangunawa
+
+1086
+01:05:14,160 --> 01:05:17,910
+Ombudsman Jesus Crispin C. Remulla: sapagkat kung ilantad po namin lahat ng aming ginagawa,
+
+1087
+01:05:17,920 --> 01:05:22,589
+Ombudsman Jesus Crispin C. Remulla: alam na ho ng aming mga sinusundan ang aming ginagawa.
+
+1088
+01:05:22,599 --> 01:05:25,780
+Ombudsman Jesus Crispin C. Remulla: Dapat ho kasi may panahon na tahimik po tayo sa kaso.
+
+1089
+01:05:26,079 --> 01:05:27,750
+Ombudsman Jesus Crispin C. Remulla: Pero wala ho kami pinababayaan.
+
+1090
+01:05:27,760 --> 01:05:29,470
+Ombudsman Jesus Crispin C. Remulla: Masasabi ko sa inyo yan.
+
+1091
+01:05:29,480 --> 01:05:33,109
+Ombudsman Jesus Crispin C. Remulla: Wala ho kaming pinalulusot dito.
+
+1092
+01:05:33,119 --> 01:05:36,648
+Ombudsman Jesus Crispin C. Remulla: Ito po lahat ay base sa ebidensya, kagalang-galang.
+
+1093
+01:05:37,359 --> 01:05:37,728
+Rep. Antonio L. Tinio: Okay.
+
+1094
+01:05:38,279 --> 01:05:45,693
+Rep. Antonio L. Tinio: So, naiintindihan ko po ang sinasabi nyo na hindi nyo binubulgar sa publiko
+
+1095
+01:05:46,039 --> 01:05:56,003
+Rep. Antonio L. Tinio: ang inyong ginagawa at maaaring may mga isinasagawa kayong investigasyon.
+
+1096
+01:05:56,359 --> 01:05:59,345
+Ombudsman Jesus Crispin C. Remulla: Binubuo pa ho namin yung mga ganyang kaso po kasi.
+
+1097
+01:06:00,000 --> 01:06:01,572
+Ombudsman Jesus Crispin C. Remulla: Kailangang mabuo nang maayos yan.
+
+1098
+01:06:02,039 --> 01:06:07,613
+Ombudsman Jesus Crispin C. Remulla: Mula ho sa kwento ni Bernardo at sa kwento na lumalabas sa media,
+
+1099
+01:06:08,359 --> 01:06:12,440
+Ombudsman Jesus Crispin C. Remulla: para ho malagyan natin ng ebidensya, mas mabigat pong trabaho 'yon.
+
+1100
+01:06:12,799 --> 01:06:14,853
+Ombudsman Jesus Crispin C. Remulla: Kaya yung ebidensya po ang hinahanap namin.
+
+1101
+01:06:15,359 --> 01:06:19,696
+Ombudsman Jesus Crispin C. Remulla: Pero yan po, tinitingnan na ho namin ang budget, tinitingnan na namin yung mga numero.
+
+1102
+01:06:20,240 --> 01:06:26,007
+Ombudsman Jesus Crispin C. Remulla: At kung nagkataon po na mayroon talagang pagkatama sa mga halagang binibigay,
+
+1103
+01:06:26,440 --> 01:06:30,175
+Ombudsman Jesus Crispin C. Remulla: yun po'y aming sinusundan. Sinusundan po namin 'yan. Okay? Sinusubaybayan.
+
+1104
+01:06:32,680 --> 01:06:39,269
+Rep. Antonio L. Tinio: At may assurance kayo na kahit involved dito ang secretaries ng kabinete,
+
+1105
+01:06:39,279 --> 01:06:44,150
+Rep. Antonio L. Tinio: ng Malacanang, at kahit ang Pangulo mismo, kahit tumuro dito sa Pangulo,
+
+1106
+01:06:44,160 --> 01:06:48,518
+Rep. Antonio L. Tinio: ay kasama yan sa iimbestigahan nyo. Tama po ba?
+
+1107
+01:06:49,680 --> 01:06:53,328
+Ombudsman Jesus Crispin C. Remulla: Opo. Lahat po 'yan ay base sa ebidensya. Wala ho tayong sasantuhin dito.
+
+1108
+01:06:54,480 --> 01:06:59,349
+Rep. Antonio L. Tinio: Okay, thank you. At pangalawang tanong na lang, Mr. Chair, to wind up.
+
+1109
+01:06:59,359 --> 01:07:00,269
+Rep. Rufus B. Rodriguez: Please proceed.
+
+1110
+01:07:00,279 --> 01:07:01,242
+Rep. Antonio L. Tinio: Okay, thank you po.
+
+1111
+01:07:02,119 --> 01:07:05,910
+Rep. Antonio L. Tinio: Kaugnay naman po sa ano naman po ang ginagawa.
+
+1112
+01:07:05,920 --> 01:07:11,510
+Rep. Antonio L. Tinio: Ang flood control corruption ay hindi naman po nagsimula sa kasalukuyang administrasyon.
+
+1113
+01:07:11,520 --> 01:07:16,936
+Rep. Antonio L. Tinio: Kumbaga, talagang pambihira ang naging paglaki at paglaganap nito.
+
+1114
+01:07:17,640 --> 01:07:22,630
+Rep. Antonio L. Tinio: Pero as early as 2018, natatandaan ko, sa Kongreso din mismo na ito,
+
+1115
+01:07:22,640 --> 01:07:27,972
+Rep. Antonio L. Tinio: ay unang nilantad yung modus ng mga insertion at, ah,
+
+1116
+01:07:28,680 --> 01:07:30,824
+Rep. Antonio L. Tinio: ghost projects and so on.
+
+1117
+01:07:34,000 --> 01:07:41,658
+Rep. Antonio L. Tinio: Meron po bang ginagawa ang ombudsman sa pag-imbestiga sa mga flood control corruption issues
+
+1118
+01:07:42,400 --> 01:07:46,028
+Rep. Antonio L. Tinio: sa panahon pa ng nakaraang administrasyon?
+
+1119
+01:07:48,839 --> 01:07:52,897
+Ombudsman Jesus Crispin C. Remulla: Opo, at hindi lang po madali talaga sapagkat sabihin natin,
+
+1120
+01:07:53,799 --> 01:07:59,900
+Ombudsman Jesus Crispin C. Remulla: ang epicenter po ng flood control bago dumating ang Marcos administration ay Davao City.
+
+1121
+01:08:00,240 --> 01:08:00,710
+Ombudsman Jesus Crispin C. Remulla: Okay.
+
+1122
+01:08:00,720 --> 01:08:02,583
+Ombudsman Jesus Crispin C. Remulla: Ang ecosystem of corruption po mabigat.
+
+1123
+01:08:03,200 --> 01:08:04,473
+Ombudsman Jesus Crispin C. Remulla: Mahirap pong pasukin.
+
+1124
+01:08:05,119 --> 01:08:07,780
+Ombudsman Jesus Crispin C. Remulla: Mahirap pong kumuha ng impormasyon.
+
+1125
+01:08:08,480 --> 01:08:10,244
+Ombudsman Jesus Crispin C. Remulla: Marami hong taong hindi nagsasalita.
+
+1126
+01:08:10,680 --> 01:08:12,083
+Ombudsman Jesus Crispin C. Remulla: Pero hindi ho kami tumitigil.
+
+1127
+01:08:13,039 --> 01:08:16,505
+Ombudsman Jesus Crispin C. Remulla: Davao po yung ecosystem na aming tinutukoy.
+
+1128
+01:08:17,359 --> 01:08:22,070
+Ombudsman Jesus Crispin C. Remulla: At napaka, kasi doon ho maraming pondo na pumasok daw sa flood control.
+
+1129
+01:08:22,080 --> 01:08:24,419
+Ombudsman Jesus Crispin C. Remulla: Yan po yung aming kinakalap nang husto.
+
+1130
+01:08:25,159 --> 01:08:29,043
+Ombudsman Jesus Crispin C. Remulla: At meron pa hong mga lalawigan na aming tinitingnan sa panahong iyon.
+
+1131
+01:08:30,679 --> 01:08:31,110
+Ombudsman Jesus Crispin C. Remulla: upang, ah, makita
+
+1132
+01:08:31,120 --> 01:08:35,827
+Ombudsman Jesus Crispin C. Remulla: yung pattern kung saan po nagsisimula yung mga pattern, Your Honor.
+
+1133
+01:08:36,040 --> 01:08:36,430
+Rep. Antonio L. Tinio: Okay.
+
+1134
+01:08:36,440 --> 01:08:40,889
+Rep. Antonio L. Tinio: So, okay, malinaw po ang sinabi, no?
+
+1135
+01:08:41,279 --> 01:08:43,707
+Rep. Antonio L. Tinio: Epicenter of corruption.
+
+1136
+01:08:44,920 --> 01:08:45,550
+Ombudsman Jesus Crispin C. Remulla: Flood control, Your Honor.
+
+1137
+01:08:45,560 --> 01:08:52,482
+Rep. Antonio L. Tinio: Flood control corruption ang Davao City noong panahon ng nakaraang administrasyon.
+
+1138
+01:08:53,199 --> 01:08:55,870
+Ombudsman Jesus Crispin C. Remulla: Opo, but I will not draw that conclusion immediately.
+
+1139
+01:08:55,880 --> 01:08:57,427
+Ombudsman Jesus Crispin C. Remulla: Ito po yung pinag-aaralan namin.
+
+1140
+01:08:57,839 --> 01:09:00,590
+Ombudsman Jesus Crispin C. Remulla: Kasi ang mahalaga po,
+
+1141
+01:09:00,600 --> 01:09:03,316
+Ombudsman Jesus Crispin C. Remulla: makita namin ang ebidensya sa, sa ground, Your Honor.
+
+1142
+01:09:03,560 --> 01:09:04,070
+Rep. Antonio L. Tinio: Okay.
+
+1143
+01:09:04,080 --> 01:09:05,430
+Rep. Antonio L. Tinio: In that regard, meron pong...
+
+1144
+01:09:05,440 --> 01:09:06,430
+Rep. Rufus B. Rodriguez: Please wind up.
+
+1145
+01:09:06,440 --> 01:09:09,590
+Rep. Rufus B. Rodriguez: Your time is up, but you can list for the second round.
+
+1146
+01:09:09,600 --> 01:09:10,032
+Rep. Antonio L. Tinio: Yes, opo.
+
+1147
+01:09:10,520 --> 01:09:11,618
+Rep. Rufus B. Rodriguez: There are only those who have listed in the second round.
+
+1148
+01:09:12,480 --> 01:09:13,749
+Rep. Antonio L. Tinio: To wind up po.
+
+1149
+01:09:13,759 --> 01:09:14,082
+Rep. Rufus B. Rodriguez: Yes.
+
+1150
+01:09:14,520 --> 01:09:23,178
+Rep. Antonio L. Tinio: Um, paalala ko lang po sa Ombudsman na meron po tayong finile din na, um, information,
+
+1151
+01:09:23,640 --> 01:09:29,709
+Rep. Antonio L. Tinio: sinubmit na information sa Ombudsman regarding precisely mga flood control anomalies.
+
+1152
+01:09:29,719 --> 01:09:30,755
+Rep. Antonio L. Tinio: May mga question, no?
+
+1153
+01:09:31,359 --> 01:09:32,763
+Rep. Antonio L. Tinio: Wala pa pong conclusion doon.
+
+1154
+01:09:34,040 --> 01:09:36,458
+Rep. Antonio L. Tinio: Ah, batay sa pagsusuri natin sa mga numero.
+
+1155
+01:09:36,880 --> 01:09:44,470
+Rep. Antonio L. Tinio: Sa budget, pagkumpara ng budget, appropriations, at saka yung mga kontrata at yung mga actual projects delivered.
+
+1156
+01:09:44,480 --> 01:09:48,473
+Rep. Antonio L. Tinio: No. So, sana po makatulong din sa inyong investigasyon.
+
+1157
+01:09:49,880 --> 01:09:50,954
+Rep. Antonio L. Tinio: Hanggang doon na lamang po.
+
+1158
+01:09:51,000 --> 01:09:52,186
+Rep. Antonio L. Tinio: Salamat po. Salamat po.
+
+1159
+01:09:52,320 --> 01:09:52,743
+Rep. Rufus B. Rodriguez: Okay. Thank you po.
+
+1160
+01:09:53,239 --> 01:09:55,470
+Rep. Rufus B. Rodriguez: Thank you, Representative Tinio.
+
+1161
+01:09:55,480 --> 01:09:56,371
+Rep. Antonio L. Tinio: Thank you, Ombudsman Remulla.
+
+1162
+01:09:57,000 --> 01:10:01,520
+Rep. Rufus B. Rodriguez: The next in the list will come from the majority.
+
+1163
+01:10:01,520 --> 01:10:04,440
+Rep. Rufus B. Rodriguez: We have Representative Salvador Pleyto.
+
+1164
+01:10:04,440 --> 01:10:05,382
+Rep. Rufus B. Rodriguez: The floor is yours.
+
+1165
+01:10:06,199 --> 01:10:07,627
+Rep. Salvador A. Pleyto: Thank you, Mr. Chair.
+
+1166
+01:10:08,800 --> 01:10:12,993
+Rep. Salvador A. Pleyto: Sa ating mga dear colleagues and esteemed guests.
+
+1167
+01:10:14,120 --> 01:10:20,030
+Rep. Salvador A. Pleyto: Pangunguna ni Ombudsman Boying Remulla at saka Ombudsman family.
+
+1168
+01:10:20,640 --> 01:10:24,198
+Rep. Salvador A. Pleyto: Magandang umaga po—hapon na po—sa inyong lahat.
+
+1169
+01:10:25,080 --> 01:10:29,040
+Rep. Salvador A. Pleyto: Mr. Chair, may I respectfully manifest that...
+
+1170
+01:10:29,040 --> 01:10:35,892
+Rep. Salvador A. Pleyto: this representation fully supports the approval of the proposed 2027 budget of the Office of the Ombudsman.
+
+1171
+01:10:36,159 --> 01:10:42,642
+Rep. Salvador A. Pleyto: Siguro po, dagdagan natin ang Budget for Personnel Services para sa karagdagan number of personnel.
+
+1172
+01:10:43,239 --> 01:10:59,080
+Rep. Salvador A. Pleyto: Mr. Chair, it appears that the total number of authorized positions for the Office of the Ombudsman is only 2,439 for the year 2025, 2026, and 2027, which remains the same.
+
+1173
+01:10:59,080 --> 01:11:17,560
+Rep. Salvador A. Pleyto: Considering the enormous line-up of programs, activities, and projects under your operations, sa dami ng kanilang ginagawa po, siguro po, dapat lamang po nadagdagan po natin ang number ng authorized personnel positions, corresponding budget for personal services.
+
+1174
+01:11:17,560 --> 01:11:21,520
+Rep. Salvador A. Pleyto: Thank you, Mr. Chair.
+
+1175
+01:11:21,520 --> 01:11:27,790
+Rep. Rufus B. Rodriguez: So, we get the response. Aside from the proposal for personnel services, what else would you need, Ombudsman Remulla?
+
+1176
+01:11:27,800 --> 01:11:29,840
+Ombudsman Jesus Crispin C. Remulla: Actually, ano ho eh, ah,
+
+1177
+01:11:29,840 --> 01:11:37,120
+Ombudsman Jesus Crispin C. Remulla: Hindi pa ho namin napupuno iyong, iyong ano, iyong number na iyong plantilya na approved po ng DBM.
+
+1178
+01:11:37,120 --> 01:11:40,068
+Ombudsman Jesus Crispin C. Remulla: Kasi marami hong proseso bago tayo makahire ng tao.
+
+1179
+01:11:40,480 --> 01:11:42,616
+Ombudsman Jesus Crispin C. Remulla: Marami hong patakaran na kailangan sundin.
+
+1180
+01:11:43,920 --> 01:11:52,600
+Ombudsman Jesus Crispin C. Remulla: Yung mga tao na sinimulan naming i-recruit nung December, marami ho diyan ngayon, itong linggo lang namin na-hire.
+
+1181
+01:11:52,600 --> 01:11:54,639
+Ombudsman Jesus Crispin C. Remulla: Kasi dadaan po sa civil service, marami hong pinagdadaanan na proseso.
+
+1182
+01:11:54,639 --> 01:11:57,920
+Ombudsman Jesus Crispin C. Remulla: Pero iyon nga, sabi ko nga,
+
+1183
+01:11:57,920 --> 01:12:03,719
+Ombudsman Jesus Crispin C. Remulla: It took us more than ten and a half months to hire 60 lawyers.
+
+1184
+01:12:03,719 --> 01:12:06,000
+Ombudsman Jesus Crispin C. Remulla: Hindi ho madali, kaya lang ginagawa ho namin unti-unti.
+
+1185
+01:12:06,000 --> 01:12:15,679
+Ombudsman Jesus Crispin C. Remulla: Kung, kung, ah, luluwag po iyong standard, na luluwag po iyong proseso, mas mabilis naming mapupunan iyan.
+
+1186
+01:12:15,679 --> 01:12:20,639
+Ombudsman Jesus Crispin C. Remulla: Ngunit, hindi naman kami nagre-reklamo. Alam namin na kasama po ito sa buhay natin sa gobyerno.
+
+1187
+01:12:20,639 --> 01:12:27,976
+Ombudsman Jesus Crispin C. Remulla: Kasi yung personnel board, marami hong nagmi-meeting muna bago po aprobahan yung mga taong nag-a-apply.
+
+1188
+01:12:31,000 --> 01:12:33,545
+Rep. Rufus B. Rodriguez: Thank you very much, Ombudsman Remulla.
+
+1189
+01:12:34,000 --> 01:12:39,440
+Rep. Rufus B. Rodriguez: Now, I would just like to acknowledge additional members who are now present in this briefing.
+
+1190
+01:12:40,600 --> 01:12:44,547
+Rep. Rufus B. Rodriguez: We have the Honorable Niko Daza.
+
+1191
+01:12:46,280 --> 01:12:50,082
+Rep. Rufus B. Rodriguez: Vice Chair. Vice Chair Niko, please be recognized. Where are you?
+
+1192
+01:12:51,400 --> 01:12:52,073
+Rep. Rufus B. Rodriguez: There, Nico.
+
+1193
+01:12:53,000 --> 01:12:58,402
+Rep. Rufus B. Rodriguez: And then, we have Representative Julius, to my right, Julius Cesar Vergara.
+
+1194
+01:12:59,080 --> 01:13:01,945
+Rep. Rufus B. Rodriguez: So, we proceed with the next interpellator.
+
+1195
+01:13:01,960 --> 01:13:09,725
+Rep. Rufus B. Rodriguez: And we have now from the, okay, from the majority, Representative Girlie Veloso.
+
+1196
+01:13:12,560 --> 01:13:13,505
+Rep. Girlie E. Veloso: Thank you, Mr. Chair.
+
+1197
+01:13:14,520 --> 01:13:16,238
+Rep. Girlie E. Veloso: Maayong udto
+
+1198
+01:13:17,480 --> 01:13:18,027
+Rep. Girlie E. Veloso: sa tanan.
+
+1199
+01:13:20,120 --> 01:13:21,655
+Rep. Girlie E. Veloso: Another bisaya here.
+
+1200
+01:13:21,760 --> 01:13:24,360
+Rep. Girlie E. Veloso: No further questions, Mr. Chair.
+
+1201
+01:13:24,360 --> 01:13:27,639
+Rep. Girlie E. Veloso: Um, Malasakit at Bayanihan Party-list
+
+1202
+01:13:27,639 --> 01:13:33,320
+Rep. Girlie E. Veloso: would just like to manifest our support to the proposed fiscal year
+
+1203
+01:13:33,320 --> 01:13:36,050
+Rep. Girlie E. Veloso: 2027 budget of the Office of the Ombudsman.
+
+1204
+01:13:36,639 --> 01:13:42,120
+Rep. Girlie E. Veloso: At a time when public confidence in our institutions remains critical,
+
+1205
+01:13:42,120 --> 01:13:44,437
+Rep. Girlie E. Veloso: we need an ombudsman that is independent,
+
+1206
+01:13:45,179 --> 01:13:55,270
+Rep. Girlie E. Veloso: adequately supported, and capable of delivering accountability in a timely and credible manner.
+
+1207
+01:13:55,280 --> 01:14:03,040
+Rep. Girlie E. Veloso: Mahalaga po na maramdaman ng ating mga kababayan na may institusyong tunay na nagbabantay
+
+1208
+01:14:03,040 --> 01:14:03,880
+Rep. Girlie E. Veloso: sa pananagutan
+
+1209
+01:14:03,880 --> 01:14:06,390
+Rep. Girlie E. Veloso: sa pamahalaan.
+
+1210
+01:14:06,400 --> 01:14:12,199
+Rep. Girlie E. Veloso: At ang hustisya at accountability ay hindi lamang ipinapangako,
+
+1211
+01:14:12,199 --> 01:14:16,120
+Rep. Girlie E. Veloso: kundi naipapakita sa maayos at napapanahong pagkilos.
+
+1212
+01:14:17,440 --> 01:14:21,880
+Rep. Girlie E. Veloso: We therefore support the resources necessary for the office
+
+1213
+01:14:21,880 --> 01:14:26,440
+Rep. Girlie E. Veloso: to perform its constitutional mandate effectively
+
+1214
+01:14:26,440 --> 01:14:30,910
+Rep. Girlie E. Veloso: and to continue strengthening public trust in our institutions.
+
+1215
+01:14:31,320 --> 01:14:32,520
+Rep. Girlie E. Veloso: Maayong udto again.
+
+1216
+01:14:32,520 --> 01:14:34,550
+Rep. Girlie E. Veloso: Daghang salamat.
+
+1217
+01:14:34,560 --> 01:14:42,679
+Rep. Rufus B. Rodriguez: Daghang salamat, Congresswoman Girlie Veloso, for your expression of support to the budget of the Ombudsman.
+
+1218
+01:14:43,050 --> 01:14:46,150
+Rep. Rufus B. Rodriguez: Now, we are now going to the second round.
+
+1219
+01:14:48,300 --> 01:14:54,280
+Rep. Rufus B. Rodriguez: Are there any more who wish to interpellate before we go to the second round?
+
+1220
+01:14:56,580 --> 01:14:59,200
+Rep. Rufus B. Rodriguez: Hearing none, so we go to the second round.
+
+1221
+01:14:59,900 --> 01:15:03,960
+Rep. Rufus B. Rodriguez: The Honorable Ombudsman, we have Representative Chel Diokno.
+
+1222
+01:15:06,180 --> 01:15:07,900
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you, Chair Rufus.
+
+1223
+01:15:08,780 --> 01:15:11,920
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Balik po tayo sa tanungan, Ombudsman Remulla.
+
+1224
+01:15:12,500 --> 01:15:16,440
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I came across a report recently of the performance...
+
+1225
+01:15:16,440 --> 01:15:20,320
+Rep. Rufus B. Rodriguez: I will suspend the proceedings to recognize and to take her proper seat.
+
+1226
+01:15:20,660 --> 01:15:23,760
+Rep. Rufus B. Rodriguez: The chairperson of the Committee on Appropriation is present,
+
+1227
+01:15:23,760 --> 01:15:25,540
+Rep. Rufus B. Rodriguez: the Honorable Mika Suansing.
+
+1228
+01:15:25,720 --> 01:15:26,380
+Rep. Rufus B. Rodriguez: Palakpakan natin.
+
+1229
+01:15:26,380 --> 01:15:30,360
+Rep. Rufus B. Rodriguez: Please proceed.
+
+1230
+01:15:31,020 --> 01:15:32,480
+Rep. Rufus B. Rodriguez: Now, Congressman Diokno.
+
+1231
+01:15:32,840 --> 01:15:34,960
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you, and good morning, Chair Mika.
+
+1232
+01:15:35,140 --> 01:15:37,560
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Baka po meron kayong gusto sabihin muna?
+
+1233
+01:15:38,340 --> 01:15:39,540
+Rep. Mikaela Angela B. Suansing: Thank you, thank you.
+
+1234
+01:15:40,380 --> 01:15:43,640
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Based on a report I came across, in 2025,
+
+1235
+01:15:44,560 --> 01:15:51,880
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: your office completed, um, 1,129 out of 2,051 fact-finding investigations.
+
+1236
+01:15:51,880 --> 01:15:55,340
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: It's roughly 55%.
+
+1237
+01:15:55,340 --> 01:15:58,380
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: And of that, 317 resulted
+
+1238
+01:15:58,580 --> 01:16:01,980
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: in the filing of criminal or admin cases.
+
+1239
+01:16:02,620 --> 01:16:05,060
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: May I know how we can help you?
+
+1240
+01:16:05,260 --> 01:16:06,520
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Saan po ba ang problema?
+
+1241
+01:16:06,720 --> 01:16:12,540
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: How can we make this process easier for the Ombudsman?
+
+1242
+01:16:12,700 --> 01:16:17,140
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Para mas marami naman ang makompletuhin ninyong mga fact-finding.
+
+1243
+01:16:18,180 --> 01:16:18,680
+Ombudsman Jesus Crispin C. Remulla: Yes, sir.
+
+1244
+01:16:19,140 --> 01:16:21,720
+Ombudsman Jesus Crispin C. Remulla: Actually, yung cooperation po ng agencies.
+
+1245
+01:16:22,220 --> 01:16:27,260
+Ombudsman Jesus Crispin C. Remulla: Pero ngayon po, talagang iniisyuhan na namin ng subpoena.
+
+1246
+01:16:27,760 --> 01:16:28,280
+Ombudsman Jesus Crispin C. Remulla: Ang probably,
+
+1247
+01:16:28,580 --> 01:16:33,840
+Ombudsman Jesus Crispin C. Remulla: Isang batas na kinakailangan namin yung contempt powers na ibibigay po sa Office of the Ombudsman.
+
+1248
+01:16:34,540 --> 01:16:39,840
+Ombudsman Jesus Crispin C. Remulla: Kasi parang wala hong ngipin kung hindi ho tayo bibigyan ng contempt powers.
+
+1249
+01:16:40,620 --> 01:16:45,760
+Ombudsman Jesus Crispin C. Remulla: Kasi marami pa ring matitigas ang ulo pagdating po sa cooperation po sa Office of the Ombudsman.
+
+1250
+01:16:47,300 --> 01:16:49,880
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: How about the personnel, Ombudsman Remulian?
+
+1251
+01:16:49,880 --> 01:16:55,620
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Do you have issues with respect to the fact-finding personnel, investigators?
+
+1252
+01:16:56,420 --> 01:16:58,560
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Kailangan po ba niya ng dagdag ng tao?
+
+1253
+01:16:58,580 --> 01:17:02,280
+Ombudsman Jesus Crispin C. Remulla: Nagha-hire pa ho kami ng marami.
+
+1254
+01:17:04,540 --> 01:17:11,300
+Ombudsman Jesus Crispin C. Remulla: Pero yung training po, tsaka equipment namin sa digital forensics, yun po yung kinakailangan palakasin namin.
+
+1255
+01:17:11,820 --> 01:17:13,760
+Ombudsman Jesus Crispin C. Remulla: Although may programa na ho kami para dyan.
+
+1256
+01:17:14,720 --> 01:17:18,880
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I hope that is also part of your proposal for this coming, for this budget cycle.
+
+1257
+01:17:18,940 --> 01:17:20,320
+Ombudsman Jesus Crispin C. Remulla: Kasama po, kasama po sa proposal namin.
+
+1258
+01:17:20,340 --> 01:17:21,620
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Susuportahan po natin yan.
+
+1259
+01:17:21,660 --> 01:17:22,180
+Ombudsman Jesus Crispin C. Remulla: Salamat po.
+
+1260
+01:17:22,620 --> 01:17:27,380
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Doon po sa issue ng forfeiture cases, may I have the data?
+
+1261
+01:17:27,540 --> 01:17:28,540
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: How many have been fired?
+
+1262
+01:17:28,540 --> 01:17:34,840
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Fired this year, this is 2026, last year, 2025, and 2024?
+
+1263
+01:17:46,270 --> 01:17:52,750
+Ombudsman Jesus Crispin C. Remulla: Sa forfeiture cases po, pinakamarami pong na-file dito noong 2022.
+
+1264
+01:17:53,630 --> 01:17:55,170
+Ombudsman Jesus Crispin C. Remulla: Sixty-four forfeiture cases.
+
+1265
+01:17:56,050 --> 01:18:00,170
+Ombudsman Jesus Crispin C. Remulla: Sa 2025 po, 12 pa lang ho ang na-file.
+
+1266
+01:18:00,870 --> 01:18:02,530
+Ombudsman Jesus Crispin C. Remulla: Labingwalo po sa 2024.
+
+1267
+01:18:03,370 --> 01:18:05,930
+Ombudsman Jesus Crispin C. Remulla: At 32 po sa 2023.
+
+1268
+01:18:05,930 --> 01:18:07,930
+Ombudsman Jesus Crispin C. Remulla: At itong 2026.
+
+1269
+01:18:09,070 --> 01:18:11,770
+Ombudsman Jesus Crispin C. Remulla: At 2026, 10 pa lang po yung aming na-file.
+
+1270
+01:18:12,190 --> 01:18:16,010
+Ombudsman Jesus Crispin C. Remulla: Pero marami ho kaming susunod dito na filing sa forfeiture po.
+
+1271
+01:18:16,350 --> 01:18:17,890
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Sana po, dumami pa po yan.
+
+1272
+01:18:18,050 --> 01:18:23,650
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Could we request, Mr. Chair or Madam Chair, the data from the Office of the Ombudsman,
+
+1273
+01:18:23,810 --> 01:18:27,030
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: especially with respect to flood control projects?
+
+1274
+01:18:27,590 --> 01:18:30,290
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Ilan po ba doon, unless you have the data available now,
+
+1275
+01:18:30,830 --> 01:18:35,090
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: ilan po ba out of the 10 that were filed this year and the 12 last year,
+
+1276
+01:18:35,090 --> 01:18:38,230
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: how many of those were related to flood control?
+
+1277
+01:18:41,920 --> 01:18:44,840
+Ombudsman Jesus Crispin C. Remulla: Sa forfeiture pa ho ito, o sa flood control lang?
+
+1278
+01:18:44,900 --> 01:18:45,500
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Ah, flood control.
+
+1279
+01:18:45,620 --> 01:18:49,180
+Ombudsman Jesus Crispin C. Remulla: Wala pa ho akong... hindi pa ho kumpleto ang data namin, pero ibibigay namin sa inyo po.
+
+1280
+01:18:49,440 --> 01:18:55,340
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Yes, I think the committee would be well apprised kung malaman po natin yan.
+
+1281
+01:18:56,280 --> 01:18:58,720
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: One final question, if I may, Mr. Chair.
+
+1282
+01:18:58,720 --> 01:18:59,440
+Rep. Rufus B. Rodriguez: Please proceed.
+
+1283
+01:18:59,900 --> 01:19:01,780
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: With respect to lifestyle checks,
+
+1284
+01:19:02,100 --> 01:19:07,320
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: kasama po ba ang pagtingin ninyo o pag-monitor ng social media accounts
+
+1285
+01:19:07,320 --> 01:19:10,840
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: ng government official at yung kanyang pamilya?
+
+1286
+01:19:10,960 --> 01:19:11,740
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Kasi doon, minsan...
+
+1287
+01:19:11,740 --> 01:19:13,780
+Ombudsman Jesus Crispin C. Remulla: Kasama na po yan. Kasama po ang social media.
+
+1288
+01:19:14,480 --> 01:19:17,560
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you. I'm very happy to hear that.
+
+1289
+01:19:21,020 --> 01:19:23,000
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Finally, just one last question.
+
+1290
+01:19:23,560 --> 01:19:28,620
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: With respect, if I recall po, yung statement of assets, liabilities, and net worth,
+
+1291
+01:19:28,620 --> 01:19:30,700
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: at the bandang dulo ng form,
+
+1292
+01:19:31,260 --> 01:19:36,200
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: meron siyang waiver that is executed by every official in favor of the Office of the Ombudsman
+
+1293
+01:19:36,200 --> 01:19:41,660
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: that allows you to look into records of the BIR and other government agencies.
+
+1294
+01:19:42,320 --> 01:19:43,420
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Could you give the committee
+
+1295
+01:19:43,440 --> 01:19:49,960
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: an idea of how often and how much of your work involves
+
+1296
+01:19:49,960 --> 01:19:54,900
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: using those waivers to conduct your investigations?
+
+1297
+01:20:00,500 --> 01:20:05,160
+Ombudsman Jesus Crispin C. Remulla: Dahil po sa waiver na yan, dapat po ang BIR mag-cooperate sa amin.
+
+1298
+01:20:05,760 --> 01:20:09,800
+Ombudsman Jesus Crispin C. Remulla: Pero siyempre, yung kooperasyon ng BIR medyo mabagal po.
+
+1299
+01:20:10,400 --> 01:20:12,820
+Ombudsman Jesus Crispin C. Remulla: Isa po yan sa problema namin, sa sakit ng ulo namin.
+
+1300
+01:20:13,620 --> 01:20:15,020
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: We will take note of that.
+
+1301
+01:20:15,020 --> 01:20:17,020
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Perhaps there is something we can do to help you.
+
+1302
+01:20:17,880 --> 01:20:20,820
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: May tanong ko na rin po.
+
+1303
+01:20:21,280 --> 01:20:31,920
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I have been calling publicly that the Supreme Court impose a strict deadline for corruption cases.
+
+1304
+01:20:32,560 --> 01:20:38,520
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Para sa akin kasi unconscionable na aabot hanggang sampu o dalawampu o tatlumpung taon
+
+1305
+01:20:38,520 --> 01:20:40,800
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: bago matapos ang isang corruption case.
+
+1306
+01:20:41,440 --> 01:20:45,940
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: When the Sandigan Bayan appeared as part of the judiciary in the last budget cycle,
+
+1307
+01:20:45,940 --> 01:20:47,280
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: ang sabi po nila,
+
+1308
+01:20:47,880 --> 01:20:53,700
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: meron pa silang cases na nagmula pa nung 1987 na hanggang ngayon ay nandun pa rin.
+
+1309
+01:20:54,220 --> 01:20:58,660
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Now, may I hear from the Office of the Ombudsman, from Ombudsman Remulio,
+
+1310
+01:20:58,900 --> 01:21:06,760
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: what do you think is the best solution to ensuring that corruption cases are given top priority by the justice system
+
+1311
+01:21:06,760 --> 01:21:12,740
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: na hindi na dapat lalampas sa limang taon yung buong paglilitis ng corruption case?
+
+1312
+01:21:13,160 --> 01:21:17,080
+Ombudsman Jesus Crispin C. Remulla: Ang una po kasi, ang ginagawa po namin ngayon kasi,
+
+1313
+01:21:17,080 --> 01:21:18,480
+Ombudsman Jesus Crispin C. Remulla: nagke-case build-up po kami.
+
+1314
+01:21:19,380 --> 01:21:24,000
+Ombudsman Jesus Crispin C. Remulla: Tinaas po namin yung antas ng standard namin mula po sa probable cause
+
+1315
+01:21:24,000 --> 01:21:26,780
+Ombudsman Jesus Crispin C. Remulla: papuntang reasonable certainty of conviction.
+
+1316
+01:21:27,660 --> 01:21:32,260
+Ombudsman Jesus Crispin C. Remulla: Ang teorya po diyan, pagka nakalap namin ng ebidensya, ito na, i-fight po namin sa korte.
+
+1317
+01:21:32,940 --> 01:21:38,740
+Ombudsman Jesus Crispin C. Remulla: Ready na po kaming ilatag lahat ng aming ebidensya so we can rest our case immediately.
+
+1318
+01:21:40,000 --> 01:21:46,040
+Ombudsman Jesus Crispin C. Remulla: Kaya siguro, masanay po tayo ang ating judicial system sa continuous trial.
+
+1319
+01:21:46,360 --> 01:21:46,719
+Ombudsman Jesus Crispin C. Remulla: Kasi,
+
+1320
+01:21:47,080 --> 01:21:48,480
+Ombudsman Jesus Crispin C. Remulla: yan po lang ang solusyon dyan eh.
+
+1321
+01:21:49,100 --> 01:21:51,300
+Ombudsman Jesus Crispin C. Remulla: Para wala na hong inordinate delay of justice.
+
+1322
+01:21:52,000 --> 01:21:54,480
+Ombudsman Jesus Crispin C. Remulla: Para wala na ho tayong 40-year wait.
+
+1323
+01:21:55,460 --> 01:22:00,500
+Ombudsman Jesus Crispin C. Remulla: Mas maganda ho kung maging mandatory yung continuous trial pagdating sa graft cases.
+
+1324
+01:22:01,220 --> 01:22:06,220
+Ombudsman Jesus Crispin C. Remulla: Para ho, mailatag lahat ng ebidensya at ma-rest namin ang case namin as early as possible.
+
+1325
+01:22:06,220 --> 01:22:13,360
+Ombudsman Jesus Crispin C. Remulla: Ang problema kasi dyan, meron hong mga kaso na alam ko ha, may mga pending pa ngayon.
+
+1326
+01:22:13,880 --> 01:22:16,820
+Ombudsman Jesus Crispin C. Remulla: Nag-represent kami ng evidence pero 15 years old lang yung kaso.
+
+1327
+01:22:17,080 --> 01:22:21,120
+Ombudsman Jesus Crispin C. Remulla: Meron pa ho kaming pending cases na hinihintay yung resulta hanggang sa ngayon.
+
+1328
+01:22:21,820 --> 01:22:31,340
+Ombudsman Jesus Crispin C. Remulla: Kaya, ang pagkahinog po ng kaso, marahil, pero ito pa'y paulit-ulit ko na pong kinausap ang ilang membro ng Supreme Court
+
+1329
+01:22:31,340 --> 01:22:37,000
+Ombudsman Jesus Crispin C. Remulla: na bigyan po ng atensyon yung mga kaso sa Sandigan Bayan.
+
+1330
+01:22:37,220 --> 01:22:38,380
+Ombudsman Jesus Crispin C. Remulla: Dapat ho mapansin talaga.
+
+1331
+01:22:39,100 --> 01:22:41,640
+Ombudsman Jesus Crispin C. Remulla: Sapagkat hindi ho ito pwede maging laruan ng abogado.
+
+1332
+01:22:42,460 --> 01:22:46,060
+Ombudsman Jesus Crispin C. Remulla: Ayun ang nangyayari kasi, yung pinakamagagaling na abogado po,
+
+1333
+01:22:46,060 --> 01:22:49,140
+Ombudsman Jesus Crispin C. Remulla: punta sa Sandiganbayan, basta sila yung maraming paraan.
+
+1334
+01:22:49,820 --> 01:22:54,040
+Ombudsman Jesus Crispin C. Remulla: Pero dapat ho dito talaga, matapos at matapos lahat ng paglatag na ebidensya
+
+1335
+01:22:54,040 --> 01:22:57,580
+Ombudsman Jesus Crispin C. Remulla: para wala na hong nakakalikot na record ng gobyerno.
+
+1336
+01:22:58,900 --> 01:23:01,340
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Maraming maraming salamat po, Ombudsman Remulla.
+
+1337
+01:23:01,440 --> 01:23:06,640
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Ipapaabot din po namin sa judiciary ang inyong mga hinaing at saloobin.
+
+1338
+01:23:06,740 --> 01:23:07,100
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you.
+
+1339
+01:23:07,400 --> 01:23:07,994
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: And thank you, Mr. Chair.
+
+1340
+01:23:08,264 --> 01:23:10,550
+Rep. Rufus B. Rodriguez: Thank you, Congressman Chel Diokno.
+
+1341
+01:23:10,560 --> 01:23:11,909
+Rep. Rufus B. Rodriguez: Thank you, Ombudsman Remulla.
+
+1342
+01:23:13,760 --> 01:23:14,795
+Rep. Rufus B. Rodriguez: Before we proceed, I'd like to acknowledge,
+
+1343
+01:23:15,280 --> 01:23:17,714
+Rep. Rufus B. Rodriguez: Representative Carlos Andes Loria.
+
+1344
+01:23:18,880 --> 01:23:19,823
+Rep. Rufus B. Rodriguez: Thank you for coming.
+
+1345
+01:23:21,360 --> 01:23:27,383
+Rep. Rufus B. Rodriguez: Now it is my honor as Vice Chairman to now yield the floor and the gavel
+
+1346
+01:23:27,719 --> 01:23:31,990
+Rep. Rufus B. Rodriguez: to the Honorable, no less than the Chairperson herself,
+
+1347
+01:23:32,600 --> 01:23:35,888
+Rep. Rufus B. Rodriguez: of the Committee on Appropriations.
+
+1348
+01:23:36,600 --> 01:23:39,900
+Rep. Rufus B. Rodriguez: We have here Chair Mika Suansing.
+
+1349
+01:23:47,040 --> 01:23:47,600
+Rep. Mikaela Angela B. Suansing: Thank you.
+
+1350
+01:23:47,600 --> 01:23:52,950
+Rep. Mikaela Angela B. Suansing: Thank you so much, Vice Chair Rufus Rodriguez.
+
+1351
+01:23:52,960 --> 01:23:59,360
+Rep. Mikaela Angela B. Suansing: Ombudsman, I left you in very safe hands with Representative Rufus Rodriguez,
+
+1352
+01:23:59,360 --> 01:24:05,159
+Rep. Mikaela Angela B. Suansing: of course, one of our legal luminaries here in Congress to defend the budget of the Ombudsman.
+
+1353
+01:24:05,159 --> 01:24:08,880
+Rep. Mikaela Angela B. Suansing: So, alam ko po, kayang-kaya po yan ni Chair Rufus.
+
+1354
+01:24:08,880 --> 01:24:13,030
+Rep. Mikaela Angela B. Suansing: I just have a few questions from a budgetary standpoint.
+
+1355
+01:24:14,199 --> 01:24:20,199
+Rep. Mikaela Angela B. Suansing: As you know, we're always in support of the Office of the Ombudsman.
+
+1356
+01:24:20,199 --> 01:24:20,720
+Rep. Mikaela Angela B. Suansing: Last year,
+
+1357
+01:24:20,720 --> 01:24:24,520
+Rep. Mikaela Angela B. Suansing: we helped to work out the rental situation with the building.
+
+1358
+01:24:24,520 --> 01:24:28,760
+Rep. Mikaela Angela B. Suansing: And then, with all the satellite offices,
+
+1359
+01:24:28,760 --> 01:24:33,280
+Rep. Mikaela Angela B. Suansing: we also supplied the necessary equipment and the additional manpower
+
+1360
+01:24:33,280 --> 01:24:39,320
+Rep. Mikaela Angela B. Suansing: to be able to augment the resources needed to facilitate those.
+
+1361
+01:24:39,320 --> 01:24:45,719
+Rep. Mikaela Angela B. Suansing: So, this year, Ombudsman, I wanted to ask the same question to the Office of the Ombudsman.
+
+1362
+01:24:45,719 --> 01:24:50,920
+Rep. Mikaela Angela B. Suansing: I saw on your slides the list of requested additional funding.
+
+1363
+01:24:50,920 --> 01:24:56,760
+Rep. Mikaela Angela B. Suansing: So, may we request, Ombudsman, if we may request it in writing,
+
+1364
+01:24:56,760 --> 01:25:02,119
+Rep. Mikaela Angela B. Suansing: because we would have to submit it for the deliberation of the Budget Amendments Review Subcommittee,
+
+1365
+01:25:02,119 --> 01:25:07,520
+Rep. Mikaela Angela B. Suansing: which is one of our main reforms since last year, the Committee on Appropriations,
+
+1366
+01:25:07,520 --> 01:25:13,000
+Rep. Mikaela Angela B. Suansing: wherein we make sure all the institutional amendments requested to the Committee on Appropriations
+
+1367
+01:25:13,000 --> 01:25:19,000
+Rep. Mikaela Angela B. Suansing: are deliberated on openly to be shown to the public.
+
+1368
+01:25:19,000 --> 01:25:27,239
+Rep. Mikaela Angela B. Suansing: I saw here po additional confidential funds, Ombudsman marshal positions, motor vehicles, and the purchase of the new office building.
+
+1369
+01:25:27,239 --> 01:25:33,320
+Rep. Mikaela Angela B. Suansing: We wanted to make sure, given the very important mandate that the Office of the Ombudsman has,
+
+1370
+01:25:33,320 --> 01:25:41,400
+Rep. Mikaela Angela B. Suansing: we want to make sure that we give you the resources to be able to perform all of the very important work that you are doing.
+
+1371
+01:25:41,400 --> 01:25:50,247
+Rep. Mikaela Angela B. Suansing: So, may we request, Ombudsman, when you submit the letter, is it okay if we request for a prioritization?
+
+1372
+01:25:51,119 --> 01:26:00,470
+Rep. Mikaela Angela B. Suansing: We would also know if we're able to find the additional fiscal space, which ones we would prioritize first.
+
+1373
+01:26:00,480 --> 01:26:06,030
+Ombudsman Jesus Crispin C. Remulla: Thank you, Madam Chair. We will comply, Your Honor. We will comply as soon as possible.
+
+1374
+01:26:06,040 --> 01:26:12,080
+Rep. Mikaela Angela B. Suansing: Thank you very much, and then with regard to the requested special provision, we're always in support of that.
+
+1375
+01:26:12,080 --> 01:26:18,310
+Rep. Mikaela Angela B. Suansing: It was there in the 2026 GAAA as well, in terms of the requested special provision.
+
+1376
+01:26:18,320 --> 01:26:20,080
+Rep. Mikaela Angela B. Suansing: So, um,
+
+1377
+01:26:20,080 --> 01:26:27,239
+Rep. Mikaela Angela B. Suansing: We'll coordinate na lang po as we fine-tune the GAB for 2027,
+
+1378
+01:26:27,239 --> 01:26:33,000
+Rep. Mikaela Angela B. Suansing: that the proper wording, the necessary wording is reflected as such in the GAB.
+
+1379
+01:26:33,000 --> 01:26:37,199
+Rep. Mikaela Angela B. Suansing: So, yun lang naman po. I don't have questions naman po, Chair Rufus.
+
+1380
+01:26:37,199 --> 01:26:44,639
+Rep. Mikaela Angela B. Suansing: It's really more of I wanted to make sure to give the assurance to the Office of the Ombudsman, to Ombudsman Boying,
+
+1381
+01:26:44,639 --> 01:26:49,920
+Rep. Mikaela Angela B. Suansing: that we are very much in support of the budget of the...
+
+1382
+01:26:49,920 --> 01:27:02,520
+Rep. Mikaela Angela B. Suansing: Office of the Ombudsman, and we are very much appreciative, and we commend the hard work and all the good work that the Office of the Ombudsman is doing for our country.
+
+1383
+01:27:02,520 --> 01:27:13,800
+Rep. Mikaela Angela B. Suansing: So, to show our appreciation, the best that we could do is to be able to make sure to give you the resources that you need to perform your mandate better.
+
+1384
+01:27:13,800 --> 01:27:21,119
+Rep. Mikaela Angela B. Suansing: So, we'll coordinate na lang po, Ombudsman, with regard to the list of requested amendments,
+
+1385
+01:27:21,119 --> 01:27:29,280
+Rep. Mikaela Angela B. Suansing: so that, if possible po, as soon as possible, given that we are, um, convening the BAR C in a week or so,
+
+1386
+01:27:29,280 --> 01:27:31,880
+Rep. Mikaela Angela B. Suansing: para po maipasok po natin sa deliberations.
+
+1387
+01:27:31,880 --> 01:27:32,830
+Rep. Mikaela Angela B. Suansing: Thank you very much po.
+
+1388
+01:27:33,404 --> 01:27:34,298
+Ombudsman Jesus Crispin C. Remulla: Thank you, Madam Chair.
+
+1389
+01:27:35,159 --> 01:27:39,590
+Rep. Rufus B. Rodriguez: Thank you, Madam Chair, and thank you for that.
+
+1390
+01:27:39,600 --> 01:27:42,314
+Rep. Rufus B. Rodriguez: Atty. Diokno would like to be recognized.
+
+1391
+01:27:42,800 --> 01:27:43,300
+Rep. Mikaela Angela B. Suansing: Yes.
+
+1392
+01:27:45,639 --> 01:27:51,709
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: May isa lang pong pahabol, if I may, Madam Chair, to the office—to Ombudsman Remulla.
+
+1393
+01:27:51,719 --> 01:28:07,559
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Um, I understand that part of the function of the Office of the Ombudsman is also to monitor impeachment proceedings, uh, in case there are any investigations or prosecutions that should come after kapag may lumitaw na mga ebidensya.
+
+1394
+01:28:07,880 --> 01:28:18,325
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: I also would like to say that earlier I saw your budget proposal for confidential funds, which is only at the amount of 55 million or more or less in that area.
+
+1395
+01:28:18,760 --> 01:28:29,830
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: And sa palagay ko, kayo yung nangangailangan ng mas malalaking confidential funds kaysa sa yung mga ibang mga ahensya na tinututukan natin doon sa kaso ng impeachment.
+
+1396
+01:28:29,840 --> 01:28:48,835
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: My question is, uh, may I know if the—your office is presently monitoring the, uh, status of the testimonies and evidence being presented, especially with respect to the confidential funds, for possible, um, violations that may be investigated after?
+
+1397
+01:28:50,320 --> 01:28:53,870
+Ombudsman Jesus Crispin C. Remulla: It is being monitored by our office, Your Honor.
+
+1398
+01:28:53,880 --> 01:28:58,420
+Ombudsman Jesus Crispin C. Remulla: There is—there is an active unit monitoring the goings-on at the impeachment, Your Honor.
+
+1399
+01:28:58,960 --> 01:29:04,030
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Thank you so much for that, because we do have some concerns about, um, accountability.
+
+1400
+01:29:04,040 --> 01:29:07,070
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: That's precisely why we have the impeachment process.
+
+1401
+01:29:07,080 --> 01:29:09,541
+Rep. Jose Manuel Tadeo "Chel" I. Diokno: Maraming salamat po, Chair. Maraming salamat, Ombudsman.
+
+1402
+01:29:09,880 --> 01:29:14,270
+Rep. Rufus B. Rodriguez: Thank you very much. May I now reassume as Vice Chair?
+
+1403
+01:29:14,280 --> 01:29:22,270
+Rep. Rufus B. Rodriguez: Because there are no more interpellators, and so therefore this Chair, this Vice Chair, now is ready to accept a motion.
+
+1404
+01:29:22,280 --> 01:29:22,754
+Rep. Rufus B. Rodriguez: to terminate.
+
+1405
+01:29:26,480 --> 01:29:32,080
+Rep. Salvador A. Pleyto: Uh, Mr. Chair, may I move that we terminate the budget briefing of the Office of the Ombudsman?
+
+1406
+01:29:32,080 --> 01:29:32,693
+Rep. Salvador A. Pleyto: I so move.
+
+1407
+01:29:33,239 --> 01:29:35,910
+Rep. Rufus B. Rodriguez: Is there any second motion?
+
+1408
+01:29:35,920 --> 01:29:36,190
+Committee member: Second.
+
+1409
+01:29:36,199 --> 01:29:37,920
+Rep. Rufus B. Rodriguez: Moved and seconded.
+
+1410
+01:29:37,920 --> 01:29:39,190
+Rep. Rufus B. Rodriguez: We now terminate.
+
+1411
+01:29:40,287 --> 01:29:46,719
+Rep. Rufus B. Rodriguez: Congratulations, Ombudsman Remulla, and we thank you for coming and presenting your budget.
+
+1412
+01:29:47,480 --> 01:29:52,159
+Rep. Rufus B. Rodriguez: And so we thank also our members for your active participation.
+
+1413
+01:29:52,159 --> 01:29:54,867
+Rep. Rufus B. Rodriguez: The briefing is now terminated.
+
+1414
+01:29:57,280 --> 01:29:57,685
+Rep. Rufus B. Rodriguez: Thank you.
+
+1415
+01:29:58,159 --> 01:30:04,639
+Rep. Rufus B. Rodriguez: The committee proceedings—just an announcement—the committee proceedings are hereby suspended and will resume at 3 p.m.
+
+1416
+01:30:05,480 --> 01:30:07,253
+Rep. Rufus B. Rodriguez: for the Commission on Audit
+
+1417
+01:30:07,800 --> 01:30:10,072
+Rep. Rufus B. Rodriguez: budget briefing. Thank you.
+

@@ -1,0 +1,2159 @@
+{
+  "hearing": {
+    "hearing_id": 31,
+    "title": "House Committee on Appropriations: DAR - September 3, 2026",
+    "hearing_date": "2026-09-03",
+    "official_url": "https://www.youtube.com/watch?v=3wt8IsP9Ynk"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h31/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Budget execution and land-delivery capacity",
+      "text": "Members questioned why initial land-documentation targets rise while downstream survey and distribution targets fall, and raised the effect of budget ceilings on delivery. DAR officials cited funding and documentation constraints, described the pending release process for landowner compensation, and offered a supporting payment list.",
+      "citations": []
+    },
+    {
+      "label": "Titles, conversion, and farmer protections",
+      "text": "Members raised beneficiaries not installed on land covered by Certificates of Land Ownership Award (CLOAs), overlapping claims, agricultural conversion, and farmer tenure after a court reversal in Sariaya. DAR described title and land-status review, coordination with other agencies, and protections for beneficiaries; members sought clearer records, safeguards, and a timeline for the Sariaya task-force report.",
+      "citations": []
+    },
+    {
+      "label": "Farm bridges and foreign financing",
+      "text": "Members examined site selection and the farm bridge project. DAR described proposals originating with farmer organizations and validation with planning and local partners. The French loan remained unsigned, and members discussed how loan proceeds would require an appropriation before they could be spent.",
+      "citations": []
+    },
+    {
+      "label": "Reporting, coordination, and close",
+      "text": "Members requested beneficiary, land-balance, conversion, compensation, and project data. Officials made several commitments to submit lists or reports and improve coordination. Gonzales moved to terminate the briefing; after a second and no objections, Dy approved the motion.",
+      "citations": []
+    }
+  ],
+  "method_note": "The account distinguishes announced appropriations, later additions, pending releases, and proposed foreign financing by their stated status and scope. Commitments and requests remain distinct from completed actions.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Department of Agrarian Reform (DAR) FY2027 National Expenditure Program (NEP)",
+          "text": "PHP 16.935 billion was the Department of Agrarian Reform (DAR)'s FY2027 National Expenditure Program (NEP) total in Secretary Conrado M. Estrella III's presentation; presiding Representative Ian Paul L. Dy cited PHP 14.691 billion in his opening remarks. These stated totals remain unreconciled. DAR's original consolidated submission to the Department of Budget and Management (DBM) was not stated.",
+          "citations": [
+            {
+              "stable_id": "asr-000672",
+              "start_seconds": 2579.56,
+              "clock": "00:42:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000672"
+            },
+            {
+              "stable_id": "asr-000673",
+              "start_seconds": 2586.02,
+              "clock": "00:43:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000673"
+            },
+            {
+              "stable_id": "asr-000046",
+              "start_seconds": 366.73,
+              "clock": "00:06:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000046"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-dar",
+      "label": "DAR budget",
+      "items": [
+        {
+          "label": "FY2027 program allocations and priorities",
+          "text": "PHP 3.373 billion for the Land Tenure Security Program (LTSP), PHP 1.29 billion for the Agrarian Justice Delivery Program and PHP 2.477 billion for the Agrarian Reform Beneficiaries Development and Support Program were the FY2027 program allocations read in the opening remarks by presiding Rep. Ian Paul L. Dy.",
+          "citations": [
+            {
+              "stable_id": "asr-000048",
+              "start_seconds": 382.15,
+              "clock": "00:06:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000048"
+            },
+            {
+              "stable_id": "asr-000049",
+              "start_seconds": 387.91,
+              "clock": "00:06:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000049"
+            },
+            {
+              "stable_id": "asr-000050",
+              "start_seconds": 390.31,
+              "clock": "00:06:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000050"
+            },
+            {
+              "stable_id": "asr-000051",
+              "start_seconds": 399.71,
+              "clock": "00:06:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000051"
+            },
+            {
+              "stable_id": "asr-000052",
+              "start_seconds": 404.33,
+              "clock": "00:06:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000052"
+            },
+            {
+              "stable_id": "asr-000053",
+              "start_seconds": 409.57,
+              "clock": "00:06:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000053"
+            }
+          ]
+        },
+        {
+          "label": "DAR GAA appropriations, FY2023-FY2026",
+          "text": "PHP 9.861 billion was DAR's General Appropriations Act (GAA) appropriation in FY2023, followed by PHP 8.081 billion in FY2024, PHP 10.442 billion in FY2025 and PHP 16.849 billion in FY2026. He connected the FY2026 increase to continuing implementation of the New Agrarian Emancipation Act and land-tenure, agrarian-justice and support-service work.",
+          "citations": [
+            {
+              "stable_id": "asr-000339",
+              "start_seconds": 1210.37,
+              "clock": "00:20:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000339"
+            },
+            {
+              "stable_id": "asr-000341",
+              "start_seconds": 1214.77,
+              "clock": "00:20:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000341"
+            },
+            {
+              "stable_id": "asr-000342",
+              "start_seconds": 1217.19,
+              "clock": "00:20:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000342"
+            },
+            {
+              "stable_id": "asr-000345",
+              "start_seconds": 1221.95,
+              "clock": "00:20:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000345"
+            },
+            {
+              "stable_id": "asr-000347",
+              "start_seconds": 1228.49,
+              "clock": "00:20:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000347"
+            },
+            {
+              "stable_id": "asr-000348",
+              "start_seconds": 1228.91,
+              "clock": "00:20:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000348"
+            },
+            {
+              "stable_id": "asr-000352",
+              "start_seconds": 1236.31,
+              "clock": "00:20:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000352"
+            },
+            {
+              "stable_id": "asr-000337",
+              "start_seconds": 1206.71,
+              "clock": "00:20:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000337"
+            },
+            {
+              "stable_id": "asr-000340",
+              "start_seconds": 1213.75,
+              "clock": "00:20:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000340"
+            },
+            {
+              "stable_id": "asr-000343",
+              "start_seconds": 1219.35,
+              "clock": "00:20:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000343"
+            },
+            {
+              "stable_id": "asr-000344",
+              "start_seconds": 1221.07,
+              "clock": "00:20:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000344"
+            },
+            {
+              "stable_id": "asr-000346",
+              "start_seconds": 1225.15,
+              "clock": "00:20:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000346"
+            },
+            {
+              "stable_id": "asr-000349",
+              "start_seconds": 1230.95,
+              "clock": "00:20:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000349"
+            }
+          ]
+        },
+        {
+          "label": "Irrigation investments and institutional-market funding",
+          "text": "PHP 5.02 billion in irrigation projects supported DAR beneficiaries from July 2022 to July 2026, with 233 projects completed and 52 ongoing. The Partnership Against Hunger and Poverty (PAHP) project had approximately PHP 208 million in project funds under the General Appropriations Act (GAA), connecting beneficiary organizations with institutional buyers.",
+          "citations": [
+            {
+              "stable_id": "asr-000534",
+              "start_seconds": 1814.7,
+              "clock": "00:30:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000534"
+            },
+            {
+              "stable_id": "asr-000535",
+              "start_seconds": 1828.98,
+              "clock": "00:30:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000535"
+            },
+            {
+              "stable_id": "asr-000611",
+              "start_seconds": 2311.68,
+              "clock": "00:38:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000611"
+            },
+            {
+              "stable_id": "asr-000612",
+              "start_seconds": 2315.68,
+              "clock": "00:38:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000612"
+            }
+          ]
+        },
+        {
+          "label": "Budget utilization, FY2023-FY2026",
+          "text": "PHP 17.49 billion was DAR's FY2023 allotment with a 74% obligation rate and 82% disbursement rate; FY2024, PHP 17.385 billion with 88.67% obligations and 75% disbursements; FY2025, PHP 20.55 billion with 91.49% obligations and 74.65% disbursements. As of June 2026, the FY2026 allotment was PHP 18.379 billion, with mid-year obligation and disbursement rates stated as 47% and 70%. He said implementation should accelerate while retaining accountability and compliance.",
+          "citations": [
+            {
+              "stable_id": "asr-000630",
+              "start_seconds": 2405.4,
+              "clock": "00:40:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000630"
+            },
+            {
+              "stable_id": "asr-000631",
+              "start_seconds": 2410.08,
+              "clock": "00:40:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000631"
+            },
+            {
+              "stable_id": "asr-000633",
+              "start_seconds": 2421.4,
+              "clock": "00:40:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000633"
+            },
+            {
+              "stable_id": "asr-000635",
+              "start_seconds": 2432.4,
+              "clock": "00:40:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000635"
+            },
+            {
+              "stable_id": "asr-000637",
+              "start_seconds": 2439.88,
+              "clock": "00:40:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000637"
+            },
+            {
+              "stable_id": "asr-000639",
+              "start_seconds": 2449.88,
+              "clock": "00:40:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000639"
+            },
+            {
+              "stable_id": "asr-000640",
+              "start_seconds": 2456.88,
+              "clock": "00:40:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000640"
+            },
+            {
+              "stable_id": "asr-000641",
+              "start_seconds": 2459.88,
+              "clock": "00:40:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000641"
+            },
+            {
+              "stable_id": "asr-000644",
+              "start_seconds": 2465.88,
+              "clock": "00:41:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000644"
+            },
+            {
+              "stable_id": "asr-000645",
+              "start_seconds": 2470.88,
+              "clock": "00:41:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000645"
+            },
+            {
+              "stable_id": "asr-000629",
+              "start_seconds": 2403.0,
+              "clock": "00:40:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000629"
+            },
+            {
+              "stable_id": "asr-000632",
+              "start_seconds": 2418.4,
+              "clock": "00:40:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000632"
+            },
+            {
+              "stable_id": "asr-000636",
+              "start_seconds": 2434.88,
+              "clock": "00:40:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000636"
+            }
+          ]
+        },
+        {
+          "label": "Proposed DAR budget, FY2027",
+          "text": "PHP 7.066 billion (41.72%) for personal services, PHP 8.61 billion (50.90%) for maintenance and other operating expenses (MOOE), and PHP 1.249 billion (7.37%) for capital outlays. He described MOOE as supporting program implementation and daily delivery, personal services as staffing from central through field offices, and capital outlays as operational investments.",
+          "citations": [
+            {
+              "stable_id": "asr-000692",
+              "start_seconds": 2676.83,
+              "clock": "00:44:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000692"
+            },
+            {
+              "stable_id": "asr-000693",
+              "start_seconds": 2690.31,
+              "clock": "00:44:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000693"
+            },
+            {
+              "stable_id": "asr-000694",
+              "start_seconds": 2700.0,
+              "clock": "00:45:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000694"
+            },
+            {
+              "stable_id": "asr-000690",
+              "start_seconds": 2661.38,
+              "clock": "00:44:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000690"
+            }
+          ]
+        },
+        {
+          "label": "Split program: World Bank financing, parcelization and requested performance data",
+          "text": "Rep. Leila M. de Lima asked whether the Department of Agrarian Reform (DAR)'s Support to Parcelization of Lands for Individual Titling (SPLIT) project, was complete, whether its World Bank loan was exhausted or the project deprioritized, and whether it remained a 2027 priority. Secretary Conrado M. Estrella III said it remained a priority and was moving at full speed. He said the World Bank-funded project was due to expire the following year; de Lima specified December 31, 2027, which Estrella accepted in context. He said the loan had not been exhausted and releases required strict approval. Estrella explained that collective certificates of land ownership awards (CLOAs) had not accelerated titling because a single title could cover many owners without specifying each parcel, creating confusion and conflict; the split program parcelizes those collective titles. De Lima requested regional 2025 and 2026 figures comparing validated collective CLOAs, surveyed parcels and generated and distributed e-titles with annual targets, plus the amount of the loan disbursed to date. She invited DAR to provide the data later.",
+          "citations": [
+            {
+              "stable_id": "asr-000775",
+              "start_seconds": 3264.12,
+              "clock": "00:54:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000775"
+            },
+            {
+              "stable_id": "asr-000783",
+              "start_seconds": 3294.12,
+              "clock": "00:54:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000783"
+            },
+            {
+              "stable_id": "asr-000793",
+              "start_seconds": 3350.32,
+              "clock": "00:55:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000793"
+            },
+            {
+              "stable_id": "asr-000806",
+              "start_seconds": 3421.36,
+              "clock": "00:57:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000806"
+            },
+            {
+              "stable_id": "asr-000808",
+              "start_seconds": 3433.32,
+              "clock": "00:57:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000808"
+            }
+          ]
+        },
+        {
+          "label": "Land Tenure Security Program allocation and delivery capacity",
+          "text": "PHP 4.10 billion was the FY2027 NEP amount cited by de Lima for the Department of Agrarian Reform (DAR)'s Land Tenure Security Program (LTSP). Representative Leila M. de Lima asked how much would address backlogs in installation, land acquisition, compensation and enforcement, and what hectares and agrarian reform beneficiaries (ARBs) DAR committed to place in actual possession and control. DAR Secretary Conrado M. Estrella III referred the question to Field Operations Undersecretary Atty. Kazel C. Celeste. Celeste said the Department of Budget and Management (DBM) ceiling funded about 20,000 hectares each year, at a rough estimate of PHP 10,000 per hectare from documentation through distribution. She agreed that this was insufficient and said DAR could propose a higher target, but the DBM ceiling constrained the funded area to about 20,000 hectares annually; when asked, she estimated coverage of about 20,000 to 22,000 hectares.",
+          "citations": [
+            {
+              "stable_id": "asr-000817",
+              "start_seconds": 3474.12,
+              "clock": "00:57:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000817"
+            },
+            {
+              "stable_id": "asr-000818",
+              "start_seconds": 3480.16,
+              "clock": "00:58:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000818"
+            },
+            {
+              "stable_id": "asr-000841",
+              "start_seconds": 3558.12,
+              "clock": "00:59:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000841"
+            },
+            {
+              "stable_id": "asr-000847",
+              "start_seconds": 3578.12,
+              "clock": "00:59:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000847"
+            },
+            {
+              "stable_id": "asr-000849",
+              "start_seconds": 3585.36,
+              "clock": "00:59:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000849"
+            },
+            {
+              "stable_id": "asr-000856",
+              "start_seconds": 3602.58,
+              "clock": "01:00:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000856"
+            },
+            {
+              "stable_id": "asr-000862",
+              "start_seconds": 3626.18,
+              "clock": "01:00:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000862"
+            },
+            {
+              "stable_id": "asr-000848",
+              "start_seconds": 3581.3,
+              "clock": "00:59:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000848"
+            },
+            {
+              "stable_id": "asr-000860",
+              "start_seconds": 3619.5,
+              "clock": "01:00:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000860"
+            }
+          ]
+        },
+        {
+          "label": "Budget support",
+          "text": "Representative Arnie B. Fuentebella praised Department of Agrarian Reform (DAR) Secretary Conrado M. Estrella III and said he supported the department's budget, including any additional amount the department might request. This was an expression of support; no amount or formal motion was stated.",
+          "citations": [
+            {
+              "stable_id": "asr-001030",
+              "start_seconds": 4347.3,
+              "clock": "01:12:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001030"
+            },
+            {
+              "stable_id": "asr-001034",
+              "start_seconds": 4366.3,
+              "clock": "01:12:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001034"
+            }
+          ]
+        },
+        {
+          "label": "Survey and legal work stalled for lack of funds",
+          "text": "Rep. Elijah Rumbaoa San Fernando said farmers reported land holdings stalled because DAR lacked adequate funding for surveys and legal and administrative requirements. Estrella answered that DAR sometimes carries out necessary implementation even without funds and asked those raising the concern to go to the Department.",
+          "citations": [
+            {
+              "stable_id": "asr-001505",
+              "start_seconds": 5775.39,
+              "clock": "01:36:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001505"
+            },
+            {
+              "stable_id": "asr-001518",
+              "start_seconds": 5795.41,
+              "clock": "01:36:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001518"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 land program targets and funding ceiling",
+          "text": "Rep. Elijah Rumbaoa San Fernando questioned DAR's FY2027 target pattern: more land holdings entering initial documentation, but fewer targets for approved surveys, EP CLOA registration and actual land distribution. Estrella referred the question to Undersecretary for Field Operations Atty. Kazel C. Celeste. Celeste said documentation was still being completed for land already distributed, some of which remained short of documents or landowner compensation. She attributed the Land Tenure Security Program (LTSP) funding constraint to DAR's proposal being based on the budget ceiling issued by the Department of Budget and Management (DBM). San Fernando acknowledged the DBM constraint.",
+          "citations": [
+            {
+              "stable_id": "asr-001732",
+              "start_seconds": 6085.83,
+              "clock": "01:41:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001732"
+            },
+            {
+              "stable_id": "asr-001793",
+              "start_seconds": 6143.3099999999995,
+              "clock": "01:42:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001793"
+            },
+            {
+              "stable_id": "asr-001834",
+              "start_seconds": 6192.65,
+              "clock": "01:43:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001834"
+            }
+          ]
+        },
+        {
+          "label": "Climate Resilient Farm Productivity Support: post-disaster assistance and 2027 targets",
+          "text": "For the Department of Agrarian Reform (DAR)'s 2027 Climate Resilient Farm Productivity Support program, Representative Eulogio \"Leo\" R. Rodriguez asked the funding level, included interventions and target agrarian reform beneficiaries (ARBs) and communities. Undersecretary for Support Services Josef Angelo S. Martires said farm-input support aimed to reach around 26,980 people and described farm machinery and equipment support across Tier 1 and Tier 2. Martires explained that DAR's support is mainly for recovery after disaster, rather than immediate relief, and aims to help beneficiaries return to productive activity. He said assistance is often delivered through organized Agrarian Reform Beneficiary Organizations so communities can share equipment costs and sustain maintenance; he contrasted shared tractors with giving one ARB a tractor without resources for fuel, tires and upkeep. He added that Secretary Conrado M. Estrella III was promoting solar-powered equipment to reduce reliance on fossil fuels.",
+          "citations": [
+            {
+              "stable_id": "asr-002048",
+              "start_seconds": 6561.96,
+              "clock": "01:49:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002048"
+            },
+            {
+              "stable_id": "asr-002080",
+              "start_seconds": 6650.9,
+              "clock": "01:50:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002080"
+            },
+            {
+              "stable_id": "asr-002119",
+              "start_seconds": 6730.69,
+              "clock": "01:52:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002119"
+            }
+          ]
+        },
+        {
+          "label": "Land-distribution records and digitization funding",
+          "text": "Representative Julius Cesar \"Jay\" V. Vergara asked how much of the land distributed under agrarian reform remained with farmers. Field Operations Undersecretary Atty. Kazel C. Celeste said DAR had distributed 4.8 million hectares to agrarian reform beneficiaries (ARBs) since the start of the Comprehensive Agrarian Reform Program (CARP). She said DAR was building shapefiles to track, by Certificate of Land Ownership Award (CLOA), whether ARBs still held the land, what crops they planted, and whether land had been converted; work was proceeding region by region, with completion hoped for by year-end. Secretary Conrado M. Estrella III said digitization was unfinished and DAR was waiting for its funding. He said that among recipients of e-titles through the split program, about 80 to 90 percent still held their land.",
+          "citations": [
+            {
+              "stable_id": "asr-002533",
+              "start_seconds": 8380.82,
+              "clock": "02:19:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002533"
+            },
+            {
+              "stable_id": "asr-002556",
+              "start_seconds": 8464.78,
+              "clock": "02:21:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002556"
+            },
+            {
+              "stable_id": "asr-002564",
+              "start_seconds": 8488.78,
+              "clock": "02:21:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002564"
+            },
+            {
+              "stable_id": "asr-002675",
+              "start_seconds": 8727.22,
+              "clock": "02:25:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002675"
+            },
+            {
+              "stable_id": "asr-002686",
+              "start_seconds": 8749.22,
+              "clock": "02:25:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002686"
+            }
+          ]
+        },
+        {
+          "label": "Landowner compensation allocation, release status and outstanding valuation",
+          "text": "PHP 100 million is proposed for DAR landowner compensation in the FY2027 NEP, compared with PHP 500 million in FY2026 and PHP 6.78 million annually in FY2023-FY2025. Rep. Antonio L. Tinio sought confirmation; DAR Undersecretary Rowena Niña O. Taduran confirmed the comparison and credited the House with adding PHP 400 million to the current-year allocation.\n\nUndersecretary for Field Operations Atty. Kazel C. Celeste said the Office of the President (OP) had not yet approved release of the FY2026 compensation appropriation, after which the Department of Budget and Management (DBM) could release it. She confirmed Tinio's understanding that utilization was still zero while release was pending. Celeste described PHP 7.2 billion as the outstanding landowner-compensation balance still to be paid, including a PHP 2.2 billion cash portion. She said compensation could be paid 70% in government bonds and 30% in cash, and identified Land Bank of the Philippines (LandBank) bonds as the instrument. She said LandBank handles land valuation, DAR prioritizes payment first-in, first-out, and DAR could provide a supporting list of pending payments and the landowners and land areas to be compensated from the FY2026 appropriation and FY2027 proposal.",
+          "citations": [
+            {
+              "stable_id": "asr-002897",
+              "start_seconds": 9187.44,
+              "clock": "02:33:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002897"
+            },
+            {
+              "stable_id": "asr-002927",
+              "start_seconds": 9257.57,
+              "clock": "02:34:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002927"
+            },
+            {
+              "stable_id": "asr-002955",
+              "start_seconds": 9314.37,
+              "clock": "02:35:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002955"
+            },
+            {
+              "stable_id": "asr-002994",
+              "start_seconds": 9360.17,
+              "clock": "02:36:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002994"
+            },
+            {
+              "stable_id": "asr-003047",
+              "start_seconds": 9412.97,
+              "clock": "02:36:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003047"
+            },
+            {
+              "stable_id": "asr-003053",
+              "start_seconds": 9417.43,
+              "clock": "02:36:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003053"
+            },
+            {
+              "stable_id": "asr-003055",
+              "start_seconds": 9419.33,
+              "clock": "02:36:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003055"
+            },
+            {
+              "stable_id": "asr-003085",
+              "start_seconds": 9448.39,
+              "clock": "02:37:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003085"
+            },
+            {
+              "stable_id": "asr-003156",
+              "start_seconds": 9527.95,
+              "clock": "02:38:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003156"
+            },
+            {
+              "stable_id": "asr-002911",
+              "start_seconds": 9218.04,
+              "clock": "02:33:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002911"
+            },
+            {
+              "stable_id": "asr-002912",
+              "start_seconds": 9219.38,
+              "clock": "02:33:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002912"
+            },
+            {
+              "stable_id": "asr-002915",
+              "start_seconds": 9224.32,
+              "clock": "02:33:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002915"
+            },
+            {
+              "stable_id": "asr-002917",
+              "start_seconds": 9227.64,
+              "clock": "02:33:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002917"
+            },
+            {
+              "stable_id": "asr-002919",
+              "start_seconds": 9232.58,
+              "clock": "02:33:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002919"
+            },
+            {
+              "stable_id": "asr-002920",
+              "start_seconds": 9234.16,
+              "clock": "02:33:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002920"
+            },
+            {
+              "stable_id": "asr-002921",
+              "start_seconds": 9236.02,
+              "clock": "02:33:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002921"
+            },
+            {
+              "stable_id": "asr-002922",
+              "start_seconds": 9238.08,
+              "clock": "02:33:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002922"
+            },
+            {
+              "stable_id": "asr-002940",
+              "start_seconds": 9280.17,
+              "clock": "02:34:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002940"
+            },
+            {
+              "stable_id": "asr-002941",
+              "start_seconds": 9281.77,
+              "clock": "02:34:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002941"
+            },
+            {
+              "stable_id": "asr-002942",
+              "start_seconds": 9284.43,
+              "clock": "02:34:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002942"
+            },
+            {
+              "stable_id": "asr-002974",
+              "start_seconds": 9337.39,
+              "clock": "02:35:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002974"
+            },
+            {
+              "stable_id": "asr-002975",
+              "start_seconds": 9338.53,
+              "clock": "02:35:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002975"
+            },
+            {
+              "stable_id": "asr-002976",
+              "start_seconds": 9340.65,
+              "clock": "02:35:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002976"
+            },
+            {
+              "stable_id": "asr-002977",
+              "start_seconds": 9341.71,
+              "clock": "02:35:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002977"
+            },
+            {
+              "stable_id": "asr-002978",
+              "start_seconds": 9342.59,
+              "clock": "02:35:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002978"
+            },
+            {
+              "stable_id": "asr-002981",
+              "start_seconds": 9345.01,
+              "clock": "02:35:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002981"
+            },
+            {
+              "stable_id": "asr-002982",
+              "start_seconds": 9347.25,
+              "clock": "02:35:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002982"
+            }
+          ]
+        },
+        {
+          "label": "PBBM Bridges Project: French loan, GOP counterpart and appropriation",
+          "text": "PHP 1.4 billion in the FY2027 NEP was identified by Tinio as the Government of the Philippines (GOP) counterpart for the Pang-agraryong Tulay para sa Bagong Bayanihan ng mga Magsasaka (PBBM) Bridges Project. Secretary Conrado M. Estrella III clarified that the earlier South Korean financing did not proceed because the Korean government sought one large project, while DAR's bridges are smaller and dispersed nationwide; he said the Korean government apologized for its earlier statement and that France was then discussing support. Tinio questioned the absence of loan-proceeds funding. Estrella said loan proceeds existed but had not appeared in the budget because the Department of Finance (DOF) and French government had not signed the loan agreement. He anticipated signing around September 14-15 that year; Undersecretary for Foreign Assisted and Special Projects Jesry T. Palmares then described a PHP 22 billion total loan package and said final signing and related meetings were still being arranged.\n\nTinio warned that adding the loan proceeds without a congressional appropriation would leave the project unable to spend them and could require offsets within the budget ceiling or placement in unprogrammed appropriations. Estrella agreed an appropriation was necessary and said a line item could be prepared after signing; Tinio clarified that Congress, rather than DBM, would make the appropriation. Estrella agreed that members of Congress were prepared to add it. Signing and a congressional appropriation for loan proceeds remained pending.",
+          "citations": [
+            {
+              "stable_id": "asr-003178",
+              "start_seconds": 9555.48,
+              "clock": "02:39:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003178"
+            },
+            {
+              "stable_id": "asr-003210",
+              "start_seconds": 9595.94,
+              "clock": "02:39:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003210"
+            },
+            {
+              "stable_id": "asr-003293",
+              "start_seconds": 9693.38,
+              "clock": "02:41:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003293"
+            },
+            {
+              "stable_id": "asr-003336",
+              "start_seconds": 9746.13,
+              "clock": "02:42:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003336"
+            },
+            {
+              "stable_id": "asr-003417",
+              "start_seconds": 9846.83,
+              "clock": "02:44:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003417"
+            },
+            {
+              "stable_id": "asr-003447",
+              "start_seconds": 9881.09,
+              "clock": "02:44:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003447"
+            },
+            {
+              "stable_id": "asr-003474",
+              "start_seconds": 9923.8,
+              "clock": "02:45:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003474"
+            },
+            {
+              "stable_id": "asr-003297",
+              "start_seconds": 9697.16,
+              "clock": "02:41:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003297"
+            },
+            {
+              "stable_id": "asr-003298",
+              "start_seconds": 9699.46,
+              "clock": "02:41:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003298"
+            },
+            {
+              "stable_id": "asr-003478",
+              "start_seconds": 9932.04,
+              "clock": "02:45:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003478"
+            },
+            {
+              "stable_id": "asr-003479",
+              "start_seconds": 9933.86,
+              "clock": "02:45:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003479"
+            }
+          ]
+        },
+        {
+          "label": "Farmers' bridge proposals, qualification and ODA funding",
+          "text": "Rep. Salvador A. Pleyto asked what criteria qualified a farmers' bridge under the PBBM Bridges Project and whether the project was funded as a grant or through official development assistance (ODA). Secretary Estrella said agrarian reform beneficiary organizations submitted the bridge lists and proposals, and the Department of Economy, Planning and Development (DepDev) conducted its own validation because it approved qualification. He said the selected bridges followed the selection process and originated in ARBO proposals. Asked again whether the funding was a grant, Estrella answered that it was ODA. Pleyto expressed support for DAR's proposed budget.",
+          "citations": [
+            {
+              "stable_id": "asr-003670",
+              "start_seconds": 10310.68,
+              "clock": "02:51:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003670"
+            },
+            {
+              "stable_id": "asr-003681",
+              "start_seconds": 10332.96,
+              "clock": "02:52:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003681"
+            },
+            {
+              "stable_id": "asr-003718",
+              "start_seconds": 10392.4,
+              "clock": "02:53:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003718"
+            },
+            {
+              "stable_id": "asr-003744",
+              "start_seconds": 10444.32,
+              "clock": "02:54:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003744"
+            }
+          ]
+        },
+        {
+          "label": "PBBM Bridges Project implementation and timing",
+          "text": "Representative Marlo C. Bancoro said his district had at least six bridges on the PBBM Bridges Project list, if he had understood correctly, and asked whether the project could be implemented the following year after discussion with a new funder. Secretary Conrado M. Estrella III said DAR would try to implement it that year. He estimated that, conservatively, about one-third of the listed bridges could be implemented that year; if they were fortunate, perhaps half. Bancoro welcomed the prospect, noting the number of bridges on his district's list. Estrella cautioned him not to publicize the estimate widely because it might bring another wave of requests. Bancoro expressed support for additional DAR funding and offered his vote if needed.",
+          "citations": [
+            {
+              "stable_id": "asr-003777",
+              "start_seconds": 10513.44,
+              "clock": "02:55:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003777"
+            },
+            {
+              "stable_id": "asr-003791",
+              "start_seconds": 10543.44,
+              "clock": "02:55:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003791"
+            },
+            {
+              "stable_id": "asr-003796",
+              "start_seconds": 10553.44,
+              "clock": "02:55:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003796"
+            },
+            {
+              "stable_id": "asr-003801",
+              "start_seconds": 10563.44,
+              "clock": "02:56:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003801"
+            },
+            {
+              "stable_id": "asr-003857",
+              "start_seconds": 10679.44,
+              "clock": "02:57:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003857"
+            }
+          ]
+        },
+        {
+          "label": "Land acquisition funding, balance estimates and full-cost calculations",
+          "text": "Representative Ian Paul L. Dy posed questions on behalf of Task Force Mapalad National Peasant Federation about funding the President's 2027 land-title distribution target. He cited three differing land acquisition and distribution (LAD) balances: the DAR Field Operations Office figure, a public statement by Secretary Conrado M. Estrella III, and a computation from the Philippine Statistics Authority (PSA)'s 2022 Agricultural Indicators System. Asked which balance Congress was being asked to fund, Estrella said about 750,000 hectares remained, that 750,000 was the more accurate figure, and that DAR hoped to reduce it to about 500,000 hectares or less that year and finish the rest the following year. He said the residual work included splitting collective awards for individual titling, supported by the World Bank. Asked why the target showed only 20,000 hectares under LAD, Estrella said the remaining work largely involved parcelization of previously distributed collective titles. Dy then asked how DAR would meet its targets with the proposed acquisition allocation, which he said could buy at most an estimated 1,000 hectares. Undersecretary for Field Operations Atty. Kazel C. Celeste said DAR's submitted proposal was limited by the Department of Budget and Management (DBM) budget ceiling. Asked about costs for the balance in DAR's own records, Dy presented Task Force Mapalad's calculation of PHP 8,849,580,000 for a 30% initial cash payment and PHP 29,498,600,000 for full acquisition. Celeste said the per-hectare implementation estimate excluded landowner compensation and that the cash requirement already assessed for payment covered about 45,000 hectares. Dy separately calculated, for the full legislated balance under the Comprehensive Agrarian Reform Law, PHP 33,784,560,000 for a 30% initial cash payment and PHP 112,615,200,000 for full acquisition, and asked why DAR was not requesting those amounts. Celeste qualified that the agency's current cash figure reflected the actual balance already valued for payment, rather than the broader balance assumed in Dy's full-balance calculations. Dy put forward these calculations on behalf of Task Force Mapalad as questions about funding the full balance.",
+          "citations": [
+            {
+              "stable_id": "asr-003880",
+              "start_seconds": 10733.82,
+              "clock": "02:58:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003880"
+            },
+            {
+              "stable_id": "asr-003940",
+              "start_seconds": 10862.66,
+              "clock": "03:01:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003940"
+            },
+            {
+              "stable_id": "asr-004081",
+              "start_seconds": 11147.32,
+              "clock": "03:05:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004081"
+            },
+            {
+              "stable_id": "asr-004088",
+              "start_seconds": 11162.16,
+              "clock": "03:06:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004088"
+            },
+            {
+              "stable_id": "asr-004101",
+              "start_seconds": 11186.98,
+              "clock": "03:06:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004101"
+            },
+            {
+              "stable_id": "asr-004116",
+              "start_seconds": 11220.66,
+              "clock": "03:07:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004116"
+            },
+            {
+              "stable_id": "asr-004132",
+              "start_seconds": 11252.84,
+              "clock": "03:07:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004132"
+            },
+            {
+              "stable_id": "asr-004144-split-2",
+              "start_seconds": 11281.76,
+              "clock": "03:08:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004144-split-2"
+            },
+            {
+              "stable_id": "asr-004108",
+              "start_seconds": 11200.82,
+              "clock": "03:06:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004108"
+            },
+            {
+              "stable_id": "asr-004109",
+              "start_seconds": 11204.76,
+              "clock": "03:06:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004109"
+            },
+            {
+              "stable_id": "asr-004110",
+              "start_seconds": 11205.84,
+              "clock": "03:06:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004110"
+            },
+            {
+              "stable_id": "asr-004111",
+              "start_seconds": 11207.28,
+              "clock": "03:06:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004111"
+            },
+            {
+              "stable_id": "asr-004112",
+              "start_seconds": 11213.84,
+              "clock": "03:06:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004112"
+            },
+            {
+              "stable_id": "asr-004113",
+              "start_seconds": 11215.22,
+              "clock": "03:06:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004113"
+            },
+            {
+              "stable_id": "asr-004136",
+              "start_seconds": 11260.52,
+              "clock": "03:07:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004136"
+            },
+            {
+              "stable_id": "asr-004137",
+              "start_seconds": 11264.96,
+              "clock": "03:07:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004137"
+            },
+            {
+              "stable_id": "asr-004138",
+              "start_seconds": 11266.6,
+              "clock": "03:07:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004138"
+            },
+            {
+              "stable_id": "asr-004139",
+              "start_seconds": 11268.16,
+              "clock": "03:07:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004139"
+            },
+            {
+              "stable_id": "asr-004140",
+              "start_seconds": 11272.64,
+              "clock": "03:07:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004140"
+            }
+          ]
+        },
+        {
+          "label": "Agrarian Reform Fund release and utilization reporting",
+          "text": "Dy asked how much of the PHP 19 billion Agrarian Reform Fund (ARF) approved in October 2024 had been released and how much went to land acquisition, by component and region, and why a 2025 ARF utilization report had not been published. Undersecretary for Foreign Assisted and Special Projects Jesry T. Palmares said DAR did not have the tally at hand and requested one or two days to submit it to the committee; Dy agreed.",
+          "citations": [
+            {
+              "stable_id": "asr-004164",
+              "start_seconds": 11320.8,
+              "clock": "03:08:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004164"
+            },
+            {
+              "stable_id": "asr-004178",
+              "start_seconds": 11358.52,
+              "clock": "03:09:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004178"
+            },
+            {
+              "stable_id": "asr-004184",
+              "start_seconds": 11369.72,
+              "clock": "03:09:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004184"
+            },
+            {
+              "stable_id": "asr-004166",
+              "start_seconds": 11324.86,
+              "clock": "03:08:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004166"
+            },
+            {
+              "stable_id": "asr-004167",
+              "start_seconds": 11325.94,
+              "clock": "03:08:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004167"
+            }
+          ]
+        },
+        {
+          "label": "SPLIT output and accomplishment data",
+          "text": "Dy asked for the Support to Parcelization of Lands for Individual Titling (SPLIT) accomplishments against targets for 2025 and 2026, including validated collective CLOAs, surveyed parcels, generated and distributed electronic titles by region, and the loan disbursement rate. Palmares reported 135,884 field-validated CLOAs, 1,481,491 hectares, and 330,497 electronic titles. Regional comparisons and the loan disbursement rate remained outstanding.",
+          "citations": [
+            {
+              "stable_id": "asr-004188",
+              "start_seconds": 11378.44,
+              "clock": "03:09:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004188"
+            },
+            {
+              "stable_id": "asr-004204",
+              "start_seconds": 11410.64,
+              "clock": "03:10:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004204"
+            },
+            {
+              "stable_id": "asr-004207",
+              "start_seconds": 11416.16,
+              "clock": "03:10:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004207"
+            },
+            {
+              "stable_id": "asr-004209",
+              "start_seconds": 11422.08,
+              "clock": "03:10:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004209"
+            },
+            {
+              "stable_id": "asr-004217",
+              "start_seconds": 11439.64,
+              "clock": "03:10:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004217"
+            }
+          ]
+        },
+        {
+          "label": "Bridge project cost and site-selection criteria",
+          "text": "PHP 28.24 billion was the total PBBM Bridges Project cost cited by Rep. Timothy Joseph E. Cayton, who asked how sites were identified and selected. Undersecretary for Foreign Assisted and Special Projects Jesry T. Palmares said the Department of Economy, Planning and Development (DepDev) requirements had undergone nearly a year of defense, area identification, site validation and economic internal rate of return (EIRR) review. He said the benchmarks considered farmer beneficiaries and potential expansion of production for food security. DAR had submitted 1,200 locations and sites, all in agrarian reform communities and based on agrarian reform beneficiary (ARB) resolutions and requests for farm access bridges; after the planning approval process, 350 locations had been physically validated with local governments and engineering staff.",
+          "citations": [
+            {
+              "stable_id": "asr-004240",
+              "start_seconds": 11486.28,
+              "clock": "03:11:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004240"
+            },
+            {
+              "stable_id": "asr-004248",
+              "start_seconds": 11502.2,
+              "clock": "03:11:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004248"
+            },
+            {
+              "stable_id": "asr-004249",
+              "start_seconds": 11504.24,
+              "clock": "03:11:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004249"
+            },
+            {
+              "stable_id": "asr-004254",
+              "start_seconds": 11514.18,
+              "clock": "03:11:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004254"
+            },
+            {
+              "stable_id": "asr-004275",
+              "start_seconds": 11554.8,
+              "clock": "03:12:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004275"
+            },
+            {
+              "stable_id": "asr-004283",
+              "start_seconds": 11570.52,
+              "clock": "03:12:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004283"
+            },
+            {
+              "stable_id": "asr-004308",
+              "start_seconds": 11620.64,
+              "clock": "03:13:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004308"
+            }
+          ]
+        },
+        {
+          "label": "Request to fund a feasibility study for a Magat River crossing",
+          "text": "Cayton said two senior citizens had died after a boat carrying residents and farmers crossed the Magat River near Bayombong, Nueva Vizcaya. He asked DAR to consider allocating funds for a feasibility study for a bridge in the Paitan area, explaining that residents relied on boats and that weather affected the crossing. He said he would coordinate with the local office.",
+          "citations": [
+            {
+              "stable_id": "asr-004319",
+              "start_seconds": 11642.64,
+              "clock": "03:14:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004319"
+            },
+            {
+              "stable_id": "asr-004337",
+              "start_seconds": 11679.0,
+              "clock": "03:14:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004337"
+            },
+            {
+              "stable_id": "asr-004345",
+              "start_seconds": 11694.68,
+              "clock": "03:14:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004345"
+            },
+            {
+              "stable_id": "asr-004373",
+              "start_seconds": 11749.44,
+              "clock": "03:15:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004373"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dar-programs-and-priorities",
+      "label": "DAR programs and priorities",
+      "items": [
+        {
+          "label": "Land tenure and debt condonation results",
+          "text": "Secretary Conrado M. Estrella III presented the Department of Agrarian Reform (DAR) FY2027 proposal and tied it to completing the debt-condonation mandate under Republic Act No. 11953, the New Agrarian Emancipation Act; President Ferdinand R. Marcos Jr. had directed DAR to finish the process. He recounted the law's enactment and DAR's annual land-title distribution: 21,876 titles in 2022, 63,897 in 2023, 102,536 in 2024 and 199,838 in 2025, alongside the reported hectare and beneficiary figures. He said the 2025 COCROM distribution covered 252,953 certificates and about PHP 35.69 billion in condoned debt. By August 12, 2026, DAR reported 410,179 titles covering 556,088 hectares and benefiting 376,738 agrarian reform beneficiaries; 703,047 certificates of condonation and release of mortgage (COCROMs) had been distributed, covering 901,246 hectares and about PHP 54.70 billion condoned. He gave the identified statutory scope as 620,255 beneficiaries, 1,184,635 hectares and approximately PHP 57.76 billion in agrarian debt. He said the statutory completion deadline of June 30, 2026 had been met, with validation complete except for COCROM distribution in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), which DAR would resume after elections.",
+          "citations": [
+            {
+              "stable_id": "asr-000093",
+              "start_seconds": 555.86,
+              "clock": "00:09:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000093"
+            },
+            {
+              "stable_id": "asr-000263",
+              "start_seconds": 1049.8600000000001,
+              "clock": "00:17:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000263"
+            },
+            {
+              "stable_id": "asr-000315",
+              "start_seconds": 1154.3,
+              "clock": "00:19:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000315"
+            },
+            {
+              "stable_id": "asr-000386",
+              "start_seconds": 1312.85,
+              "clock": "00:21:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000386"
+            },
+            {
+              "stable_id": "asr-000402",
+              "start_seconds": 1376.15,
+              "clock": "00:22:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000402"
+            },
+            {
+              "stable_id": "asr-000403",
+              "start_seconds": 1385.23,
+              "clock": "00:23:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000403"
+            },
+            {
+              "stable_id": "asr-000404",
+              "start_seconds": 1398.81,
+              "clock": "00:23:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000404"
+            },
+            {
+              "stable_id": "asr-000405",
+              "start_seconds": 1415.23,
+              "clock": "00:23:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000405"
+            },
+            {
+              "stable_id": "asr-000262",
+              "start_seconds": 1047.44,
+              "clock": "00:17:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000262"
+            }
+          ]
+        },
+        {
+          "label": "Agrarian justice case resolution",
+          "text": "For agrarian justice delivery, Estrella described efforts to reduce backlogs through grassroots mediation and reported resolution figures for department agrarian-law-implementation cases: 9,123 resolutions against a stated 7,644-case 2022 caseload (119%); 16,308 of 19,847 in 2023 (82%); 21,183 of 23,273 in 2024 (91%); 16,984 of 18,941 in 2025 (90%); and 8,389 of 13,048 from January through July 2026 (64.29%). He explained the 2022 resolved count exceeded the stated caseload because DAR found and resolved additional pending cases. He also reported Department of Agrarian Reform Adjudication Board (DARAB) resolutions of 13,287/13,656 in 2022, 22,372/22,580 in 2023, 23,032/23,200 in 2024, 20,403/20,522 in 2025 and 7,396/9,874 from January through June 2026.",
+          "citations": [
+            {
+              "stable_id": "asr-000409",
+              "start_seconds": 1449.3600000000001,
+              "clock": "00:24:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000409"
+            },
+            {
+              "stable_id": "asr-000417",
+              "start_seconds": 1515.78,
+              "clock": "00:25:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000417"
+            },
+            {
+              "stable_id": "asr-000435",
+              "start_seconds": 1596.7,
+              "clock": "00:26:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000435"
+            },
+            {
+              "stable_id": "asr-000470",
+              "start_seconds": 1671.8600000000001,
+              "clock": "00:27:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000470"
+            },
+            {
+              "stable_id": "asr-000502",
+              "start_seconds": 1738.02,
+              "clock": "00:28:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000502"
+            }
+          ]
+        },
+        {
+          "label": "Beneficiary support and market programs",
+          "text": "Estrella said DAR support services included irrigation, farm-to-market roads, machinery, training, credit and market access. From July 2022 to July 2026, it facilitated 285 irrigation projects (233 completed, 52 ongoing), covering 34,711.74 hectares and benefiting 40,775 farmers; he said most facilities were solar-powered. DAR completed 537 farm-to-market roads spanning 435.807 kilometers and reported 89 ongoing projects spanning about 108.351 kilometers. It distributed 13,009 farm machines and equipment, including support facilities, and reported 1,605,635 training participants and 674,282 beneficiaries accessing credit and microfinance services. DAR linked 4,934 agrarian reform beneficiary organizations to markets, reporting PHP 28.98 billion in total sales. Its Partnership Against Hunger and Poverty (PAHP) project generated about PHP 9.972 billion in gross sales, linked 448 organizations to institutional markets and served 13,440 beneficiaries.",
+          "citations": [
+            {
+              "stable_id": "asr-000533",
+              "start_seconds": 1811.0,
+              "clock": "00:30:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000533"
+            },
+            {
+              "stable_id": "asr-000540",
+              "start_seconds": 1896.78,
+              "clock": "00:31:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000540"
+            },
+            {
+              "stable_id": "asr-000546",
+              "start_seconds": 1968.24,
+              "clock": "00:32:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000546"
+            },
+            {
+              "stable_id": "asr-000550",
+              "start_seconds": 2023.44,
+              "clock": "00:33:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000550"
+            },
+            {
+              "stable_id": "asr-000572",
+              "start_seconds": 2115.88,
+              "clock": "00:35:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000572"
+            },
+            {
+              "stable_id": "asr-000583",
+              "start_seconds": 2164.46,
+              "clock": "00:36:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000583"
+            },
+            {
+              "stable_id": "asr-000585",
+              "start_seconds": 2181.5,
+              "clock": "00:36:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000585"
+            },
+            {
+              "stable_id": "asr-000599",
+              "start_seconds": 2245.96,
+              "clock": "00:37:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000599"
+            },
+            {
+              "stable_id": "asr-000608",
+              "start_seconds": 2292.68,
+              "clock": "00:38:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000608"
+            },
+            {
+              "stable_id": "asr-000582",
+              "start_seconds": 2161.48,
+              "clock": "00:36:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000582"
+            },
+            {
+              "stable_id": "asr-000607",
+              "start_seconds": 2286.96,
+              "clock": "00:38:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000607"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 program priorities and close",
+          "text": "Estrella said FY2027 priorities were continued land distribution and tenure security, completion of remaining BARMM COCROM distribution, digitalization of land records, faster agrarian-justice processes through the Electronic Certificate of No Pending Appeal (e-CONA) system and alternative dispute resolution, and support for agrarian reform beneficiary organizations through capital access, market links, technology and capacity building. He closed by linking the proposal to farmer land rights and the debt-condonation program, then Chair Ian Paul L. Dy thanked him and opened member discussion.",
+          "citations": [
+            {
+              "stable_id": "asr-000704",
+              "start_seconds": 2792.0,
+              "clock": "00:46:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000704"
+            },
+            {
+              "stable_id": "asr-000708",
+              "start_seconds": 2856.8,
+              "clock": "00:47:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000708"
+            },
+            {
+              "stable_id": "asr-000713",
+              "start_seconds": 2891.4,
+              "clock": "00:48:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000713"
+            },
+            {
+              "stable_id": "asr-000729",
+              "start_seconds": 3011.56,
+              "clock": "00:50:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000729"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-leila-m-de-lima",
+      "label": "Rep. Leila M. de Lima",
+      "items": [
+        {
+          "label": "Agrarian debt condonation: reported totals, certificates and eligibility",
+          "text": "Celeste confirmed the reported debt-condonation coverage and said more than 610,000 agrarian reform beneficiaries (ARBs) had benefited. Asked how many eligible beneficiaries had actually received condonation and what share of all eligible beneficiaries they represented, Celeste said DAR had distributed about 703,000 Certificates of Condonation with Release of Mortgage (COCROMs). Representative Leila M. de Lima then asked how many ARBs were excluded, why they were excluded and how much debt remained payable. Celeste said the COCROMs still undistributed were those intended for the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). She offered the law's cutoff as one possible reason for exclusion, but agreed the explanation needed validation and committed to provide de Lima's office a more detailed account.",
+          "citations": [
+            {
+              "stable_id": "asr-000871",
+              "start_seconds": 3649.52,
+              "clock": "01:00:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000871"
+            },
+            {
+              "stable_id": "asr-000877",
+              "start_seconds": 3668.05,
+              "clock": "01:01:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000877"
+            },
+            {
+              "stable_id": "asr-000878",
+              "start_seconds": 3676.05,
+              "clock": "01:01:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000878"
+            },
+            {
+              "stable_id": "asr-000884",
+              "start_seconds": 3707.21,
+              "clock": "01:01:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000884"
+            },
+            {
+              "stable_id": "asr-000898",
+              "start_seconds": 3770.66,
+              "clock": "01:02:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000898"
+            }
+          ]
+        },
+        {
+          "label": "Illegal agricultural land conversion: monitoring and enforcement",
+          "text": "De Lima asked how much DAR allocated to monitoring, detection and enforcement against illegal agricultural land conversion, and how many cases it had acted on and successfully resolved over the prior three years. Secretary Estrella said he did not think DAR had carried out the illegal conversions; he said local government units had made conversions and DAR communicated with them. He confirmed DAR monitored cases, said it called local governments' attention to conversions it considered illegal, and reported that some local governments returned to DAR and followed proper procedure while many monitored parties had complied.",
+          "citations": [
+            {
+              "stable_id": "asr-000900",
+              "start_seconds": 3780.38,
+              "clock": "01:03:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000900"
+            },
+            {
+              "stable_id": "asr-000903",
+              "start_seconds": 3790.32,
+              "clock": "01:03:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000903"
+            },
+            {
+              "stable_id": "asr-000908",
+              "start_seconds": 3813.56,
+              "clock": "01:03:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000908"
+            },
+            {
+              "stable_id": "asr-000917",
+              "start_seconds": 3848.04,
+              "clock": "01:04:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000917"
+            }
+          ]
+        },
+        {
+          "label": "Sariaya CLOA cancellation: Supreme Court ruling, mediation and land-acquisition process",
+          "text": "De Lima asked how many Certificates of Land Ownership Award (CLOAs) in Sariaya, Quezon had been revoked or were subject to cancellation and how many agrarian reform beneficiaries were affected. Legal Affairs Undersecretary Atty. Napoleon U. Galit said a 2018 Supreme Court decision nullified DAR coverage because the property had been exempted before implementation of the Comprehensive Agrarian Reform Program (CARP) law. He said the farmers faced possible CLOA cancellation, while DAR continued mediation on their behalf and between the farmers and landowners; the farmers continued occupying and farming the land. Asked whether the case exposed gaps in DAR's original acquisition validation and titling and what it would do to prevent recurrence, Galit explained that land may be covered and CLOAs issued before an owner presents evidence of an earlier local-government reclassification and approval. He said DAR adjudicated such cases; although several farmers had prevailed before the DAR Secretary, the Court of Appeals and Supreme Court appeals were lost in this case, identified as the heirs of GALA versus the Samahan ng Mamamayan ng Sariaya.",
+          "citations": [
+            {
+              "stable_id": "asr-000941",
+              "start_seconds": 3908.57,
+              "clock": "01:05:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000941"
+            },
+            {
+              "stable_id": "asr-000960",
+              "start_seconds": 3985.15,
+              "clock": "01:06:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000960"
+            },
+            {
+              "stable_id": "asr-000989",
+              "start_seconds": 4102.83,
+              "clock": "01:08:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000989"
+            },
+            {
+              "stable_id": "asr-000997",
+              "start_seconds": 4134.83,
+              "clock": "01:08:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-000997"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-arnie-b-fuentebella",
+      "label": "Rep. Arnie B. Fuentebella",
+      "items": [
+        {
+          "label": "Siruma land-title overlap and affected agrarian reform beneficiaries",
+          "text": "Fuentebella described a 1,014.92-hectare property under the Wanderlust title, including claimed overlaps with 537.53 hectares of alienable and disposable land, 438.5 hectares under certificates of land ownership award (CLOAs), and 341 hectares of timberland. DAR Undersecretary for Field Operations Atty. Kazel C. Celeste said about 745 hectares in the NARA settlement were affected; 155 individual titles had been distributed, while about 677 hectares across 63 collective titles remained for parcelization. In response to Fuentebella's questions, Celeste confirmed 63 collective CLOAs covering 677 hectares, affirmed the 438.5-hectare overlap projection from the Department of Environment and Natural Resources (DENR) survey, and estimated about 276 affected agrarian reform beneficiaries (ARBs), with about four directly affected by fencing. Celeste also confirmed the title overlapped the barangay sites of Salvacion and San Ramon; she did not know their population, and Fuentebella estimated it at about 2,000. Celeste said the NARA resettlement area had been transferred to DAR under Republic Act No. 6389 and confirmed DAR's administration of it. Fuentebella asked DAR to submit a certified list and technical plotting or survey plan of the overlapping CLOAs and NARA portions.",
+          "citations": [
+            {
+              "stable_id": "asr-001059",
+              "start_seconds": 4449.3099999999995,
+              "clock": "01:14:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001059"
+            },
+            {
+              "stable_id": "asr-001083",
+              "start_seconds": 4558.36,
+              "clock": "01:15:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001083"
+            },
+            {
+              "stable_id": "asr-001114",
+              "start_seconds": 4684.57,
+              "clock": "01:18:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001114"
+            },
+            {
+              "stable_id": "asr-001115",
+              "start_seconds": 4690.97,
+              "clock": "01:18:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001115"
+            },
+            {
+              "stable_id": "asr-001146",
+              "start_seconds": 4827.04,
+              "clock": "01:20:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001146"
+            }
+          ]
+        },
+        {
+          "label": "Conflicting titles, legal remedies and agency coordination",
+          "text": "Asked DAR's position on the overlap, Undersecretary for Legal Affairs Atty. Napoleon U. Galit described conflicting titles over the same parcel: one title must be cancelled, and an action for reversion to the State may be filed by the Office of the Solicitor General (OSG) for forest land. He said CLOAs on land found alienable and disposable should remain free from Wanderlust claims. Galit said DAR was coordinating with DENR and consulting the OSG while determining which areas were alienable and disposable and which were forest or timber land. Celeste said an agrarian law implementation (ALI) case seeking relief for disturbance of possession had been filed by some ARBs in the area affected by fencing. Galit said DAR was pursuing protection of ARBs' interests.",
+          "citations": [
+            {
+              "stable_id": "asr-001155",
+              "start_seconds": 4866.96,
+              "clock": "01:21:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001155"
+            },
+            {
+              "stable_id": "asr-001156",
+              "start_seconds": 4873.88,
+              "clock": "01:21:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001156"
+            },
+            {
+              "stable_id": "asr-001174",
+              "start_seconds": 4950.3,
+              "clock": "01:22:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001174"
+            },
+            {
+              "stable_id": "asr-001202",
+              "start_seconds": 5070.88,
+              "clock": "01:24:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001202"
+            }
+          ]
+        },
+        {
+          "label": "Survey-plan questions and community protection request",
+          "text": "Fuentebella said DENR had reported it could not find the purported Wanderlust survey plan SI-2676 and asked how that affected the title. Galit said the absence had a substantial effect on title validity, while cautioning that the title could not simply be collaterally attacked. Fuentebella described fencing without consultation or a permit and said he wanted to investigate further and file a bill for a single map and coordinated DAR and DENR clearance before registry clearances. He also alleged that white clay was being taken from stockpiles by people from the provincial capitol rather than the owner. He asked DAR to expedite the matter and provide a timetable to protect Siruma residents and ARBs. Secretary Estrella committed to get to the bottom of the concern as soon as possible and called it valid.",
+          "citations": [
+            {
+              "stable_id": "asr-001228",
+              "start_seconds": 5148.82,
+              "clock": "01:25:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001228"
+            },
+            {
+              "stable_id": "asr-001233",
+              "start_seconds": 5169.54,
+              "clock": "01:26:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001233"
+            },
+            {
+              "stable_id": "asr-001284",
+              "start_seconds": 5354.0,
+              "clock": "01:29:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001284"
+            },
+            {
+              "stable_id": "asr-001385",
+              "start_seconds": 5561.68,
+              "clock": "01:32:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001385"
+            },
+            {
+              "stable_id": "asr-001357",
+              "start_seconds": 5503.72,
+              "clock": "01:31:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001357"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-elijah-rumbaoa-san-fernando",
+      "label": "Rep. Elijah Rumbaoa San Fernando",
+      "items": [
+        {
+          "label": "CLOA holders awaiting installation",
+          "text": "Representative Elijah Rumbaoa San Fernando asked why farmers who already hold Certificates of Land Ownership Award (CLOAs) remain uninstalled. Secretary Conrado M. Estrella III said the Department of Agrarian Reform (DAR) was pressing to install them, citing Tinang, Mindoro and Nueva Ecija among places where it had intervened despite serious conflict, including police assistance, and said it could not address every case at once. He asked members to identify the affected locations so DAR could act promptly within the law; San Fernando said farmers had waited for decades and welcomed the Secretary's commitment.",
+          "citations": [
+            {
+              "stable_id": "asr-001401",
+              "start_seconds": 5594.66,
+              "clock": "01:33:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001401"
+            },
+            {
+              "stable_id": "asr-001408",
+              "start_seconds": 5609.79,
+              "clock": "01:33:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001408"
+            },
+            {
+              "stable_id": "asr-001480",
+              "start_seconds": 5744.63,
+              "clock": "01:35:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001480"
+            }
+          ]
+        },
+        {
+          "label": "Farmers redirected among DAR offices; Secretary offers direct intervention",
+          "text": "San Fernando described farmers being redirected among municipal, provincial, and central DAR offices, including his own three-day visit with farmers when they were referred back to local offices. Estrella said he often calls regional directors and provincial agrarian reform officers to get results quickly, and explained that he was hospitalized during that visit. San Fernando said the referrals were a longstanding, broader problem and emphasized the burden on farmers seeking help; Estrella invited him to set a time for affected farmers to meet him. San Fernando affirmed that both sides had a responsibility to address the problem.",
+          "citations": [
+            {
+              "stable_id": "asr-001526",
+              "start_seconds": 5809.09,
+              "clock": "01:36:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001526"
+            },
+            {
+              "stable_id": "asr-001581",
+              "start_seconds": 5882.53,
+              "clock": "01:38:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001581"
+            },
+            {
+              "stable_id": "asr-001647",
+              "start_seconds": 5972.67,
+              "clock": "01:39:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001647"
+            },
+            {
+              "stable_id": "asr-001674",
+              "start_seconds": 6011.13,
+              "clock": "01:40:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001674"
+            }
+          ]
+        },
+        {
+          "label": "Sariaya coverage reversal and farmer tenancy rights",
+          "text": "San Fernando asked what DAR was doing after Task Force Sariaya findings in 2023 and 2025 characterized lands in Sariaya as agricultural, while a Supreme Court ruling reversed agrarian-reform coverage in the area. Undersecretary for Legal Affairs Atty. Napoleon U. Galit said the Court had nullified coverage but that farmers remained protected by tenancy rights under Republic Act 3844; he said they could not be removed until disturbance compensation was settled and that farmers remained on the land. San Fernando then asked for an expected timeline for the Task Force Sariaya Terminal Report.",
+          "citations": [
+            {
+              "stable_id": "asr-001850",
+              "start_seconds": 6213.07,
+              "clock": "01:43:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001850"
+            },
+            {
+              "stable_id": "asr-001885",
+              "start_seconds": 6260.72,
+              "clock": "01:44:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001885"
+            },
+            {
+              "stable_id": "asr-001928",
+              "start_seconds": 6319.04,
+              "clock": "01:45:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001928"
+            }
+          ]
+        },
+        {
+          "label": "Leasehold CLOA cases and accountability commitments",
+          "text": "San Fernando returned to CLOA holders unable to take possession because the land remained under leasehold and asked how DAR would protect them. Estrella said DAR speaks with landowners and helps beneficiaries occupy their land; he said leasehold was not an excuse and promised to direct the responsible director to install them, replacing the director if necessary. San Fernando linked the frustration to decades of farmers being passed between offices and said he would support the Secretary's stated commitment. Estrella asked members to report officials who ignore or neglect farmers, promised to remove those who fail their duties, and said agency cleanup takes time; he also cited officials already placed on leave over misconduct.",
+          "citations": [
+            {
+              "stable_id": "asr-001933",
+              "start_seconds": 6330.44,
+              "clock": "01:45:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001933"
+            },
+            {
+              "stable_id": "asr-001944",
+              "start_seconds": 6351.84,
+              "clock": "01:45:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001944"
+            },
+            {
+              "stable_id": "asr-001993",
+              "start_seconds": 6448.58,
+              "clock": "01:47:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-001993"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-eulogio-leo-r-rodriguez",
+      "label": "Rep. Eulogio \"Leo\" R. Rodriguez",
+      "items": [
+        {
+          "label": "Catanduanes and disaster-resilient farm support",
+          "text": "Rodriguez asked whether typhoon-prone Catanduanes would be a priority for the 2027 climate-resilient farm intervention. Secretary Estrella said the whole Philippines was included, while recognizing Catanduanes' circumstances and saying provinces like it deserved proper attention. Rodriguez supported the program as a way to protect livelihoods and avoid starting over after disasters.",
+          "citations": [
+            {
+              "stable_id": "asr-002174",
+              "start_seconds": 6842.6900000000005,
+              "clock": "01:54:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002174"
+            },
+            {
+              "stable_id": "asr-002184",
+              "start_seconds": 6862.6900000000005,
+              "clock": "01:54:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002184"
+            }
+          ]
+        },
+        {
+          "label": "DAR project coordination with district offices and local partners",
+          "text": "Rodriguez said his district office sometimes learned of DAR programs only after implementation or inauguration, and that he had not been informed or invited to some activities in his province. He asked what policy governed coordination among DAR's provincial and regional offices, other government agencies and the district office, so they could align resources and assistance for the same constituents. Secretary Estrella said DAR's practice was to notify the congressman, governor and mayor when it distributed CLOAs, COCROMs, farm machinery or equipment, or worked on farm-to-market roads; barangay captains were also involved. He apologized if Rodriguez had been left out and said he would instruct the provincial agrarian reform program officer and regional director to include him. Rodriguez reiterated that his office remained uninformed about an ongoing project. Estrella apologized and committed to notify them and ensure Rodriguez was invited to future programs, adding that he would hold staff accountable if they failed to do so.",
+          "citations": [
+            {
+              "stable_id": "asr-002239",
+              "start_seconds": 6974.26,
+              "clock": "01:56:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002239"
+            },
+            {
+              "stable_id": "asr-002303",
+              "start_seconds": 7102.26,
+              "clock": "01:58:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002303"
+            },
+            {
+              "stable_id": "asr-002351",
+              "start_seconds": 7201.48,
+              "clock": "02:00:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002351"
+            },
+            {
+              "stable_id": "asr-002358",
+              "start_seconds": 7257.7,
+              "clock": "02:00:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002358"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-sarah-jane-i-elago",
+      "label": "Rep. Sarah Jane I. Elago",
+      "items": [
+        {
+          "label": "Land conversion and agrarian reform beneficiary status",
+          "text": "Representative Sarah Jane I. Elago asked when the Department of Agrarian Reform (DAR) last revalidated agrarian reform beneficiaries' (ARBs') status, including whether they still owned and controlled awarded land. Secretary Conrado M. Estrella III referred the question to Undersecretary for Legal Affairs Atty. Napoleon U. Galit. Galit said farmers with certificates of land ownership award (CLOAs) issued about five years earlier may apply for conversion under the law; he said DAR checks that the land is neither irrigated nor irrigable with a firm funding commitment. He said applicants retain ownership and can share the land's benefits with a developer, and DAR cannot reject a compliant application. Asked again about revalidation, Galit said it is an ongoing, continuous monitoring responsibility. Elago asked for figures on farmers and land under conversion and the proposed use categories; Galit promised detailed data on conversion applications, farmers, landholdings, and regular titled land outside Republic Act No. 6657 coverage, for submission as soon as possible.",
+          "citations": [
+            {
+              "stable_id": "asr-002366",
+              "start_seconds": 7302.92,
+              "clock": "02:01:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002366"
+            },
+            {
+              "stable_id": "asr-002371",
+              "start_seconds": 7343.96,
+              "clock": "02:02:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002371"
+            },
+            {
+              "stable_id": "asr-002389",
+              "start_seconds": 7503.26,
+              "clock": "02:05:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002389"
+            },
+            {
+              "stable_id": "asr-002402",
+              "start_seconds": 7554.82,
+              "clock": "02:05:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002402"
+            },
+            {
+              "stable_id": "asr-002411",
+              "start_seconds": 7597.1,
+              "clock": "02:06:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002411"
+            }
+          ]
+        },
+        {
+          "label": "Agricultural land conversion and solar-farm expansion in Tarlac",
+          "text": "Elago cited a University of the Philippines (UP) Department of Geodetic Engineering study reporting that agricultural land in Tarlac declined from 50.19% to 47.64% between 2017 and 2022, while solar-farm expansion increased by 333.3%. She asked how DAR protects agricultural land as solar projects expand. Galit said DAR balances farmers' social-justice protections with electricity and general-welfare needs. He said when a complete conversion application complies with the law, DAR has no discretion to deny approval, and the department will coordinate with agencies conducting land inventories and surveys. Galit said agricultural land remained sufficient with support for modern agriculture. Elago supported renewable-energy projects while urging protection of prime agricultural land and farmers' livelihoods.",
+          "citations": [
+            {
+              "stable_id": "asr-002418",
+              "start_seconds": 7632.0,
+              "clock": "02:07:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002418"
+            },
+            {
+              "stable_id": "asr-002428",
+              "start_seconds": 7687.32,
+              "clock": "02:08:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002428"
+            },
+            {
+              "stable_id": "asr-002450",
+              "start_seconds": 7834.84,
+              "clock": "02:10:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002450"
+            }
+          ]
+        },
+        {
+          "label": "Pax Silica, agricultural land and reported landowner offer",
+          "text": "Elago said the Bases Conversion and Development Authority (BCDA) described the proposed Pax Silica site in New Clark City as about 4,000 acres, or 1,619 hectares, and the Capas municipal government said more than 30% of its land area was productive agricultural land. She asked whether DAR had issued conversion orders for the project. Galit said no entity had applied for conversion there. He said that if expropriation reached land covered by CLOAs, DAR would contest the validity of the exercise of eminent domain to protect ARBs. Elago asked DAR to investigate reports that BCDA offered landowners and farmers PHP 30 per square meter, or around PHP 300,000 per hectare, for identified productive agricultural land, and urged protection of farmers and indigenous peoples. She also called for BCDA to answer questions before the House Committee on Appropriations, noting it was not scheduled for the budget briefings and that she had written to the committee.",
+          "citations": [
+            {
+              "stable_id": "asr-002460",
+              "start_seconds": 7874.32,
+              "clock": "02:11:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002460"
+            },
+            {
+              "stable_id": "asr-002463",
+              "start_seconds": 7908.92,
+              "clock": "02:11:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002463"
+            },
+            {
+              "stable_id": "asr-002473",
+              "start_seconds": 7994.5,
+              "clock": "02:13:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002473"
+            },
+            {
+              "stable_id": "asr-002483",
+              "start_seconds": 8061.08,
+              "clock": "02:14:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002483"
+            },
+            {
+              "stable_id": "asr-002461",
+              "start_seconds": 7891.5599999999995,
+              "clock": "02:11:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002461"
+            },
+            {
+              "stable_id": "asr-002474",
+              "start_seconds": 8009.6,
+              "clock": "02:13:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002474"
+            }
+          ]
+        },
+        {
+          "label": "Government-owned land under Executive Order No. 75 and requested reports",
+          "text": "Elago asked for an update on Executive Order No. 75 implementation and the area of government-owned land identified by DAR. Galit said DAR continued land acquisition under the order and Administrative Order No. 22, Series of 2024, which provides for an agency to inventory government-owned lands. Undersecretary for Field Operations Atty. Kazel C. Celeste reported that national data showed about 13,775 hectares distributed, segregated annually for 2021 through 2026 and by beneficiary category. She and Galit offered updated data to Elago's office and the committee. Elago requested reports on DAR's gender-and-development mandate; Executive Order No. 75 implementation for 2019 through 2026; Presidential Proclamation No. 163; SPLIT implementation and electronic land titles distributed; Value Chain Innovation for Sustainable Transformation in Agrarian Reform Communities (VISTA) implementation and beneficiaries; conversion applications and approvals, with details for 2022 through 2026; agricultural land converted to other uses for 2022 through 2026; and the Central Mindanao University land dispute.",
+          "citations": [
+            {
+              "stable_id": "asr-002486",
+              "start_seconds": 8080.3,
+              "clock": "02:14:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002486"
+            },
+            {
+              "stable_id": "asr-002490",
+              "start_seconds": 8100.0,
+              "clock": "02:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002490"
+            },
+            {
+              "stable_id": "asr-002501",
+              "start_seconds": 8220.58,
+              "clock": "02:17:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002501"
+            },
+            {
+              "stable_id": "asr-002504",
+              "start_seconds": 8261.56,
+              "clock": "02:17:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002504"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-julius-cesar-jay-v-vergara",
+      "label": "Rep. Julius Cesar \"Jay\" V. Vergara",
+      "items": [
+        {
+          "label": "Protecting beneficiaries from premature land transfers",
+          "text": "Vergara asked how DAR ensured that land awarded to beneficiaries remained with them, raising the risk that investors might induce beneficiaries to sell. Estrella said the law bars sale before the beneficiary reaches the 10-year point. He urged members to report suspected early sales so DAR could investigate and, if a violation were established, recover the land and award it to qualified farmers. After the 10-year period, he said beneficiaries could sell if they chose. Vergara said he did not want land recovered from farmers whose families had given it to them, but encouraged them not to sell; Estrella agreed that some capitalists were buying awarded land and asked members to identify unlawful early sales for investigation.",
+          "citations": [
+            {
+              "stable_id": "asr-002596",
+              "start_seconds": 8554.78,
+              "clock": "02:22:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002596"
+            },
+            {
+              "stable_id": "asr-002635",
+              "start_seconds": 8647.22,
+              "clock": "02:24:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002635"
+            },
+            {
+              "stable_id": "asr-002701",
+              "start_seconds": 8779.22,
+              "clock": "02:26:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002701"
+            }
+          ]
+        },
+        {
+          "label": "Support services and farm viability after titling",
+          "text": "Estrella said DAR also supports titled beneficiaries with bridges, roads, farm machinery and equipment, financial-management training and new technology. He framed farming as a business and advised beneficiaries to shift crops or livestock when an activity was not profitable. Drawing on his own farming experience, he offered intercropping peanuts beneath eggplants as a way to improve growth, explaining that peanuts fertilize the soil. Vergara thanked him.",
+          "citations": [
+            {
+              "stable_id": "asr-002731",
+              "start_seconds": 8839.22,
+              "clock": "02:27:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002731"
+            },
+            {
+              "stable_id": "asr-002778",
+              "start_seconds": 8933.22,
+              "clock": "02:28:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002778"
+            }
+          ]
+        },
+        {
+          "label": "Proposed agricultural-machinery plant in Cabanatuan and interagency support",
+          "text": "Vergara described a project in which a Korean group had discussed establishing an agricultural-machinery plant with the President, the Department of Agriculture (DA) Secretary and the House Speaker. He said Cabanatuan City was selected from locations across Regions 1 through 4, with assistance then needed. He urged agencies to coordinate, referring to Representative Sarah Jane I. Elago's earlier questions about a solar plant and calling for the environmental and other agencies to work together. Secretary Estrella said he hoped to visit the site and, subject to Commission on Audit (COA) rules, hoped DAR could patronize the investment to help it become sustainable. Vergara said the President had worked to advance the project and Cabanatuan had been selected from four regions.",
+          "citations": [
+            {
+              "stable_id": "asr-002796",
+              "start_seconds": 8971.22,
+              "clock": "02:29:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002796"
+            },
+            {
+              "stable_id": "asr-002856",
+              "start_seconds": 9091.26,
+              "clock": "02:31:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002856"
+            },
+            {
+              "stable_id": "asr-002864",
+              "start_seconds": 9107.44,
+              "clock": "02:31:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-002864"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-salvador-a-pleyto",
+      "label": "Rep. Salvador A. Pleyto",
+      "items": [
+        {
+          "label": "Agrarian reform beneficiaries in agricultural registries and support programs",
+          "text": "Representative Salvador A. Pleyto asked how the Department of Agrarian Reform (DAR) coordinated with the Department of Agriculture (DA) to include agrarian reform beneficiaries (ARBs) in the Registry System for Basic Sectors in Agriculture (RSBSA), whether this was covered by DAR's 2027 Agrarian Reform Beneficiary Development and Sustainability Program, and what the program included. Undersecretary for Support Services Josef Angelo S. Martires said Secretary Conrado M. Estrella III wanted DAR programs to collaborate with agencies able to help. He said DAR's limited budget made onboarding ARBs into the DA database important. A challenge was that ARBO membership is voluntary, so not all beneficiaries belong to an Agrarian Reform Beneficiary Organization (ARBO); membership provides a channel for collaboration with DA. Martires added that DA's newer FEDIS database could provide support and said DAR welcomed including its beneficiaries in the database.",
+          "citations": [
+            {
+              "stable_id": "asr-003586",
+              "start_seconds": 10138.44,
+              "clock": "02:48:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003586"
+            },
+            {
+              "stable_id": "asr-003617",
+              "start_seconds": 10206.14,
+              "clock": "02:50:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003617"
+            },
+            {
+              "stable_id": "asr-003638",
+              "start_seconds": 10248.6,
+              "clock": "02:50:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003638"
+            }
+          ]
+        },
+        {
+          "label": "Enforcement of agricultural-inactivity and premature-conversion penalties",
+          "text": "Pleyto asked whether DAR strictly implemented Section 11 of Republic Act 8435, the Agriculture and Fisheries Modernization Act of 1997, concerning penalties for agricultural inactivity and premature conversion. Secretary Estrella confirmed that it did.",
+          "citations": [
+            {
+              "stable_id": "asr-003721",
+              "start_seconds": 10400.94,
+              "clock": "02:53:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003721"
+            },
+            {
+              "stable_id": "asr-003733",
+              "start_seconds": 10422.82,
+              "clock": "02:53:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003733"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-marlo-c-bancoro",
+      "label": "Rep. Marlo C. Bancoro",
+      "items": [
+        {
+          "label": "DAR staff dispute and proposed mediation",
+          "text": "Bancoro asked Secretary Estrella to help address a dispute among DAR employees in his province. He said employees had filed cases against one another and feared the conflict would affect their work; he requested a mediator and said he wanted to prevent escalation. Estrella committed to act immediately and designated Undersecretary Atty. Kazel C. Celeste to look into the matter. Bancoro offered his office's cooperation toward a peaceful, win-win resolution, and Estrella agreed to seek one.",
+          "citations": [
+            {
+              "stable_id": "asr-003811",
+              "start_seconds": 10583.44,
+              "clock": "02:56:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003811"
+            },
+            {
+              "stable_id": "asr-003836",
+              "start_seconds": 10637.44,
+              "clock": "02:57:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003836"
+            },
+            {
+              "stable_id": "asr-003841",
+              "start_seconds": 10647.44,
+              "clock": "02:57:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003841"
+            },
+            {
+              "stable_id": "asr-003845",
+              "start_seconds": 10655.44,
+              "clock": "02:57:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003845"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-ian-paul-l-dy",
+      "label": "Rep. Ian Paul L. Dy",
+      "items": [
+        {
+          "label": "LAD balance deletion safeguards and publication",
+          "text": "Dy asked how much land had been removed from the legislated LAD balance under Memorandum Circular No. 112 and what legal basis and due-process protections applied. Celeste described validation at provincial agrarian offices followed by regional review by the Regional LAD Balance Evaluation Team, which evaluates low-priority or legally encumbered holdings. She said DAR was revisiting and seeking to amend Memorandum Circular No. 4 of 2014 so deletion would be stricter and require a final, executory order from the Secretary of Agrarian Reform to protect farmers. In response to Dy's concern about the 5.4-million-hectare legislated balance, she said the department was reviewing the process. Asked to publish official LAD accomplishment and balance figures subject to congressional inquiry, Celeste agreed.",
+          "citations": [
+            {
+              "stable_id": "asr-003982",
+              "start_seconds": 10944.3,
+              "clock": "03:02:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003982"
+            },
+            {
+              "stable_id": "asr-003998",
+              "start_seconds": 10978.76,
+              "clock": "03:02:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-003998"
+            },
+            {
+              "stable_id": "asr-004056",
+              "start_seconds": 11096.76,
+              "clock": "03:04:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004056"
+            },
+            {
+              "stable_id": "asr-004070",
+              "start_seconds": 11124.86,
+              "clock": "03:05:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004070"
+            },
+            {
+              "stable_id": "asr-004076",
+              "start_seconds": 11136.94,
+              "clock": "03:05:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004076"
+            },
+            {
+              "stable_id": "asr-004080",
+              "start_seconds": 11145.34,
+              "clock": "03:05:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004080"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-timothy-joseph-e-cayton",
+      "label": "Rep. Timothy Joseph E. Cayton",
+      "items": [
+        {
+          "label": "Invitation to Nueva Vizcaya and local farmers' concerns",
+          "text": "Cayton invited Secretary Conrado M. Estrella III to attend a title distribution in Nueva Vizcaya so he could hear farmers' concerns. Estrella replied in Ilocano that local representatives would be invited when the titles were distributed. Cayton said he would submit a listing to the Secretary's office.",
+          "citations": [
+            {
+              "stable_id": "asr-004376",
+              "start_seconds": 11755.12,
+              "clock": "03:15:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004376"
+            },
+            {
+              "stable_id": "asr-004387",
+              "start_seconds": 11777.16,
+              "clock": "03:16:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004387"
+            },
+            {
+              "stable_id": "asr-004398",
+              "start_seconds": 11798.36,
+              "clock": "03:16:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004398"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-christopher-sheen-p-gonzales",
+      "label": "Rep. Christopher Sheen P. Gonzales",
+      "items": [
+        {
+          "label": "Secretary Estrella's tenure and motion to terminate the briefing",
+          "text": "Representative Christopher Sheen P. Gonzales asked Secretary Conrado M. Estrella III how long he had served as Secretary. Estrella said he began in 2022, when President Ferdinand Marcos Jr. was elected, and was among the first cabinet members selected. Gonzales praised Estrella's service and DAR's work in Eastern Samar, saying farmers felt its impact. With no further interpellators, Gonzales moved to terminate the committee's budget briefing on the Department of Agrarian Reform's proposed fiscal year 2027 budget under House Bill No. 10858.",
+          "citations": [
+            {
+              "stable_id": "asr-004414",
+              "start_seconds": 11829.18,
+              "clock": "03:17:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004414"
+            },
+            {
+              "stable_id": "asr-004416",
+              "start_seconds": 11836.12,
+              "clock": "03:17:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004416"
+            },
+            {
+              "stable_id": "asr-004553",
+              "start_seconds": 11936.57,
+              "clock": "03:18:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004553"
+            },
+            {
+              "stable_id": "asr-004571",
+              "start_seconds": 11957.53,
+              "clock": "03:19:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004571"
+            },
+            {
+              "stable_id": "asr-004573",
+              "start_seconds": 11960.79,
+              "clock": "03:19:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004573"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-conclusion-of-the-budget-briefing",
+      "label": "Conclusion of the budget briefing",
+      "items": [
+        {
+          "label": "Motion to terminate the Department of Agrarian Reform budget briefing",
+          "text": "Representative Christopher Sheen P. Gonzales moved to terminate the hearing on the Department of Agrarian Reform (DAR)'s proposed 2027 budget. Chair Representative Ian Paul L. Dy stated that the motion had been seconded. After calling for objections and hearing none, Dy declared the motion approved, concluding the budget briefing.",
+          "citations": [
+            {
+              "stable_id": "asr-004584",
+              "start_seconds": 11979.07,
+              "clock": "03:19:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004584"
+            },
+            {
+              "stable_id": "asr-004627",
+              "start_seconds": 12022.83,
+              "clock": "03:20:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004627"
+            },
+            {
+              "stable_id": "asr-004632",
+              "start_seconds": 12027.83,
+              "clock": "03:20:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004632"
+            },
+            {
+              "stable_id": "asr-004637",
+              "start_seconds": 12032.83,
+              "clock": "03:20:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/31/#asr-004637"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

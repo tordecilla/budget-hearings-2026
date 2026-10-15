@@ -1,0 +1,2261 @@
+{
+  "hearing": {
+    "hearing_id": 61,
+    "title": "Senate Committee on Finance: DOE and ERC - September 17, 2026",
+    "hearing_date": "2026-09-17",
+    "official_url": "https://www.youtube.com/watch?v=vwxKPCkk4tw"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h61/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Keeping power reliable and affordable",
+      "text": "Finance subcommittee chair Senator Pia S. Cayetano focused the hearing on energy security, household affordability and round-the-clock access. Department of Energy (DOE) Secretary Sharon S. Garin linked regional price pressure and alerts to supply shortages and outages; senators asked the DOE and Energy Regulatory Commission (ERC) to test plant reliability and possible market abuse.",
+      "citations": []
+    },
+    {
+      "label": "Market oversight and consumer protection",
+      "text": "ERC Chairperson and CEO Francis Saturnino C. Juan described outage enforcement, market surveillance, rate regulation, refunds and a continuing fuel-audit process. Several reviews and reports remained in progress, while Senate President and Senator Sherwin \"Win\" T. Gatchalian pressed for stronger oversight and a reasonable return for utilities.",
+      "citations": []
+    },
+    {
+      "label": "A longer transition agenda",
+      "text": "DOE described geothermal risk-sharing, renewable-energy auctions, domestic gas exploration, energy workforce development, electric-vehicle incentives and charging infrastructure. Senators emphasized practical deployment, local public transport and access outside major urban centers.",
+      "citations": []
+    },
+    {
+      "label": "Funding choices and closing action",
+      "text": "Members distinguished public grants from National Electrification Administration (NEA) loans, examined a Philippine National Oil Company (PNOC) storage-and-emergency-access model, and supported ERC funding as a priority if resources remained available. At the close, Cayetano sent the DOE, attached-corporation and ERC budgets to plenary consideration, subject to follow-up questions and answers.",
+      "citations": []
+    }
+  ],
+  "method_note": "Follow the linked stable IDs to verify claims in the timed transcript; each visible budget figure links to its number-bearing turn.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Department of Energy (DOE) - FY2027 National Expenditure Program (NEP)",
+          "text": "The DOE’s FY2027 NEP proposed total was ₱5.58 billion, including new and automatic appropriations. Its original budget request total was not stated in the hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-000214",
+              "start_seconds": 1903.02,
+              "clock": "00:31:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000214"
+            }
+          ]
+        },
+        {
+          "label": "Energy Regulatory Commission (ERC) - FY2027 request and NEP",
+          "text": "The ERC requested ₱1.7 billion for FY2027; the NEP allocated ₱944 million.",
+          "citations": [
+            {
+              "stable_id": "asr-000920",
+              "start_seconds": 4162.88,
+              "clock": "01:09:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000920"
+            },
+            {
+              "stable_id": "asr-000923",
+              "start_seconds": 4168.98,
+              "clock": "01:09:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000923"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-energy-doe",
+      "label": "Department of Energy (DOE) budget",
+      "items": [
+        {
+          "label": "DOE FY2027 proposed budget and appropriation mix",
+          "text": "The Department of Energy (DOE) presented a FY2027 recommended budget including new and automatic appropriations. Undersecretary Giovanni Carlo J. Bacordo cited FY2026 General Appropriations Act (GAA) funding of ₱4.43 billion as the comparison base. New appropriations would fall by ₱935 million and account for 36.4% of the recommended total; 63.6% would come from the Special Account in the General Fund (SAGF), funded by energy service-contract revenues and other DOE collections.",
+          "citations": [
+            {
+              "stable_id": "asr-000215",
+              "start_seconds": 1915.94,
+              "clock": "00:31:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000215"
+            },
+            {
+              "stable_id": "asr-000217",
+              "start_seconds": 1940.22,
+              "clock": "00:32:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000217"
+            },
+            {
+              "stable_id": "asr-000218",
+              "start_seconds": 1945.94,
+              "clock": "00:32:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000218"
+            }
+          ]
+        },
+        {
+          "label": "DOE revenue outlook and PSALM remittances",
+          "text": "Bacordo projected DOE national-government revenue collections of ₱6.06 billion for 2026 and ₱23 billion for 2027, mainly because of Malampaya Phase 4, with renewable-energy collections also expected to rise. Senator Pia S. Cayetano asked about revenue sources; DOE Secretary Sharon S. Garin said collections would likely increase further in 2028 following the new discovery. Power Sector Assets and Liabilities Management Corporation (PSALM) President and CEO Dennis Edward de la Serna clarified its contribution at about ₱4 billion for 2026 and projected more than ₱30 billion for 2027. Garin said the corporations' contributions were outside the DOE revenue chart.",
+          "citations": [
+            {
+              "stable_id": "asr-000195",
+              "start_seconds": 1833.16,
+              "clock": "00:30:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000195"
+            },
+            {
+              "stable_id": "asr-000196",
+              "start_seconds": 1839.64,
+              "clock": "00:30:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000196"
+            },
+            {
+              "stable_id": "asr-000201",
+              "start_seconds": 1860.08,
+              "clock": "00:31:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000201"
+            },
+            {
+              "stable_id": "asr-000210",
+              "start_seconds": 1894.28,
+              "clock": "00:31:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000210"
+            },
+            {
+              "stable_id": "asr-000236",
+              "start_seconds": 2044.26,
+              "clock": "00:34:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000236"
+            },
+            {
+              "stable_id": "asr-000237",
+              "start_seconds": 2047.16,
+              "clock": "00:34:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000237"
+            },
+            {
+              "stable_id": "asr-000239",
+              "start_seconds": 2053.72,
+              "clock": "00:34:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000239"
+            }
+          ]
+        },
+        {
+          "label": "DOE FY2026 utilization outlook",
+          "text": "For its utilization chart covering 2022 through August 31, 2026, Bacordo said completion of procurement for the mobile energy system and DOE automation project, then under procurement, would raise the obligation rate to 67%; DOE expected at least 95.89% utilization for 2026.",
+          "citations": [
+            {
+              "stable_id": "asr-000243",
+              "start_seconds": 2061.24,
+              "clock": "00:34:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000243"
+            },
+            {
+              "stable_id": "asr-000244",
+              "start_seconds": 2065.24,
+              "clock": "00:34:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000244"
+            },
+            {
+              "stable_id": "asr-000245",
+              "start_seconds": 2068.76,
+              "clock": "00:34:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000245"
+            },
+            {
+              "stable_id": "asr-000246",
+              "start_seconds": 2080.68,
+              "clock": "00:34:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000246"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 gradiometry survey already in the NEP",
+          "text": "Cayetano described the Philippine Gradiometry and Seismic Survey Project as a ₱2.7 billion investment and asked whether it was already in the NEP rather than an additional DOE request. Garin confirmed that it was already included in the NEP.",
+          "citations": [
+            {
+              "stable_id": "asr-000249",
+              "start_seconds": 2099.82,
+              "clock": "00:34:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000249"
+            },
+            {
+              "stable_id": "asr-000261",
+              "start_seconds": 2183.2200000000003,
+              "clock": "00:36:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000261"
+            },
+            {
+              "stable_id": "asr-000267",
+              "start_seconds": 2213.2200000000003,
+              "clock": "00:36:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000267"
+            },
+            {
+              "stable_id": "asr-000268",
+              "start_seconds": 2217.32,
+              "clock": "00:36:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000268"
+            },
+            {
+              "stable_id": "asr-000269",
+              "start_seconds": 2222.12,
+              "clock": "00:37:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000269"
+            }
+          ]
+        },
+        {
+          "label": "Mobile energy systems and information-systems allocations",
+          "text": "For the mobile energy systems (MES) under total electrification, Bacordo said DOE was using ₱500 million from current appropriations and ₱21 million from continuing appropriations in 2026, and proposed ₱600 million in FY2027 for at least 60 additional MES units. DOE separately proposed ₱950 million for its Information Systems Strategic Plan (ISSP) in FY2027: ₱491 million for automation (52%) and ₱458 million for other information and communications technology requirements (48%).",
+          "citations": [
+            {
+              "stable_id": "asr-000340",
+              "start_seconds": 2489.6,
+              "clock": "00:41:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000340"
+            },
+            {
+              "stable_id": "asr-000341",
+              "start_seconds": 2493.6,
+              "clock": "00:41:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000341"
+            },
+            {
+              "stable_id": "asr-000343",
+              "start_seconds": 2498.6,
+              "clock": "00:41:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000343"
+            },
+            {
+              "stable_id": "asr-000344",
+              "start_seconds": 2501.6,
+              "clock": "00:41:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000344"
+            },
+            {
+              "stable_id": "asr-000346",
+              "start_seconds": 2507.1,
+              "clock": "00:41:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000346"
+            },
+            {
+              "stable_id": "asr-000349",
+              "start_seconds": 2511.6,
+              "clock": "00:41:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000349"
+            },
+            {
+              "stable_id": "asr-000352",
+              "start_seconds": 2516.6,
+              "clock": "00:41:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000352"
+            },
+            {
+              "stable_id": "asr-000355",
+              "start_seconds": 2521.6,
+              "clock": "00:42:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000355"
+            }
+          ]
+        },
+        {
+          "label": "Geothermal well exploration de-risking facility",
+          "text": "Department of Energy (DOE) Undersecretary Rowena Cristina L. Guevara told Senator Pia S. Cayetano that DOE planned to borrow $170 million from the Asian Development Bank (ADB) for a geothermal de-risking facility. Guevara said exploration is the riskiest stage: developers need to drill three wells at $6 million to $8 million each before deciding whether to proceed. Under the proposed arrangement, the government would take 50% of the risk through a sovereign-guaranteed loan; Land Bank of the Philippines (LandBank) would lend for exploration and drilling, with successful developers repaying it and unsuccessful exploration treated as a Philippine government grant. Guevara said the private sector had been deterred by the risk and DOE had seen no greenfield geothermal development since selling its plants in 2012.",
+          "citations": [
+            {
+              "stable_id": "asr-000619",
+              "start_seconds": 3284.74,
+              "clock": "00:54:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000619"
+            },
+            {
+              "stable_id": "asr-000623",
+              "start_seconds": 3296.08,
+              "clock": "00:54:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000623"
+            },
+            {
+              "stable_id": "asr-000624",
+              "start_seconds": 3300.34,
+              "clock": "00:55:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000624"
+            },
+            {
+              "stable_id": "asr-000626",
+              "start_seconds": 3309.2200000000003,
+              "clock": "00:55:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000626"
+            },
+            {
+              "stable_id": "asr-000635",
+              "start_seconds": 3328.84,
+              "clock": "00:55:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000635"
+            },
+            {
+              "stable_id": "asr-000644",
+              "start_seconds": 3361.44,
+              "clock": "00:56:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000644"
+            },
+            {
+              "stable_id": "asr-000646",
+              "start_seconds": 3367.66,
+              "clock": "00:56:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000646"
+            }
+          ]
+        },
+        {
+          "label": "DOE and attached-agency budget support and Palawan plan",
+          "text": "Senator Erwin Tulfo said he supported the Department of Energy (DOE) and its attached agencies' budget request and would help pursue additions during plenary if needed. Secretary Sharon S. Garin invited Tulfo and Senator Sherwin \"Win\" T. Gatchalian to a September 25 meeting on a Palawan master plan developed with the National Electrification Administration (NEA), National Power Corporation (NPC), National Transmission Corporation (TransCo) and other agencies. Garin said the plan aimed to address generation, distribution and transmission and was targeted for completion in the last quarter of 2027 or first quarter of 2028. Tulfo said he would attend and support the effort.",
+          "citations": [
+            {
+              "stable_id": "asr-002284",
+              "start_seconds": 7643.88,
+              "clock": "02:07:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002284"
+            },
+            {
+              "stable_id": "asr-002296",
+              "start_seconds": 7668.88,
+              "clock": "02:07:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002296"
+            },
+            {
+              "stable_id": "asr-002315",
+              "start_seconds": 7705.3,
+              "clock": "02:08:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002315"
+            },
+            {
+              "stable_id": "asr-002325",
+              "start_seconds": 7725.74,
+              "clock": "02:08:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002325"
+            },
+            {
+              "stable_id": "asr-002300",
+              "start_seconds": 7675.3,
+              "clock": "02:07:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002300"
+            },
+            {
+              "stable_id": "asr-002305",
+              "start_seconds": 7685.64,
+              "clock": "02:08:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002305"
+            },
+            {
+              "stable_id": "asr-002308",
+              "start_seconds": 7691.86,
+              "clock": "02:08:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002308"
+            },
+            {
+              "stable_id": "asr-002314",
+              "start_seconds": 7703.82,
+              "clock": "02:08:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002314"
+            }
+          ]
+        },
+        {
+          "label": "DOE special-account collections and Malampaya funding",
+          "text": "In the DOE budget discussion, Senate President and Senator Sherwin \"Win\" T. Gatchalian asked why the special account rose from ₱800 million in 2025 to ₱3.7 billion in 2027. Garin said the account is a source of funding supported by collections, including fees and Malampaya; renewable-energy collections also rise with the number of generators. She identified the new Malampaya discovery as the main driver of the projected increase, while explaining that the agency had not previously received its statutory share of collections and that the current increase included Malampaya as well as fees. Gatchalian asked for a breakdown to clarify the collections and the special account.",
+          "citations": [
+            {
+              "stable_id": "asr-002486",
+              "start_seconds": 8046.52,
+              "clock": "02:14:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002486"
+            },
+            {
+              "stable_id": "asr-002492",
+              "start_seconds": 8058.16,
+              "clock": "02:14:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002492"
+            },
+            {
+              "stable_id": "asr-002493",
+              "start_seconds": 8060.94,
+              "clock": "02:14:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002493"
+            },
+            {
+              "stable_id": "asr-002495",
+              "start_seconds": 8064.62,
+              "clock": "02:14:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002495"
+            },
+            {
+              "stable_id": "asr-002507",
+              "start_seconds": 8090.12,
+              "clock": "02:14:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002507"
+            },
+            {
+              "stable_id": "asr-002604",
+              "start_seconds": 8234.36,
+              "clock": "02:17:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002604"
+            },
+            {
+              "stable_id": "asr-002680",
+              "start_seconds": 8419.88,
+              "clock": "02:20:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002680"
+            }
+          ]
+        },
+        {
+          "label": "Philippine gradiometry and seismic survey funding and delivery",
+          "text": "Gatchalian cited ₱627 million in 2026 funding and ₱1.3 billion in the 2027 budget for the Philippine Gradiometry and Seismic Survey and supported the allocation. Garin referred the progress question to Undersecretary Alessandro O. Sales, who said the contract was awarded in August and the aircraft was expected before the end of September. Data acquisition was to finish by the end of 2026, followed by processing through the first quarter of 2027, making results available for energy contracting in the second quarter. The proposed next phase would cover 80,000 square kilometers in Central Visayas; DOE planned early procurement to catch the weather window. DOE staff would join the contractor in processing and interpretation. Sales raised unequal tax and duty treatment for equipment imported under government and contractor arrangements; Gatchalian set this aside for a separate discussion.",
+          "citations": [
+            {
+              "stable_id": "asr-002687",
+              "start_seconds": 8434.24,
+              "clock": "02:20:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002687"
+            },
+            {
+              "stable_id": "asr-002694",
+              "start_seconds": 8448.06,
+              "clock": "02:20:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002694"
+            },
+            {
+              "stable_id": "asr-002696",
+              "start_seconds": 8452.56,
+              "clock": "02:20:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002696"
+            },
+            {
+              "stable_id": "asr-002751",
+              "start_seconds": 8553.92,
+              "clock": "02:22:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002751"
+            },
+            {
+              "stable_id": "asr-002793",
+              "start_seconds": 8636.98,
+              "clock": "02:23:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002793"
+            },
+            {
+              "stable_id": "asr-002848",
+              "start_seconds": 8749.98,
+              "clock": "02:25:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002848"
+            },
+            {
+              "stable_id": "asr-002877",
+              "start_seconds": 8809.04,
+              "clock": "02:26:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002877"
+            },
+            {
+              "stable_id": "asr-002902",
+              "start_seconds": 8856.86,
+              "clock": "02:27:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002902"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-energy-regulatory-commission-erc",
+      "label": "Energy Regulatory Commission (ERC) budget",
+      "items": [
+        {
+          "label": "ERC FY 2027 request and NEP allocation",
+          "text": "Energy Regulatory Commission (ERC) Chairperson and CEO Francis Saturnino C. Juan said the FY2027 National Expenditure Program (NEP) cut the commission's request by 44.6%, mainly in maintenance and other operating expenses (MOOE) and capital outlay for rate-reset consultancies, information and communications technology modernization, and case-resolution capacity. ERC asked the committee to restore these resources. Juan separately compared General Appropriations Act (GAA) funding of ₱911 million in 2024 with ₱931 million in 2026. First-half utilization rose from 28.08% in June 2021 to 46.81% in June 2026; full-year utilization reached 84.2% in 2025, up from 62.0% in 2023.",
+          "citations": [
+            {
+              "stable_id": "asr-000906",
+              "start_seconds": 4135.14,
+              "clock": "01:08:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000906"
+            },
+            {
+              "stable_id": "asr-000908",
+              "start_seconds": 4139.04,
+              "clock": "01:08:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000908"
+            },
+            {
+              "stable_id": "asr-000909",
+              "start_seconds": 4141.14,
+              "clock": "01:09:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000909"
+            },
+            {
+              "stable_id": "asr-000910",
+              "start_seconds": 4143.6,
+              "clock": "01:09:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000910"
+            },
+            {
+              "stable_id": "asr-000924",
+              "start_seconds": 4171.54,
+              "clock": "01:09:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000924"
+            },
+            {
+              "stable_id": "asr-000926",
+              "start_seconds": 4175.76,
+              "clock": "01:09:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000926"
+            },
+            {
+              "stable_id": "asr-000937",
+              "start_seconds": 4196.9400000000005,
+              "clock": "01:09:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000937"
+            }
+          ]
+        },
+        {
+          "label": "ERC collections and revenue performance",
+          "text": "Juan reported ERC revenue of ₱2.354 billion in 2025, 121% above its ₱1.065 billion projection. By June 30, 2026, ERC had collected ₱958.3 million, with most supervision and regulatory fee collections expected by the end of September; Juan expected full-year 2026 revenue to exceed ₱2.3 billion. He described ERC as a net revenue generator and argued that its receipts to the Treasury more than offset its budget request.",
+          "citations": [
+            {
+              "stable_id": "asr-000956",
+              "start_seconds": 4236.12,
+              "clock": "01:10:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000956"
+            },
+            {
+              "stable_id": "asr-000959",
+              "start_seconds": 4239.88,
+              "clock": "01:10:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000959"
+            },
+            {
+              "stable_id": "asr-000960",
+              "start_seconds": 4242.54,
+              "clock": "01:10:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000960"
+            },
+            {
+              "stable_id": "asr-000962",
+              "start_seconds": 4246.24,
+              "clock": "01:10:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000962"
+            },
+            {
+              "stable_id": "asr-000963",
+              "start_seconds": 4248.94,
+              "clock": "01:10:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000963"
+            },
+            {
+              "stable_id": "asr-000969",
+              "start_seconds": 4260.42,
+              "clock": "01:11:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000969"
+            },
+            {
+              "stable_id": "asr-000970",
+              "start_seconds": 4262.88,
+              "clock": "01:11:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000970"
+            },
+            {
+              "stable_id": "asr-000978",
+              "start_seconds": 4280.04,
+              "clock": "01:11:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000978"
+            },
+            {
+              "stable_id": "asr-000979",
+              "start_seconds": 4282.72,
+              "clock": "01:11:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000979"
+            }
+          ]
+        },
+        {
+          "label": "ERC request for operating and capital needs",
+          "text": "Cayetano cited a separate ₱728 million later request for ERC's maintenance and other operating expenses (MOOE) and capital outlay, saying the amount would support work the commission already needed to perform. She said the request letter was addressed to Senator Joseph Victor \"JV\" G. Ejercito and offered to provide copies.",
+          "citations": [
+            {
+              "stable_id": "asr-001168",
+              "start_seconds": 4686.22,
+              "clock": "01:18:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001168"
+            },
+            {
+              "stable_id": "asr-001170",
+              "start_seconds": 4690.04,
+              "clock": "01:18:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001170"
+            },
+            {
+              "stable_id": "asr-001175",
+              "start_seconds": 4700.18,
+              "clock": "01:18:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001175"
+            }
+          ]
+        },
+        {
+          "label": "ERC funding prioritized ahead of other requests",
+          "text": "Garin said the DOE had sent a letter covering possible funding requests, including support for the National Electrification Administration (NEA), but identified increased funding for the Energy Regulatory Commission (ERC) as the first priority if funds were available. She said faster ERC resolutions would help address energy-sector issues. Cayetano acknowledged the ERC request, and Garin said they would give way to the ERC first and seek any remaining amount afterward.",
+          "citations": [
+            {
+              "stable_id": "asr-004419",
+              "start_seconds": 12630.24,
+              "clock": "03:30:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004419"
+            },
+            {
+              "stable_id": "asr-004426",
+              "start_seconds": 12671.88,
+              "clock": "03:31:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004426"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-national-electrification-administration-nea",
+      "label": "National Electrification Administration (NEA) budget",
+      "items": [
+        {
+          "label": "Bukidnon Airport distribution-line initiative",
+          "text": "Zubiri recalled a prior-year congressional initiative of ₱20 million for a distribution line serving Bukidnon Airport. National Electrification Administration (NEA) Administrator Antonio Mariano C. Almeda reported that the local electric cooperative had procured a 10-MVA substation for the airport at Don Carlos; its initial load projection was 3 MW, expected eventually to reach 5 MW, and the cooperative was ready to accommodate the demand. Zubiri confirmed that the prior-year funds were for construction of the distribution line and thanked Almeda for the update.",
+          "citations": [
+            {
+              "stable_id": "asr-001088",
+              "start_seconds": 4526.54,
+              "clock": "01:15:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001088"
+            },
+            {
+              "stable_id": "asr-001092",
+              "start_seconds": 4534.68,
+              "clock": "01:15:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001092"
+            },
+            {
+              "stable_id": "asr-001103",
+              "start_seconds": 4556.54,
+              "clock": "01:15:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001103"
+            },
+            {
+              "stable_id": "asr-001121",
+              "start_seconds": 4592.22,
+              "clock": "01:16:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001121"
+            }
+          ]
+        },
+        {
+          "label": "NEA requests for system-loss reduction and cooperative line upgrades",
+          "text": "Senator Pia S. Cayetano put two National Electrification Administration (NEA) requests on the record: ₱7 billion for the Systems Loss Reduction Program to reduce non-technical losses affecting electric cooperatives, and a separate ₱3 billion request to enhance lines of ailing cooperatives. She asked for the requests to be considered and said details could be supplied later.",
+          "citations": [
+            {
+              "stable_id": "asr-001145",
+              "start_seconds": 4640.02,
+              "clock": "01:17:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001145"
+            },
+            {
+              "stable_id": "asr-001153",
+              "start_seconds": 4656.24,
+              "clock": "01:17:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001153"
+            },
+            {
+              "stable_id": "asr-001161",
+              "start_seconds": 4671.9,
+              "clock": "01:17:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001161"
+            }
+          ]
+        },
+        {
+          "label": "NEA loan fund for electric-cooperative metering",
+          "text": "Senator Erwin Tulfo asked National Electrification Administration (NEA) Administrator Antonio Mariano C. Almeda whether the proposed ₱7 billion was a subsidy, grant, or loan. Almeda said it would be a loan fund, in addition to NEA’s loan-equity fund, for electric cooperatives to finance metering and other work needed to eliminate non-technical system losses. He described four phases: about ₱4 billion for a 25% reduction in non-technical losses, ₱1 billion for the 50% stage, another ₱1 billion for the 75% stage, and ₱1.5 billion for full elimination, which he totaled at ₱7.5 billion. The answer does not reconcile the initial ₱7 billion description with the ₱7.5 billion phased total.",
+          "citations": [
+            {
+              "stable_id": "asr-001203",
+              "start_seconds": 4757.68,
+              "clock": "01:19:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001203"
+            },
+            {
+              "stable_id": "asr-001209",
+              "start_seconds": 4770.64,
+              "clock": "01:19:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001209"
+            },
+            {
+              "stable_id": "asr-001247",
+              "start_seconds": 4845.62,
+              "clock": "01:20:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001247"
+            },
+            {
+              "stable_id": "asr-001256",
+              "start_seconds": 4862.58,
+              "clock": "01:21:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001256"
+            },
+            {
+              "stable_id": "asr-001262",
+              "start_seconds": 4876.42,
+              "clock": "01:21:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001262"
+            },
+            {
+              "stable_id": "asr-001268",
+              "start_seconds": 4887.2,
+              "clock": "01:21:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001268"
+            },
+            {
+              "stable_id": "asr-001269",
+              "start_seconds": 4888.76,
+              "clock": "01:21:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001269"
+            }
+          ]
+        },
+        {
+          "label": "NEA loans for metering and non-technical system loss",
+          "text": "Senate President Sherwin \"Win\" T. Gatchalian asked whether the NEA request concerned non-technical system losses and whether government or private distribution utilities would absorb those losses. NEA Administrator Antonio Mariano C. Almeda clarified that the request would increase NEA's equity-loan facility so electric cooperatives could borrow for capital upgrades, mainly metering; it was not a subsidy. He cited the Zamboanga City Electric Cooperative pilot, where finding unmetered and illegal connections and installing meters reduced the reported loss from 23% to 13% between January and July. Almeda said the NEA planned to apply the same approach to other electric cooperatives.",
+          "citations": [
+            {
+              "stable_id": "asr-004427",
+              "start_seconds": 12678.38,
+              "clock": "03:31:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004427"
+            },
+            {
+              "stable_id": "asr-004433",
+              "start_seconds": 12696.04,
+              "clock": "03:31:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004433"
+            },
+            {
+              "stable_id": "asr-004442",
+              "start_seconds": 12742.66,
+              "clock": "03:32:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004442"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-national-power-corporation-npc",
+      "label": "National Power Corporation (NPC) budget",
+      "items": [
+        {
+          "label": "NPC request for a special provision",
+          "text": "Cayetano asked whether NPC had funds for work in geographically isolated and disadvantaged areas. National Power Corporation (NPC) President and CEO Jericho Jonas B. Nograles said no funds were available and that NPC had requested a special provision; he said NPC would write. Cayetano accepted the special-provision route. The request was for a special provision, without a stated amount.",
+          "citations": [
+            {
+              "stable_id": "asr-001181",
+              "start_seconds": 4713.28,
+              "clock": "01:18:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001181"
+            },
+            {
+              "stable_id": "asr-001184",
+              "start_seconds": 4719.34,
+              "clock": "01:18:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001184"
+            },
+            {
+              "stable_id": "asr-001186",
+              "start_seconds": 4724.32,
+              "clock": "01:18:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001186"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-philippine-national-oil-company-pnoc",
+      "label": "Philippine National Oil Company (PNOC) budget",
+      "items": [
+        {
+          "label": "PNOC strategic petroleum reserve: one tank-farm project",
+          "text": "Senate President Sherwin “Win” T. Gatchalian asked about two 2027 NEP lines that appeared to assign ₱8 billion both to a storage tank farm with the Maharlika Investment Corporation (MIC) and to a strategic petroleum reserve study with Japan's Ministry of Economy, Trade and Industry (METI). Philippine National Oil Company (PNOC) President and CEO Franz Josef George E. Alvarez clarified that the METI study was no longer a separate project; the ₱8 billion was to be used for the first phase of the storage tank farm, initially sized for 1 million barrels. Alvarez said PNOC would proceed first while MIC could join later. The first 1-million-barrel phase was described as an asset investment in tanks and port infrastructure, and Alvarez said the amount was at the NEP level; DOE Secretary Sharon S. Garin said PNOC could access corporate funds for the project without requesting funds through the GAA.",
+          "citations": [
+            {
+              "stable_id": "asr-003548",
+              "start_seconds": 10291.58,
+              "clock": "02:51:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003548"
+            },
+            {
+              "stable_id": "asr-003560",
+              "start_seconds": 10316.02,
+              "clock": "02:51:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003560"
+            },
+            {
+              "stable_id": "asr-003573",
+              "start_seconds": 10345.76,
+              "clock": "02:52:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003573"
+            },
+            {
+              "stable_id": "asr-003575",
+              "start_seconds": 10348.5,
+              "clock": "02:52:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003575"
+            },
+            {
+              "stable_id": "asr-003592",
+              "start_seconds": 10391.86,
+              "clock": "02:53:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003592"
+            },
+            {
+              "stable_id": "asr-003703",
+              "start_seconds": 10628.8,
+              "clock": "02:57:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003703"
+            },
+            {
+              "stable_id": "asr-003756",
+              "start_seconds": 10743.88,
+              "clock": "02:59:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003756"
+            },
+            {
+              "stable_id": "asr-003760",
+              "start_seconds": 10761.3,
+              "clock": "02:59:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003760"
+            }
+          ]
+        },
+        {
+          "label": "Reserve operations, emergency access and storage capacity",
+          "text": "Gatchalian agreed that a strategic reserve was needed but warned that government buying and holding oil could expose public funds to price swings; he preferred considering investors who would hold the stock while the government accessed it during a shock. Garin recalled that the government had bought nearly ₱20 billion in reserves during an earlier oil crisis and had not used all of it, while renting private tanks had also been costly. She described the PNOC project primarily as a storage facility that could be rented out, rather than PNOC trading petroleum itself, with private companies or MIC potentially joining later. On capacity, Gatchalian estimated that 1 million barrels might cover only two or three days based on his rough consumption questions; Garin separately estimated that it represented five days. Garin said storage could be expanded over time with private-sector participation. She said reserves could scale up over time and that the government's purpose was to secure supply during shocks.",
+          "citations": [
+            {
+              "stable_id": "asr-003596",
+              "start_seconds": 10411.5,
+              "clock": "02:53:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003596"
+            },
+            {
+              "stable_id": "asr-003622",
+              "start_seconds": 10465.24,
+              "clock": "02:54:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003622"
+            },
+            {
+              "stable_id": "asr-003628",
+              "start_seconds": 10479.78,
+              "clock": "02:54:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003628"
+            },
+            {
+              "stable_id": "asr-003651",
+              "start_seconds": 10525.5,
+              "clock": "02:55:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003651"
+            },
+            {
+              "stable_id": "asr-003692",
+              "start_seconds": 10604.96,
+              "clock": "02:56:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003692"
+            },
+            {
+              "stable_id": "asr-003771",
+              "start_seconds": 10789.26,
+              "clock": "02:59:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003771"
+            }
+          ]
+        },
+        {
+          "label": "Construction schedule and concept paper",
+          "text": "Gatchalian said the reserve had been discussed for a long time and asked PNOC to submit a concept paper. Alvarez said the target was at least one tank by the end of 2027, with an overall target date of June 30, 2028. Gatchalian thanked the officials and requested a write-up on the PNOC-built strategic petroleum reserve.",
+          "citations": [
+            {
+              "stable_id": "asr-003794",
+              "start_seconds": 10881.24,
+              "clock": "03:01:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003794"
+            },
+            {
+              "stable_id": "asr-003800",
+              "start_seconds": 10906.4,
+              "clock": "03:01:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003800"
+            },
+            {
+              "stable_id": "asr-003802",
+              "start_seconds": 10910.5,
+              "clock": "03:01:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003802"
+            }
+          ]
+        },
+        {
+          "label": "Wind-down of a loss-making subsidiary",
+          "text": "Gatchalian commended PNOC for moving to wind down the PNOC subsidiary he referred to as \"RC\", saying he had urged the change during his six years as energy committee chair because the company was losing ₱200 million to ₱300 million a year.",
+          "citations": [
+            {
+              "stable_id": "asr-003804",
+              "start_seconds": 10925.96,
+              "clock": "03:02:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003804"
+            },
+            {
+              "stable_id": "asr-003812",
+              "start_seconds": 10961.04,
+              "clock": "03:02:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003812"
+            }
+          ]
+        },
+        {
+          "label": "PNOC-funded strategic fuel reserve and phased capacity target",
+          "text": "Senator Joseph Victor \"JV\" G. Ejercito asked for the study and any special provision needed to use Philippine National Oil Company (PNOC) funds for a strategic fuel reserve. Department of Energy (DOE) Secretary Sharon S. Garin described a long-term objective of 30 days of private-sector reserves and 60 days held by government, correcting an initial 60-plus-60 formulation. She said the government could not fund the full government reserve at once; the plan was to start with 2-3 days and build over time as funding or investors became available. Garin said the project would use PNOC corporate funds rather than the General Appropriations Act (GAA), so it would not add to the GAA, with possible private investment and preferential access for the host country during a crisis. The storage and terminals were intended to strengthen security for petroleum products, gas and coal. Garin put current average reserves at about 40-50 days and hoped they could eventually double. Ejercito supported reviewing a multi-year start, possibly in 2027, and argued that reserve planning should avoid the reactive approach he saw in other infrastructure.",
+          "citations": [
+            {
+              "stable_id": "asr-003818",
+              "start_seconds": 10987.44,
+              "clock": "03:03:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003818"
+            },
+            {
+              "stable_id": "asr-003832",
+              "start_seconds": 11034.56,
+              "clock": "03:03:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003832"
+            },
+            {
+              "stable_id": "asr-003855",
+              "start_seconds": 11112.7,
+              "clock": "03:05:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003855"
+            },
+            {
+              "stable_id": "asr-003882",
+              "start_seconds": 11212.24,
+              "clock": "03:06:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003882"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-department-of-energy-presentation",
+      "label": "Department of Energy presentation",
+      "items": [
+        {
+          "label": "Energy-security response and electrification results",
+          "text": "Bacordo said DOE coordinated a whole-of-government response to the Middle East energy emergency, including fuel-supply measures, staggered fuel-price adjustments, subsidies, anti-hoarding enforcement, energy-conservation measures and support for transport and agriculture; he reported an average available fuel supply of 50 days. He said DOE, the National Electrification Administration (NEA) and the Energy Regulatory Commission (ERC) restored round-the-clock service in Siquijor, while DOE worked with the National Power Corporation (NPC), NEA and FISELCO to restore service in Catanduanes and supported disaster power restoration and fuel continuity. DOE reported 95.1% household electrification as of August 2026, with about 29.2 million of 30.7 million potential households energized. It also reported a 25% renewable-energy share of generation in 2025, equal to 31.7 terawatt-hours, 20.7 GW awarded through the Green Energy Auction Program and another 25 GW planned for auction from 2027 to 2035.",
+          "citations": [
+            {
+              "stable_id": "asr-000065",
+              "start_seconds": 1556.06,
+              "clock": "00:25:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000065"
+            },
+            {
+              "stable_id": "asr-000105",
+              "start_seconds": 1632.62,
+              "clock": "00:27:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000105"
+            },
+            {
+              "stable_id": "asr-000122",
+              "start_seconds": 1665.1999999999998,
+              "clock": "00:27:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000122"
+            }
+          ]
+        },
+        {
+          "label": "Renewable-energy investment and power capacity growth",
+          "text": "Bacordo said 187 renewable-energy projects endorsed through the Board of Investments' Green Lane since 2023 amounted to ₱5.46 trillion, or 86% of Green Lane investments. From July 2022 to July 2026, installed power capacity had increased by 4,988 MW (18.4%) and dependable capacity by 5,106 MW (22.3%). DOE's Task Force 200 monitored 200 committed power projects; 51 were completed and commercially operational, adding 1,864.6 MW, including 12 battery-energy-storage projects totaling 129.4 MW to support grid stability and frequency regulation.",
+          "citations": [
+            {
+              "stable_id": "asr-000129",
+              "start_seconds": 1679.74,
+              "clock": "00:27:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000129"
+            },
+            {
+              "stable_id": "asr-000134",
+              "start_seconds": 1689.72,
+              "clock": "00:28:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000134"
+            },
+            {
+              "stable_id": "asr-000139",
+              "start_seconds": 1699.88,
+              "clock": "00:28:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000139"
+            },
+            {
+              "stable_id": "asr-000157",
+              "start_seconds": 1734.62,
+              "clock": "00:28:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000157"
+            }
+          ]
+        },
+        {
+          "label": "Upstream exploration, indigenous gas and investment prospects",
+          "text": "Bacordo said 14 petroleum service contracts signed by the President could generate $324 million in investment; he also said the Camago 3 and Malampaya East 1 wells under Service Contract 38 yielded estimated reserves of 222 billion cubic feet of gas, extending operations to 2034 and providing enough fuel for 13.1 million households for a year. The ₱2.7 billion gradiometry survey covers 120,000 square kilometers and could support up to 120 exploration service contracts; DOE said that 10% of those potential contracts would represent about ₱16.8 billion in private-sector investment, even before any oil or gas discoveries. Undersecretary Alessandro O. Sales said the last major government basin-data acquisition was in the 1980s and funded by a World Bank loan; DOE selected gas-prone basins that had been overlooked when natural gas was less commercially valuable. He said the Natural Gas law helped bridge exploration and a market by giving preference to indigenous gas, assuring prospective investors of a buyer if gas is found. Cayetano said exploration remains risky because investors could spend without finding anything, and welcomed the project and the domestic-gas market assurance.",
+          "citations": [
+            {
+              "stable_id": "asr-000176",
+              "start_seconds": 1774.04,
+              "clock": "00:29:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000176"
+            },
+            {
+              "stable_id": "asr-000180",
+              "start_seconds": 1781.4,
+              "clock": "00:29:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000180"
+            },
+            {
+              "stable_id": "asr-000181",
+              "start_seconds": 1783.68,
+              "clock": "00:29:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000181"
+            },
+            {
+              "stable_id": "asr-000250",
+              "start_seconds": 2118.92,
+              "clock": "00:35:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000250"
+            },
+            {
+              "stable_id": "asr-000257",
+              "start_seconds": 2155.2200000000003,
+              "clock": "00:35:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000257"
+            },
+            {
+              "stable_id": "asr-000275",
+              "start_seconds": 2243.2200000000003,
+              "clock": "00:37:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000275"
+            },
+            {
+              "stable_id": "asr-000301",
+              "start_seconds": 2381.08,
+              "clock": "00:39:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000301"
+            },
+            {
+              "stable_id": "asr-000310",
+              "start_seconds": 2410.4,
+              "clock": "00:40:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000310"
+            }
+          ]
+        },
+        {
+          "label": "Interoperable DOE automation",
+          "text": "Bacordo described the DOE Automation Project as a unified, automated, AI-enabled enterprise platform intended to replace fragmented systems and improve efficiency, transparency, accountability and regulatory compliance while reducing opportunities for discretion, manipulation and corruption. Cayetano urged DOE to ensure interoperability with systems such as the national ID and other agencies it coordinates with. Garin said DOE wanted the system integrated within the department and with stakeholders and government-owned or -controlled corporations to streamline work. Cayetano invited DOE to add further details to the record or provide her a paper.",
+          "citations": [
+            {
+              "stable_id": "asr-000356",
+              "start_seconds": 2522.6,
+              "clock": "00:42:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000356"
+            },
+            {
+              "stable_id": "asr-000373-split-2",
+              "start_seconds": 2552.55,
+              "clock": "00:42:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000373-split-2"
+            },
+            {
+              "stable_id": "asr-000395",
+              "start_seconds": 2594.86,
+              "clock": "00:43:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000395"
+            },
+            {
+              "stable_id": "asr-000412",
+              "start_seconds": 2626.1800000000003,
+              "clock": "00:43:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000412"
+            }
+          ]
+        },
+        {
+          "label": "Energy-resource, security and governance plans",
+          "text": "In closing, Bacordo listed plans to accelerate resource development through the gradiometry project and the Philippine Geothermal Derisking Facility; hold further green-energy auctions for waste-to-energy, onshore and offshore wind, geothermal, agro-solar, solar on stilts, irrigation-canal solar and off-grid areas; and retain nuclear power as part of the long-term strategy. A mid-merit natural-gas capacity auction was targeted for completion by December 2026. Energy-security plans included deploying mobile energy systems, establishing a state-owned strategic fuel reserve and preparing Visayas, Mindoro and Palawan energy master plans. DOE also planned generation-company accountability policies, reviews of systems-law policies, government-wide electric-vehicle adoption and charging stations, full digitalization and AI transformation, a Center for Energy Excellence, manpower strengthening, a modernized Nationwide Command Center and facility upgrades aimed at net-zero energy consumption.",
+          "citations": [
+            {
+              "stable_id": "asr-000420",
+              "start_seconds": 2640.46,
+              "clock": "00:44:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000420"
+            },
+            {
+              "stable_id": "asr-000450",
+              "start_seconds": 2700.0,
+              "clock": "00:45:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000450"
+            },
+            {
+              "stable_id": "asr-000454",
+              "start_seconds": 2732.12,
+              "clock": "00:45:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000454"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-energy-regulatory-commission-presentation",
+      "label": "Energy Regulatory Commission presentation",
+      "items": [
+        {
+          "label": "ERC mandate and regulatory reach",
+          "text": "Juan said the ERC’s EPIRA mandate is to promote competition and consumer choice, protect consumers, keep retail rates tied to prudent and reasonable cost recovery, and penalize market-power abuse. He described ERC regulation of transmission and distribution rates and performance, licensing and oversight of generation and retail suppliers, and review of power-supply and ancillary-service procurement agreements. He placed the regulated energy sector’s value at ₱4.19 trillion and cited Department of Energy (DOE) projections of ₱20 trillion to ₱31 trillion in investment needs through 2050, with 1.8 million jobs anticipated.",
+          "citations": [
+            {
+              "stable_id": "asr-000664",
+              "start_seconds": 3429.36,
+              "clock": "00:57:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000664"
+            },
+            {
+              "stable_id": "asr-000670",
+              "start_seconds": 3449.74,
+              "clock": "00:57:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000670"
+            },
+            {
+              "stable_id": "asr-000681",
+              "start_seconds": 3540.08,
+              "clock": "00:59:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000681"
+            },
+            {
+              "stable_id": "asr-000682",
+              "start_seconds": 3570.08,
+              "clock": "00:59:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000682"
+            }
+          ]
+        },
+        {
+          "label": "Refunds, consumer savings, and market oversight",
+          "text": "Juan said ERC had issued 5,149 decisions and orders, more than double the 2,411 from the comparable period a year earlier. He reported lifeline-subsidy coverage up 85.33% to 620,000 qualified users and net-metering registrations up 51.77%. ERC approved ₱290 billion in transmission CAPEX projects with the National Grid Corporation of the Philippines (NGCP) rate resets, and had approved ₱71.3 billion in refunds as of August 2026, compared with ₱21.3 billion a year earlier; this included ₱69.95 billion that Manila Electric Company (Meralco) was directed to refund under ERC’s true-up mechanism. Juan said similar applications from other private distribution utilities were still to be acted on. He also said the competitive retail electricity market offered generation charges of ₱5.33 to ₱5.73 per kilowatt-hour and estimated ₱19.87 billion in 2025 consumer savings. ERC had lowered the contestability threshold from 500 kilowatts to 100 kilowatts and restarted performance-based rate setting for private distribution utilities.",
+          "citations": [
+            {
+              "stable_id": "asr-000683",
+              "start_seconds": 3600.0,
+              "clock": "01:00:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000683"
+            },
+            {
+              "stable_id": "asr-000691",
+              "start_seconds": 3661.58,
+              "clock": "01:01:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000691"
+            },
+            {
+              "stable_id": "asr-000693",
+              "start_seconds": 3674.44,
+              "clock": "01:01:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000693"
+            },
+            {
+              "stable_id": "asr-000694",
+              "start_seconds": 3681.24,
+              "clock": "01:01:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000694"
+            },
+            {
+              "stable_id": "asr-000695",
+              "start_seconds": 3685.42,
+              "clock": "01:01:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000695"
+            },
+            {
+              "stable_id": "asr-000717",
+              "start_seconds": 3766.4,
+              "clock": "01:02:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000717"
+            },
+            {
+              "stable_id": "asr-000718",
+              "start_seconds": 3768.46,
+              "clock": "01:02:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000718"
+            },
+            {
+              "stable_id": "asr-000719",
+              "start_seconds": 3770.7,
+              "clock": "01:02:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000719"
+            },
+            {
+              "stable_id": "asr-000722",
+              "start_seconds": 3775.9,
+              "clock": "01:02:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000722"
+            },
+            {
+              "stable_id": "asr-000723",
+              "start_seconds": 3778.58,
+              "clock": "01:02:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000723"
+            },
+            {
+              "stable_id": "asr-000724",
+              "start_seconds": 3780.0,
+              "clock": "01:03:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000724"
+            }
+          ]
+        },
+        {
+          "label": "2027 regulatory and consumer-service priorities",
+          "text": "For 2027, Juan listed fair, evidence-based rate setting; faster case resolution; stronger competition oversight; and a stable regulatory environment to attract investment, under a consumer-focused approach. ERC planned to set reserve prices for emerging technologies under DOE’s Green Energy Auction Program, develop natural-gas auction rules, consider a future nuclear framework, and enforce least-cost supply and fuel-audit requirements. It also planned to restart rate resets for private utilities and electric cooperatives, update consumer protections and complaint handling, streamline permitting, and strengthen enforcement for renewable-energy and net-metering rules. Juan said ERC intended to consolidate its apps, comply with Energy Virtual One-Stop Shop (EVOSS) and microgrid deadlines, and support Association of Southeast Asian Nations (ASEAN) grid integration and EPIRA amendments.",
+          "citations": [
+            {
+              "stable_id": "asr-000769",
+              "start_seconds": 3868.14,
+              "clock": "01:04:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000769"
+            },
+            {
+              "stable_id": "asr-000785",
+              "start_seconds": 3900.06,
+              "clock": "01:05:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000785"
+            },
+            {
+              "stable_id": "asr-000828",
+              "start_seconds": 3979.9,
+              "clock": "01:06:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000828"
+            },
+            {
+              "stable_id": "asr-000870",
+              "start_seconds": 4064.32,
+              "clock": "01:07:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000870"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-priorities",
+      "label": "Opening priorities",
+      "items": [
+        {
+          "label": "Energy security, affordability and system-loss VAT",
+          "text": "At the opening, subcommittee chair Senator Pia S. Cayetano welcomed what she described as the removal of value-added tax (VAT) on system loss, recalling complaints she had heard while leading the energy committee. She framed the hearing around energy security and household affordability: limited supply can raise prices, and provinces still experience planned or intermittent brownouts. Cayetano said the goal was reliable transmission and distribution and 24/7 access to electricity.",
+          "citations": [
+            {
+              "stable_id": "asr-000045",
+              "start_seconds": 1260.0,
+              "clock": "00:21:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000045"
+            },
+            {
+              "stable_id": "asr-000047",
+              "start_seconds": 1320.0,
+              "clock": "00:22:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000047"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-pia-s-cayetano",
+      "label": "Senator Pia S. Cayetano",
+      "items": [
+        {
+          "label": "Energy workforce skills and plant maintenance",
+          "text": "Cayetano asked which professional and nonprofessional jobs were in short supply and how education could connect to the energy industry. Guevara said DOE was coordinating with the Commission on Higher Education (CHED) and Technical Education and Skills Development Authority (TESDA) on bridge programs, including converting mechanical engineers into offshore-wind specialists. She said nuclear expertise needed rebuilding and that foreign specialists maintained coal and gas plants, leaving the country waiting for outside help when equipment failed. DOE had begun capacity-building work to develop an accredited local maintenance pool, but the effort was still at an early stage. Guevara said Filipino engineering talent existed but the country was not retaining those specialists; Cayetano encouraged DOE to continue the university and maintenance work.",
+          "citations": [
+            {
+              "stable_id": "asr-000461",
+              "start_seconds": 2783.38,
+              "clock": "00:46:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000461"
+            },
+            {
+              "stable_id": "asr-000481",
+              "start_seconds": 2855.9,
+              "clock": "00:47:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000481"
+            },
+            {
+              "stable_id": "asr-000494",
+              "start_seconds": 2899.14,
+              "clock": "00:48:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000494"
+            },
+            {
+              "stable_id": "asr-000508",
+              "start_seconds": 2963.6,
+              "clock": "00:49:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000508"
+            },
+            {
+              "stable_id": "asr-000524",
+              "start_seconds": 3006.28,
+              "clock": "00:50:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000524"
+            }
+          ]
+        },
+        {
+          "label": "Renewable generation, solar prices, and storage",
+          "text": "Cayetano asked about the current generation mix and whether renewable energy was gaining ground. Guevara put coal at about 62% and renewables at about 25%, with the remainder from oil, gas, other sources, and battery energy storage. She said renewables had been 22% of generation from 2022 to 2024, rose to 25% in 2025, and were projected to reach 35% by 2030 based on DOE plans and green-energy-auction results. Guevara said solar had become cheaper than coal and that household solar paired with batteries could supply renewable power at night; she reported battery prices had fallen 90% in ten years.\n\nCayetano asked Guevara to put solar costs on the record. Guevara said the 2015 solar feed-in-tariff price was ₱9.68 per kilowatt-hour and she cited a solar price of ₱4.5 at the time of the hearing. Cayetano repeated the comparison, and Guevara confirmed the current figure, arguing that new-technology costs could fall over time.",
+          "citations": [
+            {
+              "stable_id": "asr-000547",
+              "start_seconds": 3071.0,
+              "clock": "00:51:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000547"
+            },
+            {
+              "stable_id": "asr-000548",
+              "start_seconds": 3077.44,
+              "clock": "00:51:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000548"
+            },
+            {
+              "stable_id": "asr-000569",
+              "start_seconds": 3136.64,
+              "clock": "00:52:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000569"
+            },
+            {
+              "stable_id": "asr-000592",
+              "start_seconds": 3205.84,
+              "clock": "00:53:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000592"
+            },
+            {
+              "stable_id": "asr-000597",
+              "start_seconds": 3229.04,
+              "clock": "00:53:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000597"
+            },
+            {
+              "stable_id": "asr-000604",
+              "start_seconds": 3251.06,
+              "clock": "00:54:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000604"
+            },
+            {
+              "stable_id": "asr-000605",
+              "start_seconds": 3257.0,
+              "clock": "00:54:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000605"
+            },
+            {
+              "stable_id": "asr-000606",
+              "start_seconds": 3259.56,
+              "clock": "00:54:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000606"
+            },
+            {
+              "stable_id": "asr-000608",
+              "start_seconds": 3261.04,
+              "clock": "00:54:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-000608"
+            }
+          ]
+        },
+        {
+          "label": "Public-utility vehicles and jeepney heritage",
+          "text": "Senator Pia S. Cayetano asked whether the electric-vehicle program covered public-utility vehicles (PUVs). DOE Energy Utilization Management Bureau Director Patrick T. Aquino said the Department of Transportation (DOTr) was updating its PUV modernization plan so incentives would match public-transport costs, and that the Land Transportation Franchising and Regulatory Board had called for 7,000 to 8,000 franchises for electric vehicles; he distinguished DOTr's lead on franchising from DOE's role under the Electric Vehicle Industry Development Act. Cayetano also urged the agencies to preserve jeepney artwork and involve local artists, and proposed reviving a former jeepney-manufacturing town in Cavite. Garin said the Department of Science and Technology (DOST) was developing a retrofit kit for tricycles that could retain their body design and would coordinate on possible jeepney applications. Cayetano clarified that her earlier amendment had made coordination with the National Commission for Culture and the Arts (NCCA) part of the law.",
+          "citations": [
+            {
+              "stable_id": "asr-003035",
+              "start_seconds": 9249.78,
+              "clock": "02:34:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003035"
+            },
+            {
+              "stable_id": "asr-003041",
+              "start_seconds": 9262.96,
+              "clock": "02:34:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003041"
+            },
+            {
+              "stable_id": "asr-003072",
+              "start_seconds": 9321.26,
+              "clock": "02:35:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003072"
+            },
+            {
+              "stable_id": "asr-003152",
+              "start_seconds": 9483.38,
+              "clock": "02:38:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003152"
+            },
+            {
+              "stable_id": "asr-003167",
+              "start_seconds": 9516.14,
+              "clock": "02:38:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003167"
+            }
+          ]
+        },
+        {
+          "label": "Fuel displacement and per-kilometer running costs",
+          "text": "Senator Pia S. Cayetano asked Department of Energy (DOE) Secretary Sharon S. Garin whether DOE could estimate fuel saved since the crisis began through electric and hybrid vehicle use, including whether that use extended the country's 45- or 50-day fuel stockpile. Garin said DOE would generate an estimate. Cayetano separately cited her staff's estimate that a hybrid could reduce fuel spending by ₱35,000 to ₱45,000 per year, or ₱3,000 to ₱4,000 per month..\n\nDOE Energy Utilization Management Bureau (EUMB) Director Patrick T. Aquino supplied running-cost comparisons: about ₱5 per kilometer for an internal-combustion-engine vehicle, ₱1.50 for a battery electric vehicle, and ₱3.50 for a plug-in hybrid or hybrid electric vehicle. DOE committed to produce the aggregate estimate.",
+          "citations": [
+            {
+              "stable_id": "asr-003420",
+              "start_seconds": 10026.06,
+              "clock": "02:47:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003420"
+            },
+            {
+              "stable_id": "asr-003437",
+              "start_seconds": 10060.96,
+              "clock": "02:47:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003437"
+            },
+            {
+              "stable_id": "asr-003446",
+              "start_seconds": 10079.66,
+              "clock": "02:47:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003446"
+            },
+            {
+              "stable_id": "asr-003447",
+              "start_seconds": 10081.46,
+              "clock": "02:48:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003447"
+            },
+            {
+              "stable_id": "asr-003448",
+              "start_seconds": 10083.68,
+              "clock": "02:48:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003448"
+            },
+            {
+              "stable_id": "asr-003468",
+              "start_seconds": 10123.48,
+              "clock": "02:48:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003468"
+            },
+            {
+              "stable_id": "asr-003471",
+              "start_seconds": 10129.72,
+              "clock": "02:48:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003471"
+            },
+            {
+              "stable_id": "asr-003475",
+              "start_seconds": 10137.82,
+              "clock": "02:48:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003475"
+            },
+            {
+              "stable_id": "asr-003476",
+              "start_seconds": 10139.66,
+              "clock": "02:48:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003476"
+            },
+            {
+              "stable_id": "asr-003479",
+              "start_seconds": 10145.84,
+              "clock": "02:49:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003479"
+            },
+            {
+              "stable_id": "asr-003480",
+              "start_seconds": 10147.72,
+              "clock": "02:49:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003480"
+            }
+          ]
+        },
+        {
+          "label": "Electric tricycles and public-transport charging support",
+          "text": "Cayetano argued that electric tricycles could deliver broader transport benefits than private-car adoption and asked about vehicles designed for larger passenger loads. Garin said companies were exploring the needed package of battery swapping or charging stations in coordination with tricycle operators' and drivers' associations (TODAs). Cayetano said local government units (LGUs) needed enough knowledge to support TODAs and help establish that ecosystem. Garin added that private stakeholders were offering buses with no down payment and that domestic and international companies were exploring electric-vehicle opportunities. Garin described these as private initiatives and offers under exploration.",
+          "citations": [
+            {
+              "stable_id": "asr-003483",
+              "start_seconds": 10153.84,
+              "clock": "02:49:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003483"
+            },
+            {
+              "stable_id": "asr-003500",
+              "start_seconds": 10186.8,
+              "clock": "02:49:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003500"
+            },
+            {
+              "stable_id": "asr-003512",
+              "start_seconds": 10213.84,
+              "clock": "02:50:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003512"
+            },
+            {
+              "stable_id": "asr-003522-split-2",
+              "start_seconds": 10233.98,
+              "clock": "02:50:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003522-split-2"
+            }
+          ]
+        },
+        {
+          "label": "SDG 7: clean, affordable energy and long-term security",
+          "text": "Subcommittee chair Senator Pia S. Cayetano thanked the energy officials for keeping power available during the crisis and said the goal remained reliable 24/7 electricity. She framed the close around Sustainable Development Goal 7 (SDG 7), clean and affordable energy: she said the generation mix was still 62% coal, and argued that affordability needed further improvement even as clean-energy costs fell. Cayetano asked the Department of Energy (DOE) to submit a longer-term energy plan looking beyond immediate crisis response. DOE Secretary Sharon S. Garin said the DOE would submit its Philippine Energy Plan and a recently completed fuel-transition plan intended to reduce dependence on petroleum products and strengthen energy security.",
+          "citations": [
+            {
+              "stable_id": "asr-004347",
+              "start_seconds": 12441.04,
+              "clock": "03:27:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004347"
+            },
+            {
+              "stable_id": "asr-004393",
+              "start_seconds": 12551.34,
+              "clock": "03:29:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004393"
+            },
+            {
+              "stable_id": "asr-004460",
+              "start_seconds": 12801.14,
+              "clock": "03:33:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004460"
+            }
+          ]
+        },
+        {
+          "label": "DOE and attached-corporation budgets sent to plenary",
+          "text": "At the close, Cayetano declared the budgets of the Department of Energy (DOE), its attached corporations and the Energy Regulatory Commission (ERC) deemed submitted to plenary, subject to colleagues' questions and the agencies' answers. She congratulated the officials and told them to be ready for plenary.",
+          "citations": [
+            {
+              "stable_id": "asr-004465",
+              "start_seconds": 12826.5,
+              "clock": "03:33:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004465"
+            },
+            {
+              "stable_id": "asr-004466",
+              "start_seconds": 12828.64,
+              "clock": "03:33:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004466"
+            },
+            {
+              "stable_id": "asr-004467",
+              "start_seconds": 12835.32,
+              "clock": "03:33:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004467"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-juan-miguel-migz-f-zubiri",
+      "label": "Senator Juan Miguel \"Migz\" F. Zubiri",
+      "items": [
+        {
+          "label": "Support for the DOE and energy-agency budgets",
+          "text": "Majority Floor Leader Senator Juan Miguel \"Migz\" F. Zubiri said he had no questions for the Department of Energy (DOE) or Energy Regulatory Commission (ERC), praised their work amid the Middle East conflict, and expressed support for DOE, ERC and the Department's attached agencies.",
+          "citations": [
+            {
+              "stable_id": "asr-001004",
+              "start_seconds": 4358.32,
+              "clock": "01:12:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001004"
+            },
+            {
+              "stable_id": "asr-001074",
+              "start_seconds": 4497.92,
+              "clock": "01:14:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001074"
+            }
+          ]
+        },
+        {
+          "label": "PhilATOM appointments and nuclear-treaty deliberations",
+          "text": "Zubiri said Senate deliberations on four nuclear treaties had been suspended because questions concerned PhilATOM, whose commissioners had not yet been appointed. DOE Secretary Sharon S. Garin said the law creating PhilATOM had passed, but its commissioners were still unappointed and the body was technically under the Office of the President. She described DOE's role as chairing the Nuclear Energy Program Interagency Committee, overseeing nuclear-related coordination and supporting capacity-building; appointments and PhilATOM's internal affairs were outside DOE's remit. Zubiri said he would remind the Executive to appoint PhilATOM's head so the other policies could be discussed.",
+          "citations": [
+            {
+              "stable_id": "asr-001019",
+              "start_seconds": 4388.4,
+              "clock": "01:13:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001019"
+            },
+            {
+              "stable_id": "asr-001034",
+              "start_seconds": 4418.12,
+              "clock": "01:13:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001034"
+            },
+            {
+              "stable_id": "asr-001056",
+              "start_seconds": 4461.96,
+              "clock": "01:14:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001056"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-erwin-tulfo",
+      "label": "Senator Erwin Tulfo",
+      "items": [
+        {
+          "label": "Solar-panel reuse and end-of-life processing",
+          "text": "Tulfo asked Department of Energy (DOE) Undersecretary Rowena Cristina L. Guevara how retired solar panels would be handled. Guevara said two universities were to begin studies before year-end; she cited panel lifetimes of 15 to 20 years and said reuse, recycling, and green processing to extract chemicals from unusable components were being studied, with technologies expected to be in place by 2030. Tulfo pressed for an end-of-life plan beyond reuse and recycling, and Guevara described the planned green-processing work.",
+          "citations": [
+            {
+              "stable_id": "asr-001277",
+              "start_seconds": 4904.36,
+              "clock": "01:21:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001277"
+            },
+            {
+              "stable_id": "asr-001311",
+              "start_seconds": 4971.9,
+              "clock": "01:22:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001311"
+            },
+            {
+              "stable_id": "asr-001335-split-2",
+              "start_seconds": 5019.92,
+              "clock": "01:23:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001335-split-2"
+            }
+          ]
+        },
+        {
+          "label": "Proposed petroleum reserves and sites",
+          "text": "Tulfo asked about proposals by Abu Dhabi National Oil Company (ADNOC) and Saudi Aramco to establish commercial storage, with the Philippines providing land. DOE Secretary Sharon S. Garin and Undersecretary Alessandro O. Sales said the parties were interested and that DOE and Philippine National Oil Company (PNOC) were identifying sites and working on a national strategic petroleum reserve. Sales said PNOC was committing to a 1-million-barrel facility in Bataan, while the larger proposed 50-million-barrel scale would require roughly 500 hectares; the available PNOC site was 150 hectares. Tulfo urged a faster timetable; Sales said DOE and PNOC were scouting another, larger Zamboanga site and had agreed to fast-track land identification and acquisition. ",
+          "citations": [
+            {
+              "stable_id": "asr-001346",
+              "start_seconds": 5041.32,
+              "clock": "01:24:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001346"
+            },
+            {
+              "stable_id": "asr-001404",
+              "start_seconds": 5156.88,
+              "clock": "01:25:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001404"
+            },
+            {
+              "stable_id": "asr-001480",
+              "start_seconds": 5311.0,
+              "clock": "01:28:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001480"
+            },
+            {
+              "stable_id": "asr-001517",
+              "start_seconds": 5385.4,
+              "clock": "01:29:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001517"
+            },
+            {
+              "stable_id": "asr-001544",
+              "start_seconds": 5436.8,
+              "clock": "01:30:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001544"
+            }
+          ]
+        },
+        {
+          "label": "WESM price caps, Visayas charges, and possible refunds",
+          "text": "Tulfo asked ERC Chairperson and CEO Francis Saturnino C. Juan about high Wholesale Electricity Spot Market (WESM) prices affecting Samar Electric Cooperative I (SAMELCO I) and other Visayas utilities. Juan attributed the pressures to line congestion charges and supply alerts; he said the Energy Regulatory Commission (ERC) had imposed a secondary price cap by region, reducing a reported Visayas price from about ₱19 to about ₱8, and ordered recalculation of August clearing prices, with the measure intended to continue in September amid an expected supply deficit. ERC had also ordered recalculation of line-loss and congestion charges and net-settlement-surplus allocations; Juan said an audit could lead to reductions or refunds for utilities including SAMELCO I. Asked why the charge total rose from ₱277 million in June to ₱570 million in July, Juan explained that the charge reflected locational marginal price differences and that surplus was supposed to flow back to customers; he said prior allocations had not worked as intended. ",
+          "citations": [
+            {
+              "stable_id": "asr-001568",
+              "start_seconds": 5486.2,
+              "clock": "01:31:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001568"
+            },
+            {
+              "stable_id": "asr-001576",
+              "start_seconds": 5502.32,
+              "clock": "01:31:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001576"
+            },
+            {
+              "stable_id": "asr-001612",
+              "start_seconds": 5573.14,
+              "clock": "01:32:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001612"
+            },
+            {
+              "stable_id": "asr-001613",
+              "start_seconds": 5575.3,
+              "clock": "01:32:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001613"
+            },
+            {
+              "stable_id": "asr-001675",
+              "start_seconds": 5698.3,
+              "clock": "01:34:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001675"
+            },
+            {
+              "stable_id": "asr-001676",
+              "start_seconds": 5700.84,
+              "clock": "01:35:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001676"
+            },
+            {
+              "stable_id": "asr-001680",
+              "start_seconds": 5708.38,
+              "clock": "01:35:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001680"
+            },
+            {
+              "stable_id": "asr-001690",
+              "start_seconds": 5728.3,
+              "clock": "01:35:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001690"
+            }
+          ]
+        },
+        {
+          "label": "Coal supply, imported-fuel costs, and domestic use",
+          "text": "Tulfo questioned why the country imported coal while Semirara coal was exported. Garin said more than 90% of the coal supply came from Indonesia, Semirara could supply only about 10% of domestic needs, and many older plants were designed for Indonesian coal. DOE was exploring a coal-blending facility and agreed that domestic coal should be used where possible. Undersecretary Alessandro O. Sales cited Indonesian coal at roughly US$60 per metric ton, free on board (FOB) Kalimantan. He said the conflict raised shipping costs while FOB prices stayed in the low US$60s. He distinguished a coal fuel component of about ₱3 to ₱4 per kWh from generated electricity costing about ₱7 to ₱8 per kWh, depending on plant conditions and the time of year.",
+          "citations": [
+            {
+              "stable_id": "asr-001816",
+              "start_seconds": 6004.14,
+              "clock": "01:40:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001816"
+            },
+            {
+              "stable_id": "asr-001817-split-2",
+              "start_seconds": 6007.4,
+              "clock": "01:40:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001817-split-2"
+            },
+            {
+              "stable_id": "asr-001839",
+              "start_seconds": 6051.7,
+              "clock": "01:40:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001839"
+            },
+            {
+              "stable_id": "asr-001898",
+              "start_seconds": 6169.98,
+              "clock": "01:42:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001898"
+            },
+            {
+              "stable_id": "asr-001899",
+              "start_seconds": 6171.76,
+              "clock": "01:42:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001899"
+            },
+            {
+              "stable_id": "asr-001900",
+              "start_seconds": 6174.24,
+              "clock": "01:42:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001900"
+            },
+            {
+              "stable_id": "asr-001902",
+              "start_seconds": 6178.1,
+              "clock": "01:42:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001902"
+            },
+            {
+              "stable_id": "asr-001903",
+              "start_seconds": 6180.42,
+              "clock": "01:43:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001903"
+            },
+            {
+              "stable_id": "asr-001951",
+              "start_seconds": 6274.44,
+              "clock": "01:44:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001951"
+            },
+            {
+              "stable_id": "asr-001965",
+              "start_seconds": 6311.06,
+              "clock": "01:45:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001965"
+            },
+            {
+              "stable_id": "asr-001967",
+              "start_seconds": 6324.4,
+              "clock": "01:45:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001967"
+            },
+            {
+              "stable_id": "asr-001970",
+              "start_seconds": 6353.92,
+              "clock": "01:45:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001970"
+            }
+          ]
+        },
+        {
+          "label": "WESM generation pricing and electricity bills",
+          "text": "Tulfo urged scrutiny of generation prices and asked why regional market prices differed despite lower coal fuel costs. Juan explained that the Wholesale Electricity Spot Market (WESM) uses locational marginal pricing and a gross pool, while bilateral contracts affect what generators actually receive. Offers are not required to match cost, and higher clearing prices can help plants recover capital costs. Garin said DOE had suspended the market under emergency authority during the conflict and was studying further interventions. She linked the problem to the unregulated generation sector, proposed revisiting the Electric Power Industry Reform Act (EPIRA), and said DOE was examining recourse against market abuse, including high hydropower prices.",
+          "citations": [
+            {
+              "stable_id": "asr-001974",
+              "start_seconds": 6383.4,
+              "clock": "01:46:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001974"
+            },
+            {
+              "stable_id": "asr-001976",
+              "start_seconds": 6400.88,
+              "clock": "01:46:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001976"
+            },
+            {
+              "stable_id": "asr-001995",
+              "start_seconds": 6530.72,
+              "clock": "01:48:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-001995"
+            },
+            {
+              "stable_id": "asr-002001",
+              "start_seconds": 6590.72,
+              "clock": "01:49:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002001"
+            },
+            {
+              "stable_id": "asr-002016",
+              "start_seconds": 6733.94,
+              "clock": "01:52:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002016"
+            },
+            {
+              "stable_id": "asr-002023",
+              "start_seconds": 6866.78,
+              "clock": "01:54:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-sherwin-win-t-gatchalian",
+      "label": "Senator Sherwin \"Win\" T. Gatchalian",
+      "items": [
+        {
+          "label": "Visayas and Mindanao power prices and outages",
+          "text": "Senate President and Senator Sherwin \"Win\" T. Gatchalian compared Wholesale Electricity Spot Market (WESM) prices from July 26 to August, citing ₱4.80 per kWh in Luzon, ₱18.59 in the Visayas and ₱19.56 in Mindanao, alongside 96 yellow alerts and 33 red alerts in the Visayas over six months. Department of Energy (DOE) Secretary Sharon S. Garin attributed the alerts to inadequate supply: Visayas lacks sufficient baseload and imports power from Mindanao, while several generating units were down. Gatchalian pressed the DOE and Energy Regulatory Commission (ERC) to examine plant reliability and possible market abuse; Garin said the DOE and ERC joint task force was inspecting plants, reported no collusion based on its plant visits and was pursuing generator accountability and stricter performance policies. ERC Chairperson and CEO Francis Saturnino C. Juan separately described ongoing market-power analysis and pending verification, so the exchange did not establish a final finding ruling out market abuse.",
+          "citations": [
+            {
+              "stable_id": "asr-002032",
+              "start_seconds": 6994.3,
+              "clock": "01:56:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002032"
+            },
+            {
+              "stable_id": "asr-002033",
+              "start_seconds": 7016.78,
+              "clock": "01:56:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002033"
+            },
+            {
+              "stable_id": "asr-002039",
+              "start_seconds": 7104.6,
+              "clock": "01:58:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002039"
+            },
+            {
+              "stable_id": "asr-002095",
+              "start_seconds": 7276.6,
+              "clock": "02:01:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002095"
+            },
+            {
+              "stable_id": "asr-002166",
+              "start_seconds": 7407.96,
+              "clock": "02:03:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002166"
+            }
+          ]
+        },
+        {
+          "label": "Market surveillance and generator outage penalties",
+          "text": "Gatchalian asked how the ERC would rule out collusion during tight supply and what penalties applied when plants exceeded outage allowances. ERC Chairperson and CEO Francis Saturnino C. Juan said the review examines pivotal suppliers, common ownership and whether pricing benefits related generators; the ERC had issued notices of noncompliance and would proceed to show-cause notices after its annual review. Juan gave base penalties of ₱50,000 to ₱200,000 depending on facility size, plus a daily penalty equal to 10% of the base penalty for each day beyond the outage allowance. He said this year would be the first use of the amended higher penalties. Gatchalian requested a report on Visayas and Mindanao facilities; Juan said several were candidates for fines. The ERC was also seeking market surveillance support from the WESM governance body, Philippine Electricity Market Corporation (PEMC).",
+          "citations": [
+            {
+              "stable_id": "asr-002212",
+              "start_seconds": 7500.06,
+              "clock": "02:05:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002212"
+            },
+            {
+              "stable_id": "asr-002242",
+              "start_seconds": 7560.5,
+              "clock": "02:06:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002242"
+            },
+            {
+              "stable_id": "asr-002358",
+              "start_seconds": 7791.3,
+              "clock": "02:09:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002358"
+            },
+            {
+              "stable_id": "asr-002368",
+              "start_seconds": 7813.34,
+              "clock": "02:10:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002368"
+            },
+            {
+              "stable_id": "asr-002434",
+              "start_seconds": 7945.26,
+              "clock": "02:12:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002434"
+            }
+          ]
+        },
+        {
+          "label": "Electric-vehicle adoption and government procurement",
+          "text": "Gatchalian argued that wider electric-vehicle adoption could reduce dependence on imported oil and asked what the DOE was doing, including whether the proposed executive order would direct government vehicle purchases toward electric vehicles. Garin said transportation accounted for 60% of petroleum use and that the DOE had submitted an executive-order proposal to the Office of the President for future national-government procurement, with exceptions, and noted recent sales growth. DOE Energy Utilization Management Bureau Director Patrick T. Aquino said the Land Transportation Office recorded more than 60,000 registered motor vehicles in 2025, then reported more than 60,000 electric-vehicle sales by the end of August 2026 and expected more than 100,000 registered electric vehicles by year-end; about 25% of the 2026 sales were battery electric and about 31% were hybrid electric. He also described the issued Electric Vehicle Incentive Strategy under Executive Order 121, with assistance of up to ₱200,000 for locally manufactured vehicles if passed to end users.",
+          "citations": [
+            {
+              "stable_id": "asr-002914",
+              "start_seconds": 8882.18,
+              "clock": "02:28:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002914"
+            },
+            {
+              "stable_id": "asr-002955",
+              "start_seconds": 8967.84,
+              "clock": "02:29:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002955"
+            },
+            {
+              "stable_id": "asr-002973",
+              "start_seconds": 9023.24,
+              "clock": "02:30:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-002973"
+            },
+            {
+              "stable_id": "asr-003003",
+              "start_seconds": 9185.76,
+              "clock": "02:33:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003003"
+            },
+            {
+              "stable_id": "asr-003018",
+              "start_seconds": 9216.06,
+              "clock": "02:33:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003018"
+            }
+          ]
+        },
+        {
+          "label": "Electric vehicles on roll-on/roll-off routes",
+          "text": "Gatchalian asked whether the reported Montenegro Lines restriction on electric vehicles reflected a wider Maritime Industry Authority (MARINA) policy and warned that a ban on roll-on/roll-off routes could discourage provincial buyers. Aquino said the agency's existing guidance had no specific electric-vehicle rule and that the DOE was coordinating with the Maritime Industry Authority and Bureau of Fire Protection on updated guidance. He said the Coron fire investigation remained ongoing, an electric vehicle was aboard but internal-combustion vehicles were also present, and no official government finding had established that the electric vehicle caused the fire. Gatchalian said passenger safety remained essential but asked that the investigation be clarified; Aquino acknowledged the request.",
+          "citations": [
+            {
+              "stable_id": "asr-003180",
+              "start_seconds": 9543.68,
+              "clock": "02:39:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003180"
+            },
+            {
+              "stable_id": "asr-003198",
+              "start_seconds": 9580.2,
+              "clock": "02:39:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003198"
+            },
+            {
+              "stable_id": "asr-003247",
+              "start_seconds": 9679.36,
+              "clock": "02:41:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003247"
+            },
+            {
+              "stable_id": "asr-003257",
+              "start_seconds": 9699.1,
+              "clock": "02:41:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003257"
+            }
+          ]
+        },
+        {
+          "label": "Charging-station rollout and permitting",
+          "text": "Gatchalian urged the DOE to issue its electric-vehicle charging-station circular, saying condominium and mall owners reported too few chargers and that the law empowered the DOE to set installation requirements. Garin said the circular was close to release, with a possible grace period for commercial establishments because of installation costs. Aquino reported 1,926 charging points and a target of 7,000 before 2028; he said a joint memorandum circular with the Department of the Interior and Local Government, Anti-Red Tape Authority, Department of Public Works and Highways and DOE was expected to streamline permits. Garin described plans for more government-funded stations on the South Luzon and North Luzon expressways and agreements with local governments, while noting that initial deployment would focus on major highways. Gatchalian said the circular could support further EV adoption and asked to follow up.",
+          "citations": [
+            {
+              "stable_id": "asr-003273",
+              "start_seconds": 9730.84,
+              "clock": "02:42:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003273"
+            },
+            {
+              "stable_id": "asr-003302",
+              "start_seconds": 9791.18,
+              "clock": "02:43:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003302"
+            },
+            {
+              "stable_id": "asr-003333",
+              "start_seconds": 9852.08,
+              "clock": "02:44:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003333"
+            },
+            {
+              "stable_id": "asr-003399",
+              "start_seconds": 9980.0,
+              "clock": "02:46:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003399"
+            }
+          ]
+        },
+        {
+          "label": "Retail choice, household aggregation and lower contestability thresholds",
+          "text": "Senator Sherwin \"Win\" T. Gatchalian asked Energy Regulatory Commission (ERC) Chairperson and CEO Francis Saturnino C. Juan how the retail competition and open access (RCOA) threshold would move below the current 100 kilowatts so consumers, eventually including households, could choose their electricity supplier. Juan said the 100-kilowatt threshold had taken effect on June 26 and ERC was evaluating the market, drafting a roadmap and updating its Omnibus retail rules, alongside utility capital projects for advanced metering and smart grids. ERC was also studying stranded distribution-utility contract capacity as export energy from net metering and distributed energy resources may increase; one possible path was for third-party suppliers to aggregate that exported energy for their contestable customers and renewable portfolio standards (RPS) compliance. Juan said households in a continuous area or subdivision could already aggregate under the retail aggregation program to seek lower generation charges: he cited a utility generation charge of PHP 8 per kWh and a charge from a retail electricity supplier (RES) of around PHP 5-6 per kWh. When Gatchalian asked whether the threshold could fall to 50 kilowatts in 2027, Juan said it was possible, but ERC was still assessing stakeholder readiness and migration; rollout would be gradual as metering and utility rate resets progressed. Gatchalian agreed implementation should be orderly and asked ERC to submit its roadmap when ready.",
+          "citations": [
+            {
+              "stable_id": "asr-003998",
+              "start_seconds": 11497.72,
+              "clock": "03:11:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003998"
+            },
+            {
+              "stable_id": "asr-004025",
+              "start_seconds": 11563.04,
+              "clock": "03:12:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004025"
+            },
+            {
+              "stable_id": "asr-004123",
+              "start_seconds": 11736.64,
+              "clock": "03:15:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004123"
+            },
+            {
+              "stable_id": "asr-004152",
+              "start_seconds": 11798.46,
+              "clock": "03:16:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004152"
+            },
+            {
+              "stable_id": "asr-004196",
+              "start_seconds": 11887.84,
+              "clock": "03:18:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004196"
+            },
+            {
+              "stable_id": "asr-004200",
+              "start_seconds": 11898.04,
+              "clock": "03:18:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004200"
+            },
+            {
+              "stable_id": "asr-004207",
+              "start_seconds": 11913.72,
+              "clock": "03:18:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004207"
+            },
+            {
+              "stable_id": "asr-004210",
+              "start_seconds": 11929.3,
+              "clock": "03:18:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004210"
+            },
+            {
+              "stable_id": "asr-004250",
+              "start_seconds": 12010.62,
+              "clock": "03:20:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004250"
+            }
+          ]
+        },
+        {
+          "label": "Fuel-audit status, unsupported costs and consumer remedies",
+          "text": "Gatchalian asked for the status of ERC's fuel audit and how it would secure cooperation and address unsupported or falsified fuel costs passed through to consumers. Juan said ERC had formed an internal technical working group, adopted an audit procedure, selected its first batch and begun reviewing utilities that had submitted data; the group was still completing the first-batch report for the Commission, which ERC would then submit to the Senate. Juan said ERC could disallow costs without supporting documents when confirming pass-through charges and issue a show-cause order against a generation company that submitted falsified cost information. He confirmed that ERC could require refunds and said refunds would be imposed alongside penalties. Gatchalian noted his Resolution 581 and said he would seek further updates as the audit progressed. ",
+          "citations": [
+            {
+              "stable_id": "asr-004256",
+              "start_seconds": 12021.2,
+              "clock": "03:20:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004256"
+            },
+            {
+              "stable_id": "asr-004263",
+              "start_seconds": 12033.52,
+              "clock": "03:20:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004263"
+            },
+            {
+              "stable_id": "asr-004291",
+              "start_seconds": 12108.52,
+              "clock": "03:21:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004291"
+            },
+            {
+              "stable_id": "asr-004294",
+              "start_seconds": 12126.52,
+              "clock": "03:22:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004294"
+            },
+            {
+              "stable_id": "asr-004303",
+              "start_seconds": 12171.5,
+              "clock": "03:22:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004303"
+            },
+            {
+              "stable_id": "asr-004307",
+              "start_seconds": 12205.26,
+              "clock": "03:23:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004307"
+            },
+            {
+              "stable_id": "asr-004315",
+              "start_seconds": 12237.26,
+              "clock": "03:23:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004315"
+            }
+          ]
+        },
+        {
+          "label": "Group A utility WACC and a proposed single-digit benchmark",
+          "text": "Asked about the weighted average cost of capital (WACC), Juan said the 14.57% figure implemented under the prior rate reset had stood for more than a decade; in its latest decision for one Group A distribution utility, ERC approved a WACC of 13.79%. Juan said the approved figure reflected current capital costs, while recent increases in interest rates and equity costs reflected investor uncertainty and risk. Gatchalian argued that the return allowed to utilities should be reasonable and urged the regulator to study a single-digit WACC, citing Treasury-bill yields and risk estimates. ERC did not adopt that proposal in this exchange; Gatchalian placed it on the table for regulatory study as a way to reduce electricity rates.",
+          "citations": [
+            {
+              "stable_id": "asr-004316",
+              "start_seconds": 12246.58,
+              "clock": "03:24:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004316"
+            },
+            {
+              "stable_id": "asr-004319",
+              "start_seconds": 12281.26,
+              "clock": "03:24:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004319"
+            },
+            {
+              "stable_id": "asr-004320",
+              "start_seconds": 12288.86,
+              "clock": "03:24:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004320"
+            },
+            {
+              "stable_id": "asr-004321",
+              "start_seconds": 12301.76,
+              "clock": "03:25:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004321"
+            },
+            {
+              "stable_id": "asr-004322",
+              "start_seconds": 12313.64,
+              "clock": "03:25:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004322"
+            },
+            {
+              "stable_id": "asr-004326",
+              "start_seconds": 12348.52,
+              "clock": "03:25:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004326"
+            },
+            {
+              "stable_id": "asr-004338",
+              "start_seconds": 12410.0,
+              "clock": "03:26:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-004338"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Power-project pipeline and term-end capacity goal",
+          "text": "Ejercito asked how many power plants would be added before the President's term ended, recalling a previous count of 31 projects under way out of 200 planned generation projects. DOE Secretary Sharon S. Garin said she was confident the 200 projects could be completed by the end of the administration; she described them as mostly renewable energy projects totaling 10 gigawatts.",
+          "citations": [
+            {
+              "stable_id": "asr-003904",
+              "start_seconds": 11278.38,
+              "clock": "03:07:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003904"
+            },
+            {
+              "stable_id": "asr-003918",
+              "start_seconds": 11312.28,
+              "clock": "03:08:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003918"
+            },
+            {
+              "stable_id": "asr-003933",
+              "start_seconds": 11339.02,
+              "clock": "03:08:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003933"
+            }
+          ]
+        },
+        {
+          "label": "Derated and unavailable power plants in the Visayas",
+          "text": "Ejercito cited National Grid Corporation of the Philippines (NGCP) information that 18 power plants were operating at derated capacity and asked about rehabilitation. Garin said some plants were not working; about six large plants were under repair, affecting the Visayas and Mindanao, with the latest scheduled return on November 27, which she said was critical for the Visayas and Mindanao. The Energy Regulatory Commission (ERC) was monitoring and policing, while DOE was visiting plants and bringing barges and batteries to the Visayas as relief until the plants returned. Garin said age alone did not explain the outages and that DOE was investigating and monitoring maintenance and operations.",
+          "citations": [
+            {
+              "stable_id": "asr-003944",
+              "start_seconds": 11377.64,
+              "clock": "03:09:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003944"
+            },
+            {
+              "stable_id": "asr-003949",
+              "start_seconds": 11395.18,
+              "clock": "03:09:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003949"
+            },
+            {
+              "stable_id": "asr-003956",
+              "start_seconds": 11410.96,
+              "clock": "03:10:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003956"
+            },
+            {
+              "stable_id": "asr-003965",
+              "start_seconds": 11430.68,
+              "clock": "03:10:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/61/#asr-003965"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

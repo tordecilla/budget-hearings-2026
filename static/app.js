@@ -40,6 +40,43 @@ const issueTagCards = [...document.querySelectorAll('[data-tag-card]')];
 const issueGrid = document.querySelector('.flat-tag-grid');
 const issueSortInputs = [...document.querySelectorAll('input[name="issue-sort"]')];
 let activeTagType = 'all';
+let isolatedIssueKey = new URLSearchParams(window.location.search).get('issue');
+
+function readIssuePermalink() {
+  if (!issueGrid) return;
+  isolatedIssueKey = new URLSearchParams(window.location.search).get('issue');
+  const isolated = isolatedIssueKey !== null;
+  const notice = document.querySelector('#issue-permalink-notice');
+  const label = document.querySelector('#issue-permalink-label');
+  const card = issueTagCards.find((entry) => entry.dataset.issueKey === isolatedIssueKey);
+  if (notice) notice.hidden = !isolated;
+  if (label) label.textContent = card ? `Showing issue: ${card.querySelector('h2').textContent}` : 'This issue link is unavailable.';
+  applyIssueFilters();
+}
+
+function clearIssuePermalink() {
+  if (isolatedIssueKey === null) return;
+  const url = new URL(window.location.href);
+  url.searchParams.delete('issue');
+  history.replaceState(null, '', url);
+  readIssuePermalink();
+}
+
+document.querySelectorAll('.issue-share-link').forEach((link) => {
+  link.addEventListener('click', async (event) => {
+    if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    if (!navigator.clipboard?.writeText) return;
+    event.preventDefault();
+    try {
+      await navigator.clipboard.writeText(link.href);
+      const status = document.querySelector('#issue-share-status');
+      if (status) status.textContent = `Share link copied for ${link.closest('[data-tag-card]').querySelector('h2').textContent}.`;
+    } catch {
+      window.location.assign(link.href);
+    }
+  });
+});
+window.addEventListener('popstate', readIssuePermalink);
 
 function applyIssueSort() {
   if (!issueGrid) return;
@@ -67,11 +104,15 @@ function applyIssueFilters() {
   issueTagCards.forEach((card) => {
     const typeMatches = activeTagType === 'all' || card.dataset.tagTypeValue === activeTagType;
     const textMatches = terms.every((term) => (card.dataset.tagSearch || '').includes(term));
-    card.hidden = !(typeMatches && textMatches);
+    card.hidden = isolatedIssueKey !== null
+      ? card.dataset.issueKey !== isolatedIssueKey
+      : !(typeMatches && textMatches);
     if (!card.hidden) visible += 1;
   });
   if (issuesSearchStatus) {
-    issuesSearchStatus.textContent = terms.length || activeTagType !== 'all'
+    issuesSearchStatus.textContent = isolatedIssueKey !== null
+      ? `${visible} issue${visible === 1 ? '' : 's'} shown`
+      : terms.length || activeTagType !== 'all'
       ? `${visible} matching issue${visible === 1 ? '' : 's'}`
       : `Showing all ${visible} issues`;
   }
@@ -85,14 +126,23 @@ issueTypeButtons.forEach((button) => {
     applyIssueFilters();
   });
 });
-issuesSearchInput?.addEventListener('input', applyIssueFilters);
-issuesSearchInput?.addEventListener('keydown', (event) => {
-  if (event.key !== 'Escape') return;
-  issuesSearchInput.value = '';
-  activeTagType = 'all';
-  issueTypeButtons.forEach((button) => button.classList.toggle('active', button.dataset.tagType === 'all'));
+issuesSearchInput?.addEventListener('input', () => {
+  clearIssuePermalink();
   applyIssueFilters();
 });
+function clearIssueFilters() {
+  if (issuesSearchInput) issuesSearchInput.value = '';
+  activeTagType = 'all';
+  issueTypeButtons.forEach((button) => button.classList.toggle('active', button.dataset.tagType === 'all'));
+  clearIssuePermalink();
+  applyIssueFilters();
+  issuesSearchInput?.focus();
+}
+document.querySelector('#issues-search-clear')?.addEventListener('click', clearIssueFilters);
+issuesSearchInput?.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape') clearIssueFilters();
+});
+readIssuePermalink();
 
 function sendSourceVideoCommand(func, args = []) {
   if (!videoIsYouTube || !video?.contentWindow) return;

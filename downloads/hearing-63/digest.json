@@ -1,0 +1,1344 @@
+{
+  "hearing": {
+    "hearing_id": 63,
+    "title": "Senate Committee on Finance: DOST - September 16, 2026",
+    "hearing_date": "2026-09-16",
+    "official_url": "https://www.youtube.com/watch?v=zBuhuHqZROA"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h63/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Science with everyday public benefit",
+      "text": "The opening and DOST presentation connected research to livelihoods, affordable essentials, useful technology, and better protection from hazards.",
+      "citations": []
+    },
+    {
+      "label": "Spending, procurement, and service delivery",
+      "text": "Members questioned unutilized funds, procurement delays, geographic coverage, staffing, and weather services. The Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) and Philippine Nuclear Research Institute (PNRI) described radar procurement and the nuclear medicine project’s implementation needs.",
+      "citations": []
+    },
+    {
+      "label": "Research scale-up and budget disposition",
+      "text": "Members pressed on commercializing research, artificial intelligence, local disaster planning, and DOST program reach. The Secretary outlined a grants-in-aid (GIA) restoration request and other priorities; the DOST and attached-agency budget was submitted for plenary consideration, with no final restoration approval recorded.",
+      "citations": []
+    }
+  ],
+  "method_note": "This draft draws on the accepted opening, DOST presentation, and member-round accounts. The budget summary links each principal figure to its number-bearing source turn; supporting qualifications remain in the cited unit panels.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Agency top-line budgets",
+          "text": "For FY 2027, the Department of Science and Technology (DOST) originally proposed ₱68.55 billion; the Department of Budget and Management (DBM)-recommended National Expenditure Program (NEP) amount was ₱30.87 billion, including retirement and life insurance premiums (RLIP). Separately, DOST reported a ₱30.3 billion allotment for FY 2026 current appropriations as of June 30, 2026. The presentation slide shows ₱6.95 billion (23%) for the Office of the Secretary (OSEC) within the FY2027 NEP amount including RLIP; no separate original OSEC request was given. The hearing does not state separate FY 2027 agency-wide request or NEP totals for named attached bodies, including the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA), Philippine Nuclear Research Institute (PNRI), Philippine Science High School System (PSHS), Advanced Science and Technology Institute (ASTI), Philippine Institute of Volcanology and Seismology (PHIVOLCS), Forest Products Research and Development Institute (FPRDI), and Technology Application and Promotion Institute (TAPI).",
+          "citations": [
+            {
+              "stable_id": "asr-000858",
+              "start_seconds": 2092.32,
+              "clock": "00:34:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000858"
+            },
+            {
+              "stable_id": "asr-000859",
+              "start_seconds": 2102.84,
+              "clock": "00:35:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000859"
+            },
+            {
+              "stable_id": "asr-000860",
+              "start_seconds": 2109.7,
+              "clock": "00:35:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000860"
+            },
+            {
+              "stable_id": "asr-000861",
+              "start_seconds": 2118.46,
+              "clock": "00:35:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000861"
+            },
+            {
+              "stable_id": "asr-000866",
+              "start_seconds": 2152.3,
+              "clock": "00:35:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000866"
+            },
+            {
+              "stable_id": "asr-000867",
+              "start_seconds": 2160.92,
+              "clock": "00:36:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000867"
+            },
+            {
+              "stable_id": "asr-000868",
+              "start_seconds": 2169.7200000000003,
+              "clock": "00:36:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000868"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-dost",
+      "label": "DOST budget",
+      "items": [
+        {
+          "label": "Research funding and possible post-NEP priorities",
+          "text": "Aquino asked where DOST ranked among agency budgets; the Department of Budget and Management (DBM) representative initially said it was among the lowest, and Aquino said he wanted its position to rise over time. Referring to a 1%-of-GDP target for science and technology research, Aquino said the country was at 0.3% and suggested finding ways to augment funding progressively. He invited DOST Secretary Renato U. Solidum Jr. to identify two or three priority items for possible augmentation after the presentation, while explicitly saying he was not promising that they would be funded. Solidum said the recorded presentation would give a brief overview of DOST programs and plans to justify its proposed budget, and that he would add points later. No augmentation amount or priority list was stated in this opening exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-000121",
+              "start_seconds": 516.78,
+              "clock": "00:08:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000121"
+            },
+            {
+              "stable_id": "asr-000123",
+              "start_seconds": 522.74,
+              "clock": "00:08:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000123"
+            },
+            {
+              "stable_id": "asr-000126",
+              "start_seconds": 534.96,
+              "clock": "00:08:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000126"
+            },
+            {
+              "stable_id": "asr-000139",
+              "start_seconds": 570.1,
+              "clock": "00:09:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000139"
+            },
+            {
+              "stable_id": "asr-000141",
+              "start_seconds": 580.82,
+              "clock": "00:09:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000141"
+            },
+            {
+              "stable_id": "asr-000143",
+              "start_seconds": 583.58,
+              "clock": "00:09:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000143"
+            },
+            {
+              "stable_id": "asr-000145",
+              "start_seconds": 594.26,
+              "clock": "00:09:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000145"
+            },
+            {
+              "stable_id": "asr-000146",
+              "start_seconds": 598.08,
+              "clock": "00:09:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000146"
+            },
+            {
+              "stable_id": "asr-000148",
+              "start_seconds": 606.22,
+              "clock": "00:10:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000148"
+            },
+            {
+              "stable_id": "asr-000150",
+              "start_seconds": 610.58,
+              "clock": "00:10:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000150"
+            },
+            {
+              "stable_id": "asr-000158",
+              "start_seconds": 628.34,
+              "clock": "00:10:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000158"
+            },
+            {
+              "stable_id": "asr-000160",
+              "start_seconds": 634.32,
+              "clock": "00:10:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000160"
+            },
+            {
+              "stable_id": "asr-000162",
+              "start_seconds": 637.8,
+              "clock": "00:10:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000162"
+            },
+            {
+              "stable_id": "asr-000164",
+              "start_seconds": 644.3,
+              "clock": "00:10:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000164"
+            },
+            {
+              "stable_id": "asr-000168",
+              "start_seconds": 652.54,
+              "clock": "00:10:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000168"
+            },
+            {
+              "stable_id": "asr-000170",
+              "start_seconds": 658.86,
+              "clock": "00:10:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000170"
+            }
+          ]
+        },
+        {
+          "label": "Budget components and prior-year utilization",
+          "text": "The FY2027 proposal comprises ₱6.43 billion for personnel services, ₱22.7 billion for maintenance and other operating expenses, and ₱1.74 billion for capital outlay. Its cluster shares are 23% for the Office of the Secretary (OSEC), 12% each for research institutes and sectoral councils, 51% for science and technology services and 2% for advisory councils.\n\nThe presentation gave the FY2026 General Appropriations Act (GAA) amount as ₱32.12 billion, up ₱3.13 billion or 11% from FY2025. For FY2025 current appropriations, it reported a ₱30.2 billion allotment, 93% obligation and 88% disbursement, with ₱24.6 billion disbursed. The spoken-transcript obligation amount is ₱28.3 billion; the accepted source review records ₱28.03 billion on the slide, so that amount remains uncertain. For FY2026 current appropriations as of June 30, 2026, it reported 50% obligation (₱15 billion) and 79% disbursement (₱11.8 billion). After the presentation, Aquino corrected his earlier budget-ranking discussion: DOST was the 13th-largest department.",
+          "citations": [
+            {
+              "stable_id": "asr-000850",
+              "start_seconds": 2058.84,
+              "clock": "00:34:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000850"
+            },
+            {
+              "stable_id": "asr-000853",
+              "start_seconds": 2063.74,
+              "clock": "00:34:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000853"
+            },
+            {
+              "stable_id": "asr-000855",
+              "start_seconds": 2066.26,
+              "clock": "00:34:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000855"
+            },
+            {
+              "stable_id": "asr-000856",
+              "start_seconds": 2075.38,
+              "clock": "00:34:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000856"
+            },
+            {
+              "stable_id": "asr-000857",
+              "start_seconds": 2084.3,
+              "clock": "00:34:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000857"
+            },
+            {
+              "stable_id": "asr-000862",
+              "start_seconds": 2122.3,
+              "clock": "00:35:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000862"
+            },
+            {
+              "stable_id": "asr-000863",
+              "start_seconds": 2130.92,
+              "clock": "00:35:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000863"
+            },
+            {
+              "stable_id": "asr-000864",
+              "start_seconds": 2139.26,
+              "clock": "00:35:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000864"
+            },
+            {
+              "stable_id": "asr-000865",
+              "start_seconds": 2146.48,
+              "clock": "00:35:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000865"
+            },
+            {
+              "stable_id": "asr-000866",
+              "start_seconds": 2152.3,
+              "clock": "00:35:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000866"
+            },
+            {
+              "stable_id": "asr-000867",
+              "start_seconds": 2160.92,
+              "clock": "00:36:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000867"
+            },
+            {
+              "stable_id": "asr-000868",
+              "start_seconds": 2169.7200000000003,
+              "clock": "00:36:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000868"
+            },
+            {
+              "stable_id": "asr-000873",
+              "start_seconds": 2194.08,
+              "clock": "00:36:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000873"
+            }
+          ]
+        },
+        {
+          "label": "Project NOAA and disaster-information programs",
+          "text": "Ejercito said the Department of Budget and Management (DBM) released ₱1 billion in August for continued implementation and expansion of Project NOAH (Nationwide Operational Assessment of Hazards), which the University of the Philippines Resilience Institute (UPRI) considered a good start but insufficient. He asked whether DOST or an attached agency had complementary funding alongside any University of the Philippines (UP) proposal. Solidum said NOAH is operated by UP and described other DOST disaster- and climate-related programs, web and phone applications that share information with agencies, industry, and communities. He said the Philippine Institute of Volcanology and Seismology (PHIVOLCS) is solely mandated to provide geologic information and has no counterpart for that function. The response described complementary services without specifying a DOST allocation for NOAH.",
+          "citations": [
+            {
+              "stable_id": "asr-000925",
+              "start_seconds": 2432.2799999999997,
+              "clock": "00:40:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000925"
+            },
+            {
+              "stable_id": "asr-000926",
+              "start_seconds": 2436.54,
+              "clock": "00:40:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000926"
+            },
+            {
+              "stable_id": "asr-000932",
+              "start_seconds": 2457.7200000000003,
+              "clock": "00:40:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000932"
+            },
+            {
+              "stable_id": "asr-000942",
+              "start_seconds": 2496.0,
+              "clock": "00:41:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000942"
+            }
+          ]
+        },
+        {
+          "label": "DOST request and unutilized appropriations",
+          "text": "Senator Joseph Victor \"JV\" G. Ejercito cited ₱30.47 billion in FY2027 new appropriations and challenged the request against reported unutilized appropriations of ₱2.85 billion in 2025, nearly 80% above the prior ₱1.57 billion figure. He asked what projects drove the unused amounts and how much returned to the National Treasury. DOST Secretary Renato U. Solidum Jr. attributed utilization problems chiefly to capital outlays and specialized equipment procurement that can take about two years, while saying agencies have distinct needs and the funding can support livelihoods and more efficient processes. Ejercito also cited ₱693.2 million unspent at the Office of the Secretary (OSEC). Solidum said OSEC funds may continue into the following year when implementing organizations have not completed liquidation, and that continuing funds can support new proposals; the amount returned to the Treasury was not specified. ",
+          "citations": [
+            {
+              "stable_id": "asr-000949",
+              "start_seconds": 2515.66,
+              "clock": "00:41:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000949"
+            },
+            {
+              "stable_id": "asr-000950",
+              "start_seconds": 2519.86,
+              "clock": "00:41:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000950"
+            },
+            {
+              "stable_id": "asr-000952",
+              "start_seconds": 2525.16,
+              "clock": "00:42:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000952"
+            },
+            {
+              "stable_id": "asr-000957",
+              "start_seconds": 2550.62,
+              "clock": "00:42:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000957"
+            },
+            {
+              "stable_id": "asr-000971",
+              "start_seconds": 2600.08,
+              "clock": "00:43:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000971"
+            },
+            {
+              "stable_id": "asr-000995",
+              "start_seconds": 2694.0,
+              "clock": "00:44:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000995"
+            },
+            {
+              "stable_id": "asr-001003",
+              "start_seconds": 2728.54,
+              "clock": "00:45:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001003"
+            },
+            {
+              "stable_id": "asr-000967",
+              "start_seconds": 2587.1,
+              "clock": "00:43:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000967"
+            },
+            {
+              "stable_id": "asr-000968",
+              "start_seconds": 2592.4,
+              "clock": "00:43:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000968"
+            }
+          ]
+        },
+        {
+          "label": "Community Empowerment through Science and Technology funding and geographic reach",
+          "text": "Senator Joel Villanueva sought wider national coverage for DOST’s Community Empowerment through Science and Technology (CEST) program, recalling earlier support concentrated in Bulacan and Central Luzon. He quoted a 2.7% change and an ₱8.8 million increase, ultimately comparing 332 last year with 341 now; the units for those totals were not stated clearly. He invited DOST to submit program information to the committee or his office so he could consider further support. No funding increase was adopted in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-001839",
+              "start_seconds": 4206.22,
+              "clock": "01:10:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001839"
+            },
+            {
+              "stable_id": "asr-001872",
+              "start_seconds": 4247.4,
+              "clock": "01:10:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001872"
+            },
+            {
+              "stable_id": "asr-001874",
+              "start_seconds": 4249.5599999999995,
+              "clock": "01:10:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001874"
+            },
+            {
+              "stable_id": "asr-001883",
+              "start_seconds": 4259.82,
+              "clock": "01:10:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001883"
+            },
+            {
+              "stable_id": "asr-001885",
+              "start_seconds": 4262.04,
+              "clock": "01:11:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001885"
+            },
+            {
+              "stable_id": "asr-001973",
+              "start_seconds": 4340.66,
+              "clock": "01:12:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001973"
+            }
+          ]
+        },
+        {
+          "label": "DOST vacancies, job orders, and contract workers",
+          "text": "Villanueva raised DOST’s staffing levels, citing 962 unfilled positions and 4,291 job orders and contract-of-service workers, and pressed for both vacancies and contractual hiring to decline. Solidum attributed vacancies to retirements and promotions, unfilled posts at the PAGASA, teaching posts at the Philippine Science High School System (PSHS), and positions in the Health Technology Assessment Division; he said hiring was under way. He added that a registered-psychologist guidance counselor at PSHS needed a master’s degree. PSHS Executive Director Ronnalee N. Orteza said PSHS had four unfilled GSA positions and 230 unfilled positions overall, including teaching vacancies and 105 new positions received in June for which promotions were ongoing. Her answer addressed PSHS, not the department-wide 962 Villanueva sought to confirm, so the department-wide figure remained unconfirmed in this exchange. Villanueva connected the issue to the government’s use of job orders and contract workers while seeking to reduce employment insecurity.",
+          "citations": [
+            {
+              "stable_id": "asr-001146",
+              "start_seconds": 3215.54,
+              "clock": "00:53:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001146"
+            },
+            {
+              "stable_id": "asr-001182",
+              "start_seconds": 3319.54,
+              "clock": "00:55:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001182"
+            },
+            {
+              "stable_id": "asr-001206",
+              "start_seconds": 3376.54,
+              "clock": "00:56:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001206"
+            },
+            {
+              "stable_id": "asr-001219",
+              "start_seconds": 3400.54,
+              "clock": "00:56:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001219"
+            },
+            {
+              "stable_id": "asr-001224",
+              "start_seconds": 3408.54,
+              "clock": "00:56:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001224"
+            },
+            {
+              "stable_id": "asr-001222",
+              "start_seconds": 3406.54,
+              "clock": "00:56:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001222"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 DOST grants-in-aid reallocation and restoration request",
+          "text": "Aquino cited DOST's letter seeking possible budget augmentation and asked about increasing the grants-in-aid (GIA) program by ₱500 million. Solidum clarified that DOST sought restoration of ₱516 million after the Department of Budget and Management (DBM) had shifted GIA funds from the DOST Office of the Secretary (OSEC) to attached agencies under a policy intended to streamline trust receipts and inter-agency transfers. He described the restoration as an intra-DOST reallocation from attached agencies whose downloaded amounts would not be used back to OSEC for DOST research and development support, rather than a new program item or a grant directly to individual citizens. The adjacent transcript turn states “31,000” without identifying its unit or scope. DBM Budget and Management Bureau-F Director Vivien V. Labastilla confirmed the policy and said the GIA funding level was considered insufficient; she deferred the reallocation request to the Secretary's judgment. Solidum identified priorities for augmentation: science and technology scholarships for master's and doctoral students, construction and rehabilitation of science and technology facilities, information and communications technology expansion, disaster-risk reduction and climate-change adaptation research, technology transfer, and vehicle acquisition or replacement. A separate “7.6” wish-list figure was not given a spoken unit. Aquino distinguished that wish list from the GIA reallocation and said they would see what could be done; no approval or final disposition of the proposed restoration was recorded in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002997",
+              "start_seconds": 6453.8,
+              "clock": "01:47:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002997"
+            },
+            {
+              "stable_id": "asr-003021",
+              "start_seconds": 6491.04,
+              "clock": "01:48:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003021"
+            },
+            {
+              "stable_id": "asr-003022",
+              "start_seconds": 6494.68,
+              "clock": "01:48:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003022"
+            },
+            {
+              "stable_id": "asr-003038",
+              "start_seconds": 6516.98,
+              "clock": "01:48:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003038"
+            },
+            {
+              "stable_id": "asr-003064",
+              "start_seconds": 6553.24,
+              "clock": "01:49:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003064"
+            },
+            {
+              "stable_id": "asr-003073",
+              "start_seconds": 6570.36,
+              "clock": "01:49:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003073"
+            },
+            {
+              "stable_id": "asr-003084",
+              "start_seconds": 6583.98,
+              "clock": "01:49:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003084"
+            },
+            {
+              "stable_id": "asr-003103",
+              "start_seconds": 6614.98,
+              "clock": "01:50:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003103"
+            },
+            {
+              "stable_id": "asr-003112",
+              "start_seconds": 6631.32,
+              "clock": "01:50:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003112"
+            },
+            {
+              "stable_id": "asr-003126",
+              "start_seconds": 6656.52,
+              "clock": "01:50:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003126"
+            },
+            {
+              "stable_id": "asr-003134",
+              "start_seconds": 6673.82,
+              "clock": "01:51:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003134"
+            },
+            {
+              "stable_id": "asr-003141",
+              "start_seconds": 6685.24,
+              "clock": "01:51:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003141"
+            },
+            {
+              "stable_id": "asr-003142",
+              "start_seconds": 6687.12,
+              "clock": "01:51:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003142"
+            },
+            {
+              "stable_id": "asr-003146",
+              "start_seconds": 6694.04,
+              "clock": "01:51:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003146"
+            }
+          ]
+        },
+        {
+          "label": "Earlier startup funding",
+          "text": "Solidum reported that DOST had funded 178 startups, with cumulative funding of about ₱2 billion. These were historical program figures, rather than a FY2027 NEP allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-003164",
+              "start_seconds": 6733.96,
+              "clock": "01:52:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003164"
+            },
+            {
+              "stable_id": "asr-003165",
+              "start_seconds": 6734.9,
+              "clock": "01:52:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003165"
+            },
+            {
+              "stable_id": "asr-003166",
+              "start_seconds": 6737.66,
+              "clock": "01:52:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003166"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-pagasa",
+      "label": "PAGASA budget",
+      "items": [
+        {
+          "label": "PAGASA utilization and radar procurement",
+          "text": "Ejercito cited a 2024 disbursement rate of 83.8% for DOST overall, falling to 79.8% in 2025, and asked the frontline agencies to explain their rates. For the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA), he cited 47.9%, compared with 71.1% in 2020, and ₱1.45 billion in unused appropriations in 2024. Administrator Nathaniel T. Servando said part of the 2025 unutilized funding was an additional National Disaster Risk Reduction and Management Council Fund allocation for three Doppler radars. Procurement was ongoing, most equipment had been awarded, and PAGASA expected the funds to be obligated before year-end; when Ejercito asked whether the equipment would be fully utilized and operational, Servando answered yes. Servando said interventions included fast-tracking procurement of sophisticated equipment manufactured overseas, monitoring remaining components through December, and completing awarded contracts. The record's immediately following ₱1.2 billion figure has no clear scope in the exchange and is not included as an agency amount.",
+          "citations": [
+            {
+              "stable_id": "asr-001005",
+              "start_seconds": 2739.56,
+              "clock": "00:45:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001005"
+            },
+            {
+              "stable_id": "asr-001006",
+              "start_seconds": 2744.08,
+              "clock": "00:45:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001006"
+            },
+            {
+              "stable_id": "asr-001007",
+              "start_seconds": 2751.26,
+              "clock": "00:45:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001007"
+            },
+            {
+              "stable_id": "asr-001008",
+              "start_seconds": 2755.08,
+              "clock": "00:45:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001008"
+            },
+            {
+              "stable_id": "asr-000969",
+              "start_seconds": 2594.48,
+              "clock": "00:43:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000969"
+            },
+            {
+              "stable_id": "asr-000983",
+              "start_seconds": 2644.62,
+              "clock": "00:44:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000983"
+            },
+            {
+              "stable_id": "asr-001018",
+              "start_seconds": 2797.94,
+              "clock": "00:46:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001018"
+            }
+          ]
+        },
+        {
+          "label": "PAGASA forecasting allocation and DOST research support",
+          "text": "Ejercito questioned a stated decline in PAGASA's FY2027 weather and climate forecasting and warning program, citing endpoints of ₱1.08 billion and ₱707.9 million. The 53.4% reduction he quoted does not reconcile with those amounts. Servando separately said PAGASA's total FY2027 NEP budget would decrease by about 12.3%, mainly because completed capital projects no longer needed continuing funds and because operating expenses included a reduced congressional initiative than the prior year. He said the referenced locally funded project would continue next year and be proposed in succeeding years. Solidum added that DOST research funding, including work with the Advanced Science and Technology Institute (ASTI) and international partners, supports PAGASA forecasting even when the research is outside PAGASA's own budget. He described a target to extend forecasts from five to 14 days and reduce computation intervals from three hours to every 15 minutes.",
+          "citations": [
+            {
+              "stable_id": "asr-001067",
+              "start_seconds": 2971.54,
+              "clock": "00:49:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001067"
+            },
+            {
+              "stable_id": "asr-001068",
+              "start_seconds": 2974.54,
+              "clock": "00:49:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001068"
+            },
+            {
+              "stable_id": "asr-001069",
+              "start_seconds": 2978.54,
+              "clock": "00:49:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001069"
+            },
+            {
+              "stable_id": "asr-001083",
+              "start_seconds": 3026.54,
+              "clock": "00:50:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001083"
+            },
+            {
+              "stable_id": "asr-001084",
+              "start_seconds": 3032.54,
+              "clock": "00:50:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001084"
+            },
+            {
+              "stable_id": "asr-001112",
+              "start_seconds": 3138.54,
+              "clock": "00:52:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001112"
+            },
+            {
+              "stable_id": "asr-001113",
+              "start_seconds": 3141.54,
+              "clock": "00:52:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001113"
+            },
+            {
+              "stable_id": "asr-001115",
+              "start_seconds": 3144.54,
+              "clock": "00:52:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001115"
+            },
+            {
+              "stable_id": "asr-001116",
+              "start_seconds": 3146.54,
+              "clock": "00:52:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001116"
+            },
+            {
+              "stable_id": "asr-001099",
+              "start_seconds": 3103.54,
+              "clock": "00:51:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001099"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-pnri",
+      "label": "PNRI budget",
+      "items": [
+        {
+          "label": "PNRI utilization and nuclear medicine project",
+          "text": "Ejercito cited the Philippine Nuclear Research Institute (PNRI)'s 34.4% disbursement rate and asked what interventions would address utilization. PNRI Deputy Director Maria Teresa A. Salabit attributed the low utilization to the nuclear medicine project: procurement planning needed to be aligned with implementation progress, some packages were not procurement-ready, technical and procurement documents required review, and regulatory and legal requirements remained in progress. Salabit outlined catch-up work on procurement documents, engineering plans, terms of reference, technical specifications, cost estimates, and building requirements; coordination with legal authorities and stronger internal legal support; and a revised roadmap to sequence technical, procurement, legal, and implementation work. She said PNRI was expediting these steps to advance utilization.",
+          "citations": [
+            {
+              "stable_id": "asr-001009",
+              "start_seconds": 2758.54,
+              "clock": "00:45:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001009"
+            },
+            {
+              "stable_id": "asr-001033",
+              "start_seconds": 2848.54,
+              "clock": "00:47:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001033"
+            },
+            {
+              "stable_id": "asr-001046",
+              "start_seconds": 2896.54,
+              "clock": "00:48:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001046"
+            },
+            {
+              "stable_id": "asr-001051",
+              "start_seconds": 2916.54,
+              "clock": "00:48:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001051"
+            },
+            {
+              "stable_id": "asr-001056",
+              "start_seconds": 2932.54,
+              "clock": "00:48:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001056"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dost-program-presentation",
+      "label": "DOST program presentation",
+      "items": [
+        {
+          "label": "Human well-being, health and science talent",
+          "text": "DOST framed its work around human well-being, wealth creation, wealth protection and sustainability. Its presentation highlighted water filtration, cleaner local transport, health and nutrition research, and the transfer of high-value food products. It described scholarships from secondary through graduate study and the Balik Scientist Program as ways to build the country’s science and engineering workforce.",
+          "citations": [
+            {
+              "stable_id": "asr-000200",
+              "start_seconds": 740.82,
+              "clock": "00:12:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000200"
+            },
+            {
+              "stable_id": "asr-000231",
+              "start_seconds": 832.4,
+              "clock": "00:13:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000231"
+            }
+          ]
+        },
+        {
+          "label": "Research, commercialization and industry capacity",
+          "text": "DOST presented research moving into practical applications, including textile fibers and materials, artificial intelligence, robotics, additive manufacturing, defense technologies and structural monitoring. It described support for small firms through the Small Enterprise Technology Upgrading Program (SETUP) and for communities through CEST, alongside commercialization programs, inventor assistance, advanced testing laboratories, regional engineering centers and textile innovation hubs. These efforts were presented as a way to improve productivity, local manufacturing and regional livelihoods.",
+          "citations": [
+            {
+              "stable_id": "asr-000243",
+              "start_seconds": 872.8399999999999,
+              "clock": "00:14:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000243"
+            },
+            {
+              "stable_id": "asr-000361",
+              "start_seconds": 1113.1,
+              "clock": "00:18:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000361"
+            },
+            {
+              "stable_id": "asr-000415",
+              "start_seconds": 1259.1,
+              "clock": "00:20:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000415"
+            },
+            {
+              "stable_id": "asr-000441",
+              "start_seconds": 1328.6399999999999,
+              "clock": "00:22:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000441"
+            }
+          ]
+        },
+        {
+          "label": "Hazard monitoring and disaster resilience",
+          "text": "Under wealth protection, the presentation described expanded weather, seismic, volcano and tsunami monitoring, digital climate information and hazard maps. DOST also highlighted training and planning tools for local disaster-risk reduction, resilient schools and communities, and an integrated flood-management approach combining engineering, nature-based solutions, geospatial information and public engagement. Its tools included PANAHON weather information, PlanSmart planning applications and the HANDA integrated warning platform.",
+          "citations": [
+            {
+              "stable_id": "asr-000465",
+              "start_seconds": 1382.12,
+              "clock": "00:23:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000465"
+            },
+            {
+              "stable_id": "asr-000503",
+              "start_seconds": 1486.04,
+              "clock": "00:24:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000503"
+            },
+            {
+              "stable_id": "asr-000518",
+              "start_seconds": 1519.5,
+              "clock": "00:25:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000518"
+            },
+            {
+              "stable_id": "asr-000523",
+              "start_seconds": 1531.1399999999999,
+              "clock": "00:25:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000523"
+            }
+          ]
+        },
+        {
+          "label": "Environmental sustainability and energy",
+          "text": "The sustainability program included water-quality and land-use monitoring, timber identification and DNA methods intended to support traceability and deter illegal logging, and technologies for coral-reef recovery. DOST also described smart-community and circular-economy work, including waste-to-energy systems, renewable-energy applications, solar planning tools, hydrogen storage research and a microgrid laboratory.",
+          "citations": [
+            {
+              "stable_id": "asr-000556",
+              "start_seconds": 1603.06,
+              "clock": "00:26:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000556"
+            },
+            {
+              "stable_id": "asr-000589",
+              "start_seconds": 1678.54,
+              "clock": "00:27:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000589"
+            },
+            {
+              "stable_id": "asr-000645",
+              "start_seconds": 1805.9,
+              "clock": "00:30:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000645"
+            }
+          ]
+        },
+        {
+          "label": "Science communication, governance and partnerships",
+          "text": "For cross-cutting work, DOST cited digital governance, implementation of science and technology legislation, international partnerships and the National Artificial Intelligence Strategy for the Philippines. The presentation also pointed to public access through STARBOOKS digital libraries, DOSTV and the National Science, Technology and Innovation Week, alongside the National AI Center for Research and Innovation as a hub for research capacity and coordination.",
+          "citations": [
+            {
+              "stable_id": "asr-000691",
+              "start_seconds": 1869.08,
+              "clock": "00:31:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000691"
+            },
+            {
+              "stable_id": "asr-000773",
+              "start_seconds": 1960.74,
+              "clock": "00:32:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000773"
+            },
+            {
+              "stable_id": "asr-000785",
+              "start_seconds": 1974.46,
+              "clock": "00:32:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000785"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-paolo-benigno-bam-aquino-iv",
+      "label": "Senator Paolo Benigno \"Bam\" Aquino IV",
+      "items": [
+        {
+          "label": "Agham Ramdam: science in daily life and safer communities",
+          "text": "Senator Paolo Benigno “Bam” Aquino IV quoted Renato U. Solidum Jr., Secretary of the Department of Science and Technology (DOST), saying “Dapat ramdam ang agham” (“science should be felt”) as a guide for the budget: research should improve people’s lives, whether immediately or over time. Aquino pointed to potential gains in farm and fishing yields, food shelf life and reduced waste, lower production and distribution costs, and more affordable food, medicines and other essentials for small businesses and consumers. He also linked weather forecasts, hazard maps, early warnings, flood monitoring and climate-resilient technology to earlier local preparation and fewer losses to lives, homes, crops, businesses and infrastructure. He said DOST’s success should be felt in ordinary settings such as markets, schools and workplaces, not measured only in studies, patents and inventions.",
+          "citations": [
+            {
+              "stable_id": "asr-000081",
+              "start_seconds": 343.06,
+              "clock": "00:05:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000081"
+            },
+            {
+              "stable_id": "asr-000083",
+              "start_seconds": 350.82,
+              "clock": "00:05:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000083"
+            },
+            {
+              "stable_id": "asr-000089",
+              "start_seconds": 381.8,
+              "clock": "00:06:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000089"
+            },
+            {
+              "stable_id": "asr-000092",
+              "start_seconds": 391.6,
+              "clock": "00:06:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000092"
+            },
+            {
+              "stable_id": "asr-000096",
+              "start_seconds": 407.3,
+              "clock": "00:06:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000096"
+            },
+            {
+              "stable_id": "asr-000098",
+              "start_seconds": 418.3,
+              "clock": "00:06:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000098"
+            },
+            {
+              "stable_id": "asr-000100",
+              "start_seconds": 427.3,
+              "clock": "00:07:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000100"
+            },
+            {
+              "stable_id": "asr-000104",
+              "start_seconds": 441.84000000000003,
+              "clock": "00:07:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000104"
+            },
+            {
+              "stable_id": "asr-000106",
+              "start_seconds": 449.84000000000003,
+              "clock": "00:07:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000106"
+            },
+            {
+              "stable_id": "asr-000108",
+              "start_seconds": 460.84000000000003,
+              "clock": "00:07:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000108"
+            }
+          ]
+        },
+        {
+          "label": "Scaling research beyond pilots",
+          "text": "Senator Paolo Benigno \"Bam\" Aquino IV said government often produces pilots and prototypes without a path to scale, and urged the Department of Science and Technology (DOST) to connect inventions with manufacturers, distributors, and investors. He said some researchers want to continue research while others want commercialization or royalties, and suggested tracking which DOST-supported products reach wider markets. Secretary Renato U. Solidum Jr. agreed with the goal and described examples: the Regional Yarn Production and Innovation Center linked fiber producers with textile manufacturing; DOST's spray-drying technology turned fragile eggs into powder; and a manufacturer was interested in producing DOST-prototyped electric tricycles with continued technical partnership. Solidum said DOST was extending enterprise support as firms grew, seeking industrial partners, and encouraging universities to value commercialization alongside publication. Aquino proposed a major trade fair for market-ready DOST-assisted products, while preserving research as a valid path for those who do not want to commercialize; he also suggested linking DOST with the Department of Trade and Industry (DTI) and using the Innovative Startup Act framework to connect inventions with businesses. These were proposals for continued coordination, not recorded budget approvals.",
+          "citations": [
+            {
+              "stable_id": "asr-001993",
+              "start_seconds": 4356.48,
+              "clock": "01:12:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001993"
+            },
+            {
+              "stable_id": "asr-002054",
+              "start_seconds": 4416.34,
+              "clock": "01:13:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002054"
+            },
+            {
+              "stable_id": "asr-002122",
+              "start_seconds": 4500.0,
+              "clock": "01:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002122"
+            },
+            {
+              "stable_id": "asr-002148",
+              "start_seconds": 4666.18,
+              "clock": "01:17:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002148"
+            },
+            {
+              "stable_id": "asr-002161",
+              "start_seconds": 4736.54,
+              "clock": "01:18:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002161"
+            },
+            {
+              "stable_id": "asr-002175",
+              "start_seconds": 4789.82,
+              "clock": "01:19:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002175"
+            },
+            {
+              "stable_id": "asr-002190",
+              "start_seconds": 4855.8,
+              "clock": "01:20:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002190"
+            },
+            {
+              "stable_id": "asr-002199",
+              "start_seconds": 4891.76,
+              "clock": "01:21:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002199"
+            },
+            {
+              "stable_id": "asr-002217",
+              "start_seconds": 4976.96,
+              "clock": "01:22:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002217"
+            },
+            {
+              "stable_id": "asr-002232",
+              "start_seconds": 5059.64,
+              "clock": "01:24:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002232"
+            }
+          ]
+        },
+        {
+          "label": "Artificial intelligence strategy, Filipino-language models, and Itanong",
+          "text": "Asked which agency was leading artificial intelligence (AI), Aquino learned that DOST leads the National AI Strategy, while the Department of Information and Communications Technology (DICT) handles infrastructure and connectivity. Solidum assigned DOST work on talent, research and development, and commercialization, with the private sector, DTI, the Technical Education and Skills Development Authority (TESDA), the Department of Education (DepEd), and the Commission on Higher Education (CHED) also involved in their respective areas. DOST said its Advanced Science and Technology Institute (ASTI) had established the National AI Center for Research and Innovation (NAICRI), with computing capacity intended to provide AI services to micro, small, and medium enterprises. Aquino asked about an AI or large language model (LLM) trained on Filipino culture, values, history, and languages. DOST-ASTI Director Franz A. de Leon said a new LLM program had been approved and would cover major and less-spoken languages; he hoped to make it publicly available the following year. He distinguished the new LLM program from the AI center's infrastructure and said it would be budgeted, but the exchange did not establish whether it was included in the FY2027 budget or funded through the Office of the Secretary. Solidum said Filipino sovereign data would supply models for local needs and described the Geospatial Analytics and Technology Solutions platform as a way to digitize and geographically link DOST and partner data for shared analytics. He said regional, provincial, local-government, and academic partners could use the platform. DOST also described Itanong as an existing AI question-answering platform for information an agency or institution shares in a private space; users could query it in Filipino, English, or Taglish, and initial deployment included a local government unit in Butuan. Itanong is distinct from the still-developing public-facing LLM; its current agency-specific information space does not establish the future LLM's public release. De Leon emphasized vetted information, security, and AI safety.",
+          "citations": [
+            {
+              "stable_id": "asr-002237",
+              "start_seconds": 5082.8,
+              "clock": "01:24:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002237"
+            },
+            {
+              "stable_id": "asr-002247",
+              "start_seconds": 5127.14,
+              "clock": "01:25:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002247"
+            },
+            {
+              "stable_id": "asr-002258",
+              "start_seconds": 5177.76,
+              "clock": "01:26:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002258"
+            },
+            {
+              "stable_id": "asr-002277",
+              "start_seconds": 5237.4400000000005,
+              "clock": "01:27:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002277"
+            },
+            {
+              "stable_id": "asr-002278",
+              "start_seconds": 5240.4400000000005,
+              "clock": "01:27:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002278"
+            },
+            {
+              "stable_id": "asr-002289",
+              "start_seconds": 5274.92,
+              "clock": "01:27:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002289"
+            },
+            {
+              "stable_id": "asr-002293",
+              "start_seconds": 5288.92,
+              "clock": "01:28:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002293"
+            },
+            {
+              "stable_id": "asr-002337",
+              "start_seconds": 5435.82,
+              "clock": "01:30:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002337"
+            },
+            {
+              "stable_id": "asr-002418",
+              "start_seconds": 5542.52,
+              "clock": "01:32:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002418"
+            },
+            {
+              "stable_id": "asr-002430",
+              "start_seconds": 5556.08,
+              "clock": "01:32:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002430"
+            },
+            {
+              "stable_id": "asr-002447",
+              "start_seconds": 5571.54,
+              "clock": "01:32:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002447"
+            },
+            {
+              "stable_id": "asr-002478",
+              "start_seconds": 5602.7,
+              "clock": "01:33:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002478"
+            }
+          ]
+        },
+        {
+          "label": "Weather warnings, flood risk, and local disaster planning",
+          "text": "Aquino asked how DOST, PAGASA, and the Philippine Institute of Volcanology and Seismology (PHIVOLCS) could help local governments prepare for severe monsoon flooding and communicate rainfall and hazard risks. Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) Administrator Nathaniel T. Servando said timely delivery of forecasts matters alongside forecast accuracy. He cited the free Panahon app, which provides station information and forecasts, and described coordination with the Office of Civil Defense and the Regional Disaster Risk Reduction and Management Council; he also mentioned exploring artificial intelligence for weather forecasting and improving monitoring infrastructure. On whether hazards and floods had worsened, Servando pointed to stronger typhoons, heavy monsoon-season rain even without tropical cyclones, and greater exposure of communities and structures. PAGASA was operationalizing impact-based forecasting to focus on consequences as well as hazards. Solidum said flood risk also changes as local surfaces are paved, drainage capacity proves inadequate or becomes blocked, and waterways narrow with urbanization. DOST and PHIVOLCS developed PlanSmart for Sustainable Human Settlements to automate hazard and risk assessments so local governments can devote more time to settlement planning, alongside the HANDA integrated warning platform. Solidum said the apps were local-government-based, but required local personnel and continuing attention; local governments could consult DOST and develop their own procedures. PHIVOLCS Director Teresito C. Bacolcol said the Department of Human Settlements and Urban Development (DHSUD) had trained more than 300 local government units using PlanSmart for Sustainable Communities, which PHIVOLCS developed and DHSUD now owns, with PHIVOLCS continuing technical support. Solidum also described a regional DOST program for smart and sustainable cities, towns, and provinces, with disaster and climate resilience as a component.",
+          "citations": [
+            {
+              "stable_id": "asr-002577",
+              "start_seconds": 5707.36,
+              "clock": "01:35:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002577"
+            },
+            {
+              "stable_id": "asr-002619",
+              "start_seconds": 5760.08,
+              "clock": "01:36:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002619"
+            },
+            {
+              "stable_id": "asr-002665",
+              "start_seconds": 5816.0,
+              "clock": "01:36:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002665"
+            },
+            {
+              "stable_id": "asr-002680",
+              "start_seconds": 5865.14,
+              "clock": "01:37:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002680"
+            },
+            {
+              "stable_id": "asr-002710",
+              "start_seconds": 5926.02,
+              "clock": "01:38:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002710"
+            },
+            {
+              "stable_id": "asr-002736",
+              "start_seconds": 5977.26,
+              "clock": "01:39:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002736"
+            },
+            {
+              "stable_id": "asr-002757",
+              "start_seconds": 6017.96,
+              "clock": "01:40:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002757"
+            },
+            {
+              "stable_id": "asr-002804",
+              "start_seconds": 6112.84,
+              "clock": "01:41:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002804"
+            },
+            {
+              "stable_id": "asr-002829",
+              "start_seconds": 6162.9,
+              "clock": "01:42:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002829"
+            },
+            {
+              "stable_id": "asr-002850",
+              "start_seconds": 6204.98,
+              "clock": "01:43:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002850"
+            },
+            {
+              "stable_id": "asr-002854",
+              "start_seconds": 6212.64,
+              "clock": "01:43:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002854"
+            },
+            {
+              "stable_id": "asr-002873",
+              "start_seconds": 6249.42,
+              "clock": "01:44:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-002873"
+            }
+          ]
+        },
+        {
+          "label": "Startup support, investment links, and budget disposition",
+          "text": "Solidum described technology business incubation hubs, continuing needs for venture financing and investors, and Propel as a way to advertise technologies ready for market, including through the existing Itanong platform for investors seeking available Philippine technologies. Aquino urged DOST to connect inventors and startups with established Filipino manufacturers and proposed supporting distinct paths: businesses could grow themselves, license technology for royalties, or continue research. Solidum described a DOST partnership with the Filipino-Chinese Chamber of Commerce in which five startups pitched to investors. DOST Technology Application and Promotion Institute (TAPI) Director Atty. Marion Ivy D. Decena said one startup received a ₱500,000 award and mentorship, while the others were linked to the chamber's network. The winner was an edtech company previously assisted through the Startup Grant Fund and TAPI's Expanded Venture Financing Program. Solidum said DOST program beneficiaries had 700 products from 100 micro, small, and medium enterprises being sold through Lazada; Aquino urged the agency to lead with tangible outcomes while recognizing that not every research project will scale immediately. Aquino then declared the DOST and attached-agency budget submitted for plenary consideration, subject to requested documents and information. This was a submission for plenary consideration, not final appropriation approval.",
+          "citations": [
+            {
+              "stable_id": "asr-003178",
+              "start_seconds": 6761.56,
+              "clock": "01:52:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003178"
+            },
+            {
+              "stable_id": "asr-003192",
+              "start_seconds": 6790.4,
+              "clock": "01:53:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003192"
+            },
+            {
+              "stable_id": "asr-003267",
+              "start_seconds": 6898.28,
+              "clock": "01:54:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003267"
+            },
+            {
+              "stable_id": "asr-003532",
+              "start_seconds": 7198.64,
+              "clock": "01:59:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003532"
+            },
+            {
+              "stable_id": "asr-003548",
+              "start_seconds": 7221.52,
+              "clock": "02:00:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003548"
+            },
+            {
+              "stable_id": "asr-003593",
+              "start_seconds": 7282.44,
+              "clock": "02:01:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003593"
+            },
+            {
+              "stable_id": "asr-003601",
+              "start_seconds": 7291.84,
+              "clock": "02:01:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003601"
+            },
+            {
+              "stable_id": "asr-003619",
+              "start_seconds": 7314.42,
+              "clock": "02:01:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003619"
+            },
+            {
+              "stable_id": "asr-003628",
+              "start_seconds": 7326.82,
+              "clock": "02:02:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003628"
+            },
+            {
+              "stable_id": "asr-003762",
+              "start_seconds": 7494.82,
+              "clock": "02:04:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003762"
+            },
+            {
+              "stable_id": "asr-003813",
+              "start_seconds": 7555.88,
+              "clock": "02:05:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003813"
+            },
+            {
+              "stable_id": "asr-003818",
+              "start_seconds": 7561.0,
+              "clock": "02:06:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-003818"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Pax Silica Initiative and environmental safeguards",
+          "text": "Ejercito asked DOST for its position on the Pax Silica Initiative. Solidum said development should be sustainable, create jobs and opportunities, and address environmental and socioeconomic concerns. He described the Philippine component as a small part of a global program, with a Clark advanced-manufacturing hub intended for accessories related to chips, data centers, and AI hubs; he said those future facilities would not be in Clark. The minerals to be processed and the critical-mineral arrangements remained subject to negotiation and further discussion. Asked whether an initial assessment showed benefits outweighing environmental risks and whether a study existed, Solidum cited strict environmental laws, said the Department of Environment and Natural Resources (DENR) should lead, and referred to experience with industrial hubs and economic zones. His reply emphasized regulatory safeguards rather than answering the requested benefits-versus-risks comparison.",
+          "citations": [
+            {
+              "stable_id": "asr-000886",
+              "start_seconds": 2254.82,
+              "clock": "00:37:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000886"
+            },
+            {
+              "stable_id": "asr-000890",
+              "start_seconds": 2275.68,
+              "clock": "00:37:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000890"
+            },
+            {
+              "stable_id": "asr-000902",
+              "start_seconds": 2342.84,
+              "clock": "00:39:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000902"
+            },
+            {
+              "stable_id": "asr-000913",
+              "start_seconds": 2390.04,
+              "clock": "00:39:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000913"
+            },
+            {
+              "stable_id": "asr-000916",
+              "start_seconds": 2400.7799999999997,
+              "clock": "00:40:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-000916"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joel-villanueva",
+      "label": "Senator Joel Villanueva",
+      "items": [
+        {
+          "label": "Flight cancellations, airport weather information, and advance notice",
+          "text": "Using an account from friends in Bulacan that he said he could not independently verify, Villanueva described two consecutive days when they traveled to Ninoy Aquino International Airport (NAIA) Terminal 1 for a Manila–Isabela flight and learned about two hours before departure that it was canceled, reportedly because of heavy rain and inadequate instruments or information. He asked whether PAGASA had supplied the Civil Aviation Authority of the Philippines (CAAP) with timely data needed for flight decisions, saying he would raise the matter with CAAP and the Department of Transportation (DOTr). Solidum said PAGASA issues a color-coded 24-hour public rainfall forecast and a three-hour heavy-rain forecast relevant to possible cancellations, and that airport-area forecasters also provide aviation forecasts. Asked whether information covered both departure and destination airports, he said this depended on the route. Servando described coordination with airport operations, meteorological services and monitoring equipment at major airports; he said PAGASA did not have a station at the Isabela destination discussed, contrasting it with major airports. Asked how much advance warning airlines could receive, Servando explained that sudden, short-lived thunderstorms during an active habagat period could affect airport operations.\n\nVillanueva clarified that he wanted to know how many hours ahead PAGASA could provide a reliable warning, including information that might help determine whether a flight should proceed. Servando said rainfall warnings were issued every three hours, while forecasts could be valid for 24 hours, extend up to three days, and be updated every six hours. Solidum said the useful heavy-rain forecast horizon was then three hours; he described a research-stage target of updating forecasts every 15 minutes using artificial intelligence, which would require substantial data inputs and funding. Villanueva asked whether that lead time could support an airline-cancellation decision. Senator Paolo Benigno “Bam” Aquino IV reframed the issue around rainfall and flood prediction, asking whether Philippine capability was comparable internationally and whether better technology could improve it. Solidum and Servando distinguished stronger tropical-cyclone tracking from rainfall forecasting: Servando said rainfall remained difficult to predict precisely by amount, timing and affected area even with advanced technology, though Doppler radar supported forecasts; he described the country’s cyclone-tracking accuracy as comparable and its expertise as strong. Aquino suggested that airlines’ cost incentives could favor last-minute cancellations and raised a possible DOTr policy requiring earlier cancellation decisions. Villanueva agreed that his anecdotal question might be unfair but said the agencies’ explanation helped him understand their capabilities and the airline decision.",
+          "citations": [
+            {
+              "stable_id": "asr-001241",
+              "start_seconds": 3440.54,
+              "clock": "00:57:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001241"
+            },
+            {
+              "stable_id": "asr-001382",
+              "start_seconds": 3664.5,
+              "clock": "01:01:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001382"
+            },
+            {
+              "stable_id": "asr-001471",
+              "start_seconds": 3776.78,
+              "clock": "01:02:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001471"
+            },
+            {
+              "stable_id": "asr-001621",
+              "start_seconds": 3954.54,
+              "clock": "01:05:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001621"
+            },
+            {
+              "stable_id": "asr-001720",
+              "start_seconds": 4068.16,
+              "clock": "01:07:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001720"
+            },
+            {
+              "stable_id": "asr-001768",
+              "start_seconds": 4124.04,
+              "clock": "01:08:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001768"
+            },
+            {
+              "stable_id": "asr-001322",
+              "start_seconds": 3588.54,
+              "clock": "00:59:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001322"
+            },
+            {
+              "stable_id": "asr-001423",
+              "start_seconds": 3719.86,
+              "clock": "01:01:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001423"
+            },
+            {
+              "stable_id": "asr-001539",
+              "start_seconds": 3853.68,
+              "clock": "01:04:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001539"
+            },
+            {
+              "stable_id": "asr-001584",
+              "start_seconds": 3909.8,
+              "clock": "01:05:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/63/#asr-001584"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

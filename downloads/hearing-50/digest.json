@@ -1,0 +1,3611 @@
+{
+  "hearing": {
+    "hearing_id": 50,
+    "title": "Senate Committee on Finance: CHED and SUCs - September 25, 2026",
+    "hearing_date": "2026-09-25",
+    "official_url": "https://www.youtube.com/watch?v=qNTPswz8mYs"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h50/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Access and completion",
+      "text": "The hearing’s central question was whether free tuition is matched by enough student aid and institutional capacity for students to enroll, persist, and graduate.",
+      "citations": []
+    },
+    {
+      "label": "Funding and capacity",
+      "text": "Members pressed for clearer, enrollment- and cost-based funding, timely scholarship releases, stronger campus capacity and staffing, and sustained support for research and public services.",
+      "citations": []
+    },
+    {
+      "label": "Agency follow-up",
+      "text": "Agency officials described ongoing work and agreed to provide data, priorities, or follow-up on scholarship delays, projected enrollment, staffing, program needs, and PGH services.",
+      "citations": []
+    },
+    {
+      "label": "Plenary referral",
+      "text": "The committee submitted the FY2027 CHED, SUC, and UP System proposed budgets for plenary consideration, subject to the hearing discussion and requested documents and information.",
+      "citations": []
+    }
+  ],
+  "method_note": "Source-linked working draft of the completed transcript. Original requests, NEP allocations, prior-year appropriations and later additions retain their stated scopes; commitments are distinguished from adopted appropriations.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "CHED: FY2027 request and NEP",
+          "text": "CHED Chairperson Shirley Castañeda Agrupis said CHED requested ₱70.2 billion for FY2027, including the Higher Education Development Fund (HEDF); the FY2027 National Expenditure Program (NEP) provides ₱35.4 billion. ",
+          "citations": [
+            {
+              "stable_id": "asr-000329",
+              "start_seconds": 3175.14,
+              "clock": "00:52:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000329"
+            },
+            {
+              "stable_id": "asr-000340",
+              "start_seconds": 3272.34,
+              "clock": "00:54:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000340"
+            }
+          ]
+        },
+        {
+          "label": "SUCs: FY2027 submission and NEP",
+          "text": "Philippine Association of State Universities and Colleges (PASUC) President Dr. Tirso A. Ronquillo said SUCs submitted ₱312 billion through their regional development councils (RDCs), while the FY2027 NEP provided ₱134.561 billion. The hearing-opening proposed obligation figure of ₱141.090 billion was stated separately by presiding Senator Joel Villanueva, who described a ₱2.979 billion or 2.1% decline; its basis was not reconciled with the PASUC presentation figures.",
+          "citations": [
+            {
+              "stable_id": "asr-001488",
+              "start_seconds": 6647.8,
+              "clock": "01:50:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001488"
+            },
+            {
+              "stable_id": "asr-001490",
+              "start_seconds": 6651.48,
+              "clock": "01:50:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001490"
+            },
+            {
+              "stable_id": "asr-001491",
+              "start_seconds": 6654.22,
+              "clock": "01:50:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001491"
+            },
+            {
+              "stable_id": "asr-000083",
+              "start_seconds": 1870.36,
+              "clock": "00:31:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000083"
+            }
+          ]
+        },
+        {
+          "label": "UP: FY2027 allocation and operating appeal",
+          "text": "UP President Angelo A. Jimenez presented ₱26.5 billion as UP’s current NEP allocation and separately requested ₱2.6 billion more to maintain regular operations. The presentation does not state the total of UP’s original DBM submission.",
+          "citations": [
+            {
+              "stable_id": "asr-002209",
+              "start_seconds": 8545.42,
+              "clock": "02:22:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002209"
+            },
+            {
+              "stable_id": "asr-002210",
+              "start_seconds": 8545.72,
+              "clock": "02:22:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002210"
+            },
+            {
+              "stable_id": "asr-002215",
+              "start_seconds": 8557.82,
+              "clock": "02:22:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002215"
+            },
+            {
+              "stable_id": "asr-002218",
+              "start_seconds": 8563.44,
+              "clock": "02:22:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002218"
+            },
+            {
+              "stable_id": "asr-002219",
+              "start_seconds": 8565.62,
+              "clock": "02:22:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002219"
+            },
+            {
+              "stable_id": "asr-002220",
+              "start_seconds": 8567.56,
+              "clock": "02:22:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002220"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-commission-on-higher-education-ched",
+      "label": "Commission on Higher Education (CHED) budget",
+      "items": [
+        {
+          "label": "CHED FY2027 proposed allocation and request",
+          "text": "Senator Joel Villanueva, presiding over the subcommittee, cited an opening FY2027 CHED allocation of ₱35.453 billion, a ₱12.916 billion or 26.7% reduction from its 2026 budget. He later cited a rounded 2026 GAA amount of ₱48 billion. His opening figures and the agency presentation use separately stated totals, summarized above.",
+          "citations": [
+            {
+              "stable_id": "asr-000082",
+              "start_seconds": 1854.96,
+              "clock": "00:30:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000082"
+            },
+            {
+              "stable_id": "asr-000208",
+              "start_seconds": 2588.22,
+              "clock": "00:43:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000208"
+            }
+          ]
+        },
+        {
+          "label": "Tertiary access and student-assistance allocations",
+          "text": "Villanueva said the allocation for universal access to quality tertiary education fell from ₱37.547 billion to ₱27.790 billion, a ₱9.757 billion reduction. In contrast, Student Financial Assistance Programs increased from ₱2.154 billion to ₱3.185 billion, nearly 48%, while beneficiaries rose from 42,128 to 49,243. The Medical Scholarship and Return Service Program was set at ₱1.232 billion.\n\nVillanueva also noted that 12.6% of tertiary education subsidy recipients in the first semester of academic year 2025–2026 came from 4Ps households, and described the reform as a way to direct assistance toward disadvantaged students.",
+          "citations": [
+            {
+              "stable_id": "asr-000088",
+              "start_seconds": 1908.6,
+              "clock": "00:31:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000088"
+            },
+            {
+              "stable_id": "asr-000089",
+              "start_seconds": 1914.96,
+              "clock": "00:31:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000089"
+            },
+            {
+              "stable_id": "asr-000099",
+              "start_seconds": 1972.14,
+              "clock": "00:32:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000099"
+            },
+            {
+              "stable_id": "asr-000100",
+              "start_seconds": 1982.14,
+              "clock": "00:33:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000100"
+            },
+            {
+              "stable_id": "asr-000104",
+              "start_seconds": 1998.58,
+              "clock": "00:33:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000104"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 funding for student support",
+          "text": "Aquino urged the committee to ensure that free-college funding remains adequate as the student population and the law’s coverage grow, arguing that direct student support should not shrink. He said CHED, state universities and colleges (SUCs), local universities and colleges, and private institutions had Senate support, and expressed the hope that the budgets for the agencies before the committee could be augmented and strengthened so assistance reaches students. This was an expression of support and intent to increase funding, not a recorded appropriation action.",
+          "citations": [
+            {
+              "stable_id": "asr-000263",
+              "start_seconds": 2842.72,
+              "clock": "00:47:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000263"
+            },
+            {
+              "stable_id": "asr-000269",
+              "start_seconds": 2861.88,
+              "clock": "00:47:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000269"
+            },
+            {
+              "stable_id": "asr-000303",
+              "start_seconds": 3007.7,
+              "clock": "00:50:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000303"
+            },
+            {
+              "stable_id": "asr-000304",
+              "start_seconds": 3015.1,
+              "clock": "00:50:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000304"
+            }
+          ]
+        },
+        {
+          "label": "Proposed spending components",
+          "text": "CHED Chairperson Shirley Castañeda Agrupis said ₱34.7 billion of the FY2027 NEP amount is maintenance and other operating expenses (MOOE), ₱609 million is personnel services, and ₱100 million is capital outlay. She said 98% of MOOE goes to scholarships, crowding out regulatory and higher-education development functions.",
+          "citations": [
+            {
+              "stable_id": "asr-000341",
+              "start_seconds": 3280.1800000000003,
+              "clock": "00:54:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000341"
+            },
+            {
+              "stable_id": "asr-000342",
+              "start_seconds": 3292.26,
+              "clock": "00:54:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000342"
+            },
+            {
+              "stable_id": "asr-000345",
+              "start_seconds": 3310.1800000000003,
+              "clock": "00:55:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000345"
+            }
+          ]
+        },
+        {
+          "label": "Recalibration, student coverage, and proposed additions",
+          "text": "Agrupis said CHED met with the Department of Social Welfare and Development and the Department of Budget and Management to align enrollment projections with available fiscal space. She said the agency had projected coverage at 65% for 2027 after raising its projection from 30% to 50% in earlier planning, then agreed to reduce its request. She said a further ₱17 billion was needed to support 940,000 incoming and already-enrolled students; when Senator Joel Villanueva asked whether the figure covered both groups, she answered yes. The subsidy serves qualified students in SUCs, LUCs, and private institutions. In response to Villanueva’s question about Pantawid Pamilyang Pilipino Program (4Ps) beneficiaries, she answered 230,000.\n\nWhen Senator Paolo Benigno \"Bam\" Aquino IV asked whether the listed priority items were additions that had not been approved, Agrupis confirmed that they were additional requests. She said that, after recalibration, more than ₱29 billion was involved, and of the ₱17 billion for critical Priority 1 needs, ₱14 billion would go to the Universal Access to Quality Tertiary Education Act (UAQTEA). She identified ₱331 million for CHED information systems and ₱258 million for monitoring quality and standards. She also described a ₱2.8 billion Strategic Priority 2 need and a ₱7.5 billion SUC/LUC tuition increase proposal. Her recalibrated Priority 1 and 2 appeal totaled ₱19.8 billion, or ₱27.4 billion including the proposed tuition-fee adjustment.",
+          "citations": [
+            {
+              "stable_id": "asr-000361",
+              "start_seconds": 3488.52,
+              "clock": "00:58:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000361"
+            },
+            {
+              "stable_id": "asr-000381",
+              "start_seconds": 3607.52,
+              "clock": "01:00:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000381"
+            },
+            {
+              "stable_id": "asr-000392",
+              "start_seconds": 3633.14,
+              "clock": "01:00:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000392"
+            },
+            {
+              "stable_id": "asr-000399",
+              "start_seconds": 3646.54,
+              "clock": "01:00:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000399"
+            },
+            {
+              "stable_id": "asr-000417",
+              "start_seconds": 3682.68,
+              "clock": "01:01:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000417"
+            },
+            {
+              "stable_id": "asr-000445",
+              "start_seconds": 3738.28,
+              "clock": "01:02:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000445"
+            },
+            {
+              "stable_id": "asr-000450",
+              "start_seconds": 3748.12,
+              "clock": "01:02:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000450"
+            },
+            {
+              "stable_id": "asr-000454",
+              "start_seconds": 3756.42,
+              "clock": "01:02:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000454"
+            },
+            {
+              "stable_id": "asr-000456",
+              "start_seconds": 3761.1,
+              "clock": "01:02:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000456"
+            },
+            {
+              "stable_id": "asr-000458",
+              "start_seconds": 3765.4,
+              "clock": "01:02:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000458"
+            },
+            {
+              "stable_id": "asr-000474",
+              "start_seconds": 3796.02,
+              "clock": "01:03:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000474"
+            },
+            {
+              "stable_id": "asr-000481",
+              "start_seconds": 3809.88,
+              "clock": "01:03:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000481"
+            },
+            {
+              "stable_id": "asr-000482",
+              "start_seconds": 3812.12,
+              "clock": "01:03:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000482"
+            },
+            {
+              "stable_id": "asr-000486",
+              "start_seconds": 3820.14,
+              "clock": "01:03:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000486"
+            },
+            {
+              "stable_id": "asr-000491",
+              "start_seconds": 3829.46,
+              "clock": "01:03:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000491"
+            },
+            {
+              "stable_id": "asr-000495",
+              "start_seconds": 3838.0,
+              "clock": "01:03:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000495"
+            }
+          ]
+        },
+        {
+          "label": "Budget utilization and fund use",
+          "text": "Agrupis said CHED expected to finish ongoing 2025 funding by the end of 2026, committing to 99.99% utilization if it could not reach 100%. She noted that the agency’s utilization depends on the availability of cash allocation and SARO releases. She said HEDF now had a defined framework for institutional development, scholarships, and research, and that CHED would resist using it to cover SUC free-higher-education tuition deficiencies; she said CHED had provided ₱7.8 billion for a prior-year deficiency.\n\nAgrupis also mentioned a legal-education funding shortfall as an item CHED was asking to have reviewed. She said CHED submitted separate proposals to Senator Joel Villanueva’s office for tuition-fee leveling, Project Balay, a Net Zero Energy Campus Program, and research centers; she said the tuition-fee initiative and Project Balay had been accepted by Congress, while another proposal was still to be submitted. ",
+          "citations": [
+            {
+              "stable_id": "asr-000681",
+              "start_seconds": 4210.88,
+              "clock": "01:10:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000681"
+            },
+            {
+              "stable_id": "asr-000682",
+              "start_seconds": 4212.88,
+              "clock": "01:10:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000682"
+            },
+            {
+              "stable_id": "asr-000699",
+              "start_seconds": 4246.88,
+              "clock": "01:10:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000699"
+            },
+            {
+              "stable_id": "asr-000700",
+              "start_seconds": 4248.88,
+              "clock": "01:10:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000700"
+            },
+            {
+              "stable_id": "asr-000860",
+              "start_seconds": 4630.46,
+              "clock": "01:17:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000860"
+            },
+            {
+              "stable_id": "asr-000881",
+              "start_seconds": 4688.4,
+              "clock": "01:18:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000881"
+            },
+            {
+              "stable_id": "asr-000888",
+              "start_seconds": 4708.76,
+              "clock": "01:18:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000888"
+            },
+            {
+              "stable_id": "asr-000889",
+              "start_seconds": 4713.4,
+              "clock": "01:18:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000889"
+            }
+          ]
+        },
+        {
+          "label": "Digitalization and the ISSP",
+          "text": "In the handoff into this round, Senator Joel Villanueva said he and Senator Paolo Benigno “Bam” Aquino IV were disappointed that the ISSP digitalization item had zero budget, then yielded the floor to Aquino.",
+          "citations": [
+            {
+              "stable_id": "asr-000902",
+              "start_seconds": 4748.02,
+              "clock": "01:19:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000902"
+            }
+          ]
+        },
+        {
+          "label": "Student-aid funding priorities",
+          "text": "Aquino asked that free higher education be expanded and that TES be maintained or increased under the current NEP. Agrupis said the recalibrated request, after reconciling the data, could produce only a small FY2027 increase rather than repeat the larger FY2025-to-FY2026 increase. Aquino said the previous year’s increase had followed an effort to reverse earlier scholarship reductions, and asked CHED to identify the most urgent items within the 30 billion-peso funding gap for possible increases. He said the committee would do its best to increase priority budgets; the requested priorities would guide further consideration.",
+          "citations": [
+            {
+              "stable_id": "asr-001262",
+              "start_seconds": 6094.02,
+              "clock": "01:41:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001262"
+            }
+          ]
+        },
+        {
+          "label": "Related learning experience scholarship release",
+          "text": "Aquino asked when CHED would release the related learning experience (RLE) scholarships, noting that a Special Allotment Release Order (SARO) had been issued. Agrupis said CHED had prepared the guidelines and eligibility formula and received the SARO on September 9, 2026, but did not yet have a Notice of Cash Allocation (NCA). She initially aimed for release before the end of the third quarter; after Aquino asked for a firm date, she committed on the record to the first release in the first week of October, with subsequent releases extending through the third week of November.\n\nAgrupis said the program had 60,424 applicants, 28,071 qualified applicants and 19,000 available slots. She confirmed the recipients had been identified and were waiting for funds. Aquino restated the first-week-of-October commitment, and Agrupis confirmed it; Villanueva said the committee would follow up before plenary consideration of the budget.",
+          "citations": [
+            {
+              "stable_id": "asr-001270",
+              "start_seconds": 6115.46,
+              "clock": "01:41:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001270"
+            },
+            {
+              "stable_id": "asr-001275",
+              "start_seconds": 6132.72,
+              "clock": "01:42:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001275"
+            },
+            {
+              "stable_id": "asr-001294",
+              "start_seconds": 6191.58,
+              "clock": "01:43:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001294"
+            },
+            {
+              "stable_id": "asr-001299",
+              "start_seconds": 6198.58,
+              "clock": "01:43:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001299"
+            },
+            {
+              "stable_id": "asr-001300",
+              "start_seconds": 6210.58,
+              "clock": "01:43:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001300"
+            },
+            {
+              "stable_id": "asr-001308",
+              "start_seconds": 6230.58,
+              "clock": "01:43:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001308"
+            },
+            {
+              "stable_id": "asr-001310",
+              "start_seconds": 6251.58,
+              "clock": "01:44:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001310"
+            },
+            {
+              "stable_id": "asr-001312",
+              "start_seconds": 6262.58,
+              "clock": "01:44:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001312"
+            }
+          ]
+        },
+        {
+          "label": "Funding requests and available sources",
+          "text": "Senator Joel Villanueva said he supports state universities and colleges (SUCs) and the Commission on Higher Education (CHED), while pointing to unfunded capital outlay needs at 12 SUCs and an unfunded ISSP. He referred to a ₱27 billion CHED request that did not yet include the ISSP and personnel needs, and asked the agencies and committee to identify funding sources before increasing appropriations. He suggested examining funds associated with the Optical Media Board, the Commission on Filipinos Overseas, and overlapping government functions.\n\nVillanueva said the committee should study how to implement the normative cost proposal, citing a ₱12 versus ₱500 per-unit discrepancy and noting that increases of 400–500% would need balancing. He proposed working toward provisions in the next General Appropriations Act (GAA), with some changes potentially addressed sooner, while remaining open to proposals from SUCs, CHED and the Second Congressional Commission on Education (EDCOM II). No specific funding source or increase was settled in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-001995",
+              "start_seconds": 8011.92,
+              "clock": "02:13:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001995"
+            },
+            {
+              "stable_id": "asr-001996",
+              "start_seconds": 8014.9400000000005,
+              "clock": "02:13:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001996"
+            },
+            {
+              "stable_id": "asr-001997",
+              "start_seconds": 8016.68,
+              "clock": "02:13:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001997"
+            },
+            {
+              "stable_id": "asr-002040",
+              "start_seconds": 8113.72,
+              "clock": "02:15:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002040"
+            },
+            {
+              "stable_id": "asr-002041",
+              "start_seconds": 8123.68,
+              "clock": "02:15:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002041"
+            },
+            {
+              "stable_id": "asr-002042",
+              "start_seconds": 8131.62,
+              "clock": "02:15:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002042"
+            },
+            {
+              "stable_id": "asr-002043",
+              "start_seconds": 8138.62,
+              "clock": "02:15:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002043"
+            },
+            {
+              "stable_id": "asr-002044",
+              "start_seconds": 8145.98,
+              "clock": "02:15:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002044"
+            },
+            {
+              "stable_id": "asr-002045",
+              "start_seconds": 8153.68,
+              "clock": "02:15:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002045"
+            }
+          ]
+        },
+        {
+          "label": "CHED utilization figures and requested budget-performance evidence",
+          "text": "Villanueva asked the Commission on Higher Education (CHED) to help him present a strong funding case for CHED and the state universities and colleges. He cited an 86.5% obligation rate and 63.7% disbursement rate for 2025, and said that in 2026, 44.9% had been obligated, ₱21.181 billion in released allotments remained unobligated, and ₱16.185 billion in appropriations remained unreleased. He asked whether those were the correct figures.\n\nCHED Chairperson Shirley Castañeda Agrupis said 2025 obligations were 97.9% and disbursements 83.7%, explaining that those continuing funds were due to be liquidated by the end of 2026 and that CHED was waiting for the September cash release. For 2026, she compared the mid-year disbursement-utilization rate of 35% as of June 30, 2025 with a 5.28% increase by the same date in 2026. She said the 2026 consolidated obligation rate was 40.20% as of June 30, and that disbursement was 51.18% of obligations because of cash availability; CHED’s funding follows the school year, with the first semester starting in August.\n\nVillanueva asked CHED to provide a comparison for budget deliberations showing legal basis, requested amounts, unique beneficiaries, utilization, and implementation readiness. Agrupis agreed to submit supporting documents. The 2026 unreleased and unobligated peso amounts cited by Villanueva were not expressly confirmed in Agrupis’s response.",
+          "citations": [
+            {
+              "stable_id": "asr-002616",
+              "start_seconds": 9973.94,
+              "clock": "02:46:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002616"
+            },
+            {
+              "stable_id": "asr-002617",
+              "start_seconds": 9976.34,
+              "clock": "02:46:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002617"
+            },
+            {
+              "stable_id": "asr-002619",
+              "start_seconds": 9986.82,
+              "clock": "02:46:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002619"
+            },
+            {
+              "stable_id": "asr-002620",
+              "start_seconds": 9998.7,
+              "clock": "02:46:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002620"
+            },
+            {
+              "stable_id": "asr-002632",
+              "start_seconds": 10096.68,
+              "clock": "02:48:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002632"
+            },
+            {
+              "stable_id": "asr-002634",
+              "start_seconds": 10105.86,
+              "clock": "02:48:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002634"
+            },
+            {
+              "stable_id": "asr-002635",
+              "start_seconds": 10109.5,
+              "clock": "02:48:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002635"
+            },
+            {
+              "stable_id": "asr-002638",
+              "start_seconds": 10135.86,
+              "clock": "02:48:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002638"
+            },
+            {
+              "stable_id": "asr-002640",
+              "start_seconds": 10142.9,
+              "clock": "02:49:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002640"
+            },
+            {
+              "stable_id": "asr-002642",
+              "start_seconds": 10152.86,
+              "clock": "02:49:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002642"
+            },
+            {
+              "stable_id": "asr-002649",
+              "start_seconds": 10209.34,
+              "clock": "02:50:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002649"
+            },
+            {
+              "stable_id": "asr-002650",
+              "start_seconds": 10213.34,
+              "clock": "02:50:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002650"
+            }
+          ]
+        },
+        {
+          "label": "Incoming 4Ps students and the FY2027 subsidy gap",
+          "text": "Senator Sherwin \"Win\" T. Gatchalian asked how the FY2027 budget would cover new Pantawid Pamilyang Pilipino Program (4Ps) students entering college under the amended free higher education law. He cited ₱1.7 billion in the National Expenditure Program (NEP) for 150,000 new 4Ps beneficiaries and ₱2 billion for ongoing beneficiaries.\n\nCommission on Higher Education (CHED) Chairperson Shirley Castañeda Agrupis said the Department of Social Welfare and Development (DSWD) list had 354,488 qualifiers. Based on current enrollment and feedback, CHED projected 65% of them, or 230,417 beneficiaries, and said ₱3.1 billion would be needed to fund that group. Gatchalian confirmed that the new incoming group was the problem, and Agrupis confirmed the projected 230,000 incoming beneficiaries had no allocation in the NEP. Gatchalian summarized that ₱3.1 billion would be needed to absorb them.",
+          "citations": [
+            {
+              "stable_id": "asr-003398",
+              "start_seconds": 13389.1,
+              "clock": "03:43:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003398"
+            },
+            {
+              "stable_id": "asr-003400",
+              "start_seconds": 13401.62,
+              "clock": "03:43:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003400"
+            },
+            {
+              "stable_id": "asr-003403",
+              "start_seconds": 13419.1,
+              "clock": "03:43:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003403"
+            },
+            {
+              "stable_id": "asr-003404",
+              "start_seconds": 13426.44,
+              "clock": "03:43:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003404"
+            },
+            {
+              "stable_id": "asr-003405",
+              "start_seconds": 13437.12,
+              "clock": "03:43:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003405"
+            },
+            {
+              "stable_id": "asr-003407",
+              "start_seconds": 13446.94,
+              "clock": "03:44:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003407"
+            },
+            {
+              "stable_id": "asr-003408",
+              "start_seconds": 13449.1,
+              "clock": "03:44:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003408"
+            },
+            {
+              "stable_id": "asr-003414",
+              "start_seconds": 13475.44,
+              "clock": "03:44:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003414"
+            },
+            {
+              "stable_id": "asr-003416",
+              "start_seconds": 13480.42,
+              "clock": "03:44:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003416"
+            },
+            {
+              "stable_id": "asr-003427",
+              "start_seconds": 13526.42,
+              "clock": "03:45:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003427"
+            },
+            {
+              "stable_id": "asr-003428",
+              "start_seconds": 13528.48,
+              "clock": "03:45:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003428"
+            },
+            {
+              "stable_id": "asr-003430",
+              "start_seconds": 13531.78,
+              "clock": "03:45:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003430"
+            },
+            {
+              "stable_id": "asr-003431",
+              "start_seconds": 13535.44,
+              "clock": "03:45:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003431"
+            },
+            {
+              "stable_id": "asr-003434",
+              "start_seconds": 13544.58,
+              "clock": "03:45:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003434"
+            },
+            {
+              "stable_id": "asr-003435",
+              "start_seconds": 13546.7,
+              "clock": "03:45:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003435"
+            },
+            {
+              "stable_id": "asr-003436",
+              "start_seconds": 13548.56,
+              "clock": "03:45:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003436"
+            },
+            {
+              "stable_id": "asr-003437",
+              "start_seconds": 13550.98,
+              "clock": "03:45:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003437"
+            },
+            {
+              "stable_id": "asr-003440",
+              "start_seconds": 13555.52,
+              "clock": "03:45:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003440"
+            },
+            {
+              "stable_id": "asr-003443",
+              "start_seconds": 13560.38,
+              "clock": "03:46:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003443"
+            },
+            {
+              "stable_id": "asr-003448",
+              "start_seconds": 13572.54,
+              "clock": "03:46:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003448"
+            },
+            {
+              "stable_id": "asr-003574",
+              "start_seconds": 13838.18,
+              "clock": "03:50:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003574"
+            },
+            {
+              "stable_id": "asr-003577",
+              "start_seconds": 13843.84,
+              "clock": "03:50:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003577"
+            },
+            {
+              "stable_id": "asr-003578",
+              "start_seconds": 13845.72,
+              "clock": "03:50:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003578"
+            },
+            {
+              "stable_id": "asr-003599",
+              "start_seconds": 13875.86,
+              "clock": "03:51:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003599"
+            },
+            {
+              "stable_id": "asr-003600",
+              "start_seconds": 13878.02,
+              "clock": "03:51:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003600"
+            },
+            {
+              "stable_id": "asr-003602",
+              "start_seconds": 13881.72,
+              "clock": "03:51:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003602"
+            }
+          ]
+        },
+        {
+          "label": "CHED's reconciled projection and reported subsidy obligations",
+          "text": "Agrupis said CHED initially proposed ₱29 billion for FY2027 based on its projected calculation, then reduced the request to ₱14 billion after reconciling projections with DSWD. She said that total included unpaid amounts owed to local universities and colleges (LUCs), including ₱667 million, and covered 137,000 students or recipients. She then cited a specific ₱14,112,627,000 deficiency after realignment with DSWD and said it could displace 940,000 students if not funded. Gatchalian asked for the granular data, and Agrupis said CHED would provide it.",
+          "citations": [
+            {
+              "stable_id": "asr-003480",
+              "start_seconds": 13631.24,
+              "clock": "03:47:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003480"
+            },
+            {
+              "stable_id": "asr-003482",
+              "start_seconds": 13635.2,
+              "clock": "03:47:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003482"
+            },
+            {
+              "stable_id": "asr-003485",
+              "start_seconds": 13642.76,
+              "clock": "03:47:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003485"
+            },
+            {
+              "stable_id": "asr-003495",
+              "start_seconds": 13665.0,
+              "clock": "03:47:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003495"
+            },
+            {
+              "stable_id": "asr-003517",
+              "start_seconds": 13702.3,
+              "clock": "03:48:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003517"
+            },
+            {
+              "stable_id": "asr-003518",
+              "start_seconds": 13704.3,
+              "clock": "03:48:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003518"
+            },
+            {
+              "stable_id": "asr-003520",
+              "start_seconds": 13707.38,
+              "clock": "03:48:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003520"
+            },
+            {
+              "stable_id": "asr-003522",
+              "start_seconds": 13713.04,
+              "clock": "03:48:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003522"
+            },
+            {
+              "stable_id": "asr-003533",
+              "start_seconds": 13743.34,
+              "clock": "03:49:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003533"
+            },
+            {
+              "stable_id": "asr-003534",
+              "start_seconds": 13750.74,
+              "clock": "03:49:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003534"
+            },
+            {
+              "stable_id": "asr-003540",
+              "start_seconds": 13762.56,
+              "clock": "03:49:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003540"
+            },
+            {
+              "stable_id": "asr-003545",
+              "start_seconds": 13776.54,
+              "clock": "03:49:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003545"
+            }
+          ]
+        },
+        {
+          "label": "TDP and ongoing subsidy coverage",
+          "text": "Agrupis said CHED's Tertiary Education Subsidy (TES) and Tulong Dunong Program (TDP) projections included ongoing beneficiaries. She described a TDP submission covering 341,000 beneficiaries and a shortage, which she quantified as ₱1.4 billion. Gatchalian checked that the ongoing TDP amount of ₱3.7 billion was funded; Agrupis confirmed it was funded. Agrupis clarified that the 93,000 unfunded slots were also already-enrolled beneficiaries. Agrupis said CHED would provide a breakdown of the requirements and explained that projected needs had exceeded the amounts provided, creating deficiencies for continuing TDP and TES recipients.",
+          "citations": [
+            {
+              "stable_id": "asr-003683",
+              "start_seconds": 14006.98,
+              "clock": "03:53:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003683"
+            },
+            {
+              "stable_id": "asr-003690",
+              "start_seconds": 14019.8,
+              "clock": "03:53:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003690"
+            },
+            {
+              "stable_id": "asr-003691",
+              "start_seconds": 14023.3,
+              "clock": "03:53:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003691"
+            },
+            {
+              "stable_id": "asr-003695",
+              "start_seconds": 14029.32,
+              "clock": "03:53:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003695"
+            },
+            {
+              "stable_id": "asr-003698",
+              "start_seconds": 14036.72,
+              "clock": "03:53:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003698"
+            },
+            {
+              "stable_id": "asr-003707",
+              "start_seconds": 14056.3,
+              "clock": "03:54:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003707"
+            },
+            {
+              "stable_id": "asr-003710",
+              "start_seconds": 14060.84,
+              "clock": "03:54:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003710"
+            },
+            {
+              "stable_id": "asr-003711",
+              "start_seconds": 14065.44,
+              "clock": "03:54:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003711"
+            },
+            {
+              "stable_id": "asr-003712",
+              "start_seconds": 14066.32,
+              "clock": "03:54:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003712"
+            },
+            {
+              "stable_id": "asr-003713",
+              "start_seconds": 14067.04,
+              "clock": "03:54:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003713"
+            },
+            {
+              "stable_id": "asr-003714",
+              "start_seconds": 14067.9,
+              "clock": "03:54:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003714"
+            },
+            {
+              "stable_id": "asr-003716",
+              "start_seconds": 14070.68,
+              "clock": "03:54:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003716"
+            },
+            {
+              "stable_id": "asr-003717",
+              "start_seconds": 14074.9,
+              "clock": "03:54:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003717"
+            },
+            {
+              "stable_id": "asr-003718",
+              "start_seconds": 14076.3,
+              "clock": "03:54:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003718"
+            },
+            {
+              "stable_id": "asr-003724-split-2",
+              "start_seconds": 14099.47,
+              "clock": "03:54:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003724-split-2"
+            },
+            {
+              "stable_id": "asr-003725",
+              "start_seconds": 14105.44,
+              "clock": "03:55:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003725"
+            },
+            {
+              "stable_id": "asr-003727",
+              "start_seconds": 14111.38,
+              "clock": "03:55:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003727"
+            },
+            {
+              "stable_id": "asr-003728",
+              "start_seconds": 14113.66,
+              "clock": "03:55:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003728"
+            },
+            {
+              "stable_id": "asr-003729",
+              "start_seconds": 14114.8,
+              "clock": "03:55:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003729"
+            },
+            {
+              "stable_id": "asr-003731",
+              "start_seconds": 14117.24,
+              "clock": "03:55:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003731"
+            },
+            {
+              "stable_id": "asr-003732",
+              "start_seconds": 14119.06,
+              "clock": "03:55:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003732"
+            },
+            {
+              "stable_id": "asr-003733",
+              "start_seconds": 14121.26,
+              "clock": "03:55:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003733"
+            }
+          ]
+        },
+        {
+          "label": "Private higher education arrears and PNSL eligibility",
+          "text": "Gatchalian relayed a Philippine Association of Private Higher Education Institutions (PAPI) claim that the government owed ₱15 billion for school years 2024–25 and 2025–26, and asked whether the amount was validated. Agrupis said CHED could not validate the claim as presented. She explained that the earlier PNSL policy allowed allocations for 4Ps enrollees attending institutions in areas without a state university, subject to residual funding after eligible state-university students were prioritized. CHED had since crafted a policy defining which private universities qualify, including a location-radius criterion.\n\nGatchalian said he would furnish CHED with the letters so it could validate the claim; he emphasized that he was not asserting the claimed total was accurate. He also asked CHED to submit the TES breakdown and additional requirements, particularly for 4Ps. Agrupis agreed to submit the requested explanation and breakdown.",
+          "citations": [
+            {
+              "stable_id": "asr-003745",
+              "start_seconds": 14144.42,
+              "clock": "03:55:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003745"
+            },
+            {
+              "stable_id": "asr-003746",
+              "start_seconds": 14145.72,
+              "clock": "03:55:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003746"
+            },
+            {
+              "stable_id": "asr-003749",
+              "start_seconds": 14153.04,
+              "clock": "03:55:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003749"
+            },
+            {
+              "stable_id": "asr-003750",
+              "start_seconds": 14155.32,
+              "clock": "03:55:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003750"
+            },
+            {
+              "stable_id": "asr-003751",
+              "start_seconds": 14157.9,
+              "clock": "03:55:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003751"
+            },
+            {
+              "stable_id": "asr-003752",
+              "start_seconds": 14159.5,
+              "clock": "03:55:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003752"
+            },
+            {
+              "stable_id": "asr-003754",
+              "start_seconds": 14167.86,
+              "clock": "03:56:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003754"
+            },
+            {
+              "stable_id": "asr-003755",
+              "start_seconds": 14169.36,
+              "clock": "03:56:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003755"
+            },
+            {
+              "stable_id": "asr-003756",
+              "start_seconds": 14171.74,
+              "clock": "03:56:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003756"
+            },
+            {
+              "stable_id": "asr-003759",
+              "start_seconds": 14180.92,
+              "clock": "03:56:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003759"
+            },
+            {
+              "stable_id": "asr-003760",
+              "start_seconds": 14182.28,
+              "clock": "03:56:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003760"
+            },
+            {
+              "stable_id": "asr-003763",
+              "start_seconds": 14189.04,
+              "clock": "03:56:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003763"
+            },
+            {
+              "stable_id": "asr-003764",
+              "start_seconds": 14190.22,
+              "clock": "03:56:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003764"
+            },
+            {
+              "stable_id": "asr-003767",
+              "start_seconds": 14196.02,
+              "clock": "03:56:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003767"
+            },
+            {
+              "stable_id": "asr-003777",
+              "start_seconds": 14215.98,
+              "clock": "03:56:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003777"
+            },
+            {
+              "stable_id": "asr-003778",
+              "start_seconds": 14217.7,
+              "clock": "03:56:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003778"
+            },
+            {
+              "stable_id": "asr-003780",
+              "start_seconds": 14221.7,
+              "clock": "03:57:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003780"
+            },
+            {
+              "stable_id": "asr-003788",
+              "start_seconds": 14235.04,
+              "clock": "03:57:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003788"
+            },
+            {
+              "stable_id": "asr-003790",
+              "start_seconds": 14239.68,
+              "clock": "03:57:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003790"
+            },
+            {
+              "stable_id": "asr-003793",
+              "start_seconds": 14246.06,
+              "clock": "03:57:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003793"
+            },
+            {
+              "stable_id": "asr-003798",
+              "start_seconds": 14255.74,
+              "clock": "03:57:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003798"
+            },
+            {
+              "stable_id": "asr-003804",
+              "start_seconds": 14268.1,
+              "clock": "03:57:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003804"
+            },
+            {
+              "stable_id": "asr-003810",
+              "start_seconds": 14280.7,
+              "clock": "03:58:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003810"
+            },
+            {
+              "stable_id": "asr-003813",
+              "start_seconds": 14288.8,
+              "clock": "03:58:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003813"
+            },
+            {
+              "stable_id": "asr-003822",
+              "start_seconds": 14294.88,
+              "clock": "03:58:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003822"
+            },
+            {
+              "stable_id": "asr-003823",
+              "start_seconds": 14318.28,
+              "clock": "03:58:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003823"
+            },
+            {
+              "stable_id": "asr-003824",
+              "start_seconds": 14323.64,
+              "clock": "03:58:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003824"
+            },
+            {
+              "stable_id": "asr-003832",
+              "start_seconds": 14356.78,
+              "clock": "03:59:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003832"
+            },
+            {
+              "stable_id": "asr-003833",
+              "start_seconds": 14361.32,
+              "clock": "03:59:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003833"
+            },
+            {
+              "stable_id": "asr-003836",
+              "start_seconds": 14370.26,
+              "clock": "03:59:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003836"
+            },
+            {
+              "stable_id": "asr-003838",
+              "start_seconds": 14382.8,
+              "clock": "03:59:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003838"
+            }
+          ]
+        },
+        {
+          "label": "4Ps students, delayed subsidies and release reforms",
+          "text": "Go said that in academic year 2023–24, 21.4% of the 749,204 eligible students from 4Ps households received a tertiary education subsidy (TES). He asked CHED to prioritize 4Ps households under the amended free tertiary education law. He also raised reports of delayed scholarship grants and allowances, including students waiting six months or longer and some graduating with benefits still unpaid, and asked for the causes, a release turnaround target and timing for outstanding benefits.\n\nCHED Chairperson Shirley Castañeda Agrupis said the delays she inherited had ranged from six months to a semester or two years. She identified three bottlenecks: CHED lacked a clean Department of Social Welfare and Development (DSWD) 4Ps list, verification had taken more than 90 days, and schools with unliquidated funds could not receive further releases under a Commission on Audit circular. CHED and DSWD signed an agreement to use DSWD’s verified list, and CHED shortened verification from 90 days to 20.\n\nTo address liquidation barriers, CHED partnered with the Land Bank of the Philippines to provide TES and TDP beneficiaries with ATM cards that did not require a maintaining balance. Agrupis reported that 750,931 students had received cards. She said scholarship delays had been addressed apart from cash release, which CHED was continuing to pursue.",
+          "citations": [
+            {
+              "stable_id": "asr-004048",
+              "start_seconds": 14826.58,
+              "clock": "04:07:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004048"
+            },
+            {
+              "stable_id": "asr-004122",
+              "start_seconds": 14979.34,
+              "clock": "04:09:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004122"
+            },
+            {
+              "stable_id": "asr-004147",
+              "start_seconds": 15027.5,
+              "clock": "04:10:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004147"
+            },
+            {
+              "stable_id": "asr-004170",
+              "start_seconds": 15073.48,
+              "clock": "04:11:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004170"
+            },
+            {
+              "stable_id": "asr-004197",
+              "start_seconds": 15127.48,
+              "clock": "04:12:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004197"
+            },
+            {
+              "stable_id": "asr-004219",
+              "start_seconds": 15171.48,
+              "clock": "04:12:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004219"
+            },
+            {
+              "stable_id": "asr-004226",
+              "start_seconds": 15185.48,
+              "clock": "04:13:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004226"
+            },
+            {
+              "stable_id": "asr-004234",
+              "start_seconds": 15201.48,
+              "clock": "04:13:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004234"
+            }
+          ]
+        },
+        {
+          "label": "Budget utilization and cash availability",
+          "text": "Go cited CHED’s 2026 obligation utilization rate of 44.9% and asked why scholarship releases were late. Agrupis said the 44.9% figure was as of June 2026 and that CHED’s operations followed the academic year, with the first semester beginning in August. She offered to submit September data and cited 40% obligated and 50% disbursed, attributing the disbursement gap to lack of cash.\n\nGo cautioned that students might pawn their ATM cards if the cash did not arrive promptly, and urged CHED to follow through so beneficiaries received and could use the full amounts due to them.",
+          "citations": [
+            {
+              "stable_id": "asr-004107",
+              "start_seconds": 14946.92,
+              "clock": "04:09:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004107"
+            },
+            {
+              "stable_id": "asr-004257",
+              "start_seconds": 15247.48,
+              "clock": "04:14:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004257"
+            },
+            {
+              "stable_id": "asr-004259",
+              "start_seconds": 15251.48,
+              "clock": "04:14:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004259"
+            },
+            {
+              "stable_id": "asr-004262",
+              "start_seconds": 15257.48,
+              "clock": "04:14:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004262"
+            },
+            {
+              "stable_id": "asr-004294",
+              "start_seconds": 15321.62,
+              "clock": "04:15:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004294"
+            }
+          ]
+        },
+        {
+          "label": "CHED sports participation funding",
+          "text": "Go asked what CHED had budgeted for sports in FY2027. Agrupis said CHED’s participation was funded from HEDF, the same source used to cover deficiencies in free higher education. She affirmed that sports remained a priority for CHED.",
+          "citations": [
+            {
+              "stable_id": "asr-004424",
+              "start_seconds": 15585.12,
+              "clock": "04:19:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004424"
+            },
+            {
+              "stable_id": "asr-004427",
+              "start_seconds": 15591.12,
+              "clock": "04:19:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004427"
+            },
+            {
+              "stable_id": "asr-004435",
+              "start_seconds": 15607.12,
+              "clock": "04:20:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004435"
+            }
+          ]
+        },
+        {
+          "label": "Low utilization in scholarship programs",
+          "text": "Gatchalian cited 40% and 71% utilization for the medical scholarship and return-service program across the two years under discussion, and 17% for postgraduate financial assistance, falling to 2% this year. He asked the Commission on Higher Education (CHED) to provide the reasons for the low-use programs. Agrupis said ongoing beneficiaries had no problem and described validation for additional slots; she said CHED had accelerated validations but cash availability remained the main disbursement bottleneck.",
+          "citations": [
+            {
+              "stable_id": "asr-004796",
+              "start_seconds": 16465.7,
+              "clock": "04:34:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004796"
+            },
+            {
+              "stable_id": "asr-004798",
+              "start_seconds": 16468.68,
+              "clock": "04:34:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004798"
+            },
+            {
+              "stable_id": "asr-004801",
+              "start_seconds": 16474.86,
+              "clock": "04:34:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004801"
+            },
+            {
+              "stable_id": "asr-004804",
+              "start_seconds": 16479.04,
+              "clock": "04:34:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004804"
+            },
+            {
+              "stable_id": "asr-004870",
+              "start_seconds": 16615.28,
+              "clock": "04:36:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004870"
+            },
+            {
+              "stable_id": "asr-004888",
+              "start_seconds": 16647.08,
+              "clock": "04:37:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004888"
+            },
+            {
+              "stable_id": "asr-004898",
+              "start_seconds": 16664.96,
+              "clock": "04:37:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004898"
+            }
+          ]
+        },
+        {
+          "label": "MSRS slot allocation by regional need",
+          "text": "On the Medical Scholarship and Return Service (MSRS) program, Agrupis said CHED had added 490 beneficiaries and 1,296 slots under a special provision, for 1,786 slots in total. She said eligibility was not automatic and allocations were based on a developed equation reflecting each region's need for doctors. Gatchalian noted that the Senate had increased the program amount; Agrupis thanked the Senate and said CHED wanted the slots distributed systematically.",
+          "citations": [
+            {
+              "stable_id": "asr-004820",
+              "start_seconds": 16516.0,
+              "clock": "04:35:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004820"
+            },
+            {
+              "stable_id": "asr-004825",
+              "start_seconds": 16524.68,
+              "clock": "04:35:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004825"
+            },
+            {
+              "stable_id": "asr-004827",
+              "start_seconds": 16528.12,
+              "clock": "04:35:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004827"
+            },
+            {
+              "stable_id": "asr-004832",
+              "start_seconds": 16539.28,
+              "clock": "04:35:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004832"
+            },
+            {
+              "stable_id": "asr-004845",
+              "start_seconds": 16565.6,
+              "clock": "04:36:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004845"
+            }
+          ]
+        },
+        {
+          "label": "CHED vacancies, job orders, and staffing plan",
+          "text": "Senator Joel Villanueva asked the Commission on Higher Education (CHED) to provide staffing information for budget deliberations, including job orders and contracts of service, authorized plantilla positions, and which contract staff perform regular or supervisory functions. He cited 791 authorized permanent positions, 545 filled, and 246 vacancies, then separately cited a report showing 191, or 24.5%, of 779 authorized positions unfilled. He asked about more than a thousand job-order and contract-of-service workers and the plan to address staffing gaps.\n\nCHED Chairperson Shirley Castañeda Agrupis said she inherited more than 300 vacancies and had reduced them to 201. She said CHED could not hire indiscriminately because applicants often lacked the policy and academic expertise the agency needed, and technical personnel were difficult to recruit at low salary grades. Agrupis later said CHED had 792 plantilla positions across its regions while monitoring more than 2,300 higher-education institutions, including 130 state universities and colleges and more than 170 local universities and colleges. She said CHED had revised its organizational structure and submitted an optimization proposal for 1,592 positions, approved by the Commission en banc and sent to DBM; she said DBM had created positions at the executive level and CHED would follow up.\n\nVillanueva also asked about the limited permanent staffing for UniFAST. He said only about 18 to 20 positions had reportedly been added despite the program’s expanded responsibilities. Agrupis described the vacancy and technical-panel constraints, and said CHED would discuss the staffing data with him separately.",
+          "citations": [
+            {
+              "stable_id": "asr-004921",
+              "start_seconds": 16710.1,
+              "clock": "04:38:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004921"
+            },
+            {
+              "stable_id": "asr-004972",
+              "start_seconds": 16801.88,
+              "clock": "04:40:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004972"
+            },
+            {
+              "stable_id": "asr-005120",
+              "start_seconds": 16992.62,
+              "clock": "04:43:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005120"
+            },
+            {
+              "stable_id": "asr-005292",
+              "start_seconds": 17195.48,
+              "clock": "04:46:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005292"
+            },
+            {
+              "stable_id": "asr-005321",
+              "start_seconds": 17258.58,
+              "clock": "04:47:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005321"
+            },
+            {
+              "stable_id": "asr-005325",
+              "start_seconds": 17266.22,
+              "clock": "04:47:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005325"
+            }
+          ]
+        },
+        {
+          "label": "Medical scholarship beneficiary trend",
+          "text": "Villanueva asked why the Medical Scholarship and Return Service Program had fewer target beneficiaries even though its budget had increased. He cited a decline from 5,087 to 4,757 beneficiaries and requested the supporting data to help defend the budget. Agrupis said CHED was taking note; she later assured him that CHED had the data. She did not provide the requested explanation during this exchange, and the topic was set for a separate meeting.",
+          "citations": [
+            {
+              "stable_id": "asr-005361",
+              "start_seconds": 17354.82,
+              "clock": "04:49:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005361"
+            },
+            {
+              "stable_id": "asr-005366",
+              "start_seconds": 17378.86,
+              "clock": "04:49:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005366"
+            },
+            {
+              "stable_id": "asr-005373",
+              "start_seconds": 17398.82,
+              "clock": "04:49:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005373"
+            }
+          ]
+        },
+        {
+          "label": "Higher Education Development Fund and proposed travel-tax change",
+          "text": "Villanueva asked CHED to estimate how a pending proposal to abolish the travel tax could affect the Higher Education Development Fund (HEDF), since 40% of Commission on Higher Education Special Account (CHESA) travel-tax collections accrue to the fund. He requested projected annual revenue losses, affected programs and beneficiaries, and the timing and amount of replacement funding; he said any affected programs should be reflected in the coming year’s proposed budget. Agrupis agreed to submit the information and said CHED collected an average of ₱2 billion, which supports institutional development, academic-program development, internationalization, research and extension, scholarships, training, and advanced degrees.",
+          "citations": [
+            {
+              "stable_id": "asr-005378",
+              "start_seconds": 17425.28,
+              "clock": "04:50:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005378"
+            },
+            {
+              "stable_id": "asr-005383",
+              "start_seconds": 17455.28,
+              "clock": "04:50:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005383"
+            },
+            {
+              "stable_id": "asr-005389",
+              "start_seconds": 17487.2,
+              "clock": "04:51:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005389"
+            },
+            {
+              "stable_id": "asr-005390",
+              "start_seconds": 17488.64,
+              "clock": "04:51:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005390"
+            },
+            {
+              "stable_id": "asr-005391",
+              "start_seconds": 17494.18,
+              "clock": "04:51:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005391"
+            }
+          ]
+        },
+        {
+          "label": "CHED restoration support",
+          "text": "Senator Joseph Victor “JV” G. Ejercito thanked the hearing participants and said the Senate would do its best to make up for resources CHED had lost. He framed education as an investment and said senators would do their part despite limited fiscal room.",
+          "citations": [
+            {
+              "stable_id": "asr-005479",
+              "start_seconds": 17845.78,
+              "clock": "04:57:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005479"
+            },
+            {
+              "stable_id": "asr-005481",
+              "start_seconds": 17849.9,
+              "clock": "04:57:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005481"
+            },
+            {
+              "stable_id": "asr-005483",
+              "start_seconds": 17861.68,
+              "clock": "04:57:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005483"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-state-universities-and-colleges-sucs",
+      "label": "State universities and colleges (SUCs) budget",
+      "items": [
+        {
+          "label": "SUC obligations and release of prior funds",
+          "text": "Aquino asked whether the Department of Budget and Management’s obligations to state universities and colleges (SUCs) had been paid. CHED Chairperson Shirley Castañeda Agrupis said the obligations for 2022 through 2025 had been cleared, while noting that new obligations had arisen. PASUC President Dr. Tirso A. Ronquillo said delivery to SUCs was partial: most had received checks, and some payments were still being processed. Aquino confirmed that funds were available for the remaining releases and thanked the officials for following through on the prior year’s commitment.",
+          "citations": [
+            {
+              "stable_id": "asr-000922",
+              "start_seconds": 4795.6,
+              "clock": "01:19:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000922"
+            },
+            {
+              "stable_id": "asr-000923",
+              "start_seconds": 4799.6,
+              "clock": "01:19:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000923"
+            }
+          ]
+        },
+        {
+          "label": "The cost of tuition and a comparable per-student basis",
+          "text": "Aquino contrasted per-unit tuition of 12 pesos at the Polytechnic University of the Philippines, as he recalled it, with 500 pesos at other schools. Agrupis gave a current per-capita expense figure of 5,500 and an SGV study figure of 31,844 per student when personnel costs were included. Aquino described the funding structure as a SUC’s General Appropriations Act (GAA) budget and its allocation under Republic Act 10931, with Tertiary Education Subsidy (TES) paid directly to students; Agrupis agreed that the GAA and Republic Act 10931 were the two school funding streams being discussed. Aquino urged clearer comparisons that account for geography, courses and school categories, and Agrupis committed to the work. She said CHED had accepted the SGV study, while its implementation depended on available fiscal space.",
+          "citations": [
+            {
+              "stable_id": "asr-000990",
+              "start_seconds": 4981.6,
+              "clock": "01:23:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000990"
+            },
+            {
+              "stable_id": "asr-000993",
+              "start_seconds": 4989.6,
+              "clock": "01:23:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000993"
+            },
+            {
+              "stable_id": "asr-001009",
+              "start_seconds": 5026.6,
+              "clock": "01:23:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001009"
+            },
+            {
+              "stable_id": "asr-001010",
+              "start_seconds": 5028.6,
+              "clock": "01:23:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001010"
+            },
+            {
+              "stable_id": "asr-001012",
+              "start_seconds": 5033.6,
+              "clock": "01:23:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001012"
+            },
+            {
+              "stable_id": "asr-001040",
+              "start_seconds": 5110.6,
+              "clock": "01:25:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001040"
+            },
+            {
+              "stable_id": "asr-001062",
+              "start_seconds": 5221.6,
+              "clock": "01:27:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001062"
+            },
+            {
+              "stable_id": "asr-001076",
+              "start_seconds": 5273.1,
+              "clock": "01:27:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001076"
+            }
+          ]
+        },
+        {
+          "label": "SUC tuition-leveling proposal",
+          "text": "Agrupis described a proposed “leveling up” approach: raise tuition below 250 pesos per unit to 250 pesos, and increase charges already at or above 250 pesos per unit by 20%. She said about 108 universities would benefit because they charged below 250 pesos per unit. In explaining the rate range, she cited fees of 12, 50, 75 and 100 pesos per unit, with a limited number of SUCs charging 500 pesos.\n\nAquino asked how a 5.5 billion-peso funding differential became 11 billion pesos; Agrupis clarified that the 5.5 billion figure was per semester. Aquino said he was willing to support the proposal, asked EDCOM to examine it further, and treated it as a priority for improving access to quality free higher education. The senators undertook to examine the proposal further.",
+          "citations": [
+            {
+              "stable_id": "asr-001111",
+              "start_seconds": 5373.86,
+              "clock": "01:29:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001111"
+            },
+            {
+              "stable_id": "asr-001112",
+              "start_seconds": 5377.1,
+              "clock": "01:29:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001112"
+            },
+            {
+              "stable_id": "asr-001113",
+              "start_seconds": 5379.24,
+              "clock": "01:29:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001113"
+            },
+            {
+              "stable_id": "asr-001114",
+              "start_seconds": 5380.7,
+              "clock": "01:29:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001114"
+            },
+            {
+              "stable_id": "asr-001115",
+              "start_seconds": 5385.38,
+              "clock": "01:29:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001115"
+            },
+            {
+              "stable_id": "asr-001122",
+              "start_seconds": 5422.6,
+              "clock": "01:30:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001122"
+            },
+            {
+              "stable_id": "asr-001123",
+              "start_seconds": 5443.22,
+              "clock": "01:30:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001123"
+            },
+            {
+              "stable_id": "asr-001127",
+              "start_seconds": 5482.54,
+              "clock": "01:31:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001127"
+            },
+            {
+              "stable_id": "asr-001129",
+              "start_seconds": 5500.1,
+              "clock": "01:31:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001129"
+            },
+            {
+              "stable_id": "asr-001130",
+              "start_seconds": 5507.38,
+              "clock": "01:31:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001130"
+            }
+          ]
+        },
+        {
+          "label": "SUC-wide proposed 2027 allocation and expense mix",
+          "text": "Philippine Association of State Universities and Colleges (PASUC) President Dr. Tirso A. Ronquillo gave FY2027 NEP components of ₱84.38 billion for personnel services, ₱43.84 billion for MOOE and ₱6.358 billion for capital outlay. Ronquillo said capital outlay was 4.72% of the total and left limited room for investment and expansion. Although aggregate MOOE rose, he said 58 SUCs faced MOOE decreases while more than 50 had increases.\n\nIn the regional distribution, the University of the Philippines (UP) system received 20% or ₱26.618 billion, the largest share; Region III received 8% and included 12 SUCs. He also cited approximately 7% for Region VI and the Mindanao State University (MSU) system, and 6% each for the National Capital Region including UP and Region VIII.\n\nComparing NEP 2026 with NEP 2027, he cited a ₱7.42 billion increase in personal services (9.64%); he described the increase as mandatory. He also cited an aggregate MOOE increase of 3.58% and capital outlay falling from ₱9.56 billion to ₱6.36 billion, a 33.47% decrease. He described the overall NEP-to-NEP increase as 4.45%. On a separate basis, he compared the 2026 GAA capital-outlay amount of ₱15.756 billion with the 2027 NEP amount of ₱6.358 billion, saying the latter was 60% below the 2026 GAA level and that capital outlay fell 59.65% on that comparison. He said 12 SUCs had no capital outlay for equipment or infrastructure and 25 had no infrastructure allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-001354",
+              "start_seconds": 6377.98,
+              "clock": "01:46:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001354"
+            },
+            {
+              "stable_id": "asr-001355",
+              "start_seconds": 6380.5,
+              "clock": "01:46:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001355"
+            },
+            {
+              "stable_id": "asr-001357",
+              "start_seconds": 6384.56,
+              "clock": "01:46:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001357"
+            },
+            {
+              "stable_id": "asr-001358",
+              "start_seconds": 6386.0,
+              "clock": "01:46:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001358"
+            },
+            {
+              "stable_id": "asr-001359",
+              "start_seconds": 6387.8,
+              "clock": "01:46:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001359"
+            },
+            {
+              "stable_id": "asr-001360",
+              "start_seconds": 6389.82,
+              "clock": "01:46:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001360"
+            },
+            {
+              "stable_id": "asr-001387",
+              "start_seconds": 6443.78,
+              "clock": "01:47:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001387"
+            },
+            {
+              "stable_id": "asr-001411",
+              "start_seconds": 6491.4,
+              "clock": "01:48:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001411"
+            },
+            {
+              "stable_id": "asr-001424",
+              "start_seconds": 6517.78,
+              "clock": "01:48:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001424"
+            },
+            {
+              "stable_id": "asr-001425",
+              "start_seconds": 6520.46,
+              "clock": "01:48:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001425"
+            },
+            {
+              "stable_id": "asr-001426",
+              "start_seconds": 6521.8,
+              "clock": "01:48:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001426"
+            },
+            {
+              "stable_id": "asr-001427",
+              "start_seconds": 6524.14,
+              "clock": "01:48:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001427"
+            },
+            {
+              "stable_id": "asr-001447",
+              "start_seconds": 6563.38,
+              "clock": "01:49:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001447"
+            },
+            {
+              "stable_id": "asr-001448",
+              "start_seconds": 6566.62,
+              "clock": "01:49:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001448"
+            },
+            {
+              "stable_id": "asr-001450",
+              "start_seconds": 6569.82,
+              "clock": "01:49:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001450"
+            },
+            {
+              "stable_id": "asr-001474",
+              "start_seconds": 6619.56,
+              "clock": "01:50:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001474"
+            }
+          ]
+        },
+        {
+          "label": "RDC requests and the NEP capital-outlay reduction",
+          "text": "Ronquillo appealed particularly for additional capital outlay for institutions without infrastructure funding.",
+          "citations": [
+            {
+              "stable_id": "asr-001477",
+              "start_seconds": 6626.0,
+              "clock": "01:50:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001477"
+            }
+          ]
+        },
+        {
+          "label": "Research funding",
+          "text": "The 2027 SUC research allocation was ₱2.596 billion, which Ronquillo said was 1.87% below the current NEP level. He urged an increase, contrasting Philippine research and development spending at 0.32% of GDP with Malaysia's 1.44% of GDP. These comparisons supported his request for greater SUC research investment.",
+          "citations": [
+            {
+              "stable_id": "asr-001514",
+              "start_seconds": 6700.92,
+              "clock": "01:51:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001514"
+            },
+            {
+              "stable_id": "asr-001530",
+              "start_seconds": 6733.38,
+              "clock": "01:52:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001530"
+            }
+          ]
+        },
+        {
+          "label": "Free Higher Education shortfalls and funding request",
+          "text": "Ronquillo said the Free Higher Education (FHE) program had an outstanding 2025 deficiency after earlier deficiencies for 2022–2025 had been discussed. He recalled a ₱12.3 billion commitment and initially estimated about ₱3 billion remained. Senator Joel Villanueva checked whether the outstanding balance was ₱2.42 billion; Ronquillo agreed, and CHED Chairperson Shirley Castañeda Agrupis clarified that ₱9.7 billion had been allotted within the ₱12 billion. Ronquillo later accounted for about ₱2.4 billion chargeable against the current GAA plus a remaining ₱506.753 million, describing the total as ₱2.9 billion. He estimated a further ₱2.048 billion FHE deficiency for 2026 and ₱2.7 billion for 2027, or around ₱5 billion for 2026 and 2027 together, and asked that the validated 2025 and 2026 shortfalls be settled.\n\nHe attributed recurring shortfalls to FHE allocations that did not track projected enrollment. He said 46 SUCs had the same FHE allocation in the 2027 NEP as in 2026, despite expected enrollment growth, and asked that projected enrollment—including faculty, classrooms, class shifts, delivery modality and digital capacity—be used in allocation decisions. He also illustrated a ₱2.9 billion deficiency as equivalent to 16,000 computers, 400 classrooms, 1,000 laboratory units, 2,000 engineering software licenses, 50,000 books, 1,000 smart-campus kits and around 500 extension projects; later he referred to the impact as a ₱2.97 billion deficiency. These were illustrative quantities, not additional appropriations.\n\nRonquillo said 1.3 million applicants sought admission and more than 500,000 were accepted, which he described as a 38.46% admission rate. He argued that limited institutional capacity constrained access. He acknowledged expanded student support under Republic Act 12325 but urged fully funding Republic Act 10931 first, estimating that about 85% of FHE was funded and about 15% was not. ",
+          "citations": [
+            {
+              "stable_id": "asr-001559",
+              "start_seconds": 6791.92,
+              "clock": "01:53:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001559"
+            },
+            {
+              "stable_id": "asr-001562",
+              "start_seconds": 6797.7,
+              "clock": "01:53:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001562"
+            },
+            {
+              "stable_id": "asr-001569",
+              "start_seconds": 6811.6,
+              "clock": "01:53:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001569"
+            },
+            {
+              "stable_id": "asr-001570",
+              "start_seconds": 6813.76,
+              "clock": "01:53:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001570"
+            },
+            {
+              "stable_id": "asr-001572",
+              "start_seconds": 6817.46,
+              "clock": "01:53:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001572"
+            },
+            {
+              "stable_id": "asr-001582",
+              "start_seconds": 6837.8,
+              "clock": "01:53:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001582"
+            },
+            {
+              "stable_id": "asr-001598",
+              "start_seconds": 6869.16,
+              "clock": "01:54:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001598"
+            },
+            {
+              "stable_id": "asr-001600",
+              "start_seconds": 6872.6,
+              "clock": "01:54:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001600"
+            },
+            {
+              "stable_id": "asr-001601",
+              "start_seconds": 6877.32,
+              "clock": "01:54:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001601"
+            },
+            {
+              "stable_id": "asr-001608",
+              "start_seconds": 6891.28,
+              "clock": "01:54:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001608"
+            },
+            {
+              "stable_id": "asr-001617",
+              "start_seconds": 6908.94,
+              "clock": "01:55:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001617"
+            },
+            {
+              "stable_id": "asr-001631",
+              "start_seconds": 6937.04,
+              "clock": "01:55:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001631"
+            },
+            {
+              "stable_id": "asr-001708",
+              "start_seconds": 7094.92,
+              "clock": "01:58:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001708"
+            },
+            {
+              "stable_id": "asr-001709",
+              "start_seconds": 7096.92,
+              "clock": "01:58:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001709"
+            },
+            {
+              "stable_id": "asr-001732",
+              "start_seconds": 7144.5599999999995,
+              "clock": "01:59:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001732"
+            },
+            {
+              "stable_id": "asr-001834",
+              "start_seconds": 7654.2,
+              "clock": "02:07:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001834"
+            }
+          ]
+        },
+        {
+          "label": "Normative cost and proposed tuition calibration",
+          "text": "Ronquillo said the UniFAST Board's normative composite fee formula, developed with SGV and discussed with SUC clusters, includes standard salaries and wages, student-based operating costs, non-faculty personnel costs, repair and maintenance, and miscellaneous fees. Its initial estimate was ₱1,212 per unit and ₱31,844 per student on average. He said PASUC preferred implementing that evidence-based formula.\n\nAs an alternative, PASUC proposed calibrated tuition increases: ₱100 or ₱200 per unit for SUCs charging ₱100 or less, and ₱150 per unit for those charging ₱101–₱300; he cited 41 SUCs in the first bracket and 70 in the second. He proposed a cap of ₱500 per unit, with increases limited to the amount needed to reach the cap for institutions already charging between ₱300 and ₱500. He put the resulting request at ₱13.37 billion. Ronquillo called this an alternative and said PASUC could discuss a more evidence-based approach with CHED and DBM; he said the SGV formula was its preferred approach. These were proposals, not approved appropriations.",
+          "citations": [
+            {
+              "stable_id": "asr-001783",
+              "start_seconds": 7370.38,
+              "clock": "02:02:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001783"
+            },
+            {
+              "stable_id": "asr-001795",
+              "start_seconds": 7430.38,
+              "clock": "02:03:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001795"
+            },
+            {
+              "stable_id": "asr-001796",
+              "start_seconds": 7435.36,
+              "clock": "02:03:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001796"
+            },
+            {
+              "stable_id": "asr-001800",
+              "start_seconds": 7474.58,
+              "clock": "02:04:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001800"
+            },
+            {
+              "stable_id": "asr-001801",
+              "start_seconds": 7482.88,
+              "clock": "02:04:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001801"
+            },
+            {
+              "stable_id": "asr-001803",
+              "start_seconds": 7490.38,
+              "clock": "02:04:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001803"
+            },
+            {
+              "stable_id": "asr-001804",
+              "start_seconds": 7497.44,
+              "clock": "02:04:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001804"
+            },
+            {
+              "stable_id": "asr-001807",
+              "start_seconds": 7519.7,
+              "clock": "02:05:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001807"
+            },
+            {
+              "stable_id": "asr-001810",
+              "start_seconds": 7536.82,
+              "clock": "02:05:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001810"
+            },
+            {
+              "stable_id": "asr-001811",
+              "start_seconds": 7544.68,
+              "clock": "02:05:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001811"
+            },
+            {
+              "stable_id": "asr-001812",
+              "start_seconds": 7549.7,
+              "clock": "02:05:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001812"
+            },
+            {
+              "stable_id": "asr-001813",
+              "start_seconds": 7553.3,
+              "clock": "02:05:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001813"
+            },
+            {
+              "stable_id": "asr-001819",
+              "start_seconds": 7581.92,
+              "clock": "02:06:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001819"
+            }
+          ]
+        },
+        {
+          "label": "PASUC's priorities and broader rationale",
+          "text": "Ronquillo summarized PASUC's priorities as settling validated FHE deficiencies for 2025 and 2026; adding capital-outlay funding, especially for 25 SUCs without infrastructure allocation in the 2027 NEP; implementing the UniFAST normative cost under Section 54 of the Republic Act 10931 implementing rules; and consistently using projected enrollment to calculate FHE. He also sought stronger research and innovation funding and adequate resources for SUCs' teaching, research and community mandates. He argued that higher education remained short of funding even as the overall education budget rose, and asked Villanueva's subcommittee to support the requests. ",
+          "citations": [
+            {
+              "stable_id": "asr-001837",
+              "start_seconds": 7684.2,
+              "clock": "02:08:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001837"
+            },
+            {
+              "stable_id": "asr-001841",
+              "start_seconds": 7700.68,
+              "clock": "02:08:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001841"
+            },
+            {
+              "stable_id": "asr-001843",
+              "start_seconds": 7704.84,
+              "clock": "02:08:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001843"
+            },
+            {
+              "stable_id": "asr-001847",
+              "start_seconds": 7712.7,
+              "clock": "02:08:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001847"
+            },
+            {
+              "stable_id": "asr-001894",
+              "start_seconds": 7810.52,
+              "clock": "02:10:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001894"
+            },
+            {
+              "stable_id": "asr-001945",
+              "start_seconds": 7910.7,
+              "clock": "02:11:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001945"
+            }
+          ]
+        },
+        {
+          "label": "Free higher-education deficiency and the projected-enrollment rule",
+          "text": "Gatchalian asked CHED Chairperson Shirley Castañeda Agrupis whether the free higher-education deficiency had been settled. He cited ₱4.4 billion added by the Senate and ₱7.8 billion from CHED the prior year, and asked whether the resulting ₱12.3 billion had been paid and whether a projected-enrollment formula was now being used. Agrupis said some institutions still had deficiencies to document and the payments were being processed. She first said DBM had released ₱9.2 billion after aligning the figures; later she described the recalculated total as ₱9.7 billion and said about ₱2.4 billion remained. Those amounts differ across her answers. She said a completed SGV report had been accepted by the UniFAST board and CHED had calculated annual education costs per student, but implementation depended on funding.\n\nGatchalian challenged DBM Budget and Management Bureau-F Director Vivien V. Labastilla over using historical billing plus the three-year average enrollment increase, arguing that the special provision called for projected 2027 enrollment. Labastilla explained DBM’s formula and said it was constrained by the absence of CHED’s projected-enrollment submission. Agrupis sought common capacity guidelines, while Philippine Association of State Universities and Colleges (PASUC) President Dr. Tirso A. Ronquillo favored institution-specific projections and shared parameters rather than one standardized formula. Ronquillo said 46 SUCs had 2027 free-higher-education allocations copied from their 2026 amounts and expected another deficiency; he cautioned that enrollment projections should account for institutions’ differing facilities, faculty, class formats, and capacity to grow. Agrupis said CHED’s proposed capacity guidelines considered faculty-student ratios, classrooms, and laboratories, but CHED and PASUC had not agreed on a common approach.\n\nAsked for the projected shortfall, Ronquillo estimated ₱2.7 billion for 2027 and about ₱2 billion for 2026. Gatchalian said the Senate had added ₱4 billion and a special provision, and assigned CHED, DBM, and PASUC to work out how projected enrollment would be used. Agrupis said CHED would lead a technical working group with DBM and EDCOM, with PASUC participating. Villanueva then said the chair would create a task force to address the issue, and asked Agrupis to submit CHED’s priorities so senators could consider them. No final formula or resolution of the deficiency is recorded in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002759",
+              "start_seconds": 10759.22,
+              "clock": "02:59:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002759"
+            },
+            {
+              "stable_id": "asr-002761",
+              "start_seconds": 10771.94,
+              "clock": "02:59:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002761"
+            },
+            {
+              "stable_id": "asr-002762",
+              "start_seconds": 10778.6,
+              "clock": "02:59:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002762"
+            },
+            {
+              "stable_id": "asr-002765",
+              "start_seconds": 10800.0,
+              "clock": "03:00:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002765"
+            },
+            {
+              "stable_id": "asr-002767",
+              "start_seconds": 10848.3,
+              "clock": "03:00:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002767"
+            },
+            {
+              "stable_id": "asr-002773",
+              "start_seconds": 10881.42,
+              "clock": "03:01:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002773"
+            },
+            {
+              "stable_id": "asr-002776",
+              "start_seconds": 10908.3,
+              "clock": "03:01:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002776"
+            },
+            {
+              "stable_id": "asr-002782",
+              "start_seconds": 10936.26,
+              "clock": "03:02:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002782"
+            },
+            {
+              "stable_id": "asr-002870",
+              "start_seconds": 11263.74,
+              "clock": "03:07:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002870"
+            },
+            {
+              "stable_id": "asr-002871",
+              "start_seconds": 11276.74,
+              "clock": "03:07:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002871"
+            },
+            {
+              "stable_id": "asr-003045",
+              "start_seconds": 11997.4,
+              "clock": "03:19:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003045"
+            },
+            {
+              "stable_id": "asr-003046",
+              "start_seconds": 12001.78,
+              "clock": "03:20:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003046"
+            },
+            {
+              "stable_id": "asr-003087",
+              "start_seconds": 12207.4,
+              "clock": "03:23:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003087"
+            },
+            {
+              "stable_id": "asr-003089",
+              "start_seconds": 12226.22,
+              "clock": "03:23:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003089"
+            },
+            {
+              "stable_id": "asr-003092",
+              "start_seconds": 12241.86,
+              "clock": "03:24:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003092"
+            },
+            {
+              "stable_id": "asr-003094",
+              "start_seconds": 12249.48,
+              "clock": "03:24:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003094"
+            },
+            {
+              "stable_id": "asr-003112",
+              "start_seconds": 12297.4,
+              "clock": "03:24:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003112"
+            },
+            {
+              "stable_id": "asr-003117",
+              "start_seconds": 12326.54,
+              "clock": "03:25:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003117"
+            },
+            {
+              "stable_id": "asr-003131",
+              "start_seconds": 12373.86,
+              "clock": "03:26:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003131"
+            },
+            {
+              "stable_id": "asr-003134",
+              "start_seconds": 12385.94,
+              "clock": "03:26:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003134"
+            },
+            {
+              "stable_id": "asr-003172",
+              "start_seconds": 12526.74,
+              "clock": "03:28:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003172"
+            },
+            {
+              "stable_id": "asr-003175",
+              "start_seconds": 12538.34,
+              "clock": "03:28:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003175"
+            },
+            {
+              "stable_id": "asr-003177",
+              "start_seconds": 12547.98,
+              "clock": "03:29:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003177"
+            },
+            {
+              "stable_id": "asr-003229",
+              "start_seconds": 12746.72,
+              "clock": "03:32:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003229"
+            },
+            {
+              "stable_id": "asr-003235",
+              "start_seconds": 12761.68,
+              "clock": "03:32:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003235"
+            },
+            {
+              "stable_id": "asr-003243",
+              "start_seconds": 12773.06,
+              "clock": "03:32:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003243"
+            },
+            {
+              "stable_id": "asr-003255",
+              "start_seconds": 12803.94,
+              "clock": "03:33:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003255"
+            },
+            {
+              "stable_id": "asr-003258",
+              "start_seconds": 12807.6,
+              "clock": "03:33:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003258"
+            },
+            {
+              "stable_id": "asr-003283",
+              "start_seconds": 12888.22,
+              "clock": "03:34:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003283"
+            },
+            {
+              "stable_id": "asr-003287",
+              "start_seconds": 12905.64,
+              "clock": "03:35:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003287"
+            },
+            {
+              "stable_id": "asr-003291",
+              "start_seconds": 12927.44,
+              "clock": "03:35:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003291"
+            },
+            {
+              "stable_id": "asr-003293",
+              "start_seconds": 12940.9,
+              "clock": "03:35:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003293"
+            },
+            {
+              "stable_id": "asr-003294",
+              "start_seconds": 12948.22,
+              "clock": "03:35:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003294"
+            },
+            {
+              "stable_id": "asr-003341",
+              "start_seconds": 13098.2,
+              "clock": "03:38:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003341"
+            },
+            {
+              "stable_id": "asr-003377",
+              "start_seconds": 13289.24,
+              "clock": "03:41:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003377"
+            }
+          ]
+        },
+        {
+          "label": "Tuition-fee harmonization options and costs",
+          "text": "In response to Gatchalian’s questions about the proposed formula, Agrupis said an SGV study put the harmonized tuition cost for 113 SUCs and local universities and colleges (LUCs) at ₱1,212 per unit, compared with current SUC collections ranging from ₱12 to ₱500 per unit. She described an immediate CHED proposal to raise the 108 SUCs collecting ₱12 to ₱250 per unit up to ₱250, and give an increase of 20% to about eight SUCs already collecting ₱250 or more. That proposal would require ₱14.6 billion, of which ₱9 billion was already programmed, leaving ₱5.5 billion to fund.\n\nAgrupis also presented the full SGV amount in four annual tranches: ₱67.8 billion for 2027, compared with a current free-higher-education amount of about ₱27 billion, or ₱40 billion more; she gave the DBM first-year estimate as ₱43.7 billion. She projected ₱107 billion in 2028, ₱153 billion in 2029, and ₱205.4 billion in 2030 for the full four-year approach. Gatchalian clarified that the full amount would be phased over four years. The immediate leveling proposal and the full SGV schedule were alternatives under discussion, not approved appropriations. Gatchalian and Agrupis agreed that CHED, DBM, EDCOM, and PASUC should work toward an implementable proposal; no final tuition formula was adopted in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002792",
+              "start_seconds": 10968.3,
+              "clock": "03:02:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002792"
+            },
+            {
+              "stable_id": "asr-002793",
+              "start_seconds": 10984.18,
+              "clock": "03:03:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002793"
+            },
+            {
+              "stable_id": "asr-002794",
+              "start_seconds": 10998.3,
+              "clock": "03:03:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002794"
+            },
+            {
+              "stable_id": "asr-002795",
+              "start_seconds": 11007.78,
+              "clock": "03:03:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002795"
+            },
+            {
+              "stable_id": "asr-002811",
+              "start_seconds": 11087.24,
+              "clock": "03:04:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002811"
+            },
+            {
+              "stable_id": "asr-002817",
+              "start_seconds": 11107.64,
+              "clock": "03:05:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002817"
+            },
+            {
+              "stable_id": "asr-002824",
+              "start_seconds": 11137.62,
+              "clock": "03:05:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002824"
+            },
+            {
+              "stable_id": "asr-002826",
+              "start_seconds": 11147.24,
+              "clock": "03:05:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002826"
+            },
+            {
+              "stable_id": "asr-002827",
+              "start_seconds": 11152.04,
+              "clock": "03:05:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002827"
+            },
+            {
+              "stable_id": "asr-002828",
+              "start_seconds": 11161.72,
+              "clock": "03:06:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002828"
+            },
+            {
+              "stable_id": "asr-002829",
+              "start_seconds": 11164.76,
+              "clock": "03:06:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002829"
+            },
+            {
+              "stable_id": "asr-002849",
+              "start_seconds": 11186.74,
+              "clock": "03:06:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002849"
+            },
+            {
+              "stable_id": "asr-002854",
+              "start_seconds": 11207.74,
+              "clock": "03:06:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002854"
+            },
+            {
+              "stable_id": "asr-002872",
+              "start_seconds": 11292.74,
+              "clock": "03:08:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002872"
+            },
+            {
+              "stable_id": "asr-002873",
+              "start_seconds": 11314.74,
+              "clock": "03:08:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002873"
+            },
+            {
+              "stable_id": "asr-002875",
+              "start_seconds": 11322.74,
+              "clock": "03:08:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002875"
+            },
+            {
+              "stable_id": "asr-002876",
+              "start_seconds": 11333.74,
+              "clock": "03:08:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002876"
+            },
+            {
+              "stable_id": "asr-002832",
+              "start_seconds": 11175.02,
+              "clock": "03:06:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002832"
+            }
+          ]
+        },
+        {
+          "label": "Research-center seed funding request",
+          "text": "Agrupis said research centers established by law could receive 25 plantilla positions, but needed seed funding for operating costs and basic research. Citing the National Bioenergy Research and Innovation Center as an example, she asked that each of the 113 SUCs receive ₱5 million, for a total of ₱565 million. Villanueva asked CHED to submit its request and priorities for the Senate’s consideration; the request was left for further consideration.",
+          "citations": [
+            {
+              "stable_id": "asr-003355",
+              "start_seconds": 13157.56,
+              "clock": "03:39:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003355"
+            },
+            {
+              "stable_id": "asr-003356",
+              "start_seconds": 13163.18,
+              "clock": "03:39:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003356"
+            },
+            {
+              "stable_id": "asr-003367",
+              "start_seconds": 13229.04,
+              "clock": "03:40:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003367"
+            },
+            {
+              "stable_id": "asr-003370",
+              "start_seconds": 13244.78,
+              "clock": "03:40:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003370"
+            },
+            {
+              "stable_id": "asr-003372",
+              "start_seconds": 13256.74,
+              "clock": "03:40:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003372"
+            }
+          ]
+        },
+        {
+          "label": "SUC athletics fees",
+          "text": "Agrupis said SUCs had a sports component in their miscellaneous or athletics fees, and confirmed that they could use those funds for sports activities.",
+          "citations": [
+            {
+              "stable_id": "asr-004437",
+              "start_seconds": 15611.12,
+              "clock": "04:20:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004437"
+            },
+            {
+              "stable_id": "asr-004442",
+              "start_seconds": 15619.46,
+              "clock": "04:20:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004442"
+            }
+          ]
+        },
+        {
+          "label": "SUC medical-school seed-fund appropriation",
+          "text": "Gatchalian asked for updates on the seed fund for developing medical schools in state universities and colleges (SUCs), which he described as having zero utilization. Villanueva said the seed fund had fallen from ₱440 million for 13 SUCs in 2026 to ₱150 million for four SUCs in 2027. He noted that the program had been started to support medical schools and had since been reduced.",
+          "citations": [
+            {
+              "stable_id": "asr-004627",
+              "start_seconds": 16009.12,
+              "clock": "04:26:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004627"
+            },
+            {
+              "stable_id": "asr-004629",
+              "start_seconds": 16013.12,
+              "clock": "04:26:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004629"
+            },
+            {
+              "stable_id": "asr-004638",
+              "start_seconds": 16037.12,
+              "clock": "04:27:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004638"
+            },
+            {
+              "stable_id": "asr-004640",
+              "start_seconds": 16043.12,
+              "clock": "04:27:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004640"
+            },
+            {
+              "stable_id": "asr-004642",
+              "start_seconds": 16047.12,
+              "clock": "04:27:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004642"
+            },
+            {
+              "stable_id": "asr-004644",
+              "start_seconds": 16051.12,
+              "clock": "04:27:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004644"
+            },
+            {
+              "stable_id": "asr-004649",
+              "start_seconds": 16061.12,
+              "clock": "04:27:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004649"
+            }
+          ]
+        },
+        {
+          "label": "Support for SUCs",
+          "text": "Ejercito said he and Villanueva would support the state universities and colleges (SUCs), while acknowledging that they could not meet every request. He said they would do their best to help higher education.",
+          "citations": [
+            {
+              "stable_id": "asr-005507",
+              "start_seconds": 17924.86,
+              "clock": "04:58:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005507"
+            },
+            {
+              "stable_id": "asr-005509",
+              "start_seconds": 17934.94,
+              "clock": "04:58:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005509"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-university-of-the-philippines-up",
+      "label": "University of the Philippines (UP) budget",
+      "items": [
+        {
+          "label": "UP-PGH hospital funding and patient assistance",
+          "text": "The PGH budget retained ₱800 million for zero-balance billing and included ₱576.522 million for medicines under the Medical Assistance for Indigent Patients program. Villanueva emphasized protecting low-income patients who depend on the hospital; its hospital-services reduction is discussed below.",
+          "citations": [
+            {
+              "stable_id": "asr-000118",
+              "start_seconds": 2031.82,
+              "clock": "00:33:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000118"
+            },
+            {
+              "stable_id": "asr-000119",
+              "start_seconds": 2045.68,
+              "clock": "00:34:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000119"
+            }
+          ]
+        },
+        {
+          "label": "Support for a proposed PGH facility in Carmona",
+          "text": "Ejercito raised the plan to establish a PGH facility in Carmona to serve the Calabarzon area. He said he would ask the Public-Private Partnership Center for assistance and expressed his commitment and support for pursuing the project.",
+          "citations": [
+            {
+              "stable_id": "asr-000217",
+              "start_seconds": 2628.66,
+              "clock": "00:43:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000217"
+            },
+            {
+              "stable_id": "asr-000220",
+              "start_seconds": 2646.0,
+              "clock": "00:44:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000220"
+            },
+            {
+              "stable_id": "asr-000223",
+              "start_seconds": 2666.64,
+              "clock": "00:44:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000223"
+            }
+          ]
+        },
+        {
+          "label": "Allocation, prior-year comparison and operating needs",
+          "text": "UP President Angelo A. Jimenez compared the FY2027 proposal with the previous year's NEP amount of ₱25.8 billion: it was ₱700 million higher, but ₱3 billion below the 2026 GAA. The additional operating appeal is summarized above; he also sought funding for priority programs, including completion of long-running infrastructure projects and the new UP School of Medicine in Mindanao.\n\nFor 2026, Jimenez gave ₱20.9 billion for academic units and ₱8.561 billion for PGH, describing a rounded total of ₱29 billion. UP's budget also covered 35 national research institutes.",
+          "citations": [
+            {
+              "stable_id": "asr-002211",
+              "start_seconds": 8549.5,
+              "clock": "02:22:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002211"
+            },
+            {
+              "stable_id": "asr-002214",
+              "start_seconds": 8554.18,
+              "clock": "02:22:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002214"
+            },
+            {
+              "stable_id": "asr-002216",
+              "start_seconds": 8559.54,
+              "clock": "02:22:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002216"
+            },
+            {
+              "stable_id": "asr-002217",
+              "start_seconds": 8561.2,
+              "clock": "02:22:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002217"
+            },
+            {
+              "stable_id": "asr-002238",
+              "start_seconds": 8615.16,
+              "clock": "02:23:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002238"
+            },
+            {
+              "stable_id": "asr-002239",
+              "start_seconds": 8617.06,
+              "clock": "02:23:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002239"
+            },
+            {
+              "stable_id": "asr-002241",
+              "start_seconds": 8620.76,
+              "clock": "02:23:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002241"
+            },
+            {
+              "stable_id": "asr-002240",
+              "start_seconds": 8619.92,
+              "clock": "02:23:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002240"
+            }
+          ]
+        },
+        {
+          "label": "Budget utilization",
+          "text": "Jimenez reported 87% of the previous year's budget obligated. For 2026, he gave around 37% as of June 30 and estimated that utilization would be close to 70–80% by the hearing. These were different reporting dates, not a single comparable year-end result.",
+          "citations": [
+            {
+              "stable_id": "asr-002251",
+              "start_seconds": 8645.42,
+              "clock": "02:24:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002251"
+            },
+            {
+              "stable_id": "asr-002252",
+              "start_seconds": 8649.2,
+              "clock": "02:24:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002252"
+            },
+            {
+              "stable_id": "asr-002254",
+              "start_seconds": 8656.1,
+              "clock": "02:24:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002254"
+            }
+          ]
+        },
+        {
+          "label": "PGH hospital-services reduction and response",
+          "text": "Villanueva asked Philippine General Hospital (PGH) Director Dr. Gerardo D. Legaspi whether the proposed 2027 Hospital Services Program budget of ₱7.291 billion, ₱805.457 million or 9.9% below its 2026 level, would impair service for indigent and financially vulnerable patients. Legaspi said the more than ₱800 million reduction from the 2026 General Appropriations Act to the 2027 NEP involved ₱602 million for patient medical assistance and supplies, ₱104 million for higher water and electricity costs, and ₱190 million for sensitive equipment maintenance and repairs. He said PGH’s monthly electricity bill was ₱22 million and had risen with rates and additional equipment. Legaspi warned that the shortfall would affect patient services and also asked for capital outlay to improve accommodations and add beds.\n\nVillanueva asked Legaspi to provide a list of affected items and needs so senators could help restore the funding. Legaspi agreed to submit the information; Villanueva later reiterated that he would use PGH’s list to help the hospital.",
+          "citations": [
+            {
+              "stable_id": "asr-002577",
+              "start_seconds": 9732.82,
+              "clock": "02:42:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002577"
+            },
+            {
+              "stable_id": "asr-002582",
+              "start_seconds": 9745.74,
+              "clock": "02:42:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002582"
+            },
+            {
+              "stable_id": "asr-002586",
+              "start_seconds": 9770.82,
+              "clock": "02:42:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002586"
+            },
+            {
+              "stable_id": "asr-002587",
+              "start_seconds": 9791.9,
+              "clock": "02:43:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002587"
+            },
+            {
+              "stable_id": "asr-002589",
+              "start_seconds": 9800.82,
+              "clock": "02:43:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002589"
+            },
+            {
+              "stable_id": "asr-002590",
+              "start_seconds": 9811.66,
+              "clock": "02:43:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002590"
+            },
+            {
+              "stable_id": "asr-002602",
+              "start_seconds": 9890.82,
+              "clock": "02:44:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002602"
+            },
+            {
+              "stable_id": "asr-002607",
+              "start_seconds": 9920.52,
+              "clock": "02:45:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002607"
+            }
+          ]
+        },
+        {
+          "label": "PGH augmentation and zero-balance billing",
+          "text": "Senate President Senator Sherwin “Win” T. Gatchalian asked Philippine General Hospital (PGH) Director Dr. Gerardo D. Legaspi how PGH used the Senate’s ₱1.8 billion prior-year augmentation. Legaspi said it covered ₱1.04 billion in maintenance and operating expenses for medicines and supplies, ₱800 million for zero-balance billing services, and ₱15 million for research on X-linked dystonia-parkinsonism (Lubag of Panay). PGH had received the release about a month earlier; more than ₱500 million of the ₱800 million zero-balance-billing amount had been obligated and liquidated, while the ₱1 billion for procurement was in its annual procurement plan and expected to be obligated and disbursed soon. Legaspi distinguished drugs and supplies, which must be procured, from zero-balance-billing payments for services such as scans and procedures.\n\nAsked whether the added zero-balance-billing funding would be enough for 2027, Legaspi said PGH needed about ₱2 billion annually, had received ₱1.3 billion the prior year, and faced a ₱700 million balance. He said PGH needed another ₱600 million to maintain 2026 service levels in 2027, and that restoring an ₱800 million post-budget shortfall would allow the program to continue. When Gatchalian clarified the annual amount and prior-year funding, Legaspi confirmed both. PGH uses hospital income or savings when appropriations fall short.\n\nLegaspi said zero-balance billing covered indigent patients and PGH was studying, with PhilHealth and the Department of Health, whether to extend it to lower-middle-income or middle-income patients in ward beds. Gatchalian noted that patients forced into pay wards by overcrowding may instead rely on medical assistance, and described the effort to balance that assistance, zero-balance billing, and PhilHealth subsidies. Senator Joel Villanueva interjected that a 9.9% PGH budget decrease could affect ₱600 million in medical supplies for indigent patients.",
+          "citations": [
+            {
+              "stable_id": "asr-002658",
+              "start_seconds": 10237.34,
+              "clock": "02:50:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002658"
+            },
+            {
+              "stable_id": "asr-002659",
+              "start_seconds": 10249.34,
+              "clock": "02:50:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002659"
+            },
+            {
+              "stable_id": "asr-002663",
+              "start_seconds": 10261.34,
+              "clock": "02:51:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002663"
+            },
+            {
+              "stable_id": "asr-002665",
+              "start_seconds": 10277.34,
+              "clock": "02:51:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002665"
+            },
+            {
+              "stable_id": "asr-002667",
+              "start_seconds": 10287.9,
+              "clock": "02:51:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002667"
+            },
+            {
+              "stable_id": "asr-002672",
+              "start_seconds": 10325.48,
+              "clock": "02:52:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002672"
+            },
+            {
+              "stable_id": "asr-002677",
+              "start_seconds": 10354.38,
+              "clock": "02:52:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002677"
+            },
+            {
+              "stable_id": "asr-002678",
+              "start_seconds": 10362.56,
+              "clock": "02:52:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002678"
+            },
+            {
+              "stable_id": "asr-002681",
+              "start_seconds": 10373.0,
+              "clock": "02:52:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002681"
+            },
+            {
+              "stable_id": "asr-002693",
+              "start_seconds": 10419.86,
+              "clock": "02:53:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002693"
+            },
+            {
+              "stable_id": "asr-002698",
+              "start_seconds": 10456.96,
+              "clock": "02:54:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002698"
+            },
+            {
+              "stable_id": "asr-002699",
+              "start_seconds": 10465.96,
+              "clock": "02:54:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002699"
+            },
+            {
+              "stable_id": "asr-002703",
+              "start_seconds": 10489.96,
+              "clock": "02:54:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002703"
+            },
+            {
+              "stable_id": "asr-002706",
+              "start_seconds": 10496.56,
+              "clock": "02:54:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002706"
+            },
+            {
+              "stable_id": "asr-002707",
+              "start_seconds": 10499.18,
+              "clock": "02:54:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002707"
+            },
+            {
+              "stable_id": "asr-002709",
+              "start_seconds": 10502.54,
+              "clock": "02:55:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002709"
+            },
+            {
+              "stable_id": "asr-002718",
+              "start_seconds": 10537.06,
+              "clock": "02:55:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002718"
+            },
+            {
+              "stable_id": "asr-002719",
+              "start_seconds": 10539.66,
+              "clock": "02:55:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002719"
+            },
+            {
+              "stable_id": "asr-002721",
+              "start_seconds": 10546.96,
+              "clock": "02:55:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002721"
+            },
+            {
+              "stable_id": "asr-002725",
+              "start_seconds": 10576.96,
+              "clock": "02:56:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002725"
+            },
+            {
+              "stable_id": "asr-002739",
+              "start_seconds": 10653.56,
+              "clock": "02:57:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002739"
+            },
+            {
+              "stable_id": "asr-002743",
+              "start_seconds": 10667.9,
+              "clock": "02:57:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002743"
+            },
+            {
+              "stable_id": "asr-002749",
+              "start_seconds": 10712.54,
+              "clock": "02:58:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002749"
+            },
+            {
+              "stable_id": "asr-002753",
+              "start_seconds": 10729.42,
+              "clock": "02:58:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002753"
+            },
+            {
+              "stable_id": "asr-002755",
+              "start_seconds": 10744.0,
+              "clock": "02:59:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002755"
+            }
+          ]
+        },
+        {
+          "label": "Scholarships for developmental and inclusive education",
+          "text": "Villanueva described shortages in developmental-pediatric and related services, including long waits for appointments and limited special-education support. He asked whether developmental pediatricians could be included in a scholarship program, noting a University of the Philippines program, and asked the UP President to help arrange scholarship funding while broader policy options were considered. The request remained for follow-up.",
+          "citations": [
+            {
+              "stable_id": "asr-005406",
+              "start_seconds": 17568.42,
+              "clock": "04:52:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005406"
+            },
+            {
+              "stable_id": "asr-005428",
+              "start_seconds": 17663.24,
+              "clock": "04:54:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005428"
+            },
+            {
+              "stable_id": "asr-005450",
+              "start_seconds": 17732.82,
+              "clock": "04:55:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005450"
+            },
+            {
+              "stable_id": "asr-005451",
+              "start_seconds": 17736.62,
+              "clock": "04:55:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005451"
+            }
+          ]
+        },
+        {
+          "label": "UP and PGH support",
+          "text": "Ejercito said the University of the Philippines (UP) had also received a significant cut and noted that UP PGH was included. He said the hospital issue would be handled separately as a health matter, and expressed a commitment to increase support to help patients. He also said he would look into PGH’s initial investment request and help where possible.",
+          "citations": [
+            {
+              "stable_id": "asr-005491",
+              "start_seconds": 17882.26,
+              "clock": "04:58:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005491"
+            },
+            {
+              "stable_id": "asr-005494",
+              "start_seconds": 17891.08,
+              "clock": "04:58:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005494"
+            },
+            {
+              "stable_id": "asr-005501",
+              "start_seconds": 17903.66,
+              "clock": "04:58:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005501"
+            },
+            {
+              "stable_id": "asr-005502",
+              "start_seconds": 17908.16,
+              "clock": "04:58:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005502"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-ched-presentation",
+      "label": "CHED presentation",
+      "items": [
+        {
+          "label": "Mandate, reach, and higher-education indicators",
+          "text": "Agrupis described CHED as a regulatory and developmental agency, with responsibilities including quality assurance, standards, monitoring, scholarships, institutional grants, and capacity development. She said CHED served about 5.6 million students the previous year and 5.8 million in the current first semester, across more than 2,300 higher-education institutions. She pointed to participation, completion, enrollment, graduates, and faculty data in CHED’s online CHED-TANAU portal, and said the agency was working to improve its digital platforms.\n\nShe said only 2.54% of higher-education faculty had PhDs and identified expanding PhD graduate programs as a CHED priority. She described increased enrollment and graduation trends and said CHED was seeking stronger graduate programs in agriculture and fisheries, arts and humanities, and natural sciences. She reported that CHED’s achievement rating had reached “satisfactory” for 2025, with a goal of “very satisfactory” in 2026.\n\nShe outlined CHED's ACHIEVE agenda: expanded tertiary-equivalency and microcredential pathways with overseas-worker scholarship support, workforce coordination, research aligned with sustainable-development priorities, international recognition, integrated data systems and a review of obsolete policies.",
+          "citations": [
+            {
+              "stable_id": "asr-000503",
+              "start_seconds": 3854.26,
+              "clock": "01:04:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000503"
+            },
+            {
+              "stable_id": "asr-000553",
+              "start_seconds": 3955.96,
+              "clock": "01:05:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000553"
+            },
+            {
+              "stable_id": "asr-000629",
+              "start_seconds": 4106.88,
+              "clock": "01:08:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000629"
+            },
+            {
+              "stable_id": "asr-000730",
+              "start_seconds": 4308.88,
+              "clock": "01:11:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000730"
+            },
+            {
+              "stable_id": "asr-000749",
+              "start_seconds": 4346.88,
+              "clock": "01:12:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000749"
+            },
+            {
+              "stable_id": "asr-000763",
+              "start_seconds": 4374.88,
+              "clock": "01:12:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000763"
+            },
+            {
+              "stable_id": "asr-000785",
+              "start_seconds": 4418.88,
+              "clock": "01:13:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000785"
+            },
+            {
+              "stable_id": "asr-000811",
+              "start_seconds": 4470.88,
+              "clock": "01:14:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000811"
+            },
+            {
+              "stable_id": "asr-000827",
+              "start_seconds": 4501.72,
+              "clock": "01:15:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000827"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-up-presentation",
+      "label": "UP presentation",
+      "items": [
+        {
+          "label": "UP mandate, campuses and priority programs",
+          "text": "Jimenez described UP’s charter responsibilities as academic standards, teaching, faculty development and research; graduate and research education; service as a regional and global university; and leadership and responsible citizenship. He identified four priorities: finish ongoing infrastructure, develop the UP Mindanao School of Medicine and the Archipelagic and Oceanic University of the Philippines, strengthen the UP Resilience Institute, and expand public service and community engagement. He said UP had 27 physical campuses across nine constituencies, 18 extension campuses and 35 national institutes and research centers, including the Philippine Genome Center and UP Manila Health Institutes.",
+          "citations": [
+            {
+              "stable_id": "asr-002084",
+              "start_seconds": 8298.32,
+              "clock": "02:18:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002084"
+            },
+            {
+              "stable_id": "asr-002094",
+              "start_seconds": 8323.26,
+              "clock": "02:18:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002094"
+            },
+            {
+              "stable_id": "asr-002099",
+              "start_seconds": 8334.16,
+              "clock": "02:18:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002099"
+            }
+          ]
+        },
+        {
+          "label": "Research and service performance",
+          "text": "Jimenez reported first-time licensure examination performance of 98%, employment within two years of graduation of 97%, and 71% of undergraduates in CHED- and regional development council-identified priority projects. He said 91% of faculty and 69% of graduate students were involved in research. He cited partnerships with local governments, industry, nongovernment organizations and small and medium enterprises, and a 99.28% satisfaction rating for training programs.\n\nHe cited an 85% hospital bed-occupancy rate and an eight-week average inpatient wait for surgery.",
+          "citations": [
+            {
+              "stable_id": "asr-002143",
+              "start_seconds": 8417.26,
+              "clock": "02:20:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002143"
+            },
+            {
+              "stable_id": "asr-002166",
+              "start_seconds": 8460.02,
+              "clock": "02:21:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002166"
+            }
+          ]
+        },
+        {
+          "label": "Public programs, regional reach and PGH services",
+          "text": "Jimenez said 60% of local government units used UP’s Project NOAH-developed hazard maps. During Typhoon Carina in 2024, the site recorded 4.3 million location searches in two days and had more than 36.5 million interactions overall. He described a flood-resilience model able to predict flooding 24 hours ahead, climate-resilience microcredentials, and a climate-displacement risk index developed with the International Organization for Migration.\n\nHe said the Lingap Scholar program had shifted the student mix: public-school students rose to 57%, while private-school students were 42.9%; first-generation students increased from 6% to 13%, and Indigenous students reached 2%. He also described a master’s program in forensic medicine opened with Monash University, campus expansion in Antique, UP Open University classes in prisons, and the UP Mindanao School of Medicine.\n\nJimenez said PGH served nearly 800,000 patients the prior year and expected the count to exceed 800,000. He cited 29,000 surgeries and reported 3.7 million laboratory and radiologic services in his closing summary. ",
+          "citations": [
+            {
+              "stable_id": "asr-002277",
+              "start_seconds": 8703.84,
+              "clock": "02:25:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002277"
+            },
+            {
+              "stable_id": "asr-002283",
+              "start_seconds": 8715.18,
+              "clock": "02:25:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002283"
+            },
+            {
+              "stable_id": "asr-002302",
+              "start_seconds": 8755.12,
+              "clock": "02:25:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002302"
+            },
+            {
+              "stable_id": "asr-002304",
+              "start_seconds": 8759.44,
+              "clock": "02:25:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002304"
+            },
+            {
+              "stable_id": "asr-002337",
+              "start_seconds": 8824.36,
+              "clock": "02:27:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002337"
+            },
+            {
+              "stable_id": "asr-002343",
+              "start_seconds": 8837.1,
+              "clock": "02:27:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002343"
+            },
+            {
+              "stable_id": "asr-002349",
+              "start_seconds": 8848.96,
+              "clock": "02:27:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002349"
+            },
+            {
+              "stable_id": "asr-002360",
+              "start_seconds": 8870.98,
+              "clock": "02:27:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002360"
+            },
+            {
+              "stable_id": "asr-002364",
+              "start_seconds": 8878.72,
+              "clock": "02:27:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002364"
+            },
+            {
+              "stable_id": "asr-002383",
+              "start_seconds": 8920.84,
+              "clock": "02:28:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002383"
+            },
+            {
+              "stable_id": "asr-002384",
+              "start_seconds": 8922.94,
+              "clock": "02:28:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002384"
+            },
+            {
+              "stable_id": "asr-002409",
+              "start_seconds": 8972.7,
+              "clock": "02:29:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002409"
+            },
+            {
+              "stable_id": "asr-002413",
+              "start_seconds": 8980.54,
+              "clock": "02:29:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002413"
+            },
+            {
+              "stable_id": "asr-002415",
+              "start_seconds": 8984.74,
+              "clock": "02:29:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002415"
+            },
+            {
+              "stable_id": "asr-002270",
+              "start_seconds": 8689.22,
+              "clock": "02:24:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002270"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-priorities",
+      "label": "Opening priorities",
+      "items": [
+        {
+          "label": "Access, staffing, and the education mandate",
+          "text": "Villanueva framed the review around helping students enter college, remain in school, and graduate, while giving institutions and their workers adequate support. He pointed to 18,436 unfilled permanent positions across SUCs and 1,097 job-order and contract-of-service personnel at CHED, arguing that educational services could not expand while their workforce was left behind. He said the test was whether free tuition was matched by adequately supported schools and whether scholarships and subsidies reached students most in need.",
+          "citations": [
+            {
+              "stable_id": "asr-000078",
+              "start_seconds": 1824.96,
+              "clock": "00:30:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000078"
+            },
+            {
+              "stable_id": "asr-000122",
+              "start_seconds": 2066.36,
+              "clock": "00:34:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000122"
+            },
+            {
+              "stable_id": "asr-000123",
+              "start_seconds": 2074.42,
+              "clock": "00:34:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000123"
+            },
+            {
+              "stable_id": "asr-000128",
+              "start_seconds": 2104.76,
+              "clock": "00:35:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000128"
+            }
+          ]
+        },
+        {
+          "label": "Fiscal constraints and higher-education support",
+          "text": "Senator Joseph Victor \"JV\" G. Ejercito said higher education should help students enter, persist, and graduate, and that each peso should advance those outcomes. He said fiscal space was very limited and asked SUCs to understand that requests might have to be provided gradually. While saying he and Villanueva, Senator Paolo Benigno \"Bam\" Aquino IV, and other advocates would do their part to maintain SUC services and fill gaps, he linked the constraint to the flood-control scandal and falling revenue and collections.",
+          "citations": [
+            {
+              "stable_id": "asr-000158",
+              "start_seconds": 2243.54,
+              "clock": "00:37:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000158"
+            },
+            {
+              "stable_id": "asr-000177",
+              "start_seconds": 2431.76,
+              "clock": "00:40:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000177"
+            },
+            {
+              "stable_id": "asr-000188",
+              "start_seconds": 2510.32,
+              "clock": "00:41:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000188"
+            },
+            {
+              "stable_id": "asr-000198",
+              "start_seconds": 2554.7799999999997,
+              "clock": "00:42:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000198"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-paolo-benigno-bam-aquino-iv",
+      "label": "Senator Paolo Benigno \"Bam\" Aquino IV",
+      "items": [
+        {
+          "label": "Support beyond free tuition",
+          "text": "Senator Paolo Benigno “Bam” Aquino IV framed the FY2027 higher-education review around whether students have enough support to finish college. Free tuition helps, but families still pay for transportation, food, school supplies and other needs. Nursing and allied-health students also must complete related learning experience (RLE); he said those costs commonly reach ₱20,000, ₱30,000 or ₱40,000 per year, and should not prevent students from completing their courses.",
+          "citations": [
+            {
+              "stable_id": "asr-000238",
+              "start_seconds": 2743.4,
+              "clock": "00:45:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000238"
+            },
+            {
+              "stable_id": "asr-000249",
+              "start_seconds": 2788.32,
+              "clock": "00:46:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000249"
+            },
+            {
+              "stable_id": "asr-000258",
+              "start_seconds": 2823.9,
+              "clock": "00:47:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000258"
+            }
+          ]
+        },
+        {
+          "label": "Implementing the expanded student-aid rules",
+          "text": "Aquino asked whether the amendments to the Free College Act (Republic Act No. 12325) had been implemented and were helping identify students who should receive aid. He said the amendments put RLE support into the law and clarified which students should receive government assistance; he pressed for clarity on who would receive support, where, in what institutions and how it would reach them. He also called for proper implementation of the free-college and UniFAST laws, so students can enter college, graduate and obtain secure work.",
+          "citations": [
+            {
+              "stable_id": "asr-000277",
+              "start_seconds": 2883.5,
+              "clock": "00:48:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000277"
+            },
+            {
+              "stable_id": "asr-000281",
+              "start_seconds": 2896.96,
+              "clock": "00:48:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000281"
+            },
+            {
+              "stable_id": "asr-000288",
+              "start_seconds": 2925.36,
+              "clock": "00:48:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000288"
+            },
+            {
+              "stable_id": "asr-000292",
+              "start_seconds": 2945.14,
+              "clock": "00:49:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-000292"
+            }
+          ]
+        },
+        {
+          "label": "Admissions capacity and education planning",
+          "text": "Aquino asked about SUC acceptance rates, using an informal show of hands to compare schools and asking whether rates were generally 20% or lower; Agrupis agreed with that impression. She then gave a national figure of 500,000 admitted from 1.3 million applicants across SUCs, or 38%, and said differences reflected each school’s capacity, including classrooms and faculty. UP President Angelo A. Jimenez gave a separate UP figure: about 10% of UPCAT qualifiers were accepted; he also referred to 153,000 and “around 10%, around 13%,” which Aquino clarified as accepted versus qualified.\n\nAquino proposed setting access targets, suggesting possible steps of 25%, 30%, 35% or 40%, including 35% by 2030. Agrupis said CHED was working with EDCOM on a harmonized measure that also considered faculty ratios and absorptive capacity. Aquino connected enrollment targets with education funding, per-student cost, and rationalizing courses against sectoral and labor needs. He said education funding should not fall below 4% of GDP and proposed a continuing planning process through the future National Coordinating Council on Education. These were planning proposals; no target was formally set in the exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-001146",
+              "start_seconds": 5572.54,
+              "clock": "01:32:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001146"
+            },
+            {
+              "stable_id": "asr-001188",
+              "start_seconds": 5705.54,
+              "clock": "01:35:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001188"
+            },
+            {
+              "stable_id": "asr-001202",
+              "start_seconds": 5789.54,
+              "clock": "01:36:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001202"
+            },
+            {
+              "stable_id": "asr-001207",
+              "start_seconds": 5830.82,
+              "clock": "01:37:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001207"
+            },
+            {
+              "stable_id": "asr-001210",
+              "start_seconds": 5839.84,
+              "clock": "01:37:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001210"
+            },
+            {
+              "stable_id": "asr-001224",
+              "start_seconds": 5943.16,
+              "clock": "01:39:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-001224"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joel-villanueva",
+      "label": "Senator Joel Villanueva",
+      "items": [
+        {
+          "label": "UP resilience work, forecasting, and Bulacan flood control",
+          "text": "After University of the Philippines (UP) President Angelo A. Jimenez introduced UP Resilience Institute Executive Director Dr. Alfredo Mahar Francisco A. Lagmay, Senator Joel Villanueva asked whether UP was consulted by the Department of Public Works and Highways (DPWH) on urban planning and flood-control designs. Lagmay said DPWH had consulted UP since January, before UP received its allotment release, and sent thousands of project designs for technical review. UP assessed their methods and whether public investment was worthwhile, including designs referred by Congress and the Senate.\n\nVillanueva then asked whether UP was consulted by the weather agencies about forecasting and flight cancellations. Lagmay said an earlier project could forecast four to five hours ahead and that UP had developed an impact-based forecasting system. He said the system had predicted a typhoon’s impacts but was not used by some agencies; DepEd had used its warnings one day in advance during Basyang and reported minimal damage. Lagmay said UP was not consulted on the flight-forecasting question, though it worked with agencies on drone-LIDAR training and flood mapping for distribution to state universities and colleges. He said forecasts improve as decision time approaches and suggested establishing a system, while identifying PAGASA as the official forecaster.\n\nVillanueva asked UP to help review Bulacan’s flood-control program and described his request for an integrated plan. He said he had funded a feasibility study, waited more than two years for it, and later learned it was no longer usable; he asked Lagmay to coordinate with him and check the program. ",
+          "citations": [
+            {
+              "stable_id": "asr-002431",
+              "start_seconds": 9046.9,
+              "clock": "02:30:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002431"
+            },
+            {
+              "stable_id": "asr-002451",
+              "start_seconds": 9217.78,
+              "clock": "02:33:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002451"
+            },
+            {
+              "stable_id": "asr-002457",
+              "start_seconds": 9242.38,
+              "clock": "02:34:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002457"
+            },
+            {
+              "stable_id": "asr-002469",
+              "start_seconds": 9363.66,
+              "clock": "02:36:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002469"
+            },
+            {
+              "stable_id": "asr-002526",
+              "start_seconds": 9578.44,
+              "clock": "02:39:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002526"
+            },
+            {
+              "stable_id": "asr-002531",
+              "start_seconds": 9591.94,
+              "clock": "02:39:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002531"
+            },
+            {
+              "stable_id": "asr-002541",
+              "start_seconds": 9618.28,
+              "clock": "02:40:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002541"
+            },
+            {
+              "stable_id": "asr-002543",
+              "start_seconds": 9630.58,
+              "clock": "02:40:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002543"
+            },
+            {
+              "stable_id": "asr-002548",
+              "start_seconds": 9645.66,
+              "clock": "02:40:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002548"
+            },
+            {
+              "stable_id": "asr-002571",
+              "start_seconds": 9716.4,
+              "clock": "02:41:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-002571"
+            }
+          ]
+        },
+        {
+          "label": "Centers of Excellence applications and review capacity",
+          "text": "Villanueva cited 987 Centers of Excellence applications received in February and March 2026, with technical-panel review underway since April. He asked when CHED would complete the evaluation and whether staffing shortages were contributing to delays. Agrupis confirmed a shortage of technical-panel capacity and said CHED had to revisit its criteria and guidelines as higher education changed. She said the review was ongoing and set a target for the next Centers of Excellence awards in November 2026.\n\nVillanueva said the broader 2027 indicator for institutions with Centers of Excellence, flagship, autonomous, deregulated or level III/IV accredited programs remained 485 of 4,426 higher-education institutions, while 74 of 199 existing Centers of Excellence were in the National Capital Region and Regions 12 and Caraga each had one. He noted that no new centers had been designated since 2016 and asked how the pending evaluations would address regional and disciplinary gaps. Agrupis said CHED would take up the issue in a separate meeting and assured him that it had the data.",
+          "citations": [
+            {
+              "stable_id": "asr-005029",
+              "start_seconds": 16880.8,
+              "clock": "04:41:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005029"
+            },
+            {
+              "stable_id": "asr-005035",
+              "start_seconds": 16888.9,
+              "clock": "04:41:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005035"
+            },
+            {
+              "stable_id": "asr-005057",
+              "start_seconds": 16918.04,
+              "clock": "04:41:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005057"
+            },
+            {
+              "stable_id": "asr-005068",
+              "start_seconds": 16935.34,
+              "clock": "04:42:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005068"
+            },
+            {
+              "stable_id": "asr-005269",
+              "start_seconds": 17151.7,
+              "clock": "04:45:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005269"
+            },
+            {
+              "stable_id": "asr-005345",
+              "start_seconds": 17315.82,
+              "clock": "04:48:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005345"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-christopher-lawrence-t-go",
+      "label": "Senator Christopher Lawrence T. Go",
+      "items": [
+        {
+          "label": "Free higher education and geographic access",
+          "text": "Senator Christopher Lawrence T. Go, chair of the Senate Committee on Sports, said expanding educational access was central to his youth advocacy. He credited Republic Act No. 10931 with making tuition and other school fees free at state universities and colleges (SUCs), and described Republic Act No. 12325 as extending assistance to poor and indigent students in public and private schools pursuing college or technical-vocational education. He urged CHED and the SUCs to prioritize those students.\n\nGo praised satellite campuses that bring education closer to remote communities, including in Davao Oriental, where travel to a state university could take about three hours and trips to other municipalities could take two to five hours. He offered the Senate’s support for further efforts to reach students.",
+          "citations": [
+            {
+              "stable_id": "asr-003894",
+              "start_seconds": 14513.64,
+              "clock": "04:01:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003894"
+            },
+            {
+              "stable_id": "asr-003943",
+              "start_seconds": 14611.66,
+              "clock": "04:03:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-003943"
+            },
+            {
+              "stable_id": "asr-004021",
+              "start_seconds": 14771.96,
+              "clock": "04:06:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004021"
+            },
+            {
+              "stable_id": "asr-004032",
+              "start_seconds": 14793.52,
+              "clock": "04:06:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004032"
+            }
+          ]
+        },
+        {
+          "label": "SUC capacity for additional FY2027 admissions",
+          "text": "Go said free tuition would not ensure access if qualified students could not enter a school or high-demand program; he asked how many additional students SUCs expected to accommodate in FY2027. Agrupis described 1.3 million students seeking entry and said limited classroom and faculty capacity constrained admissions. The recorded admitted-count phrase in this unit is only “500,” so it does not supply a usable FY2027 intake target. She said the SUCs had to balance accessibility with quality.",
+          "citations": [
+            {
+              "stable_id": "asr-004330",
+              "start_seconds": 15399.44,
+              "clock": "04:16:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004330"
+            },
+            {
+              "stable_id": "asr-004335",
+              "start_seconds": 15411.14,
+              "clock": "04:16:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004335"
+            },
+            {
+              "stable_id": "asr-004347",
+              "start_seconds": 15433.84,
+              "clock": "04:17:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004347"
+            },
+            {
+              "stable_id": "asr-004364",
+              "start_seconds": 15465.12,
+              "clock": "04:17:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004364"
+            }
+          ]
+        },
+        {
+          "label": "Regional and national sports programs",
+          "text": "Go asked how CHED supported student sports. Agrupis said SUCs held regional and national competitions under CMO 13, series of 2026, which set protections for student-athletes during training and competition; she said the Philippine Association of State Universities and Colleges (PASUC) was implementing the guidelines.",
+          "citations": [
+            {
+              "stable_id": "asr-004398",
+              "start_seconds": 15533.12,
+              "clock": "04:18:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004398"
+            },
+            {
+              "stable_id": "asr-004399",
+              "start_seconds": 15535.12,
+              "clock": "04:18:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004399"
+            },
+            {
+              "stable_id": "asr-004413",
+              "start_seconds": 15563.12,
+              "clock": "04:19:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004413"
+            },
+            {
+              "stable_id": "asr-004423",
+              "start_seconds": 15583.12,
+              "clock": "04:19:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004423"
+            }
+          ]
+        },
+        {
+          "label": "Sports administration and a proposed National Tertiary Games",
+          "text": "Agrupis said sports administration sat within Student Services, the Office of Student Development Services (OSDS). Go said he had filed Senate Bill No. 678 to establish National Tertiary Games under CHED and asked whether CHED could start a pilot while the bill was pending. Agrupis confirmed the State Colleges and Universities Athletic Association was active; Go asked CHED to keep the activity going and give sports continuing priority.",
+          "citations": [
+            {
+              "stable_id": "asr-004443",
+              "start_seconds": 15621.0,
+              "clock": "04:20:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004443"
+            },
+            {
+              "stable_id": "asr-004454",
+              "start_seconds": 15645.12,
+              "clock": "04:20:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004454"
+            },
+            {
+              "stable_id": "asr-004462",
+              "start_seconds": 15661.12,
+              "clock": "04:21:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004462"
+            },
+            {
+              "stable_id": "asr-004472",
+              "start_seconds": 15685.12,
+              "clock": "04:21:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004472"
+            },
+            {
+              "stable_id": "asr-004478-split-2",
+              "start_seconds": 15698.44,
+              "clock": "04:21:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004478-split-2"
+            }
+          ]
+        },
+        {
+          "label": "Mental-health support on campuses",
+          "text": "Go described mental health as part of student well-being and said he had filed Senate Bill No. 176 to establish dedicated mental-health offices at SUCs. He said the offices would provide accessible counseling, psychological support and related services to students facing academic, financial, family and personal challenges.",
+          "citations": [
+            {
+              "stable_id": "asr-004494",
+              "start_seconds": 15731.12,
+              "clock": "04:22:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004494"
+            },
+            {
+              "stable_id": "asr-004509",
+              "start_seconds": 15761.12,
+              "clock": "04:22:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004509"
+            },
+            {
+              "stable_id": "asr-004515",
+              "start_seconds": 15773.12,
+              "clock": "04:22:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004515"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-sherwin-win-t-gatchalian",
+      "label": "Senator Sherwin \"Win\" T. Gatchalian",
+      "items": [
+        {
+          "label": "Teacher-education standards and closures",
+          "text": "Gatchalian raised 177 teacher-education institutions (TEIs) with zero passing rates in licensure examinations and called for discipline to protect teacher quality and student time. He asked for an update and said a resolution on the zero-pass issue was wanted.\n\nCHED Chairperson Shirley Castañeda Agrupis said CHED had partnered with the Teacher Education Council, signed a memorandum of agreement, and published a teacher-education registry to identify recognized programs. CHED was validating the numbers and had closed 11 TEIs and 26 programs. Agrupis described a monitoring approach with conditional, incomplete, and failed statuses: institutions with failures would close, while conditional institutions could receive time-limited developmental support before a final decision. Gatchalian agreed that closures were difficult but supported maintaining standards. Agrupis also said CHED had formed a nationwide technical working group to investigate ongoing cases.",
+          "citations": [
+            {
+              "stable_id": "asr-004682",
+              "start_seconds": 16127.12,
+              "clock": "04:28:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004682"
+            },
+            {
+              "stable_id": "asr-004718",
+              "start_seconds": 16201.36,
+              "clock": "04:30:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004718"
+            },
+            {
+              "stable_id": "asr-004725",
+              "start_seconds": 16311.5,
+              "clock": "04:31:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004725"
+            },
+            {
+              "stable_id": "asr-004728",
+              "start_seconds": 16343.4,
+              "clock": "04:32:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004728"
+            },
+            {
+              "stable_id": "asr-004785",
+              "start_seconds": 16439.56,
+              "clock": "04:33:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004785"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Committee motion to submit budgets to plenary",
+          "text": "Ejercito moved that the CHED and SUC budgets be approved under the committee and submitted to plenary. His motion concerned committee referral; the supportive remarks did not specify adopted funding increases.",
+          "citations": [
+            {
+              "stable_id": "asr-005511",
+              "start_seconds": 17939.34,
+              "clock": "04:58:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005511"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-committee-disposition",
+      "label": "Committee disposition",
+      "items": [
+        {
+          "label": "FY2027 budgets referred to plenary subject to follow-up",
+          "text": "Villanueva read the disposition covering the FY2027 proposed budgets of CHED, SUCs, and the University of the Philippines System: they were submitted for plenary consideration, subject to the day's discussions and the documents and information requested by committee members. He then suspended the budget briefing.",
+          "citations": [
+            {
+              "stable_id": "asr-005513",
+              "start_seconds": 17956.08,
+              "clock": "04:59:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005513"
+            },
+            {
+              "stable_id": "asr-005514",
+              "start_seconds": 17963.16,
+              "clock": "04:59:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005514"
+            },
+            {
+              "stable_id": "asr-005515",
+              "start_seconds": 17971.38,
+              "clock": "04:59:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005515"
+            },
+            {
+              "stable_id": "asr-005521",
+              "start_seconds": 17993.16,
+              "clock": "04:59:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005521"
+            },
+            {
+              "stable_id": "asr-005522",
+              "start_seconds": 18000.0,
+              "clock": "05:00:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-005522"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

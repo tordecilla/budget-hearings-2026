@@ -1,0 +1,2622 @@
+{
+  "hearing": {
+    "hearing_id": 93,
+    "title": "House Plenary: FY 2027 General Appropriations Bill Third Reading - October 12, 2026",
+    "hearing_date": "2026-10-12",
+    "official_url": "https://www.youtube.com/watch?v=thPOLCsZl2o"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h93/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Third-reading result",
+      "text": "The House approved H.B. 10858 on third reading. A later correction changed the affirmative tally to 282, with 13 negative votes and one abstention; the House then directed immediate transmission to the Senate.",
+      "citations": []
+    },
+    {
+      "label": "Disputed priorities",
+      "text": "Members who voted no raised concerns about debt service, discretionary and unprogrammed funds, allocation fairness, unreleased projects, and funding for health, education, agriculture, housing and other public services. Several also questioned budget transparency and accountability.",
+      "citations": []
+    },
+    {
+      "label": "Program support and House additions",
+      "text": "A member voting yes asked the House to restore the 4Ps household target. The Speaker described House additions for education, health, agriculture and climate resilience, and transportation.",
+      "citations": []
+    }
+  ],
+  "method_note": "This digest covers the reviewed nominal vote, member explanations, corrected results, Senate-transmission directive and selected portion of the Speaker’s address. The address excerpt ends at 4:32:54 in the official video and does not cover his complete speech. Figures and allegations are attributed to their speakers; differing amounts are retained where the proceedings do not reconcile them.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "National budget outcome",
+      "items": [
+        {
+          "label": "Budget approved on third and final reading",
+          "text": "The House approved House Bill No. 10858, the FY2027 General Appropriations Bill, on third and final reading. The corrected final tally was 282 affirmative votes, 13 negative votes and one abstention. The House then directed immediate transmission to the Senate.",
+          "citations": [
+            {
+              "stable_id": "asr-000004",
+              "start_seconds": 11564.1,
+              "clock": "03:12:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000004"
+            },
+            {
+              "stable_id": "asr-000327",
+              "start_seconds": 12432.1,
+              "clock": "03:27:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000327"
+            },
+            {
+              "stable_id": "asr-000328",
+              "start_seconds": 12438.0,
+              "clock": "03:27:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000328"
+            },
+            {
+              "stable_id": "asr-000329",
+              "start_seconds": 12440.34,
+              "clock": "03:27:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000329"
+            },
+            {
+              "stable_id": "asr-001513",
+              "start_seconds": 15588.24,
+              "clock": "04:19:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001513"
+            },
+            {
+              "stable_id": "asr-001514",
+              "start_seconds": 15590.24,
+              "clock": "04:19:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001514"
+            },
+            {
+              "stable_id": "asr-001516",
+              "start_seconds": 15594.24,
+              "clock": "04:19:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001516"
+            },
+            {
+              "stable_id": "asr-001522",
+              "start_seconds": 15613.9,
+              "clock": "04:20:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001522"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-national-budget",
+      "label": "National budget",
+      "items": [
+        {
+          "label": "Unprogrammed appropriations",
+          "text": "For FY2027, Representative Arlene \"Kaka\" J. Bag-ao criticized PHP 112 billion in unprogrammed appropriations, arguing that public funds should be definite and planned. She said the money could instead address unmet health and agricultural needs.",
+          "citations": [
+            {
+              "stable_id": "asr-000475",
+              "start_seconds": 12738.02,
+              "clock": "03:32:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000475"
+            },
+            {
+              "stable_id": "asr-000476",
+              "start_seconds": 12740.02,
+              "clock": "03:32:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000476"
+            },
+            {
+              "stable_id": "asr-000477",
+              "start_seconds": 12742.02,
+              "clock": "03:32:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000477"
+            },
+            {
+              "stable_id": "asr-000486",
+              "start_seconds": 12760.02,
+              "clock": "03:32:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000486"
+            }
+          ]
+        },
+        {
+          "label": "Infrastructure, assistance and discretionary funds",
+          "text": "Representative Renee Louise M. Co of Kabataan party-list characterized several FY2027 budget categories as pork: PHP 361.19 billion for allegedly anomalous flood-control, roads and other infrastructure; PHP 136 billion for patronage-based assistance programs; and PHP 51 billion in presidential local-government lump-sum discretionary funds.\n\nShe also criticized PHP 595 billion in funds including the Barangay Development Program of the National Task Force to End Local Communist Armed Conflict (NTF-ELCAC), confidential and intelligence funds, and the Revised Armed Forces of the Philippines (AFP) Modernization Program. Co stated a combined total of PHP 1.15 trillion and accused the budget of funding corruption and fascism. These figures and allegations were her stated assessment.",
+          "citations": [
+            {
+              "stable_id": "asr-000701",
+              "start_seconds": 13190.02,
+              "clock": "03:39:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000701"
+            },
+            {
+              "stable_id": "asr-000702",
+              "start_seconds": 13192.02,
+              "clock": "03:39:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000702"
+            },
+            {
+              "stable_id": "asr-000709",
+              "start_seconds": 13206.02,
+              "clock": "03:40:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000709"
+            },
+            {
+              "stable_id": "asr-000710",
+              "start_seconds": 13208.02,
+              "clock": "03:40:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000710"
+            },
+            {
+              "stable_id": "asr-000712",
+              "start_seconds": 13212.02,
+              "clock": "03:40:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000712"
+            },
+            {
+              "stable_id": "asr-000716",
+              "start_seconds": 13220.02,
+              "clock": "03:40:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000716"
+            },
+            {
+              "stable_id": "asr-000721",
+              "start_seconds": 13230.02,
+              "clock": "03:40:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000721"
+            },
+            {
+              "stable_id": "asr-000724",
+              "start_seconds": 13236.02,
+              "clock": "03:40:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000724"
+            },
+            {
+              "stable_id": "asr-000725",
+              "start_seconds": 13238.02,
+              "clock": "03:40:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000725"
+            },
+            {
+              "stable_id": "asr-000727",
+              "start_seconds": 13242.02,
+              "clock": "03:40:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000727"
+            }
+          ]
+        },
+        {
+          "label": "2027 budget and amendment allocations",
+          "text": "Representative Leila M. de Lima voted no on the General Appropriations Bill, acknowledging amendments for classrooms, school safety, commuters, patients and families. She said the proposed 2027 budget had PHP 1.15 trillion in real fiscal space, but that after amendments PHP 541.5 billion, nearly half, went to pork. \n\nShe said crisis assistance, medical assistance, temporary employment and other cash-aid programs nearly doubled from NEP levels, with PHP 67.5 billion added by the Budget Amendments Review Subcommittee (BARSc), and that hard pork rose by PHP 48.2 billion. She contrasted a PHP 74.1 billion increase for the Department of Public Works and Highways (DPWH) convergence program with a PHP 16.3 billion cut to flood management; she also said the Local Government Support Fund (LGSF) rose to PHP 62.6 billion in the year before the 2028 elections. She said only 8.5% of the proposed 2027 budget remained for initiatives that could propel the country.",
+          "citations": [
+            {
+              "stable_id": "asr-000762",
+              "start_seconds": 13312.02,
+              "clock": "03:41:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000762"
+            },
+            {
+              "stable_id": "asr-000773",
+              "start_seconds": 13334.02,
+              "clock": "03:42:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000773"
+            },
+            {
+              "stable_id": "asr-000774",
+              "start_seconds": 13336.02,
+              "clock": "03:42:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000774"
+            },
+            {
+              "stable_id": "asr-000775",
+              "start_seconds": 13338.0,
+              "clock": "03:42:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000775"
+            },
+            {
+              "stable_id": "asr-000777",
+              "start_seconds": 13350.46,
+              "clock": "03:42:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000777"
+            },
+            {
+              "stable_id": "asr-000778",
+              "start_seconds": 13354.3,
+              "clock": "03:42:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000778"
+            },
+            {
+              "stable_id": "asr-000779",
+              "start_seconds": 13358.02,
+              "clock": "03:42:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000779"
+            },
+            {
+              "stable_id": "asr-000780",
+              "start_seconds": 13364.14,
+              "clock": "03:42:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000780"
+            },
+            {
+              "stable_id": "asr-000782",
+              "start_seconds": 13371.78,
+              "clock": "03:42:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000782"
+            },
+            {
+              "stable_id": "asr-000784",
+              "start_seconds": 13379.98,
+              "clock": "03:42:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000784"
+            }
+          ]
+        },
+        {
+          "label": "Debt servicing and public debt",
+          "text": "Representative Sarah Jane I. Representative Sarah Jane I. Elago said debt servicing for 2027 amounted to PHP 2.7 trillion, or 37.5% of the full budget, and that total government debt had exceeded PHP 19.6 trillion. She argued that borrowing also financed pork-barrel spending, alleging that some infrastructure projects, including flood control, generated kickbacks and corruption, and that assistance was used for patronage.",
+          "citations": [
+            {
+              "stable_id": "asr-001041",
+              "start_seconds": 13945.6,
+              "clock": "03:52:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001041"
+            },
+            {
+              "stable_id": "asr-001042",
+              "start_seconds": 13947.34,
+              "clock": "03:52:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001042"
+            },
+            {
+              "stable_id": "asr-001043",
+              "start_seconds": 13948.96,
+              "clock": "03:52:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001043"
+            },
+            {
+              "stable_id": "asr-001044",
+              "start_seconds": 13950.5,
+              "clock": "03:52:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001044"
+            },
+            {
+              "stable_id": "asr-001045",
+              "start_seconds": 13952.48,
+              "clock": "03:52:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001045"
+            },
+            {
+              "stable_id": "asr-001050",
+              "start_seconds": 13961.96,
+              "clock": "03:52:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001050"
+            },
+            {
+              "stable_id": "asr-001052",
+              "start_seconds": 13965.96,
+              "clock": "03:52:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001052"
+            },
+            {
+              "stable_id": "asr-001054",
+              "start_seconds": 13969.96,
+              "clock": "03:52:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001054"
+            },
+            {
+              "stable_id": "asr-001055",
+              "start_seconds": 13971.96,
+              "clock": "03:52:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001055"
+            }
+          ]
+        },
+        {
+          "label": "Budget choices and service funding",
+          "text": "Representative Elijah Rumbaoa San Fernando said the workers' vote was no on the 2027 General Appropriations Bill. He contrasted claimed shortages for hospitals, doctors, nurses, medicines and healthcare with PHP 48.2 billion for medical assistance (MAIFIP) or guarantee letters; the need for inspectors, better jobs and a stronger Department of Labor and Employment with PHP 19 billion for TUPAD; and the need to strengthen agriculture with PHP 10 billion for PAF assistance to farmers. \n\nHe also contrasted the lack of budget for older people and people with disabilities with PHP 56 billion for crisis assistance (AICS). He said the PHP 7.2 trillion approved that day still left ordinary Filipinos buying their own buckets to prepare for a Super El Niño.",
+          "citations": [
+            {
+              "stable_id": "asr-001270",
+              "start_seconds": 14656.6,
+              "clock": "04:04:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001270"
+            },
+            {
+              "stable_id": "asr-001273",
+              "start_seconds": 14668.6,
+              "clock": "04:04:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001273"
+            },
+            {
+              "stable_id": "asr-001274",
+              "start_seconds": 14672.6,
+              "clock": "04:04:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001274"
+            },
+            {
+              "stable_id": "asr-001276",
+              "start_seconds": 14679.6,
+              "clock": "04:04:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001276"
+            },
+            {
+              "stable_id": "asr-001277",
+              "start_seconds": 14683.6,
+              "clock": "04:04:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001277"
+            },
+            {
+              "stable_id": "asr-001279",
+              "start_seconds": 14688.6,
+              "clock": "04:04:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001279"
+            },
+            {
+              "stable_id": "asr-001280",
+              "start_seconds": 14692.6,
+              "clock": "04:04:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001280"
+            },
+            {
+              "stable_id": "asr-001281",
+              "start_seconds": 14698.6,
+              "clock": "04:04:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001281"
+            }
+          ]
+        },
+        {
+          "label": "Social assistance and government-employee benefits",
+          "text": "Representative Antonio L. Tinio said the bill cut the Calamity Fund by PHP 9.5 billion and the Pension and Gratuity Fund by PHP 10 billion; he later identified terminal-leave and retirement-gratuity benefits for civilian and uniformed personnel as affected. He said Malacanang proposed PHP 11.7 billion for an increase in government employees' Personnel Economic Relief Allowance (PERA), and that Congress did not increase the amount. He also referred to about 2 million government employees and said funding for increasing that allowance after 17 years had not been augmented. Tinio said patronage-based assistance grew, including medical assistance, crisis assistance (AICS) and temporary employment assistance (TUPAD), and argued that people had to go through politicians to access them.",
+          "citations": [
+            {
+              "stable_id": "asr-001388",
+              "start_seconds": 15270.18,
+              "clock": "04:14:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001388"
+            },
+            {
+              "stable_id": "asr-001390",
+              "start_seconds": 15309.66,
+              "clock": "04:15:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001390"
+            },
+            {
+              "stable_id": "asr-001391",
+              "start_seconds": 15314.48,
+              "clock": "04:15:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001391"
+            },
+            {
+              "stable_id": "asr-001408",
+              "start_seconds": 15380.5,
+              "clock": "04:16:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001408"
+            },
+            {
+              "stable_id": "asr-001410",
+              "start_seconds": 15384.5,
+              "clock": "04:16:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001410"
+            },
+            {
+              "stable_id": "asr-001411",
+              "start_seconds": 15386.34,
+              "clock": "04:16:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001411"
+            },
+            {
+              "stable_id": "asr-001417",
+              "start_seconds": 15398.08,
+              "clock": "04:16:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001417"
+            },
+            {
+              "stable_id": "asr-001418",
+              "start_seconds": 15399.96,
+              "clock": "04:16:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001418"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-social-welfare-and-development-dswd",
+      "label": "Department of Social Welfare and Development (DSWD)",
+      "items": [
+        {
+          "label": "4Ps allocation and coverage proposal",
+          "text": "Representative JC M. Abalos said he was voting in favor of the FY2027 budget while hoping the legislature would reconsider restoring the Pantawid Pamilyang Pilipino Program (4Ps) target to 4.4 million households. He said the FY2027 proposal reduced the target to 3.5 million households and lowered the program's allocation from PHP 112.9 billion in FY2026 to approximately PHP 99.1 billion in the FY2027 proposed national budget.",
+          "citations": [
+            {
+              "stable_id": "asr-000337",
+              "start_seconds": 12462.0,
+              "clock": "03:27:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000337"
+            },
+            {
+              "stable_id": "asr-000344",
+              "start_seconds": 12476.12,
+              "clock": "03:27:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000344"
+            },
+            {
+              "stable_id": "asr-000349",
+              "start_seconds": 12486.0,
+              "clock": "03:28:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000349"
+            },
+            {
+              "stable_id": "asr-000350",
+              "start_seconds": 12488.26,
+              "clock": "03:28:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000350"
+            },
+            {
+              "stable_id": "asr-000351",
+              "start_seconds": 12490.08,
+              "clock": "03:28:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000351"
+            },
+            {
+              "stable_id": "asr-000352",
+              "start_seconds": 12491.98,
+              "clock": "03:28:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000352"
+            },
+            {
+              "stable_id": "asr-000353",
+              "start_seconds": 12493.98,
+              "clock": "03:28:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000353"
+            },
+            {
+              "stable_id": "asr-000354",
+              "start_seconds": 12496.02,
+              "clock": "03:28:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000354"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-transportation-dotr",
+      "label": "Department of Transportation (DOTr)",
+      "items": [
+        {
+          "label": "Transport-program funding",
+          "text": "Representative Percival \"Perci\" Cendaña cited partial funding for transport programs: the EDSA Carousel received PHP 75 million against a Department of Transportation (DOTr) request of PHP 1.76 billion; Service Contracting received PHP 500 million against an original proposal of PHP 5 billion; and the fuel subsidy received PHP 1 billion, which he said was inadequate for drivers facing rising oil prices.",
+          "citations": [
+            {
+              "stable_id": "asr-000538",
+              "start_seconds": 12864.02,
+              "clock": "03:34:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000538"
+            },
+            {
+              "stable_id": "asr-000539",
+              "start_seconds": 12866.02,
+              "clock": "03:34:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000539"
+            },
+            {
+              "stable_id": "asr-000540",
+              "start_seconds": 12868.02,
+              "clock": "03:34:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000540"
+            },
+            {
+              "stable_id": "asr-000541",
+              "start_seconds": 12870.02,
+              "clock": "03:34:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000541"
+            },
+            {
+              "stable_id": "asr-000543",
+              "start_seconds": 12874.02,
+              "clock": "03:34:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000543"
+            },
+            {
+              "stable_id": "asr-000544",
+              "start_seconds": 12876.02,
+              "clock": "03:34:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000544"
+            },
+            {
+              "stable_id": "asr-000545",
+              "start_seconds": 12878.02,
+              "clock": "03:34:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000545"
+            },
+            {
+              "stable_id": "asr-000546",
+              "start_seconds": 12880.02,
+              "clock": "03:34:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000546"
+            },
+            {
+              "stable_id": "asr-000547",
+              "start_seconds": 12882.02,
+              "clock": "03:34:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000547"
+            },
+            {
+              "stable_id": "asr-000548",
+              "start_seconds": 12884.02,
+              "clock": "03:34:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000548"
+            },
+            {
+              "stable_id": "asr-000552",
+              "start_seconds": 12892.02,
+              "clock": "03:34:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000552"
+            }
+          ]
+        },
+        {
+          "label": "Transportation programs",
+          "text": "Speaker Faustino \"Bojie\" G. Dy III said the House added PHP 500 million for the service contracting program and PHP 1 billion for fuel subsidies for public-utility drivers, operators, tricycle drivers, delivery drivers and other transport providers. He also listed PHP 75 million for the NCR busway project and PHP 774 million for airports, describing the additions as support for public transportation.",
+          "citations": [
+            {
+              "stable_id": "asr-001570",
+              "start_seconds": 16142.14,
+              "clock": "04:29:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001570"
+            },
+            {
+              "stable_id": "asr-001571",
+              "start_seconds": 16163.3,
+              "clock": "04:29:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001571"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-philippine-health-insurance-corporation-philhealth",
+      "label": "Philippine Health Insurance Corporation (PhilHealth)",
+      "items": [
+        {
+          "label": "Funding for indirect contributors",
+          "text": "Representative Percival \"Perci\" Cendaña said PhilHealth retained funding for indirect contributors, but that it remained PHP 170 billion short of meeting the legal commitments involving the Philippine Charity Sweepstakes Office (PCSO), the Philippine Amusement and Gaming Corporation (PAGCOR), and sin taxes.",
+          "citations": [
+            {
+              "stable_id": "asr-000554",
+              "start_seconds": 12896.02,
+              "clock": "03:34:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000554"
+            },
+            {
+              "stable_id": "asr-000556",
+              "start_seconds": 12900.02,
+              "clock": "03:35:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000556"
+            },
+            {
+              "stable_id": "asr-000557",
+              "start_seconds": 12902.02,
+              "clock": "03:35:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000557"
+            },
+            {
+              "stable_id": "asr-000558",
+              "start_seconds": 12904.02,
+              "clock": "03:35:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000558"
+            },
+            {
+              "stable_id": "asr-000559",
+              "start_seconds": 12906.02,
+              "clock": "03:35:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000559"
+            },
+            {
+              "stable_id": "asr-000560",
+              "start_seconds": 12908.02,
+              "clock": "03:35:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000560"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-education",
+      "label": "Education",
+      "items": [
+        {
+          "label": "Education funding and unfinished campus projects",
+          "text": "Representative Renee Louise M. Co argued that administrators repeatedly had to seek money for school facilities, staff salaries and benefits, and student space. She said 94 state universities and colleges had signed a Unity Statement seeking adequate education funding, but the House had not heard her proposed education increases despite disclosed cuts of billions of pesos to the Department of Education (DepEd), Commission on Higher Education (CHED) and others. \n\nAs examples, she cited the University of the Philippines Diliman faculty center, still under construction about ten years after a fire in April 2016, and the Polytechnic University of the Philippines Manila main academic building's north wing, then in its fourth year of construction and at phase six. She said these were two among hundreds of examples of unmet campus needs.",
+          "citations": [
+            {
+              "stable_id": "asr-000635",
+              "start_seconds": 13058.02,
+              "clock": "03:37:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000635"
+            },
+            {
+              "stable_id": "asr-000644",
+              "start_seconds": 13076.02,
+              "clock": "03:37:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000644"
+            },
+            {
+              "stable_id": "asr-000650",
+              "start_seconds": 13088.02,
+              "clock": "03:38:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000650"
+            },
+            {
+              "stable_id": "asr-000651",
+              "start_seconds": 13090.02,
+              "clock": "03:38:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000651"
+            },
+            {
+              "stable_id": "asr-000655",
+              "start_seconds": 13098.02,
+              "clock": "03:38:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000655"
+            },
+            {
+              "stable_id": "asr-000659",
+              "start_seconds": 13106.02,
+              "clock": "03:38:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000659"
+            },
+            {
+              "stable_id": "asr-000660",
+              "start_seconds": 13108.02,
+              "clock": "03:38:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000660"
+            },
+            {
+              "stable_id": "asr-000662",
+              "start_seconds": 13112.02,
+              "clock": "03:38:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000662"
+            },
+            {
+              "stable_id": "asr-000664",
+              "start_seconds": 13116.02,
+              "clock": "03:38:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000664"
+            },
+            {
+              "stable_id": "asr-000665",
+              "start_seconds": 13118.02,
+              "clock": "03:38:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000665"
+            },
+            {
+              "stable_id": "asr-000668",
+              "start_seconds": 13124.02,
+              "clock": "03:38:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000668"
+            }
+          ]
+        },
+        {
+          "label": "Public schools and private-school vouchers",
+          "text": "Representative Antonio L. Tinio said the Department of Education (DepEd) total budget fell by PHP 6.17 billion, particularly for classrooms and computerization. He said maintenance and other operating expenses (MOOE) for public elementary and high schools rose by less than 1%, while private-school vouchers increased by PHP 1.93 billion.",
+          "citations": [
+            {
+              "stable_id": "asr-001383",
+              "start_seconds": 15239.14,
+              "clock": "04:13:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001383"
+            },
+            {
+              "stable_id": "asr-001384",
+              "start_seconds": 15242.46,
+              "clock": "04:14:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001384"
+            },
+            {
+              "stable_id": "asr-001386",
+              "start_seconds": 15254.62,
+              "clock": "04:14:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001386"
+            },
+            {
+              "stable_id": "asr-001387",
+              "start_seconds": 15264.0,
+              "clock": "04:14:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001387"
+            }
+          ]
+        },
+        {
+          "label": "Education programs",
+          "text": "Speaker Faustino \"Bojie\" G. Dy III said the House's 2027 budget included an additional PHP 10.6 billion for education programs supporting school safety, inclusive learning, academic recovery and tertiary access. He identified PHP 500 million for school safety and security, PHP 2.1 billion for the tertiary education subsidy, an amount rendered in the source as \"1.9, PHP 1.93 million\" for the Basic Education Voucher Program, and PHP 1.77 billion for the Tulong Dunong Program.",
+          "citations": [
+            {
+              "stable_id": "asr-001544",
+              "start_seconds": 15927.02,
+              "clock": "04:25:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001544"
+            },
+            {
+              "stable_id": "asr-001545",
+              "start_seconds": 15930.78,
+              "clock": "04:25:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001545"
+            },
+            {
+              "stable_id": "asr-001546",
+              "start_seconds": 15945.88,
+              "clock": "04:25:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001546"
+            },
+            {
+              "stable_id": "asr-001548",
+              "start_seconds": 15962.36,
+              "clock": "04:26:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001548"
+            },
+            {
+              "stable_id": "asr-001549",
+              "start_seconds": 15988.32,
+              "clock": "04:26:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001549"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-local-government-support-fund-lgsf",
+      "label": "Local Government Support Fund (LGSF)",
+      "items": [
+        {
+          "label": "Local-government assistance and distribution",
+          "text": "Representative Leila M. de Lima said Financial Assistance to Local Government Units (FALGU) was written into the 2027 NEP at PHP 37.49 billion, the same amount the bicameral conference raised it to in the 2026 GAA. She said it had no cap per local government unit and no objective basis for distribution, leaving funds vulnerable to political influence rather than development.",
+          "citations": [
+            {
+              "stable_id": "asr-000794",
+              "start_seconds": 13403.32,
+              "clock": "03:43:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000794"
+            },
+            {
+              "stable_id": "asr-000795",
+              "start_seconds": 13405.98,
+              "clock": "03:43:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000795"
+            },
+            {
+              "stable_id": "asr-000796",
+              "start_seconds": 13409.02,
+              "clock": "03:43:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000796"
+            },
+            {
+              "stable_id": "asr-000797",
+              "start_seconds": 13410.7,
+              "clock": "03:43:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000797"
+            },
+            {
+              "stable_id": "asr-000799",
+              "start_seconds": 13418.4,
+              "clock": "03:43:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000799"
+            },
+            {
+              "stable_id": "asr-000800",
+              "start_seconds": 13420.52,
+              "clock": "03:43:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000800"
+            }
+          ]
+        },
+        {
+          "label": "Local-government discretionary funding",
+          "text": "Representative Sarah Jane I. Elago said PHP 58.5 billion in the Local Government Support Fund (LGSF) remained a lump-sum discretionary fund vulnerable to misuse, abuse and corruption.",
+          "citations": [
+            {
+              "stable_id": "asr-001125",
+              "start_seconds": 14111.96,
+              "clock": "03:55:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001125"
+            },
+            {
+              "stable_id": "asr-001126",
+              "start_seconds": 14113.96,
+              "clock": "03:55:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001126"
+            },
+            {
+              "stable_id": "asr-001127",
+              "start_seconds": 14115.96,
+              "clock": "03:55:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001127"
+            },
+            {
+              "stable_id": "asr-001129",
+              "start_seconds": 14119.96,
+              "clock": "03:55:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001129"
+            }
+          ]
+        },
+        {
+          "label": "Local Government Support Fund discretion",
+          "text": "Representative Edgar R. Erice said he objected to the PHP 62 billion Local Government Support Fund, while agreeing that local governments should receive support. He opposed the breadth of executive discretion to choose recipients, set amounts, and decide when funds would be released. He called the arrangement a blank check, asked for clear scorecards and criteria that would direct funds to the poorest municipalities, and argued that the arrangement could be an improper delegation of legislative authority. He also asked what would prevent the funds from being used to support administration candidates in the next election.",
+          "citations": [
+            {
+              "stable_id": "asr-001217",
+              "start_seconds": 14396.12,
+              "clock": "03:59:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001217"
+            },
+            {
+              "stable_id": "asr-001218",
+              "start_seconds": 14401.12,
+              "clock": "04:00:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001218"
+            },
+            {
+              "stable_id": "asr-001219",
+              "start_seconds": 14404.12,
+              "clock": "04:00:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001219"
+            },
+            {
+              "stable_id": "asr-001222",
+              "start_seconds": 14417.12,
+              "clock": "04:00:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001222"
+            },
+            {
+              "stable_id": "asr-001224",
+              "start_seconds": 14423.12,
+              "clock": "04:00:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001224"
+            },
+            {
+              "stable_id": "asr-001228",
+              "start_seconds": 14443.12,
+              "clock": "04:00:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001228"
+            }
+          ]
+        },
+        {
+          "label": "Additional local-government support",
+          "text": "Representative Antonio L. Tinio said Congress added PHP 4 billion to the Local Government Support Fund (LGSF), which he characterized as part of a political reward-and-punishment system.",
+          "citations": [
+            {
+              "stable_id": "asr-001400",
+              "start_seconds": 15362.42,
+              "clock": "04:16:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001400"
+            },
+            {
+              "stable_id": "asr-001401",
+              "start_seconds": 15364.08,
+              "clock": "04:16:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001401"
+            },
+            {
+              "stable_id": "asr-001403",
+              "start_seconds": 15369.74,
+              "clock": "04:16:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001403"
+            },
+            {
+              "stable_id": "asr-001404",
+              "start_seconds": 15372.32,
+              "clock": "04:16:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001404"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-foreign-assisted-projects",
+      "label": "Foreign-assisted projects",
+      "items": [
+        {
+          "label": "Foreign-assisted projects and service reductions",
+          "text": "Representative Leila M. de Lima said reallocations cut PHP 130 billion from foreign-assisted projects of the Department of Transportation (DOTr), DPWH and other agencies, and questioned how projects could proceed after their line items were removed while loan commitments remained. She said delays had brought commitment fees to PHP 1 billion because the chamber kept defunding foreign-assisted projects and parking them in unprogrammed appropriations. \n\nShe also pointed to larger cuts in health promotion, immunization and family-planning commodities, classrooms against a 166,000-classroom backlog, consular services for overseas Filipino workers, and disaster-risk-reduction and management funding ahead of a Super El Niño.",
+          "citations": [
+            {
+              "stable_id": "asr-000818",
+              "start_seconds": 13457.12,
+              "clock": "03:44:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000818"
+            },
+            {
+              "stable_id": "asr-000819",
+              "start_seconds": 13459.4,
+              "clock": "03:44:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000819"
+            },
+            {
+              "stable_id": "asr-000820",
+              "start_seconds": 13461.48,
+              "clock": "03:44:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000820"
+            },
+            {
+              "stable_id": "asr-000821",
+              "start_seconds": 13463.72,
+              "clock": "03:44:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000821"
+            },
+            {
+              "stable_id": "asr-000822",
+              "start_seconds": 13464.98,
+              "clock": "03:44:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000822"
+            },
+            {
+              "stable_id": "asr-000825",
+              "start_seconds": 13470.54,
+              "clock": "03:44:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000825"
+            },
+            {
+              "stable_id": "asr-000828",
+              "start_seconds": 13476.4,
+              "clock": "03:44:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000828"
+            },
+            {
+              "stable_id": "asr-000829",
+              "start_seconds": 13477.82,
+              "clock": "03:44:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000829"
+            },
+            {
+              "stable_id": "asr-000830",
+              "start_seconds": 13479.86,
+              "clock": "03:44:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000830"
+            },
+            {
+              "stable_id": "asr-000846",
+              "start_seconds": 13516.96,
+              "clock": "03:45:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000846"
+            },
+            {
+              "stable_id": "asr-000847",
+              "start_seconds": 13519.96,
+              "clock": "03:45:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000847"
+            },
+            {
+              "stable_id": "asr-000848",
+              "start_seconds": 13523.96,
+              "clock": "03:45:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000848"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-cebu-city-1st-district-infrastructure",
+      "label": "Cebu City, 1st District infrastructure",
+      "items": [
+        {
+          "label": "District allocation comparison",
+          "text": "Representative Rachel Marguerite B. Del Mar said the allocation for Cebu City's 1st District fell from PHP 1.774 billion under the 2025 General Appropriations Act (GAA), to PHP 1.306 billion in 2026, and to a proposed PHP 492.250 million under the 2027 National Expenditure Program (NEP). She described the 2027 NEP amount as a reduction of approximately 62.33% from the 2026 allocation and 72.25% from the 2025 allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-000875",
+              "start_seconds": 13597.96,
+              "clock": "03:46:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000875"
+            },
+            {
+              "stable_id": "asr-000877",
+              "start_seconds": 13601.96,
+              "clock": "03:46:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000877"
+            },
+            {
+              "stable_id": "asr-000878",
+              "start_seconds": 13604.8,
+              "clock": "03:46:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000878"
+            },
+            {
+              "stable_id": "asr-000879",
+              "start_seconds": 13607.06,
+              "clock": "03:46:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000879"
+            },
+            {
+              "stable_id": "asr-000880",
+              "start_seconds": 13609.96,
+              "clock": "03:46:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000880"
+            },
+            {
+              "stable_id": "asr-000881",
+              "start_seconds": 13613.96,
+              "clock": "03:46:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000881"
+            },
+            {
+              "stable_id": "asr-000882",
+              "start_seconds": 13618.96,
+              "clock": "03:46:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000882"
+            },
+            {
+              "stable_id": "asr-000883",
+              "start_seconds": 13621.96,
+              "clock": "03:47:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000883"
+            },
+            {
+              "stable_id": "asr-000885",
+              "start_seconds": 13627.96,
+              "clock": "03:47:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000885"
+            },
+            {
+              "stable_id": "asr-000886",
+              "start_seconds": 13631.96,
+              "clock": "03:47:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000886"
+            }
+          ]
+        },
+        {
+          "label": "Unreleased infrastructure funding",
+          "text": "Representative Rachel Marguerite B. Del Mar said PHP 280 million in 2025 infrastructure funding awaiting release of a Special Allotment Release Order (SARO) would reportedly no longer be released. She also said a further PHP 642.958 million from the district's 2026 allocation remained unreleased. She asked for a clear accounting of the funds, explanations for the delays, and concrete updates on the projects for which they had been appropriated.",
+          "citations": [
+            {
+              "stable_id": "asr-000887",
+              "start_seconds": 13640.96,
+              "clock": "03:47:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000887"
+            },
+            {
+              "stable_id": "asr-000888",
+              "start_seconds": 13643.96,
+              "clock": "03:47:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000888"
+            },
+            {
+              "stable_id": "asr-000889",
+              "start_seconds": 13646.96,
+              "clock": "03:47:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000889"
+            },
+            {
+              "stable_id": "asr-000891",
+              "start_seconds": 13651.96,
+              "clock": "03:47:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000891"
+            },
+            {
+              "stable_id": "asr-000904",
+              "start_seconds": 13680.96,
+              "clock": "03:48:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000904"
+            },
+            {
+              "stable_id": "asr-000905",
+              "start_seconds": 13685.96,
+              "clock": "03:48:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000905"
+            },
+            {
+              "stable_id": "asr-000906",
+              "start_seconds": 13689.96,
+              "clock": "03:48:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000906"
+            },
+            {
+              "stable_id": "asr-000909",
+              "start_seconds": 13696.96,
+              "clock": "03:48:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000909"
+            },
+            {
+              "stable_id": "asr-000911",
+              "start_seconds": 13700.96,
+              "clock": "03:48:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000911"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-agriculture-da",
+      "label": "Department of Agriculture (DA)",
+      "items": [
+        {
+          "label": "Agricultural production and food security",
+          "text": "Representative Sarah Jane I. Elago said the proposed Department of Agriculture (DA) budget had been cut by PHP 3.29 billion. She argued that direct production subsidies remained inadequate despite high oil, fertilizer, and other input costs, and that farmers and fishers affected by disasters lacked sufficient compensation, putting food security and domestic food production at risk.",
+          "citations": [
+            {
+              "stable_id": "asr-001058",
+              "start_seconds": 13977.96,
+              "clock": "03:52:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001058"
+            },
+            {
+              "stable_id": "asr-001059",
+              "start_seconds": 13979.96,
+              "clock": "03:52:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001059"
+            },
+            {
+              "stable_id": "asr-001067",
+              "start_seconds": 13995.96,
+              "clock": "03:53:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001067"
+            },
+            {
+              "stable_id": "asr-001068",
+              "start_seconds": 13997.96,
+              "clock": "03:53:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001068"
+            },
+            {
+              "stable_id": "asr-001070",
+              "start_seconds": 14001.96,
+              "clock": "03:53:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001070"
+            },
+            {
+              "stable_id": "asr-001072",
+              "start_seconds": 14005.96,
+              "clock": "03:53:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001072"
+            },
+            {
+              "stable_id": "asr-001073",
+              "start_seconds": 14007.96,
+              "clock": "03:53:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001073"
+            },
+            {
+              "stable_id": "asr-001076",
+              "start_seconds": 14013.96,
+              "clock": "03:53:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001076"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-human-settlements-and-urban-development-dhsud",
+      "label": "Department of Human Settlements and Urban Development (DHSUD)",
+      "items": [
+        {
+          "label": "Public housing funding",
+          "text": "Representative Sarah Jane I. Elago said the Department of Human Settlements and Urban Development (DHSUD) 2027 NEP budget of PHP 2.94 billion fell by PHP 600 million to PHP 2.34 billion in the House's third-reading General Appropriations Bill (GAB). She said the housing program's original target had already been reduced and its revised target still did not meet housing needs; public housing capacity remained limited while the program relied on private developers and bank housing loans.",
+          "citations": [
+            {
+              "stable_id": "asr-001079",
+              "start_seconds": 14019.96,
+              "clock": "03:53:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001079"
+            },
+            {
+              "stable_id": "asr-001080",
+              "start_seconds": 14021.96,
+              "clock": "03:53:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001080"
+            },
+            {
+              "stable_id": "asr-001081",
+              "start_seconds": 14023.96,
+              "clock": "03:53:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001081"
+            },
+            {
+              "stable_id": "asr-001082",
+              "start_seconds": 14025.96,
+              "clock": "03:53:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001082"
+            },
+            {
+              "stable_id": "asr-001083",
+              "start_seconds": 14027.96,
+              "clock": "03:53:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001083"
+            },
+            {
+              "stable_id": "asr-001084",
+              "start_seconds": 14029.96,
+              "clock": "03:53:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001084"
+            },
+            {
+              "stable_id": "asr-001089",
+              "start_seconds": 14039.96,
+              "clock": "03:53:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001089"
+            },
+            {
+              "stable_id": "asr-001091",
+              "start_seconds": 14043.96,
+              "clock": "03:54:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001091"
+            },
+            {
+              "stable_id": "asr-001093",
+              "start_seconds": 14047.96,
+              "clock": "03:54:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001093"
+            },
+            {
+              "stable_id": "asr-001095",
+              "start_seconds": 14051.96,
+              "clock": "03:54:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001095"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-social-assistance",
+      "label": "Social assistance",
+      "items": [
+        {
+          "label": "Social assistance and medical support",
+          "text": "Elago compared Assistance to Individuals in Crisis Situations (AICS) at PHP 697 million in 2016 and PHP 63.9 billion in 2026, then said \"58.9\" followed by \"58.09 billion now\"; the source sequence does not make clear whether one current figure corrects the other. \n\nShe said medical assistance rose from PHP 1.43 billion in 2016 to PHP 51.6 billion in 2026, with PHP 48.2 billion in 2027.",
+          "citations": [
+            {
+              "stable_id": "asr-001101",
+              "start_seconds": 14063.96,
+              "clock": "03:54:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001101"
+            },
+            {
+              "stable_id": "asr-001102",
+              "start_seconds": 14065.96,
+              "clock": "03:54:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001102"
+            },
+            {
+              "stable_id": "asr-001103",
+              "start_seconds": 14067.96,
+              "clock": "03:54:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001103"
+            },
+            {
+              "stable_id": "asr-001104",
+              "start_seconds": 14069.96,
+              "clock": "03:54:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001104"
+            },
+            {
+              "stable_id": "asr-001105",
+              "start_seconds": 14071.96,
+              "clock": "03:54:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001105"
+            },
+            {
+              "stable_id": "asr-001110",
+              "start_seconds": 14081.96,
+              "clock": "03:54:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001110"
+            },
+            {
+              "stable_id": "asr-001111",
+              "start_seconds": 14083.96,
+              "clock": "03:54:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001111"
+            },
+            {
+              "stable_id": "asr-001112",
+              "start_seconds": 14085.96,
+              "clock": "03:54:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001112"
+            },
+            {
+              "stable_id": "asr-001113",
+              "start_seconds": 14087.96,
+              "clock": "03:54:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001113"
+            },
+            {
+              "stable_id": "asr-001114",
+              "start_seconds": 14089.96,
+              "clock": "03:54:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001114"
+            },
+            {
+              "stable_id": "asr-001106",
+              "start_seconds": 14073.96,
+              "clock": "03:54:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001106"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-labor-and-employment-dole",
+      "label": "Department of Labor and Employment (DOLE)",
+      "items": [
+        {
+          "label": "Employment assistance funding",
+          "text": "Representative Sarah Jane I. Elago said TUPAD temporary employment assistance rose from PHP 3.26 billion in 2016 to PHP 29.5 billion in 2024 and now represented 75% of the Department of Labor and Employment (DOLE) budget, or PHP 18.88 billion.",
+          "citations": [
+            {
+              "stable_id": "asr-001118",
+              "start_seconds": 14097.96,
+              "clock": "03:54:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001118"
+            },
+            {
+              "stable_id": "asr-001119",
+              "start_seconds": 14099.96,
+              "clock": "03:54:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001119"
+            },
+            {
+              "stable_id": "asr-001120",
+              "start_seconds": 14101.96,
+              "clock": "03:55:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001120"
+            },
+            {
+              "stable_id": "asr-001121",
+              "start_seconds": 14103.96,
+              "clock": "03:55:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001121"
+            },
+            {
+              "stable_id": "asr-001122",
+              "start_seconds": 14105.96,
+              "clock": "03:55:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001122"
+            },
+            {
+              "stable_id": "asr-001123",
+              "start_seconds": 14107.96,
+              "clock": "03:55:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001123"
+            },
+            {
+              "stable_id": "asr-001124",
+              "start_seconds": 14109.96,
+              "clock": "03:55:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001124"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-house-of-representatives",
+      "label": "House of Representatives",
+      "items": [
+        {
+          "label": "Transparency and an unverified vote-linked funding allegation",
+          "text": "Representative Edgar R. Erice said the House had rejected Representative Tobias \"Toby\" M. Tiangco's proposal to make its budget details clearer and public. He asked whether reports were true that each congressman who voted yes on the FY2027 General Appropriations Bill received PHP 20 million, while those who voted no or abstained received nothing. Erice stressed that he was not saying the claim was true and called on House leaders to explain it to the public. He said congressional funds should not serve as a loyalty bonus that punishes constituents for their representative's vote.",
+          "citations": [
+            {
+              "stable_id": "asr-001205",
+              "start_seconds": 14339.12,
+              "clock": "03:58:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001205"
+            },
+            {
+              "stable_id": "asr-001206",
+              "start_seconds": 14343.12,
+              "clock": "03:59:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001206"
+            },
+            {
+              "stable_id": "asr-001208",
+              "start_seconds": 14351.12,
+              "clock": "03:59:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001208"
+            },
+            {
+              "stable_id": "asr-001209",
+              "start_seconds": 14356.12,
+              "clock": "03:59:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001209"
+            },
+            {
+              "stable_id": "asr-001210",
+              "start_seconds": 14359.12,
+              "clock": "03:59:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001210"
+            },
+            {
+              "stable_id": "asr-001213",
+              "start_seconds": 14372.12,
+              "clock": "03:59:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001213"
+            }
+          ]
+        },
+        {
+          "label": "House of Representatives budget and disclosure",
+          "text": "Representative Tobias \"Toby\" M. Tiangco said the Budget Amendments Review Subcommittee (BARSc) increased the House of Representatives budget by PHP 5 billion, or 28.37%, without a clear explanation of how the amount would be used. He said the complete record of which agencies gained or lost funding, by how much and why, had still not been provided. He argued that because the total budget could not increase, additions to one agency had to come from reductions elsewhere, and the public was entitled to know where its money came from and where it went.",
+          "citations": [
+            {
+              "stable_id": "asr-001323",
+              "start_seconds": 14880.6,
+              "clock": "04:08:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001323"
+            },
+            {
+              "stable_id": "asr-001324",
+              "start_seconds": 14891.42,
+              "clock": "04:08:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001324"
+            },
+            {
+              "stable_id": "asr-001325",
+              "start_seconds": 14898.94,
+              "clock": "04:08:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001325"
+            },
+            {
+              "stable_id": "asr-001327",
+              "start_seconds": 14910.6,
+              "clock": "04:08:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001327"
+            },
+            {
+              "stable_id": "asr-001329",
+              "start_seconds": 14923.44,
+              "clock": "04:08:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001329"
+            }
+          ]
+        },
+        {
+          "label": "House budget increase",
+          "text": "Representative Antonio L. Tinio contrasted the employee-benefit constraints with a PHP 5 billion increase in the House of Representatives budget and an increase in confidential funds.",
+          "citations": [
+            {
+              "stable_id": "asr-001421",
+              "start_seconds": 15405.56,
+              "clock": "04:16:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001421"
+            },
+            {
+              "stable_id": "asr-001422",
+              "start_seconds": 15407.82,
+              "clock": "04:16:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001422"
+            },
+            {
+              "stable_id": "asr-001424",
+              "start_seconds": 15412.26,
+              "clock": "04:16:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001424"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-health-doh",
+      "label": "Department of Health (DOH)",
+      "items": [
+        {
+          "label": "Health-program reductions",
+          "text": "Representative Antonio L. Tinio of ACT Teachers party-list said Congress cut the Department of Health (DOH) budget by PHP 16.4 billion for key programs, including facilities and equipment, family-health commodities, immunization, nutrition and responsible parenting, health promotion and the quick-response fund.",
+          "citations": [
+            {
+              "stable_id": "asr-001380",
+              "start_seconds": 15208.42,
+              "clock": "04:13:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001380"
+            },
+            {
+              "stable_id": "asr-001381",
+              "start_seconds": 15212.46,
+              "clock": "04:13:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001381"
+            },
+            {
+              "stable_id": "asr-001382",
+              "start_seconds": 15223.62,
+              "clock": "04:13:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001382"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-public-works-and-highways-dpwh",
+      "label": "Department of Public Works and Highways (DPWH)",
+      "items": [
+        {
+          "label": "Infrastructure project insertions",
+          "text": "Representative Antonio L. Tinio accused Congress of increasing the Department of Public Works and Highways (DPWH) budget and inserting more than 6,212 projects into the National Expenditure Program (NEP), effectively rewriting the department’s budget. He alleged that allocations favored those who followed the leadership and Malacañang.",
+          "citations": [
+            {
+              "stable_id": "asr-001392",
+              "start_seconds": 15319.32,
+              "clock": "04:15:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001392"
+            },
+            {
+              "stable_id": "asr-001393",
+              "start_seconds": 15326.34,
+              "clock": "04:15:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001393"
+            },
+            {
+              "stable_id": "asr-001394",
+              "start_seconds": 15331.24,
+              "clock": "04:15:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001394"
+            },
+            {
+              "stable_id": "asr-001395",
+              "start_seconds": 15334.06,
+              "clock": "04:15:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001395"
+            },
+            {
+              "stable_id": "asr-001398",
+              "start_seconds": 15350.04,
+              "clock": "04:15:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001398"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-health-programs",
+      "label": "Health programs",
+      "items": [
+        {
+          "label": "Health programs",
+          "text": "Speaker Faustino \"Bojie\" G. Dy III said health remained a priority, with an additional PHP 27.36 billion. He said PHP 23.97 billion of this was allocated to the medical assistance program as part of efforts to implement zero-balance billing in government hospitals. He separately said House amendments increased the total health budget by PHP 12.23 billion..",
+          "citations": [
+            {
+              "stable_id": "asr-001552",
+              "start_seconds": 16006.32,
+              "clock": "04:26:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001552"
+            },
+            {
+              "stable_id": "asr-001553",
+              "start_seconds": 16015.52,
+              "clock": "04:26:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001553"
+            },
+            {
+              "stable_id": "asr-001554",
+              "start_seconds": 16020.4,
+              "clock": "04:27:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001554"
+            },
+            {
+              "stable_id": "asr-001555",
+              "start_seconds": 16033.96,
+              "clock": "04:27:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001555"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-agriculture-and-climate-resilience",
+      "label": "Agriculture and climate resilience",
+      "items": [
+        {
+          "label": "Farm and climate resilience programs",
+          "text": "Speaker Faustino \"Bojie\" G. Dy III said the House added PHP 10 billion for presidential assistance to farmers and fisherfolk. He listed PHP 500 million for expanded fertilizer assistance, PHP 4.09 billion for irrigation nationwide, PHP 150 million for agricultural transport infrastructure, PHP 4.96 billion for farm-to-market roads, PHP 100 million for high-value crops, and PHP 331 million for climate-resilient farm productivity support. He said these additions were intended to prepare for a Super El Niño affecting farmers and fisherfolk.",
+          "citations": [
+            {
+              "stable_id": "asr-001561",
+              "start_seconds": 16063.48,
+              "clock": "04:27:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001561"
+            },
+            {
+              "stable_id": "asr-001565",
+              "start_seconds": 16079.28,
+              "clock": "04:27:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001565"
+            },
+            {
+              "stable_id": "asr-001566",
+              "start_seconds": 16107.56,
+              "clock": "04:28:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001566"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-third-reading-budget-vote",
+      "label": "Third-reading budget vote",
+      "items": [
+        {
+          "label": "Third-reading budget vote",
+          "text": "The House approved House Bill No. 10858, the FY2027 General Appropriations Bill, on third and final reading. Deputy Speaker Yevgeny Vincente B. Emano announced an initial tally of 281 votes in favor, 13 against and one abstention.",
+          "citations": [
+            {
+              "stable_id": "asr-000004",
+              "start_seconds": 11564.1,
+              "clock": "03:12:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000004"
+            },
+            {
+              "stable_id": "asr-000326",
+              "start_seconds": 12422.96,
+              "clock": "03:27:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000326"
+            },
+            {
+              "stable_id": "asr-000327",
+              "start_seconds": 12432.1,
+              "clock": "03:27:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000327"
+            },
+            {
+              "stable_id": "asr-000328",
+              "start_seconds": 12438.0,
+              "clock": "03:27:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000328"
+            },
+            {
+              "stable_id": "asr-000329",
+              "start_seconds": 12440.34,
+              "clock": "03:27:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000329"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-jc-m-abalos",
+      "label": "Rep. JC M. Abalos",
+      "items": [
+        {
+          "label": "Poverty data and the program's reach",
+          "text": "Vote: Yes on the FY2027 General Appropriations Bill.\n\nAbalos argued that the need remained close to the program's earlier coverage target. Citing Philippine Statistics Authority (PSA) Community-Based Monitoring System (CBMS) data, he counted 2.93 million poor households, about 725,000 households described as 10% above poor, and more than 600,000 near the poverty line; together, he said, these groups came to nearly 4.4 million households. He also cited more than 818,000 families still undergoing Department of Social Welfare and Development validation for possible program entry, along with waitlisted families and people previously identified as poor in Listahanan but not yet matched in the monitoring data.",
+          "citations": [
+            {
+              "stable_id": "asr-000338",
+              "start_seconds": 12464.02,
+              "clock": "03:27:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000338"
+            },
+            {
+              "stable_id": "asr-000360",
+              "start_seconds": 12507.82,
+              "clock": "03:28:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000360"
+            },
+            {
+              "stable_id": "asr-000364",
+              "start_seconds": 12516.4,
+              "clock": "03:28:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000364"
+            },
+            {
+              "stable_id": "asr-000365",
+              "start_seconds": 12518.14,
+              "clock": "03:28:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000365"
+            },
+            {
+              "stable_id": "asr-000367",
+              "start_seconds": 12522.04,
+              "clock": "03:28:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000367"
+            },
+            {
+              "stable_id": "asr-000369",
+              "start_seconds": 12526.02,
+              "clock": "03:28:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000369"
+            },
+            {
+              "stable_id": "asr-000375",
+              "start_seconds": 12538.02,
+              "clock": "03:28:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000375"
+            },
+            {
+              "stable_id": "asr-000376",
+              "start_seconds": 12540.02,
+              "clock": "03:29:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000376"
+            },
+            {
+              "stable_id": "asr-000387",
+              "start_seconds": 12562.02,
+              "clock": "03:29:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000387"
+            },
+            {
+              "stable_id": "asr-000388",
+              "start_seconds": 12564.02,
+              "clock": "03:29:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000388"
+            }
+          ]
+        },
+        {
+          "label": "Evidence for maintaining 4Ps",
+          "text": "Citing a recent World Bank review, Abalos said 4Ps had reduced the national poverty rate by about 2.2 percentage points and that each additional 1% of gross domestic product (GDP) allocated to the program was associated with a 4.4-percentage-point drop in the poverty headcount. For each peso spent, he said, the program was nearly 200 times more effective at reducing poverty than value-added tax (VAT) exceptions and twice as effective as the social pension. He also cited reductions in poverty affecting 1.5 million Filipinos, 98% elementary enrollment among beneficiary families, and declines in severe stunting and child labor. On that basis, he said the data did not support reducing the program.",
+          "citations": [
+            {
+              "stable_id": "asr-000395",
+              "start_seconds": 12578.02,
+              "clock": "03:29:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000395"
+            },
+            {
+              "stable_id": "asr-000403",
+              "start_seconds": 12594.02,
+              "clock": "03:29:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000403"
+            },
+            {
+              "stable_id": "asr-000404",
+              "start_seconds": 12596.02,
+              "clock": "03:29:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000404"
+            },
+            {
+              "stable_id": "asr-000406",
+              "start_seconds": 12600.02,
+              "clock": "03:30:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000406"
+            },
+            {
+              "stable_id": "asr-000408",
+              "start_seconds": 12604.02,
+              "clock": "03:30:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000408"
+            },
+            {
+              "stable_id": "asr-000409",
+              "start_seconds": 12606.02,
+              "clock": "03:30:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000409"
+            },
+            {
+              "stable_id": "asr-000411",
+              "start_seconds": 12610.02,
+              "clock": "03:30:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000411"
+            },
+            {
+              "stable_id": "asr-000412",
+              "start_seconds": 12612.02,
+              "clock": "03:30:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000412"
+            },
+            {
+              "stable_id": "asr-000415",
+              "start_seconds": 12618.02,
+              "clock": "03:30:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000415"
+            },
+            {
+              "stable_id": "asr-000416",
+              "start_seconds": 12620.02,
+              "clock": "03:30:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000416"
+            },
+            {
+              "stable_id": "asr-000423",
+              "start_seconds": 12634.02,
+              "clock": "03:30:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000423"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-arlene-kaka-j-bag-ao",
+      "label": "Rep. Arlene \"Kaka\" J. Bag-ao",
+      "items": [
+        {
+          "label": "Public services and climate readiness",
+          "text": "Vote: No on the FY2027 General Appropriations Bill.\n\nBag-ao voted no on the FY2027 General Appropriations Bill, arguing that automatic debt payments were growing faster than funding for hospitals, schools, housing and other basic public services.\n\nShe warned that inadequate irrigation, water supply and direct support for farmers and fisherfolk left the budget poorly prepared for the drought she expected in 2027. Her no vote, she said, was a stand for farmers without irrigation, fisherfolk without a catch and ordinary Filipinos left behind in public services.",
+          "citations": [
+            {
+              "stable_id": "asr-000435",
+              "start_seconds": 12658.02,
+              "clock": "03:30:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000435"
+            },
+            {
+              "stable_id": "asr-000436",
+              "start_seconds": 12660.02,
+              "clock": "03:31:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000436"
+            },
+            {
+              "stable_id": "asr-000446",
+              "start_seconds": 12680.02,
+              "clock": "03:31:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000446"
+            },
+            {
+              "stable_id": "asr-000460",
+              "start_seconds": 12708.02,
+              "clock": "03:31:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000460"
+            },
+            {
+              "stable_id": "asr-000466",
+              "start_seconds": 12720.02,
+              "clock": "03:32:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000466"
+            },
+            {
+              "stable_id": "asr-000496",
+              "start_seconds": 12780.02,
+              "clock": "03:33:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000496"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-percival-perci-cenda-a",
+      "label": "Rep. Percival \"Perci\" Cendaña",
+      "items": [
+        {
+          "label": "Budget priorities and the no vote",
+          "text": "Vote: No on the FY2027 General Appropriations Bill.\n\nCendaña described the budget as a compromise with broken commitments. He said it had the lowest unprogrammed appropriation in the past year, while the public remained unable to see how those funds would be used; although hearings were livestreamed, he argued that the public lacked genuine, meaningful participation. Saying the chamber had fallen short of its duty to fund essential services and improve ordinary Filipinos' lives, he concluded that Akbayan voted no on the 2027 budget.",
+          "citations": [
+            {
+              "stable_id": "asr-000529",
+              "start_seconds": 12846.02,
+              "clock": "03:34:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000529"
+            },
+            {
+              "stable_id": "asr-000561",
+              "start_seconds": 12910.02,
+              "clock": "03:35:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000561"
+            },
+            {
+              "stable_id": "asr-000570",
+              "start_seconds": 12928.02,
+              "clock": "03:35:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000570"
+            },
+            {
+              "stable_id": "asr-000603",
+              "start_seconds": 12994.02,
+              "clock": "03:36:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000603"
+            },
+            {
+              "stable_id": "asr-000613",
+              "start_seconds": 13014.02,
+              "clock": "03:36:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000613"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-renee-louise-m-co",
+      "label": "Rep. Renee Louise M. Co",
+      "items": [
+        {
+          "label": "Vote against the bill and call for higher education funding",
+          "text": "Vote: No on the FY2027 General Appropriations Bill.\n\nCo said she voted no on House Bill No. 10858, the FY2027 General Appropriations Bill. She contrasted the education and social-service funding she said students and the public needed with what she called pork, corruption and fascism, and argued that the education budget should never fall and should only increase. She closed by standing with young people and students for funding for education and services.",
+          "citations": [
+            {
+              "stable_id": "asr-000626",
+              "start_seconds": 13040.02,
+              "clock": "03:37:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000626"
+            },
+            {
+              "stable_id": "asr-000627",
+              "start_seconds": 13042.02,
+              "clock": "03:37:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000627"
+            },
+            {
+              "stable_id": "asr-000629",
+              "start_seconds": 13046.02,
+              "clock": "03:37:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000629"
+            },
+            {
+              "stable_id": "asr-000687",
+              "start_seconds": 13162.02,
+              "clock": "03:39:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000687"
+            },
+            {
+              "stable_id": "asr-000748",
+              "start_seconds": 13284.02,
+              "clock": "03:41:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000748"
+            },
+            {
+              "stable_id": "asr-000751",
+              "start_seconds": 13290.02,
+              "clock": "03:41:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000751"
+            },
+            {
+              "stable_id": "asr-000753",
+              "start_seconds": 13294.02,
+              "clock": "03:41:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000753"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-leila-m-de-lima",
+      "label": "Rep. Leila M. de Lima",
+      "items": [
+        {
+          "label": "Public-service priorities and vote",
+          "text": "Vote: No on the FY2027 General Appropriations Bill.\n\nDe Lima argued that patronage concerns both the amount and distribution of funds: where money goes, when it is given, who benefits and who decides. She opposed unprogrammed appropriations and said that although unprogrammed appropriations were not bloated this time, discretion had shifted to the LGSF. She argued that carving foreign-assisted projects out of the President’s expenditure and financing program left the General Appropriations Act mismatched with its financing plan. Calling the national budget a moral document and social contract, she said it was election-centered rather than people-centered, and that Mamamayang Liberal (ML) party-list voted no.",
+          "citations": [
+            {
+              "stable_id": "asr-000787",
+              "start_seconds": 13391.84,
+              "clock": "03:43:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000787"
+            },
+            {
+              "stable_id": "asr-000790",
+              "start_seconds": 13398.0,
+              "clock": "03:43:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000790"
+            },
+            {
+              "stable_id": "asr-000805",
+              "start_seconds": 13431.0,
+              "clock": "03:43:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000805"
+            },
+            {
+              "stable_id": "asr-000809",
+              "start_seconds": 13437.7,
+              "clock": "03:43:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000809"
+            },
+            {
+              "stable_id": "asr-000834",
+              "start_seconds": 13489.12,
+              "clock": "03:44:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000834"
+            },
+            {
+              "stable_id": "asr-000841",
+              "start_seconds": 13505.12,
+              "clock": "03:45:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000841"
+            },
+            {
+              "stable_id": "asr-000849",
+              "start_seconds": 13527.96,
+              "clock": "03:45:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000849"
+            },
+            {
+              "stable_id": "asr-000859",
+              "start_seconds": 13557.96,
+              "clock": "03:45:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000859"
+            },
+            {
+              "stable_id": "asr-000861",
+              "start_seconds": 13561.96,
+              "clock": "03:46:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000861"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-rachel-marguerite-b-del-mar",
+      "label": "Rep. Rachel Marguerite B. Del Mar",
+      "items": [
+        {
+          "label": "Flood control needs and the no vote",
+          "text": "Vote: No on the FY2027 General Appropriations Bill.\n\nDel Mar said her highly urbanized, flood-stricken district urgently needed drainage, flood-control infrastructure, improved waterways, and resilient public works. She argued that allocation decisions should account for population, infrastructure deficiencies, disaster vulnerability, and urgent public need. She called for fair funding, transparency, timely releases, full accounting, and implementation of approved projects, and voted no because the district's continuing infrastructure needs remained unmet.",
+          "citations": [
+            {
+              "stable_id": "asr-000869",
+              "start_seconds": 13581.96,
+              "clock": "03:46:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000869"
+            },
+            {
+              "stable_id": "asr-000915",
+              "start_seconds": 13709.96,
+              "clock": "03:48:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000915"
+            },
+            {
+              "stable_id": "asr-000949",
+              "start_seconds": 13780.96,
+              "clock": "03:49:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000949"
+            },
+            {
+              "stable_id": "asr-000951",
+              "start_seconds": 13785.96,
+              "clock": "03:49:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000951"
+            },
+            {
+              "stable_id": "asr-000971",
+              "start_seconds": 13824.96,
+              "clock": "03:50:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000971"
+            },
+            {
+              "stable_id": "asr-000977",
+              "start_seconds": 13833.96,
+              "clock": "03:50:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-000977"
+            },
+            {
+              "stable_id": "asr-001013",
+              "start_seconds": 13896.96,
+              "clock": "03:51:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-sarah-jane-i-elago",
+      "label": "Rep. Sarah Jane I. Elago",
+      "items": [
+        {
+          "label": "Public services and Gabriela’s no vote",
+          "text": "Vote: No on the FY2027 General Appropriations Bill.\n\nElago argued that aid was expanding in place of stronger public health care and job creation, while the budget favored large corporations and neglected local agriculture and micro, small and medium enterprises. She called for national industrialization, genuine agrarian reform and public services serving the majority. The Gabriela Women’s Party voted no on House Bill No. 10858.",
+          "citations": [
+            {
+              "stable_id": "asr-001097",
+              "start_seconds": 14055.96,
+              "clock": "03:54:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001097"
+            },
+            {
+              "stable_id": "asr-001107",
+              "start_seconds": 14075.96,
+              "clock": "03:54:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001107"
+            },
+            {
+              "stable_id": "asr-001131",
+              "start_seconds": 14123.96,
+              "clock": "03:55:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001131"
+            },
+            {
+              "stable_id": "asr-001134",
+              "start_seconds": 14129.96,
+              "clock": "03:55:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001134"
+            },
+            {
+              "stable_id": "asr-001139",
+              "start_seconds": 14139.96,
+              "clock": "03:55:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001139"
+            },
+            {
+              "stable_id": "asr-001145",
+              "start_seconds": 14151.96,
+              "clock": "03:55:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001145"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-edgar-r-erice",
+      "label": "Rep. Edgar R. Erice",
+      "items": [
+        {
+          "label": "No vote over allocation equity and budget priorities",
+          "text": "Vote: No on the FY2027 General Appropriations Bill.\n\nErice said he voted no on the FY2027 General Appropriations Bill because, in his view, budgeting followed political influence rather than need. Citing his preliminary review, he questioned whether large district allocations for political allies and legislators who supported impeaching Vice President Sara Duterte, alongside small allocations to some no-voting districts, reflected a system of political reward and punishment. He said he was not seeking special treatment for his district, but equal treatment for residents who benefit from public allocations.\n\nHe also said projects included in the National Expenditure Program that had been studied and processed were reduced or removed, then replaced by projects whose selection he said was unexplained; he warned that the original projects could be left without enough funding to be completed. He compared the pattern to practices in the 19th Congress. He criticized education restraint and zero allocation for zero billing in private hospitals. He questioned cuts to foreign-assisted and flagship projects and called the revenue projections unrealistic, asking how the projected increase was derived and calculated. He closed by saying he was not ashamed to vote no and would stand alone for what he believed was right.",
+          "citations": [
+            {
+              "stable_id": "asr-001181",
+              "start_seconds": 14223.96,
+              "clock": "03:57:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001181"
+            },
+            {
+              "stable_id": "asr-001188",
+              "start_seconds": 14238.0,
+              "clock": "03:57:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001188"
+            },
+            {
+              "stable_id": "asr-001190",
+              "start_seconds": 14250.56,
+              "clock": "03:57:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001190"
+            },
+            {
+              "stable_id": "asr-001193",
+              "start_seconds": 14268.0,
+              "clock": "03:57:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001193"
+            },
+            {
+              "stable_id": "asr-001195",
+              "start_seconds": 14280.12,
+              "clock": "03:58:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001195"
+            },
+            {
+              "stable_id": "asr-001196",
+              "start_seconds": 14287.42,
+              "clock": "03:58:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001196"
+            },
+            {
+              "stable_id": "asr-001200",
+              "start_seconds": 14314.12,
+              "clock": "03:58:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001200"
+            },
+            {
+              "stable_id": "asr-001203",
+              "start_seconds": 14327.12,
+              "clock": "03:58:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001203"
+            },
+            {
+              "stable_id": "asr-001231",
+              "start_seconds": 14458.12,
+              "clock": "04:00:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001231"
+            },
+            {
+              "stable_id": "asr-001232",
+              "start_seconds": 14460.12,
+              "clock": "04:01:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001232"
+            },
+            {
+              "stable_id": "asr-001233",
+              "start_seconds": 14463.12,
+              "clock": "04:01:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001233"
+            },
+            {
+              "stable_id": "asr-001234",
+              "start_seconds": 14466.31,
+              "clock": "04:01:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001234"
+            },
+            {
+              "stable_id": "asr-001238",
+              "start_seconds": 14482.26,
+              "clock": "04:01:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001238"
+            },
+            {
+              "stable_id": "asr-001240",
+              "start_seconds": 14498.88,
+              "clock": "04:01:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001240"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-elijah-rumbaoa-san-fernando",
+      "label": "Rep. Elijah Rumbaoa San Fernando",
+      "items": [
+        {
+          "label": "Transparency and budget deliberation",
+          "text": "Vote: No on the FY2027 General Appropriations Bill.\n\nSan Fernando argued that a national budget sets priorities, addresses needs and should involve the public in deciding how public money is spent. He said reforms such as removing the small committee, consulting civil society and ordinary people, and livestreaming proceedings did not ensure transparency. He alleged that an executive session had already settled the decisions before the livestream, with no actual deliberation or report explaining additions and reductions, despite the House rules he cited requiring a report.",
+          "citations": [
+            {
+              "stable_id": "asr-001243",
+              "start_seconds": 14530.38,
+              "clock": "04:02:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001243"
+            },
+            {
+              "stable_id": "asr-001244",
+              "start_seconds": 14537.64,
+              "clock": "04:02:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001244"
+            },
+            {
+              "stable_id": "asr-001250",
+              "start_seconds": 14568.98,
+              "clock": "04:02:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001250"
+            },
+            {
+              "stable_id": "asr-001253",
+              "start_seconds": 14580.14,
+              "clock": "04:03:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001253"
+            },
+            {
+              "stable_id": "asr-001255",
+              "start_seconds": 14591.12,
+              "clock": "04:03:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001255"
+            },
+            {
+              "stable_id": "asr-001261",
+              "start_seconds": 14618.28,
+              "clock": "04:03:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001261"
+            },
+            {
+              "stable_id": "asr-001263",
+              "start_seconds": 14627.16,
+              "clock": "04:03:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001263"
+            }
+          ]
+        },
+        {
+          "label": "Direct aid and lasting public services",
+          "text": "San Fernando said he was not opposed to assistance, but argued that the government relied on aid instead of long-term solutions to the conditions that repeatedly leave people needing it. He rejected a system that makes citizens appear to beg for help or feel indebted to politicians for services they should receive. Speaking for workers and ordinary Filipinos, he registered a firm no vote.",
+          "citations": [
+            {
+              "stable_id": "asr-001283",
+              "start_seconds": 14707.6,
+              "clock": "04:05:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001283"
+            },
+            {
+              "stable_id": "asr-001292",
+              "start_seconds": 14740.6,
+              "clock": "04:05:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001292"
+            },
+            {
+              "stable_id": "asr-001294",
+              "start_seconds": 14751.6,
+              "clock": "04:05:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001294"
+            },
+            {
+              "stable_id": "asr-001298",
+              "start_seconds": 14768.6,
+              "clock": "04:06:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001298"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-tobias-toby-m-tiangco",
+      "label": "Rep. Tobias \"Toby\" M. Tiangco",
+      "items": [
+        {
+          "label": "House budget deliberation",
+          "text": "Vote: No on the FY2027 General Appropriations Bill.\n\nTiangco argued that the House budget did not follow the committee deliberation procedures he said the Constitution requires for congressional appropriations, because it went directly to the plenary. He criticized a same-day early-morning email announcing a 10 a.m. hearing and said his request to reopen deliberations was denied, although he said reopening had been allowed for the Metropolitan Manila Development Authority (MMDA). He called this a double standard, saying the House should meet the transparency and accountability standards it demands of other agencies.",
+          "citations": [
+            {
+              "stable_id": "asr-001304",
+              "start_seconds": 14790.6,
+              "clock": "04:06:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001304"
+            },
+            {
+              "stable_id": "asr-001305",
+              "start_seconds": 14792.6,
+              "clock": "04:06:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001305"
+            },
+            {
+              "stable_id": "asr-001309",
+              "start_seconds": 14814.6,
+              "clock": "04:06:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001309"
+            },
+            {
+              "stable_id": "asr-001312",
+              "start_seconds": 14831.6,
+              "clock": "04:07:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001312"
+            },
+            {
+              "stable_id": "asr-001314",
+              "start_seconds": 14848.82,
+              "clock": "04:07:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001314"
+            },
+            {
+              "stable_id": "asr-001316",
+              "start_seconds": 14853.62,
+              "clock": "04:07:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001316"
+            },
+            {
+              "stable_id": "asr-001319",
+              "start_seconds": 14867.6,
+              "clock": "04:07:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001319"
+            }
+          ]
+        },
+        {
+          "label": "Rejected disclosure proposals and vote",
+          "text": "During individual amendments, Tiangco proposed publishing House budget utilization, including amounts allocated, paid or spent for each House member, and publishing Department of Public Works and Highways (DPWH) projects by congressional district, including projects requested or proposed by district members and party-list representatives. He said both amendments were rejected. He argued that transparency should be an obligation for officials entrusted with public funds, and that the public should be able to distinguish legitimate expenses from expenses warranting questions. He concluded that public funds require public accountability and voted no on House Bill 10858, the General Appropriations Bill for fiscal year 2027.",
+          "citations": [
+            {
+              "stable_id": "asr-001330",
+              "start_seconds": 14931.5,
+              "clock": "04:08:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001330"
+            },
+            {
+              "stable_id": "asr-001331",
+              "start_seconds": 14936.56,
+              "clock": "04:08:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001331"
+            },
+            {
+              "stable_id": "asr-001333",
+              "start_seconds": 14950.52,
+              "clock": "04:09:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001333"
+            },
+            {
+              "stable_id": "asr-001335",
+              "start_seconds": 14963.3,
+              "clock": "04:09:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001335"
+            },
+            {
+              "stable_id": "asr-001345",
+              "start_seconds": 15010.92,
+              "clock": "04:10:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001345"
+            },
+            {
+              "stable_id": "asr-001348",
+              "start_seconds": 15031.56,
+              "clock": "04:10:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001348"
+            },
+            {
+              "stable_id": "asr-001354",
+              "start_seconds": 15079.12,
+              "clock": "04:11:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001354"
+            },
+            {
+              "stable_id": "asr-001356",
+              "start_seconds": 15090.6,
+              "clock": "04:11:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001356"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-antonio-l-tinio",
+      "label": "Rep. Antonio L. Tinio",
+      "items": [
+        {
+          "label": "Why ACT Teachers voted no",
+          "text": "Vote: No on the FY2027 General Appropriations Bill.\n\nTinio said ACT Teachers voted no on the FY2027 General Appropriations Bill, which he called a debt-funded pork-barrel budget benefiting billionaires and politicians. He argued that it served oligarch interests in electricity, oil, water, energy, infrastructure, and food imports, while the public faced 7.2% inflation and cuts to education, health, housing, and livelihoods. He described patronage aid as being presented as a safety net and said public borrowing burdened ordinary people while funding political pork, dynasties, fascism, and foreign interests. He included what he called Pax Silica of the United States and Israel among those interests, and rejected the bill and the pork-barrel system.",
+          "citations": [
+            {
+              "stable_id": "asr-001370",
+              "start_seconds": 15126.22,
+              "clock": "04:12:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001370"
+            },
+            {
+              "stable_id": "asr-001374",
+              "start_seconds": 15138.0,
+              "clock": "04:12:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001374"
+            },
+            {
+              "stable_id": "asr-001375",
+              "start_seconds": 15152.46,
+              "clock": "04:12:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001375"
+            },
+            {
+              "stable_id": "asr-001378",
+              "start_seconds": 15182.46,
+              "clock": "04:13:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001378"
+            },
+            {
+              "stable_id": "asr-001379",
+              "start_seconds": 15190.44,
+              "clock": "04:13:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001379"
+            },
+            {
+              "stable_id": "asr-001428",
+              "start_seconds": 15418.24,
+              "clock": "04:16:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001428"
+            },
+            {
+              "stable_id": "asr-001435",
+              "start_seconds": 15432.4,
+              "clock": "04:17:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001435"
+            },
+            {
+              "stable_id": "asr-001437",
+              "start_seconds": 15436.06,
+              "clock": "04:17:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001437"
+            },
+            {
+              "stable_id": "asr-001440",
+              "start_seconds": 15441.98,
+              "clock": "04:17:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001440"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-final-budget-vote-and-senate-transmission",
+      "label": "Final budget vote and Senate transmission",
+      "items": [
+        {
+          "label": "Final budget vote and Senate transmission",
+          "text": "Deputy Speaker Yasser Alonto Balindong reported the corrected final third-reading result for House Bill No. 10858: 282 affirmative votes instead of 281, with 13 negative votes and one abstention. He directed that the corrected results be entered in the record.\n\nAfter Representative Alyssa Michaela \"Mica\" M. Gonzales moved to transmit the bills approved on third reading to the Senate and no objection was heard, the Deputy Speaker directed the Secretary-General to transmit them immediately.",
+          "citations": [
+            {
+              "stable_id": "asr-001511",
+              "start_seconds": 15584.24,
+              "clock": "04:19:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001511"
+            },
+            {
+              "stable_id": "asr-001513",
+              "start_seconds": 15588.24,
+              "clock": "04:19:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001513"
+            },
+            {
+              "stable_id": "asr-001514",
+              "start_seconds": 15590.24,
+              "clock": "04:19:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001514"
+            },
+            {
+              "stable_id": "asr-001516",
+              "start_seconds": 15594.24,
+              "clock": "04:19:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001516"
+            },
+            {
+              "stable_id": "asr-001517",
+              "start_seconds": 15596.24,
+              "clock": "04:19:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001517"
+            },
+            {
+              "stable_id": "asr-001519",
+              "start_seconds": 15603.14,
+              "clock": "04:20:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001519"
+            },
+            {
+              "stable_id": "asr-001521",
+              "start_seconds": 15612.04,
+              "clock": "04:20:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001521"
+            },
+            {
+              "stable_id": "asr-001522",
+              "start_seconds": 15613.9,
+              "clock": "04:20:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001522"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-speaker-s-budget-and-legislative-address",
+      "label": "Speaker's budget and legislative address",
+      "items": [
+        {
+          "label": "Transparency, accountability and public priorities",
+          "text": "In opening remarks, Speaker Faustino \"Bojie\" G. Dy III said the 2027 National Budget should use taxpayers' money wisely and honestly for education, health, assistance and programs that improve people's lives. He said transparency and public needs guided the budget and that citizens have a right to know where funds go, why they are needed and what results to expect. \n\nIn discussing online scams, he cited PHP 121.8 billion lost by Filipinos to various scams in 2025, called for stronger protections and accountability for scammers, and said the losses affected young and older people as well as overseas Filipino workers. He also described measures he had advanced for firearm safety and responsible storage, and said the Children's Social Media Safety Act had passed third reading, with age restrictions, parental consent and greater platform accountability. He urged the Department of Information and Communications Technology to address online scams and gambling.",
+          "citations": [
+            {
+              "stable_id": "asr-001535",
+              "start_seconds": 15840.4,
+              "clock": "04:24:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001535"
+            },
+            {
+              "stable_id": "asr-001540",
+              "start_seconds": 15891.22,
+              "clock": "04:24:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001540"
+            },
+            {
+              "stable_id": "asr-001574",
+              "start_seconds": 16201.04,
+              "clock": "04:30:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001574"
+            },
+            {
+              "stable_id": "asr-001575",
+              "start_seconds": 16218.5,
+              "clock": "04:30:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001575"
+            },
+            {
+              "stable_id": "asr-001576",
+              "start_seconds": 16251.98,
+              "clock": "04:30:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001576"
+            },
+            {
+              "stable_id": "asr-001578",
+              "start_seconds": 16287.56,
+              "clock": "04:31:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001578"
+            },
+            {
+              "stable_id": "asr-001579",
+              "start_seconds": 16314.14,
+              "clock": "04:31:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001579"
+            },
+            {
+              "stable_id": "asr-001580",
+              "start_seconds": 16345.96,
+              "clock": "04:32:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/93/#asr-001580"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

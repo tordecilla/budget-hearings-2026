@@ -1,0 +1,2332 @@
+{
+  "hearing": {
+    "hearing_id": 58,
+    "title": "Senate Committee on Finance: DOTr - September 18, 2026",
+    "hearing_date": "2026-09-18",
+    "official_url": "https://www.youtube.com/watch?v=4iImwMMlm9A"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h58/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "What the budget presentation covered",
+      "text": "The Department of Transportation (DOTr) presented its proposed departmental allocation, project requests and funding included in the National Expenditure Program (NEP).",
+      "citations": []
+    },
+    {
+      "label": "Project delivery and right of way",
+      "text": "Senators focused on land acquisition for rail and airport work, including the subway, the North-South Commuter Railway, and Siargao. Officials described schedule and cost risks and committed to submit prioritized, bare-minimum funding needs.",
+      "citations": []
+    },
+    {
+      "label": "Commuter service and access",
+      "text": "The hearing addressed busway and service-contracting support, active transport, airport access and boarding bridges, regional rail service, port connections, and proposed motorcycle-taxi routes. Members asked agencies to explain service effects and identify priority projects.",
+      "citations": []
+    },
+    {
+      "label": "Safety and public accountability",
+      "text": "Discussion covered Coast Guard personnel and operating needs, airport screening, passenger safeguards, transport-related flooding, and community ports. Senators asked agencies to connect spending plans with reliable service, safety and measurable results.",
+      "citations": []
+    },
+    {
+      "label": "Written follow-ups and plenary consideration",
+      "text": "Officials agreed to provide prioritized project and right-of-way lists, a minimum Land Transportation Management System (LTMS) funding requirement, and outstanding project expenditure details. The committee submitted the budgets for plenary consideration subject to further discussion and written responses.",
+      "citations": []
+    }
+  ],
+  "method_note": "Prepared from the completed reviewed hearing transcript. Figures and qualifications follow the speakers' testimony; promised written responses remain follow-ups.",
+  "sections": [
+    {
+      "key": "budget-department-of-transportation-dotr",
+      "label": "Department of Transportation (DOTr) budget",
+      "items": [
+        {
+          "label": "FY2027 proposed allocation and comparable request",
+          "text": "For FY2027, the DOTr and its sectoral and attached agencies have ₱300.96 billion in the NEP, according to Assistant Secretary Cecilia E. Bien. She compared this with ₱197.3 billion in the FY2026 NEP and ₱137 billion in the separate FY2026 General Appropriations Act (GAA).\n\nThe narrower project proposal was ₱624 billion, against ₱237 billion allocated for projects in the NEP. The presentation did not provide an original request total for the whole DOTr family.",
+          "citations": [
+            {
+              "stable_id": "asr-000786",
+              "start_seconds": 1539.96,
+              "clock": "00:25:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000786"
+            },
+            {
+              "stable_id": "asr-000789",
+              "start_seconds": 1548.14,
+              "clock": "00:25:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000789"
+            },
+            {
+              "stable_id": "asr-000799",
+              "start_seconds": 1568.6599999999999,
+              "clock": "00:26:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000799"
+            },
+            {
+              "stable_id": "asr-000930",
+              "start_seconds": 1970.62,
+              "clock": "00:32:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000930"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 proposed DOTr budget and commuter outcomes",
+          "text": "Committee Chair Senator Joseph Victor \"JV\" G. Ejercito opened the FY2027 budget deliberation for the DOTr, stating that the NEP proposed ₱302.89 billion for the department. If approved, he said, this would be DOTr's largest budget in the 2025-2027 period. A substantial portion would support major infrastructure, particularly rail projects. He said commuters would judge the spending by whether trips become faster and safer, public transportation more reliable, and time lost to traffic and waiting shorter. This opening figure differs from the family total later presented by DOTr; the hearing did not reconcile the two.",
+          "citations": [
+            {
+              "stable_id": "asr-000093",
+              "start_seconds": 297.8,
+              "clock": "00:04:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000093"
+            },
+            {
+              "stable_id": "asr-000113",
+              "start_seconds": 338.96000000000004,
+              "clock": "00:05:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000113"
+            },
+            {
+              "stable_id": "asr-000114",
+              "start_seconds": 341.8,
+              "clock": "00:05:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000114"
+            }
+          ]
+        },
+        {
+          "label": "Rail progress, foreign-assisted funding and delay costs",
+          "text": "Ejercito said he had inspected the North-South Commuter Railway (NSCR) and the Metro Manila Subway Project in Valenzuela with DOTr Secretary Giovanni Z. Lopez and other officials, and had attended the subway station groundbreaking at Terminal 3. He stressed the need to check physical progress alongside reports. He also called for scrutiny of foreign-assisted projects (FAPs): whether work followed schedule, loan proceeds were used efficiently, and delays created added costs or other government obligations such as commitment fees. He said prior placement of FAPs in unprogrammed appropriations had caused delays and defaults that drew complaints from Japan and the Japan International Cooperation Agency (JICA), pushing planned rail operations from around 2028 toward 2030 or 2032.\n\nFor FY2027, he said most FAP funding would be in program funds, with only some later portions remaining in unprogrammed appropriations, and said the earlier problem should not recur.",
+          "citations": [
+            {
+              "stable_id": "asr-000132",
+              "start_seconds": 378.04,
+              "clock": "00:06:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000132"
+            },
+            {
+              "stable_id": "asr-000219",
+              "start_seconds": 555.82,
+              "clock": "00:09:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000219"
+            },
+            {
+              "stable_id": "asr-000231",
+              "start_seconds": 582.02,
+              "clock": "00:09:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000231"
+            },
+            {
+              "stable_id": "asr-000275",
+              "start_seconds": 643.62,
+              "clock": "00:10:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000275"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 allocation by agency and allotment class",
+          "text": "Bien said 83% of the family allocation, or ₱251.9 billion, went to the DOTr Central Office. The Philippine Coast Guard (PCG) was allocated ₱45.5 billion, or 15.12%. By allotment class, 81% of the FY2027 budget was for capital outlay and 11.75% for personnel services. She said capital outlay covered infrastructure projects and personnel services the agencies’ staffing requirements.",
+          "citations": [
+            {
+              "stable_id": "asr-000821",
+              "start_seconds": 1611.04,
+              "clock": "00:26:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000821"
+            },
+            {
+              "stable_id": "asr-000827",
+              "start_seconds": 1620.8600000000001,
+              "clock": "00:27:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000827"
+            },
+            {
+              "stable_id": "asr-000832",
+              "start_seconds": 1630.48,
+              "clock": "00:27:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000832"
+            },
+            {
+              "stable_id": "asr-000833",
+              "start_seconds": 1633.46,
+              "clock": "00:27:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000833"
+            },
+            {
+              "stable_id": "asr-000834",
+              "start_seconds": 1635.1799999999998,
+              "clock": "00:27:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000834"
+            },
+            {
+              "stable_id": "asr-000846",
+              "start_seconds": 1659.0,
+              "clock": "00:27:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000846"
+            },
+            {
+              "stable_id": "asr-000852",
+              "start_seconds": 1670.6,
+              "clock": "00:27:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000852"
+            }
+          ]
+        },
+        {
+          "label": "Project mix and proposed projects outside the NEP",
+          "text": "Within the DOTr Central Office project allocation, Bien described the proposed and funded counts by mode: 22 rail projects proposed, with six funded; 19 road transport projects totaling ₱37.2 billion proposed, with seven funded for ₱15 billion; and 42 aviation projects totaling ₱23 billion proposed, with 10 funded for ₱5.8 billion. She said the department proposed 179 projects overall but received NEP allocations for 30. For infrastructure, ₱232 billion was foreign-assisted, ₱5 billion locally funded, and ₱2.9 billion was mostly for right-of-way requirements. She also identified ₱1.7 billion for establishing a new PCG headquarters. When Senator Erwin Tulfo asked whether that covered Coast Guard stations on islets around Pag-asa Island, Bien said it covered only the new headquarters. PCG Vice Admiral Edgar Ybañez and Lopez confirmed that the PCG had requested island stations, that they were not approved in the NEP, and Lopez said there were about three or more such proposals.",
+          "citations": [
+            {
+              "stable_id": "asr-000928",
+              "start_seconds": 1940.62,
+              "clock": "00:32:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000928"
+            },
+            {
+              "stable_id": "asr-000931",
+              "start_seconds": 1989.12,
+              "clock": "00:33:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000931"
+            },
+            {
+              "stable_id": "asr-000933",
+              "start_seconds": 2000.62,
+              "clock": "00:33:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000933"
+            },
+            {
+              "stable_id": "asr-000934",
+              "start_seconds": 2015.32,
+              "clock": "00:33:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000934"
+            },
+            {
+              "stable_id": "asr-000877",
+              "start_seconds": 1723.7,
+              "clock": "00:28:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000877"
+            },
+            {
+              "stable_id": "asr-000878",
+              "start_seconds": 1726.08,
+              "clock": "00:28:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000878"
+            },
+            {
+              "stable_id": "asr-000881",
+              "start_seconds": 1730.6,
+              "clock": "00:28:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000881"
+            },
+            {
+              "stable_id": "asr-000885",
+              "start_seconds": 1738.54,
+              "clock": "00:28:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000885"
+            },
+            {
+              "stable_id": "asr-000898",
+              "start_seconds": 1764.22,
+              "clock": "00:29:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000898"
+            },
+            {
+              "stable_id": "asr-000915",
+              "start_seconds": 1810.1,
+              "clock": "00:30:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000915"
+            },
+            {
+              "stable_id": "asr-000922",
+              "start_seconds": 1880.62,
+              "clock": "00:31:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000922"
+            },
+            {
+              "stable_id": "asr-000924",
+              "start_seconds": 1898.08,
+              "clock": "00:31:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000924"
+            }
+          ]
+        },
+        {
+          "label": "Fund utilization and delivery outlook",
+          "text": "Bien reported DOTr Central Office utilization for 2025 at 90.45% obligated and 57.45% disbursed. As of July 2026, Central Office obligation stood at 82.40% and disbursement at 51.73%; she expected both rates to rise before year-end. For DOTr sectoral offices and attached agencies together, she reported 2025 utilization at 89.35% and disbursement at 56.94%; as of July 2026, obligation was 74.10% and disbursement 56.18%, with the same year-end expectation.",
+          "citations": [
+            {
+              "stable_id": "asr-000718",
+              "start_seconds": 1412.3600000000001,
+              "clock": "00:23:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000718"
+            },
+            {
+              "stable_id": "asr-000721",
+              "start_seconds": 1418.48,
+              "clock": "00:23:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000721"
+            },
+            {
+              "stable_id": "asr-000727",
+              "start_seconds": 1430.42,
+              "clock": "00:23:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000727"
+            },
+            {
+              "stable_id": "asr-000731",
+              "start_seconds": 1437.1,
+              "clock": "00:23:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000731"
+            },
+            {
+              "stable_id": "asr-000759",
+              "start_seconds": 1488.9,
+              "clock": "00:24:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000759"
+            },
+            {
+              "stable_id": "asr-000761",
+              "start_seconds": 1493.08,
+              "clock": "00:24:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000761"
+            },
+            {
+              "stable_id": "asr-000766",
+              "start_seconds": 1503.52,
+              "clock": "00:25:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000766"
+            },
+            {
+              "stable_id": "asr-000767",
+              "start_seconds": 1507.16,
+              "clock": "00:25:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000767"
+            }
+          ]
+        },
+        {
+          "label": "Unfunded transport programs and request for legislative support",
+          "text": "Lopez said the NEP omitted the bus carousel and service contracting program, along with other projects, activities and programs proposed during the budget call, including port and airport projects. He recalled that congressional intervention had provided service contracting funds for 2026 after the program had not received enough funding the prior year. He asked the Senate and Congress to help restore or provide support for necessary projects benefiting transport groups and commuters.",
+          "citations": [
+            {
+              "stable_id": "asr-000592",
+              "start_seconds": 1213.7,
+              "clock": "00:20:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000592"
+            },
+            {
+              "stable_id": "asr-000594",
+              "start_seconds": 1218.14,
+              "clock": "00:20:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000594"
+            },
+            {
+              "stable_id": "asr-000620",
+              "start_seconds": 1259.8600000000001,
+              "clock": "00:20:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000620"
+            },
+            {
+              "stable_id": "asr-000625",
+              "start_seconds": 1270.08,
+              "clock": "00:21:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000625"
+            },
+            {
+              "stable_id": "asr-000644",
+              "start_seconds": 1304.38,
+              "clock": "00:21:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000644"
+            }
+          ]
+        },
+        {
+          "label": "Puerto Princesa passenger boarding bridge funding",
+          "text": "Tulfo raised the lack of passenger boarding bridges at Puerto Princesa International Airport, describing the exposed walk between aircraft and terminal as difficult for tourists, older passengers, and persons with disabilities. Lopez acknowledged that the airport lacked passenger boarding bridges. Civil Aviation Authority of the Philippines (CAAP) Director General Raul L. Del Rosario said structural implications were being studied; for now, two covered air stairs were programmed for Puerto Princesa, with air stairs also allocated for other airports. Tulfo asked how passengers would be protected from rain and how older passengers and persons with disabilities would be accommodated; Del Rosario said the air stairs had covers and airlines would provide umbrellas.\n\nLopez said a passenger bridge would be studied as a requirement and condition in Puerto Princesa's planned public-private partnership (PPP) the following year. He estimated about ₱50 million per bridge, cautioned it could be more, and said CAAP's corporate operating budget could cover it, subject to programming in FY 2027. No construction decision was recorded.",
+          "citations": [
+            {
+              "stable_id": "asr-001519",
+              "start_seconds": 3605.78,
+              "clock": "01:00:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001519"
+            },
+            {
+              "stable_id": "asr-001620",
+              "start_seconds": 4008.1,
+              "clock": "01:06:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001620"
+            },
+            {
+              "stable_id": "asr-001639",
+              "start_seconds": 4055.02,
+              "clock": "01:07:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001639"
+            },
+            {
+              "stable_id": "asr-001640",
+              "start_seconds": 4059.62,
+              "clock": "01:07:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001640"
+            }
+          ]
+        },
+        {
+          "label": "Mindanao Railway feasibility and financing options",
+          "text": "Tulfo asked whether foreign partners could finance a Mindanao railway extending beyond Davao toward Cotabato, Zamboanga, and Cagayan de Oro. Lopez said the project had been pitched to the government of India, which had expressed interest. DOTr Undersecretary Timothy John Batan said the Asian Development Bank (ADB) was helping update a feasibility study dating from 2016–2017, which needed updating to attract a financing partner. He described government-to-government agreements with France and ongoing Department of Finance (DOF) discussions with Spain and India as possible financing channels. No financing partner or final financing arrangement had been selected.",
+          "citations": [
+            {
+              "stable_id": "asr-001692",
+              "start_seconds": 4185.4,
+              "clock": "01:09:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001692"
+            }
+          ]
+        },
+        {
+          "label": "Coast Guard personnel health insurance request",
+          "text": "Tulfo asked whether the PCG had included a roughly ₱360 million health-insurance request for all Coast Guard personnel in its FY 2027 budget, describing it as a personnel welfare and hospitalization benefit. Ybañez said the Coast Guard had requested it, but it was not approved in the FY 2027 NEP. No restoration or other disposition was recorded in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002023",
+              "start_seconds": 4855.94,
+              "clock": "01:20:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002023"
+            },
+            {
+              "stable_id": "asr-002039",
+              "start_seconds": 4887.8,
+              "clock": "01:21:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002039"
+            }
+          ]
+        },
+        {
+          "label": "Foreign-assisted transport projects and implementation",
+          "text": "Senator Sherwin \"Win\" T. Gatchalian contrasted the roughly 50% disbursement rate he had seen with Lopez's report that, as of July 2026, DOTr's obligation rate was above 80% and disbursement was 50%; 80% of disbursements were for FAPs, and ₱33 billion was disbursed in June and July, recorded in July. Gatchalian said the FY2027 FAP allocation was about ₱232 billion and warned that delays could leave funds unused, trigger later reductions, harm official development assistance (ODA) projects and local suppliers, and undermine Japan's confidence. Lopez said the FAP total combined loan proceeds and government counterpart funding and that DOTr requested ₱500 billion, citing accumulated invoices, prolongation costs, suspension-related costs and financing charges. He referred the project status to Batan.",
+          "citations": [
+            {
+              "stable_id": "asr-002143",
+              "start_seconds": 5097.16,
+              "clock": "01:24:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002143"
+            },
+            {
+              "stable_id": "asr-002158",
+              "start_seconds": 5126.72,
+              "clock": "01:25:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002158"
+            },
+            {
+              "stable_id": "asr-002169",
+              "start_seconds": 5148.62,
+              "clock": "01:25:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002169"
+            },
+            {
+              "stable_id": "asr-002174",
+              "start_seconds": 5158.66,
+              "clock": "01:25:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002174"
+            },
+            {
+              "stable_id": "asr-002175",
+              "start_seconds": 5161.0599999999995,
+              "clock": "01:26:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002175"
+            },
+            {
+              "stable_id": "asr-002244",
+              "start_seconds": 5297.42,
+              "clock": "01:28:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002244"
+            }
+          ]
+        },
+        {
+          "label": "Right-of-way funding across transport sectors",
+          "text": "Gatchalian asked whether right-of-way (ROW) had a separate item. Lopez said DOTr had general-fund ROW appropriations of ₱2.5 billion in the prior year and ₱2.5 billion to ₱2.7 billion in the current budget, covering road, aviation, maritime and rail needs, and called the amount insufficient. Government counterpart funds could support ROW for NSCR and the subway but also paid value-added tax (VAT) and other project costs; reductions could force DOTr to choose between ROW and VAT payments, with financing charges when VAT remained unpaid. He credited the Accelerated Right-of-Way Act and a dedicated team for faster acquisition and urged adequate, protected implementation funding.",
+          "citations": [
+            {
+              "stable_id": "asr-002579",
+              "start_seconds": 6025.7,
+              "clock": "01:40:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002579"
+            },
+            {
+              "stable_id": "asr-002626",
+              "start_seconds": 6123.48,
+              "clock": "01:42:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002626"
+            },
+            {
+              "stable_id": "asr-002627",
+              "start_seconds": 6125.82,
+              "clock": "01:42:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002627"
+            },
+            {
+              "stable_id": "asr-002664",
+              "start_seconds": 6199.58,
+              "clock": "01:43:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002664"
+            },
+            {
+              "stable_id": "asr-002667",
+              "start_seconds": 6205.26,
+              "clock": "01:43:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002667"
+            }
+          ]
+        },
+        {
+          "label": "ODA commitment fees and project review",
+          "text": "Gatchalian said delayed projects had incurred ₱295 million in commitment fees, then identified unused ODA loans for the Davao Public Transport Modernization Project, EDSA Greenway, another Cebu BRT package and the Facility for Accelerating Studies for Infrastructure; he said these available but unused loans had incurred ₱390 million in fees. Lopez confirmed that the Department of Finance paid commitment fees because lenders reserved funds. He attributed Davao fees to a slow start, said DOTr shelved EDSA Greenway the prior year to limit further fees, said Cebu BRT had moved slowly since 2014, and said FAST-INFRA was beginning. Gatchalian urged review and cancellation of ODA projects the department did not need, noting that concessional terms of 10 or 20 years and below 2% interest still added to public debt, and that almost ₱50 million had already been paid on EDSA Greenway. Lopez agreed to review projects and cut losses.",
+          "citations": [
+            {
+              "stable_id": "asr-002687",
+              "start_seconds": 6244.52,
+              "clock": "01:44:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002687"
+            },
+            {
+              "stable_id": "asr-002702",
+              "start_seconds": 6275.24,
+              "clock": "01:44:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002702"
+            },
+            {
+              "stable_id": "asr-002703",
+              "start_seconds": 6277.9400000000005,
+              "clock": "01:44:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002703"
+            },
+            {
+              "stable_id": "asr-002769",
+              "start_seconds": 6418.58,
+              "clock": "01:46:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002769"
+            },
+            {
+              "stable_id": "asr-002770",
+              "start_seconds": 6420.36,
+              "clock": "01:47:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002770"
+            },
+            {
+              "stable_id": "asr-002773",
+              "start_seconds": 6426.96,
+              "clock": "01:47:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002773"
+            },
+            {
+              "stable_id": "asr-002860",
+              "start_seconds": 6600.28,
+              "clock": "01:50:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002860"
+            },
+            {
+              "stable_id": "asr-002873",
+              "start_seconds": 6625.9400000000005,
+              "clock": "01:50:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002873"
+            }
+          ]
+        },
+        {
+          "label": "Stradcom phase-out and government LTMS",
+          "text": "Gatchalian questioned continued use of Stradcom after its contract ended in 2013 and cited nearly ₱13 billion in consumer-paid fees from 2019 to 2025. Lopez referred him to LTO Executive Director Atty. Martin Ontog. Ontog said a phase-out agreement signed in 2016 on a month-to-month basis allowed Stradcom to remain as a backup while the government-owned LTMS, procured from Dermalog, had not reached full operational capacity. He cited a Department of Justice opinion and the secretary-level phase-out agreement as legal basis. Ontog said LTMS was introduced to LTO in 2018 and rolled out in 2021 or 2022; Stradcom covered services LTMS could not yet handle, while computer fees fell after LTMS use began. Two memorandum circulars issued the prior Friday ended Stradcom's operations in LTO.\n\nOntog put the LTMS 2018 purchase at ₱3.19 billion and total cost including modules at roughly ₱8 billion, compared with ₱13 billion paid to Stradcom. He said news reports described a possible consumer or civil-society refund claim but did not confirm its disposition. At Gatchalian's request, Ontog agreed to send a legal memorandum. Ejercito confirmed that LTO was using LTMS exclusively; Ontog confirmed Stradcom had ceased.  He said Stradcom data had been obtained and prior turnover requests were granted.",
+          "citations": [
+            {
+              "stable_id": "asr-002910",
+              "start_seconds": 6699.76,
+              "clock": "01:51:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002910"
+            },
+            {
+              "stable_id": "asr-002926",
+              "start_seconds": 6735.72,
+              "clock": "01:52:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002926"
+            },
+            {
+              "stable_id": "asr-002958",
+              "start_seconds": 6802.42,
+              "clock": "01:53:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002958"
+            },
+            {
+              "stable_id": "asr-003025",
+              "start_seconds": 6934.06,
+              "clock": "01:55:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003025"
+            },
+            {
+              "stable_id": "asr-003076",
+              "start_seconds": 7039.76,
+              "clock": "01:57:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003076"
+            },
+            {
+              "stable_id": "asr-003091",
+              "start_seconds": 7069.38,
+              "clock": "01:57:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003091"
+            },
+            {
+              "stable_id": "asr-003185",
+              "start_seconds": 7258.24,
+              "clock": "02:00:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003185"
+            }
+          ]
+        },
+        {
+          "label": "Public transport modernization subsidies and disbursement",
+          "text": "Gatchalian raised ₱891 million shown as undistributed for the Public Transport Modernization Program (PTMP). Lopez said PTMP would continue and described a then-current DOTr fund of ₱1.5 billion, including ₱600 million to ₱700 million for amortization aid to enrolled operators at ₱20,000 per vehicle per month for three months, already obligated to the Land Transportation Franchising and Regulatory Board (LTFRB). Roughly ₱800 million remained for equity subsidy. Lopez said the existing ₱460,000-plus equity subsidy would be supplemented by salvage value for surrendered old vehicles in the following year and that DOTr had requested additional budget for the expanded approach. Higher fuel prices threatened participants' installment payments and risked foreclosure. Lopez separately cited ₱177 million for the FY2027 equity subsidy. He expected the current assistance funds, recently released to LTFRB, to be disbursed as oil-price pressures increased demand.\n\nLTFRB Board Member Atty. Greg G. Pua Jr. detailed the ₱800 million equity fund: ₱400 million for additional support to participants already enrolled and the other half for future participants. He described ₱620 million for monthly amortization aid, including ₱20,000 per vehicle per month for three months. LTFRB had disbursed ₱60 million for September assistance and ₱150 million in equity subsidy; disbursement would pause during the election ban while an exemption request was pending.",
+          "citations": [
+            {
+              "stable_id": "asr-003271",
+              "start_seconds": 7430.4,
+              "clock": "02:03:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003271"
+            },
+            {
+              "stable_id": "asr-003291",
+              "start_seconds": 7470.54,
+              "clock": "02:04:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003291"
+            },
+            {
+              "stable_id": "asr-003315",
+              "start_seconds": 7520.42,
+              "clock": "02:05:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003315"
+            },
+            {
+              "stable_id": "asr-003333",
+              "start_seconds": 7556.28,
+              "clock": "02:05:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003333"
+            },
+            {
+              "stable_id": "asr-003335",
+              "start_seconds": 7560.48,
+              "clock": "02:06:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003335"
+            },
+            {
+              "stable_id": "asr-003341",
+              "start_seconds": 7572.96,
+              "clock": "02:06:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003341"
+            },
+            {
+              "stable_id": "asr-003342",
+              "start_seconds": 7574.74,
+              "clock": "02:06:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003342"
+            },
+            {
+              "stable_id": "asr-003346",
+              "start_seconds": 7582.58,
+              "clock": "02:06:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003346"
+            },
+            {
+              "stable_id": "asr-003356",
+              "start_seconds": 7602.32,
+              "clock": "02:06:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003356"
+            },
+            {
+              "stable_id": "asr-003818",
+              "start_seconds": 8512.8,
+              "clock": "02:21:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003818"
+            },
+            {
+              "stable_id": "asr-003876",
+              "start_seconds": 8627.54,
+              "clock": "02:23:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003876"
+            },
+            {
+              "stable_id": "asr-003879",
+              "start_seconds": 8633.42,
+              "clock": "02:23:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003879"
+            },
+            {
+              "stable_id": "asr-003895",
+              "start_seconds": 8665.58,
+              "clock": "02:24:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003895"
+            },
+            {
+              "stable_id": "asr-003902",
+              "start_seconds": 8679.36,
+              "clock": "02:24:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003902"
+            },
+            {
+              "stable_id": "asr-003903",
+              "start_seconds": 8681.42,
+              "clock": "02:24:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003903"
+            },
+            {
+              "stable_id": "asr-003910",
+              "start_seconds": 8695.58,
+              "clock": "02:24:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003910"
+            },
+            {
+              "stable_id": "asr-003915",
+              "start_seconds": 8705.62,
+              "clock": "02:25:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003915"
+            }
+          ]
+        },
+        {
+          "label": "LTMS disaster recovery request",
+          "text": "Ontog told Ejercito that LTO sought additional funding for disaster-recovery centers to duplicate its primary LTMS data center after Stradcom's exit. The request was for backup during calamities or facility failures, distinct from maintenance and replacement of the existing system.",
+          "citations": [
+            {
+              "stable_id": "asr-003201",
+              "start_seconds": 7286.86,
+              "clock": "02:01:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003201"
+            },
+            {
+              "stable_id": "asr-003213",
+              "start_seconds": 7313.28,
+              "clock": "02:01:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003213"
+            },
+            {
+              "stable_id": "asr-003246",
+              "start_seconds": 7381.22,
+              "clock": "02:03:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003246"
+            }
+          ]
+        },
+        {
+          "label": "Mati Airport funding and Mindanao Railway direction",
+          "text": "Senator Christopher Lawrence T. Go said regional airport development should be distributed equitably and noted that the Mati City Airport had been a Davao Regional Development Council priority since 2023. He said the FY2026 NEP had not included the project, but Congress added ₱700 million to the GAA after DOTr supported it. By September, construction had not started and the funds had not been released. Go requested an explanation, a list and timetable for other 2026-funded projects still awaiting implementation, and said he would ask that DOTr's FY2027 budget consideration be suspended from plenary if the delays were not sufficiently explained.\n\nLopez said the department had asked the Department of Budget and Management (DBM) to release the funding for Mati and other airports, including Daet, Catbalogan, Camiguin and Cauayan's night-rating project; the projects were awaiting release under a Special Allotment Release Order (SARO), after which DOTr was ready to procure. He said Mati's right-of-way had been acquired for runway expansion. Lopez also confirmed that DOTr had requested FY2027 support for the Mindanao Railway, but it was omitted from the NEP because there was no loan. DOTr planned to use general funds first for right-of-way along the alignment while seeking a project funder. The conditional suspension request was not recorded as adopted in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-004256",
+              "start_seconds": 9388.1,
+              "clock": "02:36:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004256"
+            },
+            {
+              "stable_id": "asr-004339",
+              "start_seconds": 9558.48,
+              "clock": "02:39:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004339"
+            },
+            {
+              "stable_id": "asr-004402",
+              "start_seconds": 9683.94,
+              "clock": "02:41:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004402"
+            },
+            {
+              "stable_id": "asr-004462",
+              "start_seconds": 9803.36,
+              "clock": "02:43:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004462"
+            }
+          ]
+        },
+        {
+          "label": "Fuel subsidy request for FY2027 and crisis disbursement",
+          "text": "Go returned to the fuel-subsidy issue, saying the FY2027 NEP had no funding for support to drivers and operators and asking DOTr to plan ahead. Lopez said DOTr had requested ₱5 billion for FY2027, but the NEP included none. During the oil-price crisis, the department used its FY2025 ₱2.5 billion appropriation; after DBM released it, DOTr disbursed the full amount in about two or three months. The subsidy supported regular jeepneys and other transport modes, excluding tricycles outside LTFRB coverage. Lopez again asked Congress to provide FY2027 funding. Go urged lawmakers to support the request and asked DOTr to submit a credible timetable for its 2026 projects before approval of the 2027 budget; no FY2027 subsidy decision is recorded here.",
+          "citations": [
+            {
+              "stable_id": "asr-005005",
+              "start_seconds": 10989.92,
+              "clock": "03:03:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005005"
+            },
+            {
+              "stable_id": "asr-005006",
+              "start_seconds": 10999.94,
+              "clock": "03:03:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005006"
+            },
+            {
+              "stable_id": "asr-005013",
+              "start_seconds": 11036.74,
+              "clock": "03:03:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005013"
+            },
+            {
+              "stable_id": "asr-005015",
+              "start_seconds": 11052.12,
+              "clock": "03:04:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005015"
+            }
+          ]
+        },
+        {
+          "label": "LTMS maintenance, disaster recovery and hardware request",
+          "text": "Land Transportation Office (LTO) Assistant Secretary Markus V. LTO Assistant Secretary Markus V. Lacanilao said LTO had shut down the Stradcom system and was fully using the Land Transportation Management System (LTMS), now run by LTO personnel. He requested additional funding outside the NEP for an LTMS disaster-recovery center and data backup, maintenance and support, hardware refresh, and confidential operations against colorum vehicles and organized crime. The total request was ₱4.2 billion: ₱2.699 billion for disaster recovery, ₱161 million for maintenance and support, ₱1.3 billion for hardware refresh, and ₱50 million for confidential funds. Ejercito asked LTO to submit a bare-minimum amount that could be started within the available fiscal space; Lacanilao agreed to submit an adjusted request.",
+          "citations": [
+            {
+              "stable_id": "asr-005166",
+              "start_seconds": 11764.54,
+              "clock": "03:16:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005166"
+            },
+            {
+              "stable_id": "asr-005167",
+              "start_seconds": 11776.16,
+              "clock": "03:16:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005167"
+            },
+            {
+              "stable_id": "asr-005180",
+              "start_seconds": 11817.16,
+              "clock": "03:16:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005180"
+            },
+            {
+              "stable_id": "asr-005181",
+              "start_seconds": 11826.1,
+              "clock": "03:17:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005181"
+            },
+            {
+              "stable_id": "asr-005189",
+              "start_seconds": 11840.12,
+              "clock": "03:17:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005189"
+            },
+            {
+              "stable_id": "asr-005191",
+              "start_seconds": 11851.54,
+              "clock": "03:17:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005191"
+            },
+            {
+              "stable_id": "asr-005172",
+              "start_seconds": 11789.68,
+              "clock": "03:16:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005172"
+            },
+            {
+              "stable_id": "asr-005198",
+              "start_seconds": 11904.88,
+              "clock": "03:18:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005198"
+            }
+          ]
+        },
+        {
+          "label": "Stradcom charges and refund claims",
+          "text": "Gatchalian compared the LTMS purchase price of ₱3.1 billion with Stradcom charges of about ₱3 billion in each of 2019, 2020 and 2021, and noted the ₱169 charge had continued for 23 years. Lacanilao said the LTMS was more economical and offered biometrics that helped detect people using changed Filipino identities, including cases involving Chinese driver's licenses, as well as remote license renewal for overseas Filipino workers. Asked about reported refund claims, Lacanilao could not say whether a refund would be made and said LTO was reviewing the legality and process. Gatchalian cited both a ₱13 billion refund effort mentioned in the news and the Coalition 169's ₱28 billion claim; the hearing did not resolve either claim.",
+          "citations": [
+            {
+              "stable_id": "asr-005101",
+              "start_seconds": 11486.5,
+              "clock": "03:11:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005101"
+            },
+            {
+              "stable_id": "asr-005105",
+              "start_seconds": 11504.38,
+              "clock": "03:11:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005105"
+            },
+            {
+              "stable_id": "asr-005106",
+              "start_seconds": 11506.9,
+              "clock": "03:11:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005106"
+            },
+            {
+              "stable_id": "asr-005107",
+              "start_seconds": 11508.9,
+              "clock": "03:11:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005107"
+            },
+            {
+              "stable_id": "asr-005062",
+              "start_seconds": 11327.1,
+              "clock": "03:08:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005062"
+            },
+            {
+              "stable_id": "asr-005145",
+              "start_seconds": 11676.38,
+              "clock": "03:14:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005145"
+            },
+            {
+              "stable_id": "asr-005151",
+              "start_seconds": 11719.48,
+              "clock": "03:15:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005151"
+            },
+            {
+              "stable_id": "asr-005154",
+              "start_seconds": 11724.88,
+              "clock": "03:15:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005154"
+            }
+          ]
+        },
+        {
+          "label": "Department-wide right-of-way request and project delays",
+          "text": "Ejercito stated that the DOTr had proposed ₱898.499 billion for FY2027 right-of-way acquisition, while the NEP provided ₱2.79 billion, which he described as a 97.17% reduction. The unusually large proposal figure is retained as stated; the hearing did not clarify it. Lopez said the NEP amount was insufficient. Without timely acquisition, rail and airport contractors could be left waiting while civil works stall, adding prolongation and standby costs. Lopez said the North-South Commuter Railway's southern section and projects such as the Davao and Cebu bus systems still needed right-of-way. The department would submit a prioritized, reasonable bare-minimum list.",
+          "citations": [
+            {
+              "stable_id": "asr-005203",
+              "start_seconds": 11945.56,
+              "clock": "03:19:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005203"
+            },
+            {
+              "stable_id": "asr-005207",
+              "start_seconds": 12004.36,
+              "clock": "03:20:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005207"
+            },
+            {
+              "stable_id": "asr-005354",
+              "start_seconds": 12297.9,
+              "clock": "03:24:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005354"
+            }
+          ]
+        },
+        {
+          "label": "Siargao airport runway and right-of-way funding",
+          "text": "Lopez said Siargao's constrained site had delayed runway expansion and that technical experts had identified a mountainside alignment. The existing runway was about 1,400–1,600 meters; extending it to roughly 2,100 meters required more than the additional 500 meters of runway land because adjoining areas were needed for safety grading. He estimated at least ₱500 million for right-of-way.\n\nGatchalian pressed for an airport roadmap and asked how much was needed to handle Airbus aircraft. Lopez said a larger terminal was being built, with its capacity expected to rise from 75 passengers at a time to three or four times that level; he estimated a separate ₱500 million for earthworks and civil works. They summed the distinct right-of-way and construction requests as ₱1 billion for a 2.1-kilometer runway. Lopez said the ₱100 million FY 2026 funding was awaiting SARO release and CAAP was using corporate funds in the meantime. He said the international-airport relocation option faced landowner issues and would take longer. The airport could not rely on CAAP's corporate operating budget for the right-of-way without exhausting it.",
+          "citations": [
+            {
+              "stable_id": "asr-005239",
+              "start_seconds": 12131.7,
+              "clock": "03:22:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005239"
+            },
+            {
+              "stable_id": "asr-005371",
+              "start_seconds": 12314.88,
+              "clock": "03:25:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005371"
+            },
+            {
+              "stable_id": "asr-005421",
+              "start_seconds": 12366.76,
+              "clock": "03:26:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005421"
+            },
+            {
+              "stable_id": "asr-005424",
+              "start_seconds": 12369.74,
+              "clock": "03:26:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005424"
+            },
+            {
+              "stable_id": "asr-005427",
+              "start_seconds": 12373.18,
+              "clock": "03:26:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005427"
+            },
+            {
+              "stable_id": "asr-005493",
+              "start_seconds": 12439.1,
+              "clock": "03:27:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005493"
+            },
+            {
+              "stable_id": "asr-005519",
+              "start_seconds": 12465.96,
+              "clock": "03:27:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005519"
+            },
+            {
+              "stable_id": "asr-005540",
+              "start_seconds": 12490.1,
+              "clock": "03:28:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005540"
+            }
+          ]
+        },
+        {
+          "label": "Metro Manila Subway right-of-way and tunneling",
+          "text": "Ejercito said the Metro Manila Subway had a ₱40 billion right-of-way request without a corresponding FY2027 allocation. Batan said most of the request would compensate landowners for subterranean rights needed by the tunnels; without added funds, some tunneling could stop because affected owners could not be paid. He reported 7.5 kilometers of tunneling completed out of 33 kilometers, a full-operations target of 2031, and 19 tunnel-boring machines advancing an average of 5–12 meters daily.",
+          "citations": [
+            {
+              "stable_id": "asr-005584",
+              "start_seconds": 12547.72,
+              "clock": "03:29:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005584"
+            },
+            {
+              "stable_id": "asr-005611",
+              "start_seconds": 12583.24,
+              "clock": "03:29:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005611"
+            },
+            {
+              "stable_id": "asr-005625",
+              "start_seconds": 12600.0,
+              "clock": "03:30:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005625"
+            }
+          ]
+        },
+        {
+          "label": "North-South Commuter Railway acquisition gaps and bare minimum",
+          "text": "Ejercito said the NSCR right-of-way request had fallen from ₱23.89 billion to ₱2.79 billion. Batan said the Valenzuela–Malolos N1 segment, 28 kilometers with seven stations, had the right-of-way needed for partial operations the following year. Overall NSCR acquisition stood at 78%; N1 was 99%, the Clark-bound N2 86%, and the Manila–Calamba south segment 64%. The Clark segment still needed about ₱2 billion.\n\nFor the South, DOTr needed more than ₱20 billion; without added funding, contractors could be demobilized to limit prolongation and standby costs. Lopez said they would identify and submit a realistic bare-minimum list, including easier areas such as Santa Mesa and Paco, rather than request the full amount. Ejercito and Lopez noted that delay could raise land and construction costs through inflation and currency depreciation.",
+          "citations": [
+            {
+              "stable_id": "asr-005643",
+              "start_seconds": 12693.52,
+              "clock": "03:31:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005643"
+            },
+            {
+              "stable_id": "asr-005665",
+              "start_seconds": 12790.62,
+              "clock": "03:33:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005665"
+            },
+            {
+              "stable_id": "asr-005671",
+              "start_seconds": 12823.16,
+              "clock": "03:33:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005671"
+            },
+            {
+              "stable_id": "asr-005693",
+              "start_seconds": 12911.16,
+              "clock": "03:35:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005693"
+            },
+            {
+              "stable_id": "asr-005695",
+              "start_seconds": 12921.84,
+              "clock": "03:35:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005695"
+            }
+          ]
+        },
+        {
+          "label": "Mindanao Railway feasibility work, financing and project management",
+          "text": "Ejercito asked about the suspended Mindanao Railway Phase 1 (Tagum–Davao–Digos), prospective development partners, earlier expenditures and continued project-management funding. Batan said the 2016 feasibility study had cost about ₱50–60 million in locally funded money. DOTr had support from the Asian Development Bank to procure an updated feasibility-study consultant and was discussing development partnerships with India, Korea, France and Spain; government-to-government agreements were needed before development financing. Batan said recent GAA appropriations for this foreign-assisted project could not receive a Special Allotment Release Order (SARO) or be used before a loan agreement, while 2017–2019 funding had been used for right-of-way and the project-management office. He would submit the exact cumulative expenditure and right-of-way acquisition details; he said only a small amount of right-of-way had been acquired.\n\nLopez said DOTr needed to continue funding the project-management office and pursue right-of-way even without a loan, to preserve the alignment and avoid restarting or paying higher land costs later. Ejercito linked the project to Mindanao development and urged continued planning so a future partner could take over without starting from scratch.",
+          "citations": [
+            {
+              "stable_id": "asr-005794",
+              "start_seconds": 13132.76,
+              "clock": "03:38:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005794"
+            },
+            {
+              "stable_id": "asr-005814",
+              "start_seconds": 13172.02,
+              "clock": "03:39:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005814"
+            },
+            {
+              "stable_id": "asr-005874",
+              "start_seconds": 13282.78,
+              "clock": "03:41:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005874"
+            },
+            {
+              "stable_id": "asr-005917",
+              "start_seconds": 13368.84,
+              "clock": "03:42:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005917"
+            },
+            {
+              "stable_id": "asr-005967",
+              "start_seconds": 13469.22,
+              "clock": "03:44:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005967"
+            }
+          ]
+        },
+        {
+          "label": "Unfunded locally funded aviation and maritime projects",
+          "text": "Ejercito noted that 32 locally funded aviation projects received no FY2027 NEP allocation and asked how DOTr chose which projects to include and which unfunded projects were most urgent. Lopez said the department would submit its list of priority projects, hopefully by Monday. Ejercito also said DOTr proposed 91 locally funded maritime projects but only one received funding. Lopez clarified that the ₱1 million item was a variation, not a substantive locally funded project; he said locally funded project allocation was effectively zero. DOTr relies on the Philippine Ports Authority (PPA) for some port work, but its own ports serve community safety and social tourism, including fisherfolk and disaster response, rather than only commercial traffic. Lopez said DOTr would identify priority locations with PPA's help.",
+          "citations": [
+            {
+              "stable_id": "asr-006108",
+              "start_seconds": 14029.2,
+              "clock": "03:53:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006108"
+            },
+            {
+              "stable_id": "asr-006123",
+              "start_seconds": 14079.78,
+              "clock": "03:54:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006123"
+            },
+            {
+              "stable_id": "asr-006128",
+              "start_seconds": 14098.22,
+              "clock": "03:54:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006128"
+            },
+            {
+              "stable_id": "asr-006135",
+              "start_seconds": 14116.16,
+              "clock": "03:55:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006135"
+            },
+            {
+              "stable_id": "asr-006141",
+              "start_seconds": 14124.06,
+              "clock": "03:55:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006141"
+            }
+          ]
+        },
+        {
+          "label": "Aviation project priorities and Mati Airport",
+          "text": "Ejercito asked the DOTr to identify the five most urgent among 32 locally funded aviation projects that received no national FY 2027 NEP allocation, using safety, capacity, and operational need. Lopez agreed to submit a realistic priority list. Ejercito also asked which five or ten of 90 unfunded maritime projects were most needed for safety, disaster response, or agricultural transport; Lopez agreed to submit priorities.\n\nEjercito supported Mati Airport as an access point for Davao Oriental and the Caraga area, noting that the right of way had been resolved. Lopez said Congress had provided about ₱700 million for the project, but DOTr was waiting for the SARO release before procurement. DOTr had also requested an additional budget proposal; Ejercito asked it to state how much could be spent in FY 2027 and whether the earlier ₱700 million would suffice or need augmentation. Lopez agreed to submit the amount. No new augmentation was approved in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-006221",
+              "start_seconds": 15540.0,
+              "clock": "04:19:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006221"
+            },
+            {
+              "stable_id": "asr-006223",
+              "start_seconds": 15600.0,
+              "clock": "04:20:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006223"
+            },
+            {
+              "stable_id": "asr-006225",
+              "start_seconds": 15660.0,
+              "clock": "04:21:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006225"
+            },
+            {
+              "stable_id": "asr-006226",
+              "start_seconds": 15690.0,
+              "clock": "04:21:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006226"
+            },
+            {
+              "stable_id": "asr-006228",
+              "start_seconds": 15750.0,
+              "clock": "04:22:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006228"
+            }
+          ]
+        },
+        {
+          "label": "EDSA Busway funding and service continuity",
+          "text": "Asked why the FY 2027 NEP provided no funding for the EDSA busway despite rising ridership and stations needing rehabilitation, Lopez said DOTr had requested about ₱1.7 billion and received zero in the NEP. He warned that commuters would bear the effects, citing roughly 63 million annual passengers and planned accessibility features such as elevators, alongside station security and upkeep. Three additional stations were expected to finish within the year and another three the following year. DOTr asked for restoration of its request.\n\nWhen Ejercito asked for the minimum needed to keep improvements and service going, Lopez agreed to submit it. Ejercito supported continued busway improvements for ordinary commuters and stressed strict enforcement against vehicles entering the busway. Lopez said the Coast Guard, the private security provider he named as SAIC, and Land Transportation Office personnel assist with enforcement. No funding restoration was decided during this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-006234",
+              "start_seconds": 15930.0,
+              "clock": "04:25:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006234"
+            },
+            {
+              "stable_id": "asr-006250",
+              "start_seconds": 15968.62,
+              "clock": "04:26:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006250"
+            },
+            {
+              "stable_id": "asr-006253",
+              "start_seconds": 15975.38,
+              "clock": "04:26:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006253"
+            },
+            {
+              "stable_id": "asr-006262",
+              "start_seconds": 15994.9,
+              "clock": "04:26:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006262"
+            },
+            {
+              "stable_id": "asr-006302",
+              "start_seconds": 16070.04,
+              "clock": "04:27:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006302"
+            }
+          ]
+        },
+        {
+          "label": "Active transportation funding",
+          "text": "Ejercito asked what the department's original FY 2027 active transportation proposal of ₱1.128 billion would fund. DOTr Senior Undersecretary Mark Steven C. Pastor recalled a request of ₱1.2 billion and also said ₱1.3 billion, against a ₱33 million NEP allocation. He said this would support only about 5 to 6 kilometers of bike lanes or sidewalk expansion nationwide. DOTr also sought walkable EDSA sidewalks with the Department of Public Works and Highways (DPWH), public transport stops, and bicycle end-of-trip facilities with lockers, repair and shower facilities. Pastor asked the committee to increase the allocation; no amount was approved during this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-006522",
+              "start_seconds": 16331.76,
+              "clock": "04:32:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006522"
+            },
+            {
+              "stable_id": "asr-006552",
+              "start_seconds": 16364.2,
+              "clock": "04:32:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006552"
+            },
+            {
+              "stable_id": "asr-006555",
+              "start_seconds": 16369.44,
+              "clock": "04:32:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006555"
+            },
+            {
+              "stable_id": "asr-006556",
+              "start_seconds": 16370.86,
+              "clock": "04:32:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006556"
+            },
+            {
+              "stable_id": "asr-006564",
+              "start_seconds": 16380.46,
+              "clock": "04:33:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006564"
+            }
+          ]
+        },
+        {
+          "label": "Service contracting for nationwide transport support",
+          "text": "Asked how the service contracting program helped transport workers and commuters through the 2026 oil price crisis, Lopez described it as a social program that pays operators so service can continue without passing costs to commuters. DOTr requested ₱5 billion for FY 2027 and received zero in the NEP. Lopez said the FY 2026 ₱1 billion allocation, including ₱800 million for land transport, was spent by May or June and concentrated around Metro Manila. The new request was intended to extend support nationwide amid rising fuel prices. No restoration was decided.",
+          "citations": [
+            {
+              "stable_id": "asr-006677",
+              "start_seconds": 16503.92,
+              "clock": "04:35:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006677"
+            },
+            {
+              "stable_id": "asr-006706",
+              "start_seconds": 16534.98,
+              "clock": "04:35:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006706"
+            },
+            {
+              "stable_id": "asr-006721",
+              "start_seconds": 16550.12,
+              "clock": "04:35:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006721"
+            },
+            {
+              "stable_id": "asr-006746",
+              "start_seconds": 16578.52,
+              "clock": "04:36:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006746"
+            },
+            {
+              "stable_id": "asr-006768",
+              "start_seconds": 16601.86,
+              "clock": "04:36:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006768"
+            }
+          ]
+        },
+        {
+          "label": "Bus rapid transit and rail financing",
+          "text": "Ejercito asked how the reported 95% budget reduction would affect Cebu Bus Rapid Transit (BRT), its remaining components, and the projected 160,000 daily passengers. Pastor said Package 1 was completed the prior year and reduced a typical trip from two hours to one and a half. He first described the FY 2027 NEP allocation as ₱127 million, for right of way; later, when Ejercito asked about the initial proposal, Pastor said it was ₱3.7 billion and the NEP provided ₱175 million. These figures were not reconciled in the exchange. Two project loans were due to end in September and December, so DOTr planned to pivot toward a PPP, prioritize right of way, and then procure the civil works for Packages 2 and 3. Pastor described interim Cebu Bus Service (CBUS) service over 17 kilometers in each direction and estimated two to three years of construction after right of way was completed. Ejercito offered support and asked DOTr to submit the minimum additional amount needed; no augmentation was approved.\n\nLopez said a feasibility study was underway for a phased Cebu urban mass rail line from Carcar toward Danao. He later said the first 12 of Metro Rail Transit Line 7 (MRT-7)'s 14 stations were expected to begin commercial operations in the second quarter of 2027. DOTr had requested ₱3 billion for the FY 2027 PPP amortization payment, but it was absent from the NEP; Lopez said the department would assess how to adjust if the full amount could not be provided. Ejercito supported honoring the government's PPP obligations, and Lopez confirmed amortization would begin when operations started. No payment funding was approved in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-006874",
+              "start_seconds": 16710.72,
+              "clock": "04:38:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006874"
+            },
+            {
+              "stable_id": "asr-006876",
+              "start_seconds": 16715.18,
+              "clock": "04:38:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006876"
+            },
+            {
+              "stable_id": "asr-006999",
+              "start_seconds": 16870.58,
+              "clock": "04:41:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006999"
+            },
+            {
+              "stable_id": "asr-007002",
+              "start_seconds": 16874.7,
+              "clock": "04:41:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007002"
+            },
+            {
+              "stable_id": "asr-007098",
+              "start_seconds": 16994.82,
+              "clock": "04:43:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007098"
+            }
+          ]
+        },
+        {
+          "label": "Coast Guard stations, patrol assets, and capability requests",
+          "text": "PCG Commandant Admiral Ronnie Gil L. Gavan said eight stations still needed funding, at ₱25 million each, including stations in the Palawan and Kalayaan Island Group area; he warned this would affect West Philippine Sea activities. Ejercito cited a 57.5% cut to capital outlays and a ₱3.3 billion reduction in air and floating asset acquisition and maintenance. Gavan said the PCG was already operating near its limit, at roughly 80₱90% operational tempo, and could not sustain required ship repairs.\n\nOn the Maritime Security and Law Enforcement Program, Ejercito cited an ₱812 million cut and asked for the minimum needed; Gavan could not give the amount at the hearing and promised to submit it. Ejercito also said the intelligence fund had been reduced by ₱150 million and was ₱400 million for FY 2027; he deferred discussion of its adequacy and use until February. Gavan described a supplemental request for personnel procurement, helicopter acquisition, and unmanned capabilities. Only one of the PCG's two helicopters was flying; the other was under repair procurement. The PCG was pursuing a lease-to-own arrangement with performance-based logistics, which Gavan said could provide about 80% aircraft availability. Ejercito asked about a ₱600 million reduction to unmanned tactical capability; Gavan confirmed the request was not included in the NEP and sought support for air, surface, and undersea systems.\n\nGavan said an earlier ₱2.5 billion vessel procurement had not proceeded in 2024₱25 and that the PCG was pursuing local construction of a 160-meter vessel. He also described five vessels expected from Japan and fast patrol craft from France, with the smaller vessels expected as soon as the next year and the larger vessels in 2029. Ejercito asked about the headquarters project, whose total cost he stated as ₱5 billion; Gavan said groundbreaking was planned for that month and completion in three years. These were requests and timelines, not an approval of added appropriations.",
+          "citations": [
+            {
+              "stable_id": "asr-007211",
+              "start_seconds": 17106.84,
+              "clock": "04:45:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007211"
+            },
+            {
+              "stable_id": "asr-007257",
+              "start_seconds": 17325.12,
+              "clock": "04:48:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007257"
+            },
+            {
+              "stable_id": "asr-007261",
+              "start_seconds": 17349.22,
+              "clock": "04:49:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007261"
+            },
+            {
+              "stable_id": "asr-007302",
+              "start_seconds": 17508.16,
+              "clock": "04:51:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007302"
+            },
+            {
+              "stable_id": "asr-007280",
+              "start_seconds": 17430.5,
+              "clock": "04:50:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007280"
+            },
+            {
+              "stable_id": "asr-007375",
+              "start_seconds": 17731.46,
+              "clock": "04:55:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007375"
+            },
+            {
+              "stable_id": "asr-007387",
+              "start_seconds": 17756.68,
+              "clock": "04:55:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007387"
+            },
+            {
+              "stable_id": "asr-007388",
+              "start_seconds": 17760.5,
+              "clock": "04:56:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007388"
+            },
+            {
+              "stable_id": "asr-007394",
+              "start_seconds": 17784.62,
+              "clock": "04:56:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007394"
+            }
+          ]
+        },
+        {
+          "label": "Office for Transportation Security equipment and screener staffing",
+          "text": "Office for Transportation Security (OTS) Administrator Gilbert DC. Cruz said airport screening equipment was being moved between locations to cover needs, including international events, and that additional modern equipment would improve readiness. He said OTS served 95 airports, of which 41 were operational, including nine international airports. OTS had 2,247 screeners: 875 at Salary Grade 4, 1,004 at Salary Grade 8, and 368 at Salary Grade 11. He said the Salary Grade 4 pay range was ₱17,500–₱18,000.\n\nEjercito asked whether OTS had asked the DBM to upgrade screener compensation. Cruz said OTS had sent letters but could not immediately give their date; Ejercito requested copies and a staffing breakdown, and Cruz agreed to submit them. Ejercito also noted that OTS had no FY 2027 capital outlay and asked for its minimum equipment needs to replace aging security infrastructure. Cruz agreed to submit the request. No salary or equipment increase was approved in the exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-007449",
+              "start_seconds": 17914.84,
+              "clock": "04:58:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007449"
+            },
+            {
+              "stable_id": "asr-007450",
+              "start_seconds": 17917.26,
+              "clock": "04:58:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007450"
+            },
+            {
+              "stable_id": "asr-007465",
+              "start_seconds": 17963.96,
+              "clock": "04:59:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007465"
+            },
+            {
+              "stable_id": "asr-007466",
+              "start_seconds": 17966.68,
+              "clock": "04:59:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007466"
+            },
+            {
+              "stable_id": "asr-007485",
+              "start_seconds": 18003.78,
+              "clock": "05:00:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007485"
+            },
+            {
+              "stable_id": "asr-007492",
+              "start_seconds": 18017.82,
+              "clock": "05:00:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007492"
+            },
+            {
+              "stable_id": "asr-007494",
+              "start_seconds": 18021.92,
+              "clock": "05:00:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007494"
+            },
+            {
+              "stable_id": "asr-007496",
+              "start_seconds": 18025.74,
+              "clock": "05:00:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007496"
+            },
+            {
+              "stable_id": "asr-007497",
+              "start_seconds": 18027.46,
+              "clock": "05:00:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007497"
+            }
+          ]
+        },
+        {
+          "label": "Philippine National Railways service and rehabilitation needs",
+          "text": "Philippine National Railways (PNR) General Manager Deovanni S. Miranda said the active lines were a 77-kilometer Calamba–Lucena line and Camarines Sur services reaching Naga and Iriga. The San Rafael bridge work had begun; PNR was waiting for a SARO and using early procurement for critical bridge rehabilitation equipment. With National Capital Region operations halted for North–South Commuter Railway construction, two trains were operating and ridership was about 4,000 daily. Miranda hoped to add a train and restore long-haul service as rehabilitation progressed.\n\nEjercito cited a proposed FY 2027 government subsidy of about ₱283 million and the removal of ₱500 million in 2026 bridge funding from the 2027 proposal. Miranda said the NEP provided a little over ₱280 million, largely for general administrative services, with nearly ₱40 million for maintenance that might cover only one train for the year. He said deteriorated track ballast was worsening train condition. Ejercito recalled that nine train sets had cost about ₱3 billion and urged PNR to use available trains while awaiting the South Long Haul project. Miranda said about 212 kilometers of the 422-kilometer line could run trains; rehabilitation of nearly 200 more kilometers was targeted for the following year. He also identified needs for heavier maintenance facilities, safer railroad crossings, and longer stations. No additional amount or approval was recorded.\n\nAsked about governance, Miranda said management handled operations and the board helped with policy. Ejercito criticized the PNR chair's contribution based on his own experience as a former mayor; this was Ejercito's stated opinion. Miranda said security personnel monitored the 422-kilometer right of way. Ejercito asked PNR to submit its minimum needs for track repair and service expansion.",
+          "citations": [
+            {
+              "stable_id": "asr-007690",
+              "start_seconds": 18415.16,
+              "clock": "05:06:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007690"
+            },
+            {
+              "stable_id": "asr-007693",
+              "start_seconds": 18418.84,
+              "clock": "05:06:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007693"
+            },
+            {
+              "stable_id": "asr-007702",
+              "start_seconds": 18436.88,
+              "clock": "05:07:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007702"
+            },
+            {
+              "stable_id": "asr-007703",
+              "start_seconds": 18438.84,
+              "clock": "05:07:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007703"
+            },
+            {
+              "stable_id": "asr-007708",
+              "start_seconds": 18448.7,
+              "clock": "05:07:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007708"
+            },
+            {
+              "stable_id": "asr-007726",
+              "start_seconds": 18484.02,
+              "clock": "05:08:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007726"
+            }
+          ]
+        },
+        {
+          "label": "Airport project funding and right of way",
+          "text": "For Bukidnon Airport, CAAP Deputy Director General for Administration Atty. Danjun G. Lucas said CAAP had approved an additional ₱150 million from its corporate operating budget to retrofit the box culvert between the 1,600- and 2,100-meter runway sections. Ejercito asked about Camiguin Airport's short runway and right of way. Lopez first recalled ₱250 million, then corrected the SARO-related request to ₱150 million; he also said an initial right-of-way budget had been downloaded and more was needed to extend the runway for jet aircraft.",
+          "citations": [
+            {
+              "stable_id": "asr-007925",
+              "start_seconds": 18917.28,
+              "clock": "05:15:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007925"
+            },
+            {
+              "stable_id": "asr-007943",
+              "start_seconds": 19085.2,
+              "clock": "05:18:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007943"
+            },
+            {
+              "stable_id": "asr-007944",
+              "start_seconds": 19096.54,
+              "clock": "05:18:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007944"
+            }
+          ]
+        },
+        {
+          "label": "MARINA systems renewal and electronic seafarer records",
+          "text": "Ejercito asked Maritime Industry Authority (MARINA) Administrator Sonia B. Malaluan whether the Seafarer's Record Book could become digitally verifiable. Malaluan said an electronic record book was in MARINA's medium-term plan but was not included in its FY 2027 proposal. Its immediate FY 2027 proposal prioritized a technology refresh, data center, and recovery system for the Seafarer Identity Document and Seafarer's Record Book system, whose software and hardware had not been updated since implementation began in 2019. She said the system was experiencing frequent hardware breakdowns; an electronic seafarer's record book and electronic training record book were later steps, subject to additional budget. Existing record books had validity verification and biometric features.",
+          "citations": [
+            {
+              "stable_id": "asr-007948",
+              "start_seconds": 19140.28,
+              "clock": "05:19:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007948"
+            },
+            {
+              "stable_id": "asr-007952",
+              "start_seconds": 19175.1,
+              "clock": "05:19:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007952"
+            },
+            {
+              "stable_id": "asr-007958",
+              "start_seconds": 19233.84,
+              "clock": "05:20:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007958"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dotr-presentation",
+      "label": "DOTr presentation",
+      "items": [
+        {
+          "label": "Sangley airport, turboprop access and runway expansion",
+          "text": "Tulfo said Manila-bound travelers faced longer journeys when turboprop flights to island tourist destinations were routed through Clark, and asked whether Sangley could serve domestic turboprop flights. Lopez distinguished the DOTr and CAAP domestic airport from the larger Sangley International Airport, a joint venture with Cavite Province involving proponents and the Philippine Navy. He said work on the international project was continuing with the provincial government and DOTr/CAAP technical cooperation. Lopez said limited airport space and difficult road access constrained Sangley. For tourist airports, he said the department sought funding to widen and lengthen runways but did not receive sufficient NEP funding, and asked CAAP to fund runway work. He said Busuanga runway widening and extension was underway, with completion hoped for by the second quarter of the next year, allowing larger jet aircraft to fly there from Manila.",
+          "citations": [
+            {
+              "stable_id": "asr-000936",
+              "start_seconds": 2030.62,
+              "clock": "00:33:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000936"
+            },
+            {
+              "stable_id": "asr-000948",
+              "start_seconds": 2123.04,
+              "clock": "00:35:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000948"
+            },
+            {
+              "stable_id": "asr-000990",
+              "start_seconds": 2285.88,
+              "clock": "00:38:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000990"
+            },
+            {
+              "stable_id": "asr-001025",
+              "start_seconds": 2382.16,
+              "clock": "00:39:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001025"
+            }
+          ]
+        },
+        {
+          "label": "Transport infrastructure and commuter programs",
+          "text": "The prerecorded presentation described fare discounts and commuter support, including 50% discounts for seniors, students and persons with disabilities; free rides through the Love Bus and service contracting; and Uplift measures such as fare and fuel assistance, terminal-fee and toll discounts, and transport-charge rebates during the Middle East crisis. It highlighted the Metro Manila Subway, North-South Commuter Railway, MRT-7, Unified Grand Central Station, Light Rail Transit Line 1 (LRT-1) Cavite Extension and Mindanao Railway, alongside railway rehabilitation and right-of-way acquisition. Road initiatives included active transport, the Davao Public Transport Modernization Project, Cebu Bus Rapid Transit, transport hubs, the EDSA Busway, and expressway works including South Luzon Expressway Toll Road 4, Cavite Expressway C5 Link, Ninoy Aquino International Airport (NAIA) Expressway and C5 North Link. The presentation described expected travel-time reductions, passenger service and project progress.",
+          "citations": [
+            {
+              "stable_id": "asr-001125-split-2",
+              "start_seconds": 2609.8,
+              "clock": "00:43:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001125-split-2"
+            },
+            {
+              "stable_id": "asr-001150",
+              "start_seconds": 2898.56,
+              "clock": "00:48:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001150"
+            },
+            {
+              "stable_id": "asr-001197",
+              "start_seconds": 2995.9,
+              "clock": "00:49:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001197"
+            },
+            {
+              "stable_id": "asr-001263",
+              "start_seconds": 3128.18,
+              "clock": "00:52:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001263"
+            }
+          ]
+        },
+        {
+          "label": "Airport and port upgrades, Coast Guard operations and audit result",
+          "text": "The video reported 83 completed airport projects as of July 2026 and described terminal and runway work at Laoag, Busuanga, Bicol, Antique, Bukidnon, Davao, Siargao, Ninoy Aquino, Laguindingan and Bohol-Panglao airports. It also described PPA work: 15 port projects completed in 2025, six as of June 2026, and 87 ongoing as of June 25, 2026 (33 in Luzon, 33 in Visayas and 21 in Mindanao), with examples at Balingoan, Banago, Benoni and Lucena. The video said the Coast Guard District in the Kalayaan Island Group was activated in April 2025 to support maritime security, enforcement of Philippine maritime law and sovereignty in the West Philippine Sea, and summarized rescue, relief and typhoon evacuation work. It closed by stating the DOTr received its first unmodified Commission on Audit opinion in over three decades for FY2025.",
+          "citations": [
+            {
+              "stable_id": "asr-001301",
+              "start_seconds": 3205.98,
+              "clock": "00:53:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001301"
+            },
+            {
+              "stable_id": "asr-001400",
+              "start_seconds": 3402.48,
+              "clock": "00:56:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001400"
+            },
+            {
+              "stable_id": "asr-001448",
+              "start_seconds": 3478.2,
+              "clock": "00:57:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001448"
+            },
+            {
+              "stable_id": "asr-001454",
+              "start_seconds": 3491.5,
+              "clock": "00:58:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001454"
+            },
+            {
+              "stable_id": "asr-001488",
+              "start_seconds": 3548.52,
+              "clock": "00:59:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001488"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-priorities",
+      "label": "Opening priorities",
+      "items": [
+        {
+          "label": "Airport, seaport and tourist-destination connections",
+          "text": "Ejercito said transportation oversight should extend beyond roads and railways to airports and seaports, the country's gateways. He pointed to recurring congestion, long queues, inadequate facilities and difficult connections between transport hubs and tourist destinations.",
+          "citations": [
+            {
+              "stable_id": "asr-000191",
+              "start_seconds": 493.62,
+              "clock": "00:08:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000191"
+            },
+            {
+              "stable_id": "asr-000193",
+              "start_seconds": 497.18,
+              "clock": "00:08:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000193"
+            },
+            {
+              "stable_id": "asr-000198",
+              "start_seconds": 506.98,
+              "clock": "00:08:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000198"
+            }
+          ]
+        },
+        {
+          "label": "Transport investment, economic growth and lasting work",
+          "text": "Ejercito said transportation investment supports economic growth beyond commuter convenience by spreading development to the countryside, creating jobs and opening opportunities. He said people need sustained work and livelihoods rather than relying on short-term aid throughout their lives; improved transport can create growth areas while the economy recovers. He closed by emphasizing shorter trips, safer and more reliable public transportation, better connectivity, and more time for family and livelihood.",
+          "citations": [
+            {
+              "stable_id": "asr-000285",
+              "start_seconds": 659.22,
+              "clock": "00:10:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000285"
+            },
+            {
+              "stable_id": "asr-000305",
+              "start_seconds": 685.0,
+              "clock": "00:11:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000305"
+            },
+            {
+              "stable_id": "asr-000358",
+              "start_seconds": 739.64,
+              "clock": "00:12:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000358"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-erwin-tulfo",
+      "label": "Senator Erwin Tulfo",
+      "items": [
+        {
+          "label": "Public transport funding, service and accountability",
+          "text": "Tulfo said transport funding directly affects commuters' time, safety and access to reliable public service. He urged the committee to examine where public money goes, what concrete results it produces and who benefits, with measurable targets and accountability. He tied public confidence in continued tax payments to visible improvements, noting persistent traffic, travel delays, and red tape and bureaucracy in obtaining licenses. He said a well-designed program is not enough unless it produces tangible service for ordinary Filipinos.",
+          "citations": [
+            {
+              "stable_id": "asr-000410",
+              "start_seconds": 796.38,
+              "clock": "00:13:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000410"
+            },
+            {
+              "stable_id": "asr-000472",
+              "start_seconds": 854.9200000000001,
+              "clock": "00:14:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000472"
+            },
+            {
+              "stable_id": "asr-000508",
+              "start_seconds": 895.5,
+              "clock": "00:14:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000508"
+            }
+          ]
+        },
+        {
+          "label": "Airport accessibility and future runway standards",
+          "text": "Lopez said future designs for large and international airports should include bridge provisions from the outset. He also proposed a minimum 2,100-meter runway standard even for small airports, with land acquired in advance for future expansion. Tulfo supported making passenger bridges a standard for international airports, including Laoag. Lopez agreed.",
+          "citations": [
+            {
+              "stable_id": "asr-001594",
+              "start_seconds": 3933.32,
+              "clock": "01:05:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001594"
+            }
+          ]
+        },
+        {
+          "label": "Philippine National Railways service and rehabilitation roadmap",
+          "text": "Miranda said PNR was operating two train sets between Calamba and Lucena and another train in Camarines Sur; service had previously reached Legazpi. Trains held in Manila during the suspension of Manila–Calamba service were to be moved that year to increase capacity in Calamba–Lucena, Camarines Sur, and Albay. Reopening Manila-to-Bicol service depended on completion of the North–South Commuter Railway (NSCR). PNR's 2050 roadmap began with rehabilitation of the 422-kilometer Calamba–Legazpi line, for which about 20,000 to 25,000 daily passengers were projected. Miranda said the line could also support movement of commodities between the Visayas–Mindanao region and Metro Manila. PNR was discussing possible coordination with La Union on using its right of way for road and rail, but talks with the local government were ongoing. No completion date for Manila-to-Bicol service was given.",
+          "citations": [
+            {
+              "stable_id": "asr-001773",
+              "start_seconds": 4358.38,
+              "clock": "01:12:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001773"
+            },
+            {
+              "stable_id": "asr-001778",
+              "start_seconds": 4368.2,
+              "clock": "01:12:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001778"
+            },
+            {
+              "stable_id": "asr-001784",
+              "start_seconds": 4380.06,
+              "clock": "01:13:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001784"
+            }
+          ]
+        },
+        {
+          "label": "Rail project schedules, funding delays, and projected commuter benefits",
+          "text": "Tulfo described Philippine transport as lagging regional systems and asked whether rail and subway projects could improve transport and ease traffic in their lifetimes. Lopez said funding interruptions had delayed foreign-assisted NSCR work: two years without adequate funding plus about two years for contractors to remobilize, with added prolongation and interest costs. He said partial NSCR operations from East and West Valenzuela to Malolos remained targeted for December 2027. He gave 2032 as the target for full subway operations. In the same answer, Lopez cited an unmodified Commission on Audit (COA) opinion on DOTr's prior-year spending, which he said increased his confidence that the Senate and Congress could protect project funds.\n\nLopez said the first 12 MRT-7 stations, from Sacred Heart to North Avenue, were still expected to begin commercial service in the second quarter of 2027. He projected about 300,000 daily passengers for MRT-7, which he translated to 60,000 fewer cars using an assumed five passengers per car. For the combined NSCR, subway, Metro Rail Transit Line 3 (MRT-3), and MRT-7 systems, he projected five million daily passengers and later estimated one million fewer vehicles. These were the Secretary's projections; this exchange did not establish measured results.",
+          "citations": [
+            {
+              "stable_id": "asr-001886",
+              "start_seconds": 4584.12,
+              "clock": "01:16:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001886"
+            },
+            {
+              "stable_id": "asr-001894",
+              "start_seconds": 4600.06,
+              "clock": "01:16:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001894"
+            },
+            {
+              "stable_id": "asr-001926",
+              "start_seconds": 4663.72,
+              "clock": "01:17:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001926"
+            },
+            {
+              "stable_id": "asr-001964",
+              "start_seconds": 4739.88,
+              "clock": "01:18:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001964"
+            },
+            {
+              "stable_id": "asr-001968",
+              "start_seconds": 4748.08,
+              "clock": "01:19:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001968"
+            },
+            {
+              "stable_id": "asr-001969",
+              "start_seconds": 4749.54,
+              "clock": "01:19:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001969"
+            },
+            {
+              "stable_id": "asr-001977",
+              "start_seconds": 4765.68,
+              "clock": "01:19:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001977"
+            },
+            {
+              "stable_id": "asr-001982",
+              "start_seconds": 4776.12,
+              "clock": "01:19:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001982"
+            },
+            {
+              "stable_id": "asr-001992",
+              "start_seconds": 4795.88,
+              "clock": "01:19:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-001992"
+            },
+            {
+              "stable_id": "asr-002007",
+              "start_seconds": 4824.48,
+              "clock": "01:20:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002007"
+            },
+            {
+              "stable_id": "asr-002008",
+              "start_seconds": 4826.24,
+              "clock": "01:20:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Long-term transport planning and infrastructure investment",
+          "text": "Ejercito urged the agencies and Congress to set out concrete transport plans during the administration's remaining two years, while keeping major projects moving across presidential terms. He supported Senate Bill No. 2 on a Master Plan for Infrastructure and National Development as a basis for long-term planning, and emphasized railway, airport and port improvements for provincial economic activity. He contrasted infrastructure spending of about 5–7% of gross domestic product in some Association of Southeast Asian Nations (ASEAN) countries with the Philippines' average of about 2% over several decades, which he said had risen only recently. He credited the previous administration with starting the NSCR and Metro Manila Subway and recalled Japan and the JICA undertaking their funding and development. Ejercito said he would work with any administration to carry transport projects through.",
+          "citations": [
+            {
+              "stable_id": "asr-000516",
+              "start_seconds": 955.36,
+              "clock": "00:15:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000516"
+            },
+            {
+              "stable_id": "asr-000525",
+              "start_seconds": 1053.38,
+              "clock": "00:17:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000525"
+            },
+            {
+              "stable_id": "asr-000526",
+              "start_seconds": 1059.76,
+              "clock": "00:17:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000526"
+            },
+            {
+              "stable_id": "asr-000547",
+              "start_seconds": 1124.16,
+              "clock": "00:18:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000547"
+            }
+          ]
+        },
+        {
+          "label": "Motorcycle-taxi pilot and route expansion",
+          "text": "Ejercito asked whether pilot studies for motorcycle taxis in Metro Manila and other urban centers had been completed and when route rationalization work would finish. Pua said the board was processing provisional authorities within the cap set by Congress for the pilot. After those applications, it would determine how many applicants remained outside the cap, with the stated direction that no one should lose work. The sequence was Metro Manila, then Cebu and Cagayan de Oro, followed by other regions with Lopez's approval. Ejercito asked for updates, including on the cap, and noted that established transport sectors also needed consideration; he identified himself as a supporter of the pilot. Pua agreed to report back.",
+          "citations": [
+            {
+              "stable_id": "asr-006229-split-2",
+              "start_seconds": 15784.1,
+              "clock": "04:23:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006229-split-2"
+            },
+            {
+              "stable_id": "asr-006230",
+              "start_seconds": 15810.0,
+              "clock": "04:23:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006230"
+            },
+            {
+              "stable_id": "asr-006230-split-2",
+              "start_seconds": 15830.1,
+              "clock": "04:23:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006230-split-2"
+            },
+            {
+              "stable_id": "asr-006231",
+              "start_seconds": 15840.0,
+              "clock": "04:24:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006231"
+            },
+            {
+              "stable_id": "asr-006232",
+              "start_seconds": 15870.0,
+              "clock": "04:24:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006232"
+            },
+            {
+              "stable_id": "asr-006232-split-2",
+              "start_seconds": 15881.7,
+              "clock": "04:24:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006232-split-2"
+            },
+            {
+              "stable_id": "asr-006233",
+              "start_seconds": 15900.0,
+              "clock": "04:25:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006233"
+            },
+            {
+              "stable_id": "asr-006233-split-2",
+              "start_seconds": 15911.4,
+              "clock": "04:25:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006233-split-2"
+            }
+          ]
+        },
+        {
+          "label": "West Philippine Sea incident and fisher support",
+          "text": "Ejercito asked about a report that morning of a Chinese Coast Guard vessel ramming a Bureau of Fisheries and Aquatic Resources (BFAR) vessel. Gavan said the collision occurred at 11:15; no personnel were injured, but vessel damage was reported. A PCG vessel and aircraft were sent to assist. He added that the same BFAR vessel had run aground the previous day and the Coast Guard helped free it; its crew then continued a mission to provide fuel subsidies, ice, water, and other supplies to offshore fishers under the Kadiwa para sa mga Bagong Bayaning Mangingisda (KBBM) program.\n\nAsked what action the PCG took in response to intimidation, Gavan said it had issued a press release to inform the international community. He emphasized that the BFAR vessel was civilian and unarmed. He said the PCG participates in the National Task Force on the West Philippine Sea with the Department of Foreign Affairs (DFA).",
+          "citations": [
+            {
+              "stable_id": "asr-007215",
+              "start_seconds": 17127.52,
+              "clock": "04:45:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007215"
+            },
+            {
+              "stable_id": "asr-007217",
+              "start_seconds": 17139.02,
+              "clock": "04:45:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007217"
+            },
+            {
+              "stable_id": "asr-007218",
+              "start_seconds": 17147.98,
+              "clock": "04:45:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007218"
+            },
+            {
+              "stable_id": "asr-007219",
+              "start_seconds": 17150.0,
+              "clock": "04:45:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007219"
+            },
+            {
+              "stable_id": "asr-007225",
+              "start_seconds": 17167.2,
+              "clock": "04:46:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007225"
+            },
+            {
+              "stable_id": "asr-007227",
+              "start_seconds": 17173.32,
+              "clock": "04:46:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007227"
+            },
+            {
+              "stable_id": "asr-007235",
+              "start_seconds": 17217.52,
+              "clock": "04:46:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007235"
+            },
+            {
+              "stable_id": "asr-007237",
+              "start_seconds": 17231.04,
+              "clock": "04:47:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007237"
+            },
+            {
+              "stable_id": "asr-007241",
+              "start_seconds": 17255.84,
+              "clock": "04:47:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007241"
+            },
+            {
+              "stable_id": "asr-007242",
+              "start_seconds": 17267.32,
+              "clock": "04:47:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007242"
+            },
+            {
+              "stable_id": "asr-007247",
+              "start_seconds": 17294.1,
+              "clock": "04:48:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007247"
+            },
+            {
+              "stable_id": "asr-007254",
+              "start_seconds": 17314.9,
+              "clock": "04:48:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007254"
+            }
+          ]
+        },
+        {
+          "label": "Airport readiness and operating schedules",
+          "text": "Lopez said Bukidnon Airport's passenger terminal and turboprop runway were targeted for completion by December 2026, with the 2,100-meter runway targeted for the second quarter of 2027. Lucas said jet operations were expected in the first or second quarter of 2027; the box culvert retrofit was needed because water ran below it and the runway would bear heavier loads. The parking area was nearing completion, and DOTr and the CAAP were coordinating with the Department of Public Works and Highways on an access road.\n\nDel Rosario said runway lights were installed at Cauayan Airport for night operations, with widening still needed before landing operations; an asphalt overlay was in procurement. Lopez said FY 2026 funding was awaiting SARO release, and CAAP would use its corporate fund in the meantime.",
+          "citations": [
+            {
+              "stable_id": "asr-007893",
+              "start_seconds": 18824.18,
+              "clock": "05:13:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007893"
+            },
+            {
+              "stable_id": "asr-007930",
+              "start_seconds": 18971.42,
+              "clock": "05:16:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007930"
+            },
+            {
+              "stable_id": "asr-007931",
+              "start_seconds": 18976.54,
+              "clock": "05:16:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007931"
+            },
+            {
+              "stable_id": "asr-007964",
+              "start_seconds": 19291.12,
+              "clock": "05:21:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007964"
+            },
+            {
+              "stable_id": "asr-007969",
+              "start_seconds": 19313.92,
+              "clock": "05:21:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007969"
+            },
+            {
+              "stable_id": "asr-007977",
+              "start_seconds": 19352.6,
+              "clock": "05:22:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007977"
+            },
+            {
+              "stable_id": "asr-007980",
+              "start_seconds": 19360.74,
+              "clock": "05:22:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007980"
+            },
+            {
+              "stable_id": "asr-007984",
+              "start_seconds": 19369.94,
+              "clock": "05:22:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007984"
+            },
+            {
+              "stable_id": "asr-007986",
+              "start_seconds": 19381.18,
+              "clock": "05:23:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007986"
+            },
+            {
+              "stable_id": "asr-007988",
+              "start_seconds": 19386.6,
+              "clock": "05:23:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007988"
+            }
+          ]
+        },
+        {
+          "label": "Palawan port operations and shipping costs",
+          "text": "Ejercito asked about ports in San Fernando, El Nido, Borac, and Coron, saying a port inaugurated under the prior administration was reportedly unused and cargo shipping in Palawan remained expensive. PPA General Manager Jay Daniel R. Santiago said the provincial government had asked to operate two of the ports. PPA was discussing a turnover for an initial three years, targeted for October, subject to approval by the PPA board. Ejercito asked the agency to identify any needed support.",
+          "citations": [
+            {
+              "stable_id": "asr-007989",
+              "start_seconds": 19393.6,
+              "clock": "05:23:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007989"
+            },
+            {
+              "stable_id": "asr-007997",
+              "start_seconds": 19422.52,
+              "clock": "05:23:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007997"
+            },
+            {
+              "stable_id": "asr-008004",
+              "start_seconds": 19454.3,
+              "clock": "05:24:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-008004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-sherwin-win-t-gatchalian",
+      "label": "Senator Sherwin \"Win\" T. Gatchalian",
+      "items": [
+        {
+          "label": "Weekly public-transport commute practice",
+          "text": "Gatchalian asked Lopez whether the practice of having top management commute by public transport once a week continued. Lopez said he still did it, although it was not publicized, and he could not verify whether his colleagues followed it. Gatchalian urged senior officials to continue so they would see commuters' conditions firsthand.",
+          "citations": [
+            {
+              "stable_id": "asr-002053",
+              "start_seconds": 4922.2,
+              "clock": "01:22:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002053"
+            },
+            {
+              "stable_id": "asr-002064",
+              "start_seconds": 4944.7,
+              "clock": "01:22:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002064"
+            }
+          ]
+        },
+        {
+          "label": "North-South Commuter Railway and Metro Manila Subway progress",
+          "text": "Batan said the NSCR planned first partial operations on 28 kilometers and seven stations from Valenzuela to Malolos in December 2027, an extension to Clark by end-2028, Alabang-Calamba partial operations in 2031, and full Clark-Calamba service across 147 kilometers and 35 stations in 2032 or 2033. As of July 2026, NSCR was 62% complete with ROW acquisition at 78%. The Metro Manila Subway was scheduled for full operations in 2031, with a train demonstration from Quirino Highway to East Valenzuela in March 2028; progress was 60% and ROW acquisition 91%.",
+          "citations": [
+            {
+              "stable_id": "asr-002268",
+              "start_seconds": 5347.88,
+              "clock": "01:29:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002268"
+            },
+            {
+              "stable_id": "asr-002318",
+              "start_seconds": 5447.92,
+              "clock": "01:30:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002318"
+            }
+          ]
+        },
+        {
+          "label": "Delayed Cebu and Davao transport projects",
+          "text": "Gatchalian flagged ODA delays including 46% slippage for Cebu Bus Rapid Transit (BRT), 13% for the Metro Manila Subway against target, 18% for NSCR and 87% for Davao public-transport modernization. Pastor said Cebu BRT's first package (3.3 kilometers of dedicated lanes) was operating and had reduced the previous two-hour per-direction travel time by 30 minutes. Begun in 2014, the project underwent repeated alignment changes; two packages remained to be bid because ROW for packages 2 and 3 was incomplete. With loans expiring September 30 and December 31 that year, DOTr decided against extension and was developing a public-private partnership with the Public-Private Partnership Center while continuing ROW acquisition. Pastor traced the delay to alignment revisions and studies from 2018 to 2021; procurement and civil works began in 2021.\n\nHe said Davao's ROW had been zero when the current team took over in February 2025; 24 of 36 parcels were secured, and its bus driving school was targeted for completion in the first quarter of the following year. The proposed Davao network covered 672 kilometers, with more than 1,100 buses and stops, most buses electric. Local government units would operate the high-priority bus system, which would not have dedicated lanes on every route, based on the project study.",
+          "citations": [
+            {
+              "stable_id": "asr-002346",
+              "start_seconds": 5504.6,
+              "clock": "01:31:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002346"
+            },
+            {
+              "stable_id": "asr-002406",
+              "start_seconds": 5648.44,
+              "clock": "01:34:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002406"
+            },
+            {
+              "stable_id": "asr-002500",
+              "start_seconds": 5856.98,
+              "clock": "01:37:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002500"
+            }
+          ]
+        },
+        {
+          "label": "Route rationalization and modernization strategy",
+          "text": "Gatchalian said route rationalization remained incomplete and was the basic guide to the number of modern public utility vehicles needed on each route. Assistant Secretary Jojo Reyes said full-scale studies would take about 23 months, so DOTr was focusing JICA-supported work on selected locations; local governments had submitted 1,187 Local Public Transport Route Plan drafts and received 683 notices of completion. Reyes described capacity and coordination limits and said areas had expanded to include Cebu tri-city.\n\nGatchalian urged DOTr to finish priority areas, especially Metro Manila, in manageable quadrants. Lopez agreed that quadrants could simplify intra-city planning and promised a strategy submission. Gatchalian also asked for a subsidy-disbursement report.",
+          "citations": [
+            {
+              "stable_id": "asr-003433",
+              "start_seconds": 7756.06,
+              "clock": "02:09:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003433"
+            },
+            {
+              "stable_id": "asr-003470",
+              "start_seconds": 7835.9,
+              "clock": "02:10:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003470"
+            },
+            {
+              "stable_id": "asr-003664",
+              "start_seconds": 8222.44,
+              "clock": "02:17:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003664"
+            },
+            {
+              "stable_id": "asr-003783",
+              "start_seconds": 8436.0,
+              "clock": "02:20:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003783"
+            },
+            {
+              "stable_id": "asr-003925",
+              "start_seconds": 8725.58,
+              "clock": "02:25:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-003925"
+            }
+          ]
+        },
+        {
+          "label": "Right-of-way acquisition process",
+          "text": "Gatchalian asked whether expropriation could follow a failed negotiation, with just compensation determined in court. Lopez said the department follows a sequence of donation, negotiation and, as a last resort, expropriation, with due process and time limits. He said the Accelerated Right-of-Way Act had made negotiated sale prices more reasonable and that more owners were agreeing to negotiated sales. Gatchalian questioned why the department could not proceed directly to expropriation when negotiations failed; Lopez maintained that the statutory steps had to be followed.",
+          "citations": [
+            {
+              "stable_id": "asr-005727",
+              "start_seconds": 13000.1,
+              "clock": "03:36:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005727"
+            },
+            {
+              "stable_id": "asr-005729",
+              "start_seconds": 13004.96,
+              "clock": "03:36:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005729"
+            },
+            {
+              "stable_id": "asr-005745",
+              "start_seconds": 13031.78,
+              "clock": "03:37:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005745"
+            },
+            {
+              "stable_id": "asr-005771",
+              "start_seconds": 13086.58,
+              "clock": "03:38:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-005771"
+            }
+          ]
+        },
+        {
+          "label": "Flooding linked to NSCR construction in Bulacan and Valenzuela",
+          "text": "Ejercito relayed Senator Joel Villanueva's concern that construction debris and heavy fill along the NSCR near MacArthur Highway had blocked natural waterways and worsened flooding in Malolos, Paombong and Pulilan. Gatchalian added that the PNR Creek in Valenzuela had been inadvertently covered during NSCR construction; after DOTr worked with the city to reopen it, the creek did not return to its former size.\n\nLopez said he and the Public Works Secretary had arranged a meeting with NSCR contractors for the following week to examine the alignment and corrective measures. He said the Japanese-designed, JICA-approved project included deep detention basins at West Valenzuela station, but acknowledged surrounding areas could still flood and said DOTr would coordinate with the DPWH on corrections. Gatchalian emphasized restoring waterways and coordinating with local officials; Lopez agreed to review and address the concerns.",
+          "citations": [
+            {
+              "stable_id": "asr-006012",
+              "start_seconds": 13668.34,
+              "clock": "03:47:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006012"
+            },
+            {
+              "stable_id": "asr-006022",
+              "start_seconds": 13718.4,
+              "clock": "03:48:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006022"
+            },
+            {
+              "stable_id": "asr-006063",
+              "start_seconds": 13860.9,
+              "clock": "03:51:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006063"
+            },
+            {
+              "stable_id": "asr-006097",
+              "start_seconds": 13974.82,
+              "clock": "03:52:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-006097"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-christopher-lawrence-t-go",
+      "label": "Senator Christopher Lawrence T. Go",
+      "items": [
+        {
+          "label": "Airport partnerships, public ownership and passenger safeguards",
+          "text": "Go asked whether privatizing airports improved service and whether passenger charges rose. Lopez said public-private partnerships (PPPs) could secure funding and bring operational efficiency, while the government retained ownership, regulation and oversight. Private partners would operate and maintain facilities and pay the government. He said government should retain authority over regulatory fees within reasonable contractual terms and keep security as a sovereign responsibility. Go emphasized comfortable service at affordable, reasonable fees and urged the department to protect passengers' interests.",
+          "citations": [
+            {
+              "stable_id": "asr-004547",
+              "start_seconds": 9928.66,
+              "clock": "02:45:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004547"
+            },
+            {
+              "stable_id": "asr-004576",
+              "start_seconds": 9990.64,
+              "clock": "02:46:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004576"
+            },
+            {
+              "stable_id": "asr-004616",
+              "start_seconds": 10070.34,
+              "clock": "02:47:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004616"
+            },
+            {
+              "stable_id": "asr-004649",
+              "start_seconds": 10135.94,
+              "clock": "02:48:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004649"
+            }
+          ]
+        },
+        {
+          "label": "Airport and seaport traveler helpdesks",
+          "text": "Go asked whether airport and seaport helpdesks continued. Del Rosario said airport helpdesks remained open, with added operations during peak travel and calamities; staff provided food, drinks and sleeping provisions when passengers were stranded. Del Rosario said CAAP had overseas Filipino worker (OFW) centers in Davao and Zamboanga and was considering more, with Civil Aeronautics Board (CAB) helpdesks also assisting at airports. Santiago said its Malasakit Helpdesks were staffed 365 days a year, 24 hours a day. Go urged staff to be available to refer and assist provincial travelers and OFWs.",
+          "citations": [
+            {
+              "stable_id": "asr-004699",
+              "start_seconds": 10237.94,
+              "clock": "02:50:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004699"
+            },
+            {
+              "stable_id": "asr-004717",
+              "start_seconds": 10273.5,
+              "clock": "02:51:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004717"
+            },
+            {
+              "stable_id": "asr-004814",
+              "start_seconds": 10472.68,
+              "clock": "02:54:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004814"
+            }
+          ]
+        },
+        {
+          "label": "Airline promo itinerary penalty referred for inquiry",
+          "text": "Go described a passenger itinerary from Davao to Manila and onward to Vietnam bought as a dollar-priced promo ticket for about ₱41,000 for two passengers, or roughly ₱21,000 each. After an emergency forced one traveler to miss the Davao-Manila leg, the airline would allow use of the Manila-Vietnam leg only if the passenger paid a ₱14,000 penalty, although Go said the unused seat could be resold.\n\nCAB Executive Director Atty. Carmelo L. Arcilla said the charge did not make sense on its face and promised to investigate the airline and itinerary, coordinate with Go's office for details, and consider whether the regulation needed to be strengthened under the Air Passenger Bill of Rights. Go said similar complaints affected ordinary travelers and overseas Filipino workers; he would coordinate with CAB. No inquiry outcome is given in this round.",
+          "citations": [
+            {
+              "stable_id": "asr-004876",
+              "start_seconds": 10597.72,
+              "clock": "02:56:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004876"
+            },
+            {
+              "stable_id": "asr-004877",
+              "start_seconds": 10601.06,
+              "clock": "02:56:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004877"
+            },
+            {
+              "stable_id": "asr-004878",
+              "start_seconds": 10602.96,
+              "clock": "02:56:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004878"
+            },
+            {
+              "stable_id": "asr-004920",
+              "start_seconds": 10689.98,
+              "clock": "02:58:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004920"
+            },
+            {
+              "stable_id": "asr-004939",
+              "start_seconds": 10729.48,
+              "clock": "02:58:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-004939"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-closing-outcome",
+      "label": "Closing outcome",
+      "items": [
+        {
+          "label": "Budget submitted for plenary consideration, subject to follow-up",
+          "text": "Ejercito said there were no further matters for discussion in the briefing and that the remaining questions would be sent to the agencies for written answers.\n\nHe thanked the resource persons, then declared the budgets of the DOTr, including its attached agencies and corporations, submitted for plenary consideration subject to further discussion and submission of requested documents. He then suspended the briefing. Requested increases and pending questions remained for further consideration. Lopez thanked the Chair and committee on behalf of the department's personnel.",
+          "citations": [
+            {
+              "stable_id": "asr-008009",
+              "start_seconds": 19473.42,
+              "clock": "05:24:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-008009"
+            },
+            {
+              "stable_id": "asr-008021",
+              "start_seconds": 19514.04,
+              "clock": "05:25:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-008021"
+            },
+            {
+              "stable_id": "asr-008022",
+              "start_seconds": 19518.36,
+              "clock": "05:25:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-008022"
+            },
+            {
+              "stable_id": "asr-008023",
+              "start_seconds": 19522.36,
+              "clock": "05:25:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-008023"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1896 @@
+{
+  "hearing": {
+    "hearing_id": 82,
+    "title": "Senate Committee on Finance: PCO - September 30, 2026",
+    "hearing_date": "2026-09-30",
+    "official_url": "https://www.youtube.com/watch?v=KwvrVKiYFgk"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h82/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Agency plans",
+      "text": "The Presidential Communications Office (PCO) and its attached agencies sought support after cuts to their original budget proposals. Senators asked for ranked restoration priorities; officials committed to submit a wish list, with no funding increase approved in this briefing.",
+      "citations": []
+    },
+    {
+      "label": "Public information",
+      "text": "Questions addressed the reach and accuracy of government news, responses to misinformation, agency reporting and broadcast practices.",
+      "citations": []
+    },
+    {
+      "label": "Public service and affordability",
+      "text": "Senators raised concerns about Intercontinental Broadcasting Corporation (IBC)'s future during a possible sale and the effects of passport prices on ordinary travelers. APO Production Unit, Inc. (APO) and the PCO gave assurances that added printing costs would not be passed on to the public.",
+      "citations": []
+    }
+  ],
+  "method_note": "Follow the timestamp links to the transcript and official video. Proposed allocations, original requests, corporate financing and restoration requests have different scopes; conflicting reported amounts are preserved.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Department-wide PCO package and reported totals",
+          "text": "On a department-wide basis, Secretary David M. Gomez said the original FY2027 Presidential Communications Office (PCO) proposal of PHP 6.8 billion was reduced to about PHP 2.6 billion in the National Expenditure Program (NEP). His presentation gave PHP 2.621 billion at the outset and later stated a departmental NEP total of PHP 2.483 billion. In a separate statement, Finance Subcommittee H chair Senator Erwin Tulfo described about PHP 2.526 billion as new appropriations for the PCO and its attached agencies and corporations. The hearing states these aggregate figures in different contexts and does not reconcile them.",
+          "citations": [
+            {
+              "stable_id": "asr-000501",
+              "start_seconds": 3224.58,
+              "clock": "00:53:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000501"
+            },
+            {
+              "stable_id": "asr-000502",
+              "start_seconds": 3226.58,
+              "clock": "00:53:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000502"
+            },
+            {
+              "stable_id": "asr-000503",
+              "start_seconds": 3228.58,
+              "clock": "00:53:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000503"
+            },
+            {
+              "stable_id": "asr-000078",
+              "start_seconds": 1620.0,
+              "clock": "00:27:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000078"
+            },
+            {
+              "stable_id": "asr-000040",
+              "start_seconds": 1110.0,
+              "clock": "00:18:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000040"
+            },
+            {
+              "stable_id": "asr-000353",
+              "start_seconds": 2919.2200000000003,
+              "clock": "00:48:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000353"
+            },
+            {
+              "stable_id": "asr-000357",
+              "start_seconds": 2926.64,
+              "clock": "00:48:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000357"
+            }
+          ]
+        },
+        {
+          "label": "Philippine Information Agency (PIA)",
+          "text": "Gomez reported that the FY2027 NEP level was PHP 981 million, or 58%, below PIA's original submission, but did not give either agency-wide total in that comparison. A later discussion gives building-rehabilitation line items, not PIA's overall agency budget.",
+          "citations": [
+            {
+              "stable_id": "asr-000456",
+              "start_seconds": 3134.58,
+              "clock": "00:52:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000456"
+            },
+            {
+              "stable_id": "asr-000457",
+              "start_seconds": 3136.58,
+              "clock": "00:52:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000457"
+            }
+          ]
+        },
+        {
+          "label": "Presidential Broadcast Service / Bureau of Broadcast Services (PBS/BBS)",
+          "text": "Gomez reported a PHP 317 million, or 38%, reduction from the original FY2027 proposal. He did not state the BBS NEP allocation or the original submission total.",
+          "citations": [
+            {
+              "stable_id": "asr-000458",
+              "start_seconds": 3138.58,
+              "clock": "00:52:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000458"
+            },
+            {
+              "stable_id": "asr-000459",
+              "start_seconds": 3140.58,
+              "clock": "00:52:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000459"
+            }
+          ]
+        },
+        {
+          "label": "Other PCO attached agencies",
+          "text": "Gomez said the Bureau of Communication Services (BCS), News and Information Bureau (NIB) and National Printing Office (NPO) each received less in the FY2027 NEP than originally proposed, but gave no agency totals or individual reductions. Radio Television Malacañang (RTVM) was identified in the presentation, but no exact NEP or original-request total was stated for it.",
+          "citations": [
+            {
+              "stable_id": "asr-000467",
+              "start_seconds": 3156.58,
+              "clock": "00:52:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000467"
+            },
+            {
+              "stable_id": "asr-000468",
+              "start_seconds": 3158.58,
+              "clock": "00:52:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000468"
+            },
+            {
+              "stable_id": "asr-000470",
+              "start_seconds": 3162.58,
+              "clock": "00:52:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000470"
+            },
+            {
+              "stable_id": "asr-000111",
+              "start_seconds": 1998.8600000000001,
+              "clock": "00:33:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000111"
+            }
+          ]
+        },
+        {
+          "label": "People's Television Network, Inc. (PTV)",
+          "text": "Gomez reported a FY2027 NEP subsidy of PHP 138 million against PTV's PHP 1.7 billion proposal to the Department of Budget and Management (DBM). The latter was a request, not an approved appropriation.",
+          "citations": [
+            {
+              "stable_id": "asr-000489",
+              "start_seconds": 3200.58,
+              "clock": "00:53:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000489"
+            },
+            {
+              "stable_id": "asr-000490",
+              "start_seconds": 3202.58,
+              "clock": "00:53:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000490"
+            }
+          ]
+        },
+        {
+          "label": "Intercontinental Broadcasting Corporation (IBC)",
+          "text": "IBC received no FY2027 NEP subsidy against its PHP 680 million proposal to DBM. The unfunded proposal was associated with the corporation's privatization status; its inclusion in budget discussions did not approve the request.",
+          "citations": [
+            {
+              "stable_id": "asr-000403",
+              "start_seconds": 3028.58,
+              "clock": "00:50:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000403"
+            },
+            {
+              "stable_id": "asr-000484",
+              "start_seconds": 3190.58,
+              "clock": "00:53:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000484"
+            },
+            {
+              "stable_id": "asr-000485",
+              "start_seconds": 3192.58,
+              "clock": "00:53:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000485"
+            }
+          ]
+        },
+        {
+          "label": "APO Production Unit, Inc. (APO)",
+          "text": "Gomez said APO operated on corporate earnings and received no government subsidy. No government-subsidy amount was stated for APO.",
+          "citations": [
+            {
+              "stable_id": "asr-000414",
+              "start_seconds": 3050.58,
+              "clock": "00:50:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000414"
+            },
+            {
+              "stable_id": "asr-000415",
+              "start_seconds": 3052.58,
+              "clock": "00:50:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000415"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-presidential-communications-office",
+      "label": "Presidential Communications Office budget",
+      "items": [
+        {
+          "label": "PCO proper FY2027 NEP allocation and components",
+          "text": "For the Presidential Communications Office (PCO) proper, Secretary David M. Gomez identified PHP 784 million in the FY2027 National Expenditure Program (NEP). He said it was about 19% below the FY2026 General Appropriations Act (GAA) level and 37.6% below the original FY2027 proposal; he did not state the exact original total in this passage. Elsewhere, he described a PHP 784 million cut from the original proposal, or 37.57%, while the stated NEP total was also PHP 784 million. The presentation does not reconcile these figures, so they are retained as separately reported amounts.\n\nGomez attributed a PHP 187 million net decrease to a PHP 71 million increase in personal services for 62 DBM-approved contractual positions, offset by reductions of PHP 235 million in maintenance and other operating expenses (MOOE) and PHP 23 million in capital outlay because proposed Tier 2 projects were not included. The FY2027 NEP mix was 63% MOOE and 37% personal services, with no capital-outlay allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-000520",
+              "start_seconds": 3262.58,
+              "clock": "00:54:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000520"
+            },
+            {
+              "stable_id": "asr-000521",
+              "start_seconds": 3264.58,
+              "clock": "00:54:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000521"
+            },
+            {
+              "stable_id": "asr-000525",
+              "start_seconds": 3272.58,
+              "clock": "00:54:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000525"
+            },
+            {
+              "stable_id": "asr-000530",
+              "start_seconds": 3282.58,
+              "clock": "00:54:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000530"
+            },
+            {
+              "stable_id": "asr-000461",
+              "start_seconds": 3144.58,
+              "clock": "00:52:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000461"
+            },
+            {
+              "stable_id": "asr-000462",
+              "start_seconds": 3146.58,
+              "clock": "00:52:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000462"
+            },
+            {
+              "stable_id": "asr-000534",
+              "start_seconds": 3290.58,
+              "clock": "00:54:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000534"
+            },
+            {
+              "stable_id": "asr-000537",
+              "start_seconds": 3296.58,
+              "clock": "00:54:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000537"
+            },
+            {
+              "stable_id": "asr-000539",
+              "start_seconds": 3300.58,
+              "clock": "00:55:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000539"
+            },
+            {
+              "stable_id": "asr-000547",
+              "start_seconds": 3316.58,
+              "clock": "00:55:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000547"
+            },
+            {
+              "stable_id": "asr-000548",
+              "start_seconds": 3318.58,
+              "clock": "00:55:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000548"
+            },
+            {
+              "stable_id": "asr-000556",
+              "start_seconds": 3334.58,
+              "clock": "00:55:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000556"
+            },
+            {
+              "stable_id": "asr-000559",
+              "start_seconds": 3340.58,
+              "clock": "00:55:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000559"
+            }
+          ]
+        },
+        {
+          "label": "Performance, utilization and returned allotment",
+          "text": "Gomez reported that 84.79% of obligated funds under all available FY2025 appropriations had been disbursed, and that more than 87.51% of released FY2025 GAA appropriations had been obligated by December 31, 2025. He attributed delays and unpaid appropriations to procurement bottlenecks, leadership transitions and changed priorities. In the first half of FY2026, he said 26.17% of available appropriations had been obligated and 92.11% of that obligated amount had been disbursed. He identified an agency-specific FY2026 GAA appropriation of about PHP 953.9 million, separate from ASEAN Summit hosting funds lodged in the Office of the President's properties budget.\n\nFor the first half of FY2026, Gomez attributed unobligated allotments to energy-conservation measures and the ASEAN National Organizing Council's downsizing of preparatory meetings. PCO proper returned PHP 95.758 million from its FY2026 allotment under DBM circulars responding to the national energy emergency. Gomez said the cost cutting was required. He also said 90.28% of amounts obligated to date had been disbursed.",
+          "citations": [
+            {
+              "stable_id": "asr-000130",
+              "start_seconds": 2090.52,
+              "clock": "00:34:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000130"
+            },
+            {
+              "stable_id": "asr-000132",
+              "start_seconds": 2104.24,
+              "clock": "00:35:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000132"
+            },
+            {
+              "stable_id": "asr-000149",
+              "start_seconds": 2195.04,
+              "clock": "00:36:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000149"
+            },
+            {
+              "stable_id": "asr-000150",
+              "start_seconds": 2203.18,
+              "clock": "00:36:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000150"
+            },
+            {
+              "stable_id": "asr-000151",
+              "start_seconds": 2206.42,
+              "clock": "00:36:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000151"
+            },
+            {
+              "stable_id": "asr-000153",
+              "start_seconds": 2212.6,
+              "clock": "00:36:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000153"
+            },
+            {
+              "stable_id": "asr-000173",
+              "start_seconds": 2281.56,
+              "clock": "00:38:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000173"
+            },
+            {
+              "stable_id": "asr-000174",
+              "start_seconds": 2290.18,
+              "clock": "00:38:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000174"
+            },
+            {
+              "stable_id": "asr-000190",
+              "start_seconds": 2352.74,
+              "clock": "00:39:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000190"
+            },
+            {
+              "stable_id": "asr-000204",
+              "start_seconds": 2392.2200000000003,
+              "clock": "00:39:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000204"
+            }
+          ]
+        },
+        {
+          "label": "PCO appropriation comparison and reduction",
+          "text": "Senator Erwin Tulfo pressed Secretary David M. Gomez about a roughly 19.8% decline in the Presidential Communications Office (PCO) FY2027 NEP allocation, citing about PHP765 million against the 2026 GAA level. Gomez confirmed the comparison and said top-line PCO programs would be affected. This comparison used a different NEP figure from the presentation.",
+          "citations": [
+            {
+              "stable_id": "asr-000802",
+              "start_seconds": 3874.98,
+              "clock": "01:04:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000802"
+            },
+            {
+              "stable_id": "asr-000807",
+              "start_seconds": 3888.26,
+              "clock": "01:04:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000807"
+            },
+            {
+              "stable_id": "asr-000808",
+              "start_seconds": 3889.44,
+              "clock": "01:04:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000808"
+            },
+            {
+              "stable_id": "asr-000811",
+              "start_seconds": 3896.5,
+              "clock": "01:04:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000811"
+            },
+            {
+              "stable_id": "asr-000814",
+              "start_seconds": 3900.56,
+              "clock": "01:05:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000814"
+            },
+            {
+              "stable_id": "asr-000815",
+              "start_seconds": 3901.7,
+              "clock": "01:05:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000815"
+            },
+            {
+              "stable_id": "asr-000831",
+              "start_seconds": 3934.14,
+              "clock": "01:05:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000831"
+            }
+          ]
+        },
+        {
+          "label": "Fiscal constraints and agency priorities",
+          "text": "Senator Joseph Victor \"JV\" G. Ejercito, chair of the Senate Committee on Finance, said fiscal space was tight and the Presidential Communications Office (PCO) had faced considerable cuts. He asked agencies to rank their priorities by urgency, said he could not guarantee that every item would be restored, and tied any additions to available funds. He also said he hoped to meet People's Television Network General Manager Lino S. Cayetano and see what could be done to help the network and Intercontinental Broadcasting Corporation (IBC).",
+          "citations": [
+            {
+              "stable_id": "asr-001085",
+              "start_seconds": 4439.22,
+              "clock": "01:13:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001085"
+            },
+            {
+              "stable_id": "asr-001090",
+              "start_seconds": 4450.46,
+              "clock": "01:14:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001090"
+            },
+            {
+              "stable_id": "asr-001109",
+              "start_seconds": 4487.0,
+              "clock": "01:14:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001109"
+            },
+            {
+              "stable_id": "asr-001118",
+              "start_seconds": 4503.36,
+              "clock": "01:15:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001118"
+            },
+            {
+              "stable_id": "asr-001138",
+              "start_seconds": 4546.2,
+              "clock": "01:15:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001138"
+            },
+            {
+              "stable_id": "asr-001166",
+              "start_seconds": 4599.44,
+              "clock": "01:16:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001166"
+            }
+          ]
+        },
+        {
+          "label": "PCO utilization and the 90-day spending question",
+          "text": "PCO Undersecretary Atty. Ruth Abigail C. Sestoso reported a 42.55 percent budget-utilization rate, equivalent to PHP 637 million and change, and said PHP 860 million remained unobligated and in the pipeline as of September 15. Tulfo asked how the PCO would use or disburse that balance in the remaining 90 days. Gomez attributed slower spending to the declared energy emergency and cost-cutting instructions: the PCO had shifted ASEAN events online where possible and was directed to hold the 48th summit in Cebu on a bare-bones basis, after saving during the first half of the year.\n\nGomez referred the utilization question to the PCO finance undersecretary, but Tulfo moved to other questions before an answer was given in this round. The finance response came when Tulfo resumed after Senator Joel Villanueva's statement.",
+          "citations": [
+            {
+              "stable_id": "asr-001907",
+              "start_seconds": 6087.96,
+              "clock": "01:41:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001907"
+            },
+            {
+              "stable_id": "asr-001925",
+              "start_seconds": 6123.54,
+              "clock": "01:42:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001925"
+            },
+            {
+              "stable_id": "asr-001936",
+              "start_seconds": 6145.74,
+              "clock": "01:42:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001936"
+            },
+            {
+              "stable_id": "asr-002114",
+              "start_seconds": 6720.38,
+              "clock": "01:52:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002114"
+            },
+            {
+              "stable_id": "asr-002115",
+              "start_seconds": 6727.36,
+              "clock": "01:52:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002115"
+            },
+            {
+              "stable_id": "asr-002117",
+              "start_seconds": 6735.76,
+              "clock": "01:52:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002117"
+            },
+            {
+              "stable_id": "asr-002121",
+              "start_seconds": 6744.04,
+              "clock": "01:52:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002121"
+            },
+            {
+              "stable_id": "asr-002125",
+              "start_seconds": 6759.38,
+              "clock": "01:52:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002125"
+            }
+          ]
+        },
+        {
+          "label": "FY2026 second-half spending and utilization",
+          "text": "PCO Undersecretary Atty. Ruth Abigail C. Sestoso said most of the Presidential Communications Office (PCO)'s remaining FY2026 unobligated allotment was expected to fund preparations for the 49th ASEAN Summit in the second half of the year. Asked whether about 80% of the remaining budget would go to ASEAN, she said most likely. The planned spending included the international media center's accommodations, catering and transportation. PCO would also assist the Department of Tourism (DOT) with regional exhibits by providing space, utilities and transportation, since those additional expenditures had not been included in DOT's budget. Sestoso said advertising and the Secretary's prioritized projects were also planned for the second half. She described PCO's historical annual budget utilization as about 88%, with most spending in the second half because many projects were allocated then.",
+          "citations": [
+            {
+              "stable_id": "asr-002154",
+              "start_seconds": 6880.22,
+              "clock": "01:54:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002154"
+            },
+            {
+              "stable_id": "asr-002161",
+              "start_seconds": 6911.66,
+              "clock": "01:55:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002161"
+            },
+            {
+              "stable_id": "asr-002163",
+              "start_seconds": 6920.12,
+              "clock": "01:55:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002163"
+            },
+            {
+              "stable_id": "asr-002165",
+              "start_seconds": 6924.04,
+              "clock": "01:55:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002165"
+            },
+            {
+              "stable_id": "asr-002170",
+              "start_seconds": 6962.72,
+              "clock": "01:56:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002170"
+            },
+            {
+              "stable_id": "asr-002175",
+              "start_seconds": 7001.24,
+              "clock": "01:56:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002175"
+            }
+          ]
+        },
+        {
+          "label": "IBC-13 and PIA restoration priorities",
+          "text": "Senator Erwin Tulfo asked Secretary David M. Gomez to submit PCO's restoration wish list and priorities, including Intercontinental Broadcasting Corporation (IBC-13) and projects the committee could consider during the bicameral conference in November. Tulfo cautioned that the committee might not be able to provide the full requested increase of approximately PHP 1.247 billion, but said it would try to come closer; he gave no guarantee of an appropriation. Gomez thanked the committee and reiterated that IBC-13 might go off air on January 1 if its budget was not restored. He said the Philippine Information Agency (PIA) also needed temporary-office rental funded during building works, and described both restoration needs as urgent. Gomez committed to provide the committee with a list of requests to restore funding from the NEP.",
+          "citations": [
+            {
+              "stable_id": "asr-002199",
+              "start_seconds": 7097.3,
+              "clock": "01:58:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002199"
+            },
+            {
+              "stable_id": "asr-002201",
+              "start_seconds": 7105.92,
+              "clock": "01:58:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002201"
+            },
+            {
+              "stable_id": "asr-002204",
+              "start_seconds": 7127.68,
+              "clock": "01:58:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002204"
+            },
+            {
+              "stable_id": "asr-002208",
+              "start_seconds": 7133.72,
+              "clock": "01:58:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002208"
+            },
+            {
+              "stable_id": "asr-002210",
+              "start_seconds": 7144.66,
+              "clock": "01:59:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002210"
+            },
+            {
+              "stable_id": "asr-002212",
+              "start_seconds": 7152.98,
+              "clock": "01:59:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002212"
+            },
+            {
+              "stable_id": "asr-002217",
+              "start_seconds": 7166.22,
+              "clock": "01:59:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002217"
+            },
+            {
+              "stable_id": "asr-002218",
+              "start_seconds": 7168.08,
+              "clock": "01:59:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002218"
+            }
+          ]
+        },
+        {
+          "label": "PCO allocation and future funding",
+          "text": "Senator Christopher Lawrence T. Go supported the Presidential Communications Office (PCO) budget and described its FY2027 NEP allocation as PHP 188.48 million below a PHP 2.715 billion comparison amount, inclusive of appropriations for attached corporations. He urged the PCO to press the Department of Budget and Management for a larger share in future budget deliberations before submitting its proposal, so it could better serve the public. He said he supported the current budget provided its funds were used properly; this was support, not a motion or approval of a future increase.",
+          "citations": [
+            {
+              "stable_id": "asr-002388",
+              "start_seconds": 7653.18,
+              "clock": "02:07:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002388"
+            },
+            {
+              "stable_id": "asr-002389",
+              "start_seconds": 7663.74,
+              "clock": "02:07:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002389"
+            },
+            {
+              "stable_id": "asr-002403",
+              "start_seconds": 7723.18,
+              "clock": "02:08:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002403"
+            },
+            {
+              "stable_id": "asr-002410",
+              "start_seconds": 7753.28,
+              "clock": "02:09:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002410"
+            },
+            {
+              "stable_id": "asr-002414",
+              "start_seconds": 7769.8,
+              "clock": "02:09:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002414"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-philippine-information-agency",
+      "label": "Philippine Information Agency budget",
+      "items": [
+        {
+          "label": "PIA building retrofit in the NEP",
+          "text": "Gomez identified about PHP200 million for retrofitting the Philippine Information Agency (PIA) building, already included in the NEP. He said the building was 44 years old and nearing condemnation. Tulfo questioned whether the aging building had already been condemned.",
+          "citations": [
+            {
+              "stable_id": "asr-000844-split-2",
+              "start_seconds": 3960.6,
+              "clock": "01:06:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000844-split-2"
+            },
+            {
+              "stable_id": "asr-000845",
+              "start_seconds": 3961.76,
+              "clock": "01:06:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000845"
+            },
+            {
+              "stable_id": "asr-000846",
+              "start_seconds": 3963.74,
+              "clock": "01:06:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000846"
+            },
+            {
+              "stable_id": "asr-000850",
+              "start_seconds": 3971.88,
+              "clock": "01:06:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000850"
+            }
+          ]
+        },
+        {
+          "label": "PIA rehabilitation, temporary offices and shared site facilities",
+          "text": "Philippine Information Agency (PIA) Director-General Katherine Chloe S. De Castro said PIA originally sought PHP 742 million for complete rehabilitation and retrofitting of its Visayas Avenue building. The Department of Budget and Management asked that the work be phased from 2027 through 2030. The 2027 NEP includes PHP 201 million: PHP 100 million for the first retrofit phase, PHP 50 million for electrical works, PHP 11 million for an elevator, and PHP 40 million for multilevel parking.\n\nThe Quezon City building also houses APO printing machines, Radyo Pilipinas, the Philippine News Agency and other attached offices; PIA said the parking facility would benefit agencies at the Visayas Avenue site. PIA said temporary-office rental for three locations was omitted from the NEP after prioritization and requested help; the estimated cost was about PHP 70 million per year. De Castro said the four PCO-attached agencies at the site would move during the retrofit, with a temporary-office transfer targeted for February or March and construction expected to start around March or April.",
+          "citations": [
+            {
+              "stable_id": "asr-001445",
+              "start_seconds": 5165.4400000000005,
+              "clock": "01:26:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001445"
+            },
+            {
+              "stable_id": "asr-001449",
+              "start_seconds": 5173.88,
+              "clock": "01:26:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001449"
+            },
+            {
+              "stable_id": "asr-001453",
+              "start_seconds": 5181.88,
+              "clock": "01:26:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001453"
+            },
+            {
+              "stable_id": "asr-001454",
+              "start_seconds": 5184.14,
+              "clock": "01:26:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001454"
+            },
+            {
+              "stable_id": "asr-001455",
+              "start_seconds": 5185.9400000000005,
+              "clock": "01:26:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001455"
+            },
+            {
+              "stable_id": "asr-001457",
+              "start_seconds": 5189.84,
+              "clock": "01:26:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001457"
+            },
+            {
+              "stable_id": "asr-001458",
+              "start_seconds": 5191.88,
+              "clock": "01:26:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001458"
+            },
+            {
+              "stable_id": "asr-001459",
+              "start_seconds": 5193.82,
+              "clock": "01:26:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001459"
+            },
+            {
+              "stable_id": "asr-001461",
+              "start_seconds": 5197.76,
+              "clock": "01:26:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001461"
+            },
+            {
+              "stable_id": "asr-001462",
+              "start_seconds": 5199.78,
+              "clock": "01:26:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001462"
+            },
+            {
+              "stable_id": "asr-001484",
+              "start_seconds": 5243.5,
+              "clock": "01:27:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001484"
+            },
+            {
+              "stable_id": "asr-001498",
+              "start_seconds": 5271.76,
+              "clock": "01:27:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001498"
+            },
+            {
+              "stable_id": "asr-001504",
+              "start_seconds": 5283.88,
+              "clock": "01:28:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001504"
+            },
+            {
+              "stable_id": "asr-001515",
+              "start_seconds": 5305.58,
+              "clock": "01:28:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001515"
+            },
+            {
+              "stable_id": "asr-001519",
+              "start_seconds": 5313.46,
+              "clock": "01:28:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001519"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-bureau-of-broadcast-services",
+      "label": "Bureau of Broadcast Services budget",
+      "items": [
+        {
+          "label": "Public radio commercial income",
+          "text": "Presidential Broadcast Service / Bureau of Broadcast Services OIC Director Alan L. Allanigue said the bureau could operate commercially, but airtime income went to the national coffers; FM had few commercials.",
+          "citations": [
+            {
+              "stable_id": "asr-001719",
+              "start_seconds": 5708.24,
+              "clock": "01:35:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001719"
+            },
+            {
+              "stable_id": "asr-001730",
+              "start_seconds": 5729.72,
+              "clock": "01:35:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001730"
+            },
+            {
+              "stable_id": "asr-001733",
+              "start_seconds": 5736.48,
+              "clock": "01:35:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001733"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-people-s-television-network",
+      "label": "People's Television Network budget",
+      "items": [
+        {
+          "label": "PTV revitalization and corporate subsidy context",
+          "text": "Gomez said the People's Television Network, Inc. (PTV) subsidy would support the revitalization program mandated by Republic Act No. 10390. The PHP 258 million figure he cited was the FY2026 subsidy to attached government corporations collectively, not PTV alone.",
+          "citations": [
+            {
+              "stable_id": "asr-000397",
+              "start_seconds": 3016.58,
+              "clock": "00:50:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000397"
+            },
+            {
+              "stable_id": "asr-000399",
+              "start_seconds": 3020.58,
+              "clock": "00:50:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000399"
+            },
+            {
+              "stable_id": "asr-000442",
+              "start_seconds": 3106.58,
+              "clock": "00:51:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000442"
+            }
+          ]
+        },
+        {
+          "label": "PTV capital needs, proposed funding and revenue goal",
+          "text": "People's Television Network (PTV) General Manager Lino S. Cayetano said repairs had improved staff comfort and safety, but leaks remained around Studio 2 after recent rain. The board had passed a new revenue plan, and PTV was pursuing its own revenue and partnerships with other agencies. Cayetano said the current budget was PHP 128 million and asked that the predecessor's initial submission be considered, while describing it as insufficient to close the gap. His allocation figure differs from Gomez's NEP figure in the budget summary.\n\nCayetano compared the allocation with the PHP 5 to 7 billion he said operating news networks require. Looking beyond the submitted proposal, he hoped PTV's capacity, including self-generated revenue, could reach PHP 3 to 5 billion a year over the next few years. He presented this as an aspiration, not an appropriation request already approved.",
+          "citations": [
+            {
+              "stable_id": "asr-001545",
+              "start_seconds": 5365.58,
+              "clock": "01:29:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001545"
+            },
+            {
+              "stable_id": "asr-001552",
+              "start_seconds": 5378.82,
+              "clock": "01:29:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001552"
+            },
+            {
+              "stable_id": "asr-001568",
+              "start_seconds": 5410.0,
+              "clock": "01:30:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001568"
+            },
+            {
+              "stable_id": "asr-001579",
+              "start_seconds": 5431.92,
+              "clock": "01:30:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001579"
+            },
+            {
+              "stable_id": "asr-001575",
+              "start_seconds": 5423.96,
+              "clock": "01:30:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001575"
+            },
+            {
+              "stable_id": "asr-001655",
+              "start_seconds": 5583.1,
+              "clock": "01:33:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001655"
+            },
+            {
+              "stable_id": "asr-001662",
+              "start_seconds": 5597.56,
+              "clock": "01:33:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001662"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-intercontinental-broadcasting-corporation",
+      "label": "Intercontinental Broadcasting Corporation budget",
+      "items": [
+        {
+          "label": "Intercontinental Broadcasting Corporation FY2027 funding, workforce and transition",
+          "text": "Intercontinental Broadcasting Corporation (IBC-13) received no FY2027 NEP subsidy. Gomez requested additional funding for the PCO package, which included an unspecified IBC-13 interim need because privatization might not conclude before FY2027; he did not allocate a portion of that package to IBC-13. Without augmentation, he said IBC-13 might go off air on January 1.\n\nSenator Erwin Tulfo asked IBC-13 president Jose C. \"Jimmy\" Policarpio Jr. whether the corporation had settled former employees' back wages, retirement benefits and overtime pay. Policarpio said retirement and accumulated leave benefits had been paid, including claims that had gone unpaid since 1998, after the corporation resolved pending cases and obtained quitclaims. He said IBC-13 still had current employees. Tulfo asked how IBC-13 would pay them; Gomez said PCO had made the same appeal to the House and renewed it to the Senate: fund IBC-13's DBM request, which had been cut and omitted from the NEP. Policarpio said the original request included Congress TV and a 24-hour Senate TV digital station.\n\nPolicarpio reported 106 permanent employees and about 304 contract-of-service workers. Tulfo disputed that Congress TV should have been placed under IBC-13, saying he understood that its staff and payroll would remain under Congress. Policarpio said IBC-13 was called in during August and began operating Congress TV in October 2024. He described the corporation's need for trained technical staff and difficulty adding permanent employees under stringent requirements; Tulfo said camera workers often learn on the job, and Policarpio said the funding request also covered Congress TV.",
+          "citations": [
+            {
+              "stable_id": "asr-000401",
+              "start_seconds": 3024.58,
+              "clock": "00:50:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000401"
+            },
+            {
+              "stable_id": "asr-000406",
+              "start_seconds": 3034.58,
+              "clock": "00:50:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000406"
+            },
+            {
+              "stable_id": "asr-000596",
+              "start_seconds": 3424.58,
+              "clock": "00:57:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000596"
+            },
+            {
+              "stable_id": "asr-000617",
+              "start_seconds": 3466.58,
+              "clock": "00:57:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000617"
+            },
+            {
+              "stable_id": "asr-000642",
+              "start_seconds": 3516.58,
+              "clock": "00:58:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000642"
+            },
+            {
+              "stable_id": "asr-000654",
+              "start_seconds": 3540.58,
+              "clock": "00:59:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000654"
+            },
+            {
+              "stable_id": "asr-000671",
+              "start_seconds": 3574.58,
+              "clock": "00:59:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000671"
+            },
+            {
+              "stable_id": "asr-000673",
+              "start_seconds": 3578.58,
+              "clock": "00:59:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000673"
+            },
+            {
+              "stable_id": "asr-000676",
+              "start_seconds": 3584.58,
+              "clock": "00:59:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000676"
+            },
+            {
+              "stable_id": "asr-000682-split-2",
+              "start_seconds": 3597.4,
+              "clock": "00:59:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000682-split-2"
+            },
+            {
+              "stable_id": "asr-000683",
+              "start_seconds": 3598.58,
+              "clock": "00:59:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000683"
+            },
+            {
+              "stable_id": "asr-000693",
+              "start_seconds": 3663.76,
+              "clock": "01:01:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000693"
+            },
+            {
+              "stable_id": "asr-000716",
+              "start_seconds": 3708.44,
+              "clock": "01:01:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000716"
+            },
+            {
+              "stable_id": "asr-000732",
+              "start_seconds": 3739.52,
+              "clock": "01:02:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000732"
+            },
+            {
+              "stable_id": "asr-000756",
+              "start_seconds": 3787.48,
+              "clock": "01:03:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000756"
+            }
+          ]
+        },
+        {
+          "label": "IBC personnel funding and privatization",
+          "text": "Tulfo asked what would happen to IBC if it remained unsold and how its staff would be paid. Department of Budget and Management (DBM) Director Elena Regina S. Brillantes said the Governance Commission for Government-Owned or -Controlled Corporations (GCG) had categorized IBC for privatization, which shaped the budget evaluation. If IBC needed salary support in 2027, DBM could consider the Miscellaneous Personnel Benefits Fund or the lump-sum budgetary support to government corporations for other purposes; use of the Contingent Fund was being avoided. Tulfo called the matter urgent.\n\nIBC President Jose C. “Jimmy” Policarpio Jr. reported 104 permanent employees and about 300 contract-of-service employees, including drivers, reporters, writers and video editors. Brillantes said the agency's proposal showed roughly PHP144 million in personnel-services requirements. If IBC's corporate funds proved insufficient for its operations in 2027, DBM would evaluate the need and recommend accordingly. DBM described conditional funding routes, without approving an allocation. Brillantes also said DBM had released support that year and that national-government subsidy had covered retiree payments in the prior two years. She also described eventual IBC sale proceeds as intended to fund the People's Television Network (PTV).",
+          "citations": [
+            {
+              "stable_id": "asr-000861",
+              "start_seconds": 3992.64,
+              "clock": "01:06:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000861"
+            },
+            {
+              "stable_id": "asr-000877",
+              "start_seconds": 4026.4,
+              "clock": "01:07:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000877"
+            },
+            {
+              "stable_id": "asr-000893",
+              "start_seconds": 4057.54,
+              "clock": "01:07:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000893"
+            },
+            {
+              "stable_id": "asr-000896",
+              "start_seconds": 4061.92,
+              "clock": "01:07:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000896"
+            },
+            {
+              "stable_id": "asr-000915",
+              "start_seconds": 4103.68,
+              "clock": "01:08:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000915"
+            },
+            {
+              "stable_id": "asr-000916",
+              "start_seconds": 4104.72,
+              "clock": "01:08:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000916"
+            },
+            {
+              "stable_id": "asr-000918",
+              "start_seconds": 4108.72,
+              "clock": "01:08:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000918"
+            },
+            {
+              "stable_id": "asr-000950",
+              "start_seconds": 4171.66,
+              "clock": "01:09:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000950"
+            },
+            {
+              "stable_id": "asr-000975",
+              "start_seconds": 4222.42,
+              "clock": "01:10:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000975"
+            },
+            {
+              "stable_id": "asr-001001",
+              "start_seconds": 4274.7,
+              "clock": "01:11:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001001"
+            },
+            {
+              "stable_id": "asr-001002",
+              "start_seconds": 4276.66,
+              "clock": "01:11:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001002"
+            },
+            {
+              "stable_id": "asr-001011",
+              "start_seconds": 4291.52,
+              "clock": "01:11:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001011"
+            }
+          ]
+        },
+        {
+          "label": "Commercial earnings and studio investment",
+          "text": "Asked whether IBC still sold airtime, Policarpio said it earned about PHP60 million a year and had used its earnings to build a studio and a building for Congress TV and the studio. He confirmed that advertising also brought in revenue.",
+          "citations": [
+            {
+              "stable_id": "asr-001015",
+              "start_seconds": 4298.96,
+              "clock": "01:11:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001015"
+            },
+            {
+              "stable_id": "asr-001018",
+              "start_seconds": 4306.24,
+              "clock": "01:11:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001018"
+            },
+            {
+              "stable_id": "asr-001021",
+              "start_seconds": 4311.48,
+              "clock": "01:11:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001021"
+            },
+            {
+              "stable_id": "asr-001028-split-2",
+              "start_seconds": 4325.11,
+              "clock": "01:12:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001028-split-2"
+            }
+          ]
+        },
+        {
+          "label": "IBC retirement payment",
+          "text": "In discussing an earlier IBC retirement matter, Ejercito recalled an amount as approximately PHP400-500 million. IBC President Jose C. \"Jimmy\" Policarpio Jr. said PHP50 million remained for parties who had litigated the matter; IBC had challenged it to make space, but a final, unappealable decision required the corporation to honor the order. This concerned prior retirement obligations; no additional funding was approved.",
+          "citations": [
+            {
+              "stable_id": "asr-001142",
+              "start_seconds": 4553.02,
+              "clock": "01:15:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001142"
+            },
+            {
+              "stable_id": "asr-001149",
+              "start_seconds": 4565.9,
+              "clock": "01:16:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001149"
+            },
+            {
+              "stable_id": "asr-001150",
+              "start_seconds": 4568.02,
+              "clock": "01:16:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001150"
+            },
+            {
+              "stable_id": "asr-001154",
+              "start_seconds": 4575.94,
+              "clock": "01:16:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001154"
+            },
+            {
+              "stable_id": "asr-001156",
+              "start_seconds": 4580.28,
+              "clock": "01:16:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001156"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-apo-production-unit",
+      "label": "APO Production Unit budget",
+      "items": [
+        {
+          "label": "APO passport production subsidy",
+          "text": "Ejercito asked Attorney Gil Carlos R. Puyat IV, president of APO Production Unit, Inc. (APO), about a letter warning that the unit might have to shut down if passport charges were not raised. Puyat clarified that APO was asking for a subsidy to be included in the Department of Foreign Affairs (DFA) budget, not an increase in the public price. He said the price had been frozen since 2016 while raw-material and logistics costs, foreign exchange and inflation had risen. APO wanted discussions to proceed.\n\nEjercito asked whether APO would be forced to close if there were no public fee increase and no subsidy. Puyat said the matter had to be discussed with DFA and APO could not decide unilaterally because it was a servicing agency. Ejercito asked APO to submit a subsidy proposal with DFA and said they would try to find resources if needed to protect passport supply, especially for overseas Filipino workers (OFWs). No subsidy amount or approval was stated.",
+          "citations": [
+            {
+              "stable_id": "asr-001205",
+              "start_seconds": 4677.96,
+              "clock": "01:17:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001205"
+            },
+            {
+              "stable_id": "asr-001225-split-2",
+              "start_seconds": 4718.93,
+              "clock": "01:18:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001225-split-2"
+            },
+            {
+              "stable_id": "asr-001227",
+              "start_seconds": 4721.76,
+              "clock": "01:18:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001227"
+            },
+            {
+              "stable_id": "asr-001231",
+              "start_seconds": 4729.98,
+              "clock": "01:18:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001231"
+            },
+            {
+              "stable_id": "asr-001241",
+              "start_seconds": 4749.7,
+              "clock": "01:19:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001241"
+            },
+            {
+              "stable_id": "asr-001270",
+              "start_seconds": 4806.72,
+              "clock": "01:20:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001270"
+            },
+            {
+              "stable_id": "asr-001274",
+              "start_seconds": 4819.64,
+              "clock": "01:20:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001274"
+            },
+            {
+              "stable_id": "asr-001314",
+              "start_seconds": 4899.04,
+              "clock": "01:21:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001314"
+            },
+            {
+              "stable_id": "asr-001318",
+              "start_seconds": 4906.74,
+              "clock": "01:21:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001318"
+            },
+            {
+              "stable_id": "asr-001328",
+              "start_seconds": 4926.64,
+              "clock": "01:22:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001328"
+            }
+          ]
+        },
+        {
+          "label": "APO passport subsidy option",
+          "text": "Senator Joel Villanueva said he supported the Presidential Communications Office (PCO) and raised the passport-fee issue involving APO Production Unit (APO). He suggested another option: the government could subsidize the increase through the General Appropriations Act (GAA), allowing APO to defer a public fee increase this year and consider it the following year. He left the proposal on record as support for the Secretary and PCO. No government response or subsidy approval appears in this round.",
+          "citations": [
+            {
+              "stable_id": "asr-002137",
+              "start_seconds": 6808.66,
+              "clock": "01:53:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002137"
+            },
+            {
+              "stable_id": "asr-002140",
+              "start_seconds": 6817.7,
+              "clock": "01:53:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002140"
+            },
+            {
+              "stable_id": "asr-002144",
+              "start_seconds": 6834.04,
+              "clock": "01:53:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002144"
+            },
+            {
+              "stable_id": "asr-002145",
+              "start_seconds": 6838.1,
+              "clock": "01:53:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002145"
+            }
+          ]
+        },
+        {
+          "label": "APO subsidy request and no-pass-through assurances",
+          "text": "Go welcomed APO's clarification that it was seeking a government subsidy through the Department of Foreign Affairs (DFA) rather than raising the public fee. He repeated his opposition to a price increase and said he would object to one. Asked for a commitment, Puyat said APO had written to DFA for a subsidy and would not pass an increase through to the public. Senator Erwin Tulfo summarized the assurance that APO would seek government support through DFA. Secretary David M. Gomez then gave his personal assurance on behalf of the PCO that the public price would not rise and added passport-printing costs would not be passed on to citizens. The exchange records a subsidy request and assurances against passing costs to the public; it states no subsidy amount or approval.",
+          "citations": [
+            {
+              "stable_id": "asr-002424",
+              "start_seconds": 7809.14,
+              "clock": "02:10:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002424"
+            },
+            {
+              "stable_id": "asr-002439",
+              "start_seconds": 7876.32,
+              "clock": "02:11:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002439"
+            },
+            {
+              "stable_id": "asr-002462",
+              "start_seconds": 7950.88,
+              "clock": "02:12:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002462"
+            },
+            {
+              "stable_id": "asr-002463",
+              "start_seconds": 7955.0599999999995,
+              "clock": "02:12:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002463"
+            },
+            {
+              "stable_id": "asr-002470",
+              "start_seconds": 7983.12,
+              "clock": "02:13:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002470"
+            },
+            {
+              "stable_id": "asr-002491",
+              "start_seconds": 8056.98,
+              "clock": "02:14:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002491"
+            },
+            {
+              "stable_id": "asr-002494",
+              "start_seconds": 8067.58,
+              "clock": "02:14:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002494"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-pco-presentation-and-connected-questions",
+      "label": "PCO presentation and connected questions",
+      "items": [
+        {
+          "label": "Mandate, communication programs and strategic priorities",
+          "text": "Gomez described the PCO's mandate as coordinating clear, consistent government communication and informing the public about presidential and executive policies. Its work includes the Presidential Communications Program, Freedom of Information requests, press briefings, the Maging Mapanuri fact-checking workshops, coverage of presidential engagements, and coordination across agencies. He described attached-agency work in radio broadcasting, government communication materials, domestic and foreign information services, national printing, development communication through regional and provincial networks, and broadcast documentation of presidential activities.\n\nHe identified priorities including strategic government communications, media and information literacy, OPLAN Kontra Fake News, digital modernization, Bagong Pilipinas Studios, and energy conservation. He said the anti-fake-news effort included cooperation with nine national broadsheets and an anti-fake-news desk that refers reports to relevant agencies. His longer-term directions emphasized organizational agility, data-informed decisions, accountability, workforce development, presidential-event planning, media coverage, transparency, program communication, international representation, and state media.",
+          "citations": [
+            {
+              "stable_id": "asr-000084",
+              "start_seconds": 1739.8200000000002,
+              "clock": "00:28:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000084"
+            },
+            {
+              "stable_id": "asr-000094",
+              "start_seconds": 1835.16,
+              "clock": "00:30:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000094"
+            },
+            {
+              "stable_id": "asr-000096",
+              "start_seconds": 1848.86,
+              "clock": "00:30:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000096"
+            },
+            {
+              "stable_id": "asr-000102",
+              "start_seconds": 1916.62,
+              "clock": "00:31:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000102"
+            },
+            {
+              "stable_id": "asr-000244",
+              "start_seconds": 2677.92,
+              "clock": "00:44:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000244"
+            },
+            {
+              "stable_id": "asr-000260",
+              "start_seconds": 2726.74,
+              "clock": "00:45:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000260"
+            },
+            {
+              "stable_id": "asr-000274",
+              "start_seconds": 2758.84,
+              "clock": "00:45:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000274"
+            },
+            {
+              "stable_id": "asr-000293",
+              "start_seconds": 2796.92,
+              "clock": "00:46:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000293"
+            },
+            {
+              "stable_id": "asr-000302",
+              "start_seconds": 2815.02,
+              "clock": "00:46:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000302"
+            }
+          ]
+        },
+        {
+          "label": "Physical performance and audit opinion",
+          "text": "Gomez said PCO proper exceeded its FY2025 GAA physical targets and was on track against first-semester FY2026 targets. He attributed performance to media partnerships, resource use, streamlined work and team coordination. He also reported that the Commission on Audit (COA) had issued an unmodified opinion on PCO's financial statements for the fourth consecutive year, most recently for the year ending December 31, 2025, and said no notice of disallowance or suspension had been issued.",
+          "citations": [
+            {
+              "stable_id": "asr-000114",
+              "start_seconds": 2031.58,
+              "clock": "00:33:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000114"
+            },
+            {
+              "stable_id": "asr-000207",
+              "start_seconds": 2411.08,
+              "clock": "00:40:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000207"
+            },
+            {
+              "stable_id": "asr-000208",
+              "start_seconds": 2418.02,
+              "clock": "00:40:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000208"
+            },
+            {
+              "stable_id": "asr-000210",
+              "start_seconds": 2428.88,
+              "clock": "00:40:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000210"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-context",
+      "label": "Opening context",
+      "items": [
+        {
+          "label": "Opening remarks",
+          "text": "Senator Erwin Tulfo opened the hearing by describing the Presidential Communications Office (PCO) and its attached agencies as responsible for communicating government policies and activities and getting accurate, timely information to the public. He pointed to the spread of misinformation and disinformation, including through social media and artificial intelligence, and said public communication funds should serve the public rather than partisan purposes. He framed the hearing around the agencies' use of funds, possible overlap among their functions, the reach and credibility of government information, and their response to fake news.",
+          "citations": [
+            {
+              "stable_id": "asr-000037",
+              "start_seconds": 1020.0,
+              "clock": "00:17:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000037"
+            },
+            {
+              "stable_id": "asr-000039",
+              "start_seconds": 1080.0,
+              "clock": "00:18:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000039"
+            },
+            {
+              "stable_id": "asr-000044",
+              "start_seconds": 1230.0,
+              "clock": "00:20:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000044"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-erwin-tulfo",
+      "label": "Senator Erwin Tulfo",
+      "items": [
+        {
+          "label": "Public-service programming and staff productivity",
+          "text": "Tulfo asked whether IBC employees would remain productive and aligned with its mandate if funded. Policarpio described IBC's 23 programs, said four had recently been nominated to DCMMA, and said most programming served government purposes by informing the public about government operations and countering false news. He cited the programs as evidence of ongoing work.",
+          "citations": [
+            {
+              "stable_id": "asr-001035",
+              "start_seconds": 4339.34,
+              "clock": "01:12:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001035"
+            },
+            {
+              "stable_id": "asr-001052",
+              "start_seconds": 4374.82,
+              "clock": "01:12:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001052"
+            },
+            {
+              "stable_id": "asr-001059",
+              "start_seconds": 4386.96,
+              "clock": "01:13:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001059"
+            }
+          ]
+        },
+        {
+          "label": "Anti-fake-news desk and response partnerships",
+          "text": "Senator Erwin Tulfo asked who would run the Presidential Communications Office (PCO) anti-fake-news desk. Secretary David M. Gomez said it is part of the broader Oplan Kontra Fake News: newspaper publishers had agreed to fact-check flagged claims; the Department of Justice and Department of Information and Communications Technology were partners for investigations and charges; and the PCO was working with Meta, Facebook, TikTok, Google and YouTube on procedures to take down or limit false content. A PCO director, supported by the digital media services department and a lawyer from the Secretary's office, staffed the desk, which also accepted public reports and proactively scanned social media for false claims about the President, First Family, executive department and government.\n\nTulfo suggested labeling false reports on screen as other online outlets do. Gomez replied that the PCO already labels detected false news and works with platforms; he said cooperation had led to takedowns and complaints.",
+          "citations": [
+            {
+              "stable_id": "asr-001342",
+              "start_seconds": 4959.64,
+              "clock": "01:22:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001342"
+            },
+            {
+              "stable_id": "asr-001350",
+              "start_seconds": 4975.34,
+              "clock": "01:22:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001350"
+            },
+            {
+              "stable_id": "asr-001363",
+              "start_seconds": 5000.66,
+              "clock": "01:23:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001363"
+            },
+            {
+              "stable_id": "asr-001377",
+              "start_seconds": 5028.2,
+              "clock": "01:23:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001377"
+            },
+            {
+              "stable_id": "asr-001391",
+              "start_seconds": 5056.56,
+              "clock": "01:24:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001391"
+            },
+            {
+              "stable_id": "asr-001410",
+              "start_seconds": 5094.6,
+              "clock": "01:24:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001410"
+            },
+            {
+              "stable_id": "asr-001419",
+              "start_seconds": 5112.3,
+              "clock": "01:25:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001419"
+            },
+            {
+              "stable_id": "asr-001430",
+              "start_seconds": 5134.32,
+              "clock": "01:25:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001430"
+            }
+          ]
+        },
+        {
+          "label": "Public radio programming and branding",
+          "text": "Tulfo asked about the government radio stations and their programming. Presidential Broadcast Service / Bureau of Broadcast Services OIC Director Alan L. Allanigue said Metro Manila had two FM stations: 87.5 and 104.3 Capital FM, which had become a collaborative station carrying programs from Radyo Pilipinas, Radyo Magazine and Sports Radio. He said the FM service no longer focused on music and instead carried news, public affairs and government messaging alongside AM. \n\nTulfo questioned repeated changes to the radio brand. Allanigue explained the transition from Radio ng Bayan to Radio Pilipinas and then Radio Pilipinas, Radio Publiko, describing the latter as an effort to emphasize its public-radio role. Gomez said he favored brand equity, had retained Radio Pilipinas on taking office and did not plan to change it. Tulfo supported a stable, recognizable government-station identity.",
+          "citations": [
+            {
+              "stable_id": "asr-001691",
+              "start_seconds": 5653.3,
+              "clock": "01:34:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001691"
+            },
+            {
+              "stable_id": "asr-001698-split-2",
+              "start_seconds": 5667.16,
+              "clock": "01:34:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001698-split-2"
+            },
+            {
+              "stable_id": "asr-001703",
+              "start_seconds": 5676.62,
+              "clock": "01:34:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001703"
+            },
+            {
+              "stable_id": "asr-001714",
+              "start_seconds": 5698.52,
+              "clock": "01:34:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001714"
+            },
+            {
+              "stable_id": "asr-001737",
+              "start_seconds": 5746.72,
+              "clock": "01:35:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001737"
+            },
+            {
+              "stable_id": "asr-001759",
+              "start_seconds": 5790.52,
+              "clock": "01:36:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001759"
+            },
+            {
+              "stable_id": "asr-001776",
+              "start_seconds": 5823.8,
+              "clock": "01:37:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001776"
+            },
+            {
+              "stable_id": "asr-001808",
+              "start_seconds": 5887.2,
+              "clock": "01:38:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001808"
+            },
+            {
+              "stable_id": "asr-001829",
+              "start_seconds": 5932.34,
+              "clock": "01:38:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001829"
+            },
+            {
+              "stable_id": "asr-001861",
+              "start_seconds": 5995.78,
+              "clock": "01:39:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001861"
+            },
+            {
+              "stable_id": "asr-001891",
+              "start_seconds": 6055.78,
+              "clock": "01:40:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001891"
+            },
+            {
+              "stable_id": "asr-001895",
+              "start_seconds": 6063.78,
+              "clock": "01:41:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001895"
+            }
+          ]
+        },
+        {
+          "label": "PNA accuracy, editorial checks and reporting reach",
+          "text": "When Tulfo raised past spelling and false-news errors, PIA clarified that it had no reporters and that he meant the Philippine News Agency (PNA). News and Information Bureau Officer in Charge Jereco O. Paloma said PNA had made no major blunders in recent years and was hiring reporters and editors. He described a two-level editorial review, with desk review before assignment, an editor's first check for grammar and basic journalistic standards, and a second vetting before publication; management could also flag later errors.\n\nTulfo said PNA dispatches sometimes arrived after local social-media reports and urged stronger provincial and municipal contacts. Paloma agreed that staffing was limited: fewer than 30 reporters were spread across the country, about 20 of them in Metro Manila, and hiring was ongoing. He said PNA would focus on accuracy rather than racing to be first.",
+          "citations": [
+            {
+              "stable_id": "asr-001945",
+              "start_seconds": 6163.62,
+              "clock": "01:42:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001945"
+            },
+            {
+              "stable_id": "asr-001968",
+              "start_seconds": 6207.84,
+              "clock": "01:43:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001968"
+            },
+            {
+              "stable_id": "asr-001983",
+              "start_seconds": 6237.38,
+              "clock": "01:43:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001983"
+            },
+            {
+              "stable_id": "asr-002011",
+              "start_seconds": 6292.98,
+              "clock": "01:44:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002011"
+            },
+            {
+              "stable_id": "asr-002018",
+              "start_seconds": 6326.68,
+              "clock": "01:45:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002018"
+            },
+            {
+              "stable_id": "asr-002025",
+              "start_seconds": 6400.3,
+              "clock": "01:46:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002025"
+            },
+            {
+              "stable_id": "asr-002029",
+              "start_seconds": 6424.74,
+              "clock": "01:47:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002029"
+            }
+          ]
+        },
+        {
+          "label": "Presidential coverage and camera direction",
+          "text": "Tulfo asked Radio Television MalacaÃ±ang (RTVM) to avoid live shots that could embarrass the President, First Family, Cabinet members or other officials when they were unaware a camera was following them. He urged camera operators and directors to choose appropriate angles and switch away from awkward moments. RTVM Undersecretary Franz Gerard R. Imperial said a small event normally used at least three cameras and larger events about four, with the State of the Nation Address using the most; he confirmed that camera teams and directors communicated. Imperial said RTVM would keep improving, and Gomez acknowledged Tulfo's request.",
+          "citations": [
+            {
+              "stable_id": "asr-002033",
+              "start_seconds": 6438.34,
+              "clock": "01:47:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002033"
+            },
+            {
+              "stable_id": "asr-002043",
+              "start_seconds": 6486.2,
+              "clock": "01:48:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002043"
+            },
+            {
+              "stable_id": "asr-002057",
+              "start_seconds": 6554.5,
+              "clock": "01:49:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002057"
+            },
+            {
+              "stable_id": "asr-002066",
+              "start_seconds": 6591.22,
+              "clock": "01:49:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002066"
+            },
+            {
+              "stable_id": "asr-002078",
+              "start_seconds": 6629.0,
+              "clock": "01:50:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002078"
+            },
+            {
+              "stable_id": "asr-002090",
+              "start_seconds": 6663.32,
+              "clock": "01:51:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002090"
+            },
+            {
+              "stable_id": "asr-002101",
+              "start_seconds": 6696.64,
+              "clock": "01:51:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002101"
+            }
+          ]
+        },
+        {
+          "label": "Strategic media campaigns and combating disinformation",
+          "text": "Tulfo asked whether PCO's strategic media campaign also addressed combating fake news. PCO Undersecretary Ramon A. Ilagan confirmed that it did. He said the unit supports the Secretary's media strategies and campaigns about presidential directives and agency programs, and works to counter fake news, disinformation and misinformation.",
+          "citations": [
+            {
+              "stable_id": "asr-002190",
+              "start_seconds": 7044.04,
+              "clock": "01:57:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002190"
+            },
+            {
+              "stable_id": "asr-002192",
+              "start_seconds": 7060.22,
+              "clock": "01:57:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002192"
+            },
+            {
+              "stable_id": "asr-002195",
+              "start_seconds": 7073.48,
+              "clock": "01:57:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002195"
+            },
+            {
+              "stable_id": "asr-002197",
+              "start_seconds": 7088.6,
+              "clock": "01:58:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002197"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Passport fees and public burden",
+          "text": "Ejercito raised a proposal to increase the passport fee from PHP900 to PHP1,500 and noted that the charge had last changed in 2016. He asked why it was needed and expressed concern about the burden on OFWs and poorer travelers, while also warning that a shortage of passports would harm the public. In response, Puyat clarified that APO was seeking a subsidy rather than a public fee increase. Ejercito later referred to PHP950 as the price in 2016; the exchange therefore contains both 900 and 950 as the earlier fee.\n\nAsked about the shift from five-year to ten-year passport validity, Puyat confirmed that lower production quantities had reduced buying power and economies of scale.",
+          "citations": [
+            {
+              "stable_id": "asr-001171",
+              "start_seconds": 4609.56,
+              "clock": "01:16:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001171"
+            },
+            {
+              "stable_id": "asr-001185",
+              "start_seconds": 4638.12,
+              "clock": "01:17:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001185"
+            },
+            {
+              "stable_id": "asr-001186",
+              "start_seconds": 4639.86,
+              "clock": "01:17:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001186"
+            },
+            {
+              "stable_id": "asr-001201",
+              "start_seconds": 4670.34,
+              "clock": "01:17:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001201"
+            },
+            {
+              "stable_id": "asr-001213",
+              "start_seconds": 4693.8,
+              "clock": "01:18:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001213"
+            },
+            {
+              "stable_id": "asr-001293",
+              "start_seconds": 4856.68,
+              "clock": "01:20:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001293"
+            },
+            {
+              "stable_id": "asr-001303-split-2",
+              "start_seconds": 4877.58,
+              "clock": "01:21:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-001303-split-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-christopher-lawrence-t-go",
+      "label": "Senator Christopher Lawrence T. Go",
+      "items": [
+        {
+          "label": "IBC operations while a sale remains pending",
+          "text": "Go asked whether the Intercontinental Broadcasting Corporation (IBC) had been sold. IBC President Jose C. \"Jimmy\" Policarpio Jr. said it had not; although IBC would comply if its leadership chose to sell, it had no buyer or franchise at that point. He said IBC needed to keep operating and improve the station's value before a sale, including by opening more provincial towers and producing programs for viewers, government and prospective investors. He also described IBC's hourly news as part of its effort to counter fake news. Go encouraged IBC to improve and look after the station.",
+          "citations": [
+            {
+              "stable_id": "asr-002289",
+              "start_seconds": 7339.16,
+              "clock": "02:02:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002289"
+            },
+            {
+              "stable_id": "asr-002300",
+              "start_seconds": 7360.76,
+              "clock": "02:02:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002300"
+            },
+            {
+              "stable_id": "asr-002311",
+              "start_seconds": 7384.06,
+              "clock": "02:03:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002311"
+            },
+            {
+              "stable_id": "asr-002328",
+              "start_seconds": 7422.1,
+              "clock": "02:03:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002328"
+            },
+            {
+              "stable_id": "asr-002343",
+              "start_seconds": 7481.68,
+              "clock": "02:04:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002343"
+            }
+          ]
+        },
+        {
+          "label": "Accurate information and fairness to the public",
+          "text": "Go said the PCO's role was to convey clear, accurate and timely information about government programs and policies. He urged the communications agencies to keep fighting fake news and promoting reliable information, saying misinformation can damage lives and mental health. He asked them to put ordinary Filipinos' interests first and be fair.",
+          "citations": [
+            {
+              "stable_id": "asr-002369",
+              "start_seconds": 7569.84,
+              "clock": "02:06:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002369"
+            },
+            {
+              "stable_id": "asr-002375",
+              "start_seconds": 7595.24,
+              "clock": "02:06:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002375"
+            },
+            {
+              "stable_id": "asr-002386",
+              "start_seconds": 7639.76,
+              "clock": "02:07:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002386"
+            },
+            {
+              "stable_id": "asr-002484",
+              "start_seconds": 8035.76,
+              "clock": "02:13:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002484"
+            }
+          ]
+        },
+        {
+          "label": "Passport fee and public burden",
+          "text": "Go opposed raising the passport processing fee, saying it would burden ordinary people, including overseas Filipino workers, and that every peso mattered to poorer travelers. He asked whether passport-printing shortages had ended across Manila and the provinces; Attorney Gil Carlos R. Puyat IV, president of APO Production Unit, Inc. (APO), confirmed printing was continuing and there were no shortages. Go said he would object if the public fee were raised.",
+          "citations": [
+            {
+              "stable_id": "asr-002428",
+              "start_seconds": 7825.88,
+              "clock": "02:10:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002428"
+            },
+            {
+              "stable_id": "asr-002438",
+              "start_seconds": 7866.92,
+              "clock": "02:11:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002438"
+            },
+            {
+              "stable_id": "asr-002451",
+              "start_seconds": 7920.7,
+              "clock": "02:12:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002451"
+            },
+            {
+              "stable_id": "asr-002454",
+              "start_seconds": 7929.14,
+              "clock": "02:12:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002454"
+            },
+            {
+              "stable_id": "asr-002459",
+              "start_seconds": 7942.8,
+              "clock": "02:12:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002459"
+            },
+            {
+              "stable_id": "asr-002466",
+              "start_seconds": 7969.14,
+              "clock": "02:12:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002466"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-closing-outcome",
+      "label": "Closing outcome",
+      "items": [
+        {
+          "label": "Briefing disposition",
+          "text": "With no further questions, Senator Erwin Tulfo deemed the Fiscal Year 2027 proposed budget of the Presidential Communications Office (PCO), its attached agencies and corporations submitted for plenary consideration. The committee briefing was then suspended.",
+          "citations": [
+            {
+              "stable_id": "asr-002501",
+              "start_seconds": 8086.08,
+              "clock": "02:14:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002501"
+            },
+            {
+              "stable_id": "asr-002502",
+              "start_seconds": 8091.14,
+              "clock": "02:14:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002502"
+            },
+            {
+              "stable_id": "asr-002507",
+              "start_seconds": 8104.3,
+              "clock": "02:15:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002507"
+            },
+            {
+              "stable_id": "asr-002508",
+              "start_seconds": 8105.92,
+              "clock": "02:15:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-002508"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

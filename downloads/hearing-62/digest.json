@@ -1,0 +1,2717 @@
+{
+  "hearing": {
+    "hearing_id": 62,
+    "title": "Senate Committee on Finance: NIA - September 17, 2026",
+    "hearing_date": "2026-09-17",
+    "official_url": "https://www.youtube.com/watch?v=PRo3-tKYoH4"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h62/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Opening priorities and budget presentation",
+      "text": "Subcommittee G chair Senator Francis Kiko Pangilinan opened the hearing by stressing restoration, farmer access to water, project quality and public transparency. Senator Imee R. Marcos questioned the National Irrigation Administration (NIA) on its requested budget and performance. NIA Administrator Eduardo Eddie G. Guillen presented the agency's irrigation plans, digital project-tracking platform and funding priorities.",
+      "citations": []
+    },
+    {
+      "label": "Oversight and project accountability",
+      "text": "Marcos and Pangilinan pressed NIA and the Commission on Audit (COA) on non-operational systems, delayed or terminated contracts, procurement findings and asset records. The agency and auditors undertook to provide updated project-level and implementation information. NIA and the Department of Budget and Management (DBM) also discussed how a validated project list could support early procurement while linking released funds to approved projects; DBM was asked to submit its proposed safeguard in writing.",
+      "citations": []
+    },
+    {
+      "label": "Resilience, farmer support and water storage",
+      "text": "The discussion covered drought preparation, solar irrigation, restoration, dam operations, flood-mitigation and storage proposals, and farmer sales and cooperative development. Senators asked for clearer dam-release protocols, project costs and status, and evidence of irrigation and farmer benefits.",
+      "citations": []
+    },
+    {
+      "label": "Finance Committee priorities and disposition",
+      "text": "Senate Committee on Finance chair Senator Joseph Victor \"JV\" G. Ejercito emphasized measurable irrigation results and long-term water storage, and raised project duration and funding status. Pangilinan closed by deeming the NIA budget submitted for plenary consideration subject to requested submissions and a separate preparatory meeting; this was not approval of the appropriation.",
+      "citations": []
+    }
+  ],
+  "method_note": "The budget figures below distinguish NIA's original FY2027 request from the FY2027 NEP allocation and the prior-year GAA. The opening description of the proposal is retained as a separate, conflicting statement rather than reconciled with the detailed presentation.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "FY2027 agency request and NEP allocation",
+          "text": "For FY2027, NIA's original agency request was ₱233.85 billion; the FY2027 National Expenditure Program (NEP) presented ₱47.43 billion. For comparison, the FY2026 General Appropriations Act (GAA) provided ₱64.37 billion. In the opening, Pangilinan separately described the proposal as ₱46.36 billion and 27% lower; the hearing did not reconcile that statement with Guillen's detailed total.",
+          "citations": [
+            {
+              "stable_id": "asr-000042",
+              "start_seconds": 732.3000000000001,
+              "clock": "00:12:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000042"
+            },
+            {
+              "stable_id": "asr-000925",
+              "start_seconds": 2835.36,
+              "clock": "00:47:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000925"
+            },
+            {
+              "stable_id": "asr-000926",
+              "start_seconds": 2837.94,
+              "clock": "00:47:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000926"
+            },
+            {
+              "stable_id": "asr-000938",
+              "start_seconds": 2860.54,
+              "clock": "00:47:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000938"
+            },
+            {
+              "stable_id": "asr-000939",
+              "start_seconds": 2863.14,
+              "clock": "00:47:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000939"
+            },
+            {
+              "stable_id": "asr-000929",
+              "start_seconds": 2843.22,
+              "clock": "00:47:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000929"
+            },
+            {
+              "stable_id": "asr-000930",
+              "start_seconds": 2846.5,
+              "clock": "00:47:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000930"
+            },
+            {
+              "stable_id": "asr-000931",
+              "start_seconds": 2847.16,
+              "clock": "00:47:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000931"
+            },
+            {
+              "stable_id": "asr-000932",
+              "start_seconds": 2848.7,
+              "clock": "00:47:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000932"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-national-irrigation-administration-nia",
+      "label": "National Irrigation Administration (NIA) budget",
+      "items": [
+        {
+          "label": "Restoration cuts and drought readiness",
+          "text": "At the opening of the hearing on the National Irrigation Administration (NIA) FY2027 budget, Senator Francis Kiko Pangilinan, chair of Subcommittee G of the Senate Committee on Finance, said funding for restoration of irrigation systems was down 58 percent. He argued that the anticipated El Nino made this a poor time to cut support for canals, pumps, reservoirs, communal irrigation and repairs. He urged spending that delivers water to farms and produces working infrastructure, with results and accountability.",
+          "citations": [
+            {
+              "stable_id": "asr-000043",
+              "start_seconds": 741.0600000000001,
+              "clock": "00:12:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000043"
+            },
+            {
+              "stable_id": "asr-000044",
+              "start_seconds": 751.82,
+              "clock": "00:12:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000044"
+            },
+            {
+              "stable_id": "asr-000047",
+              "start_seconds": 778.7800000000001,
+              "clock": "00:12:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000047"
+            }
+          ]
+        },
+        {
+          "label": "Basis of the agency request and questions about utilization",
+          "text": "NIA requested funding based on screened Regional Development Council (RDC) submissions and its assessment of irrigation needs. Pangilinan questioned the practicality of the large request; Marcos asked why NIA sought such an increase while about ₱17 billion remained in continuing appropriations. Guillen said the request showed the full requirements and NIA would implement what Congress made available.",
+          "citations": [
+            {
+              "stable_id": "asr-001001",
+              "start_seconds": 2986.18,
+              "clock": "00:49:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001001"
+            },
+            {
+              "stable_id": "asr-000990",
+              "start_seconds": 2962.7200000000003,
+              "clock": "00:49:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000990"
+            },
+            {
+              "stable_id": "asr-000991",
+              "start_seconds": 2964.82,
+              "clock": "00:49:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000991"
+            },
+            {
+              "stable_id": "asr-000992",
+              "start_seconds": 2967.16,
+              "clock": "00:49:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000992"
+            },
+            {
+              "stable_id": "asr-000943",
+              "start_seconds": 2871.22,
+              "clock": "00:47:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000943"
+            }
+          ]
+        },
+        {
+          "label": "NIA budget by program and expense class",
+          "text": "The FY2027 program-expenditure slide listed ₱12.91 billion for General Administration and Support (GAS) in NIA's proposal and ₱12.5 billion in the NEP, which Guillen said was 17% above FY2026 GAA. Support to Operations was ₱8.86 billion proposed and ₱3.42 billion in the NEP; the NEP figure was described as 39% above FY2026 GAA. For Operations, he cited a ₱211 billion proposal and ₱30.44 billion in the NEP. By expense class, NIA proposed ₱6.38 billion for Personnel Services (PS) versus ₱5.33 billion in the NEP; ₱7.21 billion for Maintenance and Other Operating Expenses (MOE) versus ₱7.23 billion in the NEP; and ₱219 billion in Capital Outlay versus ₱33 billion in the NEP. Guillen attributed most of the total reduction to Capital Outlay, which he said carries most of NIA's irrigation investment requirements.",
+          "citations": [
+            {
+              "stable_id": "asr-001029",
+              "start_seconds": 3040.58,
+              "clock": "00:50:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001029"
+            },
+            {
+              "stable_id": "asr-001031",
+              "start_seconds": 3044.5,
+              "clock": "00:50:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001031"
+            },
+            {
+              "stable_id": "asr-001033",
+              "start_seconds": 3048.56,
+              "clock": "00:50:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001033"
+            },
+            {
+              "stable_id": "asr-001039",
+              "start_seconds": 3058.56,
+              "clock": "00:50:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001039"
+            },
+            {
+              "stable_id": "asr-001040",
+              "start_seconds": 3060.68,
+              "clock": "00:51:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001040"
+            },
+            {
+              "stable_id": "asr-001043",
+              "start_seconds": 3066.62,
+              "clock": "00:51:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001043"
+            },
+            {
+              "stable_id": "asr-001049",
+              "start_seconds": 3078.82,
+              "clock": "00:51:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001049"
+            },
+            {
+              "stable_id": "asr-001051",
+              "start_seconds": 3082.0,
+              "clock": "00:51:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001051"
+            },
+            {
+              "stable_id": "asr-001052",
+              "start_seconds": 3084.68,
+              "clock": "00:51:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001052"
+            },
+            {
+              "stable_id": "asr-001057",
+              "start_seconds": 3092.98,
+              "clock": "00:51:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001057"
+            },
+            {
+              "stable_id": "asr-001059",
+              "start_seconds": 3096.88,
+              "clock": "00:51:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001059"
+            },
+            {
+              "stable_id": "asr-001061",
+              "start_seconds": 3100.74,
+              "clock": "00:51:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001061"
+            },
+            {
+              "stable_id": "asr-001062",
+              "start_seconds": 3103.0,
+              "clock": "00:51:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001062"
+            },
+            {
+              "stable_id": "asr-001066",
+              "start_seconds": 3110.86,
+              "clock": "00:51:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001066"
+            },
+            {
+              "stable_id": "asr-001067",
+              "start_seconds": 3113.0,
+              "clock": "00:51:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001067"
+            },
+            {
+              "stable_id": "asr-001068",
+              "start_seconds": 3114.8,
+              "clock": "00:51:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001068"
+            }
+          ]
+        },
+        {
+          "label": "Restoration, service roads, and regional quick-response funding",
+          "text": "NIA said the FY2027 Irrigation Systems Restoration Program would repair damaged national and communal systems, strengthen climate resilience, and protect water supply. Guillen cited ₱5.495 billion for climate-change adaptation works, then listed ₱223 million for national irrigation systems' adaptation work and ₱473 million for watershed rehabilitation and protection under communal systems; the presentation's wording does not make the relationship of those two amounts to the larger figure fully clear. For service roads, NIA proposed ₱17.7 billion for national systems and ₱2.39 billion for communal systems, while the FY2027 NEP included ₱250 million each. Guillen said the roads improve access for NIA operations and farmers, provide routes to production areas and markets, and can be used to dry palay where other facilities and roads are unavailable. He said NIA had sought ₱500 million annually through the Department of Public Works and Highways' Katubigan program, but none had been released since 2022; he asked that the service-road proposal be considered and Pangilinan requested a submission reconciling NIA's road needs with the Department of Agriculture's farm-to-market-road allocation. Guillen said NIA's roads were already incorporated into the Department of Agriculture's network.\n\nMarcos contrasted a ₱300 million FY2026 quick-response fund with a proposed ₱1.7 billion for FY2027, a ₱1.4 billion increase, and asked which disaster risks it would cover. Guillen said the proposal covered 17 regions—about ₱100 million per region—and could be insufficient with a severe El Niño and recurring storm and flood damage. He said NIA usually relied on the Office of Civil Defense for repairs and argued that a standard 5% calamity-fund share would imply a larger amount, while making clear that the ₱1.7 billion proposal was below NIA's needs.",
+          "citations": [
+            {
+              "stable_id": "asr-001093",
+              "start_seconds": 3160.38,
+              "clock": "00:52:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001093"
+            },
+            {
+              "stable_id": "asr-001096",
+              "start_seconds": 3167.3,
+              "clock": "00:52:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001096"
+            },
+            {
+              "stable_id": "asr-001099",
+              "start_seconds": 3173.34,
+              "clock": "00:52:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001099"
+            },
+            {
+              "stable_id": "asr-001111",
+              "start_seconds": 3199.2,
+              "clock": "00:53:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001111"
+            },
+            {
+              "stable_id": "asr-001112",
+              "start_seconds": 3201.62,
+              "clock": "00:53:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001112"
+            },
+            {
+              "stable_id": "asr-001113",
+              "start_seconds": 3203.16,
+              "clock": "00:53:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001113"
+            },
+            {
+              "stable_id": "asr-001114",
+              "start_seconds": 3205.12,
+              "clock": "00:53:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001114"
+            },
+            {
+              "stable_id": "asr-001115",
+              "start_seconds": 3207.14,
+              "clock": "00:53:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001115"
+            },
+            {
+              "stable_id": "asr-001116",
+              "start_seconds": 3209.12,
+              "clock": "00:53:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001116"
+            },
+            {
+              "stable_id": "asr-001117",
+              "start_seconds": 3211.06,
+              "clock": "00:53:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001117"
+            },
+            {
+              "stable_id": "asr-001127",
+              "start_seconds": 3231.24,
+              "clock": "00:53:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001127"
+            },
+            {
+              "stable_id": "asr-001128",
+              "start_seconds": 3232.76,
+              "clock": "00:53:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001128"
+            },
+            {
+              "stable_id": "asr-001142",
+              "start_seconds": 3261.4,
+              "clock": "00:54:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001142"
+            },
+            {
+              "stable_id": "asr-001144",
+              "start_seconds": 3264.98,
+              "clock": "00:54:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001144"
+            },
+            {
+              "stable_id": "asr-001236",
+              "start_seconds": 3448.7799999999997,
+              "clock": "00:57:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001236"
+            },
+            {
+              "stable_id": "asr-001238",
+              "start_seconds": 3452.8,
+              "clock": "00:57:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001238"
+            },
+            {
+              "stable_id": "asr-001240",
+              "start_seconds": 3456.86,
+              "clock": "00:57:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001240"
+            },
+            {
+              "stable_id": "asr-001271",
+              "start_seconds": 3519.06,
+              "clock": "00:58:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001271"
+            },
+            {
+              "stable_id": "asr-001274",
+              "start_seconds": 3524.62,
+              "clock": "00:58:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001274"
+            },
+            {
+              "stable_id": "asr-001278",
+              "start_seconds": 3532.52,
+              "clock": "00:58:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001278"
+            },
+            {
+              "stable_id": "asr-001282",
+              "start_seconds": 3540.5,
+              "clock": "00:59:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001282"
+            },
+            {
+              "stable_id": "asr-001094",
+              "start_seconds": 3163.16,
+              "clock": "00:52:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001094"
+            },
+            {
+              "stable_id": "asr-001097",
+              "start_seconds": 3168.96,
+              "clock": "00:52:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001097"
+            },
+            {
+              "stable_id": "asr-001098",
+              "start_seconds": 3170.7799999999997,
+              "clock": "00:52:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001098"
+            },
+            {
+              "stable_id": "asr-001100",
+              "start_seconds": 3175.14,
+              "clock": "00:52:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001100"
+            },
+            {
+              "stable_id": "asr-001143",
+              "start_seconds": 3263.04,
+              "clock": "00:54:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001143"
+            },
+            {
+              "stable_id": "asr-001239",
+              "start_seconds": 3454.46,
+              "clock": "00:57:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001239"
+            },
+            {
+              "stable_id": "asr-001269",
+              "start_seconds": 3514.46,
+              "clock": "00:58:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001269"
+            },
+            {
+              "stable_id": "asr-001270",
+              "start_seconds": 3516.58,
+              "clock": "00:58:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001270"
+            },
+            {
+              "stable_id": "asr-001275",
+              "start_seconds": 3526.64,
+              "clock": "00:58:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001275"
+            },
+            {
+              "stable_id": "asr-001283",
+              "start_seconds": 3542.62,
+              "clock": "00:59:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001283"
+            }
+          ]
+        },
+        {
+          "label": "Irrigation Systems Development and related expansion targets",
+          "text": "Guillen described NIA's Irrigation Systems Development Program as its main route for extending reliable water to unirrigated farmland. He stated a ₱39.94 billion proposal, then identified ₱34.94 billion for new national irrigation projects and ₱11.8 billion for small-reservoir irrigation; those stated amounts do not reconcile to the program total. For FY2027, he gave NEP amounts of ₱7.56 billion and ₱4.58 billion, respectively. He described a proposed target of 1,226 hectares of new areas and identified Jalaur River Stage 2, Balog-Balog, Ilocos Norte, and Tumauini River as strategic projects. A later slide listed FY2027 NEP funding for pump irrigation, small and special irrigation projects, system extensions, and the Comprehensive Agrarian Reform Program Irrigation Component (CARP-IC); the transcript renders the pump-irrigation amount as “7.92” followed by “92 billion,” so that figure is unclear. Guillen said the investments were expected to create 3,926 hectares of new irrigated area and restore 531 hectares. The later slide also gave ₱4.58 billion for small and special irrigation projects, ₱200 million for extension and expansion of existing systems, and ₱698 million for the Comprehensive Agrarian Reform Program Irrigation Component.",
+          "citations": [
+            {
+              "stable_id": "asr-001559",
+              "start_seconds": 3892.76,
+              "clock": "01:04:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001559"
+            },
+            {
+              "stable_id": "asr-001560",
+              "start_seconds": 3894.68,
+              "clock": "01:04:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001560"
+            },
+            {
+              "stable_id": "asr-001563",
+              "start_seconds": 3897.02,
+              "clock": "01:04:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001563"
+            },
+            {
+              "stable_id": "asr-001564",
+              "start_seconds": 3897.7,
+              "clock": "01:04:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001564"
+            },
+            {
+              "stable_id": "asr-001565",
+              "start_seconds": 3898.72,
+              "clock": "01:04:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001565"
+            },
+            {
+              "stable_id": "asr-001567",
+              "start_seconds": 3901.94,
+              "clock": "01:05:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001567"
+            },
+            {
+              "stable_id": "asr-001571",
+              "start_seconds": 3906.68,
+              "clock": "01:05:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001571"
+            },
+            {
+              "stable_id": "asr-001572",
+              "start_seconds": 3908.06,
+              "clock": "01:05:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001572"
+            },
+            {
+              "stable_id": "asr-001573",
+              "start_seconds": 3909.44,
+              "clock": "01:05:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001573"
+            },
+            {
+              "stable_id": "asr-001581",
+              "start_seconds": 3916.74,
+              "clock": "01:05:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001581"
+            },
+            {
+              "stable_id": "asr-001587",
+              "start_seconds": 3924.64,
+              "clock": "01:05:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001587"
+            },
+            {
+              "stable_id": "asr-001595",
+              "start_seconds": 3932.14,
+              "clock": "01:05:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001595"
+            },
+            {
+              "stable_id": "asr-001633",
+              "start_seconds": 3973.76,
+              "clock": "01:06:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001633"
+            },
+            {
+              "stable_id": "asr-001634",
+              "start_seconds": 3974.62,
+              "clock": "01:06:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001634"
+            },
+            {
+              "stable_id": "asr-001638",
+              "start_seconds": 3978.1,
+              "clock": "01:06:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001638"
+            },
+            {
+              "stable_id": "asr-001642",
+              "start_seconds": 3982.38,
+              "clock": "01:06:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001642"
+            },
+            {
+              "stable_id": "asr-001647",
+              "start_seconds": 3986.54,
+              "clock": "01:06:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001647"
+            },
+            {
+              "stable_id": "asr-001652",
+              "start_seconds": 3992.7,
+              "clock": "01:06:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001652"
+            },
+            {
+              "stable_id": "asr-001656",
+              "start_seconds": 3996.42,
+              "clock": "01:06:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001656"
+            },
+            {
+              "stable_id": "asr-001660",
+              "start_seconds": 4001.12,
+              "clock": "01:06:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001660"
+            },
+            {
+              "stable_id": "asr-001566",
+              "start_seconds": 3901.4,
+              "clock": "01:05:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001566"
+            },
+            {
+              "stable_id": "asr-001641",
+              "start_seconds": 3981.34,
+              "clock": "01:06:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001641"
+            },
+            {
+              "stable_id": "asr-001646",
+              "start_seconds": 3985.6,
+              "clock": "01:06:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001646"
+            }
+          ]
+        },
+        {
+          "label": "Project-list stability and proposed release safeguards",
+          "text": "Pangilinan asked how NIA could keep project lists stable enough for early procurement when the budget changed during congressional deliberations. Marcos described lists being altered again in the House and bicameral conference, while Guillen proposed organizing NIA’s appropriations by program and sub-program, with a validated project list, rather than making each individual project a rigid line item. NIA said a complete list could identify locations, beneficiaries, approved allocations, procurement status and periodic accomplishments while preserving flexibility to adjust projects within the authorized program.\n\nDepartment of Budget and Management (DBM) Director Elena Regina S. Brillantes said project specifics and amounts needed to match between the NEP and GAA. She illustrated the problem with a hypothetical 10-kilometer project listed at ₱10 million in the original list but funded at ₱8 million in the GAA: NIA’s ₱10 million approved budget for the bid would exceed the amount available. The exchange identified the list-and-amount mismatch as a cause of rework; it did not settle a final process.\n\nPangilinan returned to the project-list problem and asked DBM for a workable alternative to both a lump sum and project details that become obsolete. Brillantes said NIA remained subject to DBM evaluation during execution; the NEP and GAA used program and sub-program structures, but the evaluated project list was not attached to the allotment release. Her recommendation was a special provision making an evaluated, NIA Board-approved project list an integral part of the Special Allotment Release Order (SARO), so released funds would be tied to listed projects. Marcos asked DBM to submit its recommendation in writing for the Finance Committee and bicameral conference.\n\nGuillen said NIA needed early procurement because irrigation work must pause when water is being delivered and delaying modifications until January could undermine implementation. He asked for flexibility without an unrestricted lump sum. Marcos questioned whether DBM already received and evaluated NIA’s validated, shovel-ready lists; Brillantes distinguished evaluation from attaching the list to the SARO, and explained that project lists had ceased to accompany releases after the shift to program-expenditure classification. Pangilinan said the committee would study the wording and test the process with NIA before plenary. No final provision or reform was adopted in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002168",
+              "start_seconds": 4775.42,
+              "clock": "01:19:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002168"
+            },
+            {
+              "stable_id": "asr-002221",
+              "start_seconds": 4867.62,
+              "clock": "01:21:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002221"
+            },
+            {
+              "stable_id": "asr-002271",
+              "start_seconds": 4933.9,
+              "clock": "01:22:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002271"
+            },
+            {
+              "stable_id": "asr-002274",
+              "start_seconds": 4940.36,
+              "clock": "01:22:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002274"
+            },
+            {
+              "stable_id": "asr-002451",
+              "start_seconds": 5194.28,
+              "clock": "01:26:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002451"
+            },
+            {
+              "stable_id": "asr-002480",
+              "start_seconds": 5233.2,
+              "clock": "01:27:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002480"
+            },
+            {
+              "stable_id": "asr-002657",
+              "start_seconds": 5471.88,
+              "clock": "01:31:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002657"
+            },
+            {
+              "stable_id": "asr-002595",
+              "start_seconds": 5371.36,
+              "clock": "01:29:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002595"
+            }
+          ]
+        },
+        {
+          "label": "Repair priorities and pending disaster-restoration requests",
+          "text": "Pangilinan asked why NIA sought funding for new service areas when roughly 45,000 hectares remained non-operational. Guillen said NIA had to fund ongoing, bid-out legacy projects with contractual obligations, including Tumauini and Balog-Balog, while agreeing that repair and restoration should be prioritized because existing systems and trained irrigators could be rehabilitated at lower cost. He said most older repairs followed typhoon damage and had traditionally been referred to the Office of Civil Defense (OCD), since NIA previously had no quick-response fund (QRF).\n\nGuillen said NIA had requested about ₱13 billion from OCD for typhoon-damaged systems. When Pangilinan asked for a list of pending OCD requests, Guillen answered “₱30 billion.” The hearing did not clarify whether that was a different scope or a revised total; he agreed to submit the list. Guillen also argued that tightly itemized allocations make it difficult to redirect repair work to newly damaged systems and again requested implementation flexibility, while saying he was not seeking an unrestricted lump sum.",
+          "citations": [
+            {
+              "stable_id": "asr-002736",
+              "start_seconds": 5843.86,
+              "clock": "01:37:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002736"
+            },
+            {
+              "stable_id": "asr-002764",
+              "start_seconds": 5932.04,
+              "clock": "01:38:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002764"
+            },
+            {
+              "stable_id": "asr-002765",
+              "start_seconds": 5934.52,
+              "clock": "01:38:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002765"
+            },
+            {
+              "stable_id": "asr-002783",
+              "start_seconds": 5983.7,
+              "clock": "01:39:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002783"
+            },
+            {
+              "stable_id": "asr-002785",
+              "start_seconds": 5991.82,
+              "clock": "01:39:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002785"
+            },
+            {
+              "stable_id": "asr-002713",
+              "start_seconds": 5760.06,
+              "clock": "01:36:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002713"
+            }
+          ]
+        },
+        {
+          "label": "Released and ongoing funding for flood-related infrastructure",
+          "text": "Guillen said ₱1.5 billion had been released for Bustos Dam rehabilitation. NIA planned to replace the rubber dam with hydraulic steel gates; Guillen contrasted the rubber structure’s intended 15-year life, which he said it had not reached, with a projected 40-plus-year life for the steel gates. Pangilinan asked about the schedule; Guillen confirmed completion of the hydraulic-gate work by December 2027.\n\nFor the Cabiao mega-dike, Guillen said Phase 1 was already under construction and had ₱2 billion for a 1.5-kilometer segment. He said that segment was expected to finish 2027. These were reported funded works; the separate basin discussion covers their proposed water-management functions.",
+          "citations": [
+            {
+              "stable_id": "asr-002954",
+              "start_seconds": 6658.5,
+              "clock": "01:50:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002954"
+            },
+            {
+              "stable_id": "asr-003035",
+              "start_seconds": 6827.78,
+              "clock": "01:53:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003035"
+            },
+            {
+              "stable_id": "asr-003247",
+              "start_seconds": 7063.56,
+              "clock": "01:57:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003247"
+            },
+            {
+              "stable_id": "asr-003248",
+              "start_seconds": 7064.82,
+              "clock": "01:57:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003248"
+            },
+            {
+              "stable_id": "asr-003250",
+              "start_seconds": 7067.64,
+              "clock": "01:57:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003250"
+            },
+            {
+              "stable_id": "asr-003255",
+              "start_seconds": 7072.98,
+              "clock": "01:57:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003255"
+            },
+            {
+              "stable_id": "asr-003260",
+              "start_seconds": 7077.86,
+              "clock": "01:57:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003260"
+            }
+          ]
+        },
+        {
+          "label": "Contract farming support and farmer risk",
+          "text": "NIA Administrator Eduardo Eddie G. Guillen said NIA had previously sought contract-farming funds to encourage farmers to adopt a different cropping system, with the agency buying their harvest. He said the House provided ₱3.4 billion for that purpose, but the program was no longer funded after it was deemed outside NIA’s mandate and was transferred to the Department of Agriculture (DA). Guillen said the program had demonstrated the approach to farmers through peer experience and increased farmer income; he cited average palay yields of 4 tons in the wet season and 8 tons in the dry season, with some Pampanga yields reaching 14 tons.\n\nPangilinan stressed that farmers already assume crop and weather risks, so asking them to change familiar practices requires clear direction, support, and an incentive that shares the risk, especially at the outset. Guillen described contract farming as a way to demonstrate the alternative and said the pilot had been successful, while noting the funding transfer.",
+          "citations": [
+            {
+              "stable_id": "asr-004026",
+              "start_seconds": 8154.18,
+              "clock": "02:15:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004026"
+            },
+            {
+              "stable_id": "asr-004027",
+              "start_seconds": 8156.04,
+              "clock": "02:15:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004027"
+            },
+            {
+              "stable_id": "asr-004129-split-2",
+              "start_seconds": 8356.19,
+              "clock": "02:19:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004129-split-2"
+            },
+            {
+              "stable_id": "asr-004133",
+              "start_seconds": 8363.52,
+              "clock": "02:19:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004133"
+            },
+            {
+              "stable_id": "asr-004061",
+              "start_seconds": 8223.3,
+              "clock": "02:17:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004061"
+            },
+            {
+              "stable_id": "asr-004065",
+              "start_seconds": 8232.06,
+              "clock": "02:17:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004065"
+            },
+            {
+              "stable_id": "asr-004071",
+              "start_seconds": 8243.88,
+              "clock": "02:17:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004071"
+            },
+            {
+              "stable_id": "asr-004150",
+              "start_seconds": 8396.58,
+              "clock": "02:19:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004150"
+            },
+            {
+              "stable_id": "asr-004151",
+              "start_seconds": 8398.48,
+              "clock": "02:19:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004151"
+            },
+            {
+              "stable_id": "asr-004152",
+              "start_seconds": 8400.7,
+              "clock": "02:20:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004152"
+            },
+            {
+              "stable_id": "asr-004153",
+              "start_seconds": 8402.9,
+              "clock": "02:20:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004153"
+            },
+            {
+              "stable_id": "asr-004154",
+              "start_seconds": 8404.76,
+              "clock": "02:20:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004154"
+            }
+          ]
+        },
+        {
+          "label": "Conditional solar-power income",
+          "text": "Pangilinan asked whether NIA could earn from the power component of solar installations along its canals and dams. Guillen said NIA’s installed solar-pump projects nationwide totaled about 100 megawatts, and estimated that an agreement with the National Electrification Administration (NEA) to supply electric cooperatives could produce around ₱800 million a year at the stated ₱4 rate, based only on surplus power. He described this as a calculation contingent on the agreement, not current income. Pangilinan asked where such income should be directed beyond a bonus; Guillen said NIA had analyzed the farmer production gains and project costs at a cooperative site in Camarines Sur.",
+          "citations": [
+            {
+              "stable_id": "asr-004422",
+              "start_seconds": 8905.78,
+              "clock": "02:28:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004422"
+            },
+            {
+              "stable_id": "asr-004427",
+              "start_seconds": 8916.32,
+              "clock": "02:28:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004427"
+            },
+            {
+              "stable_id": "asr-004428",
+              "start_seconds": 8917.64,
+              "clock": "02:28:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004428"
+            },
+            {
+              "stable_id": "asr-004429",
+              "start_seconds": 8919.6,
+              "clock": "02:28:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004429"
+            },
+            {
+              "stable_id": "asr-004430",
+              "start_seconds": 8921.7,
+              "clock": "02:28:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004430"
+            }
+          ]
+        },
+        {
+          "label": "Proposed high dams and multiyear financing",
+          "text": "Guillen identified three proposed high dams for the Pampanga and adjoining river systems: Balintingon (also called Sumakbaw), with stated storage capacity of 559 million cubic meters; Maringalo on the Talavera River, with 39 million cubic meters; and Upper Gumain, with 99 million cubic meters. He said the proposed dams had been included in requests but were not funded. Guillen described them as serving water supply, irrigation and flood mitigation. He estimated that a large dam could cost about P10 billion and extrapolated P180 billion for 18 major river basins, before irrigation facilities.\n\nOn the three Central Luzon proposals, Guillen gave P16 billion as the original Balintingon estimate and said it needed updating. NIA Senior Deputy Administrator Robert C. Suguitan identified 2013 as the estimate year; Guillen said an updated estimate was about P20 billion. Senator Francis Kiko Pangilinan, chair of Subcommittee G of the Senate Committee on Finance, suggested that the old P20-billion figure could be about P30 billion at current prices. Guillen did not provide a final updated costing. He put Maringalo at around P6 billion and Upper Gumain at P8 billion. Pangilinan characterized the three-dam package as about P45 billion. These were project-cost estimates, not approved appropriations.\n\nPangilinan said projects of this scale could take five years and floated phased funding, beginning at P2 billion and rising to P3 billion a year. For 18 river basins, he discussed P36 billion annually over five years as a possible redirection from flood-control spending; Guillen agreed the construction horizon would be five years. This was a planning proposal, with no appropriation or reallocation approved. Ejercito and Pangilinan asked NIA to submit its proposed dam list and multiyear costs for committee review.",
+          "citations": [
+            {
+              "stable_id": "asr-005655",
+              "start_seconds": 14521.78,
+              "clock": "04:02:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005655"
+            },
+            {
+              "stable_id": "asr-005662",
+              "start_seconds": 14535.7,
+              "clock": "04:02:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005662"
+            },
+            {
+              "stable_id": "asr-005666",
+              "start_seconds": 14543.42,
+              "clock": "04:02:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005666"
+            },
+            {
+              "stable_id": "asr-005702",
+              "start_seconds": 14617.16,
+              "clock": "04:03:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005702"
+            },
+            {
+              "stable_id": "asr-005707",
+              "start_seconds": 14629.76,
+              "clock": "04:03:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005707"
+            },
+            {
+              "stable_id": "asr-005710",
+              "start_seconds": 14637.1,
+              "clock": "04:03:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005710"
+            },
+            {
+              "stable_id": "asr-005743",
+              "start_seconds": 14702.54,
+              "clock": "04:05:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005743"
+            },
+            {
+              "stable_id": "asr-005747",
+              "start_seconds": 14712.3,
+              "clock": "04:05:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005747"
+            },
+            {
+              "stable_id": "asr-005782",
+              "start_seconds": 14801.06,
+              "clock": "04:06:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005782"
+            },
+            {
+              "stable_id": "asr-005786",
+              "start_seconds": 14813.06,
+              "clock": "04:06:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005786"
+            },
+            {
+              "stable_id": "asr-005793",
+              "start_seconds": 14830.06,
+              "clock": "04:07:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005793"
+            },
+            {
+              "stable_id": "asr-005794",
+              "start_seconds": 14832.06,
+              "clock": "04:07:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005794"
+            },
+            {
+              "stable_id": "asr-005799",
+              "start_seconds": 14846.06,
+              "clock": "04:07:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005799"
+            },
+            {
+              "stable_id": "asr-005804",
+              "start_seconds": 14863.06,
+              "clock": "04:07:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005804"
+            },
+            {
+              "stable_id": "asr-005808",
+              "start_seconds": 14870.06,
+              "clock": "04:07:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005808"
+            },
+            {
+              "stable_id": "asr-005811",
+              "start_seconds": 14882.06,
+              "clock": "04:08:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005811"
+            },
+            {
+              "stable_id": "asr-005810",
+              "start_seconds": 14881.06,
+              "clock": "04:08:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005810"
+            },
+            {
+              "stable_id": "asr-005812",
+              "start_seconds": 14885.06,
+              "clock": "04:08:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005812"
+            },
+            {
+              "stable_id": "asr-005658",
+              "start_seconds": 14527.64,
+              "clock": "04:02:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005658"
+            },
+            {
+              "stable_id": "asr-005920",
+              "start_seconds": 15408.36,
+              "clock": "04:16:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005920"
+            }
+          ]
+        },
+        {
+          "label": "Cabiao megadike impoundment and local retention works",
+          "text": "Guillen argued that impounding water could slow runoff, recharge aquifers and support irrigation without inundating farmers' rice fields. At Cabiao, he described a megadike area 500 meters wide and 6 kilometers long, with potential capacity of 12 million cubic meters above Candaba. The funded work covered 1.5 kilometers, which he said would be completed the following year and hold 3 million cubic meters; 4.5 kilometers remained. Pangilinan asked NIA to submit a separate cost estimate for the remaining length. Guillen said the project had Department of Environment and Natural Resources (DENR) approval, no right-of-way problem and local-government endorsement.\n\nGuillen said the detention pond could capture floodwater for potable water, irrigation and aquaculture. He described a route to divert water from the Pampanga River into the impoundment and then through the existing Congdadong Dam and a pumping station for irrigation; the flow could also be returned toward the river during floods. He also described the Nabao Lake area as a retention pond that could be dredged.",
+          "citations": [
+            {
+              "stable_id": "asr-005852",
+              "start_seconds": 15131.06,
+              "clock": "04:12:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005852"
+            },
+            {
+              "stable_id": "asr-005870",
+              "start_seconds": 15236.86,
+              "clock": "04:13:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005870"
+            },
+            {
+              "stable_id": "asr-005899",
+              "start_seconds": 15343.02,
+              "clock": "04:15:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005899"
+            },
+            {
+              "stable_id": "asr-005950",
+              "start_seconds": 15496.72,
+              "clock": "04:18:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005950"
+            }
+          ]
+        },
+        {
+          "label": "Project duration, funding and budget treatment",
+          "text": "Ejercito asked how long NIA projects normally take, citing projects funded since 2012 that remained unfinished. Guillen said the P1-billion Mahayag Dam took one year and four months. He explained that older projects could take a decade when a P500-million project received only P50 million a year. NIA now uses Contract Budget Inclusion (CBI), he said, bidding projects as a whole. NIA also tightened contractor qualifications from AAA to quadruple-A and checks contractors' equipment and capacity. Guillen identified funding gaps and contractor performance as the main causes of delay, while noting that awards can take time because of due diligence.\n\nEjercito asked how two- or three-year projects fit annual cash-based budgets. Guillen described NIA's budget as a subsidy classified under maintenance and other operating expenses (MOOE), and said NIA could modify a project if it extended to two years. Guillen said Tumawini was among NIA's ongoing large dams. In the Tumawini exchange, Ejercito cited a P1-billion allocation and Guillen confirmed the amount. Guillen separately said the Inisaip project in Ilocos Norte was expected to be awarded in the last quarter of the year.",
+          "citations": [
+            {
+              "stable_id": "asr-006078",
+              "start_seconds": 15763.92,
+              "clock": "04:22:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006078"
+            },
+            {
+              "stable_id": "asr-006080",
+              "start_seconds": 15768.62,
+              "clock": "04:22:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006080"
+            },
+            {
+              "stable_id": "asr-006095",
+              "start_seconds": 15797.5,
+              "clock": "04:23:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006095"
+            },
+            {
+              "stable_id": "asr-006097",
+              "start_seconds": 15800.84,
+              "clock": "04:23:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006097"
+            },
+            {
+              "stable_id": "asr-006101",
+              "start_seconds": 15805.96,
+              "clock": "04:23:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006101"
+            },
+            {
+              "stable_id": "asr-006104",
+              "start_seconds": 15811.1,
+              "clock": "04:23:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006104"
+            },
+            {
+              "stable_id": "asr-006120",
+              "start_seconds": 15829.7,
+              "clock": "04:23:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006120"
+            },
+            {
+              "stable_id": "asr-006129",
+              "start_seconds": 15839.56,
+              "clock": "04:23:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006129"
+            },
+            {
+              "stable_id": "asr-006153",
+              "start_seconds": 15869.16,
+              "clock": "04:24:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006153"
+            },
+            {
+              "stable_id": "asr-006167",
+              "start_seconds": 15884.3,
+              "clock": "04:24:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006167"
+            },
+            {
+              "stable_id": "asr-006174",
+              "start_seconds": 15892.04,
+              "clock": "04:24:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006174"
+            },
+            {
+              "stable_id": "asr-006181",
+              "start_seconds": 15898.12,
+              "clock": "04:24:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006181"
+            },
+            {
+              "stable_id": "asr-006192",
+              "start_seconds": 15909.76,
+              "clock": "04:25:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006192"
+            },
+            {
+              "stable_id": "asr-006201",
+              "start_seconds": 15918.42,
+              "clock": "04:25:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006201"
+            },
+            {
+              "stable_id": "asr-006045",
+              "start_seconds": 15694.8,
+              "clock": "04:21:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006045"
+            },
+            {
+              "stable_id": "asr-006094",
+              "start_seconds": 15795.14,
+              "clock": "04:23:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006094"
+            },
+            {
+              "stable_id": "asr-006034",
+              "start_seconds": 15673.4,
+              "clock": "04:21:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006034"
+            },
+            {
+              "stable_id": "asr-006042",
+              "start_seconds": 15686.94,
+              "clock": "04:21:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006042"
+            },
+            {
+              "stable_id": "asr-006049",
+              "start_seconds": 15704.98,
+              "clock": "04:21:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006049"
+            }
+          ]
+        },
+        {
+          "label": "2026 continuing appropriations and 2025 unobligated projects",
+          "text": "Ejercito cited P16.99 billion in continuing appropriations in NIA's 2026 corporate operating budget and asked for a fiscal-year breakdown and the amount returned from earlier years. Financial Management Department Manager Milca B. Cayanga reported P10.8 billion in 2025 unobligated funds for major projects, including Inisaip and Tumawini, and said those funds were valid for 2025. Asked whether congressional additions were still unimplemented, she identified P300 million from the disaster fund in addition to NIA's regular budget. The exchange did not provide the requested year-by-year breakdown or establish that the P10.8 billion shared the P16.99 billion figure's scope.",
+          "citations": [
+            {
+              "stable_id": "asr-006209",
+              "start_seconds": 15926.08,
+              "clock": "04:25:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006209"
+            },
+            {
+              "stable_id": "asr-006237",
+              "start_seconds": 15955.52,
+              "clock": "04:25:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006237"
+            },
+            {
+              "stable_id": "asr-006247",
+              "start_seconds": 15965.84,
+              "clock": "04:26:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006247"
+            },
+            {
+              "stable_id": "asr-006252",
+              "start_seconds": 15972.0,
+              "clock": "04:26:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006252"
+            },
+            {
+              "stable_id": "asr-006257",
+              "start_seconds": 15974.9,
+              "clock": "04:26:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006257"
+            },
+            {
+              "stable_id": "asr-006290",
+              "start_seconds": 16010.8,
+              "clock": "04:26:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006290"
+            },
+            {
+              "stable_id": "asr-006216",
+              "start_seconds": 15934.74,
+              "clock": "04:25:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006216"
+            },
+            {
+              "stable_id": "asr-006297",
+              "start_seconds": 16016.8,
+              "clock": "04:26:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006297"
+            }
+          ]
+        },
+        {
+          "label": "Project readiness and repeated irrigation funding",
+          "text": "Ejercito asked why the Tumaga River-Pasunangka River project in Zamboanga City received P370 million in the 2026 budget when, as he recounted, NIA had only begun procurement of a feasibility-study consultant in June and July 2025 and completed geological and LiDAR work in November. Guillen said early project funds were used for right-of-way acquisition and access roads, and cited coordination with the DENR.\n\nEjercito asked whether later allocations represented new phases or repeated funding. He cited P45 million in 2023 and P70 million in 2026 for the Bugko irrigation project in Northern Samar, and P207.8 million in 2018 plus P70 million in 2026 for the Catarman-Bobon project. Guillen said the later amounts were for repairs to damaged works after earlier budgets proved insufficient. He explained that NIA had limited quick-response or calamity funds, received Office of Civil Defense (OCD) support only rarely, and otherwise included repair and restoration in the following year's budget.",
+          "citations": [
+            {
+              "stable_id": "asr-006303",
+              "start_seconds": 16022.54,
+              "clock": "04:27:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006303"
+            },
+            {
+              "stable_id": "asr-006309",
+              "start_seconds": 16029.04,
+              "clock": "04:27:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006309"
+            },
+            {
+              "stable_id": "asr-006323",
+              "start_seconds": 16042.06,
+              "clock": "04:27:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006323"
+            },
+            {
+              "stable_id": "asr-006333",
+              "start_seconds": 16052.68,
+              "clock": "04:27:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006333"
+            },
+            {
+              "stable_id": "asr-006336",
+              "start_seconds": 16057.22,
+              "clock": "04:27:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006336"
+            },
+            {
+              "stable_id": "asr-006409",
+              "start_seconds": 16131.8,
+              "clock": "04:28:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006409"
+            },
+            {
+              "stable_id": "asr-006414",
+              "start_seconds": 16135.12,
+              "clock": "04:28:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006414"
+            },
+            {
+              "stable_id": "asr-006420",
+              "start_seconds": 16142.04,
+              "clock": "04:29:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006420"
+            },
+            {
+              "stable_id": "asr-006426",
+              "start_seconds": 16149.3,
+              "clock": "04:29:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006426"
+            },
+            {
+              "stable_id": "asr-006438",
+              "start_seconds": 16164.44,
+              "clock": "04:29:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006438"
+            },
+            {
+              "stable_id": "asr-006450",
+              "start_seconds": 16177.36,
+              "clock": "04:29:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006450"
+            },
+            {
+              "stable_id": "asr-006454",
+              "start_seconds": 16181.74,
+              "clock": "04:29:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006454"
+            },
+            {
+              "stable_id": "asr-006475",
+              "start_seconds": 16202.1,
+              "clock": "04:30:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006475"
+            },
+            {
+              "stable_id": "asr-006481",
+              "start_seconds": 16213.58,
+              "clock": "04:30:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006481"
+            },
+            {
+              "stable_id": "asr-006411",
+              "start_seconds": 16133.04,
+              "clock": "04:28:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006411"
+            },
+            {
+              "stable_id": "asr-006415",
+              "start_seconds": 16136.02,
+              "clock": "04:28:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006415"
+            },
+            {
+              "stable_id": "asr-006423",
+              "start_seconds": 16146.2,
+              "clock": "04:29:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006423"
+            },
+            {
+              "stable_id": "asr-006425",
+              "start_seconds": 16148.22,
+              "clock": "04:29:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006425"
+            }
+          ]
+        },
+        {
+          "label": "Disaster restoration and NIA maintenance needs",
+          "text": "Pangilinan said NIA had a P30-billion pending request with the OCD; Ejercito asked when it was submitted; Guillen said it dated to 2022. Guillen explained that floods and typhoons damage dams, irrigation facilities and canals, and said NIA's infrastructure also includes works built decades ago. He argued that agency calamity funds should be at least 5 percent, then described the age of NIA's maintained assets, including facilities built 50 years earlier.",
+          "citations": [
+            {
+              "stable_id": "asr-006484",
+              "start_seconds": 16219.82,
+              "clock": "04:30:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006484"
+            },
+            {
+              "stable_id": "asr-006488",
+              "start_seconds": 16231.24,
+              "clock": "04:30:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006488"
+            },
+            {
+              "stable_id": "asr-006493",
+              "start_seconds": 16241.42,
+              "clock": "04:30:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006493"
+            },
+            {
+              "stable_id": "asr-006523",
+              "start_seconds": 16300.1,
+              "clock": "04:31:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006523"
+            },
+            {
+              "stable_id": "asr-006528",
+              "start_seconds": 16310.3,
+              "clock": "04:31:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006528"
+            },
+            {
+              "stable_id": "asr-006487",
+              "start_seconds": 16225.3,
+              "clock": "04:30:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006487"
+            },
+            {
+              "stable_id": "asr-006495",
+              "start_seconds": 16245.78,
+              "clock": "04:30:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006495"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-national-irrigation-administration-nia-presentation",
+      "label": "National Irrigation Administration (NIA) presentation",
+      "items": [
+        {
+          "label": "NIAFLOW project transparency platform",
+          "text": "National Irrigation Administration (NIA) Administrator Eduardo Eddie G. Guillen introduced a demonstration of NIAFLOW, its digital platform for tracking irrigation infrastructure. The 2026 homepage and regional map display allocations, project and contract counts, completion status, and contract information such as cost, obligation, disbursement, contractor, implementation period, and number of components. External users can submit a report with a tracking ID or flag an issue on a contract; the presentation said reported issues appear on the map and updates go by email. The presentation said the platform connects project and financial information with public feedback through NIA's electronic services.",
+          "citations": [
+            {
+              "stable_id": "asr-000252",
+              "start_seconds": 1342.12,
+              "clock": "00:22:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000252"
+            },
+            {
+              "stable_id": "asr-000257",
+              "start_seconds": 1362.9,
+              "clock": "00:22:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000257"
+            },
+            {
+              "stable_id": "asr-000274",
+              "start_seconds": 1406.12,
+              "clock": "00:23:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000274"
+            },
+            {
+              "stable_id": "asr-000290",
+              "start_seconds": 1442.12,
+              "clock": "00:24:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000290"
+            },
+            {
+              "stable_id": "asr-000296",
+              "start_seconds": 1454.12,
+              "clock": "00:24:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000296"
+            },
+            {
+              "stable_id": "asr-000302",
+              "start_seconds": 1466.12,
+              "clock": "00:24:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000302"
+            },
+            {
+              "stable_id": "asr-000306",
+              "start_seconds": 1474.12,
+              "clock": "00:24:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000306"
+            }
+          ]
+        },
+        {
+          "label": "Solar-powered irrigation results shown in the presentation video",
+          "text": "The prerecorded presentation showed farmers describing the effects of NIA solar-powered irrigation. Kap. Johnny Sorongon said his community had gone more than six years without planting after its system failed. Sonya Suliman Berce described an irrigation fee paid in rice—12 cabans weighing 600 kilos—before solar panels reduced electricity costs and allowed continuous irrigation and planting. The video said the San Agustin–San Ramon Agrarian Reform Farmers Cooperative (SARFC) had faced monthly electricity bills of as much as ₱450,000, but had paid none during the preceding four months using solar power. It also described the Lumasba Multipurpose Cooperative as carrying nearly ₱10 million in electric-cooperative debt before its NIA solar-powered pump project began operating.",
+          "citations": [
+            {
+              "stable_id": "asr-000365",
+              "start_seconds": 1612.12,
+              "clock": "00:26:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000365"
+            },
+            {
+              "stable_id": "asr-000367",
+              "start_seconds": 1616.12,
+              "clock": "00:26:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000367"
+            },
+            {
+              "stable_id": "asr-000412",
+              "start_seconds": 1714.12,
+              "clock": "00:28:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000412"
+            },
+            {
+              "stable_id": "asr-000413",
+              "start_seconds": 1716.12,
+              "clock": "00:28:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000413"
+            },
+            {
+              "stable_id": "asr-000418",
+              "start_seconds": 1726.12,
+              "clock": "00:28:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000418"
+            },
+            {
+              "stable_id": "asr-000438",
+              "start_seconds": 1783.58,
+              "clock": "00:29:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000438"
+            },
+            {
+              "stable_id": "asr-000448",
+              "start_seconds": 1821.36,
+              "clock": "00:30:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000448"
+            },
+            {
+              "stable_id": "asr-000449",
+              "start_seconds": 1827.88,
+              "clock": "00:30:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000449"
+            },
+            {
+              "stable_id": "asr-000452",
+              "start_seconds": 1845.78,
+              "clock": "00:30:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000452"
+            },
+            {
+              "stable_id": "asr-000454",
+              "start_seconds": 1856.3,
+              "clock": "00:30:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000454"
+            }
+          ]
+        },
+        {
+          "label": "Updated irrigation potential, development baseline, and planning approvals",
+          "text": "Guillen said the updated assessment put gross potential irrigable area at 9.16 million hectares, including steep upland areas; the net potential estimate was 4.65 million hectares at slopes up to 8%, after technical, environmental, and other constraints. Within that net figure, about 4.24 million hectares fall in the 0–8% range: 3.05 million at 0–3% and 1.19 million at 3–8%. NIA also identified additional areas at steeper slopes for pipe irrigation where site conditions allow. As of December 31, 2025, the agency reported 2.2 million hectares developed against the original 3.13 million-hectare planning base, or 70.25%; it said about 1 million hectares, or roughly 30%, remained. Pangilinan asked whether the accomplishment measure and budget projections should shift to the larger 4.65 million-hectare base. Guillen said the new plan still needed Department of Agriculture and NIA Board approval, that the joint plan had been signed by Secretary Laurel and would go to the Board within the year, and agreed the 2028 budget would reflect the larger development area.",
+          "citations": [
+            {
+              "stable_id": "asr-000515",
+              "start_seconds": 2142.76,
+              "clock": "00:35:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000515"
+            },
+            {
+              "stable_id": "asr-000518",
+              "start_seconds": 2154.82,
+              "clock": "00:35:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000518"
+            },
+            {
+              "stable_id": "asr-000519",
+              "start_seconds": 2160.42,
+              "clock": "00:36:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000519"
+            },
+            {
+              "stable_id": "asr-000520",
+              "start_seconds": 2169.06,
+              "clock": "00:36:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000520"
+            },
+            {
+              "stable_id": "asr-000521",
+              "start_seconds": 2172.84,
+              "clock": "00:36:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000521"
+            },
+            {
+              "stable_id": "asr-000541",
+              "start_seconds": 2225.7,
+              "clock": "00:37:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000541"
+            },
+            {
+              "stable_id": "asr-000573",
+              "start_seconds": 2307.7200000000003,
+              "clock": "00:38:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000573"
+            },
+            {
+              "stable_id": "asr-000574",
+              "start_seconds": 2310.4,
+              "clock": "00:38:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000574"
+            },
+            {
+              "stable_id": "asr-000576",
+              "start_seconds": 2317.14,
+              "clock": "00:38:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000576"
+            },
+            {
+              "stable_id": "asr-000577",
+              "start_seconds": 2319.86,
+              "clock": "00:38:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000577"
+            },
+            {
+              "stable_id": "asr-000578",
+              "start_seconds": 2325.38,
+              "clock": "00:38:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000578"
+            },
+            {
+              "stable_id": "asr-000584",
+              "start_seconds": 2337.08,
+              "clock": "00:38:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000584"
+            },
+            {
+              "stable_id": "asr-000600",
+              "start_seconds": 2374.82,
+              "clock": "00:39:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000600"
+            },
+            {
+              "stable_id": "asr-000621",
+              "start_seconds": 2412.98,
+              "clock": "00:40:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000621"
+            },
+            {
+              "stable_id": "asr-000624",
+              "start_seconds": 2420.56,
+              "clock": "00:40:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000624"
+            },
+            {
+              "stable_id": "asr-000627",
+              "start_seconds": 2426.12,
+              "clock": "00:40:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000627"
+            }
+          ]
+        },
+        {
+          "label": "NIA solar-pump project costs and requested itemization",
+          "text": "Guillen said solar-pump irrigation in areas with existing systems could cost ₱300,000–₱500,000 per hectare to develop, compared with ₱1.6 million per hectare for a new area using conventional high or diversion dams. Marcos asked NIA to provide a cost breakdown amid allegations of overpricing; Guillen agreed to show the unit-cost derivation and an itemized comparison with other agencies. He said comparisons should account for irrigated area, pumping capacity, materials, automation and climate-smart capability, and actual performance. Pangilinan cautioned that a high dam can also provide potable water and hydropower, so solar's pumping cost is only one component and the projects need an apples-to-apples comparison. Guillen added that NIA's solar-pump systems can potentially supply the grid and power nearby rice-processing systems; he said NIA would present the supporting comparison later in the briefing.",
+          "citations": [
+            {
+              "stable_id": "asr-000699",
+              "start_seconds": 2523.76,
+              "clock": "00:42:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000699"
+            },
+            {
+              "stable_id": "asr-000700",
+              "start_seconds": 2526.1,
+              "clock": "00:42:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000700"
+            },
+            {
+              "stable_id": "asr-000701",
+              "start_seconds": 2527.04,
+              "clock": "00:42:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000701"
+            },
+            {
+              "stable_id": "asr-000703",
+              "start_seconds": 2529.06,
+              "clock": "00:42:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000703"
+            },
+            {
+              "stable_id": "asr-000704",
+              "start_seconds": 2530.52,
+              "clock": "00:42:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000704"
+            },
+            {
+              "stable_id": "asr-000720",
+              "start_seconds": 2550.32,
+              "clock": "00:42:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000720"
+            },
+            {
+              "stable_id": "asr-000721",
+              "start_seconds": 2551.64,
+              "clock": "00:42:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000721"
+            },
+            {
+              "stable_id": "asr-000743",
+              "start_seconds": 2581.08,
+              "clock": "00:43:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000743"
+            },
+            {
+              "stable_id": "asr-000764",
+              "start_seconds": 2604.1400000000003,
+              "clock": "00:43:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000764"
+            },
+            {
+              "stable_id": "asr-000785",
+              "start_seconds": 2627.2,
+              "clock": "00:43:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000785"
+            },
+            {
+              "stable_id": "asr-000789",
+              "start_seconds": 2630.6400000000003,
+              "clock": "00:43:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000789"
+            },
+            {
+              "stable_id": "asr-000860",
+              "start_seconds": 2703.84,
+              "clock": "00:45:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000860"
+            },
+            {
+              "stable_id": "asr-000862",
+              "start_seconds": 2708.14,
+              "clock": "00:45:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000862"
+            },
+            {
+              "stable_id": "asr-000883",
+              "start_seconds": 2751.98,
+              "clock": "00:45:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000883"
+            },
+            {
+              "stable_id": "asr-000904",
+              "start_seconds": 2792.76,
+              "clock": "00:46:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000904"
+            }
+          ]
+        },
+        {
+          "label": "Dam-release protocols and flood preparation",
+          "text": "Marcos asked who gives the order to release water from dams and how downstream communities are warned, citing concerns after releases affected downstream residents and evacuation. Guillen said NIA can forecast incoming water roughly two weeks ahead, uses that forecast to pre-release water, and coordinates with local government units. He distinguished NIA-managed reservoir dams such as Magat and Pantabangan from diversion dams, over which he said NIA has no control; Pangilinan asked NIA to submit a step-by-step water-release protocol identifying which dams it manages and which it does not, and Guillen agreed to submit it. Guillen also described Ambuklao, Binga, and San Roque as a series of dams that can pass water downstream between reservoirs, while Marcos pressed for clear responsibility and advance notice to downstream municipalities and police.",
+          "citations": [
+            {
+              "stable_id": "asr-001258",
+              "start_seconds": 3492.74,
+              "clock": "00:58:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001258"
+            },
+            {
+              "stable_id": "asr-001264",
+              "start_seconds": 3504.66,
+              "clock": "00:58:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001264"
+            },
+            {
+              "stable_id": "asr-001301",
+              "start_seconds": 3578.56,
+              "clock": "00:59:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001301"
+            },
+            {
+              "stable_id": "asr-001302",
+              "start_seconds": 3580.68,
+              "clock": "00:59:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001302"
+            },
+            {
+              "stable_id": "asr-001340",
+              "start_seconds": 3641.66,
+              "clock": "01:00:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001340"
+            },
+            {
+              "stable_id": "asr-001347",
+              "start_seconds": 3649.22,
+              "clock": "01:00:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001347"
+            },
+            {
+              "stable_id": "asr-001365",
+              "start_seconds": 3671.94,
+              "clock": "01:01:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001365"
+            },
+            {
+              "stable_id": "asr-001380",
+              "start_seconds": 3695.74,
+              "clock": "01:01:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001380"
+            },
+            {
+              "stable_id": "asr-001440",
+              "start_seconds": 3771.2,
+              "clock": "01:02:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001440"
+            },
+            {
+              "stable_id": "asr-001462",
+              "start_seconds": 3794.28,
+              "clock": "01:03:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001462"
+            },
+            {
+              "stable_id": "asr-001467",
+              "start_seconds": 3799.26,
+              "clock": "01:03:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001467"
+            },
+            {
+              "stable_id": "asr-001477",
+              "start_seconds": 3807.04,
+              "clock": "01:03:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001477"
+            },
+            {
+              "stable_id": "asr-001520",
+              "start_seconds": 3853.12,
+              "clock": "01:04:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001520"
+            },
+            {
+              "stable_id": "asr-001527",
+              "start_seconds": 3860.4,
+              "clock": "01:04:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001527"
+            },
+            {
+              "stable_id": "asr-001531",
+              "start_seconds": 3864.5,
+              "clock": "01:04:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001531"
+            },
+            {
+              "stable_id": "asr-001532",
+              "start_seconds": 3865.24,
+              "clock": "01:04:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001532"
+            }
+          ]
+        },
+        {
+          "label": "Strategic priorities and irrigation master plan",
+          "text": "Guillen linked the FY2027 proposal to NIA's seven priorities: irrigation infrastructure, irrigators' association capacity, climate-smart farming, governance, monitoring and evaluation, staff capability, and strategic communication. The National Irrigation Master Plan for 2020–2030 underpinned expansion and modernization to improve farm productivity, food security and rural incomes. He sought Senate support for increased funding to complete projects, restore existing systems and serve remote, upland and water-deficient areas.",
+          "citations": [
+            {
+              "stable_id": "asr-001677",
+              "start_seconds": 4018.7,
+              "clock": "01:06:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001677"
+            },
+            {
+              "stable_id": "asr-000478",
+              "start_seconds": 1987.62,
+              "clock": "00:33:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000478"
+            },
+            {
+              "stable_id": "asr-000498",
+              "start_seconds": 2061.3,
+              "clock": "00:34:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000498"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-priorities",
+      "label": "Opening priorities",
+      "items": [
+        {
+          "label": "Protecting farmers through reliable water and working projects",
+          "text": "Pangilinan framed the hearing around the coming Super El Nino, which he said was expected from the final months of 2026 through the first half of 2027, recent unprecedented flooding in Central, Northern and Southern Luzon, and public demands for accountability after alleged substandard infrastructure, especially flood-control projects. He said the value of NIA's large budget should be measured by whether small farmers receive water, productive farms function and farmer incomes rise. He warned that farming's future is at risk as the current generation ages and fewer young people enter the sector. Recalling the 2014-2015 El Nino, he said NIA had prepared then and should ensure the agriculture sector and irrigators are ready again.",
+          "citations": [
+            {
+              "stable_id": "asr-000023",
+              "start_seconds": 603.74,
+              "clock": "00:10:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000023"
+            },
+            {
+              "stable_id": "asr-000030",
+              "start_seconds": 652.78,
+              "clock": "00:10:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000030"
+            },
+            {
+              "stable_id": "asr-000040",
+              "start_seconds": 716.4200000000001,
+              "clock": "00:11:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000040"
+            }
+          ]
+        },
+        {
+          "label": "Transparency, project quality and rapid response to farmers",
+          "text": "Pangilinan called for geotagged projects, publicly available contracts, independent quality testing, and a public dashboard for monitoring projects. He said government should pay only after work is proven complete and functioning, and impose penalties for delays. Referring to the special provision for a transparency portal, he asked whether it had been built, what information it would show and when it would be open to the public.\n\nHe thanked NIA Administrator Eduardo Eddie G. Guillen for acting quickly after farmers in San Luis, Pampanga, raised a problem the previous week, and said cooperation had helped address the concern. Recalling complaints in Mindoro, Pangilinan warned that slow responses can leave room for social-media posts that exploit genuine grievances or spread disinformation. He said NIA should respond quickly whether or not an issue is already circulating online, and that he would promptly release information he received. He then invited Guillen to present NIA's budget.",
+          "citations": [
+            {
+              "stable_id": "asr-000056",
+              "start_seconds": 851.0600000000001,
+              "clock": "00:14:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000056"
+            },
+            {
+              "stable_id": "asr-000070",
+              "start_seconds": 910.22,
+              "clock": "00:15:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000070"
+            },
+            {
+              "stable_id": "asr-000092",
+              "start_seconds": 953.6,
+              "clock": "00:15:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000092"
+            },
+            {
+              "stable_id": "asr-000130",
+              "start_seconds": 1028.72,
+              "clock": "00:17:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-000130"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-imee-r-marcos",
+      "label": "Senator Imee R. Marcos",
+      "items": [
+        {
+          "label": "COA findings on non-operational systems and project completion",
+          "text": "Senator Imee R. Marcos opened by citing Commission on Audit (COA) findings that more than 46,000 hectares across 660 irrigation systems were non-operational. National Irrigation Administration (NIA) Administrator Eduardo Eddie G. Guillen said the term generally covered systems damaged by calamities; Marcos challenged that explanation for existing maintenance and operating items carried over from 2026, which she said were not necessarily storm damage. She cited 110 contracts worth ₱12.7 billion, then described 63 contracts worth ₱7.7 billion as damaged or deficient and 47 completed but non-operational projects worth ₱4.9 billion, which she characterized as ₱25.26 billion of unusable work. Guillen said new projects had warranty periods and contractors were required to repair defects; NIA focused on calamity damage. He separately put reported damage needing restoration at about ₱13 billion.\n\nMarcos and Subcommittee G chair Senator Francis Kiko Pangilinan asked for project-level explanations and a time-bound rehabilitation plan. COA Supervising Auditor John Gilbert P. Pio said the observations came from regional audits, management had responded at exit conferences, and implementation was partial, with repairs ongoing. Guillen agreed to submit updated status from NIA; Pio said COA would provide its action-plan and implementation-status information. Marcos also cited 146 contracts that missed target completion dates, 16 ongoing projects valued at ₱5.167 billion, and 17 terminated contracts reported at ₱158 billion. Guillen said five terminated contracts had been rebid and received notices to proceed, four were for rebidding, four were being repackaged, one was terminated for convenience, and one was recent; the listed dispositions account for 15 contracts. He then said that, among 152 contracts, 84 were complete and 35 ongoing. The committee asked NIA and COA for a project-by-project update before plenary.",
+          "citations": [
+            {
+              "stable_id": "asr-001746",
+              "start_seconds": 4090.36,
+              "clock": "01:08:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001746"
+            },
+            {
+              "stable_id": "asr-001747",
+              "start_seconds": 4092.7200000000003,
+              "clock": "01:08:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001747"
+            },
+            {
+              "stable_id": "asr-001794",
+              "start_seconds": 4136.04,
+              "clock": "01:08:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001794"
+            },
+            {
+              "stable_id": "asr-001795",
+              "start_seconds": 4136.5599999999995,
+              "clock": "01:08:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001795"
+            },
+            {
+              "stable_id": "asr-001807",
+              "start_seconds": 4151.44,
+              "clock": "01:09:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001807"
+            },
+            {
+              "stable_id": "asr-001862",
+              "start_seconds": 4220.68,
+              "clock": "01:10:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001862"
+            },
+            {
+              "stable_id": "asr-001900",
+              "start_seconds": 4272.98,
+              "clock": "01:11:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001900"
+            },
+            {
+              "stable_id": "asr-001978",
+              "start_seconds": 4366.82,
+              "clock": "01:12:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001978"
+            },
+            {
+              "stable_id": "asr-001980",
+              "start_seconds": 4371.6,
+              "clock": "01:12:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001980"
+            },
+            {
+              "stable_id": "asr-001713",
+              "start_seconds": 4054.04,
+              "clock": "01:07:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001713"
+            },
+            {
+              "stable_id": "asr-001748",
+              "start_seconds": 4093.44,
+              "clock": "01:08:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001748"
+            },
+            {
+              "stable_id": "asr-001951",
+              "start_seconds": 4337.76,
+              "clock": "01:12:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001951"
+            },
+            {
+              "stable_id": "asr-001851",
+              "start_seconds": 4202.46,
+              "clock": "01:10:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001851"
+            },
+            {
+              "stable_id": "asr-001855",
+              "start_seconds": 4207.36,
+              "clock": "01:10:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-001855"
+            }
+          ]
+        },
+        {
+          "label": "Procurement compliance and post-qualification delays",
+          "text": "Marcos cited a COA finding of procurement-law non-compliance in 137 contracts worth ₱15 billion and asked whether the cases involved negotiated bids or other violations. Guillen said supporting documents had been submitted but were not available during the audit, and that management had reminded the Bids and Awards Committee Secretariat to include the materials in its conference presentation. COA reported some recent progress, especially on procurement timelines.\n\nNIA Administrative Department Manager Atty. Ailyne C. Agtuca-Selda explained that central-office findings concerned post-qualification exceeding the statutory timeline on large projects, often after requests for reconsideration and protests. NIA sought approval from the head of the procuring entity for additional time and added teams to conduct post-qualification work simultaneously. Marcos pressed NIA to avoid recurring findings and asked why projects could not be bid up to award earlier. Guillen said early procurement was affected when the project list or amounts changed between the National Expenditure Program (NEP), the General Appropriations Act (GAA), House deliberations and bicameral conference, requiring NIA to modify its procurement work.",
+          "citations": [
+            {
+              "stable_id": "asr-002029",
+              "start_seconds": 4474.72,
+              "clock": "01:14:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002029"
+            },
+            {
+              "stable_id": "asr-002079",
+              "start_seconds": 4601.8,
+              "clock": "01:16:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002079"
+            },
+            {
+              "stable_id": "asr-002020-split-4",
+              "start_seconds": 4459.89,
+              "clock": "01:14:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002020-split-4"
+            }
+          ]
+        },
+        {
+          "label": "PPE balances, asset records and COA reconciliation",
+          "text": "Marcos questioned the recurring COA finding on property, plant and equipment (PPE), citing ₱347 billion and asking why the variance and dormant-property records persisted. NIA Accounting Division Manager Sharilyn A. Bluza clarified that ₱347 billion was NIA’s total PPE, not the amount of the misstatement. She said total book misstatement had fallen from ₱400 billion in 2023 to ₱87 billion, while the remaining PPE misstatement was ₱53.8 billion. As of July 2026, NIA had corrected ₱16.9 billion and was still working on “30-plus billion.” These are distinct measures and periods.\n\nGuillen said NIA had created an Asset Recovery Management Office to address old-property documentation and titling. Bluza acknowledged recurring findings on dormant property and said inventory work continued. Marcos asked COA and NIA to provide their updated findings and implementation status before plenary; Supervising Auditor Pio agreed COA would provide information based on the agency action plan and status reports.",
+          "citations": [
+            {
+              "stable_id": "asr-002300",
+              "start_seconds": 4988.36,
+              "clock": "01:23:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002300"
+            },
+            {
+              "stable_id": "asr-002337",
+              "start_seconds": 5051.68,
+              "clock": "01:24:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002337"
+            },
+            {
+              "stable_id": "asr-002386",
+              "start_seconds": 5115.2,
+              "clock": "01:25:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002386"
+            },
+            {
+              "stable_id": "asr-002388",
+              "start_seconds": 5117.96,
+              "clock": "01:25:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002388"
+            },
+            {
+              "stable_id": "asr-002408",
+              "start_seconds": 5143.98,
+              "clock": "01:25:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002408"
+            },
+            {
+              "stable_id": "asr-002420",
+              "start_seconds": 5159.06,
+              "clock": "01:25:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002420"
+            },
+            {
+              "stable_id": "asr-002423",
+              "start_seconds": 5162.9,
+              "clock": "01:26:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002423"
+            },
+            {
+              "stable_id": "asr-002288",
+              "start_seconds": 4966.22,
+              "clock": "01:22:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002288"
+            }
+          ]
+        },
+        {
+          "label": "Pantabangan pumped-storage proposal and farmer consultation",
+          "text": "Marcos asked what would happen to a reported 25-year agreement involving First Gen’s Aya pumped-storage and Masiway facilities in relation to Pantabangan. Guillen described the proposal as pumped storage, or a “water battery,” in which water cycles through a reservoir; he said it would not reduce irrigation supply. He denied that it had been granted exclusively without competition: because it was unsolicited, NIA conducted a Swiss Challenge, invited other proponents, and awarded it to First Gen after no competing bidder came forward.\n\nMarcos asked whether farmers and irrigators’ associations had been consulted and raised concerns that irrigation supply, adjoining farmland or communal irrigators could be affected. Guillen said public consultations had taken place and that the project had an environmental compliance certificate. He said rehabilitation would enlarge the existing reservoir and add water volume to the irrigation system.",
+          "citations": [
+            {
+              "stable_id": "asr-003447",
+              "start_seconds": 7338.66,
+              "clock": "02:02:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003447"
+            },
+            {
+              "stable_id": "asr-003456",
+              "start_seconds": 7356.52,
+              "clock": "02:02:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003456"
+            },
+            {
+              "stable_id": "asr-003476",
+              "start_seconds": 7397.26,
+              "clock": "02:03:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003476"
+            },
+            {
+              "stable_id": "asr-003516",
+              "start_seconds": 7474.1,
+              "clock": "02:04:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003516"
+            },
+            {
+              "stable_id": "asr-003521",
+              "start_seconds": 7484.06,
+              "clock": "02:04:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003521"
+            },
+            {
+              "stable_id": "asr-003482",
+              "start_seconds": 7408.26,
+              "clock": "02:03:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003482"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-francis-kiko-pangilinan",
+      "label": "Senator Francis Kiko Pangilinan",
+      "items": [
+        {
+          "label": "Pampanga and Bulacan basin flood-mitigation proposals",
+          "text": "Pangilinan connected his questions to flooding in Pampanga, relaying the governor’s report that the area had been inundated for 36 days and could exceed the 42-day record from 1972. Guillen said NIA had been studying the Pampanga and Bulacan river basins since 2023 for projects that could support irrigation and reduce flooding. The presentation described the Pampanga basin as an interconnected system and cautioned that flood risk depends on rainfall, watershed runoff, river capacity, drainage, debris and downstream conditions, so no single dam can prevent all floods.\n\nGuillen described Bayabas as an impounding dam under construction that would hold 54 million cubic meters, with completion targeted for 2028; Bustos is an existing 17-million-cubic-meter dam. He said NIA could not construct the proposed Ipo River dam because it had no additional irrigation area to serve, and said a water-supply or power-sector entity should build it. He suggested water could be routed downstream to Bustos.\n\nFor Pampanga, Guillen identified 15 tributaries and discussed proposed storage at Maringalo on the Talavera River (about 39.2 million cubic meters), Balintingon on the Sumakbau River (later confirmed as about 559 million cubic meters), and Upper Porac-Gumain (described as about 99–100 million cubic meters). He said Balintingon was a 140-meter high dam with an updated feasibility study but no National Economic and Development Authority (NEDA) approval yet; NIA planned to submit it to NEDA. He also described smaller impoundments alongside existing government-owned mega dikes, including the Cabiao project, and said NIA coordinated with the Department of Public Works and Highways (DPWH) on water-and-road designs. These were proposals or ongoing works at different stages, not completed basin-wide flood protection.",
+          "citations": [
+            {
+              "stable_id": "asr-002887",
+              "start_seconds": 6379.48,
+              "clock": "01:46:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002887"
+            },
+            {
+              "stable_id": "asr-003439",
+              "start_seconds": 7323.4,
+              "clock": "02:02:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003439"
+            },
+            {
+              "stable_id": "asr-002806",
+              "start_seconds": 6055.92,
+              "clock": "01:40:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002806"
+            },
+            {
+              "stable_id": "asr-002816",
+              "start_seconds": 6106.58,
+              "clock": "01:41:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002816"
+            },
+            {
+              "stable_id": "asr-002914",
+              "start_seconds": 6539.16,
+              "clock": "01:48:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-002914"
+            },
+            {
+              "stable_id": "asr-003050",
+              "start_seconds": 6846.56,
+              "clock": "01:54:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003050"
+            },
+            {
+              "stable_id": "asr-003437-split-2",
+              "start_seconds": 7320.14,
+              "clock": "02:02:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003437-split-2"
+            }
+          ]
+        },
+        {
+          "label": "Preparing for El Niño with water-saving methods and a shifted crop calendar",
+          "text": "Pangilinan recalled the severe 2015–2016 El Niño, when he said drought and dry spells affected 80% of the country and more than 32,000 hectares of rice fields were damaged. He asked how NIA was preparing for the coming El Niño and raised the risks to major reservoirs. Guillen replied that Magat was near its target level and said NIA expected to serve its full area there; for Pantabangan, NIA planned to use Alternate Wetting and Drying (AWD). He described preparation for both El Niño and La Niña through short-, medium-, and long-term measures.\n\nFor the short term, Guillen said NIA was training farmers in AWD, which he said could save 20–30% of water; he cited a Pantabangan experience with 50,000 vulnerable hectares and about 6,000 hectares that could not actually be irrigated during the last El Niño. In response to Pangilinan’s questions, Guillen agreed that the technique reduces water consumption; the senator connected a 30% reduction to about 1,200 liters less per kilogram of rice, from a stated 4,000 liters, and Guillen agreed. Guillen also said AWD reduces methane emissions and identified moving planting toward two dry-season crops as another measure to save water and raise cropping intensity and yield. He explained that planting from October, using remaining rain and harvesting in February, could reduce early land-soaking and reservoir demand, with another crop in the sunny season. He said the strategy had worked in Pantabangan and that the changed calendar could support continued hydropower production in summer.\n\nPangilinan questioned why farmers had historically followed a wet-season pattern despite irrigation, and Guillen said practices are difficult to change because farming is cultural. Guillen said broad participation and consolidated farming were needed to reduce pest risks; Pangilinan emphasized that government support should share the risk farmers take when changing crops and schedules.",
+          "citations": [
+            {
+              "stable_id": "asr-003560",
+              "start_seconds": 7565.48,
+              "clock": "02:06:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003560"
+            },
+            {
+              "stable_id": "asr-003608",
+              "start_seconds": 7657.92,
+              "clock": "02:07:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003608"
+            },
+            {
+              "stable_id": "asr-003689",
+              "start_seconds": 7772.28,
+              "clock": "02:09:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003689"
+            },
+            {
+              "stable_id": "asr-003813",
+              "start_seconds": 7911.66,
+              "clock": "02:11:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003813"
+            },
+            {
+              "stable_id": "asr-003877",
+              "start_seconds": 7972.22,
+              "clock": "02:12:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-003877"
+            }
+          ]
+        },
+        {
+          "label": "Long-term dams, irrigation, and shared water uses",
+          "text": "Guillen described solar-pump projects as a medium-term measure and high dams as a longer-term response. When Pangilinan asked about the proposed Balintingon high dam, Guillen said a feasibility study existed and described it as a potential source of irrigation, bulk water, and power; he gave a rough 559 million cubic meters of surplus water and argued that the project could serve Central Luzon supply needs. NIA Senior Deputy Administrator Robert C. Suguitan explained that Balintingon would be multipurpose: it could supply areas now served by Bustos Dam and allow Bustos water used for irrigation to augment Metro Manila’s water supply. He identified around 15,000 hectares of new irrigation coverage, subject to areas already covered by solar projects.\n\nPangilinan asked which farmers and municipalities would benefit and clarified the proposed diversion between irrigation and potable-water uses. The officials also discussed the canal and dam network as possible locations for solar installations, and NIA described a planned series of dams that could support hydropower and pumped storage. These were proposals and design concepts discussed in the exchange, not completed works.",
+          "citations": [
+            {
+              "stable_id": "asr-004232",
+              "start_seconds": 8563.2,
+              "clock": "02:22:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004232"
+            },
+            {
+              "stable_id": "asr-004274",
+              "start_seconds": 8643.6,
+              "clock": "02:24:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004274"
+            },
+            {
+              "stable_id": "asr-004306",
+              "start_seconds": 8707.92,
+              "clock": "02:25:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004306"
+            },
+            {
+              "stable_id": "asr-004310",
+              "start_seconds": 8716.3,
+              "clock": "02:25:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004310"
+            }
+          ]
+        },
+        {
+          "label": "Canal network and solar-power concepts",
+          "text": "Pangilinan asked how much of NIA’s canal network might support panels. Guillen gave a ballpark 68,000 kilometers of canals; NIA Deputy Administrator Reyne B. Ugay and Pangilinan then worked through an approximate surface-area and power calculation, reaching a rough 20,400-megawatt figure. NIA described possible connections to the grid and cooperatives, and discussed a Department of Energy (DOE) Green Energy Auction for NIA facilities. The 20,400-megawatt figure was part of this rough discussion, not an established feasible generating capacity.",
+          "citations": [
+            {
+              "stable_id": "asr-004460",
+              "start_seconds": 8980.16,
+              "clock": "02:29:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004460"
+            },
+            {
+              "stable_id": "asr-004485-split-3",
+              "start_seconds": 9044.4,
+              "clock": "02:30:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004485-split-3"
+            },
+            {
+              "stable_id": "asr-004522",
+              "start_seconds": 9103.84,
+              "clock": "02:31:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004522"
+            }
+          ]
+        },
+        {
+          "label": "Solar-pump costs, technical differences, and requested itemization",
+          "text": "Pangilinan returned to the solar-pump cost comparison and asked NIA to explain the price differences with other agencies. Guillen distinguished a basic solar-pump installation from NIA’s fuller package. He cited a DA development cost of ₱700,000 per hectare and a Department of Public Works and Highways (DPWH) solar-power program cost of ₱800,000 per hectare. NIA’s fuller system, including its additional features, ranged from ₱800,000 to ₱1 million per hectare; Guillen said a solar-only system comparable to the DA specification cost ₱300,000–₱500,000 per hectare, and that the common items in an apples-to-apples comparison came to about ₱400,000 per hectare. He said the fuller NIA system included well drilling and development, pump and solar-panel/inverter components, fertigation, distribution piping, perimeter fencing, and AI and satellite monitoring. Pangilinan asked for the market-price breakdown and requested that NIA submit it.\n\nGuillen said the designs differed in capacity and equipment: NIA specified a 200% solar-to-load ratio, which he said could operate the pump from about 7 a.m. to 5:30 p.m.; he contrasted the DA’s 120% ratio and said it could operate about four to five hours a day. He compared a 15-horsepower NIA pump with a 7.5-horsepower DA pump and four-inch versus three-inch discharge pipes. He described NIA’s mounting structure as bolted, prefabricated stainless steel, compared with welded steel in the DA design, and cited AI monitoring and fertigation systems in the NIA package. Guillen said NIA’s panels were bifacial and sourced from suppliers ranked in Bloomberg’s top ten; he also said the modular structure could be lowered ahead of a severe storm and withstand winds of 280 kilometers per hour. The comparison explained NIA’s stated scope and specification differences; Pangilinan’s request for an itemized market-price submission remained part of the exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-004601",
+              "start_seconds": 9223.7,
+              "clock": "02:33:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004601"
+            },
+            {
+              "stable_id": "asr-004660",
+              "start_seconds": 9290.54,
+              "clock": "02:34:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004660"
+            },
+            {
+              "stable_id": "asr-004661",
+              "start_seconds": 9291.76,
+              "clock": "02:34:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004661"
+            },
+            {
+              "stable_id": "asr-004695",
+              "start_seconds": 9327.66,
+              "clock": "02:35:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004695"
+            },
+            {
+              "stable_id": "asr-004696",
+              "start_seconds": 9328.82,
+              "clock": "02:35:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004696"
+            },
+            {
+              "stable_id": "asr-004697",
+              "start_seconds": 9329.52,
+              "clock": "02:35:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004697"
+            },
+            {
+              "stable_id": "asr-004705",
+              "start_seconds": 9338.04,
+              "clock": "02:35:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004705"
+            },
+            {
+              "stable_id": "asr-004706",
+              "start_seconds": 9339.68,
+              "clock": "02:35:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004706"
+            },
+            {
+              "stable_id": "asr-004707",
+              "start_seconds": 9340.14,
+              "clock": "02:35:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004707"
+            },
+            {
+              "stable_id": "asr-004713",
+              "start_seconds": 9346.78,
+              "clock": "02:35:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004713"
+            },
+            {
+              "stable_id": "asr-004714",
+              "start_seconds": 9349.04,
+              "clock": "02:35:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004714"
+            },
+            {
+              "stable_id": "asr-004725",
+              "start_seconds": 9360.56,
+              "clock": "02:36:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004725"
+            },
+            {
+              "stable_id": "asr-004726",
+              "start_seconds": 9361.86,
+              "clock": "02:36:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004726"
+            },
+            {
+              "stable_id": "asr-004782",
+              "start_seconds": 9408.66,
+              "clock": "02:36:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004782"
+            },
+            {
+              "stable_id": "asr-004784",
+              "start_seconds": 9411.16,
+              "clock": "02:36:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004784"
+            },
+            {
+              "stable_id": "asr-004786",
+              "start_seconds": 9412.5,
+              "clock": "02:36:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004786"
+            },
+            {
+              "stable_id": "asr-004787",
+              "start_seconds": 9413.84,
+              "clock": "02:36:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004787"
+            },
+            {
+              "stable_id": "asr-004791",
+              "start_seconds": 9423.04,
+              "clock": "02:37:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004791"
+            },
+            {
+              "stable_id": "asr-004792",
+              "start_seconds": 9424.72,
+              "clock": "02:37:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004792"
+            },
+            {
+              "stable_id": "asr-004799",
+              "start_seconds": 9438.28,
+              "clock": "02:37:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004799"
+            },
+            {
+              "stable_id": "asr-004800",
+              "start_seconds": 9440.74,
+              "clock": "02:37:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004800"
+            },
+            {
+              "stable_id": "asr-004804",
+              "start_seconds": 9446.48,
+              "clock": "02:37:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004804"
+            },
+            {
+              "stable_id": "asr-004806",
+              "start_seconds": 9450.9,
+              "clock": "02:37:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004806"
+            },
+            {
+              "stable_id": "asr-004819",
+              "start_seconds": 9474.32,
+              "clock": "02:37:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004819"
+            },
+            {
+              "stable_id": "asr-004820",
+              "start_seconds": 9476.74,
+              "clock": "02:37:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004820"
+            },
+            {
+              "stable_id": "asr-004864",
+              "start_seconds": 9558.96,
+              "clock": "02:39:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004864"
+            },
+            {
+              "stable_id": "asr-004866",
+              "start_seconds": 9565.34,
+              "clock": "02:39:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004866"
+            },
+            {
+              "stable_id": "asr-004896",
+              "start_seconds": 9628.68,
+              "clock": "02:40:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004896"
+            },
+            {
+              "stable_id": "asr-004904",
+              "start_seconds": 9645.22,
+              "clock": "02:40:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004904"
+            },
+            {
+              "stable_id": "asr-004865",
+              "start_seconds": 9563.96,
+              "clock": "02:39:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-004865"
+            }
+          ]
+        },
+        {
+          "label": "Farmer sales through Sagip Saka and local governments",
+          "text": "Finance Subcommittee G chair Senator Francis Kiko Pangilinan asked for updates on the Sagip Saka Act and its accomplishments, noting that purchases through irrigators’ associations and local government units (LGUs) brought spending directly to farmers and local communities. National Irrigation Administration (NIA) Administrator Eduardo Eddie G. Guillen described the agency’s convergence with the Department of Social Welfare and Development (DSWD) under the Enhanced Partnership Against Hunger and Poverty (EPHAP). He reported that farmers nationwide had sold ₱1.6 billion through the program from 2023 through June 2025. He also cited Quezon City as the largest LGU purchaser, with ₱500 million in rice purchases. Pangilinan welcomed the local economic effect, saying farmer income circulates through small businesses in their towns.",
+          "citations": [
+            {
+              "stable_id": "asr-005209",
+              "start_seconds": 13625.98,
+              "clock": "03:47:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005209"
+            },
+            {
+              "stable_id": "asr-005258",
+              "start_seconds": 13723.22,
+              "clock": "03:48:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005258"
+            },
+            {
+              "stable_id": "asr-005262",
+              "start_seconds": 13731.4,
+              "clock": "03:48:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005262"
+            },
+            {
+              "stable_id": "asr-005274",
+              "start_seconds": 13755.6,
+              "clock": "03:49:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005274"
+            },
+            {
+              "stable_id": "asr-005275",
+              "start_seconds": 13757.8,
+              "clock": "03:49:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005275"
+            }
+          ]
+        },
+        {
+          "label": "Cooperative working capital and rice marketing example",
+          "text": "Guillen said NIA helps irrigators’ associations (IAs) organize as cooperatives so they can operate at a larger scale and access government support. He illustrated the benefit with ₱1 million in cooperative assistance for buying palay: he cited a ₱23-per-kilogram palay price, a 63 percent recovery, and a Quezon City purchase price of ₱55 per kilogram, and said one cycle could earn the cooperative ₱500,000.",
+          "citations": [
+            {
+              "stable_id": "asr-005285",
+              "start_seconds": 13777.16,
+              "clock": "03:49:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005285"
+            },
+            {
+              "stable_id": "asr-005287",
+              "start_seconds": 13781.42,
+              "clock": "03:49:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005287"
+            },
+            {
+              "stable_id": "asr-005291",
+              "start_seconds": 13788.7,
+              "clock": "03:49:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005291"
+            },
+            {
+              "stable_id": "asr-005294",
+              "start_seconds": 13795.44,
+              "clock": "03:49:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005294"
+            },
+            {
+              "stable_id": "asr-005281",
+              "start_seconds": 13769.02,
+              "clock": "03:49:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005281"
+            },
+            {
+              "stable_id": "asr-005282",
+              "start_seconds": 13770.88,
+              "clock": "03:49:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005282"
+            },
+            {
+              "stable_id": "asr-005288",
+              "start_seconds": 13782.48,
+              "clock": "03:49:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005288"
+            }
+          ]
+        },
+        {
+          "label": "Cooperative formation, registration and scale of irrigator groups",
+          "text": "Guillen reported 519 cooperatives formed nationwide, with 371 registered at the Cooperative Development Authority (CDA), 148 still undergoing registration, and about 160 provided with rice-processing systems through the Philippine Center for Postharvest Development and Mechanization (PHilMech). NIA Institutional Development Division Manager Martin T. Tacloban said the effort began in the last quarter of 2023. Pangilinan checked the pace and registration totals, then asked how 519 cooperatives related to NIA’s 11,231 IAs and 1.27 million farmers. Guillen explained that NIA organizes cooperatives by town, where one cooperative may consolidate several IAs; the number is not a one-association-to-one-cooperative conversion. He gave his town’s 46 IAs as an example and said town sizes vary, with some areas such as Pantabangan covering roughly 3,500 to 4,000 hectares. Guillen estimated that consolidating 1,000 hectares could let IAs capture around ₱100 million in additional value per year by selling rice rather than palay. Shortly afterward, he referred to the same estimate as “around ₱100 billion.” The later wording is retained as spoken; the hearing did not reconcile the two figures.\n\nPangilinan requested written reports on Sagip Saka, LGU purchases, and EPHAP.",
+          "citations": [
+            {
+              "stable_id": "asr-005308",
+              "start_seconds": 13822.92,
+              "clock": "03:50:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005308"
+            },
+            {
+              "stable_id": "asr-005311",
+              "start_seconds": 13829.74,
+              "clock": "03:50:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005311"
+            },
+            {
+              "stable_id": "asr-005312",
+              "start_seconds": 13831.36,
+              "clock": "03:50:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005312"
+            },
+            {
+              "stable_id": "asr-005314",
+              "start_seconds": 13836.34,
+              "clock": "03:50:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005314"
+            },
+            {
+              "stable_id": "asr-005341",
+              "start_seconds": 13890.48,
+              "clock": "03:51:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005341"
+            },
+            {
+              "stable_id": "asr-005371",
+              "start_seconds": 13953.34,
+              "clock": "03:52:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005371"
+            },
+            {
+              "stable_id": "asr-005398",
+              "start_seconds": 14007.14,
+              "clock": "03:53:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005398"
+            },
+            {
+              "stable_id": "asr-005399",
+              "start_seconds": 14009.92,
+              "clock": "03:53:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005399"
+            },
+            {
+              "stable_id": "asr-005403",
+              "start_seconds": 14016.8,
+              "clock": "03:53:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005403"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Accountability for irrigation results and long-term water storage",
+          "text": "Senator Joseph Victor \"JV\" G. Ejercito, chairperson of the Senate Committee on Finance, said the flow of National Irrigation Administration (NIA) funds must be scrutinized because it determines whether water reaches farms and food reaches households. He said the agency's budget had been substantially augmented each year since 2024 and asked whether funded projects were implemented, how many kilometers of canals were built or repaired, how many hectares were irrigated, how many farmers benefited, and whether harvests and farmer incomes improved. He called on NIA to show where the water flowed, which fields and farmers benefited, and the harvest results.\n\nEjercito urged NIA to plan for storing water while supply is abundant and retaining it for dry periods, with an aggressive program of impounding and retention facilities in drought-prone agricultural areas. He asked which areas NIA had prioritized and whether it had a comprehensive long-term plan to increase water-storage capacity. He also asked whether the agency's proposed budget adequately provided for these facilities. He said each peso should produce functioning irrigation, more resilient farms, better harvests, higher farmer incomes and food security.",
+          "citations": [
+            {
+              "stable_id": "asr-005142",
+              "start_seconds": 13484.8,
+              "clock": "03:44:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005142"
+            },
+            {
+              "stable_id": "asr-005149",
+              "start_seconds": 13507.46,
+              "clock": "03:45:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005149"
+            },
+            {
+              "stable_id": "asr-005172",
+              "start_seconds": 13552.6,
+              "clock": "03:45:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005172"
+            },
+            {
+              "stable_id": "asr-005193",
+              "start_seconds": 13594.32,
+              "clock": "03:46:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005193"
+            }
+          ]
+        },
+        {
+          "label": "Central Luzon flood storage, irrigation and dam plans",
+          "text": "Senator Joseph Victor \"JV\" G. Ejercito asked the National Irrigation Administration (NIA) whether it had a comprehensive plan to use upstream impounding, retention and storage facilities to reduce flooding in Central Luzon while storing water for the dry season. NIA Administrator Eduardo Eddie G. Guillen said President Ferdinand Marcos Jr. directed NIA in the first quarter of 2023 to study how water projects in Bulacan and Central Luzon could support food production, irrigation and flood mitigation. He identified four principal rivers flowing into Bulacan and 15 tributaries in the Pampanga River system. Angat Dam already captures the North Sagaray River; Ipo Dam mainly diverts water toward La Mesa Dam for Metro Manila drinking-water supply and does not provide significant impoundment.\n\nGuillen described a proposed Bayabas Dam with 54 million cubic meters of storage, rehabilitation of Bustos Dam to restore 17 million cubic meters, and a 2-million-cubic-meter afterbay. He said all three projects were fully funded. NIA expected to complete Bustos in the last quarter of 2027 and Bayabas in 2028. Ejercito asked about two additional impounding dams at Ipo, above and below the existing diversion dam; Guillen said the Metropolitan Waterworks and Sewerage System (MWSS) or National Power Corporation (NAPOCOR) should undertake them.",
+          "citations": [
+            {
+              "stable_id": "asr-005418",
+              "start_seconds": 14054.56,
+              "clock": "03:54:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005418"
+            },
+            {
+              "stable_id": "asr-005593",
+              "start_seconds": 14402.62,
+              "clock": "04:00:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005593"
+            },
+            {
+              "stable_id": "asr-005441",
+              "start_seconds": 14099.28,
+              "clock": "03:54:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-005441"
+            }
+          ]
+        },
+        {
+          "label": "Reported irrigation coverage gap and seasonal water management",
+          "text": "Ejercito cited Philippine Statistics Authority (PSA) figures for 2014: more than 615,000 hectares listed as irrigated during the wet season against 572,000 hectares actually benefited, a gap of more than 43,000 hectares. Guillen agreed that irrigation coverage can fall short in both seasons: dry-season water can be inadequate, while wet-season flooding can submerge areas such as Candaba and prevent planting. He described a proposed use of Paway Lake in Ilocos Norte: pump floodwater into the lake during rainy periods, then release it for irrigation in the dry season.",
+          "citations": [
+            {
+              "stable_id": "asr-006550",
+              "start_seconds": 16353.2,
+              "clock": "04:32:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006550"
+            },
+            {
+              "stable_id": "asr-006534",
+              "start_seconds": 16320.94,
+              "clock": "04:32:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006534"
+            }
+          ]
+        },
+        {
+          "label": "Sugar areas and interagency flood and water management",
+          "text": "Asked about irrigation support for Negros' sugar industry amid drought and the RSS pest, Guillen identified a proposed Tanjay-Bais Dam and said NIA was coordinating with the Sugar Regulatory Administration (SRA) to identify projects for funding. NIA offered technical expertise and project proposals while the SRA could provide funding, similar to NIA's proposed coordination with the Department of Public Works and Highways (DPWH) on flood-mitigation projects.\n\nGuillen described a Cagayan project where DPWH's flood-control project office built a sabo dam and NIA built the irrigation canal. He said NIA had also proposed shovel-ready sabo dams to DPWH, which could implement them. River walls, he argued, can accelerate water flow, while sabo dams can slow water, support irrigation, control sediment and recharge groundwater. NIA could provide project locations and plans without controlling implementation funds. Ejercito and Pangilinan criticized river-wall and slope-protection spending where it did not protect communities and emphasized integrated river-system and water-resource management.\n\nPangilinan asked whether a formal interagency organization existed for Central Luzon; Guillen said NIA had a general memorandum of agreement with DPWH. Pangilinan proposed taking an initiative with Pampanga Governor Lilia \"Nanay\" Pineda, municipal leaders, Nueva Ecija and Central Luzon officials, NIA and DPWH; Guillen added the need to coordinate with the National Commission on Indigenous Peoples and DENR approvals. Pangilinan asked the agencies to note the proposal. Guillen argued that adding irrigation to flood projects can bring economic returns for farmers alongside social and environmental benefits, making projects more sustainable. Pangilinan called for revisiting the country's integrated water-resource management arrangements, including whether a Department of Water was needed; no new coordinating body was established in the exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-006646",
+              "start_seconds": 16518.08,
+              "clock": "04:35:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006646"
+            },
+            {
+              "stable_id": "asr-006671",
+              "start_seconds": 16562.32,
+              "clock": "04:36:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006671"
+            },
+            {
+              "stable_id": "asr-006795",
+              "start_seconds": 16719.48,
+              "clock": "04:38:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006795"
+            },
+            {
+              "stable_id": "asr-006590",
+              "start_seconds": 16424.5,
+              "clock": "04:33:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006590"
+            },
+            {
+              "stable_id": "asr-006608",
+              "start_seconds": 16454.6,
+              "clock": "04:34:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006608"
+            },
+            {
+              "stable_id": "asr-006809",
+              "start_seconds": 16735.46,
+              "clock": "04:38:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006809"
+            },
+            {
+              "stable_id": "asr-006812",
+              "start_seconds": 16739.38,
+              "clock": "04:38:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-006812"
+            },
+            {
+              "stable_id": "asr-007042",
+              "start_seconds": 16974.0,
+              "clock": "04:42:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-007042"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-closing-outcome",
+      "label": "Closing outcome",
+      "items": [
+        {
+          "label": "NIA budget referred to plenary after requested submissions",
+          "text": "After noting there were no other matters, Senator Francis Kiko Pangilinan said that, subject to the requested data submissions and a separate meeting to prepare the National Irrigation Administration (NIA) budget for plenary, the budget was deemed submitted for plenary consideration. He thanked the subcommittee. This was a procedural submission for plenary consideration, not approval of the appropriation.",
+          "citations": [
+            {
+              "stable_id": "asr-007134",
+              "start_seconds": 17065.2,
+              "clock": "04:44:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-007134"
+            },
+            {
+              "stable_id": "asr-007139",
+              "start_seconds": 17072.26,
+              "clock": "04:44:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-007139"
+            },
+            {
+              "stable_id": "asr-007145",
+              "start_seconds": 17079.1,
+              "clock": "04:44:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-007145"
+            },
+            {
+              "stable_id": "asr-007150",
+              "start_seconds": 17085.24,
+              "clock": "04:44:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/62/#asr-007150"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

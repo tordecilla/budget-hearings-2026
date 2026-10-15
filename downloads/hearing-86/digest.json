@@ -1,0 +1,1528 @@
+{
+  "hearing": {
+    "hearing_id": 86,
+    "title": "Senate Committee on Finance: DTI, GCG - September 29, 2026",
+    "hearing_date": "2026-09-29",
+    "official_url": "https://www.youtube.com/watch?v=VZ4ZsLeV2cA"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h86/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "GCG oversight",
+      "text": "Members questioned how to assess GOCC performance beyond dividend remittances and discussed public-service subsidies, performance reporting, and the planned Integrated Corporate Reporting System.",
+      "citations": []
+    },
+    {
+      "label": "Consumer protection",
+      "text": "The Trustmark’s future application to micro and small businesses remained under discussion. DTI agreed to comply with the chair’s request for clearer policy before plenary..",
+      "citations": []
+    },
+    {
+      "label": "MSME and trade support",
+      "text": "The discussion covered export promotion, creative-industry support, online market access, and consumer and regulatory protection for micro, small and medium enterprises (MSMEs).",
+      "citations": []
+    },
+    {
+      "label": "Jobs and investment",
+      "text": "Members sought further information on AI-related risks to business-process-outsourcing work and on Pax Silica, Clark’s infrastructure, and project schedules; DTI agreed to provide clarifications and written materials.",
+      "citations": []
+    },
+    {
+      "label": "Disposition",
+      "text": "GCG and DTI budgets were submitted for plenary consideration subject to requested documents and information.",
+      "citations": []
+    }
+  ],
+  "method_note": "This digest is organized around the agencies’ budget presentations, followed by the substantive questions and responses. It distinguishes stated FY2027 NEP allocations, agency requests, and later additions where the record does so; conflicting stated totals are preserved as reported. The closing submission for plenary consideration is a procedural disposition, not approval of appropriations.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Governance Commission for GOCCs (GCG) — FY2027 proposal",
+          "text": "The GCG presentation stated a FY2027 NEP allocation of ₱408.382 million. Chairperson Atty. Marius P. Corpus later stated a total proposed request of ₱602.40 million including Tier 1 and Tier 2. The presentation’s separately stated additional Tier 2 request does not reconcile to that closing total; the figures are retained as stated, with no replacement total inferred.",
+          "citations": [
+            {
+              "stable_id": "asr-000250",
+              "start_seconds": 962.84,
+              "clock": "00:16:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000250"
+            },
+            {
+              "stable_id": "asr-000521",
+              "start_seconds": 1967.18,
+              "clock": "00:32:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000521"
+            },
+            {
+              "stable_id": "asr-000522",
+              "start_seconds": 1969.04,
+              "clock": "00:32:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000522"
+            }
+          ]
+        },
+        {
+          "label": "Department of Trade and Industry (DTI) — FY2027 proposal",
+          "text": "DTI Secretary Maria Cristina Aldeguer-Roque stated a proposed FY2027 budget of ₱10.903 billion. The original consolidated DBM request was not stated in this presentation; later additional requests are described in the agency discussion.",
+          "citations": [
+            {
+              "stable_id": "asr-001938",
+              "start_seconds": 4253.14,
+              "clock": "01:10:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001938"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-gcg",
+      "label": "GCG budget",
+      "items": [
+        {
+          "label": "FY2027 allocation components",
+          "text": "For FY2027, the GCG allocation comprises ₱197.920 million for personal services covering 171 filled plantilla positions, ₱174.389 million for maintenance and other operating expenses (MOOE), and ₱36.073 million for capital outlay.",
+          "citations": [
+            {
+              "stable_id": "asr-000251",
+              "start_seconds": 972.26,
+              "clock": "00:16:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000251"
+            },
+            {
+              "stable_id": "asr-000252",
+              "start_seconds": 983.38,
+              "clock": "00:16:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000252"
+            },
+            {
+              "stable_id": "asr-000253",
+              "start_seconds": 985.64,
+              "clock": "00:16:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000253"
+            }
+          ]
+        },
+        {
+          "label": "GCG FY2027 Tier 2 additional request",
+          "text": "The GCG separately requested ₱207.846 million in additional Tier 2 funding for priority projects. It identified ₱25.942 million in additional MOOE for increased manpower and regulatory capacity, ₱12 million for vehicle replacement, and ₱169.904 million for ICT projects spanning MOOE and capital outlay. The presentation later describes the MOOE request as support for the expanded staffing pattern, and the vehicle request as funding three multipurpose vehicles and three passenger vans. The stated additional request does not reconcile with the stated NEP allocation and closing total request.",
+          "citations": [
+            {
+              "stable_id": "asr-000292",
+              "start_seconds": 1275.48,
+              "clock": "00:21:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000292"
+            },
+            {
+              "stable_id": "asr-000297",
+              "start_seconds": 1304.68,
+              "clock": "00:21:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000297"
+            },
+            {
+              "stable_id": "asr-000299",
+              "start_seconds": 1320.54,
+              "clock": "00:22:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000299"
+            },
+            {
+              "stable_id": "asr-000303",
+              "start_seconds": 1339.7,
+              "clock": "00:22:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000303"
+            },
+            {
+              "stable_id": "asr-000312",
+              "start_seconds": 1373.1399999999999,
+              "clock": "00:22:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000312"
+            },
+            {
+              "stable_id": "asr-000344",
+              "start_seconds": 1476.1,
+              "clock": "00:24:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000344"
+            },
+            {
+              "stable_id": "asr-000379",
+              "start_seconds": 1544.08,
+              "clock": "00:25:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000379"
+            }
+          ]
+        },
+        {
+          "label": "FY2026 budget utilization and recent budget trajectory",
+          "text": "As of August 31, 2026, against a released FY2026 GAA budget of ₱394.549 million, the GCG had obligated ₱217.452 million, a 55.11% utilization rate. Personal services stood at ₱206.017 million, of which ₱123.852 million was obligated (60.10%); MOOE was ₱188.532 million, of which ₱93.600 million was obligated (49.65%), and no capital outlay allocation was reported. After adding the ₱0.922 million performance-based bonus release and deducting ₱6.286 million in savings under National Budget Circular 602, the net FY2026 budget was ₱389.185 million, with ₱218.322 million obligated and 56.10% utilization.\n\nCorpus linked earlier funding increases to compensation-system implementation and review; reported utilization reached 88.93% in 2024 and 90.59% in 2025.",
+          "citations": [
+            {
+              "stable_id": "asr-000266",
+              "start_seconds": 1038.46,
+              "clock": "00:17:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000266"
+            },
+            {
+              "stable_id": "asr-000267",
+              "start_seconds": 1045.64,
+              "clock": "00:17:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000267"
+            },
+            {
+              "stable_id": "asr-000270",
+              "start_seconds": 1067.82,
+              "clock": "00:17:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000270"
+            },
+            {
+              "stable_id": "asr-000271",
+              "start_seconds": 1072.48,
+              "clock": "00:17:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000271"
+            },
+            {
+              "stable_id": "asr-000272",
+              "start_seconds": 1075.64,
+              "clock": "00:17:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000272"
+            },
+            {
+              "stable_id": "asr-000274",
+              "start_seconds": 1084.02,
+              "clock": "00:18:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000274"
+            },
+            {
+              "stable_id": "asr-000275",
+              "start_seconds": 1090.6,
+              "clock": "00:18:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000275"
+            },
+            {
+              "stable_id": "asr-000278",
+              "start_seconds": 1105.64,
+              "clock": "00:18:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000278"
+            },
+            {
+              "stable_id": "asr-000279",
+              "start_seconds": 1134.14,
+              "clock": "00:18:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000279"
+            },
+            {
+              "stable_id": "asr-000284",
+              "start_seconds": 1194.1399999999999,
+              "clock": "00:19:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000284"
+            }
+          ]
+        },
+        {
+          "label": "Vehicle renewal and digital-resilience projects",
+          "text": "Corpus said the requested vehicle funds would replace an aging fleet and support field inspections, frontline services and regional operations; the vehicle request would acquire the six replacement vehicles described above. The ICT proposal covered enhancement and maintenance of the integrated corporate reporting system, whose development had Asian Development Bank support, and infrastructure, servers, storage, software licenses, subscriptions and cybersecurity tools. GCG described plans to strengthen cybersecurity and data governance, participate in the National Security Operations Center program, establish its own computer emergency response team, and equip staff across three sites with laptops and other ICT equipment. It also cited the lack of an agency disaster-recovery facility, reliance on shared resources, and power and water incidents affecting data-center resilience and continuity. Existing and extension-office ICT infrastructure, including cooling equipment, was described as aging or unreliable.",
+          "citations": [
+            {
+              "stable_id": "asr-000366",
+              "start_seconds": 1519.1599999999999,
+              "clock": "00:25:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000366"
+            },
+            {
+              "stable_id": "asr-000406",
+              "start_seconds": 1615.7600000000002,
+              "clock": "00:26:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000406"
+            },
+            {
+              "stable_id": "asr-000450",
+              "start_seconds": 1700.7,
+              "clock": "00:28:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000450"
+            },
+            {
+              "stable_id": "asr-000481",
+              "start_seconds": 1761.44,
+              "clock": "00:29:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000481"
+            },
+            {
+              "stable_id": "asr-000502",
+              "start_seconds": 1813.42,
+              "clock": "00:30:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000502"
+            }
+          ]
+        },
+        {
+          "label": "GOCC remittances, subsidies and public mandates",
+          "text": "Senator Paolo Benigno “Bam” Aquino IV asked how many of the GCG’s 112 GOCCs remitted to government and how many relied on support. GCG Director Kenneth M. Rafols reported that, in 2025, 43 GOCCs remitted dividends and 27 received subsidies. He identified the Philippine Health Insurance Corporation (PhilHealth) as the largest subsidy recipient, followed by the National Irrigation Administration (NIA).\n\nChairperson Atty. Marius P. Corpus said that not every GOCC is expected to be net-positive because some have public-service mandates requiring national-government subsidies; GCG also monitors how those subsidies are used. At Aquino’s request for an example, GCG Corporate Standards Office Director IV Atty. Jocelyn Grace N. Navato said the National Food Authority (NFA) received a ₱14 billion subsidy in 2025 to perform its buffer-stocking mandate. Corpus added that the NFA’s performance rating had improved over the preceding two years.",
+          "citations": [
+            {
+              "stable_id": "asr-000564",
+              "start_seconds": 2119.04,
+              "clock": "00:35:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000564"
+            },
+            {
+              "stable_id": "asr-000574",
+              "start_seconds": 2172.48,
+              "clock": "00:36:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000574"
+            },
+            {
+              "stable_id": "asr-000577",
+              "start_seconds": 2195.56,
+              "clock": "00:36:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000577"
+            },
+            {
+              "stable_id": "asr-000581",
+              "start_seconds": 2204.18,
+              "clock": "00:36:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000581"
+            },
+            {
+              "stable_id": "asr-000585",
+              "start_seconds": 2221.54,
+              "clock": "00:37:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000585"
+            },
+            {
+              "stable_id": "asr-000597",
+              "start_seconds": 2268.24,
+              "clock": "00:37:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000597"
+            },
+            {
+              "stable_id": "asr-000598",
+              "start_seconds": 2277.96,
+              "clock": "00:37:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000598"
+            },
+            {
+              "stable_id": "asr-000611",
+              "start_seconds": 2318.2799999999997,
+              "clock": "00:38:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000611"
+            }
+          ]
+        },
+        {
+          "label": "ICRS request and proposed spending",
+          "text": "Senator Joseph Victor “JV” G. Ejercito asked about the proposed funding for the Integrated Corporate Reporting System (ICRS), citing PHP 43 million for its enhancement and PHP 36.073 million in capital outlays for information and communications technology equipment. He described the combined amount as nearly PHP 80 million. GCG Chairperson Atty. Marius P. Corpus explained that the Asian Development Bank (ADB) supplied technical assistance and procured the consultant developing the software and common reporting system, while GCG would procure the hardware and information-technology infrastructure. Corpus said this additional GCG funding was needed for that infrastructure.",
+          "citations": [
+            {
+              "stable_id": "asr-000817",
+              "start_seconds": 2806.56,
+              "clock": "00:46:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000817"
+            },
+            {
+              "stable_id": "asr-000824",
+              "start_seconds": 2814.16,
+              "clock": "00:46:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000824"
+            },
+            {
+              "stable_id": "asr-000831",
+              "start_seconds": 2821.08,
+              "clock": "00:47:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000831"
+            },
+            {
+              "stable_id": "asr-000832",
+              "start_seconds": 2823.32,
+              "clock": "00:47:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000832"
+            },
+            {
+              "stable_id": "asr-000839",
+              "start_seconds": 2830.04,
+              "clock": "00:47:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000839"
+            },
+            {
+              "stable_id": "asr-000863",
+              "start_seconds": 2850.76,
+              "clock": "00:47:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000863"
+            }
+          ]
+        },
+        {
+          "label": "Staffing levels and correction of the member’s initial reading",
+          "text": "Ejercito initially questioned an apparent reduction in GCG’s personnel-services budget and filled positions. Corpus replied that the Department of Budget and Management (DBM) had approved additional positions. Ejercito then acknowledged that his data was wrong. Corpus said that when the current leadership took office in 2023 GCG had about 105 plantilla personnel, and that the number had since grown to 200.",
+          "citations": [
+            {
+              "stable_id": "asr-000755",
+              "start_seconds": 2733.64,
+              "clock": "00:45:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000755"
+            },
+            {
+              "stable_id": "asr-000783",
+              "start_seconds": 2768.64,
+              "clock": "00:46:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000783"
+            },
+            {
+              "stable_id": "asr-000794",
+              "start_seconds": 2779.06,
+              "clock": "00:46:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000794"
+            },
+            {
+              "stable_id": "asr-000811",
+              "start_seconds": 2801.28,
+              "clock": "00:46:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000811"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-dti",
+      "label": "DTI budget",
+      "items": [
+        {
+          "label": "Consumer enforcement funding and support",
+          "text": "DTI Secretary Maria Cristina Aldeguer-Roque said DTI needed more budget to upgrade technology for market monitoring, enforcement and consumer assistance amid increased e-commerce sales and substandard-product complaints, while staffing remained unchanged. Senator Raffy T. Tulfo then expressed full support for DTI’s budget for consumers; no appropriation was adopted in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-001842",
+              "start_seconds": 3986.14,
+              "clock": "01:06:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001842"
+            },
+            {
+              "stable_id": "asr-001850",
+              "start_seconds": 4020.14,
+              "clock": "01:07:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001850"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 allocation components",
+          "text": "For FY2027, DTI stated components of PHP 7 billion for the Office of the Secretary (OSEC), PHP 2.131 billion for attached agencies and PHP 1.7363 billion for attached corporations. Those components do not exactly reconcile with the overall proposed allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-001939",
+              "start_seconds": 4259.14,
+              "clock": "01:10:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001939"
+            },
+            {
+              "stable_id": "asr-001940",
+              "start_seconds": 4263.14,
+              "clock": "01:11:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001940"
+            },
+            {
+              "stable_id": "asr-001941",
+              "start_seconds": 4267.14,
+              "clock": "01:11:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001941"
+            }
+          ]
+        },
+        {
+          "label": "International trade-show and investment-promotion funding",
+          "text": "DTI proposed PHP 100 million in additional funding for more companies to join international trade shows, expand booths and showcase products; these are proposed additions, not an approved allocation. Aldeguer-Roque said DTI had no dedicated investment-promotion budget and sought funding for its overseas network to market the Philippines more actively.",
+          "citations": [
+            {
+              "stable_id": "asr-002026",
+              "start_seconds": 4512.46,
+              "clock": "01:15:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002026"
+            },
+            {
+              "stable_id": "asr-002101",
+              "start_seconds": 4663.96,
+              "clock": "01:17:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002101"
+            },
+            {
+              "stable_id": "asr-002120",
+              "start_seconds": 4695.9,
+              "clock": "01:18:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002120"
+            }
+          ]
+        },
+        {
+          "label": "MSME market access and small-business finance",
+          "text": "Under Tatak Pinoy, DTI said it aimed to help micro, small and medium enterprises (MSMEs) develop higher-value products, reach local and international buyers, and expand. The National Trade Fair assisted 1,457 MSMEs and generated nearly PHP 1 billion in sales as of the third quarter; Aldeguer-Roque compared this with about PHP 600 million in sales the prior year. \n\nDTI described financing through SB Corporation, including programs for women entrepreneurs, exporters, overseas Filipino workers (OFWs), e-transport operators and a Youth Enterprise Fund. The Secretary said these programs had a total fund of PHP 12 billion and described a policy allowing loans up to PHP 5 million without collateral, with no principal or interest payment for one year. She said SB Corporation had received more than PHP 36 billion in loan applications against a PHP 12.9 billion fund capacity and requested an additional PHP 5 billion for the corporation. The funding request was taken up again in Aquino’s interpellation.",
+          "citations": [
+            {
+              "stable_id": "asr-002174",
+              "start_seconds": 4803.94,
+              "clock": "01:20:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002174"
+            },
+            {
+              "stable_id": "asr-002177",
+              "start_seconds": 4809.7,
+              "clock": "01:20:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002177"
+            },
+            {
+              "stable_id": "asr-002199",
+              "start_seconds": 4853.92,
+              "clock": "01:20:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002199"
+            },
+            {
+              "stable_id": "asr-002206",
+              "start_seconds": 4867.8,
+              "clock": "01:21:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002206"
+            },
+            {
+              "stable_id": "asr-002207",
+              "start_seconds": 4869.72,
+              "clock": "01:21:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002207"
+            },
+            {
+              "stable_id": "asr-002208",
+              "start_seconds": 4871.7,
+              "clock": "01:21:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002208"
+            },
+            {
+              "stable_id": "asr-002219",
+              "start_seconds": 4893.9,
+              "clock": "01:21:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002219"
+            },
+            {
+              "stable_id": "asr-002222",
+              "start_seconds": 4899.24,
+              "clock": "01:21:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002222"
+            },
+            {
+              "stable_id": "asr-002224",
+              "start_seconds": 4903.94,
+              "clock": "01:21:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002224"
+            },
+            {
+              "stable_id": "asr-002225",
+              "start_seconds": 4905.8,
+              "clock": "01:21:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002225"
+            }
+          ]
+        },
+        {
+          "label": "Consumer protection and fair-trade enforcement",
+          "text": "DTI said it inspected more than 14,000 establishments and monitored over 5,000 firms to help maintain adequate supply and fair pricing. Its offices in 18 regions check basic-necessity and prime-commodity prices weekly and daily during crises. The Bureau of Product Standards approved 512 Philippine National Standards. Aldeguer-Roque said DTI needed more staff and requested PHP 21.6 million for technology to strengthen market monitoring, enforcement and consumer assistance in response to increased e-commerce sales. The amount is a later request, distinct from the FY2027 proposed total.",
+          "citations": [
+            {
+              "stable_id": "asr-002286",
+              "start_seconds": 5027.6,
+              "clock": "01:23:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002286"
+            },
+            {
+              "stable_id": "asr-002300",
+              "start_seconds": 5055.68,
+              "clock": "01:24:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002300"
+            },
+            {
+              "stable_id": "asr-002301",
+              "start_seconds": 5057.66,
+              "clock": "01:24:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002301"
+            },
+            {
+              "stable_id": "asr-002303",
+              "start_seconds": 5061.5,
+              "clock": "01:24:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002303"
+            },
+            {
+              "stable_id": "asr-002304",
+              "start_seconds": 5063.54,
+              "clock": "01:24:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002304"
+            }
+          ]
+        },
+        {
+          "label": "Budget execution and audit reporting",
+          "text": "For FY2025, DTI reported PHP 12.111 billion in available appropriations and PHP 10.202 billion obligated, an 87.8% obligation rate. It attributed the unutilized balance in part to the late release of fourth-quarter insertions amounting to PHP 785 million. For FY2026, as of June 30, it reported PHP 12.133 billion in available appropriations, of which PHP 5.90 billion was obligated, a 46.5% first-semester obligation rate; disbursements were PHP 3.789 billion, or 74.4% of obligations. \n\nDTI said it submitted its FY2025 Commission on Audit findings and recommendations, management comments, and actions to the committee, and committed to continue addressing findings with the Commission on Audit and concerned DTI offices, attached agencies and corporations. It also said required reports on earmarked revenues, special accounts, revolving funds, retained income and off-budget accounts were included in its full submission.",
+          "citations": [
+            {
+              "stable_id": "asr-002308",
+              "start_seconds": 5071.74,
+              "clock": "01:24:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002308"
+            },
+            {
+              "stable_id": "asr-002309",
+              "start_seconds": 5075.0,
+              "clock": "01:24:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002309"
+            },
+            {
+              "stable_id": "asr-002310",
+              "start_seconds": 5076.18,
+              "clock": "01:24:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002310"
+            },
+            {
+              "stable_id": "asr-002311",
+              "start_seconds": 5078.9,
+              "clock": "01:24:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002311"
+            },
+            {
+              "stable_id": "asr-002313",
+              "start_seconds": 5081.9,
+              "clock": "01:24:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002313"
+            },
+            {
+              "stable_id": "asr-002319",
+              "start_seconds": 5094.04,
+              "clock": "01:24:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002319"
+            },
+            {
+              "stable_id": "asr-002320",
+              "start_seconds": 5096.0599999999995,
+              "clock": "01:24:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002320"
+            },
+            {
+              "stable_id": "asr-002323",
+              "start_seconds": 5102.0,
+              "clock": "01:25:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002323"
+            },
+            {
+              "stable_id": "asr-002325",
+              "start_seconds": 5106.02,
+              "clock": "01:25:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002325"
+            },
+            {
+              "stable_id": "asr-002326",
+              "start_seconds": 5108.96,
+              "clock": "01:25:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002326"
+            },
+            {
+              "stable_id": "asr-002327",
+              "start_seconds": 5110.2,
+              "clock": "01:25:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002327"
+            },
+            {
+              "stable_id": "asr-002331",
+              "start_seconds": 5118.0599999999995,
+              "clock": "01:25:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002331"
+            },
+            {
+              "stable_id": "asr-002332",
+              "start_seconds": 5120.16,
+              "clock": "01:25:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002332"
+            }
+          ]
+        },
+        {
+          "label": "Trade-promotion and creative-economy support",
+          "text": "DTI Finance Service Director Maria Asuncion H. Cruzada said the Office of the Secretary’s (OSEC) OO1 export program had ₱997.3 million in FY2026. She described the FY2027 trade-fair amount as “997” after a reduction, without restating its unit. Cruzada said local trade fairs fell under MSME development and international fairs were generally handled by the Center for International Trade Expositions and Missions (CITEM). DTI Secretary Maria Cristina Aldeguer-Roque added that the Export Marketing Bureau (EMB) and CITEM each ran fairs. She referred to a “900” budget that included 20 international trade fairs and said DTI wanted to join more. The two abbreviated figures were not reconciled in the exchange.\n\nCommittee Chair Senator Paolo Benigno “Bam” Aquino IV asked where DTI could add support for overseas promotion of Filipino products, artists and other creative work, including through trade fairs and other market opportunities. He described his proposed Philippine Agency for the Creative Economy (PACE) bill as a longer-term structure and urged DTI to begin supporting creatives before enactment. Secretary Roque said the budget then assigned to the creative industry was ₱50 million and agreed more support was needed. She said DTI could use its foreign trade attachés to promote Filipino teleseries and other creative work; DTI had 29 trade attachés at 21 posts, had arranged a meeting with GMA Films and trade attachés, and still needed more promotion funding.\n\nAquino and Roque agreed to work on the added support, including discussing where it would sit in DTI’s budget. No augmentation amount or formal budget disposition was stated in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002428",
+              "start_seconds": 5311.12,
+              "clock": "01:28:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002428"
+            },
+            {
+              "stable_id": "asr-002437",
+              "start_seconds": 5331.12,
+              "clock": "01:28:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002437"
+            },
+            {
+              "stable_id": "asr-002473",
+              "start_seconds": 5406.06,
+              "clock": "01:30:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002473"
+            },
+            {
+              "stable_id": "asr-002480",
+              "start_seconds": 5418.22,
+              "clock": "01:30:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002480"
+            },
+            {
+              "stable_id": "asr-002481",
+              "start_seconds": 5421.54,
+              "clock": "01:30:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002481"
+            },
+            {
+              "stable_id": "asr-002484",
+              "start_seconds": 5427.6,
+              "clock": "01:30:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002484"
+            },
+            {
+              "stable_id": "asr-002487",
+              "start_seconds": 5433.48,
+              "clock": "01:30:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002487"
+            },
+            {
+              "stable_id": "asr-002493",
+              "start_seconds": 5445.7,
+              "clock": "01:30:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002493"
+            },
+            {
+              "stable_id": "asr-002501",
+              "start_seconds": 5458.9,
+              "clock": "01:30:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002501"
+            },
+            {
+              "stable_id": "asr-002509",
+              "start_seconds": 5472.08,
+              "clock": "01:31:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002509"
+            },
+            {
+              "stable_id": "asr-002545",
+              "start_seconds": 5529.7,
+              "clock": "01:32:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002545"
+            },
+            {
+              "stable_id": "asr-002603",
+              "start_seconds": 5624.04,
+              "clock": "01:33:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002603"
+            },
+            {
+              "stable_id": "asr-002615",
+              "start_seconds": 5638.88,
+              "clock": "01:33:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002615"
+            },
+            {
+              "stable_id": "asr-002616",
+              "start_seconds": 5639.72,
+              "clock": "01:33:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002616"
+            },
+            {
+              "stable_id": "asr-003909",
+              "start_seconds": 7802.42,
+              "clock": "02:10:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003909"
+            }
+          ]
+        },
+        {
+          "label": "Financing support for MSMEs and SB Corp",
+          "text": "At the close, Roque supported additional financing for small and medium enterprises, explaining that businesses may win orders but lack money for the raw materials needed to fill them. Aquino said any increase for SB Corp could require approval from the Department of Finance (DOF) and other agencies. He referred to the additional funding request and said they should take it up offline with DOF and the Department of Budget and Management (DBM). No decision or appropriation was recorded.",
+          "citations": [
+            {
+              "stable_id": "asr-003946",
+              "start_seconds": 7875.1,
+              "clock": "02:11:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003946"
+            },
+            {
+              "stable_id": "asr-003954",
+              "start_seconds": 7891.3,
+              "clock": "02:11:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003954"
+            },
+            {
+              "stable_id": "asr-003970",
+              "start_seconds": 7926.2,
+              "clock": "02:12:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003970"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-gcg-presentation",
+      "label": "GCG presentation",
+      "items": [
+        {
+          "label": "Mandate, governance results and reform priorities",
+          "text": "The GCG described its mandate under Republic Act No. 10149, the GOCC Governance Act of 2011, as oversight of government-owned or -controlled corporations (GOCCs), including rationalizing the sector, ensuring qualified board appointments, evaluating performance and setting compensation and position-classification policies. As of June 30, 2026, it supervised 112 GOCCs across nine sectors. The sector’s average Corporate Governance Scorecard rating was 67.14%, above the 61% 2025 Agency Fiscal Targets; GCG said it assessed all GOCCs. Corpus corrected the approval date of the Compensation and Position Classification System II (CPCS II) to September 2025. No GOCC application for implementation had been received in the first half of 2026. For the 2025 talent pool, 38.25% were included in the shortlist against a 37% target. The sector’s performance-evaluation average was 75.70% against a 78% target, while all qualified GOCC submissions were subjected to performance target-setting, exceeding the stated 80% target. For 2026, scorecard validation was underway with an 80% target, dependent partly on supporting Commission on Audit (COA) and Anti-Red Tape Authority (ARTA) reports; 28 COA-audited reports and partial ARTA customer-satisfaction results had been received by June 30. GCG said performance-target setting begins in the third quarter and evaluation follows submission of GOCC performance documents. \n\nIts priorities included CPCS II implementation and preparation for CPCS-3, an enhanced integrated corporate reporting and performance-evaluation system, possible dispositive action for GOCCs, the Whistleblowing and Integrity Portal, talent-pool development, liquidation of GOCCs approved for abolition, scorecard enhancement and organizational structuring.",
+          "citations": [
+            {
+              "stable_id": "asr-000082",
+              "start_seconds": 369.94,
+              "clock": "00:06:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000082"
+            },
+            {
+              "stable_id": "asr-000109",
+              "start_seconds": 470.94,
+              "clock": "00:07:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000109"
+            },
+            {
+              "stable_id": "asr-000112",
+              "start_seconds": 485.94,
+              "clock": "00:08:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000112"
+            },
+            {
+              "stable_id": "asr-000123",
+              "start_seconds": 532.94,
+              "clock": "00:08:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000123"
+            },
+            {
+              "stable_id": "asr-000129",
+              "start_seconds": 549.94,
+              "clock": "00:09:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000129"
+            },
+            {
+              "stable_id": "asr-000136",
+              "start_seconds": 573.94,
+              "clock": "00:09:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000136"
+            },
+            {
+              "stable_id": "asr-000149",
+              "start_seconds": 618.94,
+              "clock": "00:10:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000149"
+            },
+            {
+              "stable_id": "asr-000159",
+              "start_seconds": 657.94,
+              "clock": "00:10:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000159"
+            },
+            {
+              "stable_id": "asr-000218",
+              "start_seconds": 829.94,
+              "clock": "00:13:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000218"
+            }
+          ]
+        },
+        {
+          "label": "GOCC subsidies, assets and dividend remittances",
+          "text": "The GCG reported that subsidies received by the GOCC sector declined from ₱154 billion in 2023 to ₱128 billion in 2024 and ₱96 billion in 2025, a reduction of about 38% over three years. It put GOCC-sector assets in 2025 at ₱14.38 trillion, an 8% increase from the prior year. In response to Senator Paolo Benigno “Bam” Aquino IV asking which corporations held the largest share of those assets, Corpus identified government financial institutions, including Land Bank of the Philippines (LandBank) and the Development Bank of the Philippines (DBP). Corpus compared cumulative GOCC dividend remittances of ₱68.71 billion for 2002–2011 (an annual average of ₱6.87 billion) with ₱626.62 billion since the GCG’s establishment (an annual average of ₱44 billion).",
+          "citations": [
+            {
+              "stable_id": "asr-000177",
+              "start_seconds": 715.94,
+              "clock": "00:11:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000177"
+            },
+            {
+              "stable_id": "asr-000178",
+              "start_seconds": 720.94,
+              "clock": "00:12:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000178"
+            },
+            {
+              "stable_id": "asr-000179",
+              "start_seconds": 724.94,
+              "clock": "00:12:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000179"
+            },
+            {
+              "stable_id": "asr-000184",
+              "start_seconds": 738.94,
+              "clock": "00:12:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000184"
+            },
+            {
+              "stable_id": "asr-000189",
+              "start_seconds": 754.94,
+              "clock": "00:12:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000189"
+            },
+            {
+              "stable_id": "asr-000192",
+              "start_seconds": 760.94,
+              "clock": "00:12:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000192"
+            },
+            {
+              "stable_id": "asr-000204",
+              "start_seconds": 787.94,
+              "clock": "00:13:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000204"
+            },
+            {
+              "stable_id": "asr-000205",
+              "start_seconds": 791.94,
+              "clock": "00:13:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000205"
+            },
+            {
+              "stable_id": "asr-000209",
+              "start_seconds": 803.94,
+              "clock": "00:13:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000209"
+            },
+            {
+              "stable_id": "asr-000210",
+              "start_seconds": 806.94,
+              "clock": "00:13:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000210"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dti-presentation",
+      "label": "DTI presentation",
+      "items": [
+        {
+          "label": "Trade growth, export access and investment promotion",
+          "text": "Aldeguer-Roque said Philippine exports in 2025 reached US$135.93 billion, comprising US$84.44 billion in goods exports and US$51.49 billion in services exports. For 2026, she cited US$54.92 billion in goods exports as of July and US$23.31 billion in services exports as of June. She described export growth and new agricultural shipments, including mangoes to Canada and Brussels, and an inquiry from the United Arab Emirates; she said trade agreements and DTI’s network of Philippine Trade and Investment Centers were being used to open markets. \n\nShe also described the expected digital-trade opportunity under the ASEAN Digital Economy Framework Agreement as US$2 trillion by 2030. The Board of Investments (BOI) approved PHP 1.56 trillion in investments in 2025; the Philippine Economic Zone Authority (PEZA) approved PHP 260.89 billion in 2025 and PHP 216.46 billion across 196 new and expansion projects in the first eight months of 2026, which she said was more than 72% of its annual target. ",
+          "citations": [
+            {
+              "stable_id": "asr-001952",
+              "start_seconds": 4302.14,
+              "clock": "01:11:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001952"
+            },
+            {
+              "stable_id": "asr-001953",
+              "start_seconds": 4309.14,
+              "clock": "01:11:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001953"
+            },
+            {
+              "stable_id": "asr-001954",
+              "start_seconds": 4313.14,
+              "clock": "01:11:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001954"
+            },
+            {
+              "stable_id": "asr-001956",
+              "start_seconds": 4320.14,
+              "clock": "01:12:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001956"
+            },
+            {
+              "stable_id": "asr-001958",
+              "start_seconds": 4328.14,
+              "clock": "01:12:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001958"
+            },
+            {
+              "stable_id": "asr-002046",
+              "start_seconds": 4552.38,
+              "clock": "01:15:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002046"
+            },
+            {
+              "stable_id": "asr-002059",
+              "start_seconds": 4578.64,
+              "clock": "01:16:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002059"
+            },
+            {
+              "stable_id": "asr-002074",
+              "start_seconds": 4608.0,
+              "clock": "01:16:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002074"
+            },
+            {
+              "stable_id": "asr-002079",
+              "start_seconds": 4619.22,
+              "clock": "01:16:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002079"
+            }
+          ]
+        },
+        {
+          "label": "Digital industry, MSME services and closing priorities",
+          "text": "DTI said it launched an AI and Scale-Up Center to help businesses, especially MSMEs, adapt AI to their operations. It described support through Negosyo Centers, shared-services facilities and the Kapatid Mentor Me program, alongside an online Negosyo Center portal intended to make assistance available without travel to a physical center. Aldeguer-Roque closed by linking trade and investment promotion, competitive MSMEs and consumer protection to jobs, farmers, workers and local opportunities.",
+          "citations": [
+            {
+              "stable_id": "asr-002228",
+              "start_seconds": 4912.18,
+              "clock": "01:21:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002228"
+            },
+            {
+              "stable_id": "asr-002234",
+              "start_seconds": 4924.24,
+              "clock": "01:22:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002234"
+            },
+            {
+              "stable_id": "asr-002242",
+              "start_seconds": 4939.84,
+              "clock": "01:22:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002242"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-paolo-benigno-bam-aquino-iv",
+      "label": "Senator Paolo Benigno \"Bam\" Aquino IV",
+      "items": [
+        {
+          "label": "Assessing performance beyond dividend remittances",
+          "text": "Aquino cautioned that treating remittances as the sole or main measure could suggest that every GOCC should remit, then asked how many of the 112 met their mandates and requested counts by performance category. Corpus acknowledged that some GOCCs were underperforming and cited an overall performance rate of about 67%, improved from previous years. When Aquino asked that the high-performing, satisfactory and below-standard categories be submitted to inform senators, Corpus agreed tentatively (“maybe”), but the category counts were not supplied in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-000626",
+              "start_seconds": 2402.92,
+              "clock": "00:40:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000626"
+            },
+            {
+              "stable_id": "asr-000633",
+              "start_seconds": 2433.86,
+              "clock": "00:40:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000633"
+            },
+            {
+              "stable_id": "asr-000641",
+              "start_seconds": 2474.7799999999997,
+              "clock": "00:41:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000641"
+            },
+            {
+              "stable_id": "asr-000642",
+              "start_seconds": 2476.38,
+              "clock": "00:41:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000642"
+            }
+          ]
+        },
+        {
+          "label": "Performance examples and improvement",
+          "text": "Corpus named Land Bank as a top performer recognized through the annual GOCC Awards. He described PhilHealth as a middle performer: its results had improved, but it remained below the 90% rating needed for the Performance Evaluation System award. After initially estimating roughly 70%, Corpus corrected the PhilHealth figure to 61%, still improved from a lower prior rating. He described Marawi Resort Hotel as a GOCC with a one-digit performance rating. \n\nFor the biggest turnaround during his time at GCG, Corpus named the Philippine Charity Sweepstakes Office (PCSO): from about 40% in 2023, it received the most-improved GOCC award after achieving over 90%. In response to Aquino’s question about Hall of Famers, Corpus named Land Bank, Government Service Insurance System (GSIS), and Development Bank of the Philippines (DBP).",
+          "citations": [
+            {
+              "stable_id": "asr-000644",
+              "start_seconds": 2483.62,
+              "clock": "00:41:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000644"
+            },
+            {
+              "stable_id": "asr-000648",
+              "start_seconds": 2501.62,
+              "clock": "00:41:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000648"
+            },
+            {
+              "stable_id": "asr-000664",
+              "start_seconds": 2570.6,
+              "clock": "00:42:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000664"
+            },
+            {
+              "stable_id": "asr-000676",
+              "start_seconds": 2598.66,
+              "clock": "00:43:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000676"
+            },
+            {
+              "stable_id": "asr-000700",
+              "start_seconds": 2648.2799999999997,
+              "clock": "00:44:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000700"
+            },
+            {
+              "stable_id": "asr-000702",
+              "start_seconds": 2655.26,
+              "clock": "00:44:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000702"
+            },
+            {
+              "stable_id": "asr-000714",
+              "start_seconds": 2690.02,
+              "clock": "00:44:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000714"
+            }
+          ]
+        },
+        {
+          "label": "Trustmark requirements for micro and small businesses",
+          "text": "Senator Paolo Benigno “Bam” Aquino IV urged DTI to keep the Trustmark voluntary for micro and small businesses, while considering a mandatory requirement for medium and large enterprises. He said the extra expense and application step could burden smaller firms and make it harder to do business. He also questioned whether buying a Trustmark alone could assure buyers that a product meets a higher standard, and whether DTI could assess the many small businesses that might apply. He urged care in awarding the mark and said the requirement should match DTI’s capacity to verify products. \n\nSince the existing Department Order (DO) stated that the Trustmark would become mandatory the following year, he asked when DTI would issue a revised order and sought clearer policy by the plenary discussion. Aldeguer-Roque agreed with his suggestion and said DTI would comply..",
+          "citations": [
+            {
+              "stable_id": "asr-001858",
+              "start_seconds": 4036.14,
+              "clock": "01:07:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001858"
+            },
+            {
+              "stable_id": "asr-001879",
+              "start_seconds": 4088.14,
+              "clock": "01:08:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001879"
+            },
+            {
+              "stable_id": "asr-001924",
+              "start_seconds": 4226.14,
+              "clock": "01:10:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001924"
+            }
+          ]
+        },
+        {
+          "label": "MSME digital market access and protection",
+          "text": "Aquino backed a Negosyo Center Online project to connect local MSMEs with suppliers, buyers and market opportunities through an online directory. He said information made up about 70% of Negosyo Center concerns and proposed linking the existing centers’ local support with an online service. He offered to discuss whether DTI should place the work in a regional, e-commerce or other program; no placement was decided in the exchange. He also supported continued funding for shared service facilities and Negosyo Centers.\n\nAquino asked DTI to develop an MSME protection function alongside consumer protection. He said small businesses had reported harassment by government offices and identified the Bureau of Internal Revenue (BIR), Bureau of Fire Protection (BFP) and Food and Drug Administration (FDA) among the complaints raised. He credited the BIR with opening a complaint channel and meeting directly with one complainant, and said the BFP had replaced its inspectors in the National Capital Region after complaints. He said FDA applications for cosmetics and food products could take as long as a year and called for structural changes; the FDA sits under the Department of Health (DOH), outside DTI. He asked DTI to assign a responsible assistant or undersecretary and said he would support funding if needed.\n\nRoque later agreed that MSMEs needed a protection function and said even a small issue could stop a business from moving forward. She also affirmed that DTI should continue to protect the industries supporting the economy.",
+          "citations": [
+            {
+              "stable_id": "asr-002787",
+              "start_seconds": 5847.54,
+              "clock": "01:37:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002787"
+            },
+            {
+              "stable_id": "asr-002882",
+              "start_seconds": 5968.52,
+              "clock": "01:39:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-002882"
+            },
+            {
+              "stable_id": "asr-003165",
+              "start_seconds": 6306.02,
+              "clock": "01:45:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003165"
+            },
+            {
+              "stable_id": "asr-003934",
+              "start_seconds": 7851.2,
+              "clock": "02:10:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003934"
+            }
+          ]
+        },
+        {
+          "label": "AI exposure, BPO jobs and workforce preparation",
+          "text": "Aquino warned that automation could threaten lower-level business process outsourcing (BPO) work, which he said made up most of the industry’s jobs. He estimated that a 10% contraction could mean 100,000 to 200,000 jobs lost, and asked DTI to coordinate with the Department of Information and Communications Technology (DICT), the Department of Labor and Employment (DOLE), education agencies and industry on worker support. He said overall sector growth could conceal shrinking subsectors and local job losses, and requested disaggregated figures, local planning and a report before plenary.\n\nRoque said the BPO industry had told her it had grown by 5%, but agreed that workers displaced by automation might not return to BPO jobs. She said DTI was assigning focal people to major industries, including semiconductors and AI, and suggested preparing affected workers to start small businesses. She also cited investor interest in healthcare teleconsultation.\n\nDTI Undersecretary Ceferino S. Rodolfo said DTI was speaking with the Technical Education and Skills Development Authority (TESDA), the Commission on Higher Education (CHED) and industry, including the Information Technology and Business Process Association of the Philippines (IBPAP). He reported that two companies had registered with the Board of Investments (BOI) to offer AI-related training, and said industry forecasts were already using a lower jobs outlook. He agreed to supply the requested information. Aquino offered to join a roundtable. Aquino stressed that reskilling and education access needed to keep pace with the changes.",
+          "citations": [
+            {
+              "stable_id": "asr-003179",
+              "start_seconds": 6333.68,
+              "clock": "01:45:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003179"
+            },
+            {
+              "stable_id": "asr-003234",
+              "start_seconds": 6445.62,
+              "clock": "01:47:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003234"
+            },
+            {
+              "stable_id": "asr-003339",
+              "start_seconds": 6659.6,
+              "clock": "01:50:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003339"
+            },
+            {
+              "stable_id": "asr-003365-split-2",
+              "start_seconds": 6712.52,
+              "clock": "01:51:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003365-split-2"
+            },
+            {
+              "stable_id": "asr-003428-split-2",
+              "start_seconds": 6838.3,
+              "clock": "01:53:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003428-split-2"
+            },
+            {
+              "stable_id": "asr-003470-split-2",
+              "start_seconds": 6922.36,
+              "clock": "01:55:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003470-split-2"
+            },
+            {
+              "stable_id": "asr-003483",
+              "start_seconds": 6947.7,
+              "clock": "01:55:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003483"
+            }
+          ]
+        },
+        {
+          "label": "Pax Silica, data centers and Clark energy plans",
+          "text": "Aquino asked DTI to reconcile differing public statements and hearing accounts about Pax Silica, data centers and Clark’s power needs, and requested the signed agreements and current plans in writing before plenary. Rodolfo said Clark had no data center under Pax Silica: the only project then being discussed there was advanced manufacturing. He distinguished a separate push for data centers, which he said appeared in DICT’s AI roadmap and domestic corridor planning; he said Clark was unsuitable for a data center because of water and power constraints. Rodolfo said DTI and the whole government were involved, identified the Finance Secretary and Executive Secretary as cabinet leads, and described his own role as operating the effort at cabinet level. He said he had signed the agreement and was authorized. Aquino still asked DTI to submit clear written materials so senators and the public could compare the project’s current agreements and plans.\n\nOn power, Rodolfo described a Bases Conversion and Development Authority (BCDA) agreement with Saudi-based ACWA for a 500-megawatt solar project with battery storage as the quickest local source, and outlined separate discussions for a liquefied natural gas (LNG) import terminal in Subic, a gas pipeline to Clark and an embedded gas-fired plant. Aquino questioned how those projects fit Clark facilities expected within about two years, with 2028–2029 mentioned as targets, when plants could take five to seven years to build. Rodolfo said initial power needs would be lower and power and water infrastructure would come first; he said solar with battery storage could ramp up fastest and characterized BCDA’s plan as generating power locally.\n\nAquino asked DTI to check the timing, pointing to concerns that buying power from the market could raise electricity prices and conflict with assurances that local generation would avoid price increases. Rodolfo agreed to check the schedules, but the exchange did not set out a clear interim supply or price plan. Aquino said the project’s reported footprint was about three to four Bonifacio Global Cities and urged that development leave room for other Filipinos and communities. He said his office would continue working with BCDA and that the committee would address BCDA’s budget separately.",
+          "citations": [
+            {
+              "stable_id": "asr-003515",
+              "start_seconds": 7011.34,
+              "clock": "01:56:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003515"
+            },
+            {
+              "stable_id": "asr-003559",
+              "start_seconds": 7099.16,
+              "clock": "01:58:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003559"
+            },
+            {
+              "stable_id": "asr-003581",
+              "start_seconds": 7142.38,
+              "clock": "01:59:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003581"
+            },
+            {
+              "stable_id": "asr-003619",
+              "start_seconds": 7217.54,
+              "clock": "02:00:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003619"
+            },
+            {
+              "stable_id": "asr-003629",
+              "start_seconds": 7237.22,
+              "clock": "02:00:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003629"
+            },
+            {
+              "stable_id": "asr-003643",
+              "start_seconds": 7264.9,
+              "clock": "02:01:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003643"
+            },
+            {
+              "stable_id": "asr-003656",
+              "start_seconds": 7292.94,
+              "clock": "02:01:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003656"
+            },
+            {
+              "stable_id": "asr-003673",
+              "start_seconds": 7329.08,
+              "clock": "02:02:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003673"
+            },
+            {
+              "stable_id": "asr-003707",
+              "start_seconds": 7396.22,
+              "clock": "02:03:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003707"
+            },
+            {
+              "stable_id": "asr-003723",
+              "start_seconds": 7428.1,
+              "clock": "02:03:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003723"
+            },
+            {
+              "stable_id": "asr-003749",
+              "start_seconds": 7480.38,
+              "clock": "02:04:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003749"
+            },
+            {
+              "stable_id": "asr-003763",
+              "start_seconds": 7507.94,
+              "clock": "02:05:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003763"
+            },
+            {
+              "stable_id": "asr-003779",
+              "start_seconds": 7538.54,
+              "clock": "02:05:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003779"
+            },
+            {
+              "stable_id": "asr-003780",
+              "start_seconds": 7540.06,
+              "clock": "02:05:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003780"
+            },
+            {
+              "stable_id": "asr-003821",
+              "start_seconds": 7626.68,
+              "clock": "02:07:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003821"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "ICRS reporting coverage and early-warning question",
+          "text": "Ejercito asked whether ICRS would provide an early-warning capability to detect in real time which government corporations were performing or underperforming. Corpus answered that some corporations fall outside GCG coverage and are directly supervised by the Department of Finance (DOF) or DBM. He described ICRS as a publicly accessible, internally developed portal for corporations’ financial and non-financial data, and said the ADB-supported common reporting system would integrate data from DOF, GCG and DBM. ADB’s consultant was developing the system; GCG would handle the hardware. Corpus said rollout of the enhanced ICRS/common reporting system was planned for early 2027. His answer described reporting and integration and stated the planned rollout; it did not confirm that the system would provide real-time early-warning alerts.",
+          "citations": [
+            {
+              "stable_id": "asr-000845",
+              "start_seconds": 2835.34,
+              "clock": "00:47:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000845"
+            },
+            {
+              "stable_id": "asr-000880",
+              "start_seconds": 2863.04,
+              "clock": "00:47:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000880"
+            },
+            {
+              "stable_id": "asr-000940",
+              "start_seconds": 2915.8,
+              "clock": "00:48:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-000940"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-raffy-t-tulfo",
+      "label": "Senator Raffy T. Tulfo",
+      "items": [
+        {
+          "label": "Trustmark fees and voluntary participation",
+          "text": "Senator Raffy T. Tulfo questioned the Trustmark requirement for online transactions, arguing that participation should remain voluntary after 2026. DTI Secretary Maria Cristina Aldeguer-Roque said DTI would reassess the arrangement before the end of 2026; later, when Tulfo asked directly, she agreed it could remain voluntary beyond 2026.\n\nThe fee and asset bands shifted during the exchange. Tulfo raised a ₱1,130 charge, which Roque associated with medium enterprises; she first described that category as having assets from 30 million to 200 million. In an earlier clarification, Roque had described micro businesses with assets up to 3 million as free, and initially discussed small enterprises in a 3-million-to-30-million range with an application fee plus 130 pesos. Later, she stated that micro enterprises with assets up to 3 million are free, and small enterprises with assets from 3 million to 15 million pay 630 pesos. The record does not reconcile the earlier medium-enterprise 30-million-to-200-million band and 1,130 figure with the later small-enterprise 3-million-to-15-million and 630-peso fee; they are retained as distinct statements.",
+          "citations": [
+            {
+              "stable_id": "asr-001018",
+              "start_seconds": 2984.36,
+              "clock": "00:49:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001018"
+            },
+            {
+              "stable_id": "asr-001055",
+              "start_seconds": 3019.12,
+              "clock": "00:50:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001055"
+            },
+            {
+              "stable_id": "asr-001095",
+              "start_seconds": 3052.16,
+              "clock": "00:50:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001095"
+            },
+            {
+              "stable_id": "asr-001134",
+              "start_seconds": 3084.58,
+              "clock": "00:51:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001134"
+            },
+            {
+              "stable_id": "asr-001135",
+              "start_seconds": 3085.56,
+              "clock": "00:51:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001135"
+            },
+            {
+              "stable_id": "asr-001373",
+              "start_seconds": 3318.26,
+              "clock": "00:55:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001373"
+            },
+            {
+              "stable_id": "asr-001374",
+              "start_seconds": 3319.12,
+              "clock": "00:55:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001374"
+            },
+            {
+              "stable_id": "asr-001379",
+              "start_seconds": 3323.1400000000003,
+              "clock": "00:55:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001379"
+            },
+            {
+              "stable_id": "asr-001388",
+              "start_seconds": 3335.26,
+              "clock": "00:55:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001388"
+            },
+            {
+              "stable_id": "asr-001405",
+              "start_seconds": 3350.94,
+              "clock": "00:55:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001405"
+            },
+            {
+              "stable_id": "asr-001406",
+              "start_seconds": 3351.92,
+              "clock": "00:55:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001406"
+            },
+            {
+              "stable_id": "asr-001415",
+              "start_seconds": 3362.12,
+              "clock": "00:56:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001415"
+            },
+            {
+              "stable_id": "asr-001422",
+              "start_seconds": 3373.82,
+              "clock": "00:56:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001422"
+            }
+          ]
+        },
+        {
+          "label": "Trustmark receipts and proposed administration",
+          "text": "When Tulfo asked where Trustmark payments would go, DTI Assistant Secretary Atty. M. Marcus N. Valdez II said they go to the Treasury. Asked how much DTI expected to collect after any assessment and move to mandatory participation, Valdez gave no revenue estimate; he instead described discussions with industry to form an e-commerce promotion council and eventually transfer Trustmark operations to it. He said the council would include government agencies and private-sector platforms, merchants and internet-service providers.",
+          "citations": [
+            {
+              "stable_id": "asr-001216",
+              "start_seconds": 3164.24,
+              "clock": "00:52:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001216"
+            },
+            {
+              "stable_id": "asr-001223",
+              "start_seconds": 3170.16,
+              "clock": "00:52:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001223"
+            },
+            {
+              "stable_id": "asr-001241",
+              "start_seconds": 3186.56,
+              "clock": "00:53:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001241"
+            },
+            {
+              "stable_id": "asr-001264",
+              "start_seconds": 3208.02,
+              "clock": "00:53:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001264"
+            }
+          ]
+        },
+        {
+          "label": "Defective products and the pace of complaint resolution",
+          "text": "Tulfo described complaints involving defective electronics and other products, including sellers refusing returns or offering a replacement only with an extra payment, and asked how DTI handles no-return/no-exchange policies and refund or replacement requests. DTI Assistant Secretary Atty. Regino D. Mallari Jr. said DTI’s consumer-care unit contacts merchants and attempts mediation; cases with grounds for complaint can proceed to DTI’s Adjudication Division, which assesses the facts and appropriate remedy, including return, refund or replacement.\n\nMallari initially put mediation at about one month. After Tulfo asked about adjudication, Mallari gave an average of around six months, sometimes less; Tulfo characterized the overall wait as roughly seven months and urged faster handling, especially for lower-cost items. He said unresolved cases should prompt steps favoring consumers. Mallari said respondents may face administrative penalties.\n\nMallari reported about 42,000 consumer complaints received in 2025. He later described mediation as averaging 10–15 days and said a majority settled at mediation; in response to Aquino’s request for underlying figures, he promised to submit them and estimated that 70–80% settle, with Aquino checking that this occurred within the first 10 days and Mallari agreeing. These later figures differ from Mallari’s earlier estimate of about one month for mediation.\n\nMallari then claimed that 100% of NCR consumer complaints were settled in mediation, including all product types. Tulfo challenged the claim with examples of defective cars, including recalled vehicles, and offered to provide complaint records. On clarification, Mallari said some technical cases, particularly those under the Lemon Law, are not settled in mediation and proceed to adjudication. Tulfo rejected the 100% characterization and urged DTI to shorten adjudication and act in consumers’ favor when cases remain unresolved.",
+          "citations": [
+            {
+              "stable_id": "asr-001454",
+              "start_seconds": 3408.06,
+              "clock": "00:56:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001454"
+            },
+            {
+              "stable_id": "asr-001506",
+              "start_seconds": 3461.7799999999997,
+              "clock": "00:57:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001506"
+            },
+            {
+              "stable_id": "asr-001592",
+              "start_seconds": 3540.92,
+              "clock": "00:59:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001592"
+            },
+            {
+              "stable_id": "asr-001689",
+              "start_seconds": 3600.7,
+              "clock": "01:00:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001689"
+            },
+            {
+              "stable_id": "asr-001736",
+              "start_seconds": 3707.72,
+              "clock": "01:01:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001736"
+            },
+            {
+              "stable_id": "asr-001744",
+              "start_seconds": 3723.9,
+              "clock": "01:02:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001744"
+            },
+            {
+              "stable_id": "asr-001762",
+              "start_seconds": 3773.14,
+              "clock": "01:02:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001762"
+            },
+            {
+              "stable_id": "asr-001783",
+              "start_seconds": 3838.14,
+              "clock": "01:03:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001783"
+            },
+            {
+              "stable_id": "asr-001796",
+              "start_seconds": 3869.14,
+              "clock": "01:04:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001796"
+            },
+            {
+              "stable_id": "asr-001816",
+              "start_seconds": 3912.14,
+              "clock": "01:05:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001816"
+            },
+            {
+              "stable_id": "asr-001828",
+              "start_seconds": 3943.14,
+              "clock": "01:05:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-001828"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-disposition",
+      "label": "Disposition",
+      "items": [
+        {
+          "label": "Disposition",
+          "text": "With no further questions, Senator Paolo Benigno “Bam” Aquino IV deemed the budgets of the Governance Commission for GOCCs (GCG) and the Department of Trade and Industry (DTI), including their attached agencies and corporations, submitted for plenary consideration, subject to submission of requested documents and information. He then suspended the briefing. This procedural submission was not an approval of the appropriations.",
+          "citations": [
+            {
+              "stable_id": "asr-003977",
+              "start_seconds": 7943.14,
+              "clock": "02:12:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003977"
+            },
+            {
+              "stable_id": "asr-003980",
+              "start_seconds": 7948.98,
+              "clock": "02:12:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003980"
+            },
+            {
+              "stable_id": "asr-003981",
+              "start_seconds": 7950.9,
+              "clock": "02:12:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003981"
+            },
+            {
+              "stable_id": "asr-003983",
+              "start_seconds": 7954.88,
+              "clock": "02:12:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/86/#asr-003983"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

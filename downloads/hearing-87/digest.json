@@ -1,0 +1,544 @@
+{
+  "hearing": {
+    "hearing_id": 87,
+    "title": "Senate Committee on Finance: COMELEC - September 28, 2026",
+    "hearing_date": "2026-09-28",
+    "official_url": "https://www.youtube.com/watch?v=t_xKR7A1r6Q"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h87/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Election uncertainty and usable preparations",
+      "text": "Commission on Elections (COMELEC) Chairperson George Erwin M. Garcia said COMELEC halted some preparations after publication of the Barangay and Sangguniang Kabataan election postponement law, while retaining usable ballots and materials, arranging storage protections, and preparing to respond to the Court. Senator Vicente C. Sotto III had asked what COMELEC would do if the Supreme Court restrained the postponement and what election spending might be wasted; Garcia cautioned against pre-empting the Court and said the November 2 schedule appeared unworkable.",
+      "citations": []
+    },
+    {
+      "label": "Budget pressures and 2028 readiness",
+      "text": "Garcia described reductions to office and election funding, while saying the 2028 automated election could not be compromised and ballot printing and machine procurement needed to begin ahead of election year. He discussed the use of unexpended Barangay and Sangguniang Kabataan election funds for future preparation and sought a special provision to preserve funds if those elections were postponed. Garcia gave current utilization figures, confirmed that election activity was reflected in obligations, and agreed to provide an update. Committee chair Senator Panfilo Lacson invited a prioritized augmentation list and said the committee would consider whether fiscal space was available after the House budget bill arrived.",
+      "citations": []
+    },
+    {
+      "label": "Participation and overseas voter access",
+      "text": "Senator Christopher Lawrence T. Go and Garcia discussed rising domestic voter participation, which Garcia attributed in part to automation, voter education, and civil-society support. Go urged COMELEC to make overseas voting more convenient and strengthen public information after the introduction of internet voting.",
+      "citations": []
+    },
+    {
+      "label": "Election delivery and accountability",
+      "text": "Garcia described the national and Bangsamoro election operations, including timely proclamations, and reported strong turnout, international recognition, and consecutive unqualified opinions from the Commission on Audit (COA).",
+      "citations": []
+    },
+    {
+      "label": "Committee disposition",
+      "text": "Go initially moved to approve COMELEC's budget, then clarified that he was recommending approval and submission to the plenary. Senator Panfilo Lacson restated the motion as a recommendation to the plenary; hearing no objection, he declared it submitted and approved. The committee endorsed the proposal for plenary consideration and suspended the hearing.",
+      "citations": []
+    }
+  ],
+  "method_note": "Use the cited transcript and official video to review figures, speaker claims and promised follow-up.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "FY 2027 NEP and original agency submission",
+          "text": "The hearing transcript does not state either the Commission on Elections (COMELEC) aggregate FY 2027 National Expenditure Program (NEP) allocation or its original submission to the Department of Budget and Management (DBM). The reductions, unexpended balance, and conditional restoration discussed at the hearing are separate figures and do not establish either total.",
+          "citations": [
+            {
+              "stable_id": "asr-000342",
+              "start_seconds": 1486.04,
+              "clock": "00:24:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000342"
+            },
+            {
+              "stable_id": "asr-000364",
+              "start_seconds": 1595.8200000000002,
+              "clock": "00:26:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000364"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-commission-on-elections-comelec",
+      "label": "Commission on Elections (COMELEC) budget",
+      "items": [
+        {
+          "label": "Election spending, reusable preparations and future needs",
+          "text": "Senator Panfilo Lacson asked whether the Commission on Elections (COMELEC) was financially ready despite the uncertainty over the Barangay and Sangguniang Kabataan (SK) elections. Chairperson George Erwin M. Garcia said COMELEC had spent or obligated PHP 8 billion and had PHP 10.9 billion remaining. He said a provision of the new law made any unexpended Barangay and SK election balance a continuing appropriation that COMELEC could use to prepare for the 2028 national and local elections. Lacson asked whether COMELEC could realign funds as a constitutional body; Garcia agreed and welcomed the law's provision as a transparency measure.\n\nAsked what could be reused from the spending, Garcia said ballots and procured materials could be stored and used if another Barangay and SK election reset occurred. He cited 71 million regular-voter ballots and 25 million SK ballots, and said the printed November 2, 2026 date would not prevent later use if COMELEC issued a resolution. He said more than 1,000 casual employees had been hired and overtime used to print ballots and prepare polling places; Lacson asked whether manpower and overtime were the waste, and Garcia said the work had served those preparation needs.\n\nGarcia said voter registration would reopen in the second week of November and run through June 30 of the following year. COMELEC projected 3 million additional voters, or 74 million by 2028, with about 1 million more SK voters expected by the Barangay and SK elections in November 2028. Garcia said future resets would require additional funding for more voters, election personnel and election supplies.",
+          "citations": [
+            {
+              "stable_id": "asr-000159",
+              "start_seconds": 792.86,
+              "clock": "00:13:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000159"
+            },
+            {
+              "stable_id": "asr-000162",
+              "start_seconds": 798.74,
+              "clock": "00:13:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000162"
+            },
+            {
+              "stable_id": "asr-000164",
+              "start_seconds": 802.78,
+              "clock": "00:13:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000164"
+            },
+            {
+              "stable_id": "asr-000165",
+              "start_seconds": 804.62,
+              "clock": "00:13:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000165"
+            },
+            {
+              "stable_id": "asr-000166",
+              "start_seconds": 806.8,
+              "clock": "00:13:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000166"
+            },
+            {
+              "stable_id": "asr-000199",
+              "start_seconds": 873.1600000000001,
+              "clock": "00:14:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000199"
+            },
+            {
+              "stable_id": "asr-000203",
+              "start_seconds": 882.0400000000001,
+              "clock": "00:14:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000203"
+            },
+            {
+              "stable_id": "asr-000217",
+              "start_seconds": 919.9,
+              "clock": "00:15:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000217"
+            },
+            {
+              "stable_id": "asr-000222",
+              "start_seconds": 941.9,
+              "clock": "00:15:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000222"
+            },
+            {
+              "stable_id": "asr-000235",
+              "start_seconds": 998.18,
+              "clock": "00:16:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000235"
+            },
+            {
+              "stable_id": "asr-000239",
+              "start_seconds": 1010.6,
+              "clock": "00:16:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000239"
+            }
+          ]
+        },
+        {
+          "label": "2025 utilization and preparation for the 2028 election",
+          "text": "Commission on Elections (COMELEC) Chairperson George Erwin M. Garcia reported that COMELEC used 97% of its 2025 budget, which he attributed to conducting the national and local midterm elections. In preparation for the 2028 election, he said COMELEC had proposed printing ballots and procuring machines in 2027, a year before the election; he said those activities could not wait until 2028 and that the commission's budget had been reduced.",
+          "citations": [
+            {
+              "stable_id": "asr-000253",
+              "start_seconds": 1057.26,
+              "clock": "00:17:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000253"
+            },
+            {
+              "stable_id": "asr-000293",
+              "start_seconds": 1247.3600000000001,
+              "clock": "00:20:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000293"
+            }
+          ]
+        },
+        {
+          "label": "Cuts to election preparation and office funding",
+          "text": "Commission on Elections (COMELEC) Chairperson George Erwin M. Garcia said the commission initially lost PHP 7 billion, leaving no budget for its building project, local offices, or field-integrated offices. He said the FY 2027 National Expenditure Program (NEP) then imposed an additional cut of about PHP 15-point-something billion; he described the combined reductions as approximately PHP 22-23 billion. \n\nGarcia said COMELEC could economize on the cut to its regular agency budget but could not compromise the 2028 automated election. He first cited a need for about 24,000 machines, then corrected that figure to 124,000 machines for the 2028 elections. He said about PHP 1.6 billion had been cut from this need.",
+          "citations": [
+            {
+              "stable_id": "asr-000334",
+              "start_seconds": 1453.98,
+              "clock": "00:24:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000334"
+            },
+            {
+              "stable_id": "asr-000338",
+              "start_seconds": 1471.2800000000002,
+              "clock": "00:24:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000338"
+            },
+            {
+              "stable_id": "asr-000339",
+              "start_seconds": 1473.54,
+              "clock": "00:24:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000339"
+            },
+            {
+              "stable_id": "asr-000340",
+              "start_seconds": 1478.3400000000001,
+              "clock": "00:24:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000340"
+            },
+            {
+              "stable_id": "asr-000344",
+              "start_seconds": 1490.76,
+              "clock": "00:24:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000344"
+            },
+            {
+              "stable_id": "asr-000347",
+              "start_seconds": 1506.6399999999999,
+              "clock": "00:25:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000347"
+            },
+            {
+              "stable_id": "asr-000348",
+              "start_seconds": 1510.74,
+              "clock": "00:25:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000348"
+            }
+          ]
+        },
+        {
+          "label": "COMELEC restoration request and budget utilization",
+          "text": "Senator Panfilo Lacson asked how much the House had restored, noting that the General Appropriations Bill (GAB), or House version, had not yet been received. Commission on Elections (COMELEC) Chairperson George Erwin M. Garcia said no restoration had been made. He said COMELEC had appealed to the appropriations subcommittee amid a 16% budget space, and proposed that if the Barangay and Sangguniang Kabataan (SK) elections were postponed, a special provision would let COMELEC use the PHP 10.9 billion unexpended balance for preparation for the 2028 national and local elections. Garcia said Congress would include such a provision to ensure funds remained available. He confirmed he hoped the elections would be postponed, explaining COMELEC did not want to add to the committee's funding problem.\n\nGarcia said the proposed provision could return PHP 9 billion, or PHP 9.2 billion as he restated it, that had been removed from COMELEC's national and local election budget; the roughly PHP 2 billion remaining would fund casual employees, voter registration, and other activities removed from the regular agency budget. He said having PHP 11 billion would be acceptable even if the full PHP 15 billion were lost.\n\nLacson asked Garcia to update a utilization briefing. He cited the briefing's December 31 release rate of 99.9%, with PHP 47.334 billion released and PHP 32 million unreleased. Of the released amount, PHP 26.4 billion (55.9%) was obligated, while PHP 20.861 billion (44.1%) remained unobligated. Lacson requested an update as of June 30, 2026. \n\nGarcia agreed, then reported current budget utilization of 38.68% as of September 15, explaining that the period included Barangay and SK election activity. Garcia confirmed that obligations had decreased the unobligated balance and that the Barangay and SK elections were factored in.",
+          "citations": [
+            {
+              "stable_id": "asr-000349",
+              "start_seconds": 1514.72,
+              "clock": "00:25:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000349"
+            },
+            {
+              "stable_id": "asr-000352",
+              "start_seconds": 1527.8600000000001,
+              "clock": "00:25:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000352"
+            },
+            {
+              "stable_id": "asr-000373",
+              "start_seconds": 1648.9,
+              "clock": "00:27:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000373"
+            },
+            {
+              "stable_id": "asr-000382",
+              "start_seconds": 1689.58,
+              "clock": "00:28:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000382"
+            },
+            {
+              "stable_id": "asr-000355",
+              "start_seconds": 1540.8400000000001,
+              "clock": "00:25:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000355"
+            },
+            {
+              "stable_id": "asr-000358",
+              "start_seconds": 1559.1399999999999,
+              "clock": "00:25:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000358"
+            },
+            {
+              "stable_id": "asr-000366",
+              "start_seconds": 1606.3200000000002,
+              "clock": "00:26:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000366"
+            },
+            {
+              "stable_id": "asr-000367",
+              "start_seconds": 1612.04,
+              "clock": "00:26:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000367"
+            },
+            {
+              "stable_id": "asr-000368",
+              "start_seconds": 1613.58,
+              "clock": "00:26:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000368"
+            },
+            {
+              "stable_id": "asr-000369",
+              "start_seconds": 1620.1,
+              "clock": "00:27:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000369"
+            },
+            {
+              "stable_id": "asr-000370",
+              "start_seconds": 1628.96,
+              "clock": "00:27:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000370"
+            },
+            {
+              "stable_id": "asr-000372",
+              "start_seconds": 1641.8200000000002,
+              "clock": "00:27:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000372"
+            },
+            {
+              "stable_id": "asr-000375",
+              "start_seconds": 1653.66,
+              "clock": "00:27:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000375"
+            },
+            {
+              "stable_id": "asr-000376",
+              "start_seconds": 1659.74,
+              "clock": "00:27:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000376"
+            },
+            {
+              "stable_id": "asr-000377",
+              "start_seconds": 1666.2800000000002,
+              "clock": "00:27:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000377"
+            },
+            {
+              "stable_id": "asr-000378",
+              "start_seconds": 1671.8200000000002,
+              "clock": "00:27:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000378"
+            },
+            {
+              "stable_id": "asr-000379",
+              "start_seconds": 1674.9,
+              "clock": "00:27:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000379"
+            }
+          ]
+        },
+        {
+          "label": "Priority augmentation requests and possible fiscal space",
+          "text": "Senator Panfilo Lacson, the presiding chair, invited Commission on Elections (COMELEC) Chairperson George Erwin M. Garcia to submit a prioritized list of items for augmentation. Lacson said the committee would see whether fiscal space was available after the House version of the General Appropriations Bill (GAB) arrived.",
+          "citations": [
+            {
+              "stable_id": "asr-000394",
+              "start_seconds": 1739.16,
+              "clock": "00:28:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000394"
+            },
+            {
+              "stable_id": "asr-000397",
+              "start_seconds": 1755.24,
+              "clock": "00:29:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000397"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-comelec-presentation",
+      "label": "COMELEC presentation",
+      "items": [
+        {
+          "label": "Election results, turnout, and institutional recognition",
+          "text": "Garcia said the 2025 national and local election produced an 82.2% voter turnout, which he described as the highest for a midterm election. He reported that COMELEC proclaimed city mayors on election night, members of Congress and governors the following day, senators within five days, and party-list representatives within seven days; he called this the fastest proclamation in Philippine election history.\n\nOn the Bangsamoro parliamentary election, Garcia reported an 84.34% turnout, which he called the highest in the country's election history. He said the closely contested result was accepted by the majority and minority parties and other political parties, with four groups winning 16, 15, 8, and 1 seats. COMELEC proclaimed all 80 parliamentary seats the next day, with the district winners proclaimed before nightfall.\n\nGarcia said COMELEC was elected chair of both the Association of World Electoral Bodies and the Association of Asian Electoral Authorities in 2025, which he described as a first for the two bodies. He also reported that COMELEC received the Commission of the Year award and four other awards from an international body. He cited three consecutive unqualified audit opinions from the Commission on Audit (COA), for the first time in COMELEC's 85-year history, as evidence of its financial accountability and transparency work.",
+          "citations": [
+            {
+              "stable_id": "asr-000259",
+              "start_seconds": 1078.98,
+              "clock": "00:17:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000259"
+            },
+            {
+              "stable_id": "asr-000270",
+              "start_seconds": 1130.4,
+              "clock": "00:18:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000270"
+            },
+            {
+              "stable_id": "asr-000285",
+              "start_seconds": 1199.06,
+              "clock": "00:19:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000285"
+            },
+            {
+              "stable_id": "asr-000289",
+              "start_seconds": 1219.82,
+              "clock": "00:20:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000289"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-vicente-c-sotto-iii",
+      "label": "Senator Vicente C. Sotto III",
+      "items": [
+        {
+          "label": "Postponement, a possible court order and election preparations",
+          "text": "Senator Vicente C. Sotto III said he supported the Commission on Elections (COMELEC) budget and asked Chairperson George Erwin M. Garcia what the Commission would do if the Supreme Court issued a temporary restraining order (TRO) concerning the Barangay and Sangguniang Kabataan Elections (BSKE) postponement bill. He also asked how much had already been spent and how much would be wasted if postponement proceeded. Garcia explained that COMELEC had prepared for the elections, but said Congress had authority to fix officials’ terms. He cited a Supreme Court ruling, as he described it, that postponement was incidental to extending barangay and SK terms from three years to four in 2025 and from four years to five in the current measure; he said the Court could change its vote.\n\nCOMELEC had stopped activities for the November 2, 2026 elections after verifying that the new law had been published in the Official Gazette on the day the President signed it. It halted preparations including the filing period for certificates of candidacy, which had been scheduled through October 5. Garcia said a restraining order or direction to stop would require public information dissemination nationwide, potentially taking up to two weeks, and that COMELEC had stopped preparations to deploy equipment, normally beginning in the first week of the month before an election, especially to remote areas in Mindanao and the Visayas.\n\nIt continued printing voter lists for inside and outside polling places and completed the ballots, which were being placed in storage. Garcia said the Commission had negotiated for the supplier of indelible ink to warehouse deliveries in an air-conditioned facility and replace any items whose quality deteriorated. Ball pens and time-printing devices had one-year warranties; COMELEC asked suppliers for two-year warranties so equipment could remain usable if the election was reset, and Garcia said they agreed.\n\nHe said he would not answer whether COMELEC could hold the election at that point because the answer might be used in court as pre-empting the Supreme Court’s action. He added that COMELEC could declare postponement in a limited sense under authority delegated by Congress for terrorism, violence, or force majeure. Garcia said he had argued that a Supreme Court decision or order could be treated by COMELEC as force majeure, allowing an extension of at least 30 days after the force majeure ended; he acknowledged that someone would certainly challenge that interpretation. He said COMELEC was prepared for whatever the Court issued. Sotto’s question about spending and potential waste received no amount in this response.",
+          "citations": [
+            {
+              "stable_id": "asr-000016",
+              "start_seconds": 450.0,
+              "clock": "00:07:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000016"
+            },
+            {
+              "stable_id": "asr-000017-split-3",
+              "start_seconds": 492.6,
+              "clock": "00:08:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000017-split-3"
+            },
+            {
+              "stable_id": "asr-000061",
+              "start_seconds": 597.36,
+              "clock": "00:09:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000061"
+            },
+            {
+              "stable_id": "asr-000096",
+              "start_seconds": 667.42,
+              "clock": "00:11:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000096"
+            },
+            {
+              "stable_id": "asr-000116",
+              "start_seconds": 707.1999999999999,
+              "clock": "00:11:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000116"
+            },
+            {
+              "stable_id": "asr-000128",
+              "start_seconds": 731.24,
+              "clock": "00:12:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000128"
+            },
+            {
+              "stable_id": "asr-000131",
+              "start_seconds": 737.24,
+              "clock": "00:12:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-christopher-lawrence-t-go",
+      "label": "Senator Christopher Lawrence T. Go",
+      "items": [
+        {
+          "label": "Voter turnout and participation",
+          "text": "Senator Christopher Lawrence T. Go noted the rising voter-turnout trajectory from 2016 through 2019, 2022, 2025, and the Bangsamoro elections. COMELEC Chairperson George Erwin M. Garcia agreed, saying 45% of young people voted in the 2025 National and Local Elections and turnout in the Bangsamoro elections reached 84.34% after about three postponements. Go recalled that turnout had previously been about 70%, then reached about 82% nationally and 84% in the Bangsamoro elections, and hoped it would rise to 90%.\n\nGarcia identified election automation, broad voter education, and help from civil-society organizations as factors in participation.",
+          "citations": [
+            {
+              "stable_id": "asr-000301",
+              "start_seconds": 1281.54,
+              "clock": "00:21:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000301"
+            },
+            {
+              "stable_id": "asr-000303",
+              "start_seconds": 1295.22,
+              "clock": "00:21:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000303"
+            },
+            {
+              "stable_id": "asr-000305",
+              "start_seconds": 1300.82,
+              "clock": "00:21:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000305"
+            },
+            {
+              "stable_id": "asr-000310",
+              "start_seconds": 1337.8600000000001,
+              "clock": "00:22:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000310"
+            }
+          ]
+        },
+        {
+          "label": "Overseas voter access and internet voting",
+          "text": "Go observed that overseas Filipino voter turnout remained below 50% despite national turnout of 82%, and urged COMELEC to make voting more convenient for overseas voters. Garcia said COMELEC conducted internet voting for the first time in 2025 and suggested that voters were still getting familiar with it. He said overseas voter turnout in midterm elections had not reached 20%, describing it as 18.3% in a statement referring to both 2020 and 2022, and 18.2% in 2025. For the 2022 presidential election, he gave a 40.59% participation rate. \n\nGo reiterated that overseas turnout was still below 50%, suggested that voters may face scheduling or location difficulties or may not know online voting is available, and asked COMELEC to intensify its information campaign.",
+          "citations": [
+            {
+              "stable_id": "asr-000313",
+              "start_seconds": 1349.8,
+              "clock": "00:22:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000313"
+            },
+            {
+              "stable_id": "asr-000319",
+              "start_seconds": 1387.22,
+              "clock": "00:23:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000319"
+            },
+            {
+              "stable_id": "asr-000323",
+              "start_seconds": 1410.1599999999999,
+              "clock": "00:23:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000323"
+            },
+            {
+              "stable_id": "asr-000324",
+              "start_seconds": 1418.46,
+              "clock": "00:23:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000324"
+            },
+            {
+              "stable_id": "asr-000325",
+              "start_seconds": 1424.42,
+              "clock": "00:23:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000325"
+            },
+            {
+              "stable_id": "asr-000331",
+              "start_seconds": 1446.94,
+              "clock": "00:24:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000331"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-session-outcome",
+      "label": "Session outcome",
+      "items": [
+        {
+          "label": "Committee recommendation and suspension",
+          "text": "Senator Christopher Lawrence T. Go expressed support for COMELEC. Go initially moved to approve COMELEC's budget, then clarified that he was recommending approval and submission to the plenary for consideration. Lacson restated the motion as a recommendation to the plenary; hearing no objection, he declared it submitted and approved. The committee endorsed submission for plenary consideration. Lacson then suspended the hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-000400",
+              "start_seconds": 1765.26,
+              "clock": "00:29:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000400"
+            },
+            {
+              "stable_id": "asr-000401",
+              "start_seconds": 1769.3200000000002,
+              "clock": "00:29:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000401"
+            },
+            {
+              "stable_id": "asr-000402",
+              "start_seconds": 1776.72,
+              "clock": "00:29:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000402"
+            },
+            {
+              "stable_id": "asr-000403",
+              "start_seconds": 1781.52,
+              "clock": "00:29:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000403"
+            },
+            {
+              "stable_id": "asr-000406",
+              "start_seconds": 1800.0,
+              "clock": "00:30:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/87/#asr-000406"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

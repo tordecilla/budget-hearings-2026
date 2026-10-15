@@ -1,0 +1,2619 @@
+{
+  "hearing": {
+    "hearing_id": 30,
+    "title": "House Committee on Appropriations: DOTr Part 1 - September 3, 2026",
+    "hearing_date": "2026-09-03",
+    "official_url": "https://www.youtube.com/watch?v=wULn_FJFCUQ"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h30/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Proposed investments",
+      "text": "Department of Transportation (DOTr)'s proposed investments covered rail, road, aviation and maritime projects, but members questioned which projects were funded, partly funded or left without proposed allocations.",
+      "citations": []
+    },
+    {
+      "label": "Release and utilization",
+      "text": "Members and officials discussed how foreign-loan proceeds, counterpart funding, right-of-way acquisition and unprogrammed appropriations affect project release, utilization, delays and financing costs.",
+      "citations": []
+    },
+    {
+      "label": "Commuter programs",
+      "text": "Members sought stronger commuter support and challenged proposed cuts to EDSA Bus Carousel service contracting and fuel subsidies; DOTr supported restoration, with no committee funding decision in that exchange.",
+      "citations": []
+    },
+    {
+      "label": "Regional projects and promised reports",
+      "text": "Regional requests included rail connectivity, right-of-way, ports, roads and airport improvements. Some remained unfunded or conditional on inspection, while agencies promised project lists, timelines, delay reports and alignment documents.",
+      "citations": []
+    },
+    {
+      "label": "Budget augmentation proposal",
+      "text": "A proposed lump-sum augmentation for unfunded projects and studies remained pending without a vote; other increase requests and expressions of support also remained distinct from adopted appropriations.",
+      "citations": []
+    },
+    {
+      "label": "Maritime safety and suspension",
+      "text": "Members questioned Maritime Industry Authority (MARINA) on inspection staffing and technical-capacity needs. The hearing then recessed for lunch; the recess did not approve or conclude the budget deliberation.",
+      "citations": []
+    }
+  ],
+  "method_note": "This digest covers DOTr Part 1 of the September 3, 2026 hearing. The timed transcript and official video support its accounts of proposed allocations, funding requests, project costs and agency responses. The same-day Part 2 continuation remains a separate session and digest.",
+  "sections": [
+    {
+      "key": "budget-dotr",
+      "label": "Department of Transportation (DOTr) budget",
+      "items": [
+        {
+          "label": "DOTr 2027 NEP allocation and budget composition",
+          "text": "For fiscal year 2027, the DOTr NEP allocation was ₱300.96 billion, as presented by DOTr Assistant Secretary Cecilia E. Bien. That was ₱103 billion (52.52%) above its FY2026 NEP figure of ₱197.3 billion; against the FY2026 GAA amount of ₱137.846 billion, the FY2027 NEP was ₱163.114 billion (118%) higher. These are separate comparisons using different FY2026 bases. DOTr said ₱243 billion, or 81.05% of its FY2027 NEP, was capital outlay, while personnel services received ₱35.35 billion (11.75%). The Office of the Secretary, including Land Transportation Office (LTO), Land Transportation Franchising and Regulatory Board (LTFRB), MRT-3, CAR and CARAGA, was reported at 83.71% or ₱251 billion; the Philippine Coast Guard (PCG) was separately reported at ₱45.551 billion (15.12%). These figures are stated as components of the allocation; the transcript total in that breakdown is garbled. The presentation did not give a distinct total for DOTr's original agency-wide submission to Department of Budget and Management (DBM); the later ₱624 billion figure is specifically its proposed projects, not an established total agency request. For the Office of the Secretary, Central Office alone, FY2025 obligation and disbursement rates were 90.45% and 57.45%; as of July 2026 they were 82.40% and 51.73%. Across DOTr and attached agencies, FY2025 rates were 89.35% and 56.94%, and as of July 2026 they were 74.10% and 56.18%.",
+          "citations": [
+            {
+              "stable_id": "asr-000121",
+              "start_seconds": 1740.35,
+              "clock": "00:29:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000121"
+            },
+            {
+              "stable_id": "asr-000122",
+              "start_seconds": 1750.35,
+              "clock": "00:29:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000122"
+            },
+            {
+              "stable_id": "asr-000123",
+              "start_seconds": 1755.35,
+              "clock": "00:29:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000123"
+            },
+            {
+              "stable_id": "asr-000124",
+              "start_seconds": 1764.35,
+              "clock": "00:29:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000124"
+            },
+            {
+              "stable_id": "asr-000125",
+              "start_seconds": 1765.35,
+              "clock": "00:29:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000125"
+            },
+            {
+              "stable_id": "asr-000126",
+              "start_seconds": 1766.35,
+              "clock": "00:29:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000126"
+            },
+            {
+              "stable_id": "asr-000127",
+              "start_seconds": 1769.35,
+              "clock": "00:29:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000127"
+            },
+            {
+              "stable_id": "asr-000128",
+              "start_seconds": 1778.35,
+              "clock": "00:29:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000128"
+            },
+            {
+              "stable_id": "asr-000129",
+              "start_seconds": 1786.35,
+              "clock": "00:29:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000129"
+            },
+            {
+              "stable_id": "asr-000133",
+              "start_seconds": 1797.4,
+              "clock": "00:29:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000133"
+            },
+            {
+              "stable_id": "asr-000134",
+              "start_seconds": 1800.0,
+              "clock": "00:30:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000134"
+            },
+            {
+              "stable_id": "asr-000138",
+              "start_seconds": 1836.66,
+              "clock": "00:30:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000138"
+            },
+            {
+              "stable_id": "asr-000139",
+              "start_seconds": 1843.9,
+              "clock": "00:30:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000139"
+            },
+            {
+              "stable_id": "asr-000140",
+              "start_seconds": 1852.32,
+              "clock": "00:30:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000140"
+            },
+            {
+              "stable_id": "asr-000147",
+              "start_seconds": 1896.91,
+              "clock": "00:31:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000147"
+            },
+            {
+              "stable_id": "asr-000148",
+              "start_seconds": 1905.75,
+              "clock": "00:31:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000148"
+            },
+            {
+              "stable_id": "asr-000150",
+              "start_seconds": 1915.71,
+              "clock": "00:31:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000150"
+            },
+            {
+              "stable_id": "asr-000154",
+              "start_seconds": 1950.09,
+              "clock": "00:32:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000154"
+            },
+            {
+              "stable_id": "asr-000155",
+              "start_seconds": 1959.99,
+              "clock": "00:32:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000155"
+            },
+            {
+              "stable_id": "asr-000103",
+              "start_seconds": 1616.62,
+              "clock": "00:26:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000103"
+            },
+            {
+              "stable_id": "asr-000104",
+              "start_seconds": 1633.54,
+              "clock": "00:27:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000104"
+            },
+            {
+              "stable_id": "asr-000105",
+              "start_seconds": 1637.38,
+              "clock": "00:27:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000105"
+            },
+            {
+              "stable_id": "asr-000106",
+              "start_seconds": 1646.62,
+              "clock": "00:27:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000106"
+            },
+            {
+              "stable_id": "asr-000113",
+              "start_seconds": 1695.35,
+              "clock": "00:28:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000113"
+            },
+            {
+              "stable_id": "asr-000114",
+              "start_seconds": 1708.35,
+              "clock": "00:28:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000114"
+            },
+            {
+              "stable_id": "asr-000115",
+              "start_seconds": 1713.35,
+              "clock": "00:28:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000115"
+            },
+            {
+              "stable_id": "asr-000116",
+              "start_seconds": 1724.35,
+              "clock": "00:28:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000116"
+            },
+            {
+              "stable_id": "asr-000142",
+              "start_seconds": 1869.96,
+              "clock": "00:31:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000142"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 project proposal and NEP allocations",
+          "text": "DOTr Assistant Secretary Cecilia E. Bien said the department proposed 179 projects totaling ₱624 billion for FY2027, while ₱237 billion was included in the NEP. Her sector breakdowns showed different levels of coverage: six of 22 railway projects received ₱194 billion; seven road transport projects received ₱15 billion against a ₱37 billion proposal; ten aviation projects received ₱5.8 billion against ₱23 billion proposed; and five maritime projects received ₱18.1 billion. The presentation described these as project proposal and NEP figures, not as a separate original agency-wide request total.",
+          "citations": [
+            {
+              "stable_id": "asr-000159",
+              "start_seconds": 1994.77,
+              "clock": "00:33:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000159"
+            },
+            {
+              "stable_id": "asr-000160",
+              "start_seconds": 2004.71,
+              "clock": "00:33:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000160"
+            },
+            {
+              "stable_id": "asr-000161",
+              "start_seconds": 2005.71,
+              "clock": "00:33:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000161"
+            },
+            {
+              "stable_id": "asr-000162",
+              "start_seconds": 2018.13,
+              "clock": "00:33:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000162"
+            },
+            {
+              "stable_id": "asr-000164",
+              "start_seconds": 2039.79,
+              "clock": "00:33:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000164"
+            },
+            {
+              "stable_id": "asr-000165",
+              "start_seconds": 2043.65,
+              "clock": "00:34:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000165"
+            },
+            {
+              "stable_id": "asr-000166",
+              "start_seconds": 2051.27,
+              "clock": "00:34:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000166"
+            },
+            {
+              "stable_id": "asr-000167",
+              "start_seconds": 2057.73,
+              "clock": "00:34:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000167"
+            },
+            {
+              "stable_id": "asr-000168",
+              "start_seconds": 2064.11,
+              "clock": "00:34:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000168"
+            },
+            {
+              "stable_id": "asr-000169",
+              "start_seconds": 2072.17,
+              "clock": "00:34:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000169"
+            },
+            {
+              "stable_id": "asr-000170",
+              "start_seconds": 2079.61,
+              "clock": "00:34:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000170"
+            },
+            {
+              "stable_id": "asr-000171",
+              "start_seconds": 2085.17,
+              "clock": "00:34:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000171"
+            }
+          ]
+        },
+        {
+          "label": "Foreign-assisted and locally funded project requests",
+          "text": "DOTr identified the Mindanao Railway, MRT-4 and Philippine National Railways (PNR) South Long Haul as foreign-assisted railway proposals without allocations. In the sector detail, DOTr reported a ₱19 billion proposal for two foreign-assisted road projects and ₱15 billion in NEP allocation, a stated ₱4.7 billion shortfall. For foreign-assisted aviation projects, it proposed ₱3.8 billion and received ₱1.9 billion. Locally funded aviation proposals totaled ₱19.30 billion across 40 projects; eight projects received ₱3.9 billion. For four foreign-assisted maritime projects, DOTr proposed ₱22.7 billion and received ₱18.13 billion. It said 13 locally funded railway projects were proposed and two received allocations; the unfunded locally funded railway projects totaled ₱97.9 billion. For locally funded road transport, it proposed 17 projects, five received allocations, and 12 unfunded items were assigned a reported figure of 12,979,000; the presentation did not state its unit or scale. For locally funded maritime, one of 91 proposed projects received a lump-sum allocation, while 90 did not; no amount for that lump sum was stated in this passage.",
+          "citations": [
+            {
+              "stable_id": "asr-000179",
+              "start_seconds": 2105.57,
+              "clock": "00:35:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000179"
+            },
+            {
+              "stable_id": "asr-000180",
+              "start_seconds": 2115.23,
+              "clock": "00:35:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000180"
+            },
+            {
+              "stable_id": "asr-000185",
+              "start_seconds": 2136.07,
+              "clock": "00:35:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000185"
+            },
+            {
+              "stable_id": "asr-000186",
+              "start_seconds": 2139.27,
+              "clock": "00:35:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000186"
+            },
+            {
+              "stable_id": "asr-000187",
+              "start_seconds": 2144.79,
+              "clock": "00:35:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000187"
+            },
+            {
+              "stable_id": "asr-000188",
+              "start_seconds": 2149.29,
+              "clock": "00:35:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000188"
+            },
+            {
+              "stable_id": "asr-000190",
+              "start_seconds": 2153.31,
+              "clock": "00:35:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000190"
+            },
+            {
+              "stable_id": "asr-000191",
+              "start_seconds": 2156.77,
+              "clock": "00:35:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000191"
+            },
+            {
+              "stable_id": "asr-000192",
+              "start_seconds": 2164.09,
+              "clock": "00:36:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000192"
+            },
+            {
+              "stable_id": "asr-000193",
+              "start_seconds": 2166.4700000000003,
+              "clock": "00:36:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000193"
+            },
+            {
+              "stable_id": "asr-000199",
+              "start_seconds": 2187.73,
+              "clock": "00:36:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000199"
+            },
+            {
+              "stable_id": "asr-000200",
+              "start_seconds": 2191.31,
+              "clock": "00:36:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000200"
+            },
+            {
+              "stable_id": "asr-000201",
+              "start_seconds": 2196.75,
+              "clock": "00:36:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000201"
+            },
+            {
+              "stable_id": "asr-000203",
+              "start_seconds": 2208.43,
+              "clock": "00:36:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000203"
+            },
+            {
+              "stable_id": "asr-000208",
+              "start_seconds": 2213.31,
+              "clock": "00:36:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000208"
+            },
+            {
+              "stable_id": "asr-000211",
+              "start_seconds": 2224.61,
+              "clock": "00:37:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000211"
+            },
+            {
+              "stable_id": "asr-000212",
+              "start_seconds": 2229.99,
+              "clock": "00:37:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000212"
+            },
+            {
+              "stable_id": "asr-000219",
+              "start_seconds": 2253.11,
+              "clock": "00:37:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000219"
+            },
+            {
+              "stable_id": "asr-000220",
+              "start_seconds": 2259.39,
+              "clock": "00:37:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000220"
+            },
+            {
+              "stable_id": "asr-000223",
+              "start_seconds": 2273.31,
+              "clock": "00:37:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000223"
+            },
+            {
+              "stable_id": "asr-000224",
+              "start_seconds": 2277.25,
+              "clock": "00:37:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000224"
+            },
+            {
+              "stable_id": "asr-000225",
+              "start_seconds": 2281.9700000000003,
+              "clock": "00:38:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000225"
+            },
+            {
+              "stable_id": "asr-000226",
+              "start_seconds": 2286.67,
+              "clock": "00:38:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000226"
+            },
+            {
+              "stable_id": "asr-000233",
+              "start_seconds": 2312.83,
+              "clock": "00:38:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000233"
+            },
+            {
+              "stable_id": "asr-000234",
+              "start_seconds": 2317.43,
+              "clock": "00:38:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000234"
+            },
+            {
+              "stable_id": "asr-000236",
+              "start_seconds": 2322.77,
+              "clock": "00:38:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000236"
+            },
+            {
+              "stable_id": "asr-000237",
+              "start_seconds": 2326.85,
+              "clock": "00:38:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000237"
+            },
+            {
+              "stable_id": "asr-000240",
+              "start_seconds": 2337.19,
+              "clock": "00:38:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000240"
+            },
+            {
+              "stable_id": "asr-000241",
+              "start_seconds": 2341.71,
+              "clock": "00:39:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000241"
+            },
+            {
+              "stable_id": "asr-000244",
+              "start_seconds": 2351.95,
+              "clock": "00:39:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000244"
+            },
+            {
+              "stable_id": "asr-000245",
+              "start_seconds": 2355.43,
+              "clock": "00:39:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000245"
+            }
+          ]
+        },
+        {
+          "label": "Right-of-way and government corporation support",
+          "text": "For right-of-way, DOTr proposed ₱98.5 billion and received ₱2.79 billion, which it said was insufficient even for North-South Commuter Railway requirements. Its breakdown also included ₱1.2 billion in FY2027 budgetary support to government corporations Light Rail Transit Authority (LRTA) and PNR through IPIF.",
+          "citations": [
+            {
+              "stable_id": "asr-000250",
+              "start_seconds": 2380.86,
+              "clock": "00:39:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000250"
+            },
+            {
+              "stable_id": "asr-000251",
+              "start_seconds": 2383.02,
+              "clock": "00:39:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000251"
+            },
+            {
+              "stable_id": "asr-000252",
+              "start_seconds": 2388.76,
+              "clock": "00:39:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000252"
+            },
+            {
+              "stable_id": "asr-000254",
+              "start_seconds": 2395.96,
+              "clock": "00:39:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000254"
+            },
+            {
+              "stable_id": "asr-000255",
+              "start_seconds": 2399.06,
+              "clock": "00:39:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000255"
+            },
+            {
+              "stable_id": "asr-000256",
+              "start_seconds": 2400.92,
+              "clock": "00:40:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000256"
+            },
+            {
+              "stable_id": "asr-000264",
+              "start_seconds": 2421.56,
+              "clock": "00:40:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000264"
+            },
+            {
+              "stable_id": "asr-000265",
+              "start_seconds": 2424.84,
+              "clock": "00:40:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000265"
+            },
+            {
+              "stable_id": "asr-000266",
+              "start_seconds": 2425.96,
+              "clock": "00:40:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000266"
+            },
+            {
+              "stable_id": "asr-000268",
+              "start_seconds": 2433.66,
+              "clock": "00:40:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000268"
+            }
+          ]
+        },
+        {
+          "label": "EDSA Bus Carousel service-contracting and fuel-subsidy funding",
+          "text": "Representative Percival “Perci” Cendaña cited 60 million EDSA Bus Carousel riders in 2024 and 2025 and asked why the FY2027 proposal showed zero for service contracting and fuel subsidies. DOTr Secretary Giovanni Z. Lopez said the prior-year NEP had also omitted service-contracting funds for the EDSA Bus Carousel and PTMP, but Congress later funded the programs, which DOTr used during the oil crisis. He cited DOTr’s July 2026 obligation rate of 82.6% and disbursement rate of about 52%, and said limited fiscal space was the remaining explanation he saw for the low allocation. Asked whether DOTr supported restoring EDSA Carousel funding, Lopez said it did. Cendaña urged Congress to restore it; this exchange records support and an appeal, not a committee funding decision.",
+          "citations": [
+            {
+              "stable_id": "asr-000676",
+              "start_seconds": 4107.99,
+              "clock": "01:08:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000676"
+            },
+            {
+              "stable_id": "asr-000683",
+              "start_seconds": 4136.99,
+              "clock": "01:08:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000683"
+            },
+            {
+              "stable_id": "asr-000690",
+              "start_seconds": 4158.99,
+              "clock": "01:09:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000690"
+            },
+            {
+              "stable_id": "asr-000691",
+              "start_seconds": 4160.99,
+              "clock": "01:09:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000691"
+            },
+            {
+              "stable_id": "asr-000694",
+              "start_seconds": 4168.99,
+              "clock": "01:09:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000694"
+            },
+            {
+              "stable_id": "asr-000707",
+              "start_seconds": 4209.99,
+              "clock": "01:10:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000707"
+            },
+            {
+              "stable_id": "asr-000709",
+              "start_seconds": 4218.99,
+              "clock": "01:10:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000709"
+            },
+            {
+              "stable_id": "asr-000710",
+              "start_seconds": 4219.99,
+              "clock": "01:10:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000710"
+            },
+            {
+              "stable_id": "asr-000711",
+              "start_seconds": 4221.99,
+              "clock": "01:10:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000711"
+            },
+            {
+              "stable_id": "asr-000718",
+              "start_seconds": 4248.99,
+              "clock": "01:10:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000718"
+            },
+            {
+              "stable_id": "asr-000719",
+              "start_seconds": 4257.99,
+              "clock": "01:10:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000719"
+            },
+            {
+              "stable_id": "asr-000726",
+              "start_seconds": 4281.99,
+              "clock": "01:11:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000726"
+            },
+            {
+              "stable_id": "asr-000727",
+              "start_seconds": 4285.99,
+              "clock": "01:11:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000727"
+            }
+          ]
+        },
+        {
+          "label": "PTMP assistance, borrower data, and proposed FY2027 funding",
+          "text": "Lopez said DOTr had shifted the Public Transport Modernization Program from equity subsidies alone to a plan allocating ₱1.5 billion to the LTFRB to help enrolled PUV modernization drivers and operators pay loan amortizations, following the oil crisis. When Cendaña asked about defaults and how many units the assistance covered, Lopez referred the details to Assistant Secretary Dioscoro T. Reyes. Reyes reported Development Bank of the Philippines (DBP) loan releases of ₱7.46 billion for 3,429 units, with ₱4.071 billion past due across 2,753 units; Land Bank of the Philippines (LANDBANK) releases of ₱8.24 billion for 3,579 units, with ₱1.988 billion past due involving 51 borrowers; and ₱6.059 billion total past due at government financing institutions. He also reported ₱771 million in private-bank loans covering 1,758 units, which he described as under forbearance, and 8,766 units provided equity subsidies. Reyes cautioned that the figures were bank-loan releases rather than equity subsidies; DOTr was still verifying the equity-subsidy count, and the bank reports had different reporting cutoffs. Cendaña then noted that the proposed FY2027 PTMP budget was ₱176 million. Lopez asked Congress for additional funds to continue support through subsidies or other incentives, without naming a requested amount or recording an appropriation decision.",
+          "citations": [
+            {
+              "stable_id": "asr-000730",
+              "start_seconds": 4296.99,
+              "clock": "01:11:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000730"
+            },
+            {
+              "stable_id": "asr-000743",
+              "start_seconds": 4347.99,
+              "clock": "01:12:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000743"
+            },
+            {
+              "stable_id": "asr-000744",
+              "start_seconds": 4353.99,
+              "clock": "01:12:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000744"
+            },
+            {
+              "stable_id": "asr-000753",
+              "start_seconds": 4408.99,
+              "clock": "01:13:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000753"
+            },
+            {
+              "stable_id": "asr-000756",
+              "start_seconds": 4424.99,
+              "clock": "01:13:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000756"
+            },
+            {
+              "stable_id": "asr-000761",
+              "start_seconds": 4467.4,
+              "clock": "01:14:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000761"
+            },
+            {
+              "stable_id": "asr-000762",
+              "start_seconds": 4473.9400000000005,
+              "clock": "01:14:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000762"
+            },
+            {
+              "stable_id": "asr-000763",
+              "start_seconds": 4484.9400000000005,
+              "clock": "01:14:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000763"
+            },
+            {
+              "stable_id": "asr-000765",
+              "start_seconds": 4491.9400000000005,
+              "clock": "01:14:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000765"
+            },
+            {
+              "stable_id": "asr-000789",
+              "start_seconds": 4500.0,
+              "clock": "01:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000789"
+            },
+            {
+              "stable_id": "asr-000790",
+              "start_seconds": 4502.82,
+              "clock": "01:15:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000790"
+            },
+            {
+              "stable_id": "asr-000799",
+              "start_seconds": 4520.1,
+              "clock": "01:15:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000799"
+            },
+            {
+              "stable_id": "asr-000800",
+              "start_seconds": 4521.74,
+              "clock": "01:15:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000800"
+            },
+            {
+              "stable_id": "asr-000801",
+              "start_seconds": 4525.38,
+              "clock": "01:15:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000801"
+            },
+            {
+              "stable_id": "asr-000804",
+              "start_seconds": 4529.02,
+              "clock": "01:15:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000804"
+            },
+            {
+              "stable_id": "asr-000805",
+              "start_seconds": 4532.4,
+              "clock": "01:15:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000805"
+            },
+            {
+              "stable_id": "asr-000810",
+              "start_seconds": 4541.7,
+              "clock": "01:15:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000810"
+            },
+            {
+              "stable_id": "asr-000814",
+              "start_seconds": 4550.36,
+              "clock": "01:15:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000814"
+            },
+            {
+              "stable_id": "asr-000815",
+              "start_seconds": 4552.4,
+              "clock": "01:15:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000815"
+            },
+            {
+              "stable_id": "asr-000816",
+              "start_seconds": 4553.44,
+              "clock": "01:15:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000816"
+            },
+            {
+              "stable_id": "asr-000818",
+              "start_seconds": 4558.34,
+              "clock": "01:15:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000818"
+            },
+            {
+              "stable_id": "asr-000821",
+              "start_seconds": 4565.1,
+              "clock": "01:16:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000821"
+            },
+            {
+              "stable_id": "asr-000823",
+              "start_seconds": 4570.82,
+              "clock": "01:16:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000823"
+            },
+            {
+              "stable_id": "asr-000827",
+              "start_seconds": 4579.14,
+              "clock": "01:16:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000827"
+            },
+            {
+              "stable_id": "asr-000830",
+              "start_seconds": 4584.96,
+              "clock": "01:16:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000830"
+            },
+            {
+              "stable_id": "asr-000837",
+              "start_seconds": 4598.94,
+              "clock": "01:16:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000837"
+            },
+            {
+              "stable_id": "asr-000839",
+              "start_seconds": 4602.54,
+              "clock": "01:16:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000839"
+            },
+            {
+              "stable_id": "asr-000848",
+              "start_seconds": 4620.68,
+              "clock": "01:17:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000848"
+            },
+            {
+              "stable_id": "asr-000849",
+              "start_seconds": 4622.42,
+              "clock": "01:17:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000849"
+            },
+            {
+              "stable_id": "asr-000850",
+              "start_seconds": 4624.88,
+              "clock": "01:17:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000850"
+            },
+            {
+              "stable_id": "asr-000861",
+              "start_seconds": 4648.75,
+              "clock": "01:17:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000861"
+            },
+            {
+              "stable_id": "asr-000864",
+              "start_seconds": 4654.51,
+              "clock": "01:17:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000864"
+            },
+            {
+              "stable_id": "asr-000870",
+              "start_seconds": 4666.85,
+              "clock": "01:17:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000870"
+            }
+          ]
+        },
+        {
+          "label": "Active transport: FY2027 allocation and original proposal",
+          "text": "Cendaña questioned the FY2027 active-transport allocation of ₱34 million as inadequate for walking and cycling infrastructure. Lopez agreed the funding was insufficient and asked Congress to provide a proper budget, describing a commuter-focused program delivered with civil-society groups and local governments. Asked for the original proposal, Undersecretary Mark Steven C. Pastor gave an initial proposal of ₱1,128,154,150 for expanding bike lanes and sidewalks. Pastor said the aim was at least 2,400 kilometers of bike lanes and expanded sidewalks, compared with 1,030 kilometers of bike lanes at the time.",
+          "citations": [
+            {
+              "stable_id": "asr-000876",
+              "start_seconds": 4678.67,
+              "clock": "01:17:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000876"
+            },
+            {
+              "stable_id": "asr-000878",
+              "start_seconds": 4682.07,
+              "clock": "01:18:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000878"
+            },
+            {
+              "stable_id": "asr-000880",
+              "start_seconds": 4686.05,
+              "clock": "01:18:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000880"
+            },
+            {
+              "stable_id": "asr-000888",
+              "start_seconds": 4703.41,
+              "clock": "01:18:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000888"
+            },
+            {
+              "stable_id": "asr-000894",
+              "start_seconds": 4716.7,
+              "clock": "01:18:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000894"
+            },
+            {
+              "stable_id": "asr-000898",
+              "start_seconds": 4724.0,
+              "clock": "01:18:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000898"
+            },
+            {
+              "stable_id": "asr-000915",
+              "start_seconds": 4758.26,
+              "clock": "01:19:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000915"
+            },
+            {
+              "stable_id": "asr-000946",
+              "start_seconds": 4819.64,
+              "clock": "01:20:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000946"
+            },
+            {
+              "stable_id": "asr-000952",
+              "start_seconds": 4837.38,
+              "clock": "01:20:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000952"
+            },
+            {
+              "stable_id": "asr-000954",
+              "start_seconds": 4841.24,
+              "clock": "01:20:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000954"
+            },
+            {
+              "stable_id": "asr-000960",
+              "start_seconds": 4859.18,
+              "clock": "01:20:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000960"
+            },
+            {
+              "stable_id": "asr-000964",
+              "start_seconds": 4867.3,
+              "clock": "01:21:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000964"
+            }
+          ]
+        },
+        {
+          "label": "Pandilusan Island seaport and security",
+          "text": "Rep. Marlo C. Bancoro asked Secretary Giovanni Z. Lopez to find a way to fund or implement the proposed seaport on Pandilusan Island, saying it served a national-security purpose because the area faced international waters. Bancoro said the local government had a memorandum of agreement with the PCG and described local-government support for the armed forces, Philippine National Police and Coast Guard. Lopez agreed the port was important and said DOTr would ask Congress to include projects of this kind.",
+          "citations": [
+            {
+              "stable_id": "asr-001144",
+              "start_seconds": 5231.02,
+              "clock": "01:27:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001144"
+            },
+            {
+              "stable_id": "asr-001169",
+              "start_seconds": 5284.1900000000005,
+              "clock": "01:28:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001169"
+            }
+          ]
+        },
+        {
+          "label": "Support for increasing the DOTr budget",
+          "text": "Rep. Marlo C. Bancoro voiced support for increasing DOTr’s budget, referring to its NEP-approved budget, because many members’ locally funded projects had not received funding; he called for members to unite to help increase it. He made no formal motion here, and no amount or decision followed in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-001179",
+              "start_seconds": 5303.23,
+              "clock": "01:28:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001179"
+            }
+          ]
+        },
+        {
+          "label": "NSCR progress, right-of-way funding, and feasibility-study amounts",
+          "text": "Representative Salvador A. Pleyto asked about North-South Commuter Railway System (NSCR) status and right-of-way (ROW) for its stations. He referred to ₱123 billion for the full stretch and later asked whether ROW was included in a ₱150 billion figure; Undersecretary Timothy John Batan did not confirm either as the project's final total. Batan said NSCR ROW is funded through both the project's Government of the Philippines component line item and DOTr's own ROW line item. He reported 62% overall project progress: the first 35-kilometer, nine-station segment had 99% ROW acquisition and was scheduled to begin passenger operations in December 2027; the next 53-kilometer segment had 85% ROW acquisition, ongoing construction, and a 2028 train-service target; the southern segment toward Calamba had 64% ROW acquisition, with construction also underway. Batan estimated station land at roughly 10,000 square meters each. On feasibility studies, Pleyto asked about a $5 million amount he described as a grant. Batan said he was unsure whether it was the grant, suggesting it might instead refer to DOTr's project-development facility with the Asian Development Bank (ADB); he said master plans and feasibility studies were progressing under the facility and a grant. Pleyto then cited $3.8 million as remaining and asked whether the studies were complete. Secretary Giovanni Z. Lopez said DOTr would check which grant applied to the road component and explore funding feasible work from its current budget whether or not a grant was available, giving it priority.",
+          "citations": [
+            {
+              "stable_id": "asr-001747",
+              "start_seconds": 6604.33,
+              "clock": "01:50:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001747"
+            },
+            {
+              "stable_id": "asr-001751",
+              "start_seconds": 6613.07,
+              "clock": "01:50:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001751"
+            },
+            {
+              "stable_id": "asr-001755",
+              "start_seconds": 6621.29,
+              "clock": "01:50:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001755"
+            },
+            {
+              "stable_id": "asr-001803",
+              "start_seconds": 6751.55,
+              "clock": "01:52:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001803"
+            },
+            {
+              "stable_id": "asr-001805",
+              "start_seconds": 6757.91,
+              "clock": "01:52:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001805"
+            },
+            {
+              "stable_id": "asr-001808",
+              "start_seconds": 6774.71,
+              "clock": "01:52:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001808"
+            },
+            {
+              "stable_id": "asr-001812",
+              "start_seconds": 6794.49,
+              "clock": "01:53:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001812"
+            },
+            {
+              "stable_id": "asr-001813",
+              "start_seconds": 6798.81,
+              "clock": "01:53:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001813"
+            },
+            {
+              "stable_id": "asr-001815",
+              "start_seconds": 6809.19,
+              "clock": "01:53:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001815"
+            },
+            {
+              "stable_id": "asr-001824",
+              "start_seconds": 6852.55,
+              "clock": "01:54:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001824"
+            },
+            {
+              "stable_id": "asr-001836",
+              "start_seconds": 6899.1900000000005,
+              "clock": "01:54:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001836"
+            }
+          ]
+        },
+        {
+          "label": "Pleyto's support for increasing the DOTr budget",
+          "text": "At the close of his turn, Pleyto said he supported DOTr's proposed budget and asked the committee to increase it because the department and its agencies still had unmet needs. He did not name an amount, and no committee decision on an increase is recorded in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-001873",
+              "start_seconds": 7033.63,
+              "clock": "01:57:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001873"
+            }
+          ]
+        },
+        {
+          "label": "DOTr foreign-assisted projects, unprogrammed appropriations, and commitment fees",
+          "text": "Representative Dadah Kiram Ismula asked how many foreign-assisted DOTr projects were planned for 2027. Secretary Giovanni Z. Lopez named the North-South Commuter Railway and subway in rail, a Davao project in roads, Cebu BRT nearing completion with World Bank support, a Cebu maritime project with Export-Import Bank of Korea (KEXIM), and a Dumaguete aviation project. He estimated about six but cautioned that he might be wrong; Ismula said six to seven and Lopez agreed. Ismula asked whether commitment fees paid by taxpayers could be lost if projects did not proceed; Lopez confirmed fees are part of loan negotiations and the loan contracts. He said nearly all DOTr loan proceeds had an unprogrammed-appropriation component, and that foreign-assisted projects had been delayed when prior appropriations put nearly all funding in the unprogrammed category alongside other projects, reducing their priority and causing financing charges and work suspensions. Asked for the exact number and list of delayed projects from 2022 to the present, Lopez asked to submit exact figures within the day, which Ismula accepted; she later formally requested the complete project list, timelines, and financial details within the day or week. Ismula cited about PHP 308 million in DOTr commitment fees for 2024, which she attributed to Commission on Audit (COA), and asked for the 2025 amount. Lopez said the Department of Finance (DOF) pays commitment fees for DOTr projects and promised to coordinate and return with the amount. Ismula then cited a DOF-confirmed PHP 3.4 billion total paid from 2022 to the present for Department of Public Works and Highways (DPWH) and DOTr together, and about PHP 1.6 billion reported by the DPWH Secretary; she asked for DOTr's share. No DOTr-specific 2025 or 2022-to-present total is supplied in this unit.",
+          "citations": [
+            {
+              "stable_id": "asr-001894",
+              "start_seconds": 7140.6900000000005,
+              "clock": "01:59:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001894"
+            },
+            {
+              "stable_id": "asr-001908",
+              "start_seconds": 7184.93,
+              "clock": "01:59:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001908"
+            },
+            {
+              "stable_id": "asr-001914",
+              "start_seconds": 7223.8,
+              "clock": "02:00:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001914"
+            },
+            {
+              "stable_id": "asr-001934",
+              "start_seconds": 7332.96,
+              "clock": "02:02:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001934"
+            },
+            {
+              "stable_id": "asr-001936",
+              "start_seconds": 7344.14,
+              "clock": "02:02:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001936"
+            },
+            {
+              "stable_id": "asr-001940",
+              "start_seconds": 7378.2,
+              "clock": "02:02:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001940"
+            },
+            {
+              "stable_id": "asr-001941",
+              "start_seconds": 7386.7,
+              "clock": "02:03:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001941"
+            },
+            {
+              "stable_id": "asr-001942",
+              "start_seconds": 7398.3,
+              "clock": "02:03:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001942"
+            },
+            {
+              "stable_id": "asr-001951",
+              "start_seconds": 7466.51,
+              "clock": "02:04:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001951"
+            },
+            {
+              "stable_id": "asr-001952",
+              "start_seconds": 7472.49,
+              "clock": "02:04:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001952"
+            },
+            {
+              "stable_id": "asr-001953",
+              "start_seconds": 7478.71,
+              "clock": "02:04:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001953"
+            }
+          ]
+        },
+        {
+          "label": "DOTr proposed augmentation and Mindanao Railway Phase 3",
+          "text": "Rep. Rufus B. Rodriguez praised the DOTr presentation, then said he intended to move at the proper time for approval of its budget and proposed a single additional ₱30 billion as a lump-sum augmentation for unfunded projects. He said the money would support other priority projects identified by DOTr and attached agencies, including local counterpart funding for the Mindanao Railway and feasibility or project studies. He reiterated the ₱30 billion proposal, which remained pending at the end of his round.\n\nOn Mindanao Railway Phase 3, Rodriguez asked what steps DOTr had taken for the proposed Villanueva–Tagoloan–Cagayan de Oro–Laguindingan route. Secretary Giovanni Z. Lopez said the project’s pre-feasibility study was complete and DOTr was proceeding to a feasibility study using the PPDMF. He said DOTr continued to seek foreign-government financing for the wider Mindanao Rail project and planned to discuss funding during an upcoming trip with the President. Rodriguez welcomed the commitment and spoke of seeking foreign funders for the railway routes.",
+          "citations": [
+            {
+              "stable_id": "asr-002053",
+              "start_seconds": 8025.64,
+              "clock": "02:13:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002053"
+            },
+            {
+              "stable_id": "asr-002054",
+              "start_seconds": 8029.4400000000005,
+              "clock": "02:13:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002054"
+            },
+            {
+              "stable_id": "asr-002056",
+              "start_seconds": 8035.04,
+              "clock": "02:13:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002056"
+            },
+            {
+              "stable_id": "asr-002084",
+              "start_seconds": 8148.3,
+              "clock": "02:15:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002084"
+            },
+            {
+              "stable_id": "asr-002085",
+              "start_seconds": 8152.14,
+              "clock": "02:15:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002085"
+            },
+            {
+              "stable_id": "asr-002089",
+              "start_seconds": 8183.02,
+              "clock": "02:16:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002089"
+            },
+            {
+              "stable_id": "asr-002375",
+              "start_seconds": 8636.26,
+              "clock": "02:23:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002375"
+            }
+          ]
+        },
+        {
+          "label": "DPWH bridge study, DOTr railway study and port studies",
+          "text": "Rodriguez said a ₱450 million feasibility-study fund had been obtained through DPWH Secretary Vivencio B. Dizon for a bridge linking Mindanao and the Visayas, and urged DOTr to provide its own funding for a railway study alongside the bridge. Lopez said DPWH already had funding for its feasibility study and that DOTr would ask Congress to fund a separate study so the railway could be planned with the wider transport infrastructure. He described integrating roads, ports, railways and airports into an overall plan, and said DOTr had also sought assistance for port planning at Laguindingan.\n\nWhen Rodriguez asked about studies for ports in El Salvador, Laguindingan and Gusa, Lopez gave a ₱75 million figure per port study. He said the railway feasibility-study cost was not yet available, explaining that it would depend on the study’s length and scope. He did not provide a railway-study amount in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002103",
+              "start_seconds": 8245.66,
+              "clock": "02:17:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002103"
+            },
+            {
+              "stable_id": "asr-002104",
+              "start_seconds": 8252.46,
+              "clock": "02:17:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002104"
+            },
+            {
+              "stable_id": "asr-002119",
+              "start_seconds": 8313.78,
+              "clock": "02:18:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002119"
+            },
+            {
+              "stable_id": "asr-002220",
+              "start_seconds": 8431.34,
+              "clock": "02:20:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002220"
+            },
+            {
+              "stable_id": "asr-002223",
+              "start_seconds": 8434.7,
+              "clock": "02:20:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002223"
+            },
+            {
+              "stable_id": "asr-002224",
+              "start_seconds": 8435.7,
+              "clock": "02:20:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002224"
+            },
+            {
+              "stable_id": "asr-002232",
+              "start_seconds": 8442.98,
+              "clock": "02:20:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002232"
+            }
+          ]
+        },
+        {
+          "label": "MRT-3 maintenance financing and fare-discount subsidy",
+          "text": "Representative Antonio L. Tinio asked about the government-run MRT-3 after the concession expired, including the Japan loan for Sumitomo maintenance. Secretary Giovanni Z. Lopez put that maintenance financing at about PHP 35 billion. Tinio also asked how much government support covers the 50% passenger discount and whether it appears in the 2026 and proposed 2027 budgets. Lopez said the discount is treated as foregone fare revenue rather than a cash transfer to MRT-3, and he could not provide the requested subsidy totals in this exchange; he agreed to check. The exact 2026 and 2027 subsidy amounts therefore remain deferred.",
+          "citations": [
+            {
+              "stable_id": "asr-002415",
+              "start_seconds": 8709.82,
+              "clock": "02:25:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002415"
+            },
+            {
+              "stable_id": "asr-002426",
+              "start_seconds": 8723.36,
+              "clock": "02:25:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002426"
+            },
+            {
+              "stable_id": "asr-002445",
+              "start_seconds": 8747.66,
+              "clock": "02:25:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002445"
+            },
+            {
+              "stable_id": "asr-002481",
+              "start_seconds": 8799.1,
+              "clock": "02:26:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002481"
+            },
+            {
+              "stable_id": "asr-002521",
+              "start_seconds": 8839.54,
+              "clock": "02:27:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002521"
+            },
+            {
+              "stable_id": "asr-002555",
+              "start_seconds": 8874.24,
+              "clock": "02:27:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002555"
+            }
+          ]
+        },
+        {
+          "label": "MRT-7 right-of-way cost and alignment commitments",
+          "text": "Tinio asked about delayed MRT-7 opening and right-of-way costs and routing around San Jose del Monte and Tala. Lopez said the developer's catch-up plan targeted the 12th station for the second quarter of 2027, and that a San Jose del Monte right-of-way problem had been resolved the prior year. On cost, he stated that the original all-in estimate for right-of-way acquisition and related activities was PHP 1.5 billion and the current estimate was PHP 9.5 billion. He said SMC pays these costs and DOTr was receiving no funds for them at that point; the total covered all 14 stations, including resettlement. Tinio questioned the alignment and asked for maps and agreements. Rep. Edgar R. Erice interjected within Tinio's round, describing a local route and asking which properties would be acquired. Lopez said the described route was the former alignment, stated that the current alignment did not pass through the property raised, and promised to provide the detailed alignment after coordinating with SMC. The documents and maps remained pending in this exchange; the cited project cost is not a current government appropriation.",
+          "citations": [
+            {
+              "stable_id": "asr-002778",
+              "start_seconds": 9164.48,
+              "clock": "02:32:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002778"
+            },
+            {
+              "stable_id": "asr-002787",
+              "start_seconds": 9178.52,
+              "clock": "02:32:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002787"
+            },
+            {
+              "stable_id": "asr-002906",
+              "start_seconds": 9374.19,
+              "clock": "02:36:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002906"
+            },
+            {
+              "stable_id": "asr-002959",
+              "start_seconds": 9608.82,
+              "clock": "02:40:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002959"
+            },
+            {
+              "stable_id": "asr-003044",
+              "start_seconds": 9723.56,
+              "clock": "02:42:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003044"
+            },
+            {
+              "stable_id": "asr-003111",
+              "start_seconds": 9813.82,
+              "clock": "02:43:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003111"
+            },
+            {
+              "stable_id": "asr-002964",
+              "start_seconds": 9615.18,
+              "clock": "02:40:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002964"
+            },
+            {
+              "stable_id": "asr-002967",
+              "start_seconds": 9619.38,
+              "clock": "02:40:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002967"
+            },
+            {
+              "stable_id": "asr-002970",
+              "start_seconds": 9624.58,
+              "clock": "02:40:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002970"
+            },
+            {
+              "stable_id": "asr-002973",
+              "start_seconds": 9628.92,
+              "clock": "02:40:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002973"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 foreign-assisted project proposal and prior-year GAA reductions",
+          "text": "Tinio said the FY2027 foreign-assisted project (FAP) proposal totaled PHP 232 billion and asked whether the projects had perfected loan agreements. Lopez confirmed that the projects had executed loan agreements tied to specific projects and proceeds and were included in the NEP. Tinio cited historical NEP-to-GAA reductions, including PHP 122 billion in 2025 becoming PHP 20 billion in the GAA. Lopez confirmed reductions in FY2023, FY2024 and FY2025. Tinio argued that reducing GOP counterpart funds can delay loan-funded work because loan proceeds are project-bound and cannot simply finance unrelated projects. Lopez said removing counterpart funding can leave no funds for right-of-way or VAT, suspending work and increasing time and costs; he also described possible adjustments to the GAA, including unprogrammed funds, and said DOTr would implement the enacted budget. Tinio argued against cutting FAP and replacing it with insertions. He urged Congress to retain foreign-assisted project funding rather than redirecting the removed amounts to other projects.",
+          "citations": [
+            {
+              "stable_id": "asr-003197",
+              "start_seconds": 9919.74,
+              "clock": "02:45:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003197"
+            },
+            {
+              "stable_id": "asr-003207",
+              "start_seconds": 9940.94,
+              "clock": "02:45:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003207"
+            },
+            {
+              "stable_id": "asr-003242",
+              "start_seconds": 10017.36,
+              "clock": "02:46:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003242"
+            },
+            {
+              "stable_id": "asr-003244",
+              "start_seconds": 10021.56,
+              "clock": "02:47:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003244"
+            },
+            {
+              "stable_id": "asr-003255",
+              "start_seconds": 10044.52,
+              "clock": "02:47:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003255"
+            },
+            {
+              "stable_id": "asr-003273",
+              "start_seconds": 10084.54,
+              "clock": "02:48:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003273"
+            },
+            {
+              "stable_id": "asr-003318",
+              "start_seconds": 10175.96,
+              "clock": "02:49:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003318"
+            },
+            {
+              "stable_id": "asr-003396",
+              "start_seconds": 10299.9,
+              "clock": "02:51:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003396"
+            },
+            {
+              "stable_id": "asr-003243",
+              "start_seconds": 10020.1,
+              "clock": "02:47:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003243"
+            },
+            {
+              "stable_id": "asr-003200",
+              "start_seconds": 9925.24,
+              "clock": "02:45:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003200"
+            }
+          ]
+        },
+        {
+          "label": "DOTr budget execution and utilization",
+          "text": "Rep. Romeo S. Momo Sr. compared a ₱158 billion FY2025 DOTr budget with a later ₱396 billion budget figure, which he called almost double; the fiscal year of the latter figure was unclear. He said capital outlay was 81.9% of the whole budget and questioned absorptive capacity, citing 33.2% disbursement against 78.2% obligations for FY2025. Secretary Giovanni Z. Lopez gave department-wide FY2025 rates of 89.35% obligation and 56.94% disbursement. He explained that foreign-assisted DOTr projects, including the NSCR and subway, were not covered by regular NCA and instead used NCAA cash availment authority, which passed through the Bureau of the Treasury before reaching the offices that calculate disbursement. For July 2026, he cited DOTr-wide rates of 74.10% obligation and 56.18% disbursement. Momo and Lopez therefore cited different utilization figures and calculation bases; the exchange does not reconcile them into a single rate.",
+          "citations": [
+            {
+              "stable_id": "asr-003550",
+              "start_seconds": 10511.32,
+              "clock": "02:55:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003550"
+            },
+            {
+              "stable_id": "asr-003555",
+              "start_seconds": 10517.36,
+              "clock": "02:55:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003555"
+            },
+            {
+              "stable_id": "asr-003557",
+              "start_seconds": 10519.5,
+              "clock": "02:55:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003557"
+            },
+            {
+              "stable_id": "asr-003566",
+              "start_seconds": 10533.12,
+              "clock": "02:55:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003566"
+            },
+            {
+              "stable_id": "asr-003567",
+              "start_seconds": 10534.36,
+              "clock": "02:55:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003567"
+            },
+            {
+              "stable_id": "asr-003604",
+              "start_seconds": 10580.52,
+              "clock": "02:56:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003604"
+            },
+            {
+              "stable_id": "asr-003609",
+              "start_seconds": 10587.96,
+              "clock": "02:56:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003609"
+            },
+            {
+              "stable_id": "asr-003628",
+              "start_seconds": 10611.98,
+              "clock": "02:56:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003628"
+            },
+            {
+              "stable_id": "asr-003631",
+              "start_seconds": 10620.71,
+              "clock": "02:57:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003631"
+            },
+            {
+              "stable_id": "asr-003653",
+              "start_seconds": 10649.01,
+              "clock": "02:57:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003653"
+            },
+            {
+              "stable_id": "asr-003697",
+              "start_seconds": 10698.77,
+              "clock": "02:58:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003697"
+            },
+            {
+              "stable_id": "asr-003701",
+              "start_seconds": 10708.81,
+              "clock": "02:58:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003701"
+            }
+          ]
+        },
+        {
+          "label": "Caraga and Davao budget distribution",
+          "text": "For the FY2027 proposed budget, Momo said Caraga received only ₱159.6 million, about 0.1% of the budget, compared with Davao at ₱15.3 billion, or 5.1%, and asked DOTr to increase Caraga’s share. He noted that the region had ports and airports even without railway projects. Lopez acknowledged the concern, said DOTr submitted projects it considered priorities and that foreign-assisted projects were more often prioritized, and said the department tried to address GAA gaps through attached agency corporate operating budgets, including Philippine Ports Authority (PPA) and Civil Aviation Authority of the Philippines (CAAP).",
+          "citations": [
+            {
+              "stable_id": "asr-003748",
+              "start_seconds": 10761.61,
+              "clock": "02:59:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003748"
+            },
+            {
+              "stable_id": "asr-003757",
+              "start_seconds": 10770.53,
+              "clock": "02:59:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003757"
+            },
+            {
+              "stable_id": "asr-003758",
+              "start_seconds": 10772.99,
+              "clock": "02:59:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003758"
+            },
+            {
+              "stable_id": "asr-003760",
+              "start_seconds": 10774.83,
+              "clock": "02:59:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003760"
+            },
+            {
+              "stable_id": "asr-003769",
+              "start_seconds": 10783.95,
+              "clock": "02:59:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003769"
+            },
+            {
+              "stable_id": "asr-003770",
+              "start_seconds": 10784.99,
+              "clock": "02:59:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003770"
+            },
+            {
+              "stable_id": "asr-003772",
+              "start_seconds": 10786.65,
+              "clock": "02:59:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003772"
+            },
+            {
+              "stable_id": "asr-003785",
+              "start_seconds": 10815.74,
+              "clock": "03:00:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003785"
+            }
+          ]
+        },
+        {
+          "label": "Attached-agency dividend remittances",
+          "text": "Lopez said attached agencies remitted dividends to the government. He first recalled Manila International Airport Authority (MIAA) remitting about ₱12 billion, then corrected the figure to ₱7.5 billion. For PPA, he first said around three-point-something billion and then stated ₱5.2 billion. For CAAP, he gave about ₱1.2 billion. Lopez presented these remittances and attached-agency operating budgets as possible sources to help with port and airport funding gaps; these were corporate remittances, not DOTr appropriations.",
+          "citations": [
+            {
+              "stable_id": "asr-003790",
+              "start_seconds": 10856.26,
+              "clock": "03:00:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003790"
+            },
+            {
+              "stable_id": "asr-003791",
+              "start_seconds": 10872.14,
+              "clock": "03:01:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003791"
+            },
+            {
+              "stable_id": "asr-003793",
+              "start_seconds": 10882.2,
+              "clock": "03:01:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003793"
+            },
+            {
+              "stable_id": "asr-003794",
+              "start_seconds": 10886.26,
+              "clock": "03:01:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003794"
+            },
+            {
+              "stable_id": "asr-003795",
+              "start_seconds": 10896.24,
+              "clock": "03:01:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003795"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 EDSA busway station access request and NEP allocation",
+          "text": "Representative Edgar R. Erice asked whether the Monumento EDSA busway station could have an escalator for older passengers. Undersecretary Mark Steven C. Pastor said DOTr was rehabilitating the station and checking whether sidewalk space could fit an elevator in compliance with BP 344; the elevator was included in the rehabilitation, and Erice offered to help secure space. Pastor then said DOTr had requested PHP 1.7 billion for FY2027 development of 12 other stations, including elevators and man-lifts, but the busway received zero allocation in the FY2027 proposal. The request concerned station capital development.",
+          "citations": [
+            {
+              "stable_id": "asr-003951",
+              "start_seconds": 11402.4,
+              "clock": "03:10:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003951"
+            },
+            {
+              "stable_id": "asr-003963",
+              "start_seconds": 11421.93,
+              "clock": "03:10:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003963"
+            },
+            {
+              "stable_id": "asr-003986",
+              "start_seconds": 11471.69,
+              "clock": "03:11:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003986"
+            },
+            {
+              "stable_id": "asr-003988",
+              "start_seconds": 11475.51,
+              "clock": "03:11:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003988"
+            },
+            {
+              "stable_id": "asr-003989",
+              "start_seconds": 11477.89,
+              "clock": "03:11:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003989"
+            }
+          ]
+        },
+        {
+          "label": "Project-delay and appropriation reports before plenary",
+          "text": "Erice also requested a complete report before plenary on the Metro Manila Subway and Clark-to-Calamba elevated rail, including timelines, what had happened, and delay costs. Lopez said DOTr would comply. Erice further asked DOTr to identify projects that should be placed in programmed rather than unprogrammed appropriations; Lopez agreed to submit the department's experience. The reports remained pending.",
+          "citations": [
+            {
+              "stable_id": "asr-003993",
+              "start_seconds": 11482.67,
+              "clock": "03:11:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003993"
+            },
+            {
+              "stable_id": "asr-004004",
+              "start_seconds": 11504.91,
+              "clock": "03:11:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004004"
+            },
+            {
+              "stable_id": "asr-004014",
+              "start_seconds": 11518.75,
+              "clock": "03:11:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004014"
+            },
+            {
+              "stable_id": "asr-004025",
+              "start_seconds": 11540.35,
+              "clock": "03:12:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004025"
+            }
+          ]
+        },
+        {
+          "label": "Resettlement, compensation and local coordination",
+          "text": "Rep. Mark Anthony G. Santos said 50 National Housing Authority (NHA)-awarded families would be displaced or relocated again, asked that they receive enough time and fair-market-value compensation, and offered to coordinate an in-city socialized-housing option using an NHA budget he said was available, without identifying its location. Lopez cited 55 families beside the Villar property, said they should receive adequate time and any financial obligations required for relocation, and asked Santos to help. The two stated family counts differ and were not reconciled. Santos also asked that the local government join discussions to assure residents. No relocation schedule or compensation amount was set in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-004250",
+              "start_seconds": 12367.44,
+              "clock": "03:26:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004250"
+            },
+            {
+              "stable_id": "asr-004258",
+              "start_seconds": 12404.44,
+              "clock": "03:26:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004258"
+            },
+            {
+              "stable_id": "asr-004261",
+              "start_seconds": 12416.44,
+              "clock": "03:26:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004261"
+            },
+            {
+              "stable_id": "asr-004281",
+              "start_seconds": 12501.44,
+              "clock": "03:28:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004281"
+            },
+            {
+              "stable_id": "asr-004284",
+              "start_seconds": 12520.44,
+              "clock": "03:28:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004284"
+            },
+            {
+              "stable_id": "asr-004291",
+              "start_seconds": 12557.44,
+              "clock": "03:29:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004291"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-marina",
+      "label": "Maritime Industry Authority (MARINA) budget",
+      "items": [
+        {
+          "label": "MARINA vessel safety inspection and capacity needs",
+          "text": "The FY2027 MARINA NEP total and original agency request were not stated in this exchange. After commending the Coast Guard's investigation into the M/V Trisha Kerstin 3 incident and calling for preventive measures, Ismula asked MARINA Administrator Sonia B. Malaluan how much was allocated for 2027 vessel safety inspections, whether it was enough for the nationwide fleet, and what could address any gap. Malaluan said MOOE was sufficient so far, but MARINA needed additional personnel to improve maritime safety and had included continuing technical capacity-building in its Tier 2 proposal. She said its manpower proposal was under the government optimization plan and subject to DBM evaluation to strengthen regional offices, and appealed for the committee to consider the other Tier 2 proposal for 2027. The vessel-inspection allocation amount was not supplied. Ismula called for reforms to keep unseaworthy vessels from passing inspection and said she would continue monitoring MARINA's budget use, safety inspections, and compliance with international conventions.",
+          "citations": [
+            {
+              "stable_id": "asr-001993",
+              "start_seconds": 7724.17,
+              "clock": "02:08:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001993"
+            },
+            {
+              "stable_id": "asr-001998",
+              "start_seconds": 7754.24,
+              "clock": "02:09:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001998"
+            },
+            {
+              "stable_id": "asr-002001",
+              "start_seconds": 7773.9400000000005,
+              "clock": "02:09:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002001"
+            },
+            {
+              "stable_id": "asr-002007",
+              "start_seconds": 7816.1,
+              "clock": "02:10:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002007"
+            },
+            {
+              "stable_id": "asr-002013",
+              "start_seconds": 7856.4,
+              "clock": "02:10:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dotr-opening-remarks",
+      "label": "DOTr opening remarks",
+      "items": [
+        {
+          "label": "Management and presentation sequence",
+          "text": "DOTr Secretary Giovanni Z. Lopez said DOTr would present its accomplishments and its 2026 NEP, and reported that the COA had given the Department an unmodified opinion. He named Assistant Secretary Cecilia E. Bien to present the budget proposal, then sought permission to show an approximately 17-minute audiovisual presentation about the Department's work for the committee's scrutiny.",
+          "citations": [
+            {
+              "stable_id": "asr-000083",
+              "start_seconds": 1477.3,
+              "clock": "00:24:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000083"
+            },
+            {
+              "stable_id": "asr-000091",
+              "start_seconds": 1537.94,
+              "clock": "00:25:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000091"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dotr-program-presentation",
+      "label": "DOTr program presentation",
+      "items": [
+        {
+          "label": "Commuter programs and rail expansion",
+          "text": "The presentation video described fare discounts and free-ride and service-contracting initiatives, including support introduced in response to the Middle East crisis. It then highlighted rail projects: the Metro Manila Subway, the North-South Commuter Railway, MRT-7, rehabilitation of MRT-3, the Common Station connecting LRT-1, MRT-3 and MRT-7, the LRT-1 Cavite Extension, and the first phase of the Mindanao Railway. It cited projected travel-time and passenger-capacity improvements, and described right-of-way acquisition progress for major rail lines.",
+          "citations": [
+            {
+              "stable_id": "asr-000289",
+              "start_seconds": 2498.68,
+              "clock": "00:41:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000289"
+            },
+            {
+              "stable_id": "asr-000360",
+              "start_seconds": 2637.54,
+              "clock": "00:43:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000360"
+            },
+            {
+              "stable_id": "asr-000378",
+              "start_seconds": 2677.04,
+              "clock": "00:44:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000378"
+            },
+            {
+              "stable_id": "asr-000421",
+              "start_seconds": 2846.66,
+              "clock": "00:47:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000421"
+            }
+          ]
+        },
+        {
+          "label": "Road, aviation, ports and stewardship",
+          "text": "The video described DOTr road-modernization and active-transport efforts, including the Davao Public Transport Modernization Project, Cebu Bus Rapid Transit, transport hubs, the EDSA busway, and toll-road and expressway projects. It also reported completed and expanding airport facilities, public-private airport operations, and port modernization by the PPA, along with Coast Guard operations in the Kalayaan Island Group. The video closed by noting DOTr's unmodified COA opinion for FY2025.",
+          "citations": [
+            {
+              "stable_id": "asr-000425",
+              "start_seconds": 2885.48,
+              "clock": "00:48:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000425"
+            },
+            {
+              "stable_id": "asr-000432",
+              "start_seconds": 2907.48,
+              "clock": "00:48:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000432"
+            },
+            {
+              "stable_id": "asr-000450",
+              "start_seconds": 2974.48,
+              "clock": "00:49:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000450"
+            },
+            {
+              "stable_id": "asr-000482",
+              "start_seconds": 3110.26,
+              "clock": "00:51:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000482"
+            },
+            {
+              "stable_id": "asr-000512",
+              "start_seconds": 3297.0,
+              "clock": "00:54:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000512"
+            },
+            {
+              "stable_id": "asr-000543",
+              "start_seconds": 3456.1,
+              "clock": "00:57:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000543"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-priorities",
+      "label": "Opening priorities",
+      "items": [
+        {
+          "label": "Commuter impact and infrastructure scrutiny",
+          "text": "Rep. Edwin Ongchuan, who opened the deliberation, called for scrutiny of whether transport investments align with long-term mobility goals and address congestion, safety, accessibility, and the daily needs of commuters, workers, and communities. He invited DOTr to present its proposal and members to examine its impact on ordinary Filipinos.",
+          "citations": [
+            {
+              "stable_id": "asr-000061",
+              "start_seconds": 1345.18,
+              "clock": "00:22:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000061"
+            },
+            {
+              "stable_id": "asr-000063",
+              "start_seconds": 1363.37,
+              "clock": "00:22:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000063"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-percival-perci-cenda-a",
+      "label": "Rep. Percival \"Perci\" Cendaña",
+      "items": [
+        {
+          "label": "NLEX flooding, toll response, and driver relief",
+          "text": "Cendaña described being stranded overnight on NLEX during flooding around Valenzuela and Meycauayan and asked what immediate relief and longer-term prevention were planned. Lopez said Toll Regulatory Board (TRB) had directed NLEX to explain what happened and what measures it was taking; DOTr was considering reimbursement for motorists affected by the August 31 traffic. He attributed the disruption to flooding and rain, including rising Pampanga River water and releases from Pantabangan Dam, and said inspections and works such as dredging, sheet piling, and drainage repairs were needed. Asked why toll collection continued for more than 24 hours before suspension, Lopez said the Toll Operations Agreement required a process; the affected motorists might need reimbursement rather than a toll holiday. He then said DOTr and NLEX had agreed to a toll holiday until the problem was fixed, as a corporate-social-responsibility measure and not an admission of NLEX liability. Lopez also said DOTr had asked NLEX to consider making the Pulilan–San Fernando segment toll-free in both directions, provide water and portable toilets for motorists, and have toll operators text RFID holders when conditions called for alternative routes. No final TRB finding or reimbursement outcome is reported in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-000583",
+              "start_seconds": 3657.43,
+              "clock": "01:00:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000583"
+            },
+            {
+              "stable_id": "asr-000587",
+              "start_seconds": 3673.17,
+              "clock": "01:01:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000587"
+            },
+            {
+              "stable_id": "asr-000588",
+              "start_seconds": 3677.91,
+              "clock": "01:01:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000588"
+            },
+            {
+              "stable_id": "asr-000604",
+              "start_seconds": 3753.81,
+              "clock": "01:02:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000604"
+            },
+            {
+              "stable_id": "asr-000605",
+              "start_seconds": 3759.17,
+              "clock": "01:02:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000605"
+            },
+            {
+              "stable_id": "asr-000606",
+              "start_seconds": 3764.21,
+              "clock": "01:02:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000606"
+            },
+            {
+              "stable_id": "asr-000612",
+              "start_seconds": 3802.45,
+              "clock": "01:03:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000612"
+            },
+            {
+              "stable_id": "asr-000613",
+              "start_seconds": 3806.25,
+              "clock": "01:03:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000613"
+            },
+            {
+              "stable_id": "asr-000616",
+              "start_seconds": 3826.23,
+              "clock": "01:03:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000616"
+            },
+            {
+              "stable_id": "asr-000620",
+              "start_seconds": 3855.71,
+              "clock": "01:04:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000620"
+            },
+            {
+              "stable_id": "asr-000623",
+              "start_seconds": 3872.37,
+              "clock": "01:04:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000623"
+            },
+            {
+              "stable_id": "asr-000626",
+              "start_seconds": 3896.25,
+              "clock": "01:04:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000626"
+            },
+            {
+              "stable_id": "asr-000631",
+              "start_seconds": 3932.41,
+              "clock": "01:05:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000631"
+            },
+            {
+              "stable_id": "asr-000632",
+              "start_seconds": 3937.13,
+              "clock": "01:05:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000632"
+            },
+            {
+              "stable_id": "asr-000634",
+              "start_seconds": 3944.4700000000003,
+              "clock": "01:05:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000634"
+            },
+            {
+              "stable_id": "asr-000639",
+              "start_seconds": 3971.21,
+              "clock": "01:06:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000639"
+            },
+            {
+              "stable_id": "asr-000643",
+              "start_seconds": 3987.45,
+              "clock": "01:06:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000643"
+            },
+            {
+              "stable_id": "asr-000647",
+              "start_seconds": 4002.5299999999997,
+              "clock": "01:06:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000647"
+            },
+            {
+              "stable_id": "asr-000666",
+              "start_seconds": 4065.61,
+              "clock": "01:07:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000666"
+            },
+            {
+              "stable_id": "asr-000669",
+              "start_seconds": 4083.61,
+              "clock": "01:08:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000669"
+            },
+            {
+              "stable_id": "asr-000670",
+              "start_seconds": 4088.61,
+              "clock": "01:08:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000670"
+            }
+          ]
+        },
+        {
+          "label": "MRT 7 opening, common-station connection, and capacity",
+          "text": "Cendaña asked whether MRT 7 would open in 2027. Lopez said 12 stations from Sacred Heart to North Avenue were to begin revenue operations in the second quarter of 2027; the line had 14 stations, with the 13th and 14th at Caloocan and San Jose del Monte still remaining. Cendaña raised crowding where MRT 7 riders would connect with MRT 3 at the common station. Lopez said the station’s platform and concourse were complete and described a dedicated route through Trinoma, while the common-station signaling was expected to be partially operational in the first quarter of 2028. With MRT 3 averaging 500,000 daily riders, Lopez pointed to a new Quezon Avenue Station barrier as a model for other stations, continued station and railcar rehabilitation, and maintaining train headways with maintenance provider Sumitomo. Cendaña closed by urging DOTr to run enough trips to prevent passengers from crowding at the common station.",
+          "citations": [
+            {
+              "stable_id": "asr-000982",
+              "start_seconds": 4903.46,
+              "clock": "01:21:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000982"
+            },
+            {
+              "stable_id": "asr-000989",
+              "start_seconds": 4917.0,
+              "clock": "01:21:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000989"
+            },
+            {
+              "stable_id": "asr-000995",
+              "start_seconds": 4928.98,
+              "clock": "01:22:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000995"
+            },
+            {
+              "stable_id": "asr-000998",
+              "start_seconds": 4935.38,
+              "clock": "01:22:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-000998"
+            },
+            {
+              "stable_id": "asr-001000",
+              "start_seconds": 4938.96,
+              "clock": "01:22:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001000"
+            },
+            {
+              "stable_id": "asr-001010",
+              "start_seconds": 4959.38,
+              "clock": "01:22:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001010"
+            },
+            {
+              "stable_id": "asr-001019",
+              "start_seconds": 4978.26,
+              "clock": "01:22:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001019"
+            },
+            {
+              "stable_id": "asr-001024",
+              "start_seconds": 4987.3,
+              "clock": "01:23:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001024"
+            },
+            {
+              "stable_id": "asr-001036",
+              "start_seconds": 5012.38,
+              "clock": "01:23:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001036"
+            },
+            {
+              "stable_id": "asr-001040",
+              "start_seconds": 5019.0,
+              "clock": "01:23:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001040"
+            },
+            {
+              "stable_id": "asr-001060",
+              "start_seconds": 5059.34,
+              "clock": "01:24:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001060"
+            },
+            {
+              "stable_id": "asr-001075",
+              "start_seconds": 5089.32,
+              "clock": "01:24:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001075"
+            },
+            {
+              "stable_id": "asr-001082",
+              "start_seconds": 5103.02,
+              "clock": "01:25:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001082"
+            },
+            {
+              "stable_id": "asr-001087",
+              "start_seconds": 5113.18,
+              "clock": "01:25:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001087"
+            },
+            {
+              "stable_id": "asr-001091",
+              "start_seconds": 5121.18,
+              "clock": "01:25:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001091"
+            },
+            {
+              "stable_id": "asr-001105",
+              "start_seconds": 5149.04,
+              "clock": "01:25:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001105"
+            },
+            {
+              "stable_id": "asr-001108",
+              "start_seconds": 5154.98,
+              "clock": "01:25:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001108"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-elijah-rumbaoa-san-fernando",
+      "label": "Rep. Elijah Rumbaoa San Fernando",
+      "items": [
+        {
+          "label": "MRT-3 safety and employee complaints",
+          "text": "Rep. Elijah Rumbaoa San Fernando said he had asked why the MRT-3 general manager was absent; Secretary Giovanni Z. Lopez said he had been told the general manager was on medical leave and would obtain the exact information about the procedure. Rep. Elijah San Fernando then described a February 3, 2026 letter raising safety and labor concerns. He alleged that bypassing automatic train protection at the MRT-3 North Turnback could compromise four-car trains passing through, and said engineers, train operators and managers had faced retaliatory actions, including dismissals, after raising concerns. He said they had requested an investigation of the matter and sought an update, noting seven months had passed since the letter and five months since Lopez had said he would investigate.\n\nLopez separated the safety question from the employee complaints. He said three foreign experts—Sumitomo, Rylan and Sistra—had found no such safety issue, and characterized the trains as safe. He cited average daily MRT-3 ridership of 500,000 and said claims that the railway was unsafe were irresponsible. On the employee matter, Lopez said the department’s ISLES was investigating General Manager Mike Kapati and that a case involving MRT-3 employees was before the Civil Service Commission (CSC). He said initial findings were not final, so he would not disclose them; he would defer to the CSC, implement its resolution and furnish the committee a copy of the action taken. He said the department’s legal office was providing what the CSC required and promised there would be no whitewash or cover-up.",
+          "citations": [
+            {
+              "stable_id": "asr-001228",
+              "start_seconds": 5401.8,
+              "clock": "01:30:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001228"
+            },
+            {
+              "stable_id": "asr-001229",
+              "start_seconds": 5406.68,
+              "clock": "01:30:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001229"
+            },
+            {
+              "stable_id": "asr-001243",
+              "start_seconds": 5480.28,
+              "clock": "01:31:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001243"
+            },
+            {
+              "stable_id": "asr-001252",
+              "start_seconds": 5521.4,
+              "clock": "01:32:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001252"
+            },
+            {
+              "stable_id": "asr-001260",
+              "start_seconds": 5550.16,
+              "clock": "01:32:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001260"
+            },
+            {
+              "stable_id": "asr-001284",
+              "start_seconds": 5623.26,
+              "clock": "01:33:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001284"
+            },
+            {
+              "stable_id": "asr-001295",
+              "start_seconds": 5661.06,
+              "clock": "01:34:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001295"
+            },
+            {
+              "stable_id": "asr-001334",
+              "start_seconds": 5761.24,
+              "clock": "01:36:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001334"
+            },
+            {
+              "stable_id": "asr-001205",
+              "start_seconds": 5357.02,
+              "clock": "01:29:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001205"
+            }
+          ]
+        },
+        {
+          "label": "LTFRB Region 3 hearing-officer complaints and response",
+          "text": "San Fernando raised a separate complaint filed by Mar Valbuena of Manibela involving LTFRB Region 3 hearing officer Atty. Jennifer Rodriguez. He alleged she imposed additional requirements on Manibela and fined it ₱40,000 on the same day for failing to submit them. He also cited an earlier similar complaint and alleged that Rodriguez referred franchise applicants to a private lawyer who was her sibling and had an office opposite the LTFRB. He raised possible collusion and conflict of interest, and said a February 19, 2026 regional director memorandum had referred disciplinary authority over the matter to the Secretary. He asked what corrective action DOTr had taken and what had happened to the memorandum.\n\nLopez said this was his first time hearing the specific complaint. He said disciplinary authority over appointed regional directors rested with the appointing authority, but that a hearing officer fell under LTFRB rather than the Office of the Secretary; he deferred to LTFRB Board Member Atty. Greg G. Pua Jr. Pua said Rodriguez had received and answered a notice to explain before the Manibela complaint, and had again been asked to explain after it was filed. The matter remained pending before the LTFRB disciplinary board. Pua said the LTFRB chair had ordered Rodriguez transferred to the central office, but she appealed to the CSC, so the transfer was not yet executory. While that appeal remained pending, Pua said the regional director had been instructed not to assign her hearings; he believed she was no longer doing work in the regional office. He said complaints from transport groups continued and the LTFRB was pursuing the cases. Pua added that the board had filed its comment with the CSC to help resolve the appeal and have Rodriguez report to the central office rather than Region 3.\n\nRep. Elijah San Fernando pressed Lopez on whether the LTFRB was following through while the transfer was appealed. He also alleged Rodriguez had texted complainants and said she did not care whom they contacted. He thanked the Secretary for hearing the matter and said he wanted such alleged conduct prevented because workers and the public were affected.",
+          "citations": [
+            {
+              "stable_id": "asr-001356",
+              "start_seconds": 5807.12,
+              "clock": "01:36:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001356"
+            },
+            {
+              "stable_id": "asr-001366",
+              "start_seconds": 5828.78,
+              "clock": "01:37:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001366"
+            },
+            {
+              "stable_id": "asr-001406",
+              "start_seconds": 5916.36,
+              "clock": "01:38:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001406"
+            },
+            {
+              "stable_id": "asr-001415",
+              "start_seconds": 5932.2,
+              "clock": "01:38:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001415"
+            },
+            {
+              "stable_id": "asr-001444",
+              "start_seconds": 5985.46,
+              "clock": "01:39:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001444"
+            },
+            {
+              "stable_id": "asr-001451",
+              "start_seconds": 6004.88,
+              "clock": "01:40:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001451"
+            },
+            {
+              "stable_id": "asr-001464",
+              "start_seconds": 6028.88,
+              "clock": "01:40:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001464"
+            },
+            {
+              "stable_id": "asr-001469",
+              "start_seconds": 6038.72,
+              "clock": "01:40:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001469"
+            },
+            {
+              "stable_id": "asr-001499",
+              "start_seconds": 6101.04,
+              "clock": "01:41:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001499"
+            },
+            {
+              "stable_id": "asr-001502",
+              "start_seconds": 6106.98,
+              "clock": "01:41:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001502"
+            },
+            {
+              "stable_id": "asr-001509",
+              "start_seconds": 6121.08,
+              "clock": "01:42:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001509"
+            },
+            {
+              "stable_id": "asr-001515",
+              "start_seconds": 6132.86,
+              "clock": "01:42:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001515"
+            },
+            {
+              "stable_id": "asr-001527",
+              "start_seconds": 6156.68,
+              "clock": "01:42:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001527"
+            },
+            {
+              "stable_id": "asr-001493",
+              "start_seconds": 6089.34,
+              "clock": "01:41:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001493"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-salvador-a-pleyto",
+      "label": "Rep. Salvador A. Pleyto",
+      "items": [
+        {
+          "label": "NLEX flood advisories and early-warning communication",
+          "text": "Pleyto recalled a previous severe-weather incident that left motorists stranded before entering NLEX and asked what was being done to prevent a repeat, citing concerns about early-warning protocols. NLEX Traffic Operations representative Robin Ignacio acknowledged that NLEX's communication had been insufficient, while saying advisories had begun on August 28 through social media, variable-message signs, and media interviews. He urged motorists to check advisories and prepare for travel. Pleyto thanked him and asked that the incident not recur.",
+          "citations": [
+            {
+              "stable_id": "asr-001609",
+              "start_seconds": 6318.38,
+              "clock": "01:45:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001609"
+            },
+            {
+              "stable_id": "asr-001632",
+              "start_seconds": 6366.46,
+              "clock": "01:46:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001632"
+            }
+          ]
+        },
+        {
+          "label": "MRT 7 stations and the road component",
+          "text": "Pleyto asked when the MRT 7 connection from Trinoma toward Sacred Heart and the full line to San Jose del Monte would be completed, including its road component. Lopez said the 13th and 14th stations would not be included in the second-quarter 2027 opening segment; he hoped those stations, including San Jose del Monte, would be completed by 2028, after which the concession also required a 23-kilometer road component through Bulacan municipalities. Pleyto described the proposed six-lane route from San Jose del Monte through Santa Maria and Bocaue to NLEX at Balagtas.",
+          "citations": [
+            {
+              "stable_id": "asr-001694",
+              "start_seconds": 6497.91,
+              "clock": "01:48:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001694"
+            },
+            {
+              "stable_id": "asr-001702",
+              "start_seconds": 6514.19,
+              "clock": "01:48:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001702"
+            }
+          ]
+        },
+        {
+          "label": "Santa Maria-Norzagaray road congestion and connectivity",
+          "text": "Pleyto asked DOTr to inspect and help address severe congestion on national roads serving Santa Maria and running toward Norzagaray, which he said also affected nearby legislative districts. Lopez said DOTr would work on the MRT 7 road component and coordinate with the DPWH if needed to improve constituents' connectivity and mobility.",
+          "citations": [
+            {
+              "stable_id": "asr-001854",
+              "start_seconds": 6953.1900000000005,
+              "clock": "01:55:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001854"
+            },
+            {
+              "stable_id": "asr-001868",
+              "start_seconds": 7006.6900000000005,
+              "clock": "01:56:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001868"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-dadah-kiram-ismula",
+      "label": "Rep. Dadah Kiram Ismula",
+      "items": [
+        {
+          "label": "Zamboanga port passenger terminal contract and rebid",
+          "text": "Ismula asked whether the PPA had penalized MAC Builders after terminating its delayed Zamboanga City Port passenger-terminal contract. PPA General Manager Jay Daniel R. Santiago said the contract had been terminated; an assessment put the contractor's accomplishment at about 52%, while PPA had paid 18% and stopped further payments. He did not state a separate penalty amount or disposition. PPA was scheduling reconstruction; Santiago said higher material and project costs had slowed the work, but PPA expected to rebid, award, and restart the project before the end of 2026. He expected the terminal to be in use before the President left office in 2028, serving Zamboanga, Basilan, and Sulu.",
+          "citations": [
+            {
+              "stable_id": "asr-001956",
+              "start_seconds": 7489.35,
+              "clock": "02:04:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001956"
+            },
+            {
+              "stable_id": "asr-001964",
+              "start_seconds": 7532.81,
+              "clock": "02:05:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001964"
+            },
+            {
+              "stable_id": "asr-001967",
+              "start_seconds": 7550.69,
+              "clock": "02:05:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001967"
+            },
+            {
+              "stable_id": "asr-001968",
+              "start_seconds": 7556.83,
+              "clock": "02:05:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001968"
+            },
+            {
+              "stable_id": "asr-001979",
+              "start_seconds": 7624.03,
+              "clock": "02:07:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001979"
+            },
+            {
+              "stable_id": "asr-001981",
+              "start_seconds": 7640.89,
+              "clock": "02:07:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-001981"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-antonio-l-tinio",
+      "label": "Rep. Antonio L. Tinio",
+      "items": [
+        {
+          "label": "MRT-3 operations and proposed public-private partnership",
+          "text": "After Tinio asked why the government would consider a private operator for MRT-3, Lopez said he favored a private partner on fair terms, citing specialized operations and reduced government process; he said a private partner would pay the government. The proposal was still at market-sounding stage, with no bidding or finalized concession agreement. Tinio opposed the proposed private operation, warning that a new operator could increase fares. Lopez said the exact fare change could not yet be stated and that affordability would guide the process.",
+          "citations": [
+            {
+              "stable_id": "asr-002566",
+              "start_seconds": 8887.22,
+              "clock": "02:28:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002566"
+            },
+            {
+              "stable_id": "asr-002581",
+              "start_seconds": 8904.88,
+              "clock": "02:28:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002581"
+            },
+            {
+              "stable_id": "asr-002753",
+              "start_seconds": 9126.28,
+              "clock": "02:32:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002753"
+            },
+            {
+              "stable_id": "asr-002760",
+              "start_seconds": 9136.3,
+              "clock": "02:32:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-002760"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-romeo-s-momo-sr",
+      "label": "Rep. Romeo S. Momo Sr.",
+      "items": [
+        {
+          "label": "Tandag Airport completion and turnover",
+          "text": "Momo said Tandag Airport appeared 97–98% complete and asked when the contractor would turn it over so airlines could be approached about service to Surigao del Sur. CAAP Assistant Director General Valentino A. Dionela described ongoing works on a seven-story control tower, apron expansion, strip-grade corrections and perimeter fencing, and said full inspections were needed before handover. He gave an end-of-2026 target for completing the vertical structures. Momo said he expected completion within the month, urged the agency to speed up, and said contractors had waited a long time for payment; citing a 7% disbursement/absorptive-capacity figure, he asked whether paying them would improve disbursement. Dionela said CAAP would revisit and evaluate overall project accomplishments. No earlier turnover date or immediate payment commitment was given by the agency.",
+          "citations": [
+            {
+              "stable_id": "asr-003799",
+              "start_seconds": 10911.98,
+              "clock": "03:01:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003799"
+            },
+            {
+              "stable_id": "asr-003802",
+              "start_seconds": 10922.08,
+              "clock": "03:02:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003802"
+            },
+            {
+              "stable_id": "asr-003804",
+              "start_seconds": 10933.64,
+              "clock": "03:02:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003804"
+            },
+            {
+              "stable_id": "asr-003823",
+              "start_seconds": 11044.13,
+              "clock": "03:04:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003823"
+            },
+            {
+              "stable_id": "asr-003843",
+              "start_seconds": 11126.43,
+              "clock": "03:05:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003843"
+            },
+            {
+              "stable_id": "asr-003856",
+              "start_seconds": 11168.1,
+              "clock": "03:06:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003856"
+            }
+          ]
+        },
+        {
+          "label": "Cagwait Port inspection and possible 2027 work",
+          "text": "Momo asked DOTr and PPA to inspect and improve Cagwait Port in Surigao del Sur, describing it as the only port in his district for goods moving to Manila and Cebu. PPA General Manager Jay Daniel R. Santiago said PPA was focused on Surigao del Norte and Surigao del Sur and would continue developing ports in Caraga. After Momo clarified Cagwait’s importance, Santiago agreed to arrange an inspection to determine what work was needed and said appropriate work could be included in the 2027 program. Inclusion was conditional on the inspection findings.",
+          "citations": [
+            {
+              "stable_id": "asr-003862",
+              "start_seconds": 11190.28,
+              "clock": "03:06:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003862"
+            },
+            {
+              "stable_id": "asr-003869",
+              "start_seconds": 11222.6,
+              "clock": "03:07:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003869"
+            },
+            {
+              "stable_id": "asr-003885",
+              "start_seconds": 11260.98,
+              "clock": "03:07:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003885"
+            },
+            {
+              "stable_id": "asr-003887",
+              "start_seconds": 11266.98,
+              "clock": "03:07:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003887"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-edgar-r-erice",
+      "label": "Rep. Edgar R. Erice",
+      "items": [
+        {
+          "label": "Caloocan Skyway-space proposal",
+          "text": "Erice proposed that Caloocan develop unused spaces under the Skyway as parks and parking areas through a usufruct arrangement with the local government. Secretary Giovanni Z. Lopez agreed that DOTr could work with local governments on such spaces and said he would address the Caloocan proposal with the TRB.",
+          "citations": [
+            {
+              "stable_id": "asr-003905",
+              "start_seconds": 11307.94,
+              "clock": "03:08:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003905"
+            },
+            {
+              "stable_id": "asr-003923",
+              "start_seconds": 11352.32,
+              "clock": "03:09:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003923"
+            },
+            {
+              "stable_id": "asr-003948",
+              "start_seconds": 11398.92,
+              "clock": "03:09:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-003948"
+            }
+          ]
+        },
+        {
+          "label": "E-trike franchise, registration and safety guidelines",
+          "text": "Erice said unregistered e-trikes serve urban areas and narrow roads and leave drivers vulnerable to enforcement, and asked for clear DOTr guidelines so local governments can grant franchises and operators can obtain registration. Lopez said tricycles fall within local-government jurisdiction, while DOTr must coordinate the Local Government Code with EVIDA. He said the department planned to issue an order in the coming days, with an initial draft underway, to regulate e-trikes used for passengers or on national highways, including driver licensing and roadworthiness. Erice asked that eligible vehicles receive LTO registration to give local franchises a legal basis; Lopez agreed and said the road sector was drafting registration and driver-licensing guidance. The proposed order and guidance were not yet issued in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-004046",
+              "start_seconds": 11573.61,
+              "clock": "03:12:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004046"
+            },
+            {
+              "stable_id": "asr-004073",
+              "start_seconds": 11617.65,
+              "clock": "03:13:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004073"
+            },
+            {
+              "stable_id": "asr-004102",
+              "start_seconds": 11663.61,
+              "clock": "03:14:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004102"
+            },
+            {
+              "stable_id": "asr-004126",
+              "start_seconds": 11707.34,
+              "clock": "03:15:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004126"
+            },
+            {
+              "stable_id": "asr-004139",
+              "start_seconds": 11821.76,
+              "clock": "03:17:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004139"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-mark-anthony-g-santos",
+      "label": "Rep. Mark Anthony G. Santos",
+      "items": [
+        {
+          "label": "Villar MOA and pending property release",
+          "text": "Rep. Mark Anthony G. Santos asked whether the announced Memorandum of Agreement (MOA) signing among DOTr, the Villar Group, LRTA and LRMC had occurred, and requested a copy or an explanation for delay. Secretary Giovanni Z. Lopez confirmed his earlier announcement that signing was expected in August or by September and deferred to LRTA Administrator Atty. Hernando T. Cabrera. Cabrera said LRTA had met Villar Group officials the prior week and was awaiting formal release of two mortgaged properties. Villar had offered a substitute property for the two mortgaged properties, but approval and formal release were still pending; Cabrera said he was confident release could occur within September and that Villar was willing to sign. The signing had not yet been scheduled because of the budget hearings and recent habagat. The MOA was to include government permission to enter, allowing use of the land 30 days after signing.",
+          "citations": [
+            {
+              "stable_id": "asr-004150",
+              "start_seconds": 11906.08,
+              "clock": "03:18:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004150"
+            },
+            {
+              "stable_id": "asr-004156",
+              "start_seconds": 11956.46,
+              "clock": "03:19:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004156"
+            },
+            {
+              "stable_id": "asr-004164",
+              "start_seconds": 11996.08,
+              "clock": "03:19:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004164"
+            },
+            {
+              "stable_id": "asr-004172",
+              "start_seconds": 12036.6,
+              "clock": "03:20:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004172"
+            }
+          ]
+        },
+        {
+          "label": "Remaining right-of-way steps and construction timeline",
+          "text": "Santos asked what conditions and documents remained before the Las Piñas Station land could be turned over. Cabrera said the MOA would include permission to enter the Villar properties, while additional permits were needed for other lots; LRTA was pursuing negotiated procurement, entry permits and demolition of structures before turnover to the concessionaire. When Santos asked whether all right-of-way issues were resolved, Cabrera said the discussions and project-management report showed no technical or financial issue blocking the station location, but the mortgaged-property release still awaited formal approval and other entry, procurement and demolition steps remained.\n\nAsked for an exact construction start date, Cabrera said it still needed calibration after documentation, permits, demolition and procurement. He estimated nearly three years or more for the station, including property acquisition and demolition, design by LRMC and construction by its contractor. Lopez said his target was to enter the property in the first week of September; he had a commitment to complete signing that month and said LRMC could begin earthworks once it had the permit to enter. He did not give an exact construction start or completion date. His commitment to proceed with Las Piñas, Zapote and onward to Cavite was conditional on formal documentation, including a deed of donation.",
+          "citations": [
+            {
+              "stable_id": "asr-004175",
+              "start_seconds": 12044.1,
+              "clock": "03:20:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004175"
+            },
+            {
+              "stable_id": "asr-004177",
+              "start_seconds": 12054.96,
+              "clock": "03:20:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004177"
+            },
+            {
+              "stable_id": "asr-004202",
+              "start_seconds": 12179.9,
+              "clock": "03:22:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004202"
+            },
+            {
+              "stable_id": "asr-004214",
+              "start_seconds": 12216.22,
+              "clock": "03:23:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004214"
+            },
+            {
+              "stable_id": "asr-004230",
+              "start_seconds": 12272.44,
+              "clock": "03:24:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004230"
+            },
+            {
+              "stable_id": "asr-004244",
+              "start_seconds": 12335.44,
+              "clock": "03:25:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004244"
+            },
+            {
+              "stable_id": "asr-004288",
+              "start_seconds": 12542.44,
+              "clock": "03:29:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004288"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-lunch-suspension",
+      "label": "Lunch suspension",
+      "items": [
+        {
+          "label": "One-hour lunch-break suspension",
+          "text": "Rep. Edwin Ongchuan thanked Rep. Mark Anthony G. Santos and suspended proceedings for a one-hour lunch break.",
+          "citations": [
+            {
+              "stable_id": "asr-004299",
+              "start_seconds": 12595.44,
+              "clock": "03:29:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/30/#asr-004299"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

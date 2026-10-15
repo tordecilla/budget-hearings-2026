@@ -1,0 +1,1061 @@
+{
+  "hearing": {
+    "hearing_id": 55,
+    "title": "Senate Committee on Finance: CFO and PRA - September 22, 2026",
+    "hearing_date": "2026-09-22",
+    "official_url": "https://www.youtube.com/watch?v=XW3lDBOLKsI"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h55/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Diaspora engagement",
+      "text": "The Commission on Filipinos Overseas (CFO) described services for migrants and programs that connect overseas Filipinos and younger generations with Philippine communities, culture and development. Senators supported a broader diaspora focus and asked how programs could encourage people to return and contribute.",
+      "citations": []
+    },
+    {
+      "label": "Exhibition center and development",
+      "text": "The Philippine Reclamation Authority (PRA) presented the Philippine International Exhibition Center (PIEC) as a convention, exhibition and trade venue within a larger coastal development supported by private-sector infrastructure. Members asked about the venue's competitiveness, operating needs, public value and funding schedule.",
+      "citations": []
+    },
+    {
+      "label": "Reclamation oversight",
+      "text": "Questions examined when PRA approval is required, whether public works meet the reclamation definition, and how PRA and the Laguna Lake Development Authority (LLDA) share authority. Members challenged differences in enforcement around Taguig and the Laguna Lakeshore Road Network; the competing jurisdictional interpretations remained unresolved.",
+      "citations": []
+    },
+    {
+      "label": "Follow-up and budget status",
+      "text": "The PRA agreed to a coordination meeting involving relevant agencies and local participants. Both agency budgets remained subject to further discussion and requested submissions for consideration; no appropriation was approved in the hearing.",
+      "citations": []
+    }
+  ],
+  "method_note": "Figures retain their fiscal year and scope. Projections and disputed positions are attributed to speakers. Follow the timestamps to the reviewed transcript and official video.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Commission on Filipinos Overseas (CFO)",
+          "text": "For FY2027, the CFO's National Expenditure Program (NEP) allocation is P195.2 million. The hearing did not state the original consolidated request to the Department of Budget and Management (DBM), so a whole-agency request-to-NEP comparison is unavailable.",
+          "citations": [
+            {
+              "stable_id": "asr-000256",
+              "start_seconds": 4629.36,
+              "clock": "01:17:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000256"
+            }
+          ]
+        },
+        {
+          "label": "Philippine Reclamation Authority (PRA)",
+          "text": "For FY2027, the P5 billion request was for the Philippine International Exhibition Center (PIEC) building alone, as a project-specific subsidy to pass through the PRA. It does not represent the PRA's full operating budget or assets. The hearing does not supply a comparable agency-wide NEP allocation and original DBM request.",
+          "citations": [
+            {
+              "stable_id": "asr-001019",
+              "start_seconds": 7744.92,
+              "clock": "02:09:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-commission-on-filipinos-overseas",
+      "label": "Commission on Filipinos Overseas budget",
+      "items": [
+        {
+          "label": "FY2027 proposed budget and composition",
+          "text": "The FY2027 CFO allocation comprises P93.898 million (48%) for personnel services and P101.302 million (52%) for maintenance and other operating expenses. CFO Chairperson Dante Francis M. Ang II also identified P73.26 million for general administration and support, a program category within the allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-000257",
+              "start_seconds": 4640.72,
+              "clock": "01:17:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000257"
+            },
+            {
+              "stable_id": "asr-000258",
+              "start_seconds": 4642.4,
+              "clock": "01:17:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000258"
+            },
+            {
+              "stable_id": "asr-000261",
+              "start_seconds": 4659.6,
+              "clock": "01:17:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000261"
+            }
+          ]
+        },
+        {
+          "label": "Additional request and budget performance",
+          "text": "Ang requested an additional P88.764 million for CFO Mismo, BaLinkBayan, continuing costs, office productivity and the newly created Filipino Diaspora Volunteer Program. For 2025, he reported a 91.36% obligation rate and a 92.6% disbursement rate, with disbursement above 90% for the preceding seven years.",
+          "citations": [
+            {
+              "stable_id": "asr-000270",
+              "start_seconds": 4717.44,
+              "clock": "01:18:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000270"
+            },
+            {
+              "stable_id": "asr-000271",
+              "start_seconds": 4724.8,
+              "clock": "01:18:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000271"
+            },
+            {
+              "stable_id": "asr-000263",
+              "start_seconds": 4672.4,
+              "clock": "01:17:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000263"
+            },
+            {
+              "stable_id": "asr-000264",
+              "start_seconds": 4680.08,
+              "clock": "01:18:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000264"
+            },
+            {
+              "stable_id": "asr-000337",
+              "start_seconds": 5063.06,
+              "clock": "01:24:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000337"
+            }
+          ]
+        },
+        {
+          "label": "Program-based budget support",
+          "text": "Minority Leader Senator Alan Peter S. Cayetano supported a larger CFO budget during plenary consideration, tied to concrete programs that could justify additional resources. He linked that support to broader diaspora engagement and cautioned against an unsupported budget insertion. This was an expression of support, with no specified increase or adopted motion.",
+          "citations": [
+            {
+              "stable_id": "asr-000683",
+              "start_seconds": 5827.8,
+              "clock": "01:37:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000683"
+            }
+          ]
+        },
+        {
+          "label": "CFO budget referral",
+          "text": "Subcommittee H Chair Senator Erwin Tulfo submitted the CFO's fiscal year 2027 proposed budget for consideration, subject to further discussion and submission of requested documents.",
+          "citations": [
+            {
+              "stable_id": "asr-000776",
+              "start_seconds": 6013.8,
+              "clock": "01:40:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000776"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-philippine-reclamation-authority",
+      "label": "Philippine Reclamation Authority budget",
+      "items": [
+        {
+          "label": "PIEC building funding and schedule",
+          "text": "Cayetano asked whether the P27 billion estimate for the PIEC project covered the development. Philippine Reclamation Authority (PRA) Chair Alex Lopez clarified that it covered the building alone; the PRA owns the land and project, and the proposed appropriation would pass through the agency as a subsidy. Lopez said the Department of Public Works and Highways (DPWH) prepared and signed the expenditure program and ran the bidding, while the PRA served as the funding conduit. He said the PRA planned to transfer future funds to DPWH to avoid delays in the funds' circulation.\n\nTulfo itemized P6 billion released through the 2024 General Appropriations Act (GAA) unprogrammed appropriations and another P6 billion from the 2026 GAA contingency fund. Including the requested 2027 installment, he put the cited funding at P17 billion against the P27 billion estimate, a P10 billion gap. Lopez said construction was at 11 percent, but followed an S-curve. He confirmed the 2027 request and a further P10 billion need for 2028. He expected completion in April 2028, with events lined up for April and May. Asked whether the 2027 amount would prevent delay, Lopez said yes; if funds fell short, the PRA would borrow and repay from the 2028 budget. He also said final billing would be retained until completion.",
+          "citations": [
+            {
+              "stable_id": "asr-000977",
+              "start_seconds": 7631.88,
+              "clock": "02:07:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000977"
+            },
+            {
+              "stable_id": "asr-000978",
+              "start_seconds": 7638.48,
+              "clock": "02:07:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000978"
+            },
+            {
+              "stable_id": "asr-000979",
+              "start_seconds": 7639.98,
+              "clock": "02:07:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000979"
+            },
+            {
+              "stable_id": "asr-000982",
+              "start_seconds": 7649.72,
+              "clock": "02:07:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000982"
+            },
+            {
+              "stable_id": "asr-001013",
+              "start_seconds": 7730.86,
+              "clock": "02:08:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001013"
+            },
+            {
+              "stable_id": "asr-001014",
+              "start_seconds": 7733.3,
+              "clock": "02:08:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001014"
+            },
+            {
+              "stable_id": "asr-001016",
+              "start_seconds": 7737.92,
+              "clock": "02:08:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001016"
+            },
+            {
+              "stable_id": "asr-001017",
+              "start_seconds": 7740.52,
+              "clock": "02:09:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001017"
+            },
+            {
+              "stable_id": "asr-001020",
+              "start_seconds": 7748.18,
+              "clock": "02:09:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001020"
+            },
+            {
+              "stable_id": "asr-001021",
+              "start_seconds": 7750.36,
+              "clock": "02:09:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001021"
+            },
+            {
+              "stable_id": "asr-001022",
+              "start_seconds": 7752.28,
+              "clock": "02:09:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001022"
+            },
+            {
+              "stable_id": "asr-001032",
+              "start_seconds": 7766.34,
+              "clock": "02:09:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001032"
+            },
+            {
+              "stable_id": "asr-001043",
+              "start_seconds": 7793.36,
+              "clock": "02:09:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001043"
+            },
+            {
+              "stable_id": "asr-001045",
+              "start_seconds": 7794.78,
+              "clock": "02:09:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001045"
+            },
+            {
+              "stable_id": "asr-001046",
+              "start_seconds": 7797.54,
+              "clock": "02:09:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001046"
+            },
+            {
+              "stable_id": "asr-001058",
+              "start_seconds": 7824.78,
+              "clock": "02:10:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001058"
+            },
+            {
+              "stable_id": "asr-001075",
+              "start_seconds": 7867.14,
+              "clock": "02:11:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001075"
+            },
+            {
+              "stable_id": "asr-001077",
+              "start_seconds": 7871.24,
+              "clock": "02:11:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001077"
+            }
+          ]
+        },
+        {
+          "label": "PRA assets and projected government revenue",
+          "text": "Lopez said the PRA had assets of P38 billion when he assumed office in November 2023, P228 billion at the time of the hearing, and projected they would reach P400 billion soon. He said the PRA would benefit when the assets reached their full potential, which he expected in perhaps two or three years. \n\nLopez also described the Philippine International Exhibition Center (PIEC) as a prospective long-term revenue source for government. He cited a PRA projection, confirmed by the Department of Finance (DOF), National Economic and Development Authority (NEDA), and Investment Coordination Committee (ICC), of at least P422 billion in national-government contribution over 50 years. He said the Congressional Ways and Means Committee had estimated a higher value, which PRA could provide. ",
+          "citations": [
+            {
+              "stable_id": "asr-000818",
+              "start_seconds": 6836.92,
+              "clock": "01:53:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000818"
+            },
+            {
+              "stable_id": "asr-000819",
+              "start_seconds": 6850.12,
+              "clock": "01:54:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000819"
+            },
+            {
+              "stable_id": "asr-000820",
+              "start_seconds": 6854.78,
+              "clock": "01:54:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000820"
+            },
+            {
+              "stable_id": "asr-000814",
+              "start_seconds": 6780.0,
+              "clock": "01:53:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000814"
+            },
+            {
+              "stable_id": "asr-000815",
+              "start_seconds": 6807.64,
+              "clock": "01:53:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000815"
+            }
+          ]
+        },
+        {
+          "label": "PIEC funding responsibilities and staffing breakdown",
+          "text": "Tulfo asked whether the Philippine International Exhibition Center (PIEC) would sustain itself or require an annual government subsidy. Lopez said there would be no annual operating subsidy and that the national government would provide the building only; the PRA would shoulder furnishings, fixtures, equipment and the parking lot. He then noted that the venue would also need electricity, water and paid personnel.\n\nTulfo asked how many people the center would need and requested a breakdown. Lopez gave no staffing count or breakdown in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-000930",
+              "start_seconds": 7437.2,
+              "clock": "02:03:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000930"
+            },
+            {
+              "stable_id": "asr-000931",
+              "start_seconds": 7443.36,
+              "clock": "02:04:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000931"
+            },
+            {
+              "stable_id": "asr-000933",
+              "start_seconds": 7454.8,
+              "clock": "02:04:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000933"
+            },
+            {
+              "stable_id": "asr-000936",
+              "start_seconds": 7476.1,
+              "clock": "02:04:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000936"
+            }
+          ]
+        },
+        {
+          "label": "Project-driven land values",
+          "text": "Lopez argued that placing the PIEC on PRA land would increase the value of surrounding government property. He reported appraisal figures rising from P24,000 two years earlier to P300,000 at the hearing and said 24 hectares had been purchased. These were his land-appraisal claims, separate from construction appropriations; the exchange did not specify the valuation unit.",
+          "citations": [
+            {
+              "stable_id": "asr-000990",
+              "start_seconds": 7677.16,
+              "clock": "02:07:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000990"
+            },
+            {
+              "stable_id": "asr-001003",
+              "start_seconds": 7705.06,
+              "clock": "02:08:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001003"
+            },
+            {
+              "stable_id": "asr-001004",
+              "start_seconds": 7709.0,
+              "clock": "02:08:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001004"
+            },
+            {
+              "stable_id": "asr-001006",
+              "start_seconds": 7712.92,
+              "clock": "02:08:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001006"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 budget submission for plenary consideration",
+          "text": "Tulfo said the Philippine Reclamation Authority's FY2027 proposed budget would be submitted for plenary consideration, subject to further discussion and questions there. He also called for the submission of the requested documents. This was a step toward plenary consideration, not an appropriation approval.",
+          "citations": [
+            {
+              "stable_id": "asr-002275",
+              "start_seconds": 11361.64,
+              "clock": "03:09:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002275"
+            },
+            {
+              "stable_id": "asr-002279",
+              "start_seconds": 11369.36,
+              "clock": "03:09:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002279"
+            },
+            {
+              "stable_id": "asr-002280",
+              "start_seconds": 11371.54,
+              "clock": "03:09:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002280"
+            },
+            {
+              "stable_id": "asr-002284",
+              "start_seconds": 11379.8,
+              "clock": "03:09:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002284"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-commission-on-filipinos-overseas",
+      "label": "Commission on Filipinos Overseas",
+      "items": [
+        {
+          "label": "Diaspora engagement mandate and programs",
+          "text": "Ang described the CFO’s mandate under Batas Pambansa 79 as fostering diaspora engagement and connecting non-resident Filipinos (NRFs) to the Philippines politically, economically, and culturally so they can participate in national development. He described NRFs as including permanent migrants, expatriates, dual citizens, marriage migrants, their descendants, and cultural-exchange participants. He said the CFO’s programs support contributions and skills transfer to communities, including through medical missions, capacity-building, consultations, and Lingkod sa Kapwa Pilipino (LINKAPIL)’s support for small and medium enterprises and small-scale infrastructure. He also described NRFs as informal ambassadors and said the CFO works with diaspora figures to open business, social, and tourism opportunities.",
+          "citations": [
+            {
+              "stable_id": "asr-000220",
+              "start_seconds": 4410.02,
+              "clock": "01:13:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000220"
+            },
+            {
+              "stable_id": "asr-000224",
+              "start_seconds": 4435.74,
+              "clock": "01:13:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000224"
+            }
+          ]
+        },
+        {
+          "label": "Program priorities and planned work",
+          "text": "Ang said the CFO would continue BaLinkBayan, YouLeaD, and Ugnayan while intensifying diaspora engagement. Planned work included outreach to overseas Filipino organizations, youth development modules, stronger anti-human-trafficking efforts, and partnerships with migration and development stakeholders. The presentation video described LINKAPIL as a channel for diaspora support to local development; BaLinkBayan links diaspora participation with local needs; YouLeaD and the Virtual Centro Rizal engage younger generations; Ugnayan brings services to Filipino communities overseas; and CFO programs also support migration preparation, counseling, exchange visitors, and anti-trafficking coordination.\n\nThe presentation reported more than P3.4 billion in LINKAPIL contributions over the decades and P14.4 million in 2025 donations from 2,835 overseas donors, benefiting 17,698 Filipinos across 17 provinces and the National Capital Region. It counted 81,859 migrants and program participants in 2025 across pre-departure, counseling, au pair and exchange-visitor programs. PESO Sense provides financial literacy through a digital community, while upgraded information systems and honorary diaspora representatives are intended to extend access overseas.",
+          "citations": [
+            {
+              "stable_id": "asr-000265",
+              "start_seconds": 4687.76,
+              "clock": "01:18:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000265"
+            },
+            {
+              "stable_id": "asr-000294",
+              "start_seconds": 4852.26,
+              "clock": "01:20:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000294"
+            },
+            {
+              "stable_id": "asr-000323",
+              "start_seconds": 4988.2,
+              "clock": "01:23:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000323"
+            },
+            {
+              "stable_id": "asr-000314",
+              "start_seconds": 4934.3,
+              "clock": "01:22:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000314"
+            },
+            {
+              "stable_id": "asr-000327",
+              "start_seconds": 5016.38,
+              "clock": "01:23:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000327"
+            },
+            {
+              "stable_id": "asr-000237",
+              "start_seconds": 4530.32,
+              "clock": "01:15:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000237"
+            },
+            {
+              "stable_id": "asr-000295",
+              "start_seconds": 4857.78,
+              "clock": "01:20:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000295"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-philippine-reclamation-authority-and-piec-presentation",
+      "label": "Philippine Reclamation Authority and PIEC presentation",
+      "items": [
+        {
+          "label": "PIEC’s tourism and convention case",
+          "text": "Lopez said the PIEC would be a 140,000-square-meter exhibition and convention venue intended to attract meetings, incentives, conventions and exhibitions (MICE), trade fairs, and association congresses that existing facilities could not accommodate. He contrasted the cited capacities of current venues with the PIEC’s scale and said the project could attract an additional 300,000 to 500,000 delegates at a 50–60% utilization rate. He also compared its prospects with Singapore’s trade expo, which he said had a 120,000-square-meter area and attracted 1.5 million participants.\n\nOn visitor spending, Lopez said a regular tourist spends P6,000 per night or day, while a business-event tourist brings in P30,000 because a corporation or government funds the visit and the tourist sets up booths. He argued that the PIEC could generate activity across tourism, commerce, real estate, transport, services, hotels, shopping, and restaurants, and act as an anchor development attracting hotel owners. He said PRA wanted to draw some MICE tourism from Singapore, which he cited as having 1.5 million MICE participants at Singapore Expo.",
+          "citations": [
+            {
+              "stable_id": "asr-000803",
+              "start_seconds": 6450.0,
+              "clock": "01:47:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000803"
+            },
+            {
+              "stable_id": "asr-000805",
+              "start_seconds": 6510.0,
+              "clock": "01:48:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000805"
+            },
+            {
+              "stable_id": "asr-000806",
+              "start_seconds": 6540.0,
+              "clock": "01:49:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000806"
+            }
+          ]
+        },
+        {
+          "label": "Pasay Eco-City development and private-sector infrastructure",
+          "text": "Lopez located the PIEC on 81,000 square meters of PRA-owned land within the Pasay City Harbor Reclamation, part of a roughly 6.5-million-square-meter Pasay Eco-City coastal development. He described the broader development as advancing alongside the PIEC, with private-sector funding for bridges and infrastructure. He said 15 bridges would connect the area to the mainland without government expense; the network would include roads, sewer and flood-control lines, revetment, bike lanes, sidewalks, and utility lines. He also described parks, green space, and a new coastline as free to government and funded by private-sector partners.\n\nLopez said construction had accelerated and that seven bridges were expected to be completed before the PIEC’s target completion date. He presented the PIEC as an anchor for jobs, investment, and development in the surrounding area.",
+          "citations": [
+            {
+              "stable_id": "asr-000829",
+              "start_seconds": 6909.74,
+              "clock": "01:55:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000829"
+            },
+            {
+              "stable_id": "asr-000836",
+              "start_seconds": 6947.38,
+              "clock": "01:55:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000836"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-pra-provincial-and-cultural-exhibitions",
+      "label": "PRA provincial and cultural exhibitions",
+      "items": [
+        {
+          "label": "PIEC as a cultural and trading platform",
+          "text": "Lopez presented the Philippine International Exhibition Center (PIEC) as part of a broader effort to project an internationally engaged Philippines. He said the center could host MICE events while showcasing Philippine products, culture, arts and history, and support the country's ambition to become a meeting place and trading center for Asian products, culture and people. Lopez also described the PIEC as a way to build the region's profile, citing its scale, lower costs, skilled labor and English-speaking population as attractions.",
+          "citations": [
+            {
+              "stable_id": "asr-000907",
+              "start_seconds": 7306.38,
+              "clock": "02:01:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000907"
+            }
+          ]
+        },
+        {
+          "label": "Provincial and cultural exhibitions",
+          "text": "Lopez said the PRA had recently signed a memorandum with the League of Governors, under which provinces would each receive 50 square meters to exhibit indigenous products. He added that the PRA was arranging exhibition space with the cultural center, which he said needed more space, and referred to another memorandum involving the PIEC and Philippine International Convention Center (PICC) to allow the cultural center to exhibit.",
+          "citations": [
+            {
+              "stable_id": "asr-000913",
+              "start_seconds": 7358.88,
+              "clock": "02:02:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000913"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-hearing-priorities",
+      "label": "Hearing priorities",
+      "items": [
+        {
+          "label": "Opening priorities",
+          "text": "Subcommittee H opened its fiscal year 2027 budget deliberation on the Commission on Filipinos Overseas (CFO) and Philippine Reclamation Authority (PRA). Chair Tulfo said the review would track where public funds go, their results, and who benefits. For the CFO, he emphasized overseas Filipinos’ contributions beyond remittances, including skills, investment, ideas, networks, and ties to the Philippines. For the PRA, he called for balancing development with environmental stewardship, sound planning, economic value, climate resilience, and public benefit. He said the hearing should be candid and focused on measurable public value and services.\n\nCayetano endorsed a clear, focused, professional discussion and asked to question Ang about Filipinos overseas after the chair.",
+          "citations": [
+            {
+              "stable_id": "asr-000181",
+              "start_seconds": 4233.82,
+              "clock": "01:10:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000181"
+            },
+            {
+              "stable_id": "asr-000189",
+              "start_seconds": 4281.06,
+              "clock": "01:11:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-alan-peter-s-cayetano",
+      "label": "Senator Alan Peter S. Cayetano",
+      "items": [
+        {
+          "label": "Overseas Filipinos and a broader mandate",
+          "text": "Cayetano recalled that his original legislative proposal was for a department for overseas Filipinos, rather than the Department of Migrant Workers (DMW). Drawing on an encounter with young people of Filipino heritage in the United Kingdom who had never visited the Philippines, he argued that citizenship alone should not determine whether their Filipino roots merit engagement. He noted that dual citizenship may offer little incentive to some families abroad.\n\nWith the Department of Migrant Workers law set to trigger a review early the following year, he urged the Cabinet to consider how the Department of Migrant Workers, the Department of Foreign Affairs (DFA) and the Commission on Filipinos Overseas (CFO) would coordinate as the government considers Filipinos overseas beyond migrant workers. He praised pre-departure orientation seminars and related programs, while urging complementary programs abroad that help younger people of Filipino origin learn about the Philippines.",
+          "citations": [
+            {
+              "stable_id": "asr-000352",
+              "start_seconds": 5117.06,
+              "clock": "01:25:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000352"
+            },
+            {
+              "stable_id": "asr-000438",
+              "start_seconds": 5339.06,
+              "clock": "01:28:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000438"
+            }
+          ]
+        },
+        {
+          "label": "Diaspora ties, heritage visits and tourism",
+          "text": "Cayetano urged the CFO to build programs that connect people of Filipino heritage with the country through visits, cultural exchange and sustained relationships. He cited a figure of more than 10 million Filipinos abroad and recalled a Department of Foreign Affairs estimate of 6 million people in the United States with Filipino heritage. As an illustrative scenario, he said that if 10% traveled to the Philippines, they would number 600,000; including one non-Filipino-descent spouse or child each would make 1.2 million visitors. He compared that scenario with what he described as a tourism high of around 1.6 million visitors, and said every two to three tourists create one Filipino job. He pointed to Filipino food, ube, hilot and family-oriented culture as possible sources of wider cultural interest, and suggested programs for people of Filipino heritage to visit, study, spend a summer, start a business or retire in the Philippines.\n\nHe also encouraged sustained links with officials and community leaders of Filipino heritage overseas, using personal relationships and modern messaging to preserve institutional memory and open opportunities for younger generations.",
+          "citations": [
+            {
+              "stable_id": "asr-000520",
+              "start_seconds": 5502.6,
+              "clock": "01:31:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000520"
+            },
+            {
+              "stable_id": "asr-000649",
+              "start_seconds": 5759.8,
+              "clock": "01:35:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000649"
+            }
+          ]
+        },
+        {
+          "label": "Las Piñas wetland park title",
+          "text": "Cayetano asked when the PRA would transfer the Las Piñas wetland park land title to the Department of Environment and Natural Resources (DENR). Lopez said a bill to transfer it had passed Congress and the Senate but was vetoed by the President, so the title would remain with the PRA. Cayetano said further questioning could follow in plenary.",
+          "citations": [
+            {
+              "stable_id": "asr-000965",
+              "start_seconds": 7593.98,
+              "clock": "02:06:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000965"
+            },
+            {
+              "stable_id": "asr-000966",
+              "start_seconds": 7603.36,
+              "clock": "02:06:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000966"
+            }
+          ]
+        },
+        {
+          "label": "Reclamation standards and Laguna Lake history",
+          "text": "Cayetano asked whether the PRA considered reclamation acceptable when it served a public purpose, was sustainable, and followed environmental requirements. Lopez agreed, including for projects in Taguig. Lopez described reclamation as filling water to create land for a specified use; Cayetano cited the NEDA-PRA joint order and PRA rules defining the process as converting foreshore or submerged areas to land, and Lopez agreed.\n\nDuring questions about the Laguna Lake area, Lopez said he was unfamiliar with several earlier road and flood-control projects. PRA Assistant General Manager Joseph John M. Literal said PRA GIS and satellite backtracking showed areas formerly submerged and now covered, from around 2000, a record Cayetano argued could not establish the earlier shoreline or historic ownership; he confirmed that titled land remains titled. Cayetano questioned how estimates of newly dry land accounted for historical dry land. Literal confirmed that earlier C6 and Manggahan-related reclamation projects had not obtained PRA permits, and agreed that such works met the PRA definition of reclamation.\n\nPRA General Manager and CEO Cesar S. Siador Jr. said he knew the existing alignment but was not familiar with the exact area outside the dike. Cayetano cited a March 1997 flood-control project financed by a 9.411 billion yen official development assistance loan and a P14 billion allotment for a 2020 right-of-way or flyover proposal, which he said Taguig residents opposed because it would demolish more than 10,000 homes. His point was that earlier public works and erosion had to be examined before newly dry areas were described as unauthorized reclamation.",
+          "citations": [
+            {
+              "stable_id": "asr-001078",
+              "start_seconds": 7874.8,
+              "clock": "02:11:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001078"
+            },
+            {
+              "stable_id": "asr-001087",
+              "start_seconds": 7894.46,
+              "clock": "02:11:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001087"
+            },
+            {
+              "stable_id": "asr-001125",
+              "start_seconds": 7985.12,
+              "clock": "02:13:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001125"
+            },
+            {
+              "stable_id": "asr-001141",
+              "start_seconds": 8039.62,
+              "clock": "02:13:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001141"
+            },
+            {
+              "stable_id": "asr-001132",
+              "start_seconds": 8003.56,
+              "clock": "02:13:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001132"
+            },
+            {
+              "stable_id": "asr-001156",
+              "start_seconds": 8093.56,
+              "clock": "02:14:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001156"
+            },
+            {
+              "stable_id": "asr-001191",
+              "start_seconds": 8212.08,
+              "clock": "02:16:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001191"
+            },
+            {
+              "stable_id": "asr-001192",
+              "start_seconds": 8220.0,
+              "clock": "02:17:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001192"
+            },
+            {
+              "stable_id": "asr-001212",
+              "start_seconds": 8297.0,
+              "clock": "02:18:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001212"
+            },
+            {
+              "stable_id": "asr-001214",
+              "start_seconds": 8324.0,
+              "clock": "02:18:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001214"
+            },
+            {
+              "stable_id": "asr-001249",
+              "start_seconds": 8501.0,
+              "clock": "02:21:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001249"
+            },
+            {
+              "stable_id": "asr-001253",
+              "start_seconds": 8510.0,
+              "clock": "02:21:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001253"
+            }
+          ]
+        },
+        {
+          "label": "PRA oversight of Taguig and the Laguna Lakeshore Road Network",
+          "text": "Cayetano challenged what he saw as different PRA treatment of DPWH projects in Taguig and the Laguna Lakeshore Road Network (LLRN). He said the LLRN was much larger, already under construction, and lacked feasibility and environmental studies, while the PRA had issued stop-work or show-cause actions on Taguig projects by the same proponent. Literal said the PRA had sent DPWH a letter in 2024, requested records, and was coordinating; he said DPWH had submitted information for the agency's complete staff work and had committed to realign or redesign the LLRN. He described post-facto compliance as available for unauthorized projects previously approved by government. Literal confirmed that the LLRN was reclamation under the PRA definition and said DPWH had been told to stop; he also said unauthorized projects would go through regularization. Cayetano questioned whether the PRA was applying its rules consistently.\n\nCayetano contrasted the LLRN with Taguig's linear park, describing public use, nearby shops, and an erosion-control feature. He pressed Literal over a PRA letter that he said asked Taguig for land titles rather than identifying a show-cause order; Literal said titles were held by the Land Management Bureau. Cayetano argued the project was DPWH's and the land belonged to the Laguna Lake Development Authority (LLDA) under statute, and said DPWH should coordinate. He described earlier efforts by his staff to clarify the letter and coordinate with PRA, and rejected the suggestion that he had threatened the agency.",
+          "citations": [
+            {
+              "stable_id": "asr-001267",
+              "start_seconds": 8543.0,
+              "clock": "02:22:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001267"
+            },
+            {
+              "stable_id": "asr-001268",
+              "start_seconds": 8555.0,
+              "clock": "02:22:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001268"
+            },
+            {
+              "stable_id": "asr-001328",
+              "start_seconds": 8758.0,
+              "clock": "02:25:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001328"
+            },
+            {
+              "stable_id": "asr-001340",
+              "start_seconds": 8825.0,
+              "clock": "02:27:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001340"
+            },
+            {
+              "stable_id": "asr-001378",
+              "start_seconds": 8953.0,
+              "clock": "02:29:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001378"
+            },
+            {
+              "stable_id": "asr-001387",
+              "start_seconds": 9013.4,
+              "clock": "02:30:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001387"
+            },
+            {
+              "stable_id": "asr-001388",
+              "start_seconds": 9015.08,
+              "clock": "02:30:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001388"
+            },
+            {
+              "stable_id": "asr-001389",
+              "start_seconds": 9020.0,
+              "clock": "02:30:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001389"
+            }
+          ]
+        },
+        {
+          "label": "Coordination and cease-and-desist actions",
+          "text": "Cayetano urged the Philippine Reclamation Authority (PRA), DPWH, and the other agencies involved in Taguig projects to coordinate directly with the affected local governments. Literal clarified that the Taguig contact had been with an undersecretary, not Public Works and Highways Secretary Vince Dizon, and said the requested submissions had been made to PRA. Cayetano questioned the cease-and-desist action, saying that only one project was being completed and storm-damaged works had been repaired with permission. He asked when PRA had contacted Muntinlupa and whether it had checked in with cities before sending letters; Literal cited correspondence in 2025 and 2026 but did not provide a clear account of earlier outreach.\n\nOn the Pasig River Rehabilitation Project, Literal said structures on stilts were not reclamation because they did not involve permanent dumping or filling; for an extension from the riverbank, he said PRA first needed a survey. He confirmed the project had not obtained a PRA permit. Cayetano said he supported that project and the Laguna Lakeshore Road Network, while questioning why Taguig lakeshore work was scrutinized when other projects were not.",
+          "citations": [
+            {
+              "stable_id": "asr-001470",
+              "start_seconds": 9310.22,
+              "clock": "02:35:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001470"
+            },
+            {
+              "stable_id": "asr-001482",
+              "start_seconds": 9338.88,
+              "clock": "02:35:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001482"
+            },
+            {
+              "stable_id": "asr-001499",
+              "start_seconds": 9396.14,
+              "clock": "02:36:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001499"
+            },
+            {
+              "stable_id": "asr-001536",
+              "start_seconds": 9500.52,
+              "clock": "02:38:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001536"
+            },
+            {
+              "stable_id": "asr-001550",
+              "start_seconds": 9530.52,
+              "clock": "02:38:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001550"
+            }
+          ]
+        },
+        {
+          "label": "Overlapping jurisdiction and permit responsibility",
+          "text": "Cayetano asked who had jurisdiction over Laguna Lake. Literal said PRA's jurisdiction overlapped with the Laguna Lake Development Authority (LLDA), acknowledged that LLDA had asserted exclusive jurisdiction, and answered no when asked whether PRA had respected that position. Literal referred to an Office of the Government Corporate Counsel opinion from 1995 and Department of Justice (DOJ) Opinion No. 106, series of 1995. He described the DOJ opinion as finding no substantial conflict between the cited LLDA Act and agency-charter provisions, requiring harmonization, and treating the provisions as in pari materia, with the special law an exception to the general law.\n\nCayetano read that explanation as placing Laguna Lake reclamation under the LLDA's special-law authority; Literal disagreed and said the opinion treated exclusive jurisdiction over the lake differently from reclamation. The exchange did not resolve their competing readings. When Cayetano asked who should obtain a permit for unauthorized reclamation and related infrastructure, Literal said the reclamation proponent should apply and identified DPWH as the proponent in the Taguig case. Cayetano said the dispute reflected a coordination and process gap among agencies, not fault by the city or himself.",
+          "citations": [
+            {
+              "stable_id": "asr-001569",
+              "start_seconds": 9572.76,
+              "clock": "02:39:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001569"
+            },
+            {
+              "stable_id": "asr-001595",
+              "start_seconds": 9635.48,
+              "clock": "02:40:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001595"
+            },
+            {
+              "stable_id": "asr-001608",
+              "start_seconds": 9684.14,
+              "clock": "02:41:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001608"
+            },
+            {
+              "stable_id": "asr-001626",
+              "start_seconds": 9766.56,
+              "clock": "02:42:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001626"
+            },
+            {
+              "stable_id": "asr-002038",
+              "start_seconds": 10885.68,
+              "clock": "03:01:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002038"
+            },
+            {
+              "stable_id": "asr-002048",
+              "start_seconds": 10907.74,
+              "clock": "03:01:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002048"
+            }
+          ]
+        },
+        {
+          "label": "Land titles, surveys, and allegations of unauthorized reclamation",
+          "text": "Cayetano questioned whether Taguig City issued land titles or was responsible for alleged fake titles around Laguna Lake. Siador explained that a licensed geodetic engineer conducts the survey and prepares the plan; the city's concurrence is part of the process, and the plan is submitted to the Land Management Bureau. He said the city assessor normally signs for titling. Cayetano stressed that this did not mean the city issued titles and argued that existing titles and court proceedings should not be conflated with fraudulent or fake titles.\n\nLopez clarified that PRA was not calling the titles fake; he said its concern was that reclamation was unauthorized. Literal said PRA was not stopping construction but had questioned filling inside the area enclosed by slope protection and C6. He later said the first work PRA stopped was filling at a portion with garbage. Cayetano called for investigations where there was evidence of wrongdoing, while urging circumspection as facts were checked so allegations would not damage the city's reputation before the facts were established.",
+          "citations": [
+            {
+              "stable_id": "asr-001704",
+              "start_seconds": 10074.06,
+              "clock": "02:47:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001704"
+            },
+            {
+              "stable_id": "asr-001717",
+              "start_seconds": 10127.12,
+              "clock": "02:48:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001717"
+            },
+            {
+              "stable_id": "asr-001779",
+              "start_seconds": 10344.46,
+              "clock": "02:52:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001779"
+            },
+            {
+              "stable_id": "asr-001789",
+              "start_seconds": 10380.74,
+              "clock": "02:53:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001789"
+            },
+            {
+              "stable_id": "asr-001815",
+              "start_seconds": 10437.96,
+              "clock": "02:53:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001815"
+            },
+            {
+              "stable_id": "asr-001970",
+              "start_seconds": 10763.0,
+              "clock": "02:59:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001970"
+            },
+            {
+              "stable_id": "asr-001995",
+              "start_seconds": 10798.12,
+              "clock": "02:59:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001995"
+            }
+          ]
+        },
+        {
+          "label": "Lakeshore protection and coordination outcome",
+          "text": "Cayetano said the Taguig lakeshore works included a linear park and realignment away from the lakeshore. He argued that completing public works could help prevent erosion, dumping, and informal settlement, drawing on his account of longstanding flooding and conditions along the shore. He asked PRA, LLDA, DPWH, and the local government to meet together, include affected local officials and community representatives, and align their rules so public projects would not be caught between unresolved agency disputes.\n\nLiteral said PRA would hold a coordination meeting with the relevant national agencies and welcomed local-government participation, including Cayetano's staff. Cayetano asked that the city and objective participants be invited. At the close, Lopez apologized for any inconvenience caused by miscommunication, if any.",
+          "citations": [
+            {
+              "stable_id": "asr-001689",
+              "start_seconds": 9900.0,
+              "clock": "02:45:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001689"
+            },
+            {
+              "stable_id": "asr-001753",
+              "start_seconds": 10242.6,
+              "clock": "02:50:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001753"
+            },
+            {
+              "stable_id": "asr-002008",
+              "start_seconds": 10823.9,
+              "clock": "03:00:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002008"
+            },
+            {
+              "stable_id": "asr-002192",
+              "start_seconds": 11195.4,
+              "clock": "03:06:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002192"
+            },
+            {
+              "stable_id": "asr-002198-split-2",
+              "start_seconds": 11208.03,
+              "clock": "03:06:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002198-split-2"
+            },
+            {
+              "stable_id": "asr-002268",
+              "start_seconds": 11347.04,
+              "clock": "03:09:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002268"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-erwin-tulfo",
+      "label": "Senator Erwin Tulfo",
+      "items": [
+        {
+          "label": "CFO services and diaspora engagement",
+          "text": "Tulfo asked how many Filipinos or permanent residents the Commission on Filipinos Overseas had served in the previous year. Ang said about 70,000 people went through the CFO's pre-departure orientation seminar.\n\nAng said the CFO was also seeking ways to engage overseas Filipinos and encourage them to return. He cited YouLeaD, the agency's youth leaders in the diaspora program, which invites young members of the Filipino diaspora to the Philippines to learn about its culture and heritage; leadership training had been added to the program. Ang said the number of returnees had not yet been quantified.",
+          "citations": [
+            {
+              "stable_id": "asr-000734",
+              "start_seconds": 5929.8,
+              "clock": "01:38:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000734"
+            },
+            {
+              "stable_id": "asr-000741",
+              "start_seconds": 5943.8,
+              "clock": "01:39:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000741"
+            },
+            {
+              "stable_id": "asr-000752",
+              "start_seconds": 5965.8,
+              "clock": "01:39:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000752"
+            }
+          ]
+        },
+        {
+          "label": "PIEC's competitiveness and visitor projections",
+          "text": "Tulfo asked what competitive advantage the Philippine International Exhibition Center (PIEC) would offer over existing convention and exhibition facilities, and why international organizers would choose it over venues in Singapore and Thailand. Lopez cited lower labor and hotel costs in the Philippines, the appeal of a new exhibition destination, and inquiries already received. He added that organizers seek variety beyond Thailand, Singapore, Japan and China.\n\nTulfo then asked how many international conventions, exhibitions and events the PIEC expected to attract each year and what assumptions supported the projection. Lopez said the projections drew on Department of Tourism (DOT) information and data from Singapore and Thailand. He cited 1.5 million visitors at Singapore Expo last year and a 120,000-square-meter venue; Thailand's 240,000-square-meter venue drew 1.2 million. He cautioned that those established venues were not directly comparable and said the PIEC was using a low initial projection: one or two events at roughly half the cited venue scale could bring 140,000 tourists. He estimated average visitor spending at P30,000. Lopez said the PIEC would be the largest in Southeast Asia at 243,000 square meters. These are comparative figures and projections, not reported PIEC attendance or realized visitor spending.",
+          "citations": [
+            {
+              "stable_id": "asr-000873",
+              "start_seconds": 7137.26,
+              "clock": "01:58:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000873"
+            },
+            {
+              "stable_id": "asr-000878",
+              "start_seconds": 7165.36,
+              "clock": "01:59:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000878"
+            },
+            {
+              "stable_id": "asr-000889",
+              "start_seconds": 7204.08,
+              "clock": "02:00:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000889"
+            },
+            {
+              "stable_id": "asr-000891",
+              "start_seconds": 7219.46,
+              "clock": "02:00:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000891"
+            },
+            {
+              "stable_id": "asr-000899",
+              "start_seconds": 7267.82,
+              "clock": "02:01:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000899"
+            }
+          ]
+        },
+        {
+          "label": "Venue demand and revenue rationale",
+          "text": "In response to the staffing questions, Lopez argued that exhibition venues were in demand and said smaller centers made money. He cited a school with 3,000 graduates that could not hold a single simultaneous graduation, describing the resulting need to invite graduates in turn because there was no exhibition center. He said users paid substantial rental fees, that demand across the country could fill the PIEC, and pointed to offices being demolished to make room for another exhibition center. He offered these examples to explain his expectation that demand would fill the PIEC.",
+          "citations": [
+            {
+              "stable_id": "asr-000938",
+              "start_seconds": 7481.0,
+              "clock": "02:04:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000938"
+            },
+            {
+              "stable_id": "asr-000943",
+              "start_seconds": 7504.26,
+              "clock": "02:05:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000943"
+            },
+            {
+              "stable_id": "asr-000951",
+              "start_seconds": 7545.24,
+              "clock": "02:05:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-000951"
+            }
+          ]
+        },
+        {
+          "label": "PRA approval and Taguig notice",
+          "text": "Tulfo asked when reclamation projects require Philippine Reclamation Authority (PRA) approval. Literal said approval was required for all types of reclamation, regardless of purpose; Tulfo restated that all reclamation required it, and Literal agreed.\n\nTulfo then asked what Taguig needed to have the cease-and-desist order lifted. Literal first answered, \"Nothing,\" then clarified that the PRA's cease-and-desist order was against the Department of Public Works and Highways (DPWH); for Taguig City, he referred to the letter sent to the city.",
+          "citations": [
+            {
+              "stable_id": "asr-001435",
+              "start_seconds": 9197.18,
+              "clock": "02:33:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001435"
+            },
+            {
+              "stable_id": "asr-001440",
+              "start_seconds": 9214.68,
+              "clock": "02:33:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001440"
+            },
+            {
+              "stable_id": "asr-001445",
+              "start_seconds": 9232.06,
+              "clock": "02:33:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001445"
+            },
+            {
+              "stable_id": "asr-001451",
+              "start_seconds": 9246.28,
+              "clock": "02:34:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001451"
+            },
+            {
+              "stable_id": "asr-001452",
+              "start_seconds": 9250.62,
+              "clock": "02:34:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001452"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

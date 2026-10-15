@@ -1,0 +1,1583 @@
+{
+  "hearing": {
+    "hearing_id": 57,
+    "title": "Senate Committee on Finance: DEPDev - September 21, 2026",
+    "hearing_date": "2026-09-21",
+    "official_url": "https://www.youtube.com/watch?v=evh-uXF_qiQ"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h57/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Budget and public priorities",
+      "text": "Committee Chair Senator Joseph Victor \"JV\" G. Ejercito led deliberations on the FY2027 proposal for the Department of Economy, Planning, and Development (DEPDev) and its attached agencies. Secretary Arsenio M. Balisacan described the department's planning, investment coordination, and monitoring role. Senators tested how public spending could support recovery while preserving accountability for flood-control projects.",
+      "citations": []
+    },
+    {
+      "label": "National ID and civil registration",
+      "text": "The Philippine Statistics Authority (PSA), represented by Undersecretary Claire Dennis S. Mapa, addressed National ID costs and use, registration gaps, late birth registrations, second-ID requests, and physical-card printing. Mapa said authentication use was rising and offered reports; he also agreed to share blocked late-registration information. Senators sought stronger civil-registry data and safeguards, while the status of proposed legal changes remained pending.",
+      "citations": []
+    },
+    {
+      "label": "Food prices, enforcement, and data",
+      "text": "Senator Francis Kiko Pangilinan pressed Balisacan on rice prices despite imports and tariff changes. Balisacan cited possible market competition problems, logistics, and trade restrictions, while lacking current information about the onion-cartel penalty raised by Pangilinan. On differing PSA and Department of Agriculture estimates, officials confirmed an agreement for PSA data to govern official output statistics; Mapa promised a copy. Questions also covered agricultural-smuggling enforcement, pork-producer consultation, and El Nino preparedness.",
+      "citations": []
+    },
+    {
+      "label": "Infrastructure and plenary follow-through",
+      "text": "Senators raised regional planning, flood control, water retention, rail links, public-private partnership projects, energy security, and the timing of public investment. Balisacan supported long-term infrastructure planning and said prospective rail financing still required new preparation; he endorsed exploring an oil-storage proposal subject to fiscal and economic review. Ejercito said agencies should prepare answers and documents for plenary, then deemed the agency budgets submitted for plenary consideration subject to discussion and document submission; this was a procedural submission, not appropriation approval.",
+      "citations": []
+    }
+  ],
+  "method_note": "Citations open the timed transcript and official video. Claims and proposals remain attributed to the speakers who made them.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "FY2027 NEP proposal for DEPDev and attached agencies",
+          "text": "For FY2027, the National Expenditure Program (NEP) proposes PHP 18.47 billion for the Department of Economy, Planning, and Development (DEPDev) and its attached agencies. Within that combined proposal, the Philippine Statistics Authority (PSA) accounts for PHP 13.03 billion, DEPDev proper for PHP 2.72 billion, and the other seven attached agencies collectively for PHP 2.72 billion. The hearing does not state a consolidated original request total submitted to the Department of Budget and Management (DBM), so that request-to-NEP comparison is unavailable.",
+          "citations": [
+            {
+              "stable_id": "asr-000173",
+              "start_seconds": 3710.6,
+              "clock": "01:01:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000173"
+            },
+            {
+              "stable_id": "asr-000503",
+              "start_seconds": 4708.3,
+              "clock": "01:18:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000503"
+            },
+            {
+              "stable_id": "asr-000505",
+              "start_seconds": 4711.4,
+              "clock": "01:18:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000505"
+            },
+            {
+              "stable_id": "asr-000506",
+              "start_seconds": 4713.72,
+              "clock": "01:18:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000506"
+            },
+            {
+              "stable_id": "asr-000557",
+              "start_seconds": 4824.08,
+              "clock": "01:20:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000557"
+            },
+            {
+              "stable_id": "asr-000558",
+              "start_seconds": 4826.04,
+              "clock": "01:20:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000558"
+            },
+            {
+              "stable_id": "asr-000559",
+              "start_seconds": 4828.76,
+              "clock": "01:20:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000559"
+            },
+            {
+              "stable_id": "asr-000563",
+              "start_seconds": 4838.0,
+              "clock": "01:20:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000563"
+            },
+            {
+              "stable_id": "asr-000565",
+              "start_seconds": 4841.24,
+              "clock": "01:20:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000565"
+            },
+            {
+              "stable_id": "asr-000568",
+              "start_seconds": 4848.66,
+              "clock": "01:20:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000568"
+            },
+            {
+              "stable_id": "asr-000572",
+              "start_seconds": 4856.18,
+              "clock": "01:20:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000572"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-depdev-and-attached-agencies",
+      "label": "DEPDev and attached agencies budget",
+      "items": [
+        {
+          "label": "Appropriation components",
+          "text": "For FY2027, by allotment class, the proposed amount comprises PHP 12.8 billion for maintenance and other operating expenses (69.28%), PHP 4.36 billion for personal services (23.63%), and PHP 1.31 billion for capital outlay (7.09%).\n\nBy appropriation source, PHP 18.13 billion (about 98%) is agency-specific; PHP 341.9 million (1.85%) is automatic appropriations, primarily retirement and life insurance premiums; and PHP 4.49 million (0.02%) is special accounts in the General Fund, covering the Tariff Commission Remedies Fund and Philippine Statistical Research and Training Institute (PSRTI) Endowment Fund.",
+          "citations": [
+            {
+              "stable_id": "asr-000511",
+              "start_seconds": 4725.22,
+              "clock": "01:18:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000511"
+            },
+            {
+              "stable_id": "asr-000512",
+              "start_seconds": 4727.94,
+              "clock": "01:18:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000512"
+            },
+            {
+              "stable_id": "asr-000517",
+              "start_seconds": 4737.06,
+              "clock": "01:18:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000517"
+            },
+            {
+              "stable_id": "asr-000520",
+              "start_seconds": 4743.68,
+              "clock": "01:19:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000520"
+            },
+            {
+              "stable_id": "asr-000529",
+              "start_seconds": 4765.78,
+              "clock": "01:19:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000529"
+            },
+            {
+              "stable_id": "asr-000530",
+              "start_seconds": 4768.06,
+              "clock": "01:19:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000530"
+            },
+            {
+              "stable_id": "asr-000534",
+              "start_seconds": 4776.02,
+              "clock": "01:19:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000534"
+            },
+            {
+              "stable_id": "asr-000541",
+              "start_seconds": 4791.42,
+              "clock": "01:19:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000541"
+            }
+          ]
+        },
+        {
+          "label": "Agency allocations and year-over-year comparison",
+          "text": "The FY2027 NEP is 19.8% higher than the FY2026 General Appropriations Act; PSA drives the increase, with a stated PHP 4.13 billion or 46.34% increase. DEPDev Office of the Secretary (OSEC) decreases by PHP 89.17 million, from PHP 2.81 billion to PHP 2.72 billion; the Public-Private Partnership Center of the Philippines (PPP Center) and Development Academy of the Philippines (DAP) are also identified as having decreases, without amounts in this passage. These are NEP-to-prior-year comparisons, not an original agency-request comparison.\n\nThe presentation identifies FY2027 program allocations of PHP 5.06 billion for PSA's Community-Based Monitoring System and PHP 2.37 billion for the Philippine Identification System. DAP's education and training program is PHP 608.5 million, with PHP 204 million for research and technical assistance. Balisacan also named funding needs for the Philippine Institute for Development Studies (PIDS) research program and UP Diliman office building, the Public-Private Partnership (PPP) Center's project development and monitoring facility and rent, the Philippine Statistical Research and Training Institute (PSRTI), and the Commission on Population and Development (CPD), but gives no amounts for those items here.",
+          "citations": [
+            {
+              "stable_id": "asr-000587",
+              "start_seconds": 4890.32,
+              "clock": "01:21:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000587"
+            },
+            {
+              "stable_id": "asr-000593",
+              "start_seconds": 4904.96,
+              "clock": "01:21:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000593"
+            },
+            {
+              "stable_id": "asr-000594",
+              "start_seconds": 4907.12,
+              "clock": "01:21:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000594"
+            },
+            {
+              "stable_id": "asr-000595",
+              "start_seconds": 4909.84,
+              "clock": "01:21:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000595"
+            },
+            {
+              "stable_id": "asr-000627",
+              "start_seconds": 4978.32,
+              "clock": "01:22:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000627"
+            },
+            {
+              "stable_id": "asr-000628",
+              "start_seconds": 4979.32,
+              "clock": "01:22:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000628"
+            },
+            {
+              "stable_id": "asr-000633",
+              "start_seconds": 4985.54,
+              "clock": "01:23:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000633"
+            },
+            {
+              "stable_id": "asr-000657",
+              "start_seconds": 5028.1,
+              "clock": "01:23:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000657"
+            },
+            {
+              "stable_id": "asr-000660",
+              "start_seconds": 5033.36,
+              "clock": "01:23:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000660"
+            }
+          ]
+        },
+        {
+          "label": "Budget execution",
+          "text": "For FY2025, DEPDev and its attached agencies received about PHP 17 billion in allotments; PHP 14.2 billion, or 83.4%, was obligated, and PHP 11.89 billion, about 83.76% of obligations, was disbursed by December 31, 2025. At June 30, 2026, allotments were PHP 17.74 billion, of which PHP 7.01 billion (39.48%) was obligated and PHP 4.76 billion (67.9% of obligations) disbursed. DEPDev OSEC had obligated 49% of its allotment, with a 64.9% disbursement rate; DAP had the highest attached-agency obligation rate at 99.36%, and the PPP Center the lowest at 11.08%. The Secretary said agencies would continue working to improve obligation and disbursement performance during the remainder of 2026.",
+          "citations": [
+            {
+              "stable_id": "asr-000369",
+              "start_seconds": 4377.88,
+              "clock": "01:12:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000369"
+            },
+            {
+              "stable_id": "asr-000371",
+              "start_seconds": 4387.16,
+              "clock": "01:13:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000371"
+            },
+            {
+              "stable_id": "asr-000374",
+              "start_seconds": 4391.02,
+              "clock": "01:13:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000374"
+            },
+            {
+              "stable_id": "asr-000375",
+              "start_seconds": 4394.82,
+              "clock": "01:13:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000375"
+            },
+            {
+              "stable_id": "asr-000376",
+              "start_seconds": 4396.88,
+              "clock": "01:13:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000376"
+            },
+            {
+              "stable_id": "asr-000397",
+              "start_seconds": 4470.32,
+              "clock": "01:14:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000397"
+            },
+            {
+              "stable_id": "asr-000399",
+              "start_seconds": 4477.68,
+              "clock": "01:14:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000399"
+            },
+            {
+              "stable_id": "asr-000400",
+              "start_seconds": 4479.18,
+              "clock": "01:14:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000400"
+            },
+            {
+              "stable_id": "asr-000401",
+              "start_seconds": 4484.18,
+              "clock": "01:14:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000401"
+            },
+            {
+              "stable_id": "asr-000402",
+              "start_seconds": 4486.82,
+              "clock": "01:14:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000402"
+            },
+            {
+              "stable_id": "asr-000421",
+              "start_seconds": 4531.86,
+              "clock": "01:15:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000421"
+            },
+            {
+              "stable_id": "asr-000424",
+              "start_seconds": 4538.56,
+              "clock": "01:15:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000424"
+            },
+            {
+              "stable_id": "asr-000428",
+              "start_seconds": 4545.6,
+              "clock": "01:15:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000428"
+            },
+            {
+              "stable_id": "asr-000431",
+              "start_seconds": 4551.7,
+              "clock": "01:15:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000431"
+            }
+          ]
+        },
+        {
+          "label": "Infrastructure portfolio and development financing",
+          "text": "In its 2025 account, DEPDev reported managing 452 active official development assistance commitments worth US$41.8 billion, comprising 95 project loans worth US$31.7 billion, 17 program loans worth US$8.0 billion, and 340 grants worth US$2.1 billion.\n\nFor flood-control monitoring, regional offices conducted on-site verification of 9,855 projects and physically validated 9,370 (95%), with a reported combined cost of PHP 545.64 billion. DEPDev said it submitted six project reports and a comprehensive report to the Office of the President. As of December 31, 2025, it monitored 209 infrastructure flagship projects worth PHP 10.6 trillion; 9 were completed, 81 ongoing, and 27 approved and moving toward implementation. Official development assistance was the largest funding source for 80 of these projects, worth PHP 5.8 trillion. The Secretary also cited appraisals of 267 national and regional projects, with 98.9% completed within target deadlines against a 90% target.",
+          "citations": [
+            {
+              "stable_id": "asr-000273",
+              "start_seconds": 4015.58,
+              "clock": "01:06:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000273"
+            },
+            {
+              "stable_id": "asr-000275",
+              "start_seconds": 4025.58,
+              "clock": "01:07:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000275"
+            },
+            {
+              "stable_id": "asr-000277",
+              "start_seconds": 4031.58,
+              "clock": "01:07:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000277"
+            },
+            {
+              "stable_id": "asr-000279",
+              "start_seconds": 4036.58,
+              "clock": "01:07:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000279"
+            },
+            {
+              "stable_id": "asr-000280",
+              "start_seconds": 4037.58,
+              "clock": "01:07:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000280"
+            },
+            {
+              "stable_id": "asr-000327",
+              "start_seconds": 4196.12,
+              "clock": "01:09:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000327"
+            },
+            {
+              "stable_id": "asr-000332",
+              "start_seconds": 4220.16,
+              "clock": "01:10:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000332"
+            },
+            {
+              "stable_id": "asr-000338",
+              "start_seconds": 4239.32,
+              "clock": "01:10:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000338"
+            }
+          ]
+        },
+        {
+          "label": "Other proposed program requirements",
+          "text": "DEPDev proposed funding for an annex and parking building, information and communications technology, central-office rent, regional-office rehabilitation, the Innovation Fund and impact-evaluation studies. These were presented as proposed budget uses.",
+          "citations": [
+            {
+              "stable_id": "asr-000600",
+              "start_seconds": 4918.76,
+              "clock": "01:21:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000600"
+            },
+            {
+              "stable_id": "asr-000610",
+              "start_seconds": 4949.94,
+              "clock": "01:22:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000610"
+            }
+          ]
+        },
+        {
+          "label": "National ID funding and cost to date",
+          "text": "Senator Panfilo Lacson, principal sponsor of the National ID System law, asked how much had been spent since 2018 and what more was needed for full implementation. Philippine Statistics Authority (PSA) Undersecretary Claire Dennis S. Mapa said the National ID had received about PHP 26.21 billion in funding from 2018 through 2026, of which PSA had obligated roughly PHP 24 billion; he cautioned that 2026 was still underway. He put the registered population at 97 million and the average cost per registrant at about PHP 250-260. Mapa did not give a remaining cost estimate for full implementation.",
+          "citations": [
+            {
+              "stable_id": "asr-000734",
+              "start_seconds": 5146.2,
+              "clock": "01:25:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000734"
+            },
+            {
+              "stable_id": "asr-000803",
+              "start_seconds": 5238.62,
+              "clock": "01:27:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000803"
+            },
+            {
+              "stable_id": "asr-000815",
+              "start_seconds": 5250.78,
+              "clock": "01:27:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000815"
+            },
+            {
+              "stable_id": "asr-000816",
+              "start_seconds": 5252.36,
+              "clock": "01:27:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000816"
+            },
+            {
+              "stable_id": "asr-000822",
+              "start_seconds": 5258.74,
+              "clock": "01:27:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000822"
+            },
+            {
+              "stable_id": "asr-000836",
+              "start_seconds": 5274.32,
+              "clock": "01:27:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000836"
+            },
+            {
+              "stable_id": "asr-000837",
+              "start_seconds": 5275.46,
+              "clock": "01:27:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000837"
+            }
+          ]
+        },
+        {
+          "label": "PSA and DA agricultural data reconciliation",
+          "text": "Pangilinan said the Philippine Statistics Authority (PSA) and Department of Agriculture (DA) had supplied different onion-harvest and supply-deficit estimates at a prior hearing, and that the larger DA estimate led to imports exceeding the PSA estimate. He recalled that 100 million had been allocated to PSA the previous year for surveying and research, and asked DEPDev, PSA, and DA to use a memorandum of agreement (MOA) to produce one reconciled figure.\n\nBalisacan explained that PSA compiles official statistics using nationally representative methods, while DA also collects data for administrative purposes; he said PSA and DA had been coordinating to unify processes. PSA Undersecretary Claire Dennis S. Mapa confirmed an MOA with DA, reached with Secretary Laurel, specifying PSA data for official output statistics. Pangilinan asked for a copy; Mapa committed to provide it. Pangilinan welcomed having one data basis going forward.",
+          "citations": [
+            {
+              "stable_id": "asr-001803",
+              "start_seconds": 8183.94,
+              "clock": "02:16:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001803"
+            },
+            {
+              "stable_id": "asr-001807",
+              "start_seconds": 8191.38,
+              "clock": "02:16:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001807"
+            },
+            {
+              "stable_id": "asr-001849",
+              "start_seconds": 8291.42,
+              "clock": "02:18:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001849"
+            },
+            {
+              "stable_id": "asr-001927",
+              "start_seconds": 8479.32,
+              "clock": "02:21:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001927"
+            },
+            {
+              "stable_id": "asr-001939",
+              "start_seconds": 8504.2,
+              "clock": "02:21:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001939"
+            },
+            {
+              "stable_id": "asr-001945",
+              "start_seconds": 8513.76,
+              "clock": "02:21:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001945"
+            }
+          ]
+        },
+        {
+          "label": "DEPDev building project delays and status",
+          "text": "Tulfo cited the 2025 Commission on Audit (COA) report that the NEDA Building Improvement Project phases 1, 2, and 3, with a combined contract cost of PHP 641.556 million, remained incomplete after delays, contract extensions and amendments, and variation orders. Balisacan agreed with the report and said excavation revealed that the adjacent older building had unstable walls. DEPDev Undersecretary Ma. Monica P. Pagunsan explained that the 1972 building had no available as-built plans, and renovation exposed conditions that could not be seen at inspection. DEPDev also had to wait for Department of Public Works and Highways (DPWH) retrofitting work on the old building, rejected its first completion, and corrected areas revealed by further investigation. Pagunsan said soil testing had been done, but the old foundation still needed strengthening and as-found conditions required variation orders.\n\nTulfo asked for the project status. Pagunsan first gave 96% for Phase 1, then corrected that figure to 90.75%; she gave 96.67% for Phase 2 and 87.06% for Phase 3, as of August 31, 2026. She expected the transfer to take place in January. Tulfo said he was satisfied with the explanation.",
+          "citations": [
+            {
+              "stable_id": "asr-002380",
+              "start_seconds": 9826.08,
+              "clock": "02:43:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002380"
+            },
+            {
+              "stable_id": "asr-002388",
+              "start_seconds": 9900.0,
+              "clock": "02:45:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002388"
+            },
+            {
+              "stable_id": "asr-002396",
+              "start_seconds": 10017.92,
+              "clock": "02:46:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002396"
+            },
+            {
+              "stable_id": "asr-002423",
+              "start_seconds": 10326.52,
+              "clock": "02:52:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002423"
+            },
+            {
+              "stable_id": "asr-002430",
+              "start_seconds": 10397.68,
+              "clock": "02:53:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002430"
+            },
+            {
+              "stable_id": "asr-002431",
+              "start_seconds": 10417.68,
+              "clock": "02:53:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002431"
+            },
+            {
+              "stable_id": "asr-002433",
+              "start_seconds": 10443.12,
+              "clock": "02:54:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002433"
+            }
+          ]
+        },
+        {
+          "label": "Support for DEPDev's 2027 budget",
+          "text": "Before returning to the plenary, Tulfo said he supported passage of DEPDev's 2027 budget and would consider any additional request at plenary. This was his stated support; no budget vote or disposition occurred in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002475",
+              "start_seconds": 10864.78,
+              "clock": "03:01:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002475"
+            },
+            {
+              "stable_id": "asr-002477",
+              "start_seconds": 10875.06,
+              "clock": "03:01:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002477"
+            }
+          ]
+        },
+        {
+          "label": "Regional Development Council funding and priorities",
+          "text": "In the budget discussion, Committee Chair Senator Joseph Victor \"JV\" G. Ejercito cited PHP 164 million as appropriated for Regional Development Council (RDC) support services and monitoring and evaluation of plans, programs, policies, and projects. The exchange does not identify the appropriation year or whether this was an NEP or GAA amount. Balisacan thanked the Senate for the RDC support in the prior year's budget and sought additional resources for the councils, without naming an amount. He explained that RDCs are separate from the Department of Economy, Planning and Development (DEPDev), which serves as their secretariat, and said limited funds constrain coordination and mobilization. Additional resources could help councils develop more implementation-ready regional projects consistent with national priorities. Balisacan cited a presentation showing that only about 40% or less of RDC high-priority projects appeared in the National Expenditure Program (NEP); DEPDev and the Department of Budget and Management (DBM) were strengthening coordination to increase that share. No amount or disposition for the additional-resource request was recorded.",
+          "citations": [
+            {
+              "stable_id": "asr-002529",
+              "start_seconds": 11027.04,
+              "clock": "03:03:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002529"
+            },
+            {
+              "stable_id": "asr-002530",
+              "start_seconds": 11029.36,
+              "clock": "03:03:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002530"
+            },
+            {
+              "stable_id": "asr-002543",
+              "start_seconds": 11069.5,
+              "clock": "03:04:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002543"
+            },
+            {
+              "stable_id": "asr-002545",
+              "start_seconds": 11080.12,
+              "clock": "03:04:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002545"
+            }
+          ]
+        },
+        {
+          "label": "Previous CBMS cost and update funding",
+          "text": "PSA Undersecretary Claire Dennis S. Mapa said the 2024 Community-Based Monitoring System (CBMS), conducted with the census, cost less than PHP 5 billion. PSA requested new funding for the scheduled 2027 update; no separate addition or vote was recorded in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-003450",
+              "start_seconds": 13013.94,
+              "clock": "03:36:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003450"
+            },
+            {
+              "stable_id": "asr-003475",
+              "start_seconds": 13056.78,
+              "clock": "03:37:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003475"
+            },
+            {
+              "stable_id": "asr-003479",
+              "start_seconds": 13062.74,
+              "clock": "03:37:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003479"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-depdev-and-attached-agencies-presentation",
+      "label": "DEPDev and attached agencies presentation",
+      "items": [
+        {
+          "label": "Accomplishments and development monitoring",
+          "text": "Balisacan reported that DEPDev facilitated enactment of 11 Common Legislative Agenda bills in 2025; 40 of 64 such bills in the 19th Congress were enacted, a 63% rate that he described as the highest since the 10th Congress. The Department provided 1,240 policy recommendations and submitted 147 position papers. Its regional offices supported Regional Development Councils, which held eight meetings with the President in 2025.\n\nDEPDev also reported the ten-year Trabaho Para sa Bayan labor-market plan, innovation awards, program-convergence budgeting with the Department of Budget and Management (DBM), and a housing/procurement circular with the Department of Human Settlements and Urban Development. It updated public-investment and regional investment programs, issued a revised National Evaluation Policy Framework with DBM, produced regional development reports including the Negros Island Region, and completed the country's fourth Voluntary National Review.",
+          "citations": [
+            {
+              "stable_id": "asr-000181",
+              "start_seconds": 3775.68,
+              "clock": "01:02:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000181"
+            },
+            {
+              "stable_id": "asr-000219",
+              "start_seconds": 3888.0,
+              "clock": "01:04:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000219"
+            },
+            {
+              "stable_id": "asr-000243",
+              "start_seconds": 3937.6,
+              "clock": "01:05:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000243"
+            },
+            {
+              "stable_id": "asr-000340",
+              "start_seconds": 4249.12,
+              "clock": "01:10:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000340"
+            },
+            {
+              "stable_id": "asr-000347",
+              "start_seconds": 4280.16,
+              "clock": "01:11:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000347"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 priorities and proposed initiatives",
+          "text": "For FY2027, DEPDev said it would strengthen its planning, policy-advisory, and development-coordination role; intensify proactive policy advice and monitoring and evaluation; update Ambisyon Natin 2040; implement program-convergence budgeting; complete a comprehensive infrastructure development master plan; address policy and regulatory constraints to innovation; strengthen local-government planning and evaluation capacity; and translate Philippine Development Forum outcomes into interagency reforms. It also planned digital transformation, knowledge management and organizational development.",
+          "citations": [
+            {
+              "stable_id": "asr-000449",
+              "start_seconds": 4591.1,
+              "clock": "01:16:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000449"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-priorities",
+      "label": "Opening priorities",
+      "items": [
+        {
+          "label": "Fiscal constraints and household welfare",
+          "text": "Committee Chair Senator Joseph Victor \"JV\" G. Ejercito opened the FY2027 budget deliberation for the Department of Economy, Planning and Development (DEPDev) and its attached agencies and corporations. He said limited fiscal space required careful choices about where public funds go, especially amid external shocks including Middle East conflicts, higher oil, transport, food, and other essential costs, and rising inflation. He cited 4.4% economic growth in 2025, weak growth this year, inflation of 6.1% in August, and more than 11 million Filipinos still below the poverty line despite a decline in poverty. He said growth should be judged by whether people's lives improve, and described DEPDev's role in guiding national direction, prioritizing investments, and selecting programs and infrastructure with lasting public benefit.",
+          "citations": [
+            {
+              "stable_id": "asr-000130",
+              "start_seconds": 3515.68,
+              "clock": "00:58:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000130"
+            }
+          ]
+        },
+        {
+          "label": "MIND Act and the purpose of the budget",
+          "text": "Ejercito said DEPDev would oversee fulfillment of the Master Plan for Infrastructure and National Development (MIND) Act if it became law, and expressed hope that its budget would help prepare for implementation. He asked whether the resources proposed for 2027 would let DEPDev shape development, guide government priorities, create jobs, reduce poverty, raise incomes, strengthen the economy, and improve Filipino families' quality of life. He hoped the deliberations would show that the budget could meet those aims.",
+          "citations": [
+            {
+              "stable_id": "asr-000159",
+              "start_seconds": 3599.3,
+              "clock": "00:59:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000159"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-panfilo-lacson",
+      "label": "Senator Panfilo Lacson",
+      "items": [
+        {
+          "label": "Registration gaps and National ID use",
+          "text": "Mapa said 97 million citizens had been registered against a 2026 population estimate of 114 million, leaving 17 million unregistered. He identified about 7 million of that gap as children aged 0-4, who were not yet required to register, and described overseas Filipinos as another large group; PSA had been unable to conduct registration visits in the Middle East amid security concerns but would resume when access allowed. Separately, on birth registration, Mapa said about 97% of the population had birth records, leaving roughly 3.5 million without them, including a substantial number in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM).\n\nOn use, Mapa said some agencies still use their own IDs, while social protection programs including 4Ps use the National ID database for biometric authentication and duplicate detection. He said the ID had been used for 114 million authentications from January through September 15, 2026, mostly in private financial services. PSA projected about 150 million authentications for the year, around 1.5 times registrants, and said use could grow to four or five authentications per registered person.",
+          "citations": [
+            {
+              "stable_id": "asr-000758",
+              "start_seconds": 5176.16,
+              "clock": "01:26:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000758"
+            },
+            {
+              "stable_id": "asr-000826",
+              "start_seconds": 5263.78,
+              "clock": "01:27:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000826"
+            },
+            {
+              "stable_id": "asr-000940",
+              "start_seconds": 5400.0,
+              "clock": "01:30:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000940"
+            },
+            {
+              "stable_id": "asr-000944",
+              "start_seconds": 5459.38,
+              "clock": "01:30:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000944"
+            },
+            {
+              "stable_id": "asr-000974",
+              "start_seconds": 5704.44,
+              "clock": "01:35:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000974"
+            }
+          ]
+        },
+        {
+          "label": "Dubious registrations and blocked records",
+          "text": "Lacson asked whether PSA was purging duplicate or dubiously acquired National IDs. Mapa said PSA investigated suspected non-Filipino late registrants and had blocked close to 1,600 records in its system; birth-certificate cancellations still required court action. PSA had a Senate bill seeking authority for administrative cancellation of fraudulent registrations. Lacson asked PSA to submit the list of blocked late-registration cases for committee investigation, and Mapa agreed. He said blocked-case information was shared with national security agencies and that PSA could provide names to the committee. Lacson cited reports of PHP 500,000 being charged for a late birth registration and framed the issue as a security risk; Mapa did not verify that alleged price.",
+          "citations": [
+            {
+              "stable_id": "asr-000980",
+              "start_seconds": 5752.6,
+              "clock": "01:35:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000980"
+            },
+            {
+              "stable_id": "asr-000985",
+              "start_seconds": 5784.4,
+              "clock": "01:36:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000985"
+            },
+            {
+              "stable_id": "asr-000993",
+              "start_seconds": 5830.56,
+              "clock": "01:37:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000993"
+            },
+            {
+              "stable_id": "asr-001000",
+              "start_seconds": 5852.88,
+              "clock": "01:37:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001000"
+            }
+          ]
+        },
+        {
+          "label": "PILSys number, tokenization, and offline checks",
+          "text": "Lacson asked how PSA would resolve the concern that the law placed the PhilSys number on the card's face while data-privacy concerns had led to a temporary number being displayed. Mapa said the displayed number was tokenized and linked to the PhilSys number at the back end. He agreed that a proposed amendment to the PhilSys Act could keep the number from being exposed. Lacson noted that someone who lost the separate number could be left with only the temporary number, and that an offline check might not reveal the link. Mapa said new technology could link the records during offline authentication.",
+          "citations": [
+            {
+              "stable_id": "asr-001012",
+              "start_seconds": 5900.1,
+              "clock": "01:38:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001012"
+            },
+            {
+              "stable_id": "asr-001030",
+              "start_seconds": 5976.1,
+              "clock": "01:39:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001030"
+            },
+            {
+              "stable_id": "asr-001044",
+              "start_seconds": 6016.4400000000005,
+              "clock": "01:40:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001044"
+            }
+          ]
+        },
+        {
+          "label": "Acceptance of the National ID and second-ID requests",
+          "text": "Lacson said agencies and private institutions were still asking for a second ID despite the law's acceptance requirement, and cited Section 19's PHP 500,000 fine for refusing a properly authenticated PhilID or PSN without sufficient cause. Mapa said reported refusals were declining in monthly field-office feedback. PSA reported financial institutions to the Bangko Sentral ng Pilipinas, said government refusals were now rare and often in provincial areas, and was running an information campaign while encouraging acceptance. Senator Joseph Victor \"JV\" G. Ejercito asked whether missing signatures explained requests for a second ID. Mapa said early non-acceptance had several causes, including adjustment to a new system and signature concerns, but current authentication through facial recognition or fingerprints no longer required a signature. He offered to share monthly tracking reports.",
+          "citations": [
+            {
+              "stable_id": "asr-001048",
+              "start_seconds": 6029.54,
+              "clock": "01:40:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001048"
+            },
+            {
+              "stable_id": "asr-001061",
+              "start_seconds": 6065.92,
+              "clock": "01:41:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001061"
+            },
+            {
+              "stable_id": "asr-001068",
+              "start_seconds": 6082.5,
+              "clock": "01:41:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001068"
+            },
+            {
+              "stable_id": "asr-001113",
+              "start_seconds": 6225.24,
+              "clock": "01:43:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001113"
+            },
+            {
+              "stable_id": "asr-001128",
+              "start_seconds": 6257.5,
+              "clock": "01:44:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001128"
+            }
+          ]
+        },
+        {
+          "label": "Physical-card printing disruption",
+          "text": "Asked about problems during initial implementation, Mapa identified printing of the physical card as an operational problem. He said PSA had withdrawn from its memorandum of agreement with the Bangko Sentral ng Pilipinas because the service provider failed to deliver as promised, and was starting with a new provider. Lacson suggested there had been a major glitch and someone had interfered, but Mapa limited her confirmation to a printing glitch and did not confirm the contract allegation.",
+          "citations": [
+            {
+              "stable_id": "asr-001084",
+              "start_seconds": 6140.76,
+              "clock": "01:42:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001084"
+            },
+            {
+              "stable_id": "asr-001088",
+              "start_seconds": 6160.66,
+              "clock": "01:42:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001088"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-raffy-t-tulfo",
+      "label": "Senator Raffy T. Tulfo",
+      "items": [
+        {
+          "label": "Late birth registration and proposed time limit",
+          "text": "Lacson raised late birth registration as a possible national security concern, citing intelligence personnel's reports of thousands of cases and saying many were from China. Senator Raffy T. Tulfo interjected that foreign nationals had obtained Filipino citizenship through late registration and urged a one-year amnesty period, followed by an end to new late registrations. Mapa said PSA had proposed an executive order for a one-year drive to reach unregistered people and remove fees, and had required late registrants to appear in person so the National ID team could collect biometric and demographic data. He agreed a time limit was needed and said PSA's birth registration assistance program had reduced a figure of nearly 4 million unregistered people in 2020 by registering about 600,000 since then. Mapa also said birth registration is a universal right and late registration could not simply be stopped. No final end date or disposition of the proposed executive order was reported.",
+          "citations": [
+            {
+              "stable_id": "asr-000770",
+              "start_seconds": 5192.18,
+              "clock": "01:26:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000770"
+            },
+            {
+              "stable_id": "asr-000949",
+              "start_seconds": 5525.32,
+              "clock": "01:32:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000949"
+            },
+            {
+              "stable_id": "asr-000958",
+              "start_seconds": 5584.86,
+              "clock": "01:33:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000958"
+            },
+            {
+              "stable_id": "asr-000965",
+              "start_seconds": 5647.44,
+              "clock": "01:34:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000965"
+            }
+          ]
+        },
+        {
+          "label": "Civil-registry safeguards and proposed data fields",
+          "text": "Senator Raffy T. Tulfo argued that Philippine Statistics Authority (PSA) civil-registry forms omit parents' exact dates of birth, previous or dual nationalities, and known aliases, leaving gaps that could be exploited through late birth registration. He cited 1.2 million to 1.4 million births registered annually and urged the Department of Justice (DOJ) to coordinate with civil-registry and local-government authorities on adding these fields to birth, marriage, and death forms. He said the additional data could support automated lineage checks against historical records, reduce reliance on affidavits, help prevent fraudulent passports and identity changes, and aid law-enforcement and national-security investigations.\n\nAfter showing a birth-certificate form without the parents' birth dates, Tulfo asked whether PSA could add those dates and require proof of the parents' records, or use a searchable number. PSA Undersecretary Claire Dennis S. Mapa supported the proposal. He said some of the suggested fields were in the pending Civil Registration and Vital Statistics Bill; PSA would seek their inclusion in a new law and, if adding parents' dates fell within the Civil Register General's authority, would put them on the new form.",
+          "citations": [
+            {
+              "stable_id": "asr-001209",
+              "start_seconds": 6437.26,
+              "clock": "01:47:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001209"
+            },
+            {
+              "stable_id": "asr-001307",
+              "start_seconds": 6633.92,
+              "clock": "01:50:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001307"
+            },
+            {
+              "stable_id": "asr-001325",
+              "start_seconds": 6669.06,
+              "clock": "01:51:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001325"
+            }
+          ]
+        },
+        {
+          "label": "Audits and safeguards for late registration",
+          "text": "Tulfo asked whether PSA had cleaned records connected to roughly 6,000 suspected fraudulent late registrations in Mindanao that he said had been under NBI investigation. Mapa identified a case in Santa Cruz, Davao, and said PSA had blocked it, was coordinating with the National Bureau of Investigation (NBI), and had sent names to the Bureau of Immigration (BI) and other national-security agencies for database checks. He described further work with NBI to review local civil-registry offices.\n\nAsked what safeguards were now in place, Mapa said late-registration procedures had been strengthened: applicants must appear in person and register in the national ID system. Late registrations from 2010 through 2023 were subject to PSA audit. He said PSA had assessed close to 50,000 cases as potentially fraudulent and was searching barangays for the people registered, with a report on the work.",
+          "citations": [
+            {
+              "stable_id": "asr-001351",
+              "start_seconds": 6720.98,
+              "clock": "01:52:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001351"
+            },
+            {
+              "stable_id": "asr-001367",
+              "start_seconds": 6751.9,
+              "clock": "01:52:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001367"
+            },
+            {
+              "stable_id": "asr-001387",
+              "start_seconds": 6791.84,
+              "clock": "01:53:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001387"
+            },
+            {
+              "stable_id": "asr-001399",
+              "start_seconds": 6815.84,
+              "clock": "01:53:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001399"
+            }
+          ]
+        },
+        {
+          "label": "Civil registrar cases and reporting",
+          "text": "Tulfo asked for an update on cases involving local civil registrars implicated in late-registration anomalies. Mapa said he would provide details; he referred to cases and said PSA was asking local chief executives, who oversee local registrars, to pursue administrative cases. He said many registrars had been removed. PSA was also sending names to NBI and other national-security agencies and providing quarterly reports to the Senate on its audit and cleanup work. Mapa said PSA had submitted about five reports and would provide copies.",
+          "citations": [
+            {
+              "stable_id": "asr-001424",
+              "start_seconds": 6865.9400000000005,
+              "clock": "01:54:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001424"
+            },
+            {
+              "stable_id": "asr-001432",
+              "start_seconds": 6881.14,
+              "clock": "01:54:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001432"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-francis-kiko-pangilinan",
+      "label": "Senator Francis Kiko Pangilinan",
+      "items": [
+        {
+          "label": "National ID as sufficient identification",
+          "text": "Senator Francis Kiko Pangilinan asked why a second identification document was required when a person already had a National ID. He cited company registration with the Securities and Exchange Commission (SEC) as an example and argued that government should decide promptly that the National ID suffices. PSA Undersecretary Claire Dennis S. Mapa said the central bank, one of PSA's partners, had given clear instructions, and that the number of cases requiring two documents was declining. When Pangilinan asked specifically why the SEC required two IDs for a new company, Mapa said PSA would reach out to the SEC. He also pointed to rising authentications: 30.6 million during 2025 and 114 million from January through September 15, 2026. Mapa said the data suggested the transition was accelerating.",
+          "citations": [
+            {
+              "stable_id": "asr-001145",
+              "start_seconds": 6314.84,
+              "clock": "01:45:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001145"
+            },
+            {
+              "stable_id": "asr-001148",
+              "start_seconds": 6322.9,
+              "clock": "01:45:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001148"
+            },
+            {
+              "stable_id": "asr-001165",
+              "start_seconds": 6353.7,
+              "clock": "01:45:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001165"
+            },
+            {
+              "stable_id": "asr-001188",
+              "start_seconds": 6396.34,
+              "clock": "01:46:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001188"
+            }
+          ]
+        },
+        {
+          "label": "Civil registration legislation",
+          "text": "Senator Francis Kiko Pangilinan said the Civil Registration and Vital Statistics Bill, sponsored by the Senate President, was pending before the Senate Committee on Justice, which he chaired. The committee had held a hearing and was working through a technical working group; he expected it to advance so lawmakers could address challenges Senator Raffy Tulfo had raised. Pangilinan suggested Balisacan could lobby the House, where the measure was also still at committee level.",
+          "citations": [
+            {
+              "stable_id": "asr-001462",
+              "start_seconds": 6940.98,
+              "clock": "01:55:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001462"
+            }
+          ]
+        },
+        {
+          "label": "Rice prices, imports, and competition",
+          "text": "Pangilinan asked why rice prices remained high despite imports he described as 5 million metric tons. He cited year-on-year rice price inflation of about 19%, then referred to a 19.4% rise, while noting other pressures including oil and fertilizer prices and El Nino. Balisacan said that lowering the rice tariff to 15% had helped briefly, but retail prices stayed high for months despite the tariff reduction and falling world prices.\n\nBalisacan said the causes were mixed and included possible anti-competitive conduct in trading, wholesaling, or importation; he said DEPDev had asked the Philippine Competition Commission (PCC) to investigate. He also cited logistics bottlenecks and quantitative restrictions affecting import decisions and market functioning. He agreed that rice was the leading contributor to food inflation; Pangilinan added that it was driving nationwide inflation as well. Balisacan offered to share DEPDev's recent paper on rice-price behavior.",
+          "citations": [
+            {
+              "stable_id": "asr-001496",
+              "start_seconds": 7007.68,
+              "clock": "01:56:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001496"
+            },
+            {
+              "stable_id": "asr-001551",
+              "start_seconds": 7125.54,
+              "clock": "01:58:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001551"
+            },
+            {
+              "stable_id": "asr-001584",
+              "start_seconds": 7186.9400000000005,
+              "clock": "01:59:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001584"
+            },
+            {
+              "stable_id": "asr-001591",
+              "start_seconds": 7200.0,
+              "clock": "02:00:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001591"
+            }
+          ]
+        },
+        {
+          "label": "Onion cartel penalty and PCC status",
+          "text": "Pangilinan asked about a PCC-recommended penalty of about PHP 2.6 billion against an onion cartel, which he said had not been enforced and remained on appeal. He questioned the delay and whether cases would be filed. Balisacan said he did not know the current status because he was no longer PCC chair when the decision was made; he described the PCC as independent and said it was headed by Mike Aguinaldo. Pangilinan maintained that a recommendation still pending years later raised concerns about enforcement; Balisacan did not confirm the case status.",
+          "citations": [
+            {
+              "stable_id": "asr-001608",
+              "start_seconds": 7323.1,
+              "clock": "02:02:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001608"
+            },
+            {
+              "stable_id": "asr-001609",
+              "start_seconds": 7337.92,
+              "clock": "02:02:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001609"
+            },
+            {
+              "stable_id": "asr-001624",
+              "start_seconds": 7419.44,
+              "clock": "02:03:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001624"
+            }
+          ]
+        },
+        {
+          "label": "Poverty measure and more recent household pressures",
+          "text": "Pangilinan questioned the reported 9.7% poverty incidence against rising food and fuel costs, and asked whether the earlier figure had been 15% or 16%. Balisacan clarified that the comparison was between 2023 and 2025, not 2026: the 9.7% figure was for 2025, when inflation was about 1.6%. He attributed the decline to broadly shared nominal household-income growth of over 20% across income deciles and improving labor-market conditions during that low-inflation period. He distinguished 2026 as a different period, citing the Middle East conflict, higher oil prices, slower growth, and high inflation; he said these could have eroded some gains but did not believe they had wiped them out, while unemployment had risen in recent quarters.",
+          "citations": [
+            {
+              "stable_id": "asr-001643",
+              "start_seconds": 7475.24,
+              "clock": "02:04:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001643"
+            },
+            {
+              "stable_id": "asr-001655",
+              "start_seconds": 7505.16,
+              "clock": "02:05:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001655"
+            },
+            {
+              "stable_id": "asr-001674",
+              "start_seconds": 7603.92,
+              "clock": "02:06:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001674"
+            }
+          ]
+        },
+        {
+          "label": "Inflation, exchange-rate uncertainty, debt, and fiscal consolidation",
+          "text": "Asked where the economy was headed over the next two years, including inflation, national debt, and the peso, Balisacan said the exchange rate depended on domestic and external factors; higher U.S. Federal Reserve rates could put pressure on the peso. He said recovery could follow if the government addressed the sources of pessimism from the previous three quarters, but the Middle East conflict and energy prices remained major uncertainties. Pangilinan asked for projected national debt in June 2028, but Balisacan gave no debt figure. He instead described fiscal consolidation, a budget increase he characterized as small and flat in real terms, and an agreed direction to focus borrowing on capital outlay and infrastructure rather than operating expenses. He identified energy vulnerability as a source of exposure when world prices rise.",
+          "citations": [
+            {
+              "stable_id": "asr-001683",
+              "start_seconds": 7656.86,
+              "clock": "02:07:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001683"
+            },
+            {
+              "stable_id": "asr-001685",
+              "start_seconds": 7673.82,
+              "clock": "02:07:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001685"
+            },
+            {
+              "stable_id": "asr-001697",
+              "start_seconds": 7797.02,
+              "clock": "02:09:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001697"
+            },
+            {
+              "stable_id": "asr-001698",
+              "start_seconds": 7802.46,
+              "clock": "02:10:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001698"
+            }
+          ]
+        },
+        {
+          "label": "Agricultural economic sabotage enforcement",
+          "text": "Pangilinan asked DEPDev for a position paper on the Agri-Economic Sabotage Law and its enforcement after two years. He argued that the enforcement structure excluded the Bureau of Customs and Department of Agriculture from the enforcement body despite their roles, and said information-sharing had become more difficult. He asked whether the law should be revisited, citing a PHP 10 million threshold he said allowed a non-bailable offense and government announcements of 500 million in cigarette seizures and 100 million in meat seizures, while major smugglers were not being jailed. He argued that enforcement should reach major smugglers and protect local agriculture and fisheries. No position paper or response is recorded in this unit.",
+          "citations": [
+            {
+              "stable_id": "asr-001730",
+              "start_seconds": 7916.08,
+              "clock": "02:11:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001730"
+            },
+            {
+              "stable_id": "asr-001755",
+              "start_seconds": 8026.46,
+              "clock": "02:13:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001755"
+            },
+            {
+              "stable_id": "asr-001758",
+              "start_seconds": 8039.0,
+              "clock": "02:13:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001758"
+            },
+            {
+              "stable_id": "asr-001759",
+              "start_seconds": 8043.7,
+              "clock": "02:14:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001759"
+            }
+          ]
+        },
+        {
+          "label": "El Nino preparedness",
+          "text": "Pangilinan asked whether an interagency El Nino task force was active and what interventions it would undertake for farm incomes, output, and food supply. DEPDev Undersecretary Carlos Bernardo O. Abad Santos said the task force had been reconstituted under the Department of National Defense (DND) and described coordination among core agencies, including Energy, Agriculture, the National Irrigation Administration, Health, and local government, to review interventions ahead of El Nino. Pangilinan asked DEPDev to submit recommendations on the task force response and emphasized timely intervention; no specific recommendations were provided in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-001953",
+              "start_seconds": 8525.08,
+              "clock": "02:22:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001953"
+            },
+            {
+              "stable_id": "asr-001969",
+              "start_seconds": 8566.96,
+              "clock": "02:22:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001969"
+            },
+            {
+              "stable_id": "asr-001997",
+              "start_seconds": 8622.64,
+              "clock": "02:23:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-001997"
+            }
+          ]
+        },
+        {
+          "label": "Pork MAV, consultation, and decision-making authority",
+          "text": "Pangilinan relayed pork producers' concern that they had received insufficient consultation on a possible adjustment to the revised minimum access volume (MAV), and asked whether the quota was being exhausted given a reported negative 4.5% pork inflation rate. Balisacan said the executive order implementing the revised MAV had not been implemented and remained with DA; the policy had not changed. He said pork prices had fallen since around August after rising from August 2024 to August 2025, leaving prices roughly flat across the combined periods. Pangilinan offered to relay producers' concerns through the Tariff Committee.\n\nThe officials clarified that MAV implementation was a DA matter. Balisacan distinguished the MAV Council from the Tariff and Related Matters Committee, which handles tariff changes and trade remedies through the Tariff Commission. The requested producer consultation or any MAV change was not decided in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002025",
+              "start_seconds": 8676.78,
+              "clock": "02:24:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002025"
+            },
+            {
+              "stable_id": "asr-002061",
+              "start_seconds": 8735.78,
+              "clock": "02:25:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002061"
+            },
+            {
+              "stable_id": "asr-002158",
+              "start_seconds": 8840.78,
+              "clock": "02:27:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002158"
+            },
+            {
+              "stable_id": "asr-002178",
+              "start_seconds": 8867.78,
+              "clock": "02:27:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002178"
+            },
+            {
+              "stable_id": "asr-002193",
+              "start_seconds": 8884.78,
+              "clock": "02:28:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002193"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-erwin-tulfo",
+      "label": "Senator Erwin Tulfo",
+      "items": [
+        {
+          "label": "Foreign investment pledges",
+          "text": "Senator Erwin Tulfo asked how many investment pledges made during President Ferdinand Marcos Jr's overseas visits since 2022 had been fulfilled. He recalled hearing of several billion dollars in pledges. Department of Economy, Planning and Development (DEPDev) Secretary Arsenio M. Balisacan said he would obtain the monitoring information from the official who had overseen the commitments before moving to the Department of Finance (DOF), and submit it to the committee. Tulfo asked him to do so, saying he believed most pledges had been fruitful and that the visits had not been wasted.",
+          "citations": [
+            {
+              "stable_id": "asr-002233",
+              "start_seconds": 8924.78,
+              "clock": "02:28:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002233"
+            },
+            {
+              "stable_id": "asr-002266",
+              "start_seconds": 8957.78,
+              "clock": "02:29:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002266"
+            },
+            {
+              "stable_id": "asr-002276",
+              "start_seconds": 8968.78,
+              "clock": "02:29:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002276"
+            }
+          ]
+        },
+        {
+          "label": "Happiness ranking and its measure",
+          "text": "Tulfo asked why the Philippines ranked fourth happiest in Southeast Asia and 56th worldwide in the 2026 World Happiness Report. Balisacan said such rankings generally measure perceptions and are not strictly comparable with conventional indicators such as employment, inflation, or GDP. He cited Bhutan's Gross Domestic Happiness as an example of an alternative well-being measure, while saying it had not become part of mainstream global statistical reporting. At Tulfo's request, Balisacan said he would look into the factors used in the report.",
+          "citations": [
+            {
+              "stable_id": "asr-002315",
+              "start_seconds": 9013.18,
+              "clock": "02:30:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002315"
+            },
+            {
+              "stable_id": "asr-002318",
+              "start_seconds": 9061.74,
+              "clock": "02:31:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002318"
+            },
+            {
+              "stable_id": "asr-002327",
+              "start_seconds": 9206.4,
+              "clock": "02:33:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002327"
+            }
+          ]
+        },
+        {
+          "label": "Lifetime validity for PWD IDs",
+          "text": "Tulfo asked whether the National ID incorporated the status of persons with disabilities (PWDs), arguing that people with permanent disabilities should not have to renew PWD IDs every one, two, or three years and travel to city hall. He said he had filed a bill for lifetime validity. Balisacan said the proposal was under discussion with the board of the National Council on Disability Affairs (NCDA); after it made a recommendation, DEPDev would pass it to the Philippine Statistics Authority (PSA) for action.",
+          "citations": [
+            {
+              "stable_id": "asr-002330",
+              "start_seconds": 9223.18,
+              "clock": "02:33:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002330"
+            },
+            {
+              "stable_id": "asr-002334",
+              "start_seconds": 9283.18,
+              "clock": "02:34:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002334"
+            }
+          ]
+        },
+        {
+          "label": "Proposed Philippine Oil Reserve",
+          "text": "Tulfo asked DEPDev's position on his proposed Philippine Oil Reserve bill. He said representatives of the Abu Dhabi National Oil Company (ADNOC) had expressed interest in storage facilities across Luzon, Visayas, and Mindanao, with capacity of about 50 million barrels; he estimated the facilities would require around 500 hectares. He said the country consumes about 450,000 barrels per day. Tulfo also described interest from Saudi Aramco: the companies would build and supply the reserves, the Philippines would provide land, and the country would receive first priority for the stored fuel. He said this would require no Philippine outlay and could slightly reduce prices by avoiding some transport, and mentioned Department of Energy (DOE) discussions with Japan's Ministry of Economy, Trade and Industry (METI). These were Tulfo's descriptions of proposals, not an agreed arrangement.\n\nBalisacan said the country should explore the proposal and choose the most fiscally and economically viable approach, given the high cost and security importance of energy. He also supported diversifying energy sources, including considering nuclear power if the technology could be managed safely. Tulfo asked him to raise the storage proposals with the President, saying Marcos had been informed of ADNOC's interest and Saudi Arabia had recently made a similar proposal.",
+          "citations": [
+            {
+              "stable_id": "asr-002336",
+              "start_seconds": 9301.96,
+              "clock": "02:35:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002336"
+            },
+            {
+              "stable_id": "asr-002340",
+              "start_seconds": 9341.0,
+              "clock": "02:35:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002340"
+            },
+            {
+              "stable_id": "asr-002348",
+              "start_seconds": 9452.32,
+              "clock": "02:37:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002348"
+            },
+            {
+              "stable_id": "asr-002355",
+              "start_seconds": 9588.54,
+              "clock": "02:39:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002355"
+            }
+          ]
+        },
+        {
+          "label": "Electricity prices and spot-market claims",
+          "text": "Tulfo said electricity was among the most expensive in Southeast Asia and attributed about 60% of power generation to coal and 10% to 15% to bunker fuel. He said coal cost around PHP 3 per kilowatt-hour while bunker fuel cost PHP 25 to PHP 35, and claimed the Wholesale Electricity Spot Market (WESM) was bringing the prices level despite the fuel mix. He questioned whether shipping could explain the difference, and asked DEPDev to alert the spot market and the Energy Regulatory Commission (ERC) so they could examine it. Balisacan replied that he would look into the issue. These fuel shares, prices, and spot-market explanation were Tulfo's claims during the exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002360",
+              "start_seconds": 9629.6,
+              "clock": "02:40:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002360"
+            },
+            {
+              "stable_id": "asr-002366",
+              "start_seconds": 9694.96,
+              "clock": "02:41:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002366"
+            },
+            {
+              "stable_id": "asr-002377",
+              "start_seconds": 9804.88,
+              "clock": "02:43:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002377"
+            }
+          ]
+        },
+        {
+          "label": "Legislative reforms and growth outlook",
+          "text": "As vice chair of the Senate's Reinvigorate Investment and Sustainable Economic Growth (RISE) Ad Hoc Committee, Tulfo asked about legislative reforms and long-term measures after the economic slowdown. Balisacan said the Legislative-Executive Development Advisory Council (LEDAC) list included about 23 measures committed by the two chambers and the Executive for passage by June next year. He cited amendments to the Electric Power Industry Reform Act (EPIRA) to address high electricity costs, as well as measures for accountability, transparency, and access to information.\n\nTulfo asked whether lower construction spending had contributed to the slowdown and whether the 2027 infrastructure budget would help. Balisacan said public investment had sharply contracted in the last two quarters, reducing GDP growth by at least one percentage point. He also cited Middle East conflict-related inflation, weaker consumer purchasing power, and lower investment sentiment; consumption accounts for nearly two-thirds of the economy, and private investment had also been hurt by falling public investment. He said recovery was beginning. Balisacan reported that DBM expected agency budget releases and contract disbursements with clear records to support renewed construction; public investment had contracted by almost 30% per quarter in the prior two quarters, and unspent funds plus the current quarter's budgets would need to be mobilized in the final quarter. He pointed to projects at DPWH, DepEd, and DA, including classrooms, farm-to-market roads, and irrigation.",
+          "citations": [
+            {
+              "stable_id": "asr-002438",
+              "start_seconds": 10474.32,
+              "clock": "02:54:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002438"
+            },
+            {
+              "stable_id": "asr-002440",
+              "start_seconds": 10508.4,
+              "clock": "02:55:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002440"
+            },
+            {
+              "stable_id": "asr-002447",
+              "start_seconds": 10592.96,
+              "clock": "02:56:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002447"
+            },
+            {
+              "stable_id": "asr-002451",
+              "start_seconds": 10637.68,
+              "clock": "02:57:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002451"
+            },
+            {
+              "stable_id": "asr-002459",
+              "start_seconds": 10770.4,
+              "clock": "02:59:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002459"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Growth and the pace of public spending",
+          "text": "Ejercito asked how public spending could help growth recover after the flood-control scandal. Balisacan said the government was still hoping to reach the low end of its 3.5%-4.5% growth target. Ejercito urged a balance between accountability for wrongdoing and faster growth through public spending; Balisacan agreed.",
+          "citations": [
+            {
+              "stable_id": "asr-002485",
+              "start_seconds": 10899.22,
+              "clock": "03:01:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002485"
+            },
+            {
+              "stable_id": "asr-002494",
+              "start_seconds": 10932.52,
+              "clock": "03:02:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002494"
+            },
+            {
+              "stable_id": "asr-002512",
+              "start_seconds": 10977.04,
+              "clock": "03:02:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002512"
+            },
+            {
+              "stable_id": "asr-002519",
+              "start_seconds": 10996.14,
+              "clock": "03:03:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002519"
+            }
+          ]
+        },
+        {
+          "label": "RDC review and infrastructure monitoring",
+          "text": "Ejercito asked whether stronger RDC review before funding could improve project selection and prevent wasteful or corrupt projects. He cited large seawalls that he said protected no community. Balisacan described three measures: broader monitoring by DEPDev and other agencies using technology; requiring projects such as flood control to follow government-confirmed and approved master plans; and developing a common infrastructure-monitoring platform with DBM. He said disconnected DEPDev and DBM systems could leave planned projects out of budgets, and that projects should align with the Public Investment Program and Philippine Development Plan. ",
+          "citations": [
+            {
+              "stable_id": "asr-002573",
+              "start_seconds": 11205.64,
+              "clock": "03:06:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002573"
+            },
+            {
+              "stable_id": "asr-002616",
+              "start_seconds": 11288.36,
+              "clock": "03:08:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002616"
+            }
+          ]
+        },
+        {
+          "label": "Water retention and continuity of infrastructure plans",
+          "text": "Ejercito urged upstream dams and water-retention or detention facilities alongside irrigation, arguing that they could slow floodwater and store water for dry periods. Balisacan agreed that cascading retention projects had been needed for years and said they should be part of a long-term infrastructure roadmap. He described a presidential directive for DEPDev and infrastructure agencies to produce a clear flood-control master plan with identified funding, including initial cisterns for Metro Manila as part of the longer-term plan. Ejercito then asked DEPDev to support his proposed Master Plan for Infrastructure and National Development (MIND) Act so major infrastructure plans would survive changes in administration. Balisacan supported the bill, saying DEPDev's charter makes it custodian of long-term infrastructure master plans and the bill could strengthen that role. Ejercito urged planning for a 50-to-100-year horizon rather than a six-year presidential term. Balisacan said the bill's institutional arrangements should support smooth transitions and require proposed deviations from a master plan to go to the Economy and Development Council, chaired by the President, for approval rather than being made unilaterally. Ejercito also asked how the plan would connect projects across the Department of Public Works and Highways (DPWH), Department of Transportation (DOTr), Department of Agriculture (DA), local government units (LGUs), and other agencies; Balisacan said continuity and coordination could prevent misaligned projects, added expense, and delays.",
+          "citations": [
+            {
+              "stable_id": "asr-002717",
+              "start_seconds": 11507.02,
+              "clock": "03:11:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002717"
+            },
+            {
+              "stable_id": "asr-002795",
+              "start_seconds": 11657.12,
+              "clock": "03:14:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002795"
+            },
+            {
+              "stable_id": "asr-002839",
+              "start_seconds": 11748.48,
+              "clock": "03:15:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002839"
+            },
+            {
+              "stable_id": "asr-002869",
+              "start_seconds": 11830.78,
+              "clock": "03:17:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002869"
+            },
+            {
+              "stable_id": "asr-002872",
+              "start_seconds": 11876.46,
+              "clock": "03:17:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002872"
+            },
+            {
+              "stable_id": "asr-002878",
+              "start_seconds": 11967.16,
+              "clock": "03:19:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002878"
+            },
+            {
+              "stable_id": "asr-002888",
+              "start_seconds": 12001.74,
+              "clock": "03:20:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002888"
+            }
+          ]
+        },
+        {
+          "label": "Rail financing and regional growth",
+          "text": "Ejercito asked whether DEPDev could help find funders and implementers for the South Long Haul and Mindanao Railway projects, which he said had not proceeded and might have involved China Eximbank. He contrasted them with the North-South Commuter Railway (NSCR) and Metro Manila Subway, which he associated with Japan, the Japan International Cooperation Agency (JICA), and the Asian Development Bank (ADB). Balisacan said the government, through the Department of Finance (DOF), remained open to other participants. He cited discussions with Spain and France about financing South Long Haul, but explained that the earlier feasibility study had been prepared by a Chinese consultant and a new partner could bring different technology, requiring the preparation to start nearly over. He also said railways had been discussed during the President's visit to India. No new financing agreement was announced.\n\nEjercito argued that rail links could spread growth beyond Metro Manila and support jobs and growth areas in Mindanao and Bicol. Balisacan agreed that better rail connections could make growth more inclusive rather than Manila-centered. He described earlier discussions about preparing feasibility work for a rail line from Manila or Clark toward Cagayan and said rail was a lower-cost way to move goods than the usual bus or truck system. Ejercito supported continued work on Mindanao Railway and South Long Haul, He also supported cargo service for Cagayan Valley.",
+          "citations": [
+            {
+              "stable_id": "asr-003016",
+              "start_seconds": 12240.52,
+              "clock": "03:24:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003016"
+            },
+            {
+              "stable_id": "asr-003026",
+              "start_seconds": 12256.24,
+              "clock": "03:24:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003026"
+            },
+            {
+              "stable_id": "asr-003060",
+              "start_seconds": 12300.74,
+              "clock": "03:25:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003060"
+            },
+            {
+              "stable_id": "asr-003131",
+              "start_seconds": 12427.38,
+              "clock": "03:27:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003131"
+            },
+            {
+              "stable_id": "asr-003213",
+              "start_seconds": 12589.64,
+              "clock": "03:29:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003213"
+            }
+          ]
+        },
+        {
+          "label": "Cancer-center PPP and project pipeline",
+          "text": "Ejercito asked what the Public-Private Partnership Center of the Philippines (PPP Center) did to make projects viable, bankable, and attractive after the University of the Philippines-Philippine General Hospital (UP-PGH) Cancer Center project received no bids by its August 4 deadline. PPP Center Executive Director Rizza Blanco-Latorre said the Center provides implementing agencies technical assistance from project development through evaluation, approval, and monitoring. No private company submitted a bid, although four firms had bought bid documents. Blanco-Latorre said prospective bidders cited the long interval from project approval to bidding and costs they considered too high after economic changes over the preceding six months. At least two of the four still wanted to support the project, and the Center, hospital, and management team were discussing how to revive it and update its assumptions.\n\nAsked about other near-term opportunities, Blanco-Latorre said the pipeline had more than 250 public-private partnership projects across national agencies and LGUs at different development stages. She described week-on-week monitoring of about 10% of that pipeline and said 25 to 30 projects were expected to be awarded during the administration. She added that some long-delayed projects had been approved and implemented and were expected to begin operating in the coming months.",
+          "citations": [
+            {
+              "stable_id": "asr-003275",
+              "start_seconds": 12709.92,
+              "clock": "03:31:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003275"
+            },
+            {
+              "stable_id": "asr-003293",
+              "start_seconds": 12740.38,
+              "clock": "03:32:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003293"
+            },
+            {
+              "stable_id": "asr-003355",
+              "start_seconds": 12850.16,
+              "clock": "03:34:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003355"
+            },
+            {
+              "stable_id": "asr-003361",
+              "start_seconds": 12865.2,
+              "clock": "03:34:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003361"
+            }
+          ]
+        },
+        {
+          "label": "CBMS data for assistance and local planning",
+          "text": "Ejercito noted the higher proposed 2027 budget for the Philippine Statistics Authority (PSA) to conduct the Community-Based Monitoring System (CBMS) and asked whether updated data were already guiding social-protection assistance and how often CBMS was updated. PSA Undersecretary Claire Dennis S. Mapa said the 2024 CBMS had data from all LGUs and was conducted alongside the census. He said relatively recent CBMS data supported a new assistance list covering 7.5 million households and were also provided to local governments for planning. Under the CBMS Act, the system is conducted every three years. PSA had requested new funding to update CBMS in 2027; Mapa said households' well-being may have fallen during the 2026 crisis and the new data could help identify those changes.",
+          "citations": [
+            {
+              "stable_id": "asr-003420",
+              "start_seconds": 12961.46,
+              "clock": "03:36:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003420"
+            },
+            {
+              "stable_id": "asr-003442",
+              "start_seconds": 12997.34,
+              "clock": "03:36:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003442"
+            },
+            {
+              "stable_id": "asr-003465",
+              "start_seconds": 13041.14,
+              "clock": "03:37:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003465"
+            }
+          ]
+        },
+        {
+          "label": "Long-term investment, jobs, and assistance",
+          "text": "In his closing remarks, Ejercito argued that government borrowing should support capital investment with strong economic returns, including infrastructure, railways, and airport support, rather than make aid a permanent program. He said sustained investment could create jobs, opportunities, and growth areas over the long term, while assistance should remain short- or medium-term.",
+          "citations": [
+            {
+              "stable_id": "asr-003504",
+              "start_seconds": 13096.08,
+              "clock": "03:38:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003504"
+            }
+          ]
+        },
+        {
+          "label": "Questions and agency budgets submitted for plenary",
+          "text": "Ejercito said he would send the agencies his remaining questions so they could prepare answers and supporting documents for plenary defense and debate. At the close, he deemed the Department of Economy, Planning and Development and its attached agencies and corporations submitted for plenary consideration, subject to discussion and submission of documents. He named the Commission on Population and Development; Philippine National Volunteer Service Coordinating Agency; Public-Private Partnership Center of the Philippines; Philippine Statistical Research and Training Institute; Tariff Commission; Philippine Statistics Authority; Development Academy of the Philippines; and Philippine Institute for Development Studies.",
+          "citations": [
+            {
+              "stable_id": "asr-003581",
+              "start_seconds": 13197.54,
+              "clock": "03:39:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003581"
+            },
+            {
+              "stable_id": "asr-003656",
+              "start_seconds": 13287.24,
+              "clock": "03:41:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003656"
+            },
+            {
+              "stable_id": "asr-003660",
+              "start_seconds": 13290.02,
+              "clock": "03:41:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-003660"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

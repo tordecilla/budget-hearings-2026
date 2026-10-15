@@ -1,0 +1,720 @@
+{
+  "hearing": {
+    "id": 89,
+    "title": "Senate Committee on Finance: NSC, NICA - September 28, 2026",
+    "hearing_date": "2026-09-28",
+    "official_url": "https://www.youtube.com/watch?v=FKgRg0nvUHU"
+  },
+  "revision_id": 7152,
+  "revision_number": 5,
+  "notice": "AI-assisted working draft. AI can make errors. Always check quotations, names, rulings, and other consequential details against the official video.",
+  "segments": [
+    {
+      "stable_id": "asr-000012",
+      "start_seconds": 333.79,
+      "end_seconds": 362.0,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "This hearing is hereby called to order. Welcome to the Senate, our friends from the National Security Council and NICA. And I'd like to welcome the presence of my colleagues, the chairman of the Committee on National Defense of the Senate, Senator Tito Sotto, and of course my colleague here, Senator Lito Lapid. So, kindly acknowledge the presence of our resource persons."
+    },
+    {
+      "stable_id": "asr-000013",
+      "start_seconds": 362.0,
+      "end_seconds": 363.94,
+      "speaker": "Committee Secretary",
+      "text": "Yes, sir. Thank you very much, sir."
+    },
+    {
+      "stable_id": "asr-000014",
+      "start_seconds": 364.14,
+      "end_seconds": 366.36,
+      "speaker": "Committee Secretary",
+      "text": "We would like to acknowledge the presence of the following"
+    },
+    {
+      "stable_id": "asr-000015",
+      "start_seconds": 366.36,
+      "end_seconds": 368.1,
+      "speaker": "Committee Secretary",
+      "text": "from the National Security Council."
+    },
+    {
+      "stable_id": "asr-000016",
+      "start_seconds": 368.8,
+      "end_seconds": 371.84,
+      "speaker": "Committee Secretary",
+      "text": "We have Director General Eduardo S. L. Oban, Jr."
+    },
+    {
+      "stable_id": "asr-000017",
+      "start_seconds": 373.98,
+      "end_seconds": 375.88,
+      "speaker": "Committee Secretary",
+      "text": "Together with the following guests,"
+    },
+    {
+      "stable_id": "asr-000018",
+      "start_seconds": 376.02,
+      "end_seconds": 377.2,
+      "speaker": "Committee Secretary",
+      "text": "I'll be mentioning them, sir,"
+    },
+    {
+      "stable_id": "asr-000019",
+      "start_seconds": 377.28,
+      "end_seconds": 379.66,
+      "speaker": "Committee Secretary",
+      "text": "but not necessarily in the order of seniority."
+    },
+    {
+      "stable_id": "asr-000020",
+      "start_seconds": 380.44,
+      "end_seconds": 383.32,
+      "speaker": "Committee Secretary",
+      "text": "We have Deputy Director General and Chief of Staff,"
+    },
+    {
+      "stable_id": "asr-000021",
+      "start_seconds": 383.44,
+      "end_seconds": 385.24,
+      "speaker": "Committee Secretary",
+      "text": "Sir Benjamin Madrigal, Jr."
+    },
+    {
+      "stable_id": "asr-000022",
+      "start_seconds": 386.78,
+      "end_seconds": 389.64,
+      "speaker": "Committee Secretary",
+      "text": "We have Assistant Director General,"
+    },
+    {
+      "stable_id": "asr-000023",
+      "start_seconds": 389.64,
+      "end_seconds": 391.4,
+      "speaker": "Committee Secretary",
+      "text": "Francisco F. Mendoza, Jr."
+    },
+    {
+      "stable_id": "asr-000024",
+      "start_seconds": 392.78,
+      "end_seconds": 395.47999999999996,
+      "speaker": "Committee Secretary",
+      "text": "We have Assistant Director General"
+    },
+    {
+      "stable_id": "asr-000025",
+      "start_seconds": 395.47999999999996,
+      "end_seconds": 397.64,
+      "speaker": "Committee Secretary",
+      "text": "for Strategic Communication Office,"
+    },
+    {
+      "stable_id": "asr-000026",
+      "start_seconds": 398.96,
+      "end_seconds": 400.91999999999996,
+      "speaker": "Committee Secretary",
+      "text": "Sir Cornelio Valencia, Jr."
+    },
+    {
+      "stable_id": "asr-000027",
+      "start_seconds": 401.84,
+      "end_seconds": 406.64,
+      "speaker": "Committee Secretary",
+      "text": "We have Director Ruperta T. Salvanera."
+    },
+    {
+      "stable_id": "asr-000028",
+      "start_seconds": 408.68,
+      "end_seconds": 411.64,
+      "speaker": "Committee Secretary",
+      "text": "We have Director Monico Batle."
+    },
+    {
+      "stable_id": "asr-000029",
+      "start_seconds": 414.36,
+      "end_seconds": 420.22,
+      "speaker": "Committee Secretary",
+      "text": "We have OIC Director Clarice Rutor Garcia."
+    },
+    {
+      "stable_id": "asr-000031",
+      "start_seconds": 423.56,
+      "end_seconds": 427.09999999999997,
+      "speaker": "Committee Secretary",
+      "text": "We have Director Manuel Jose Marie Tuazon."
+    },
+    {
+      "stable_id": "asr-000032",
+      "start_seconds": 428.68,
+      "end_seconds": 432.91999999999996,
+      "speaker": "Committee Secretary",
+      "text": "We have Director Cyril P. Cusi."
+    },
+    {
+      "stable_id": "asr-000033",
+      "start_seconds": 434.15999999999997,
+      "end_seconds": 437.21999999999997,
+      "speaker": "Committee Secretary",
+      "text": "We have Head Executive Assistant,"
+    },
+    {
+      "stable_id": "asr-000034",
+      "start_seconds": 438.02,
+      "end_seconds": 439.7,
+      "speaker": "Committee Secretary",
+      "text": "Leo Fontanilla."
+    },
+    {
+      "stable_id": "asr-000035",
+      "start_seconds": 441.7,
+      "end_seconds": 446.47999999999996,
+      "speaker": "Committee Secretary",
+      "text": "We also have Deputy Director General for Operations,"
+    },
+    {
+      "stable_id": "asr-000036",
+      "start_seconds": 446.47999999999996,
+      "end_seconds": 448.28,
+      "speaker": "Committee Secretary",
+      "text": "Sir Pedro Soria."
+    },
+    {
+      "stable_id": "asr-000037",
+      "start_seconds": 449.64,
+      "end_seconds": 457.28,
+      "speaker": "Committee Secretary",
+      "text": "We have Executive Director Danila G. Pamonag, Sir."
+    },
+    {
+      "stable_id": "asr-000038",
+      "start_seconds": 458.32,
+      "end_seconds": 463.5,
+      "speaker": "Committee Secretary",
+      "text": "We also have Assistant Director General,"
+    },
+    {
+      "stable_id": "asr-000039",
+      "start_seconds": 463.91999999999996,
+      "end_seconds": 466.24,
+      "speaker": "Committee Secretary",
+      "text": "Ma'am Maria Lourdes Santelises,"
+    },
+    {
+      "stable_id": "asr-000040",
+      "start_seconds": 467.14,
+      "end_seconds": 471.03999999999996,
+      "speaker": "Committee Secretary",
+      "text": "and other officers of the National Security Council, Sir."
+    },
+    {
+      "stable_id": "asr-000041",
+      "start_seconds": 472.12,
+      "end_seconds": 477.91999999999996,
+      "speaker": "Committee Secretary",
+      "text": "In the National Intelligence Coordinating Agency, or NICA,"
+    },
+    {
+      "stable_id": "asr-000042",
+      "start_seconds": 478.65999999999997,
+      "end_seconds": 479.62,
+      "speaker": "Committee Secretary",
+      "text": "we have Director General,"
+    },
+    {
+      "stable_id": "asr-000043",
+      "start_seconds": 479.62,
+      "end_seconds": 482.48,
+      "speaker": "Committee Secretary",
+      "text": "we have Director General, Ricardo F. De Leon, Sir."
+    },
+    {
+      "stable_id": "asr-000044",
+      "start_seconds": 484.14,
+      "end_seconds": 487.62,
+      "speaker": "Committee Secretary",
+      "text": "We also have Deputy Director General for Special Concerns,"
+    },
+    {
+      "stable_id": "asr-000045",
+      "start_seconds": 488.54,
+      "end_seconds": 489.62,
+      "speaker": "Committee Secretary",
+      "text": "Sir Rodolfo Tor."
+    },
+    {
+      "stable_id": "asr-000046",
+      "start_seconds": 490.74,
+      "end_seconds": 496.66,
+      "speaker": "Committee Secretary",
+      "text": "We have Deputy Director General, Roberto G. Lapuz."
+    },
+    {
+      "stable_id": "asr-000047",
+      "start_seconds": 498.14,
+      "end_seconds": 501.14,
+      "speaker": "Committee Secretary",
+      "text": "We have the Executive Director, Theodore I. Libardo."
+    },
+    {
+      "stable_id": "asr-000048",
+      "start_seconds": 502.34000000000003,
+      "end_seconds": 508.62,
+      "speaker": "Committee Secretary",
+      "text": "We have the Executive Director, NMARSC,"
+    },
+    {
+      "stable_id": "asr-000049",
+      "start_seconds": 508.62,
+      "end_seconds": 509.18,
+      "speaker": "Committee Secretary",
+      "text": "Sir."
+    },
+    {
+      "stable_id": "asr-000050",
+      "start_seconds": 509.62,
+      "end_seconds": 512.34,
+      "speaker": "Committee Secretary",
+      "text": "Sir Jesus Leonardo M. Auxilio."
+    },
+    {
+      "stable_id": "asr-000051",
+      "start_seconds": 513.94,
+      "end_seconds": 516.34,
+      "speaker": "Committee Secretary",
+      "text": "We have Assistant Director General,"
+    },
+    {
+      "stable_id": "asr-000052",
+      "start_seconds": 516.34,
+      "end_seconds": 519.66,
+      "speaker": "Committee Secretary",
+      "text": "Angeles J. Gajunior."
+    },
+    {
+      "stable_id": "asr-000053",
+      "start_seconds": 521.1,
+      "end_seconds": 525.34,
+      "speaker": "Committee Secretary",
+      "text": "We have Assistant Director General and Directorate for Operations,"
+    },
+    {
+      "stable_id": "asr-000054",
+      "start_seconds": 525.34,
+      "end_seconds": 527.34,
+      "speaker": "Committee Secretary",
+      "text": "Sir. Pedro Gabayan."
+    },
+    {
+      "stable_id": "asr-000055",
+      "start_seconds": 528.74,
+      "end_seconds": 530.7,
+      "speaker": "Committee Secretary",
+      "text": "We have the Assistant Director General,"
+    },
+    {
+      "stable_id": "asr-000056",
+      "start_seconds": 530.7,
+      "end_seconds": 532.78,
+      "speaker": "Committee Secretary",
+      "text": "Ma'am Annalisa Umpar."
+    },
+    {
+      "stable_id": "asr-000057",
+      "start_seconds": 536.14,
+      "end_seconds": 538.5,
+      "speaker": "Committee Secretary",
+      "text": "We have also the Assistant Director General,"
+    },
+    {
+      "stable_id": "asr-000058",
+      "start_seconds": 538.5,
+      "end_seconds": 539.54,
+      "speaker": "Committee Secretary",
+      "text": "Sir. Ariel."
+    },
+    {
+      "stable_id": "asr-000059",
+      "start_seconds": 539.54,
+      "end_seconds": 541.54,
+      "speaker": "Committee Secretary",
+      "text": "T. Perlado."
+    },
+    {
+      "stable_id": "asr-000060",
+      "start_seconds": 543.86,
+      "end_seconds": 545.86,
+      "speaker": "Committee Secretary",
+      "text": "We have Assistant Director General,"
+    },
+    {
+      "stable_id": "asr-000061",
+      "start_seconds": 545.86,
+      "end_seconds": 547.86,
+      "speaker": "Committee Secretary",
+      "text": "Dennis Godfrey Gamad."
+    },
+    {
+      "stable_id": "asr-000062",
+      "start_seconds": 549.42,
+      "end_seconds": 553.0999999999999,
+      "speaker": "Committee Secretary",
+      "text": "We have Assistant Director General, Sir. Edsel Batalha."
+    },
+    {
+      "stable_id": "asr-000063",
+      "start_seconds": 555.0999999999999,
+      "end_seconds": 557.66,
+      "speaker": "Committee Secretary",
+      "text": "We have Assistant Director General,"
+    },
+    {
+      "stable_id": "asr-000064",
+      "start_seconds": 558.86,
+      "end_seconds": 560.86,
+      "speaker": "Committee Secretary",
+      "text": "Jericho."
+    },
+    {
+      "stable_id": "asr-000065",
+      "start_seconds": 562.86,
+      "end_seconds": 564.86,
+      "speaker": "Committee Secretary",
+      "text": "Kawi Lan Jr."
+    },
+    {
+      "stable_id": "asr-000066",
+      "start_seconds": 566.06,
+      "end_seconds": 568.06,
+      "speaker": "Committee Secretary",
+      "text": "We have Deputy Executive Director,"
+    },
+    {
+      "stable_id": "asr-000067",
+      "start_seconds": 568.0600000000001,
+      "end_seconds": 571.3800000000001,
+      "speaker": "Committee Secretary",
+      "text": "Sir. Rolando Lizor N. Punzalan Jr."
+    },
+    {
+      "stable_id": "asr-000068",
+      "start_seconds": 573.3800000000001,
+      "end_seconds": 576.7800000000001,
+      "speaker": "Committee Secretary",
+      "text": "We have Director, Evangeline S. Gabionza."
+    },
+    {
+      "stable_id": "asr-000069",
+      "start_seconds": 578.5000000000001,
+      "end_seconds": 581.5000000000001,
+      "speaker": "Committee Secretary",
+      "text": "We have Director, Maria Lourdes Cruz."
+    },
+    {
+      "stable_id": "asr-000070",
+      "start_seconds": 582.7800000000001,
+      "end_seconds": 586.58,
+      "speaker": "Committee Secretary",
+      "text": "We have Deputy Regional Director for CAR,"
+    },
+    {
+      "stable_id": "asr-000071",
+      "start_seconds": 586.58,
+      "end_seconds": 588.3800000000001,
+      "speaker": "Committee Secretary",
+      "text": "Ms. Cherry T. Tamang."
+    },
+    {
+      "stable_id": "asr-000072",
+      "start_seconds": 589.86,
+      "end_seconds": 593.58,
+      "speaker": "Committee Secretary",
+      "text": "We have Budget Officer, Astrid Alquino."
+    },
+    {
+      "stable_id": "asr-000073",
+      "start_seconds": 594.6600000000001,
+      "end_seconds": 597.3800000000001,
+      "speaker": "Committee Secretary",
+      "text": "We have the Division Chief,"
+    },
+    {
+      "stable_id": "asr-000074",
+      "start_seconds": 597.38,
+      "end_seconds": 599.7,
+      "speaker": "Committee Secretary",
+      "text": "Mr. Manuel Domingo."
+    },
+    {
+      "stable_id": "asr-000075",
+      "start_seconds": 600.9,
+      "end_seconds": 603.34,
+      "speaker": "Committee Secretary",
+      "text": "And we have Assistant Regional Director,"
+    },
+    {
+      "stable_id": "asr-000076",
+      "start_seconds": 603.34,
+      "end_seconds": 605.7,
+      "speaker": "Committee Secretary",
+      "text": "Ms. Maria Cristina Rosillo."
+    },
+    {
+      "stable_id": "asr-000077",
+      "start_seconds": 607.7,
+      "end_seconds": 611.1,
+      "speaker": "Committee Secretary",
+      "text": "We also have Budget Officer,"
+    },
+    {
+      "stable_id": "asr-000078",
+      "start_seconds": 611.1,
+      "end_seconds": 612.1,
+      "speaker": "Committee Secretary",
+      "text": "C. Nacion."
+    },
+    {
+      "stable_id": "asr-000079",
+      "start_seconds": 613.26,
+      "end_seconds": 615.98,
+      "speaker": "Committee Secretary",
+      "text": "We have Budget Officer,"
+    },
+    {
+      "stable_id": "asr-000080",
+      "start_seconds": 615.98,
+      "end_seconds": 617.98,
+      "speaker": "Committee Secretary",
+      "text": "Ivy Ramos."
+    },
+    {
+      "stable_id": "asr-000081",
+      "start_seconds": 619.42,
+      "end_seconds": 623.62,
+      "speaker": "Committee Secretary",
+      "text": "And we also have Sir. Michael Andrew Raccorda."
+    },
+    {
+      "stable_id": "asr-000082",
+      "start_seconds": 623.62,
+      "end_seconds": 626.7,
+      "speaker": "Committee Secretary",
+      "text": "The people from DBM, Sir, are online,"
+    },
+    {
+      "stable_id": "asr-000083",
+      "start_seconds": 626.7,
+      "end_seconds": 629.0200000000001,
+      "speaker": "Committee Secretary",
+      "text": "as well as the people from COA, Sir."
+    },
+    {
+      "stable_id": "asr-000084",
+      "start_seconds": 629.0200000000001,
+      "end_seconds": 631.0200000000001,
+      "speaker": "Committee Secretary",
+      "text": "That's all, Sir. Thank you."
+    },
+    {
+      "stable_id": "asr-000085",
+      "start_seconds": 631.0200000000001,
+      "end_seconds": 632.0200000000001,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "Thank you, Comsec."
+    },
+    {
+      "stable_id": "asr-000086",
+      "start_seconds": 632.0200000000001,
+      "end_seconds": 636.0200000000001,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "The Chair has no opening statement except to say that the"
+    },
+    {
+      "stable_id": "asr-000087",
+      "start_seconds": 636.0200000000001,
+      "end_seconds": 640.0200000000001,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "intelligence community has been very close to my heart, you know,"
+    },
+    {
+      "stable_id": "asr-000088",
+      "start_seconds": 640.0200000000001,
+      "end_seconds": 643.82,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "having started my career upon graduation from the PMA."
+    },
+    {
+      "stable_id": "asr-000089",
+      "start_seconds": 643.82,
+      "end_seconds": 647.74,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "Andito yung aking mista, si NICA Director Dick De Leon,"
+    },
+    {
+      "stable_id": "asr-000090",
+      "start_seconds": 648.72,
+      "end_seconds": 650.3,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "in the defunct Philippine Constabulary,"
+    },
+    {
+      "stable_id": "asr-000091",
+      "start_seconds": 650.3,
+      "end_seconds": 654.42,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "because I started my career as Intelligence and Investigation Officer"
+    },
+    {
+      "stable_id": "asr-000092",
+      "start_seconds": 654.42,
+      "end_seconds": 658.4,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "of the then Central Sector of the PC Metrocom."
+    },
+    {
+      "stable_id": "asr-000093",
+      "start_seconds": 658.4,
+      "end_seconds": 664.8,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "And ever since, diyan na rin ako lumaki."
+    },
+    {
+      "stable_id": "asr-000094",
+      "start_seconds": 664.84,
+      "end_seconds": 666.2,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "So, let's cut to the chase."
+    },
+    {
+      "stable_id": "asr-000095",
+      "start_seconds": 666.2,
+      "end_seconds": 668.2,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "You have a presentation, right?"
+    },
+    {
+      "stable_id": "asr-000096",
+      "start_seconds": 668.2,
+      "end_seconds": 670.32,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "NSC and Nika both."
+    },
+    {
+      "stable_id": "asr-000097",
+      "start_seconds": 670.32,
+      "end_seconds": 671.66,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "Thank you."
+    },
+    {
+      "stable_id": "asr-000098",
+      "start_seconds": 672.12,
+      "end_seconds": 673.6,
+      "speaker": "Unresolved",
+      "text": "Mr. Chair, with your permission,"
+    },
+    {
+      "stable_id": "asr-000099",
+      "start_seconds": 673.6,
+      "end_seconds": 676.0,
+      "speaker": "Unresolved",
+      "text": "we would like to request for an executive session"
+    },
+    {
+      "stable_id": "asr-000100",
+      "start_seconds": 676.0,
+      "end_seconds": 678.2,
+      "speaker": "Unresolved",
+      "text": "on behalf of Nika and the NSC."
+    },
+    {
+      "stable_id": "asr-000101",
+      "start_seconds": 679.46,
+      "end_seconds": 681.61,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "Any objection from the panel?"
+    },
+    {
+      "stable_id": "asr-000102",
+      "start_seconds": 682.36,
+      "end_seconds": 683.67,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "Hearing none."
+    },
+    {
+      "stable_id": "asr-000103",
+      "start_seconds": 685.09,
+      "end_seconds": 686.44,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "So, pakisanitize yung kwarto."
+    },
+    {
+      "stable_id": "asr-000123",
+      "start_seconds": 686.82,
+      "end_seconds": 687.34,
+      "speaker": "Senator Panfilo Lacson",
+      "text": "Comsec."
+    },
+    {
+      "stable_id": "asr-000124",
+      "start_seconds": 696.8,
+      "end_seconds": 697.44,
+      "speaker": "Committee Secretary",
+      "text": "Yes, sir."
+    },
+    {
+      "stable_id": "asr-000125",
+      "start_seconds": 697.52,
+      "end_seconds": 705.5,
+      "speaker": "Committee Secretary",
+      "text": "Later on, sir, the, what do you call it, this live stream will be suspended or stopped"
+    },
+    {
+      "stable_id": "asr-000126",
+      "start_seconds": 707.48,
+      "end_seconds": 713.82,
+      "speaker": "Committee Secretary",
+      "text": "this coming [unclear], not included in the executive session to please step out"
+    },
+    {
+      "stable_id": "asr-000127",
+      "start_seconds": 713.82,
+      "end_seconds": 715.16,
+      "speaker": "Committee Secretary",
+      "text": "of the room."
+    },
+    {
+      "stable_id": "asr-000128",
+      "start_seconds": 715.16,
+      "end_seconds": 715.92,
+      "speaker": "Committee Secretary",
+      "text": "for a moment."
+    },
+    {
+      "stable_id": "asr-000129",
+      "start_seconds": 716.02,
+      "end_seconds": 716.52,
+      "speaker": "Committee Secretary",
+      "text": "Thank you."
+    },
+    {
+      "stable_id": "asr-000130",
+      "start_seconds": 718.0600000000001,
+      "end_seconds": 719.0600000000001,
+      "speaker": "Unresolved",
+      "text": "Thank you, sir."
+    },
+    {
+      "stable_id": "asr-000131",
+      "start_seconds": 719.0600000000001,
+      "end_seconds": 720.0600000000001,
+      "speaker": "Unresolved",
+      "text": "Thank you, sir."
+    },
+    {
+      "stable_id": "asr-000132",
+      "start_seconds": 720.0600000000001,
+      "end_seconds": 721.0600000000001,
+      "speaker": "Unresolved",
+      "text": "Thank you."
+    }
+  ]
+}

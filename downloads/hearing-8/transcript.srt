@@ -1,0 +1,6308 @@
+1
+00:00:45,160 --> 00:01:10,560
+PAGASA Administrator Nathaniel T. Servando: 24 months or 2 years. But, uh, even though Virac radar is not functional, uh, the Bicol Region is not completely blind when it comes to, uh, the availability of data because there are redundant systems. Like, we have radar in Laoang, Northern Samar, in Daet, Camarines Norte, and even Masbate, we have radar.
+
+2
+00:01:10,560 --> 00:01:29,941
+PAGASA Administrator Nathaniel T. Servando: So, uh, these three operational radars actually cover, uh, the area. Uh, yes, of course, we hope the Virac radar will be operationalized. Um, if not next year, at least we are confident by 2028 it will be operational.
+
+3
+00:01:31,159 --> 00:01:38,799
+Rep. Eulogio "Leo" R. Rodriguez: Ah, siguro kasi kinaklaro lang natin kasi matagal na po ito. Siyempre, ginastusan na rin po ito.
+
+4
+00:01:38,799 --> 00:01:39,840
+Rep. Eulogio "Leo" R. Rodriguez: So, ang nangyari kasi,
+
+5
+00:01:39,840 --> 00:01:40,360
+Rep. Eulogio "Leo" R. Rodriguez: Parang, ah,
+
+6
+00:01:40,360 --> 00:01:42,920
+Rep. Eulogio "Leo" R. Rodriguez: Nagiging view deck, viewing station na lang po.
+
+7
+00:01:42,920 --> 00:01:45,320
+Rep. Eulogio "Leo" R. Rodriguez: ng mga, ano natin doon, mga
+
+8
+00:01:45,320 --> 00:01:46,640
+Rep. Eulogio "Leo" R. Rodriguez: turista eh.
+
+9
+00:01:46,640 --> 00:01:49,640
+Rep. Eulogio "Leo" R. Rodriguez: So, nakikita po na nakatiwangwang po yun.
+
+10
+00:01:49,640 --> 00:01:51,280
+Rep. Eulogio "Leo" R. Rodriguez: So, alam naman natin
+
+11
+00:01:51,280 --> 00:01:54,360
+Rep. Eulogio "Leo" R. Rodriguez: na Catanduanes na kami talagang
+
+12
+00:01:54,360 --> 00:01:56,200
+Rep. Eulogio "Leo" R. Rodriguez: point of
+
+13
+00:01:56,200 --> 00:01:56,600
+Rep. Eulogio "Leo" R. Rodriguez: origin
+
+14
+00:01:56,600 --> 00:01:58,759
+Rep. Eulogio "Leo" R. Rodriguez: ng ating mga bagyo. So, siyempre,
+
+15
+00:01:58,759 --> 00:02:00,840
+Rep. Eulogio "Leo" R. Rodriguez: kami, alam naman natin
+
+16
+00:02:00,840 --> 00:02:02,880
+Rep. Eulogio "Leo" R. Rodriguez: na minsan, doon kumukuha
+
+17
+00:02:02,880 --> 00:02:05,560
+Rep. Eulogio "Leo" R. Rodriguez: pa nga dati, yung data
+
+18
+00:02:05,560 --> 00:02:06,719
+Rep. Eulogio "Leo" R. Rodriguez: sa Japan, minsan doon
+
+19
+00:02:06,719 --> 00:02:08,479
+Rep. Eulogio "Leo" R. Rodriguez: kumukuha sila.
+
+20
+00:02:08,479 --> 00:02:09,959
+Rep. Eulogio "Leo" R. Rodriguez: So, kaya yun,
+
+21
+00:02:09,959 --> 00:02:11,959
+Rep. Eulogio "Leo" R. Rodriguez: itanong natin,
+
+22
+00:02:11,959 --> 00:02:14,160
+Rep. Eulogio "Leo" R. Rodriguez: kasi marami na po, nagtatanong
+
+23
+00:02:14,160 --> 00:02:15,760
+Rep. Eulogio "Leo" R. Rodriguez: sa amin, ano ba yan? Talagang
+
+24
+00:02:15,760 --> 00:02:19,519
+Rep. Eulogio "Leo" R. Rodriguez: pabayaan na ba yan? O gagawin pa ba yan?
+
+25
+00:02:19,519 --> 00:02:21,440
+Rep. Eulogio "Leo" R. Rodriguez: So,
+
+26
+00:02:21,440 --> 00:02:22,480
+Rep. Eulogio "Leo" R. Rodriguez: narinig ko,
+
+27
+00:02:22,480 --> 00:02:23,959
+Rep. Eulogio "Leo" R. Rodriguez: alam naman siguro, narinig dito
+
+28
+00:02:23,959 --> 00:02:25,519
+Rep. Eulogio "Leo" R. Rodriguez: ng mga taga sa amin,
+
+29
+00:02:25,519 --> 00:02:28,440
+Rep. Eulogio "Leo" R. Rodriguez: na maibabalik
+
+30
+00:02:28,440 --> 00:02:30,280
+Rep. Eulogio "Leo" R. Rodriguez: ng operation
+
+31
+00:02:30,280 --> 00:02:33,519
+Rep. Eulogio "Leo" R. Rodriguez: nito by
+
+32
+00:02:33,519 --> 00:02:34,840
+Rep. Eulogio "Leo" R. Rodriguez: next year.
+
+33
+00:02:34,840 --> 00:02:35,879
+Rep. Eulogio "Leo" R. Rodriguez: Okay. Thank you.
+
+34
+00:02:35,879 --> 00:02:37,760
+Rep. Eulogio "Leo" R. Rodriguez: Thank you for that answer,
+
+35
+00:02:37,760 --> 00:02:39,200
+Rep. Eulogio "Leo" R. Rodriguez: Madam Chair.
+
+36
+00:02:39,200 --> 00:02:40,400
+Rep. Eulogio "Leo" R. Rodriguez: So, Madam Chair,
+
+37
+00:02:40,400 --> 00:02:44,959
+Rep. Eulogio "Leo" R. Rodriguez: According to the PSA, the Bicol Region
+
+38
+00:02:44,959 --> 00:02:45,599
+Rep. Eulogio "Leo" R. Rodriguez: GDP
+
+39
+00:02:45,599 --> 00:02:47,480
+Rep. Eulogio "Leo" R. Rodriguez: growth
+
+40
+00:02:47,480 --> 00:02:49,920
+Rep. Eulogio "Leo" R. Rodriguez: ay, uh,
+
+41
+00:02:49,920 --> 00:02:50,800
+Rep. Eulogio "Leo" R. Rodriguez: GDP grew
+
+42
+00:02:50,800 --> 00:02:52,680
+Rep. Eulogio "Leo" R. Rodriguez: by only 0.5%
+
+43
+00:02:52,680 --> 00:02:55,080
+Rep. Eulogio "Leo" R. Rodriguez: in 2025.
+
+44
+00:02:55,080 --> 00:02:56,560
+Rep. Eulogio "Leo" R. Rodriguez: The lowest growth among all
+
+45
+00:02:56,560 --> 00:02:58,680
+Rep. Eulogio "Leo" R. Rodriguez: regional
+
+46
+00:02:58,680 --> 00:03:00,800
+Rep. Eulogio "Leo" R. Rodriguez: economies in the country,
+
+47
+00:03:00,800 --> 00:03:02,800
+Rep. Eulogio "Leo" R. Rodriguez: taking a closer look,
+
+48
+00:03:02,800 --> 00:03:04,680
+Rep. Eulogio "Leo" R. Rodriguez: agriculture, fisheries, and
+
+49
+00:03:04,680 --> 00:03:06,640
+Rep. Eulogio "Leo" R. Rodriguez: forestry sector,
+
+50
+00:03:06,640 --> 00:03:07,640
+Rep. Eulogio "Leo" R. Rodriguez: contracted by
+
+51
+00:03:07,640 --> 00:03:10,680
+Rep. Eulogio "Leo" R. Rodriguez: 2.9%,
+
+52
+00:03:10,680 --> 00:03:12,440
+Rep. Eulogio "Leo" R. Rodriguez: specifically
+
+53
+00:03:12,440 --> 00:03:13,879
+Rep. Eulogio "Leo" R. Rodriguez: fisheries declined by
+
+54
+00:03:13,879 --> 00:03:16,680
+Rep. Eulogio "Leo" R. Rodriguez: 10.7%.
+
+55
+00:03:16,680 --> 00:03:19,720
+Rep. Eulogio "Leo" R. Rodriguez: So, medyo nakakapagtaka po ito
+
+56
+00:03:19,720 --> 00:03:22,440
+Rep. Eulogio "Leo" R. Rodriguez: dahil ang Bicol ay
+
+57
+00:03:22,440 --> 00:03:23,400
+Rep. Eulogio "Leo" R. Rodriguez: napapaligiran po
+
+58
+00:03:23,400 --> 00:03:25,480
+Rep. Eulogio "Leo" R. Rodriguez: ng mayamang
+
+59
+00:03:25,480 --> 00:03:27,360
+Rep. Eulogio "Leo" R. Rodriguez: fishing ground at merong
+
+60
+00:03:27,360 --> 00:03:29,840
+Rep. Eulogio "Leo" R. Rodriguez: significant potential para sa
+
+61
+00:03:29,840 --> 00:03:31,599
+Rep. Eulogio "Leo" R. Rodriguez: aquaculture.
+
+62
+00:03:31,599 --> 00:03:33,319
+Rep. Eulogio "Leo" R. Rodriguez: However, these natural
+
+63
+00:03:33,319 --> 00:03:35,360
+Rep. Eulogio "Leo" R. Rodriguez: advantages are not
+
+64
+00:03:35,360 --> 00:03:37,519
+Rep. Eulogio "Leo" R. Rodriguez: being translated into a bigger
+
+65
+00:03:37,519 --> 00:03:40,739
+Rep. Eulogio "Leo" R. Rodriguez: share of our economy.
+
+66
+00:03:40,739 --> 00:03:43,591
+Rep. Eulogio "Leo" R. Rodriguez: So,
+
+67
+00:03:43,591 --> 00:03:44,760
+Rep. Eulogio "Leo" R. Rodriguez: Sa Catanduanes naman po,
+
+68
+00:03:44,760 --> 00:03:46,640
+Rep. Eulogio "Leo" R. Rodriguez: tumaas man po ang fisheries production
+
+69
+00:03:46,640 --> 00:03:48,599
+Rep. Eulogio "Leo" R. Rodriguez: in 2025, pero
+
+70
+00:03:48,599 --> 00:03:50,159
+Rep. Eulogio "Leo" R. Rodriguez: mababa pa rin.
+
+71
+00:03:50,159 --> 00:03:52,680
+Rep. Eulogio "Leo" R. Rodriguez: Mababa pa rin po ang contribution
+
+72
+00:03:52,680 --> 00:03:53,680
+Rep. Eulogio "Leo" R. Rodriguez: ito sa economic
+
+73
+00:03:53,680 --> 00:03:56,840
+Rep. Eulogio "Leo" R. Rodriguez: ekonomiya ng probinsya.
+
+74
+00:03:56,840 --> 00:03:58,360
+Rep. Eulogio "Leo" R. Rodriguez: Given this, my question,
+
+75
+00:03:58,360 --> 00:03:58,576
+Rep. Eulogio "Leo" R. Rodriguez: Madam Chair,
+
+76
+00:04:00,159 --> 00:04:02,360
+Rep. Eulogio "Leo" R. Rodriguez: where is the bottleneck in realizing
+
+77
+00:04:02,360 --> 00:04:05,519
+Rep. Eulogio "Leo" R. Rodriguez: this potential, and has there
+
+78
+00:04:05,519 --> 00:04:08,760
+Rep. Eulogio "Leo" R. Rodriguez: been effort from the
+
+79
+00:04:08,760 --> 00:04:10,079
+Rep. Eulogio "Leo" R. Rodriguez: DOST
+
+80
+00:04:10,079 --> 00:04:12,400
+Rep. Eulogio "Leo" R. Rodriguez: through its Philippine Council
+
+81
+00:04:12,400 --> 00:04:14,159
+Rep. Eulogio "Leo" R. Rodriguez: for Agriculture,
+
+82
+00:04:14,159 --> 00:04:16,400
+Rep. Eulogio "Leo" R. Rodriguez: Aquatic and Natural Resources
+
+83
+00:04:16,400 --> 00:04:17,320
+Rep. Eulogio "Leo" R. Rodriguez: Research and Development,
+
+84
+00:04:17,320 --> 00:04:17,840
+Rep. Eulogio "Leo" R. Rodriguez: PCAARRD, and other
+
+85
+00:04:17,840 --> 00:04:20,680
+Rep. Eulogio "Leo" R. Rodriguez: relevant agencies and programs
+
+86
+00:04:20,680 --> 00:04:23,520
+Rep. Eulogio "Leo" R. Rodriguez: to develop fisheries
+
+87
+00:04:23,520 --> 00:04:24,600
+Rep. Eulogio "Leo" R. Rodriguez: and aquaculture in
+
+88
+00:04:24,600 --> 00:04:26,680
+Rep. Eulogio "Leo" R. Rodriguez: Catanduanes and the whole Bicol Region?
+
+89
+00:04:26,680 --> 00:04:28,720
+Rep. Eulogio "Leo" R. Rodriguez: Most importantly,
+
+90
+00:04:28,720 --> 00:04:29,800
+Rep. Eulogio "Leo" R. Rodriguez: what has this
+
+91
+00:04:29,800 --> 00:04:31,840
+Rep. Eulogio "Leo" R. Rodriguez: intervention achieved?
+
+92
+00:04:31,840 --> 00:04:33,520
+Rep. Eulogio "Leo" R. Rodriguez: what measurable improvement
+
+93
+00:04:33,520 --> 00:04:35,759
+Rep. Eulogio "Leo" R. Rodriguez: have we seen in
+
+94
+00:04:35,759 --> 00:04:37,759
+Rep. Eulogio "Leo" R. Rodriguez: production, income, jobs
+
+95
+00:04:37,759 --> 00:04:39,880
+Rep. Eulogio "Leo" R. Rodriguez: and/or
+
+96
+00:04:39,880 --> 00:04:42,639
+Rep. Eulogio "Leo" R. Rodriguez: value adding?
+
+97
+00:04:42,639 --> 00:04:43,227
+Rep. Eulogio "Leo" R. Rodriguez: Madam Chair,
+
+98
+00:04:45,607 --> 00:04:47,759
+DOST Secretary Renato U. Solidum Jr.: Madam Chair, may I request the Director
+
+99
+00:04:47,759 --> 00:04:49,160
+DOST Secretary Renato U. Solidum Jr.: of PCAARRD to
+
+100
+00:04:49,160 --> 00:04:50,500
+DOST Secretary Renato U. Solidum Jr.: respond to the question?
+
+101
+00:04:52,441 --> 00:04:53,200
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: Thank you,
+
+102
+00:04:53,200 --> 00:04:56,000
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: Secretary.
+
+103
+00:04:56,000 --> 00:04:57,240
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: Your Honor, PCAARRD is
+
+104
+00:04:57,240 --> 00:04:59,360
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: presently implementing several projects
+
+105
+00:04:59,360 --> 00:05:02,080
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: on aquaculture and marine resources
+
+106
+00:05:02,080 --> 00:05:03,240
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: and some of those
+
+107
+00:05:03,240 --> 00:05:06,160
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: are relevant to the situation in Catanduanes.
+
+108
+00:05:06,160 --> 00:05:07,479
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: As of now, one of the
+
+109
+00:05:07,479 --> 00:05:09,280
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: biggest projects of PCAARRD is
+
+110
+00:05:09,280 --> 00:05:11,600
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: actually on abaca, and Catanduanes
+
+111
+00:05:11,600 --> 00:05:14,919
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: State University is heavily involved in this particular endeavor.
+
+112
+00:05:14,919 --> 00:05:20,280
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: In terms of the aquatic resources, we have two divisions working on it.
+
+113
+00:05:20,280 --> 00:05:27,360
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: One is inland aquatic resources which are dealing with freshwater aquaculture species and marine resources.
+
+114
+00:05:27,360 --> 00:05:32,880
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: So what we are going to do is we are going to look at the different programs that we have
+
+115
+00:05:32,880 --> 00:05:37,520
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: and, uh, probably develop new programs that are targeting the needs of Catanduanes.
+
+116
+00:05:37,520 --> 00:05:44,840
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: At present, there are several technologies being rolled out through the different regional offices and partner universities
+
+117
+00:05:44,840 --> 00:05:54,840
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: and we are hoping that we will be able to facilitate the process by identifying the typical intervention that should be done.
+
+118
+00:05:54,840 --> 00:06:01,600
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: It's not only about the technology, it's also in terms of the technology transfer bottleneck.
+
+119
+00:06:01,600 --> 00:06:05,080
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: In some cases, we need support from local government units
+
+120
+00:06:05,080 --> 00:06:08,199
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: and also other departments of the government.
+
+121
+00:06:08,199 --> 00:06:13,639
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: For example, the Department of Agriculture under the Bureau of Fisheries and Aquatic Resources.
+
+122
+00:06:13,639 --> 00:06:18,919
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: But we will make it a point that we are going to review the present initiatives that we have
+
+123
+00:06:18,919 --> 00:06:24,160
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: and have it further enhanced in order to address the needs of the province.
+
+124
+00:06:24,160 --> 00:06:25,051
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: Thank you, Madam Chair.
+
+125
+00:06:26,485 --> 00:06:32,639
+Rep. Eulogio "Leo" R. Rodriguez: Kasi sa ngayon, Mr. Chair, eh parang wala pa tayong nakikita roon.
+
+126
+00:06:32,639 --> 00:06:36,880
+Rep. Eulogio "Leo" R. Rodriguez: Kaya sabi ko nga, ito ngang 2027,
+
+127
+00:06:36,880 --> 00:06:41,520
+Rep. Eulogio "Leo" R. Rodriguez: what fisheries and aquaculture programs and projects are proposed
+
+128
+00:06:41,520 --> 00:06:46,027
+Rep. Eulogio "Leo" R. Rodriguez: And what measurable result do we expect?
+
+129
+00:06:47,191 --> 00:06:54,039
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: We are going to explore the possibility of expanding the Tilapia Program for Inland Aquatic Resources
+
+130
+00:06:54,039 --> 00:06:58,440
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: and also other marine resources that are available in the province.
+
+131
+00:06:58,440 --> 00:07:02,080
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: Uh, there are several initiatives being undertaken by PCAARRD
+
+132
+00:07:02,080 --> 00:07:06,240
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: involving the other provinces, and based on the experience that we have
+
+133
+00:07:06,240 --> 00:07:08,680
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: obtained from those pilot testing,
+
+134
+00:07:08,680 --> 00:07:12,080
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: then we are going to implement it also in Catanduanes.
+
+135
+00:07:12,080 --> 00:07:16,199
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: But we will be closely coordinating with Catanduanes State University
+
+136
+00:07:16,199 --> 00:07:18,400
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: because they are part of our network
+
+137
+00:07:18,400 --> 00:07:22,780
+DOST-PCAARRD Executive Director Dr. Reynaldo V. Ebora: and they are coordinating with our regional consortium.
+
+138
+00:07:24,350 --> 00:07:28,720
+Rep. Eulogio "Leo" R. Rodriguez: Kaya po naitanong ko ito kasi ako po may bill ako rito.
+
+139
+00:07:28,720 --> 00:07:31,680
+Rep. Eulogio "Leo" R. Rodriguez: So, Madam Chair,
+
+140
+00:07:31,680 --> 00:07:35,039
+Rep. Eulogio "Leo" R. Rodriguez: masiguro lang po natin na matulungan natin ang ating mangingisda
+
+141
+00:07:35,039 --> 00:07:36,039
+Rep. Eulogio "Leo" R. Rodriguez: kasi, despite
+
+142
+00:07:36,039 --> 00:07:48,280
+Rep. Eulogio "Leo" R. Rodriguez: being the ones feeding our country, our fishers consistently rank among the basic sectors with high poverty incidence.
+
+143
+00:07:48,280 --> 00:07:54,280
+Rep. Eulogio "Leo" R. Rodriguez: Let's do our part in helping the sector that, that feeds us.
+
+144
+00:07:54,280 --> 00:07:56,800
+Rep. Eulogio "Leo" R. Rodriguez: Tulungan po natin ang ating mangingisda.
+
+145
+00:07:56,800 --> 00:08:01,879
+Rep. Eulogio "Leo" R. Rodriguez: Alam naman natin na ito ang talagang, ah, isa sa mga dapat nating tulungan.
+
+146
+00:08:01,879 --> 00:08:04,057
+Rep. Eulogio "Leo" R. Rodriguez: Salamat po, ah, Madam Chair.
+
+147
+00:08:04,917 --> 00:08:06,892
+Rep. Amben S. Amante: Thank you, Congressman Rodriguez.
+
+148
+00:08:07,887 --> 00:08:12,562
+Rep. Amben S. Amante: Now, from the minority, Representative Sarah Jane Elago.
+
+149
+00:08:15,380 --> 00:08:15,886
+Rep. Sarah Jane I. Elago: Thank you, Mr. Chairman.
+
+150
+00:10:04,966 --> 00:10:14,030
+DOST Secretary Renato U. Solidum Jr.: The issue now is to make sure that these are commercialized and procured by the appropriate organizations.
+
+151
+00:10:15,970 --> 00:10:21,870
+DOST Secretary Renato U. Solidum Jr.: Our role has been to support the R&amp;D and it's ready for commercialization.
+
+152
+00:10:21,870 --> 00:10:23,870
+DOST Secretary Renato U. Solidum Jr.: And that means that organizations...
+
+153
+00:10:24,650 --> 00:10:28,490
+DOST Secretary Renato U. Solidum Jr.: ...must be able to procure it for their use.
+
+154
+00:10:29,390 --> 00:10:31,630
+DOST Secretary Renato U. Solidum Jr.: Iyon po iyong division ng role namin.
+
+155
+00:10:32,310 --> 00:10:40,893
+DOST Secretary Renato U. Solidum Jr.: But definitely, we will promote this as we are still in constant dialogue with the technology producer at UP.
+
+156
+00:10:42,631 --> 00:10:50,509
+Rep. Sarah Jane I. Elago: Mr. Chair, natanong ko ho ito dahil marami ho sa ating ulat ang DOST na produkto ng kanilang R&amp;D.
+
+157
+00:10:50,530 --> 00:10:54,490
+Rep. Sarah Jane I. Elago: Ngunit, ang malaking problema, paano natitiyak na...
+
+158
+00:10:54,650 --> 00:11:08,390
+Rep. Sarah Jane I. Elago: ...yung produkto ng siyensya na pananaliksik ng teknolohiya ay nagsisilbi para sa interes ng mga nangangailangan at para sa interes ng sambayan ng Pilipino.
+
+159
+00:11:08,390 --> 00:11:22,310
+Rep. Sarah Jane I. Elago: Kaya sa tingin ko, isa ito, historically, isa sa mga pinakamalaking gap pagdating sa kung paano nare-recognize ng ating national government yung trabaho ng DOST.
+
+160
+00:11:22,310 --> 00:11:24,310
+Rep. Sarah Jane I. Elago: Napakayaman natin sa...
+
+161
+00:11:24,310 --> 00:11:41,250
+Rep. Sarah Jane I. Elago: ...mga bagong impormasyon, teknolohiya, grabe yung wealth of innovation, na hindi na lang imagination, pero meron talagang mga hawak na tayo ng mga produkto, mga bagong serbisyo, pero hindi po nagagamit.
+
+162
+00:11:41,839 --> 00:11:51,509
+Rep. Sarah Jane I. Elago: Iyan ho siguro ang isa sa dapat nating pag-isipan: paano makikipagtulungan sa DA, DTI, at ngayon iyong DOJ o kaya NBI.
+
+163
+00:11:51,639 --> 00:11:53,730
+Rep. Sarah Jane I. Elago: Lalong-lalo na, marami ho sa mga...
+
+164
+00:11:54,120 --> 00:11:57,069
+Rep. Sarah Jane I. Elago: biktima talaga, no, ng sexual assault.
+
+165
+00:11:57,110 --> 00:12:01,070
+Rep. Sarah Jane I. Elago: Nahihirapan ho sila doon pa lang sa proseso ng pag-report at pagsusumbong.
+
+166
+00:12:02,370 --> 00:12:08,950
+Rep. Sarah Jane I. Elago: Dahil alam nila na madalas doon ho tayo natitigil sa paghabol sa perpetrator.
+
+167
+00:12:09,450 --> 00:12:13,970
+Rep. Sarah Jane I. Elago: Dahil walang timely na collection ng evidence.
+
+168
+00:12:14,560 --> 00:12:20,720
+Rep. Sarah Jane I. Elago: Kung sila ho ay naging biktima ng iba't ibang porma ng sexual crimes.
+
+169
+00:12:20,720 --> 00:12:21,530
+Rep. Sarah Jane I. Elago: Kaya ho...
+
+170
+00:12:22,230 --> 00:12:24,290
+Rep. Sarah Jane I. Elago: ...may pag-aaral ho ba kayo?
+
+171
+00:12:24,310 --> 00:12:41,785
+Rep. Sarah Jane I. Elago: O meron pong mga nag-sisimula ngayon ng kung paano ito maaaring ma-distribute sa ating halimbawa sa mga women and children protection unit sa ating mga public hospitals para po magamit ito sa ngayon?
+
+172
+00:12:42,190 --> 00:12:50,710
+DOST Secretary Renato U. Solidum Jr.: Hindi lang po sa sexual assault kit technology ang issue ng scaling up on the use.
+
+173
+00:12:52,430 --> 00:12:54,150
+DOST Secretary Renato U. Solidum Jr.: Nung nagsimula po kami,
+
+174
+00:12:54,310 --> 00:12:55,630
+DOST Secretary Renato U. Solidum Jr.: in 2022,
+
+175
+00:12:55,890 --> 00:13:00,830
+DOST Secretary Renato U. Solidum Jr.: the big gap is really to scale up the innovation that we have developed throughout the Philippines.
+
+176
+00:13:01,790 --> 00:13:02,870
+DOST Secretary Renato U. Solidum Jr.: Commercialization issue.
+
+177
+00:13:03,610 --> 00:13:05,970
+DOST Secretary Renato U. Solidum Jr.: The problem is that sometimes,
+
+178
+00:13:06,790 --> 00:13:08,310
+DOST Secretary Renato U. Solidum Jr.: there is a...
+
+179
+00:13:12,990 --> 00:13:14,850
+DOST Secretary Renato U. Solidum Jr.: They don't want to take the risk.
+
+180
+00:13:14,970 --> 00:13:16,870
+DOST Secretary Renato U. Solidum Jr.: The investors don't want to take the risk.
+
+181
+00:13:17,350 --> 00:13:18,550
+DOST Secretary Renato U. Solidum Jr.: So that's why sometimes,
+
+182
+00:13:18,970 --> 00:13:21,530
+DOST Secretary Renato U. Solidum Jr.: what we do for those technologies na kailangan,
+
+183
+00:13:21,530 --> 00:13:23,030
+DOST Secretary Renato U. Solidum Jr.: but up to a certain point,
+
+184
+00:13:23,810 --> 00:13:24,530
+DOST Secretary Renato U. Solidum Jr.: yung R&amp;D utilization,
+
+185
+00:13:25,370 --> 00:13:26,450
+DOST Secretary Renato U. Solidum Jr.: we provide some support,
+
+186
+00:13:26,490 --> 00:13:27,490
+DOST Secretary Renato U. Solidum Jr.: to produce this.
+
+187
+00:13:28,050 --> 00:13:31,050
+DOST Secretary Renato U. Solidum Jr.: And provide this to serve as use cases,
+
+188
+00:13:31,430 --> 00:13:37,010
+DOST Secretary Renato U. Solidum Jr.: and hopefully the relevant organization can adopt this like DOJ and PNP.
+
+189
+00:13:37,450 --> 00:13:41,070
+DOST Secretary Renato U. Solidum Jr.: So yun pong commercialization focus, meron po kaming programa.
+
+190
+00:13:41,510 --> 00:13:42,550
+DOST Secretary Renato U. Solidum Jr.: But at some point,
+
+191
+00:13:42,870 --> 00:13:44,730
+DOST Secretary Renato U. Solidum Jr.: hindi naman kami pwedeng...
+
+192
+00:13:45,270 --> 00:13:48,210
+DOST Secretary Renato U. Solidum Jr.: kami ang mag-produce at i-distribute lang yun.
+
+193
+00:13:48,410 --> 00:13:51,210
+DOST Secretary Renato U. Solidum Jr.: So that's why it's important tulad po nung sinabi nyo,
+
+194
+00:13:51,570 --> 00:13:54,510
+DOST Secretary Renato U. Solidum Jr.: that we deal directly with the appropriate agencies.
+
+195
+00:13:54,910 --> 00:13:56,470
+DOST Secretary Renato U. Solidum Jr.: Now, with the Tatak Pinoy Act,
+
+196
+00:13:56,490 --> 00:14:00,710
+DOST Secretary Renato U. Solidum Jr.: I hope that this technology is supported by DOST
+
+197
+00:14:00,710 --> 00:14:02,990
+DOST Secretary Renato U. Solidum Jr.: and produced by Filipino technologies
+
+198
+00:14:02,990 --> 00:14:06,570
+DOST Secretary Renato U. Solidum Jr.: will be given preferential treatment for purchase.
+
+199
+00:14:07,030 --> 00:14:08,210
+DOST Secretary Renato U. Solidum Jr.: Especially with this kit,
+
+200
+00:14:08,330 --> 00:14:10,930
+DOST Secretary Renato U. Solidum Jr.: kasi yung DNA talaga yung makakatulong
+
+201
+00:14:10,930 --> 00:14:12,570
+DOST Secretary Renato U. Solidum Jr.: pag-preserve ng evidence
+
+202
+00:14:12,570 --> 00:14:14,767
+DOST Secretary Renato U. Solidum Jr.: at mahanap yung culprit.
+
+203
+00:14:15,661 --> 00:14:17,130
+Rep. Sarah Jane I. Elago: Nakakabahala, Mr. Chair.
+
+204
+00:14:17,230 --> 00:14:17,790
+Rep. Sarah Jane I. Elago: Halimbawa,
+
+205
+00:14:18,250 --> 00:14:21,310
+Rep. Sarah Jane I. Elago: alam ho natin na hindi pa nga lang sa level ng DOST,
+
+206
+00:14:21,550 --> 00:14:22,990
+Rep. Sarah Jane I. Elago: iyong sa PSHS system,
+
+207
+00:14:22,990 --> 00:14:26,470
+Rep. Sarah Jane I. Elago: at sa mga LGU-funded scientists,
+
+208
+00:14:26,490 --> 00:14:27,410
+Rep. Sarah Jane I. Elago: sa high schools natin,
+
+209
+00:14:27,870 --> 00:14:30,910
+Rep. Sarah Jane I. Elago: ang daming mga ginagawang mga bagong produkto
+
+210
+00:14:30,910 --> 00:14:33,730
+Rep. Sarah Jane I. Elago: na high-value products,
+
+211
+00:14:33,830 --> 00:14:37,490
+Rep. Sarah Jane I. Elago: na nanggaling sa ating agricultural products.
+
+212
+00:14:38,310 --> 00:14:41,730
+Rep. Sarah Jane I. Elago: Pero nakita natin kung paano sa Pilipinas din,
+
+213
+00:14:41,830 --> 00:14:43,570
+Rep. Sarah Jane I. Elago: yung mga hindi na-deliver na carrot,
+
+214
+00:14:43,830 --> 00:14:45,370
+Rep. Sarah Jane I. Elago: sibuyas, cabbage,
+
+215
+00:14:45,690 --> 00:14:48,390
+Rep. Sarah Jane I. Elago: at iba pang mga produkto sa agrikultura,
+
+216
+00:14:48,530 --> 00:14:50,510
+Rep. Sarah Jane I. Elago: ay tinatapon lamang nung mga magsasaka.
+
+217
+00:14:51,130 --> 00:14:52,450
+Rep. Sarah Jane I. Elago: Ang ibig ko pong sabihin dito,
+
+218
+00:14:52,550 --> 00:14:54,270
+Rep. Sarah Jane I. Elago: ay kung paano ba natin matitiyak
+
+219
+00:14:54,270 --> 00:14:56,270
+Rep. Sarah Jane I. Elago: na yung wealth ng natural resources,
+
+220
+00:14:56,920 --> 00:14:58,040
+Rep. Sarah Jane I. Elago: natin,
+
+221
+00:14:58,040 --> 00:14:59,040
+Rep. Sarah Jane I. Elago: through our R&amp;D,
+
+222
+00:14:59,040 --> 00:15:00,320
+Rep. Sarah Jane I. Elago: our S&amp;T.
+
+223
+00:15:00,320 --> 00:15:02,000
+Rep. Sarah Jane I. Elago: nagagamit talaga
+
+224
+00:15:02,000 --> 00:15:04,020
+Rep. Sarah Jane I. Elago: para sa pangkabuuang
+
+225
+00:15:04,020 --> 00:15:05,920
+Rep. Sarah Jane I. Elago: pagpapaunlad ng yaman
+
+226
+00:15:05,920 --> 00:15:07,680
+Rep. Sarah Jane I. Elago: ng Pilipinas. So,
+
+227
+00:15:08,520 --> 00:15:09,980
+Rep. Sarah Jane I. Elago: on to my last set
+
+228
+00:15:09,980 --> 00:15:10,680
+Rep. Sarah Jane I. Elago: of questions.
+
+229
+00:15:12,220 --> 00:15:13,280
+Rep. Sarah Jane I. Elago: Kakampi ninyo ako,
+
+230
+00:15:13,760 --> 00:15:16,980
+Rep. Sarah Jane I. Elago: sa tingin ko,
+
+231
+00:15:17,520 --> 00:15:18,140
+Rep. Sarah Jane I. Elago: halos lahat kami
+
+232
+00:15:18,140 --> 00:15:19,720
+Rep. Sarah Jane I. Elago: dito, kung hindi man kami lahat,
+
+233
+00:15:20,100 --> 00:15:22,080
+Rep. Sarah Jane I. Elago: na mananawagan na
+
+234
+00:15:22,080 --> 00:15:23,940
+Rep. Sarah Jane I. Elago: ma-restore lahat ng budget cuts
+
+235
+00:15:23,940 --> 00:15:25,840
+Rep. Sarah Jane I. Elago: dun sa 2026 level.
+
+236
+00:15:26,020 --> 00:15:27,840
+Rep. Sarah Jane I. Elago: At kung maaari pa nga na madagdagan pa
+
+237
+00:15:27,840 --> 00:15:30,040
+Rep. Sarah Jane I. Elago: para sa mga nangangailangan na agencies.
+
+238
+00:15:30,700 --> 00:15:32,120
+Rep. Sarah Jane I. Elago: Ang sunod kong katanungan
+
+239
+00:15:32,120 --> 00:15:33,920
+Rep. Sarah Jane I. Elago: DOST-FNRI
+
+240
+00:15:34,460 --> 00:15:36,220
+Rep. Sarah Jane I. Elago: Ang FNRI po
+
+241
+00:15:36,220 --> 00:15:37,720
+Rep. Sarah Jane I. Elago: ang nagdidesenyo ng mga
+
+242
+00:15:37,720 --> 00:15:39,580
+Rep. Sarah Jane I. Elago: menu bundles na
+
+243
+00:15:39,580 --> 00:15:41,400
+Rep. Sarah Jane I. Elago: makakamit sa
+
+244
+00:15:41,400 --> 00:15:44,240
+Rep. Sarah Jane I. Elago: minimum nutritional requirements
+
+245
+00:15:44,240 --> 00:15:45,620
+Rep. Sarah Jane I. Elago: kada tao
+
+246
+00:15:45,620 --> 00:15:47,700
+Rep. Sarah Jane I. Elago: para siya ay manatiling
+
+247
+00:15:47,700 --> 00:15:49,800
+Rep. Sarah Jane I. Elago: malusog at
+
+248
+00:15:49,800 --> 00:15:52,020
+Rep. Sarah Jane I. Elago: produktibo. Sa ngayon po ba,
+
+249
+00:15:52,280 --> 00:15:53,920
+Rep. Sarah Jane I. Elago: ano ho yung amount
+
+250
+00:15:53,920 --> 00:15:55,840
+Rep. Sarah Jane I. Elago: na basis ninyo ng paggawa
+
+251
+00:15:55,840 --> 00:15:56,759
+Rep. Sarah Jane I. Elago: ng mga menu bundles na ito?
+
+252
+00:15:57,840 --> 00:16:01,610
+DOST Secretary Renato U. Solidum Jr.: May I ask the director of
+
+253
+00:16:01,610 --> 00:16:02,885
+DOST Secretary Renato U. Solidum Jr.: FNRI to respond.
+
+254
+00:16:02,885 --> 00:16:05,160
+DOST-FNRI Director Jacus S. Nacis: Yes po. Thank you po, sir.
+
+255
+00:16:05,160 --> 00:16:07,110
+DOST-FNRI Director Jacus S. Nacis: Madam Congresswoman,
+
+256
+00:16:07,230 --> 00:16:09,530
+DOST-FNRI Director Jacus S. Nacis: Naka-base po kami doon sa mga reference values natin
+
+257
+00:16:09,530 --> 00:16:11,570
+DOST-FNRI Director Jacus S. Nacis: sa PDRI. So, iyong mga
+
+258
+00:16:11,570 --> 00:16:13,510
+DOST-FNRI Director Jacus S. Nacis: basis po natin, for example, yung mga na-develop
+
+259
+00:16:13,510 --> 00:16:15,490
+DOST-FNRI Director Jacus S. Nacis: natin, we have to make sure that at least
+
+260
+00:16:15,490 --> 00:16:16,600
+DOST-FNRI Director Jacus S. Nacis: one-third of the requirement po
+
+261
+00:16:16,600 --> 00:16:17,532
+DOST-FNRI Director Jacus S. Nacis: ay nami-meet.
+
+262
+00:16:18,106 --> 00:16:21,050
+Rep. Sarah Jane I. Elago: Magkano po ito, Mr. Chair?
+
+263
+00:16:21,510 --> 00:16:23,310
+Rep. Sarah Jane I. Elago: Kada meal, or per person per day,
+
+264
+00:16:23,410 --> 00:16:24,029
+Rep. Sarah Jane I. Elago: magkano po ito sa ngayon?
+
+265
+00:16:24,029 --> 00:16:26,932
+Rep. Amben S. Amante: Can you wind up, Congresswoman Elago, on your question?
+
+266
+00:16:26,932 --> 00:16:28,890
+DOST-FNRI Director Jacus S. Nacis: Well, at the moment po,
+
+267
+00:16:29,730 --> 00:16:31,530
+DOST-FNRI Director Jacus S. Nacis: cannot give the exact figure ng
+
+268
+00:16:31,530 --> 00:16:33,030
+DOST-FNRI Director Jacus S. Nacis: computation kasi marami pong
+
+269
+00:16:33,030 --> 00:16:35,370
+DOST-FNRI Director Jacus S. Nacis: considerations
+
+270
+00:16:35,370 --> 00:16:36,330
+DOST-FNRI Director Jacus S. Nacis: dun sa computation.
+
+271
+00:16:37,690 --> 00:16:39,650
+Rep. Sarah Jane I. Elago: But when was the last time
+
+272
+00:16:39,650 --> 00:16:41,444
+Rep. Sarah Jane I. Elago: you designed these original menu bundles?
+
+273
+00:16:41,444 --> 00:16:43,730
+DOST-FNRI Director Jacus S. Nacis: There was a study conducted
+
+274
+00:16:43,730 --> 00:16:45,530
+DOST-FNRI Director Jacus S. Nacis: in 2023 na ginawa po
+
+275
+00:16:45,530 --> 00:16:46,530
+DOST-FNRI Director Jacus S. Nacis: among adolescents.
+
+276
+00:16:48,050 --> 00:16:49,530
+DOST-FNRI Director Jacus S. Nacis: And at that
+
+277
+00:16:49,530 --> 00:16:51,670
+DOST-FNRI Director Jacus S. Nacis: moment, pero 2023 po yung
+
+278
+00:16:51,670 --> 00:16:53,350
+DOST-FNRI Director Jacus S. Nacis: basis, meron pong
+
+279
+00:16:53,350 --> 00:16:55,630
+DOST-FNRI Director Jacus S. Nacis: around ₱30.25. But that's
+
+280
+00:16:55,630 --> 00:16:57,458
+DOST-FNRI Director Jacus S. Nacis: 2023 figures po.
+
+281
+00:16:57,998 --> 00:16:59,569
+Rep. Sarah Jane I. Elago: Opo. All right. So, for the
+
+282
+00:16:59,570 --> 00:17:01,890
+Rep. Sarah Jane I. Elago: years 2022 to 2023,
+
+283
+00:17:02,090 --> 00:17:03,470
+Rep. Sarah Jane I. Elago: what was the basis then
+
+284
+00:17:03,470 --> 00:17:05,470
+Rep. Sarah Jane I. Elago: for the amount? Gusto ko lang makakuha
+
+285
+00:17:05,470 --> 00:17:07,410
+Rep. Sarah Jane I. Elago: ng figure, Mr. Chair.
+
+286
+00:17:07,550 --> 00:17:09,910
+Rep. Sarah Jane I. Elago: Kasi, syempre, mahalaga din ito sa pag-establish
+
+287
+00:17:09,910 --> 00:17:10,857
+Rep. Sarah Jane I. Elago: ng ating food poverty threshold.
+
+288
+00:17:10,857 --> 00:17:13,470
+DOST-FNRI Director Jacus S. Nacis: Yes po. Ang basis po during that
+
+289
+00:17:13,470 --> 00:17:15,130
+DOST-FNRI Director Jacus S. Nacis: time ay, of course, yung mga market value
+
+290
+00:17:15,130 --> 00:17:17,230
+DOST-FNRI Director Jacus S. Nacis: ng mga raw materials na naka-include doon sa
+
+291
+00:17:17,230 --> 00:17:19,090
+DOST-FNRI Director Jacus S. Nacis: mga recipe po na dinevelop ng FNRI.
+
+292
+00:17:19,790 --> 00:17:21,770
+DOST-FNRI Director Jacus S. Nacis: The formula
+
+293
+00:17:21,770 --> 00:17:22,590
+DOST-FNRI Director Jacus S. Nacis: itself is
+
+294
+00:17:22,590 --> 00:17:25,670
+DOST-FNRI Director Jacus S. Nacis: within, nandun po sa mga
+
+295
+00:17:25,670 --> 00:17:27,670
+DOST-FNRI Director Jacus S. Nacis: kasama po natin sa FNRI na nag-develop
+
+296
+00:17:27,670 --> 00:17:28,770
+DOST-FNRI Director Jacus S. Nacis: nito. And,
+
+297
+00:17:29,570 --> 00:17:32,010
+DOST-FNRI Director Jacus S. Nacis: of course, given po yung
+
+298
+00:17:32,010 --> 00:17:33,550
+DOST-FNRI Director Jacus S. Nacis: mga current po na mga
+
+299
+00:17:33,550 --> 00:17:34,720
+DOST-FNRI Director Jacus S. Nacis: prices po ngayon ng mga raw materials,
+
+300
+00:17:34,720 --> 00:17:37,000
+DOST-FNRI Director Jacus S. Nacis: puwede po nating i-input iyong mga iyon and we can
+
+301
+00:17:37,000 --> 00:17:37,958
+DOST-FNRI Director Jacus S. Nacis: have the calculation.
+
+302
+00:17:38,735 --> 00:17:41,850
+Rep. Sarah Jane I. Elago: Sorry, Mr. Chair. Gusto ko lang makuha talaga yung amount.
+
+303
+00:17:41,950 --> 00:17:43,898
+Rep. Sarah Jane I. Elago: Kasi, hindi pa po nabibigay yung amount.
+
+304
+00:17:43,898 --> 00:17:45,670
+Rep. Amben S. Amante: Maybe you can ask the question for the second round.
+
+305
+00:17:45,670 --> 00:17:47,310
+Rep. Sarah Jane I. Elago: Yes, opo. So,
+
+306
+00:17:47,810 --> 00:17:49,770
+Rep. Sarah Jane I. Elago: how much was the amount
+
+307
+00:17:49,770 --> 00:17:50,817
+Rep. Sarah Jane I. Elago: back then? Years 2022 to 2023?
+
+308
+00:17:50,817 --> 00:17:53,590
+DOST-FNRI Director Jacus S. Nacis: This is for the meals for adolescents po.
+
+309
+00:17:53,670 --> 00:17:55,650
+DOST-FNRI Director Jacus S. Nacis: It's around 30 pesos and 25
+
+310
+00:17:55,650 --> 00:17:55,812
+DOST-FNRI Director Jacus S. Nacis: centavos.
+
+311
+00:17:55,812 --> 00:17:56,082
+Rep. Sarah Jane I. Elago: Right.
+
+312
+00:17:56,082 --> 00:17:56,656
+DOST-FNRI Director Jacus S. Nacis: Opo.
+
+313
+00:17:57,044 --> 00:17:59,490
+Rep. Sarah Jane I. Elago: I ask this question, Mr.
+
+314
+00:17:59,570 --> 00:18:01,290
+Rep. Sarah Jane I. Elago: Chair, at hingin ko na rin po yung pinakahuli
+
+315
+00:18:01,290 --> 00:18:03,470
+Rep. Sarah Jane I. Elago: ninyong pag-aaral dito. At kung may plano kayo para
+
+316
+00:18:03,470 --> 00:18:05,810
+Rep. Sarah Jane I. Elago: sa mga susunod. Mahalaga
+
+317
+00:18:05,810 --> 00:18:07,050
+Rep. Sarah Jane I. Elago: ito, Mr. Chair, kasi
+
+318
+00:18:07,050 --> 00:18:09,110
+Rep. Sarah Jane I. Elago: ang pinakahuli pong
+
+319
+00:18:09,110 --> 00:18:11,370
+Rep. Sarah Jane I. Elago: ulat ng DBM dito sa
+
+320
+00:18:11,370 --> 00:18:13,310
+Rep. Sarah Jane I. Elago: Kongreso, nung sila ay nagpunta
+
+321
+00:18:13,310 --> 00:18:15,550
+Rep. Sarah Jane I. Elago: dito para sa presentation
+
+322
+00:18:15,550 --> 00:18:17,730
+Rep. Sarah Jane I. Elago: ng 2027 budget
+
+323
+00:18:17,730 --> 00:18:19,490
+Rep. Sarah Jane I. Elago: na ang poverty
+
+324
+00:18:19,490 --> 00:18:21,790
+Rep. Sarah Jane I. Elago: ₱111
+
+325
+00:18:21,790 --> 00:18:23,390
+Rep. Sarah Jane I. Elago: pesos sa NCR.
+
+326
+00:18:23,770 --> 00:18:25,550
+Rep. Sarah Jane I. Elago: ₱77,
+
+327
+00:18:25,550 --> 00:18:27,490
+Rep. Sarah Jane I. Elago: 77 pesos. So,
+
+328
+00:18:27,490 --> 00:18:29,410
+Rep. Sarah Jane I. Elago: around ₱26 per meal.
+
+329
+00:18:29,570 --> 00:18:31,470
+Rep. Sarah Jane I. Elago: Mas maliit pa po
+
+330
+00:18:31,470 --> 00:18:33,610
+Rep. Sarah Jane I. Elago: Outside NCR, around ₱23
+
+331
+00:18:33,610 --> 00:18:35,450
+Rep. Sarah Jane I. Elago: per meal. At sinasabi niyo ho
+
+332
+00:18:35,450 --> 00:18:37,510
+Rep. Sarah Jane I. Elago: ngayon, 2022-2023
+
+333
+00:18:37,510 --> 00:18:39,750
+Rep. Sarah Jane I. Elago: figure, hindi pa po yan adjusted
+
+334
+00:18:39,750 --> 00:18:41,610
+Rep. Sarah Jane I. Elago: based sa inflation. 30
+
+335
+00:18:41,610 --> 00:18:43,770
+Rep. Sarah Jane I. Elago: pesos na. So, hindi po talaga
+
+336
+00:18:43,770 --> 00:18:45,670
+Rep. Sarah Jane I. Elago: makatotohanan yung ginagamit natin
+
+337
+00:18:45,670 --> 00:18:47,530
+Rep. Sarah Jane I. Elago: ngayon na subsistence threshold.
+
+338
+00:18:47,710 --> 00:18:49,630
+Rep. Sarah Jane I. Elago: At kinakailangan na natin yung i-update
+
+339
+00:18:49,630 --> 00:18:51,550
+Rep. Sarah Jane I. Elago: kung gusto talaga natin ng
+
+340
+00:18:51,550 --> 00:18:53,410
+Rep. Sarah Jane I. Elago: makatotohanan na
+
+341
+00:18:53,410 --> 00:18:55,330
+Rep. Sarah Jane I. Elago: presentasyon ng kalagayan
+
+342
+00:18:55,330 --> 00:18:57,929
+Rep. Sarah Jane I. Elago: ng ating mamamayang Pilipino. Maraming salamat, Mr. Chair.
+
+343
+00:18:57,963 --> 00:18:58,560
+Rep. Amben S. Amante: Thank you,
+
+344
+00:18:58,560 --> 00:19:00,140
+Rep. Amben S. Amante: Congresswoman Elago. Now,
+
+345
+00:19:00,140 --> 00:19:01,692
+Rep. Amben S. Amante: from the majority,
+
+346
+00:19:02,603 --> 00:19:04,440
+Rep. Amben S. Amante: last from the majority,
+
+347
+00:19:04,440 --> 00:19:05,877
+Rep. Amben S. Amante: Congresswoman Bella Suansing.
+
+348
+00:19:07,480 --> 00:19:08,919
+Rep. Bella Vanessa B. Suansing: Thank you, Mr. Chair.
+
+349
+00:19:08,919 --> 00:19:09,900
+Rep. Bella Vanessa B. Suansing: Good evening, everyone.
+
+350
+00:19:10,840 --> 00:19:12,600
+Rep. Bella Vanessa B. Suansing: Just a couple of questions to the
+
+351
+00:19:12,600 --> 00:19:14,639
+Rep. Bella Vanessa B. Suansing: good secretary and the DOST family.
+
+352
+00:19:15,159 --> 00:19:16,339
+Rep. Bella Vanessa B. Suansing: First, we're very happy
+
+353
+00:19:16,840 --> 00:19:18,859
+Rep. Bella Vanessa B. Suansing: to hear that agriculture,
+
+354
+00:19:18,919 --> 00:19:21,120
+Rep. Bella Vanessa B. Suansing: smart agriculture, is one of the priorities
+
+355
+00:19:21,120 --> 00:19:23,559
+Rep. Bella Vanessa B. Suansing: of the DOST.
+
+356
+00:19:23,559 --> 00:19:24,880
+Rep. Bella Vanessa B. Suansing: So, can the good secretary
+
+357
+00:19:24,880 --> 00:19:27,159
+Rep. Bella Vanessa B. Suansing: please orient the committee
+
+358
+00:19:27,159 --> 00:19:29,400
+Rep. Bella Vanessa B. Suansing: on the process
+
+359
+00:19:29,400 --> 00:19:30,560
+Rep. Bella Vanessa B. Suansing: called Project SARAI,
+
+360
+00:19:31,720 --> 00:19:32,960
+Rep. Bella Vanessa B. Suansing: or Smarter Approaches
+
+361
+00:19:32,960 --> 00:19:34,920
+Rep. Bella Vanessa B. Suansing: to Reinvigorate Agriculture
+
+362
+00:19:35,600 --> 00:19:36,720
+Rep. Bella Vanessa B. Suansing: as an Industry.
+
+363
+00:19:36,720 --> 00:19:38,320
+Rep. Bella Vanessa B. Suansing: in the Philippines? So, here,
+
+364
+00:19:39,320 --> 00:19:40,840
+Rep. Bella Vanessa B. Suansing: in the presentation was mentioned
+
+365
+00:19:40,840 --> 00:19:41,240
+Rep. Bella Vanessa B. Suansing: that
+
+366
+00:19:43,840 --> 00:19:44,799
+Rep. Bella Vanessa B. Suansing: there's crop nutrient
+
+367
+00:19:44,799 --> 00:19:47,000
+Rep. Bella Vanessa B. Suansing: management, pero merong community
+
+368
+00:19:47,000 --> 00:19:49,240
+Rep. Bella Vanessa B. Suansing: level enhanced agricultural
+
+369
+00:19:49,240 --> 00:19:50,319
+Rep. Bella Vanessa B. Suansing: monitoring system.
+
+370
+00:19:51,840 --> 00:19:52,880
+Rep. Bella Vanessa B. Suansing: But also,
+
+371
+00:19:52,880 --> 00:19:54,720
+Rep. Bella Vanessa B. Suansing: I guess these are linked to
+
+372
+00:19:54,720 --> 00:19:56,799
+Rep. Bella Vanessa B. Suansing: the mobile applications, and there are a lot
+
+373
+00:19:56,799 --> 00:19:58,920
+Rep. Bella Vanessa B. Suansing: of different apps that were mentioned.
+
+374
+00:19:59,799 --> 00:20:00,840
+Rep. Bella Vanessa B. Suansing: Can we get,
+
+375
+00:20:00,840 --> 00:20:03,080
+Rep. Bella Vanessa B. Suansing: can this committee be oriented
+
+376
+00:20:03,080 --> 00:20:04,340
+Rep. Bella Vanessa B. Suansing: with the process of SARAI?
+
+377
+00:20:05,679 --> 00:20:06,259
+DOST Secretary Renato U. Solidum Jr.: Thank you,
+
+378
+00:20:07,280 --> 00:20:07,700
+DOST Secretary Renato U. Solidum Jr.: Your Honor.
+
+379
+00:20:08,799 --> 00:20:11,000
+DOST Secretary Renato U. Solidum Jr.: Essentially, Project SARAI was our R&amp;D
+
+380
+00:20:11,000 --> 00:20:13,200
+DOST Secretary Renato U. Solidum Jr.: program funded by
+
+381
+00:20:13,200 --> 00:20:15,520
+DOST Secretary Renato U. Solidum Jr.: DOST-PCAARRD,
+
+382
+00:20:15,520 --> 00:20:17,159
+DOST Secretary Renato U. Solidum Jr.: and, of course, monitored
+
+383
+00:20:17,159 --> 00:20:18,880
+DOST Secretary Renato U. Solidum Jr.: and funded by DOST
+
+384
+00:20:18,880 --> 00:20:20,880
+DOST Secretary Renato U. Solidum Jr.: and implemented by UPLB before
+
+385
+00:20:21,919 --> 00:20:23,280
+DOST Secretary Renato U. Solidum Jr.: and now being operated
+
+386
+00:20:23,280 --> 00:20:24,620
+DOST Secretary Renato U. Solidum Jr.: at the regional level.
+
+387
+00:20:25,320 --> 00:20:26,919
+DOST Secretary Renato U. Solidum Jr.: It integrates satellite remote
+
+388
+00:20:26,919 --> 00:20:28,640
+DOST Secretary Renato U. Solidum Jr.: sensing, GIS and crop mapping,
+
+389
+00:20:28,640 --> 00:20:29,940
+DOST Secretary Renato U. Solidum Jr.: weather and rainfall data,
+
+390
+00:20:30,600 --> 00:20:32,339
+DOST Secretary Renato U. Solidum Jr.: crop forecasting and modeling,
+
+391
+00:20:32,919 --> 00:20:34,460
+DOST Secretary Renato U. Solidum Jr.: pest and disease monitoring,
+
+392
+00:20:34,919 --> 00:20:36,440
+DOST Secretary Renato U. Solidum Jr.: water and nutrient management,
+
+393
+00:20:36,440 --> 00:20:38,899
+DOST Secretary Renato U. Solidum Jr.: digital mobile applications, those will be the guide,
+
+394
+00:20:39,600 --> 00:20:40,919
+DOST Secretary Renato U. Solidum Jr.: and site-specific
+
+395
+00:20:40,919 --> 00:20:42,960
+DOST Secretary Renato U. Solidum Jr.: crop advisories. And as we
+
+396
+00:20:42,960 --> 00:20:44,760
+DOST Secretary Renato U. Solidum Jr.: move along, there can be
+
+397
+00:20:44,760 --> 00:20:46,760
+DOST Secretary Renato U. Solidum Jr.: other applications that can be developed
+
+398
+00:20:47,240 --> 00:20:48,880
+DOST Secretary Renato U. Solidum Jr.: depending on the areas.
+
+399
+00:20:48,880 --> 00:20:50,840
+DOST Secretary Renato U. Solidum Jr.: But these are essentially the core
+
+400
+00:20:54,520 --> 00:20:57,320
+DOST Secretary Renato U. Solidum Jr.: activities under the project.
+
+401
+00:20:57,320 --> 00:20:59,159
+Rep. Bella Vanessa B. Suansing: Thank you, Mr. Chair.
+
+402
+00:20:59,159 --> 00:21:00,700
+Rep. Bella Vanessa B. Suansing: So, Project
+
+403
+00:21:01,120 --> 00:21:02,039
+Rep. Bella Vanessa B. Suansing: Project SARAI
+
+404
+00:21:02,039 --> 00:21:04,039
+Rep. Bella Vanessa B. Suansing: rolled out in which regions?
+
+405
+00:21:04,039 --> 00:21:05,080
+DOST Secretary Renato U. Solidum Jr.: Lahat po ng region.
+
+406
+00:21:06,159 --> 00:21:07,880
+DOST Secretary Renato U. Solidum Jr.: It depends on the commodity
+
+407
+00:21:07,880 --> 00:21:10,120
+DOST Secretary Renato U. Solidum Jr.: that the local government and the farmers would want
+
+408
+00:21:10,120 --> 00:21:11,960
+DOST Secretary Renato U. Solidum Jr.: to look into. And even
+
+409
+00:21:11,960 --> 00:21:13,919
+DOST Secretary Renato U. Solidum Jr.: in NCR. So, we have urban
+
+410
+00:21:13,919 --> 00:21:16,180
+DOST Secretary Renato U. Solidum Jr.: farming here in NCR.
+
+411
+00:21:16,760 --> 00:21:17,880
+Rep. Bella Vanessa B. Suansing: Okay. Thank you.
+
+412
+00:21:19,039 --> 00:21:20,000
+Rep. Bella Vanessa B. Suansing: Would these, would
+
+413
+00:21:20,000 --> 00:21:21,800
+Rep. Bella Vanessa B. Suansing: Project SARAI
+
+414
+00:21:22,440 --> 00:21:23,960
+Rep. Bella Vanessa B. Suansing: it, I assume,
+
+415
+00:21:23,960 --> 00:21:25,560
+Rep. Bella Vanessa B. Suansing: takes from soil
+
+416
+00:21:26,480 --> 00:21:27,600
+Rep. Bella Vanessa B. Suansing: samples, so
+
+417
+00:21:28,720 --> 00:21:30,220
+Rep. Bella Vanessa B. Suansing: Project SARAI
+
+418
+00:21:30,559 --> 00:21:32,000
+Rep. Bella Vanessa B. Suansing: the planting of specific
+
+419
+00:21:32,000 --> 00:21:33,960
+Rep. Bella Vanessa B. Suansing: varieties of crops?
+
+420
+00:21:33,960 --> 00:21:36,060
+DOST Secretary Renato U. Solidum Jr.: Essentially, soil health and soil
+
+421
+00:21:36,320 --> 00:21:37,960
+DOST Secretary Renato U. Solidum Jr.: classification needs to be done
+
+422
+00:21:38,480 --> 00:21:40,120
+DOST Secretary Renato U. Solidum Jr.: so that we can look at the best
+
+423
+00:21:40,120 --> 00:21:42,300
+DOST Secretary Renato U. Solidum Jr.: possible agricultural crop that
+
+424
+00:21:42,559 --> 00:21:44,720
+DOST Secretary Renato U. Solidum Jr.: must be planted.
+
+425
+00:21:44,720 --> 00:21:45,820
+DOST Secretary Renato U. Solidum Jr.: But in the operationalization
+
+426
+00:21:46,159 --> 00:21:48,120
+DOST Secretary Renato U. Solidum Jr.: of Project SARAI, we don't
+
+427
+00:21:48,120 --> 00:21:49,919
+DOST Secretary Renato U. Solidum Jr.: restrict the use
+
+428
+00:21:49,919 --> 00:21:51,879
+DOST Secretary Renato U. Solidum Jr.: of other technologies
+
+429
+00:21:52,279 --> 00:21:54,180
+DOST Secretary Renato U. Solidum Jr.: beyond SARAI. Because, for example,
+
+430
+00:21:54,720 --> 00:21:55,799
+DOST Secretary Renato U. Solidum Jr.: the other
+
+431
+00:21:55,799 --> 00:21:57,600
+DOST Secretary Renato U. Solidum Jr.: technology using seaweed as foliar
+
+432
+00:21:57,600 --> 00:21:59,840
+DOST Secretary Renato U. Solidum Jr.: fertilizer that can increase
+
+433
+00:21:59,840 --> 00:22:01,580
+DOST Secretary Renato U. Solidum Jr.: rice production up to 30%,
+
+434
+00:22:02,159 --> 00:22:04,080
+DOST Secretary Renato U. Solidum Jr.: although not part of Project SARAI,
+
+435
+00:22:04,080 --> 00:22:05,179
+DOST Secretary Renato U. Solidum Jr.: can be implemented.
+
+436
+00:22:05,600 --> 00:22:08,200
+DOST Secretary Renato U. Solidum Jr.: So, it supplements the fertilizer
+
+437
+00:22:09,000 --> 00:22:10,099
+DOST Secretary Renato U. Solidum Jr.: placed on the soil
+
+438
+00:22:10,679 --> 00:22:11,919
+DOST Secretary Renato U. Solidum Jr.: and it,
+
+439
+00:22:11,919 --> 00:22:13,840
+DOST Secretary Renato U. Solidum Jr.: for all the commodities that we have
+
+440
+00:22:13,840 --> 00:22:15,720
+DOST Secretary Renato U. Solidum Jr.: looked into and used it, lahat
+
+441
+00:22:15,720 --> 00:22:17,080
+DOST Secretary Renato U. Solidum Jr.: nag-i-increase ang production.
+
+442
+00:22:18,760 --> 00:22:20,440
+DOST Secretary Renato U. Solidum Jr.: Even Smart Agri.
+
+443
+00:22:20,440 --> 00:22:21,799
+DOST Secretary Renato U. Solidum Jr.: The project does not
+
+444
+00:22:21,799 --> 00:22:24,039
+DOST Secretary Renato U. Solidum Jr.: go into Smart Aqua. So, we're also introducing
+
+445
+00:22:24,039 --> 00:22:26,039
+DOST Secretary Renato U. Solidum Jr.: Aqua. So, we're also introducing
+
+446
+00:22:26,039 --> 00:22:27,579
+DOST Secretary Renato U. Solidum Jr.: the Smart Aqua technologies,
+
+447
+00:22:28,039 --> 00:22:29,940
+DOST Secretary Renato U. Solidum Jr.: also supported by DOST,
+
+448
+00:22:30,159 --> 00:22:30,799
+DOST Secretary Renato U. Solidum Jr.: through DOST-PCAARRD.
+
+449
+00:22:30,799 --> 00:22:32,360
+DOST Secretary Renato U. Solidum Jr.: DOST-PCAARRD is
+
+450
+00:22:32,360 --> 00:22:35,919
+DOST Secretary Renato U. Solidum Jr.: the Agri-Aqua sectoral council.
+
+451
+00:22:35,919 --> 00:22:38,660
+DOST Secretary Renato U. Solidum Jr.: Agri-Aqua technologies po ang focus natin.
+
+452
+00:22:38,919 --> 00:22:40,280
+Rep. Bella Vanessa B. Suansing: Thank you, Mr. Chair.
+
+453
+00:22:41,720 --> 00:22:42,160
+Rep. Bella Vanessa B. Suansing: Related,
+
+454
+00:22:42,600 --> 00:22:43,460
+Rep. Bella Vanessa B. Suansing: my next question.
+
+455
+00:22:44,000 --> 00:22:46,520
+Rep. Bella Vanessa B. Suansing: So, we were given a good
+
+456
+00:22:46,520 --> 00:22:47,520
+Rep. Bella Vanessa B. Suansing: presentation on
+
+457
+00:22:48,400 --> 00:22:50,360
+Rep. Bella Vanessa B. Suansing: the projects, the R&amp;D
+
+458
+00:22:50,360 --> 00:22:52,159
+Rep. Bella Vanessa B. Suansing: projects, and the
+
+459
+00:22:52,159 --> 00:22:53,880
+Rep. Bella Vanessa B. Suansing: resulting products for
+
+460
+00:22:53,880 --> 00:22:55,580
+Rep. Bella Vanessa B. Suansing: major crop commodities,
+
+461
+00:22:56,120 --> 00:22:57,479
+Rep. Bella Vanessa B. Suansing: smart aquaculture,
+
+462
+00:22:59,240 --> 00:22:59,919
+Rep. Bella Vanessa B. Suansing: and then,
+
+463
+00:22:59,919 --> 00:23:01,260
+Rep. Bella Vanessa B. Suansing: environmental sustainability,
+
+464
+00:23:01,600 --> 00:23:03,539
+Rep. Bella Vanessa B. Suansing: circular economy initiatives.
+
+465
+00:23:04,279 --> 00:23:05,960
+Rep. Bella Vanessa B. Suansing: Are there efforts on the part of
+
+466
+00:23:05,960 --> 00:23:07,760
+Rep. Bella Vanessa B. Suansing: the DOST to link with
+
+467
+00:23:07,760 --> 00:23:09,020
+Rep. Bella Vanessa B. Suansing: the Department of Agriculture,
+
+468
+00:23:10,360 --> 00:23:11,920
+Rep. Bella Vanessa B. Suansing: like all of the programs of
+
+469
+00:23:12,679 --> 00:23:14,420
+Rep. Bella Vanessa B. Suansing: our national government agencies
+
+470
+00:23:14,559 --> 00:23:16,119
+Rep. Bella Vanessa B. Suansing: to use climate-smart
+
+471
+00:23:17,640 --> 00:23:18,720
+Rep. Bella Vanessa B. Suansing: methods?
+
+472
+00:23:19,200 --> 00:23:20,039
+DOST Secretary Renato U. Solidum Jr.: There are always
+
+473
+00:23:20,039 --> 00:23:22,159
+DOST Secretary Renato U. Solidum Jr.: efforts, especially through
+
+474
+00:23:22,159 --> 00:23:24,460
+DOST Secretary Renato U. Solidum Jr.: with DOST-PCAARRD,
+
+475
+00:23:24,960 --> 00:23:26,039
+DOST Secretary Renato U. Solidum Jr.: would be one of our
+
+476
+00:23:26,039 --> 00:23:27,459
+DOST Secretary Renato U. Solidum Jr.: governing council members.
+
+477
+00:23:28,039 --> 00:23:30,379
+DOST Secretary Renato U. Solidum Jr.: We are also, especially,
+
+478
+00:23:30,440 --> 00:23:32,559
+DOST Secretary Renato U. Solidum Jr.: into coconut
+
+479
+00:23:32,559 --> 00:23:34,000
+DOST Secretary Renato U. Solidum Jr.: and dairy, so we're also part
+
+480
+00:23:34,000 --> 00:23:36,000
+DOST Secretary Renato U. Solidum Jr.: of that board. Now, of course,
+
+481
+00:23:36,000 --> 00:23:38,320
+DOST Secretary Renato U. Solidum Jr.: the utilization
+
+482
+00:23:38,320 --> 00:23:40,039
+DOST Secretary Renato U. Solidum Jr.: of the technologies that we have
+
+483
+00:23:40,039 --> 00:23:42,480
+DOST Secretary Renato U. Solidum Jr.: developed might
+
+484
+00:23:42,480 --> 00:23:44,340
+DOST Secretary Renato U. Solidum Jr.: not be 100%, but
+
+485
+00:23:45,520 --> 00:23:46,520
+DOST Secretary Renato U. Solidum Jr.: at our regional
+
+486
+00:23:46,520 --> 00:23:48,039
+DOST Secretary Renato U. Solidum Jr.: and provincial offices, once
+
+487
+00:23:48,039 --> 00:23:49,660
+DOST Secretary Renato U. Solidum Jr.: we introduce these technologies,
+
+488
+00:23:50,039 --> 00:23:51,480
+DOST Secretary Renato U. Solidum Jr.: or through the consortia
+
+489
+00:23:52,919 --> 00:23:54,360
+DOST Secretary Renato U. Solidum Jr.: of PCAARRD.
+
+490
+00:23:54,360 --> 00:23:56,159
+DOST Secretary Renato U. Solidum Jr.: these technologies can be implemented
+
+491
+00:23:56,159 --> 00:23:57,619
+DOST Secretary Renato U. Solidum Jr.: locally as well.
+
+492
+00:23:58,080 --> 00:23:59,180
+Rep. Bella Vanessa B. Suansing: Thank you, Mr. Chair.
+
+493
+00:24:00,520 --> 00:24:02,360
+Rep. Bella Vanessa B. Suansing: The reason why I bring it up is
+
+494
+00:24:02,360 --> 00:24:03,940
+Rep. Bella Vanessa B. Suansing: I'm part of the Task Force El Niño.
+
+495
+00:24:05,240 --> 00:24:06,200
+Rep. Bella Vanessa B. Suansing: DOST is the
+
+496
+00:24:06,200 --> 00:24:07,520
+Rep. Bella Vanessa B. Suansing: co-chairperson of the OCD.
+
+497
+00:24:08,400 --> 00:24:09,820
+Rep. Bella Vanessa B. Suansing: It would be good, given that
+
+498
+00:24:11,880 --> 00:24:12,200
+Rep. Bella Vanessa B. Suansing: it's a
+
+499
+00:24:12,200 --> 00:24:13,679
+Rep. Bella Vanessa B. Suansing: 35-minute
+
+500
+00:24:14,240 --> 00:24:16,240
+Rep. Bella Vanessa B. Suansing: presentation by the DOST of all the things
+
+501
+00:24:16,240 --> 00:24:17,440
+Rep. Bella Vanessa B. Suansing: that you already accomplished,
+
+502
+00:24:17,919 --> 00:24:20,240
+Rep. Bella Vanessa B. Suansing: and all of the projects that you
+
+503
+00:24:20,240 --> 00:24:22,159
+Rep. Bella Vanessa B. Suansing: already have completed, and all of the
+
+504
+00:24:22,159 --> 00:24:23,640
+Rep. Bella Vanessa B. Suansing: technologies that resulted to it.
+
+505
+00:24:24,400 --> 00:24:25,520
+Rep. Bella Vanessa B. Suansing: El Niño,
+
+506
+00:24:25,520 --> 00:24:27,120
+Rep. Bella Vanessa B. Suansing: it's super El Niño now.
+
+507
+00:24:29,080 --> 00:24:29,799
+Rep. Bella Vanessa B. Suansing: This has to be,
+
+508
+00:24:29,799 --> 00:24:31,559
+Rep. Bella Vanessa B. Suansing: at the forefront of
+
+509
+00:24:32,120 --> 00:24:33,479
+Rep. Bella Vanessa B. Suansing: our national consciousness.
+
+510
+00:24:35,240 --> 00:24:36,900
+Rep. Bella Vanessa B. Suansing: Climate-smart
+
+511
+00:24:37,600 --> 00:24:38,200
+Rep. Bella Vanessa B. Suansing: agriculture, first is
+
+512
+00:24:38,200 --> 00:24:40,200
+Rep. Bella Vanessa B. Suansing: a daunting idea to everyone,
+
+513
+00:24:40,200 --> 00:24:42,220
+Rep. Bella Vanessa B. Suansing: but apparently, the DOST is already
+
+514
+00:24:43,159 --> 00:24:44,240
+Rep. Bella Vanessa B. Suansing: implementing and has
+
+515
+00:24:44,240 --> 00:24:46,320
+Rep. Bella Vanessa B. Suansing: completed projects that directly
+
+516
+00:24:46,320 --> 00:24:48,000
+Rep. Bella Vanessa B. Suansing: address these problems.
+
+517
+00:24:48,000 --> 00:24:50,679
+Rep. Bella Vanessa B. Suansing: For example, if climate
+
+518
+00:24:50,679 --> 00:24:52,320
+Rep. Bella Vanessa B. Suansing: change results to the acidity
+
+519
+00:24:52,320 --> 00:24:53,680
+Rep. Bella Vanessa B. Suansing: of soils, but
+
+520
+00:24:55,760 --> 00:24:56,560
+Rep. Bella Vanessa B. Suansing: Project SARAI
+
+521
+00:24:57,279 --> 00:24:58,280
+Rep. Bella Vanessa B. Suansing: or iyong SARAI,
+
+522
+00:24:59,080 --> 00:24:59,679
+Rep. Bella Vanessa B. Suansing: potential na
+
+523
+00:24:59,679 --> 00:25:01,379
+Rep. Bella Vanessa B. Suansing: recommendation for particular
+
+524
+00:25:02,399 --> 00:25:03,940
+Rep. Bella Vanessa B. Suansing: pilot areas,
+
+525
+00:25:04,679 --> 00:25:05,380
+Rep. Bella Vanessa B. Suansing: sana po,
+
+526
+00:25:06,000 --> 00:25:07,640
+Rep. Bella Vanessa B. Suansing: siguro panawagan ito sa
+
+527
+00:25:07,640 --> 00:25:09,600
+Rep. Bella Vanessa B. Suansing: lahat po na nakikinig, na
+
+528
+00:25:09,600 --> 00:25:11,720
+Rep. Bella Vanessa B. Suansing: ang dami na pong teknolohiya
+
+529
+00:25:11,720 --> 00:25:13,919
+Rep. Bella Vanessa B. Suansing: na na-develop ang DOST.
+
+530
+00:25:13,919 --> 00:25:15,799
+Rep. Bella Vanessa B. Suansing: Sana po, ma-integrate
+
+531
+00:25:15,799 --> 00:25:17,440
+Rep. Bella Vanessa B. Suansing: natin sa mga programa po ng
+
+532
+00:25:17,440 --> 00:25:19,360
+Rep. Bella Vanessa B. Suansing: Pambansang Pamahalaan,
+
+533
+00:25:19,360 --> 00:25:20,440
+Rep. Bella Vanessa B. Suansing: Nasasayang po eh.
+
+534
+00:25:22,039 --> 00:25:23,440
+Rep. Bella Vanessa B. Suansing: grabe po, iyong impact nito
+
+535
+00:25:23,440 --> 00:25:25,440
+Rep. Bella Vanessa B. Suansing: DOST family, all of the
+
+536
+00:25:25,440 --> 00:25:27,040
+Rep. Bella Vanessa B. Suansing: attached agencies, sana po at
+
+537
+00:25:28,200 --> 00:25:29,840
+Rep. Bella Vanessa B. Suansing: ma-incorporate po natin.
+
+538
+00:25:30,960 --> 00:25:32,000
+DOST Secretary Renato U. Solidum Jr.: Thank you,
+
+539
+00:25:33,640 --> 00:25:34,460
+DOST Secretary Renato U. Solidum Jr.: Congresswoman.
+
+540
+00:25:35,240 --> 00:25:36,640
+DOST Secretary Renato U. Solidum Jr.: At first, we tried to
+
+541
+00:25:37,320 --> 00:25:38,559
+DOST Secretary Renato U. Solidum Jr.: advertise the different
+
+542
+00:25:38,559 --> 00:25:40,480
+DOST Secretary Renato U. Solidum Jr.: technologies that we have for agriculture
+
+543
+00:25:41,080 --> 00:25:42,720
+DOST Secretary Renato U. Solidum Jr.: by developing
+
+544
+00:25:42,720 --> 00:25:44,580
+DOST Secretary Renato U. Solidum Jr.: use cases or pilots.
+
+545
+00:25:45,640 --> 00:25:46,679
+DOST Secretary Renato U. Solidum Jr.: But we felt
+
+546
+00:25:46,679 --> 00:25:47,859
+DOST Secretary Renato U. Solidum Jr.: that the
+
+547
+00:25:48,720 --> 00:25:50,680
+DOST Secretary Renato U. Solidum Jr.: implementation is not accelerated
+
+548
+00:25:51,440 --> 00:25:52,039
+DOST Secretary Renato U. Solidum Jr.: at the rate
+
+549
+00:25:53,039 --> 00:25:54,559
+DOST Secretary Renato U. Solidum Jr.: by which climate change
+
+550
+00:25:54,559 --> 00:25:55,479
+DOST Secretary Renato U. Solidum Jr.: would affect our
+
+551
+00:25:57,240 --> 00:25:58,799
+DOST Secretary Renato U. Solidum Jr.: farmers and fisher folk.
+
+552
+00:25:58,799 --> 00:26:00,240
+DOST Secretary Renato U. Solidum Jr.: So that's why we decided,
+
+553
+00:26:00,240 --> 00:26:01,880
+DOST Secretary Renato U. Solidum Jr.: that we implement
+
+554
+00:26:01,880 --> 00:26:04,000
+DOST Secretary Renato U. Solidum Jr.: these technologies at the regional level
+
+555
+00:26:04,000 --> 00:26:05,239
+DOST Secretary Renato U. Solidum Jr.: where we will collaborate
+
+556
+00:26:05,799 --> 00:26:07,799
+DOST Secretary Renato U. Solidum Jr.: with departments like DA,
+
+557
+00:26:07,799 --> 00:26:09,520
+DOST Secretary Renato U. Solidum Jr.: the provincial and local governments,
+
+558
+00:26:09,520 --> 00:26:12,240
+DOST Secretary Renato U. Solidum Jr.: and the cooperatives
+
+559
+00:26:12,240 --> 00:26:13,540
+DOST Secretary Renato U. Solidum Jr.: or specific farmer
+
+560
+00:26:14,320 --> 00:26:14,780
+DOST Secretary Renato U. Solidum Jr.: partner.
+
+561
+00:26:16,159 --> 00:26:18,000
+DOST Secretary Renato U. Solidum Jr.: For example, for the El Nino
+
+562
+00:26:18,000 --> 00:26:20,120
+DOST Secretary Renato U. Solidum Jr.: Task Force, we actually
+
+563
+00:26:20,120 --> 00:26:21,039
+DOST Secretary Renato U. Solidum Jr.: developed the
+
+564
+00:26:21,799 --> 00:26:22,959
+DOST Secretary Renato U. Solidum Jr.: platform for
+
+565
+00:26:23,799 --> 00:26:25,880
+DOST Secretary Renato U. Solidum Jr.: providing the information and monitoring
+
+566
+00:26:25,880 --> 00:26:27,900
+DOST Secretary Renato U. Solidum Jr.: the different interventions.
+
+567
+00:26:28,399 --> 00:26:29,640
+DOST Secretary Renato U. Solidum Jr.: But in this year,
+
+568
+00:26:29,640 --> 00:26:31,199
+DOST Secretary Renato U. Solidum Jr.: we specifically asked
+
+569
+00:26:31,919 --> 00:26:34,180
+DOST Secretary Renato U. Solidum Jr.: that interventions developed by DOST
+
+570
+00:26:34,559 --> 00:26:35,720
+DOST Secretary Renato U. Solidum Jr.: and, of course,
+
+571
+00:26:35,720 --> 00:26:37,500
+DOST Secretary Renato U. Solidum Jr.: through PCAARRD,
+
+572
+00:26:37,960 --> 00:26:39,439
+DOST Secretary Renato U. Solidum Jr.: be part of the intervention.
+
+573
+00:26:39,919 --> 00:26:41,040
+DOST Secretary Renato U. Solidum Jr.: For example,
+
+574
+00:26:41,559 --> 00:26:43,520
+DOST Secretary Renato U. Solidum Jr.: the use of water for irrigation,
+
+575
+00:26:43,520 --> 00:26:44,559
+DOST Secretary Renato U. Solidum Jr.: drip irrigation,
+
+576
+00:26:44,559 --> 00:26:45,699
+DOST Secretary Renato U. Solidum Jr.: furrow irrigation.
+
+577
+00:26:46,360 --> 00:26:48,039
+DOST Secretary Renato U. Solidum Jr.: We have, in Region 3,
+
+578
+00:26:48,039 --> 00:26:48,860
+DOST Secretary Renato U. Solidum Jr.: developed the
+
+579
+00:26:49,880 --> 00:26:51,679
+DOST Secretary Renato U. Solidum Jr.: solar irrigation trailer unit.
+
+580
+00:26:51,679 --> 00:26:52,219
+DOST Secretary Renato U. Solidum Jr.: Usually,
+
+581
+00:26:53,000 --> 00:26:56,440
+DOST Secretary Renato U. Solidum Jr.: we develop irrigation systems
+
+582
+00:26:56,440 --> 00:26:57,399
+DOST Secretary Renato U. Solidum Jr.: that are permanent,
+
+583
+00:26:57,399 --> 00:26:58,479
+DOST Secretary Renato U. Solidum Jr.: but solarized.
+
+584
+00:26:58,919 --> 00:26:59,679
+DOST Secretary Renato U. Solidum Jr.: But it's kind of a
+
+585
+00:26:59,679 --> 00:27:00,219
+DOST Secretary Renato U. Solidum Jr.: very expensive.
+
+586
+00:27:01,000 --> 00:27:02,440
+DOST Secretary Renato U. Solidum Jr.: So what they have done there
+
+587
+00:27:02,440 --> 00:27:05,699
+DOST Secretary Renato U. Solidum Jr.: with Nueva Ecija Science and Technology University
+
+588
+00:27:06,480 --> 00:27:09,919
+DOST Secretary Renato U. Solidum Jr.: is to develop this mobile trailer unit
+
+589
+00:27:09,919 --> 00:27:11,160
+DOST Secretary Renato U. Solidum Jr.: that after you irrigate
+
+590
+00:27:11,720 --> 00:27:13,320
+DOST Secretary Renato U. Solidum Jr.: one farmer's land,
+
+591
+00:27:13,320 --> 00:27:15,080
+DOST Secretary Renato U. Solidum Jr.: then this can be pulled by a
+
+592
+00:27:15,080 --> 00:27:17,240
+DOST Secretary Renato U. Solidum Jr.: or tricycle or a jeepney
+
+593
+00:27:18,000 --> 00:27:21,080
+DOST Secretary Renato U. Solidum Jr.: so that another farm can be irrigated.
+
+594
+00:27:21,080 --> 00:27:24,719
+DOST Secretary Renato U. Solidum Jr.: It taps surface water or shallow water wells.
+
+595
+00:27:25,120 --> 00:27:26,240
+DOST Secretary Renato U. Solidum Jr.: So in essence,
+
+596
+00:27:26,240 --> 00:27:27,760
+DOST Secretary Renato U. Solidum Jr.: dalawa po ang ating ina-address:
+
+597
+00:27:28,200 --> 00:27:29,520
+DOST Secretary Renato U. Solidum Jr.: iyong availability ng
+
+598
+00:27:29,520 --> 00:27:29,900
+DOST Secretary Renato U. Solidum Jr.: tubig,
+
+599
+00:27:30,360 --> 00:27:32,300
+DOST Secretary Renato U. Solidum Jr.: saka tipid sa
+
+600
+00:27:33,000 --> 00:27:34,960
+DOST Secretary Renato U. Solidum Jr.: diesel na usually ginagamit.
+
+601
+00:27:34,960 --> 00:27:35,860
+DOST Secretary Renato U. Solidum Jr.: So iyon po iyong mga...
+
+602
+00:27:36,760 --> 00:27:38,360
+DOST Secretary Renato U. Solidum Jr.: I mentioned during the
+
+603
+00:27:38,360 --> 00:27:39,680
+DOST Secretary Renato U. Solidum Jr.: Congressional hearing on
+
+604
+00:27:40,559 --> 00:27:42,539
+DOST Secretary Renato U. Solidum Jr.: the energy crisis here.
+
+605
+00:27:43,200 --> 00:27:44,519
+DOST Secretary Renato U. Solidum Jr.: So we have those technologies
+
+606
+00:27:44,519 --> 00:27:46,099
+DOST Secretary Renato U. Solidum Jr.: and we hope that
+
+607
+00:27:46,640 --> 00:27:48,960
+DOST Secretary Renato U. Solidum Jr.: we can actually provide this technology
+
+608
+00:27:48,960 --> 00:27:51,620
+DOST Secretary Renato U. Solidum Jr.: and local governments will avail of this
+
+609
+00:27:52,240 --> 00:27:55,339
+DOST Secretary Renato U. Solidum Jr.: so that we can manage the forthcoming El Nino.
+
+610
+00:27:56,360 --> 00:27:57,240
+Rep. Bella Vanessa B. Suansing: Thank you.
+
+611
+00:27:57,240 --> 00:27:58,099
+Rep. Bella Vanessa B. Suansing: Thank you, Mr. Chair.
+
+612
+00:27:58,840 --> 00:27:59,719
+Rep. Bella Vanessa B. Suansing: Yes. Actually,
+
+613
+00:28:00,240 --> 00:28:02,679
+Rep. Bella Vanessa B. Suansing: there is this really good chart
+
+614
+00:28:02,679 --> 00:28:03,480
+Rep. Bella Vanessa B. Suansing: that you showed
+
+615
+00:28:04,120 --> 00:28:06,839
+Rep. Bella Vanessa B. Suansing: on smart flood management approaches.
+
+616
+00:28:07,320 --> 00:28:08,120
+Rep. Bella Vanessa B. Suansing: Actually, under,
+
+617
+00:28:08,120 --> 00:28:09,080
+Rep. Bella Vanessa B. Suansing: if I remember correctly,
+
+618
+00:28:09,080 --> 00:28:10,559
+Rep. Bella Vanessa B. Suansing: under the 2026 GAA,
+
+619
+00:28:10,559 --> 00:28:12,559
+Rep. Bella Vanessa B. Suansing: there is supposed to be the establishment
+
+620
+00:28:12,559 --> 00:28:14,679
+Rep. Bella Vanessa B. Suansing: of the integrated water resource
+
+621
+00:28:14,679 --> 00:28:17,720
+Rep. Bella Vanessa B. Suansing: and flood mitigation strategy.
+
+622
+00:28:23,880 --> 00:28:25,320
+Rep. Bella Vanessa B. Suansing: So again,
+
+623
+00:28:25,320 --> 00:28:28,279
+Rep. Bella Vanessa B. Suansing: my compliments to the DOST.
+
+624
+00:28:28,279 --> 00:28:29,279
+Rep. Bella Vanessa B. Suansing: Just quickly,
+
+625
+00:28:29,279 --> 00:28:33,039
+Rep. Bella Vanessa B. Suansing: chineck ko po iyong HANDA portal ninyo po.
+
+626
+00:28:33,039 --> 00:28:37,799
+Rep. Bella Vanessa B. Suansing: Mayroon kasi po ditong emergency SOS na area.
+
+627
+00:28:37,799 --> 00:28:41,720
+Rep. Bella Vanessa B. Suansing: I wonder po kung paano po nafi-feedback iyong health authorities.
+
+628
+00:28:41,720 --> 00:28:41,960
+Rep. Bella Vanessa B. Suansing: Is it
+
+629
+00:28:41,960 --> 00:28:42,880
+Rep. Bella Vanessa B. Suansing: through the LGUs
+
+630
+00:28:42,880 --> 00:28:45,499
+Rep. Bella Vanessa B. Suansing: or is it through the DOH central office?
+
+631
+00:28:46,679 --> 00:28:47,480
+DOST Secretary Renato U. Solidum Jr.: Well, okay.
+
+632
+00:28:47,480 --> 00:28:49,320
+DOST Secretary Renato U. Solidum Jr.: The HANDA integrated platform,
+
+633
+00:28:49,320 --> 00:28:51,760
+DOST Secretary Renato U. Solidum Jr.: I think is one of the most advanced platform
+
+634
+00:28:51,760 --> 00:28:54,560
+DOST Secretary Renato U. Solidum Jr.: for disaster preparedness and response
+
+635
+00:28:55,039 --> 00:28:58,360
+DOST Secretary Renato U. Solidum Jr.: that I think the country would be proud of.
+
+636
+00:28:58,360 --> 00:28:59,379
+DOST Secretary Renato U. Solidum Jr.: It integrates,
+
+637
+00:28:59,480 --> 00:29:00,960
+DOST Secretary Renato U. Solidum Jr.: all early warning systems
+
+638
+00:29:00,960 --> 00:29:04,880
+DOST Secretary Renato U. Solidum Jr.: that both the LGUs and the public can avail of.
+
+639
+00:29:04,880 --> 00:29:07,939
+DOST Secretary Renato U. Solidum Jr.: And if your concern is your community only,
+
+640
+00:29:08,399 --> 00:29:11,200
+DOST Secretary Renato U. Solidum Jr.: you can expand by clicking on the radios.
+
+641
+00:29:11,760 --> 00:29:15,480
+DOST Secretary Renato U. Solidum Jr.: But we have also systems there
+
+642
+00:29:15,480 --> 00:29:19,180
+DOST Secretary Renato U. Solidum Jr.: that can be tailored fit for the LGUs
+
+643
+00:29:20,120 --> 00:29:21,620
+DOST Secretary Renato U. Solidum Jr.: or the national OCD.
+
+644
+00:29:21,960 --> 00:29:26,240
+DOST Secretary Renato U. Solidum Jr.: So your SOS or reporting an incident can be activated
+
+645
+00:29:26,679 --> 00:29:29,440
+DOST Secretary Renato U. Solidum Jr.: if the LGU that would use that platform,
+
+646
+00:29:30,159 --> 00:29:31,200
+DOST Secretary Renato U. Solidum Jr.: would want it.
+
+647
+00:29:31,200 --> 00:29:34,080
+DOST Secretary Renato U. Solidum Jr.: Kasi ayaw naming i-on
+
+648
+00:29:34,080 --> 00:29:35,720
+DOST Secretary Renato U. Solidum Jr.: kung ang mga citizen ay magre-report,
+
+649
+00:29:35,720 --> 00:29:37,780
+DOST Secretary Renato U. Solidum Jr.: wala namang magma-manage.
+
+650
+00:29:38,080 --> 00:29:40,920
+DOST Secretary Renato U. Solidum Jr.: So it depends on the LGU if they really want.
+
+651
+00:29:41,559 --> 00:29:44,120
+DOST Secretary Renato U. Solidum Jr.: The other feature of that platform is
+
+652
+00:29:44,120 --> 00:29:46,620
+DOST Secretary Renato U. Solidum Jr.: you can use AI chatbot to ask about
+
+653
+00:29:47,279 --> 00:29:50,640
+DOST Secretary Renato U. Solidum Jr.: one, the hazards that they can be affected with
+
+654
+00:29:50,640 --> 00:29:52,360
+DOST Secretary Renato U. Solidum Jr.: or plan the evacuation route
+
+655
+00:29:52,360 --> 00:29:54,000
+DOST Secretary Renato U. Solidum Jr.: that they would take from their place
+
+656
+00:29:54,000 --> 00:29:56,399
+DOST Secretary Renato U. Solidum Jr.: to the nearest evacuation site.
+
+657
+00:29:56,760 --> 00:29:59,080
+DOST Secretary Renato U. Solidum Jr.: And it depends on the needs of the LGU.
+
+658
+00:29:59,080 --> 00:30:08,000
+DOST Secretary Renato U. Solidum Jr.: We can customize some of some of the interventions that they want. So ito po ay hindi tapos. It's really
+
+659
+00:30:08,000 --> 00:30:14,760
+DOST Secretary Renato U. Solidum Jr.: already good, but now, depending on the needs of the LGU, kung marami pa silang naiisip na innovation that can also be
+
+660
+00:30:14,760 --> 00:30:25,360
+DOST Secretary Renato U. Solidum Jr.: added. But I think we just launched it last March this year, and I think this can be very powerful for the Office of Civil Defense and the LGUs to use.
+
+661
+00:30:28,159 --> 00:30:34,640
+Rep. Bella Vanessa B. Suansing: Thank you, Mr. Chair. The evacuation centers were mapped by DOST, or did you get the data from the OCD?
+
+662
+00:30:39,159 --> 00:30:40,559
+DOST Secretary Renato U. Solidum Jr.: Whatever evacuation site that
+
+663
+00:30:40,559 --> 00:30:48,560
+DOST Secretary Renato U. Solidum Jr.: the DILG and OCD have selected, then we put it in the software so that, using AI, this can now be
+
+664
+00:30:49,640 --> 00:30:55,080
+DOST Secretary Renato U. Solidum Jr.: provided to the person who would ask the nearest evacuation from
+
+665
+00:30:55,679 --> 00:30:56,039
+DOST Secretary Renato U. Solidum Jr.: their
+
+666
+00:30:56,039 --> 00:31:02,159
+DOST Secretary Renato U. Solidum Jr.: residence or where they are. So the app will use the location of your
+
+667
+00:31:02,159 --> 00:31:07,360
+DOST Secretary Renato U. Solidum Jr.: cell phone, the GPS, so it will automatically assess the hazard where you are.
+
+668
+00:31:09,240 --> 00:31:19,880
+Rep. Bella Vanessa B. Suansing: Thank you, Mr. Chair. Last po, Mr. Secretary, you mentioned the Science for Peace program with the former combatants of the
+
+669
+00:31:19,880 --> 00:31:25,029
+Rep. Bella Vanessa B. Suansing: MILF. Can we please be oriented about the program for Science for Peace?
+
+670
+00:31:25,039 --> 00:31:26,559
+DOST Secretary Renato U. Solidum Jr.: Okay.
+
+671
+00:31:26,760 --> 00:31:30,240
+DOST Secretary Renato U. Solidum Jr.: The Office of the Presidential Adviser on Peace, Reconciliation
+
+672
+00:31:31,080 --> 00:31:41,780
+DOST Secretary Renato U. Solidum Jr.: and Unity approached us through DOST Region XII, asking if we were willing to help them
+
+673
+00:31:42,279 --> 00:31:47,379
+DOST Secretary Renato U. Solidum Jr.: solve the issues that they have in helping the former combatants in
+
+674
+00:31:48,960 --> 00:31:53,219
+DOST Secretary Renato U. Solidum Jr.: BARMM, and we decided, for the first phase,
+
+675
+00:31:53,799 --> 00:32:02,919
+DOST Secretary Renato U. Solidum Jr.: to help six former MILF camps. One is to address the lack of potable water. Second is to do the
+
+676
+00:32:02,919 --> 00:32:09,639
+DOST Secretary Renato U. Solidum Jr.: interventions for livelihood so we have catfish production and they use
+
+677
+00:32:09,639 --> 00:32:15,360
+DOST Secretary Renato U. Solidum Jr.: purified water out of the SAFEWATRS that we developed. The DOST-ITDI developed
+
+678
+00:32:15,360 --> 00:32:20,000
+DOST Secretary Renato U. Solidum Jr.: it. It's cost-effective, very easy to use. You just replace the membrane, mag-order
+
+679
+00:32:20,000 --> 00:32:25,779
+DOST Secretary Renato U. Solidum Jr.: ka lang sa Lazada or Shopee. Palitan mo lang iyon, madali.
+
+680
+00:32:26,600 --> 00:32:32,520
+DOST Secretary Renato U. Solidum Jr.: So tuwang-tuwa na sila doon kasi they can use it for drinking and, of course, for raising the catfish.
+
+681
+00:32:33,039 --> 00:32:37,859
+DOST Secretary Renato U. Solidum Jr.: Also halal production of bread—
+
+682
+00:32:38,440 --> 00:32:44,000
+DOST Secretary Renato U. Solidum Jr.: pinakamasarap na pandesal na natikman ko sa Camp Sarmiento—and also weaving.
+
+683
+00:32:44,320 --> 00:32:50,880
+DOST Secretary Renato U. Solidum Jr.: We provided them satellite Starlink and library in a box
+
+684
+00:32:51,360 --> 00:32:53,760
+DOST Secretary Renato U. Solidum Jr.: so that the kids would also be able to learn.
+
+685
+00:32:53,760 --> 00:32:59,320
+DOST Secretary Renato U. Solidum Jr.: So I think what we need to do is
+
+686
+00:32:59,320 --> 00:33:04,039
+DOST Secretary Renato U. Solidum Jr.: provide them the opportunity to use science and technology and really solve
+
+687
+00:33:04,039 --> 00:33:13,480
+DOST Secretary Renato U. Solidum Jr.: their basic needs water livelihood even clothing if possible and we will have
+
+688
+00:33:13,480 --> 00:33:20,039
+DOST Secretary Renato U. Solidum Jr.: another phase. This is the concept that we have: if we develop conflict areas using
+
+689
+00:33:20,039 --> 00:33:24,720
+DOST Secretary Renato U. Solidum Jr.: science technology and innovation then people will believe that they can
+
+690
+00:33:24,720 --> 00:33:29,960
+DOST Secretary Renato U. Solidum Jr.: actually uplift their own lives and eventually because of their preoccupation
+
+691
+00:33:29,960 --> 00:33:35,279
+DOST Secretary Renato U. Solidum Jr.: to really improving their lives, they would be more focused on peace.
+
+692
+00:33:35,279 --> 00:33:44,919
+DOST Secretary Renato U. Solidum Jr.: They wanted to really experience a life that is really good. Ayaw naman nila ng conflict.
+
+693
+00:33:44,919 --> 00:33:50,240
+DOST Secretary Renato U. Solidum Jr.: The real issue now is to provide them the opportunity and for them to trust
+
+694
+00:33:50,240 --> 00:33:55,360
+DOST Secretary Renato U. Solidum Jr.: our intervention. Yun po yung kailangan eh. Hindi ka puwedeng magbigay lang ng
+
+695
+00:33:55,360 --> 00:34:00,639
+DOST Secretary Renato U. Solidum Jr.: technology intervention tapos iiwanan mo. Minsan iyan ang problem ng development
+
+696
+00:34:00,639 --> 00:34:04,559
+DOST Secretary Renato U. Solidum Jr.: partners kasi wala naman sila doon sa baba. Puwede silang tumulong, but
+
+697
+00:34:04,559 --> 00:34:08,399
+DOST Secretary Renato U. Solidum Jr.: they have to leave sometimes. So importante na ma-capacitate natin ang
+
+698
+00:34:08,399 --> 00:34:12,800
+DOST Secretary Renato U. Solidum Jr.: ating mga kababayan and not leave them. Thank you.
+
+699
+00:34:12,800 --> 00:34:19,520
+Rep. Bella Vanessa B. Suansing: Thank you, Mr. Chair. Those are my questions, but a brief manifestation, if I may.
+
+700
+00:34:20,560 --> 00:34:22,440
+Rep. Bella Vanessa B. Suansing: Thank you to the DOST family.
+
+701
+00:34:23,760 --> 00:34:25,720
+Rep. Bella Vanessa B. Suansing: I specifically would want to thank
+
+702
+00:34:25,720 --> 00:34:32,840
+Rep. Bella Vanessa B. Suansing: si Director Toto, Dr. Toto Bacolcol, at si Dr. Servando.
+
+703
+00:34:34,079 --> 00:34:35,600
+Rep. Bella Vanessa B. Suansing: Taga-Sultan Kudarat po ako.
+
+704
+00:34:38,919 --> 00:34:44,040
+Rep. Bella Vanessa B. Suansing: Noong Enero po, na-hit po kami ng earthquake swarms.
+
+705
+00:34:45,280 --> 00:34:47,440
+Rep. Bella Vanessa B. Suansing: Ilang preemptive evacuation po
+
+706
+00:34:47,440 --> 00:34:49,240
+Rep. Bella Vanessa B. Suansing: ang kinailangan naming gawin.
+
+707
+00:34:49,879 --> 00:34:57,900
+Rep. Bella Vanessa B. Suansing: Sobrang nakatulong po sila Director Bacolcol at mga kaibigan natin sa PHIVOLCS,
+
+708
+00:34:59,640 --> 00:35:02,760
+Rep. Bella Vanessa B. Suansing: hindi lang sa pag-monitor ng tsunami warnings,
+
+709
+00:35:02,760 --> 00:35:07,160
+Rep. Bella Vanessa B. Suansing: but even bumaba po sila para sa hazard mapping,
+
+710
+00:35:07,160 --> 00:35:12,460
+Rep. Bella Vanessa B. Suansing: sa REDAS seminar sa buong coastal namin sa Kalamansig, Lebak, at Palimbang.
+
+711
+00:35:13,160 --> 00:35:16,280
+Rep. Bella Vanessa B. Suansing: Maraming-maraming salamat po kay Director Toto
+
+712
+00:35:16,280 --> 00:35:18,580
+Rep. Bella Vanessa B. Suansing: at sa lahat po ng kaibigan natin sa PHIVOLCS,
+
+713
+00:35:18,880 --> 00:35:20,960
+Rep. Bella Vanessa B. Suansing: at kay Dr. Servando po,
+
+714
+00:35:20,960 --> 00:35:23,000
+Rep. Bella Vanessa B. Suansing: na grabe po 'yung pagkulit ko sa kanya
+
+715
+00:35:23,000 --> 00:35:26,880
+Rep. Bella Vanessa B. Suansing: noong nag-start po 'yung advisory sa El Niño,
+
+716
+00:35:26,880 --> 00:35:29,800
+Rep. Bella Vanessa B. Suansing: kasi ang Sultan Kudarat po ay isa sa mga pinaka-vulnerable
+
+717
+00:35:30,079 --> 00:35:32,320
+Rep. Bella Vanessa B. Suansing: sa super El Niño pagdating.
+
+718
+00:35:32,320 --> 00:35:33,839
+Rep. Bella Vanessa B. Suansing: So maraming-maraming salamat po
+
+719
+00:35:33,839 --> 00:35:36,079
+Rep. Bella Vanessa B. Suansing: sa DOST family sa lahat po ng tulong ninyo,
+
+720
+00:35:36,079 --> 00:35:37,180
+Rep. Bella Vanessa B. Suansing: and rest assured po,
+
+721
+00:35:37,800 --> 00:35:40,160
+Rep. Bella Vanessa B. Suansing: suportado po natin hindi lang po 'yung budget ninyo,
+
+722
+00:35:40,160 --> 00:35:41,679
+Rep. Bella Vanessa B. Suansing: pero pati 'yung pagdagdag
+
+723
+00:35:42,880 --> 00:35:44,600
+Rep. Bella Vanessa B. Suansing: ng budget ninyo sa DOST.
+
+724
+00:35:45,119 --> 00:35:45,900
+Rep. Bella Vanessa B. Suansing: Maraming-maraming salamat po.
+
+725
+00:35:48,760 --> 00:35:50,020
+Rep. Amben S. Amante: Thank you, Kong Bella.
+
+726
+00:35:50,960 --> 00:35:52,860
+Rep. Amben S. Amante: Now, from the minority,
+
+727
+00:35:55,599 --> 00:35:57,480
+Rep. Amben S. Amante: Congressman Antonio Tinio.
+
+728
+00:36:02,560 --> 00:36:03,260
+Rep. Antonio L. Tinio: Thank you chair.
+
+729
+00:36:03,800 --> 00:36:06,840
+Rep. Antonio L. Tinio: Ah ilang mga paglilinaw sa proposed budget
+
+730
+00:36:09,839 --> 00:36:14,860
+Rep. Antonio L. Tinio: so total budget uh proposed 30.8
+
+731
+00:36:15,040 --> 00:36:21,520
+Rep. Antonio L. Tinio: no, na mas mababa kaysa GAA ngayon na 32.1 billion.
+
+732
+00:36:21,520 --> 00:36:23,280
+Rep. Antonio L. Tinio: So nabawasan. Tapos
+
+733
+00:36:23,280 --> 00:36:28,520
+Rep. Antonio L. Tinio: kung tinitignan natin yung budget ng DOST and attached
+
+734
+00:36:28,520 --> 00:36:31,799
+Rep. Antonio L. Tinio: of course there's a reduction in the sa Office of the Secretary.
+
+735
+00:36:32,480 --> 00:36:39,160
+Rep. Antonio L. Tinio: Tapos sa mga attached agencies merong mga you know ah malaki rin.
+
+736
+00:36:39,160 --> 00:36:47,160
+Rep. Antonio L. Tinio: For example, PAGASA, nabawasan po by 2 point...
+
+737
+00:36:47,160 --> 00:36:49,020
+Rep. Antonio L. Tinio: Magkano itong nabawas dito?
+
+738
+00:36:49,800 --> 00:36:52,839
+Rep. Antonio L. Tinio: It's a 12.5%
+
+739
+00:36:52,839 --> 00:36:53,280
+Rep. Antonio L. Tinio: Tama po ba?
+
+740
+00:36:53,280 --> 00:36:54,880
+Rep. Antonio L. Tinio: Ah, so PAGASA,
+
+741
+00:36:54,880 --> 00:36:59,760
+Rep. Antonio L. Tinio: ano pong explanation? Bakit
+
+742
+00:36:59,760 --> 00:37:04,319
+Rep. Antonio L. Tinio: mas mababa po ang ang proposal ng PAGASA? Um,
+
+743
+00:37:04,319 --> 00:37:05,980
+DOST Secretary Renato U. Solidum Jr.: Dr. Servando, can you respond?
+
+744
+00:37:07,680 --> 00:37:09,600
+PAGASA Administrator Nathaniel T. Servando: Thank you, Secretary.
+
+745
+00:37:10,000 --> 00:37:17,579
+PAGASA Administrator Nathaniel T. Servando: Your Honor, the reduction of our budget for 2027
+
+746
+00:37:18,480 --> 00:37:21,720
+PAGASA Administrator Nathaniel T. Servando: on the uh capital outlay because some projects
+
+747
+00:37:22,800 --> 00:37:24,280
+PAGASA Administrator Nathaniel T. Servando: for the 2026
+
+748
+00:37:24,880 --> 00:37:27,880
+PAGASA Administrator Nathaniel T. Servando: ay hindi na kailangang mapunduhan na next year
+
+749
+00:37:27,880 --> 00:37:32,079
+PAGASA Administrator Nathaniel T. Servando: like example sa pag-establish ng warning system
+
+750
+00:37:32,079 --> 00:37:33,539
+PAGASA Administrator Nathaniel T. Servando: sa isang river basin
+
+751
+00:37:34,000 --> 00:37:35,760
+PAGASA Administrator Nathaniel T. Servando: so dahil funded na this year
+
+752
+00:37:36,760 --> 00:37:40,139
+PAGASA Administrator Nathaniel T. Servando: so tinanggal na siya for next year.
+
+753
+00:37:40,160 --> 00:37:47,760
+PAGASA Administrator Nathaniel T. Servando: One [unclear] equipment, like an X-band radar,
+
+754
+00:37:47,760 --> 00:37:49,840
+PAGASA Administrator Nathaniel T. Servando: to be established in one of the river basin
+
+755
+00:37:50,400 --> 00:37:52,680
+PAGASA Administrator Nathaniel T. Servando: ay hindi naman kailangang punduhan again
+
+756
+00:37:52,680 --> 00:37:56,280
+PAGASA Administrator Nathaniel T. Servando: so uh the reduction is about on the capital outlay
+
+757
+00:37:56,280 --> 00:38:00,239
+PAGASA Administrator Nathaniel T. Servando: that uh we're already excluded for next year.
+
+758
+00:38:01,280 --> 00:38:01,560
+Rep. Antonio L. Tinio: Okay.
+
+759
+00:38:01,560 --> 00:38:06,340
+Rep. Antonio L. Tinio: So hindi naman nabawasan iyung ah operations or anything.
+
+760
+00:38:07,160 --> 00:38:07,720
+PAGASA Administrator Nathaniel T. Servando: Hindi naman po.
+
+761
+00:38:07,720 --> 00:38:08,920
+PAGASA Administrator Nathaniel T. Servando: In fact, may increase po.
+
+762
+00:38:08,920 --> 00:38:10,260
+Rep. Antonio L. Tinio: Sige. Capital outlay.
+
+763
+00:38:10,920 --> 00:38:19,080
+Rep. Antonio L. Tinio: Ah ang isa pa pong tampok dito ay yung bawas sa Food and Nutrition Research Institute
+
+764
+00:38:20,079 --> 00:38:25,079
+Rep. Antonio L. Tinio: from uh 1.1 billion naging 634 million
+
+765
+00:38:25,079 --> 00:38:26,899
+Rep. Antonio L. Tinio: na lang. Ano pong explanation non?
+
+766
+00:38:28,560 --> 00:38:30,420
+DOST Secretary Renato U. Solidum Jr.: May I ask the director?
+
+767
+00:38:30,839 --> 00:38:34,760
+DOST Secretary Renato U. Solidum Jr.: I would surmise it's the building that they need to finish
+
+768
+00:38:34,760 --> 00:38:36,400
+DOST Secretary Renato U. Solidum Jr.: but please respond.
+
+769
+00:38:37,560 --> 00:38:38,960
+DOST-FNRI Director Jacus S. Nacis: Salamat po secretary. Ah
+
+770
+00:38:39,400 --> 00:38:43,640
+DOST-FNRI Director Jacus S. Nacis: sir um yung bawas po doon sa budget is the capital
+
+771
+00:38:43,640 --> 00:38:44,960
+DOST-FNRI Director Jacus S. Nacis: capital outlay, gaya po ng sinabi ng Secretary.
+
+772
+00:38:44,960 --> 00:38:47,180
+Rep. Antonio L. Tinio: So, pinondohan iyong building ninyo. Ganoon ba?
+
+773
+00:38:47,920 --> 00:38:48,960
+DOST-FNRI Director Jacus S. Nacis: Hindi po,
+
+774
+00:38:48,960 --> 00:38:50,960
+DOST-FNRI Director Jacus S. Nacis: naibawas po iyong pondo sa building.
+
+775
+00:38:50,960 --> 00:38:52,060
+Rep. Antonio L. Tinio: Kulang pa?
+
+776
+00:38:53,240 --> 00:38:55,720
+Rep. Antonio L. Tinio: Ulit, nabawas?
+
+777
+00:38:55,720 --> 00:38:56,980
+Rep. Antonio L. Tinio: Pakilinaw.
+
+778
+00:38:57,359 --> 00:38:59,300
+DOST-FNRI Director Jacus S. Nacis: Yun po yung nabawas doon sa budget po.
+
+779
+00:38:59,960 --> 00:39:04,220
+Rep. Antonio L. Tinio: So there was funding for capital outlay for 2026.
+
+780
+00:39:04,720 --> 00:39:05,280
+DOST-FNRI Director Jacus S. Nacis: Yes po.
+
+781
+00:39:05,280 --> 00:39:07,020
+Rep. Antonio L. Tinio: Pero wala na for 2027.
+
+782
+00:39:07,160 --> 00:39:07,599
+DOST-FNRI Director Jacus S. Nacis: Yes po.
+
+783
+00:39:07,599 --> 00:39:09,280
+Rep. Antonio L. Tinio: Makukumpleto na ba iyong building?
+
+784
+00:39:09,280 --> 00:39:11,280
+DOST-FNRI Director Jacus S. Nacis: Phase 4 po. Hindi pa po siya makukumpleto.
+
+785
+00:39:11,280 --> 00:39:11,800
+Rep. Antonio L. Tinio: So, kulang?
+
+786
+00:39:11,800 --> 00:39:12,160
+DOST-FNRI Director Jacus S. Nacis: Wala.
+
+787
+00:39:12,160 --> 00:39:17,040
+Rep. Antonio L. Tinio: So, kailangan ninyo ba, para matapos ang inyong building,
+
+788
+00:39:17,040 --> 00:39:17,920
+Rep. Antonio L. Tinio: how much do you need?
+
+789
+00:39:19,040 --> 00:39:23,160
+DOST-FNRI Director Jacus S. Nacis: iyung request po for 2027 is 400 million po for the phase 4.
+
+790
+00:39:23,160 --> 00:39:25,040
+Rep. Antonio L. Tinio: 400 million for phase 4. Ayan.
+
+791
+00:39:25,040 --> 00:39:29,119
+Rep. Antonio L. Tinio: So baka narinig yan ng ating chair of the committee on appropriations.
+
+792
+00:39:29,119 --> 00:39:29,839
+Rep. Antonio L. Tinio: Okay.
+
+793
+00:39:29,839 --> 00:39:33,079
+Rep. Antonio L. Tinio: Sa kabilang banda naman merong merong napansin ako
+
+794
+00:39:33,079 --> 00:39:36,420
+Rep. Antonio L. Tinio: rito Metals Industry Research and Development Center.
+
+795
+00:39:37,560 --> 00:39:45,560
+Rep. Antonio L. Tinio: It's a a 73.6% increase from 316 naging 549 million.
+
+796
+00:39:45,560 --> 00:39:47,280
+Rep. Antonio L. Tinio: Bakit naman po may malaking increase?
+
+797
+00:39:47,280 --> 00:39:48,440
+Rep. Antonio L. Tinio: Capital outlay din ba to?
+
+798
+00:39:48,440 --> 00:39:49,580
+DOST Secretary Renato U. Solidum Jr.: Ako na lang sasagot.
+
+799
+00:39:49,839 --> 00:39:50,399
+Rep. Antonio L. Tinio: Opo. Sige po.
+
+800
+00:39:51,000 --> 00:39:53,940
+DOST Secretary Renato U. Solidum Jr.: 'Yung uh grant-in-aid kasi ng Office of the Secretary,
+
+801
+00:39:54,240 --> 00:39:57,380
+DOST Secretary Renato U. Solidum Jr.: tinanggalan kami and then nilipat sa ibang mga agencies
+
+802
+00:39:57,640 --> 00:39:59,079
+DOST Secretary Renato U. Solidum Jr.: tulad ng MIRDC
+
+803
+00:39:59,079 --> 00:39:59,920
+DOST Secretary Renato U. Solidum Jr.: kaya lumaki sila.
+
+804
+00:40:01,160 --> 00:40:02,060
+Rep. Antonio L. Tinio: Mayroon pong grant
+
+805
+00:40:02,960 --> 00:40:04,740
+Rep. Antonio L. Tinio: sa Office of the Secretary. Nilipat ninyo doon?
+
+806
+00:40:05,079 --> 00:40:05,899
+DOST Secretary Renato U. Solidum Jr.: Oo.
+
+807
+00:40:06,079 --> 00:40:09,300
+Rep. Antonio L. Tinio: What is the specific grant? Mukhang substansyal.
+
+808
+00:40:09,680 --> 00:40:11,940
+DOST Secretary Renato U. Solidum Jr.: Usually, some of it is related to their mandate.
+
+809
+00:40:12,520 --> 00:40:15,160
+DOST Secretary Renato U. Solidum Jr.: Usually ang ginagawa po natin sa grant-in-aid
+
+810
+00:40:15,160 --> 00:40:18,800
+DOST Secretary Renato U. Solidum Jr.: if agencies would need support from the office of the secretary
+
+811
+00:40:18,800 --> 00:40:20,700
+DOST Secretary Renato U. Solidum Jr.: to develop new technologies,
+
+812
+00:40:21,160 --> 00:40:24,600
+DOST Secretary Renato U. Solidum Jr.: especially po iyung tinatawag naming industry 4.0
+
+813
+00:40:25,720 --> 00:40:27,940
+DOST Secretary Renato U. Solidum Jr.: using AI robotics automation,
+
+814
+00:40:29,000 --> 00:40:31,220
+DOST Secretary Renato U. Solidum Jr.: ito po yung tinatawag naming Quatro program.
+
+815
+00:40:31,640 --> 00:40:36,180
+DOST Secretary Renato U. Solidum Jr.: Binibigyan namin sila ng fund because it's not part of their original GIA fund.
+
+816
+00:40:36,760 --> 00:40:43,140
+DOST Secretary Renato U. Solidum Jr.: So nag-decide ang DBM to transfer uh that certain amount of fund to them.
+
+817
+00:40:44,520 --> 00:40:48,160
+Rep. Antonio L. Tinio: So pag sinabi pong Metals Industry Research and Development Center,
+
+818
+00:40:48,160 --> 00:40:50,659
+Rep. Antonio L. Tinio: specifically, you're talking about robotics ba iyong binanggit ninyo?
+
+819
+00:40:51,359 --> 00:40:53,440
+DOST Secretary Renato U. Solidum Jr.: Well, it's about metals industry but
+
+820
+00:40:54,400 --> 00:40:55,260
+Rep. Antonio L. Tinio: Is that mining? Ganoon ba?
+
+821
+00:40:56,079 --> 00:40:57,139
+DOST Secretary Renato U. Solidum Jr.: Not really.
+
+822
+00:40:57,640 --> 00:40:58,899
+DOST Secretary Renato U. Solidum Jr.: advanced manufacturing
+
+823
+00:40:59,359 --> 00:41:03,180
+DOST Secretary Renato U. Solidum Jr.: That would include metal and other advanced manufacturing technologies,
+
+824
+00:41:03,640 --> 00:41:06,720
+DOST Secretary Renato U. Solidum Jr.: including robotics automation mechanization.
+
+825
+00:41:07,280 --> 00:41:07,520
+DOST Secretary Renato U. Solidum Jr.: Okay?
+
+826
+00:41:08,240 --> 00:41:09,319
+Rep. Antonio L. Tinio: Sige po.
+
+827
+00:41:09,319 --> 00:41:11,680
+Rep. Antonio L. Tinio: Ah, kasama sa presentation ninyo,
+
+828
+00:41:11,680 --> 00:41:19,160
+Rep. Antonio L. Tinio: may banggit dito tungkol sa NAICRI, National AI Center for Research and Innovation.
+
+829
+00:41:19,160 --> 00:41:20,880
+Rep. Antonio L. Tinio: Although in your budget proposal
+
+830
+00:41:20,880 --> 00:41:24,160
+Rep. Antonio L. Tinio: parang wala namang specific as far as I know
+
+831
+00:41:24,160 --> 00:41:25,460
+Rep. Antonio L. Tinio: item for the center.
+
+832
+00:41:26,560 --> 00:41:28,440
+Rep. Antonio L. Tinio: Tama po ba?
+
+833
+00:41:28,440 --> 00:41:33,839
+DOST Secretary Renato U. Solidum Jr.: this is already being funded at the uh grant in aid level
+
+834
+00:41:33,839 --> 00:41:36,260
+DOST Secretary Renato U. Solidum Jr.: as this is a continuing R&amp;D program
+
+835
+00:41:36,800 --> 00:41:40,000
+DOST Secretary Renato U. Solidum Jr.: but the Advanced Science and Technology Institute
+
+836
+00:41:40,000 --> 00:41:43,920
+DOST Secretary Renato U. Solidum Jr.: also has a proposal to further increase the compute power.
+
+837
+00:41:43,920 --> 00:41:48,280
+DOST Secretary Renato U. Solidum Jr.: So I'll ask the Director of ASTI, Dr. de Leon, to further explain.
+
+838
+00:41:48,280 --> 00:41:50,119
+Rep. Antonio L. Tinio: Yeah. And in connection with that,
+
+839
+00:41:50,119 --> 00:41:57,200
+Rep. Antonio L. Tinio: so uh sa press release sa inyong website regarding the National AI strategy for the Philippines,
+
+840
+00:41:58,040 --> 00:42:03,540
+Rep. Antonio L. Tinio: the Secretary mentioned high-performance compute,
+
+841
+00:42:05,280 --> 00:42:07,320
+Rep. Antonio L. Tinio: national high-performance compute centers,
+
+842
+00:42:09,000 --> 00:42:17,720
+Rep. Antonio L. Tinio: and that you have a target of increasing high-performance computing power by 26-fold,
+
+843
+00:42:17,720 --> 00:42:19,500
+Rep. Antonio L. Tinio: presumably, of government?
+
+844
+00:42:20,359 --> 00:42:22,559
+DOST Secretary Renato U. Solidum Jr.: Yes. For for our own operation
+
+845
+00:42:22,559 --> 00:42:23,320
+DOST Secretary Renato U. Solidum Jr.: of government
+
+846
+00:42:23,640 --> 00:42:29,579
+DOST Secretary Renato U. Solidum Jr.: and application especially to support our MSME and industries to use AI.
+
+847
+00:42:30,200 --> 00:42:30,760
+Rep. Antonio L. Tinio: Sige. Puwede
+
+848
+00:42:30,760 --> 00:42:32,960
+Rep. Antonio L. Tinio: po bang paki-elaborate
+
+849
+00:42:32,960 --> 00:42:36,580
+Rep. Antonio L. Tinio: ano po itong high-performance computing?
+
+850
+00:42:37,520 --> 00:42:37,820
+Rep. Antonio L. Tinio: Sorry.
+
+851
+00:42:38,480 --> 00:42:39,700
+Rep. Antonio L. Tinio: Ano ba? High-power...
+
+852
+00:42:40,000 --> 00:42:41,240
+DOST Secretary Renato U. Solidum Jr.: High-performance computing.
+
+853
+00:42:41,240 --> 00:42:44,580
+Rep. Antonio L. Tinio: Okay. High-power computing center.
+
+854
+00:42:44,720 --> 00:42:46,000
+Rep. Antonio L. Tinio: What is this exactly?
+
+855
+00:42:46,480 --> 00:42:46,920
+DOST Secretary Renato U. Solidum Jr.: Okay.
+
+856
+00:42:46,920 --> 00:42:47,599
+DOST Secretary Renato U. Solidum Jr.: So I'll ask...
+
+857
+00:42:47,599 --> 00:42:53,019
+Rep. Antonio L. Tinio: Is this infrastructure, as in data centers?
+
+858
+00:42:53,520 --> 00:42:55,119
+DOST Secretary Renato U. Solidum Jr.: Essentially it's a compute center.
+
+859
+00:42:55,119 --> 00:42:56,200
+Rep. Antonio L. Tinio: Compute center.
+
+860
+00:42:56,200 --> 00:42:56,720
+Rep. Antonio L. Tinio: Compute
+
+861
+00:42:56,720 --> 00:42:57,440
+Rep. Antonio L. Tinio: cluster?
+
+862
+00:42:57,440 --> 00:42:58,240
+Rep. Antonio L. Tinio: AI ba iyan?
+
+863
+00:42:58,240 --> 00:42:58,800
+DOST Secretary Renato U. Solidum Jr.: Yeah. AI.
+
+864
+00:42:58,800 --> 00:43:01,880
+DOST Secretary Renato U. Solidum Jr.: It can be both physical and on cloud.
+
+865
+00:43:01,880 --> 00:43:03,620
+Rep. Antonio L. Tinio: So you're talking about...
+
+866
+00:43:04,960 --> 00:43:05,200
+DOST Secretary Renato U. Solidum Jr.: Yes.
+
+867
+00:43:05,200 --> 00:43:06,040
+Rep. Antonio L. Tinio: So, in-country?
+
+868
+00:43:06,040 --> 00:43:06,640
+DOST Secretary Renato U. Solidum Jr.: In-country po iyan.
+
+869
+00:43:06,640 --> 00:43:08,200
+Rep. Antonio L. Tinio: So that we can have our own.
+
+870
+00:43:08,200 --> 00:43:08,720
+DOST Secretary Renato U. Solidum Jr.: Yes.
+
+871
+00:43:08,720 --> 00:43:12,839
+Rep. Antonio L. Tinio: So, mga high-power GPUs for AI.
+
+872
+00:43:12,839 --> 00:43:13,119
+DOST Secretary Renato U. Solidum Jr.: Yes.
+
+873
+00:43:13,119 --> 00:43:15,280
+Rep. Antonio L. Tinio: Opo. Puwede po bang mabigyan tayo ng detalye
+
+874
+00:43:15,280 --> 00:43:17,480
+Rep. Antonio L. Tinio: noong anong mga processor ito?
+
+875
+00:43:17,480 --> 00:43:18,400
+Rep. Antonio L. Tinio: Gaano karami?
+
+876
+00:43:18,760 --> 00:43:19,920
+Rep. Antonio L. Tinio: How big is the cluster?
+
+877
+00:43:20,280 --> 00:43:21,539
+Rep. Antonio L. Tinio: Where do you get your power?
+
+878
+00:43:22,119 --> 00:43:26,559
+Rep. Antonio L. Tinio: Iyan iyong kontrobersiya kaugnay sa Pax Silica.
+
+879
+00:43:26,559 --> 00:43:33,220
+Rep. Antonio L. Tinio: And also, I would like to know ano ba ang level ng AI infrastructure na nasa Pilipinas
+
+880
+00:43:33,680 --> 00:43:38,040
+Rep. Antonio L. Tinio: at pag-aari ng gobyerno in this case?
+
+881
+00:43:38,480 --> 00:43:48,579
+Rep. Antonio L. Tinio: I am aware may mga private companies na nagtatayo sila ng sarili nilang AI on-prem data centers
+
+882
+00:43:49,920 --> 00:43:50,600
+Rep. Antonio L. Tinio: for AI.
+
+883
+00:43:51,680 --> 00:43:56,480
+Rep. Antonio L. Tinio: Paano dito sa Pilipinas? Paano iyong Pilipinas?
+
+884
+00:43:56,480 --> 00:43:58,040
+Rep. Antonio L. Tinio: So pwede po bang mag-explain?
+
+885
+00:43:58,040 --> 00:43:58,880
+Rep. Antonio L. Tinio: Yeah please.
+
+886
+00:43:58,880 --> 00:43:59,560
+Rep. Antonio L. Tinio: Director Franz.
+
+887
+00:44:00,160 --> 00:44:02,060
+Rep. Antonio L. Tinio: At magkano iyong budget nito?
+
+888
+00:44:03,319 --> 00:44:06,260
+Rep. Antonio L. Tinio: And is this reflected in the budget proposal?
+
+889
+00:44:08,920 --> 00:44:12,720
+DOST-ASTI Director Franz A. de Leon: Thank you, Secretary, Madam Chair, Your Honor.
+
+890
+00:44:13,480 --> 00:44:19,000
+DOST-ASTI Director Franz A. de Leon: Iyong NAICRI po is a continuation of the current service being provided by the Advanced Science
+
+891
+00:44:19,000 --> 00:44:19,999
+DOST-ASTI Director Franz A. de Leon: and Technology Institute.
+
+892
+00:44:20,839 --> 00:44:28,720
+DOST-ASTI Director Franz A. de Leon: So, mga one decade ago, nagtayo na po ng high-performance supercomputer cluster po na mina-manage po ng ASTI
+
+893
+00:44:28,720 --> 00:44:32,359
+DOST-ASTI Director Franz A. de Leon: ASTI and then it became a shared service.
+
+894
+00:44:32,359 --> 00:44:42,740
+DOST-ASTI Director Franz A. de Leon: So ibig sabihin po, binibigay natin iyong compute resources and storage for other government agencies, R&amp;D institutes, and the academic community.
+
+895
+00:44:43,079 --> 00:44:50,960
+DOST-ASTI Director Franz A. de Leon: Of course, with the advent of AI, it needed a different type of architecture, different type of AI hardware.
+
+896
+00:44:50,960 --> 00:44:53,659
+DOST-ASTI Director Franz A. de Leon: So ito na po iyong mga GPU-based computers po natin.
+
+897
+00:44:54,160 --> 00:44:57,280
+DOST-ASTI Director Franz A. de Leon: So through the years, through the different projects,
+
+898
+00:44:57,280 --> 00:45:01,680
+DOST-ASTI Director Franz A. de Leon: nabibigyan po tayo ng pondo to expand that center.
+
+899
+00:45:02,359 --> 00:45:12,200
+DOST-ASTI Director Franz A. de Leon: With NAICRI, it's more of institutionalizing and sustaining the AI track being supported by DOST.
+
+900
+00:45:12,599 --> 00:45:15,960
+DOST-ASTI Director Franz A. de Leon: So nandun po yung commitment to expand further
+
+901
+00:45:15,960 --> 00:45:18,960
+DOST-ASTI Director Franz A. de Leon: as you mentioned po yung nabasa po ninyo sa press release
+
+902
+00:45:19,359 --> 00:45:21,100
+DOST-ASTI Director Franz A. de Leon: and panimula pa lang po siya.
+
+903
+00:45:22,119 --> 00:45:26,079
+DOST-ASTI Director Franz A. de Leon: If we could imagine for example currently meron po kaming maliit na data center
+
+904
+00:45:26,079 --> 00:45:29,040
+DOST-ASTI Director Franz A. de Leon: is just a container van at the back of our office.
+
+905
+00:45:29,040 --> 00:45:31,080
+DOST-ASTI Director Franz A. de Leon: Ganun lang po kaliit doon po nagsisimula.
+
+906
+00:45:31,760 --> 00:45:36,120
+DOST-ASTI Director Franz A. de Leon: Ngayon po we are starting to expand through commercial data centers.
+
+907
+00:45:37,640 --> 00:45:42,659
+DOST-ASTI Director Franz A. de Leon: rent out po tayo ng space and then we install our own um GPUs.
+
+908
+00:45:42,680 --> 00:45:47,360
+DOST-ASTI Director Franz A. de Leon: So ang intent po natin um to further enhance our own sovereignty.
+
+909
+00:45:47,720 --> 00:45:54,839
+DOST-ASTI Director Franz A. de Leon: Yung pagkakaroon po natin ng capacity to deploy and um make our own AI based application
+
+910
+00:45:54,839 --> 00:45:56,520
+DOST-ASTI Director Franz A. de Leon: using our own
+
+911
+00:45:56,520 --> 00:46:00,020
+DOST-ASTI Director Franz A. de Leon: system. Iyon po iyong sinusuportahan ng DOST sa ngayon.
+
+912
+00:46:01,880 --> 00:46:03,680
+Rep. Antonio L. Tinio: Hindi po ma-provide ng...
+
+913
+00:46:03,680 --> 00:46:14,899
+Rep. Antonio L. Tinio: Magkaroon ng idea, ang kongreso, ano yung level ng technology na meron ng DOST ngayon.
+
+914
+00:46:15,119 --> 00:46:17,600
+Rep. Antonio L. Tinio: For example, sabi nyo may isang container van kayo.
+
+915
+00:46:18,280 --> 00:46:21,459
+Rep. Antonio L. Tinio: At sa ngayon, yan ang inyong high power compute.
+
+916
+00:46:22,160 --> 00:46:24,079
+Rep. Antonio L. Tinio: So ano yung mga processor nyo?
+
+917
+00:46:24,079 --> 00:46:24,439
+Rep. Antonio L. Tinio: Is this...
+
+918
+00:46:25,800 --> 00:46:26,520
+Rep. Antonio L. Tinio: Latest ba ito?
+
+919
+00:46:26,520 --> 00:46:28,480
+Rep. Antonio L. Tinio: Di ba mga NVIDIA chips?
+
+920
+00:46:28,480 --> 00:46:32,880
+Rep. Antonio L. Tinio: A100, H100, Blackwell, iyong mga ganoon.
+
+921
+00:46:32,880 --> 00:46:33,439
+Rep. Antonio L. Tinio: Nasaan tayo?
+
+922
+00:46:34,240 --> 00:46:35,480
+DOST-ASTI Director Franz A. de Leon: So tama pa yung nabanggitin nyo.
+
+923
+00:46:35,480 --> 00:46:36,520
+DOST-ASTI Director Franz A. de Leon: Meron po tayo noon.
+
+924
+00:46:37,040 --> 00:46:40,480
+DOST-ASTI Director Franz A. de Leon: With the latest iteration po na expansion po natin,
+
+925
+00:46:40,480 --> 00:46:45,820
+DOST-ASTI Director Franz A. de Leon: we were fortunate enough to procure yung mas bago, H200.
+
+926
+00:46:45,920 --> 00:46:48,640
+DOST-ASTI Director Franz A. de Leon: So currently, in-install po natin sila.
+
+927
+00:46:49,079 --> 00:46:51,359
+DOST-ASTI Director Franz A. de Leon: And then with the establishment of NAICRI,
+
+928
+00:46:51,359 --> 00:46:53,640
+DOST-ASTI Director Franz A. de Leon: it's not just about the expansion of the current,
+
+929
+00:46:53,640 --> 00:46:54,800
+DOST-ASTI Director Franz A. de Leon: but we also took...
+
+930
+00:46:54,800 --> 00:46:57,079
+DOST-ASTI Director Franz A. de Leon: plan to roll out sa regions.
+
+931
+00:46:57,079 --> 00:47:03,839
+DOST-ASTI Director Franz A. de Leon: Because we realized, masyadong nakasentro yung compute power sa NCR o sa Mega Manila.
+
+932
+00:47:03,839 --> 00:47:06,940
+DOST-ASTI Director Franz A. de Leon: So we want to expand that resource as well to the regions.
+
+933
+00:47:07,640 --> 00:47:12,800
+Rep. Antonio L. Tinio: So nabanggit nyo po, H200, ilan po yung cluster nyo, ilang processors po yun?
+
+934
+00:47:12,800 --> 00:47:20,500
+DOST-ASTI Director Franz A. de Leon: Opo, I don't have the exact figure, but I think there are five major compute servers.
+
+935
+00:47:20,520 --> 00:47:25,200
+DOST-ASTI Director Franz A. de Leon: Bukod po sa compute servers, may tandem po siya with data storage,
+
+936
+00:47:25,200 --> 00:47:26,599
+DOST-ASTI Director Franz A. de Leon: kasi mahalaga rin po siya.
+
+937
+00:47:26,599 --> 00:47:29,599
+DOST-ASTI Director Franz A. de Leon: And also upgrading of network equipment.
+
+938
+00:47:29,599 --> 00:47:34,359
+DOST-ASTI Director Franz A. de Leon: Kasi we expect large amount of data and traffic to be exchanged.
+
+939
+00:47:34,359 --> 00:47:36,820
+DOST-ASTI Director Franz A. de Leon: So lahat po yun, sabay-sabay po natin na in-upgrade.
+
+940
+00:47:37,359 --> 00:47:38,520
+Rep. Antonio L. Tinio: At magkano po ang budget?
+
+941
+00:47:38,520 --> 00:47:40,160
+Rep. Antonio L. Tinio: Is that in the current budget?
+
+942
+00:47:40,160 --> 00:47:46,119
+Rep. Antonio L. Tinio: And the proposal to expand by 26-fold by 2028?
+
+943
+00:47:46,119 --> 00:47:47,340
+Rep. Antonio L. Tinio: So magkano po yung...
+
+944
+00:47:48,839 --> 00:47:49,940
+Rep. Antonio L. Tinio: How much will this cost?
+
+945
+00:47:50,520 --> 00:47:55,000
+DOST-ASTI Director Franz A. de Leon: Opo, sa ngayon po iyong initial seed funding na binigay po ng DOST
+
+946
+00:47:55,000 --> 00:47:57,240
+DOST-ASTI Director Franz A. de Leon: through its GIAs, 300 million.
+
+947
+00:47:57,800 --> 00:47:59,740
+DOST-ASTI Director Franz A. de Leon: So we hope to further that.
+
+948
+00:47:59,760 --> 00:48:04,640
+DOST-ASTI Director Franz A. de Leon: So aside from the OSEC, probably in the near future, also through developmental partners po.
+
+949
+00:48:05,520 --> 00:48:06,040
+Rep. Antonio L. Tinio: Okay.
+
+950
+00:48:06,040 --> 00:48:10,720
+Rep. Antonio L. Tinio: So Chair, hindi na ako magpapatagal, pero masang concern po natin dito.
+
+951
+00:48:10,720 --> 00:48:23,220
+Rep. Antonio L. Tinio: Yun nga, importante yung binabanggit na dapat magkaroon din ng sariling digital or AI infrastructure ang Pilipinas.
+
+952
+00:48:24,000 --> 00:48:24,300
+Rep. Antonio L. Tinio: No?
+
+953
+00:48:24,960 --> 00:48:29,020
+Rep. Antonio L. Tinio: So yung tinatawag na, whatever you call it, data sovereignty.
+
+954
+00:48:29,640 --> 00:48:29,880
+Rep. Antonio L. Tinio: Okay.
+
+955
+00:48:30,800 --> 00:48:44,720
+Rep. Antonio L. Tinio: Otherwise, ang nangyayari po, lumalaga na pang AI, palagi tayong uupa ng cloud and data services and AI services from, ultimately from abroad.
+
+956
+00:48:45,480 --> 00:48:45,720
+Rep. Antonio L. Tinio: Diba?
+
+957
+00:48:45,720 --> 00:48:47,200
+Rep. Antonio L. Tinio: At papalaki na ng papalaki.
+
+958
+00:48:47,200 --> 00:48:49,240
+Rep. Antonio L. Tinio: Actually, ang ginagastos natin dyan.
+
+959
+00:48:49,240 --> 00:48:55,559
+Rep. Antonio L. Tinio: So, Chair, pwedeng makahingi na lang makapagsubmit ng mas na detalyado.
+
+960
+00:48:55,559 --> 00:49:06,040
+Rep. Antonio L. Tinio: Yung information about what we currently have and what are the plans to expand the nationally owned compute.
+
+961
+00:49:06,920 --> 00:49:07,240
+Rep. Antonio L. Tinio: No?
+
+962
+00:49:08,079 --> 00:49:12,840
+Rep. Antonio L. Tinio: And also the plan to, sabi nyo, dapat ma-expand din sa regions.
+
+963
+00:49:13,400 --> 00:49:13,640
+Rep. Antonio L. Tinio: Diba?
+
+964
+00:49:14,359 --> 00:49:14,659
+Rep. Antonio L. Tinio: Okay.
+
+965
+00:49:15,280 --> 00:49:21,880
+Rep. Antonio L. Tinio: So, tapos, in other words, kasi minsan pagkausap namin ng DICT, parang pinag-uusapan din nila ito.
+
+966
+00:49:21,880 --> 00:49:22,400
+Rep. Antonio L. Tinio: So, ano ba yan?
+
+967
+00:49:23,880 --> 00:49:45,240
+Rep. Antonio L. Tinio: And kayo ba ang lead agency with regard to, you know, developing indigenous digital infrastructure o yung AI infrastructure o is it DICT o may kanya-kanyang diskarte kayo?
+
+968
+00:49:46,680 --> 00:49:48,160
+DOST Secretary Renato U. Solidum Jr.: Mr. Chair, if I may respond.
+
+969
+00:49:48,880 --> 00:49:51,040
+DOST Secretary Renato U. Solidum Jr.: We developed the National AI Strategy.
+
+970
+00:49:51,559 --> 00:49:55,440
+DOST Secretary Renato U. Solidum Jr.: And in that development, there are four major components.
+
+971
+00:49:55,440 --> 00:50:05,580
+DOST Secretary Renato U. Solidum Jr.: The first is the AI factory, the infrastructure, the human resources, the policies, and of course the financing.
+
+972
+00:50:06,079 --> 00:50:18,300
+DOST Secretary Renato U. Solidum Jr.: Out of it, we will have to develop the AI refinery, developing the models, the analytics between government, national, local, academic, and industry partners.
+
+973
+00:50:18,599 --> 00:50:20,799
+DOST Secretary Renato U. Solidum Jr.: Now, to really implement and accelerate.
+
+974
+00:50:20,799 --> 00:50:29,160
+DOST Secretary Renato U. Solidum Jr.: The application of AI, we need to have partnerships at the local, regional, and national level, and of course, international partnership.
+
+975
+00:50:29,799 --> 00:50:35,900
+DOST Secretary Renato U. Solidum Jr.: All of this are geared into really helping our own enterprises and the community.
+
+976
+00:50:36,480 --> 00:50:45,559
+DOST Secretary Renato U. Solidum Jr.: So, we also crafted the National AI Implementation Strategy, where different government organizations will take the lead.
+
+977
+00:50:45,559 --> 00:50:51,360
+DOST Secretary Renato U. Solidum Jr.: On DOST, we lead in the development of the infrastructure for research and development.
+
+978
+00:50:51,680 --> 00:51:02,220
+DOST Secretary Renato U. Solidum Jr.: And talent management, and development of language models that can be utilized together with DTI and DICT, and the industry by various enterprises.
+
+979
+00:51:02,839 --> 00:51:12,119
+DOST Secretary Renato U. Solidum Jr.: Now, DICT is involved in the connectivity and infrastructure as well, but they are mainly dealing with the private sector to support this.
+
+980
+00:51:12,119 --> 00:51:14,340
+DOST Secretary Renato U. Solidum Jr.: Magkaiba po talaga ang laro namin.
+
+981
+00:51:14,839 --> 00:51:21,040
+DOST Secretary Renato U. Solidum Jr.: Now, to support the AI sovereignty, DOST is also developing.
+
+982
+00:51:21,319 --> 00:51:26,800
+DOST Secretary Renato U. Solidum Jr.: The data sovereignty through the Geospatial Analytics and Technology Solutions platform.
+
+983
+00:51:27,359 --> 00:51:33,920
+DOST Secretary Renato U. Solidum Jr.: It's a digital transformation of all data anchored on geographic information system, the science of where.
+
+984
+00:51:34,559 --> 00:51:39,760
+DOST Secretary Renato U. Solidum Jr.: And this is where we differentiate DOST from the rest of other government agencies.
+
+985
+00:51:39,760 --> 00:51:46,640
+DOST Secretary Renato U. Solidum Jr.: We are developing this data that will be utilized to fuel the artificial intelligence technology.
+
+986
+00:51:47,119 --> 00:51:50,400
+DOST Secretary Renato U. Solidum Jr.: So, eventually, our goal is to develop a geospatial.
+
+987
+00:51:50,400 --> 00:52:08,880
+DOST Secretary Renato U. Solidum Jr.: GeoAI Hub, managed by DOST, so that we can provide our enterprises and the government Philippine-owned data that will be queried by large language models or language models that we develop.
+
+988
+00:52:08,880 --> 00:52:17,680
+DOST Secretary Renato U. Solidum Jr.: Currently, we have iTanong as a language model that can be utilized by anyone who would want to look at it.
+
+989
+00:52:17,680 --> 00:52:20,559
+DOST Secretary Renato U. Solidum Jr.: We also have an equivalent of the App Store or Google.
+
+990
+00:52:20,559 --> 00:52:30,960
+DOST Secretary Renato U. Solidum Jr.: We also have a Google Play Store where language models using Filipino data sets are placed there so that one can look at it and see if you have similar operation.
+
+991
+00:52:30,960 --> 00:52:36,720
+DOST Secretary Renato U. Solidum Jr.: You can use that model para i-short circuit na po natin yung lack of compute power and scale.
+
+992
+00:52:36,720 --> 00:52:41,799
+DOST Secretary Renato U. Solidum Jr.: So, gamitin nyo na lang yun, pwede mo nang patakbuhin yung operation mo using that model.
+
+993
+00:52:41,799 --> 00:52:45,440
+DOST Secretary Renato U. Solidum Jr.: So iyon po ang current state ng AI strategy ng DOST.
+
+994
+00:52:46,359 --> 00:52:50,860
+Rep. Antonio L. Tinio: Sir, pahingin na lang po, sana makapag-provide ng mga data.
+
+995
+00:52:51,400 --> 00:52:55,900
+Rep. Antonio L. Tinio: Mga dokumento on the national AI strategy and the plan.
+
+996
+00:52:57,599 --> 00:53:06,520
+Rep. Antonio L. Tinio: And yung ibang mga tanong ko, siguro, sino po ba ang magandang kausap si Director De Leon?
+
+997
+00:53:06,520 --> 00:53:06,820
+DOST Secretary Renato U. Solidum Jr.: Opo.
+
+998
+00:53:07,359 --> 00:53:08,660
+Rep. Antonio L. Tinio: Okay, thank you. Thank you, Chair.
+
+999
+00:53:09,960 --> 00:53:11,220
+Rep. Amben S. Amante: Thank you, Congressman Tinio.
+
+1000
+00:53:13,240 --> 00:53:15,008
+Rep. Amben S. Amante: Congressman Nicky Briones.
+
+1001
+00:53:16,839 --> 00:53:19,000
+Rep. Nicanor M. Briones: Ah, thank you, Mr. Chair.
+
+1002
+00:53:19,000 --> 00:53:21,960
+Rep. Nicanor M. Briones: Ah, gusto ko lang namang magpasalamat
+
+1003
+00:53:21,960 --> 00:53:27,799
+Rep. Nicanor M. Briones: sa mga nagagawa na itutulong ng DOST sa ating mga farmers,
+
+1004
+00:53:27,799 --> 00:53:32,359
+Rep. Nicanor M. Briones: especially sa amin, sa egg industry.
+
+1005
+00:53:32,359 --> 00:53:41,119
+Rep. Nicanor M. Briones: through your program na DOST-BIST, or Business Innovation through Science and Technology,
+
+1006
+00:53:41,119 --> 00:53:48,400
+Rep. Nicanor M. Briones: CRADLE, uh, Collaborative Research and Development to Leverage Philippine Economy,
+
+1007
+00:53:48,400 --> 00:53:51,480
+Rep. Nicanor M. Briones: malaki ang naitulong ng DOST.
+
+1008
+00:53:51,480 --> 00:54:01,200
+Rep. Nicanor M. Briones: Without my intervention, ha, kaya yung coordination ng DOST at saka ng DA, napakaganda.
+
+1009
+00:54:01,200 --> 00:54:07,920
+Rep. Nicanor M. Briones: Kasi alam natin na yung egg eh maiksi lang ang shelf life.
+
+1010
+00:54:07,920 --> 00:54:14,040
+Rep. Nicanor M. Briones: So dahil doon sa inyong boiled egg brine solution,
+
+1011
+00:54:14,040 --> 00:54:17,520
+Rep. Nicanor M. Briones: pwede tumagal yung boiled egg up to five years.
+
+1012
+00:54:17,520 --> 00:54:21,200
+Rep. Nicanor M. Briones: So yung handling sa, let's say, may calamity,
+
+1013
+00:54:21,200 --> 00:54:25,480
+Rep. Nicanor M. Briones: or gusto nating tulungan yung nutrition ng ating mga bata,
+
+1014
+00:54:25,480 --> 00:54:29,640
+Rep. Nicanor M. Briones: madali na iparating.
+
+1015
+00:54:29,640 --> 00:54:39,280
+Rep. Nicanor M. Briones: So ang isa pa, yung, ah, sa aming, ah, itong, ah, egg processing plant.
+
+1016
+00:54:39,280 --> 00:54:43,040
+Rep. Nicanor M. Briones: Una, yung liquefied egg processing plant.
+
+1017
+00:54:43,040 --> 00:54:48,480
+Rep. Nicanor M. Briones: Ang ating itlog, up to 10, 12 days, pwede nang masira.
+
+1018
+00:54:48,480 --> 00:54:51,079
+Rep. Nicanor M. Briones: Pero because of this liquefied
+
+1019
+00:54:51,079 --> 00:54:56,200
+Rep. Nicanor M. Briones: egg processing plant, through your initiative,
+
+1020
+00:54:56,200 --> 00:55:03,160
+Rep. Nicanor M. Briones: ah, nagla-last ng up to more than a month, more than five months.
+
+1021
+00:55:03,160 --> 00:55:15,079
+Rep. Nicanor M. Briones: So mas mabilis yung pagde-deliver din sa mga hotel and industrial partner namin.
+
+1022
+00:55:15,079 --> 00:55:17,559
+Rep. Nicanor M. Briones: Kaya malaki ang nagagawa.
+
+1023
+00:55:17,559 --> 00:55:21,440
+Rep. Nicanor M. Briones: At lastly, itong egg powder,
+
+1024
+00:55:21,440 --> 00:55:22,280
+Rep. Nicanor M. Briones: Egg.
+
+1025
+00:55:22,280 --> 00:55:24,640
+Rep. Nicanor M. Briones: Powder processing plant.
+
+1026
+00:55:24,640 --> 00:55:29,240
+Rep. Nicanor M. Briones: na even up to five years,
+
+1027
+00:55:29,240 --> 00:55:31,440
+Rep. Nicanor M. Briones: ah, tumatagal yung itlog.
+
+1028
+00:55:31,440 --> 00:55:39,520
+Rep. Nicanor M. Briones: So, napakalaki ng, uh, nagawa niyo sa Batangas Egg Producers Cooperative
+
+1029
+00:55:39,520 --> 00:55:41,920
+Rep. Nicanor M. Briones: at doon sa aming bayan sa San Jose,
+
+1030
+00:55:41,920 --> 00:55:44,280
+Rep. Nicanor M. Briones: which is the egg basket of the Philippines.
+
+1031
+00:55:44,280 --> 00:55:48,079
+Rep. Nicanor M. Briones: We are producing 12 million eggs a day.
+
+1032
+00:55:48,079 --> 00:55:51,039
+Rep. Nicanor M. Briones: So, thank you, ah,
+
+1033
+00:55:51,039 --> 00:55:51,839
+Rep. Nicanor M. Briones: DOST
+
+1034
+00:55:51,839 --> 00:55:52,599
+Rep. Nicanor M. Briones: Secretary
+
+1035
+00:55:52,599 --> 00:55:53,760
+Rep. Nicanor M. Briones: Renato Solidum.
+
+1036
+00:55:53,760 --> 00:55:59,559
+Rep. Nicanor M. Briones: Sana talagang madagdagan natin ang budget ng DOST.
+
+1037
+00:55:59,559 --> 00:56:00,599
+Rep. Nicanor M. Briones: Thank you po.
+
+1038
+00:56:00,599 --> 00:56:01,075
+Rep. Nicanor M. Briones: Thank you.
+
+1039
+00:56:01,440 --> 00:56:04,349
+Rep. Amben S. Amante: Thank you, Vice Chair Nicky Briones.
+
+1040
+00:56:04,535 --> 00:56:09,319
+Rep. Amben S. Amante: First, I would like to acknowledge the presence of our Senior Deputy Speaker,
+
+1041
+00:56:09,319 --> 00:56:11,880
+Rep. Amben S. Amante: the gentleman, Senior Deputy Speaker
+
+1042
+00:56:11,880 --> 00:56:13,124
+Rep. Amben S. Amante: Dan Fernandez.
+
+1043
+00:56:13,310 --> 00:56:14,255
+Rep. Dan S. Fernandez: Baka ako ang makakadagdag ng budget?
+
+1044
+00:56:16,972 --> 00:56:19,870
+Rep. Amben S. Amante: Before we go to our favorite motion,
+
+1045
+00:56:20,680 --> 00:56:22,440
+Rep. Amben S. Amante: any last word of support?
+
+1046
+00:56:22,440 --> 00:56:25,173
+Rep. Amben S. Amante: Senior Deputy Speaker.
+
+1047
+00:56:30,303 --> 00:56:34,000
+Rep. Dan S. Fernandez: Humabol lang ako, but I'm not going to ask questions.
+
+1048
+00:56:35,039 --> 00:56:40,240
+Rep. Dan S. Fernandez: Si Sec. Solidum, one of the performing secretaries.
+
+1049
+00:56:40,240 --> 00:56:41,960
+Rep. Dan S. Fernandez: Of course, the entire department, no?
+
+1050
+00:56:42,160 --> 00:56:46,880
+Rep. Dan S. Fernandez: So, I'm only here to support your budget and if possible, increase your budget.
+
+1051
+00:56:46,880 --> 00:56:47,498
+Rep. Dan S. Fernandez: Yun lang po.
+
+1052
+00:56:51,110 --> 00:56:56,680
+Rep. Amben S. Amante: Thank you, SDS. May hahabol lang na question.
+
+1053
+00:56:56,680 --> 00:56:58,400
+Rep. Amben S. Amante: Congressman Tinio, go ahead.
+
+1054
+00:57:01,960 --> 00:57:05,160
+Rep. Antonio L. Tinio: Chair, actually, may postscript lang ako doon sa issue ng
+
+1055
+00:57:05,799 --> 00:57:09,600
+Rep. Antonio L. Tinio: ah, data sovereignty, digital sovereignty, AI sovereignty.
+
+1056
+00:57:10,079 --> 00:57:16,020
+Rep. Antonio L. Tinio: At may, meron, binanggit nga si Secretary, meron ng national AI strategy.
+
+1057
+00:57:16,760 --> 00:57:17,020
+Rep. Antonio L. Tinio: Okay?
+
+1058
+00:57:17,680 --> 00:57:20,720
+Rep. Antonio L. Tinio: At personally, I support this idea, no?
+
+1059
+00:57:20,720 --> 00:57:27,139
+Rep. Antonio L. Tinio: Na, sige, lumalaganap ang AI. Kailangan meron—may control ang mga Pilipino, 'di ba.
+
+1060
+00:57:27,280 --> 00:57:29,559
+Rep. Antonio L. Tinio: Hindi yung nakaasa tayo sa AI.
+
+1061
+00:57:29,559 --> 00:57:30,900
+Rep. Antonio L. Tinio: In a way, yung data natin,
+
+1062
+00:57:31,280 --> 00:57:37,700
+Rep. Antonio L. Tinio: gagamitin nung iba to improve their models and then we, we end up just as paying customers.
+
+1063
+00:57:38,319 --> 00:57:39,319
+Rep. Antonio L. Tinio: Hindi tama yun.
+
+1064
+00:57:39,319 --> 00:57:44,119
+Rep. Antonio L. Tinio: However, Mr. Chair, I would like to point something out.
+
+1065
+00:57:44,119 --> 00:57:47,560
+Rep. Antonio L. Tinio: Recently, ay kaugnay po ito sa Pax Silica.
+
+1066
+00:57:48,400 --> 00:57:56,400
+Rep. Antonio L. Tinio: The main proponent of Pax Silica is the U.S. Undersecretary of State, Jacob Helberg, no?
+
+1067
+00:57:56,400 --> 00:58:05,500
+Rep. Antonio L. Tinio: And, uh, just last June 24, he came out with a, uh, a, um, um,
+
+1068
+00:58:05,599 --> 00:58:10,120
+Rep. Antonio L. Tinio: a speech or a publication called the Digital Sovereignty Trap.
+
+1069
+00:58:10,640 --> 00:58:13,080
+Rep. Antonio L. Tinio: At dito, explicitly, ang sinasabi niya rito,
+
+1070
+00:58:13,680 --> 00:58:19,500
+Rep. Antonio L. Tinio: Okay, a growing number of governments persuaded that independence requires duplication,
+
+1071
+00:58:19,839 --> 00:58:26,859
+Rep. Antonio L. Tinio: are drafting national AI strategies to match, each resolved to rebuild inside its own borders,
+
+1072
+00:58:27,240 --> 00:58:30,060
+Rep. Antonio L. Tinio: a stack that already exists somewhere else.
+
+1073
+00:58:30,720 --> 00:58:38,079
+Rep. Antonio L. Tinio: It is a sub, it is a seductive vision, it is also backward and counterproductive, no?
+
+1074
+00:58:38,079 --> 00:58:41,079
+Rep. Antonio L. Tinio: So, ang main thesis niya dito, uy, kayong mga bansa,
+
+1075
+00:58:41,079 --> 00:58:47,280
+Rep. Antonio L. Tinio: huwag na kayong mag-ambisyong, ah, mag-develop ng sarili niyong AI technology,
+
+1076
+00:58:47,880 --> 00:58:49,180
+Rep. Antonio L. Tinio: you will always be backward.
+
+1077
+00:58:49,880 --> 00:58:58,960
+Rep. Antonio L. Tinio: Sumakay kayo sa U.S. kasi we are developing the most advanced AI technology, no?
+
+1078
+00:58:58,960 --> 00:59:00,039
+Rep. Antonio L. Tinio: So misguided.
+
+1079
+00:59:00,640 --> 00:59:09,880
+Rep. Antonio L. Tinio: Yung, ah, mga plano niyo na magtayo ng sarili niyong, ah, AI technology. Just join us.
+
+1080
+00:59:09,880 --> 00:59:14,039
+Rep. Antonio L. Tinio: And this is what Pax Silica is about, no?
+
+1081
+00:59:14,039 --> 00:59:18,880
+Rep. Antonio L. Tinio: So, ah, obviously, tutol po tayo; nire-reject natin.
+
+1082
+00:59:19,599 --> 00:59:26,600
+Rep. Antonio L. Tinio: Yung, ayan na 'yun, the main proponent of Pax Silica is this, this person, Helberg.
+
+1083
+00:59:27,079 --> 00:59:29,320
+Rep. Antonio L. Tinio: Siya nga yung nagpunta rito to inaugurate.
+
+1084
+00:59:30,079 --> 00:59:35,559
+Rep. Antonio L. Tinio: uh, the, the Pax Silica project in, uh, New Clark City, no?
+
+1085
+00:59:35,559 --> 00:59:41,480
+Rep. Antonio L. Tinio: And napakalinaw po nung kanyang argumento dito na, okay,
+
+1086
+00:59:42,400 --> 00:59:46,159
+Rep. Antonio L. Tinio: huwag na yung digital national, you know, yung no AI sovereignty.
+
+1087
+00:59:48,000 --> 00:59:49,420
+Rep. Antonio L. Tinio: Mananatili kayong backward.
+
+1088
+00:59:50,559 --> 00:59:55,550
+Rep. Antonio L. Tinio: Tulungan niyo kami. Nasa amin ang pinaka-advanced na teknolohiya, no.
+
+1089
+00:59:55,640 --> 00:59:56,580
+Rep. Antonio L. Tinio: So, um...
+
+1090
+00:59:57,960 --> 01:00:04,579
+Rep. Antonio L. Tinio: In that regard, ah, ano pong masasabi ng DOST diyan?
+
+1091
+01:00:05,920 --> 01:00:07,740
+DOST Secretary Renato U. Solidum Jr.: AI is simply a technology.
+
+1092
+01:00:07,920 --> 01:00:09,120
+DOST Secretary Renato U. Solidum Jr.: It can be powerful.
+
+1093
+01:00:09,520 --> 01:00:11,720
+DOST Secretary Renato U. Solidum Jr.: You can develop large language models.
+
+1094
+01:00:12,240 --> 01:00:22,379
+DOST Secretary Renato U. Solidum Jr.: But in the AI summit that I attended, one of the leading industrial companies,
+
+1095
+01:00:23,039 --> 01:00:32,659
+DOST Secretary Renato U. Solidum Jr.: I think one of the best statements that she made was you cannot compete with those already advanced.
+
+1096
+01:00:33,280 --> 01:00:38,920
+DOST Secretary Renato U. Solidum Jr.: And so her advice is for countries to develop smaller language models
+
+1097
+01:00:38,920 --> 01:00:43,619
+DOST Secretary Renato U. Solidum Jr.: that would address the specific needs of their country or their organization.
+
+1098
+01:00:44,119 --> 01:00:48,960
+DOST Secretary Renato U. Solidum Jr.: Second, it is the data that will be more powerful than the AI.
+
+1099
+01:00:49,319 --> 01:00:49,760
+DOST Secretary Renato U. Solidum Jr.: That is why,
+
+1100
+01:00:49,760 --> 01:00:53,560
+DOST Secretary Renato U. Solidum Jr.: our focus is to develop a data sovereignty platform.
+
+1101
+01:00:53,960 --> 01:00:54,680
+DOST Secretary Renato U. Solidum Jr.: Thank you.
+
+1102
+01:00:54,680 --> 01:00:55,839
+Rep. Antonio L. Tinio: Thank you, Mr. Chair.
+
+1103
+01:00:55,839 --> 01:01:00,920
+Rep. Antonio L. Tinio: In that regard, uh, I commend the Secretary for having that stand.
+
+1104
+01:01:00,920 --> 01:01:07,160
+Rep. Antonio L. Tinio: Importante po, no, na sa kabila ng ayan na po napakalinaw na tulak ng U.S.—
+
+1105
+01:01:07,160 --> 01:01:10,040
+Rep. Antonio L. Tinio: sabi nila, tigil niyo na 'yan, sumama kayo sa amin—
+
+1106
+01:01:10,720 --> 01:01:18,640
+Rep. Antonio L. Tinio: Ah, dapat po, tama lang na ipagpatuloy ang effort na i-develop ang sarili nating infrastructure at
+
+1107
+01:01:18,640 --> 01:01:22,119
+Rep. Antonio L. Tinio: kakayahan kahit dito sa larangan ng AI,
+
+1108
+01:01:22,119 --> 01:01:35,620
+Rep. Antonio L. Tinio: lalo pa at ang kailangan—ang kailangan natin ay 'yung sariling data natin ang gamitin para tugunan ang mga pangangailangan ng Pilipino. Okay. Thank you, Mr. Chair. 'Yun lang po ang puntong gusto kong i-raise. Thank you.
+
+1109
+01:01:36,680 --> 01:01:38,870
+Rep. Mikaela Angela B. Suansing: Thank you, Congressman Tinio.
+
+1110
+01:01:38,880 --> 01:01:40,830
+Rep. Mikaela Angela B. Suansing: Congresswoman Renee Co.
+
+1111
+01:01:40,839 --> 01:01:45,713
+Rep. Renee Louise M. Co: Sorry, Mr. Chair. This is just, um—or, uh—
+
+1112
+01:01:46,118 --> 01:01:51,359
+Rep. Renee Louise M. Co: this is just a point of inquiry that we would like to address to the Committee on Appropriations.
+
+1113
+01:01:51,359 --> 01:01:51,880
+Rep. Renee Louise M. Co: Uh,
+
+1114
+01:01:51,880 --> 01:02:01,200
+Rep. Renee Louise M. Co: given that there are other executive offices that will be going through plenary discussions separately,
+
+1115
+01:02:01,200 --> 01:02:04,400
+Rep. Renee Louise M. Co: no, when their budgets will be deliberated upon.
+
+1116
+01:02:04,400 --> 01:02:09,920
+Rep. Renee Louise M. Co: Um, this representation submitted a request to, uh, to the Chair,
+
+1117
+01:02:09,920 --> 01:02:11,559
+Rep. Renee Louise M. Co: Representative Suansing, no,
+
+1118
+01:02:11,559 --> 01:02:17,920
+Rep. Renee Louise M. Co: if it's possible to have pre-plenary deliberations for other executive offices.
+
+1119
+01:02:17,920 --> 01:02:18,200
+Rep. Renee Louise M. Co: No,
+
+1120
+01:02:18,200 --> 01:02:19,240
+Rep. Renee Louise M. Co: uh,
+
+1121
+01:02:19,240 --> 01:02:19,480
+Rep. Renee Louise M. Co: this
+
+1122
+01:02:19,480 --> 01:02:21,880
+Rep. Renee Louise M. Co: would include the Anti-Money Laundering Council,
+
+1123
+01:02:21,880 --> 01:02:24,279
+Rep. Renee Louise M. Co: the Bases Conversion and Development Authority,
+
+1124
+01:02:24,279 --> 01:02:25,880
+Rep. Renee Louise M. Co: Climate Change Commission,
+
+1125
+01:02:25,880 --> 01:02:28,559
+Rep. Renee Louise M. Co: Komisyon sa Wikang Filipino, Metropolitan Manila Development Authority,
+
+1126
+01:02:28,559 --> 01:02:33,680
+Rep. Renee Louise M. Co: National Commission on Indigenous Peoples, National Intelligence Coordinating Agency, National Security Council, PDEA, PEZA, and SBMA,
+
+1127
+01:02:33,680 --> 01:02:38,440
+Rep. Renee Louise M. Co: to address various concerns that are opened up to them
+
+1128
+01:02:38,440 --> 01:02:42,640
+Rep. Renee Louise M. Co: that, because of their layered—um,
+
+1129
+01:02:42,640 --> 01:02:46,520
+Rep. Renee Louise M. Co: uh, because of the—the layered, uh, natures of them,
+
+1130
+01:02:46,520 --> 01:02:48,440
+Rep. Renee Louise M. Co: that it might not be enough to address them
+
+1131
+01:02:48,440 --> 01:02:49,480
+Rep. Renee Louise M. Co: merely at plenary.
+
+1132
+01:02:49,480 --> 01:02:50,599
+Rep. Renee Louise M. Co: So that's just a request.
+
+1133
+01:02:50,599 --> 01:02:52,640
+Rep. Renee Louise M. Co: And I'd like to put it on the record,
+
+1134
+01:02:52,640 --> 01:02:53,770
+Rep. Renee Louise M. Co: Mr. Chair, Madam Chair.
+
+1135
+01:03:04,874 --> 01:03:08,079
+Rep. Mikaela Angela B. Suansing: We'll discuss it po.
+
+1136
+01:03:08,079 --> 01:03:11,839
+Rep. Mikaela Angela B. Suansing: We've also been discussing it earlier with Cong. Renee
+
+1137
+01:03:11,839 --> 01:03:14,680
+Rep. Mikaela Angela B. Suansing: because we've been together in several of the hearings.
+
+1138
+01:03:14,680 --> 01:03:19,640
+Rep. Mikaela Angela B. Suansing: So we can see how we can move forward with the request.
+
+1139
+01:03:19,640 --> 01:03:21,119
+Rep. Mikaela Angela B. Suansing: So we'll coordinate na lang po
+
+1140
+01:03:21,119 --> 01:03:23,520
+Rep. Mikaela Angela B. Suansing: and we'll discuss how we can proceed
+
+1141
+01:03:23,520 --> 01:03:26,160
+Rep. Mikaela Angela B. Suansing: with those OEOs mentioned.
+
+1142
+01:03:26,160 --> 01:03:26,845
+Rep. Mikaela Angela B. Suansing: Thank you po.
+
+1143
+01:03:28,195 --> 01:03:29,559
+Rep. Amben S. Amante: Okay, uh, thank you.
+
+1144
+01:03:29,559 --> 01:03:32,026
+Rep. Amben S. Amante: Any last words, Chairwoman?
+
+1145
+01:03:32,026 --> 01:03:33,880
+Rep. Mikaela Angela B. Suansing: Chairman, last words?
+
+1146
+01:03:33,880 --> 01:03:36,359
+Rep. Mikaela Angela B. Suansing: Kanina, message of support. Last words.
+
+1147
+01:03:36,359 --> 01:03:37,763
+Rep. Mikaela Angela B. Suansing: Message of support. Opo.
+
+1148
+01:03:38,320 --> 01:03:39,760
+Rep. Mikaela Angela B. Suansing: Thank you, thank you.
+
+1149
+01:03:39,760 --> 01:03:41,880
+Rep. Mikaela Angela B. Suansing: Thank you, Cong. Amben. Thank you, Cong. Nicky.
+
+1150
+01:03:41,880 --> 01:03:45,319
+Rep. Mikaela Angela B. Suansing: I just wanted to say thank you to our two vice chairpersons
+
+1151
+01:03:45,319 --> 01:03:51,799
+Rep. Mikaela Angela B. Suansing: who facilitated today's hearing for the DOST budget briefing.
+
+1152
+01:03:51,799 --> 01:03:57,000
+Rep. Mikaela Angela B. Suansing: Thank you, Cong. Amben Amante. Thank you, Cong. Nicky Briones
+
+1153
+01:03:58,559 --> 01:04:05,039
+Rep. Mikaela Angela B. Suansing: for very well, for managing the deliberations very, very well.
+
+1154
+01:04:05,039 --> 01:04:10,760
+Rep. Mikaela Angela B. Suansing: Kampante po ako na, ah, kasi alam ko po na the DOST family
+
+1155
+01:04:10,760 --> 01:04:14,200
+Rep. Mikaela Angela B. Suansing: is in great hands with Vice Chair Amben and Vice Chair Nikki.
+
+1156
+01:04:14,200 --> 01:04:15,760
+Rep. Mikaela Angela B. Suansing: So palakpakan naman po natin sila.
+
+1157
+01:04:16,160 --> 01:04:16,964
+Rep. Mikaela Angela B. Suansing: Thank you po.
+
+1158
+01:04:18,753 --> 01:04:24,720
+Rep. Mikaela Angela B. Suansing: Ayun po. So they will be your partners until the plenary deliberations.
+
+1159
+01:04:24,720 --> 01:04:27,000
+Rep. Mikaela Angela B. Suansing: So maybe just a few questions, Kong Amben.
+
+1160
+01:04:28,680 --> 01:04:29,480
+Rep. Mikaela Angela B. Suansing: Very quick.
+
+1161
+01:04:29,480 --> 01:04:32,480
+Rep. Mikaela Angela B. Suansing: Thank you, Kong Tonshi, for posing a lot of the,
+
+1162
+01:04:32,480 --> 01:04:37,720
+Rep. Mikaela Angela B. Suansing: I was going to ask on the agency-wise allocations,
+
+1163
+01:04:37,720 --> 01:04:43,179
+Rep. Mikaela Angela B. Suansing: but you explained to Kong Tonshi that the big decreases
+
+1164
+01:04:43,200 --> 01:04:46,800
+Rep. Mikaela Angela B. Suansing: in Pag-ASA and PNRI,
+
+1165
+01:04:47,240 --> 01:04:50,480
+Rep. Mikaela Angela B. Suansing: it was explained that Pag-ASA is okay
+
+1166
+01:04:50,480 --> 01:04:52,140
+Rep. Mikaela Angela B. Suansing: because it's already done.
+
+1167
+01:04:53,279 --> 01:04:54,839
+Rep. Mikaela Angela B. Suansing: Is that, did I catch it correctly?
+
+1168
+01:04:54,839 --> 01:04:57,680
+Rep. Mikaela Angela B. Suansing: The ₱364 million differential is because
+
+1169
+01:04:57,680 --> 01:04:59,599
+Rep. Mikaela Angela B. Suansing: uh, on the differential is because there's
+
+1170
+01:04:59,599 --> 01:05:03,200
+Rep. Mikaela Angela B. Suansing: a project that was already done already so no need
+
+1171
+01:05:03,200 --> 01:05:04,639
+Rep. Mikaela Angela B. Suansing: to fund it for 2027.
+
+1172
+01:05:05,520 --> 01:05:07,639
+Rep. Mikaela Angela B. Suansing: For FNRI, it's the building.
+
+1173
+01:05:09,960 --> 01:05:12,960
+Rep. Mikaela Angela B. Suansing: For the PNRI, is it the same case po?
+
+1174
+01:05:12,960 --> 01:05:16,200
+Rep. Mikaela Angela B. Suansing: It's a project, it's a 345 million decrease.
+
+1175
+01:05:17,079 --> 01:05:18,140
+Rep. Mikaela Angela B. Suansing: Is it a similar?
+
+1176
+01:05:18,520 --> 01:05:19,039
+DOST Secretary Renato U. Solidum Jr.: Yes.
+
+1177
+01:05:19,039 --> 01:05:23,579
+Rep. Mikaela Angela B. Suansing: Similar situation po with Pag-ASA or with FNRI?
+
+1178
+01:05:24,000 --> 01:05:26,700
+DOST Secretary Renato U. Solidum Jr.: It's similar with FNRI.
+
+1179
+01:05:26,920 --> 01:05:35,480
+DOST Secretary Renato U. Solidum Jr.: the project has already done with all its phases kaya nag-stop na po yung funding for this particular capital outlay.
+
+1180
+01:05:35,480 --> 01:05:42,200
+Rep. Mikaela Angela B. Suansing: Okay. Sige po. So yun na naman po yung malaki. Those are the most glaring reductions.
+
+1181
+01:05:42,799 --> 01:05:52,160
+Rep. Mikaela Angela B. Suansing: You also explained to Kongtonchi earlier that the reason for the increases in the different agency budgets is because of the transfer of the grants.
+
+1182
+01:05:52,640 --> 01:05:58,880
+Rep. Mikaela Angela B. Suansing: So, Sige po, that's where I want to ask a question on, a clarificatory question on.
+
+1183
+01:05:58,880 --> 01:06:08,559
+Rep. Mikaela Angela B. Suansing: Because earlier it was discussed po that there was a request whether it's possible to re-centralize the grants in the Office of the Secretary.
+
+1184
+01:06:08,559 --> 01:06:13,839
+Rep. Mikaela Angela B. Suansing: So I just wanted to maybe ask, we also have our DBM family here with us.
+
+1185
+01:06:13,839 --> 01:06:22,220
+Rep. Mikaela Angela B. Suansing: So, Sek, maybe just to enlighten us as to why the grants were distributed.
+
+1186
+01:06:22,240 --> 01:06:28,040
+Rep. Mikaela Angela B. Suansing: Across the different agencies. Is that...was that a decision on the part of the OSD or was that the DBM decision?
+
+1187
+01:06:30,880 --> 01:06:33,640
+Rep. Mikaela Angela B. Suansing: Sorry. Sorry. Sorry, friends, to put you on the spot.
+
+1188
+01:06:33,640 --> 01:06:38,119
+Rep. Mikaela Angela B. Suansing: May we request of someone from the DBM family to please enlighten us?
+
+1189
+01:06:38,119 --> 01:06:46,000
+Rep. Mikaela Angela B. Suansing: Kasi this is, this is a big point of contention. This is 1.25 billion being talked about.
+
+1190
+01:06:46,000 --> 01:06:50,059
+Rep. Mikaela Angela B. Suansing: So, we just want to understand which way is the right way forward.
+
+1191
+01:06:50,520 --> 01:06:54,200
+Rep. Mikaela Angela B. Suansing: Do we centralize the grants in the Office of the Secretary
+
+1192
+01:06:54,200 --> 01:06:57,039
+Rep. Mikaela Angela B. Suansing: the grants in the Office of the Secretary or do we retain the way that
+
+1193
+01:06:57,039 --> 01:07:01,680
+Rep. Mikaela Angela B. Suansing: it's here in the NEP which is distributed across agencies? So if we
+
+1194
+01:07:01,680 --> 01:07:18,200
+Rep. Mikaela Angela B. Suansing: could request someone from the DBM. Director Vivian, if you could
+
+1195
+01:07:18,200 --> 01:07:23,320
+Rep. Mikaela Angela B. Suansing: introduce yourself Director Vivian to the DOST family and to our colleagues.
+
+1196
+01:07:30,799 --> 01:07:40,419
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: Good evening, Madam Chair, Your Honor, Sec. Solidum, and all the DOST family.
+
+1197
+01:07:47,520 --> 01:07:56,000
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: 2027, a policy for DBM which was approved to reallocate the funding
+
+1198
+01:07:56,000 --> 01:07:58,440
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: requirements of ongoing R&amp;D
+
+1199
+01:07:58,920 --> 01:08:08,559
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: projects of attached agencies under the DOST that were previously funded under the GIA
+
+1200
+01:08:08,559 --> 01:08:15,839
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: of ASEC Councils directly to the agency-specific budgets of the DOST.
+
+1201
+01:08:16,400 --> 01:08:26,540
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: So as such, the GIA will primarily fund those R&amp;D projects proposed by external stakeholders
+
+1202
+01:08:27,000 --> 01:08:32,560
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: such as the HEIs and other NGAs and private institutions.
+
+1203
+01:08:33,080 --> 01:08:41,799
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: So this process, the reallocation of funding to the attached agencies of the DOST, will
+
+1204
+01:08:41,799 --> 01:08:49,239
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: also facilitate the immediate utilization and implementation of R&amp;D programs by the
+
+1205
+01:08:49,239 --> 01:08:56,140
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: agencies since the funds will be available to them upon the approval of the GIA.
+
+1206
+01:08:56,679 --> 01:08:57,080
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: Instead,
+
+1207
+01:08:57,080 --> 01:09:05,040
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: of the current scheme, there will be interagency transfer funds from the GIA to the implementing
+
+1208
+01:09:05,040 --> 01:09:05,860
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: agencies.
+
+1209
+01:09:05,880 --> 01:09:17,520
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: So this is also to have an efficient process that is streamlined and the trust receipts
+
+1210
+01:09:17,520 --> 01:09:18,359
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: will also disappear.
+
+1211
+01:09:18,359 --> 01:09:19,399
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: That is what will happen.
+
+1212
+01:09:19,679 --> 01:09:22,960
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: So that is the basis of the plan.
+
+1213
+01:09:22,960 --> 01:09:26,819
+Rep. Mikaela Angela B. Suansing: Director Vivian, is there a new guideline?
+
+1214
+01:09:27,159 --> 01:09:34,359
+Rep. Mikaela Angela B. Suansing: Governing this that was not there during the 2026 GIA or I guess I just want to understand
+
+1215
+01:09:34,359 --> 01:09:39,979
+Rep. Mikaela Angela B. Suansing: the difference between the implementation last year versus this year.
+
+1216
+01:09:40,319 --> 01:09:47,560
+Rep. Mikaela Angela B. Suansing: What's different between the 2026 GIA and the 2027 NEP that necessitates this new scheme
+
+1217
+01:09:48,359 --> 01:09:49,460
+Rep. Mikaela Angela B. Suansing: in the grants?
+
+1218
+01:09:49,480 --> 01:09:51,199
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: Yes, Madam Chair.
+
+1219
+01:09:52,440 --> 01:09:54,000
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: Last year, wala pa po ito.
+
+1220
+01:09:54,000 --> 01:09:59,229
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: It's a new policy po by DBM during budget preparation.
+
+1221
+01:09:59,239 --> 01:10:00,870
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: Opo.
+
+1222
+01:10:00,880 --> 01:10:03,080
+Rep. Mikaela Angela B. Suansing: So it's an internal DBM policy.
+
+1223
+01:10:03,080 --> 01:10:05,760
+Rep. Mikaela Angela B. Suansing: It's a new DBM policy po pala, Sec.
+
+1224
+01:10:05,760 --> 01:10:09,440
+Rep. Mikaela Angela B. Suansing: So perhaps this is the right forum to take care of it
+
+1225
+01:10:09,440 --> 01:10:13,320
+Rep. Mikaela Angela B. Suansing: just so we can work on it accordingly on the side of the House.
+
+1226
+01:10:13,320 --> 01:10:18,400
+Rep. Mikaela Angela B. Suansing: So siguro, now that you've heard Director Vivian's rationale on it—
+
+1227
+01:10:18,400 --> 01:10:20,040
+Rep. Mikaela Angela B. Suansing: DBM's rationale on it, which
+
+1228
+01:10:20,040 --> 01:10:25,520
+Rep. Mikaela Angela B. Suansing: is, it essentially streamlines it because you're putting the grants straight to the
+
+1229
+01:10:25,520 --> 01:10:26,340
+Rep. Mikaela Angela B. Suansing: agency.
+
+1230
+01:10:26,440 --> 01:10:28,040
+Rep. Mikaela Angela B. Suansing: So now is the time also, sir.
+
+1231
+01:10:28,080 --> 01:10:38,059
+Rep. Mikaela Angela B. Suansing: SEC to appeal slash reason out as to why, what would the implications be on the implementation?
+
+1232
+01:10:38,440 --> 01:10:45,199
+Rep. Mikaela Angela B. Suansing: I'm sure there's a, here I understand streamlining, nakadiretso na, wala na interagency transfer,
+
+1233
+01:10:45,199 --> 01:10:50,780
+Rep. Mikaela Angela B. Suansing: but Sigur Sec, from the standpoint of DOST, how would that affect your implementation?
+
+1234
+01:10:57,640 --> 01:11:08,640
+DOST Secretary Renato U. Solidum Jr.: I totally understand the intention. Unfortunately, the details of many of the grants were not
+
+1235
+01:11:08,640 --> 01:11:16,040
+DOST Secretary Renato U. Solidum Jr.: very clear when all the funds were transferred. So instead of just transferring the amount
+
+1236
+01:11:16,040 --> 01:11:22,679
+DOST Secretary Renato U. Solidum Jr.: of money for specific agencies that they will have to implement, the funding that are supposed
+
+1237
+01:11:22,679 --> 01:11:26,600
+DOST Secretary Renato U. Solidum Jr.: to be under the same field, but not to be implemented by the same agency, that's not
+
+1238
+01:11:26,600 --> 01:11:33,840
+DOST Secretary Renato U. Solidum Jr.: true. That agency were also included. So kaya sumobra talaga yung ibang agency. So the
+
+1239
+01:11:33,840 --> 01:11:40,400
+DOST Secretary Renato U. Solidum Jr.: intention was good, but may mga details na siguro hindi, although we appealed to them,
+
+1240
+01:11:40,400 --> 01:11:46,140
+DOST Secretary Renato U. Solidum Jr.: like PAGASA and PHIVOLCS.
+
+1241
+01:11:47,159 --> 01:11:53,560
+DOST Secretary Renato U. Solidum Jr.: Bacolkol, paano nila gagastusin yun? Hindi naman sila pwedeng mag-release sa ibang agency.
+
+1242
+01:11:58,040 --> 01:12:00,400
+DOST Secretary Renato U. Solidum Jr.: So I'm just telling our observant.
+
+1243
+01:12:00,400 --> 01:12:03,099
+DOST Secretary Renato U. Solidum Jr.: But I already wrote them about it.
+
+1244
+01:12:05,320 --> 01:12:09,400
+Rep. Mikaela Angela B. Suansing: Second question. What's your BOR for the grants?
+
+1245
+01:12:09,400 --> 01:12:14,600
+Rep. Mikaela Angela B. Suansing: Bababa ba yung utilization? Kasi yun siguro yung isa ko nakikita na pwede nating gamitin.
+
+1246
+01:12:15,199 --> 01:12:15,719
+DOST Secretary Renato U. Solidum Jr.: 98%.
+
+1247
+01:12:18,080 --> 01:12:18,820
+Rep. Mikaela Angela B. Suansing: Sorry?
+
+1248
+01:12:19,239 --> 01:12:19,560
+DOST Secretary Renato U. Solidum Jr.: 98%.
+
+1249
+01:12:19,560 --> 01:12:19,800
+Rep. Mikaela Angela B. Suansing: 98%.
+
+1250
+01:12:19,800 --> 01:12:30,919
+Rep. Mikaela Angela B. Suansing: With the previous scheme, wherein all the grants are centralized to OSEC. Director Vib,
+
+1251
+01:12:31,600 --> 01:12:32,320
+Rep. Mikaela Angela B. Suansing: is there...
+
+1252
+01:12:32,320 --> 01:12:32,860
+Rep. Mikaela Angela B. Suansing: Is it possible?
+
+1253
+01:12:33,440 --> 01:12:40,520
+Rep. Mikaela Angela B. Suansing: Is it like a written DBM policy in the budget preparation? Is there like a new internal
+
+1254
+01:12:40,520 --> 01:12:41,200
+Rep. Mikaela Angela B. Suansing: memo?
+
+1255
+01:12:41,600 --> 01:12:44,440
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: We have an internal memo po regarding it.
+
+1256
+01:12:44,440 --> 01:12:50,360
+Rep. Mikaela Angela B. Suansing: Kasi yun actually din yung nakikita ko lang na downside. Again, I'm trying to see both
+
+1257
+01:12:50,360 --> 01:12:57,320
+Rep. Mikaela Angela B. Suansing: sides. Ang nakikita ko lang na downside dito, which is diniretso nyo na, hindi ka na pwede
+
+1258
+01:12:57,320 --> 01:12:57,760
+Rep. Mikaela Angela B. Suansing: mag...
+
+1259
+01:12:57,760 --> 01:13:01,320
+Rep. Mikaela Angela B. Suansing: Parang hindi ka naman pwede mag-negative sa ano dito na ibabalik mo sa OSEC, diba?
+
+1260
+01:13:01,320 --> 01:13:04,639
+Rep. Mikaela Angela B. Suansing: Is it just like an outside agreement?
+
+1261
+01:13:04,639 --> 01:13:05,639
+Rep. Mikaela Angela B. Suansing: I don't see it.
+
+1262
+01:13:05,639 --> 01:13:14,960
+Rep. Mikaela Angela B. Suansing: I don't see any kind of, like, sort of, you know, you have a P200 million in grants and
+
+1263
+01:13:14,960 --> 01:13:18,000
+Rep. Mikaela Angela B. Suansing: you put it in your NEP, and it has just P200 million in it.
+
+1264
+01:13:18,000 --> 01:13:26,159
+Rep. Mikaela Angela B. Suansing: So, this might result in a lower BOR if we take a look at it next year. Because, you
+
+1265
+01:13:26,159 --> 01:13:34,279
+Rep. Mikaela Angela B. Suansing: you kind of pre-determine how much would be needed by each of the attached agencies.
+
+1266
+01:13:35,360 --> 01:13:42,320
+DOST Secretary Renato U. Solidum Jr.: Sorry, just to understand, I mean, I've been availing of grants also during my master's years,
+
+1267
+01:13:42,320 --> 01:13:44,320
+DOST Secretary Renato U. Solidum Jr.: but it's really dynamic.
+
+1268
+01:13:45,199 --> 01:13:53,080
+DOST Secretary Renato U. Solidum Jr.: When you do your budget preparation, you don't really know how many grantees you're going to have per attached agency.
+
+1269
+01:13:53,080 --> 01:13:58,019
+DOST Secretary Renato U. Solidum Jr.: So you do it after the GAA is approved.
+
+1270
+01:14:00,840 --> 01:14:02,440
+DOST Secretary Renato U. Solidum Jr.: Essentially, it's proposal-driven.
+
+1271
+01:14:02,440 --> 01:14:10,120
+DOST Secretary Renato U. Solidum Jr.: For example, there are emergencies that might need to be responded to by DOST, not by DOST agencies,
+
+1272
+01:14:10,120 --> 01:14:12,960
+DOST Secretary Renato U. Solidum Jr.: but I need experts, for example, oil spill.
+
+1273
+01:14:13,440 --> 01:14:17,520
+DOST Secretary Renato U. Solidum Jr.: I need to ask experts from different universities to focus on that.
+
+1274
+01:14:17,520 --> 01:14:20,200
+DOST Secretary Renato U. Solidum Jr.: So we get it from the GIA.
+
+1275
+01:14:20,520 --> 01:14:22,480
+DOST Secretary Renato U. Solidum Jr.: We have a...
+
+1276
+01:14:24,760 --> 01:14:25,960
+DOST Secretary Renato U. Solidum Jr.: a program for that.
+
+1277
+01:14:25,960 --> 01:14:27,880
+DOST Secretary Renato U. Solidum Jr.: But that program was transferred to PAGASA.
+
+1278
+01:14:29,199 --> 01:14:31,300
+DOST Secretary Renato U. Solidum Jr.: So PAGASA cannot distribute the money.
+
+1279
+01:14:32,159 --> 01:14:34,300
+DOST Secretary Renato U. Solidum Jr.: It was supposed to be distributed by the OSEC.
+
+1280
+01:14:35,000 --> 01:14:38,580
+DOST Secretary Renato U. Solidum Jr.: So we will lose support in the emergency response.
+
+1281
+01:14:38,679 --> 01:14:41,920
+DOST Secretary Renato U. Solidum Jr.: It's just an example, but just to make it clear.
+
+1282
+01:14:41,920 --> 01:14:43,120
+Rep. Mikaela Angela B. Suansing: Yes, I understand, Sec.
+
+1283
+01:14:43,120 --> 01:14:43,780
+Rep. Mikaela Angela B. Suansing: Director Vivian?
+
+1284
+01:14:44,320 --> 01:14:46,960
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: Yes, if I may, Madam Chair.
+
+1285
+01:14:48,040 --> 01:14:53,040
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: The basis of the GIA's 2027 level was the list of...
+
+1286
+01:14:53,040 --> 01:14:57,880
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: the ongoing R&amp;D projects submitted by DOST.
+
+1287
+01:14:57,880 --> 01:15:06,100
+Rep. Mikaela Angela B. Suansing: So, DOST, I can't understand why—
+
+1288
+01:15:06,560 --> 01:15:07,800
+Rep. Mikaela Angela B. Suansing: on these things
+
+1289
+01:15:10,880 --> 01:15:17,620
+Rep. Mikaela Angela B. Suansing: if the basis would be your ongoing r d it doesn't necessarily mean that um come 2027
+
+1290
+01:15:17,880 --> 01:15:21,320
+Rep. Mikaela Angela B. Suansing: those are still the same r d projects that would need to be funded by the grants
+
+1291
+01:15:23,199 --> 01:15:30,480
+Rep. Mikaela Angela B. Suansing: i think the the danger there is you don't know what to base it on for you to get an accurate
+
+1292
+01:15:30,480 --> 01:15:39,280
+Rep. Mikaela Angela B. Suansing: assessment of how much you would actually need in 2027. we may we i in this in this regard
+
+1293
+01:15:39,760 --> 01:15:45,320
+Rep. Mikaela Angela B. Suansing: May we ask the DOST to explain first?
+
+1294
+01:15:45,320 --> 01:15:47,979
+Rep. Mikaela Angela B. Suansing: they're at 98 utilization
+
+1295
+01:15:51,560 --> 01:15:58,980
+Rep. Mikaela Angela B. Suansing: unless unless dbm has um uh has um opposition to that
+
+1296
+01:16:01,520 --> 01:16:07,880
+DOST Secretary Renato U. Solidum Jr.: the reason why we can maximize the use of money is that since it's a proposal driven so for example
+
+1297
+01:16:07,880 --> 01:16:13,400
+DOST Secretary Renato U. Solidum Jr.: if the subject is disaster reduction it's not simply if you evoke the pagasa that will implement
+
+1298
+01:16:13,400 --> 01:16:23,860
+DOST Secretary Renato U. Solidum Jr.: it we can fund other agencies that have a proposal so it means
+
+1299
+01:16:25,800 --> 01:16:34,120
+DOST Secretary Renato U. Solidum Jr.: that it will actually take away the flexibility of providing good proposals in the disaster field
+
+1300
+01:16:34,120 --> 01:16:37,060
+DOST Secretary Renato U. Solidum Jr.: because it's not simply if you have some pagasa that would implement that
+
+1301
+01:16:40,400 --> 01:16:41,720
+Rep. Mikaela Angela B. Suansing: uh
+
+1302
+01:16:42,639 --> 01:16:48,360
+Rep. Mikaela Angela B. Suansing: if we put it in the net that it's already lodged in the in the budget of the different agencies
+
+1303
+01:16:48,360 --> 01:16:51,239
+Rep. Mikaela Angela B. Suansing: you can't do a negative zero let's say for example
+
+1304
+01:16:52,120 --> 01:16:55,239
+Rep. Mikaela Angela B. Suansing: PHIVOLCS has a surplus of ₱100 million;
+
+1305
+01:16:56,480 --> 01:16:58,080
+Rep. Mikaela Angela B. Suansing: PAGASA needs ₱100 million.
+
+1306
+01:16:58,080 --> 01:17:00,340
+Rep. Mikaela Angela B. Suansing: We can't transfer it anymore.
+
+1307
+01:17:01,440 --> 01:17:07,440
+Rep. Mikaela Angela B. Suansing: Pero kunwari lang, nilagay natin sa OSEC, tapos na-download na ang SARO,
+
+1308
+01:17:07,440 --> 01:17:09,600
+Rep. Mikaela Angela B. Suansing: and then all of a sudden, towards the end of the year,
+
+1309
+01:17:11,360 --> 01:17:13,679
+Rep. Mikaela Angela B. Suansing: hindi ko magagamit. Sasabihin ni PAGASA,
+
+1310
+01:17:13,679 --> 01:17:15,000
+Rep. Mikaela Angela B. Suansing: puwede mo pa i-negative SARO
+
+1311
+01:17:15,000 --> 01:17:17,280
+Rep. Mikaela Angela B. Suansing: para malipat mo sa ibang attached agency,
+
+1312
+01:17:17,280 --> 01:17:23,820
+Rep. Mikaela Angela B. Suansing: 'di ba? So, I mean, given the nature of the expenditure,
+
+1313
+01:17:24,320 --> 01:17:26,440
+Rep. Mikaela Angela B. Suansing: the flexibility is needed in this case.
+
+1314
+01:17:26,440 --> 01:17:28,880
+Rep. Mikaela Angela B. Suansing: the nature of the expenditure the flexibility is needed in this case
+
+1315
+01:17:28,880 --> 01:17:36,700
+Rep. Mikaela Angela B. Suansing: there's something with this 1.2 billion figure uh that we need to assess so um if you have concerns
+
+1316
+01:17:36,719 --> 01:17:43,800
+Rep. Mikaela Angela B. Suansing: director vivian on the side on the part of the dbm we can put a special provision to safeguard it to
+
+1317
+01:17:43,800 --> 01:17:51,560
+Rep. Mikaela Angela B. Suansing: add safeguards um just so you you know if you want additional safeguards to govern the way that
+
+1318
+01:17:51,560 --> 01:17:54,639
+Rep. Mikaela Angela B. Suansing: it's it's downloaded into the different attached
+
+1319
+01:17:54,639 --> 01:17:59,040
+Rep. Mikaela Angela B. Suansing: agencies but in a man but i think the flexibility has to be there so with
+
+1320
+01:17:59,040 --> 01:18:04,920
+Rep. Mikaela Angela B. Suansing: your permission we may re-centralize uh this to
+
+1321
+01:18:05,320 --> 01:18:09,780
+Rep. Mikaela Angela B. Suansing: to osec in the hgab if if you're amenable to that
+
+1322
+01:18:11,080 --> 01:18:14,140
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: yeah we respectfully differ
+
+1323
+01:18:15,000 --> 01:18:15,220
+Rep. Mikaela Angela B. Suansing: okay
+
+1324
+01:18:16,600 --> 01:18:16,820
+Rep. Mikaela Angela B. Suansing: so
+
+1325
+01:18:21,360 --> 01:18:21,840
+Rep. Mikaela Angela B. Suansing: respect
+
+1326
+01:18:22,239 --> 01:18:23,519
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: madam chair yes
+
+1327
+01:18:25,280 --> 01:18:27,320
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: we defer to the wisdom of congress
+
+1328
+01:18:28,040 --> 01:18:28,640
+DBM Budget and Management Bureau-F Director Vivien V. Labastilla: yes yes
+
+1329
+01:18:28,960 --> 01:18:31,320
+Rep. Jurdin Jesus "JJ" M. Romualdo: that's it madam chair the wisdom of congress
+
+1330
+01:18:31,320 --> 01:18:32,920
+Rep. Jurdin Jesus "JJ" M. Romualdo: and of course madam chair
+
+1331
+01:18:32,920 --> 01:18:33,619
+Rep. Jurdin Jesus "JJ" M. Romualdo: i think
+
+1332
+01:18:34,480 --> 01:18:37,199
+Rep. Jurdin Jesus "JJ" M. Romualdo: yung ginawa ng dbm is just an internal
+
+1333
+01:18:37,199 --> 01:18:37,899
+Rep. Jurdin Jesus "JJ" M. Romualdo: agreement
+
+1334
+01:18:38,880 --> 01:18:41,199
+Rep. Jurdin Jesus "JJ" M. Romualdo: so congress can do something
+
+1335
+01:18:41,199 --> 01:18:41,920
+Rep. Jurdin Jesus "JJ" M. Romualdo: about it
+
+1336
+01:18:41,920 --> 01:18:44,400
+Rep. Jurdin Jesus "JJ" M. Romualdo: na pwede natin titignan
+
+1337
+01:18:44,400 --> 01:18:45,760
+Rep. Jurdin Jesus "JJ" M. Romualdo: or put it in the ga'a
+
+1338
+01:18:46,560 --> 01:18:48,719
+Rep. Jurdin Jesus "JJ" M. Romualdo: bagong maga'a na safe to say
+
+1339
+01:18:48,719 --> 01:18:50,000
+Rep. Jurdin Jesus "JJ" M. Romualdo: have it safeguards lang
+
+1340
+01:18:50,960 --> 01:18:52,480
+Rep. Jurdin Jesus "JJ" M. Romualdo: can the flexibility
+
+1341
+01:18:53,000 --> 01:18:54,700
+Rep. Jurdin Jesus "JJ" M. Romualdo: is so important considering
+
+1342
+01:18:55,080 --> 01:18:57,300
+Rep. Jurdin Jesus "JJ" M. Romualdo: so many disasters and others
+
+1343
+01:18:58,040 --> 01:18:58,920
+Rep. Jurdin Jesus "JJ" M. Romualdo: that's it
+
+1344
+01:18:58,920 --> 01:19:01,120
+Rep. Mikaela Angela B. Suansing: thank you thank you thank you um
+
+1345
+01:19:01,120 --> 01:19:02,340
+Rep. Mikaela Angela B. Suansing: jj so
+
+1346
+01:19:02,920 --> 01:19:04,960
+Rep. Mikaela Angela B. Suansing: um again uh
+
+1347
+01:19:04,960 --> 01:19:06,880
+Rep. Mikaela Angela B. Suansing: thank you director vivian thank you for that it
+
+1348
+01:19:06,880 --> 01:19:08,880
+Rep. Mikaela Angela B. Suansing: means a lot um that you defer
+
+1349
+01:19:08,880 --> 01:19:11,000
+Rep. Mikaela Angela B. Suansing: uh to us uh i
+
+1350
+01:19:11,000 --> 01:19:12,740
+Rep. Mikaela Angela B. Suansing: would just have um
+
+1351
+01:19:13,000 --> 01:19:14,780
+Rep. Mikaela Angela B. Suansing: if i may just request
+
+1352
+01:19:14,960 --> 01:19:17,080
+Rep. Mikaela Angela B. Suansing: uh for for you and
+
+1353
+01:19:17,080 --> 01:19:18,680
+Rep. Mikaela Angela B. Suansing: nikki to maybe do like
+
+1354
+01:19:19,320 --> 01:19:21,000
+Rep. Mikaela Angela B. Suansing: post post this hearing
+
+1355
+01:19:21,000 --> 01:19:22,960
+Rep. Mikaela Angela B. Suansing: uh process briefing rather um
+
+1356
+01:19:22,960 --> 01:19:25,000
+Rep. Mikaela Angela B. Suansing: to have additional consultations
+
+1357
+01:19:25,440 --> 01:19:26,780
+Rep. Mikaela Angela B. Suansing: um between
+
+1358
+01:19:27,120 --> 01:19:28,860
+Rep. Mikaela Angela B. Suansing: uh dbm
+
+1359
+01:19:28,920 --> 01:19:30,080
+Rep. Mikaela Angela B. Suansing: and dost
+
+1360
+01:19:30,880 --> 01:19:32,760
+Rep. Mikaela Angela B. Suansing: for just for us to sort this out
+
+1361
+01:19:32,760 --> 01:19:34,760
+Rep. Mikaela Angela B. Suansing: siguro um director vivian if we can
+
+1362
+01:19:34,760 --> 01:19:36,920
+Rep. Mikaela Angela B. Suansing: request the dbm to already come
+
+1363
+01:19:36,920 --> 01:19:38,880
+Rep. Mikaela Angela B. Suansing: up with special provisions if you
+
+1364
+01:19:38,880 --> 01:19:40,880
+Rep. Mikaela Angela B. Suansing: think there are necessary special
+
+1365
+01:19:40,880 --> 01:19:42,800
+Rep. Mikaela Angela B. Suansing: provisions to govern this
+
+1366
+01:19:42,800 --> 01:19:44,240
+Rep. Mikaela Angela B. Suansing: particular um grant
+
+1367
+01:19:44,920 --> 01:19:47,280
+Rep. Mikaela Angela B. Suansing: um if you can draft that already
+
+1368
+01:19:47,280 --> 01:19:49,400
+Rep. Mikaela Angela B. Suansing: um sec if there are
+
+1369
+01:19:49,400 --> 01:19:50,260
+Rep. Mikaela Angela B. Suansing: um specific
+
+1370
+01:19:50,760 --> 01:19:52,800
+Rep. Mikaela Angela B. Suansing: we're easy on the part of the
+
+1371
+01:19:52,800 --> 01:19:54,880
+Rep. Mikaela Angela B. Suansing: dost as long as it's centralized um
+
+1372
+01:19:54,880 --> 01:19:57,040
+Rep. Mikaela Angela B. Suansing: you're you're happy with that um
+
+1373
+01:19:57,040 --> 01:19:58,880
+Rep. Mikaela Angela B. Suansing: but siguro just to just
+
+1374
+01:19:58,880 --> 01:20:01,080
+Rep. Mikaela Angela B. Suansing: to strike a compromise um
+
+1375
+01:20:01,080 --> 01:20:02,960
+Rep. Mikaela Angela B. Suansing: between the intention
+
+1376
+01:20:02,960 --> 01:20:05,000
+Rep. Mikaela Angela B. Suansing: of dbm and also
+
+1377
+01:20:05,000 --> 01:20:06,960
+Rep. Mikaela Angela B. Suansing: of course the need of dost
+
+1378
+01:20:07,280 --> 01:20:09,120
+Rep. Mikaela Angela B. Suansing: uh for flexibility if
+
+1379
+01:20:09,120 --> 01:20:11,280
+Rep. Mikaela Angela B. Suansing: um if i may request um
+
+1380
+01:20:11,280 --> 01:20:13,239
+Rep. Mikaela Angela B. Suansing: vice chair umben and vice chair
+
+1381
+01:20:13,239 --> 01:20:14,960
+Rep. Mikaela Angela B. Suansing: nikki to facilitate those
+
+1382
+01:20:14,960 --> 01:20:16,719
+Rep. Mikaela Angela B. Suansing: discussions between dbm and
+
+1383
+01:20:16,719 --> 01:20:18,560
+Rep. Mikaela Angela B. Suansing: dost so you know i
+
+1384
+01:20:18,560 --> 01:20:20,760
+Rep. Mikaela Angela B. Suansing: i saw the number and i
+
+1385
+01:20:20,760 --> 01:20:22,840
+Rep. Mikaela Angela B. Suansing: knew there was there was something
+
+1386
+01:20:22,840 --> 01:20:25,000
+Rep. Mikaela Angela B. Suansing: behind that number so um i
+
+1387
+01:20:25,000 --> 01:20:26,840
+Rep. Mikaela Angela B. Suansing: hope um that
+
+1388
+01:20:26,840 --> 01:20:28,020
+Rep. Mikaela Angela B. Suansing: helps um
+
+1389
+01:20:30,239 --> 01:20:30,659
+Rep. Mikaela Angela B. Suansing: um
+
+1390
+01:20:32,120 --> 01:20:33,300
+Rep. Mikaela Angela B. Suansing: i i
+
+1391
+01:20:33,800 --> 01:20:34,620
+Rep. Mikaela Angela B. Suansing: sorry
+
+1392
+01:20:35,880 --> 01:20:36,600
+Rep. Mikaela Angela B. Suansing: i
+
+1393
+01:20:37,080 --> 01:20:38,620
+Rep. Mikaela Angela B. Suansing: sorry
+
+1394
+01:20:39,600 --> 01:20:42,100
+Rep. Mikaela Angela B. Suansing: this is for you
+
+1395
+01:20:42,400 --> 01:20:43,140
+Rep. Mikaela Angela B. Suansing: questions
+
+1396
+01:20:44,320 --> 01:20:45,000
+Rep. Mikaela Angela B. Suansing: um the next
+
+1397
+01:20:45,000 --> 01:20:47,059
+Rep. Mikaela Angela B. Suansing: question boys with regard to the virology
+
+1398
+01:20:47,239 --> 01:20:48,519
+Rep. Mikaela Angela B. Suansing: institute as uh
+
+1399
+01:20:50,080 --> 01:20:52,240
+Rep. Mikaela Angela B. Suansing: every minute
+
+1400
+01:20:55,000 --> 01:20:55,220
+Rep. Mikaela Angela B. Suansing: um
+
+1401
+01:20:56,120 --> 01:20:56,679
+Rep. Mikaela Angela B. Suansing: for for the ost
+
+1402
+01:20:56,679 --> 01:20:57,280
+Rep. Mikaela Angela B. Suansing: um
+
+1403
+01:20:57,280 --> 01:20:59,199
+Rep. Mikaela Angela B. Suansing: proposal um sec is
+
+1404
+01:20:59,199 --> 01:21:01,600
+Rep. Mikaela Angela B. Suansing: do we have an indicative number as to
+
+1405
+01:21:01,600 --> 01:21:03,120
+Rep. Mikaela Angela B. Suansing: how much would be needed for the
+
+1406
+01:21:03,120 --> 01:21:04,439
+Rep. Mikaela Angela B. Suansing: virology institute
+
+1407
+01:21:05,280 --> 01:21:07,120
+DOST Secretary Renato U. Solidum Jr.: To finish Phases 1 and 2
+
+1408
+01:21:07,120 --> 01:21:08,479
+DOST Secretary Renato U. Solidum Jr.: buildings so that we can
+
+1409
+01:21:09,040 --> 01:21:11,000
+DOST Secretary Renato U. Solidum Jr.: now operate there in New Clark City,
+
+1410
+01:21:11,000 --> 01:21:12,140
+DOST Secretary Renato U. Solidum Jr.: we need
+
+1411
+01:21:12,719 --> 01:21:16,070
+DOST Secretary Renato U. Solidum Jr.: ₱800 million.
+
+1412
+01:21:16,080 --> 01:21:16,855
+DOST Secretary Renato U. Solidum Jr.: For next year.
+
+1413
+01:21:16,855 --> 01:21:17,880
+Rep. Mikaela Angela B. Suansing: And that, Sec., was in your Tier 1
+
+1414
+01:21:17,880 --> 01:21:21,040
+Rep. Mikaela Angela B. Suansing: proposal? Was it in
+
+1415
+01:21:21,040 --> 01:21:22,960
+Rep. Mikaela Angela B. Suansing: your Tier 1 proposal to DBM?
+
+1416
+01:21:23,600 --> 01:21:25,700
+DOST Secretary Renato U. Solidum Jr.: It's an ongoing construction,
+
+1417
+01:21:26,159 --> 01:21:27,420
+Rep. Mikaela Angela B. Suansing: so Tier 1 siya.
+
+1418
+01:21:27,520 --> 01:21:28,178
+Rep. Mikaela Angela B. Suansing: Um, Director Viv—
+
+1419
+01:21:28,178 --> 01:21:29,140
+DOST Secretary Renato U. Solidum Jr.: Usually po,
+
+1420
+01:21:29,199 --> 01:21:33,239
+DOST Secretary Renato U. Solidum Jr.: um, DPWH ang nag-a-allot doon.
+
+1421
+01:21:33,239 --> 01:21:35,340
+DOST Secretary Renato U. Solidum Jr.: It's lodged under DPWH.
+
+1422
+01:21:35,480 --> 01:21:35,679
+DOST Secretary Renato U. Solidum Jr.: Kaya lang, since
+
+1423
+01:21:35,679 --> 01:21:36,659
+DOST Secretary Renato U. Solidum Jr.: 2026,
+
+1424
+01:21:36,659 --> 01:21:47,199
+DOST Secretary Renato U. Solidum Jr.: this year, tama? Wala nang [unclear] o walang na-allot.
+
+1425
+01:21:47,199 --> 01:21:47,400
+Rep. Mikaela Angela B. Suansing: So,
+
+1426
+01:21:47,400 --> 01:21:48,440
+Rep. Mikaela Angela B. Suansing: may we request
+
+1427
+01:21:48,440 --> 01:21:48,679
+Rep. Mikaela Angela B. Suansing: po,
+
+1428
+01:21:48,679 --> 01:21:52,000
+Rep. Mikaela Angela B. Suansing: Sec., would it emanate from
+
+1429
+01:21:52,000 --> 01:21:52,620
+Rep. Mikaela Angela B. Suansing: um,
+
+1430
+01:21:53,040 --> 01:21:54,360
+Rep. Mikaela Angela B. Suansing: from DOST, or
+
+1431
+01:21:54,360 --> 01:21:56,620
+Rep. Mikaela Angela B. Suansing: would that request emanate from DPWH?
+
+1432
+01:21:56,960 --> 01:21:57,997
+Rep. Mikaela Angela B. Suansing: Just wanted to—
+
+1433
+01:21:57,997 --> 01:21:58,975
+DOST Secretary Renato U. Solidum Jr.: Sa amin na lang. Sa amin.
+
+1434
+01:21:58,975 --> 01:22:00,100
+Rep. Mikaela Angela B. Suansing: Sa inyo na lang po. Okay.
+
+1435
+01:22:00,400 --> 01:22:02,400
+Rep. Mikaela Angela B. Suansing: So that's the second—that's the first
+
+1436
+01:22:02,400 --> 01:22:04,320
+Rep. Mikaela Angela B. Suansing: request, actually. The second—sorry, the
+
+1437
+01:22:04,320 --> 01:22:06,360
+Rep. Mikaela Angela B. Suansing: first request was the grants. The second
+
+1438
+01:22:06,360 --> 01:22:08,600
+Rep. Mikaela Angela B. Suansing: request was with regard to the Virology
+
+1439
+01:22:09,000 --> 01:22:10,360
+Rep. Mikaela Angela B. Suansing: Institute. The third request
+
+1440
+01:22:10,360 --> 01:22:12,480
+Rep. Mikaela Angela B. Suansing: that you mentioned earlier, um,
+
+1441
+01:22:12,480 --> 01:22:14,400
+Rep. Mikaela Angela B. Suansing: Sec., it was with regard to
+
+1442
+01:22:14,400 --> 01:22:15,445
+Rep. Mikaela Angela B. Suansing: the master's—
+
+1443
+01:22:15,445 --> 01:22:16,036
+DOST Secretary Renato U. Solidum Jr.: Master's.
+
+1444
+01:22:16,036 --> 01:22:18,360
+Rep. Mikaela Angela B. Suansing: and PhD grants, leveling it with
+
+1445
+01:22:18,360 --> 01:22:20,305
+Rep. Mikaela Angela B. Suansing: CHED. Is there an indicative amount?
+
+1446
+01:22:20,305 --> 01:22:21,537
+DOST Secretary Renato U. Solidum Jr.: ₱309 million.
+
+1447
+01:22:21,638 --> 01:22:22,870
+Rep. Mikaela Angela B. Suansing: ₱309 million.
+
+1448
+01:22:22,870 --> 01:22:24,845
+Rep. Mikaela Angela B. Suansing: Kapresyo noong Pisay last year, iyong
+
+1449
+01:22:24,845 --> 01:22:26,320
+Rep. Mikaela Angela B. Suansing: stipend—iyong increase in
+
+1450
+01:22:26,320 --> 01:22:27,719
+Rep. Mikaela Angela B. Suansing: stipend ng Pisay.
+
+1451
+01:22:27,719 --> 01:22:30,260
+Rep. Mikaela Angela B. Suansing: How many master's and PhD
+
+1452
+01:22:30,760 --> 01:22:31,080
+Rep. Mikaela Angela B. Suansing: um,
+
+1453
+01:22:32,320 --> 01:22:33,140
+Rep. Mikaela Angela B. Suansing: [unclear] takers?
+
+1454
+01:22:33,960 --> 01:22:34,779
+DOST Secretary Renato U. Solidum Jr.: Around 5,000.
+
+1455
+01:22:35,199 --> 01:22:38,080
+Rep. Mikaela Angela B. Suansing: 5,000. And what would be the increase
+
+1456
+01:22:38,080 --> 01:22:39,357
+Rep. Mikaela Angela B. Suansing: for a master's grant?
+
+1457
+01:22:39,357 --> 01:22:41,239
+DOST Secretary Renato U. Solidum Jr.: From ₱30,000 to
+
+1458
+01:22:41,719 --> 01:22:44,977
+DOST Secretary Renato U. Solidum Jr.: ₱38,000. ₱38,000 is CHED; ₱30,000...
+
+1459
+01:22:44,977 --> 01:22:48,301
+Rep. Mikaela Angela B. Suansing: That's per semester? Per year?
+
+1460
+01:22:48,301 --> 01:22:49,430
+DOST Secretary Renato U. Solidum Jr.: Per month.
+
+1461
+01:22:49,430 --> 01:22:52,199
+DOST Secretary Renato U. Solidum Jr.: Stipend per month.
+
+1462
+01:22:52,199 --> 01:22:53,633
+Rep. Mikaela Angela B. Suansing: From ₱30,000 to ₱38,000 per month?
+
+1463
+01:22:53,633 --> 01:22:58,696
+DOST Secretary Renato U. Solidum Jr.: And from ₱38,000 to ₱50,000 for PhD.
+
+1464
+01:22:58,696 --> 01:22:59,520
+Rep. Mikaela Angela B. Suansing: Okay, so that's an
+
+1465
+01:22:59,520 --> 01:23:01,580
+Rep. Mikaela Angela B. Suansing: ₱8,000 and a ₱12,000 increase
+
+1466
+01:23:02,120 --> 01:23:04,180
+Rep. Mikaela Angela B. Suansing: for the two.
+
+1467
+01:23:04,199 --> 01:23:05,520
+Rep. Mikaela Angela B. Suansing: So if we may request,
+
+1468
+01:23:05,520 --> 01:23:05,880
+Rep. Mikaela Angela B. Suansing: um,
+
+1469
+01:23:08,520 --> 01:23:09,600
+Rep. Mikaela Angela B. Suansing: the Executive Director
+
+1470
+01:23:09,600 --> 01:23:11,520
+Rep. Mikaela Angela B. Suansing: of SEI knows this [unclear].
+
+1471
+01:23:11,520 --> 01:23:13,520
+Rep. Mikaela Angela B. Suansing: If we can request for
+
+1472
+01:23:13,520 --> 01:23:15,639
+Rep. Mikaela Angela B. Suansing: the same—um, the number
+
+1473
+01:23:15,639 --> 01:23:17,879
+Rep. Mikaela Angela B. Suansing: of—just a table
+
+1474
+01:23:18,239 --> 01:23:19,920
+Rep. Mikaela Angela B. Suansing: showing us the number of
+
+1475
+01:23:19,920 --> 01:23:20,740
+Rep. Mikaela Angela B. Suansing: grants,
+
+1476
+01:23:21,840 --> 01:23:23,800
+Rep. Mikaela Angela B. Suansing: the amount for each,
+
+1477
+01:23:23,800 --> 01:23:25,320
+Rep. Mikaela Angela B. Suansing: and so—
+
+1478
+01:23:25,960 --> 01:23:27,719
+Rep. Mikaela Angela B. Suansing: the amount that you projected,
+
+1479
+01:23:27,719 --> 01:23:29,679
+Rep. Mikaela Angela B. Suansing: ₱309 million, Sec., that's
+
+1480
+01:23:30,120 --> 01:23:32,824
+Rep. Mikaela Angela B. Suansing: your 2027 projection already?
+
+1481
+01:23:32,824 --> 01:23:33,400
+DOST Secretary Renato U. Solidum Jr.: Yes.
+
+1482
+01:23:33,400 --> 01:23:35,580
+Rep. Mikaela Angela B. Suansing: Okay. Well, predictable naman kasi
+
+1483
+01:23:36,199 --> 01:23:37,679
+Rep. Mikaela Angela B. Suansing: two and four or five
+
+1484
+01:23:37,679 --> 01:23:39,600
+Rep. Mikaela Angela B. Suansing: years iyong PhD. Opo.
+
+1485
+01:23:39,600 --> 01:23:41,760
+Rep. Mikaela Angela B. Suansing: okay so those are the three i
+
+1486
+01:23:41,760 --> 01:23:43,719
+Rep. Mikaela Angela B. Suansing: understand that although
+
+1487
+01:23:43,719 --> 01:23:44,800
+Rep. Mikaela Angela B. Suansing: in the earlier
+
+1488
+01:23:45,639 --> 01:23:47,780
+Rep. Mikaela Angela B. Suansing: questions they asked about other
+
+1489
+01:23:48,560 --> 01:23:49,639
+Rep. Mikaela Angela B. Suansing: constructions that
+
+1490
+01:23:49,639 --> 01:23:51,560
+Rep. Mikaela Angela B. Suansing: were not continued but start
+
+1491
+01:23:51,560 --> 01:23:53,520
+Rep. Mikaela Angela B. Suansing: already started saying
+
+1492
+01:23:53,520 --> 01:23:55,760
+Rep. Mikaela Angela B. Suansing: we have a list that we will submit okay
+
+1493
+01:23:55,760 --> 01:23:57,979
+Rep. Mikaela Angela B. Suansing: so so sec um
+
+1494
+01:23:58,239 --> 01:23:59,199
+Rep. Mikaela Angela B. Suansing: you you're you
+
+1495
+01:23:59,199 --> 01:24:01,420
+Rep. Mikaela Angela B. Suansing: either you know this very well
+
+1496
+01:24:01,639 --> 01:24:03,719
+Rep. Mikaela Angela B. Suansing: we have limited fiscal space
+
+1497
+01:24:03,719 --> 01:24:06,360
+Rep. Mikaela Angela B. Suansing: uh we would really need to prioritize
+
+1498
+01:24:06,360 --> 01:24:07,560
+Rep. Mikaela Angela B. Suansing: um as
+
+1499
+01:24:07,560 --> 01:24:09,840
+Rep. Mikaela Angela B. Suansing: much as you know we would we
+
+1500
+01:24:09,840 --> 01:24:11,639
+Rep. Mikaela Angela B. Suansing: all here are in support of
+
+1501
+01:24:11,639 --> 01:24:12,620
+Rep. Mikaela Angela B. Suansing: increasing the budget of
+
+1502
+01:24:13,600 --> 01:24:16,040
+Rep. Mikaela Angela B. Suansing: dost we would also need to prioritize
+
+1503
+01:24:16,040 --> 01:24:17,860
+Rep. Mikaela Angela B. Suansing: so um
+
+1504
+01:24:18,000 --> 01:24:19,679
+Rep. Mikaela Angela B. Suansing: my request is when you
+
+1505
+01:24:19,679 --> 01:24:21,639
+Rep. Mikaela Angela B. Suansing: submit to us to the committee of
+
+1506
+01:24:21,639 --> 01:24:24,199
+Rep. Mikaela Angela B. Suansing: within the Committee on Appropriations, wherein we deliberate
+
+1507
+01:24:24,199 --> 01:24:25,500
+Rep. Mikaela Angela B. Suansing: that would contain
+
+1508
+01:24:26,000 --> 01:24:27,419
+Rep. Mikaela Angela B. Suansing: all of the wish list
+
+1509
+01:24:28,840 --> 01:24:29,679
+Rep. Mikaela Angela B. Suansing: would would contain your wish
+
+1510
+01:24:29,679 --> 01:24:29,819
+Rep. Mikaela Angela B. Suansing: list
+
+1511
+01:24:33,560 --> 01:24:34,480
+Rep. Mikaela Angela B. Suansing: Then siguro,
+
+1512
+01:24:35,760 --> 01:24:39,159
+Rep. Mikaela Angela B. Suansing: kung kaya niyo rin po ipaliwanag sa amin
+
+1513
+01:24:39,159 --> 01:24:42,260
+Rep. Mikaela Angela B. Suansing: kung kailangan mabuo ito o puwedeng partial,
+
+1514
+01:24:43,080 --> 01:24:47,719
+Rep. Mikaela Angela B. Suansing: para we know how best to help you out.
+
+1515
+01:24:47,719 --> 01:24:49,080
+Rep. Mikaela Angela B. Suansing: The worst that could happen is
+
+1516
+01:24:49,080 --> 01:24:51,199
+Rep. Mikaela Angela B. Suansing: we give DOST additional funding,
+
+1517
+01:24:51,199 --> 01:24:52,719
+Rep. Mikaela Angela B. Suansing: but it's not really the project
+
+1518
+01:24:52,719 --> 01:24:55,939
+Rep. Mikaela Angela B. Suansing: or the program that you really would like to prioritize.
+
+1519
+01:24:56,080 --> 01:24:57,840
+Rep. Mikaela Angela B. Suansing: So, as you know, Sec.,
+
+1520
+01:24:57,840 --> 01:24:59,400
+Rep. Mikaela Angela B. Suansing: we also did this last year.
+
+1521
+01:24:59,400 --> 01:25:02,400
+Rep. Mikaela Angela B. Suansing: One of our biggest reforms is we've
+
+1522
+01:25:02,400 --> 01:25:04,159
+Rep. Mikaela Angela B. Suansing: established the Budget Amendments Review
+
+1523
+01:25:04,159 --> 01:25:07,420
+Rep. Mikaela Angela B. Suansing: Subcommittee within the Committee on Appropriations,
+
+1524
+01:25:07,719 --> 01:25:09,440
+Rep. Mikaela Angela B. Suansing: wherein we deliberate all
+
+1525
+01:25:09,440 --> 01:25:11,760
+Rep. Mikaela Angela B. Suansing: the institutional amendment requests
+
+1526
+01:25:11,760 --> 01:25:13,239
+Rep. Mikaela Angela B. Suansing: emanating from the agency.
+
+1527
+01:25:13,239 --> 01:25:16,520
+Rep. Mikaela Angela B. Suansing: So, my request lang siguro, Sec.,
+
+1528
+01:25:16,520 --> 01:25:19,539
+Rep. Mikaela Angela B. Suansing: for us to be able to process all of the requests—
+
+1529
+01:25:19,679 --> 01:25:22,920
+Rep. Mikaela Angela B. Suansing: institutional amendment requests—in time,
+
+1530
+01:25:22,920 --> 01:25:24,920
+Rep. Mikaela Angela B. Suansing: is if you could give it to us po ASAP,
+
+1531
+01:25:24,920 --> 01:25:27,079
+Rep. Mikaela Angela B. Suansing: if possible, this week po,
+
+1532
+01:25:27,679 --> 01:25:35,560
+Rep. Mikaela Angela B. Suansing: para, um, nandito po—there's another [unclear] member, two [unclear] members here—um, so para po may oras kami
+
+1533
+01:25:35,560 --> 01:25:37,679
+Rep. Mikaela Angela B. Suansing: na ma-deliberate po 'yung amendments.
+
+1534
+01:25:37,679 --> 01:25:38,679
+Rep. Mikaela Angela B. Suansing: But again,
+
+1535
+01:25:39,320 --> 01:25:42,960
+Rep. Mikaela Angela B. Suansing: rest assured, we all here are in support of DOST.
+
+1536
+01:25:42,960 --> 01:25:47,320
+Rep. Mikaela Angela B. Suansing: You've been doing so much good work
+
+1537
+01:25:47,320 --> 01:25:53,760
+Rep. Mikaela Angela B. Suansing: for our country and our respective localities and districts so we're very very grateful for all the
+
+1538
+01:25:53,760 --> 01:26:01,120
+Rep. Mikaela Angela B. Suansing: great work that the ost is doing and we would like to reciprocate that and thank that by also helping
+
+1539
+01:26:01,719 --> 01:26:07,360
+Rep. Mikaela Angela B. Suansing: you and enable you to have the resources you need to be able to perform your mandate better so
+
+1540
+01:26:07,360 --> 01:26:14,669
+Rep. Mikaela Angela B. Suansing: well you have partners here who would help advocate for the ost so that's it
+
+1541
+01:26:15,000 --> 01:26:20,220
+Rep. Mikaela Angela B. Suansing: po, kung we support na 'yon.
+
+1542
+01:26:22,920 --> 01:26:26,917
+Rep. Mikaela Angela B. Suansing: Ayan po. SDS Dan po would like to add.
+
+1543
+01:26:26,917 --> 01:26:37,639
+Rep. Dan S. Fernandez: No, this is just to add support to DOST. Iyong na-mention kanina na we should give really flexibility to
+
+1544
+01:26:37,639 --> 01:26:48,840
+Rep. Dan S. Fernandez: DOST kasi wala naman kayong record of misuse of funds. Even iyong mga safeguard,
+
+1545
+01:26:48,840 --> 01:26:57,040
+Rep. Dan S. Fernandez: hindi iyon importante. Iyong flexibility, because performing department ito, and nakita naman ninyo in terms of disaster,
+
+1546
+01:26:57,040 --> 01:27:06,040
+Rep. Dan S. Fernandez: very reliable. So give the flexibility. Iyong safeguard parang hindi nga kailangan ito ng DOST kasi performing agency ito.
+
+1547
+01:27:06,040 --> 01:27:06,438
+Rep. Dan S. Fernandez: Iyon lang.
+
+1548
+01:27:06,758 --> 01:27:17,639
+Rep. Mikaela Angela B. Suansing: Totoo naman po iyon. Actually po, what struck me in your presentation, in your PowerPoint presentation, was
+
+1549
+01:27:17,639 --> 01:27:23,639
+Rep. Mikaela Angela B. Suansing: 98% of the slides were all pertaining to accomplishments, iyong programs, projects.
+
+1550
+01:27:23,639 --> 01:27:27,360
+Rep. Mikaela Angela B. Suansing: The three slides lang iyong tungkol sa numbers and sa budget.
+
+1551
+01:27:27,360 --> 01:27:33,159
+Rep. Mikaela Angela B. Suansing: So it really goes to show na performing talaga iyong agency.
+
+1552
+01:27:33,159 --> 01:27:42,760
+Rep. Mikaela Angela B. Suansing: And again, siguro para na po akong sirang plaka, I'm a product of DOST, Philippine Science High School System.
+
+1553
+01:27:42,760 --> 01:27:55,800
+Rep. Mikaela Angela B. Suansing: So I owe it to PISAY and to DOST na all my love for—love for numbers, and the analytical—the analytical skills po were all because of that.
+
+1554
+01:27:55,800 --> 01:28:07,560
+Rep. Mikaela Angela B. Suansing: So when I hear about the scholars and the grants and the—and the stipends, parang ako, ah, okay, at one point in my life talagang nagbenepisyo ako doon sa stipends namin sa PISAY.
+
+1555
+01:28:07,560 --> 01:28:12,159
+Rep. Mikaela Angela B. Suansing: which at the time was ₱500 per month.
+
+1556
+01:28:12,159 --> 01:28:15,320
+Rep. Mikaela Angela B. Suansing: Pero ngayon, magkano na po? Four or five na, di ba?
+
+1557
+01:28:15,320 --> 01:28:19,840
+Rep. Mikaela Angela B. Suansing: ₱2,000 na po iyong minimum. At that time, ₱500 per month po kami noon.
+
+1558
+01:28:19,840 --> 01:28:23,600
+Rep. Mikaela Angela B. Suansing: Pero laking bagay po noon talaga sa amin.
+
+1559
+01:28:23,600 --> 01:28:32,719
+Rep. Mikaela Angela B. Suansing: So again, I would like to commend DOST and please know you have partners who will advocate for your budget.
+
+1560
+01:28:32,719 --> 01:28:34,171
+Rep. Mikaela Angela B. Suansing: Thank you. Thank you very much po.
+
+1561
+01:28:35,840 --> 01:28:38,880
+Rep. Nicanor M. Briones: Uh, Madam Chairperson, Mr. Chair,
+
+1562
+01:28:38,880 --> 01:28:39,719
+Rep. Nicanor M. Briones: I move that
+
+1563
+01:28:39,719 --> 01:28:45,679
+Rep. Nicanor M. Briones: we terminate the budget briefing of the Department of Science and Technology and its attached agencies.
+
+1564
+01:28:45,679 --> 01:28:46,135
+Rep. Nicanor M. Briones: I so move.
+
+1565
+01:28:47,560 --> 01:28:48,025
+Rep. Amben S. Amante: Any second?
+
+1566
+01:28:49,719 --> 01:28:51,920
+Rep. Amben S. Amante: It has been moved and seconded.
+
+1567
+01:28:51,920 --> 01:28:52,970
+Rep. Amben S. Amante: The motion is carried.
+
+1568
+01:29:01,280 --> 01:29:01,829
+Rep. Amben S. Amante: Ah, wait lang.
+
+1569
+01:29:03,040 --> 01:29:04,719
+Rep. Mikaela Angela B. Suansing: One more motion pa po.
+
+1570
+01:29:04,719 --> 01:29:08,750
+Rep. Mikaela Angela B. Suansing: Sorry, hindi tayo makakauwi nang wala 'tong other motion.
+
+1571
+01:29:08,760 --> 01:29:16,840
+Rep. Amben S. Amante: Thank you, Your Honors, and to our—and to our colleagues from the Department of Science and Technology for your valuable participation
+
+1572
+01:29:16,840 --> 01:29:18,360
+Rep. Amben S. Amante: in today's proceedings.
+
+1573
+01:29:18,360 --> 01:29:23,409
+Rep. Amben S. Amante: We, we likewise thank to the members of the Committee for their active participation.
+
+1574
+01:29:34,080 --> 01:29:42,520
+Rep. Nicanor M. Briones: Ah, Mr. Chair, uh, I move that we suspend the Committee proceedings and resume tomorrow, August 25, 2026, 9 a.m.
+
+1575
+01:29:42,520 --> 01:29:43,021
+Rep. Nicanor M. Briones: I so move.
+
+1576
+01:29:45,320 --> 01:29:48,320
+Rep. Amben S. Amante: It has been moved and duly seconded.
+
+1577
+01:29:48,320 --> 01:29:55,947
+Rep. Amben S. Amante: The Committee proceedings are hereby suspended and will resume tomorrow, August 25, 2026, at 9 o'clock in the morning.
+

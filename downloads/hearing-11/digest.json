@@ -1,0 +1,1948 @@
+{
+  "hearing": {
+    "hearing_id": 11,
+    "title": "House Committee on Appropriations: DHSUD - August 25, 2026",
+    "hearing_date": "2026-08-25",
+    "official_url": "https://www.youtube.com/watch?v=b-dpNiLA3oI"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h11/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "FY2027 NEP and requests",
+      "text": "DHSUD and the shelter agencies sought funding for housing programs and project completion beyond the FY 2027 NEP. Members supported increases, while DBM cited corporate income, prior allotments and incomplete utilization; no increase was approved.",
+      "citations": []
+    },
+    {
+      "label": "Housing people can use",
+      "text": "Questions centered on access for low-income households, the gap between completed inventory and loan takeout, vacant or flood-prone relocation sites, missing amenities and livelihoods, and water-service arrears. Officials described expanded rental, transitional and community mortgage options alongside 4PH financing.",
+      "citations": []
+    },
+    {
+      "label": "Disaster assistance and unresolved cases",
+      "text": "Members challenged exhausted funds and delayed releases for fire and disaster victims. Officials described prospective releases, while requests on estate-management funding, legal help for private land disputes and local dispute resolution remained unanswered or lacked a mechanism.",
+      "citations": []
+    },
+    {
+      "label": "Commitments to follow",
+      "text": "DHSUD undertook to provide proclamation status updates and an employee housing survey, coordinate with evicted families, and use remaining interest-subsidy and ISSP funds before year-end. Committee Chair Rep. Mikaela Angela B. Suansing requested ranked budget amendments within the week, including options for partial funding.",
+      "citations": []
+    },
+    {
+      "label": "Outcome",
+      "text": "The briefing was terminated after Deputy Speaker Jose C. Alvarez moved and Committee Chair Rep. Mikaela Angela B. Suansing seconded. The closing motions did not approve the budget or the requested increases; committee proceedings were then suspended for resumption on August 26 at 9 a.m.",
+      "citations": []
+    }
+  ],
+  "method_note": "Figures, assessments and commitments summarize the reviewed hearing record. A promised release, proposed project or requested appropriation is not a completed action. Follow the timestamps to check the exchange.",
+  "sections": [
+    {
+      "key": "agency-presentation",
+      "label": "Agency presentation",
+      "items": [
+        {
+          "label": "FY 2027 housing budget and response to housing need",
+          "text": "The FY 2027 NEP allocated PHP 5.498 billion to DHSUD and key shelter agencies against an approximately PHP 60 billion aggregate original DBM submission. Secretary Jose Ramon P. Aliling said the PSA's current estimate is 3.7 million housing needs by 2028, rather than the previously cited 6.9 million. He said the estimate includes homes that need repair, multi-family households, and households expected to form, so new construction alone is not the answer. DHSUD's proposed response combines the Community Mortgage Program (CMP), expanded SHFC support for repairs, site development and utilities, Pag-IBIG home-improvement loans, 4PH, and private-sector production.",
+          "citations": [
+            {
+              "stable_id": "asr-000242",
+              "start_seconds": 1185.32,
+              "clock": "00:19:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000242"
+            },
+            {
+              "stable_id": "asr-000245",
+              "start_seconds": 1209.1,
+              "clock": "00:20:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000245"
+            },
+            {
+              "stable_id": "asr-000115",
+              "start_seconds": 544.0,
+              "clock": "00:09:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000115"
+            },
+            {
+              "stable_id": "asr-000159",
+              "start_seconds": 765.32,
+              "clock": "00:12:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000159"
+            }
+          ]
+        },
+        {
+          "label": "Licensing and homebuyer complaints",
+          "text": "Aliling said DHSUD had cleared overdue regulatory applications for 10 consecutive weeks, acting on each within 15 days through approval, denial, or a notice of deficiencies. Applicants given deficiencies have 90 days to comply and may seek a temporary license to sell while doing so. He also said the department had addressed the 3,000-case homebuyer-complaint backlog it inherited and would continue mass conciliations as new complaints are filed.",
+          "citations": [
+            {
+              "stable_id": "asr-000163",
+              "start_seconds": 794.94,
+              "clock": "00:13:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000163"
+            },
+            {
+              "stable_id": "asr-000186",
+              "start_seconds": 929.5,
+              "clock": "00:15:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000186"
+            }
+          ]
+        },
+        {
+          "label": "2027 budget gap across the housing system",
+          "text": "The combined FY 2027 NEP was PHP 579 million below the FY 2026 GAA. DHSUD coordinates housing policy, regulation, production and finance with its attached agencies. DHSUD Senior Undersecretary Henry L. Yap cited P2.492 billion allocated to DHSUD against a P4.962 billion request; NHA's P2.274 billion allocation against P44.732 billion requested; and SHFC's P166 million allocation against P4.666 billion requested. He also cited HSAC's P566 million allocation against P890 million proposed, and NHMFC's P450,000 allocation against a P4.750 billion request for receivables purchases and securitization. Pag-IBIG sought no budget appropriation but was presented as a financing partner, with rates of 3% for socialized housing, 4.5% for economic housing, and 5.75% for open housing up to P10 million.",
+          "citations": [
+            {
+              "stable_id": "asr-000242",
+              "start_seconds": 1185.32,
+              "clock": "00:19:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000242"
+            },
+            {
+              "stable_id": "asr-000243",
+              "start_seconds": 1193.58,
+              "clock": "00:19:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000243"
+            },
+            {
+              "stable_id": "asr-000247",
+              "start_seconds": 1221.92,
+              "clock": "00:20:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000247"
+            },
+            {
+              "stable_id": "asr-000251",
+              "start_seconds": 1244.08,
+              "clock": "00:20:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000251"
+            },
+            {
+              "stable_id": "asr-000258",
+              "start_seconds": 1279.46,
+              "clock": "00:21:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000258"
+            },
+            {
+              "stable_id": "asr-000264",
+              "start_seconds": 1309.78,
+              "clock": "00:21:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000264"
+            },
+            {
+              "stable_id": "asr-000271",
+              "start_seconds": 1343.76,
+              "clock": "00:22:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000271"
+            },
+            {
+              "stable_id": "asr-000287",
+              "start_seconds": 1416.6,
+              "clock": "00:23:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000287"
+            },
+            {
+              "stable_id": "asr-000249",
+              "start_seconds": 1233.8,
+              "clock": "00:20:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000249"
+            },
+            {
+              "stable_id": "asr-000252",
+              "start_seconds": 1249.76,
+              "clock": "00:20:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000252"
+            },
+            {
+              "stable_id": "asr-000259",
+              "start_seconds": 1285.72,
+              "clock": "00:21:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000259"
+            },
+            {
+              "stable_id": "asr-000265",
+              "start_seconds": 1316.43,
+              "clock": "00:21:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000265"
+            },
+            {
+              "stable_id": "asr-000274",
+              "start_seconds": 1356.74,
+              "clock": "00:22:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000274"
+            },
+            {
+              "stable_id": "asr-000289",
+              "start_seconds": 1424.2,
+              "clock": "00:23:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000289"
+            }
+          ]
+        },
+        {
+          "label": "Delivery target and expanded housing options",
+          "text": "DHSUD Senior Undersecretary Henry L. Yap said the current administration had delivered 588,757 direct and indirect housing units or forms of assistance, with 544,000 still to undertake toward a 1.133-million target by the end of the administration. He stressed that these are government-program figures and are not expected by themselves to erase the 3.7-million need; private-sector production is also part of the department's approach. The presentation described an expanded 4PH menu: horizontal housing, ROPA acquisition, low-interest Pag-IBIG incentives, SHFC high-density housing, rental and transitional projects, modular disaster housing, enhanced community mortgage, and revived presidential-proclamation and non-socialized-housing pathways.",
+          "citations": [
+            {
+              "stable_id": "asr-000290",
+              "start_seconds": 1432.52,
+              "clock": "00:23:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000290"
+            },
+            {
+              "stable_id": "asr-000300",
+              "start_seconds": 1493.0,
+              "clock": "00:24:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000300"
+            }
+          ]
+        },
+        {
+          "label": "Resettlement, disaster shelter, and community programs",
+          "text": "DHSUD reported work with other agencies to update the National Resettlement Policy Framework, add emergency-shelter support, connect 4Ps graduates to 4PH, and address housing needs in resettlement areas with DepEd. It said 213 families received Certificates of Entitlement under revitalized presidential proclamations. Through the Integrated Disaster Shelter Assistance Program in 2025, it reported assistance for about 16,700 partially damaged and 6,550 totally damaged houses, using about P365 million, which it said had all been spent by midyear. The department also reported a drive against professional squatters and syndicates, including 39 cases being processed.",
+          "citations": [
+            {
+              "stable_id": "asr-000324",
+              "start_seconds": 1608.3,
+              "clock": "00:26:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000324"
+            },
+            {
+              "stable_id": "asr-000335",
+              "start_seconds": 1651.46,
+              "clock": "00:27:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000335"
+            },
+            {
+              "stable_id": "asr-000340",
+              "start_seconds": 1669.14,
+              "clock": "00:27:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000340"
+            },
+            {
+              "stable_id": "asr-000341",
+              "start_seconds": 1676.24,
+              "clock": "00:27:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000341"
+            },
+            {
+              "stable_id": "asr-000342",
+              "start_seconds": 1680.88,
+              "clock": "00:28:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000342"
+            }
+          ]
+        },
+        {
+          "label": "Regulation, planning, and digital delivery",
+          "text": "The presentation reported 2,705 neighborhood associations, 23,698 regular homeowners associations, 238 federations, and 35 confederations registered through its community-development program. It also reported issuing 491 licenses to sell in the previous year—418 residential and 73 non-residential—and said a 15-agency permitting circular was expected to reduce overall processing time by up to 50%. It also described revised socialized-housing price ceilings and streamlined tax-exemption requirements. On planning, it said 63.5% of LGUs, excluding BARMM, had risk-informed plans, while PlanSmart and AutoCAM are intended to shorten plan review, digitize risk-informed planning, and monitor land-use and zoning compliance through remote sensing, GIS, and machine learning.",
+          "citations": [
+            {
+              "stable_id": "asr-000350",
+              "start_seconds": 1711.96,
+              "clock": "00:28:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000350"
+            },
+            {
+              "stable_id": "asr-000363",
+              "start_seconds": 1760.18,
+              "clock": "00:29:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000363"
+            },
+            {
+              "stable_id": "asr-000375",
+              "start_seconds": 1862.64,
+              "clock": "00:31:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000375"
+            }
+          ]
+        },
+        {
+          "label": "Utilization and requests for added funding",
+          "text": "Yap reported a 35% obligation rate and 74% disbursement rate for the department's current and continuing budget; excluding subsidy, he said first-half spending reached 100.4% of target. He also cited average 2021–2025 rates of 86.82% for obligations and 95.37% for disbursements, and three consecutive unmodified COA opinions for 2023 through 2025. DHSUD sought an additional P280 million for its information systems, AutoCAM rollout, Marawi Board support, an anti-illegal-real-estate-practice task force, and open green space and public parks. It also backed P47 million for HSAC personnel and vehicles, P1.623 billion for NHA housing in danger areas and areas covered by the Supreme Court mandamus, P2 billion for SHFC's enhanced CMP, and a stated P8.08 billion for NHMFC receivables purchases and its SSS obligation, saying the overall 2027 budget would broaden delivery pathways, mobilize housing finance, improve settlement quality, and reduce regulatory and community-service bottlenecks.",
+          "citations": [
+            {
+              "stable_id": "asr-000391",
+              "start_seconds": 2011.74,
+              "clock": "00:33:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000391"
+            },
+            {
+              "stable_id": "asr-000393",
+              "start_seconds": 2035.2,
+              "clock": "00:33:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000393"
+            },
+            {
+              "stable_id": "asr-000397",
+              "start_seconds": 2071.76,
+              "clock": "00:34:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000397"
+            },
+            {
+              "stable_id": "asr-000401",
+              "start_seconds": 2113.96,
+              "clock": "00:35:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000401"
+            },
+            {
+              "stable_id": "asr-000408",
+              "start_seconds": 2150.64,
+              "clock": "00:35:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000408"
+            },
+            {
+              "stable_id": "asr-000410",
+              "start_seconds": 2158.48,
+              "clock": "00:35:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000410"
+            },
+            {
+              "stable_id": "asr-000413",
+              "start_seconds": 2169.98,
+              "clock": "00:36:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000413"
+            },
+            {
+              "stable_id": "asr-000415",
+              "start_seconds": 2177.12,
+              "clock": "00:36:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000415"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-comparison",
+      "label": "NEP allocation and funding proposals",
+      "items": [
+        {
+          "label": "Original submissions and later requests",
+          "text": "The principal FY 2027 NEP-versus-original-request comparison, including agency components, appears in the presentation. DHSUD Senior Undersecretary Henry L. Yap separately listed additional program and shelter-agency funding needs for committee consideration; those additions were not approved during the briefing.",
+          "citations": [
+            {
+              "stable_id": "asr-000067",
+              "start_seconds": 374.18,
+              "clock": "00:06:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000067"
+            },
+            {
+              "stable_id": "asr-000242",
+              "start_seconds": 1185.32,
+              "clock": "00:19:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000242"
+            },
+            {
+              "stable_id": "asr-000400",
+              "start_seconds": 2105.24,
+              "clock": "00:35:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000400"
+            }
+          ]
+        },
+        {
+          "label": "Agency requests for added housing funds",
+          "text": "DHSUD presented separate additional requests of PHP 280 million for its programs, PHP 47 million for HSAC staffing and vehicles, PHP 1.623 billion for NHA integrated housing, PHP 2 billion for SHFC community mortgages, and PHP 8.08 billion for NHMFC purposes. NHA also said it had requested PHP 1 billion for emergency housing assistance and PHP 500 million for a quick response fund, both absent from its 2027 NEP allocation. These requests were presented for consideration, with no new allocation approved during the hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-000401",
+              "start_seconds": 2113.96,
+              "clock": "00:35:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000401"
+            },
+            {
+              "stable_id": "asr-000408",
+              "start_seconds": 2150.64,
+              "clock": "00:35:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000408"
+            },
+            {
+              "stable_id": "asr-000410",
+              "start_seconds": 2158.48,
+              "clock": "00:35:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000410"
+            },
+            {
+              "stable_id": "asr-000413",
+              "start_seconds": 2169.98,
+              "clock": "00:36:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000413"
+            },
+            {
+              "stable_id": "asr-000415",
+              "start_seconds": 2177.12,
+              "clock": "00:36:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000415"
+            },
+            {
+              "stable_id": "asr-002130",
+              "start_seconds": 7149.94,
+              "clock": "01:59:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002130"
+            },
+            {
+              "stable_id": "asr-002151",
+              "start_seconds": 7205.0,
+              "clock": "02:00:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002151"
+            }
+          ]
+        },
+        {
+          "label": "Members' proposals and deferred increase motion",
+          "text": "Rep. Ma. Victoria Co-Pilar moved to increase DHSUD and attached-agency budgets, and Rep. Lani Mercado-Revilla seconded. Presiding Rep. Julienne \"Jam\" L. Baronda deferred action to the proper time, including plenary. Rep. Alyssa Michaela \"Mica\" M. Gonzales supported the pending increase motion; Rep. Eulogio \"Leo\" R. Rodriguez also moved for an increase, with no second or disposition recorded. Rep. Leila M. de Lima, Rep. Roman T. Romulo, Rep. Elmer V. Catulpos and Deputy Speaker Raymond Democrito C. Mendoza also expressed support for increased funding. Rep. Rufus B. Rodriguez proposed adding PHP 1 billion for AHOP and spoke of a PHP 4 billion SHFC increase for a property purchase, then pledged a later motion to raise the requested budgets. None was voted through in this hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-001098",
+              "start_seconds": 4207.36,
+              "clock": "01:10:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001098"
+            },
+            {
+              "stable_id": "asr-001461",
+              "start_seconds": 5344.8,
+              "clock": "01:29:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001461"
+            },
+            {
+              "stable_id": "asr-001136",
+              "start_seconds": 4281.62,
+              "clock": "01:11:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001136"
+            },
+            {
+              "stable_id": "asr-001704",
+              "start_seconds": 6085.1,
+              "clock": "01:41:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001704"
+            },
+            {
+              "stable_id": "asr-002291",
+              "start_seconds": 7816.08,
+              "clock": "02:10:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002291"
+            },
+            {
+              "stable_id": "asr-002403",
+              "start_seconds": 8273.68,
+              "clock": "02:17:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002403"
+            },
+            {
+              "stable_id": "asr-002456",
+              "start_seconds": 8472.56,
+              "clock": "02:21:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002456"
+            },
+            {
+              "stable_id": "asr-002474",
+              "start_seconds": 8511.16,
+              "clock": "02:21:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002474"
+            }
+          ]
+        },
+        {
+          "label": "Priorities for possible restoration",
+          "text": "Committee Chair Rep. Mikaela Angela B. Suansing asked DHSUD to rank requests if fiscal space became available. DHSUD Secretary Jose Ramon P. Aliling put DHSUD's PHP 280 million request first, HSAC staff and vehicles second, and SHFC's Community Mortgage Program third. Suansing requested a written ranked list and a breakdown for possible partial funding; Aliling agreed. This set priorities for later amendment review, not an appropriation decision. The presentation gave HSAC's addition as PHP 47 million; Aliling later said PHP 47.5 million. Suansing also referred to PHP 4.66 billion as an additional SHFC request, distinct from the presentation's PHP 2 billion addition and PHP 4.666 billion original submission; the hearing did not reconcile those figures.",
+          "citations": [
+            {
+              "stable_id": "asr-000265",
+              "start_seconds": 1316.43,
+              "clock": "00:21:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000265"
+            },
+            {
+              "stable_id": "asr-000408",
+              "start_seconds": 2150.64,
+              "clock": "00:35:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000408"
+            },
+            {
+              "stable_id": "asr-000413",
+              "start_seconds": 2169.98,
+              "clock": "00:36:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000413"
+            },
+            {
+              "stable_id": "asr-003210",
+              "start_seconds": 13925.98,
+              "clock": "03:52:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003210"
+            },
+            {
+              "stable_id": "asr-003219",
+              "start_seconds": 13980.84,
+              "clock": "03:53:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003219"
+            },
+            {
+              "stable_id": "asr-003222",
+              "start_seconds": 13997.9,
+              "clock": "03:53:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003222"
+            },
+            {
+              "stable_id": "asr-003240",
+              "start_seconds": 14071.1,
+              "clock": "03:54:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003240"
+            },
+            {
+              "stable_id": "asr-003250",
+              "start_seconds": 14098.26,
+              "clock": "03:54:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003250"
+            },
+            {
+              "stable_id": "asr-003270",
+              "start_seconds": 14189.5,
+              "clock": "03:56:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003270"
+            },
+            {
+              "stable_id": "asr-003223",
+              "start_seconds": 14002.92,
+              "clock": "03:53:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003223"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-julienne-jam-l-baronda",
+      "label": "Rep. Julienne \"Jam\" L. Baronda",
+      "items": [
+        {
+          "label": "Housing delivery and budget accountability",
+          "text": "Rep. Julienne \"Jam\" L. Baronda framed the briefing around the gap between housing needs and delivery. She asked the committee to examine fund utilization, completed and occupied housing, delays in 4PH projects, access to land and financing, and whether the proposed 2027 budget could turn appropriations into housing that beneficiaries could actually use.",
+          "citations": [
+            {
+              "stable_id": "asr-000046",
+              "start_seconds": 263.94,
+              "clock": "00:04:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000046"
+            },
+            {
+              "stable_id": "asr-000102",
+              "start_seconds": 445.26,
+              "clock": "00:07:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000102"
+            }
+          ]
+        },
+        {
+          "label": "District housing delivery and additional resources",
+          "text": "Baronda thanked NHA and DHSUD for district projects begun in her first term and said housing nearing completion would allow 309 settlers to move, supporting work linked to a JICA flood-control study. She urged pursuing additional resources through the Senate and Executive Secretary and expressed confidence that further housing could be delivered during the remaining presidential term. She also referred to additional funds for 2027 having been obtained, without stating an amount. She then suspended the briefing while awaiting Suansing.",
+          "citations": [
+            {
+              "stable_id": "asr-003055",
+              "start_seconds": 11180.74,
+              "clock": "03:06:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003055"
+            },
+            {
+              "stable_id": "asr-003079",
+              "start_seconds": 11301.56,
+              "clock": "03:08:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003079"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-sarah-jane-i-elago",
+      "label": "Rep. Sarah Jane I. Elago",
+      "items": [
+        {
+          "label": "Access to 4PH for workers without regular income",
+          "text": "Rep. Sarah Jane I. Elago asked whether the 12-month Pag-IBIG contribution requirement, including a stated PHP 200 monthly minimum for voluntary payors, excludes the poorest, minimum-wage, and irregularly employed applicants from Expanded 4PH. DHSUD Secretary Jose Ramon P. Aliling agreed that Pag-IBIG borrowing requires membership and employment, and said 4PH had been expanded with rental housing and the community mortgage program as transitional options for people not yet ready to buy. He put average community-mortgage payments at PHP 600–800 a month and pilot rental payments below PHP 1,500 a month.",
+          "citations": [
+            {
+              "stable_id": "asr-000454",
+              "start_seconds": 2304.08,
+              "clock": "00:38:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000454"
+            },
+            {
+              "stable_id": "asr-000470",
+              "start_seconds": 2335.3,
+              "clock": "00:38:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000470"
+            },
+            {
+              "stable_id": "asr-000487",
+              "start_seconds": 2368.34,
+              "clock": "00:39:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000487"
+            },
+            {
+              "stable_id": "asr-000517",
+              "start_seconds": 2435.68,
+              "clock": "00:40:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000517"
+            },
+            {
+              "stable_id": "asr-000520",
+              "start_seconds": 2441.08,
+              "clock": "00:40:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000520"
+            }
+          ]
+        },
+        {
+          "label": "Community mortgage reach, pipeline and affordability",
+          "text": "Asked how many households had reached the alternative modalities, Elago sought a regional breakdown and next-year expansion plan for the enhanced community mortgage program. SHFC President and CEO Federico A. Laxa said that since its July relaunch the previous year, 47 projects had been approved for nearly 9,000 families; he said average processing takes 10 working days once homeowners' associations submit complete documents. He also reported 60 applications received, with 37 nearing implementation and an estimated PHP 1.6 billion needed for those 37. Elago then contrasted that with a Palayan City Township example priced at PHP 1.3 million with a PHP 4,900 monthly payment, and asked about higher subsidies. Aliling said the department reduced the socialized-housing interest rate from 6.25% to 3%, paired with a 2% subsidy so the end rate remained 1%, and described project-based graduated amortization: a PHP 4,000 level payment could begin at about PHP 2,000 in the first year and rise gradually.",
+          "citations": [
+            {
+              "stable_id": "asr-000525",
+              "start_seconds": 2450.42,
+              "clock": "00:40:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000525"
+            },
+            {
+              "stable_id": "asr-000534",
+              "start_seconds": 2472.74,
+              "clock": "00:41:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000534"
+            },
+            {
+              "stable_id": "asr-000603",
+              "start_seconds": 2617.98,
+              "clock": "00:43:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000603"
+            },
+            {
+              "stable_id": "asr-000610",
+              "start_seconds": 2636.16,
+              "clock": "00:43:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000610"
+            },
+            {
+              "stable_id": "asr-000611",
+              "start_seconds": 2638.08,
+              "clock": "00:43:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000611"
+            },
+            {
+              "stable_id": "asr-000641",
+              "start_seconds": 2697.96,
+              "clock": "00:44:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000641"
+            },
+            {
+              "stable_id": "asr-000642",
+              "start_seconds": 2711.24,
+              "clock": "00:45:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000642"
+            },
+            {
+              "stable_id": "asr-000644",
+              "start_seconds": 2738.76,
+              "clock": "00:45:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000644"
+            },
+            {
+              "stable_id": "asr-000645",
+              "start_seconds": 2752.5,
+              "clock": "00:45:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000645"
+            }
+          ]
+        },
+        {
+          "label": "4PH inventory, takeout and delivery capacity",
+          "text": "Elago questioned low reported delivery against housing targets and asked what was holding up construction and fund use. Aliling distinguished completed inventory from actual loan takeout, saying the roughly 100,000 figure was completed inventory while about 30,000 referred to approved loans. He said 2025 takeout before the program expansion was only 1,000 units, but current 4PH inventory was almost 130,000 units, covering vertical and horizontal housing. He linked faster delivery to the 3% interest program, developers entering the socialized-housing market, and matching projects to locations with transport and support facilities; he said more funding and developer confidence were still needed.",
+          "citations": [
+            {
+              "stable_id": "asr-000652",
+              "start_seconds": 2790.68,
+              "clock": "00:46:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000652"
+            },
+            {
+              "stable_id": "asr-000656",
+              "start_seconds": 2824.36,
+              "clock": "00:47:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000656"
+            }
+          ]
+        },
+        {
+          "label": "COA subsidy finding",
+          "text": "Elago asked whether DHSUD had answered the 2025 COA audit issue over PHP 66.7 million in interest and non-interest subsidy payments that COA said lacked independent validation and supporting documents. Aliling replied that DHSUD had answered it and that the case was closed; the exchange did not provide the underlying response or closure record.",
+          "citations": [
+            {
+              "stable_id": "asr-000687",
+              "start_seconds": 3016.38,
+              "clock": "00:50:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000687"
+            },
+            {
+              "stable_id": "asr-000688",
+              "start_seconds": 3022.3,
+              "clock": "00:50:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000688"
+            },
+            {
+              "stable_id": "asr-000691",
+              "start_seconds": 3038.88,
+              "clock": "00:50:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000691"
+            }
+          ]
+        },
+        {
+          "label": "Emergency shelter assistance and delayed releases",
+          "text": "Elago asked whether delays in emergency shelter support under the Integrated Disaster Shelter Assistance Program had been fixed. Aliling said DHSUD had issued process-simplification measures, but that the department had been funded only through the previous year and new funds were with NHA. NHA General Manager Joeben A. Tai said the relevant programs had not yet received a SARO from DBM, prompting Elago to request a written DBM explanation. Later, Tai corrected that IHAP had a SARO but no cash. DBM Assistant Director Lulu P. Vispo said there had been no NCA request; she said the IHAP request, treated as a congressional insertion, had been submitted to the Office of the President and had not returned, though DBM was processing 2026 congressional insertions and expected to release the request within the week. Those were stated expectations, not a confirmed release. Elago argued that emergency shelter needs sustained funding rather than reliance on congressional insertions, citing flooding, fires and heightened gender-based-violence risks for displaced families.",
+          "citations": [
+            {
+              "stable_id": "asr-000693",
+              "start_seconds": 3044.9,
+              "clock": "00:50:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000693"
+            },
+            {
+              "stable_id": "asr-000696",
+              "start_seconds": 3062.56,
+              "clock": "00:51:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000696"
+            },
+            {
+              "stable_id": "asr-000758",
+              "start_seconds": 3408.22,
+              "clock": "00:56:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000758"
+            },
+            {
+              "stable_id": "asr-000763",
+              "start_seconds": 3424.68,
+              "clock": "00:57:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000763"
+            }
+          ]
+        },
+        {
+          "label": "Relocation support, national targets and developer accountability",
+          "text": "Elago sought assistance and a status report for families displaced by fires and flooding, including possible on-site or in-city relocation in Manila's Parola Compound so residents could remain near work and schools. The response recorded in the exchange described construction materials, the NHA-held but unfunded IDSAP, and modular temporary shelters where an LGU provides land. Elago also asked where the administration stood on its 1.13 million-unit target, questioned reliance on private developers while NHA faced a large proposed budget cut, and requested the list of developers, their performance, accountability for underperformance, and the banks' interest and subsidy terms for plenary deliberations. The response recorded that the administration was more than 50% of the way to the 1.13 million target and remained confident of meeting it by the end of its term, while also saying the target would not itself close the stated 3.7 million housing need. Chair Baronda reiterated the request that NHA submit the bank and developer/contractor lists and indicate whether developers were performing.",
+          "citations": [
+            {
+              "stable_id": "asr-000714",
+              "start_seconds": 3173.24,
+              "clock": "00:52:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000714"
+            },
+            {
+              "stable_id": "asr-000722",
+              "start_seconds": 3219.54,
+              "clock": "00:53:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000722"
+            },
+            {
+              "stable_id": "asr-000786",
+              "start_seconds": 3526.46,
+              "clock": "00:58:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000786"
+            }
+          ]
+        },
+        {
+          "label": "Manila Bay resettlement, vacancies and livelihoods",
+          "text": "Elago queried the reported 26,041 completed Manila Bay resettlement units as of June 2026 and 8,477 vacancies. Tai said most units were occupied but roughly 8,000 vacant units were in Rizal, where a provincial resolution restricted relocation from outside the province. Elago urged on-site or in-city relocation, or sites near employment. Tai identified planned relocation in Naic and Bulacan as well as in-city or near-city projects, and said NHA coordinated with DTI, DA and TESDA on livelihood training and support. Against an approximately P44 billion NHA request, Tai cited only about P2.2 billion in the NEP. Elago supported more funding tied to accessible locations and livelihoods.",
+          "citations": [
+            {
+              "stable_id": "asr-002690",
+              "start_seconds": 10194.5,
+              "clock": "02:49:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002690"
+            },
+            {
+              "stable_id": "asr-002708",
+              "start_seconds": 10230.46,
+              "clock": "02:50:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002708"
+            },
+            {
+              "stable_id": "asr-002721",
+              "start_seconds": 10254.16,
+              "clock": "02:50:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002721"
+            },
+            {
+              "stable_id": "asr-002786",
+              "start_seconds": 10385.9,
+              "clock": "02:53:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002786"
+            },
+            {
+              "stable_id": "asr-002799",
+              "start_seconds": 10414.78,
+              "clock": "02:53:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002799"
+            },
+            {
+              "stable_id": "asr-002802",
+              "start_seconds": 10420.66,
+              "clock": "02:53:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002802"
+            }
+          ]
+        },
+        {
+          "label": "Water service, shared meters and arrears",
+          "text": "Elago asked how NHA ensured reliable water and proper metering. Tai said sites obtained LGU certification for utility connections, but shared water meters in low-rise buildings created collection problems when some households did not pay, leaving mounting association arrears. NHA needed LGU and homeowners-association coordination to settle matters with water utilities. Elago requested a report on the response and said she would refer constituent cases; Tai agreed.",
+          "citations": [
+            {
+              "stable_id": "asr-002833",
+              "start_seconds": 10481.38,
+              "clock": "02:54:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002833"
+            },
+            {
+              "stable_id": "asr-002849",
+              "start_seconds": 10513.04,
+              "clock": "02:55:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002849"
+            }
+          ]
+        },
+        {
+          "label": "Escrow compliance and the moratorium",
+          "text": "Elago asked whether DHSUD had complied with COA observations on recomputing incentivized balanced-housing contributions. Aliling said COA sought retroactive implementation of the DOJ opinion, while the Office of the President had approved a one-year moratorium running to February 2027 to allow compliance and amount validation. He said the rule was already being applied prospectively. Asked about spending the escrow fund within the administration, he tied disbursement to construction progress rather than confirming a fixed completion date. Elago reiterated on-site resettlement as the preferred approach.",
+          "citations": [
+            {
+              "stable_id": "asr-002890",
+              "start_seconds": 10595.56,
+              "clock": "02:56:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002890"
+            },
+            {
+              "stable_id": "asr-002904",
+              "start_seconds": 10623.5,
+              "clock": "02:57:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002904"
+            },
+            {
+              "stable_id": "asr-002950",
+              "start_seconds": 10720.0,
+              "clock": "02:58:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002950"
+            }
+          ]
+        },
+        {
+          "label": "Help for evicted families and low-income housing",
+          "text": "Citing evicted families in Taguig, Elago said P20,000-P40,000 assistance could not secure a lasting home and asked where indigent families could turn. Aliling said such families were priorities for rental housing, with around 5,000 units started, and that SHFC off-site CMP could also apply. When Elago sought the nearest option and a dialogue, he committed to coordinate directly with the community to identify an appropriate program. Elago emphasized risks to children and pregnant residents in temporary shelters. She also sought higher SHFC funding and linked secure housing to children remaining in education.",
+          "citations": [
+            {
+              "stable_id": "asr-002962",
+              "start_seconds": 10745.88,
+              "clock": "02:59:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002962"
+            },
+            {
+              "stable_id": "asr-002989",
+              "start_seconds": 10817.92,
+              "clock": "03:00:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002989"
+            },
+            {
+              "stable_id": "asr-002998",
+              "start_seconds": 10856.56,
+              "clock": "03:00:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002998"
+            },
+            {
+              "stable_id": "asr-003009",
+              "start_seconds": 10916.12,
+              "clock": "03:01:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-ma-victoria-co-pilar",
+      "label": "Rep. Ma. Victoria Co-Pilar",
+      "items": [
+        {
+          "label": "NEP housing allocations and SHFC's funding gap",
+          "text": "Rep. Ma. Victoria Co-Pilar asked DBM how it set the NEP allocations for DHSUD and its attached agencies. She contrasted SHFC's ₱166 million NEP allocation for 64 priority projects with its roughly ₱4.6 billion request, and NHA's ₱2.274 billion NEP allocation with its ₱44.732 billion request for relocation needs. DBM Assistant Director Lulu P. Vispo said SHFC, NHA and the National Home Mortgage Finance Corporation operate as earning corporations, so DBM considered their operating budgets and projected 2027 income; for SHFC she cited about ₱1.745 billion. SHFC President and CEO Federico A. Laxa replied that its annual personal-services and maintenance-and-operating costs alone approach ₱1 billion, and said its 2025 ₱125 million national-government receipt was offset by ₱109 million in dividends, leaving what Laxa stated was a ₱12 million net receipt; the stated ₱125 million less ₱109 million instead equals ₱16 million, and the hearing did not reconcile the difference. Vispo said a GOCC whose projects cannot be fully subsidized could phase implementation. Co-Pilar rejected the assumption that projected corporate income would necessarily cover priority housing projects.",
+          "citations": [
+            {
+              "stable_id": "asr-000839",
+              "start_seconds": 3684.72,
+              "clock": "01:01:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000839"
+            },
+            {
+              "stable_id": "asr-000888",
+              "start_seconds": 3780.94,
+              "clock": "01:03:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000888"
+            },
+            {
+              "stable_id": "asr-000908",
+              "start_seconds": 3819.1,
+              "clock": "01:03:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000908"
+            },
+            {
+              "stable_id": "asr-000915",
+              "start_seconds": 3833.34,
+              "clock": "01:03:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000915"
+            },
+            {
+              "stable_id": "asr-000922",
+              "start_seconds": 3847.0,
+              "clock": "01:04:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000922"
+            },
+            {
+              "stable_id": "asr-000929",
+              "start_seconds": 3862.2799999999997,
+              "clock": "01:04:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000929"
+            },
+            {
+              "stable_id": "asr-000944",
+              "start_seconds": 3889.68,
+              "clock": "01:04:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000944"
+            },
+            {
+              "stable_id": "asr-000966",
+              "start_seconds": 3935.52,
+              "clock": "01:05:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000966"
+            },
+            {
+              "stable_id": "asr-000916",
+              "start_seconds": 3836.221,
+              "clock": "01:03:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000916"
+            },
+            {
+              "stable_id": "asr-000973",
+              "start_seconds": 3948.26,
+              "clock": "01:05:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000973"
+            },
+            {
+              "stable_id": "asr-000978",
+              "start_seconds": 3958.44,
+              "clock": "01:05:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000978"
+            },
+            {
+              "stable_id": "asr-000982",
+              "start_seconds": 3966.1,
+              "clock": "01:06:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000982"
+            },
+            {
+              "stable_id": "asr-000984",
+              "start_seconds": 3970.26,
+              "clock": "01:06:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-000984"
+            }
+          ]
+        },
+        {
+          "label": "NHA obligations and prior-year allotments",
+          "text": "On NHA, Vispo said it had a 98% obligation rate, while some requests had not been recommended because complete documentation, detailed computations and assumptions were lacking, including for compensation claims for Marawi siege victims. She said NHA had ₱2.896 billion in unobligated allotments from 2011 through 2024 that it could use for projects with DBM authority. NHA General Manager Joeben A. Tai said the funds were unobligated or unspent but tied to old line items, and raised the possibility that changing those lines could require legislation. Vispo clarified that DBM's request concerned authority to use unutilized SARO already with NHA, rather than a new ₱2 billion allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-001003",
+              "start_seconds": 4011.26,
+              "clock": "01:06:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001003"
+            },
+            {
+              "stable_id": "asr-001010",
+              "start_seconds": 4031.34,
+              "clock": "01:07:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001010"
+            },
+            {
+              "stable_id": "asr-001030",
+              "start_seconds": 4071.12,
+              "clock": "01:07:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001030"
+            },
+            {
+              "stable_id": "asr-001047",
+              "start_seconds": 4104.86,
+              "clock": "01:08:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001047"
+            },
+            {
+              "stable_id": "asr-001073",
+              "start_seconds": 4157.92,
+              "clock": "01:09:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001073"
+            }
+          ]
+        },
+        {
+          "label": "Motion to increase the housing budget",
+          "text": "Co-Pilar moved to increase the budget for DHSUD, SHFC and the other attached agencies; Rep. Lani Mercado-Revilla seconded. Chair Julienne \"Jam\" L. Baronda said the motion would be taken up later, at the proper time in plenary. Baronda also asked NHA to write DBM to request release of unobligated funds, and Tai said NHA would submit accordingly. Co-Pilar then reiterated that the budget-increase motion remained pending.",
+          "citations": [
+            {
+              "stable_id": "asr-001098",
+              "start_seconds": 4207.36,
+              "clock": "01:10:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001098"
+            },
+            {
+              "stable_id": "asr-001104",
+              "start_seconds": 4218.4,
+              "clock": "01:10:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001104"
+            },
+            {
+              "stable_id": "asr-001121",
+              "start_seconds": 4252.36,
+              "clock": "01:10:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001121"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-leila-m-de-lima",
+      "label": "Rep. Leila M. de Lima",
+      "items": [
+        {
+          "label": "Delayed proclamations, resurveying, and a consolidated process",
+          "text": "Rep. Leila M. de Lima supported increasing the DHSUD and attached-agency budgets and requested project-by-project updates on long-delayed presidential proclamations: completion timelines, 2027 budget coverage and reasons for excluding unfunded areas. She cited delays in titles and land-allocation certificates, basic services and land acquisition. Aliling promised a status report on her list. After Baronda highlighted the need to resurvey old proclaimed areas, he said processing had resumed in June 2025 following a three-year suspension and that DHSUD received P3 million in the NEP against a P151 million request for work under its administration. Yap explained that the administering agency depends on each proclamation. DHSUD Undersecretary Eduardo P. Robles Jr. said DHSUD was working with the Executive Secretary and Cabinet Secretary offices on a consolidated proclamation; Aliling promised follow-up. The consolidation remained work in progress.",
+          "citations": [
+            {
+              "stable_id": "asr-001170",
+              "start_seconds": 4354.2,
+              "clock": "01:12:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001170"
+            },
+            {
+              "stable_id": "asr-001222",
+              "start_seconds": 4515.14,
+              "clock": "01:15:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001222"
+            },
+            {
+              "stable_id": "asr-001233",
+              "start_seconds": 4574.86,
+              "clock": "01:16:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001233"
+            },
+            {
+              "stable_id": "asr-001247",
+              "start_seconds": 4621.84,
+              "clock": "01:17:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001247"
+            },
+            {
+              "stable_id": "asr-001250",
+              "start_seconds": 4641.78,
+              "clock": "01:17:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001250"
+            },
+            {
+              "stable_id": "asr-001265",
+              "start_seconds": 4718.23,
+              "clock": "01:18:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001265"
+            }
+          ]
+        },
+        {
+          "label": "Manggahan repairs and estate-management funds",
+          "text": "De Lima reported that only 10 of the 12 Manggahan Residences buildings in Pasig were occupied and that residents had raised construction-quality and repair concerns. She asked whether NHA had estate-management funds for vertical housing and how homeowners associations could access them. No answer to those funding and access questions was recorded in this round.",
+          "citations": [
+            {
+              "stable_id": "asr-001208",
+              "start_seconds": 4465.72,
+              "clock": "01:14:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001208"
+            }
+          ]
+        },
+        {
+          "label": "No DHSUD mechanism for private land claims",
+          "text": "De Lima asked about legal assistance for informal-settler families facing private claims, eviction and demolition on land proclaimed for them decades earlier. DHSUD Undersecretary Marisol D.L. Anenias said DHSUD had no mechanism for these private land disputes; its mechanisms addressed professional squatters, squatting syndicates and illegal real-estate practices. De Lima noted the difficulty of cases already pending in court. Anenias described action against syndicates as an exercise of executive police power.",
+          "citations": [
+            {
+              "stable_id": "asr-001289",
+              "start_seconds": 4775.7,
+              "clock": "01:19:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001289"
+            },
+            {
+              "stable_id": "asr-001299-split-1",
+              "start_seconds": 4840.18,
+              "clock": "01:20:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001299-split-1"
+            }
+          ]
+        },
+        {
+          "label": "CMP access for coastal communities",
+          "text": "De Lima asked how many Community Mortgage Program projects, which she said allow informal-settler families to collectively own land, were in coastal areas for fisherfolk communities. She cited 36 approved projects covering 6,000 potential beneficiaries and said the sector appeared underserved. SHFC President and CEO Federico A. Laxa said SHFC had approved 47 projects benefiting almost 9,000 families, but would check its records to identify those already approved along the shore. He said there were also 60 pending applications in the pipeline, subject to available funds.",
+          "citations": [
+            {
+              "stable_id": "asr-001313",
+              "start_seconds": 4880.74,
+              "clock": "01:21:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001313"
+            },
+            {
+              "stable_id": "asr-001323",
+              "start_seconds": 4923.4,
+              "clock": "01:22:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001323"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-lani-mercado-revilla",
+      "label": "Rep. Lani Mercado-Revilla",
+      "items": [
+        {
+          "label": "Manila Bay resettlement funding and NHA production",
+          "text": "Rep. Lani Mercado-Revilla questioned whether the National Housing Authority's ₱370 million NEP allocation for locally funded projects could meet resettlement needs of informal settler families affected by the Supreme Court's Manila Bay mandamus. She asked about the cost of a 60-unit building, noted a backlog of more than 2,000 units in her district, and pressed NHA on transfers into its existing projects. NHA General Manager Joeben A. Tai estimated ₱70 million to ₱90 million per building, or perhaps four buildings from the allocation. He described transfers as continuing but also said none had been transferred at that moment because production lagged resettlement needs; its multiyear projects had received more than ₱3 billion in the previous three GAAs, but the year's NEP was cut. Without restoration to previous levels, he said, NHA could continue ongoing projects but could not accommodate or fund new ones. Mercado-Revilla said the funding constraint made it difficult to support informal-settler families and comply with the Manila Bay mandamus, and called for support for NHA.",
+          "citations": [
+            {
+              "stable_id": "asr-001346",
+              "start_seconds": 4991.0,
+              "clock": "01:23:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001346"
+            },
+            {
+              "stable_id": "asr-001353",
+              "start_seconds": 5028.84,
+              "clock": "01:23:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001353"
+            },
+            {
+              "stable_id": "asr-001366",
+              "start_seconds": 5096.04,
+              "clock": "01:24:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001366"
+            },
+            {
+              "stable_id": "asr-001376",
+              "start_seconds": 5118.38,
+              "clock": "01:25:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001376"
+            }
+          ]
+        },
+        {
+          "label": "EHAP assistance shortfall and a promised release",
+          "text": "Returning to the Emergency Housing Assistance Program (EHAP), Mercado-Revilla said the program had run out of funds while local governments still relied on it. In her district, she said, around 117 families who should receive ₱30,000 each remained unfunded, and she asked how NHA could cover the shortfall and how DBM could assist. DHSUD Secretary Jose Ramon P. Aliling said the Office of the President had verbally informed them that funds could be released within the next two weeks. Mercado-Revilla welcomed that as good news, but the statement was a prospective release rather than confirmation that funds had already been issued.",
+          "citations": [
+            {
+              "stable_id": "asr-001387",
+              "start_seconds": 5153.64,
+              "clock": "01:25:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001387"
+            },
+            {
+              "stable_id": "asr-001394",
+              "start_seconds": 5180.72,
+              "clock": "01:26:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001394"
+            },
+            {
+              "stable_id": "asr-001403",
+              "start_seconds": 5204.5,
+              "clock": "01:26:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001403"
+            }
+          ]
+        },
+        {
+          "label": "Ciudad de Strike parking access and future project design",
+          "text": "Mercado-Revilla asked the Social Housing Finance Corporation (SHFC) to consider support for existing projects without parking facilities, citing Ciudad de Strike in her district. She said its homeowners association had a site but could not finance a parking building estimated at ₱60 million to ₱80 million; residents, including those relocated from Las Piñas, Parañaque and Bacoor, depended on roads that she said were difficult to use in emergencies. She described roughly 60 units per building and more than 40 buildings across phases 1 and 2, and urged SHFC to account for such facilities in future township developments. SHFC President and CEO Federico A. Laxa said Ciudad de Strike predated 2022, but SHFC would revisit its plans and study how it could accommodate the request. For newly constructed projects, he said, SHFC already provides adequate open space.",
+          "citations": [
+            {
+              "stable_id": "asr-001414",
+              "start_seconds": 5232.12,
+              "clock": "01:27:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001414"
+            },
+            {
+              "stable_id": "asr-001425",
+              "start_seconds": 5264.98,
+              "clock": "01:27:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001425"
+            },
+            {
+              "stable_id": "asr-001430",
+              "start_seconds": 5278.06,
+              "clock": "01:27:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001430"
+            },
+            {
+              "stable_id": "asr-001454",
+              "start_seconds": 5331.86,
+              "clock": "01:28:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001454"
+            }
+          ]
+        },
+        {
+          "label": "Support for a housing-budget increase",
+          "text": "As she closed, Mercado-Revilla seconded Rep. Ma. Victoria Co-Pilar's motion to add funding for the Department of Housing to support Bagong Pilipinas housing programs. Chair Julienne \"Jam\" L. Baronda thanked her and said the committee would act on the motion at the proper time; the exchange did not record its adoption or a specific increase.",
+          "citations": [
+            {
+              "stable_id": "asr-001461",
+              "start_seconds": 5344.8,
+              "clock": "01:29:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001461"
+            },
+            {
+              "stable_id": "asr-001471",
+              "start_seconds": 5364.86,
+              "clock": "01:29:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001471"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-sergio-c-dagooc",
+      "label": "Rep. Sergio C. Dagooc",
+      "items": [
+        {
+          "label": "Housing-agency employees without homes",
+          "text": "Rep. Sergio C. Dagooc questioned housing agencies about employees who still lacked their own homes. He cited survey results showing homeownership of 36.1% among 100 DHSUD respondents and 49% among 197 SHFC respondents, with 30% of the latter renting and 21% occupying housing with or without the owner's consent. Aliling confirmed the figures and said government employees and OFWs receive priority in applying for 4PH through Pag-IBIG, but employees could not be compelled to purchase homes; some prefer renting. Dagooc challenged that explanation and asked for evidence of employees' actual reasons.",
+          "citations": [
+            {
+              "stable_id": "asr-001483",
+              "start_seconds": 5395.58,
+              "clock": "01:29:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001483"
+            },
+            {
+              "stable_id": "asr-001501",
+              "start_seconds": 5543.3,
+              "clock": "01:32:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001501"
+            }
+          ]
+        },
+        {
+          "label": "Employee survey and outstanding agency submission",
+          "text": "Dagooc requested written statements explaining why employees had not availed of housing and warned that he would raise the issue during plenary budget deliberations if agencies did not submit them. Aliling committed to conduct and submit a survey that included employees' reasons for not purchasing a home. Dagooc also criticized an outstanding agency submission after two years; Baronda gave the general manager a further chance to submit. The exchange did not establish a new employee housing allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-001520",
+              "start_seconds": 5705.1,
+              "clock": "01:35:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001520"
+            },
+            {
+              "stable_id": "asr-001556",
+              "start_seconds": 5785.76,
+              "clock": "01:36:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001556"
+            },
+            {
+              "stable_id": "asr-001566",
+              "start_seconds": 5805.12,
+              "clock": "01:36:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001566"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-alyssa-michaela-mica-m-gonzales",
+      "label": "Rep. Alyssa Michaela \"Mica\" M. Gonzales",
+      "items": [
+        {
+          "label": "Flooded resettlement sites in Bacolor",
+          "text": "Rep. Alyssa Michaela \"Mica\" M. Gonzales sought help for repeatedly flooded resettlement communities in Tinajero, Bacolor, saying water could not drain from the area and recent flooding had reached even an elevated evacuation court. NHA General Manager Joeben A. Tai said he believed four NHA sites were submerged along with the town. NHA was exploring condonation or other financial assistance, while Tai reported that DPWH planned to repair a damaged dike within the year. These were measures under consideration and a reported repair plan; the exchange did not establish that financial assistance had been approved. Gonzales requested a meeting among NHA, the LGU and her office, which Baronda reiterated; Tai said NHA remained in contact with her office.",
+          "citations": [
+            {
+              "stable_id": "asr-001587",
+              "start_seconds": 5850.98,
+              "clock": "01:37:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001587"
+            },
+            {
+              "stable_id": "asr-001656",
+              "start_seconds": 5988.14,
+              "clock": "01:39:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001656"
+            },
+            {
+              "stable_id": "asr-001692",
+              "start_seconds": 6062.8,
+              "clock": "01:41:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001692"
+            }
+          ]
+        },
+        {
+          "label": "Support for additional housing funds",
+          "text": "Gonzales supported Rep. Ma. Victoria Co-Pilar's motion to increase the budget of DHSUD and its attached agencies, citing housing needs in Pampanga. No specific increase was approved in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-001702",
+              "start_seconds": 6081.92,
+              "clock": "01:41:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001702"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "former-president-gloria-macapagal-arroyo",
+      "label": "Former President Gloria Macapagal-Arroyo",
+      "items": [
+        {
+          "label": "Escrow housing funds and families facing displacement",
+          "text": "Former President Gloria Macapagal-Arroyo asked how much remained in the housing escrow fund and whether allocations could still be directed toward families facing displacement. Aliling reported a P12.746 billion fund, with P12.736 billion allocated to generate around 23,000 units through rental housing, SHFC high-density housing and enhanced CMP, and NHA resettlement. He said projects were at different construction stages, disbursements were progressive, and DHSUD could submit the project list. Arroyo linked her questions to a Co-Pilar bill being considered by the poverty-alleviation committee: she described a proposal to direct part of NHA income toward displaced families and potentially draw on the escrow fund. No reallocation was approved in this round.",
+          "citations": [
+            {
+              "stable_id": "asr-001736",
+              "start_seconds": 6150.32,
+              "clock": "01:42:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001736"
+            },
+            {
+              "stable_id": "asr-001745",
+              "start_seconds": 6174.3,
+              "clock": "01:42:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001745"
+            },
+            {
+              "stable_id": "asr-001766",
+              "start_seconds": 6214.48,
+              "clock": "01:43:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001766"
+            },
+            {
+              "stable_id": "asr-001770",
+              "start_seconds": 6222.76,
+              "clock": "01:43:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001770"
+            },
+            {
+              "stable_id": "asr-001805",
+              "start_seconds": 6291.14,
+              "clock": "01:44:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001805"
+            }
+          ]
+        },
+        {
+          "label": "Homeowners-association election rules under review",
+          "text": "Arroyo challenged a revised homeowners-association election rule that she said counted receipt of election notices toward quorum. She argued it conflicted with the Corporation Code and could let incumbent officers retain control by selectively issuing notices. Anenias said DHSUD had also received complaints and that the Secretary had ordered an IRR review 30 days earlier; this provision was already being reviewed. The hearing recorded an ongoing review, not a completed amendment.",
+          "citations": [
+            {
+              "stable_id": "asr-001848",
+              "start_seconds": 6374.0,
+              "clock": "01:46:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001848"
+            },
+            {
+              "stable_id": "asr-001914",
+              "start_seconds": 6507.88,
+              "clock": "01:48:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001914"
+            }
+          ]
+        },
+        {
+          "label": "Replicating Disiplina Village",
+          "text": "Arroyo briefly raised replication of the Disiplina Village housing model, then said she saw no problem with NHA implementing a similar approach and ended her intervention. No separate agency commitment or implementation schedule was recorded.",
+          "citations": [
+            {
+              "stable_id": "asr-001926",
+              "start_seconds": 6532.92,
+              "clock": "01:48:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001926"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-roman-t-romulo",
+      "label": "Rep. Roman T. Romulo",
+      "items": [
+        {
+          "label": "Pasig housing coordination and modular shelters",
+          "text": "Rep. Roman T. Romulo commended housing work under a predecessor identified in the hearing only as Secretary Acuzar and under DHSUD Secretary Jose Ramon P. Aliling, including coordination with Pasig on permanent and transitional housing, but said success should be measured by completed projects that help residents. He supported an increase in the housing budget. Aliling said DHSUD was continuing earlier initiatives and coordinating with Pasig, where it was about to deploy 500 modular shelter units. The deployment was announced as forthcoming.",
+          "citations": [
+            {
+              "stable_id": "asr-001955",
+              "start_seconds": 6616.88,
+              "clock": "01:50:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-001955"
+            },
+            {
+              "stable_id": "asr-002005",
+              "start_seconds": 6721.6,
+              "clock": "01:52:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-elmer-v-catulpos",
+      "label": "Rep. Elmer V. Catulpos",
+      "items": [
+        {
+          "label": "Faster permits for socialized housing",
+          "text": "Rep. Elmer V. Catulpos argued that low developer margins made socialized housing less attractive when permitting resembled open-market housing. Citing telecom permitting reforms as a model, he sought further simplification. Aliling said both categories needed homebuyer protection and were covered by streamlining. Yap described the June joint memorandum circular with ARTA and other agencies: subdivision requirements would fall from 223 to 62 and condominium requirements from 162 to 71, with a target of halving total processing time once implemented. Catulpos pressed for greater differentiation; the exchange also noted lower technical requirements for socialized housing under BP 220. Implementation was described as progressive, without a firm completion date.",
+          "citations": [
+            {
+              "stable_id": "asr-002027",
+              "start_seconds": 6770.36,
+              "clock": "01:52:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002027"
+            },
+            {
+              "stable_id": "asr-002071",
+              "start_seconds": 6861.66,
+              "clock": "01:54:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002071"
+            },
+            {
+              "stable_id": "asr-002082",
+              "start_seconds": 6892.18,
+              "clock": "01:54:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002082"
+            }
+          ]
+        },
+        {
+          "label": "Payment processing and regional access",
+          "text": "Catulpos relayed developers' complaints that payment processing in Davao could take six months or more, whereas it had previously been handled locally, and that developers faced penalties for their own delays. Aliling pointed to digitalization, coordination with Land Bank and online payments already being introduced; he did not give a deadline for resolving those reported delays. Catulpos also supported increasing DHSUD's 2027 budget.",
+          "citations": [
+            {
+              "stable_id": "asr-002114",
+              "start_seconds": 7054.9,
+              "clock": "01:57:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002114"
+            },
+            {
+              "stable_id": "asr-002121",
+              "start_seconds": 7096.52,
+              "clock": "01:58:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002121"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-howard-a-guintu",
+      "label": "Rep. Ivan Howard A. Guintu",
+      "items": [
+        {
+          "label": "Disaster housing assistance omitted from the NEP",
+          "text": "Rep. Howard A. Guintu questioned the absence of EHAP and quick-response funding in the 2027 NEP, citing help needed by fire-affected families. Tai said NHA had requested P1 billion for EHAP and P500 million for a quick response fund. Guintu asked the Appropriations Committee to consider providing those funds; the exchange recorded no allocation approval.",
+          "citations": [
+            {
+              "stable_id": "asr-002127",
+              "start_seconds": 7134.28,
+              "clock": "01:58:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002127"
+            },
+            {
+              "stable_id": "asr-002134",
+              "start_seconds": 7174.76,
+              "clock": "01:59:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002134"
+            },
+            {
+              "stable_id": "asr-002151",
+              "start_seconds": 7205.0,
+              "clock": "02:00:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002151"
+            }
+          ]
+        },
+        {
+          "label": "Missing amenities in older relocation sites",
+          "text": "Guintu asked about daycare centers, covered courts and other facilities absent from older resettlement projects, and requested a district-by-district list of needs to support additional funding. Tai said NHA had no funds for those additions and was prioritizing housing units, seeking LGU help for amenities. Guintu stressed that poorer municipalities could not necessarily finance them and urged a dedicated additional allocation. No firm commitment to submit the requested list or fund the facilities was recorded.",
+          "citations": [
+            {
+              "stable_id": "asr-002159",
+              "start_seconds": 7253.86,
+              "clock": "02:00:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002159"
+            },
+            {
+              "stable_id": "asr-002166",
+              "start_seconds": 7293.04,
+              "clock": "02:01:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002166"
+            },
+            {
+              "stable_id": "asr-002176",
+              "start_seconds": 7353.74,
+              "clock": "02:02:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002176"
+            }
+          ]
+        },
+        {
+          "label": "Interest subsidy for existing and expected borrowers",
+          "text": "Guintu checked whether P1.1 billion in interest subsidy would cover expected 4PH borrowers. Aliling said it covered about 33,000 housing units; Pag-IBIG Fund CEO Marilene C. Acosta expected 15,000 units to be taken out the following year. Aliling clarified that the subsidy allocation also covered units taken out in the current year. Guintu sought assurance that both groups had sufficient coverage and supported increasing the DHSUD budget.",
+          "citations": [
+            {
+              "stable_id": "asr-002188",
+              "start_seconds": 7401.86,
+              "clock": "02:03:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002188"
+            },
+            {
+              "stable_id": "asr-002196",
+              "start_seconds": 7432.56,
+              "clock": "02:03:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002196"
+            },
+            {
+              "stable_id": "asr-002206",
+              "start_seconds": 7486.96,
+              "clock": "02:04:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002206"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-eulogio-leo-r-rodriguez",
+      "label": "Rep. Eulogio \"Leo\" R. Rodriguez",
+      "items": [
+        {
+          "label": "Delays in disaster shelter assistance",
+          "text": "Rep. Eulogio \"Leo\" R. Rodriguez cited COA findings of 68-to-343-day delays in emergency shelter support under IDSAP and asked what caused them and how recurrence would be prevented. Aliling said the backlog had been addressed insofar as available cash allowed, with remaining releases constrained by funds not yet reaching NHA. He said the system had been arranged and recent difficulties concerned fund availability. Rodriguez stressed that emergency support needed to reach disaster-hit families promptly, particularly in Catanduanes. No quantified future turnaround guarantee was given.",
+          "citations": [
+            {
+              "stable_id": "asr-002233",
+              "start_seconds": 7611.16,
+              "clock": "02:06:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002233"
+            },
+            {
+              "stable_id": "asr-002239",
+              "start_seconds": 7648.74,
+              "clock": "02:07:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002239"
+            },
+            {
+              "stable_id": "asr-002270",
+              "start_seconds": 7699.28,
+              "clock": "02:08:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002270"
+            }
+          ]
+        },
+        {
+          "label": "Dormitories for students from distant communities",
+          "text": "Rodriguez thanked NHA General Manager Tai for a prior commitment to implement a requested student dormitory at Catanduanes State University; he also referred to other campuses benefiting students from northern municipalities. Aliling said an existing program included Pag-IBIG discussions with state universities about possible joint ventures. No completion date or project amount was stated. Rodriguez also moved for additional housing-agency funds.",
+          "citations": [
+            {
+              "stable_id": "asr-002278",
+              "start_seconds": 7737.94,
+              "clock": "02:08:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002278"
+            },
+            {
+              "stable_id": "asr-002283",
+              "start_seconds": 7771.58,
+              "clock": "02:09:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002283"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-roy-m-gonzales",
+      "label": "Rep. Roy M. Gonzales",
+      "items": [
+        {
+          "label": "Local resolution of subdivision and homeowners disputes",
+          "text": "Rep. Roy M. Gonzales asked whether Santa Rosa could replicate a Bacoor arrangement for resolving housing and subdivision disputes locally. He said residents brought homeowners-association and developer disputes to the LGU, which lacked authority to address them, and requested DHSUD assistance. No substantive agency response or commitment was recorded in this round.",
+          "citations": [
+            {
+              "stable_id": "asr-002301",
+              "start_seconds": 7841.42,
+              "clock": "02:10:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002301"
+            }
+          ]
+        },
+        {
+          "label": "Santa Rosa housing projects and budget support",
+          "text": "Gonzales thanked DHSUD and SHFC for an ongoing Santa Rosa project and said a larger 4PH proposal was under discussion with DHSUD. He supported adding funds to the DHSUD family. The exchange did not record approval of the proposed larger project or a budget increase.",
+          "citations": [
+            {
+              "stable_id": "asr-002318",
+              "start_seconds": 7928.84,
+              "clock": "02:12:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002318"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-rufus-b-rodriguez",
+      "label": "Rep. Rufus B. Rodriguez",
+      "items": [
+        {
+          "label": "Additional housing budgets and disaster assistance",
+          "text": "Rep. Rufus B. Rodriguez commended reported housing delivery and supported additional requests of P280 million for DHSUD, P47 million for HSAC and about P1.6 billion for NHA. He also urged an additional P1 billion to sustain assistance for fire-affected families, citing repeated fires in his district and assistance still awaited for four other fire victims. He reported NHA assistance of P20,000 for total damage and P10,000 for partial damage. He said the larger mortgage-finance request needed study, while supporting enhanced CMP funding. At the close, he said he would move for budget approval and increases at the proper time; no increase was adopted in this round.",
+          "citations": [
+            {
+              "stable_id": "asr-002365",
+              "start_seconds": 8145.18,
+              "clock": "02:15:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002365"
+            },
+            {
+              "stable_id": "asr-002364",
+              "start_seconds": 8131.86,
+              "clock": "02:15:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002364"
+            },
+            {
+              "stable_id": "asr-002371",
+              "start_seconds": 8169.0,
+              "clock": "02:16:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002371"
+            },
+            {
+              "stable_id": "asr-002379",
+              "start_seconds": 8207.68,
+              "clock": "02:16:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002379"
+            },
+            {
+              "stable_id": "asr-002396",
+              "start_seconds": 8251.72,
+              "clock": "02:17:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002396"
+            },
+            {
+              "stable_id": "asr-002403",
+              "start_seconds": 8273.68,
+              "clock": "02:17:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002403"
+            },
+            {
+              "stable_id": "asr-002474",
+              "start_seconds": 8511.16,
+              "clock": "02:21:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002474"
+            }
+          ]
+        },
+        {
+          "label": "Community mortgage proposal for Barangay 27",
+          "text": "Rodriguez sought SHFC help to acquire a Barangay 27 property mortgaged to Land Bank, proposing repayment over 25 years by the community. He said the redemption period would expire on September 5 and that he would bring the association officers to SHFC afterward. Laxa said the request could fall under the Enhanced Community Mortgage Program, asked for the homeowners or community association proposal, and expressed willingness to help. This was an invitation to pursue the proposal, not an approved acquisition.",
+          "citations": [
+            {
+              "stable_id": "asr-002430",
+              "start_seconds": 8386.56,
+              "clock": "02:19:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002430"
+            },
+            {
+              "stable_id": "asr-002444",
+              "start_seconds": 8434.3,
+              "clock": "02:20:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002444"
+            },
+            {
+              "stable_id": "asr-002464",
+              "start_seconds": 8490.42,
+              "clock": "02:21:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002464"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-ma-isabel-l-sagarbarria",
+      "label": "Rep. Ma. Isabel L. Sagarbarria",
+      "items": [
+        {
+          "label": "Negros Island Region allocation",
+          "text": "Rep. Ma. Isabel L. Sagarbarria supported a larger housing budget but urged a greater share for the Negros Island Region, citing an allocation of only P9.4 million that she considered inadequate even for staffing. She requested more attention to housing needs in Negros Oriental, particularly her second district. No specific regional increase was committed in the response.",
+          "citations": [
+            {
+              "stable_id": "asr-002503",
+              "start_seconds": 8584.96,
+              "clock": "02:23:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002503"
+            },
+            {
+              "stable_id": "asr-002507",
+              "start_seconds": 8597.76,
+              "clock": "02:23:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002507"
+            }
+          ]
+        },
+        {
+          "label": "Fire recovery and temporary housing",
+          "text": "Sagarbarria asked how indigent families whose homes were destroyed by fire could rebuild instead of taking on rent. Aliling identified IDSAP and EHAP, construction materials and shelter repair kits, and said temporary modular housing could be extended where the LGU provided suitable land. Sagarbarria followed up a letter about an LGU and Landmaster collaboration; Aliling said he would look into it. The exchange did not approve that proposal.",
+          "citations": [
+            {
+              "stable_id": "asr-002518",
+              "start_seconds": 8645.18,
+              "clock": "02:24:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002518"
+            },
+            {
+              "stable_id": "asr-002531",
+              "start_seconds": 8689.48,
+              "clock": "02:24:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002531"
+            },
+            {
+              "stable_id": "asr-002545",
+              "start_seconds": 8750.92,
+              "clock": "02:25:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002545"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-atty-miro-s-quimbo",
+      "label": "Rep. Atty. Miro S. Quimbo",
+      "items": [
+        {
+          "label": "Emergency assistance and stronger CMP funding",
+          "text": "Rep. Atty. Miro S. Quimbo said assistance had been promised to fire-affected families before it became clear that funding was unavailable. He sought support for the waiting Marikina beneficiaries once funds arrived and pledged to help secure resources. He challenged the assertion that there was no government underspending and argued for housing as an economic multiplier. He also praised SHFC assistance on community mortgage cases and urged sustained CMP funding. No new release or appropriation was confirmed during his intervention.",
+          "citations": [
+            {
+              "stable_id": "asr-002555",
+              "start_seconds": 8804.46,
+              "clock": "02:26:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002555"
+            }
+          ]
+        },
+        {
+          "label": "Homeowners-association registration and local interference",
+          "text": "Quimbo urged DHSUD to continue sending personnel to explain association registration and recognition requirements directly to communities. He said some LGUs exploited insecure tenure or complicated elections and recognition, while direct explanations from DHSUD helped residents understand their rights and register. He referred to further association registrations and an upcoming Marikina event; no new agency commitment was recorded in this block.",
+          "citations": [
+            {
+              "stable_id": "asr-002587",
+              "start_seconds": 8991.78,
+              "clock": "02:29:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002587"
+            }
+          ]
+        },
+        {
+          "label": "Revenue measures to support additional funding",
+          "text": "After Baronda mentioned his Ways and Means work, Quimbo said revenue was being sought from harmful products, naming cigarettes, vape and sugar-sweetened products. Baronda expressed hope that his legislative agenda would add resources. No tax measure or housing earmark was approved in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002626",
+              "start_seconds": 9171.1,
+              "clock": "02:32:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002626"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-patrick-michael-d-vargas",
+      "label": "Rep. Patrick Michael D. Vargas",
+      "items": [
+        {
+          "label": "In-city housing in Novaliches",
+          "text": "Rep. Patrick Michael D. Vargas manifested support for DHSUD and SHFC, citing their assistance to his Quezon City district. He said 300 in-city units were opening that year and another 1,200 were expected the following year, and urged colleagues to increase housing funding. He did not pose an agency question. The exchange records no allocation decision.",
+          "citations": [
+            {
+              "stable_id": "asr-002647",
+              "start_seconds": 9235.22,
+              "clock": "02:33:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-002647"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-agustina-dominique-ditse-tina-c-pancho",
+      "label": "Rep. Agustina Dominique \"Ditse Tina\" C. Pancho",
+      "items": [
+        {
+          "label": "Disaster programs under reduced funding",
+          "text": "Rep. Agustina Dominique \"Ditse Tina\" C. Pancho asked whether housing and disaster-assistance programs could continue with the reduced budget. Aliling said assistance funds had been exhausted and that a fresh release was expected within two weeks. He requested more 2027 funding for emergency shelter programs in light of stronger storms and monsoon flooding. Pancho expressed support; no release was confirmed or budget increase approved in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-003041",
+              "start_seconds": 11103.64,
+              "clock": "03:05:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003041"
+            },
+            {
+              "stable_id": "asr-003047",
+              "start_seconds": 11136.62,
+              "clock": "03:05:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003047"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "deputy-speaker-raymond-democrito-c-mendoza",
+      "label": "Deputy Speaker Raymond Democrito C. Mendoza",
+      "items": [
+        {
+          "label": "Labor support for greater housing resources",
+          "text": "Speaking for TUCP, Deputy Speaker Raymond Democrito C. Mendoza emphasized the labor center's longstanding relationship with Pag-IBIG and urged as large a budget increase as possible. Baronda acknowledged his support. No amount or appropriation was approved in the manifestation.",
+          "citations": [
+            {
+              "stable_id": "asr-003126",
+              "start_seconds": 13367.12,
+              "clock": "03:42:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003126"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-mikaela-angela-b-suansing",
+      "label": "Rep. Mikaela Angela B. Suansing",
+      "items": [
+        {
+          "label": "Utilizing continuing funds before year-end",
+          "text": "Rep. Mikaela Angela B. Suansing asked about the 52% disbursement rate for continuing appropriations and the catch-up plan. Yap attributed low prior-year utilization to the shift from vertical-only 4PH to multiple housing approaches, developers waiting for price-ceiling adjustments, and an unused ISSP allocation whose current-year requirement had been reduced. He said the expanded modalities and December price-ceiling adjustment were encouraging delivery. Suansing noted roughly 95% average disbursement over 2021-2025 but sought assurance on remaining funds. Aliling committed to utilizing the remaining interest-subsidy and ISSP funds before year-end.",
+          "citations": [
+            {
+              "stable_id": "asr-003159",
+              "start_seconds": 13694.38,
+              "clock": "03:48:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003159"
+            },
+            {
+              "stable_id": "asr-003169",
+              "start_seconds": 13750.74,
+              "clock": "03:49:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003169"
+            },
+            {
+              "stable_id": "asr-003204",
+              "start_seconds": 13914.66,
+              "clock": "03:51:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003204"
+            }
+          ]
+        },
+        {
+          "label": "Ranked requests for budget amendments",
+          "text": "Asked to prioritize additional funds within limited fiscal space, Aliling identified P280 million for DHSUD planning and its mandate, P47.5 million for HSAC contract-of-service personnel and vehicles to speed case handling, and SHFC Community Mortgage Program funding. Suansing identified the CMP request in the presentation as an additional P4.66 billion requested per year. She requested a letter to the Appropriations Committee ranking these priorities, with a breakdown of what could be funded partially if the full P280 million was unavailable. She sought submission within the week for the forthcoming Budget Amendments Review Subcommittee deliberations; Aliling agreed to comply. Suansing said the committee would try to accommodate requests within available fiscal space, without approving a specific increase.",
+          "citations": [
+            {
+              "stable_id": "asr-003210",
+              "start_seconds": 13925.98,
+              "clock": "03:52:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003210"
+            },
+            {
+              "stable_id": "asr-003219",
+              "start_seconds": 13980.84,
+              "clock": "03:53:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003219"
+            },
+            {
+              "stable_id": "asr-003222",
+              "start_seconds": 13997.9,
+              "clock": "03:53:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003222"
+            },
+            {
+              "stable_id": "asr-003240",
+              "start_seconds": 14071.1,
+              "clock": "03:54:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003240"
+            },
+            {
+              "stable_id": "asr-003250",
+              "start_seconds": 14098.26,
+              "clock": "03:54:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003250"
+            },
+            {
+              "stable_id": "asr-003270",
+              "start_seconds": 14189.5,
+              "clock": "03:56:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003270"
+            },
+            {
+              "stable_id": "asr-003223",
+              "start_seconds": 14002.92,
+              "clock": "03:53:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003223"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "closing-proceedings",
+      "label": "Closing proceedings",
+      "items": [
+        {
+          "label": "Briefing terminated; committee proceedings suspended",
+          "text": "Alvarez moved to terminate the DHSUD budget briefing, including its attached agencies and corporations. Suansing seconded, and Baronda declared the briefing terminated. Alvarez then moved to suspend committee proceedings and resume on August 26 at 9 a.m.; Baronda referred to Nograles Hall. These closing actions ended the briefing and suspended proceedings; they did not approve the DHSUD budget or the requested increases.",
+          "citations": [
+            {
+              "stable_id": "asr-003307",
+              "start_seconds": 14354.52,
+              "clock": "03:59:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003307"
+            },
+            {
+              "stable_id": "asr-003321",
+              "start_seconds": 14437.82,
+              "clock": "04:00:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003321"
+            },
+            {
+              "stable_id": "asr-003336",
+              "start_seconds": 14472.757,
+              "clock": "04:01:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/11/#asr-003336"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

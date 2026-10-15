@@ -1,0 +1,2898 @@
+{
+  "hearing": {
+    "hearing_id": 32,
+    "title": "House Committee on Appropriations: DFA - September 3, 2026",
+    "hearing_date": "2026-09-03",
+    "official_url": "https://www.youtube.com/watch?v=7SOYFcTLESo"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h32/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Agency priorities",
+      "text": "DFA outlined overseas Filipino protection, consular access and digital services, cybersecurity, and the maintenance and development of foreign-service facilities. FSI described a staff health-insurance need, while PCVF raised a future staffing request.",
+      "citations": []
+    },
+    {
+      "label": "Diplomacy and regional issues",
+      "text": "Members discussed West Philippine Sea diplomacy, engagement with China, Pax Silica, the Mombasa Declaration, and seafarer safety in the Strait of Hormuz.",
+      "citations": []
+    },
+    {
+      "label": "Consular protection",
+      "text": "The hearing addressed assistance for Filipinos in Nepal, Somalia and Japan, access to services in Catanduanes and Cabanatuan, and DFA coordination with the Department of Migrant Workers (DMW) and other agencies.",
+      "citations": []
+    }
+  ],
+  "method_note": "Figures, requests and outcomes link to the reviewed transcript. Additional funding requests are identified separately from NEP allocations.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Department of Foreign Affairs (DFA)",
+          "text": "PHP 35.17 billion is the FY2027 National Expenditure Program (NEP) allocation for DFA and its attached agencies. DFA sought PHP 250 million for cybersecurity and PHP 300 million in building-fund restoration.",
+          "citations": [
+            {
+              "stable_id": "asr-000403",
+              "start_seconds": 1679.8899999999999,
+              "clock": "00:27:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000403"
+            },
+            {
+              "stable_id": "asr-000404",
+              "start_seconds": 1687.03,
+              "clock": "00:28:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000404"
+            },
+            {
+              "stable_id": "asr-002116",
+              "start_seconds": 8212.91,
+              "clock": "02:16:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002116"
+            },
+            {
+              "stable_id": "asr-002133",
+              "start_seconds": 8338.29,
+              "clock": "02:18:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002133"
+            }
+          ]
+        },
+        {
+          "label": "Foreign Service Institute (FSI)",
+          "text": "PHP 6.5 million was requested for staff health maintenance organization (HMO) insurance.",
+          "citations": [
+            {
+              "stable_id": "asr-002161",
+              "start_seconds": 8557.58,
+              "clock": "02:22:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002161"
+            },
+            {
+              "stable_id": "asr-002162",
+              "start_seconds": 8564.94,
+              "clock": "02:22:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002162"
+            }
+          ]
+        },
+        {
+          "label": "Presidential Commission on Visiting Forces (PCVF)",
+          "text": "About PHP 3 million in additional personnel services was estimated for a future year, alongside a request for 13 permanent positions.",
+          "citations": [
+            {
+              "stable_id": "asr-002176-split-2",
+              "start_seconds": 8663.84,
+              "clock": "02:24:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002176-split-2"
+            },
+            {
+              "stable_id": "asr-002181",
+              "start_seconds": 8692.66,
+              "clock": "02:24:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002181"
+            },
+            {
+              "stable_id": "asr-002182",
+              "start_seconds": 8698.66,
+              "clock": "02:24:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002182"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-dfa",
+      "label": "DFA budget",
+      "items": [
+        {
+          "label": "DFA chancery lease provision and cybersecurity restoration",
+          "text": "PHP 500 million was cut from FY2027 capital outlay by the Department of Budget and Management (DBM). DFA sought partial restoration for cybersecurity, as summarized above. DFA Assistant Secretary Charmaine A. Serna-Chua said the cut left information and communications technology (ICT) funding for operating subscriptions; Foreign Affairs Secretary Ma. Theresa P. Lazaro cited repeated attacks on DFA systems. Rep. Rufus B. Rodriguez put the request on record and expressed support. DFA also sought a special provision exempting overseas chanceries and consulates from the MICA requirement so they could lease premises for up to five years. DFA Assistant Secretary Anne Jalando-on Louis said this provision appeared in the prior General Appropriations Act; Rodriguez requested its wording. He also asked to fund vehicles for the Butuan consular office and renewed the Bukidnon office request. Lazaro said DFA would coordinate with DBM on funding for Bukidnon, Nueva Ecija and Virac, Catanduanes.",
+          "citations": [
+            {
+              "stable_id": "asr-002101-split-2",
+              "start_seconds": 8065.0,
+              "clock": "02:14:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002101-split-2"
+            },
+            {
+              "stable_id": "asr-002103",
+              "start_seconds": 8100.0,
+              "clock": "02:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002103"
+            },
+            {
+              "stable_id": "asr-002115",
+              "start_seconds": 8204.11,
+              "clock": "02:16:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002115"
+            },
+            {
+              "stable_id": "asr-002119-split-2",
+              "start_seconds": 8235.4,
+              "clock": "02:17:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002119-split-2"
+            },
+            {
+              "stable_id": "asr-002120",
+              "start_seconds": 8240.19,
+              "clock": "02:17:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002120"
+            },
+            {
+              "stable_id": "asr-002084",
+              "start_seconds": 7995.86,
+              "clock": "02:13:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002084"
+            },
+            {
+              "stable_id": "asr-002087",
+              "start_seconds": 8008.98,
+              "clock": "02:13:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002087"
+            },
+            {
+              "stable_id": "asr-002092",
+              "start_seconds": 8025.82,
+              "clock": "02:13:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002092"
+            },
+            {
+              "stable_id": "asr-002093",
+              "start_seconds": 8030.3,
+              "clock": "02:13:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002093"
+            },
+            {
+              "stable_id": "asr-002094",
+              "start_seconds": 8035.7,
+              "clock": "02:13:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002094"
+            }
+          ]
+        },
+        {
+          "label": "Support for the proposed DFA budget",
+          "text": "Rep. Niko Raul S.J. Daza asked the chamber to support the proposed FY2027 budget of the Department of Foreign Affairs (DFA) and its attached agencies. Foreign Affairs Secretary Ma. Theresa P. Lazaro acknowledged his endorsement.",
+          "citations": [
+            {
+              "stable_id": "asr-000131",
+              "start_seconds": 517.3,
+              "clock": "00:08:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000131"
+            },
+            {
+              "stable_id": "asr-000132",
+              "start_seconds": 522.16,
+              "clock": "00:08:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000132"
+            },
+            {
+              "stable_id": "asr-000153",
+              "start_seconds": 662.98,
+              "clock": "00:11:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000153"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 allotment mix and drivers",
+          "text": "54% of the FY2027 proposed budget of the Department of Foreign Affairs (DFA) and its attached agencies was for maintenance and other operating expenses (MOOE), 39% for personnel services and 7% for capital outlays. DFA Assistant Secretary Emilio T. Fernandez attributed the changes to the following drivers. Personnel-service changes were attributed to the fourth tranche of the updated salary schedule and foreign service allowance increases, and to integrating the Technical Cooperation Council of the Philippines into DFA. MOOE changes included initial next-generation passport funding, foreign-exchange and inflation provisions for foreign service posts (FSPs), higher FSP rent contracts and MOOE for information systems strategic plan (ISSP) projects; capital outlay changes included ISSP investment. He said 2027 had no appropriation for opening additional FSPs.",
+          "citations": [
+            {
+              "stable_id": "asr-000413",
+              "start_seconds": 1771.56,
+              "clock": "00:29:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000413"
+            },
+            {
+              "stable_id": "asr-000414",
+              "start_seconds": 1779.4,
+              "clock": "00:29:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000414"
+            },
+            {
+              "stable_id": "asr-000416",
+              "start_seconds": 1791.8,
+              "clock": "00:29:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000416"
+            },
+            {
+              "stable_id": "asr-000420",
+              "start_seconds": 1812.02,
+              "clock": "00:30:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000420"
+            },
+            {
+              "stable_id": "asr-000428",
+              "start_seconds": 1867.16,
+              "clock": "00:31:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000428"
+            }
+          ]
+        },
+        {
+          "label": "Personnel services and passport allocations",
+          "text": "PHP 3.6 billion was allocated for salaries and benefits of more than 3,000 DFA personnel, PHP 9.9 billion for foreign service allowances for personnel overseas, and PHP 345 million in terminal leave benefits for employees scheduled to retire. PHP 5.8 billion was allocated for passports overall. The next-generation passport had PHP 2.8 billion in initial FY2027 funding, with contactless technology, added security features and an indicative June 2028 launch.",
+          "citations": [
+            {
+              "stable_id": "asr-000422",
+              "start_seconds": 1825.18,
+              "clock": "00:30:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000422"
+            },
+            {
+              "stable_id": "asr-000430",
+              "start_seconds": 1882.36,
+              "clock": "00:31:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000430"
+            },
+            {
+              "stable_id": "asr-000431",
+              "start_seconds": 1885.12,
+              "clock": "00:31:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000431"
+            },
+            {
+              "stable_id": "asr-000432",
+              "start_seconds": 1893.36,
+              "clock": "00:31:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000432"
+            },
+            {
+              "stable_id": "asr-000433",
+              "start_seconds": 1900.44,
+              "clock": "00:31:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000433"
+            },
+            {
+              "stable_id": "asr-000434",
+              "start_seconds": 1912.0,
+              "clock": "00:31:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000434"
+            },
+            {
+              "stable_id": "asr-000331",
+              "start_seconds": 1496.18,
+              "clock": "00:24:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000331"
+            },
+            {
+              "stable_id": "asr-000333",
+              "start_seconds": 1501.2,
+              "clock": "00:25:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000333"
+            }
+          ]
+        },
+        {
+          "label": "Consular operations, assistance and facilities funding",
+          "text": "PHP 1.2 billion was allocated for the Assistance-to-Nationals (ATN) and Legal Assistance Fund, PHP 572 million for the Deployment Fund. DFA's building fund for redevelopment, acquisition, expansion and major repairs of government-owned chanceries and official residences abroad was PHP 1.4 billion. The headquarters retrofitting project also had MOOE for temporary-office leases and project management, plus capital outlay for retrofitting the permanent headquarters and interior fit-out.",
+          "citations": [
+            {
+              "stable_id": "asr-000439",
+              "start_seconds": 1925.98,
+              "clock": "00:32:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000439"
+            },
+            {
+              "stable_id": "asr-000440",
+              "start_seconds": 1930.62,
+              "clock": "00:32:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000440"
+            },
+            {
+              "stable_id": "asr-000441",
+              "start_seconds": 1940.3600000000001,
+              "clock": "00:32:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000441"
+            },
+            {
+              "stable_id": "asr-000444",
+              "start_seconds": 1944.5,
+              "clock": "00:32:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000444"
+            },
+            {
+              "stable_id": "asr-000445",
+              "start_seconds": 1953.68,
+              "clock": "00:32:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000445"
+            },
+            {
+              "stable_id": "asr-000446",
+              "start_seconds": 1961.2,
+              "clock": "00:32:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000446"
+            },
+            {
+              "stable_id": "asr-000447",
+              "start_seconds": 1968.56,
+              "clock": "00:32:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000447"
+            },
+            {
+              "stable_id": "asr-000448",
+              "start_seconds": 1975.6,
+              "clock": "00:32:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000448"
+            }
+          ]
+        },
+        {
+          "label": "Budget execution and performance",
+          "text": "80% was DFA's FY2025 budget utilization rate (BUR), with utilization close to 53% in the first half of 2026. The Department of Budget and Management (DBM) rated FY2025 physical performance \"very satisfactory,\" with indicator accomplishments between 96% and 100%. He said utilization was affected by a failed initial headquarters-retrofit bidding, which delayed work until midyear; the transfer of ATN functions to the Department of Migrant Workers (DMW), created in 2023; building-fund projects deferred because of cost escalations, feasibility concerns or host-country regulatory constraints; and shifting passport demand following the extension of passport validity to 10 years. DFA said it was working to use remaining funds and hoped to equal or exceed the prior year's figures.",
+          "citations": [
+            {
+              "stable_id": "asr-000450",
+              "start_seconds": 1990.8,
+              "clock": "00:33:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000450"
+            },
+            {
+              "stable_id": "asr-000454",
+              "start_seconds": 2019.6,
+              "clock": "00:33:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000454"
+            },
+            {
+              "stable_id": "asr-000462",
+              "start_seconds": 2078.02,
+              "clock": "00:34:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000462"
+            },
+            {
+              "stable_id": "asr-000464",
+              "start_seconds": 2091.8,
+              "clock": "00:34:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000464"
+            },
+            {
+              "stable_id": "asr-000466",
+              "start_seconds": 2105.36,
+              "clock": "00:35:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000466"
+            },
+            {
+              "stable_id": "asr-000469",
+              "start_seconds": 2121.06,
+              "clock": "00:35:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000469"
+            },
+            {
+              "stable_id": "asr-000470",
+              "start_seconds": 2128.9,
+              "clock": "00:35:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000470"
+            }
+          ]
+        },
+        {
+          "label": "Austerity and Independence Day celebrations",
+          "text": "Cendaña asked whether DFA posts held Independence Day celebrations at five-star hotels despite austerity guidance. Lazaro said most foreign service posts practiced austerity, while some important posts chose larger celebrations for significant anniversaries; she cited Washington, D.C.'s celebration of the 80th anniversary of Philippine-United States relations and said funds could be sourced when a post's own funds were insufficient. Cendaña asked the committee to obtain a per-post spending breakdown, including venue, catering, reception, entertainment and transportation costs, in time for plenary.",
+          "citations": [
+            {
+              "stable_id": "asr-000588",
+              "start_seconds": 2743.44,
+              "clock": "00:45:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000588"
+            },
+            {
+              "stable_id": "asr-000602",
+              "start_seconds": 2824.35,
+              "clock": "00:47:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000602"
+            },
+            {
+              "stable_id": "asr-000604",
+              "start_seconds": 2841.07,
+              "clock": "00:47:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000604"
+            },
+            {
+              "stable_id": "asr-000608",
+              "start_seconds": 2869.31,
+              "clock": "00:47:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000608"
+            },
+            {
+              "stable_id": "asr-000610",
+              "start_seconds": 2881.87,
+              "clock": "00:48:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000610"
+            }
+          ]
+        },
+        {
+          "label": "UN Security Council campaign funding and accountability",
+          "text": "PHP 70 million was appropriated in 2025 and 2026 for the Philippines' United Nations Security Council (UNSC) campaign, of which PHP 52.5 million was obligated, a 75% utilization rate. DFA Assistant Secretary Emilio T. Fernandez supplied the amounts in response to Rep. Dadah Kiram Ismula. Lazaro attributed the unsuccessful bid to geopolitical issues. Ismula requested an expenditure breakdown covering diplomatic missions, travel, representation, promotional activities and other campaign expenses, and sought a post-campaign accountability assessment.",
+          "citations": [
+            {
+              "stable_id": "asr-000849",
+              "start_seconds": 4384.87,
+              "clock": "01:13:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000849"
+            },
+            {
+              "stable_id": "asr-000856",
+              "start_seconds": 4435.27,
+              "clock": "01:13:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000856"
+            },
+            {
+              "stable_id": "asr-000857",
+              "start_seconds": 4452.1,
+              "clock": "01:14:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000857"
+            },
+            {
+              "stable_id": "asr-000858",
+              "start_seconds": 4457.38,
+              "clock": "01:14:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000858"
+            },
+            {
+              "stable_id": "asr-000852",
+              "start_seconds": 4407.83,
+              "clock": "01:13:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000852"
+            },
+            {
+              "stable_id": "asr-000861",
+              "start_seconds": 4477.16,
+              "clock": "01:14:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000861"
+            },
+            {
+              "stable_id": "asr-000862",
+              "start_seconds": 4487.22,
+              "clock": "01:14:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000862"
+            },
+            {
+              "stable_id": "asr-000868",
+              "start_seconds": 4509.66,
+              "clock": "01:15:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000868"
+            },
+            {
+              "stable_id": "asr-000872",
+              "start_seconds": 4520.56,
+              "clock": "01:15:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000872"
+            }
+          ]
+        },
+        {
+          "label": "Assistance to Nationals Fund appropriations, requests and approvals",
+          "text": "PHP 1 billion annually was appropriated for the Assistance-to-Nationals (ATN) Fund from 2022 through 2025, according to Fernandez. Ismula asked about FY2026 requests received, approved, denied, returned and pending. DFA OIC Undersecretary Ezzedin H. Tago instead reported 2,884 beneficiaries for the first six months, describing repatriation, welfare, medical assistance and shipment of remains. Tago said a 2019 department order governs the ATN and Legal Assistance Funds; his office recommends approvals and handles smaller cases, while the Secretary approves larger cases. Ismula requested a copy of the guidelines.",
+          "citations": [
+            {
+              "stable_id": "asr-000924",
+              "start_seconds": 4645.29,
+              "clock": "01:17:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000924"
+            },
+            {
+              "stable_id": "asr-000927",
+              "start_seconds": 4651.09,
+              "clock": "01:17:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000927"
+            },
+            {
+              "stable_id": "asr-000928",
+              "start_seconds": 4652.79,
+              "clock": "01:17:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000928"
+            },
+            {
+              "stable_id": "asr-000931",
+              "start_seconds": 4659.27,
+              "clock": "01:17:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000931"
+            },
+            {
+              "stable_id": "asr-000960",
+              "start_seconds": 4718.63,
+              "clock": "01:18:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000960"
+            },
+            {
+              "stable_id": "asr-000975",
+              "start_seconds": 4749.55,
+              "clock": "01:19:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000975"
+            },
+            {
+              "stable_id": "asr-000976",
+              "start_seconds": 4751.11,
+              "clock": "01:19:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000976"
+            },
+            {
+              "stable_id": "asr-000977",
+              "start_seconds": 4753.07,
+              "clock": "01:19:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000977"
+            },
+            {
+              "stable_id": "asr-001000",
+              "start_seconds": 4799.34,
+              "clock": "01:19:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001000"
+            },
+            {
+              "stable_id": "asr-001003",
+              "start_seconds": 4805.98,
+              "clock": "01:20:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001003"
+            },
+            {
+              "stable_id": "asr-001004",
+              "start_seconds": 4807.98,
+              "clock": "01:20:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001004"
+            },
+            {
+              "stable_id": "asr-001009",
+              "start_seconds": 4819.12,
+              "clock": "01:20:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001009"
+            },
+            {
+              "stable_id": "asr-001012",
+              "start_seconds": 4827.94,
+              "clock": "01:20:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001012"
+            },
+            {
+              "stable_id": "asr-001017",
+              "start_seconds": 4842.38,
+              "clock": "01:20:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001017"
+            },
+            {
+              "stable_id": "asr-001018",
+              "start_seconds": 4845.32,
+              "clock": "01:20:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001018"
+            }
+          ]
+        },
+        {
+          "label": "DFA ICT expenditure and breakdown request",
+          "text": "PHP 956.61 million is the proposed FY2027 ICT expenditure for the Department of Foreign Affairs (DFA), as noted by Rep. Antonio L. Tinio. Assistant Secretary Charmaine A. Serna-Chua described the 2025-2026 Information Systems Strategic Plan (ISSP) shift from routine operating ICT assets to larger capital systems, reporting MOE budget at 115% and capital outlay at 400% in the plan's 2025-to-2026 figures. She linked the acquisition to cybersecurity, data privacy, digital transformation and ICT procurement, and listed foreign-policy tools, diplomatic and consular systems, e-passport and e-visa services, call-center and post connectivity, and administrative systems. Serna-Chua described ICT projects, largely for consular offices, as PHP 511 million and said the Office of Consular Affairs (OCA) could address critical-infrastructure, e-visa and e-passport systems. Tinio requested a breakdown by service and provider for 2025, 2026 and proposed 2027; Serna-Chua committed to send the list she had with her.",
+          "citations": [
+            {
+              "stable_id": "asr-001774",
+              "start_seconds": 6779.05,
+              "clock": "01:52:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001774"
+            },
+            {
+              "stable_id": "asr-001790",
+              "start_seconds": 6857.89,
+              "clock": "01:54:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001790"
+            },
+            {
+              "stable_id": "asr-001880",
+              "start_seconds": 7091.65,
+              "clock": "01:58:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001880"
+            },
+            {
+              "stable_id": "asr-001898",
+              "start_seconds": 7127.65,
+              "clock": "01:58:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001898"
+            },
+            {
+              "stable_id": "asr-001902",
+              "start_seconds": 7135.65,
+              "clock": "01:58:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001902"
+            },
+            {
+              "stable_id": "asr-001905",
+              "start_seconds": 7141.65,
+              "clock": "01:59:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001905"
+            }
+          ]
+        },
+        {
+          "label": "DFA building fund restoration",
+          "text": "DFA Undersecretary Maria Theresa B. Dizon-De Vega sought building-fund restoration to fund maintenance, establishment and purchase of overseas properties. Rep. Rufus B. Rodriguez called the request reasonable and expressed support.",
+          "citations": [
+            {
+              "stable_id": "asr-002128",
+              "start_seconds": 8288.51,
+              "clock": "02:18:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002128"
+            },
+            {
+              "stable_id": "asr-002134",
+              "start_seconds": 8347.33,
+              "clock": "02:19:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002134"
+            },
+            {
+              "stable_id": "asr-002136",
+              "start_seconds": 8362.61,
+              "clock": "02:19:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002136"
+            },
+            {
+              "stable_id": "asr-002136-split-2",
+              "start_seconds": 8365.6,
+              "clock": "02:19:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002136-split-2"
+            },
+            {
+              "stable_id": "asr-002137",
+              "start_seconds": 8370.05,
+              "clock": "02:19:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002137"
+            }
+          ]
+        },
+        {
+          "label": "Support, motion withdrawal and wish-list submission",
+          "text": "Rep. Rufus B. Rodriguez said he would support the DFA's proposed budget and wish list and intended to move on them at the appropriate time. He later moved to terminate the proceedings, then withdrew that motion after Chair Rep. Sancho Fernando \"Ando\" F. Oaminal noted that other members still wished to interpellate. Oaminal stated that Rodriguez had not moved to increase the budget at that time; the sponsors expressed support. The Chair set Wednesday of the following week as the deadline for the department's additional wish list, properly endorsed and signed by the Secretary.",
+          "citations": [
+            {
+              "stable_id": "asr-002149",
+              "start_seconds": 8453.01,
+              "clock": "02:20:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002149"
+            },
+            {
+              "stable_id": "asr-002150",
+              "start_seconds": 8460.61,
+              "clock": "02:21:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002150"
+            },
+            {
+              "stable_id": "asr-002195",
+              "start_seconds": 8770.78,
+              "clock": "02:26:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002195"
+            },
+            {
+              "stable_id": "asr-002198-split-2",
+              "start_seconds": 8795.72,
+              "clock": "02:26:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002198-split-2"
+            },
+            {
+              "stable_id": "asr-002201",
+              "start_seconds": 8807.34,
+              "clock": "02:26:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002201"
+            },
+            {
+              "stable_id": "asr-002204",
+              "start_seconds": 8823.02,
+              "clock": "02:27:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002204"
+            },
+            {
+              "stable_id": "asr-002208",
+              "start_seconds": 8857.74,
+              "clock": "02:27:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002208"
+            },
+            {
+              "stable_id": "asr-002212",
+              "start_seconds": 8864.84,
+              "clock": "02:27:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002212"
+            },
+            {
+              "stable_id": "asr-002216",
+              "start_seconds": 8879.82,
+              "clock": "02:27:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002216"
+            },
+            {
+              "stable_id": "asr-002219",
+              "start_seconds": 8885.34,
+              "clock": "02:28:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002219"
+            },
+            {
+              "stable_id": "asr-002220",
+              "start_seconds": 8887.34,
+              "clock": "02:28:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002220"
+            }
+          ]
+        },
+        {
+          "label": "ATN and LAF utilization and requested status report",
+          "text": "The Assistance to Nationals (ATN) Fund supports repatriation and welfare assistance for Filipinos in distress overseas; the Legal Assistance Fund (LAF) pays lawyers and retainers for overseas Filipino workers (OFWs). Rep. Sarah Jane I. Elago asked why utilization was low. DFA OIC Undersecretary Ezzedin H. Tago attributed lower ATN use in part to functions shifting after Republic Act No. 11641 established the Department of Migrant Workers (DMW), which continues to open Migrant Workers Offices (MWOs). He said the DFA remains responsible for countries without MWOs and for tourists, pilgrims, students, permanent residents and dual citizens, and reported 42 MWOs in 31 countries with about 67 embassies lacking one. Elago requested the number and disposition of funding requests, including approvals, rejections and non-qualification, plus a full ATN utilization report with balances, spending categories, itemized expenses and beneficiaries by expense.",
+          "citations": [
+            {
+              "stable_id": "asr-002232",
+              "start_seconds": 8935.93,
+              "clock": "02:28:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002232"
+            },
+            {
+              "stable_id": "asr-002240",
+              "start_seconds": 9000.0,
+              "clock": "02:30:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002240"
+            },
+            {
+              "stable_id": "asr-002243",
+              "start_seconds": 9020.96,
+              "clock": "02:30:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002243"
+            },
+            {
+              "stable_id": "asr-002245",
+              "start_seconds": 9033.9,
+              "clock": "02:30:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002245"
+            },
+            {
+              "stable_id": "asr-002256",
+              "start_seconds": 9100.3,
+              "clock": "02:31:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002256"
+            },
+            {
+              "stable_id": "asr-002269",
+              "start_seconds": 9165.3,
+              "clock": "02:32:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002269"
+            },
+            {
+              "stable_id": "asr-002273-split-2",
+              "start_seconds": 9199.85,
+              "clock": "02:33:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002273-split-2"
+            },
+            {
+              "stable_id": "asr-002277",
+              "start_seconds": 9220.04,
+              "clock": "02:33:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002277"
+            },
+            {
+              "stable_id": "asr-002278",
+              "start_seconds": 9224.6,
+              "clock": "02:33:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002278"
+            },
+            {
+              "stable_id": "asr-002279",
+              "start_seconds": 9231.74,
+              "clock": "02:33:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002279"
+            },
+            {
+              "stable_id": "asr-002280",
+              "start_seconds": 9236.18,
+              "clock": "02:33:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002280"
+            }
+          ]
+        },
+        {
+          "label": "Overseas voting funding and turnout measures",
+          "text": "PHP 44.5 million was the DFA's FY2027 overseas-voting amount, which Secretary Ma. Theresa P. Lazaro said was maintained at the prior-year level. She noted the next presidential election would be in 2028 and expected greater interest from OFWs and other migrants. Elago asked for the spending plan and consultations to help overseas Filipinos register and enroll in the new system, while retaining in-person and postal voting alongside online voting. Lazaro said the DFA and Commission on Elections (COMELEC) had formed a technical working group to assess foreign service posts' capacity and improve both registration and turnout. She offered a paper describing the reasons participation remained difficult, including differences by region and age; she said some elderly voters abroad could not use online voting.",
+          "citations": [
+            {
+              "stable_id": "asr-002334",
+              "start_seconds": 9477.02,
+              "clock": "02:37:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002334"
+            },
+            {
+              "stable_id": "asr-002335",
+              "start_seconds": 9483.5,
+              "clock": "02:38:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002335"
+            },
+            {
+              "stable_id": "asr-002300",
+              "start_seconds": 9329.9,
+              "clock": "02:35:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002300"
+            },
+            {
+              "stable_id": "asr-002301",
+              "start_seconds": 9338.06,
+              "clock": "02:35:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002301"
+            },
+            {
+              "stable_id": "asr-002308",
+              "start_seconds": 9365.94,
+              "clock": "02:36:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002308"
+            },
+            {
+              "stable_id": "asr-002313",
+              "start_seconds": 9395.2,
+              "clock": "02:36:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002313"
+            },
+            {
+              "stable_id": "asr-002338",
+              "start_seconds": 9497.94,
+              "clock": "02:38:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002338"
+            },
+            {
+              "stable_id": "asr-002340",
+              "start_seconds": 9503.96,
+              "clock": "02:38:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002340"
+            },
+            {
+              "stable_id": "asr-002341",
+              "start_seconds": 9520.1,
+              "clock": "02:38:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002341"
+            }
+          ]
+        },
+        {
+          "label": "Japanese reparations properties and administrative authority",
+          "text": "Five government properties in Japan were identified by Assistant Secretary Charmaine A. Serna-Chua, correcting Elago's reference to four. Serna-Chua said the embassies and consulates maintain the properties, while authority over projects rests with BAC Japan, chaired by the Department of Finance (DOF). Elago said she would direct her questions about market value, income, administration and any FY2027 allocation to the DOF.",
+          "citations": [
+            {
+              "stable_id": "asr-002381",
+              "start_seconds": 9821.94,
+              "clock": "02:43:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002381"
+            },
+            {
+              "stable_id": "asr-002382",
+              "start_seconds": 9828.94,
+              "clock": "02:43:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002382"
+            },
+            {
+              "stable_id": "asr-002383",
+              "start_seconds": 9838.94,
+              "clock": "02:43:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002383"
+            },
+            {
+              "stable_id": "asr-002386",
+              "start_seconds": 9858.44,
+              "clock": "02:44:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002386"
+            },
+            {
+              "stable_id": "asr-002387",
+              "start_seconds": 9861.44,
+              "clock": "02:44:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002387"
+            },
+            {
+              "stable_id": "asr-002388",
+              "start_seconds": 9870.44,
+              "clock": "02:44:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002388"
+            },
+            {
+              "stable_id": "asr-002390",
+              "start_seconds": 9880.44,
+              "clock": "02:44:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002390"
+            },
+            {
+              "stable_id": "asr-002391",
+              "start_seconds": 9886.44,
+              "clock": "02:44:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002391"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-fsi",
+      "label": "FSI budget",
+      "items": [
+        {
+          "label": "Foreign Service Institute health insurance",
+          "text": "FSI Director General Neil Frank R. Ferrer requested HMO insurance covering nearly 100 institute personnel. Rodriguez said it was approved according to the Chairman, and Ferrer thanked him.",
+          "citations": [
+            {
+              "stable_id": "asr-002160",
+              "start_seconds": 8555.31,
+              "clock": "02:22:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002160"
+            },
+            {
+              "stable_id": "asr-002163",
+              "start_seconds": 8574.88,
+              "clock": "02:22:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002163"
+            },
+            {
+              "stable_id": "asr-002163-split-2",
+              "start_seconds": 8580.32,
+              "clock": "02:23:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002163-split-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-pcvf",
+      "label": "PCVF budget",
+      "items": [
+        {
+          "label": "Presidential Commission on Visiting Forces staffing request",
+          "text": "PCVF Executive Director Antonio Atanacio Habulan sought permanent positions to retain institutional knowledge and cover fiduciary functions. He said the staffing proposal still had to be processed by DBM and clarified that the personnel-services estimate was for a future year. The commission was not seeking new funding for the Canada and New Zealand agreements while no activities were scheduled.",
+          "citations": [
+            {
+              "stable_id": "asr-002170-split-2",
+              "start_seconds": 8627.16,
+              "clock": "02:23:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002170-split-2"
+            },
+            {
+              "stable_id": "asr-002175",
+              "start_seconds": 8656.14,
+              "clock": "02:24:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002175"
+            },
+            {
+              "stable_id": "asr-002181-split-3",
+              "start_seconds": 8697.26,
+              "clock": "02:24:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002181-split-3"
+            }
+          ]
+        },
+        {
+          "label": "Balikatan fishing bans and support for fisherfolk",
+          "text": "Elago reported zero dedicated assistance budgets from the Department of National Defense (DND) and Bureau of Fisheries and Aquatic Resources (BFAR) for fishers affected by Balikatan fishing bans. She cited at least 4,800 affected registered fisherfolk. Elago asked whether the Presidential Commission on Visiting Forces (PCVF) had funds to help small-scale fishers replace income lost during the bans. PCVF Executive Director Antonio Atanacio Habulan said the Armed Forces of the Philippines (AFP) coordinates with local governments and the Department of Social Welfare and Development (DSWD); the PCVF monitors exercise activity and coordinates with those agencies. He said U.S. forces sometimes provide assistance, data should be available from the agencies, particularly the AFP, and the PCVF would ask for beneficiary information. Habulan also described coordination meetings with local governments and affected communities and said the AFP and sometimes U.S. forces provide assistance. Elago said she would await the report and urged priority for affected fishers' livelihoods.",
+          "citations": [
+            {
+              "stable_id": "asr-002343",
+              "start_seconds": 9544.8,
+              "clock": "02:39:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002343"
+            },
+            {
+              "stable_id": "asr-002344",
+              "start_seconds": 9556.9,
+              "clock": "02:39:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002344"
+            },
+            {
+              "stable_id": "asr-002354",
+              "start_seconds": 9645.42,
+              "clock": "02:40:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002354"
+            },
+            {
+              "stable_id": "asr-002355",
+              "start_seconds": 9656.16,
+              "clock": "02:40:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002355"
+            },
+            {
+              "stable_id": "asr-002346",
+              "start_seconds": 9586.9,
+              "clock": "02:39:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002346"
+            },
+            {
+              "stable_id": "asr-002350",
+              "start_seconds": 9616.9,
+              "clock": "02:40:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002350"
+            },
+            {
+              "stable_id": "asr-002353",
+              "start_seconds": 9639.92,
+              "clock": "02:40:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002353"
+            },
+            {
+              "stable_id": "asr-002365",
+              "start_seconds": 9711.82,
+              "clock": "02:41:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002365"
+            },
+            {
+              "stable_id": "asr-002376",
+              "start_seconds": 9786.94,
+              "clock": "02:43:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002376"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dfa-programs-and-fy2027-budget",
+      "label": "DFA programs and FY2027 budget",
+      "items": [
+        {
+          "label": "Foreign policy pillars and ASEAN chairship",
+          "text": "Assistant Secretary Robespierre L. Bolivar described DFA's foreign-policy pillars as national security, economic security, and protection and welfare of Filipinos overseas through assistance-to-nationals and consular services, supported by public and cultural diplomacy and institutional development. He said the Philippines' 2026 Association of Southeast Asian Nations (ASEAN) chairship expected more than 641 meetings, including 26 at heads-of-state level, and coincided with the first implementation year of ASEAN Community Vision 2045 and the 50th anniversary of the Treaty of Amity and Cooperation in Southeast Asia. ASEAN leaders issued a Middle East crisis statement and a maritime-cooperation declaration; they endorsed a proposal for a Philippines-hosted ASEAN Maritime Centre. DFA supported the House of Representatives in ASEAN Inter-Parliamentary Assembly work with policy inputs, guidance and logistical support.",
+          "citations": [
+            {
+              "stable_id": "asr-000182",
+              "start_seconds": 845.48,
+              "clock": "00:14:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000182"
+            },
+            {
+              "stable_id": "asr-000188",
+              "start_seconds": 876.84,
+              "clock": "00:14:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000188"
+            },
+            {
+              "stable_id": "asr-000190",
+              "start_seconds": 893.48,
+              "clock": "00:14:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000190"
+            },
+            {
+              "stable_id": "asr-000191",
+              "start_seconds": 900.0,
+              "clock": "00:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000191"
+            },
+            {
+              "stable_id": "asr-000202",
+              "start_seconds": 937.9,
+              "clock": "00:15:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000202"
+            },
+            {
+              "stable_id": "asr-000205",
+              "start_seconds": 951.4,
+              "clock": "00:15:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000205"
+            }
+          ]
+        },
+        {
+          "label": "West Philippine Sea and multilateral diplomacy",
+          "text": "Bolivar said DFA had filed 33 diplomatic protests in 2026 to defend Philippine sovereign rights and jurisdiction in the West Philippine Sea. On 12 July, the Philippines and partner countries marked the 2016 Arbitral Award's anniversary with a joint statement affirming the award as final and binding, rejecting China's historic-rights claims in the South China Sea, and calling for peaceful dispute settlement under the United Nations Convention on the Law of the Sea (UNCLOS); the European Union, Germany, Japan and the Republic of Korea also issued supporting statements. The Philippines presented a partial submission on extended continental shelf entitlements in the West Palawan region to the Commission on the Limits of the Continental Shelf. Bolivar also described presidential bilateral visits and incoming leader engagements, ASEAN-level meetings with 55 foreign ministers and meetings between the Secretary of Foreign Affairs and 38 counterparts, plus UN engagements on rule of law, multilateralism, climate finance and maritime security.",
+          "citations": [
+            {
+              "stable_id": "asr-000212",
+              "start_seconds": 979.48,
+              "clock": "00:16:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000212"
+            },
+            {
+              "stable_id": "asr-000217",
+              "start_seconds": 1002.72,
+              "clock": "00:16:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000217"
+            },
+            {
+              "stable_id": "asr-000219",
+              "start_seconds": 1011.76,
+              "clock": "00:16:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000219"
+            },
+            {
+              "stable_id": "asr-000221",
+              "start_seconds": 1018.6800000000001,
+              "clock": "00:16:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000221"
+            },
+            {
+              "stable_id": "asr-000224",
+              "start_seconds": 1031.44,
+              "clock": "00:17:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000224"
+            },
+            {
+              "stable_id": "asr-000228",
+              "start_seconds": 1048.08,
+              "clock": "00:17:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000228"
+            },
+            {
+              "stable_id": "asr-000230",
+              "start_seconds": 1057.32,
+              "clock": "00:17:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000230"
+            },
+            {
+              "stable_id": "asr-000238",
+              "start_seconds": 1099.65,
+              "clock": "00:18:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000238"
+            },
+            {
+              "stable_id": "asr-000244",
+              "start_seconds": 1126.71,
+              "clock": "00:18:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000244"
+            },
+            {
+              "stable_id": "asr-000249",
+              "start_seconds": 1151.25,
+              "clock": "00:19:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000249"
+            },
+            {
+              "stable_id": "asr-000251",
+              "start_seconds": 1160.85,
+              "clock": "00:19:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000251"
+            }
+          ]
+        },
+        {
+          "label": "Economic cooperation and overseas Filipino protection",
+          "text": "DFA said it supported recognition abroad of Philippine educational credentials through mutual-recognition agreements, the Philippine Creative Industries Development Plan 2026-2034 and South-South development cooperation. Bolivar said 10.5 million Filipinos lived overseas, including 2.7 million overseas Filipino workers within the Department of Migrant Workers' remit; DFA assists other overseas Filipinos, including tourists, students, migrants and spouses of foreign nationals, and leads protection where no resident migrant-worker office exists. As of 31 July, it reported almost 3,000 Assistance-to-Nationals Fund beneficiaries and 16 Legal Assistance Fund beneficiaries; it had repatriated more than 1,000 trafficking victims from mainland Southeast Asia and assisted almost 2,000 Filipinos during the Middle East crisis. There were 67 Foreign Service posts without a resident migrant-worker office.",
+          "citations": [
+            {
+              "stable_id": "asr-000255",
+              "start_seconds": 1180.71,
+              "clock": "00:19:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000255"
+            },
+            {
+              "stable_id": "asr-000261",
+              "start_seconds": 1218.75,
+              "clock": "00:20:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000261"
+            },
+            {
+              "stable_id": "asr-000262",
+              "start_seconds": 1224.93,
+              "clock": "00:20:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000262"
+            },
+            {
+              "stable_id": "asr-000263",
+              "start_seconds": 1229.55,
+              "clock": "00:20:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000263"
+            },
+            {
+              "stable_id": "asr-000265",
+              "start_seconds": 1240.47,
+              "clock": "00:20:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000265"
+            },
+            {
+              "stable_id": "asr-000267",
+              "start_seconds": 1251.81,
+              "clock": "00:20:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000267"
+            },
+            {
+              "stable_id": "asr-000269",
+              "start_seconds": 1259.55,
+              "clock": "00:20:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000269"
+            },
+            {
+              "stable_id": "asr-000270",
+              "start_seconds": 1266.99,
+              "clock": "00:21:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000270"
+            },
+            {
+              "stable_id": "asr-000271",
+              "start_seconds": 1272.93,
+              "clock": "00:21:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000271"
+            },
+            {
+              "stable_id": "asr-000272",
+              "start_seconds": 1280.85,
+              "clock": "00:21:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000272"
+            }
+          ]
+        },
+        {
+          "label": "Consular services and overseas posts",
+          "text": "DFA processed more than 1.5 million passports, issued more than 67,000 visas and e-visas, issued 413,000 apostille and e-apostille certificates, and processed more than 36,000 civil-registry reports. It had 42 consular offices and had conducted 35 Passport on Wheels activities by 31 August 2026. Digital apostilles were online for Philippine Statistics Authority (PSA) civil-registry e-certificates, Commission on Higher Education (CHED) academic records and Maritime Industry Authority (MARINA) seafarer certificates; 77 Foreign Service posts issued e-visas, with the Department of Information and Communications Technology (DICT) supporting a phased rollout. In 2025 DFA opened its first resident embassy in the Pacific, in Suva, Fiji, and reopened consulates general in Busan, South Korea, and Seattle, Washington. The Ho Chi Minh City post had opened two months earlier. Accra and Astana were planned to open by year-end, and Miami in 2027; Miami would serve more than 200,000 Filipinos.",
+          "citations": [
+            {
+              "stable_id": "asr-000275",
+              "start_seconds": 1296.65,
+              "clock": "00:21:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000275"
+            },
+            {
+              "stable_id": "asr-000276",
+              "start_seconds": 1302.55,
+              "clock": "00:21:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000276"
+            },
+            {
+              "stable_id": "asr-000277",
+              "start_seconds": 1311.83,
+              "clock": "00:21:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000277"
+            },
+            {
+              "stable_id": "asr-000278",
+              "start_seconds": 1316.79,
+              "clock": "00:21:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000278"
+            },
+            {
+              "stable_id": "asr-000281",
+              "start_seconds": 1332.85,
+              "clock": "00:22:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000281"
+            },
+            {
+              "stable_id": "asr-000282",
+              "start_seconds": 1341.15,
+              "clock": "00:22:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000282"
+            },
+            {
+              "stable_id": "asr-000285",
+              "start_seconds": 1346.77,
+              "clock": "00:22:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000285"
+            },
+            {
+              "stable_id": "asr-000287",
+              "start_seconds": 1356.07,
+              "clock": "00:22:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000287"
+            },
+            {
+              "stable_id": "asr-000288",
+              "start_seconds": 1361.65,
+              "clock": "00:22:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000288"
+            },
+            {
+              "stable_id": "asr-000291",
+              "start_seconds": 1376.43,
+              "clock": "00:22:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000291"
+            },
+            {
+              "stable_id": "asr-000298",
+              "start_seconds": 1410.63,
+              "clock": "00:23:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000298"
+            },
+            {
+              "stable_id": "asr-000300",
+              "start_seconds": 1419.19,
+              "clock": "00:23:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000300"
+            },
+            {
+              "stable_id": "asr-000303",
+              "start_seconds": 1427.13,
+              "clock": "00:23:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000303"
+            },
+            {
+              "stable_id": "asr-000304",
+              "start_seconds": 1429.77,
+              "clock": "00:23:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000304"
+            },
+            {
+              "stable_id": "asr-000305",
+              "start_seconds": 1431.67,
+              "clock": "00:23:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000305"
+            },
+            {
+              "stable_id": "asr-000307",
+              "start_seconds": 1437.3899999999999,
+              "clock": "00:23:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000307"
+            },
+            {
+              "stable_id": "asr-000308",
+              "start_seconds": 1439.4099999999999,
+              "clock": "00:23:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000308"
+            },
+            {
+              "stable_id": "asr-000309",
+              "start_seconds": 1442.01,
+              "clock": "00:24:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000309"
+            },
+            {
+              "stable_id": "asr-000310",
+              "start_seconds": 1445.67,
+              "clock": "00:24:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000310"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 policy priorities and close",
+          "text": "For FY2027, Bolivar listed stronger bilateral strategic partnerships and multilateral mechanisms, protection of maritime sovereignty, promotion of creative industries and free-trade opportunities, services-trade facilitation and development cooperation, engagement with national agencies to protect overseas Filipinos, emergency-preparedness programs and an evidence-based overseas-Filipino database. DFA also planned continued apostille and authentication improvements, bilateral consular cooperation, uninterrupted consular service, overseas voter registration and voting assistance for the 2028 elections, ICT programs, operationalizing its ICT office, headquarters retrofitting and staff capacity-building.",
+          "citations": [
+            {
+              "stable_id": "asr-000347",
+              "start_seconds": 1516.3,
+              "clock": "00:25:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000347"
+            },
+            {
+              "stable_id": "asr-000361",
+              "start_seconds": 1530.76,
+              "clock": "00:25:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000361"
+            },
+            {
+              "stable_id": "asr-000377",
+              "start_seconds": 1548.42,
+              "clock": "00:25:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000377"
+            },
+            {
+              "stable_id": "asr-000383",
+              "start_seconds": 1577.01,
+              "clock": "00:26:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000383"
+            },
+            {
+              "stable_id": "asr-000389",
+              "start_seconds": 1602.67,
+              "clock": "00:26:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000389"
+            },
+            {
+              "stable_id": "asr-000391",
+              "start_seconds": 1614.23,
+              "clock": "00:26:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000391"
+            },
+            {
+              "stable_id": "asr-000395",
+              "start_seconds": 1632.67,
+              "clock": "00:27:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000395"
+            },
+            {
+              "stable_id": "asr-000397",
+              "start_seconds": 1644.67,
+              "clock": "00:27:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000397"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-remarks-and-proposed-budget",
+      "label": "Opening remarks and proposed budget",
+      "items": [
+        {
+          "label": "DFA mandate and consular performance",
+          "text": "Co-sponsor Rep. Niko Raul S.J. Daza described diplomacy as a first line of defense and linked DFA funding to protecting national interests and overseas Filipinos, economic partnerships and representing the country abroad. He cited the 2025 annual performance review, saying all indicators were met or exceeded; 99 percent of cases involving overseas Filipinos were acted on within the prescribed period, and 99 percent of passports were released on time. Daza also said the 43rd consular office, in Catarman, Northern Samar, was granted and funded, bringing DFA services closer to residents of the area.",
+          "citations": [
+            {
+              "stable_id": "asr-000112",
+              "start_seconds": 426.68,
+              "clock": "00:07:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000112"
+            },
+            {
+              "stable_id": "asr-000114",
+              "start_seconds": 435.38,
+              "clock": "00:07:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000114"
+            },
+            {
+              "stable_id": "asr-000115",
+              "start_seconds": 440.18,
+              "clock": "00:07:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000115"
+            },
+            {
+              "stable_id": "asr-000116",
+              "start_seconds": 441.94,
+              "clock": "00:07:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000116"
+            },
+            {
+              "stable_id": "asr-000117",
+              "start_seconds": 446.84,
+              "clock": "00:07:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000117"
+            },
+            {
+              "stable_id": "asr-000122",
+              "start_seconds": 466.88,
+              "clock": "00:07:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000122"
+            },
+            {
+              "stable_id": "asr-000123",
+              "start_seconds": 470.88,
+              "clock": "00:07:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000123"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-percival-perci-cenda-a",
+      "label": "Rep. Percival \"Perci\" Cendaña",
+      "items": [
+        {
+          "label": "DFA legislative liaison leadership",
+          "text": "Rep. Percival \"Perci\" Cendaña asked the Department of Foreign Affairs (DFA) why its DFA Legislative Liaison Unit (DLLU) head was not assigned at least Assistant Secretary rank, citing prior practice and the department's legislative role. Foreign Affairs Secretary Ma. Theresa P. Lazaro said the DLLU is a home-based unit attached to her office, and the department had reorganized other offices needing Assistant Secretaries, and she has discretion to appoint someone who knows the history and personnel of both Houses; she said the House is of paramount importance and that she and the other undersecretaries act on matters conveyed through the liaison. Cendaña appealed for an Assistant Secretary-level head and asked Lazaro to treat the request as a decision for consideration before plenary.",
+          "citations": [
+            {
+              "stable_id": "asr-000483",
+              "start_seconds": 2200.2200000000003,
+              "clock": "00:36:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000483"
+            },
+            {
+              "stable_id": "asr-000494",
+              "start_seconds": 2268.7799999999997,
+              "clock": "00:37:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000494"
+            },
+            {
+              "stable_id": "asr-000505",
+              "start_seconds": 2347.7,
+              "clock": "00:39:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000505"
+            },
+            {
+              "stable_id": "asr-000510",
+              "start_seconds": 2382.22,
+              "clock": "00:39:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000510"
+            },
+            {
+              "stable_id": "asr-000518",
+              "start_seconds": 2434.26,
+              "clock": "00:40:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000518"
+            }
+          ]
+        },
+        {
+          "label": "RO-RE arrangement at Ayungin Shoal",
+          "text": "Cendaña asked about the provisional rotation and resupply arrangement with China at Ayungin Shoal. Lazaro traced it to a June 2024 incident and a request from security agencies, and said the arrangement preserves the Philippines' positions under the United Nations Convention on the Law of the Sea (UNCLOS) and the 2016 Arbitral Award. She described the arrangement as an exchange of information supporting operational work by the Armed Forces of the Philippines (AFP) and Philippine Coast Guard, confirmed it was an exchange of notes, and said security agencies, particularly the National Security Council (NSC), were involved. She said it applies only to Ayungin Shoal and the BRP Sierra Madre, with RO meaning rotation and RE meaning reprovisioning of necessities. Asked whether it limits Philippine activity in the exclusive economic zone, Lazaro confined her answer to that ship and shoal. She offered to make the full terms available to the appropriate committee in executive or confidential session, and said 16 RO-RE missions had taken place over two years without incident; Cendaña said he would hold the department to sharing the details.",
+          "citations": [
+            {
+              "stable_id": "asr-000523",
+              "start_seconds": 2463.86,
+              "clock": "00:41:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000523"
+            },
+            {
+              "stable_id": "asr-000536",
+              "start_seconds": 2544.02,
+              "clock": "00:42:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000536"
+            },
+            {
+              "stable_id": "asr-000543",
+              "start_seconds": 2596.28,
+              "clock": "00:43:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000543"
+            },
+            {
+              "stable_id": "asr-000549",
+              "start_seconds": 2640.74,
+              "clock": "00:44:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000549"
+            },
+            {
+              "stable_id": "asr-000582-split-2",
+              "start_seconds": 2708.01,
+              "clock": "00:45:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000582-split-2"
+            },
+            {
+              "stable_id": "asr-000583",
+              "start_seconds": 2711.52,
+              "clock": "00:45:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000583"
+            },
+            {
+              "stable_id": "asr-000585",
+              "start_seconds": 2725.52,
+              "clock": "00:45:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000585"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-brian-poe",
+      "label": "Rep. Brian Poe",
+      "items": [
+        {
+          "label": "Diplomatic protests and West Philippine Sea incidents",
+          "text": "Rep. Brian Poe asked what results followed the Philippines' diplomatic protests over the West Philippine Sea, citing 27 protests in the first half of the year. Secretary Ma. Theresa P. Lazaro reported 39 protests for 2026 and said water-cannon and laser incidents appeared to have decreased. Deputy Assistant Secretary Rogelio Villanueva, Jr. added that the Department of Foreign Affairs (DFA) had issued 296 diplomatic protests from 2022 through 2026. He said results take time and require coordination with security agencies and the National Maritime Council as a whole-of-government effort. Poe said the protests support front-line personnel, including the Philippine Coast Guard (PCG) and fisherfolk, and that the country should continue responding to sovereignty violations.",
+          "citations": [
+            {
+              "stable_id": "asr-000623",
+              "start_seconds": 2957.42,
+              "clock": "00:49:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000623"
+            },
+            {
+              "stable_id": "asr-000624",
+              "start_seconds": 2965.02,
+              "clock": "00:49:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000624"
+            },
+            {
+              "stable_id": "asr-000629",
+              "start_seconds": 2995.02,
+              "clock": "00:49:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000629"
+            },
+            {
+              "stable_id": "asr-000638",
+              "start_seconds": 3061.66,
+              "clock": "00:51:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000638"
+            },
+            {
+              "stable_id": "asr-000639",
+              "start_seconds": 3069.5,
+              "clock": "00:51:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000639"
+            },
+            {
+              "stable_id": "asr-000631",
+              "start_seconds": 3012.38,
+              "clock": "00:50:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000631"
+            },
+            {
+              "stable_id": "asr-000646",
+              "start_seconds": 3114.2200000000003,
+              "clock": "00:51:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000646"
+            }
+          ]
+        },
+        {
+          "label": "Assistance for Filipinos affected in Nepal",
+          "text": "Poe asked whether the DFA had a complete list of Filipinos affected in Nepal and what support it was providing. Lazaro said the DFA had no foreign service establishment there and relied on the Philippine Embassy in New Delhi, which has jurisdiction over Nepal, along with an honorary consul in Kathmandu. She reported one Filipino missing; search efforts with international organizations and local authorities continued, and the family was being asked for DNA to help identify recovered bodies. She separately cited reports of about 4,000 missing persons in Nepal.",
+          "citations": [
+            {
+              "stable_id": "asr-000657",
+              "start_seconds": 3180.7799999999997,
+              "clock": "00:53:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000657"
+            },
+            {
+              "stable_id": "asr-000659",
+              "start_seconds": 3193.02,
+              "clock": "00:53:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000659"
+            },
+            {
+              "stable_id": "asr-000665",
+              "start_seconds": 3227.58,
+              "clock": "00:53:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000665"
+            },
+            {
+              "stable_id": "asr-000666",
+              "start_seconds": 3232.7799999999997,
+              "clock": "00:53:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000666"
+            }
+          ]
+        },
+        {
+          "label": "Efforts to repatriate Sam De La Cruz's remains",
+          "text": "Poe asked for an update on Sam De La Cruz, a 25-year-old Filipino migrant worker who died in 2018 while working aboard a fishing vessel and was buried in Somalia; his family continued seeking the return of his remains. DFA OIC Undersecretary Ezzedin H. Tago said the DFA was coordinating with his recruitment agency, GMM Global Maritime. The Philippine Embassy in Nairobi, which handles Somalia, had sent diplomatic notes but had received no official response. GMM had located the burial site in Bosaso and worked to secure exhumation permits and funding; negotiations stalled despite a preliminary agreement. In 2025 the DFA asked the Nairobi embassy to re-engage Somali authorities; after another lack of official reply, Tago said the DFA would instruct the embassy again to meet Somali officials in Nairobi and revive the matter. Poe said the DFA should keep pressing for the return of the remains.",
+          "citations": [
+            {
+              "stable_id": "asr-000668",
+              "start_seconds": 3275.2200000000003,
+              "clock": "00:54:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000668"
+            },
+            {
+              "stable_id": "asr-000669",
+              "start_seconds": 3289.2799999999997,
+              "clock": "00:54:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000669"
+            },
+            {
+              "stable_id": "asr-000673",
+              "start_seconds": 3319.2799999999997,
+              "clock": "00:55:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000673"
+            },
+            {
+              "stable_id": "asr-000688",
+              "start_seconds": 3423.34,
+              "clock": "00:57:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000688"
+            },
+            {
+              "stable_id": "asr-000690",
+              "start_seconds": 3439.2799999999997,
+              "clock": "00:57:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000690"
+            },
+            {
+              "stable_id": "asr-000691",
+              "start_seconds": 3446.18,
+              "clock": "00:57:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000691"
+            },
+            {
+              "stable_id": "asr-000695",
+              "start_seconds": 3475.38,
+              "clock": "00:57:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000695"
+            },
+            {
+              "stable_id": "asr-000696",
+              "start_seconds": 3483.8,
+              "clock": "00:58:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000696"
+            },
+            {
+              "stable_id": "asr-000697",
+              "start_seconds": 3494.66,
+              "clock": "00:58:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000697"
+            }
+          ]
+        },
+        {
+          "label": "Mombasa Declaration and fisheries transparency",
+          "text": "Poe asked for the DFA's assessment of the Mombasa Declaration in light of the Philippines' maritime and fishing interests. Deputy Assistant Secretary Rogelio Villanueva, Jr. described it as an international commitment to fisheries transparency and efforts against illegal, unreported fishing, adopted on June 17, 2026 by 16 countries. After consultation with the Department of Agriculture (DA), particularly the Bureau of Fisheries and Aquatic Resources (BFAR), the Philippines had concerns about open access and sharing sensitive fisheries information, data ownership and confidentiality. Villanueva said the government already used measures such as ship identifiers and would continue consulting the DA and BFAR to develop a firmer position. Poe asked to be kept updated on that position.",
+          "citations": [
+            {
+              "stable_id": "asr-000716",
+              "start_seconds": 3575.06,
+              "clock": "00:59:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000716"
+            },
+            {
+              "stable_id": "asr-000730-split-2",
+              "start_seconds": 3608.6,
+              "clock": "01:00:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000730-split-2"
+            },
+            {
+              "stable_id": "asr-000733",
+              "start_seconds": 3633.36,
+              "clock": "01:00:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000733"
+            },
+            {
+              "stable_id": "asr-000737",
+              "start_seconds": 3659.36,
+              "clock": "01:00:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000737"
+            },
+            {
+              "stable_id": "asr-000741",
+              "start_seconds": 3681.68,
+              "clock": "01:01:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000741"
+            },
+            {
+              "stable_id": "asr-000743",
+              "start_seconds": 3697.52,
+              "clock": "01:01:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000743"
+            },
+            {
+              "stable_id": "asr-000745",
+              "start_seconds": 3711.36,
+              "clock": "01:01:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000745"
+            },
+            {
+              "stable_id": "asr-000746",
+              "start_seconds": 3717.04,
+              "clock": "01:01:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000746"
+            },
+            {
+              "stable_id": "asr-000750",
+              "start_seconds": 3741.36,
+              "clock": "01:02:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000750"
+            }
+          ]
+        },
+        {
+          "label": "DFA responsibilities for Pax Silica",
+          "text": "Poe asked what role the DFA had in Pax Silica. Lazaro said the Department of Trade and Industry (DTI) and the Bases Conversion and Development Authority (BCDA) handled the agreement, which was signed by a DTI representative. She said the DFA was aware of the related Luzon Economic Corridor through the trilateral meetings among the United States, Japan and the Philippines, and had offered advice during initial discussions with U.S. officials and other agencies. Poe summarized the DFA's part as an initial advisory role, with DTI and BCDA responsible for the economic agreement.",
+          "citations": [
+            {
+              "stable_id": "asr-000753",
+              "start_seconds": 3759.52,
+              "clock": "01:02:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000753"
+            },
+            {
+              "stable_id": "asr-000755",
+              "start_seconds": 3771.76,
+              "clock": "01:02:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000755"
+            },
+            {
+              "stable_id": "asr-000758",
+              "start_seconds": 3792.08,
+              "clock": "01:03:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000758"
+            },
+            {
+              "stable_id": "asr-000760",
+              "start_seconds": 3801.36,
+              "clock": "01:03:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000760"
+            },
+            {
+              "stable_id": "asr-000763-split-2",
+              "start_seconds": 3825.57,
+              "clock": "01:03:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000763-split-2"
+            },
+            {
+              "stable_id": "asr-000768",
+              "start_seconds": 3861.36,
+              "clock": "01:04:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000768"
+            },
+            {
+              "stable_id": "asr-000773",
+              "start_seconds": 3898.8,
+              "clock": "01:04:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000773"
+            },
+            {
+              "stable_id": "asr-000774",
+              "start_seconds": 3905.04,
+              "clock": "01:05:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000774"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-dadah-kiram-ismula",
+      "label": "Rep. Dadah Kiram Ismula",
+      "items": [
+        {
+          "label": "Business and human-rights treaty process",
+          "text": "Rep. Dadah Kiram Ismula asked about Philippine participation in the Geneva negotiations for a legally binding instrument regulating transnational corporations, citing accountability for labor and environmental violations. DFA Assistant Secretary Leila C. Lora-Santos distinguished the civil-society and private-sector pathway from the government process followed by DFA colleagues in Geneva. Foreign Affairs Secretary Ma. Theresa P. Lazaro committed to coordinate with the Geneva mission so relevant civil society organizations (CSOs) would be informed and could be represented. Ismula cited House Resolution No. 902 urging DFA engagement and said the representation would join the October discussion.",
+          "citations": [
+            {
+              "stable_id": "asr-000797",
+              "start_seconds": 4057.1,
+              "clock": "01:07:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000797"
+            },
+            {
+              "stable_id": "asr-000828",
+              "start_seconds": 4199.3,
+              "clock": "01:09:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000828"
+            },
+            {
+              "stable_id": "asr-000831",
+              "start_seconds": 4218.03,
+              "clock": "01:10:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000831"
+            },
+            {
+              "stable_id": "asr-000832",
+              "start_seconds": 4226.93,
+              "clock": "01:10:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000832"
+            },
+            {
+              "stable_id": "asr-000833",
+              "start_seconds": 4232.3099999999995,
+              "clock": "01:10:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000833"
+            },
+            {
+              "stable_id": "asr-000836",
+              "start_seconds": 4259.33,
+              "clock": "01:10:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000836"
+            },
+            {
+              "stable_id": "asr-000842",
+              "start_seconds": 4307.87,
+              "clock": "01:11:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000842"
+            },
+            {
+              "stable_id": "asr-000843",
+              "start_seconds": 4322.87,
+              "clock": "01:12:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000843"
+            },
+            {
+              "stable_id": "asr-000845",
+              "start_seconds": 4348.71,
+              "clock": "01:12:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-000845"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-eulogio-leo-r-rodriguez",
+      "label": "Rep. Eulogio \"Leo\" R. Rodriguez",
+      "items": [
+        {
+          "label": "Access to consular services and review of offices",
+          "text": "Rep. Eulogio \"Leo\" R. Rodriguez asked how the Department of Foreign Affairs (DFA) considers distance, geographic isolation, travel cost and access when deciding where consular offices are needed. Assistant Secretary Anne Jalando-on Louis said the DFA was evaluating its 42 consular offices and conducting a nationwide assessment, aligning its organizational structure with the government public sector optimization program and considering demand, accessibility, proximity to existing offices, operational viability, fiscal sustainability and distribution. She said the Department of Budget and Management (DBM) had raised the effect that new offices could have on existing offices' service output.",
+          "citations": [
+            {
+              "stable_id": "asr-001046",
+              "start_seconds": 4919.12,
+              "clock": "01:21:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001046"
+            },
+            {
+              "stable_id": "asr-001069",
+              "start_seconds": 4994.14,
+              "clock": "01:23:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001069"
+            },
+            {
+              "stable_id": "asr-001071",
+              "start_seconds": 5001.14,
+              "clock": "01:23:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001071"
+            },
+            {
+              "stable_id": "asr-001073",
+              "start_seconds": 5011.14,
+              "clock": "01:23:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001073"
+            },
+            {
+              "stable_id": "asr-001074",
+              "start_seconds": 5015.14,
+              "clock": "01:23:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001074"
+            },
+            {
+              "stable_id": "asr-001082",
+              "start_seconds": 5047.14,
+              "clock": "01:24:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001082"
+            },
+            {
+              "stable_id": "asr-001085",
+              "start_seconds": 5057.14,
+              "clock": "01:24:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001085"
+            }
+          ]
+        },
+        {
+          "label": "Catanduanes satellite office request and interim service",
+          "text": "Rodriguez asked the DFA to consider a smaller satellite office in Catanduanes. He said a completed, equipped Catanduanes People's Center on Catanduanes State University land could house government services, and that residents can be isolated in bad weather; he particularly wanted DFA and Professional Regulation Commission (PRC) services nearby. Louis said opening full consular offices is governed by Executive Order 45, with population, projected service output and projected revenue among the criteria. The DFA was studying whether a smaller satellite-office model could work. Secretary Ma. Theresa P. Lazaro said Catanduanes was under consideration and that the DBM would make the final assessment under the guidelines. While that decision was pending, she proposed a Passport on Wheels visit on an agreed date and time. He renewed his request for a temporary satellite point while the option was studied. At Chair Rep. Sancho Fernando \"Ando\" F. Oaminal's request, Lazaro agreed to provide Rodriguez a status update and said she would speak with the DBM for serious consideration of Catanduanes. Rodriguez reserved the DFA's place at the center while thanking the committee.",
+          "citations": [
+            {
+              "stable_id": "asr-001094",
+              "start_seconds": 5089.14,
+              "clock": "01:24:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001094"
+            },
+            {
+              "stable_id": "asr-001098",
+              "start_seconds": 5112.14,
+              "clock": "01:25:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001098"
+            },
+            {
+              "stable_id": "asr-001107",
+              "start_seconds": 5142.14,
+              "clock": "01:25:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001107"
+            },
+            {
+              "stable_id": "asr-001115",
+              "start_seconds": 5170.62,
+              "clock": "01:26:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001115"
+            },
+            {
+              "stable_id": "asr-001171",
+              "start_seconds": 5318.62,
+              "clock": "01:28:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001171"
+            },
+            {
+              "stable_id": "asr-001174",
+              "start_seconds": 5327.62,
+              "clock": "01:28:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001174"
+            },
+            {
+              "stable_id": "asr-001183",
+              "start_seconds": 5351.62,
+              "clock": "01:29:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001183"
+            },
+            {
+              "stable_id": "asr-001192",
+              "start_seconds": 5368.62,
+              "clock": "01:29:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001192"
+            },
+            {
+              "stable_id": "asr-001272",
+              "start_seconds": 5488.52,
+              "clock": "01:31:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001272"
+            },
+            {
+              "stable_id": "asr-001309",
+              "start_seconds": 5562.58,
+              "clock": "01:32:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001309"
+            },
+            {
+              "stable_id": "asr-001310",
+              "start_seconds": 5564.82,
+              "clock": "01:32:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001310"
+            },
+            {
+              "stable_id": "asr-001315",
+              "start_seconds": 5575.12,
+              "clock": "01:32:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001315"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-renee-louise-m-co",
+      "label": "Rep. Renee Louise M. Co",
+      "items": [
+        {
+          "label": "Critical minerals agreement and the DFA's review role",
+          "text": "Rep. Renee Louise M. Co asked the Department of Foreign Affairs (DFA) for the United States-Philippines Critical Minerals Agreement, also described as a memorandum of understanding (MOU), and how it fits the reported U.S. agreements with ten other countries. Co said the agreement was not publicly available and wanted the committee to assess its terms alongside the Philippine critical minerals framework and related initiatives. Foreign Affairs Secretary Ma. Theresa P. Lazaro said the agreement was signed by the Department of Environment and Natural Resources (DENR), with the Department of Trade and Industry (DTI) and Board of Investments (BOI) involved; the DFA did not have the agreement and could request a copy from DENR. When Co asked whether the DFA reviewed it, Lazaro referred the question to Undersecretary Leo M. Herrera-Lim. He recalled that the request for signing authority went through the DFA and DENR supplied a national-importance statement, while the decision rested with DENR; the agreement had not yet reached actual execution. Herrera-Lim said the lead agencies saw potential for technology transfer and domestic value-added processing of critical minerals, with related investment and protection from price volatility, and the DFA accepted their assessment. Undersecretary Maria Andrelita S. Austria of the Office of International Economic Relations said the agreement's economic aspects were reviewed by DENR and DTI, rather than her office. Co raised the DFA's role in checking consistency with other agreements and wider implications; Lazaro described the DFA as a conduit that gives concurrence when another agency leads and said the lead agencies had judged the agreement beneficial. Co then asked the DFA to obtain the MOU for the committee. Lazaro confirmed it was not held by the DFA but said it could request it from the concerned agency; Co asked that it be provided before plenary.",
+          "citations": [
+            {
+              "stable_id": "asr-001372",
+              "start_seconds": 5694.72,
+              "clock": "01:34:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001372"
+            },
+            {
+              "stable_id": "asr-001390",
+              "start_seconds": 5730.72,
+              "clock": "01:35:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001390"
+            },
+            {
+              "stable_id": "asr-001402",
+              "start_seconds": 5754.72,
+              "clock": "01:35:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001402"
+            },
+            {
+              "stable_id": "asr-001457",
+              "start_seconds": 5866.72,
+              "clock": "01:37:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001457"
+            },
+            {
+              "stable_id": "asr-001488",
+              "start_seconds": 5928.72,
+              "clock": "01:38:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001488"
+            },
+            {
+              "stable_id": "asr-001506",
+              "start_seconds": 5964.72,
+              "clock": "01:39:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001506"
+            },
+            {
+              "stable_id": "asr-001552",
+              "start_seconds": 6056.72,
+              "clock": "01:40:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001552"
+            },
+            {
+              "stable_id": "asr-001675",
+              "start_seconds": 6315.96,
+              "clock": "01:45:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001675"
+            },
+            {
+              "stable_id": "asr-001676",
+              "start_seconds": 6325.5,
+              "clock": "01:45:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001676"
+            },
+            {
+              "stable_id": "asr-001677",
+              "start_seconds": 6328.96,
+              "clock": "01:45:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001677"
+            },
+            {
+              "stable_id": "asr-001679",
+              "start_seconds": 6334.02,
+              "clock": "01:45:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001679"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-julius-cesar-jay-v-vergara",
+      "label": "Rep. Julius Cesar \"Jay\" V. Vergara",
+      "items": [
+        {
+          "label": "Cabanatuan consular office request",
+          "text": "Rep. Julius Cesar \"Jay\" V. Vergara renewed his request for a Department of Foreign Affairs (DFA) consular office in Cabanatuan City, describing the city as strategically placed to serve people from Regions I, II and III and nearby areas. He said the local government unit (LGU) had funded a 31,000-square-meter marketplace and that space was available for government services. Vergara asked for a written explanation of the status of consular-office requests from members. Secretary Ma. Theresa P. Lazaro said Cabanatuan was on the DFA's list of proposed offices requiring Department of Budget and Management (DBM) approval, and that the department was waiting for that approval.",
+          "citations": [
+            {
+              "stable_id": "asr-001685",
+              "start_seconds": 6361.81,
+              "clock": "01:46:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001685"
+            },
+            {
+              "stable_id": "asr-001687",
+              "start_seconds": 6372.39,
+              "clock": "01:46:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001687"
+            },
+            {
+              "stable_id": "asr-001688",
+              "start_seconds": 6375.93,
+              "clock": "01:46:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001688"
+            },
+            {
+              "stable_id": "asr-001705",
+              "start_seconds": 6463.18,
+              "clock": "01:47:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001705"
+            },
+            {
+              "stable_id": "asr-001714",
+              "start_seconds": 6502.54,
+              "clock": "01:48:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001714"
+            },
+            {
+              "stable_id": "asr-001717",
+              "start_seconds": 6513.42,
+              "clock": "01:48:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001717"
+            }
+          ]
+        },
+        {
+          "label": "Diplomatic dialogue with China and consular protection",
+          "text": "Vergara asked how the Philippines was responding to China's actions, saying public sentiment was rising and urging that China not repeat the conduct of past foreign powers. Lazaro said the President's policy was to address disputes through diplomacy and dialogue. The DFA uses the Bilateral Consultation Mechanism on the South China Sea and foreign-ministry consultations, which take place at least twice a year, along with Association of Southeast Asian Nations (ASEAN) mechanisms and work toward an ASEAN-China Code of Conduct on the South China Sea. She added that the DFA monitors Filipino nationals detained in China through its consular offices and seeks notification of the charges under the Vienna Convention. Vergara said he supported diplomacy as the chosen path.",
+          "citations": [
+            {
+              "stable_id": "asr-001735",
+              "start_seconds": 6589.92,
+              "clock": "01:49:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001735"
+            },
+            {
+              "stable_id": "asr-001742",
+              "start_seconds": 6620.66,
+              "clock": "01:50:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001742"
+            },
+            {
+              "stable_id": "asr-001744",
+              "start_seconds": 6632.34,
+              "clock": "01:50:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001744"
+            },
+            {
+              "stable_id": "asr-001748",
+              "start_seconds": 6651.26,
+              "clock": "01:50:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001748"
+            },
+            {
+              "stable_id": "asr-001751",
+              "start_seconds": 6662.34,
+              "clock": "01:51:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001751"
+            },
+            {
+              "stable_id": "asr-001754",
+              "start_seconds": 6683.44,
+              "clock": "01:51:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001754"
+            },
+            {
+              "stable_id": "asr-001756",
+              "start_seconds": 6692.34,
+              "clock": "01:51:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001756"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-antonio-l-tinio",
+      "label": "Rep. Antonio L. Tinio",
+      "items": [
+        {
+          "label": "Passport database location and technical report",
+          "text": "Tinio asked where the Filipino public's passport data is stored and how the DFA protects its privacy and sovereignty. Assistant Secretary Anne Jalando-on Louis said the APO Printing Unit, a government printer, operates the passport production plant in Lima, Batangas and maintains the passport-database server. She confirmed the database is in-country and agreed it is not in the cloud. Tinio asked for a more technical report for committee review.",
+          "citations": [
+            {
+              "stable_id": "asr-001917",
+              "start_seconds": 7167.65,
+              "clock": "01:59:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001917"
+            },
+            {
+              "stable_id": "asr-001935",
+              "start_seconds": 7216.72,
+              "clock": "02:00:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001935"
+            },
+            {
+              "stable_id": "asr-001938",
+              "start_seconds": 7249.84,
+              "clock": "02:00:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001938"
+            },
+            {
+              "stable_id": "asr-001940-split-2",
+              "start_seconds": 7259.9,
+              "clock": "02:00:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001940-split-2"
+            },
+            {
+              "stable_id": "asr-001941-split-2",
+              "start_seconds": 7267.6,
+              "clock": "02:01:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001941-split-2"
+            },
+            {
+              "stable_id": "asr-001941-split-3",
+              "start_seconds": 7268.2,
+              "clock": "02:01:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001941-split-3"
+            },
+            {
+              "stable_id": "asr-001942-split-4",
+              "start_seconds": 7282.6,
+              "clock": "02:01:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001942-split-4"
+            }
+          ]
+        },
+        {
+          "label": "Pax Silica: DFA role and continuity",
+          "text": "Tinio asked whether the DFA remained directly involved in Pax Silica and how much confidence to place in a non-binding arrangement if a future U.S. administration changed course. Secretary Ma. Theresa P. Lazaro said the DFA joined early discussions while the concept was being developed, but the Department of Trade and Industry (DTI) took the lead on the document; she said the DFA still follows developments and messaging. Lazaro viewed critical minerals and semiconductors as continuing policy concerns across administrations, but agreed that a future U.S. administration could choose not to continue the non-binding arrangement, which is not a treaty imposing obligations.",
+          "citations": [
+            {
+              "stable_id": "asr-001943",
+              "start_seconds": 7286.56,
+              "clock": "02:01:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001943"
+            },
+            {
+              "stable_id": "asr-001947",
+              "start_seconds": 7309.44,
+              "clock": "02:01:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001947"
+            },
+            {
+              "stable_id": "asr-001952",
+              "start_seconds": 7346.96,
+              "clock": "02:02:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001952"
+            },
+            {
+              "stable_id": "asr-001956",
+              "start_seconds": 7375.96,
+              "clock": "02:02:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001956"
+            },
+            {
+              "stable_id": "asr-001958",
+              "start_seconds": 7389.8,
+              "clock": "02:03:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001958"
+            },
+            {
+              "stable_id": "asr-001961-split-2",
+              "start_seconds": 7430.72,
+              "clock": "02:03:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001961-split-2"
+            },
+            {
+              "stable_id": "asr-001971-split-2",
+              "start_seconds": 7492.5,
+              "clock": "02:04:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001971-split-2"
+            }
+          ]
+        },
+        {
+          "label": "Status of Forces Agreements and document request",
+          "text": "Tinio noted the presentation listed three implemented Status of Forces Agreements (SOFAs), but Presidential Commission on Visiting Forces (PCVF) Executive Director Antonio Atanacio Habulan corrected the count to five after Senate concurrence for New Zealand and Canada. He identified the five as the United States, Australia, Japan, New Zealand and Canada; France was awaiting ratification and concurrence; the United Kingdom was in the negotiation pipeline. Tinio requested complete texts of the SOFAs other than the U.S. agreement, which the committee already had. Habulan said the Department of National Defense (DND), the lead agency for negotiations, held the texts and committed to ask it for copies.",
+          "citations": [
+            {
+              "stable_id": "asr-001981",
+              "start_seconds": 7540.23,
+              "clock": "02:05:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001981"
+            },
+            {
+              "stable_id": "asr-001984",
+              "start_seconds": 7556.16,
+              "clock": "02:05:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001984"
+            },
+            {
+              "stable_id": "asr-001989",
+              "start_seconds": 7573.46,
+              "clock": "02:06:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001989"
+            },
+            {
+              "stable_id": "asr-001991",
+              "start_seconds": 7587.02,
+              "clock": "02:06:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001991"
+            },
+            {
+              "stable_id": "asr-001993",
+              "start_seconds": 7593.14,
+              "clock": "02:06:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-001993"
+            },
+            {
+              "stable_id": "asr-002002",
+              "start_seconds": 7615.4,
+              "clock": "02:06:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002002"
+            },
+            {
+              "stable_id": "asr-002004",
+              "start_seconds": 7623.72,
+              "clock": "02:07:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002004"
+            },
+            {
+              "stable_id": "asr-002011",
+              "start_seconds": 7639.12,
+              "clock": "02:07:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002011"
+            }
+          ]
+        },
+        {
+          "label": "Chinese Embassy account authentication",
+          "text": "Tinio asked the DFA to confirm whether the Chinese Embassy in Manila's Twitter account was authentic. DFA Deputy Assistant Secretary Rogelio Villanueva, Jr. first said the DFA needed to verify it. After Tinio pressed the point, Villanueva clarified that the DFA's Asia-Pacific office had confirmed the account was authentic and linked to the Chinese Embassy.",
+          "citations": [
+            {
+              "stable_id": "asr-002021",
+              "start_seconds": 7657.84,
+              "clock": "02:07:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002021"
+            },
+            {
+              "stable_id": "asr-002027",
+              "start_seconds": 7685.58,
+              "clock": "02:08:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002027"
+            },
+            {
+              "stable_id": "asr-002034",
+              "start_seconds": 7740.2,
+              "clock": "02:09:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002034"
+            },
+            {
+              "stable_id": "asr-002037",
+              "start_seconds": 7757.96,
+              "clock": "02:09:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002037"
+            },
+            {
+              "stable_id": "asr-002038",
+              "start_seconds": 7760.96,
+              "clock": "02:09:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002038"
+            },
+            {
+              "stable_id": "asr-002039",
+              "start_seconds": 7763.96,
+              "clock": "02:09:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002039"
+            }
+          ]
+        },
+        {
+          "label": "Ayungin Shoal RO-RE arrangement and information exchange",
+          "text": "Representative Antonio L. Tinio asked whether a provisional arrangement existed for rotation and resupply (RO-RE) missions to Ayungin Shoal and what it covered. Department of Foreign Affairs (DFA) Secretary Ma. Theresa P. Lazaro said the arrangement is without prejudice to Philippine positions under the United Nations Convention on the Law of the Sea (UNCLOS) and the Arbitral Award. She described it as an information exchange, not a request for permission: the operational decisions belong to the Armed Forces of the Philippines (AFP), including Western Command (WESTCOM), and the Philippine Coast Guard (PCG), which determine when daily necessities are needed. The parties exchange information about the boat or vehicle going to the area and the vessels expected to be present. Lazaro said the arrangement contains no reference to construction materials. Tinio acknowledged that tensions at the shoal had eased and thanked her for clarifying the arrangement.",
+          "citations": [
+            {
+              "stable_id": "asr-002411",
+              "start_seconds": 10024.93,
+              "clock": "02:47:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002411"
+            },
+            {
+              "stable_id": "asr-002443",
+              "start_seconds": 10204.49,
+              "clock": "02:50:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002443"
+            },
+            {
+              "stable_id": "asr-002448",
+              "start_seconds": 10230.99,
+              "clock": "02:50:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002448"
+            },
+            {
+              "stable_id": "asr-002452",
+              "start_seconds": 10249.5,
+              "clock": "02:50:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002452"
+            },
+            {
+              "stable_id": "asr-002460",
+              "start_seconds": 10257.38,
+              "clock": "02:50:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002460"
+            },
+            {
+              "stable_id": "asr-002461",
+              "start_seconds": 10259.8,
+              "clock": "02:50:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002461"
+            },
+            {
+              "stable_id": "asr-002464",
+              "start_seconds": 10274.38,
+              "clock": "02:51:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002464"
+            },
+            {
+              "stable_id": "asr-002466",
+              "start_seconds": 10278.66,
+              "clock": "02:51:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002466"
+            },
+            {
+              "stable_id": "asr-002494",
+              "start_seconds": 10396.44,
+              "clock": "02:53:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002494"
+            },
+            {
+              "stable_id": "asr-002496",
+              "start_seconds": 10408.82,
+              "clock": "02:53:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002496"
+            },
+            {
+              "stable_id": "asr-002498",
+              "start_seconds": 10424.7,
+              "clock": "02:53:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002498"
+            },
+            {
+              "stable_id": "asr-002500",
+              "start_seconds": 10432.04,
+              "clock": "02:53:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002500"
+            },
+            {
+              "stable_id": "asr-002504",
+              "start_seconds": 10456.06,
+              "clock": "02:54:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002504"
+            }
+          ]
+        },
+        {
+          "label": "Chinese Embassy social-media statements and DFA response",
+          "text": "Tinio cited public statements from the Chinese Embassy in Manila on the West Philippine Sea and South China Sea, including a post rejecting the Arbitral Award, and asked why DFA had been silent and whether the embassy's conduct met diplomatic standards. Lazaro referred the question to DFA Assistant Secretary Robespierre L. Bolivar, who said DFA had raised with the embassy that foreign-ministry and diplomatic channels are the proper forums for exchanging positions. He said DFA responds when statements directly contradict facts about the Arbitral Award or Philippine actions, while it does not always answer repeated arguments publicly when the positions are addressed through diplomatic representation. Asked about options such as summoning the ambassador, Bolivar described regular contact with the Chinese Embassy and officials of China's Ministry of Foreign Affairs in Beijing, and said DFA can lodge formal protests about specific statements by China's foreign ministry or government. When Tinio requested a report and asked whether protests addressed embassy posts, Bolivar clarified that protests address Chinese positions and do not always concern public statements, though some protests issued since 2022 related to them.",
+          "citations": [
+            {
+              "stable_id": "asr-002508",
+              "start_seconds": 10490.99,
+              "clock": "02:54:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002508"
+            },
+            {
+              "stable_id": "asr-002520",
+              "start_seconds": 10581.68,
+              "clock": "02:56:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002520"
+            },
+            {
+              "stable_id": "asr-002538-split-3",
+              "start_seconds": 10703.3,
+              "clock": "02:58:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002538-split-3"
+            },
+            {
+              "stable_id": "asr-002543",
+              "start_seconds": 10726.83,
+              "clock": "02:58:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002543"
+            },
+            {
+              "stable_id": "asr-002546",
+              "start_seconds": 10744.51,
+              "clock": "02:59:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002546"
+            },
+            {
+              "stable_id": "asr-002552",
+              "start_seconds": 10774.5,
+              "clock": "02:59:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002552"
+            },
+            {
+              "stable_id": "asr-002554",
+              "start_seconds": 10791.19,
+              "clock": "02:59:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002554"
+            },
+            {
+              "stable_id": "asr-002588",
+              "start_seconds": 10866.32,
+              "clock": "03:01:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002588"
+            },
+            {
+              "stable_id": "asr-002602",
+              "start_seconds": 10895.1,
+              "clock": "03:01:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002602"
+            },
+            {
+              "stable_id": "asr-002642",
+              "start_seconds": 10973.86,
+              "clock": "03:02:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002642"
+            },
+            {
+              "stable_id": "asr-002652",
+              "start_seconds": 10997.58,
+              "clock": "03:03:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002652"
+            },
+            {
+              "stable_id": "asr-002657",
+              "start_seconds": 11007.34,
+              "clock": "03:03:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002657"
+            },
+            {
+              "stable_id": "asr-002666",
+              "start_seconds": 11025.16,
+              "clock": "03:03:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002666"
+            }
+          ]
+        },
+        {
+          "label": "Joint oil-and-gas cooperation and possible DFA lead",
+          "text": "Tinio cited the President's reported August 14 comments about possible joint exploration with China before the end of his term and asked whether DFA was leading current discussions. Lazaro said the issue is described as joint cooperation on oil and gas, not joint development. She said the previous Secretary had led earlier discussions and a CONRAD document had been terminated unilaterally to give the next administration a free hand, with constitutional questions, applicable laws and taxation still at issue. Lazaro said the matter was under serious consideration but DFA was setting it aside while preparing for the ASEAN summit in November, to be addressed at an appropriate time. Asked who would lead, she said she would be involved if the initiative proceeded, with other agencies, particularly the Department of Energy (DOE), also involved. She agreed with Tinio that ASEAN commitments were the reason it had not yet been taken up.",
+          "citations": [
+            {
+              "stable_id": "asr-002696",
+              "start_seconds": 11090.9,
+              "clock": "03:04:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002696"
+            },
+            {
+              "stable_id": "asr-002736",
+              "start_seconds": 11169.92,
+              "clock": "03:06:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002736"
+            },
+            {
+              "stable_id": "asr-002748",
+              "start_seconds": 11194.3,
+              "clock": "03:06:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002748"
+            },
+            {
+              "stable_id": "asr-002762",
+              "start_seconds": 11221.04,
+              "clock": "03:07:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002762"
+            },
+            {
+              "stable_id": "asr-002765",
+              "start_seconds": 11227.78,
+              "clock": "03:07:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002765"
+            },
+            {
+              "stable_id": "asr-002767",
+              "start_seconds": 11232.46,
+              "clock": "03:07:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002767"
+            },
+            {
+              "stable_id": "asr-002771",
+              "start_seconds": 11240.42,
+              "clock": "03:07:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002771"
+            },
+            {
+              "stable_id": "asr-002782",
+              "start_seconds": 11260.34,
+              "clock": "03:07:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002782"
+            },
+            {
+              "stable_id": "asr-002787",
+              "start_seconds": 11270.46,
+              "clock": "03:07:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002787"
+            },
+            {
+              "stable_id": "asr-002803",
+              "start_seconds": 11302.24,
+              "clock": "03:08:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002803"
+            },
+            {
+              "stable_id": "asr-002806",
+              "start_seconds": 11308.42,
+              "clock": "03:08:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002806"
+            },
+            {
+              "stable_id": "asr-002812-split-2",
+              "start_seconds": 11320.75,
+              "clock": "03:08:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002812-split-2"
+            },
+            {
+              "stable_id": "asr-002813",
+              "start_seconds": 11322.56,
+              "clock": "03:08:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002813"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rep-sarah-jane-i-elago",
+      "label": "Rep. Sarah Jane I. Elago",
+      "items": [
+        {
+          "label": "Seafarer safety and the Strait of Hormuz",
+          "text": "Rep. Sarah Jane I. Elago asked what protections were in place after two Filipino seafarers died in an attack on an oil tanker in the Strait of Hormuz; she also noted a further seafarer death reported the previous month and one person missing since March. Secretary Ma. Theresa P. Lazaro said the Department of Migrant Workers (DMW) had primary jurisdiction and monitored seafarers, while the Department of Foreign Affairs (DFA) assisted where no DMW office was present. DFA OIC Undersecretary Ezzedin H. Tago, said a report from the Philippine Embassy in Muscat described 14 seafarers disembarking from the same ship along with the remains. He said seafarers have a right to refuse work in areas designated dangerous, and that embassies, Migrant Workers Offices (MWOs), and the DMW meet regularly with manning agencies that communicate directly with shipping companies. Lazaro added the DFA's active engagement with the International Maritime Organization (IMO). Elago asked how seafarers on foreign-flagged vessels could exercise their rights and requested stronger protections. Lazaro said she had earlier reached an understanding with Iran's foreign minister that Philippine-flagged vessels would not be targeted and would have safe passage. Based on later information, she said she believed control had shifted away from the foreign ministry to a revolutionary force, complicating matters. She said the DFA was working through the IMO, seeking shipowners' support for giving seafarers leeway, engaging unions, and holding bilateral discussions with Panama. Elago requested a comprehensive DFA report and stronger measures for seafarer safety and rights.",
+          "citations": [
+            {
+              "stable_id": "asr-002833",
+              "start_seconds": 11362.34,
+              "clock": "03:09:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002833"
+            },
+            {
+              "stable_id": "asr-002838",
+              "start_seconds": 11372.12,
+              "clock": "03:09:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002838"
+            },
+            {
+              "stable_id": "asr-002867",
+              "start_seconds": 11429.02,
+              "clock": "03:10:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002867"
+            },
+            {
+              "stable_id": "asr-002871",
+              "start_seconds": 11437.3,
+              "clock": "03:10:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002871"
+            },
+            {
+              "stable_id": "asr-002889",
+              "start_seconds": 11473.24,
+              "clock": "03:11:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002889"
+            },
+            {
+              "stable_id": "asr-002901",
+              "start_seconds": 11497.04,
+              "clock": "03:11:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002901"
+            },
+            {
+              "stable_id": "asr-002906",
+              "start_seconds": 11507.06,
+              "clock": "03:11:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002906"
+            },
+            {
+              "stable_id": "asr-002919",
+              "start_seconds": 11534.52,
+              "clock": "03:12:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002919"
+            },
+            {
+              "stable_id": "asr-002950",
+              "start_seconds": 11598.52,
+              "clock": "03:13:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002950"
+            },
+            {
+              "stable_id": "asr-002978",
+              "start_seconds": 11654.78,
+              "clock": "03:14:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002978"
+            },
+            {
+              "stable_id": "asr-002984",
+              "start_seconds": 11666.3,
+              "clock": "03:14:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002984"
+            },
+            {
+              "stable_id": "asr-002989",
+              "start_seconds": 11676.8,
+              "clock": "03:14:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002989"
+            },
+            {
+              "stable_id": "asr-002993",
+              "start_seconds": 11684.8,
+              "clock": "03:14:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002993"
+            },
+            {
+              "stable_id": "asr-002998",
+              "start_seconds": 11694.88,
+              "clock": "03:14:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-002998"
+            },
+            {
+              "stable_id": "asr-003006",
+              "start_seconds": 11711.56,
+              "clock": "03:15:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003006"
+            },
+            {
+              "stable_id": "asr-003012",
+              "start_seconds": 11726.98,
+              "clock": "03:15:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003012"
+            },
+            {
+              "stable_id": "asr-003017",
+              "start_seconds": 11736.22,
+              "clock": "03:15:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003017"
+            },
+            {
+              "stable_id": "asr-003022",
+              "start_seconds": 11750.52,
+              "clock": "03:15:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003022"
+            },
+            {
+              "stable_id": "asr-003034",
+              "start_seconds": 11775.84,
+              "clock": "03:16:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003034"
+            }
+          ]
+        },
+        {
+          "label": "Fatal collision in Japan and request for assistance",
+          "text": "Elago raised a head-on collision in Japan in which a Filipino national, the person's spouse, and another companion were reported dead; their four-year-old son survived. She offered to send the report and asked the DFA to examine any accountability issues and provide needed assistance. Lazaro said the case had not yet reached the DFA, that the incident had happened two days earlier, and committed to provide Elago with a report and details.",
+          "citations": [
+            {
+              "stable_id": "asr-003042",
+              "start_seconds": 11792.18,
+              "clock": "03:16:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003042"
+            },
+            {
+              "stable_id": "asr-003045",
+              "start_seconds": 11798.1,
+              "clock": "03:16:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003045"
+            },
+            {
+              "stable_id": "asr-003046",
+              "start_seconds": 11800.32,
+              "clock": "03:16:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003046"
+            },
+            {
+              "stable_id": "asr-003050",
+              "start_seconds": 11810.12,
+              "clock": "03:16:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003050"
+            },
+            {
+              "stable_id": "asr-003054",
+              "start_seconds": 11818.16,
+              "clock": "03:16:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003054"
+            },
+            {
+              "stable_id": "asr-003059",
+              "start_seconds": 11829.7,
+              "clock": "03:17:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003059"
+            },
+            {
+              "stable_id": "asr-003062",
+              "start_seconds": 11837.22,
+              "clock": "03:17:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003062"
+            },
+            {
+              "stable_id": "asr-003064",
+              "start_seconds": 11840.44,
+              "clock": "03:17:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003064"
+            },
+            {
+              "stable_id": "asr-003065",
+              "start_seconds": 11842.3,
+              "clock": "03:17:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003065"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-closing-procedure",
+      "label": "Closing procedure",
+      "items": [
+        {
+          "label": "Termination and suspension of the hearing",
+          "text": "Rep. Niko Raul S.J. Daza moved to terminate the Department of Foreign Affairs (DFA) and attached-agency budget hearing. Rep. Sarah Jane I. Elago seconded the motion, and Chair Rep. Sancho Fernando \"Ando\" F. Oaminal heard no objection and approved it. Daza then moved to suspend the committee hearing until Monday, September 7, 2026, at 9:00 a.m.; Rep. Antonio L. Tinio seconded. The Chair again heard no objection and suspended the hearing until that time.",
+          "citations": [
+            {
+              "stable_id": "asr-003077",
+              "start_seconds": 11875.52,
+              "clock": "03:17:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003077"
+            },
+            {
+              "stable_id": "asr-003078",
+              "start_seconds": 11879.7,
+              "clock": "03:17:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003078"
+            },
+            {
+              "stable_id": "asr-003079",
+              "start_seconds": 11881.52,
+              "clock": "03:18:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003079"
+            },
+            {
+              "stable_id": "asr-003084",
+              "start_seconds": 11890.82,
+              "clock": "03:18:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003084"
+            },
+            {
+              "stable_id": "asr-003091",
+              "start_seconds": 11904.76,
+              "clock": "03:18:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003091"
+            },
+            {
+              "stable_id": "asr-003100",
+              "start_seconds": 11930.75,
+              "clock": "03:18:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003100"
+            },
+            {
+              "stable_id": "asr-003101",
+              "start_seconds": 11932.81,
+              "clock": "03:18:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003101"
+            },
+            {
+              "stable_id": "asr-003102",
+              "start_seconds": 11935.25,
+              "clock": "03:18:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003102"
+            },
+            {
+              "stable_id": "asr-003104",
+              "start_seconds": 11939.43,
+              "clock": "03:18:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003104"
+            },
+            {
+              "stable_id": "asr-003107",
+              "start_seconds": 11946.85,
+              "clock": "03:19:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003107"
+            },
+            {
+              "stable_id": "asr-003109",
+              "start_seconds": 11953.61,
+              "clock": "03:19:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003109"
+            },
+            {
+              "stable_id": "asr-003110",
+              "start_seconds": 11961.05,
+              "clock": "03:19:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/32/#asr-003110"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

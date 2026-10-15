@@ -1,0 +1,2757 @@
+{
+  "hearing": {
+    "id": 83,
+    "title": "Senate Committee on Finance: OP, PMS - September 30, 2026",
+    "hearing_date": "2026-09-30",
+    "official_url": "https://www.youtube.com/watch?v=QJ1FTWxnbJ0"
+  },
+  "revision_id": 8346,
+  "revision_number": 15,
+  "notice": "AI-assisted working draft. AI can make errors. Always check quotations, names, rulings, and other consequential details against the official video.",
+  "segments": [
+    {
+      "stable_id": "asr-000025",
+      "start_seconds": 614.64,
+      "end_seconds": 618.96,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "the secretary to, um, to acknowledge our resource persons present for today."
+    },
+    {
+      "stable_id": "asr-000026",
+      "start_seconds": 619.34,
+      "end_seconds": 621.06,
+      "speaker": "Committee Secretary",
+      "text": "Thank you, Mr. Chair. Good afternoon."
+    },
+    {
+      "stable_id": "asr-000027",
+      "start_seconds": 621.46,
+      "end_seconds": 627.64,
+      "speaker": "Committee Secretary",
+      "text": "For the briefing on the proposed FY2027 budget of the Office of the President and the Presidential Management Staff,"
+    },
+    {
+      "stable_id": "asr-000028",
+      "start_seconds": 627.64,
+      "end_seconds": 629.88,
+      "speaker": "Committee Secretary",
+      "text": "we would like to acknowledge our resource persons,"
+    },
+    {
+      "stable_id": "asr-000029",
+      "start_seconds": 630.0,
+      "end_seconds": 636.62,
+      "speaker": "Committee Secretary",
+      "text": "From the Office of the President, we have Executive Secretary Ralph Recto, together with Secretary Nassar Pangandaman Sr."
+    },
+    {
+      "stable_id": "asr-000030",
+      "start_seconds": 636.86,
+      "end_seconds": 644.9,
+      "speaker": "Committee Secretary",
+      "text": "From the Office of the Presidential Advisor for Marawi Rehabilitation, Senior Deputy Executive Secretary Maria Luwalhati Dorotan Tiuseco,"
+    },
+    {
+      "stable_id": "asr-000031",
+      "start_seconds": 644.9,
+      "end_seconds": 652.08,
+      "speaker": "Committee Secretary",
+      "text": "Deputy Executive Secretary Joseph Irvin Obenza, Deputy Executive Secretary Jesse Hermogenes Andres,"
+    },
+    {
+      "stable_id": "asr-000032",
+      "start_seconds": 652.34,
+      "end_seconds": 658.5,
+      "speaker": "Committee Secretary",
+      "text": "Deputy Executive Secretary Danielle Marie Rieza-Culangen, Deputy Executive Secretary Dennis Santiago,"
+    },
+    {
+      "stable_id": "asr-000033",
+      "start_seconds": 658.5,
+      "end_seconds": 666.0,
+      "speaker": "Committee Secretary",
+      "text": "Undersecretary Athalia Leong, Executive Director Danilo Pamonag, Undersecretary Facundo Palafox IV,"
+    },
+    {
+      "stable_id": "asr-000034",
+      "start_seconds": 666.46,
+      "end_seconds": 675.68,
+      "speaker": "Committee Secretary",
+      "text": "Undersecretary Georgina Anyang, Undersecretary Erwin Sta. Ana, Undersecretary Leonardo Roy Cervantes, and Assistant Secretary Rowena Sanchez."
+    },
+    {
+      "stable_id": "asr-000035",
+      "start_seconds": 676.02,
+      "end_seconds": 682.78,
+      "speaker": "Committee Secretary",
+      "text": "From the Presidential Management Staff, we have Secretary Elaine Masukat, together with Undersecretary Mark Cristeo Gimenez,"
+    },
+    {
+      "stable_id": "asr-000036",
+      "start_seconds": 682.78,
+      "end_seconds": 688.24,
+      "speaker": "Committee Secretary",
+      "text": "Undersecretary Honey Rose Mercado, Undersecretary Rodolfo John Robert Palattao IV,"
+    },
+    {
+      "stable_id": "asr-000037",
+      "start_seconds": 688.5,
+      "end_seconds": 694.76,
+      "speaker": "Committee Secretary",
+      "text": "Assistant Secretary Juan Emanuel Reyes, Director Glazel May Galanzoga, and Director Karen Gayle Feble."
+    },
+    {
+      "stable_id": "asr-000038",
+      "start_seconds": 695.04,
+      "end_seconds": 698.14,
+      "speaker": "Committee Secretary",
+      "text": "We have also invited representatives from DBM and COA."
+    },
+    {
+      "stable_id": "asr-000039",
+      "start_seconds": 698.14,
+      "end_seconds": 711.76,
+      "speaker": "Committee Secretary",
+      "text": "For DBM, Director Elena Regina Brillantes is only attending the budget briefing of the PCO, but in the room are Ms. Laurie Ann Javier, Ms. Mary Ann Queenie Alaiza Tamayo, and Ms. Michelle Amedala Yepes."
+    },
+    {
+      "stable_id": "asr-000040",
+      "start_seconds": 712.04,
+      "end_seconds": 716.84,
+      "speaker": "Committee Secretary",
+      "text": "From COA, we have Mr. Engelbert Potente and Ms. Janeline Maga. Thank you, Mr. Chair."
+    },
+    {
+      "stable_id": "asr-000041",
+      "start_seconds": 717.9,
+      "end_seconds": 718.5,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you."
+    },
+    {
+      "stable_id": "asr-000042",
+      "start_seconds": 718.5,
+      "end_seconds": 723.88,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Likewise, the Chair would like to acknowledge the presence of our Senate President for joining."
+    },
+    {
+      "stable_id": "asr-000043",
+      "start_seconds": 724.18,
+      "end_seconds": 727.96,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you for joining us. Our Senate President, Win Gatchalian, is with us today."
+    },
+    {
+      "stable_id": "asr-000044",
+      "start_seconds": 729.5,
+      "end_seconds": 732.4,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "I'd just like to give my opening statement. Good afternoon,"
+    },
+    {
+      "stable_id": "asr-000045",
+      "start_seconds": 732.4,
+      "end_seconds": 746.56,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Executive Secretary Ralph Recto, of course, our PMS Head, Secretary Elaine Masukat, officials and staff of the Office of the President and the Presidential Management Staff, and to my esteemed colleagues in the Senate."
+    },
+    {
+      "stable_id": "asr-000046",
+      "start_seconds": 747.14,
+      "end_seconds": 748.34,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "We are here today to tackle the..."
+    },
+    {
+      "stable_id": "asr-000047",
+      "start_seconds": 748.5,
+      "end_seconds": 754.42,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Proposed Fiscal Year 2027 Budget of the Office of the President and the Presidential Management Staff."
+    },
+    {
+      "stable_id": "asr-000048",
+      "start_seconds": 754.58,
+      "end_seconds": 758.8,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "The Office of the President sits at the center of the executive branch."
+    },
+    {
+      "stable_id": "asr-000049",
+      "start_seconds": 759.48,
+      "end_seconds": 769.04,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "It provides direction across the government and ensures that the priorities of the administration translates into concrete programs and tangible results to our people."
+    },
+    {
+      "stable_id": "asr-000050",
+      "start_seconds": 769.68,
+      "end_seconds": 778.22,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Meanwhile, the Presidential Management Staff supports the President by monitoring these priorities and coordinating with other departments and agencies."
+    },
+    {
+      "stable_id": "asr-000051",
+      "start_seconds": 778.5,
+      "end_seconds": 786.42,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Given these important responsibilities of these offices, we want to ensure that the resources we provide are put to good use."
+    },
+    {
+      "stable_id": "asr-000052",
+      "start_seconds": 786.9,
+      "end_seconds": 800.38,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Whether it's allocated to a frontline social service agency or to the highest office in the land, we will ensure that all items allocated are properly executed and spent strictly for the public good."
+    },
+    {
+      "stable_id": "asr-000053",
+      "start_seconds": 800.38,
+      "end_seconds": 807.94,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "At the same time, we recognize the longstanding tradition of inter-parliamentary courtesy according to the Office of the President."
+    },
+    {
+      "stable_id": "asr-000054",
+      "start_seconds": 808.5,
+      "end_seconds": 813.04,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "And we approach its budget with due respect for the institution and its mandate."
+    },
+    {
+      "stable_id": "asr-000055",
+      "start_seconds": 813.94,
+      "end_seconds": 816.98,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "With that, we look forward to a productive discussion on your proposed budget."
+    },
+    {
+      "stable_id": "asr-000056",
+      "start_seconds": 817.06,
+      "end_seconds": 817.82,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you very much."
+    },
+    {
+      "stable_id": "asr-000057",
+      "start_seconds": 820.38,
+      "end_seconds": 829.47,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Before we proceed, I would like to ask our colleagues, our Senate President, for his opening statements, if any."
+    },
+    {
+      "stable_id": "asr-000058",
+      "start_seconds": 829.47,
+      "end_seconds": 830.56,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Thank you, Mr. Chairman."
+    },
+    {
+      "stable_id": "asr-000059",
+      "start_seconds": 830.84,
+      "end_seconds": 834.94,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "First of all, we welcome our colleagues from the Office of the President."
+    },
+    {
+      "stable_id": "asr-000060",
+      "start_seconds": 835.78,
+      "end_seconds": 838.32,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "At alam ko, napaka-busy ho sila dahil sa..."
+    },
+    {
+      "stable_id": "asr-000061",
+      "start_seconds": 838.5,
+      "end_seconds": 840.22,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "...ASEAN na padating na."
+    },
+    {
+      "stable_id": "asr-000062",
+      "start_seconds": 840.48,
+      "end_seconds": 852.52,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "And this coming November 16 to 18 will be a very big event for our country because mag-host tayo ng ASEAN heads of state."
+    },
+    {
+      "stable_id": "asr-000063",
+      "start_seconds": 852.66,
+      "end_seconds": 861.0,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "At hindi lang ASEAN heads of state, but narinig ko na pati si President Trump might be coming to the Philippines."
+    },
+    {
+      "stable_id": "asr-000064",
+      "start_seconds": 861.0,
+      "end_seconds": 866.56,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "So, isa yan sa pinakamahalagang event na ipapakita natin sa buong mundo."
+    },
+    {
+      "stable_id": "asr-000065",
+      "start_seconds": 867.18,
+      "end_seconds": 868.38,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "With that, having said that..."
+    },
+    {
+      "stable_id": "asr-000066",
+      "start_seconds": 868.5,
+      "end_seconds": 875.44,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "...Mr. Chairman, typically meron tayong inter-parliamentary courtesy na binibigay sa Office of the President."
+    },
+    {
+      "stable_id": "asr-000067",
+      "start_seconds": 875.62,
+      "end_seconds": 889.68,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Pero hindi lang inter-parliament courtesy, meron pang inter-senator courtesy dahil ang head ay isang former or inter-colleague courtesy dahil ang executive secretary ay dati nating kasamahan."
+    },
+    {
+      "stable_id": "asr-000068",
+      "start_seconds": 889.86,
+      "end_seconds": 894.54,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Na nandito sa side dati na tinatanong yung sa kabilang side."
+    },
+    {
+      "stable_id": "asr-000069",
+      "start_seconds": 894.54,
+      "end_seconds": 897.54,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "So, after the presentation, Mr. President..."
+    },
+    {
+      "stable_id": "asr-000070",
+      "start_seconds": 897.54,
+      "end_seconds": 899.28,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "...Mr. Chairman..."
+    },
+    {
+      "stable_id": "asr-000071",
+      "start_seconds": 899.28,
+      "end_seconds": 899.98,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "...uh, I'll..."
+    },
+    {
+      "stable_id": "asr-000072",
+      "start_seconds": 900.0,
+      "end_seconds": 902.1,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "move for the approval of the budget"
+    },
+    {
+      "stable_id": "asr-000073",
+      "start_seconds": 902.1,
+      "end_seconds": 903.34,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "of the Office of the President."
+    },
+    {
+      "stable_id": "asr-000074",
+      "start_seconds": 904.36,
+      "end_seconds": 906.0,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Okay. Thank you, our Senate President."
+    },
+    {
+      "stable_id": "asr-000075",
+      "start_seconds": 906.1,
+      "end_seconds": 907.44,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Likewise, our colleague,"
+    },
+    {
+      "stable_id": "asr-000076",
+      "start_seconds": 907.66,
+      "end_seconds": 909.94,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Senator Francis Kiko Pangilinan"
+    },
+    {
+      "stable_id": "asr-000077",
+      "start_seconds": 909.94,
+      "end_seconds": 911.9,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "is with us this afternoon. Thank you, sir,"
+    },
+    {
+      "stable_id": "asr-000078",
+      "start_seconds": 911.94,
+      "end_seconds": 913.62,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "for joining us. Senator Villanueva."
+    },
+    {
+      "stable_id": "asr-000079",
+      "start_seconds": 914.0,
+      "end_seconds": 914.72,
+      "speaker": "Senator Joel Villanueva",
+      "text": "Yeah, not to"
+    },
+    {
+      "stable_id": "asr-000080",
+      "start_seconds": 914.72,
+      "end_seconds": 917.26,
+      "speaker": "Senator Joel Villanueva",
+      "text": "further delay the"
+    },
+    {
+      "stable_id": "asr-000081",
+      "start_seconds": 917.26,
+      "end_seconds": 919.46,
+      "speaker": "Senator Joel Villanueva",
+      "text": "proceedings, let me just"
+    },
+    {
+      "stable_id": "asr-000082",
+      "start_seconds": 919.46,
+      "end_seconds": 921.2,
+      "speaker": "Senator Joel Villanueva",
+      "text": "again welcome our"
+    },
+    {
+      "stable_id": "asr-000083",
+      "start_seconds": 921.2,
+      "end_seconds": 923.48,
+      "speaker": "Senator Joel Villanueva",
+      "text": "friends from"
+    },
+    {
+      "stable_id": "asr-000084",
+      "start_seconds": 923.48,
+      "end_seconds": 925.54,
+      "speaker": "Senator Joel Villanueva",
+      "text": "the Office of the President and"
+    },
+    {
+      "stable_id": "asr-000085",
+      "start_seconds": 925.54,
+      "end_seconds": 927.54,
+      "speaker": "Senator Joel Villanueva",
+      "text": "I was about to"
+    },
+    {
+      "stable_id": "asr-000086",
+      "start_seconds": 927.54,
+      "end_seconds": 929.52,
+      "speaker": "Senator Joel Villanueva",
+      "text": "mention the same thing that was"
+    },
+    {
+      "stable_id": "asr-000087",
+      "start_seconds": 929.52,
+      "end_seconds": 931.82,
+      "speaker": "Senator Joel Villanueva",
+      "text": "mentioned by our dear Senate President"
+    },
+    {
+      "stable_id": "asr-000088",
+      "start_seconds": 931.82,
+      "end_seconds": 933.26,
+      "speaker": "Senator Joel Villanueva",
+      "text": "na hindi lang"
+    },
+    {
+      "stable_id": "asr-000089",
+      "start_seconds": 933.26,
+      "end_seconds": 935.52,
+      "speaker": "Senator Joel Villanueva",
+      "text": "parliamentary courtesy yung"
+    },
+    {
+      "stable_id": "asr-000090",
+      "start_seconds": 935.52,
+      "end_seconds": 937.6,
+      "speaker": "Senator Joel Villanueva",
+      "text": "i-re-remind natin sa bawat isa"
+    },
+    {
+      "stable_id": "asr-000091",
+      "start_seconds": 937.6,
+      "end_seconds": 938.96,
+      "speaker": "Senator Joel Villanueva",
+      "text": "but yung"
+    },
+    {
+      "stable_id": "asr-000092",
+      "start_seconds": 938.96,
+      "end_seconds": 940.44,
+      "speaker": "Senator Joel Villanueva",
+      "text": "colleague courtesy."
+    },
+    {
+      "stable_id": "asr-000093",
+      "start_seconds": 941.22,
+      "end_seconds": 942.6,
+      "speaker": "Senator Joel Villanueva",
+      "text": "It's so weird to"
+    },
+    {
+      "stable_id": "asr-000094",
+      "start_seconds": 942.6,
+      "end_seconds": 943.94,
+      "speaker": "Senator Joel Villanueva",
+      "text": "see our"
+    },
+    {
+      "stable_id": "asr-000095",
+      "start_seconds": 943.94,
+      "end_seconds": 946.58,
+      "speaker": "Senator Joel Villanueva",
+      "text": "former colleague on the"
+    },
+    {
+      "stable_id": "asr-000096",
+      "start_seconds": 946.58,
+      "end_seconds": 948.62,
+      "speaker": "Senator Joel Villanueva",
+      "text": "other side of the table and"
+    },
+    {
+      "stable_id": "asr-000097",
+      "start_seconds": 948.62,
+      "end_seconds": 950.5,
+      "speaker": "Senator Joel Villanueva",
+      "text": "he's been our mentor"
+    },
+    {
+      "stable_id": "asr-000098",
+      "start_seconds": 950.5,
+      "end_seconds": 952.54,
+      "speaker": "Senator Joel Villanueva",
+      "text": "since we came"
+    },
+    {
+      "stable_id": "asr-000099",
+      "start_seconds": 952.54,
+      "end_seconds": 954.24,
+      "speaker": "Senator Joel Villanueva",
+      "text": "here in this institution"
+    },
+    {
+      "stable_id": "asr-000100",
+      "start_seconds": 954.24,
+      "end_seconds": 956.56,
+      "speaker": "Senator Joel Villanueva",
+      "text": "and not just that, he is"
+    },
+    {
+      "stable_id": "asr-000101",
+      "start_seconds": 956.56,
+      "end_seconds": 958.54,
+      "speaker": "Senator Joel Villanueva",
+      "text": "a senior fraternity brother"
+    },
+    {
+      "stable_id": "asr-000102",
+      "start_seconds": 958.54,
+      "end_seconds": 959.48,
+      "speaker": "Senator Joel Villanueva",
+      "text": "of this representation."
+    },
+    {
+      "stable_id": "asr-000103",
+      "start_seconds": 959.52,
+      "end_seconds": 960.94,
+      "speaker": "Senator Joel Villanueva",
+      "text": "So how can I ask questions"
+    },
+    {
+      "stable_id": "asr-000104",
+      "start_seconds": 960.94,
+      "end_seconds": 963.52,
+      "speaker": "Senator Joel Villanueva",
+      "text": "to this budget?"
+    },
+    {
+      "stable_id": "asr-000105",
+      "start_seconds": 964.36,
+      "end_seconds": 965.44,
+      "speaker": "Senator Joel Villanueva",
+      "text": "So, Mr. Chairman,"
+    },
+    {
+      "stable_id": "asr-000106",
+      "start_seconds": 965.62,
+      "end_seconds": 967.64,
+      "speaker": "Senator Joel Villanueva",
+      "text": "let me just again reiterate"
+    },
+    {
+      "stable_id": "asr-000107",
+      "start_seconds": 967.64,
+      "end_seconds": 969.02,
+      "speaker": "Senator Joel Villanueva",
+      "text": "what the Senate President"
+    },
+    {
+      "stable_id": "asr-000108",
+      "start_seconds": 969.02,
+      "end_seconds": 971.48,
+      "speaker": "Senator Joel Villanueva",
+      "text": "mentioned a while ago. After the"
+    },
+    {
+      "stable_id": "asr-000109",
+      "start_seconds": 971.48,
+      "end_seconds": 973.38,
+      "speaker": "Senator Joel Villanueva",
+      "text": "presentation, I will join"
+    },
+    {
+      "stable_id": "asr-000110",
+      "start_seconds": 973.38,
+      "end_seconds": 975.1,
+      "speaker": "Senator Joel Villanueva",
+      "text": "the motion of the Senate President"
+    },
+    {
+      "stable_id": "asr-000111",
+      "start_seconds": 975.1,
+      "end_seconds": 977.6,
+      "speaker": "Senator Joel Villanueva",
+      "text": "in moving for"
+    },
+    {
+      "stable_id": "asr-000112",
+      "start_seconds": 977.6,
+      "end_seconds": 979.26,
+      "speaker": "Senator Joel Villanueva",
+      "text": "the submission"
+    },
+    {
+      "stable_id": "asr-000113",
+      "start_seconds": 979.26,
+      "end_seconds": 980.9,
+      "speaker": "Senator Joel Villanueva",
+      "text": "of the budget of the"
+    },
+    {
+      "stable_id": "asr-000114",
+      "start_seconds": 980.9,
+      "end_seconds": 983.24,
+      "speaker": "Senator Joel Villanueva",
+      "text": "Office of the President and the"
+    },
+    {
+      "stable_id": "asr-000115",
+      "start_seconds": 983.24,
+      "end_seconds": 984.82,
+      "speaker": "Senator Joel Villanueva",
+      "text": "Presidential Management Staff"
+    },
+    {
+      "stable_id": "asr-000116",
+      "start_seconds": 984.82,
+      "end_seconds": 986.82,
+      "speaker": "Senator Joel Villanueva",
+      "text": "and its attached agencies"
+    },
+    {
+      "stable_id": "asr-000117",
+      "start_seconds": 986.82,
+      "end_seconds": 989.0,
+      "speaker": "Senator Joel Villanueva",
+      "text": "for plenary action."
+    },
+    {
+      "stable_id": "asr-000118",
+      "start_seconds": 989.52,
+      "end_seconds": 991.52,
+      "speaker": "Senator Joel Villanueva",
+      "text": "Mr. Chairman, marami pong salamat and again,"
+    },
+    {
+      "stable_id": "asr-000119",
+      "start_seconds": 991.52,
+      "end_seconds": 993.52,
+      "speaker": "Senator Joel Villanueva",
+      "text": "we welcome and thank the presence"
+    },
+    {
+      "stable_id": "asr-000120",
+      "start_seconds": 993.52,
+      "end_seconds": 994.92,
+      "speaker": "Senator Joel Villanueva",
+      "text": "of our"
+    },
+    {
+      "stable_id": "asr-000121",
+      "start_seconds": 994.92,
+      "end_seconds": 998.84,
+      "speaker": "Senator Joel Villanueva",
+      "text": "co-public servants"
+    },
+    {
+      "stable_id": "asr-000122",
+      "start_seconds": 998.84,
+      "end_seconds": 1001.24,
+      "speaker": "Senator Joel Villanueva",
+      "text": "here in this room today."
+    },
+    {
+      "stable_id": "asr-000123",
+      "start_seconds": 1001.38,
+      "end_seconds": 1002.94,
+      "speaker": "Senator Joel Villanueva",
+      "text": "Thank you very much, especially of course to"
+    },
+    {
+      "stable_id": "asr-000124",
+      "start_seconds": 1002.94,
+      "end_seconds": 1004.98,
+      "speaker": "Senator Joel Villanueva",
+      "text": "Executive Secretary Ralph Recto. Thank you."
+    },
+    {
+      "stable_id": "asr-000125",
+      "start_seconds": 1005.26,
+      "end_seconds": 1007.64,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you, Senator Villanueva and Senator Pangilinan."
+    },
+    {
+      "stable_id": "asr-000126",
+      "start_seconds": 1009.42,
+      "end_seconds": 1010.78,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "Thank you, Senator"
+    },
+    {
+      "stable_id": "asr-000127",
+      "start_seconds": 1010.78,
+      "end_seconds": 1012.7,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "JV Ejercito,"
+    },
+    {
+      "stable_id": "asr-000128",
+      "start_seconds": 1013.22,
+      "end_seconds": 1015.34,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "to our colleagues in the Senate,"
+    },
+    {
+      "stable_id": "asr-000129",
+      "start_seconds": 1016.24,
+      "end_seconds": 1017.3199999999999,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "of course my colleague"
+    },
+    {
+      "stable_id": "asr-000130",
+      "start_seconds": 1017.3199999999999,
+      "end_seconds": 1019.36,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "in the Senate,"
+    },
+    {
+      "stable_id": "asr-000131",
+      "start_seconds": 1019.52,
+      "end_seconds": 1021.62,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "the, was it the 12th"
+    },
+    {
+      "stable_id": "asr-000132",
+      "start_seconds": 1021.62,
+      "end_seconds": 1023.18,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "Congress? Senate?"
+    },
+    {
+      "stable_id": "asr-000133",
+      "start_seconds": 1023.18,
+      "end_seconds": 1024.9,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "No? Yes, we"
+    },
+    {
+      "stable_id": "asr-000134",
+      "start_seconds": 1024.9,
+      "end_seconds": 1027.14,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "won. He was the"
+    },
+    {
+      "stable_id": "asr-000135",
+      "start_seconds": 1027.14,
+      "end_seconds": 1029.28,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "youngest senator and I was"
+    },
+    {
+      "stable_id": "asr-000136",
+      "start_seconds": 1029.28,
+      "end_seconds": 1030.6399999999999,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "the second youngest senator."
+    },
+    {
+      "stable_id": "asr-000137",
+      "start_seconds": 1033.9,
+      "end_seconds": 1035.2,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "Although, some"
+    },
+    {
+      "stable_id": "asr-000138",
+      "start_seconds": 1035.2,
+      "end_seconds": 1037.1,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "people would say, I look younger"
+    },
+    {
+      "stable_id": "asr-000139",
+      "start_seconds": 1037.1,
+      "end_seconds": 1037.6,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "than him."
+    },
+    {
+      "stable_id": "asr-000140",
+      "start_seconds": 1039.1399999999999,
+      "end_seconds": 1040.4,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "My wife would disagree."
+    },
+    {
+      "stable_id": "asr-000141",
+      "start_seconds": 1042.02,
+      "end_seconds": 1043.04,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "And therefore,"
+    },
+    {
+      "stable_id": "asr-000142",
+      "start_seconds": 1043.22,
+      "end_seconds": 1045.32,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "I would joke saying"
+    },
+    {
+      "stable_id": "asr-000143",
+      "start_seconds": 1045.32,
+      "end_seconds": 1047.18,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "he is the youngest senator"
+    },
+    {
+      "stable_id": "asr-000144",
+      "start_seconds": 1047.18,
+      "end_seconds": 1049.22,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "then and I was the youngest looking"
+    },
+    {
+      "stable_id": "asr-000145",
+      "start_seconds": 1049.22,
+      "end_seconds": 1050.72,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "senator then. But, it's just a joke."
+    },
+    {
+      "stable_id": "asr-000146",
+      "start_seconds": 1051.5,
+      "end_seconds": 1053.42,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "I join my colleagues in saying"
+    },
+    {
+      "stable_id": "asr-000147",
+      "start_seconds": 1053.42,
+      "end_seconds": 1054.76,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "that we shall"
+    },
+    {
+      "stable_id": "asr-000148",
+      "start_seconds": 1054.76,
+      "end_seconds": 1056.02,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "respect the"
+    },
+    {
+      "stable_id": "asr-000149",
+      "start_seconds": 1056.02,
+      "end_seconds": 1059.34,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "inter-parliamentary courtesy"
+    },
+    {
+      "stable_id": "asr-000150",
+      "start_seconds": 1059.34,
+      "end_seconds": 1061.28,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "afforded the office of the"
+    },
+    {
+      "stable_id": "asr-000151",
+      "start_seconds": 1061.28,
+      "end_seconds": 1063.1399999999999,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "President and of course the"
+    },
+    {
+      "stable_id": "asr-000152",
+      "start_seconds": 1063.1399999999999,
+      "end_seconds": 1065.38,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "former colleague as well."
+    },
+    {
+      "stable_id": "asr-000153",
+      "start_seconds": 1066.0,
+      "end_seconds": 1067.5,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "Perhaps we will just request"
+    },
+    {
+      "stable_id": "asr-000154",
+      "start_seconds": 1067.5,
+      "end_seconds": 1069.3600000000001,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "before plenary that we"
+    },
+    {
+      "stable_id": "asr-000155",
+      "start_seconds": 1069.3600000000001,
+      "end_seconds": 1071.3,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "can set a separate meeting"
+    },
+    {
+      "stable_id": "asr-000156",
+      "start_seconds": 1071.3,
+      "end_seconds": 1073.52,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "with the Anti-Agriculture Economic"
+    },
+    {
+      "stable_id": "asr-000157",
+      "start_seconds": 1073.52,
+      "end_seconds": 1074.82,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "Sabotage Council"
+    },
+    {
+      "stable_id": "asr-000158",
+      "start_seconds": 1074.82,
+      "end_seconds": 1077.2,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "so that we can get updates on"
+    },
+    {
+      "stable_id": "asr-000159",
+      "start_seconds": 1077.2,
+      "end_seconds": 1079.12,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "the latest development"
+    },
+    {
+      "stable_id": "asr-000160",
+      "start_seconds": 1079.22,
+      "end_seconds": 1081.82,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "in our campaign against"
+    },
+    {
+      "stable_id": "asr-000161",
+      "start_seconds": 1081.82,
+      "end_seconds": 1083.6399999999999,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "particularly agriculture"
+    },
+    {
+      "stable_id": "asr-000162",
+      "start_seconds": 1083.6399999999999,
+      "end_seconds": 1085.78,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "and fisheries products"
+    },
+    {
+      "stable_id": "asr-000163",
+      "start_seconds": 1085.78,
+      "end_seconds": 1087.8,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "as we"
+    },
+    {
+      "stable_id": "asr-000164",
+      "start_seconds": 1087.8,
+      "end_seconds": 1089.94,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "finalize our own"
+    },
+    {
+      "stable_id": "asr-000165",
+      "start_seconds": 1089.94,
+      "end_seconds": 1090.7,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "committee report"
+    },
+    {
+      "stable_id": "asr-000166",
+      "start_seconds": 1090.7,
+      "end_seconds": 1093.18,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "of the Committee on Agriculture"
+    },
+    {
+      "stable_id": "asr-000167",
+      "start_seconds": 1093.18,
+      "end_seconds": 1095.34,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "and Food and Agrarian Reform."
+    },
+    {
+      "stable_id": "asr-000168",
+      "start_seconds": 1095.9,
+      "end_seconds": 1097.68,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "We really hope and I challenge"
+    },
+    {
+      "stable_id": "asr-000169",
+      "start_seconds": 1097.68,
+      "end_seconds": 1099.54,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "the Department of Justice"
+    },
+    {
+      "stable_id": "asr-000170",
+      "start_seconds": 1099.54,
+      "end_seconds": 1100.74,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "last week."
+    },
+    {
+      "stable_id": "asr-000171",
+      "start_seconds": 1100.74,
+      "end_seconds": 1100.94,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "I"
+    },
+    {
+      "stable_id": "asr-000172",
+      "start_seconds": 1100.94,
+      "end_seconds": 1104.72,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "handle their, I'm defending"
+    },
+    {
+      "stable_id": "asr-000173",
+      "start_seconds": 1104.72,
+      "end_seconds": 1106.72,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "their budget and will be sponsoring it on the"
+    },
+    {
+      "stable_id": "asr-000174",
+      "start_seconds": 1106.72,
+      "end_seconds": 1108.9,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "floor and I challenge them to"
+    },
+    {
+      "stable_id": "asr-000175",
+      "start_seconds": 1109.22,
+      "end_seconds": 1110.56,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "to prove"
+    },
+    {
+      "stable_id": "asr-000176",
+      "start_seconds": 1110.56,
+      "end_seconds": 1113.46,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "na walang untouchable"
+    },
+    {
+      "stable_id": "asr-000177",
+      "start_seconds": 1113.46,
+      "end_seconds": 1116.84,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "sa smuggler ng"
+    },
+    {
+      "stable_id": "asr-000178",
+      "start_seconds": 1116.84,
+      "end_seconds": 1117.82,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "agri and"
+    },
+    {
+      "stable_id": "asr-000179",
+      "start_seconds": 1117.82,
+      "end_seconds": 1120.76,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "fisheries"
+    },
+    {
+      "stable_id": "asr-000180",
+      "start_seconds": 1120.76,
+      "end_seconds": 1122.94,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "products and I hope"
+    },
+    {
+      "stable_id": "asr-000181",
+      "start_seconds": 1122.94,
+      "end_seconds": 1125.32,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "we can make headway"
+    },
+    {
+      "stable_id": "asr-000182",
+      "start_seconds": 1125.32,
+      "end_seconds": 1127.8,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "in this regard."
+    },
+    {
+      "stable_id": "asr-000183",
+      "start_seconds": 1127.98,
+      "end_seconds": 1129.6,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "So, I have no"
+    },
+    {
+      "stable_id": "asr-000184",
+      "start_seconds": 1129.6,
+      "end_seconds": 1131.26,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "other questions at this time."
+    },
+    {
+      "stable_id": "asr-000185",
+      "start_seconds": 1131.3600000000001,
+      "end_seconds": 1132.34,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "We are ready to just"
+    },
+    {
+      "stable_id": "asr-000186",
+      "start_seconds": 1132.34,
+      "end_seconds": 1135.3600000000001,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "hear the presentation. Welcome again."
+    },
+    {
+      "stable_id": "asr-000187",
+      "start_seconds": 1135.62,
+      "end_seconds": 1136.06,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you."
+    },
+    {
+      "stable_id": "asr-000188",
+      "start_seconds": 1136.54,
+      "end_seconds": 1139.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Senator Pangilinan, you also have"
+    },
+    {
+      "stable_id": "asr-000189",
+      "start_seconds": 1139.1,
+      "end_seconds": 1140.28,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "something in common."
+    },
+    {
+      "stable_id": "asr-000190",
+      "start_seconds": 1141.1,
+      "end_seconds": 1143.22,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Your wife is the megastar and the wife"
+    },
+    {
+      "stable_id": "asr-000191",
+      "start_seconds": 1143.22,
+      "end_seconds": 1145.7,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "of the Executive Secretary is the star"
+    },
+    {
+      "stable_id": "asr-000192",
+      "start_seconds": 1145.7,
+      "end_seconds": 1146.7,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "for all seasons."
+    },
+    {
+      "stable_id": "asr-000193",
+      "start_seconds": 1147.98,
+      "end_seconds": 1149.96,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Anyway, we defer the resolution of"
+    },
+    {
+      "stable_id": "asr-000194",
+      "start_seconds": 1149.96,
+      "end_seconds": 1153.66,
+      "speaker": "Senator Francis Kiko Pangilinan",
+      "text": "And my wife is a Vilmanian."
+    },
+    {
+      "stable_id": "asr-000195",
+      "start_seconds": 1153.66,
+      "end_seconds": 1155.78,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "I'm also a Sharonian."
+    },
+    {
+      "stable_id": "asr-000196",
+      "start_seconds": 1158.3,
+      "end_seconds": 1160.74,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Anyway, we defer the"
+    },
+    {
+      "stable_id": "asr-000197",
+      "start_seconds": 1160.74,
+      "end_seconds": 1162.74,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "resolution of the motion of our"
+    },
+    {
+      "stable_id": "asr-000198",
+      "start_seconds": 1162.74,
+      "end_seconds": 1163.62,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Senate President."
+    },
+    {
+      "stable_id": "asr-000199",
+      "start_seconds": 1165.02,
+      "end_seconds": 1166.8600000000001,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Let us first allow our Executive"
+    },
+    {
+      "stable_id": "asr-000200",
+      "start_seconds": 1166.8600000000001,
+      "end_seconds": 1168.94,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Secretary, Ralph Recto, to give us a"
+    },
+    {
+      "stable_id": "asr-000201",
+      "start_seconds": 1168.94,
+      "end_seconds": 1171.18,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "brief manifestation of the 2027"
+    },
+    {
+      "stable_id": "asr-000202",
+      "start_seconds": 1171.18,
+      "end_seconds": 1172.98,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "National Expenditure Program"
+    },
+    {
+      "stable_id": "asr-000203",
+      "start_seconds": 1172.98,
+      "end_seconds": 1175.2,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "or the proposed expenditure program"
+    },
+    {
+      "stable_id": "asr-000204",
+      "start_seconds": 1175.2,
+      "end_seconds": 1176.32,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "of the Office of the President"
+    },
+    {
+      "stable_id": "asr-000205",
+      "start_seconds": 1176.32,
+      "end_seconds": 1177.7,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "and the PMS."
+    },
+    {
+      "stable_id": "asr-000206",
+      "start_seconds": 1178.66,
+      "end_seconds": 1180.9,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Just state for the record, 2027,"
+    },
+    {
+      "stable_id": "asr-000207",
+      "start_seconds": 1181.12,
+      "end_seconds": 1183.02,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "the budget and the request for additional"
+    },
+    {
+      "stable_id": "asr-000208",
+      "start_seconds": 1183.02,
+      "end_seconds": 1183.98,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "funding, if any."
+    },
+    {
+      "stable_id": "asr-000209",
+      "start_seconds": 1184.96,
+      "end_seconds": 1187.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "You have the floor, our Executive"
+    },
+    {
+      "stable_id": "asr-000210",
+      "start_seconds": 1187.1,
+      "end_seconds": 1187.76,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Secretary."
+    },
+    {
+      "stable_id": "asr-000210-split-2",
+      "start_seconds": 1187.76,
+      "end_seconds": 1189.32,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Thank you very much,"
+    },
+    {
+      "stable_id": "asr-000211",
+      "start_seconds": 1189.58,
+      "end_seconds": 1191.0,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Mr. Chairman, Senator"
+    },
+    {
+      "stable_id": "asr-000212",
+      "start_seconds": 1191.0,
+      "end_seconds": 1193.1,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "JV Ejercito, to"
+    },
+    {
+      "stable_id": "asr-000213",
+      "start_seconds": 1193.1,
+      "end_seconds": 1194.8600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "our Senate President, Senator"
+    },
+    {
+      "stable_id": "asr-000214",
+      "start_seconds": 1194.8600000000001,
+      "end_seconds": 1195.92,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Win Gatchalian,"
+    },
+    {
+      "stable_id": "asr-000215",
+      "start_seconds": 1196.74,
+      "end_seconds": 1198.82,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Honorable Senator Joel Villanueva,"
+    },
+    {
+      "stable_id": "asr-000216",
+      "start_seconds": 1198.94,
+      "end_seconds": 1200.94,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Honorable Senator Francis"
+    },
+    {
+      "stable_id": "asr-000217",
+      "start_seconds": 1200.94,
+      "end_seconds": 1201.98,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Kiko Pangilinan."
+    },
+    {
+      "stable_id": "asr-000218",
+      "start_seconds": 1202.42,
+      "end_seconds": 1204.3,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Magandang hapon po sa inyong lahat."
+    },
+    {
+      "stable_id": "asr-000219",
+      "start_seconds": 1204.68,
+      "end_seconds": 1206.78,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Your honors, I appear before this distinguished"
+    },
+    {
+      "stable_id": "asr-000220",
+      "start_seconds": 1206.78,
+      "end_seconds": 1208.5,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "body to present, explain,"
+    },
+    {
+      "stable_id": "asr-000221",
+      "start_seconds": 1209.12,
+      "end_seconds": 1210.94,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and more importantly, seek your support"
+    },
+    {
+      "stable_id": "asr-000222",
+      "start_seconds": 1210.94,
+      "end_seconds": 1213.0,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "for the proposed 2027 budget"
+    },
+    {
+      "stable_id": "asr-000223",
+      "start_seconds": 1213.0,
+      "end_seconds": 1214.84,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "of the Office of the President."
+    },
+    {
+      "stable_id": "asr-000224",
+      "start_seconds": 1215.48,
+      "end_seconds": 1216.8,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "I'm here not merely because"
+    },
+    {
+      "stable_id": "asr-000225",
+      "start_seconds": 1216.8,
+      "end_seconds": 1218.8600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "our laws require the Executive to"
+    },
+    {
+      "stable_id": "asr-000226",
+      "start_seconds": 1218.8600000000001,
+      "end_seconds": 1221.18,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "defend its budget before Congress,"
+    },
+    {
+      "stable_id": "asr-000227",
+      "start_seconds": 1221.4,
+      "end_seconds": 1222.8,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "which holds the constitutional"
+    },
+    {
+      "stable_id": "asr-000228",
+      "start_seconds": 1222.8,
+      "end_seconds": 1224.92,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "power of the purse. I am here"
+    },
+    {
+      "stable_id": "asr-000229",
+      "start_seconds": 1224.92,
+      "end_seconds": 1226.84,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "above all in faithful"
+    },
+    {
+      "stable_id": "asr-000230",
+      "start_seconds": 1226.84,
+      "end_seconds": 1228.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "compliance with the President's standing directive:"
+    },
+    {
+      "stable_id": "asr-000231",
+      "start_seconds": 1228.94,
+      "end_seconds": 1230.9,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "honor the Senate,"
+    },
+    {
+      "stable_id": "asr-000232",
+      "start_seconds": 1231.6,
+      "end_seconds": 1232.92,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "respect its mandate,"
+    },
+    {
+      "stable_id": "asr-000233",
+      "start_seconds": 1233.52,
+      "end_seconds": 1234.9,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and regard it as a full"
+    },
+    {
+      "stable_id": "asr-000234",
+      "start_seconds": 1234.9,
+      "end_seconds": 1236.74,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "partner in advancing the welfare"
+    },
+    {
+      "stable_id": "asr-000235",
+      "start_seconds": 1236.74,
+      "end_seconds": 1238.9,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "of our people and protecting"
+    },
+    {
+      "stable_id": "asr-000236",
+      "start_seconds": 1238.9,
+      "end_seconds": 1240.2,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "the national interests."
+    },
+    {
+      "stable_id": "asr-000237",
+      "start_seconds": 1240.2,
+      "end_seconds": 1242.28,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "The President firmly believes that"
+    },
+    {
+      "stable_id": "asr-000238",
+      "start_seconds": 1242.28,
+      "end_seconds": 1244.22,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "governance is strengthened when the Executive"
+    },
+    {
+      "stable_id": "asr-000239",
+      "start_seconds": 1244.22,
+      "end_seconds": 1246.1399999999999,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and legislative branches"
+    },
+    {
+      "stable_id": "asr-000240",
+      "start_seconds": 1246.1399999999999,
+      "end_seconds": 1248.46,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "work together, not as competing"
+    },
+    {
+      "stable_id": "asr-000241",
+      "start_seconds": 1248.46,
+      "end_seconds": 1250.3600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "centers of power, but"
+    },
+    {
+      "stable_id": "asr-000242",
+      "start_seconds": 1250.3600000000001,
+      "end_seconds": 1252.1599999999999,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "as co-equal institutions"
+    },
+    {
+      "stable_id": "asr-000243",
+      "start_seconds": 1252.1599999999999,
+      "end_seconds": 1253.6399999999999,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "united by a common duty"
+    },
+    {
+      "stable_id": "asr-000244",
+      "start_seconds": 1253.6399999999999,
+      "end_seconds": 1255.38,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "to the Filipino people."
+    },
+    {
+      "stable_id": "asr-000245",
+      "start_seconds": 1255.8600000000001,
+      "end_seconds": 1258.1,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "To enable the Office of the President to perform"
+    },
+    {
+      "stable_id": "asr-000246",
+      "start_seconds": 1258.1,
+      "end_seconds": 1258.9,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "its constitutional"
+    },
+    {
+      "stable_id": "asr-000247",
+      "start_seconds": 1258.9,
+      "end_seconds": 1261.98,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "responsibilities, we respectfully"
+    },
+    {
+      "stable_id": "asr-000248",
+      "start_seconds": 1261.98,
+      "end_seconds": 1263.8400000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "propose a budget of"
+    },
+    {
+      "stable_id": "asr-000249",
+      "start_seconds": 1263.8400000000001,
+      "end_seconds": 1266.22,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "10.15 billion pesos"
+    },
+    {
+      "stable_id": "asr-000250",
+      "start_seconds": 1266.22,
+      "end_seconds": 1268.02,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "for 2027."
+    },
+    {
+      "stable_id": "asr-000251",
+      "start_seconds": 1268.5,
+      "end_seconds": 1270.22,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "This represents only"
+    },
+    {
+      "stable_id": "asr-000252",
+      "start_seconds": 1270.22,
+      "end_seconds": 1272.66,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "0.14 percent"
+    },
+    {
+      "stable_id": "asr-000253",
+      "start_seconds": 1272.66,
+      "end_seconds": 1273.8600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "or roughly"
+    },
+    {
+      "stable_id": "asr-000254",
+      "start_seconds": 1273.8600000000001,
+      "end_seconds": 1276.18,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "one-seventh of one percent"
+    },
+    {
+      "stable_id": "asr-000255",
+      "start_seconds": 1276.18,
+      "end_seconds": 1278.42,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "of the proposed 7.2"
+    },
+    {
+      "stable_id": "asr-000256",
+      "start_seconds": 1278.42,
+      "end_seconds": 1280.2,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "trillion peso national"
+    },
+    {
+      "stable_id": "asr-000257",
+      "start_seconds": 1280.2,
+      "end_seconds": 1282.0,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "budget. It is also"
+    },
+    {
+      "stable_id": "asr-000258",
+      "start_seconds": 1282.0,
+      "end_seconds": 1284.2,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "64 percent"
+    },
+    {
+      "stable_id": "asr-000259",
+      "start_seconds": 1284.2,
+      "end_seconds": 1286.02,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "lower than the previous"
+    },
+    {
+      "stable_id": "asr-000260",
+      "start_seconds": 1286.02,
+      "end_seconds": 1288.28,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "year's level. The substantial"
+    },
+    {
+      "stable_id": "asr-000261",
+      "start_seconds": 1288.28,
+      "end_seconds": 1289.78,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "reduction reflects the lower"
+    },
+    {
+      "stable_id": "asr-000262",
+      "start_seconds": 1289.78,
+      "end_seconds": 1291.92,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "operational requirements of our"
+    },
+    {
+      "stable_id": "asr-000263",
+      "start_seconds": 1291.92,
+      "end_seconds": 1293.76,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "delivery units and the completion"
+    },
+    {
+      "stable_id": "asr-000264",
+      "start_seconds": 1293.76,
+      "end_seconds": 1295.8,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "of activities related to"
+    },
+    {
+      "stable_id": "asr-000265",
+      "start_seconds": 1295.8,
+      "end_seconds": 1297.74,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "the Philippines' hosting of the"
+    },
+    {
+      "stable_id": "asr-000266",
+      "start_seconds": 1297.74,
+      "end_seconds": 1299.8600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "ASEAN Summit, for which no"
+    },
+    {
+      "stable_id": "asr-000267",
+      "start_seconds": 1299.8600000000001,
+      "end_seconds": 1301.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "additional funding will be required"
+    },
+    {
+      "stable_id": "asr-000268",
+      "start_seconds": 1301.68,
+      "end_seconds": 1303.8600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "next year. In short,"
+    },
+    {
+      "stable_id": "asr-000269",
+      "start_seconds": 1304.58,
+      "end_seconds": 1305.96,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "we are asking for less"
+    },
+    {
+      "stable_id": "asr-000270",
+      "start_seconds": 1305.96,
+      "end_seconds": 1308.02,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "while remaining fully prepared"
+    },
+    {
+      "stable_id": "asr-000271",
+      "start_seconds": 1308.02,
+      "end_seconds": 1309.18,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "to do more."
+    },
+    {
+      "stable_id": "asr-000272",
+      "start_seconds": 1309.78,
+      "end_seconds": 1311.52,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "We believe this amount is sufficient"
+    },
+    {
+      "stable_id": "asr-000273",
+      "start_seconds": 1311.52,
+      "end_seconds": 1313.6,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "for the Presidency to meet the"
+    },
+    {
+      "stable_id": "asr-000274",
+      "start_seconds": 1313.6,
+      "end_seconds": 1315.52,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "exacting demands of leading the nation"
+    },
+    {
+      "stable_id": "asr-000275",
+      "start_seconds": 1315.52,
+      "end_seconds": 1318.12,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "at a time of overlapping domestic,"
+    },
+    {
+      "stable_id": "asr-000276",
+      "start_seconds": 1318.28,
+      "end_seconds": 1319.96,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and external challenges,"
+    },
+    {
+      "stable_id": "asr-000277",
+      "start_seconds": 1320.62,
+      "end_seconds": 1322.16,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "from geopolitical tensions"
+    },
+    {
+      "stable_id": "asr-000278",
+      "start_seconds": 1322.16,
+      "end_seconds": 1324.54,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and disruptions in the Middle East"
+    },
+    {
+      "stable_id": "asr-000279",
+      "start_seconds": 1324.54,
+      "end_seconds": 1326.42,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "to typhoons, El Nino,"
+    },
+    {
+      "stable_id": "asr-000280",
+      "start_seconds": 1326.42,
+      "end_seconds": 1328.04,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and other calamities."
+    },
+    {
+      "stable_id": "asr-000281",
+      "start_seconds": 1328.46,
+      "end_seconds": 1330.44,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "This budget will sustain the work of"
+    },
+    {
+      "stable_id": "asr-000282",
+      "start_seconds": 1330.44,
+      "end_seconds": 1332.54,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "the Office of the President's 51"
+    },
+    {
+      "stable_id": "asr-000283",
+      "start_seconds": 1332.54,
+      "end_seconds": 1333.8,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "delivery units,"
+    },
+    {
+      "stable_id": "asr-000284",
+      "start_seconds": 1334.48,
+      "end_seconds": 1336.2,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "the machinery that keeps the highest"
+    },
+    {
+      "stable_id": "asr-000285",
+      "start_seconds": 1336.2,
+      "end_seconds": 1338.38,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "office of government delivery for"
+    },
+    {
+      "stable_id": "asr-000286",
+      "start_seconds": 1338.38,
+      "end_seconds": 1340.42,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "the Filipino people. It will"
+    },
+    {
+      "stable_id": "asr-000287",
+      "start_seconds": 1340.42,
+      "end_seconds": 1341.94,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "support cabinet meetings,"
+    },
+    {
+      "stable_id": "asr-000288",
+      "start_seconds": 1342.58,
+      "end_seconds": 1343.96,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "policy consultations,"
+    },
+    {
+      "stable_id": "asr-000289",
+      "start_seconds": 1344.6,
+      "end_seconds": 1346.2,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "presidential engagements, and"
+    },
+    {
+      "stable_id": "asr-000290",
+      "start_seconds": 1346.2,
+      "end_seconds": 1348.18,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "official travels. And the"
+    },
+    {
+      "stable_id": "asr-000291",
+      "start_seconds": 1348.18,
+      "end_seconds": 1349.8400000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "daily operations of Malacanang"
+    },
+    {
+      "stable_id": "asr-000292",
+      "start_seconds": 1349.8400000000001,
+      "end_seconds": 1352.12,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "as the nation's principal center"
+    },
+    {
+      "stable_id": "asr-000293",
+      "start_seconds": 1352.12,
+      "end_seconds": 1353.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "of decision-making"
+    },
+    {
+      "stable_id": "asr-000294",
+      "start_seconds": 1353.68,
+      "end_seconds": 1355.8600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and executive coordination."
+    },
+    {
+      "stable_id": "asr-000295",
+      "start_seconds": 1356.5,
+      "end_seconds": 1358.08,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "More importantly, it will help"
+    },
+    {
+      "stable_id": "asr-000296",
+      "start_seconds": 1358.08,
+      "end_seconds": 1360.1,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "bring timely assistance to"
+    },
+    {
+      "stable_id": "asr-000297",
+      "start_seconds": 1360.1,
+      "end_seconds": 1362.02,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "vulnerable families and"
+    },
+    {
+      "stable_id": "asr-000298",
+      "start_seconds": 1362.02,
+      "end_seconds": 1363.98,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "enable the government to respond swiftly"
+    },
+    {
+      "stable_id": "asr-000299",
+      "start_seconds": 1363.98,
+      "end_seconds": 1365.96,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "in times of emergencies."
+    },
+    {
+      "stable_id": "asr-000300",
+      "start_seconds": 1366.6399999999999,
+      "end_seconds": 1368.08,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Every day, the"
+    },
+    {
+      "stable_id": "asr-000301",
+      "start_seconds": 1368.08,
+      "end_seconds": 1369.52,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "President's schedule is full"
+    },
+    {
+      "stable_id": "asr-000302",
+      "start_seconds": 1369.52,
+      "end_seconds": 1371.6,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "because the demands of governing"
+    },
+    {
+      "stable_id": "asr-000303",
+      "start_seconds": 1371.6,
+      "end_seconds": 1373.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "do not pause. But"
+    },
+    {
+      "stable_id": "asr-000304",
+      "start_seconds": 1373.68,
+      "end_seconds": 1376.18,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "activity alone is"
+    },
+    {
+      "stable_id": "asr-000305",
+      "start_seconds": 1376.18,
+      "end_seconds": 1377.96,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "not our measure of performance."
+    },
+    {
+      "stable_id": "asr-000306",
+      "start_seconds": 1378.18,
+      "end_seconds": 1380.3,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "The real test of every peso"
+    },
+    {
+      "stable_id": "asr-000307",
+      "start_seconds": 1380.3,
+      "end_seconds": 1382.28,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "spent is whether it solves"
+    },
+    {
+      "stable_id": "asr-000308",
+      "start_seconds": 1382.28,
+      "end_seconds": 1384.4,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "a problem, improves a life,"
+    },
+    {
+      "stable_id": "asr-000309",
+      "start_seconds": 1384.88,
+      "end_seconds": 1386.3400000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "or strengthens the nation."
+    },
+    {
+      "stable_id": "asr-000310",
+      "start_seconds": 1386.94,
+      "end_seconds": 1388.12,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "That is the standard"
+    },
+    {
+      "stable_id": "asr-000311",
+      "start_seconds": 1388.12,
+      "end_seconds": 1389.6,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "we apply to every peso"
+    },
+    {
+      "stable_id": "asr-000312",
+      "start_seconds": 1389.6,
+      "end_seconds": 1391.42,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "in this budget proposal."
+    },
+    {
+      "stable_id": "asr-000313",
+      "start_seconds": 1392.02,
+      "end_seconds": 1393.92,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "We ensure that every policy,"
+    },
+    {
+      "stable_id": "asr-000314",
+      "start_seconds": 1394.46,
+      "end_seconds": 1395.92,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "meeting, engagement,"
+    },
+    {
+      "stable_id": "asr-000315",
+      "start_seconds": 1396.44,
+      "end_seconds": 1398.3400000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and official mission yields a public"
+    },
+    {
+      "stable_id": "asr-000316",
+      "start_seconds": 1398.3400000000001,
+      "end_seconds": 1400.38,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "dividend, whether through jobs,"
+    },
+    {
+      "stable_id": "asr-000317",
+      "start_seconds": 1400.92,
+      "end_seconds": 1402.48,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "investments, stronger"
+    },
+    {
+      "stable_id": "asr-000318",
+      "start_seconds": 1402.48,
+      "end_seconds": 1403.5,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "national security,"
+    },
+    {
+      "stable_id": "asr-000319",
+      "start_seconds": 1404.26,
+      "end_seconds": 1406.22,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "better public services, or"
+    },
+    {
+      "stable_id": "asr-000320",
+      "start_seconds": 1406.22,
+      "end_seconds": 1408.06,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "more opportunities for"
+    },
+    {
+      "stable_id": "asr-000321",
+      "start_seconds": 1408.18,
+      "end_seconds": 1410.1399999999999,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "our people. Your Honours,"
+    },
+    {
+      "stable_id": "asr-000322",
+      "start_seconds": 1410.1399999999999,
+      "end_seconds": 1412.26,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "we recognize that public"
+    },
+    {
+      "stable_id": "asr-000323",
+      "start_seconds": 1412.26,
+      "end_seconds": 1414.04,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "funds are not the government's money."
+    },
+    {
+      "stable_id": "asr-000324",
+      "start_seconds": 1414.6399999999999,
+      "end_seconds": 1416.38,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "They are the people's"
+    },
+    {
+      "stable_id": "asr-000325",
+      "start_seconds": 1416.38,
+      "end_seconds": 1418.3600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "money earned through their hard"
+    },
+    {
+      "stable_id": "asr-000326",
+      "start_seconds": 1418.3600000000001,
+      "end_seconds": 1420.48,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "labor and entrusted to us"
+    },
+    {
+      "stable_id": "asr-000327",
+      "start_seconds": 1420.48,
+      "end_seconds": 1421.8600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "in the expectation"
+    },
+    {
+      "stable_id": "asr-000328",
+      "start_seconds": 1421.8600000000001,
+      "end_seconds": 1424.02,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "that the government will uplift"
+    },
+    {
+      "stable_id": "asr-000329",
+      "start_seconds": 1424.02,
+      "end_seconds": 1426.3,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "their lives. That"
+    },
+    {
+      "stable_id": "asr-000330",
+      "start_seconds": 1426.3,
+      "end_seconds": 1428.46,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "is why fiscal discipline and accountability"
+    },
+    {
+      "stable_id": "asr-000331",
+      "start_seconds": 1428.46,
+      "end_seconds": 1430.3400000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "remains central to"
+    },
+    {
+      "stable_id": "asr-000332",
+      "start_seconds": 1430.3400000000001,
+      "end_seconds": 1432.42,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "the operations of the Office of the"
+    },
+    {
+      "stable_id": "asr-000333",
+      "start_seconds": 1432.42,
+      "end_seconds": 1434.28,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "President. For fiscal year"
+    },
+    {
+      "stable_id": "asr-000334",
+      "start_seconds": 1434.28,
+      "end_seconds": 1436.5,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "2025, the Commission"
+    },
+    {
+      "stable_id": "asr-000335",
+      "start_seconds": 1436.5,
+      "end_seconds": 1438.1599999999999,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "on Audit issued the Office of the"
+    },
+    {
+      "stable_id": "asr-000336",
+      "start_seconds": 1438.18,
+      "end_seconds": 1440.14,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "President an unmodified"
+    },
+    {
+      "stable_id": "asr-000337",
+      "start_seconds": 1440.14,
+      "end_seconds": 1442.3200000000002,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "opinion. This is the"
+    },
+    {
+      "stable_id": "asr-000338",
+      "start_seconds": 1442.3200000000002,
+      "end_seconds": 1444.18,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "highest audit opinion an"
+    },
+    {
+      "stable_id": "asr-000339",
+      "start_seconds": 1444.18,
+      "end_seconds": 1446.2,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "agency may receive, and the"
+    },
+    {
+      "stable_id": "asr-000340",
+      "start_seconds": 1446.2,
+      "end_seconds": 1447.68,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "OP's third consecutive"
+    },
+    {
+      "stable_id": "asr-000341",
+      "start_seconds": 1447.68,
+      "end_seconds": 1450.3000000000002,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "unmodified opinion since"
+    },
+    {
+      "stable_id": "asr-000342",
+      "start_seconds": 1450.3000000000002,
+      "end_seconds": 1452.3600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "2022. This"
+    },
+    {
+      "stable_id": "asr-000343",
+      "start_seconds": 1452.3600000000001,
+      "end_seconds": 1454.3400000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "means that, based on COA's independent"
+    },
+    {
+      "stable_id": "asr-000344",
+      "start_seconds": 1454.3400000000001,
+      "end_seconds": 1456.48,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "audit, the OP's financial"
+    },
+    {
+      "stable_id": "asr-000345",
+      "start_seconds": 1456.48,
+      "end_seconds": 1458.3600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "statements were presented fairly"
+    },
+    {
+      "stable_id": "asr-000346",
+      "start_seconds": 1458.3600000000001,
+      "end_seconds": 1460.08,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "in all material"
+    },
+    {
+      "stable_id": "asr-000347",
+      "start_seconds": 1460.08,
+      "end_seconds": 1462.02,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "respects and in accordance"
+    },
+    {
+      "stable_id": "asr-000348",
+      "start_seconds": 1462.02,
+      "end_seconds": 1464.3600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "with applicable public sector"
+    },
+    {
+      "stable_id": "asr-000349",
+      "start_seconds": 1464.3600000000001,
+      "end_seconds": 1465.56,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "accounting standards."
+    },
+    {
+      "stable_id": "asr-000350",
+      "start_seconds": 1466.18,
+      "end_seconds": 1468.1,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "This is a badge of"
+    },
+    {
+      "stable_id": "asr-000351",
+      "start_seconds": 1468.1,
+      "end_seconds": 1470.1399999999999,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "good housekeeping. This"
+    },
+    {
+      "stable_id": "asr-000352",
+      "start_seconds": 1470.1399999999999,
+      "end_seconds": 1471.9,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "is proof that the Filipino"
+    },
+    {
+      "stable_id": "asr-000353",
+      "start_seconds": 1471.9,
+      "end_seconds": 1474.24,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "people's money is accounted for"
+    },
+    {
+      "stable_id": "asr-000354",
+      "start_seconds": 1474.24,
+      "end_seconds": 1475.7,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and that their trust"
+    },
+    {
+      "stable_id": "asr-000355",
+      "start_seconds": 1475.7,
+      "end_seconds": 1478.0,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "is respected. Rest"
+    },
+    {
+      "stable_id": "asr-000356",
+      "start_seconds": 1478.0,
+      "end_seconds": 1479.88,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "assured, we crafted"
+    },
+    {
+      "stable_id": "asr-000357",
+      "start_seconds": 1479.88,
+      "end_seconds": 1481.54,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "this proposed budget strictly"
+    },
+    {
+      "stable_id": "asr-000358",
+      "start_seconds": 1481.54,
+      "end_seconds": 1483.72,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "within the parameters and processes"
+    },
+    {
+      "stable_id": "asr-000359",
+      "start_seconds": 1483.72,
+      "end_seconds": 1486.02,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "established by the DBM."
+    },
+    {
+      "stable_id": "asr-000360",
+      "start_seconds": 1486.56,
+      "end_seconds": 1488.22,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "We sought no special"
+    },
+    {
+      "stable_id": "asr-000361",
+      "start_seconds": 1488.22,
+      "end_seconds": 1490.08,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "treatment. We submit"
+    },
+    {
+      "stable_id": "asr-000362",
+      "start_seconds": 1490.08,
+      "end_seconds": 1491.74,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "this proposal with full respect"
+    },
+    {
+      "stable_id": "asr-000363",
+      "start_seconds": 1491.74,
+      "end_seconds": 1494.04,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "for Congress' constitutional authority"
+    },
+    {
+      "stable_id": "asr-000364",
+      "start_seconds": 1494.04,
+      "end_seconds": 1496.3600000000001,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "and with readiness to answer"
+    },
+    {
+      "stable_id": "asr-000365",
+      "start_seconds": 1496.3600000000001,
+      "end_seconds": 1498.06,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "any and all your questions."
+    },
+    {
+      "stable_id": "asr-000366",
+      "start_seconds": 1498.1,
+      "end_seconds": 1501.9,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Thank you very much, Mr. Chairman."
+    },
+    {
+      "stable_id": "asr-000367",
+      "start_seconds": 1501.9,
+      "end_seconds": 1503.1,
+      "speaker": "Executive Secretary Ralph Recto",
+      "text": "Thank you very much."
+    },
+    {
+      "stable_id": "asr-000368",
+      "start_seconds": 1503.1,
+      "end_seconds": 1506.6399999999999,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Yes, thank you, our Executive Secretary,"
+    },
+    {
+      "stable_id": "asr-000369",
+      "start_seconds": 1506.6399999999999,
+      "end_seconds": 1508.4,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Ralph Recto, and the Office of the President"
+    },
+    {
+      "stable_id": "asr-000370",
+      "start_seconds": 1508.4,
+      "end_seconds": 1509.4,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "and the PMS family."
+    },
+    {
+      "stable_id": "asr-000371",
+      "start_seconds": 1510.74,
+      "end_seconds": 1512.48,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "We will continue coordinating"
+    },
+    {
+      "stable_id": "asr-000372",
+      "start_seconds": 1512.48,
+      "end_seconds": 1513.96,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "with your office in preparation"
+    },
+    {
+      "stable_id": "asr-000373",
+      "start_seconds": 1513.96,
+      "end_seconds": 1516.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "for budget plenary debates"
+    },
+    {
+      "stable_id": "asr-000374",
+      "start_seconds": 1516.1,
+      "end_seconds": 1517.98,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "and your proposed budget."
+    },
+    {
+      "stable_id": "asr-000375",
+      "start_seconds": 1518.1,
+      "end_seconds": 1519.92,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "We will just submit to you probably the"
+    },
+    {
+      "stable_id": "asr-000376",
+      "start_seconds": 1519.92,
+      "end_seconds": 1522.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "questions or the concerns, and"
+    },
+    {
+      "stable_id": "asr-000377",
+      "start_seconds": 1522.1,
+      "end_seconds": 1524.08,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "please prepare just in case any"
+    },
+    {
+      "stable_id": "asr-000378",
+      "start_seconds": 1524.08,
+      "end_seconds": 1526.16,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "of our colleagues might ask"
+    },
+    {
+      "stable_id": "asr-000379",
+      "start_seconds": 1526.16,
+      "end_seconds": 1528.08,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "questions during the plenary."
+    },
+    {
+      "stable_id": "asr-000380",
+      "start_seconds": 1528.1,
+      "end_seconds": 1529.52,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Anyway,"
+    },
+    {
+      "stable_id": "asr-000381",
+      "start_seconds": 1530.3000000000002,
+      "end_seconds": 1532.3000000000002,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "to resolve the motion of our"
+    },
+    {
+      "stable_id": "asr-000382",
+      "start_seconds": 1532.3000000000002,
+      "end_seconds": 1534.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "earlier motion of our Senate President,"
+    },
+    {
+      "stable_id": "asr-000383",
+      "start_seconds": 1534.56,
+      "end_seconds": 1536.04,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "and duly"
+    },
+    {
+      "stable_id": "asr-000384",
+      "start_seconds": 1536.04,
+      "end_seconds": 1538.02,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "seconded by our Deputy"
+    },
+    {
+      "stable_id": "asr-000385",
+      "start_seconds": 1538.02,
+      "end_seconds": 1540.3400000000001,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Majority Leader Senator Joel"
+    },
+    {
+      "stable_id": "asr-000386",
+      "start_seconds": 1540.3400000000001,
+      "end_seconds": 1542.04,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Villanueva. Is there an objection?"
+    },
+    {
+      "stable_id": "asr-000387",
+      "start_seconds": 1543.5,
+      "end_seconds": 1544.22,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "There being none,"
+    },
+    {
+      "stable_id": "asr-000388",
+      "start_seconds": 1544.28,
+      "end_seconds": 1545.8000000000002,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "even Senator Pangilinan is here."
+    },
+    {
+      "stable_id": "asr-000389",
+      "start_seconds": 1546.54,
+      "end_seconds": 1548.42,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Second thing, with that, the budget"
+    },
+    {
+      "stable_id": "asr-000390",
+      "start_seconds": 1548.42,
+      "end_seconds": 1550.0,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "of the Office of the President, the"
+    },
+    {
+      "stable_id": "asr-000391",
+      "start_seconds": 1550.0,
+      "end_seconds": 1551.38,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Presidential Management Staff,"
+    },
+    {
+      "stable_id": "asr-000392",
+      "start_seconds": 1552.1,
+      "end_seconds": 1554.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "is now deemed submitted for the"
+    },
+    {
+      "stable_id": "asr-000393",
+      "start_seconds": 1554.1,
+      "end_seconds": 1555.8600000000001,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "plenary's consideration."
+    },
+    {
+      "stable_id": "asr-000394",
+      "start_seconds": 1555.8600000000001,
+      "end_seconds": 1558.06,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "And, Committee Chair, we'd like"
+    },
+    {
+      "stable_id": "asr-000395",
+      "start_seconds": 1558.1,
+      "end_seconds": 1560.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "to thank everyone, especially our"
+    },
+    {
+      "stable_id": "asr-000396",
+      "start_seconds": 1560.1,
+      "end_seconds": 1562.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "esteemed resource persons, our Executive Secretary,"
+    },
+    {
+      "stable_id": "asr-000397",
+      "start_seconds": 1562.1,
+      "end_seconds": 1564.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "our"
+    },
+    {
+      "stable_id": "asr-000398",
+      "start_seconds": 1564.1,
+      "end_seconds": 1566.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Secretary Elaine Masukat,"
+    },
+    {
+      "stable_id": "asr-000399",
+      "start_seconds": 1566.1,
+      "end_seconds": 1568.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Executive Secretary, of course,"
+    },
+    {
+      "stable_id": "asr-000400",
+      "start_seconds": 1568.1,
+      "end_seconds": 1570.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Ralph Recto, our Senior Deputy"
+    },
+    {
+      "stable_id": "asr-000401",
+      "start_seconds": 1570.1,
+      "end_seconds": 1572.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Executive Secretary,"
+    },
+    {
+      "stable_id": "asr-000402",
+      "start_seconds": 1572.1,
+      "end_seconds": 1574.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "and the"
+    },
+    {
+      "stable_id": "asr-000403",
+      "start_seconds": 1574.1,
+      "end_seconds": 1576.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "different"
+    },
+    {
+      "stable_id": "asr-000404",
+      "start_seconds": 1576.1,
+      "end_seconds": 1578.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Deputy Executive Secretaries and"
+    },
+    {
+      "stable_id": "asr-000405",
+      "start_seconds": 1578.1,
+      "end_seconds": 1580.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "USECs and Directors."
+    },
+    {
+      "stable_id": "asr-000406",
+      "start_seconds": 1580.1,
+      "end_seconds": 1582.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Anyway, thank you very much for attending"
+    },
+    {
+      "stable_id": "asr-000407",
+      "start_seconds": 1582.1,
+      "end_seconds": 1584.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "this afternoon's"
+    },
+    {
+      "stable_id": "asr-000408",
+      "start_seconds": 1584.1,
+      "end_seconds": 1586.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "hearing. So,"
+    },
+    {
+      "stable_id": "asr-000409",
+      "start_seconds": 1586.1,
+      "end_seconds": 1588.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "with that, Committee Chair, we'd like to thank, again,"
+    },
+    {
+      "stable_id": "asr-000410",
+      "start_seconds": 1588.1,
+      "end_seconds": 1590.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "with that, the Chair would like to"
+    },
+    {
+      "stable_id": "asr-000411",
+      "start_seconds": 1590.1,
+      "end_seconds": 1592.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "suspend this hearing. Thank you"
+    },
+    {
+      "stable_id": "asr-000412",
+      "start_seconds": 1592.1,
+      "end_seconds": 1594.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "very much."
+    },
+    {
+      "stable_id": "asr-000413",
+      "start_seconds": 1620.4,
+      "end_seconds": 1622.1,
+      "speaker": "Committee Secretary",
+      "text": "We would like to request our senior officials"
+    },
+    {
+      "stable_id": "asr-000414",
+      "start_seconds": 1622.1,
+      "end_seconds": 1624.1,
+      "speaker": "Committee Secretary",
+      "text": "for a photo op with"
+    },
+    {
+      "stable_id": "asr-000415",
+      "start_seconds": 1624.1,
+      "end_seconds": 1626.1,
+      "speaker": "Committee Secretary",
+      "text": "the Chair and the Senators. Thank you."
+    }
+  ]
+}

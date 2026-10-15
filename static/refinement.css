@@ -62,14 +62,14 @@
 .public-preview a:focus-visible { outline:3px solid #efc65a; outline-offset:4px; }
 .public-digest { background:#f5f6f8; color:#17233f; }
 .public-digest,.public-transcript { --blue:#244f7c; --navy:#173653; --red:#b72d3b; --gold:#dfb83f; --ink:#162437; --muted:#58677a; --paper:#f4f5f3; --white:#fff; --rule:#cdd3d9; }
-.public-digest .record-nav { position:sticky; z-index:20; top:0; display:block; padding:0; overflow:visible; background:#173653; color:#fff; box-shadow:0 8px 22px rgba(10,29,46,.2); }
+.public-digest .record-nav { position:sticky; z-index:20; top:0; display:flex; flex-wrap:wrap; padding:0 clamp(15px,4vw,65px); overflow:visible; background:#173653; color:#fff; box-shadow:0 8px 22px rgba(10,29,46,.2); }
 .public-digest .record-nav a { flex:0 0 auto; padding:13px 16px; color:inherit; font:700 9px var(--sans); letter-spacing:.08em; text-decoration:none; text-transform:uppercase; }
 .public-digest .record-nav a:hover { background:#244f7c; }
-.public-digest .record-nav-primary { display:flex; align-items:stretch; padding-inline:clamp(15px,4vw,65px); overflow-x:auto; border-bottom:1px solid #61768a; scrollbar-width:thin; }
+.public-digest .record-nav-primary { display:flex; align-items:stretch; padding:0; overflow-x:auto; scrollbar-width:thin; }
 .public-digest .record-nav-primary a { display:flex; align-items:center; min-width:104px; justify-content:center; font-size:11px; }
 .public-digest .record-nav-primary a.active { background:#dfb83f; color:#172536; }
-.public-digest .record-nav-downloads { display:flex; align-items:stretch; margin-left:0; padding-inline:clamp(15px,4vw,65px); overflow-x:auto; border-left:0; background:#102c45; scrollbar-width:thin; }
-.public-digest .record-nav-downloads span { position:sticky; left:0; z-index:1; display:flex; align-items:center; min-width:max-content; padding:0 15px 0 0; background:#102c45; color:#dfb83f; font:700 9px var(--sans); letter-spacing:.1em; text-transform:uppercase; }
+.public-digest .record-nav-downloads { display:flex; align-items:stretch; margin-left:auto; padding:0; overflow-x:auto; scrollbar-width:thin; }
+.public-digest .record-nav-downloads span { display:flex; align-items:center; flex-shrink:0; padding:0 12px; color:#dfb83f; font:700 9px var(--sans); letter-spacing:.08em; text-transform:uppercase; }
 .public-digest .record-nav-downloads a { display:flex; align-items:center; padding-block:11px; font-size:9px; white-space:nowrap; text-decoration:underline; text-underline-offset:4px; }
 .public-digest .ai-disclaimer { display:flex; align-items:baseline; justify-content:center; gap:8px; padding:9px clamp(18px,5vw,76px); border-bottom:1px solid #c99725; background:#f3d66e; color:#2a2a22; font:12px/1.35 var(--sans); text-align:center; }
 .record-head { display:grid; grid-template-columns:minmax(0,1fr) 260px; gap:clamp(35px,7vw,105px); align-items:end; padding:clamp(48px,7vw,88px) clamp(24px,7vw,112px) 54px; background:#fff; border-bottom:1px solid #bcc5d2; }
@@ -247,6 +247,10 @@
 .issues-search { display:grid; gap:7px; }
 .issues-search label { color:var(--issues-blue); font:800 9px/1 var(--sans); letter-spacing:.1em; text-transform:uppercase; }
 .issues-search input { width:100%; padding:12px 13px; border:1px solid #98a9b7; border-radius:0; background:#fff; color:var(--issues-ink); font:14px/1.2 var(--sans); }
+.issues-search-controls { display:grid; grid-template-columns:minmax(0,1fr) auto; gap:8px; }
+.issues-search-controls button { min-height:44px; padding:10px 14px; border:1px solid #98a9b7; background:#fff; color:#173653; font:700 12px/1.2 var(--sans); cursor:pointer; }
+.issues-search-controls button:hover { border-color:#173653; background:#173653; color:#fff; }
+.issues-search-controls button:focus-visible { outline:2px solid #244f7c; outline-offset:3px; }
 .issues-search p { margin:0; color:#657180; font:11px/1.35 var(--sans); }
 .issues-domain-nav { display:flex; gap:7px; margin:22px 0 45px; padding:0 0 14px; overflow-x:auto; border-bottom:1px solid #c5cdd3; scrollbar-width:thin; }
 .issues-domain-nav button { flex:0 0 auto; padding:9px 11px; border:1px solid #aebbc5; background:#fff; color:#334c63; font:750 9px/1.2 var(--sans); letter-spacing:.06em; text-transform:uppercase; cursor:pointer; }
@@ -369,6 +373,15 @@
 .issues-sort input { width:16px; height:16px; margin:0; accent-color:#173653; }
 .issues-sort input:focus-visible { outline:2px solid #244f7c; outline-offset:4px; }
 .flat-tag-card h2 { margin:0 0 10px; color:#173653; font:650 clamp(24px,2.5vw,34px)/1.02 var(--serif); letter-spacing:-.03em; }
+.flat-tag-card-head { display:flex; align-items:flex-start; gap:12px; justify-content:space-between; }
+.flat-tag-card-head h2 { min-width:0; overflow-wrap:anywhere; }
+.issue-share-link { flex-shrink:0; display:inline-flex; align-items:center; gap:4px; min-height:44px; color:#244f7c; font:700 11px/1.3 var(--sans); text-underline-offset:3px; }
+.issue-share-link:focus-visible { outline:2px solid #244f7c; outline-offset:3px; }
+.issue-share-status { margin:0; color:#334c63; font:13px/1.5 var(--sans); }
+.issue-share-status:not(:empty) { margin-bottom:18px; }
+.issue-permalink-notice { display:flex; flex-wrap:wrap; align-items:baseline; justify-content:space-between; gap:12px; margin-bottom:24px; padding-bottom:18px; border-bottom:3px solid #173653; }
+.issue-permalink-notice[hidden] { display:none; }
+.issue-permalink-notice p { margin:0; color:#173653; font:600 20px/1.4 var(--serif); }
 .flat-tag-card>p { margin:0; color:#536170; font:14px/1.5 var(--sans); }
 .flat-tag-aliases { margin-top:13px!important; color:#687683!important; font-size:11px!important; }
 .flat-tag-hearings { margin-top:0; padding-top:20px; }
@@ -422,7 +435,9 @@
   .digest-record-nav .record-nav-primary a { flex:1 1 auto; text-align:center; }
   .digest-record-nav .record-nav-downloads span { min-width:76px; }
   .digest-ai-warning { display:flex; flex-direction:column; gap:5px; padding:14px 18px; }
-  .public-digest .record-nav-primary,.public-digest .record-nav-downloads { padding-inline:5px; }
+  .public-digest .record-nav { padding-inline:5px; }
+  .public-digest .record-nav-primary,.public-digest .record-nav-downloads { width:100%; padding-inline:0; }
+  .public-digest .record-nav-downloads { margin-left:0; border-top:1px solid #61768a; }
   .public-digest .record-nav-primary a { flex:1 1 0; min-width:0; padding:9px 5px; text-align:center; font-size:9px; line-height:1.15; white-space:normal; }
   .public-digest .record-nav-downloads span { min-width:76px; padding-left:8px; }
   .public-digest .ai-disclaimer { display:block; padding:8px 14px; font-size:11px; }
@@ -437,6 +452,15 @@
   .digest-section-permalink { width:35px; min-height:30px; font-size:24px; }
 }
 .speaker-category-tag { display:inline-block; margin-top:7px; padding:3px 5px; border-color:#cdd3d9; color:#6b7680; background:#f4f5f3; font:8px/1.3 var(--sans); letter-spacing:.06em; text-transform:uppercase; }
+.public-transcript .record-nav { flex-wrap:wrap; overflow:visible; }
+.public-transcript .record-nav-downloads { display:flex; align-items:stretch; margin-left:auto; overflow-x:auto; }
+.public-transcript .record-nav-downloads span { display:flex; align-items:center; flex-shrink:0; padding:0 12px; color:#dfb83f; font:700 9px var(--sans); letter-spacing:.08em; text-transform:uppercase; }
+.public-transcript .record-nav-downloads a { white-space:nowrap; text-decoration:underline; text-underline-offset:4px; }
+@media(max-width:700px) {
+  .public-transcript .record-nav-downloads { width:100%; margin-left:0; border-top:1px solid #61768a; }
+  .public-transcript .record-nav-downloads span { padding-inline:8px; font-size:8px; }
+  .public-transcript .record-nav-downloads a { padding:12px 9px; font-size:8px; }
+}
 .speaker-filters { display:grid; grid-template-columns:minmax(180px,1fr) auto; gap:12px 28px; align-items:end; }
 .speaker-category-filter { margin:0; padding:0 0 9px; border:0; display:flex; flex-wrap:wrap; gap:12px; }
 .speaker-category-filter legend { margin-bottom:12px; color:var(--agency-blue); font:800 9px/1.2 var(--sans); letter-spacing:.13em; text-transform:uppercase; }
@@ -444,3 +468,8 @@
 .speaker-category-filter input { width:auto; margin:0; accent-color:var(--agency-blue); }
 #speaker-index-count { grid-column:1 / -1; margin:0; }
 @media(max-width:760px) { .speaker-filters { grid-template-columns:1fr; } .speaker-category-filter { padding-bottom:0; } }
+
+@media(max-width:700px) {
+  .masthead:has(nav[aria-label="Public pages"]) { flex-wrap:wrap; gap:14px; }
+  .masthead nav[aria-label="Public pages"] { width:100%; flex-wrap:wrap; justify-content:flex-start; row-gap:12px; }
+}

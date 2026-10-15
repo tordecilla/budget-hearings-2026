@@ -1,0 +1,2249 @@
+{
+  "hearing": {
+    "hearing_id": 37,
+    "title": "Senate Committee on Finance: COA - September 3, 2026",
+    "hearing_date": "2026-09-03",
+    "official_url": "https://www.youtube.com/watch?v=sI6Wn4ht2a0"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h37/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Budget, technology and staffing",
+      "text": "Members focused on COA audit resources, information-technology modernization, participatory audit work and hard-to-fill auditor positions. They discussed additional funding needs and a proposed salary-standardization exemption and retirement measure.",
+      "citations": []
+    },
+    {
+      "label": "Confidential-fund accountability",
+      "text": "COA and senators examined current confidential-fund controls and proposed revisions, including alias documentation, disbursing officers, proof for information purchases and informer rewards, and protection of sensitive identities.",
+      "citations": []
+    },
+    {
+      "label": "Fraud audits and flood-control oversight",
+      "text": "The hearing covered fraud-audit referrals, notices of disallowance, audit findings on flood-control projects, regional and project-level accountability, and the need for coordinated master planning and technical review.",
+      "citations": []
+    },
+    {
+      "label": "Public reporting and participation",
+      "text": "Members asked about timely annual audit reports and public access, how civil-society partners are selected for participatory audits, and what documents COA would provide. The motion to submit the budget for plenary action passed subject to further discussion and requested documents.",
+      "citations": []
+    }
+  ],
+  "method_note": "This digest follows the reviewed transcript. Source links support the reported figures, exchanges and decisions.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Commission on Audit (COA)",
+          "text": "PHP 16,046,527,000 is the Commission on Audit (COA) FY2027 National Expenditure Program (NEP) allocation, including retirement and life-insurance premiums (RLIP). COA's request was discussed through individual component proposals; a consolidated original request total was not stated.",
+          "citations": [
+            {
+              "stable_id": "asr-000119",
+              "start_seconds": 2301.12,
+              "clock": "00:38:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000119"
+            },
+            {
+              "stable_id": "asr-000120",
+              "start_seconds": 2310.7200000000003,
+              "clock": "00:38:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000120"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-coa",
+      "label": "COA budget",
+      "items": [
+        {
+          "label": "FY2027 NEP allocation and components",
+          "text": "PHP 14.77 billion in agency-specific FY2027 NEP appropriations and PHP 1.272 billion for retirement and life-insurance premiums (RLIP) were reported by Commission on Audit (COA) Assistant Commissioner Nilda B. Plaras. The agency-specific budget comprises PHP 14.036 billion for personal services and PHP 737.977 million for maintenance and other operating expenses (MOOE), with zero capital outlay. Against COA's FY2027 proposal, Plaras reported personal services up 1.17%, reflecting authorized positions and the fourth Salary Standardization Law tranche; MOOE down 34.48%, affecting first-year Information Systems Strategic Plan (ISSP) implementation and citizen participatory audit requirements; and capital outlay cut entirely.",
+          "citations": [
+            {
+              "stable_id": "asr-000122",
+              "start_seconds": 2332.62,
+              "clock": "00:38:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000122"
+            },
+            {
+              "stable_id": "asr-000123",
+              "start_seconds": 2343.82,
+              "clock": "00:39:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000123"
+            },
+            {
+              "stable_id": "asr-000124",
+              "start_seconds": 2356.76,
+              "clock": "00:39:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000124"
+            },
+            {
+              "stable_id": "asr-000125",
+              "start_seconds": 2363.42,
+              "clock": "00:39:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000125"
+            },
+            {
+              "stable_id": "asr-000126",
+              "start_seconds": 2367.7200000000003,
+              "clock": "00:39:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000126"
+            },
+            {
+              "stable_id": "asr-000128",
+              "start_seconds": 2379.88,
+              "clock": "00:39:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000128"
+            },
+            {
+              "stable_id": "asr-000130",
+              "start_seconds": 2392.62,
+              "clock": "00:39:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000130"
+            },
+            {
+              "stable_id": "asr-000131",
+              "start_seconds": 2399.54,
+              "clock": "00:39:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000131"
+            },
+            {
+              "stable_id": "asr-000132",
+              "start_seconds": 2409.38,
+              "clock": "00:40:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000132"
+            },
+            {
+              "stable_id": "asr-000133",
+              "start_seconds": 2418.74,
+              "clock": "00:40:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000133"
+            }
+          ]
+        },
+        {
+          "label": "Support for COA funding",
+          "text": "Senator Juan Miguel \"Migz\" F. Zubiri expressed support for the Commission on Audit (COA) and additional funding for its needs.",
+          "citations": [
+            {
+              "stable_id": "asr-000007",
+              "start_seconds": 1661.48,
+              "clock": "00:27:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000007"
+            },
+            {
+              "stable_id": "asr-000009",
+              "start_seconds": 1666.1599999999999,
+              "clock": "00:27:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000009"
+            },
+            {
+              "stable_id": "asr-000010",
+              "start_seconds": 1669.8,
+              "clock": "00:27:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000010"
+            }
+          ]
+        },
+        {
+          "label": "FY2025 and first-half FY2026 allotment utilization",
+          "text": "PHP 15.1 billion in FY2025 allotments produced PHP 14.7 billion in obligations (97.36%) and PHP 14.3 billion in disbursements (97.33% of obligations), leaving PHP 398 million unobligated and PHP 392 million in unpaid obligations. For the first semester of FY2026, COA reported PHP 15.7 billion in allotments, PHP 8 billion obligated (51.06%) and PHP 7.8 billion disbursed (97.45% of obligations).",
+          "citations": [
+            {
+              "stable_id": "asr-000072",
+              "start_seconds": 1948.43,
+              "clock": "00:32:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000072"
+            },
+            {
+              "stable_id": "asr-000073",
+              "start_seconds": 1975.12,
+              "clock": "00:32:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000073"
+            },
+            {
+              "stable_id": "asr-000074",
+              "start_seconds": 2001.74,
+              "clock": "00:33:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000074"
+            },
+            {
+              "stable_id": "asr-000076",
+              "start_seconds": 2032.99,
+              "clock": "00:33:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000076"
+            }
+          ]
+        },
+        {
+          "label": "Capital-outlay proposal, ICT priority and building project",
+          "text": "PHP 1.177 billion was requested for FY2027 capital outlay, against zero in the National Expenditure Program (NEP). Commission on Audit (COA) Assistant Commissioner Nilda B. Plaras identified building works, fire protection and modernization of the old main buildings. Senator Erwin Tulfo asked which priorities could be funded if the entire request could not be met. Plaras put information and communications technology (ICT) equipment and software first, at PHP 297.6 million, then semi-expendable ICT items, with building modernization last. She separately described operating-expense needs for communications equipment, software and internet subscriptions at provincial satellite auditing offices.",
+          "citations": [
+            {
+              "stable_id": "asr-000138",
+              "start_seconds": 2446.1,
+              "clock": "00:40:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000138"
+            },
+            {
+              "stable_id": "asr-000139",
+              "start_seconds": 2456.62,
+              "clock": "00:40:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000139"
+            },
+            {
+              "stable_id": "asr-000141",
+              "start_seconds": 2462.34,
+              "clock": "00:41:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000141"
+            },
+            {
+              "stable_id": "asr-000143",
+              "start_seconds": 2472.23,
+              "clock": "00:41:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000143"
+            },
+            {
+              "stable_id": "asr-000145",
+              "start_seconds": 2486.13,
+              "clock": "00:41:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000145"
+            },
+            {
+              "stable_id": "asr-000223",
+              "start_seconds": 2641.51,
+              "clock": "00:44:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000223"
+            },
+            {
+              "stable_id": "asr-000231",
+              "start_seconds": 2664.25,
+              "clock": "00:44:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000231"
+            },
+            {
+              "stable_id": "asr-000238",
+              "start_seconds": 2692.11,
+              "clock": "00:44:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000238"
+            },
+            {
+              "stable_id": "asr-000243",
+              "start_seconds": 2702.08,
+              "clock": "00:45:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000243"
+            }
+          ]
+        },
+        {
+          "label": "Prior building funds and implementation",
+          "text": "PHP 650 million in prior-year capital outlay was cited by Senator Erwin Tulfo and confirmed by COA Chairperson Gamaliel A. Cordoba. Assistant Commissioner Nilda B. Plaras identified a separate PHP 370 million new-building project: COA was preparing phase-2 plans and awaiting the building transfer from the Department of Public Works and Highways (DPWH), which implements it. In response to presiding Senator Joseph Victor \"JV\" G. Ejercito, she distinguished that project from the old-building modernization in the current request. Cordoba said the old buildings had been retrofitted because they were constructed under an earlier building code.",
+          "citations": [
+            {
+              "stable_id": "asr-000157",
+              "start_seconds": 2513.23,
+              "clock": "00:41:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000157"
+            },
+            {
+              "stable_id": "asr-000162",
+              "start_seconds": 2531.41,
+              "clock": "00:42:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000162"
+            },
+            {
+              "stable_id": "asr-000179",
+              "start_seconds": 2533.79,
+              "clock": "00:42:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000179"
+            },
+            {
+              "stable_id": "asr-000181",
+              "start_seconds": 2540.01,
+              "clock": "00:42:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000181"
+            },
+            {
+              "stable_id": "asr-000184",
+              "start_seconds": 2547.29,
+              "clock": "00:42:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000184"
+            },
+            {
+              "stable_id": "asr-000189",
+              "start_seconds": 2559.71,
+              "clock": "00:42:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000189"
+            },
+            {
+              "stable_id": "asr-000192",
+              "start_seconds": 2566.87,
+              "clock": "00:42:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000192"
+            },
+            {
+              "stable_id": "asr-000200",
+              "start_seconds": 2579.55,
+              "clock": "00:42:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000200"
+            },
+            {
+              "stable_id": "asr-000214",
+              "start_seconds": 2613.75,
+              "clock": "00:43:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000214"
+            },
+            {
+              "stable_id": "asr-000215",
+              "start_seconds": 2618.29,
+              "clock": "00:43:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000215"
+            },
+            {
+              "stable_id": "asr-000217",
+              "start_seconds": 2620.55,
+              "clock": "00:43:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000217"
+            },
+            {
+              "stable_id": "asr-000219",
+              "start_seconds": 2623.79,
+              "clock": "00:43:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000219"
+            },
+            {
+              "stable_id": "asr-000222",
+              "start_seconds": 2636.01,
+              "clock": "00:43:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000222"
+            }
+          ]
+        },
+        {
+          "label": "Legal assistance for COA auditors and personnel",
+          "text": "PHP 169 million in FY2027 NEP support to operations was allocated for legal-assistance services. Presiding Senator Joseph Victor \"JV\" G. Ejercito asked whether it protected Commission on Audit (COA) auditors facing retaliation for their findings or testimony. COA Assistant Commissioner Bresilo R. Sabaldan, head of legal service, said the Prosecution and Litigation Office assists auditors facing harassment or retaliatory suits, and the legal-assistance fund can cover private lawyers for current and former auditors. He considered the allocation sufficient.",
+          "citations": [
+            {
+              "stable_id": "asr-000414",
+              "start_seconds": 3045.62,
+              "clock": "00:50:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000414"
+            },
+            {
+              "stable_id": "asr-000415",
+              "start_seconds": 3048.2799999999997,
+              "clock": "00:50:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000415"
+            },
+            {
+              "stable_id": "asr-000416",
+              "start_seconds": 3050.0,
+              "clock": "00:50:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000416"
+            },
+            {
+              "stable_id": "asr-000441",
+              "start_seconds": 3100.2799999999997,
+              "clock": "00:51:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000441"
+            },
+            {
+              "stable_id": "asr-000445",
+              "start_seconds": 3108.82,
+              "clock": "00:51:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000445"
+            },
+            {
+              "stable_id": "asr-000447",
+              "start_seconds": 3112.56,
+              "clock": "00:51:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000447"
+            },
+            {
+              "stable_id": "asr-000458",
+              "start_seconds": 3133.8,
+              "clock": "00:52:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000458"
+            },
+            {
+              "stable_id": "asr-000464",
+              "start_seconds": 3145.2799999999997,
+              "clock": "00:52:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000464"
+            },
+            {
+              "stable_id": "asr-000468",
+              "start_seconds": 3154.5,
+              "clock": "00:52:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000468"
+            },
+            {
+              "stable_id": "asr-000472",
+              "start_seconds": 3162.44,
+              "clock": "00:52:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000472"
+            },
+            {
+              "stable_id": "asr-000473",
+              "start_seconds": 3164.46,
+              "clock": "00:52:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000473"
+            }
+          ]
+        },
+        {
+          "label": "Citizen participatory audit funding",
+          "text": "PHP 40.7 million requested under Tier 2 for FY2027 citizen participatory audit (CPA) requirements was omitted from the NEP. Presiding Senator Joseph Victor \"JV\" G. Ejercito asked what would be reduced or delayed without restoration. COA Assistant Commissioner Nilda B. Plaras said CPA would continue using regular MOOE; PHP 10 million had already been disbursed across the regions in 2026. Asked about reports of PHP 250 in logistical support for citizen partners, COA Chairperson Gamaliel A. Cordoba said support had increased and described citizen partners as extending COA's field capacity.",
+          "citations": [
+            {
+              "stable_id": "asr-002499",
+              "start_seconds": 8061.84,
+              "clock": "02:14:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002499"
+            },
+            {
+              "stable_id": "asr-002500",
+              "start_seconds": 8069.14,
+              "clock": "02:14:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002500"
+            },
+            {
+              "stable_id": "asr-002502",
+              "start_seconds": 8076.48,
+              "clock": "02:14:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002502"
+            },
+            {
+              "stable_id": "asr-002505",
+              "start_seconds": 8084.98,
+              "clock": "02:14:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002505"
+            },
+            {
+              "stable_id": "asr-002506",
+              "start_seconds": 8089.98,
+              "clock": "02:14:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002506"
+            },
+            {
+              "stable_id": "asr-002514",
+              "start_seconds": 8108.04,
+              "clock": "02:15:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002514"
+            },
+            {
+              "stable_id": "asr-002521",
+              "start_seconds": 8122.38,
+              "clock": "02:15:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002521"
+            },
+            {
+              "stable_id": "asr-002526",
+              "start_seconds": 8131.76,
+              "clock": "02:15:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002526"
+            },
+            {
+              "stable_id": "asr-002528",
+              "start_seconds": 8135.8,
+              "clock": "02:15:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002528"
+            },
+            {
+              "stable_id": "asr-002531",
+              "start_seconds": 8141.6,
+              "clock": "02:15:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002531"
+            },
+            {
+              "stable_id": "asr-002532",
+              "start_seconds": 8143.54,
+              "clock": "02:15:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002532"
+            }
+          ]
+        },
+        {
+          "label": "Support for additional COA assistance",
+          "text": "Senator Joel Villanueva reiterated support for COA and offered to seek additional assistance if needed, alongside the proposed salary-standardization exemption.",
+          "citations": [
+            {
+              "stable_id": "asr-002567",
+              "start_seconds": 8214.47,
+              "clock": "02:16:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002567"
+            },
+            {
+              "stable_id": "asr-002569",
+              "start_seconds": 8218.07,
+              "clock": "02:16:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002569"
+            },
+            {
+              "stable_id": "asr-002572",
+              "start_seconds": 8224.45,
+              "clock": "02:17:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002572"
+            },
+            {
+              "stable_id": "asr-002578",
+              "start_seconds": 8237.65,
+              "clock": "02:17:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002578"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-commission-on-audit-budget-and-accomplishments",
+      "label": "Commission on Audit budget and accomplishments",
+      "items": [
+        {
+          "label": "Audit reports and publication",
+          "text": "Assistant Commissioner Nilda B. Plaras reported that COA transmitted 2,663 annual audit reports, 43 fraud audit reports, 10 special audit reports and 3 performance audit reports for FY2025. For the first semester of FY2026, it transmitted 2,605 annual, 10 fraud, 4 special and 3 performance audit reports. COA published 2,255 FY2025 annual audit reports on its website. Plaras explained that annual reports were due to audited agencies by June 30; agencies had 60 days after receipt to submit status reports on action taken on audit observations and recommendations, and those status reports would be published with the annual reports through October 31.",
+          "citations": [
+            {
+              "stable_id": "asr-000082",
+              "start_seconds": 2065.25,
+              "clock": "00:34:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000082"
+            },
+            {
+              "stable_id": "asr-000083",
+              "start_seconds": 2080.61,
+              "clock": "00:34:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000083"
+            },
+            {
+              "stable_id": "asr-000084",
+              "start_seconds": 2090.35,
+              "clock": "00:34:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000084"
+            },
+            {
+              "stable_id": "asr-000087",
+              "start_seconds": 2111.54,
+              "clock": "00:35:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000087"
+            },
+            {
+              "stable_id": "asr-000090",
+              "start_seconds": 2122.5,
+              "clock": "00:35:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000090"
+            },
+            {
+              "stable_id": "asr-000091",
+              "start_seconds": 2131.86,
+              "clock": "00:35:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000091"
+            },
+            {
+              "stable_id": "asr-000093",
+              "start_seconds": 2152.5,
+              "clock": "00:35:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000093"
+            }
+          ]
+        },
+        {
+          "label": "Government accountancy, training and adjudication",
+          "text": "Plaras said COA submitted annual reports for FY2025 and FY2026 to the Office of the President, House of Representatives and Senate, including reports of appropriations, allotments, obligations and disbursements. Annual financial reports for local and national governments and government corporations were submitted for FY2025, with the FY2026 submission due September 30. COA issued two circulars in FY2025 and two in the first semester of FY2026. It trained 3,817 agency users in FY2025 and 2,148 in the first semester of FY2026. For FY2025, the Commission proper decided 811 cases, the national government audit sector 587, the corporate government audit sector 188, and the local government audit sector 571. In the first semester of FY2026, the corresponding counts were 448, 116, 42 and 224.",
+          "citations": [
+            {
+              "stable_id": "asr-000094",
+              "start_seconds": 2159.86,
+              "clock": "00:35:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000094"
+            },
+            {
+              "stable_id": "asr-000096",
+              "start_seconds": 2176.68,
+              "clock": "00:36:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000096"
+            },
+            {
+              "stable_id": "asr-000097",
+              "start_seconds": 2182.5,
+              "clock": "00:36:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000097"
+            },
+            {
+              "stable_id": "asr-000098",
+              "start_seconds": 2187.86,
+              "clock": "00:36:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000098"
+            },
+            {
+              "stable_id": "asr-000099",
+              "start_seconds": 2198.94,
+              "clock": "00:36:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000099"
+            },
+            {
+              "stable_id": "asr-000101",
+              "start_seconds": 2213.94,
+              "clock": "00:36:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000101"
+            },
+            {
+              "stable_id": "asr-000102",
+              "start_seconds": 2218.66,
+              "clock": "00:36:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000102"
+            },
+            {
+              "stable_id": "asr-000103",
+              "start_seconds": 2224.7,
+              "clock": "00:37:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000103"
+            },
+            {
+              "stable_id": "asr-000105",
+              "start_seconds": 2244.46,
+              "clock": "00:37:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000105"
+            },
+            {
+              "stable_id": "asr-000108",
+              "start_seconds": 2254.96,
+              "clock": "00:37:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000108"
+            },
+            {
+              "stable_id": "asr-000109",
+              "start_seconds": 2263.6,
+              "clock": "00:37:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000109"
+            },
+            {
+              "stable_id": "asr-000110",
+              "start_seconds": 2268.48,
+              "clock": "00:37:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000110"
+            },
+            {
+              "stable_id": "asr-000116",
+              "start_seconds": 2273.6,
+              "clock": "00:37:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000116"
+            },
+            {
+              "stable_id": "asr-000117",
+              "start_seconds": 2282.56,
+              "clock": "00:38:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000117"
+            },
+            {
+              "stable_id": "asr-000118",
+              "start_seconds": 2292.6,
+              "clock": "00:38:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000118"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-context",
+      "label": "Opening context",
+      "items": [
+        {
+          "label": "Opening, mandate and presentation handoff",
+          "text": "Presiding Senator Joseph Victor \"JV\" G. Ejercito opened the FY2027 COA budget discussion, asking whether the proposed funding would support fraud, performance and information-system audits, field inspections, citizen participation, staffing and prompt resolution of findings. He called for COA to meet the financial-management, transparency and internal-control standards it expects of other agencies, then invited COA Chairperson Gamaliel A. Cordoba to present.",
+          "citations": [
+            {
+              "stable_id": "asr-000034",
+              "start_seconds": 1742.94,
+              "clock": "00:29:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000034"
+            },
+            {
+              "stable_id": "asr-000040",
+              "start_seconds": 1807.84,
+              "clock": "00:30:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000040"
+            },
+            {
+              "stable_id": "asr-000042",
+              "start_seconds": 1814.86,
+              "clock": "00:30:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000042"
+            },
+            {
+              "stable_id": "asr-000045",
+              "start_seconds": 1828.66,
+              "clock": "00:30:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000045"
+            },
+            {
+              "stable_id": "asr-000053",
+              "start_seconds": 1858.66,
+              "clock": "00:30:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000053"
+            },
+            {
+              "stable_id": "asr-000057",
+              "start_seconds": 1876.4,
+              "clock": "00:31:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000057"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-erwin-tulfo",
+      "label": "Senator Erwin Tulfo",
+      "items": [
+        {
+          "label": "Fraud audits, personnel rotation and accountability measures",
+          "text": "Senator Erwin Tulfo asked what COA had changed after the Senate Blue Ribbon Committee's flood-control investigations to prevent audit personnel from overlooking or abetting wrongdoing. Chairperson Gamaliel A. Cordoba said COA initiated fraud audits in affected areas, removed and reassigned personnel posted there, and filed cases against them. Asked how long auditors remain assigned to an area, Cordoba said COA's general rule is three years, after which personnel rotate.",
+          "citations": [
+            {
+              "stable_id": "asr-000261",
+              "start_seconds": 2738.6,
+              "clock": "00:45:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000261"
+            },
+            {
+              "stable_id": "asr-000277",
+              "start_seconds": 2769.62,
+              "clock": "00:46:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000277"
+            },
+            {
+              "stable_id": "asr-000288",
+              "start_seconds": 2790.82,
+              "clock": "00:46:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000288"
+            },
+            {
+              "stable_id": "asr-000290",
+              "start_seconds": 2795.42,
+              "clock": "00:46:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000290"
+            },
+            {
+              "stable_id": "asr-000300",
+              "start_seconds": 2815.88,
+              "clock": "00:46:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000300"
+            },
+            {
+              "stable_id": "asr-000302",
+              "start_seconds": 2819.3,
+              "clock": "00:46:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000302"
+            }
+          ]
+        },
+        {
+          "label": "Office of the Vice President confidential-fund appeal and review",
+          "text": "Tulfo asked about the Commission on Audit Fraud Audit Office's notice of disallowance (ND) concerning the Office of the Vice President's (OVP) confidential funds and the status of its appeal. Cordoba said the OVP appealed the ND to the Commission within the six-month appeal period; COA had denied that appeal, and the OVP's motion for reconsideration was pending. Cordoba said that if the reconsideration were denied, the OVP could seek review in the Supreme Court under Rule 64 of the Rules of Court. He agreed to provide the impeachment court with the prior decision and, once issued, the decision on reconsideration, which he expected in about a month. Cordoba separately said the Department of Education's (DepEd) intelligence and confidential funds appeal deadline was October 5 of that year; when Tulfo asked whether DepEd had appealed, Cordoba said it had not, and confirmed that the OVP matter was the one then on appeal.",
+          "citations": [
+            {
+              "stable_id": "asr-000304",
+              "start_seconds": 2821.44,
+              "clock": "00:47:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000304"
+            },
+            {
+              "stable_id": "asr-000336",
+              "start_seconds": 2886.26,
+              "clock": "00:48:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000336"
+            },
+            {
+              "stable_id": "asr-000344",
+              "start_seconds": 2899.68,
+              "clock": "00:48:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000344"
+            },
+            {
+              "stable_id": "asr-000348",
+              "start_seconds": 2910.0,
+              "clock": "00:48:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000348"
+            },
+            {
+              "stable_id": "asr-000352",
+              "start_seconds": 2918.0,
+              "clock": "00:48:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000352"
+            },
+            {
+              "stable_id": "asr-000368",
+              "start_seconds": 2949.92,
+              "clock": "00:49:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000368"
+            },
+            {
+              "stable_id": "asr-000374",
+              "start_seconds": 2962.02,
+              "clock": "00:49:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000374"
+            },
+            {
+              "stable_id": "asr-000382",
+              "start_seconds": 2977.7,
+              "clock": "00:49:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000382"
+            },
+            {
+              "stable_id": "asr-000390",
+              "start_seconds": 2994.08,
+              "clock": "00:49:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000390"
+            },
+            {
+              "stable_id": "asr-000393",
+              "start_seconds": 3000.0,
+              "clock": "00:50:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000393"
+            },
+            {
+              "stable_id": "asr-000400",
+              "start_seconds": 3013.76,
+              "clock": "00:50:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000400"
+            },
+            {
+              "stable_id": "asr-000401",
+              "start_seconds": 3016.24,
+              "clock": "00:50:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000401"
+            },
+            {
+              "stable_id": "asr-000403",
+              "start_seconds": 3020.24,
+              "clock": "00:50:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000403"
+            },
+            {
+              "stable_id": "asr-000403-split-2",
+              "start_seconds": 3021.26,
+              "clock": "00:50:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000403-split-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Flood-control fraud audits and referrals for prosecution",
+          "text": "Ejercito asked how COA was pursuing nationwide audits of anomalous flood-control and other infrastructure projects and how audit findings reached investigators. Chairperson Gamaliel A. Cordoba said COA coordinated with the Office of the Ombudsman, whose cases use regional and provincial COA auditors as witnesses. COA had completed almost 50 fraud-audit reports and submitted them to the Ombudsman for preliminary investigations and case filings, concentrating then on Bulacan as a flood-control project hotspot. Cordoba said COA promptly sends completed fraud-audit reports and accompanying notices of disallowance to the Ombudsman; COA auditors then assist as witnesses in proceedings before the Sandiganbayan and Regional Trial Courts. Asked about a public status report, Cordoba agreed to provide Congress with the information and said annual audit reports would also be published by October 31; fraud-audit reports would be sent to legislators in physical copies. Responding to a question about former COA Commissioner Heidi Mendoza's call for criminal cases, Cordoba said COA endorses notices of disallowance to the Ombudsman and is ready to cooperate as witnesses, leaving use of those notices and pursuit of cases to the Ombudsman.",
+          "citations": [
+            {
+              "stable_id": "asr-000483",
+              "start_seconds": 3184.56,
+              "clock": "00:53:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000483"
+            },
+            {
+              "stable_id": "asr-000517",
+              "start_seconds": 3252.58,
+              "clock": "00:54:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000517"
+            },
+            {
+              "stable_id": "asr-000521",
+              "start_seconds": 3261.12,
+              "clock": "00:54:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000521"
+            },
+            {
+              "stable_id": "asr-000535",
+              "start_seconds": 3288.48,
+              "clock": "00:54:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000535"
+            },
+            {
+              "stable_id": "asr-000554",
+              "start_seconds": 3326.38,
+              "clock": "00:55:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000554"
+            },
+            {
+              "stable_id": "asr-000560",
+              "start_seconds": 3338.34,
+              "clock": "00:55:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000560"
+            },
+            {
+              "stable_id": "asr-000579",
+              "start_seconds": 3375.74,
+              "clock": "00:56:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000579"
+            },
+            {
+              "stable_id": "asr-000584",
+              "start_seconds": 3386.54,
+              "clock": "00:56:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000584"
+            },
+            {
+              "stable_id": "asr-000594",
+              "start_seconds": 3408.27,
+              "clock": "00:56:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000594"
+            },
+            {
+              "stable_id": "asr-000599",
+              "start_seconds": 3418.29,
+              "clock": "00:56:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000599"
+            },
+            {
+              "stable_id": "asr-000611",
+              "start_seconds": 3443.09,
+              "clock": "00:57:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000611"
+            }
+          ]
+        },
+        {
+          "label": "Auditor vacancies, recruitment and retention",
+          "text": "Ejercito cited COA's figures as of June 13, 2026: 13,378 authorized permanent positions, 8,693 filled (65 percent), and 4,685 vacant, and asked for current staffing and retention measures. Assistant Commissioner Lorna Cabochan said separations were outpacing recruitment. She reported 4,544 vacant positions, 82 percent of them auditor positions. She said filling and promoting staff through the Civil Service ranking system takes months; mandatory retirements and movement of newer recruits to private employment contributed to vacancies. Cordoba said COA had to follow government salary standardization. Asked about compensation, he reiterated that standardization governed salaries and benefits and said COA's FY2027 budget largely consisted of salaries.",
+          "citations": [
+            {
+              "stable_id": "asr-000625",
+              "start_seconds": 3471.75,
+              "clock": "00:57:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000625"
+            },
+            {
+              "stable_id": "asr-000629",
+              "start_seconds": 3477.83,
+              "clock": "00:57:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000629"
+            },
+            {
+              "stable_id": "asr-000632",
+              "start_seconds": 3485.05,
+              "clock": "00:58:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000632"
+            },
+            {
+              "stable_id": "asr-000635",
+              "start_seconds": 3490.4700000000003,
+              "clock": "00:58:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000635"
+            },
+            {
+              "stable_id": "asr-000666",
+              "start_seconds": 3554.88,
+              "clock": "00:59:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000666"
+            },
+            {
+              "stable_id": "asr-000675",
+              "start_seconds": 3572.96,
+              "clock": "00:59:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000675"
+            },
+            {
+              "stable_id": "asr-000678",
+              "start_seconds": 3578.48,
+              "clock": "00:59:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000678"
+            },
+            {
+              "stable_id": "asr-000690",
+              "start_seconds": 3606.66,
+              "clock": "01:00:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000690"
+            },
+            {
+              "stable_id": "asr-000692",
+              "start_seconds": 3619.0,
+              "clock": "01:00:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000692"
+            },
+            {
+              "stable_id": "asr-000699",
+              "start_seconds": 3651.14,
+              "clock": "01:00:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000699"
+            },
+            {
+              "stable_id": "asr-000705",
+              "start_seconds": 3680.26,
+              "clock": "01:01:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000705"
+            },
+            {
+              "stable_id": "asr-000707",
+              "start_seconds": 3689.96,
+              "clock": "01:01:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000707"
+            },
+            {
+              "stable_id": "asr-000709",
+              "start_seconds": 3701.66,
+              "clock": "01:01:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000709"
+            },
+            {
+              "stable_id": "asr-000718",
+              "start_seconds": 3735.28,
+              "clock": "01:02:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000718"
+            },
+            {
+              "stable_id": "asr-000722",
+              "start_seconds": 3751.96,
+              "clock": "01:02:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000722"
+            },
+            {
+              "stable_id": "asr-000729",
+              "start_seconds": 3785.28,
+              "clock": "01:03:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000729"
+            }
+          ]
+        },
+        {
+          "label": "Proposed revisions to confidential and intelligence funds controls",
+          "text": "Senator Joseph Victor \"JV\" G. Ejercito asked whether the 2015 joint memorandum circular governing the release, use, reporting and audit of confidential and intelligence funds should be updated, including its rules for special disbursing officers. Commission on Audit (COA) Commissioner Douglas Michael N. Mallillin said COA was reviewing the circular with its co-issuers: the Department of Budget and Management (DBM), Department of National Defense (DND), Department of the Interior and Local Government (DILG), and Governance Commission for Government-Owned or -Controlled Corporations (GCG). Mallillin identified proposed areas for revision: the content of documents evidencing payment; how auditors could establish the identities behind any permitted aliases or code names, potentially through a designated person who knows those identities; evidence of success and causal links supporting rewards; safeguards for informant identities balanced against COA access to identities under appropriate clearances; storage of documents; and procedures for issuing credit notices and handling notices of disallowance. He described these as areas the agencies were examining and said they would meet to consider the revisions.",
+          "citations": [
+            {
+              "stable_id": "asr-001087",
+              "start_seconds": 4770.2,
+              "clock": "01:19:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001087"
+            },
+            {
+              "stable_id": "asr-001094",
+              "start_seconds": 4778.86,
+              "clock": "01:19:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001094"
+            },
+            {
+              "stable_id": "asr-001109",
+              "start_seconds": 4795.06,
+              "clock": "01:19:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001109"
+            },
+            {
+              "stable_id": "asr-001126",
+              "start_seconds": 4812.32,
+              "clock": "01:20:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001126"
+            },
+            {
+              "stable_id": "asr-001137",
+              "start_seconds": 4822.96,
+              "clock": "01:20:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001137"
+            },
+            {
+              "stable_id": "asr-001146",
+              "start_seconds": 4837.28,
+              "clock": "01:20:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001146"
+            },
+            {
+              "stable_id": "asr-001169",
+              "start_seconds": 4866.12,
+              "clock": "01:21:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001169"
+            },
+            {
+              "stable_id": "asr-001173",
+              "start_seconds": 4871.42,
+              "clock": "01:21:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001173"
+            },
+            {
+              "stable_id": "asr-001182",
+              "start_seconds": 4884.7,
+              "clock": "01:21:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001182"
+            },
+            {
+              "stable_id": "asr-001188",
+              "start_seconds": 4892.96,
+              "clock": "01:21:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001188"
+            },
+            {
+              "stable_id": "asr-001196",
+              "start_seconds": 4904.54,
+              "clock": "01:21:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001196"
+            },
+            {
+              "stable_id": "asr-001205",
+              "start_seconds": 4915.02,
+              "clock": "01:21:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001205"
+            },
+            {
+              "stable_id": "asr-001211",
+              "start_seconds": 4922.02,
+              "clock": "01:22:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001211"
+            },
+            {
+              "stable_id": "asr-001225",
+              "start_seconds": 4940.82,
+              "clock": "01:22:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001225"
+            },
+            {
+              "stable_id": "asr-001241",
+              "start_seconds": 4958.16,
+              "clock": "01:22:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001241"
+            },
+            {
+              "stable_id": "asr-001256",
+              "start_seconds": 4972.76,
+              "clock": "01:22:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001256"
+            },
+            {
+              "stable_id": "asr-001266",
+              "start_seconds": 4982.2,
+              "clock": "01:23:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001266"
+            },
+            {
+              "stable_id": "asr-001269",
+              "start_seconds": 4985.42,
+              "clock": "01:23:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001269"
+            },
+            {
+              "stable_id": "asr-001282",
+              "start_seconds": 4997.04,
+              "clock": "01:23:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001282"
+            }
+          ]
+        },
+        {
+          "label": "Annual audit report publication and delivery",
+          "text": "Ejercito first described COA auditors as providing checks and balances that help ensure public funds are well spent and said civil-society watchdogs could help review budget volumes and alert legislators to irregularities. He then asked about delays in publishing COA annual audit reports, including FY2023 reports and reports for other agencies, and said Section 107 of the 2026 General Appropriations Act (GAA) set an October 31 publication deadline. The exchange recorded all FY2024 reports as published and asked whether FY2025 reports were on track for October 31; publication was ongoing. Cordoba explained that the earlier deadline had been the last day of December and confirmed the new October 31 deadline. Ejercito relayed a civil-society request for earlier publication by July 30/31 so Congress could consider audit findings during budget deliberations. Plaras explained that audited agencies must submit their actions on audit observations within 60 days of receiving reports, for publication alongside the report, and described June 30 as the transmittal deadline; COA then confirms and evaluates the submissions. Cordoba said COA sends hard copies to the senator's office as each report is completed, before all reports are ready. Ejercito said this would help during the budget process while asking for the earliest feasible public availability.",
+          "citations": [
+            {
+              "stable_id": "asr-002445",
+              "start_seconds": 7880.6,
+              "clock": "02:11:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002445"
+            },
+            {
+              "stable_id": "asr-002448",
+              "start_seconds": 7892.28,
+              "clock": "02:11:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002448"
+            },
+            {
+              "stable_id": "asr-002453",
+              "start_seconds": 7912.58,
+              "clock": "02:11:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002453"
+            },
+            {
+              "stable_id": "asr-002454",
+              "start_seconds": 7915.54,
+              "clock": "02:11:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002454"
+            },
+            {
+              "stable_id": "asr-002456",
+              "start_seconds": 7922.62,
+              "clock": "02:12:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002456"
+            },
+            {
+              "stable_id": "asr-002457",
+              "start_seconds": 7924.62,
+              "clock": "02:12:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002457"
+            },
+            {
+              "stable_id": "asr-002462",
+              "start_seconds": 7938.22,
+              "clock": "02:12:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002462"
+            },
+            {
+              "stable_id": "asr-002465",
+              "start_seconds": 7945.7,
+              "clock": "02:12:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002465"
+            },
+            {
+              "stable_id": "asr-002468",
+              "start_seconds": 7957.62,
+              "clock": "02:12:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002468"
+            },
+            {
+              "stable_id": "asr-002471",
+              "start_seconds": 7969.46,
+              "clock": "02:12:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002471"
+            },
+            {
+              "stable_id": "asr-002475",
+              "start_seconds": 7989.74,
+              "clock": "02:13:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002475"
+            },
+            {
+              "stable_id": "asr-002477",
+              "start_seconds": 7998.12,
+              "clock": "02:13:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002477"
+            },
+            {
+              "stable_id": "asr-002482",
+              "start_seconds": 8014.84,
+              "clock": "02:13:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002482"
+            },
+            {
+              "stable_id": "asr-002492",
+              "start_seconds": 8035.26,
+              "clock": "02:13:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002492"
+            }
+          ]
+        },
+        {
+          "label": "Civil-society audit participation and safeguards",
+          "text": "Ejercito described COA's citizen participatory audit (CPA) as bringing citizens and civil-society organizations into audits and cited prior use in relation to the Kamanawa flood-control master plan. Asked how COA selects partners and safeguards audit independence, Chairperson Gamaliel A. Cordoba said a COA office issues invitations and applies criteria in coordination with nongovernmental organizations and civil-society groups. He said COA was considering working through the Catholic Bishops' Conference of the Philippines (CBCP). As the discussion ended, Ejercito said there were no further member queries and solicited a motion to submit the COA budget.",
+          "citations": [
+            {
+              "stable_id": "asr-002432",
+              "start_seconds": 7838.86,
+              "clock": "02:10:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002432"
+            },
+            {
+              "stable_id": "asr-002438",
+              "start_seconds": 7861.46,
+              "clock": "02:11:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002438"
+            },
+            {
+              "stable_id": "asr-002495",
+              "start_seconds": 8045.2,
+              "clock": "02:14:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002495"
+            },
+            {
+              "stable_id": "asr-002498",
+              "start_seconds": 8054.82,
+              "clock": "02:14:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002498"
+            },
+            {
+              "stable_id": "asr-002533",
+              "start_seconds": 8148.0,
+              "clock": "02:15:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002533"
+            },
+            {
+              "stable_id": "asr-002541",
+              "start_seconds": 8161.92,
+              "clock": "02:16:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002541"
+            },
+            {
+              "stable_id": "asr-002548",
+              "start_seconds": 8175.78,
+              "clock": "02:16:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002548"
+            },
+            {
+              "stable_id": "asr-002553",
+              "start_seconds": 8185.44,
+              "clock": "02:16:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002553"
+            },
+            {
+              "stable_id": "asr-002557",
+              "start_seconds": 8191.92,
+              "clock": "02:16:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002557"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joel-villanueva",
+      "label": "Senator Joel Villanueva",
+      "items": [
+        {
+          "label": "COA vacancies and recruitment",
+          "text": "Senator Joel Villanueva asked why the Commission on Audit (COA) could not fill its vacancies and what hiring was realistic. Assistant Commissioner Lorna Cabochan said separation had outpaced recruitment. She identified 3,727 vacant auditor positions. The auditor career path begins with State Auditing Examiner II and proceeds through State Auditor I to V under civil-service ranking rules; COA had 832 entry-level positions and reported 68 percent utilization. For the preceding five years, Cabochan gave accessions of 2,512 and separations of 2,193; she said 2025 was the only year with a positive rate in that period. She broke out 575 mandatory separations, 886 optional separations and 422 resignations. She attributed departures to better opportunities, higher pay, distance from home and transfers, and noted the risk and demands of audit work as possible deterrents to new CPAs.",
+          "citations": [
+            {
+              "stable_id": "asr-000747",
+              "start_seconds": 3862.02,
+              "clock": "01:04:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000747"
+            },
+            {
+              "stable_id": "asr-000755",
+              "start_seconds": 3897.2799999999997,
+              "clock": "01:04:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000755"
+            },
+            {
+              "stable_id": "asr-000765",
+              "start_seconds": 3929.46,
+              "clock": "01:05:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000765"
+            },
+            {
+              "stable_id": "asr-000768",
+              "start_seconds": 3946.54,
+              "clock": "01:05:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000768"
+            },
+            {
+              "stable_id": "asr-000775",
+              "start_seconds": 3981.9,
+              "clock": "01:06:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000775"
+            },
+            {
+              "stable_id": "asr-000827-split-2",
+              "start_seconds": 4280.5,
+              "clock": "01:11:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000827-split-2"
+            },
+            {
+              "stable_id": "asr-000853",
+              "start_seconds": 4334.83,
+              "clock": "01:12:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000853"
+            },
+            {
+              "stable_id": "asr-000854",
+              "start_seconds": 4336.87,
+              "clock": "01:12:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000854"
+            },
+            {
+              "stable_id": "asr-000855",
+              "start_seconds": 4338.73,
+              "clock": "01:12:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000855"
+            },
+            {
+              "stable_id": "asr-000856",
+              "start_seconds": 4340.55,
+              "clock": "01:12:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000856"
+            },
+            {
+              "stable_id": "asr-000859",
+              "start_seconds": 4346.99,
+              "clock": "01:12:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000859"
+            },
+            {
+              "stable_id": "asr-000864",
+              "start_seconds": 4356.67,
+              "clock": "01:12:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000864"
+            },
+            {
+              "stable_id": "asr-000866",
+              "start_seconds": 4360.85,
+              "clock": "01:12:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000866"
+            },
+            {
+              "stable_id": "asr-000868",
+              "start_seconds": 4365.13,
+              "clock": "01:12:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000868"
+            }
+          ]
+        },
+        {
+          "label": "Staffing policy context and proposed office abolitions",
+          "text": "Senator Joel Villanueva linked COA vacancies to insecure contract-of-service and job-order employment across government. Referring to the government optimization law he said he authored, he reiterated his position that the Optical Media Board (OMB) and Commission on Filipinos Overseas (CFO) should be abolished, connected the CFO issue to creation of the Department of Migrant Workers (DMW), and said affected workers should be protected.",
+          "citations": [
+            {
+              "stable_id": "asr-000790",
+              "start_seconds": 4027.85,
+              "clock": "01:07:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000790"
+            },
+            {
+              "stable_id": "asr-000791",
+              "start_seconds": 4034.23,
+              "clock": "01:07:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000791"
+            },
+            {
+              "stable_id": "asr-000792",
+              "start_seconds": 4044.19,
+              "clock": "01:07:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000792"
+            },
+            {
+              "stable_id": "asr-000808",
+              "start_seconds": 4151.93,
+              "clock": "01:09:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000808"
+            },
+            {
+              "stable_id": "asr-000812",
+              "start_seconds": 4175.71,
+              "clock": "01:09:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000812"
+            },
+            {
+              "stable_id": "asr-000813",
+              "start_seconds": 4182.71,
+              "clock": "01:09:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000813"
+            },
+            {
+              "stable_id": "asr-000814",
+              "start_seconds": 4192.37,
+              "clock": "01:09:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000814"
+            },
+            {
+              "stable_id": "asr-000817",
+              "start_seconds": 4214.77,
+              "clock": "01:10:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000817"
+            },
+            {
+              "stable_id": "asr-000818",
+              "start_seconds": 4223.41,
+              "clock": "01:10:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000818"
+            }
+          ]
+        },
+        {
+          "label": "Retention, entry pay and employee benefits",
+          "text": "Villanueva asked whether COA salaries and benefits were competitive and how large the gap was. Cabochan said COA followed the salary standardization law and identified State Auditing Examiner II as the entry position at about salary grade 13. She stated the entry pay as PHP 36,000. As an anecdotal private-sector example, Cabochan said her niece, an accountant in Dubai, earned 300,000 in converted earnings. Chairperson Gamaliel A. Cordoba said COA had obtained a health maintenance organization (HMO) plan with relatively high employee coverage and described a proposed law exempting COA from the salary standardization law and covering its retirement system. Villanueva said he supported the proposal and would help advance it.",
+          "citations": [
+            {
+              "stable_id": "asr-000880",
+              "start_seconds": 4389.07,
+              "clock": "01:13:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000880"
+            },
+            {
+              "stable_id": "asr-000898",
+              "start_seconds": 4422.35,
+              "clock": "01:13:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000898"
+            },
+            {
+              "stable_id": "asr-000902",
+              "start_seconds": 4431.01,
+              "clock": "01:13:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000902"
+            },
+            {
+              "stable_id": "asr-000906",
+              "start_seconds": 4438.85,
+              "clock": "01:13:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000906"
+            },
+            {
+              "stable_id": "asr-000934",
+              "start_seconds": 4494.11,
+              "clock": "01:14:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000934"
+            },
+            {
+              "stable_id": "asr-000940",
+              "start_seconds": 4506.06,
+              "clock": "01:15:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000940"
+            },
+            {
+              "stable_id": "asr-000944",
+              "start_seconds": 4513.3,
+              "clock": "01:15:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000944"
+            },
+            {
+              "stable_id": "asr-000945",
+              "start_seconds": 4515.48,
+              "clock": "01:15:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000945"
+            },
+            {
+              "stable_id": "asr-000966",
+              "start_seconds": 4556.34,
+              "clock": "01:15:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000966"
+            },
+            {
+              "stable_id": "asr-000969",
+              "start_seconds": 4561.52,
+              "clock": "01:16:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000969"
+            },
+            {
+              "stable_id": "asr-000979",
+              "start_seconds": 4582.24,
+              "clock": "01:16:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000979"
+            },
+            {
+              "stable_id": "asr-000981",
+              "start_seconds": 4587.2,
+              "clock": "01:16:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000981"
+            },
+            {
+              "stable_id": "asr-000982",
+              "start_seconds": 4589.68,
+              "clock": "01:16:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000982"
+            },
+            {
+              "stable_id": "asr-000986",
+              "start_seconds": 4597.3,
+              "clock": "01:16:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000986"
+            },
+            {
+              "stable_id": "asr-000987",
+              "start_seconds": 4599.08,
+              "clock": "01:16:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000987"
+            }
+          ]
+        },
+        {
+          "label": "TESDA training and skilled-worker migration",
+          "text": "Villanueva drew on his experience at the Technical Education and Skills Development Authority (TESDA), saying trained assessors, teachers, welders and carpenters could leave for overseas work. He compared 300,000 abroad with 30,000 locally as an example of the pay gap facing blue-collar workers. He said a Middle East Institute of Technology request for 4,000 welders yielded fewer than 800 names through TESDA, illustrating the mismatch between available graduate skills and industry demand. He argued that the country should retain its human resources rather than rely on robots.",
+          "citations": [
+            {
+              "stable_id": "asr-000994",
+              "start_seconds": 4614.32,
+              "clock": "01:16:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000994"
+            },
+            {
+              "stable_id": "asr-001005",
+              "start_seconds": 4635.06,
+              "clock": "01:17:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001005"
+            },
+            {
+              "stable_id": "asr-001006",
+              "start_seconds": 4636.5,
+              "clock": "01:17:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001006"
+            },
+            {
+              "stable_id": "asr-001007",
+              "start_seconds": 4638.88,
+              "clock": "01:17:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001007"
+            },
+            {
+              "stable_id": "asr-001023",
+              "start_seconds": 4672.58,
+              "clock": "01:17:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001023"
+            },
+            {
+              "stable_id": "asr-001030",
+              "start_seconds": 4685.86,
+              "clock": "01:18:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001030"
+            },
+            {
+              "stable_id": "asr-001031",
+              "start_seconds": 4687.16,
+              "clock": "01:18:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001031"
+            },
+            {
+              "stable_id": "asr-001034",
+              "start_seconds": 4693.94,
+              "clock": "01:18:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001034"
+            },
+            {
+              "stable_id": "asr-001038",
+              "start_seconds": 4703.38,
+              "clock": "01:18:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001038"
+            },
+            {
+              "stable_id": "asr-001048",
+              "start_seconds": 4721.46,
+              "clock": "01:18:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001048"
+            }
+          ]
+        },
+        {
+          "label": "Confidential-fund circular, aliases and handover controls",
+          "text": "Senator Joel Villanueva asked Commission on Audit (COA) Commissioner Douglas Michael N. Mallillin how auditors should assess aliases and supporting proof in confidential-fund audits, including whether an acknowledgement receipt could suffice. Mallillin said the current joint memorandum circular, drafted with multiple agencies, neither clearly prohibits nor expressly allows aliases; he said stronger controls and substantiation would be important in a revision, while protecting sensitive identities. Villanueva said the circular had loopholes and asked whether it should be revisited; Mallillin agreed. On the special disbursing officer (SDO) role, Villanueva questioned whether a single officer could personally distribute funds nationwide and how delegation worked. Mallillin explained that the assigned SDO must personally hand cash to the recipient and certify delivery; there is no numerical limit on an office's SDOs. Each must be an accountable, bonded officer, with the recipient known to the SDO; documentation includes the acknowledgement/payment record and a separate journal kept in a vault. Military documentation follows a different process. Mallillin said multiple SDOs can be used when management, bonding and accountability are maintained.",
+          "citations": [
+            {
+              "stable_id": "asr-001322",
+              "start_seconds": 5038.82,
+              "clock": "01:23:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001322"
+            },
+            {
+              "stable_id": "asr-001378",
+              "start_seconds": 5094.5,
+              "clock": "01:24:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001378"
+            },
+            {
+              "stable_id": "asr-001410",
+              "start_seconds": 5130.77,
+              "clock": "01:25:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001410"
+            },
+            {
+              "stable_id": "asr-001478",
+              "start_seconds": 5197.33,
+              "clock": "01:26:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001478"
+            },
+            {
+              "stable_id": "asr-001535",
+              "start_seconds": 5265.71,
+              "clock": "01:27:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001535"
+            },
+            {
+              "stable_id": "asr-001584",
+              "start_seconds": 5316.87,
+              "clock": "01:28:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001584"
+            },
+            {
+              "stable_id": "asr-001627",
+              "start_seconds": 5367.47,
+              "clock": "01:29:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001627"
+            },
+            {
+              "stable_id": "asr-001629",
+              "start_seconds": 5369.37,
+              "clock": "01:29:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001629"
+            },
+            {
+              "stable_id": "asr-001679",
+              "start_seconds": 5439.84,
+              "clock": "01:30:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001679"
+            },
+            {
+              "stable_id": "asr-001687-split-2",
+              "start_seconds": 5456.85,
+              "clock": "01:30:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001687-split-2"
+            },
+            {
+              "stable_id": "asr-001693",
+              "start_seconds": 5468.38,
+              "clock": "01:31:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001693"
+            },
+            {
+              "stable_id": "asr-001707",
+              "start_seconds": 5496.82,
+              "clock": "01:31:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001707"
+            },
+            {
+              "stable_id": "asr-001726",
+              "start_seconds": 5534.0,
+              "clock": "01:32:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001726"
+            },
+            {
+              "stable_id": "asr-001736",
+              "start_seconds": 5554.24,
+              "clock": "01:32:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001736"
+            },
+            {
+              "stable_id": "asr-001752",
+              "start_seconds": 5584.22,
+              "clock": "01:33:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001752"
+            }
+          ]
+        },
+        {
+          "label": "Information purchases and informer rewards have different proof rules",
+          "text": "Villanueva asked how the circular distinguishes payment for information from rewards, how success is established, and whether an acknowledgement receipt alone can support a reward. Mallillin said information purchases support programs and activities for national security and peace and order; a reward requires success and receives stricter audit. He described four conditions: the informer must be outside the agency; the agency head (or, for a government-owned or controlled corporation (GOCC), its board chair) must approve; documents must evidence successful information-gathering or surveillance; and the reward must directly relate to a specific confidential activity of an authorized agency. Success need not mean arrest or conviction, but must be a positive result supported by evidence. As an example, Mallillin said an arrest affidavit, detention record or photograph could document an arrest following information; an acknowledgement receipt alone would not prove a reward's success and could lead to disallowance. When Villanueva asked whether identifying and surveilling a target group could qualify even without an arrest, Mallillin said that outcome also needed documentation. He added that a reward must connect to the activity's program and agency mandate.",
+          "citations": [
+            {
+              "stable_id": "asr-001757",
+              "start_seconds": 5591.9,
+              "clock": "01:33:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001757"
+            },
+            {
+              "stable_id": "asr-001818",
+              "start_seconds": 5709.34,
+              "clock": "01:35:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001818"
+            },
+            {
+              "stable_id": "asr-001849",
+              "start_seconds": 5771.42,
+              "clock": "01:36:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001849"
+            },
+            {
+              "stable_id": "asr-001854",
+              "start_seconds": 5782.5,
+              "clock": "01:36:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001854"
+            },
+            {
+              "stable_id": "asr-001861",
+              "start_seconds": 5796.52,
+              "clock": "01:36:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001861"
+            },
+            {
+              "stable_id": "asr-001868",
+              "start_seconds": 5810.6,
+              "clock": "01:36:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001868"
+            },
+            {
+              "stable_id": "asr-001890",
+              "start_seconds": 5852.58,
+              "clock": "01:37:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001890"
+            },
+            {
+              "stable_id": "asr-001906",
+              "start_seconds": 5885.96,
+              "clock": "01:38:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001906"
+            },
+            {
+              "stable_id": "asr-001928",
+              "start_seconds": 5932.64,
+              "clock": "01:38:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001928"
+            },
+            {
+              "stable_id": "asr-001936",
+              "start_seconds": 5947.76,
+              "clock": "01:39:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001936"
+            },
+            {
+              "stable_id": "asr-001945",
+              "start_seconds": 5965.58,
+              "clock": "01:39:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001945"
+            },
+            {
+              "stable_id": "asr-001953",
+              "start_seconds": 5982.54,
+              "clock": "01:39:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001953"
+            }
+          ]
+        },
+        {
+          "label": "Commissioner Mario Lipana's medical leave",
+          "text": "Presiding Senator Joseph Victor \"JV\" G. Ejercito asked about COA Commissioner Mario Lipana, whom he linked to the flood-control controversy. COA Chairperson Gamaliel A. Cordoba said Lipana was on medical leave and sometimes reported to work; he said he believed Lipana went to Singapore for treatment. Cordoba stated a September 7 end date for the leave, followed by Ejercito's correction to September 9.",
+          "citations": [
+            {
+              "stable_id": "asr-001977",
+              "start_seconds": 6039.5,
+              "clock": "01:40:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001977"
+            },
+            {
+              "stable_id": "asr-001984",
+              "start_seconds": 6054.42,
+              "clock": "01:40:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001984"
+            },
+            {
+              "stable_id": "asr-001991",
+              "start_seconds": 6070.09,
+              "clock": "01:41:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001991"
+            },
+            {
+              "stable_id": "asr-001994",
+              "start_seconds": 6075.43,
+              "clock": "01:41:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001994"
+            },
+            {
+              "stable_id": "asr-001998",
+              "start_seconds": 6087.73,
+              "clock": "01:41:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-001998"
+            },
+            {
+              "stable_id": "asr-002002",
+              "start_seconds": 6096.36,
+              "clock": "01:41:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002002"
+            },
+            {
+              "stable_id": "asr-002003",
+              "start_seconds": 6098.38,
+              "clock": "01:41:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002003"
+            }
+          ]
+        },
+        {
+          "label": "Flood-control audits: Region III and Bulacan scope, findings and requested report",
+          "text": "PHP 98 billion, or 18% of the value of Department of Public Works and Highways (DPWH) flood-control projects implemented from 2022 to 2025, went to Region III; COA Chairperson Gamaliel A. Cordoba corrected his initial reference to Bulacan to that regional scope. Bulacan accounted for 45% of the regional amount. In response to Senator Joel Villanueva, Cordoba reported almost 50 fraud audits, with many examined projects defective or non-existent. COA issued notices of disallowance and referred them to the Office of the Ombudsman. Cordoba said the liable persons identified were DPWH implementers, and Villanueva was not among them because he did not implement the projects. Asked about projects pushed by politicians, he said COA saw the implementing agency. He offered a breakdown of ghost and substandard projects. At presiding Senator Joseph Victor \"JV\" G. Ejercito's request, COA committed to submit summarized findings and comprehensive reports to guide scrutiny of unfinished works.",
+          "citations": [
+            {
+              "stable_id": "asr-002081",
+              "start_seconds": 6258.08,
+              "clock": "01:44:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002081"
+            },
+            {
+              "stable_id": "asr-002084",
+              "start_seconds": 6265.78,
+              "clock": "01:44:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002084"
+            },
+            {
+              "stable_id": "asr-002087",
+              "start_seconds": 6271.9,
+              "clock": "01:44:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002087"
+            },
+            {
+              "stable_id": "asr-002091",
+              "start_seconds": 6279.82,
+              "clock": "01:44:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002091"
+            },
+            {
+              "stable_id": "asr-002092",
+              "start_seconds": 6281.76,
+              "clock": "01:44:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002092"
+            },
+            {
+              "stable_id": "asr-002097",
+              "start_seconds": 6290.5599999999995,
+              "clock": "01:44:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002097"
+            },
+            {
+              "stable_id": "asr-002102",
+              "start_seconds": 6300.0,
+              "clock": "01:45:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002102"
+            },
+            {
+              "stable_id": "asr-002105",
+              "start_seconds": 6306.02,
+              "clock": "01:45:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002105"
+            },
+            {
+              "stable_id": "asr-002107",
+              "start_seconds": 6316.52,
+              "clock": "01:45:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002107"
+            },
+            {
+              "stable_id": "asr-002112",
+              "start_seconds": 6341.82,
+              "clock": "01:45:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002112"
+            },
+            {
+              "stable_id": "asr-002117",
+              "start_seconds": 6366.64,
+              "clock": "01:46:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002117"
+            },
+            {
+              "stable_id": "asr-002118",
+              "start_seconds": 6376.42,
+              "clock": "01:46:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002118"
+            },
+            {
+              "stable_id": "asr-002124",
+              "start_seconds": 6409.56,
+              "clock": "01:46:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002124"
+            },
+            {
+              "stable_id": "asr-002126",
+              "start_seconds": 6415.22,
+              "clock": "01:46:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002126"
+            },
+            {
+              "stable_id": "asr-002138",
+              "start_seconds": 6502.9,
+              "clock": "01:48:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002138"
+            },
+            {
+              "stable_id": "asr-002082",
+              "start_seconds": 6262.0,
+              "clock": "01:44:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002082"
+            },
+            {
+              "stable_id": "asr-002083",
+              "start_seconds": 6264.04,
+              "clock": "01:44:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002083"
+            },
+            {
+              "stable_id": "asr-002088",
+              "start_seconds": 6274.0599999999995,
+              "clock": "01:44:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002088"
+            },
+            {
+              "stable_id": "asr-002090",
+              "start_seconds": 6277.36,
+              "clock": "01:44:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002090"
+            },
+            {
+              "stable_id": "asr-002113",
+              "start_seconds": 6348.72,
+              "clock": "01:45:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002113"
+            },
+            {
+              "stable_id": "asr-002116",
+              "start_seconds": 6360.02,
+              "clock": "01:46:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002116"
+            }
+          ]
+        },
+        {
+          "label": "Flood-control planning, unfinished works and COA cooperation",
+          "text": "Cordoba said a COA observation dating to 2016 had identified the absence of a flood-control master plan for DPWH works. Ejercito urged coordinated planning across agencies and proposed considering Regional Development Council or provincial approval, program-of-works documentation and flood-risk criteria while a master plan was absent; Cordoba agreed with the need for integrated planning. Villanueva described Bulacan communities where flood-control work had stopped, including a flood gate he said was operated after a DPWH instruction, and said he had opposed prior projects when they lacked integration and a master plan. Ejercito said the committee sought to resume unfinished projects that were not irregular or substandard and close gaps, with coordination between DPWH and the National Irrigation Administration (NIA), upstream impounding and water treated as a resource. Cordoba offered to work item by item with DPWH where pending cases or other legalities impeded needed work, saying COA was already helping address such questions so public service could continue. The members discussed the gate and stalled works as local examples..",
+          "citations": [
+            {
+              "stable_id": "asr-002141",
+              "start_seconds": 6520.04,
+              "clock": "01:48:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002141"
+            },
+            {
+              "stable_id": "asr-002149",
+              "start_seconds": 6551.32,
+              "clock": "01:49:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002149"
+            },
+            {
+              "stable_id": "asr-002180",
+              "start_seconds": 6697.46,
+              "clock": "01:51:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002180"
+            },
+            {
+              "stable_id": "asr-002181",
+              "start_seconds": 6699.94,
+              "clock": "01:51:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002181"
+            },
+            {
+              "stable_id": "asr-002209",
+              "start_seconds": 6808.56,
+              "clock": "01:53:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002209"
+            },
+            {
+              "stable_id": "asr-002281",
+              "start_seconds": 7173.13,
+              "clock": "01:59:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002281"
+            },
+            {
+              "stable_id": "asr-002310",
+              "start_seconds": 7295.06,
+              "clock": "02:01:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002310"
+            },
+            {
+              "stable_id": "asr-002143",
+              "start_seconds": 6532.9,
+              "clock": "01:48:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002143"
+            },
+            {
+              "stable_id": "asr-002175",
+              "start_seconds": 6669.2,
+              "clock": "01:51:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002175"
+            },
+            {
+              "stable_id": "asr-002219",
+              "start_seconds": 6876.08,
+              "clock": "01:54:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002219"
+            },
+            {
+              "stable_id": "asr-002227",
+              "start_seconds": 6921.83,
+              "clock": "01:55:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002227"
+            },
+            {
+              "stable_id": "asr-002230",
+              "start_seconds": 6940.45,
+              "clock": "01:55:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002230"
+            },
+            {
+              "stable_id": "asr-002243",
+              "start_seconds": 7008.35,
+              "clock": "01:56:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002243"
+            },
+            {
+              "stable_id": "asr-002258",
+              "start_seconds": 7070.13,
+              "clock": "01:57:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002258"
+            },
+            {
+              "stable_id": "asr-002297",
+              "start_seconds": 7248.8,
+              "clock": "02:00:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002297"
+            },
+            {
+              "stable_id": "asr-002300",
+              "start_seconds": 7260.76,
+              "clock": "02:01:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002300"
+            },
+            {
+              "stable_id": "asr-002313",
+              "start_seconds": 7305.4,
+              "clock": "02:01:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002313"
+            }
+          ]
+        },
+        {
+          "label": "Information-systems audit target and staffing constraints",
+          "text": "Villanueva asked whether COA's 2027 target of 18 information-systems audit or evaluation reports was sufficient for growing digital and cybersecurity risks. Chairperson Cordoba referred the question to Assistant Commissioner Lucila M. Isidro. Isidro said the Internal Information Technology Audit Office conducts systems audits and technical evaluations of procurement and other contracts. It had 64 personnel, an approved plantilla of 81 positions, and an estimated staffing need of 164. She and Villanueva confirmed that the unit had not filled the approved positions because candidates did not meet the criteria for information-systems auditors. Assistant Commissioner Lorna Cabochan explained that civil-service qualification and ranking rules, including salary-grade limits, constrain hiring; Villanueva said proposed legislation could address the issue, and Cabochan agreed if COA were exempted from the standardization rules.",
+          "citations": [
+            {
+              "stable_id": "asr-002323",
+              "start_seconds": 7337.04,
+              "clock": "02:02:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002323"
+            },
+            {
+              "stable_id": "asr-002327",
+              "start_seconds": 7362.92,
+              "clock": "02:02:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002327"
+            },
+            {
+              "stable_id": "asr-002333",
+              "start_seconds": 7395.06,
+              "clock": "02:03:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002333"
+            },
+            {
+              "stable_id": "asr-002338",
+              "start_seconds": 7407.64,
+              "clock": "02:03:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002338"
+            },
+            {
+              "stable_id": "asr-002339",
+              "start_seconds": 7434.35,
+              "clock": "02:03:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002339"
+            },
+            {
+              "stable_id": "asr-002340",
+              "start_seconds": 7440.55,
+              "clock": "02:04:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002340"
+            },
+            {
+              "stable_id": "asr-002345",
+              "start_seconds": 7491.19,
+              "clock": "02:04:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002345"
+            },
+            {
+              "stable_id": "asr-002351",
+              "start_seconds": 7510.69,
+              "clock": "02:05:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002351"
+            },
+            {
+              "stable_id": "asr-002355",
+              "start_seconds": 7526.81,
+              "clock": "02:05:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002355"
+            },
+            {
+              "stable_id": "asr-002363",
+              "start_seconds": 7552.81,
+              "clock": "02:05:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002363"
+            },
+            {
+              "stable_id": "asr-002374",
+              "start_seconds": 7598.43,
+              "clock": "02:06:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002374"
+            },
+            {
+              "stable_id": "asr-002378",
+              "start_seconds": 7614.89,
+              "clock": "02:06:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002378"
+            }
+          ]
+        },
+        {
+          "label": "COA accounting deficiencies raised for clarification",
+          "text": "PHP 5.101 billion in year-end accounting deficiencies in COA's FY2025 audit was cited by Senator Joel Villanueva from the Senate Legislative Budget Research and Monitoring Office (LBRMO) brief. He asked for the causes and corrective measures, stressing that the figure by itself did not establish lost or misused funds. COA Chairperson Gamaliel A. Cordoba said he was unaware of the item. Villanueva offered to furnish the cited audit observation for clarification.",
+          "citations": [
+            {
+              "stable_id": "asr-002384",
+              "start_seconds": 7634.05,
+              "clock": "02:07:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002384"
+            },
+            {
+              "stable_id": "asr-002389",
+              "start_seconds": 7660.55,
+              "clock": "02:07:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002389"
+            },
+            {
+              "stable_id": "asr-002392",
+              "start_seconds": 7690.25,
+              "clock": "02:08:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002392"
+            },
+            {
+              "stable_id": "asr-002393",
+              "start_seconds": 7695.79,
+              "clock": "02:08:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002393"
+            },
+            {
+              "stable_id": "asr-002397",
+              "start_seconds": 7715.59,
+              "clock": "02:08:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002397"
+            },
+            {
+              "stable_id": "asr-002402",
+              "start_seconds": 7738.52,
+              "clock": "02:08:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002402"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-closing-procedure",
+      "label": "Closing procedure",
+      "items": [
+        {
+          "label": "Motion to submit COA budget for plenary consideration",
+          "text": "Senator Joel Villanueva moved to submit the Commission on Audit (COA) budget for plenary action. Presiding Senator Joseph Victor \"JV\" G. Ejercito stated that submission was subject to further discussion and the requested documents, then declared the motion approved without objection. He suspended the briefing.",
+          "citations": [
+            {
+              "stable_id": "asr-002580",
+              "start_seconds": 8242.97,
+              "clock": "02:17:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002580"
+            },
+            {
+              "stable_id": "asr-002583",
+              "start_seconds": 8248.23,
+              "clock": "02:17:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002583"
+            },
+            {
+              "stable_id": "asr-002585",
+              "start_seconds": 8252.57,
+              "clock": "02:17:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002585"
+            },
+            {
+              "stable_id": "asr-002590",
+              "start_seconds": 8262.57,
+              "clock": "02:17:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002590"
+            },
+            {
+              "stable_id": "asr-002591",
+              "start_seconds": 8264.75,
+              "clock": "02:17:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002591"
+            },
+            {
+              "stable_id": "asr-002592",
+              "start_seconds": 8267.69,
+              "clock": "02:17:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002592"
+            },
+            {
+              "stable_id": "asr-002593",
+              "start_seconds": 8269.57,
+              "clock": "02:17:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002593"
+            },
+            {
+              "stable_id": "asr-002606",
+              "start_seconds": 8294.29,
+              "clock": "02:18:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-002606"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

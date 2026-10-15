@@ -1,0 +1,79 @@
+{
+  "hearing": {
+    "hearing_id": 89,
+    "title": "Senate Committee on Finance: NSC, NICA - September 28, 2026",
+    "hearing_date": "2026-09-28",
+    "official_url": "https://www.youtube.com/watch?v=FKgRg0nvUHU"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h89/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Public opening",
+      "text": "Committee chair Senator Panfilo M. Lacson opened the hearing and welcomed the National Security Council (NSC) and the National Intelligence Coordinating Agency (NICA).",
+      "citations": []
+    },
+    {
+      "label": "Executive-session transition",
+      "text": "An unnamed requester sought an executive session on behalf of both agencies. Lacson heard no objection and approved the request; the committee secretary then announced that the livestream would be suspended and nonparticipants should leave briefly.",
+      "citations": []
+    }
+  ],
+  "method_note": "Follow the citations to the public transcript and official video. The executive-session deliberations are outside the available public record.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "FY2027 agency budget proposals",
+          "text": "The public proceedings state neither a FY2027 National Expenditure Program (NEP) allocation nor an original agency request for the National Security Council (NSC) or the National Intelligence Coordinating Agency (NICA). Before either agency presented publicly, the committee agreed to enter executive session.",
+          "citations": [
+            {
+              "stable_id": "asr-000095",
+              "start_seconds": 666.2,
+              "clock": "00:11:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/89/#asr-000095"
+            },
+            {
+              "stable_id": "asr-000096",
+              "start_seconds": 668.2,
+              "clock": "00:11:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/89/#asr-000096"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-executive-session-outcome",
+      "label": "Executive-session outcome",
+      "items": [
+        {
+          "label": "Executive-session outcome",
+          "text": "Senator Panfilo M. Lacson, committee chair, opened the hearing and welcomed the National Security Council (NSC) and the National Intelligence Coordinating Agency (NICA). An unidentified requester sought an executive session on behalf of both agencies. Lacson asked whether any panel member objected; hearing none, he approved the request and directed that the room be prepared.\n\nThe committee secretary explained that the livestream would be suspended and people not participating in the executive session should step out briefly.",
+          "citations": [
+            {
+              "stable_id": "asr-000098",
+              "start_seconds": 672.12,
+              "clock": "00:11:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/89/#asr-000098"
+            },
+            {
+              "stable_id": "asr-000101",
+              "start_seconds": 679.46,
+              "clock": "00:11:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/89/#asr-000101"
+            },
+            {
+              "stable_id": "asr-000125",
+              "start_seconds": 697.52,
+              "clock": "00:11:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/89/#asr-000125"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

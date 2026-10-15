@@ -1,0 +1,1568 @@
+1
+00:10:14,640 --> 00:10:18,960
+Senator Joseph Victor "JV" G. Ejercito: the secretary to, um, to acknowledge our resource persons present for today.
+
+2
+00:10:19,340 --> 00:10:21,060
+Committee Secretary: Thank you, Mr. Chair. Good afternoon.
+
+3
+00:10:21,460 --> 00:10:27,640
+Committee Secretary: For the briefing on the proposed FY2027 budget of the Office of the President and the Presidential Management Staff,
+
+4
+00:10:27,640 --> 00:10:29,880
+Committee Secretary: we would like to acknowledge our resource persons,
+
+5
+00:10:30,000 --> 00:10:36,620
+Committee Secretary: From the Office of the President, we have Executive Secretary Ralph Recto, together with Secretary Nassar Pangandaman Sr.
+
+6
+00:10:36,860 --> 00:10:44,900
+Committee Secretary: From the Office of the Presidential Advisor for Marawi Rehabilitation, Senior Deputy Executive Secretary Maria Luwalhati Dorotan Tiuseco,
+
+7
+00:10:44,900 --> 00:10:52,080
+Committee Secretary: Deputy Executive Secretary Joseph Irvin Obenza, Deputy Executive Secretary Jesse Hermogenes Andres,
+
+8
+00:10:52,340 --> 00:10:58,500
+Committee Secretary: Deputy Executive Secretary Danielle Marie Rieza-Culangen, Deputy Executive Secretary Dennis Santiago,
+
+9
+00:10:58,500 --> 00:11:06,000
+Committee Secretary: Undersecretary Athalia Leong, Executive Director Danilo Pamonag, Undersecretary Facundo Palafox IV,
+
+10
+00:11:06,460 --> 00:11:15,680
+Committee Secretary: Undersecretary Georgina Anyang, Undersecretary Erwin Sta. Ana, Undersecretary Leonardo Roy Cervantes, and Assistant Secretary Rowena Sanchez.
+
+11
+00:11:16,020 --> 00:11:22,780
+Committee Secretary: From the Presidential Management Staff, we have Secretary Elaine Masukat, together with Undersecretary Mark Cristeo Gimenez,
+
+12
+00:11:22,780 --> 00:11:28,240
+Committee Secretary: Undersecretary Honey Rose Mercado, Undersecretary Rodolfo John Robert Palattao IV,
+
+13
+00:11:28,500 --> 00:11:34,760
+Committee Secretary: Assistant Secretary Juan Emanuel Reyes, Director Glazel May Galanzoga, and Director Karen Gayle Feble.
+
+14
+00:11:35,040 --> 00:11:38,140
+Committee Secretary: We have also invited representatives from DBM and COA.
+
+15
+00:11:38,140 --> 00:11:51,760
+Committee Secretary: For DBM, Director Elena Regina Brillantes is only attending the budget briefing of the PCO, but in the room are Ms. Laurie Ann Javier, Ms. Mary Ann Queenie Alaiza Tamayo, and Ms. Michelle Amedala Yepes.
+
+16
+00:11:52,040 --> 00:11:56,840
+Committee Secretary: From COA, we have Mr. Engelbert Potente and Ms. Janeline Maga. Thank you, Mr. Chair.
+
+17
+00:11:57,900 --> 00:11:58,500
+Senator Joseph Victor "JV" G. Ejercito: Thank you.
+
+18
+00:11:58,500 --> 00:12:03,880
+Senator Joseph Victor "JV" G. Ejercito: Likewise, the Chair would like to acknowledge the presence of our Senate President for joining.
+
+19
+00:12:04,180 --> 00:12:07,960
+Senator Joseph Victor "JV" G. Ejercito: Thank you for joining us. Our Senate President, Win Gatchalian, is with us today.
+
+20
+00:12:09,500 --> 00:12:12,400
+Senator Joseph Victor "JV" G. Ejercito: I'd just like to give my opening statement. Good afternoon,
+
+21
+00:12:12,400 --> 00:12:26,560
+Senator Joseph Victor "JV" G. Ejercito: Executive Secretary Ralph Recto, of course, our PMS Head, Secretary Elaine Masukat, officials and staff of the Office of the President and the Presidential Management Staff, and to my esteemed colleagues in the Senate.
+
+22
+00:12:27,140 --> 00:12:28,340
+Senator Joseph Victor "JV" G. Ejercito: We are here today to tackle the...
+
+23
+00:12:28,500 --> 00:12:34,420
+Senator Joseph Victor "JV" G. Ejercito: Proposed Fiscal Year 2027 Budget of the Office of the President and the Presidential Management Staff.
+
+24
+00:12:34,580 --> 00:12:38,800
+Senator Joseph Victor "JV" G. Ejercito: The Office of the President sits at the center of the executive branch.
+
+25
+00:12:39,480 --> 00:12:49,040
+Senator Joseph Victor "JV" G. Ejercito: It provides direction across the government and ensures that the priorities of the administration translates into concrete programs and tangible results to our people.
+
+26
+00:12:49,680 --> 00:12:58,220
+Senator Joseph Victor "JV" G. Ejercito: Meanwhile, the Presidential Management Staff supports the President by monitoring these priorities and coordinating with other departments and agencies.
+
+27
+00:12:58,500 --> 00:13:06,420
+Senator Joseph Victor "JV" G. Ejercito: Given these important responsibilities of these offices, we want to ensure that the resources we provide are put to good use.
+
+28
+00:13:06,900 --> 00:13:20,380
+Senator Joseph Victor "JV" G. Ejercito: Whether it's allocated to a frontline social service agency or to the highest office in the land, we will ensure that all items allocated are properly executed and spent strictly for the public good.
+
+29
+00:13:20,380 --> 00:13:27,940
+Senator Joseph Victor "JV" G. Ejercito: At the same time, we recognize the longstanding tradition of inter-parliamentary courtesy according to the Office of the President.
+
+30
+00:13:28,500 --> 00:13:33,040
+Senator Joseph Victor "JV" G. Ejercito: And we approach its budget with due respect for the institution and its mandate.
+
+31
+00:13:33,940 --> 00:13:36,980
+Senator Joseph Victor "JV" G. Ejercito: With that, we look forward to a productive discussion on your proposed budget.
+
+32
+00:13:37,060 --> 00:13:37,820
+Senator Joseph Victor "JV" G. Ejercito: Thank you very much.
+
+33
+00:13:40,380 --> 00:13:49,470
+Senator Joseph Victor "JV" G. Ejercito: Before we proceed, I would like to ask our colleagues, our Senate President, for his opening statements, if any.
+
+34
+00:13:49,470 --> 00:13:50,560
+Senator Sherwin "Win" T. Gatchalian: Thank you, Mr. Chairman.
+
+35
+00:13:50,840 --> 00:13:54,940
+Senator Sherwin "Win" T. Gatchalian: First of all, we welcome our colleagues from the Office of the President.
+
+36
+00:13:55,780 --> 00:13:58,320
+Senator Sherwin "Win" T. Gatchalian: At alam ko, napaka-busy ho sila dahil sa...
+
+37
+00:13:58,500 --> 00:14:00,220
+Senator Sherwin "Win" T. Gatchalian: ...ASEAN na padating na.
+
+38
+00:14:00,480 --> 00:14:12,520
+Senator Sherwin "Win" T. Gatchalian: And this coming November 16 to 18 will be a very big event for our country because mag-host tayo ng ASEAN heads of state.
+
+39
+00:14:12,660 --> 00:14:21,000
+Senator Sherwin "Win" T. Gatchalian: At hindi lang ASEAN heads of state, but narinig ko na pati si President Trump might be coming to the Philippines.
+
+40
+00:14:21,000 --> 00:14:26,560
+Senator Sherwin "Win" T. Gatchalian: So, isa yan sa pinakamahalagang event na ipapakita natin sa buong mundo.
+
+41
+00:14:27,180 --> 00:14:28,380
+Senator Sherwin "Win" T. Gatchalian: With that, having said that...
+
+42
+00:14:28,500 --> 00:14:35,440
+Senator Sherwin "Win" T. Gatchalian: ...Mr. Chairman, typically meron tayong inter-parliamentary courtesy na binibigay sa Office of the President.
+
+43
+00:14:35,620 --> 00:14:49,680
+Senator Sherwin "Win" T. Gatchalian: Pero hindi lang inter-parliament courtesy, meron pang inter-senator courtesy dahil ang head ay isang former or inter-colleague courtesy dahil ang executive secretary ay dati nating kasamahan.
+
+44
+00:14:49,860 --> 00:14:54,540
+Senator Sherwin "Win" T. Gatchalian: Na nandito sa side dati na tinatanong yung sa kabilang side.
+
+45
+00:14:54,540 --> 00:14:57,540
+Senator Sherwin "Win" T. Gatchalian: So, after the presentation, Mr. President...
+
+46
+00:14:57,540 --> 00:14:59,280
+Senator Sherwin "Win" T. Gatchalian: ...Mr. Chairman...
+
+47
+00:14:59,280 --> 00:14:59,980
+Senator Sherwin "Win" T. Gatchalian: ...uh, I'll...
+
+48
+00:15:00,000 --> 00:15:02,100
+Senator Sherwin "Win" T. Gatchalian: move for the approval of the budget
+
+49
+00:15:02,100 --> 00:15:03,340
+Senator Sherwin "Win" T. Gatchalian: of the Office of the President.
+
+50
+00:15:04,360 --> 00:15:06,000
+Senator Joseph Victor "JV" G. Ejercito: Okay. Thank you, our Senate President.
+
+51
+00:15:06,100 --> 00:15:07,440
+Senator Joseph Victor "JV" G. Ejercito: Likewise, our colleague,
+
+52
+00:15:07,660 --> 00:15:09,940
+Senator Joseph Victor "JV" G. Ejercito: Senator Francis Kiko Pangilinan
+
+53
+00:15:09,940 --> 00:15:11,900
+Senator Joseph Victor "JV" G. Ejercito: is with us this afternoon. Thank you, sir,
+
+54
+00:15:11,940 --> 00:15:13,620
+Senator Joseph Victor "JV" G. Ejercito: for joining us. Senator Villanueva.
+
+55
+00:15:14,000 --> 00:15:14,720
+Senator Joel Villanueva: Yeah, not to
+
+56
+00:15:14,720 --> 00:15:17,260
+Senator Joel Villanueva: further delay the
+
+57
+00:15:17,260 --> 00:15:19,460
+Senator Joel Villanueva: proceedings, let me just
+
+58
+00:15:19,460 --> 00:15:21,200
+Senator Joel Villanueva: again welcome our
+
+59
+00:15:21,200 --> 00:15:23,480
+Senator Joel Villanueva: friends from
+
+60
+00:15:23,480 --> 00:15:25,540
+Senator Joel Villanueva: the Office of the President and
+
+61
+00:15:25,540 --> 00:15:27,540
+Senator Joel Villanueva: I was about to
+
+62
+00:15:27,540 --> 00:15:29,520
+Senator Joel Villanueva: mention the same thing that was
+
+63
+00:15:29,520 --> 00:15:31,820
+Senator Joel Villanueva: mentioned by our dear Senate President
+
+64
+00:15:31,820 --> 00:15:33,260
+Senator Joel Villanueva: na hindi lang
+
+65
+00:15:33,260 --> 00:15:35,520
+Senator Joel Villanueva: parliamentary courtesy yung
+
+66
+00:15:35,520 --> 00:15:37,600
+Senator Joel Villanueva: i-re-remind natin sa bawat isa
+
+67
+00:15:37,600 --> 00:15:38,960
+Senator Joel Villanueva: but yung
+
+68
+00:15:38,960 --> 00:15:40,440
+Senator Joel Villanueva: colleague courtesy.
+
+69
+00:15:41,220 --> 00:15:42,600
+Senator Joel Villanueva: It's so weird to
+
+70
+00:15:42,600 --> 00:15:43,940
+Senator Joel Villanueva: see our
+
+71
+00:15:43,940 --> 00:15:46,580
+Senator Joel Villanueva: former colleague on the
+
+72
+00:15:46,580 --> 00:15:48,620
+Senator Joel Villanueva: other side of the table and
+
+73
+00:15:48,620 --> 00:15:50,500
+Senator Joel Villanueva: he's been our mentor
+
+74
+00:15:50,500 --> 00:15:52,540
+Senator Joel Villanueva: since we came
+
+75
+00:15:52,540 --> 00:15:54,240
+Senator Joel Villanueva: here in this institution
+
+76
+00:15:54,240 --> 00:15:56,560
+Senator Joel Villanueva: and not just that, he is
+
+77
+00:15:56,560 --> 00:15:58,540
+Senator Joel Villanueva: a senior fraternity brother
+
+78
+00:15:58,540 --> 00:15:59,480
+Senator Joel Villanueva: of this representation.
+
+79
+00:15:59,520 --> 00:16:00,940
+Senator Joel Villanueva: So how can I ask questions
+
+80
+00:16:00,940 --> 00:16:03,520
+Senator Joel Villanueva: to this budget?
+
+81
+00:16:04,360 --> 00:16:05,440
+Senator Joel Villanueva: So, Mr. Chairman,
+
+82
+00:16:05,620 --> 00:16:07,640
+Senator Joel Villanueva: let me just again reiterate
+
+83
+00:16:07,640 --> 00:16:09,020
+Senator Joel Villanueva: what the Senate President
+
+84
+00:16:09,020 --> 00:16:11,480
+Senator Joel Villanueva: mentioned a while ago. After the
+
+85
+00:16:11,480 --> 00:16:13,380
+Senator Joel Villanueva: presentation, I will join
+
+86
+00:16:13,380 --> 00:16:15,100
+Senator Joel Villanueva: the motion of the Senate President
+
+87
+00:16:15,100 --> 00:16:17,600
+Senator Joel Villanueva: in moving for
+
+88
+00:16:17,600 --> 00:16:19,260
+Senator Joel Villanueva: the submission
+
+89
+00:16:19,260 --> 00:16:20,900
+Senator Joel Villanueva: of the budget of the
+
+90
+00:16:20,900 --> 00:16:23,240
+Senator Joel Villanueva: Office of the President and the
+
+91
+00:16:23,240 --> 00:16:24,820
+Senator Joel Villanueva: Presidential Management Staff
+
+92
+00:16:24,820 --> 00:16:26,820
+Senator Joel Villanueva: and its attached agencies
+
+93
+00:16:26,820 --> 00:16:29,000
+Senator Joel Villanueva: for plenary action.
+
+94
+00:16:29,520 --> 00:16:31,520
+Senator Joel Villanueva: Mr. Chairman, marami pong salamat and again,
+
+95
+00:16:31,520 --> 00:16:33,520
+Senator Joel Villanueva: we welcome and thank the presence
+
+96
+00:16:33,520 --> 00:16:34,920
+Senator Joel Villanueva: of our
+
+97
+00:16:34,920 --> 00:16:38,840
+Senator Joel Villanueva: co-public servants
+
+98
+00:16:38,840 --> 00:16:41,240
+Senator Joel Villanueva: here in this room today.
+
+99
+00:16:41,380 --> 00:16:42,940
+Senator Joel Villanueva: Thank you very much, especially of course to
+
+100
+00:16:42,940 --> 00:16:44,980
+Senator Joel Villanueva: Executive Secretary Ralph Recto. Thank you.
+
+101
+00:16:45,260 --> 00:16:47,640
+Senator Joseph Victor "JV" G. Ejercito: Thank you, Senator Villanueva and Senator Pangilinan.
+
+102
+00:16:49,420 --> 00:16:50,780
+Senator Francis Kiko Pangilinan: Thank you, Senator
+
+103
+00:16:50,780 --> 00:16:52,700
+Senator Francis Kiko Pangilinan: JV Ejercito,
+
+104
+00:16:53,220 --> 00:16:55,340
+Senator Francis Kiko Pangilinan: to our colleagues in the Senate,
+
+105
+00:16:56,240 --> 00:16:57,320
+Senator Francis Kiko Pangilinan: of course my colleague
+
+106
+00:16:57,320 --> 00:16:59,360
+Senator Francis Kiko Pangilinan: in the Senate,
+
+107
+00:16:59,520 --> 00:17:01,620
+Senator Francis Kiko Pangilinan: the, was it the 12th
+
+108
+00:17:01,620 --> 00:17:03,180
+Senator Francis Kiko Pangilinan: Congress? Senate?
+
+109
+00:17:03,180 --> 00:17:04,900
+Senator Francis Kiko Pangilinan: No? Yes, we
+
+110
+00:17:04,900 --> 00:17:07,140
+Senator Francis Kiko Pangilinan: won. He was the
+
+111
+00:17:07,140 --> 00:17:09,280
+Senator Francis Kiko Pangilinan: youngest senator and I was
+
+112
+00:17:09,280 --> 00:17:10,640
+Senator Francis Kiko Pangilinan: the second youngest senator.
+
+113
+00:17:13,900 --> 00:17:15,200
+Senator Francis Kiko Pangilinan: Although, some
+
+114
+00:17:15,200 --> 00:17:17,100
+Senator Francis Kiko Pangilinan: people would say, I look younger
+
+115
+00:17:17,100 --> 00:17:17,600
+Senator Francis Kiko Pangilinan: than him.
+
+116
+00:17:19,140 --> 00:17:20,400
+Executive Secretary Ralph Recto: My wife would disagree.
+
+117
+00:17:22,020 --> 00:17:23,040
+Senator Francis Kiko Pangilinan: And therefore,
+
+118
+00:17:23,220 --> 00:17:25,320
+Senator Francis Kiko Pangilinan: I would joke saying
+
+119
+00:17:25,320 --> 00:17:27,180
+Senator Francis Kiko Pangilinan: he is the youngest senator
+
+120
+00:17:27,180 --> 00:17:29,220
+Senator Francis Kiko Pangilinan: then and I was the youngest looking
+
+121
+00:17:29,220 --> 00:17:30,720
+Senator Francis Kiko Pangilinan: senator then. But, it's just a joke.
+
+122
+00:17:31,500 --> 00:17:33,420
+Senator Francis Kiko Pangilinan: I join my colleagues in saying
+
+123
+00:17:33,420 --> 00:17:34,760
+Senator Francis Kiko Pangilinan: that we shall
+
+124
+00:17:34,760 --> 00:17:36,020
+Senator Francis Kiko Pangilinan: respect the
+
+125
+00:17:36,020 --> 00:17:39,340
+Senator Francis Kiko Pangilinan: inter-parliamentary courtesy
+
+126
+00:17:39,340 --> 00:17:41,280
+Senator Francis Kiko Pangilinan: afforded the office of the
+
+127
+00:17:41,280 --> 00:17:43,140
+Senator Francis Kiko Pangilinan: President and of course the
+
+128
+00:17:43,140 --> 00:17:45,380
+Senator Francis Kiko Pangilinan: former colleague as well.
+
+129
+00:17:46,000 --> 00:17:47,500
+Senator Francis Kiko Pangilinan: Perhaps we will just request
+
+130
+00:17:47,500 --> 00:17:49,360
+Senator Francis Kiko Pangilinan: before plenary that we
+
+131
+00:17:49,360 --> 00:17:51,300
+Senator Francis Kiko Pangilinan: can set a separate meeting
+
+132
+00:17:51,300 --> 00:17:53,520
+Senator Francis Kiko Pangilinan: with the Anti-Agriculture Economic
+
+133
+00:17:53,520 --> 00:17:54,820
+Senator Francis Kiko Pangilinan: Sabotage Council
+
+134
+00:17:54,820 --> 00:17:57,200
+Senator Francis Kiko Pangilinan: so that we can get updates on
+
+135
+00:17:57,200 --> 00:17:59,120
+Senator Francis Kiko Pangilinan: the latest development
+
+136
+00:17:59,220 --> 00:18:01,820
+Senator Francis Kiko Pangilinan: in our campaign against
+
+137
+00:18:01,820 --> 00:18:03,640
+Senator Francis Kiko Pangilinan: particularly agriculture
+
+138
+00:18:03,640 --> 00:18:05,780
+Senator Francis Kiko Pangilinan: and fisheries products
+
+139
+00:18:05,780 --> 00:18:07,800
+Senator Francis Kiko Pangilinan: as we
+
+140
+00:18:07,800 --> 00:18:09,940
+Senator Francis Kiko Pangilinan: finalize our own
+
+141
+00:18:09,940 --> 00:18:10,700
+Senator Francis Kiko Pangilinan: committee report
+
+142
+00:18:10,700 --> 00:18:13,180
+Senator Francis Kiko Pangilinan: of the Committee on Agriculture
+
+143
+00:18:13,180 --> 00:18:15,340
+Senator Francis Kiko Pangilinan: and Food and Agrarian Reform.
+
+144
+00:18:15,900 --> 00:18:17,680
+Senator Francis Kiko Pangilinan: We really hope and I challenge
+
+145
+00:18:17,680 --> 00:18:19,540
+Senator Francis Kiko Pangilinan: the Department of Justice
+
+146
+00:18:19,540 --> 00:18:20,740
+Senator Francis Kiko Pangilinan: last week.
+
+147
+00:18:20,740 --> 00:18:20,940
+Senator Francis Kiko Pangilinan: I
+
+148
+00:18:20,940 --> 00:18:24,720
+Senator Francis Kiko Pangilinan: handle their, I'm defending
+
+149
+00:18:24,720 --> 00:18:26,720
+Senator Francis Kiko Pangilinan: their budget and will be sponsoring it on the
+
+150
+00:18:26,720 --> 00:18:28,900
+Senator Francis Kiko Pangilinan: floor and I challenge them to
+
+151
+00:18:29,220 --> 00:18:30,560
+Senator Francis Kiko Pangilinan: to prove
+
+152
+00:18:30,560 --> 00:18:33,460
+Senator Francis Kiko Pangilinan: na walang untouchable
+
+153
+00:18:33,460 --> 00:18:36,840
+Senator Francis Kiko Pangilinan: sa smuggler ng
+
+154
+00:18:36,840 --> 00:18:37,820
+Senator Francis Kiko Pangilinan: agri and
+
+155
+00:18:37,820 --> 00:18:40,760
+Senator Francis Kiko Pangilinan: fisheries
+
+156
+00:18:40,760 --> 00:18:42,940
+Senator Francis Kiko Pangilinan: products and I hope
+
+157
+00:18:42,940 --> 00:18:45,320
+Senator Francis Kiko Pangilinan: we can make headway
+
+158
+00:18:45,320 --> 00:18:47,800
+Senator Francis Kiko Pangilinan: in this regard.
+
+159
+00:18:47,980 --> 00:18:49,600
+Senator Francis Kiko Pangilinan: So, I have no
+
+160
+00:18:49,600 --> 00:18:51,260
+Senator Francis Kiko Pangilinan: other questions at this time.
+
+161
+00:18:51,360 --> 00:18:52,340
+Senator Francis Kiko Pangilinan: We are ready to just
+
+162
+00:18:52,340 --> 00:18:55,360
+Senator Francis Kiko Pangilinan: hear the presentation. Welcome again.
+
+163
+00:18:55,620 --> 00:18:56,060
+Senator Joseph Victor "JV" G. Ejercito: Thank you.
+
+164
+00:18:56,540 --> 00:18:59,100
+Senator Joseph Victor "JV" G. Ejercito: Senator Pangilinan, you also have
+
+165
+00:18:59,100 --> 00:19:00,280
+Senator Joseph Victor "JV" G. Ejercito: something in common.
+
+166
+00:19:01,100 --> 00:19:03,220
+Senator Joseph Victor "JV" G. Ejercito: Your wife is the megastar and the wife
+
+167
+00:19:03,220 --> 00:19:05,700
+Senator Joseph Victor "JV" G. Ejercito: of the Executive Secretary is the star
+
+168
+00:19:05,700 --> 00:19:06,700
+Senator Joseph Victor "JV" G. Ejercito: for all seasons.
+
+169
+00:19:07,980 --> 00:19:09,960
+Senator Joseph Victor "JV" G. Ejercito: Anyway, we defer the resolution of
+
+170
+00:19:09,960 --> 00:19:13,660
+Senator Francis Kiko Pangilinan: And my wife is a Vilmanian.
+
+171
+00:19:13,660 --> 00:19:15,780
+Executive Secretary Ralph Recto: I'm also a Sharonian.
+
+172
+00:19:18,300 --> 00:19:20,740
+Senator Joseph Victor "JV" G. Ejercito: Anyway, we defer the
+
+173
+00:19:20,740 --> 00:19:22,740
+Senator Joseph Victor "JV" G. Ejercito: resolution of the motion of our
+
+174
+00:19:22,740 --> 00:19:23,620
+Senator Joseph Victor "JV" G. Ejercito: Senate President.
+
+175
+00:19:25,020 --> 00:19:26,860
+Senator Joseph Victor "JV" G. Ejercito: Let us first allow our Executive
+
+176
+00:19:26,860 --> 00:19:28,940
+Senator Joseph Victor "JV" G. Ejercito: Secretary, Ralph Recto, to give us a
+
+177
+00:19:28,940 --> 00:19:31,180
+Senator Joseph Victor "JV" G. Ejercito: brief manifestation of the 2027
+
+178
+00:19:31,180 --> 00:19:32,980
+Senator Joseph Victor "JV" G. Ejercito: National Expenditure Program
+
+179
+00:19:32,980 --> 00:19:35,200
+Senator Joseph Victor "JV" G. Ejercito: or the proposed expenditure program
+
+180
+00:19:35,200 --> 00:19:36,320
+Senator Joseph Victor "JV" G. Ejercito: of the Office of the President
+
+181
+00:19:36,320 --> 00:19:37,700
+Senator Joseph Victor "JV" G. Ejercito: and the PMS.
+
+182
+00:19:38,660 --> 00:19:40,900
+Senator Joseph Victor "JV" G. Ejercito: Just state for the record, 2027,
+
+183
+00:19:41,120 --> 00:19:43,020
+Senator Joseph Victor "JV" G. Ejercito: the budget and the request for additional
+
+184
+00:19:43,020 --> 00:19:43,980
+Senator Joseph Victor "JV" G. Ejercito: funding, if any.
+
+185
+00:19:44,960 --> 00:19:47,100
+Senator Joseph Victor "JV" G. Ejercito: You have the floor, our Executive
+
+186
+00:19:47,100 --> 00:19:47,760
+Senator Joseph Victor "JV" G. Ejercito: Secretary.
+
+187
+00:19:47,760 --> 00:19:49,320
+Executive Secretary Ralph Recto: Thank you very much,
+
+188
+00:19:49,580 --> 00:19:51,000
+Executive Secretary Ralph Recto: Mr. Chairman, Senator
+
+189
+00:19:51,000 --> 00:19:53,100
+Executive Secretary Ralph Recto: JV Ejercito, to
+
+190
+00:19:53,100 --> 00:19:54,860
+Executive Secretary Ralph Recto: our Senate President, Senator
+
+191
+00:19:54,860 --> 00:19:55,920
+Executive Secretary Ralph Recto: Win Gatchalian,
+
+192
+00:19:56,740 --> 00:19:58,820
+Executive Secretary Ralph Recto: Honorable Senator Joel Villanueva,
+
+193
+00:19:58,940 --> 00:20:00,940
+Executive Secretary Ralph Recto: Honorable Senator Francis
+
+194
+00:20:00,940 --> 00:20:01,980
+Executive Secretary Ralph Recto: Kiko Pangilinan.
+
+195
+00:20:02,420 --> 00:20:04,300
+Executive Secretary Ralph Recto: Magandang hapon po sa inyong lahat.
+
+196
+00:20:04,680 --> 00:20:06,780
+Executive Secretary Ralph Recto: Your honors, I appear before this distinguished
+
+197
+00:20:06,780 --> 00:20:08,500
+Executive Secretary Ralph Recto: body to present, explain,
+
+198
+00:20:09,120 --> 00:20:10,940
+Executive Secretary Ralph Recto: and more importantly, seek your support
+
+199
+00:20:10,940 --> 00:20:13,000
+Executive Secretary Ralph Recto: for the proposed 2027 budget
+
+200
+00:20:13,000 --> 00:20:14,840
+Executive Secretary Ralph Recto: of the Office of the President.
+
+201
+00:20:15,480 --> 00:20:16,800
+Executive Secretary Ralph Recto: I'm here not merely because
+
+202
+00:20:16,800 --> 00:20:18,860
+Executive Secretary Ralph Recto: our laws require the Executive to
+
+203
+00:20:18,860 --> 00:20:21,180
+Executive Secretary Ralph Recto: defend its budget before Congress,
+
+204
+00:20:21,400 --> 00:20:22,800
+Executive Secretary Ralph Recto: which holds the constitutional
+
+205
+00:20:22,800 --> 00:20:24,920
+Executive Secretary Ralph Recto: power of the purse. I am here
+
+206
+00:20:24,920 --> 00:20:26,840
+Executive Secretary Ralph Recto: above all in faithful
+
+207
+00:20:26,840 --> 00:20:28,680
+Executive Secretary Ralph Recto: compliance with the President's standing directive:
+
+208
+00:20:28,940 --> 00:20:30,900
+Executive Secretary Ralph Recto: honor the Senate,
+
+209
+00:20:31,600 --> 00:20:32,920
+Executive Secretary Ralph Recto: respect its mandate,
+
+210
+00:20:33,520 --> 00:20:34,900
+Executive Secretary Ralph Recto: and regard it as a full
+
+211
+00:20:34,900 --> 00:20:36,740
+Executive Secretary Ralph Recto: partner in advancing the welfare
+
+212
+00:20:36,740 --> 00:20:38,900
+Executive Secretary Ralph Recto: of our people and protecting
+
+213
+00:20:38,900 --> 00:20:40,200
+Executive Secretary Ralph Recto: the national interests.
+
+214
+00:20:40,200 --> 00:20:42,280
+Executive Secretary Ralph Recto: The President firmly believes that
+
+215
+00:20:42,280 --> 00:20:44,220
+Executive Secretary Ralph Recto: governance is strengthened when the Executive
+
+216
+00:20:44,220 --> 00:20:46,140
+Executive Secretary Ralph Recto: and legislative branches
+
+217
+00:20:46,140 --> 00:20:48,460
+Executive Secretary Ralph Recto: work together, not as competing
+
+218
+00:20:48,460 --> 00:20:50,360
+Executive Secretary Ralph Recto: centers of power, but
+
+219
+00:20:50,360 --> 00:20:52,160
+Executive Secretary Ralph Recto: as co-equal institutions
+
+220
+00:20:52,160 --> 00:20:53,640
+Executive Secretary Ralph Recto: united by a common duty
+
+221
+00:20:53,640 --> 00:20:55,380
+Executive Secretary Ralph Recto: to the Filipino people.
+
+222
+00:20:55,860 --> 00:20:58,100
+Executive Secretary Ralph Recto: To enable the Office of the President to perform
+
+223
+00:20:58,100 --> 00:20:58,900
+Executive Secretary Ralph Recto: its constitutional
+
+224
+00:20:58,900 --> 00:21:01,980
+Executive Secretary Ralph Recto: responsibilities, we respectfully
+
+225
+00:21:01,980 --> 00:21:03,840
+Executive Secretary Ralph Recto: propose a budget of
+
+226
+00:21:03,840 --> 00:21:06,220
+Executive Secretary Ralph Recto: 10.15 billion pesos
+
+227
+00:21:06,220 --> 00:21:08,020
+Executive Secretary Ralph Recto: for 2027.
+
+228
+00:21:08,500 --> 00:21:10,220
+Executive Secretary Ralph Recto: This represents only
+
+229
+00:21:10,220 --> 00:21:12,660
+Executive Secretary Ralph Recto: 0.14 percent
+
+230
+00:21:12,660 --> 00:21:13,860
+Executive Secretary Ralph Recto: or roughly
+
+231
+00:21:13,860 --> 00:21:16,180
+Executive Secretary Ralph Recto: one-seventh of one percent
+
+232
+00:21:16,180 --> 00:21:18,420
+Executive Secretary Ralph Recto: of the proposed 7.2
+
+233
+00:21:18,420 --> 00:21:20,200
+Executive Secretary Ralph Recto: trillion peso national
+
+234
+00:21:20,200 --> 00:21:22,000
+Executive Secretary Ralph Recto: budget. It is also
+
+235
+00:21:22,000 --> 00:21:24,200
+Executive Secretary Ralph Recto: 64 percent
+
+236
+00:21:24,200 --> 00:21:26,020
+Executive Secretary Ralph Recto: lower than the previous
+
+237
+00:21:26,020 --> 00:21:28,280
+Executive Secretary Ralph Recto: year's level. The substantial
+
+238
+00:21:28,280 --> 00:21:29,780
+Executive Secretary Ralph Recto: reduction reflects the lower
+
+239
+00:21:29,780 --> 00:21:31,920
+Executive Secretary Ralph Recto: operational requirements of our
+
+240
+00:21:31,920 --> 00:21:33,760
+Executive Secretary Ralph Recto: delivery units and the completion
+
+241
+00:21:33,760 --> 00:21:35,800
+Executive Secretary Ralph Recto: of activities related to
+
+242
+00:21:35,800 --> 00:21:37,740
+Executive Secretary Ralph Recto: the Philippines' hosting of the
+
+243
+00:21:37,740 --> 00:21:39,860
+Executive Secretary Ralph Recto: ASEAN Summit, for which no
+
+244
+00:21:39,860 --> 00:21:41,680
+Executive Secretary Ralph Recto: additional funding will be required
+
+245
+00:21:41,680 --> 00:21:43,860
+Executive Secretary Ralph Recto: next year. In short,
+
+246
+00:21:44,580 --> 00:21:45,960
+Executive Secretary Ralph Recto: we are asking for less
+
+247
+00:21:45,960 --> 00:21:48,020
+Executive Secretary Ralph Recto: while remaining fully prepared
+
+248
+00:21:48,020 --> 00:21:49,180
+Executive Secretary Ralph Recto: to do more.
+
+249
+00:21:49,780 --> 00:21:51,520
+Executive Secretary Ralph Recto: We believe this amount is sufficient
+
+250
+00:21:51,520 --> 00:21:53,600
+Executive Secretary Ralph Recto: for the Presidency to meet the
+
+251
+00:21:53,600 --> 00:21:55,520
+Executive Secretary Ralph Recto: exacting demands of leading the nation
+
+252
+00:21:55,520 --> 00:21:58,120
+Executive Secretary Ralph Recto: at a time of overlapping domestic,
+
+253
+00:21:58,280 --> 00:21:59,960
+Executive Secretary Ralph Recto: and external challenges,
+
+254
+00:22:00,620 --> 00:22:02,160
+Executive Secretary Ralph Recto: from geopolitical tensions
+
+255
+00:22:02,160 --> 00:22:04,540
+Executive Secretary Ralph Recto: and disruptions in the Middle East
+
+256
+00:22:04,540 --> 00:22:06,420
+Executive Secretary Ralph Recto: to typhoons, El Nino,
+
+257
+00:22:06,420 --> 00:22:08,040
+Executive Secretary Ralph Recto: and other calamities.
+
+258
+00:22:08,460 --> 00:22:10,440
+Executive Secretary Ralph Recto: This budget will sustain the work of
+
+259
+00:22:10,440 --> 00:22:12,540
+Executive Secretary Ralph Recto: the Office of the President's 51
+
+260
+00:22:12,540 --> 00:22:13,800
+Executive Secretary Ralph Recto: delivery units,
+
+261
+00:22:14,480 --> 00:22:16,200
+Executive Secretary Ralph Recto: the machinery that keeps the highest
+
+262
+00:22:16,200 --> 00:22:18,380
+Executive Secretary Ralph Recto: office of government delivery for
+
+263
+00:22:18,380 --> 00:22:20,420
+Executive Secretary Ralph Recto: the Filipino people. It will
+
+264
+00:22:20,420 --> 00:22:21,940
+Executive Secretary Ralph Recto: support cabinet meetings,
+
+265
+00:22:22,580 --> 00:22:23,960
+Executive Secretary Ralph Recto: policy consultations,
+
+266
+00:22:24,600 --> 00:22:26,200
+Executive Secretary Ralph Recto: presidential engagements, and
+
+267
+00:22:26,200 --> 00:22:28,180
+Executive Secretary Ralph Recto: official travels. And the
+
+268
+00:22:28,180 --> 00:22:29,840
+Executive Secretary Ralph Recto: daily operations of Malacanang
+
+269
+00:22:29,840 --> 00:22:32,120
+Executive Secretary Ralph Recto: as the nation's principal center
+
+270
+00:22:32,120 --> 00:22:33,680
+Executive Secretary Ralph Recto: of decision-making
+
+271
+00:22:33,680 --> 00:22:35,860
+Executive Secretary Ralph Recto: and executive coordination.
+
+272
+00:22:36,500 --> 00:22:38,080
+Executive Secretary Ralph Recto: More importantly, it will help
+
+273
+00:22:38,080 --> 00:22:40,100
+Executive Secretary Ralph Recto: bring timely assistance to
+
+274
+00:22:40,100 --> 00:22:42,020
+Executive Secretary Ralph Recto: vulnerable families and
+
+275
+00:22:42,020 --> 00:22:43,980
+Executive Secretary Ralph Recto: enable the government to respond swiftly
+
+276
+00:22:43,980 --> 00:22:45,960
+Executive Secretary Ralph Recto: in times of emergencies.
+
+277
+00:22:46,640 --> 00:22:48,080
+Executive Secretary Ralph Recto: Every day, the
+
+278
+00:22:48,080 --> 00:22:49,520
+Executive Secretary Ralph Recto: President's schedule is full
+
+279
+00:22:49,520 --> 00:22:51,600
+Executive Secretary Ralph Recto: because the demands of governing
+
+280
+00:22:51,600 --> 00:22:53,680
+Executive Secretary Ralph Recto: do not pause. But
+
+281
+00:22:53,680 --> 00:22:56,180
+Executive Secretary Ralph Recto: activity alone is
+
+282
+00:22:56,180 --> 00:22:57,960
+Executive Secretary Ralph Recto: not our measure of performance.
+
+283
+00:22:58,180 --> 00:23:00,300
+Executive Secretary Ralph Recto: The real test of every peso
+
+284
+00:23:00,300 --> 00:23:02,280
+Executive Secretary Ralph Recto: spent is whether it solves
+
+285
+00:23:02,280 --> 00:23:04,400
+Executive Secretary Ralph Recto: a problem, improves a life,
+
+286
+00:23:04,880 --> 00:23:06,340
+Executive Secretary Ralph Recto: or strengthens the nation.
+
+287
+00:23:06,940 --> 00:23:08,120
+Executive Secretary Ralph Recto: That is the standard
+
+288
+00:23:08,120 --> 00:23:09,600
+Executive Secretary Ralph Recto: we apply to every peso
+
+289
+00:23:09,600 --> 00:23:11,420
+Executive Secretary Ralph Recto: in this budget proposal.
+
+290
+00:23:12,020 --> 00:23:13,920
+Executive Secretary Ralph Recto: We ensure that every policy,
+
+291
+00:23:14,460 --> 00:23:15,920
+Executive Secretary Ralph Recto: meeting, engagement,
+
+292
+00:23:16,440 --> 00:23:18,340
+Executive Secretary Ralph Recto: and official mission yields a public
+
+293
+00:23:18,340 --> 00:23:20,380
+Executive Secretary Ralph Recto: dividend, whether through jobs,
+
+294
+00:23:20,920 --> 00:23:22,480
+Executive Secretary Ralph Recto: investments, stronger
+
+295
+00:23:22,480 --> 00:23:23,500
+Executive Secretary Ralph Recto: national security,
+
+296
+00:23:24,260 --> 00:23:26,220
+Executive Secretary Ralph Recto: better public services, or
+
+297
+00:23:26,220 --> 00:23:28,060
+Executive Secretary Ralph Recto: more opportunities for
+
+298
+00:23:28,180 --> 00:23:30,140
+Executive Secretary Ralph Recto: our people. Your Honours,
+
+299
+00:23:30,140 --> 00:23:32,260
+Executive Secretary Ralph Recto: we recognize that public
+
+300
+00:23:32,260 --> 00:23:34,040
+Executive Secretary Ralph Recto: funds are not the government's money.
+
+301
+00:23:34,640 --> 00:23:36,380
+Executive Secretary Ralph Recto: They are the people's
+
+302
+00:23:36,380 --> 00:23:38,360
+Executive Secretary Ralph Recto: money earned through their hard
+
+303
+00:23:38,360 --> 00:23:40,480
+Executive Secretary Ralph Recto: labor and entrusted to us
+
+304
+00:23:40,480 --> 00:23:41,860
+Executive Secretary Ralph Recto: in the expectation
+
+305
+00:23:41,860 --> 00:23:44,020
+Executive Secretary Ralph Recto: that the government will uplift
+
+306
+00:23:44,020 --> 00:23:46,300
+Executive Secretary Ralph Recto: their lives. That
+
+307
+00:23:46,300 --> 00:23:48,460
+Executive Secretary Ralph Recto: is why fiscal discipline and accountability
+
+308
+00:23:48,460 --> 00:23:50,340
+Executive Secretary Ralph Recto: remains central to
+
+309
+00:23:50,340 --> 00:23:52,420
+Executive Secretary Ralph Recto: the operations of the Office of the
+
+310
+00:23:52,420 --> 00:23:54,280
+Executive Secretary Ralph Recto: President. For fiscal year
+
+311
+00:23:54,280 --> 00:23:56,500
+Executive Secretary Ralph Recto: 2025, the Commission
+
+312
+00:23:56,500 --> 00:23:58,160
+Executive Secretary Ralph Recto: on Audit issued the Office of the
+
+313
+00:23:58,180 --> 00:24:00,140
+Executive Secretary Ralph Recto: President an unmodified
+
+314
+00:24:00,140 --> 00:24:02,320
+Executive Secretary Ralph Recto: opinion. This is the
+
+315
+00:24:02,320 --> 00:24:04,180
+Executive Secretary Ralph Recto: highest audit opinion an
+
+316
+00:24:04,180 --> 00:24:06,200
+Executive Secretary Ralph Recto: agency may receive, and the
+
+317
+00:24:06,200 --> 00:24:07,680
+Executive Secretary Ralph Recto: OP's third consecutive
+
+318
+00:24:07,680 --> 00:24:10,300
+Executive Secretary Ralph Recto: unmodified opinion since
+
+319
+00:24:10,300 --> 00:24:12,360
+Executive Secretary Ralph Recto: 2022. This
+
+320
+00:24:12,360 --> 00:24:14,340
+Executive Secretary Ralph Recto: means that, based on COA's independent
+
+321
+00:24:14,340 --> 00:24:16,480
+Executive Secretary Ralph Recto: audit, the OP's financial
+
+322
+00:24:16,480 --> 00:24:18,360
+Executive Secretary Ralph Recto: statements were presented fairly
+
+323
+00:24:18,360 --> 00:24:20,080
+Executive Secretary Ralph Recto: in all material
+
+324
+00:24:20,080 --> 00:24:22,020
+Executive Secretary Ralph Recto: respects and in accordance
+
+325
+00:24:22,020 --> 00:24:24,360
+Executive Secretary Ralph Recto: with applicable public sector
+
+326
+00:24:24,360 --> 00:24:25,560
+Executive Secretary Ralph Recto: accounting standards.
+
+327
+00:24:26,180 --> 00:24:28,100
+Executive Secretary Ralph Recto: This is a badge of
+
+328
+00:24:28,100 --> 00:24:30,140
+Executive Secretary Ralph Recto: good housekeeping. This
+
+329
+00:24:30,140 --> 00:24:31,900
+Executive Secretary Ralph Recto: is proof that the Filipino
+
+330
+00:24:31,900 --> 00:24:34,240
+Executive Secretary Ralph Recto: people's money is accounted for
+
+331
+00:24:34,240 --> 00:24:35,700
+Executive Secretary Ralph Recto: and that their trust
+
+332
+00:24:35,700 --> 00:24:38,000
+Executive Secretary Ralph Recto: is respected. Rest
+
+333
+00:24:38,000 --> 00:24:39,880
+Executive Secretary Ralph Recto: assured, we crafted
+
+334
+00:24:39,880 --> 00:24:41,540
+Executive Secretary Ralph Recto: this proposed budget strictly
+
+335
+00:24:41,540 --> 00:24:43,720
+Executive Secretary Ralph Recto: within the parameters and processes
+
+336
+00:24:43,720 --> 00:24:46,020
+Executive Secretary Ralph Recto: established by the DBM.
+
+337
+00:24:46,560 --> 00:24:48,220
+Executive Secretary Ralph Recto: We sought no special
+
+338
+00:24:48,220 --> 00:24:50,080
+Executive Secretary Ralph Recto: treatment. We submit
+
+339
+00:24:50,080 --> 00:24:51,740
+Executive Secretary Ralph Recto: this proposal with full respect
+
+340
+00:24:51,740 --> 00:24:54,040
+Executive Secretary Ralph Recto: for Congress' constitutional authority
+
+341
+00:24:54,040 --> 00:24:56,360
+Executive Secretary Ralph Recto: and with readiness to answer
+
+342
+00:24:56,360 --> 00:24:58,060
+Executive Secretary Ralph Recto: any and all your questions.
+
+343
+00:24:58,100 --> 00:25:01,900
+Executive Secretary Ralph Recto: Thank you very much, Mr. Chairman.
+
+344
+00:25:01,900 --> 00:25:03,100
+Executive Secretary Ralph Recto: Thank you very much.
+
+345
+00:25:03,100 --> 00:25:06,640
+Senator Joseph Victor "JV" G. Ejercito: Yes, thank you, our Executive Secretary,
+
+346
+00:25:06,640 --> 00:25:08,400
+Senator Joseph Victor "JV" G. Ejercito: Ralph Recto, and the Office of the President
+
+347
+00:25:08,400 --> 00:25:09,400
+Senator Joseph Victor "JV" G. Ejercito: and the PMS family.
+
+348
+00:25:10,740 --> 00:25:12,480
+Senator Joseph Victor "JV" G. Ejercito: We will continue coordinating
+
+349
+00:25:12,480 --> 00:25:13,960
+Senator Joseph Victor "JV" G. Ejercito: with your office in preparation
+
+350
+00:25:13,960 --> 00:25:16,100
+Senator Joseph Victor "JV" G. Ejercito: for budget plenary debates
+
+351
+00:25:16,100 --> 00:25:17,980
+Senator Joseph Victor "JV" G. Ejercito: and your proposed budget.
+
+352
+00:25:18,100 --> 00:25:19,920
+Senator Joseph Victor "JV" G. Ejercito: We will just submit to you probably the
+
+353
+00:25:19,920 --> 00:25:22,100
+Senator Joseph Victor "JV" G. Ejercito: questions or the concerns, and
+
+354
+00:25:22,100 --> 00:25:24,080
+Senator Joseph Victor "JV" G. Ejercito: please prepare just in case any
+
+355
+00:25:24,080 --> 00:25:26,160
+Senator Joseph Victor "JV" G. Ejercito: of our colleagues might ask
+
+356
+00:25:26,160 --> 00:25:28,080
+Senator Joseph Victor "JV" G. Ejercito: questions during the plenary.
+
+357
+00:25:28,100 --> 00:25:29,520
+Senator Joseph Victor "JV" G. Ejercito: Anyway,
+
+358
+00:25:30,300 --> 00:25:32,300
+Senator Joseph Victor "JV" G. Ejercito: to resolve the motion of our
+
+359
+00:25:32,300 --> 00:25:34,100
+Senator Joseph Victor "JV" G. Ejercito: earlier motion of our Senate President,
+
+360
+00:25:34,560 --> 00:25:36,040
+Senator Joseph Victor "JV" G. Ejercito: and duly
+
+361
+00:25:36,040 --> 00:25:38,020
+Senator Joseph Victor "JV" G. Ejercito: seconded by our Deputy
+
+362
+00:25:38,020 --> 00:25:40,340
+Senator Joseph Victor "JV" G. Ejercito: Majority Leader Senator Joel
+
+363
+00:25:40,340 --> 00:25:42,040
+Senator Joseph Victor "JV" G. Ejercito: Villanueva. Is there an objection?
+
+364
+00:25:43,500 --> 00:25:44,220
+Senator Joseph Victor "JV" G. Ejercito: There being none,
+
+365
+00:25:44,280 --> 00:25:45,800
+Senator Joseph Victor "JV" G. Ejercito: even Senator Pangilinan is here.
+
+366
+00:25:46,540 --> 00:25:48,420
+Senator Joseph Victor "JV" G. Ejercito: Second thing, with that, the budget
+
+367
+00:25:48,420 --> 00:25:50,000
+Senator Joseph Victor "JV" G. Ejercito: of the Office of the President, the
+
+368
+00:25:50,000 --> 00:25:51,380
+Senator Joseph Victor "JV" G. Ejercito: Presidential Management Staff,
+
+369
+00:25:52,100 --> 00:25:54,100
+Senator Joseph Victor "JV" G. Ejercito: is now deemed submitted for the
+
+370
+00:25:54,100 --> 00:25:55,860
+Senator Joseph Victor "JV" G. Ejercito: plenary's consideration.
+
+371
+00:25:55,860 --> 00:25:58,060
+Senator Joseph Victor "JV" G. Ejercito: And, Committee Chair, we'd like
+
+372
+00:25:58,100 --> 00:26:00,100
+Senator Joseph Victor "JV" G. Ejercito: to thank everyone, especially our
+
+373
+00:26:00,100 --> 00:26:02,100
+Senator Joseph Victor "JV" G. Ejercito: esteemed resource persons, our Executive Secretary,
+
+374
+00:26:02,100 --> 00:26:04,100
+Senator Joseph Victor "JV" G. Ejercito: our
+
+375
+00:26:04,100 --> 00:26:06,100
+Senator Joseph Victor "JV" G. Ejercito: Secretary Elaine Masukat,
+
+376
+00:26:06,100 --> 00:26:08,100
+Senator Joseph Victor "JV" G. Ejercito: Executive Secretary, of course,
+
+377
+00:26:08,100 --> 00:26:10,100
+Senator Joseph Victor "JV" G. Ejercito: Ralph Recto, our Senior Deputy
+
+378
+00:26:10,100 --> 00:26:12,100
+Senator Joseph Victor "JV" G. Ejercito: Executive Secretary,
+
+379
+00:26:12,100 --> 00:26:14,100
+Senator Joseph Victor "JV" G. Ejercito: and the
+
+380
+00:26:14,100 --> 00:26:16,100
+Senator Joseph Victor "JV" G. Ejercito: different
+
+381
+00:26:16,100 --> 00:26:18,100
+Senator Joseph Victor "JV" G. Ejercito: Deputy Executive Secretaries and
+
+382
+00:26:18,100 --> 00:26:20,100
+Senator Joseph Victor "JV" G. Ejercito: USECs and Directors.
+
+383
+00:26:20,100 --> 00:26:22,100
+Senator Joseph Victor "JV" G. Ejercito: Anyway, thank you very much for attending
+
+384
+00:26:22,100 --> 00:26:24,100
+Senator Joseph Victor "JV" G. Ejercito: this afternoon's
+
+385
+00:26:24,100 --> 00:26:26,100
+Senator Joseph Victor "JV" G. Ejercito: hearing. So,
+
+386
+00:26:26,100 --> 00:26:28,100
+Senator Joseph Victor "JV" G. Ejercito: with that, Committee Chair, we'd like to thank, again,
+
+387
+00:26:28,100 --> 00:26:30,100
+Senator Joseph Victor "JV" G. Ejercito: with that, the Chair would like to
+
+388
+00:26:30,100 --> 00:26:32,100
+Senator Joseph Victor "JV" G. Ejercito: suspend this hearing. Thank you
+
+389
+00:26:32,100 --> 00:26:34,100
+Senator Joseph Victor "JV" G. Ejercito: very much.
+
+390
+00:27:00,400 --> 00:27:02,100
+Committee Secretary: We would like to request our senior officials
+
+391
+00:27:02,100 --> 00:27:04,100
+Committee Secretary: for a photo op with
+
+392
+00:27:04,100 --> 00:27:06,100
+Committee Secretary: the Chair and the Senators. Thank you.
+

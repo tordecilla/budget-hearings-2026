@@ -1,0 +1,3308 @@
+{
+  "hearing": {
+    "hearing_id": 64,
+    "title": "Senate Committee on Finance: TESDA - September 15, 2026",
+    "hearing_date": "2026-09-15",
+    "official_url": "https://www.youtube.com/watch?v=JA-qaBc74OA"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h64/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Budget priorities and execution",
+      "text": "Members examined how the proposed resources of the Technical Education and Skills Development Authority (TESDA) would support scholarships, training programs, and delivery. Questions about utilization, delayed implementation, and funding needs shaped the budget discussion.",
+      "citations": []
+    },
+    {
+      "label": "Scholarship reach and outcomes",
+      "text": "Members questioned who benefits from scholarships, what learners pay, whether training leads to credentials and work, and how the agency can improve targeting and employment reporting. Officials described scholarship categories, learner support, qualification pathways, and digital tools.",
+      "citations": []
+    },
+    {
+      "label": "Audit and accountability",
+      "text": "Senator Erwin Tulfo pressed TESDA and Commission on Audit (COA) officials about disbursement, accounting errors, scholarship eligibility and allowances, and project delays. COA said validation was ongoing; Tulfo opposed a budget increase until the questions were answered.",
+      "citations": []
+    },
+    {
+      "label": "Local training capacity",
+      "text": "Senator Juan Miguel \"Migz\" F. Zubiri sought a durable plan for Bukidnon training centers, including programs, equipment, and trainer needs. TESDA described local planning and repairs; Zubiri offered support after receiving a consolidated needs report, with no allocation adopted in the exchange.",
+      "citations": []
+    },
+    {
+      "label": "Skills for changing work",
+      "text": "Members raised concerns about AI disruption, business process outsourcing, semiconductors, and enterprise-based training. TESDA described training pathways and implementation plans while identifying funding and registration barriers; requests and suggestions remained distinct from approved appropriations.",
+      "citations": []
+    },
+    {
+      "label": "Lifelong learning and qualifications",
+      "text": "TESDA described using existing agency budgets for early lifelong-learning activities without a dedicated line item. Officials distinguished Philippine Qualifications Framework (PQF) referencing work from lifelong-learning leadership and committed to update the original ASEAN Qualifications Referencing Framework (AQRF) report with new level descriptors by December 2026.",
+      "citations": []
+    },
+    {
+      "label": "Committee action",
+      "text": "Members took different positions on the budget: some supported it or offered conditional help, while Tulfo opposed an increase pending answers. The FY2027 proposal was referred to plenary subject to further discussion and requested documents; the committee suspended the briefing.",
+      "citations": []
+    }
+  ],
+  "method_note": "This overview was drafted with AI assistance from the reviewed transcript, the accepted source-linked unit accounts, and their recorded evidence. It reports requests, responses, commitments, and outcomes as stated. Differing opening and NEP figures remain attributed to their speakers rather than reconciled.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Principal FY2027 proposal, request, and FY2026 comparison",
+          "text": "In the opening, Chair Senator Joel Villanueva presented the FY2027 National Expenditure Program (NEP) proposal for the Technical Education and Skills Development Authority (TESDA) as ₱21.20 billion, which he said was ₱5.15 billion, or 19.5%, below the FY2026 budget. TESDA Secretary Jose Francisco \"Kiko\" Benitez separately said the agency originally requested almost ₱39 billion for FY2027 and received ₱20.8 billion or ₱20.9 billion in the NEP. The speakers' opening and NEP figures differ; the hearing did not reconcile them. Senator Erwin Tulfo later cited the FY2026 General Appropriations Act (GAA) as ₱26 billion plus ₱342 million.",
+          "citations": [
+            {
+              "stable_id": "asr-000036",
+              "start_seconds": 738.3,
+              "clock": "00:12:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000036"
+            },
+            {
+              "stable_id": "asr-000598-split-2",
+              "start_seconds": 2740.2,
+              "clock": "00:45:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000598-split-2"
+            },
+            {
+              "stable_id": "asr-000599",
+              "start_seconds": 2744.8,
+              "clock": "00:45:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000599"
+            },
+            {
+              "stable_id": "asr-000677",
+              "start_seconds": 2960.96,
+              "clock": "00:49:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000677"
+            },
+            {
+              "stable_id": "asr-000678",
+              "start_seconds": 2963.38,
+              "clock": "00:49:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000678"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-technical-education-and-skills-development-authority-tesda",
+      "label": "Technical Education and Skills Development Authority (TESDA) budget",
+      "items": [
+        {
+          "label": "FY2027 TESDA proposal and program allocations",
+          "text": "For FY2027, the TESDA NEP proposal assigns ₱20.48 billion for operations. Direct program allocations are ₱19.66 billion for the Technical Education and Skills Development Program, ₱497.6 million for the Regulatory Program, and ₱40.1 million for the Policy Program. Chair Senator Joel Villanueva said nearly ₱93 of each ₱100 in the proposal goes to the core technical education and skills development program, covering scholarships, training, and other skills interventions.",
+          "citations": [
+            {
+              "stable_id": "asr-000037",
+              "start_seconds": 751.3,
+              "clock": "00:12:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000037"
+            },
+            {
+              "stable_id": "asr-000038",
+              "start_seconds": 757.4799999999999,
+              "clock": "00:12:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000038"
+            },
+            {
+              "stable_id": "asr-000039",
+              "start_seconds": 764.66,
+              "clock": "00:12:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000039"
+            },
+            {
+              "stable_id": "asr-000040",
+              "start_seconds": 773.78,
+              "clock": "00:12:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000040"
+            },
+            {
+              "stable_id": "asr-000041",
+              "start_seconds": 786.04,
+              "clock": "00:13:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000041"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 TESDA NEP comparison and utilization",
+          "text": "In the FY2027 National Expenditure Program (NEP), TESDA's share of the total education budget is 1.88%, down from 2.2% in FY2026. The presentation says the FY2027 NEP is almost 20% below the FY2026 General Appropriations Act (GAA) and 46.8% below TESDA's proposed budget. TESDA Secretary Jose Francisco \"Kiko\" Benitez said utilization through September 2026 was higher than at the same point the prior year, while delayed releases for capital outlay, including SIPTVET projects, affected spending; without those delayed funds, utilization was estimated at about 43% to 45%. He asked to receive an amount close to, or somewhat above, TESDA's FY2026 GAA project budget to sustain delivery.",
+          "citations": [
+            {
+              "stable_id": "asr-000538",
+              "start_seconds": 2350.8,
+              "clock": "00:39:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000538"
+            },
+            {
+              "stable_id": "asr-000539",
+              "start_seconds": 2356.66,
+              "clock": "00:39:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000539"
+            },
+            {
+              "stable_id": "asr-000540",
+              "start_seconds": 2362.1800000000003,
+              "clock": "00:39:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000540"
+            },
+            {
+              "stable_id": "asr-000544",
+              "start_seconds": 2387.6400000000003,
+              "clock": "00:39:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000544"
+            },
+            {
+              "stable_id": "asr-000545",
+              "start_seconds": 2397.42,
+              "clock": "00:39:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000545"
+            },
+            {
+              "stable_id": "asr-000546",
+              "start_seconds": 2404.62,
+              "clock": "00:40:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000546"
+            },
+            {
+              "stable_id": "asr-000547",
+              "start_seconds": 2409.44,
+              "clock": "00:40:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000547"
+            },
+            {
+              "stable_id": "asr-000549",
+              "start_seconds": 2417.7200000000003,
+              "clock": "00:40:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000549"
+            },
+            {
+              "stable_id": "asr-000550",
+              "start_seconds": 2425.42,
+              "clock": "00:40:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000550"
+            },
+            {
+              "stable_id": "asr-000551",
+              "start_seconds": 2428.82,
+              "clock": "00:40:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000551"
+            },
+            {
+              "stable_id": "asr-000552",
+              "start_seconds": 2435.3,
+              "clock": "00:40:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000552"
+            },
+            {
+              "stable_id": "asr-000553",
+              "start_seconds": 2439.8,
+              "clock": "00:40:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000553"
+            },
+            {
+              "stable_id": "asr-000554",
+              "start_seconds": 2450.6400000000003,
+              "clock": "00:40:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000554"
+            },
+            {
+              "stable_id": "asr-000556",
+              "start_seconds": 2458.82,
+              "clock": "00:40:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000556"
+            },
+            {
+              "stable_id": "asr-000557",
+              "start_seconds": 2462.12,
+              "clock": "00:41:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000557"
+            },
+            {
+              "stable_id": "asr-000537",
+              "start_seconds": 2346.3199999999997,
+              "clock": "00:39:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000537"
+            },
+            {
+              "stable_id": "asr-000536",
+              "start_seconds": 2339.34,
+              "clock": "00:38:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000536"
+            }
+          ]
+        },
+        {
+          "label": "Budget utilization and delayed implementation",
+          "text": "Senator Erwin Tulfo questioned the reduced NEP allocation in light of TESDA's utilization: for 2025, 68% was obligated and 45.2% disbursed, according to his reference to the Congressional Policy and Budget Research Department. TESDA Secretary Jose Francisco \"Kiko\" Benitez acknowledged disbursement was lower than it should be, citing release timing and the school-year calendar; he said disbursement usually catches up in November or December and averages 75% to 80% by year-end. Chair Senator Joel Villanueva clarified that his concern was the obligation rate. Benitez attributed obligations to the mix of scholarship programs, delayed Special Allotment Release Orders (SAROs), schools' readiness and capacity, staffing and internal processing, backlogs, and the time needed to identify programs such as STEP.",
+          "citations": [
+            {
+              "stable_id": "asr-000603",
+              "start_seconds": 2778.96,
+              "clock": "00:46:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000603"
+            },
+            {
+              "stable_id": "asr-000616",
+              "start_seconds": 2831.6,
+              "clock": "00:47:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000616"
+            },
+            {
+              "stable_id": "asr-000617",
+              "start_seconds": 2833.5,
+              "clock": "00:47:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000617"
+            },
+            {
+              "stable_id": "asr-000650",
+              "start_seconds": 2905.06,
+              "clock": "00:48:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000650"
+            },
+            {
+              "stable_id": "asr-000657",
+              "start_seconds": 2918.84,
+              "clock": "00:48:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000657"
+            },
+            {
+              "stable_id": "asr-000663",
+              "start_seconds": 2930.86,
+              "clock": "00:48:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000663"
+            },
+            {
+              "stable_id": "asr-000672",
+              "start_seconds": 2948.84,
+              "clock": "00:49:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000672"
+            }
+          ]
+        },
+        {
+          "label": "Six proposed TESDA funding augmentations",
+          "text": "The presentation requested additional FY2027 funding for six items: ₱933 million for the Training for Work Scholarship Program (TWSP), to serve 37,356 additional beneficiaries; ₱777 million for the Special Training for Employment Program (STEP), for 24,758 additional beneficiaries; and ₱2.4 billion for the Universal Access to Quality Tertiary Education Act (UAQTEA) to expand diploma programs for 46,430 new entrants. For senior high school TechPro, it requested about ₱600 million for 28,733 teachers, plus about ₱622 million for training primarily for barangay-based enterprises and community health work, including barangay health workers, barangay nutrition scholars, and early childhood development and care workers. TESDA also requested ₱310 million to host seven WorldSkills ASEAN competition domains in August 2027, with half for equipment and half for hosting the delegation. These were agency requests; these additions were presented for committee consideration.",
+          "citations": [
+            {
+              "stable_id": "asr-000559",
+              "start_seconds": 2468.76,
+              "clock": "00:41:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000559"
+            },
+            {
+              "stable_id": "asr-000560",
+              "start_seconds": 2483.88,
+              "clock": "00:41:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000560"
+            },
+            {
+              "stable_id": "asr-000561",
+              "start_seconds": 2493.32,
+              "clock": "00:41:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000561"
+            },
+            {
+              "stable_id": "asr-000562",
+              "start_seconds": 2507.2,
+              "clock": "00:41:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000562"
+            },
+            {
+              "stable_id": "asr-000571",
+              "start_seconds": 2560.1,
+              "clock": "00:42:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000571"
+            },
+            {
+              "stable_id": "asr-000572",
+              "start_seconds": 2569.38,
+              "clock": "00:42:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000572"
+            },
+            {
+              "stable_id": "asr-000573",
+              "start_seconds": 2572.98,
+              "clock": "00:42:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000573"
+            },
+            {
+              "stable_id": "asr-000576",
+              "start_seconds": 2583.32,
+              "clock": "00:43:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000576"
+            },
+            {
+              "stable_id": "asr-000577",
+              "start_seconds": 2590.7,
+              "clock": "00:43:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000577"
+            },
+            {
+              "stable_id": "asr-000585",
+              "start_seconds": 2658.3,
+              "clock": "00:44:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000585"
+            },
+            {
+              "stable_id": "asr-000586",
+              "start_seconds": 2666.7200000000003,
+              "clock": "00:44:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000586"
+            },
+            {
+              "stable_id": "asr-000587",
+              "start_seconds": 2670.1,
+              "clock": "00:44:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000587"
+            },
+            {
+              "stable_id": "asr-000588",
+              "start_seconds": 2671.24,
+              "clock": "00:44:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000588"
+            },
+            {
+              "stable_id": "asr-000589",
+              "start_seconds": 2677.38,
+              "clock": "00:44:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000589"
+            },
+            {
+              "stable_id": "asr-000590",
+              "start_seconds": 2680.88,
+              "clock": "00:44:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000590"
+            }
+          ]
+        },
+        {
+          "label": "COA findings, scholarship funds, and TESDA accounting response",
+          "text": "Tulfo challenged TESDA's staffing explanation by citing its FY2026 budget and alleged slow spending, then asked what it had done about 17 Commission on Audit (COA) observations. TESDA Financial Management Service (FMS) Director Cariza A. Dacuma said TESDA had submitted an Agency Action Plan and Status of Implementation (AAPSI) and was coordinating with COA; her field review found structural problems with record correction and validation, including provincial financial analysts who were administrative officers by designation. She described FMS training as a short-term step and said a rationalization request to the Department of Budget and Management (DBM) sought two new provincial-office positions for accounting and financial analysis. Later, COA Auditor Aldrin M. Candelario said COA's validation of TESDA's actions remained ongoing. He confirmed accounting errors and deficiencies and recommended correction. COA's example was that regional transfers to provincial and district offices had been treated as allotments, while COA recommended cash-advance treatment because those offices lacked accountants; Candelario said this difference was a major reason for the accounting errors and deficiencies in TESDA's financial statements and controls. Tulfo cited PHP 3.6 billion in uncorrected accounting errors and omissions. He also cited scholarship benefits of approximately PHP 574 million for learners he described as having doubtful eligibility, allowances of approximately PHP 197 million that were released late, remained unreleased, or were unclaimed, and a PHP 19.832 million delay involving the SIPTVET project. The scholarship and allowance figures are approximate because their trailing digits are unclear.",
+          "citations": [
+            {
+              "stable_id": "asr-000700",
+              "start_seconds": 3007.1,
+              "clock": "00:50:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000700"
+            },
+            {
+              "stable_id": "asr-000714",
+              "start_seconds": 3036.96,
+              "clock": "00:50:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000714"
+            },
+            {
+              "stable_id": "asr-000751",
+              "start_seconds": 3110.68,
+              "clock": "00:51:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000751"
+            },
+            {
+              "stable_id": "asr-000761",
+              "start_seconds": 3131.1,
+              "clock": "00:52:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000761"
+            },
+            {
+              "stable_id": "asr-000779",
+              "start_seconds": 3167.32,
+              "clock": "00:52:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000779"
+            },
+            {
+              "stable_id": "asr-000785",
+              "start_seconds": 3179.26,
+              "clock": "00:52:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000785"
+            },
+            {
+              "stable_id": "asr-000788",
+              "start_seconds": 3184.88,
+              "clock": "00:53:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000788"
+            },
+            {
+              "stable_id": "asr-000837",
+              "start_seconds": 3282.9,
+              "clock": "00:54:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000837"
+            },
+            {
+              "stable_id": "asr-000905",
+              "start_seconds": 3420.56,
+              "clock": "00:57:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000905"
+            },
+            {
+              "stable_id": "asr-000906",
+              "start_seconds": 3422.04,
+              "clock": "00:57:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000906"
+            },
+            {
+              "stable_id": "asr-000912",
+              "start_seconds": 3434.36,
+              "clock": "00:57:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000912"
+            },
+            {
+              "stable_id": "asr-000913",
+              "start_seconds": 3436.14,
+              "clock": "00:57:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000913"
+            },
+            {
+              "stable_id": "asr-000925",
+              "start_seconds": 3460.92,
+              "clock": "00:57:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000925"
+            },
+            {
+              "stable_id": "asr-000926",
+              "start_seconds": 3462.22,
+              "clock": "00:57:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000926"
+            },
+            {
+              "stable_id": "asr-000932",
+              "start_seconds": 3474.16,
+              "clock": "00:57:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000932"
+            }
+          ]
+        },
+        {
+          "label": "Audit follow-up and opposition to a budget increase",
+          "text": "Tulfo asked whether COA's observations had been resolved. COA Auditor Aldrin M. Candelario said COA had issued an audit observation memorandum and held an exit conference with TESDA; TESDA's comments were included in the audit report, which COA planned to publish in October. He said some recommendations remained unimplemented and that a notice of suspension was possible if issues continued. Villanueva said they would look into the matter. Tulfo ended by saying he was not satisfied and opposed increasing TESDA's budget at that point until the questions were answered. Villanueva acknowledged the concerns and yielded to Senate Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri.",
+          "citations": [
+            {
+              "stable_id": "asr-001230",
+              "start_seconds": 4071.92,
+              "clock": "01:07:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001230"
+            },
+            {
+              "stable_id": "asr-001237",
+              "start_seconds": 4085.2200000000003,
+              "clock": "01:08:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001237"
+            },
+            {
+              "stable_id": "asr-001242",
+              "start_seconds": 4095.92,
+              "clock": "01:08:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001242"
+            },
+            {
+              "stable_id": "asr-001247",
+              "start_seconds": 4105.14,
+              "clock": "01:08:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001247"
+            },
+            {
+              "stable_id": "asr-001284",
+              "start_seconds": 4179.32,
+              "clock": "01:09:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001284"
+            },
+            {
+              "stable_id": "asr-001293",
+              "start_seconds": 4197.18,
+              "clock": "01:09:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001293"
+            },
+            {
+              "stable_id": "asr-001304",
+              "start_seconds": 4218.82,
+              "clock": "01:10:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001304"
+            }
+          ]
+        },
+        {
+          "label": "Bukidnon programs, equipment needs and proposed support",
+          "text": "TESDA Deputy Director General Vidal D. Villanueva III said TESDA had consulted Bukidnon mayors, prioritized agriculture and construction, identified programs in every municipality, and received equipment requests. He said facilities had been repaired for program registration; Baungon was applying for Electrical Installation and Maintenance NC II. Senator Juan Miguel \"Migz\" F. Zubiri asked for a province-wide action plan and a consolidated list of gaps, saying he was willing to help fund trainers and equipment and to work with LGUs, especially poorer municipalities. Villanueva said local governments had procured equipment for welding and dressmaking; TESDA might seek Senate funding for equipment if higher-level qualifications are pursued. Zubiri asked TESDA to report the needed trainer funds and equipment so an allocation could be considered, said he would await the report before plenary, and expressed support for TESDA’s budget. The exchange ended with a report request and an offer of budget support, rather than an adopted allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-001488",
+              "start_seconds": 4803.56,
+              "clock": "01:20:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001488"
+            },
+            {
+              "stable_id": "asr-001490",
+              "start_seconds": 4823.8,
+              "clock": "01:20:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001490"
+            },
+            {
+              "stable_id": "asr-001493",
+              "start_seconds": 4833.5,
+              "clock": "01:20:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001493"
+            },
+            {
+              "stable_id": "asr-001496",
+              "start_seconds": 4859.96,
+              "clock": "01:20:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001496"
+            },
+            {
+              "stable_id": "asr-001498",
+              "start_seconds": 4871.12,
+              "clock": "01:21:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001498"
+            },
+            {
+              "stable_id": "asr-001501",
+              "start_seconds": 4888.96,
+              "clock": "01:21:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001501"
+            },
+            {
+              "stable_id": "asr-001502",
+              "start_seconds": 4892.32,
+              "clock": "01:21:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001502"
+            },
+            {
+              "stable_id": "asr-001510",
+              "start_seconds": 4921.16,
+              "clock": "01:22:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001510"
+            },
+            {
+              "stable_id": "asr-001547",
+              "start_seconds": 5014.64,
+              "clock": "01:23:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001547"
+            },
+            {
+              "stable_id": "asr-001551",
+              "start_seconds": 5037.06,
+              "clock": "01:23:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001551"
+            },
+            {
+              "stable_id": "asr-001556",
+              "start_seconds": 5055.68,
+              "clock": "01:24:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001556"
+            },
+            {
+              "stable_id": "asr-001565",
+              "start_seconds": 5078.92,
+              "clock": "01:24:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001565"
+            },
+            {
+              "stable_id": "asr-001576",
+              "start_seconds": 5099.9400000000005,
+              "clock": "01:24:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001576"
+            },
+            {
+              "stable_id": "asr-001610",
+              "start_seconds": 5167.78,
+              "clock": "01:26:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001610"
+            },
+            {
+              "stable_id": "asr-001646",
+              "start_seconds": 5238.78,
+              "clock": "01:27:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001646"
+            },
+            {
+              "stable_id": "asr-001649",
+              "start_seconds": 5243.46,
+              "clock": "01:27:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001649"
+            }
+          ]
+        },
+        {
+          "label": "Budget support and faster utilization",
+          "text": "Senator Christopher Lawrence T. Go expressed full support for TESDA’s 2027 budget at committee and plenary, while asking the agency to check implementation and budget utilization. Referring to Senator Erwin Tulfo’s earlier question, Go said roughly 20–25 programs remained unimplemented. He cited a 76% utilization rate for 2025 and said that, in 2026, only 28% of the Training for Work Scholarship Program budget had been used. He urged TESDA and the Department of Budget and Management to address the backlog while the 2027 budget was being considered, arguing that faster implementation could create more training and employment opportunities. He closed by again urging TESDA to use its current and prior-year budgets more quickly. He also raised the possibility of making TESDA a department.",
+          "citations": [
+            {
+              "stable_id": "asr-001744",
+              "start_seconds": 5470.68,
+              "clock": "01:31:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001744"
+            },
+            {
+              "stable_id": "asr-001749",
+              "start_seconds": 5492.1,
+              "clock": "01:31:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001749"
+            },
+            {
+              "stable_id": "asr-001754",
+              "start_seconds": 5517.1,
+              "clock": "01:31:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001754"
+            },
+            {
+              "stable_id": "asr-001755",
+              "start_seconds": 5520.5,
+              "clock": "01:32:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001755"
+            },
+            {
+              "stable_id": "asr-001765",
+              "start_seconds": 5533.22,
+              "clock": "01:32:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001765"
+            },
+            {
+              "stable_id": "asr-001767",
+              "start_seconds": 5537.9,
+              "clock": "01:32:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001767"
+            },
+            {
+              "stable_id": "asr-001769",
+              "start_seconds": 5543.86,
+              "clock": "01:32:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001769"
+            },
+            {
+              "stable_id": "asr-001770",
+              "start_seconds": 5545.0,
+              "clock": "01:32:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001770"
+            },
+            {
+              "stable_id": "asr-001771",
+              "start_seconds": 5546.5,
+              "clock": "01:32:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001771"
+            },
+            {
+              "stable_id": "asr-001772",
+              "start_seconds": 5548.6,
+              "clock": "01:32:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001772"
+            },
+            {
+              "stable_id": "asr-001773",
+              "start_seconds": 5551.96,
+              "clock": "01:32:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001773"
+            },
+            {
+              "stable_id": "asr-001776",
+              "start_seconds": 5563.8,
+              "clock": "01:32:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001776"
+            },
+            {
+              "stable_id": "asr-001777",
+              "start_seconds": 5565.98,
+              "clock": "01:32:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001777"
+            },
+            {
+              "stable_id": "asr-001778",
+              "start_seconds": 5571.72,
+              "clock": "01:32:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001778"
+            },
+            {
+              "stable_id": "asr-001809",
+              "start_seconds": 5700.16,
+              "clock": "01:35:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001809"
+            },
+            {
+              "stable_id": "asr-001843",
+              "start_seconds": 5860.6,
+              "clock": "01:37:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001843"
+            },
+            {
+              "stable_id": "asr-001855",
+              "start_seconds": 5897.28,
+              "clock": "01:38:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001855"
+            },
+            {
+              "stable_id": "asr-001859",
+              "start_seconds": 5906.08,
+              "clock": "01:38:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001859"
+            },
+            {
+              "stable_id": "asr-001860",
+              "start_seconds": 5907.46,
+              "clock": "01:38:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001860"
+            },
+            {
+              "stable_id": "asr-001833",
+              "start_seconds": 5822.04,
+              "clock": "01:37:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001833"
+            }
+          ]
+        },
+        {
+          "label": "Scholarship reach and beneficiary categories",
+          "text": "Senator Joel Villanueva asked how TESDA scholarships compare with the agency’s overall graduate population. Secretary Jose Francisco \"Kiko\" Benitez said TESDA produces about 1.5 million graduates in a year, while its scholarship programs serve roughly 630,000 to 650,000 learners; he said scholarship funds cover around 35–40% of annual seat demand. Scholarship Management Office Director IV Rosalina S. Constantino described the Tulong Trabaho Scholarship Program (TTSP) beneficiary mix as 15% not in education, employment or training, 35% existing workers receiving upskilling, and 50% other special clients. She listed Pantawid Pamilyang Pilipino Program (4Ps) beneficiaries, disaster victims, returning or repatriated overseas Filipino workers, Indigenous Peoples, agrarian reform beneficiaries, Tulong Panghanapbuhay sa Ating Disadvantaged/Displaced Workers (TUPAD) beneficiaries and learners in local-government training centers. She said TESDA’s client database does not consistently show whether people in the remaining categories are employed or in education and needs revalidation. Villanueva asked TESDA to make the program categories and reporting clearer.",
+          "citations": [
+            {
+              "stable_id": "asr-001908",
+              "start_seconds": 6010.26,
+              "clock": "01:40:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001908"
+            },
+            {
+              "stable_id": "asr-001915",
+              "start_seconds": 6026.4,
+              "clock": "01:40:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001915"
+            },
+            {
+              "stable_id": "asr-001916",
+              "start_seconds": 6028.24,
+              "clock": "01:40:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001916"
+            },
+            {
+              "stable_id": "asr-001929-split-2",
+              "start_seconds": 6067.6,
+              "clock": "01:41:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001929-split-2"
+            },
+            {
+              "stable_id": "asr-001930",
+              "start_seconds": 6068.6,
+              "clock": "01:41:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001930"
+            },
+            {
+              "stable_id": "asr-001935",
+              "start_seconds": 6078.26,
+              "clock": "01:41:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001935"
+            },
+            {
+              "stable_id": "asr-001936",
+              "start_seconds": 6079.7,
+              "clock": "01:41:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001936"
+            },
+            {
+              "stable_id": "asr-001948",
+              "start_seconds": 6103.92,
+              "clock": "01:41:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001948"
+            },
+            {
+              "stable_id": "asr-001949",
+              "start_seconds": 6106.3,
+              "clock": "01:41:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001949"
+            },
+            {
+              "stable_id": "asr-002079",
+              "start_seconds": 6416.24,
+              "clock": "01:46:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002079"
+            },
+            {
+              "stable_id": "asr-002082",
+              "start_seconds": 6425.2,
+              "clock": "01:47:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002082"
+            },
+            {
+              "stable_id": "asr-002085",
+              "start_seconds": 6438.38,
+              "clock": "01:47:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002085"
+            },
+            {
+              "stable_id": "asr-002112",
+              "start_seconds": 6506.28,
+              "clock": "01:48:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002112"
+            },
+            {
+              "stable_id": "asr-002117",
+              "start_seconds": 6529.56,
+              "clock": "01:48:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002117"
+            },
+            {
+              "stable_id": "asr-002139",
+              "start_seconds": 6612.78,
+              "clock": "01:50:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002139"
+            },
+            {
+              "stable_id": "asr-002141",
+              "start_seconds": 6620.0,
+              "clock": "01:50:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002141"
+            }
+          ]
+        },
+        {
+          "label": "AI upskilling funding and requested addition",
+          "text": "Senate President Sherwin \"Win\" T. Gatchalian opened by citing about ₱1.6 billion in the FY2026 budget for AI upskilling, semiconductors, and healthcare, and asked for an update on the ₱1.8 billion TWSP amount. In his FY2027 budget question, he said TWSP was about ₱3.6 billion and had fallen 45%, raising concern about funding for the AI roadmap and BPO upskilling. TESDA Secretary Jose Francisco \"Kiko\" Benitez said AI upskilling draws on TWSP, micro-credentials, and TTSP/enterprise-based education and training (EBET) funds, as well as free online courses and interagency training funds; he agreed the combined sources remained insufficient for the scale of need. Deputy Director General Galo B. Glino III said the FY2027 TWSP amount is shared among sectors, including advanced manufacturing, semiconductors and electronics, and healthcare, so it cannot be used wholly for AI upskilling. TESDA requested an additional ₱900 million under TWSP to support about 37,000 additional learners in AI upskilling. Gatchalian asked TESDA to submit the amount it considered necessary for higher-level AI reskilling and upskilling to the committee; the ₱900 million was the stated request, with no disposition recorded in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-002679",
+              "start_seconds": 8907.42,
+              "clock": "02:28:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002679"
+            },
+            {
+              "stable_id": "asr-002697",
+              "start_seconds": 8950.28,
+              "clock": "02:29:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002697"
+            },
+            {
+              "stable_id": "asr-002698",
+              "start_seconds": 8952.22,
+              "clock": "02:29:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002698"
+            },
+            {
+              "stable_id": "asr-002799",
+              "start_seconds": 9369.58,
+              "clock": "02:36:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002799"
+            },
+            {
+              "stable_id": "asr-002800",
+              "start_seconds": 9373.88,
+              "clock": "02:36:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002800"
+            },
+            {
+              "stable_id": "asr-002802",
+              "start_seconds": 9389.14,
+              "clock": "02:36:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002802"
+            },
+            {
+              "stable_id": "asr-002807",
+              "start_seconds": 9406.22,
+              "clock": "02:36:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002807"
+            },
+            {
+              "stable_id": "asr-002821",
+              "start_seconds": 9467.94,
+              "clock": "02:37:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002821"
+            },
+            {
+              "stable_id": "asr-002831",
+              "start_seconds": 9495.2,
+              "clock": "02:38:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002831"
+            },
+            {
+              "stable_id": "asr-002835",
+              "start_seconds": 9508.64,
+              "clock": "02:38:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002835"
+            },
+            {
+              "stable_id": "asr-002842",
+              "start_seconds": 9531.8,
+              "clock": "02:38:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002842"
+            },
+            {
+              "stable_id": "asr-002867",
+              "start_seconds": 9606.880000000001,
+              "clock": "02:40:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002867"
+            },
+            {
+              "stable_id": "asr-002877",
+              "start_seconds": 9634.74,
+              "clock": "02:40:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002877"
+            },
+            {
+              "stable_id": "asr-002884",
+              "start_seconds": 9655.02,
+              "clock": "02:40:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002884"
+            },
+            {
+              "stable_id": "asr-002999",
+              "start_seconds": 9897.52,
+              "clock": "02:44:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002999"
+            },
+            {
+              "stable_id": "asr-003001",
+              "start_seconds": 9900.0,
+              "clock": "02:45:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003001"
+            },
+            {
+              "stable_id": "asr-003002",
+              "start_seconds": 9902.48,
+              "clock": "02:45:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003002"
+            },
+            {
+              "stable_id": "asr-003003",
+              "start_seconds": 9904.0,
+              "clock": "02:45:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003003"
+            },
+            {
+              "stable_id": "asr-003004",
+              "start_seconds": 9906.92,
+              "clock": "02:45:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003004"
+            },
+            {
+              "stable_id": "asr-002814",
+              "start_seconds": 9438.88,
+              "clock": "02:37:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002814"
+            },
+            {
+              "stable_id": "asr-002815",
+              "start_seconds": 9444.42,
+              "clock": "02:37:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002815"
+            },
+            {
+              "stable_id": "asr-002817",
+              "start_seconds": 9449.3,
+              "clock": "02:37:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002817"
+            },
+            {
+              "stable_id": "asr-002819",
+              "start_seconds": 9459.54,
+              "clock": "02:37:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002819"
+            },
+            {
+              "stable_id": "asr-002960",
+              "start_seconds": 9817.58,
+              "clock": "02:43:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002960"
+            }
+          ]
+        },
+        {
+          "label": "Lifelong learning implementation and PQF funding",
+          "text": "Senator Joel Villanueva asked how much TESDA had programmed for initial implementation of the Lifelong Learning Development Framework Act. He noted that the law directs initial implementation to use the existing budgets of concerned agencies. TESDA Secretary Jose Francisco \"Kiko\" Benitez said the implementing rules had only recently come out and the Philippine Qualifications Framework (PQF) National Coordinating Council master plan was not yet available. In the meantime, TESDA had used current budgets for activities such as creative industries, culture, and heritage; these would form part of the rollout, particularly for local government units (LGUs), under a proposal for the Department of the Interior and Local Government (DILG) to spearhead implementation. Benitez said TESDA had no identified line item labeled lifelong learning. Asked about 2026 and 2027 PQF allocations, he said the budget was at the Department of Education (DepEd), not TESDA, and identified no specific TESDA line item for PQF work; he said DepEd had not yet used its budget. Villanueva joked that they could transfer it, then clarified he was kidding after Benitez noted that DepEd chairs the PQF Council. Villanueva also described Benitez as chair of the PQF National Referencing Committee; Benitez clarified that his committee role was in referencing, not lifelong learning.",
+          "citations": [
+            {
+              "stable_id": "asr-003527",
+              "start_seconds": 11329.86,
+              "clock": "03:08:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003527"
+            },
+            {
+              "stable_id": "asr-003528",
+              "start_seconds": 11340.7,
+              "clock": "03:09:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003528"
+            },
+            {
+              "stable_id": "asr-003535",
+              "start_seconds": 11372.26,
+              "clock": "03:09:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003535"
+            },
+            {
+              "stable_id": "asr-003538",
+              "start_seconds": 11391.4,
+              "clock": "03:09:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003538"
+            },
+            {
+              "stable_id": "asr-003545",
+              "start_seconds": 11435.82,
+              "clock": "03:10:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003545"
+            },
+            {
+              "stable_id": "asr-003550",
+              "start_seconds": 11465.68,
+              "clock": "03:11:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003550"
+            },
+            {
+              "stable_id": "asr-003553",
+              "start_seconds": 11489.42,
+              "clock": "03:11:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003553"
+            },
+            {
+              "stable_id": "asr-003555",
+              "start_seconds": 11496.6,
+              "clock": "03:11:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003555"
+            },
+            {
+              "stable_id": "asr-003560",
+              "start_seconds": 11509.2,
+              "clock": "03:11:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003560"
+            },
+            {
+              "stable_id": "asr-003561",
+              "start_seconds": 11513.78,
+              "clock": "03:11:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003561"
+            },
+            {
+              "stable_id": "asr-003562",
+              "start_seconds": 11518.22,
+              "clock": "03:11:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003562"
+            },
+            {
+              "stable_id": "asr-003563",
+              "start_seconds": 11519.9,
+              "clock": "03:11:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003563"
+            },
+            {
+              "stable_id": "asr-003564",
+              "start_seconds": 11522.24,
+              "clock": "03:12:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003564"
+            }
+          ]
+        },
+        {
+          "label": "Program budgets and learner support differ by scholarship",
+          "text": "Chair Senator Joel Villanueva recalled that the Tulong Trabaho Fund (TTF) began with at least PHP 1 billion and stated its FY2026 amount as PHP 1.73 billion. For FY2026, the Private Education Student Financial Assistance (PESFA) allocation rose from PHP 200 million to PHP 201 million. TESDA Scholarship Management Office Director IV Rosalina S. Constantino gave an average PHP 24,500 per learner for PESFA and said the same basic per-capita rate applies to the Training for Work Scholarship Program (TWSP), TTSP and the Special Training for Employment Program (STEP); higher micro-credential and National Certificate (NC) Level 3/4 training costs PHP 35,000. Benitez said TWSP provides a PHP 160-per-day allowance and no insurance. Constantino said STEP’s PHP 24,500 unit cost includes the allowance, with an average PHP 7,000 toolkit on top; she said learners receive toolkits upon completing training even before passing assessment. For the Universal Access to Quality Tertiary Education Act (UAQTEA), she gave PHP 45,000 per learner per semester, including about PHP 27,000 for training, for diploma-level programs ending at Level 5. The discussion also identified a 2.13% dropout rate for those diploma programs.",
+          "citations": [
+            {
+              "stable_id": "asr-002001",
+              "start_seconds": 6211.84,
+              "clock": "01:43:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002001"
+            },
+            {
+              "stable_id": "asr-002002",
+              "start_seconds": 6213.72,
+              "clock": "01:43:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002002"
+            },
+            {
+              "stable_id": "asr-002021",
+              "start_seconds": 6255.5,
+              "clock": "01:44:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002021"
+            },
+            {
+              "stable_id": "asr-002026",
+              "start_seconds": 6268.68,
+              "clock": "01:44:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002026"
+            },
+            {
+              "stable_id": "asr-002034",
+              "start_seconds": 6289.6,
+              "clock": "01:44:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002034"
+            },
+            {
+              "stable_id": "asr-002042",
+              "start_seconds": 6307.68,
+              "clock": "01:45:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002042"
+            },
+            {
+              "stable_id": "asr-002158",
+              "start_seconds": 6675.96,
+              "clock": "01:51:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002158"
+            },
+            {
+              "stable_id": "asr-002159",
+              "start_seconds": 6696.4,
+              "clock": "01:51:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002159"
+            },
+            {
+              "stable_id": "asr-002160",
+              "start_seconds": 6705.3,
+              "clock": "01:51:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002160"
+            },
+            {
+              "stable_id": "asr-002161",
+              "start_seconds": 6721.78,
+              "clock": "01:52:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002161"
+            },
+            {
+              "stable_id": "asr-002162",
+              "start_seconds": 6724.3,
+              "clock": "01:52:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002162"
+            },
+            {
+              "stable_id": "asr-002163",
+              "start_seconds": 6732.2,
+              "clock": "01:52:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002163"
+            },
+            {
+              "stable_id": "asr-002164",
+              "start_seconds": 6732.62,
+              "clock": "01:52:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002164"
+            },
+            {
+              "stable_id": "asr-002166",
+              "start_seconds": 6737.18,
+              "clock": "01:52:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002166"
+            },
+            {
+              "stable_id": "asr-002168",
+              "start_seconds": 6739.2,
+              "clock": "01:52:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002168"
+            },
+            {
+              "stable_id": "asr-002170",
+              "start_seconds": 6750.44,
+              "clock": "01:52:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002170"
+            },
+            {
+              "stable_id": "asr-002177",
+              "start_seconds": 6781.42,
+              "clock": "01:53:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002177"
+            },
+            {
+              "stable_id": "asr-002199",
+              "start_seconds": 6886.48,
+              "clock": "01:54:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002199"
+            },
+            {
+              "stable_id": "asr-002200",
+              "start_seconds": 6895.68,
+              "clock": "01:54:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002200"
+            },
+            {
+              "stable_id": "asr-002206",
+              "start_seconds": 6938.22,
+              "clock": "01:55:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002206"
+            },
+            {
+              "stable_id": "asr-002209",
+              "start_seconds": 6945.28,
+              "clock": "01:55:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002209"
+            },
+            {
+              "stable_id": "asr-002211",
+              "start_seconds": 6950.66,
+              "clock": "01:55:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002211"
+            },
+            {
+              "stable_id": "asr-002213",
+              "start_seconds": 6957.82,
+              "clock": "01:55:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002213"
+            },
+            {
+              "stable_id": "asr-002215",
+              "start_seconds": 6964.66,
+              "clock": "01:56:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002215"
+            },
+            {
+              "stable_id": "asr-002220",
+              "start_seconds": 6984.12,
+              "clock": "01:56:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002220"
+            },
+            {
+              "stable_id": "asr-002224",
+              "start_seconds": 7004.12,
+              "clock": "01:56:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002224"
+            },
+            {
+              "stable_id": "asr-002038",
+              "start_seconds": 6300.0,
+              "clock": "01:45:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002038"
+            },
+            {
+              "stable_id": "asr-002033",
+              "start_seconds": 6285.34,
+              "clock": "01:44:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002033"
+            },
+            {
+              "stable_id": "asr-002169",
+              "start_seconds": 6746.46,
+              "clock": "01:52:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002169"
+            },
+            {
+              "stable_id": "asr-002196",
+              "start_seconds": 6876.14,
+              "clock": "01:54:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002196"
+            },
+            {
+              "stable_id": "asr-002210",
+              "start_seconds": 6948.26,
+              "clock": "01:55:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002210"
+            }
+          ]
+        },
+        {
+          "label": "EBET funding and separate-line proposal",
+          "text": "Chair Senator Joel Villanueva said the Tulong Trabaho Fund began at ₱1 billion and recalled seeing about ₱1.65 billion for FY2027. Benitez confirmed that current EBET demand was largely for employee upskilling and that TESDA was using the fund for BPO upskilling. Villanueva said the fund should not be EBET's only source and suggested examining a separate EBET line item; Benitez said the law allows TESDA to draw on both TWSP and TTSP. This was a suggestion for consideration, not an adopted motion or appropriation. Benitez also said TESDA's budget did not fund EBET integrators intended to help small and micro enterprises develop training plans.",
+          "citations": [
+            {
+              "stable_id": "asr-003442",
+              "start_seconds": 10800.0,
+              "clock": "03:00:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003442"
+            },
+            {
+              "stable_id": "asr-003443",
+              "start_seconds": 10820.54,
+              "clock": "03:00:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003443"
+            },
+            {
+              "stable_id": "asr-003446",
+              "start_seconds": 10850.54,
+              "clock": "03:00:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003446"
+            },
+            {
+              "stable_id": "asr-003451",
+              "start_seconds": 10891.22,
+              "clock": "03:01:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003451"
+            },
+            {
+              "stable_id": "asr-003452",
+              "start_seconds": 10899.2,
+              "clock": "03:01:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003452"
+            },
+            {
+              "stable_id": "asr-003483",
+              "start_seconds": 11157.86,
+              "clock": "03:05:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003483"
+            },
+            {
+              "stable_id": "asr-003484",
+              "start_seconds": 11161.86,
+              "clock": "03:06:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003484"
+            },
+            {
+              "stable_id": "asr-003444",
+              "start_seconds": 10835.44,
+              "clock": "03:00:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003444"
+            }
+          ]
+        },
+        {
+          "label": "Falling obligation rates prompted a requested catch-up plan",
+          "text": "Villanueva reported that TESDA’s obligation rate fell from 87.8% in 2023 to 84.4% in 2024 and 68% in 2025, distinguishing these from disbursement rates. He asked for a catch-up plan so the committee could defend proposed increases with evidence of implementation. Benitez said obligations are triggered after a Special Allotment Release Order (SARO) and only once training providers complete enrollment, which can delay obligations. He committed to submit catch-up plans and said a TESDA Skills Passport could help address information gaps about where and when programs are available.",
+          "citations": [
+            {
+              "stable_id": "asr-002230",
+              "start_seconds": 7082.48,
+              "clock": "01:58:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002230"
+            },
+            {
+              "stable_id": "asr-002231",
+              "start_seconds": 7093.54,
+              "clock": "01:58:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002231"
+            },
+            {
+              "stable_id": "asr-002232",
+              "start_seconds": 7107.94,
+              "clock": "01:58:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002232"
+            },
+            {
+              "stable_id": "asr-002233",
+              "start_seconds": 7120.88,
+              "clock": "01:58:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002233"
+            },
+            {
+              "stable_id": "asr-002234",
+              "start_seconds": 7135.6,
+              "clock": "01:58:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002234"
+            },
+            {
+              "stable_id": "asr-002236",
+              "start_seconds": 7150.88,
+              "clock": "01:59:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002236"
+            },
+            {
+              "stable_id": "asr-002237",
+              "start_seconds": 7168.32,
+              "clock": "01:59:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002237"
+            },
+            {
+              "stable_id": "asr-002239",
+              "start_seconds": 7180.86,
+              "clock": "01:59:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002239"
+            },
+            {
+              "stable_id": "asr-002240",
+              "start_seconds": 7189.58,
+              "clock": "01:59:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002240"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-agency-presentation",
+      "label": "Agency presentation",
+      "items": [
+        {
+          "label": "TVET ecosystem, workforce demand, and training capacity",
+          "text": "Benitez framed technical and vocational education and training (TVET) as a tool for workforce preparation amid changing skills needs, technology, and artificial intelligence (AI). TESDA delivered through 4,715 private training institutions, 178 TESDA training institutions, and about 271 providers in public LUCs, SUCs, and LGUs; he said the private sector represented more than 90% of provision. He described tourism as the largest area of scholarship demand, followed by manufacturing, construction, information technology, business process management, and agriculture. With a working-age population he estimated at 74 million to 75 million, the FY2026 budget supported about 650,000 scholarship slots, while the system could absorb up to 1.5 million learners in face-to-face training. He confirmed the 1.5 million annual absorption estimate after Villanueva asked about the slide, and agreed that it represented about 2% of the working-age population. TESDA said it was balancing training capacity between areas with jobs and higher-poverty areas, redirecting scholarships toward priority skills, and expanding online and blended delivery; its online bookkeeping course for Sangguniang Kabataan had about 40,000 completers and was delivered without added cost, with 38,600 completions reported through self-paced MOOCs. It was exploring barangay-level resilience and digital-skills partnerships and pilots in Nueva Vizcaya, Bohol, and Dinagat Islands, prioritizing lower-income municipalities.",
+          "citations": [
+            {
+              "stable_id": "asr-000104",
+              "start_seconds": 1000.02,
+              "clock": "00:16:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000104"
+            },
+            {
+              "stable_id": "asr-000108",
+              "start_seconds": 1008.06,
+              "clock": "00:16:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000108"
+            },
+            {
+              "stable_id": "asr-000119",
+              "start_seconds": 1029.38,
+              "clock": "00:17:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000119"
+            },
+            {
+              "stable_id": "asr-000148",
+              "start_seconds": 1087.52,
+              "clock": "00:18:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000148"
+            },
+            {
+              "stable_id": "asr-000150",
+              "start_seconds": 1092.08,
+              "clock": "00:18:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000150"
+            },
+            {
+              "stable_id": "asr-000156",
+              "start_seconds": 1103.08,
+              "clock": "00:18:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000156"
+            },
+            {
+              "stable_id": "asr-000159",
+              "start_seconds": 1110.08,
+              "clock": "00:18:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000159"
+            },
+            {
+              "stable_id": "asr-000192",
+              "start_seconds": 1179.3,
+              "clock": "00:19:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000192"
+            },
+            {
+              "stable_id": "asr-000193",
+              "start_seconds": 1181.4,
+              "clock": "00:19:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000193"
+            },
+            {
+              "stable_id": "asr-000197",
+              "start_seconds": 1189.36,
+              "clock": "00:19:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000197"
+            },
+            {
+              "stable_id": "asr-000204",
+              "start_seconds": 1204.72,
+              "clock": "00:20:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000204"
+            },
+            {
+              "stable_id": "asr-000207",
+              "start_seconds": 1211.04,
+              "clock": "00:20:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000207"
+            },
+            {
+              "stable_id": "asr-000208",
+              "start_seconds": 1213.1399999999999,
+              "clock": "00:20:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000208"
+            },
+            {
+              "stable_id": "asr-000240",
+              "start_seconds": 1276.06,
+              "clock": "00:21:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000240"
+            },
+            {
+              "stable_id": "asr-000241",
+              "start_seconds": 1278.5,
+              "clock": "00:21:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000241"
+            },
+            {
+              "stable_id": "asr-000242",
+              "start_seconds": 1279.42,
+              "clock": "00:21:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000242"
+            },
+            {
+              "stable_id": "asr-000243",
+              "start_seconds": 1280.66,
+              "clock": "00:21:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000243"
+            },
+            {
+              "stable_id": "asr-000248",
+              "start_seconds": 1284.62,
+              "clock": "00:21:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000248"
+            },
+            {
+              "stable_id": "asr-000253",
+              "start_seconds": 1293.16,
+              "clock": "00:21:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000253"
+            },
+            {
+              "stable_id": "asr-000254",
+              "start_seconds": 1295.28,
+              "clock": "00:21:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000254"
+            },
+            {
+              "stable_id": "asr-000267",
+              "start_seconds": 1333.9,
+              "clock": "00:22:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000267"
+            },
+            {
+              "stable_id": "asr-000273",
+              "start_seconds": 1346.66,
+              "clock": "00:22:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000273"
+            },
+            {
+              "stable_id": "asr-000279",
+              "start_seconds": 1363.66,
+              "clock": "00:22:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000279"
+            },
+            {
+              "stable_id": "asr-000281",
+              "start_seconds": 1366.66,
+              "clock": "00:22:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000281"
+            },
+            {
+              "stable_id": "asr-000284",
+              "start_seconds": 1376.66,
+              "clock": "00:22:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000284"
+            },
+            {
+              "stable_id": "asr-000288",
+              "start_seconds": 1387.66,
+              "clock": "00:23:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000288"
+            },
+            {
+              "stable_id": "asr-000290",
+              "start_seconds": 1391.66,
+              "clock": "00:23:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000290"
+            },
+            {
+              "stable_id": "asr-000149",
+              "start_seconds": 1090.24,
+              "clock": "00:18:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000149"
+            },
+            {
+              "stable_id": "asr-000151",
+              "start_seconds": 1093.66,
+              "clock": "00:18:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000151"
+            },
+            {
+              "stable_id": "asr-000155",
+              "start_seconds": 1101.32,
+              "clock": "00:18:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000155"
+            },
+            {
+              "stable_id": "asr-000157",
+              "start_seconds": 1105.3,
+              "clock": "00:18:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000157"
+            },
+            {
+              "stable_id": "asr-000158",
+              "start_seconds": 1107.64,
+              "clock": "00:18:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000158"
+            },
+            {
+              "stable_id": "asr-000191",
+              "start_seconds": 1177.44,
+              "clock": "00:19:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000191"
+            },
+            {
+              "stable_id": "asr-000194",
+              "start_seconds": 1183.78,
+              "clock": "00:19:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000194"
+            },
+            {
+              "stable_id": "asr-000195",
+              "start_seconds": 1185.58,
+              "clock": "00:19:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000195"
+            },
+            {
+              "stable_id": "asr-000196",
+              "start_seconds": 1187.58,
+              "clock": "00:19:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000196"
+            },
+            {
+              "stable_id": "asr-000198",
+              "start_seconds": 1191.6,
+              "clock": "00:19:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000198"
+            },
+            {
+              "stable_id": "asr-000199",
+              "start_seconds": 1193.58,
+              "clock": "00:19:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000199"
+            },
+            {
+              "stable_id": "asr-000200",
+              "start_seconds": 1195.36,
+              "clock": "00:19:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000200"
+            },
+            {
+              "stable_id": "asr-000201",
+              "start_seconds": 1196.76,
+              "clock": "00:19:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000201"
+            },
+            {
+              "stable_id": "asr-000206",
+              "start_seconds": 1208.92,
+              "clock": "00:20:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000206"
+            },
+            {
+              "stable_id": "asr-000244",
+              "start_seconds": 1281.24,
+              "clock": "00:21:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000244"
+            },
+            {
+              "stable_id": "asr-000245",
+              "start_seconds": 1282.7,
+              "clock": "00:21:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000245"
+            },
+            {
+              "stable_id": "asr-000268",
+              "start_seconds": 1336.74,
+              "clock": "00:22:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000268"
+            },
+            {
+              "stable_id": "asr-000269",
+              "start_seconds": 1338.16,
+              "clock": "00:22:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000269"
+            },
+            {
+              "stable_id": "asr-000270",
+              "start_seconds": 1340.08,
+              "clock": "00:22:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000270"
+            }
+          ]
+        },
+        {
+          "label": "Digital access, credentials, and qualification pathways",
+          "text": "TESDA said its skills passport had registered 354,000 users and linked scholarship searches, digital certification records, job listings, and career aptitude tools. A recently approved World Bank-financed BEST project was intended to provide 150,000 e-vouchers for national certificate courses through the app. TESDA reported 880 micro-credential courses registered since March 2025, 133 in AI and digital skills, and congressional funding for an AI course builder; with Khan Academy, it was also developing remedial numeracy and literacy modules. It reported 1,412 diploma programs and a 120% increase in level 3-to-level 4 courses since 2022; 648 diploma programs had been reviewed for alignment with level 5 descriptors. Its AI training plans included 34,766 institution-based beneficiaries and 10,000 business-process-outsourcing (BPO) workers in enterprise training, about 44,000 combined. The presentation said the Philippine Semiconductor Electronics Industry Roadmap targets $70 billion in semiconductor revenues and $40 billion in electronics revenues by 2030, and described the related talent pipeline, a level 5 diploma ladder piloted with the Commission on Higher Education (CHED) and 18 higher education institutions in Region 7, and programs with local governments for daycare workers and waste-management training.",
+          "citations": [
+            {
+              "stable_id": "asr-000295",
+              "start_seconds": 1402.66,
+              "clock": "00:23:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000295"
+            },
+            {
+              "stable_id": "asr-000323",
+              "start_seconds": 1474.6599999999999,
+              "clock": "00:24:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000323"
+            },
+            {
+              "stable_id": "asr-000324",
+              "start_seconds": 1478.6599999999999,
+              "clock": "00:24:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000324"
+            },
+            {
+              "stable_id": "asr-000325",
+              "start_seconds": 1482.6599999999999,
+              "clock": "00:24:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000325"
+            },
+            {
+              "stable_id": "asr-000326",
+              "start_seconds": 1484.6599999999999,
+              "clock": "00:24:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000326"
+            },
+            {
+              "stable_id": "asr-000336",
+              "start_seconds": 1510.6599999999999,
+              "clock": "00:25:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000336"
+            },
+            {
+              "stable_id": "asr-000337",
+              "start_seconds": 1512.6599999999999,
+              "clock": "00:25:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000337"
+            },
+            {
+              "stable_id": "asr-000338",
+              "start_seconds": 1515.6599999999999,
+              "clock": "00:25:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000338"
+            },
+            {
+              "stable_id": "asr-000345",
+              "start_seconds": 1530.6599999999999,
+              "clock": "00:25:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000345"
+            },
+            {
+              "stable_id": "asr-000346",
+              "start_seconds": 1533.6599999999999,
+              "clock": "00:25:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000346"
+            },
+            {
+              "stable_id": "asr-000347",
+              "start_seconds": 1535.6599999999999,
+              "clock": "00:25:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000347"
+            },
+            {
+              "stable_id": "asr-000348",
+              "start_seconds": 1537.6599999999999,
+              "clock": "00:25:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000348"
+            },
+            {
+              "stable_id": "asr-000365",
+              "start_seconds": 1588.6599999999999,
+              "clock": "00:26:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000365"
+            },
+            {
+              "stable_id": "asr-000366",
+              "start_seconds": 1592.6599999999999,
+              "clock": "00:26:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000366"
+            },
+            {
+              "stable_id": "asr-000367",
+              "start_seconds": 1595.6599999999999,
+              "clock": "00:26:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000367"
+            },
+            {
+              "stable_id": "asr-000376",
+              "start_seconds": 1620.6599999999999,
+              "clock": "00:27:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000376"
+            },
+            {
+              "stable_id": "asr-000377",
+              "start_seconds": 1626.6599999999999,
+              "clock": "00:27:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000377"
+            },
+            {
+              "stable_id": "asr-000378",
+              "start_seconds": 1629.6599999999999,
+              "clock": "00:27:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000378"
+            },
+            {
+              "stable_id": "asr-000379",
+              "start_seconds": 1632.6599999999999,
+              "clock": "00:27:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000379"
+            },
+            {
+              "stable_id": "asr-000380",
+              "start_seconds": 1635.6599999999999,
+              "clock": "00:27:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000380"
+            },
+            {
+              "stable_id": "asr-000392",
+              "start_seconds": 1666.6599999999999,
+              "clock": "00:27:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000392"
+            },
+            {
+              "stable_id": "asr-000393",
+              "start_seconds": 1669.6599999999999,
+              "clock": "00:27:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000393"
+            },
+            {
+              "stable_id": "asr-000403",
+              "start_seconds": 1692.6599999999999,
+              "clock": "00:28:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000403"
+            },
+            {
+              "stable_id": "asr-000404",
+              "start_seconds": 1695.6599999999999,
+              "clock": "00:28:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000404"
+            },
+            {
+              "stable_id": "asr-000405",
+              "start_seconds": 1698.6599999999999,
+              "clock": "00:28:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000405"
+            },
+            {
+              "stable_id": "asr-000406",
+              "start_seconds": 1702.6599999999999,
+              "clock": "00:28:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000406"
+            },
+            {
+              "stable_id": "asr-000407",
+              "start_seconds": 1705.6599999999999,
+              "clock": "00:28:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000407"
+            },
+            {
+              "stable_id": "asr-000408",
+              "start_seconds": 1707.6599999999999,
+              "clock": "00:28:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000408"
+            },
+            {
+              "stable_id": "asr-000423",
+              "start_seconds": 1742.6599999999999,
+              "clock": "00:29:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000423"
+            },
+            {
+              "stable_id": "asr-000424",
+              "start_seconds": 1746.6599999999999,
+              "clock": "00:29:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000424"
+            },
+            {
+              "stable_id": "asr-000428",
+              "start_seconds": 1760.6599999999999,
+              "clock": "00:29:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000428"
+            },
+            {
+              "stable_id": "asr-000429",
+              "start_seconds": 1763.6599999999999,
+              "clock": "00:29:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000429"
+            },
+            {
+              "stable_id": "asr-000430",
+              "start_seconds": 1765.6599999999999,
+              "clock": "00:29:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000430"
+            },
+            {
+              "stable_id": "asr-000435",
+              "start_seconds": 1778.6599999999999,
+              "clock": "00:29:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000435"
+            },
+            {
+              "stable_id": "asr-000436",
+              "start_seconds": 1782.6599999999999,
+              "clock": "00:29:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000436"
+            },
+            {
+              "stable_id": "asr-000445",
+              "start_seconds": 1800.0,
+              "clock": "00:30:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000445"
+            },
+            {
+              "stable_id": "asr-000448",
+              "start_seconds": 1843.64,
+              "clock": "00:30:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000448"
+            },
+            {
+              "stable_id": "asr-000449",
+              "start_seconds": 1855.18,
+              "clock": "00:30:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000449"
+            },
+            {
+              "stable_id": "asr-000450",
+              "start_seconds": 1860.0,
+              "clock": "00:31:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000450"
+            },
+            {
+              "stable_id": "asr-000451",
+              "start_seconds": 1866.6,
+              "clock": "00:31:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000451"
+            },
+            {
+              "stable_id": "asr-000452",
+              "start_seconds": 1872.3,
+              "clock": "00:31:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000452"
+            },
+            {
+              "stable_id": "asr-000294",
+              "start_seconds": 1400.66,
+              "clock": "00:23:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000294"
+            },
+            {
+              "stable_id": "asr-000434",
+              "start_seconds": 1775.6599999999999,
+              "clock": "00:29:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000434"
+            }
+          ]
+        },
+        {
+          "label": "Employment results, online learning, and overseas assessments",
+          "text": "The secretary reported an 81.64% TVET graduate employment rate in 2025 based on TESDA's survey methods and an almost 90% rate for enterprise-based education and training (E-BET) graduates. When Villanueva asked whether E-BET clients were unemployed when they entered, Benitez clarified that the programs included upskilling, apprenticeship, and general E-BET; some participants were already employed and others were not, and he offered a breakdown. The TESDA online program had 1.6 million learners enrolled across 225 courses and recorded 91,905 enrollments in AI-related courses; assessments remained in-person, requiring a walk-in visit. TESDA described regional innovation centers under its project with the Asian Development Bank and free assessment and certification for overseas Filipino workers (OFWs), with current partners in Saudi Arabia, the United Arab Emirates (UAE), Singapore, Hong Kong, Malaysia, Qatar, Kuwait, and South Korea, and additional sites under consideration. It also reported assessing 427,000 senior high school learners and training 6,143 teachers as assessors since 2024; FY2027 plans included training 4,888 teachers in national certificate courses and 23,845 teachers in training methodology for TechPro. TESDA and CHED were developing credit-transfer ladders across several programs, with additional fields under approval or guidelines development.",
+          "citations": [
+            {
+              "stable_id": "asr-000456",
+              "start_seconds": 1890.0,
+              "clock": "00:31:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000456"
+            },
+            {
+              "stable_id": "asr-000457",
+              "start_seconds": 1898.0,
+              "clock": "00:31:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000457"
+            },
+            {
+              "stable_id": "asr-000462",
+              "start_seconds": 1943.22,
+              "clock": "00:32:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000462"
+            },
+            {
+              "stable_id": "asr-000463",
+              "start_seconds": 1950.0,
+              "clock": "00:32:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000463"
+            },
+            {
+              "stable_id": "asr-000466",
+              "start_seconds": 1955.6,
+              "clock": "00:32:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000466"
+            },
+            {
+              "stable_id": "asr-000467",
+              "start_seconds": 1966.62,
+              "clock": "00:32:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000467"
+            },
+            {
+              "stable_id": "asr-000476",
+              "start_seconds": 1996.2,
+              "clock": "00:33:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000476"
+            },
+            {
+              "stable_id": "asr-000479",
+              "start_seconds": 2016.92,
+              "clock": "00:33:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000479"
+            },
+            {
+              "stable_id": "asr-000482",
+              "start_seconds": 2053.88,
+              "clock": "00:34:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000482"
+            },
+            {
+              "stable_id": "asr-000483",
+              "start_seconds": 2055.96,
+              "clock": "00:34:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000483"
+            },
+            {
+              "stable_id": "asr-000484",
+              "start_seconds": 2056.6,
+              "clock": "00:34:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000484"
+            },
+            {
+              "stable_id": "asr-000508",
+              "start_seconds": 2121.32,
+              "clock": "00:35:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000508"
+            },
+            {
+              "stable_id": "asr-000509",
+              "start_seconds": 2129.56,
+              "clock": "00:35:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000509"
+            },
+            {
+              "stable_id": "asr-000510",
+              "start_seconds": 2137.04,
+              "clock": "00:35:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000510"
+            },
+            {
+              "stable_id": "asr-000511",
+              "start_seconds": 2145.2,
+              "clock": "00:35:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000511"
+            },
+            {
+              "stable_id": "asr-000516",
+              "start_seconds": 2173.94,
+              "clock": "00:36:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000516"
+            },
+            {
+              "stable_id": "asr-000517",
+              "start_seconds": 2193.6,
+              "clock": "00:36:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000517"
+            },
+            {
+              "stable_id": "asr-000518",
+              "start_seconds": 2203.94,
+              "clock": "00:36:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000518"
+            },
+            {
+              "stable_id": "asr-000520",
+              "start_seconds": 2233.52,
+              "clock": "00:37:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000520"
+            },
+            {
+              "stable_id": "asr-000521",
+              "start_seconds": 2242.22,
+              "clock": "00:37:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000521"
+            },
+            {
+              "stable_id": "asr-000524",
+              "start_seconds": 2274.62,
+              "clock": "00:37:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000524"
+            },
+            {
+              "stable_id": "asr-000455",
+              "start_seconds": 1888.0,
+              "clock": "00:31:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000455"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-and-hearing-priorities",
+      "label": "Opening and hearing priorities",
+      "items": [
+        {
+          "label": "Opening remarks and attendance",
+          "text": "Senator Joel Villanueva called the FY2027 TESDA budget briefing to order, welcomed TESDA officials and Commission on Audit (COA) representatives, and recalled his past leadership at TESDA. He described the agency as an important part of the country's education system alongside the Department of Education (DepEd) and the Commission on Higher Education (CHED).",
+          "citations": [
+            {
+              "stable_id": "asr-000024",
+              "start_seconds": 600.0,
+              "clock": "00:10:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000024"
+            },
+            {
+              "stable_id": "asr-000025",
+              "start_seconds": 616.92,
+              "clock": "00:10:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000025"
+            },
+            {
+              "stable_id": "asr-000027",
+              "start_seconds": 646.92,
+              "clock": "00:10:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000027"
+            },
+            {
+              "stable_id": "asr-000032",
+              "start_seconds": 706.92,
+              "clock": "00:11:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000032"
+            }
+          ]
+        },
+        {
+          "label": "TESDA's purpose and questions for the hearing",
+          "text": "Villanueva linked TESDA's skills mission to access to decent work and better livelihoods, and said scholarships should form a pathway from enrollment and quality training through assessment and certification to employment. He asked whether scholarships reach poor and underserved communities, whether funded courses meet industry needs, whether scholars complete assessment and certification, and whether their jobs match what they learned. He also named higher qualifications, micro-credentials, digital and AI skills, enterprise-based training, and continuing learning as priorities. Villanueva said TESDA was seeking additional funding for more than 162,000 beneficiaries and expressed readiness to support resources, while emphasizing implementation capacity, transparency, timely fund use, and measurable employment outcomes.",
+          "citations": [
+            {
+              "stable_id": "asr-000048",
+              "start_seconds": 818.3,
+              "clock": "00:13:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000048"
+            },
+            {
+              "stable_id": "asr-000049",
+              "start_seconds": 823.02,
+              "clock": "00:13:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000049"
+            },
+            {
+              "stable_id": "asr-000050",
+              "start_seconds": 842.98,
+              "clock": "00:14:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000050"
+            },
+            {
+              "stable_id": "asr-000051",
+              "start_seconds": 859.62,
+              "clock": "00:14:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000051"
+            },
+            {
+              "stable_id": "asr-000052",
+              "start_seconds": 872.12,
+              "clock": "00:14:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000052"
+            },
+            {
+              "stable_id": "asr-000053",
+              "start_seconds": 885.72,
+              "clock": "00:14:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000053"
+            }
+          ]
+        },
+        {
+          "label": "Transition to the agency presentation",
+          "text": "Villanueva invited Senator Erwin Tulfo to give opening remarks. Tulfo declined, saying he was interested in joining the hearing and had many questions for TESDA that he wanted answered. Villanueva welcomed his participation, then yielded the floor to TESDA Secretary Jose Francisco “Kiko” Benitez to present the proposed FY2027 budget, with questions to follow.",
+          "citations": [
+            {
+              "stable_id": "asr-000064",
+              "start_seconds": 918.14,
+              "clock": "00:15:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000064"
+            },
+            {
+              "stable_id": "asr-000073",
+              "start_seconds": 936.1,
+              "clock": "00:15:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000073"
+            },
+            {
+              "stable_id": "asr-000083",
+              "start_seconds": 955.92,
+              "clock": "00:15:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000083"
+            },
+            {
+              "stable_id": "asr-000088",
+              "start_seconds": 966.12,
+              "clock": "00:16:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000088"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-erwin-tulfo",
+      "label": "Senator Erwin Tulfo",
+      "items": [
+        {
+          "label": "Scholarship costs and skills passport review",
+          "text": "Tulfo questioned why trainees might still pay at accredited private training centers and described a constituent seeking caregiving training for overseas work who said she had been charged PHP 19,000; Tulfo said he paid her. Secretary Benitez said training should be free at a TESDA training institution or public institution and said he would verify the named Emperor International Training and Assessment Center. Benitez explained that the TESDA Skills Passport offers a digital resume and certification record, helps learners find registered schools and assessment centers, links to free online training, and connects learners to job listings; he stressed that hands-on skills still require practice. Tulfo questioned whether these functions duplicated the eGov app and existing job-listing services and asked COA to review whether the passport added expense. He also urged TESDA to treat AI upskilling as an opportunity and challenge, while warning against students relying on inaccurate AI answers. The provider allegation and passport review request remained pending.",
+          "citations": [
+            {
+              "stable_id": "asr-001006",
+              "start_seconds": 3623.94,
+              "clock": "01:00:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001006"
+            },
+            {
+              "stable_id": "asr-001019",
+              "start_seconds": 3648.3,
+              "clock": "01:00:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001019"
+            },
+            {
+              "stable_id": "asr-001027",
+              "start_seconds": 3664.46,
+              "clock": "01:01:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001027"
+            },
+            {
+              "stable_id": "asr-001028",
+              "start_seconds": 3666.3,
+              "clock": "01:01:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001028"
+            },
+            {
+              "stable_id": "asr-001029",
+              "start_seconds": 3668.26,
+              "clock": "01:01:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001029"
+            },
+            {
+              "stable_id": "asr-001052",
+              "start_seconds": 3713.8,
+              "clock": "01:01:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001052"
+            },
+            {
+              "stable_id": "asr-001058",
+              "start_seconds": 3725.22,
+              "clock": "01:02:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001058"
+            },
+            {
+              "stable_id": "asr-001087",
+              "start_seconds": 3783.7,
+              "clock": "01:03:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001087"
+            },
+            {
+              "stable_id": "asr-001104",
+              "start_seconds": 3817.92,
+              "clock": "01:03:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001104"
+            },
+            {
+              "stable_id": "asr-001137",
+              "start_seconds": 3883.88,
+              "clock": "01:04:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001137"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-juan-miguel-migz-f-zubiri",
+      "label": "Senator Juan Miguel \"Migz\" F. Zubiri",
+      "items": [
+        {
+          "label": "Bukidnon's TESDA centers need a durable local plan",
+          "text": "Senator Juan Miguel “Migz” F. Zubiri said his initiative helped establish 18 Technical Education and Skills Development Authority (TESDA) training centers in Bukidnon, with centers across 20 municipalities and two cities, to address poverty through education and skills training. He raised reports that some buildings were being used for storage or other purposes and asked Secretary Jose Francisco “Kiko” Benitez for a province-wide plan so the facilities would remain active TESDA programs. Benitez said TESDA was starting a train local process to bring workforce planning and budget needs to the provincial level. He said scholarship funds meet only about 35–40% of annual seat demand, and committed to respond to audit recommendations by addressing limited provincial staffing, optimization and digitization of accounting, while expanding creative-industry and community-based initiatives to use the centers.",
+          "citations": [
+            {
+              "stable_id": "asr-001324",
+              "start_seconds": 4263.56,
+              "clock": "01:11:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001324"
+            },
+            {
+              "stable_id": "asr-001325",
+              "start_seconds": 4265.4,
+              "clock": "01:11:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001325"
+            },
+            {
+              "stable_id": "asr-001330",
+              "start_seconds": 4275.38,
+              "clock": "01:11:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001330"
+            },
+            {
+              "stable_id": "asr-001331",
+              "start_seconds": 4277.38,
+              "clock": "01:11:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001331"
+            },
+            {
+              "stable_id": "asr-001353",
+              "start_seconds": 4322.64,
+              "clock": "01:12:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001353"
+            },
+            {
+              "stable_id": "asr-001379",
+              "start_seconds": 4372.82,
+              "clock": "01:12:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001379"
+            },
+            {
+              "stable_id": "asr-001404",
+              "start_seconds": 4423.18,
+              "clock": "01:13:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001404"
+            },
+            {
+              "stable_id": "asr-001417",
+              "start_seconds": 4449.42,
+              "clock": "01:14:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001417"
+            },
+            {
+              "stable_id": "asr-001435",
+              "start_seconds": 4485.08,
+              "clock": "01:14:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001435"
+            },
+            {
+              "stable_id": "asr-001443",
+              "start_seconds": 4500.0,
+              "clock": "01:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001443"
+            },
+            {
+              "stable_id": "asr-001446",
+              "start_seconds": 4521.96,
+              "clock": "01:15:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001446"
+            },
+            {
+              "stable_id": "asr-001450",
+              "start_seconds": 4554.16,
+              "clock": "01:15:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001450"
+            },
+            {
+              "stable_id": "asr-001454",
+              "start_seconds": 4577.26,
+              "clock": "01:16:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001454"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-christopher-lawrence-t-go",
+      "label": "Senator Christopher Lawrence T. Go",
+      "items": [
+        {
+          "label": "Training and public information can connect more Filipinos with work",
+          "text": "Senator Christopher Lawrence T. Go described meeting Filipino overseas workers who said they had completed TESDA training, and credited the Technical Education and Skills Development Authority (TESDA) with helping produce skilled workers. He argued that technical and vocational education and training can equip workers for changing labor markets across fields including health care, agriculture, construction, hospitality and information technology. Go said many people may not know where to seek TESDA assistance or find work, and urged a stronger information campaign so people without a college path can learn about skills training and national certification as routes to employment and livelihood. He cited the President’s State of the Nation Address in support of TVET and praised TESDA Secretary Jose Francisco \"Kiko\" Benitez’s leadership and the agency staff.",
+          "citations": [
+            {
+              "stable_id": "asr-001724",
+              "start_seconds": 5402.18,
+              "clock": "01:30:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001724"
+            },
+            {
+              "stable_id": "asr-001734",
+              "start_seconds": 5432.68,
+              "clock": "01:30:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001734"
+            },
+            {
+              "stable_id": "asr-001736",
+              "start_seconds": 5437.94,
+              "clock": "01:30:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001736"
+            },
+            {
+              "stable_id": "asr-001743",
+              "start_seconds": 5468.18,
+              "clock": "01:31:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001743"
+            },
+            {
+              "stable_id": "asr-001794",
+              "start_seconds": 5631.66,
+              "clock": "01:33:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001794"
+            },
+            {
+              "stable_id": "asr-001797",
+              "start_seconds": 5643.68,
+              "clock": "01:34:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001797"
+            },
+            {
+              "stable_id": "asr-001807",
+              "start_seconds": 5689.94,
+              "clock": "01:34:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001807"
+            },
+            {
+              "stable_id": "asr-001817",
+              "start_seconds": 5733.84,
+              "clock": "01:35:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001817"
+            },
+            {
+              "stable_id": "asr-001827",
+              "start_seconds": 5786.52,
+              "clock": "01:36:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-001827"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joel-villanueva",
+      "label": "Senator Joel Villanueva",
+      "items": [
+        {
+          "label": "Local training delivery needs durable funding, governance and staffing",
+          "text": "Villanueva said devolution of TESDA training institutions had been difficult and that only two were devolved during his tenure because LGUs were unwilling to take them on. He raised province-specific amalgamation or polytechnic models and asked TESDA to state its position. Benitez said TESDA was studying which model fits each province, developing a train-local process, and considering delivery through state universities and colleges (SUCs) and local universities and colleges (LUCs). He also pointed to proposed LUC charter changes and regional training innovation centers. Villanueva said the Senate had 50–60 bills proposing new TESDA centers and urged clear funding, long-term sustainability and enough trainers and assessors before approving them. Benitez cited staffing shortages, non-regularized part-time trainers and a Department of Budget and Management (DBM) review of TESDA’s right-sizing and optimization proposal as constraints on delivery and disbursement. Second Congressional Commission on Education (EDCOM 2) Executive Director Karol Mark Yee said recognized LUCs had grown from 20 about a decade earlier to 113, while some LGUs withdraw operating support and leave institutions dependent on national funding. He said an LUC governance bill could clarify local and national funding responsibilities. Villanueva committed to prepare a committee report and try to sponsor the bill before the break. He also described a Skills Passport that would let employers check trainees’ credentials and competencies.",
+          "citations": [
+            {
+              "stable_id": "asr-002259",
+              "start_seconds": 7321.44,
+              "clock": "02:02:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002259"
+            },
+            {
+              "stable_id": "asr-002264",
+              "start_seconds": 7338.56,
+              "clock": "02:02:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002264"
+            },
+            {
+              "stable_id": "asr-002266",
+              "start_seconds": 7366.66,
+              "clock": "02:02:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002266"
+            },
+            {
+              "stable_id": "asr-002278",
+              "start_seconds": 7426.84,
+              "clock": "02:03:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002278"
+            },
+            {
+              "stable_id": "asr-002283",
+              "start_seconds": 7453.42,
+              "clock": "02:04:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002283"
+            },
+            {
+              "stable_id": "asr-002286",
+              "start_seconds": 7472.52,
+              "clock": "02:04:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002286"
+            },
+            {
+              "stable_id": "asr-002291",
+              "start_seconds": 7509.36,
+              "clock": "02:05:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002291"
+            },
+            {
+              "stable_id": "asr-002297",
+              "start_seconds": 7558.28,
+              "clock": "02:05:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002297"
+            },
+            {
+              "stable_id": "asr-002299",
+              "start_seconds": 7569.04,
+              "clock": "02:06:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002299"
+            },
+            {
+              "stable_id": "asr-002302",
+              "start_seconds": 7587.54,
+              "clock": "02:06:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002302"
+            },
+            {
+              "stable_id": "asr-002306",
+              "start_seconds": 7617.54,
+              "clock": "02:06:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002306"
+            },
+            {
+              "stable_id": "asr-002320",
+              "start_seconds": 7678.32,
+              "clock": "02:07:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002320"
+            },
+            {
+              "stable_id": "asr-002322",
+              "start_seconds": 7688.06,
+              "clock": "02:08:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002322"
+            },
+            {
+              "stable_id": "asr-002340",
+              "start_seconds": 7754.48,
+              "clock": "02:09:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002340"
+            },
+            {
+              "stable_id": "asr-002342",
+              "start_seconds": 7759.72,
+              "clock": "02:09:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002342"
+            },
+            {
+              "stable_id": "asr-002352",
+              "start_seconds": 7796.9400000000005,
+              "clock": "02:09:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002352"
+            },
+            {
+              "stable_id": "asr-002353",
+              "start_seconds": 7799.58,
+              "clock": "02:09:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002353"
+            },
+            {
+              "stable_id": "asr-002358",
+              "start_seconds": 7813.38,
+              "clock": "02:10:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002358"
+            },
+            {
+              "stable_id": "asr-002370",
+              "start_seconds": 7851.42,
+              "clock": "02:10:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002370"
+            },
+            {
+              "stable_id": "asr-002377",
+              "start_seconds": 7863.62,
+              "clock": "02:11:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002377"
+            },
+            {
+              "stable_id": "asr-002384",
+              "start_seconds": 7886.12,
+              "clock": "02:11:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002384"
+            },
+            {
+              "stable_id": "asr-002387",
+              "start_seconds": 7893.12,
+              "clock": "02:11:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002387"
+            },
+            {
+              "stable_id": "asr-002390",
+              "start_seconds": 7903.12,
+              "clock": "02:11:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002390"
+            },
+            {
+              "stable_id": "asr-002243",
+              "start_seconds": 7211.76,
+              "clock": "02:00:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002243"
+            },
+            {
+              "stable_id": "asr-002244",
+              "start_seconds": 7218.56,
+              "clock": "02:00:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002244"
+            }
+          ]
+        },
+        {
+          "label": "Scholarship targeting reforms will rely on linked digital records",
+          "text": "Villanueva cited an EDCOM 2 recommendation to overhaul TESDA scholarships because of weak targeting, political influence, fragmented information systems and recurring financial-management problems. He asked for a comprehensive, time-bound reform covering allocation, eligibility criteria, beneficiary safeguards and employment reporting, prompted by a story of an already-employed person recruited as a scholar. Benitez said the Skills Passport was already on the eGov platform, with verification work involving the Philippine Statistics Authority (PSA) and Department of Information and Communications Technology (DICT). TESDA was also working with the Department of Social Welfare and Development (DSWD) on a common social registry and Community-Based Monitoring System (CBMS) data to improve beneficiary targeting. Benitez said the present process relies on self-identification and barangay certification to establish indigency or NEET status, and that political influence remained unresolved. He hoped the registry would be ready by December 2026 and the Skills Passport verification could be rolled out by mid-2027.",
+          "citations": [
+            {
+              "stable_id": "asr-002395",
+              "start_seconds": 7919.96,
+              "clock": "02:11:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002395"
+            },
+            {
+              "stable_id": "asr-002416",
+              "start_seconds": 7998.88,
+              "clock": "02:13:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002416"
+            },
+            {
+              "stable_id": "asr-002418",
+              "start_seconds": 8008.12,
+              "clock": "02:13:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002418"
+            },
+            {
+              "stable_id": "asr-002421",
+              "start_seconds": 8021.78,
+              "clock": "02:13:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002421"
+            },
+            {
+              "stable_id": "asr-002427",
+              "start_seconds": 8055.06,
+              "clock": "02:14:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002427"
+            },
+            {
+              "stable_id": "asr-002437",
+              "start_seconds": 8100.0,
+              "clock": "02:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002437"
+            },
+            {
+              "stable_id": "asr-002440",
+              "start_seconds": 8125.68,
+              "clock": "02:15:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002440"
+            },
+            {
+              "stable_id": "asr-002442",
+              "start_seconds": 8146.24,
+              "clock": "02:15:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002442"
+            },
+            {
+              "stable_id": "asr-002444",
+              "start_seconds": 8155.68,
+              "clock": "02:15:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002444"
+            },
+            {
+              "stable_id": "asr-002445",
+              "start_seconds": 8177.44,
+              "clock": "02:16:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002445"
+            },
+            {
+              "stable_id": "asr-002447",
+              "start_seconds": 8185.68,
+              "clock": "02:16:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002447"
+            },
+            {
+              "stable_id": "asr-002450",
+              "start_seconds": 8207.68,
+              "clock": "02:16:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002450"
+            },
+            {
+              "stable_id": "asr-002455",
+              "start_seconds": 8253.44,
+              "clock": "02:17:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002455"
+            },
+            {
+              "stable_id": "asr-002457",
+              "start_seconds": 8264.24,
+              "clock": "02:17:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002457"
+            },
+            {
+              "stable_id": "asr-002458",
+              "start_seconds": 8275.68,
+              "clock": "02:17:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002458"
+            },
+            {
+              "stable_id": "asr-002459",
+              "start_seconds": 8283.68,
+              "clock": "02:18:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002459"
+            },
+            {
+              "stable_id": "asr-002461",
+              "start_seconds": 8295.2,
+              "clock": "02:18:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002461"
+            },
+            {
+              "stable_id": "asr-002448",
+              "start_seconds": 8194.16,
+              "clock": "02:16:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002448"
+            },
+            {
+              "stable_id": "asr-002449",
+              "start_seconds": 8199.44,
+              "clock": "02:16:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002449"
+            }
+          ]
+        },
+        {
+          "label": "Employment and qualification results need clearer measurement",
+          "text": "Villanueva asked what the cited 81.64% employment rate covered. TESDA Deputy Director General Rosanna Urdaneta said it covered technical and vocational education and training (TVET) graduates across modalities and both technical-vocational institutions and TESDA training institutes, using a survey six months after graduation. Secretary Benitez said TESDA had requested World Bank project support to strengthen the survey, including tracking graduate demographics and job quality and using the Skills Passport as another verification source. In a later update on the 2025 CETG survey, TESDA Planning Office Executive Director Charlyn B. Justimbaste said it covered the 2024 cohort of about 1.3 million graduates, and reported an 81% employment rate. Villanueva cited EDCOM 2 research that 93% of graduates completed NC1 or NC2 qualifications; Justimbaste agreed and said Level 5 diploma graduates were about 1%, while NC2 made up more than half. Villanueva asked TESDA to set a target and plan to increase NC3, NC4 and Level 5 graduates before plenary. Benitez noted that ICT and AI upskilling begins at NC3 and said he hoped those programs could be funded appropriately.",
+          "citations": [
+            {
+              "stable_id": "asr-002465",
+              "start_seconds": 8335.68,
+              "clock": "02:18:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002465"
+            },
+            {
+              "stable_id": "asr-002466",
+              "start_seconds": 8341.04,
+              "clock": "02:19:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002466"
+            },
+            {
+              "stable_id": "asr-002468",
+              "start_seconds": 8355.44,
+              "clock": "02:19:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002468"
+            },
+            {
+              "stable_id": "asr-002473",
+              "start_seconds": 8391.68,
+              "clock": "02:19:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002473"
+            },
+            {
+              "stable_id": "asr-002490",
+              "start_seconds": 8410.5,
+              "clock": "02:20:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002490"
+            },
+            {
+              "stable_id": "asr-002494",
+              "start_seconds": 8418.74,
+              "clock": "02:20:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002494"
+            },
+            {
+              "stable_id": "asr-002506",
+              "start_seconds": 8441.04,
+              "clock": "02:20:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002506"
+            },
+            {
+              "stable_id": "asr-002512",
+              "start_seconds": 8459.02,
+              "clock": "02:20:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002512"
+            },
+            {
+              "stable_id": "asr-002519",
+              "start_seconds": 8475.28,
+              "clock": "02:21:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002519"
+            },
+            {
+              "stable_id": "asr-002528",
+              "start_seconds": 8492.64,
+              "clock": "02:21:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002528"
+            },
+            {
+              "stable_id": "asr-002557",
+              "start_seconds": 8563.42,
+              "clock": "02:22:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002557"
+            },
+            {
+              "stable_id": "asr-002558",
+              "start_seconds": 8565.76,
+              "clock": "02:22:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002558"
+            },
+            {
+              "stable_id": "asr-002560",
+              "start_seconds": 8571.28,
+              "clock": "02:22:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002560"
+            },
+            {
+              "stable_id": "asr-002563",
+              "start_seconds": 8579.1,
+              "clock": "02:22:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002563"
+            },
+            {
+              "stable_id": "asr-002616",
+              "start_seconds": 8744.04,
+              "clock": "02:25:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002616"
+            },
+            {
+              "stable_id": "asr-002626",
+              "start_seconds": 8773.78,
+              "clock": "02:26:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002626"
+            },
+            {
+              "stable_id": "asr-002627",
+              "start_seconds": 8776.86,
+              "clock": "02:26:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002627"
+            },
+            {
+              "stable_id": "asr-002630",
+              "start_seconds": 8786.12,
+              "clock": "02:26:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002630"
+            },
+            {
+              "stable_id": "asr-002636",
+              "start_seconds": 8796.54,
+              "clock": "02:26:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002636"
+            },
+            {
+              "stable_id": "asr-002645",
+              "start_seconds": 8819.36,
+              "clock": "02:26:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002645"
+            },
+            {
+              "stable_id": "asr-002646",
+              "start_seconds": 8823.2,
+              "clock": "02:27:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002646"
+            },
+            {
+              "stable_id": "asr-002653",
+              "start_seconds": 8844.6,
+              "clock": "02:27:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002653"
+            },
+            {
+              "stable_id": "asr-002658",
+              "start_seconds": 8853.74,
+              "clock": "02:27:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002658"
+            },
+            {
+              "stable_id": "asr-002664",
+              "start_seconds": 8867.72,
+              "clock": "02:27:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002664"
+            },
+            {
+              "stable_id": "asr-002665",
+              "start_seconds": 8869.74,
+              "clock": "02:27:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002665"
+            }
+          ]
+        },
+        {
+          "label": "AQRF report update and December 2026 deadline",
+          "text": "Villanueva asked about submitting the Philippines Updated ASEAN Qualifications Referencing Framework (AQRF) report to the ASEAN Qualifications Referencing Framework Committee and what remained before endorsement and publication. TESDA Deputy Director General Rosanna Urdaneta said the committee had met in Bangkok the previous month and TESDA had committed to submit an updated report in December 2026. Benitez clarified that the request was to update the original referencing report, not to undertake a new re-referencing, because reforms undertaken since the original report needed to be included. The committee was updating that original report with new level descriptors and related material, with a December 2026 timeline.",
+          "citations": [
+            {
+              "stable_id": "asr-003567",
+              "start_seconds": 11535.24,
+              "clock": "03:12:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003567"
+            },
+            {
+              "stable_id": "asr-003568",
+              "start_seconds": 11546.82,
+              "clock": "03:12:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003568"
+            },
+            {
+              "stable_id": "asr-003577",
+              "start_seconds": 11573.32,
+              "clock": "03:12:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003577"
+            },
+            {
+              "stable_id": "asr-003578",
+              "start_seconds": 11581.26,
+              "clock": "03:13:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003578"
+            },
+            {
+              "stable_id": "asr-003586",
+              "start_seconds": 11599.24,
+              "clock": "03:13:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003586"
+            },
+            {
+              "stable_id": "asr-003587",
+              "start_seconds": 11603.06,
+              "clock": "03:13:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003587"
+            },
+            {
+              "stable_id": "asr-003590",
+              "start_seconds": 11623.08,
+              "clock": "03:13:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003590"
+            },
+            {
+              "stable_id": "asr-003591",
+              "start_seconds": 11634.68,
+              "clock": "03:13:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003591"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-sherwin-win-t-gatchalian",
+      "label": "Senator Sherwin \"Win\" T. Gatchalian",
+      "items": [
+        {
+          "label": "AI disruption, workforce preparation, and BPO skills",
+          "text": "Senate President Sherwin \"Win\" T. Gatchalian asked how the Technical Education and Skills Development Authority (TESDA) would prepare workers, especially the business process outsourcing (BPO) workforce, for AI disruption. TESDA Deputy Director General Galo B. Glino III said estimates vary, but roughly 30% of jobs could be at risk, transformed, or exposed to AI. TESDA had allocated about 30,000 FY2026 slots for data and AI skills and about 6,000 semiconductor slots; implementation was ongoing. Its AI upskilling roadmap, developed with the Commission on Higher Education (CHED) and the Analytics and AI Association of the Philippines, ranges from foundational AI literacy to specialized courses and advanced training to build AI systems. For BPO workers, the aim is to move beyond customer service toward higher-value services and products for overseas clients. TESDA said its online platform already had around 90,000 AI-course enrollments and that it was expanding delivery through institutional partners and micro-credentials. Gatchalian highlighted the roughly 49 million-person workforce and estimated that 30% represented about 10 million people, while noting that BPO employed about 1.5–1.6 million people, many in entry-level voice roles. Secretary Jose Francisco \"Kiko\" Benitez described three requested training areas: prompt engineering, data analytics, and workflow optimization; and said cybersecurity training was a parallel need, particularly for ethical and safe AI use.",
+          "citations": [
+            {
+              "stable_id": "asr-002731",
+              "start_seconds": 9002.36,
+              "clock": "02:30:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002731"
+            },
+            {
+              "stable_id": "asr-002733",
+              "start_seconds": 9030.18,
+              "clock": "02:30:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002733"
+            },
+            {
+              "stable_id": "asr-002744",
+              "start_seconds": 9112.46,
+              "clock": "02:31:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002744"
+            },
+            {
+              "stable_id": "asr-002755",
+              "start_seconds": 9167.36,
+              "clock": "02:32:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002755"
+            },
+            {
+              "stable_id": "asr-002762",
+              "start_seconds": 9194.58,
+              "clock": "02:33:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002762"
+            },
+            {
+              "stable_id": "asr-002764",
+              "start_seconds": 9209.94,
+              "clock": "02:33:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002764"
+            },
+            {
+              "stable_id": "asr-002779",
+              "start_seconds": 9257.68,
+              "clock": "02:34:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002779"
+            },
+            {
+              "stable_id": "asr-002792",
+              "start_seconds": 9332.24,
+              "clock": "02:35:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002792"
+            },
+            {
+              "stable_id": "asr-002887",
+              "start_seconds": 9663.44,
+              "clock": "02:41:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002887"
+            },
+            {
+              "stable_id": "asr-003026",
+              "start_seconds": 9950.28,
+              "clock": "02:45:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003026"
+            },
+            {
+              "stable_id": "asr-003047",
+              "start_seconds": 9993.02,
+              "clock": "02:46:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003047"
+            },
+            {
+              "stable_id": "asr-002734",
+              "start_seconds": 9044.58,
+              "clock": "02:30:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002734"
+            },
+            {
+              "stable_id": "asr-002735",
+              "start_seconds": 9055.38,
+              "clock": "02:30:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002735"
+            },
+            {
+              "stable_id": "asr-002739",
+              "start_seconds": 9093.54,
+              "clock": "02:31:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002739"
+            },
+            {
+              "stable_id": "asr-002745",
+              "start_seconds": 9118.12,
+              "clock": "02:31:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002745"
+            },
+            {
+              "stable_id": "asr-002746",
+              "start_seconds": 9127.1,
+              "clock": "02:32:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002746"
+            },
+            {
+              "stable_id": "asr-002748",
+              "start_seconds": 9134.58,
+              "clock": "02:32:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-002748"
+            },
+            {
+              "stable_id": "asr-003037",
+              "start_seconds": 9971.36,
+              "clock": "02:46:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003037"
+            }
+          ]
+        },
+        {
+          "label": "Semiconductor workforce pathways and the Clark training hub",
+          "text": "On TESDA's role in preparing workers for the semiconductor sector and the planned Pax Silica activity in Clark, Gatchalian asked whether the 2027 budget supported the expected workforce needs. Benitez said there was no semiconductor-specific allocation, but described a pathway from senior high school through technical diplomas and higher education, including a pilot semiconductor and electronics engineering diploma with 18 higher-education institutions in Region 7. TESDA had been asked to help develop 128,000 semiconductor workers, including operators, technicians, and technologists. It was also developing laddered training and micro-credentials with the Semiconductor and Electronics Industries of the Philippines and described the Region 3 Regional Training Innovation Center in Clark as a hub for advanced training serving the wider Luzon Corridor. Benitez said CHED and the Department of Science and Technology (DOST) were handling integrated-circuit design training at higher degree levels. He said local semiconductor firms faced annual turnover of 10–15%, with TESDA-certified workers recruited abroad, and argued training must expand while local jobs grow so the country does not simply export more skilled workers. Some operators can enter after senior high school, with NC2 or NC3 qualifications. After around three or four months of training, workers can progress to technician and then technologist; training takes longer for employed trainees because it is not full-time. A prior program's reported employment rate was 90–95%. Gatchalian and chair Senator Joel Villanueva discussed training linked to employment in Clark. Benitez noted that economic-zone firms may face limits on accessing EBET incentives and could need scholarship subsidies.",
+          "citations": [
+            {
+              "stable_id": "asr-003050",
+              "start_seconds": 9997.86,
+              "clock": "02:46:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003050"
+            },
+            {
+              "stable_id": "asr-003083",
+              "start_seconds": 10064.0,
+              "clock": "02:47:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003083"
+            },
+            {
+              "stable_id": "asr-003093",
+              "start_seconds": 10083.88,
+              "clock": "02:48:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003093"
+            },
+            {
+              "stable_id": "asr-003111",
+              "start_seconds": 10119.58,
+              "clock": "02:48:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003111"
+            },
+            {
+              "stable_id": "asr-003113",
+              "start_seconds": 10123.3,
+              "clock": "02:48:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003113"
+            },
+            {
+              "stable_id": "asr-003150",
+              "start_seconds": 10197.56,
+              "clock": "02:49:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003150"
+            },
+            {
+              "stable_id": "asr-003168",
+              "start_seconds": 10230.9,
+              "clock": "02:50:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003168"
+            },
+            {
+              "stable_id": "asr-003175",
+              "start_seconds": 10245.1,
+              "clock": "02:50:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003175"
+            },
+            {
+              "stable_id": "asr-003234",
+              "start_seconds": 10368.6,
+              "clock": "02:52:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003234"
+            },
+            {
+              "stable_id": "asr-003241",
+              "start_seconds": 10384.6,
+              "clock": "02:53:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003241"
+            },
+            {
+              "stable_id": "asr-003264",
+              "start_seconds": 10433.58,
+              "clock": "02:53:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003264"
+            },
+            {
+              "stable_id": "asr-003327",
+              "start_seconds": 10580.74,
+              "clock": "02:56:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003327"
+            },
+            {
+              "stable_id": "asr-003358",
+              "start_seconds": 10647.22,
+              "clock": "02:57:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003358"
+            },
+            {
+              "stable_id": "asr-003104",
+              "start_seconds": 10105.66,
+              "clock": "02:48:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003104"
+            },
+            {
+              "stable_id": "asr-003105",
+              "start_seconds": 10107.52,
+              "clock": "02:48:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003105"
+            },
+            {
+              "stable_id": "asr-003114",
+              "start_seconds": 10125.04,
+              "clock": "02:48:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003114"
+            },
+            {
+              "stable_id": "asr-003242",
+              "start_seconds": 10386.54,
+              "clock": "02:53:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003242"
+            },
+            {
+              "stable_id": "asr-003342",
+              "start_seconds": 10614.4,
+              "clock": "02:56:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003342"
+            },
+            {
+              "stable_id": "asr-003343",
+              "start_seconds": 10616.22,
+              "clock": "02:56:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003343"
+            },
+            {
+              "stable_id": "asr-003359",
+              "start_seconds": 10648.88,
+              "clock": "02:57:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003359"
+            }
+          ]
+        },
+        {
+          "label": "Enterprise-based training transition and implementation",
+          "text": "Gatchalian asked why enterprise-based education and training (EBET) registrations or enrollment had fallen 51%, from 126,000 in 2024 to 61,000 in 2025, despite Republic Act No. 12063, and asked about the 2027 plan. Benitez attributed the decline to the transition from the old certification process to new EBET registration requirements. TESDA intended to raise EBET's share from about 12% toward at least 18%, with a longer-term target of 30–40% of its scholarship universe. They discussed implementation barriers, including corporate charter amendments, notarized learner contracts, incentive claims, and the rule that enterprises must lead EBET registration. Benitez said TESDA was streamlining its guidelines and aimed to launch a digital one-stop shop in the fourth quarter of the year. He said enterprises could partner with technical-vocational institutions for training plans, and TESDA hoped to issue dispute-resolution guidelines within two weeks. Villanueva identified the integrators, one-stop shop, and grievance mechanism as pending elements. Gatchalian urged attention to small procedural burdens that could discourage participants, and Villanueva then returned the floor to the Senate President.",
+          "citations": [
+            {
+              "stable_id": "asr-003363",
+              "start_seconds": 10659.74,
+              "clock": "02:57:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003363"
+            },
+            {
+              "stable_id": "asr-003393",
+              "start_seconds": 10678.74,
+              "clock": "02:57:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003393"
+            },
+            {
+              "stable_id": "asr-003397",
+              "start_seconds": 10684.86,
+              "clock": "02:58:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003397"
+            },
+            {
+              "stable_id": "asr-003409",
+              "start_seconds": 10705.26,
+              "clock": "02:58:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003409"
+            },
+            {
+              "stable_id": "asr-003415",
+              "start_seconds": 10727.82,
+              "clock": "02:58:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003415"
+            },
+            {
+              "stable_id": "asr-003433",
+              "start_seconds": 10764.28,
+              "clock": "02:59:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003433"
+            },
+            {
+              "stable_id": "asr-003461",
+              "start_seconds": 10970.54,
+              "clock": "03:02:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003461"
+            },
+            {
+              "stable_id": "asr-003464",
+              "start_seconds": 11015.14,
+              "clock": "03:03:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003464"
+            },
+            {
+              "stable_id": "asr-003467",
+              "start_seconds": 11059.88,
+              "clock": "03:04:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003467"
+            },
+            {
+              "stable_id": "asr-003489",
+              "start_seconds": 11184.72,
+              "clock": "03:06:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003489"
+            },
+            {
+              "stable_id": "asr-003496",
+              "start_seconds": 11211.66,
+              "clock": "03:06:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003496"
+            },
+            {
+              "stable_id": "asr-003502",
+              "start_seconds": 11222.78,
+              "clock": "03:07:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003502"
+            },
+            {
+              "stable_id": "asr-003509",
+              "start_seconds": 11246.54,
+              "clock": "03:07:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003509"
+            },
+            {
+              "stable_id": "asr-003395",
+              "start_seconds": 10681.94,
+              "clock": "02:58:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003395"
+            },
+            {
+              "stable_id": "asr-003396",
+              "start_seconds": 10683.5,
+              "clock": "02:58:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003396"
+            },
+            {
+              "stable_id": "asr-003436",
+              "start_seconds": 10774.28,
+              "clock": "02:59:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003436"
+            },
+            {
+              "stable_id": "asr-003437",
+              "start_seconds": 10777.36,
+              "clock": "02:59:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003437"
+            },
+            {
+              "stable_id": "asr-003434",
+              "start_seconds": 10768.6,
+              "clock": "02:59:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003434"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-closing-referral-and-suspension",
+      "label": "Closing referral and suspension",
+      "items": [
+        {
+          "label": "FY2027 TESDA budget referred to plenary; briefing suspended",
+          "text": "Senator Joel Villanueva stated that no one objected to Senate President Sherwin \"Win\" T. Gatchalian's motion, and declared it carried. Villanueva formally submitted the fiscal year 2027 proposed budget of the Technical Education and Skills Development Authority (TESDA) for plenary consideration, subject to further discussion and colleagues' submission of requested documents. The referral sent the proposal to plenary; it did not approve the appropriation. Villanueva thanked the Senate President, TESDA Secretary Jose Francisco \"Kiko\" Benitez, the deputy directors general, other TESDA directors, and Commission on Audit (COA) representatives. He then announced that the budget briefing was suspended.",
+          "citations": [
+            {
+              "stable_id": "asr-003599",
+              "start_seconds": 11678.4,
+              "clock": "03:14:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003599"
+            },
+            {
+              "stable_id": "asr-003601",
+              "start_seconds": 11682.08,
+              "clock": "03:14:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003601"
+            },
+            {
+              "stable_id": "asr-003608",
+              "start_seconds": 11749.86,
+              "clock": "03:15:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003608"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

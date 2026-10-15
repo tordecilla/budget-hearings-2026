@@ -1,0 +1,2513 @@
+{
+  "hearing": {
+    "hearing_id": 56,
+    "title": "Senate Committee on Finance: DMW - September 21, 2026",
+    "hearing_date": "2026-09-21",
+    "official_url": "https://www.youtube.com/watch?v=caY9jOTwND0"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h56/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Budget requests and fiscal space",
+      "text": "The Department of Migrant Workers (DMW) and Overseas Workers Welfare Administration (OWWA) sought additional resources for overseas Filipino workers (OFWs). Presiding Senator Joel Villanueva heard DMW Secretary Hans Leo J. Cacdac, Undersecretary Dominique Rubia-Tutay and OWWA Administrator Patricia Yvonne \"PY\" M. Caunan. Cacdac said earlier utilization had affected the allocation despite later crisis needs. Members supported the requests, while Finance Committee Chair Senator Joseph Victor \"JV\" G. Ejercito stressed limited fiscal space and made no funding promise.",
+      "citations": []
+    },
+    {
+      "label": "Emergency repatriation and delivery constraints",
+      "text": "Caunan said original emergency repatriation appropriations were fully used, while a supplemental released only in late July still had an available balance. Officials argued that contingency capacity must be maintained even when emergencies are unpredictable. OWWA also relied heavily on job-order staff, and an added personnel-services allocation lacked the corresponding released position items.",
+      "citations": []
+    },
+    {
+      "label": "Assistance, reintegration and recruitment protection",
+      "text": "Cacdac described legal, medical and return assistance through the Action Fund, with blood money excluded and host-country medical insurance used first where available. Officials described training, job matching and livelihood pathways for workers and families, including those who might work abroad again. DMW warned about scammers impersonating licensed recruiters and promised to catch up on adjudication and appealed cases.",
+      "citations": []
+    },
+    {
+      "label": "Access and service commitments",
+      "text": "Cacdac committed to relay OFWs' passport-fee concerns to the Department of Foreign Affairs (DFA), assign a Migrant Workers Office in Nagoya and pursue the OFW Hospital's planned Cancer Care Center. Proposed hospital wards would extend access beyond Pampanga. Villanueva submitted the FY2027 budget for plenary consideration, subject to the discussions and requested documents, then suspended the briefing.",
+      "citations": []
+    }
+  ],
+  "method_note": "Use the linked transcript turns and official video to verify the discussion. Differing budget figures and qualifications are retained as attributed at the hearing.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "FY2027 allocations and original submission",
+          "text": "For FY2027, the combined National Expenditure Program (NEP) allocation for DMW and OWWA was PHP11.616 billion, compared with the original submission to the Department of Budget and Management (DBM) of PHP37.674 billion, as detailed by Rubia-Tutay. She gave PHP7.267 billion for the DMW Office of the Secretary (OSEC) and PHP4.349 billion for OWWA, later confirmed in the OWWA presentation. The detailed account described the combined NEP as PHP129 million below the FY2026 General Appropriations Act (GAA). Separate original OSEC and OWWA submission totals were not itemized in that comparison.\n\nOther speakers gave distinct figures: presiding Senator Joel Villanueva cited PHP11.615 billion for FY2027, 1.1% or PHP129.8 million below the prior-year program; DMW Secretary Hans Leo J. Cacdac gave PHP11.602 billion for the NEP and PHP37 billion as the proposed budget. Senator Raffy T. Tulfo rounded the prior-year approved amount to PHP11.7 billion and the FY2027 NEP to PHP11.6 billion. The DMW presentation initially stated PHP3.349 billion for OWWA, then gave PHP4.349 billion in its detailed breakdown and later confirmation. The differing totals were not reconciled at the hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-000170",
+              "start_seconds": 1439.3,
+              "clock": "00:23:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000170"
+            },
+            {
+              "stable_id": "asr-000174",
+              "start_seconds": 1465.3000000000002,
+              "clock": "00:24:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000174"
+            },
+            {
+              "stable_id": "asr-000171",
+              "start_seconds": 1447.3,
+              "clock": "00:24:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000171"
+            },
+            {
+              "stable_id": "asr-000253",
+              "start_seconds": 1775.3000000000002,
+              "clock": "00:29:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000253"
+            },
+            {
+              "stable_id": "asr-000518",
+              "start_seconds": 2426.8,
+              "clock": "00:40:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000518"
+            },
+            {
+              "stable_id": "asr-000176",
+              "start_seconds": 1477.3000000000002,
+              "clock": "00:24:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000176"
+            },
+            {
+              "stable_id": "asr-000054",
+              "start_seconds": 809.96,
+              "clock": "00:13:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000054"
+            },
+            {
+              "stable_id": "asr-000055",
+              "start_seconds": 818.46,
+              "clock": "00:13:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000055"
+            },
+            {
+              "stable_id": "asr-000093",
+              "start_seconds": 1097.9,
+              "clock": "00:18:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000093"
+            },
+            {
+              "stable_id": "asr-001337",
+              "start_seconds": 4632.32,
+              "clock": "01:17:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001337"
+            },
+            {
+              "stable_id": "asr-001338",
+              "start_seconds": 4638.3,
+              "clock": "01:17:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001338"
+            },
+            {
+              "stable_id": "asr-000172",
+              "start_seconds": 1451.3000000000002,
+              "clock": "00:24:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000172"
+            }
+          ]
+        },
+        {
+          "label": "Later requests for added FY2027 funding",
+          "text": "Cacdac and Raffy Tulfo described a later augmentation package of PHP4 billion, with PHP2 billion each for DMW and OWWA. Tulfo broke the DMW request into PHP1 billion for the Action Fund and PHP1 billion for maintenance and other operating expenses (MOOE), and referred to PHP500 million within the OWWA request for emergency repatriation. These were additions sought during the hearing, separate from the original submission to DBM. Villanueva supported pursuing them in budget deliberations.",
+          "citations": [
+            {
+              "stable_id": "asr-001362",
+              "start_seconds": 4729.74,
+              "clock": "01:18:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001362"
+            },
+            {
+              "stable_id": "asr-001371",
+              "start_seconds": 4790.62,
+              "clock": "01:19:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001371"
+            },
+            {
+              "stable_id": "asr-001372",
+              "start_seconds": 4808.6,
+              "clock": "01:20:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001372"
+            },
+            {
+              "stable_id": "asr-001450",
+              "start_seconds": 5309.6,
+              "clock": "01:28:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001450"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-migrant-workers",
+      "label": "Department of Migrant Workers budget",
+      "items": [
+        {
+          "label": "DMW expense classes, program allocations and operating requirements",
+          "text": "Rubia-Tutay reported combined FY2027 DMW and OWWA expense classes of PHP4.026 billion for personnel services (34% of the budget), PHP7.513 billion for MOOE and PHP77 million for capital outlay. She described PHP1.837 billion for general administrative support (GAS) and PHP8.9 billion for operations. Against FY2026 GAA, she cited OSEC general administrative support down PHP88 million (9%) and operations down PHP105 million, attributing the reductions to lower budgets for the OFW Hospital, Migrant Workers Offices (MWOs) and National Maritime Polytechnic (NMP). She also said OSEC general administration and NMP budgets decreased by PHP90 million and PHP200 million, respectively, affecting continuing support services. \n\nThe central office held 47% of the budget, where the centrally managed Action Fund and reintegration fund were lodged and then distributed to MWOs and regional offices. The presentation assigned 32% to MWOs, 12% to regional offices, 6% to the OFW Hospital and 3% to NMP. Rubia-Tutay said the 17 regional offices and 43 MWOs made up the operations group and received most operational funding, including Action Fund distributions.\n\nFor OSEC, the PHP2.810 billion personnel-services allocation covered salaries, allowances, benefits and premiums for field posts and terminal benefits for mandatory retirees. MOOE and capital outlay supported management and the Overseas Employment and Welfare Program, including MWO operations, employment placement and facilitation, the OFW Hospital, Action Fund and reintegration. The NEP also funded licensing and regulation, anti-illegal recruitment and trafficking work, labor migration policy and international cooperation. The NMP regular operating budget was PHP79.711 million, less the continuing Information Systems Strategic Plan (ISSP) budget of PHP16.265 million. Capital outlay included PHP3.5 million for protective equipment and PHP50 million for a training building. Regional-office operating budget (PSMOOE and capital outlay) was PHP824.24 million, including the Negros Island Region.",
+          "citations": [
+            {
+              "stable_id": "asr-000180",
+              "start_seconds": 1492.3000000000002,
+              "clock": "00:24:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000180"
+            },
+            {
+              "stable_id": "asr-000181",
+              "start_seconds": 1501.3000000000002,
+              "clock": "00:25:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000181"
+            },
+            {
+              "stable_id": "asr-000183",
+              "start_seconds": 1512.3000000000002,
+              "clock": "00:25:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000183"
+            },
+            {
+              "stable_id": "asr-000184",
+              "start_seconds": 1521.3000000000002,
+              "clock": "00:25:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000184"
+            },
+            {
+              "stable_id": "asr-000185",
+              "start_seconds": 1527.3000000000002,
+              "clock": "00:25:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000185"
+            },
+            {
+              "stable_id": "asr-000186",
+              "start_seconds": 1534.3000000000002,
+              "clock": "00:25:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000186"
+            },
+            {
+              "stable_id": "asr-000198",
+              "start_seconds": 1584.3000000000002,
+              "clock": "00:26:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000198"
+            },
+            {
+              "stable_id": "asr-000206",
+              "start_seconds": 1609.3000000000002,
+              "clock": "00:26:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000206"
+            },
+            {
+              "stable_id": "asr-000215",
+              "start_seconds": 1641.3000000000002,
+              "clock": "00:27:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000215"
+            },
+            {
+              "stable_id": "asr-000224",
+              "start_seconds": 1676.3000000000002,
+              "clock": "00:27:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000224"
+            },
+            {
+              "stable_id": "asr-000229",
+              "start_seconds": 1690.3000000000002,
+              "clock": "00:28:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000229"
+            },
+            {
+              "stable_id": "asr-000243",
+              "start_seconds": 1740.3000000000002,
+              "clock": "00:29:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000243"
+            },
+            {
+              "stable_id": "asr-000244",
+              "start_seconds": 1744.3000000000002,
+              "clock": "00:29:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000244"
+            },
+            {
+              "stable_id": "asr-000246",
+              "start_seconds": 1750.3000000000002,
+              "clock": "00:29:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000246"
+            },
+            {
+              "stable_id": "asr-000247",
+              "start_seconds": 1754.3000000000002,
+              "clock": "00:29:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000247"
+            },
+            {
+              "stable_id": "asr-000249",
+              "start_seconds": 1761.3000000000002,
+              "clock": "00:29:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000249"
+            }
+          ]
+        },
+        {
+          "label": "Action Fund allocations and assistance delivered",
+          "text": "Villanueva said reports showed the Action Fund had assisted more than 606,000 OFWs from July 2023 to July 2026. From January through July 2026, it provided PHP2.95 billion in assistance to 145,448 beneficiaries; its FY2026 funding had been increased to PHP5 billion in response to the Middle East crisis. For FY2027, he said the fund needed to remain ready for daily needs and a possible large-scale emergency.\n\nRubia-Tutay said OSEC's 47% utilization as of July 31, 2026 already included a PHP3 billion Action Fund supplemental provided by the Office of the President. She reported OSEC budget utilization of 89% at December 31, 2025 and 47% at July 31, 2026, and disbursement utilization of 97%, then 81% as of July 31, 2026.",
+          "citations": [
+            {
+              "stable_id": "asr-000075",
+              "start_seconds": 900.0,
+              "clock": "00:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000075"
+            },
+            {
+              "stable_id": "asr-000076",
+              "start_seconds": 917.9,
+              "clock": "00:15:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000076"
+            },
+            {
+              "stable_id": "asr-000276",
+              "start_seconds": 1833.3,
+              "clock": "00:30:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000276"
+            },
+            {
+              "stable_id": "asr-000282",
+              "start_seconds": 1845.3,
+              "clock": "00:30:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000282"
+            },
+            {
+              "stable_id": "asr-000283",
+              "start_seconds": 1847.08,
+              "clock": "00:30:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000283"
+            },
+            {
+              "stable_id": "asr-000284",
+              "start_seconds": 1849.22,
+              "clock": "00:30:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000284"
+            },
+            {
+              "stable_id": "asr-000288",
+              "start_seconds": 1857.2,
+              "clock": "00:30:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000288"
+            }
+          ]
+        },
+        {
+          "label": "FY2026 bicameral additions for the Department of Migrant Workers",
+          "text": "Senator Erwin Tulfo, a former vice chair who had defended the DMW budget, recalled that the FY2026 bicameral conference committee approved an additional PHP800 million for the DMW Office of the Secretary (OSEC). He said the added funding strengthened services for overseas Filipino workers, including the Action Fund for repatriation and emergency assistance. He said the prior-year increase had anticipated overseas crises and supported the proposed DMW budget for FY2027, while agreeing that further funding could be added if needed as the Middle East conflict continued.",
+          "citations": [
+            {
+              "stable_id": "asr-000309",
+              "start_seconds": 1921.58,
+              "clock": "00:32:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000309"
+            },
+            {
+              "stable_id": "asr-000326",
+              "start_seconds": 1955.54,
+              "clock": "00:32:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000326"
+            },
+            {
+              "stable_id": "asr-000327",
+              "start_seconds": 1957.58,
+              "clock": "00:32:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000327"
+            },
+            {
+              "stable_id": "asr-000347",
+              "start_seconds": 1997.48,
+              "clock": "00:33:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000347"
+            },
+            {
+              "stable_id": "asr-000354",
+              "start_seconds": 2011.64,
+              "clock": "00:33:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000354"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 Action Fund allocation and request",
+          "text": "For FY2027, Cacdac confirmed that the NEP included PHP2 billion for the DMW Action Fund, which covers repatriation as well as legal, medical and financial assistance. He requested an additional PHP1 billion to bring the fund to a PHP3 billion benchmark. In discussing the previous year's emergency response, Erwin Tulfo said the DBM had released PHP3 billion in 2026 on top of PHP2 billion; Cacdac said PHP3 billion was the benchmark he sought for the Action Fund. \n\nTulfo said he supported the DMW and OWWA budget proposals and supported adding more for both the Emergency Repatriation Fund and Action Fund. He expressed support for additional funding.",
+          "citations": [
+            {
+              "stable_id": "asr-000927",
+              "start_seconds": 3736.28,
+              "clock": "01:02:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000927"
+            },
+            {
+              "stable_id": "asr-000928",
+              "start_seconds": 3738.0,
+              "clock": "01:02:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000928"
+            },
+            {
+              "stable_id": "asr-000930",
+              "start_seconds": 3742.54,
+              "clock": "01:02:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000930"
+            },
+            {
+              "stable_id": "asr-001006",
+              "start_seconds": 3892.44,
+              "clock": "01:04:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001006"
+            },
+            {
+              "stable_id": "asr-001007",
+              "start_seconds": 3895.7799999999997,
+              "clock": "01:04:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001007"
+            },
+            {
+              "stable_id": "asr-001009",
+              "start_seconds": 3899.44,
+              "clock": "01:04:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001009"
+            },
+            {
+              "stable_id": "asr-001010",
+              "start_seconds": 3901.54,
+              "clock": "01:05:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001010"
+            },
+            {
+              "stable_id": "asr-001013",
+              "start_seconds": 3907.32,
+              "clock": "01:05:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001013"
+            },
+            {
+              "stable_id": "asr-001014",
+              "start_seconds": 3909.46,
+              "clock": "01:05:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001014"
+            },
+            {
+              "stable_id": "asr-001249",
+              "start_seconds": 4386.84,
+              "clock": "01:13:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001249"
+            }
+          ]
+        },
+        {
+          "label": "Appeal and additional FY2027 funding requests",
+          "text": "Raffy Tulfo asked why the DBM had reduced the proposed budgets. Cacdac said he understood DBM to have considered historical utilization from 2023 and 2024, when the department was new. He said utilization had reached nearly 100% in 2025, including continuing appropriations from 2024, and that DMW and the OWWA had exhausted their funds during the U.S.-Israel-Iran war. Cacdac confirmed that they had appealed for reconsideration but said he would submit to DBM's determination.\n\nCacdac and Raffy Tulfo sought additions for the Action Fund and operating needs. Villanueva said he supported pursuing the request in budget deliberations.",
+          "citations": [
+            {
+              "stable_id": "asr-001328",
+              "start_seconds": 4608.06,
+              "clock": "01:16:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001328"
+            },
+            {
+              "stable_id": "asr-001341",
+              "start_seconds": 4646.0,
+              "clock": "01:17:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001341"
+            },
+            {
+              "stable_id": "asr-001356",
+              "start_seconds": 4702.76,
+              "clock": "01:18:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001356"
+            },
+            {
+              "stable_id": "asr-001360",
+              "start_seconds": 4719.3,
+              "clock": "01:18:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001360"
+            }
+          ]
+        },
+        {
+          "label": "Budget execution, utilization and emergency-fund requests",
+          "text": "Villanueva cited the DMW's 2025 obligation-to-appropriation ratio of 85.5% and PHP1.851 billion unused. He asked how better budget execution would translate into timely services and requested updated figures, catch-up plans and timelines to support the agencies? funding requests.\n\nFor June 30, 2026, he cited 61.98% of DMW released allotments obligated, PHP5.82 billion still available for utilization and a separately stated PHP3.4 billion OSEC balance. The cited balances had different stated scopes and were not reconciled. Cacdac said the preceding crisis response had depleted the emergency funds and stressed preparedness for a larger evacuation. Villanueva requested a breakdown of DMW and OWWA's additional requirements before the briefing ended.",
+          "citations": [
+            {
+              "stable_id": "asr-001465",
+              "start_seconds": 5390.22,
+              "clock": "01:29:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001465"
+            },
+            {
+              "stable_id": "asr-001470",
+              "start_seconds": 5406.78,
+              "clock": "01:30:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001470"
+            },
+            {
+              "stable_id": "asr-001473",
+              "start_seconds": 5412.72,
+              "clock": "01:30:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001473"
+            },
+            {
+              "stable_id": "asr-001474",
+              "start_seconds": 5415.56,
+              "clock": "01:30:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001474"
+            },
+            {
+              "stable_id": "asr-001475",
+              "start_seconds": 5416.84,
+              "clock": "01:30:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001475"
+            },
+            {
+              "stable_id": "asr-001561",
+              "start_seconds": 5587.48,
+              "clock": "01:33:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001561"
+            },
+            {
+              "stable_id": "asr-001633",
+              "start_seconds": 5731.9,
+              "clock": "01:35:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001633"
+            },
+            {
+              "stable_id": "asr-001635",
+              "start_seconds": 5736.18,
+              "clock": "01:35:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001635"
+            },
+            {
+              "stable_id": "asr-001639",
+              "start_seconds": 5744.0,
+              "clock": "01:35:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001639"
+            },
+            {
+              "stable_id": "asr-001642",
+              "start_seconds": 5750.08,
+              "clock": "01:35:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001642"
+            },
+            {
+              "stable_id": "asr-001646",
+              "start_seconds": 5757.34,
+              "clock": "01:35:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001646"
+            },
+            {
+              "stable_id": "asr-001647",
+              "start_seconds": 5774.06,
+              "clock": "01:36:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001647"
+            },
+            {
+              "stable_id": "asr-001679",
+              "start_seconds": 6154.62,
+              "clock": "01:42:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001679"
+            }
+          ]
+        },
+        {
+          "label": "Additional DMW request",
+          "text": "Cacdac said the department sought an additional PHP2 billion, including PHP1 billion for its Action Fund. He identified PHP60 million within the request to host three conferences in the Philippines as chair of the Abu Dhabi Dialogue. He also cited needs for the OFW Hospital, reintegration and the Servicio Caravan. Ejercito noted that the FY2027 Action Fund retained PHP2 billion in new appropriations and had received PHP3 billion in additional FY2026 funding due to the Middle East conflict.",
+          "citations": [
+            {
+              "stable_id": "asr-001894",
+              "start_seconds": 6939.1,
+              "clock": "01:55:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001894"
+            },
+            {
+              "stable_id": "asr-001954",
+              "start_seconds": 7069.62,
+              "clock": "01:57:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001954"
+            },
+            {
+              "stable_id": "asr-001955",
+              "start_seconds": 7073.4400000000005,
+              "clock": "01:57:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001955"
+            },
+            {
+              "stable_id": "asr-001957",
+              "start_seconds": 7077.4400000000005,
+              "clock": "01:57:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001957"
+            },
+            {
+              "stable_id": "asr-001980",
+              "start_seconds": 7123.58,
+              "clock": "01:58:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001980"
+            },
+            {
+              "stable_id": "asr-001987",
+              "start_seconds": 7137.06,
+              "clock": "01:58:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001987"
+            },
+            {
+              "stable_id": "asr-001931",
+              "start_seconds": 7009.62,
+              "clock": "01:56:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001931"
+            },
+            {
+              "stable_id": "asr-001935",
+              "start_seconds": 7017.18,
+              "clock": "01:56:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001935"
+            }
+          ]
+        },
+        {
+          "label": "FY2026 Action Fund obligation and categories",
+          "text": "DMW Undersecretary Dominique Rubia-Tutay said the FY2026 General Appropriations Act provided PHP2 billion for the Action Fund, supplemented by PHP3 billion, for a stated PHP5 billion total; she reported 69% obligated. She listed PHP281 million for financial assistance, PHP703 million for repatriation and PHP21 million for medical assistance. Asked about legal assistance, she first gave PHP703 million and later said PHP702 million. She also cited PHP845 million for standby Action Fund support to migrant workersÃ¢â‚¬â„¢ offices, particularly in the Middle East, more than PHP1 million for administration, and PHP888 million downloaded to regional offices. The two legal-assistance figures differed; the standby and regional amounts were described as transfers.",
+          "citations": [
+            {
+              "stable_id": "asr-001937",
+              "start_seconds": 7021.6,
+              "clock": "01:57:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001937"
+            },
+            {
+              "stable_id": "asr-002003",
+              "start_seconds": 7169.08,
+              "clock": "01:59:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002003"
+            },
+            {
+              "stable_id": "asr-002006",
+              "start_seconds": 7175.08,
+              "clock": "01:59:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002006"
+            },
+            {
+              "stable_id": "asr-002007",
+              "start_seconds": 7177.08,
+              "clock": "01:59:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002007"
+            },
+            {
+              "stable_id": "asr-002008",
+              "start_seconds": 7179.08,
+              "clock": "01:59:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002008"
+            },
+            {
+              "stable_id": "asr-002010",
+              "start_seconds": 7183.08,
+              "clock": "01:59:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002010"
+            },
+            {
+              "stable_id": "asr-002011",
+              "start_seconds": 7185.08,
+              "clock": "01:59:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002011"
+            },
+            {
+              "stable_id": "asr-002015",
+              "start_seconds": 7192.52,
+              "clock": "01:59:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002015"
+            },
+            {
+              "stable_id": "asr-002016",
+              "start_seconds": 7194.76,
+              "clock": "01:59:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002016"
+            },
+            {
+              "stable_id": "asr-002017",
+              "start_seconds": 7196.24,
+              "clock": "01:59:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002017"
+            },
+            {
+              "stable_id": "asr-002018",
+              "start_seconds": 7199.08,
+              "clock": "01:59:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002018"
+            },
+            {
+              "stable_id": "asr-002019",
+              "start_seconds": 7199.84,
+              "clock": "01:59:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002019"
+            },
+            {
+              "stable_id": "asr-002021",
+              "start_seconds": 7205.9,
+              "clock": "02:00:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002021"
+            },
+            {
+              "stable_id": "asr-002025",
+              "start_seconds": 7224.64,
+              "clock": "02:00:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002025"
+            },
+            {
+              "stable_id": "asr-002026",
+              "start_seconds": 7230.98,
+              "clock": "02:00:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002026"
+            },
+            {
+              "stable_id": "asr-002027",
+              "start_seconds": 7239.62,
+              "clock": "02:00:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002027"
+            },
+            {
+              "stable_id": "asr-002028",
+              "start_seconds": 7244.4,
+              "clock": "02:00:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002028"
+            }
+          ]
+        },
+        {
+          "label": "Funding support and fiscal-space limits",
+          "text": "Rubia-Tutay said assistance also covered workers whose take-home pay fell because of the war, distressed returnees and deportees, and workers released after being held hostage. Ejercito said fiscal space was very limited and he could not promise the requested amounts, but pledged to try to find room to help and said the committee needed to hear agenciesÃ¢â‚¬â„¢ essential needs. Villanueva separately said the Senate would look for ways and means to support the DMW and overseas Filipino workersÃ¢â‚¬â„¢ budget request.",
+          "citations": [
+            {
+              "stable_id": "asr-001888",
+              "start_seconds": 6925.62,
+              "clock": "01:55:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001888"
+            },
+            {
+              "stable_id": "asr-001903",
+              "start_seconds": 6954.16,
+              "clock": "01:55:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001903"
+            },
+            {
+              "stable_id": "asr-001925",
+              "start_seconds": 6999.68,
+              "clock": "01:56:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001925"
+            },
+            {
+              "stable_id": "asr-002033",
+              "start_seconds": 7276.26,
+              "clock": "02:01:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002033"
+            },
+            {
+              "stable_id": "asr-002073",
+              "start_seconds": 7471.64,
+              "clock": "02:04:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002073"
+            }
+          ]
+        },
+        {
+          "label": "DMW hospital and Action Fund budget requests",
+          "text": "Senator Christopher Lawrence T. Go said requested additions for the DMW Action Fund and new migrant workers offices were not included in the proposed 2027 NEP, and asked how the reductions would affect operations. Go also said he would continue advocating for migrant workers’ budget needs but was not promising that every request would be funded.\n\nCacdac said the OFW Hospital allocation was ₱300 million and the department’s request for consideration was around ₱2 billion, including around ₱200 million for the hospital. \n\nCacdac repeated the request for an additional PHP1 billion for the Action Fund.",
+          "citations": [
+            {
+              "stable_id": "asr-002138",
+              "start_seconds": 7778.58,
+              "clock": "02:09:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002138"
+            },
+            {
+              "stable_id": "asr-002148",
+              "start_seconds": 7820.16,
+              "clock": "02:10:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002148"
+            },
+            {
+              "stable_id": "asr-002151",
+              "start_seconds": 7835.2,
+              "clock": "02:10:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002151"
+            },
+            {
+              "stable_id": "asr-002257",
+              "start_seconds": 8402.66,
+              "clock": "02:20:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002257"
+            },
+            {
+              "stable_id": "asr-002264",
+              "start_seconds": 8481.36,
+              "clock": "02:21:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002264"
+            },
+            {
+              "stable_id": "asr-002265",
+              "start_seconds": 8494.98,
+              "clock": "02:21:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002265"
+            },
+            {
+              "stable_id": "asr-002272",
+              "start_seconds": 8585.88,
+              "clock": "02:23:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002272"
+            },
+            {
+              "stable_id": "asr-002331",
+              "start_seconds": 8920.36,
+              "clock": "02:28:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002331"
+            }
+          ]
+        },
+        {
+          "label": "Additional DMW reintegration funding request",
+          "text": "Cacdac said the department sought an additional ₱300 million for reintegration, including the National Reintegration Center for OFWs (NRCO) program. He said the program’s MOOE had risen by ₱100 million to ₱300 million, but a further ₱300 million was requested to expand the platform supporting returning workers’ job and livelihood opportunities. Villanueva asked whether the additional amount was from OWWA; Cacdac described the increase and said he could not break down the request at the hearing. Villanueva expressed agreement; this was support for the request.",
+          "citations": [
+            {
+              "stable_id": "asr-003314",
+              "start_seconds": 11549.62,
+              "clock": "03:12:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003314"
+            },
+            {
+              "stable_id": "asr-003317",
+              "start_seconds": 11555.62,
+              "clock": "03:12:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003317"
+            },
+            {
+              "stable_id": "asr-003326",
+              "start_seconds": 11573.62,
+              "clock": "03:12:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003326"
+            },
+            {
+              "stable_id": "asr-003329",
+              "start_seconds": 11579.62,
+              "clock": "03:12:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003329"
+            },
+            {
+              "stable_id": "asr-003332",
+              "start_seconds": 11585.62,
+              "clock": "03:13:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003332"
+            },
+            {
+              "stable_id": "asr-003338",
+              "start_seconds": 11597.62,
+              "clock": "03:13:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003338"
+            },
+            {
+              "stable_id": "asr-003315",
+              "start_seconds": 11551.62,
+              "clock": "03:12:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003315"
+            },
+            {
+              "stable_id": "asr-003316",
+              "start_seconds": 11553.62,
+              "clock": "03:12:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003316"
+            },
+            {
+              "stable_id": "asr-003333",
+              "start_seconds": 11587.62,
+              "clock": "03:13:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003333"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-overseas-workers-welfare-administration",
+      "label": "Overseas Workers Welfare Administration budget",
+      "items": [
+        {
+          "label": "OWWA NEP components and Emergency Repatriation Fund",
+          "text": "The detailed FY2027 NEP presentation included PHP1.215 billion for salaries and benefits of field positions; much of its MOOE would support the Emergency Repatriation Program, Alagang OWWA and the Workers' Auxiliary Support Program. Capital outlay was mainly for general administration, equipment, furniture and fixtures, information and communications technology requirements, and motor vehicles. \n\nVillanueva separately cited a FY2027 proposed OWWA Emergency Repatriation Fund of PHP977.8 million, 24% below its FY2026 allocation. He said the committee needed to assess whether it could meet existing needs while retaining contingency capacity for another emergency.",
+          "citations": [
+            {
+              "stable_id": "asr-000079",
+              "start_seconds": 961.94,
+              "clock": "00:16:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000079"
+            },
+            {
+              "stable_id": "asr-000080",
+              "start_seconds": 977.9,
+              "clock": "00:16:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000080"
+            },
+            {
+              "stable_id": "asr-000254",
+              "start_seconds": 1781.3000000000002,
+              "clock": "00:29:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000254"
+            },
+            {
+              "stable_id": "asr-000256",
+              "start_seconds": 1790.3000000000002,
+              "clock": "00:29:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000256"
+            },
+            {
+              "stable_id": "asr-000258",
+              "start_seconds": 1796.3000000000002,
+              "clock": "00:29:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000258"
+            }
+          ]
+        },
+        {
+          "label": "OWWA expense-class changes",
+          "text": "For OWWA she first described general administration support as down PHP116 million (11%) while operations increased PHP179 million for Alagang OWWA and workers' auxiliary support projects; later she said OWA general administration services decreased PHP12 million and welfare services increased, particularly for Alagang OWWA and its auxiliary program. These are the separate scopes and figures given in the presentation.",
+          "citations": [
+            {
+              "stable_id": "asr-000190",
+              "start_seconds": 1549.3000000000002,
+              "clock": "00:25:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000190"
+            },
+            {
+              "stable_id": "asr-000191",
+              "start_seconds": 1555.3000000000002,
+              "clock": "00:25:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000191"
+            },
+            {
+              "stable_id": "asr-000202",
+              "start_seconds": 1595.3000000000002,
+              "clock": "00:26:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000202"
+            }
+          ]
+        },
+        {
+          "label": "OWWA utilization at July 2026",
+          "text": "For OWWA, utilization was 80% in FY2025 and 62% as of July 2026; she said this did not yet reflect the additional PHP1 billion approved under the Uplift Program.",
+          "citations": [
+            {
+              "stable_id": "asr-000289",
+              "start_seconds": 1857.64,
+              "clock": "00:30:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000289"
+            }
+          ]
+        },
+        {
+          "label": "FY2026 bicameral addition for the Overseas Workers Welfare Administration",
+          "text": "Erwin Tulfo recalled a PHP500 million FY2026 bicameral addition for OWWA. Presiding senator Joel Villanueva sought renewed support for the FY2027 budget, pointing to the proposed reduction in emergency repatriation funding.",
+          "citations": [
+            {
+              "stable_id": "asr-000329",
+              "start_seconds": 1961.52,
+              "clock": "00:32:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000329"
+            },
+            {
+              "stable_id": "asr-000363",
+              "start_seconds": 2029.64,
+              "clock": "00:33:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000363"
+            },
+            {
+              "stable_id": "asr-000370",
+              "start_seconds": 2043.64,
+              "clock": "00:34:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000370"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 NEP and requested support",
+          "text": "Caunan described an overall increase in the FY2027 allocation despite cuts to particular lines. She said the Emergency Repatriation Fund (ERF) was reduced by PHP308.778 million, capital outlay by PHP72 million, and MOOE for general administrative support (GAS) by PHP74.9 million.\n\nSeparately from the NEP amount, Caunan sought PHP2 billion in additional support. She identified PHP575 million for the ERF, PHP770 million for general administrative MOOE including job-order salaries, and PHP595 million in connection with Alagang OWA and the Workers Auxiliary Support Project (WASP). The transcript does not clearly assign the PHP595 million to one or both programs, and does not reconcile the named amounts to the PHP2 billion headline. She also said the Congressional Migrant Workers Scholarship Fund had not received additional funding beyond its initial provision under the Migrant Workers Protection Act.",
+          "citations": [
+            {
+              "stable_id": "asr-000520",
+              "start_seconds": 2437.6,
+              "clock": "00:40:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000520"
+            },
+            {
+              "stable_id": "asr-000522",
+              "start_seconds": 2456.7799999999997,
+              "clock": "00:40:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000522"
+            },
+            {
+              "stable_id": "asr-000525",
+              "start_seconds": 2474.26,
+              "clock": "00:41:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000525"
+            },
+            {
+              "stable_id": "asr-000528",
+              "start_seconds": 2506.66,
+              "clock": "00:41:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000528"
+            },
+            {
+              "stable_id": "asr-000530",
+              "start_seconds": 2516.7799999999997,
+              "clock": "00:41:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000530"
+            },
+            {
+              "stable_id": "asr-000531",
+              "start_seconds": 2523.54,
+              "clock": "00:42:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000531"
+            },
+            {
+              "stable_id": "asr-000532",
+              "start_seconds": 2528.46,
+              "clock": "00:42:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000532"
+            },
+            {
+              "stable_id": "asr-000538",
+              "start_seconds": 2557.62,
+              "clock": "00:42:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000538"
+            },
+            {
+              "stable_id": "asr-000539",
+              "start_seconds": 2567.56,
+              "clock": "00:42:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000539"
+            }
+          ]
+        },
+        {
+          "label": "Emergency Repatriation Fund adequacy and request",
+          "text": "Caunan said the FY2027 NEP included PHP977.8 million for the ERF, more than PHP300 million below the prior year. She reported that the fund supported 216,336 services in 2025, including airport and land transport, shelter, meals, financial assistance, transport of human remains, and medical repatriation. Caunan said the current-year supplemental had been exhausted; the later utilization exchange distinguishes the original appropriation from the supplemental balance.\n\nFor the current year, Caunan cited average monthly ERF obligations of PHP206.6 million and annualized that pace to PHP2.479 billion.",
+          "citations": [
+            {
+              "stable_id": "asr-000546",
+              "start_seconds": 2599.06,
+              "clock": "00:43:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000546"
+            },
+            {
+              "stable_id": "asr-000548",
+              "start_seconds": 2611.3,
+              "clock": "00:43:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000548"
+            },
+            {
+              "stable_id": "asr-000552",
+              "start_seconds": 2656.64,
+              "clock": "00:44:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000552"
+            },
+            {
+              "stable_id": "asr-000579",
+              "start_seconds": 2731.66,
+              "clock": "00:45:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000579"
+            },
+            {
+              "stable_id": "asr-000580",
+              "start_seconds": 2733.94,
+              "clock": "00:45:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000580"
+            },
+            {
+              "stable_id": "asr-000581",
+              "start_seconds": 2735.92,
+              "clock": "00:45:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000581"
+            },
+            {
+              "stable_id": "asr-000589",
+              "start_seconds": 2752.08,
+              "clock": "00:45:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000589"
+            },
+            {
+              "stable_id": "asr-000590",
+              "start_seconds": 2754.44,
+              "clock": "00:45:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000590"
+            },
+            {
+              "stable_id": "asr-000592",
+              "start_seconds": 2757.38,
+              "clock": "00:45:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000592"
+            },
+            {
+              "stable_id": "asr-000593",
+              "start_seconds": 2759.94,
+              "clock": "00:45:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000593"
+            }
+          ]
+        },
+        {
+          "label": "Alagang OWA and WASP program support",
+          "text": "Caunan said OWWA had received an additional PHP500 million in the prior year for Alagang OWA. She described support for OFW airport lounges, seafarer welfare centers under the Magna Carta for Seafarers, global centers, the Yakap at Gamot Center with the Philippine Health Insurance Corporation (PhilHealth), the Global Emergency and Crisis Rapid Response Program, and Service Caravan activities.\n\nShe separately sought an additional PHP130 million under WASP for medical retainers to provide consultations, medicine, and laboratory services abroad for people not covered by insurance. The transcript does not say whether this additional request is already included in the earlier PHP595 million figure.",
+          "citations": [
+            {
+              "stable_id": "asr-000708",
+              "start_seconds": 2996.18,
+              "clock": "00:49:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000708"
+            },
+            {
+              "stable_id": "asr-000710",
+              "start_seconds": 3001.08,
+              "clock": "00:50:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000710"
+            },
+            {
+              "stable_id": "asr-000732",
+              "start_seconds": 3044.74,
+              "clock": "00:50:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000732"
+            },
+            {
+              "stable_id": "asr-000795",
+              "start_seconds": 3366.02,
+              "clock": "00:56:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000795"
+            }
+          ]
+        },
+        {
+          "label": "Overall increase and personnel-services funding",
+          "text": "Villanueva asked about the year-to-year change in the OWWA budget. Caunan clarified that the total budget increased by 1.48%, despite questions about reductions in particular lines. Villanueva then asked about an additional PHP200.47 million under Personnel Services (PS) without a corresponding item. Caunan confirmed that no item had yet been released and said the net difference was intended for overseas allowances for deployed welfare officers. She said the funds could be used only if an item was issued. Villanueva asked whether the amount could be transferred to another budget item; Caunan answered theoretically and explained the outstanding positions and staffing situation, without confirming a transfer.",
+          "citations": [
+            {
+              "stable_id": "asr-000797",
+              "start_seconds": 3381.58,
+              "clock": "00:56:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000797"
+            },
+            {
+              "stable_id": "asr-000806",
+              "start_seconds": 3426.46,
+              "clock": "00:57:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000806"
+            },
+            {
+              "stable_id": "asr-000809",
+              "start_seconds": 3452.86,
+              "clock": "00:57:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000809"
+            },
+            {
+              "stable_id": "asr-000813",
+              "start_seconds": 3463.4,
+              "clock": "00:57:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000813"
+            },
+            {
+              "stable_id": "asr-000828",
+              "start_seconds": 3516.02,
+              "clock": "00:58:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000828"
+            },
+            {
+              "stable_id": "asr-000854",
+              "start_seconds": 3574.66,
+              "clock": "00:59:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000854"
+            },
+            {
+              "stable_id": "asr-000858",
+              "start_seconds": 3590.88,
+              "clock": "00:59:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000858"
+            }
+          ]
+        },
+        {
+          "label": "OWWA Emergency Repatriation Fund allocation and request",
+          "text": "Erwin Tulfo urged increased repatriation readiness amid conflicts affecting the Middle East and Europe. Caunan confirmed an ERF request of about PHP1.5 billion. He supported additional funding for the ERF alongside the Action Fund.",
+          "citations": [
+            {
+              "stable_id": "asr-000933",
+              "start_seconds": 3748.34,
+              "clock": "01:02:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000933"
+            },
+            {
+              "stable_id": "asr-000964",
+              "start_seconds": 3809.9,
+              "clock": "01:03:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000964"
+            },
+            {
+              "stable_id": "asr-000965",
+              "start_seconds": 3812.14,
+              "clock": "01:03:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000965"
+            },
+            {
+              "stable_id": "asr-000967",
+              "start_seconds": 3816.02,
+              "clock": "01:03:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000967"
+            }
+          ]
+        },
+        {
+          "label": "OWWA personnel-services item and possible offset",
+          "text": "While discussing how to find offsets for budget increases, Villanueva said he had found PHP200 million added to OWWA personnel services without a corresponding position item or plantilla, which could make the allocation unusable. OWWA representatives told him that they could fill the positions if the plantilla were issued. The chair described this as a possible conditional use of funds, not a confirmed final outcome.",
+          "citations": [
+            {
+              "stable_id": "asr-001381",
+              "start_seconds": 4907.04,
+              "clock": "01:21:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001381"
+            }
+          ]
+        },
+        {
+          "label": "OWWA addition supported in budget deliberations",
+          "text": "Raffy Tulfo reiterated support for additional OWWA funding. Villanueva supported pursuing the request and said any increase required identifying an offset.",
+          "citations": [
+            {
+              "stable_id": "asr-001378",
+              "start_seconds": 4879.22,
+              "clock": "01:21:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001378"
+            }
+          ]
+        },
+        {
+          "label": "OWWA execution and contingency capacity",
+          "text": "Villanueva compared OWWA's 2025 disbursement rate of 77.7% with OSEC's 85.6% and cited a June 30 OWWA balance of PHP1.625 billion. Caunan said the original ERF and Action Fund appropriations had been fully obligated and utilized; 18% of OWWA's PHP700 million ERF supplemental was obligated, leaving PHP575 million. OWWA's whole current appropriation was 72% utilized as of August 31.\n\nShe said the agencies sought supplemental funding in late March or early April, while OWWA received it only in late July or early August. Emergency spending varied with crises, and having an unused contingency could mean no emergency had occurred. At the current spending pace, she said the following year's NEP of \"PHP900-plus million\" would last about 4.7 months. Describing the requested addition in rounded terms as PHP500 million, she estimated roughly eight months' combined coverage and said OWWA would seek further supplemental support early if needed.",
+          "citations": [
+            {
+              "stable_id": "asr-001476",
+              "start_seconds": 5418.64,
+              "clock": "01:30:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001476"
+            },
+            {
+              "stable_id": "asr-001477",
+              "start_seconds": 5421.38,
+              "clock": "01:30:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001477"
+            },
+            {
+              "stable_id": "asr-001480",
+              "start_seconds": 5426.62,
+              "clock": "01:30:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001480"
+            },
+            {
+              "stable_id": "asr-001644",
+              "start_seconds": 5753.64,
+              "clock": "01:35:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001644"
+            },
+            {
+              "stable_id": "asr-001658",
+              "start_seconds": 5877.62,
+              "clock": "01:37:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001658"
+            },
+            {
+              "stable_id": "asr-001661",
+              "start_seconds": 5921.82,
+              "clock": "01:38:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001661"
+            },
+            {
+              "stable_id": "asr-001662",
+              "start_seconds": 5943.4,
+              "clock": "01:39:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001662"
+            },
+            {
+              "stable_id": "asr-001663",
+              "start_seconds": 5971.52,
+              "clock": "01:39:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001663"
+            },
+            {
+              "stable_id": "asr-001667",
+              "start_seconds": 6031.06,
+              "clock": "01:40:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001667"
+            },
+            {
+              "stable_id": "asr-001668",
+              "start_seconds": 6049.52,
+              "clock": "01:40:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001668"
+            },
+            {
+              "stable_id": "asr-001670",
+              "start_seconds": 6078.64,
+              "clock": "01:41:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001670"
+            },
+            {
+              "stable_id": "asr-001671",
+              "start_seconds": 6089.82,
+              "clock": "01:41:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001671"
+            },
+            {
+              "stable_id": "asr-001673",
+              "start_seconds": 6107.9,
+              "clock": "01:41:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001673"
+            }
+          ]
+        },
+        {
+          "label": "ERF request and utilization",
+          "text": "Ejercito asked the OWWA about emergency repatriation funding. Caunan said the FY2027 NEP included PHP977.8 million for the Emergency Repatriation Fund (ERF). She said OWWA sought PHP1.553 billion, or PHP575 million more, and cited a PHP1.2 billion General Appropriations Act level for a non-crisis year. She described the requested ERF level as slightly higher than the pre-crisis GAA level. The request and NEP are different bases; she did not reconcile them. The later exchange specifies billion, correcting the earlier presentation unitÃ¢â‚¬â„¢s garbled request unit.",
+          "citations": [
+            {
+              "stable_id": "asr-001823",
+              "start_seconds": 6791.26,
+              "clock": "01:53:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001823"
+            },
+            {
+              "stable_id": "asr-001830",
+              "start_seconds": 6806.08,
+              "clock": "01:53:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001830"
+            },
+            {
+              "stable_id": "asr-001836",
+              "start_seconds": 6818.22,
+              "clock": "01:53:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001836"
+            },
+            {
+              "stable_id": "asr-001841",
+              "start_seconds": 6828.46,
+              "clock": "01:53:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001841"
+            },
+            {
+              "stable_id": "asr-001842",
+              "start_seconds": 6830.42,
+              "clock": "01:53:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001842"
+            },
+            {
+              "stable_id": "asr-001847",
+              "start_seconds": 6840.28,
+              "clock": "01:54:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001847"
+            },
+            {
+              "stable_id": "asr-001849",
+              "start_seconds": 6843.88,
+              "clock": "01:54:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001849"
+            }
+          ]
+        },
+        {
+          "label": "Emergency utilization and supplemental funding",
+          "text": "Ejercito asked whether OWWA would use the PHP758 million he said remained unobligated as of September 15. Caunan said continuing appropriations were fully obligated and the current appropriation was likewise obligated; separately, a PHP700 million supplemental provided in late July was 18% obligated, leaving PHP575 million. OWWA reported 159,389 services from January through August 2026, including airfare, airport assistance, transport, shelter, food and financial assistance. Caunan reported PHP206 million in average monthly obligations, equivalent to PHP2.479 billion at that pace, and about PHP1.7 billion obligated by end-August, above current appropriations when continuing and supplemental amounts were included. She said the 2025 fund was used less because there was no comparable emergency, and OWWA and the DMW wanted to remain prepared.",
+          "citations": [
+            {
+              "stable_id": "asr-001757",
+              "start_seconds": 6562.92,
+              "clock": "01:49:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001757"
+            },
+            {
+              "stable_id": "asr-001758",
+              "start_seconds": 6565.76,
+              "clock": "01:49:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001758"
+            },
+            {
+              "stable_id": "asr-001764",
+              "start_seconds": 6602.0,
+              "clock": "01:50:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001764"
+            },
+            {
+              "stable_id": "asr-001772",
+              "start_seconds": 6637.98,
+              "clock": "01:50:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001772"
+            },
+            {
+              "stable_id": "asr-001777",
+              "start_seconds": 6653.36,
+              "clock": "01:50:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001777"
+            },
+            {
+              "stable_id": "asr-001789",
+              "start_seconds": 6698.98,
+              "clock": "01:51:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001789"
+            },
+            {
+              "stable_id": "asr-001791",
+              "start_seconds": 6706.22,
+              "clock": "01:51:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001791"
+            },
+            {
+              "stable_id": "asr-001794",
+              "start_seconds": 6717.18,
+              "clock": "01:51:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001794"
+            }
+          ]
+        },
+        {
+          "label": "OWWA education scholarships and support",
+          "text": "Caunan said OWWA would support 1,000 overseas Filipino worker (OFW) scholars under the Expanded Tertiary Education Equivalency and Accreditation Program (ETEEAP), at ₱50,000 each, to help workers complete degrees while abroad. She also said OWWA had nearly 20,000 scholarships for children of OFWs and that the OWWA board had approved 10,000 additional scholarship slots that year; no per-slot amount was stated for those additional slots. Caunan also described Tulong PUSO grants of up to ₱2 million for qualifying OFW cooperatives and associations, alongside OWWA’s training, livelihood and return support for workers and families.",
+          "citations": [
+            {
+              "stable_id": "asr-002951",
+              "start_seconds": 10824.14,
+              "clock": "03:00:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002951"
+            },
+            {
+              "stable_id": "asr-002959",
+              "start_seconds": 10839.98,
+              "clock": "03:00:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002959"
+            },
+            {
+              "stable_id": "asr-002967",
+              "start_seconds": 10855.12,
+              "clock": "03:00:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002967"
+            },
+            {
+              "stable_id": "asr-002993",
+              "start_seconds": 10906.06,
+              "clock": "03:01:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002993"
+            },
+            {
+              "stable_id": "asr-003001",
+              "start_seconds": 10921.66,
+              "clock": "03:02:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003001"
+            },
+            {
+              "stable_id": "asr-003139",
+              "start_seconds": 11199.62,
+              "clock": "03:06:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003139"
+            },
+            {
+              "stable_id": "asr-002968",
+              "start_seconds": 10857.5,
+              "clock": "03:00:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002968"
+            },
+            {
+              "stable_id": "asr-003140",
+              "start_seconds": 11201.62,
+              "clock": "03:06:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003140"
+            }
+          ]
+        },
+        {
+          "label": "Repatriation reimbursements and insurance coverage",
+          "text": "Villanueva asked whether DMW and OWWA recovered the cost of urgent repatriations and medical help from employers and recruitment agencies. Cacdac said employers and agencies carry the primary repatriation responsibility and described compulsory agency insurance during the first two contract years. For crisis cases, DMW and OWWA act first and use reimbursement procedures afterward. Caunan said OWWA sends demand letters and refers noncompliant agencies to DMW for administrative sanctions, but collections are difficult. She said over ₱10 million had been returned to the Treasury that year from Emergency Repatriation Fund collections; the fund is a GAA appropriation, so collections return to the Treasury. OWWA was pursuing 176 Philippine recruitment agencies and had received payment from 13, and Caunan promised the committee a fuller report on amounts demanded and collected. She said land-based workers made up over 90% of its emergency repatriation assistance, while sea-based manning agencies generally met their contractual and maritime-convention obligations.\n\nFor medical care, Cacdac said DMW first exhausts host-country insurance coverage, including balik-manggagawa workers; DMW steps in when coverage is insufficient or a worker is undocumented and uninsured. He said OWWA had a reimbursement mechanism for employer costs but did not delay action during a crisis.",
+          "citations": [
+            {
+              "stable_id": "asr-002365",
+              "start_seconds": 9214.2,
+              "clock": "02:33:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002365"
+            },
+            {
+              "stable_id": "asr-002370",
+              "start_seconds": 9240.18,
+              "clock": "02:34:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002370"
+            },
+            {
+              "stable_id": "asr-002408",
+              "start_seconds": 9408.5,
+              "clock": "02:36:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002408"
+            },
+            {
+              "stable_id": "asr-002428",
+              "start_seconds": 9578.62,
+              "clock": "02:39:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002428"
+            },
+            {
+              "stable_id": "asr-002432",
+              "start_seconds": 9598.12,
+              "clock": "02:39:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002432"
+            },
+            {
+              "stable_id": "asr-002438",
+              "start_seconds": 9628.06,
+              "clock": "02:40:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002438"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dmw-presentation",
+      "label": "DMW presentation",
+      "items": [
+        {
+          "label": "Protection from recruitment through return and reintegration",
+          "text": "Villanueva framed the DMW as a single government home for OFWs, bringing previously separate offices under accountable leadership to protect workers from recruitment through reintegration. He said the budget should be judged by whether workers were protected, brought home safely, given justice and helped to restart their lives. He noted that more than one million Filipinos worked in the Middle East and called for the department and OWWA to be ready when conflict created urgent shelter and repatriation needs.\n\nCacdac said the Action Fund had provided financial assistance to more than 100,000 OFWs and legal assistance to 20,000. He said the department retained 25 law firms, each with four or five lawyers, amounting to at least 100 lawyers, as well as about 12 in-house lawyers. He described cases in which the fund helped undocumented or seriously ill workers return home and settle hospital debts, and supported family members making compassionate visits to workers in intensive care when insurance did not cover their basic living expenses. Villanueva said the fund was serving its purpose in assisting migrant workers.",
+          "citations": [
+            {
+              "stable_id": "asr-000038",
+              "start_seconds": 734.62,
+              "clock": "00:12:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000038"
+            },
+            {
+              "stable_id": "asr-000089",
+              "start_seconds": 1065.48,
+              "clock": "00:17:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000089"
+            },
+            {
+              "stable_id": "asr-000128",
+              "start_seconds": 1272.4,
+              "clock": "00:21:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000128"
+            },
+            {
+              "stable_id": "asr-000138",
+              "start_seconds": 1313.3,
+              "clock": "00:21:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000138"
+            }
+          ]
+        },
+        {
+          "label": "Migrant worker remittances",
+          "text": "Villanueva said OFWs sent a record US$39.62 billion in personal remittances in 2025, supporting millions of families and strengthening the economy.",
+          "citations": [
+            {
+              "stable_id": "asr-000081",
+              "start_seconds": 991.44,
+              "clock": "00:16:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000081"
+            },
+            {
+              "stable_id": "asr-000082",
+              "start_seconds": 1007.9,
+              "clock": "00:16:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000082"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-owwa-presentation",
+      "label": "OWWA presentation",
+      "items": [
+        {
+          "label": "Repatriation and reintegration in the presentation video",
+          "text": "A prerecorded Presentation video shown in the OWWA segment described the Unified Package for Livelihood, Industry, Food, and Transport (UPLIFT) and support from pre-departure preparation through safe repatriation and reintegration. It portrayed the DFA, the DMW, and other agencies coordinating during the Middle East crisis, including support through the Action Fund and the OWA Emergency Repatriation Fund. The video also described services for returning workers and efforts to help them resume work or livelihood activities.",
+          "citations": [
+            {
+              "stable_id": "asr-000378",
+              "start_seconds": 2059.64,
+              "clock": "00:34:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000378"
+            },
+            {
+              "stable_id": "asr-000434",
+              "start_seconds": 2199.64,
+              "clock": "00:36:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000434"
+            },
+            {
+              "stable_id": "asr-000445",
+              "start_seconds": 2221.64,
+              "clock": "00:37:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000445"
+            },
+            {
+              "stable_id": "asr-000452",
+              "start_seconds": 2235.64,
+              "clock": "00:37:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000452"
+            },
+            {
+              "stable_id": "asr-000491",
+              "start_seconds": 2331.64,
+              "clock": "00:38:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000491"
+            }
+          ]
+        },
+        {
+          "label": "Staffing capacity and operating services",
+          "text": "Caunan said OWWA had provided 1.45 million services from January through August 2026. She raised the agency's reliance on job-order workers and the need to address a Commission on Audit observation about their salaries; she described a staffing optimization plan submitted to the Department of Migrant Workers and the Optimization Committee. She also outlined staffing pressure at major overseas posts, where local hires helped extend welfare services. Caunan said seven in ten workers were outside the plantilla. A management audit had called for 907 positions, but only about 63 had been received; six major posts had just 15 welfare officers and 18 staff, supplemented by local hires.",
+          "citations": [
+            {
+              "stable_id": "asr-000614",
+              "start_seconds": 2804.2,
+              "clock": "00:46:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000614"
+            },
+            {
+              "stable_id": "asr-000630",
+              "start_seconds": 2839.14,
+              "clock": "00:47:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000630"
+            },
+            {
+              "stable_id": "asr-000640",
+              "start_seconds": 2859.12,
+              "clock": "00:47:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000640"
+            },
+            {
+              "stable_id": "asr-000675",
+              "start_seconds": 2929.24,
+              "clock": "00:48:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000675"
+            }
+          ]
+        },
+        {
+          "label": "Service network and reintegration",
+          "text": "OWWA said it had 5.59 million active and inactive members and 109 service points. It had established a Seafarer Welfare Center in the National Capital Region, was preparing to open one in Iloilo, and planned more centers in Mindanao and elsewhere.\n\nFrom January through August 2026, OWWA said 16,777 returning OFWs, including members returning from the Middle East crisis, received livelihood support through Balik Pinas, Balik Hanap Buhay after entrepreneurship and development training. Caunan said women made up 78% of livelihood beneficiaries and 80% of recipients under that program. OWWA planned to open its facilities for skills training and reintegration support through the National Reintegration Network framework. She said interagency caravans had delivered 651,204 services, including overseas driver-license renewals, and planned to start the Step-Up training program on October 8.",
+          "citations": [
+            {
+              "stable_id": "asr-000759",
+              "start_seconds": 3119.46,
+              "clock": "00:51:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000759"
+            },
+            {
+              "stable_id": "asr-000770",
+              "start_seconds": 3186.24,
+              "clock": "00:53:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000770"
+            },
+            {
+              "stable_id": "asr-000785",
+              "start_seconds": 3256.52,
+              "clock": "00:54:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000785"
+            },
+            {
+              "stable_id": "asr-000788",
+              "start_seconds": 3301.74,
+              "clock": "00:55:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000788"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joel-villanueva",
+      "label": "Senator Joel Villanueva",
+      "items": [
+        {
+          "label": "OWWA staffing and institutional experience",
+          "text": "Caunan said OWWA had 34 plantilla positions for welfare officers and drew personnel from regional and central offices to cover deployments. After clarifying Villanuevaâ€™s question, she said the welfare-officer plantilla positions were filled; she separately described about 60 residual vacancies left by promotions and awaiting Civil Service Commission (CSC) attestation, which OWWA continued to fill. Villanueva raised that 72% of the workforce consisted of job-order and contract-of-service workers. Caunan said more than 70 had worked as job-order staff for over 10 years, including in emergency repatriation operations and the 1348 call center. She said their institutional experience and knowledge should be institutionalized through positions.",
+          "citations": [
+            {
+              "stable_id": "asr-000825",
+              "start_seconds": 3509.14,
+              "clock": "00:58:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000825"
+            },
+            {
+              "stable_id": "asr-000841",
+              "start_seconds": 3545.64,
+              "clock": "00:59:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000841"
+            },
+            {
+              "stable_id": "asr-000847",
+              "start_seconds": 3554.58,
+              "clock": "00:59:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000847"
+            },
+            {
+              "stable_id": "asr-000859",
+              "start_seconds": 3594.98,
+              "clock": "00:59:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000859"
+            },
+            {
+              "stable_id": "asr-000872-split-2",
+              "start_seconds": 3625.12,
+              "clock": "01:00:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000872-split-2"
+            },
+            {
+              "stable_id": "asr-000887",
+              "start_seconds": 3656.62,
+              "clock": "01:00:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000887"
+            }
+          ]
+        },
+        {
+          "label": "Halfway-house property purchase dispute",
+          "text": "Villanueva recalled opposing the halfway-house purchase and refusing the required board resolution. He said the purchase nevertheless proceeded for PHP1.4 billion without proper authority. This was his account of the disputed purchase.",
+          "citations": [
+            {
+              "stable_id": "asr-001456",
+              "start_seconds": 5337.5,
+              "clock": "01:28:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001456"
+            },
+            {
+              "stable_id": "asr-001461",
+              "start_seconds": 5359.2,
+              "clock": "01:29:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001461"
+            },
+            {
+              "stable_id": "asr-001462",
+              "start_seconds": 5365.76,
+              "clock": "01:29:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001462"
+            }
+          ]
+        },
+        {
+          "label": "Crisis preparedness and remittances",
+          "text": "Cacdac said DMW relies on the DFA and Department of National Defense (DND) for geopolitical and security assessments. He cited the March-May conflict and the government's repatriation of 12,000 Filipinos, and said the agencies had assisted another 20,000 workers who remained abroad. Cacdac pointed to continuing risks in the Middle East, Russia and Ukraine, Taiwan and Korea, while stressing that host countries were protecting OFWs and that he did not want to alarm them; he argued that the department should remain prepared for a larger emergency.\n\nVillanueva agreed that the budget needed flexibility for unexpected crises and recalled opposing use of OWWA's trust fund because future emergencies were unpredictable. Cacdac added that remittances grew around 2.5% in the first half of 2026, about 0.5 percentage point below projections, and described OFW remittances as counter-cyclical. He and Villanueva argued that continued support for OFWs remained justified.",
+          "citations": [
+            {
+              "stable_id": "asr-001523",
+              "start_seconds": 5512.62,
+              "clock": "01:31:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001523"
+            },
+            {
+              "stable_id": "asr-001589",
+              "start_seconds": 5643.48,
+              "clock": "01:34:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001589"
+            },
+            {
+              "stable_id": "asr-001606",
+              "start_seconds": 5676.64,
+              "clock": "01:34:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001606"
+            },
+            {
+              "stable_id": "asr-001651",
+              "start_seconds": 5808.94,
+              "clock": "01:36:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001651"
+            }
+          ]
+        },
+        {
+          "label": "Optimization plans and migrant-office staffing",
+          "text": "Villanueva asked whether DMW and OWWA had submitted their required optimization plans and when the review would be complete. Cacdac confirmed that both agencies had submitted their plans; Villanueva noted that submission was the immediate requirement.\n\nVillanueva asked whether overseas migrant-office staffing reflected only the number of OFWs or also welfare, legal, trafficking, detention and repatriation caseloads. Cacdac said staffing considered both. He described a staged approach: send a small landing team, obtain host-government approval, establish the office, then expand staffing to meet local needs. He cited Cambodia, where DMW and OWWA would add personnel in response to scam-hub cases. Villanueva requested a brief staffing and office-formation breakdown for the committee; no breakdown is provided in this round.",
+          "citations": [
+            {
+              "stable_id": "asr-001688",
+              "start_seconds": 6199.12,
+              "clock": "01:43:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001688"
+            },
+            {
+              "stable_id": "asr-001701",
+              "start_seconds": 6223.78,
+              "clock": "01:43:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001701"
+            },
+            {
+              "stable_id": "asr-001704",
+              "start_seconds": 6239.74,
+              "clock": "01:43:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001704"
+            },
+            {
+              "stable_id": "asr-001704-split-2",
+              "start_seconds": 6266.8,
+              "clock": "01:44:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001704-split-2"
+            },
+            {
+              "stable_id": "asr-001716",
+              "start_seconds": 6300.0,
+              "clock": "01:45:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001716"
+            },
+            {
+              "stable_id": "asr-001717",
+              "start_seconds": 6322.44,
+              "clock": "01:45:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001717"
+            }
+          ]
+        },
+        {
+          "label": "Contingency for workers in conflict-affected areas",
+          "text": "Villanueva asked how many OFWs were in high-risk areas and what evacuation capacity was needed. Cacdac estimated 2.5 million OFWs across the Gulf and Levant, while stressing that this did not mean all were in danger. He said Saudi Arabia had about one million OFWs and had generally been less exposed to attacks than smaller Gulf states, though attacks had occurred there too. DMW planned for a worst-case evacuation exceeding 12,000 people, the scale repatriated during March, April and May.",
+          "citations": [
+            {
+              "stable_id": "asr-002445",
+              "start_seconds": 9668.42,
+              "clock": "02:41:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002445"
+            },
+            {
+              "stable_id": "asr-002449",
+              "start_seconds": 9694.04,
+              "clock": "02:41:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002449"
+            },
+            {
+              "stable_id": "asr-002475",
+              "start_seconds": 9804.54,
+              "clock": "02:43:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002475"
+            }
+          ]
+        },
+        {
+          "label": "Full-cycle reintegration, training and livelihood choices",
+          "text": "Villanueva asked how DMW and OWWA linked skills assessment, training, certification, employment and livelihood support through the migration cycle. Cacdac described support before departure, during overseas work and on return, with financial-literacy education, upskilling, lifelong learning, welfare and livelihood programs coordinated across DMW, OWWA, the Department of Trade and Industry (DTI), DFA, the Department of Agriculture (DA), the Technical Education and Skills Development Authority (TESDA), the Department of Labor and Employment (DOLE), the Department of Tourism (DOT) and other agencies. Assistant Secretary Francis Ron C. De Guzman described the Kaalaman tungo sa Kabuhayan (K2K) framework, linking skills courses to job matching and livelihood. A pilot in caregiving had graduated more than 140 former OFWs, some of whom had moved into overseas caregiving work; an expanded pilot offered 22 courses, including artificial intelligence and data processing, with private-sector partners and planned job fairs. DMW said it aimed to scale courses and physical centers.\n\nDe Guzman said DMW was developing return data with academic institutions to establish a baseline for how many OFWs returned and how long they stayed. Its programs include online and overseas training, livelihood and business-plan competitions for returning women, seafarers and workers still abroad, and support for families. Caunan said reintegration should give workers and families real choices about returning, local work or another overseas contract. Cacdac described higher-quality employment as a goal, including pathways beyond domestic work into caregiving, hotel work and other skilled roles through bilateral recruitment and skills cooperation. He cited 300 hotel workers hired through a government-to-government arrangement with Croatia and said caregiving opportunities had expanded in Israel, Japan and elsewhere. DMW was also working with partners on worker protections, including workplace harassment measures and removal of the night-work prohibition for women. Caunan described caregiving, barista, artificial-intelligence, virtual-assistant and Japanese-language training, digital livelihood with TikTok, and training allowances so returnees could keep supporting their families while studying.",
+          "citations": [
+            {
+              "stable_id": "asr-002481",
+              "start_seconds": 9840.48,
+              "clock": "02:44:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002481"
+            },
+            {
+              "stable_id": "asr-002495",
+              "start_seconds": 9913.9,
+              "clock": "02:45:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002495"
+            },
+            {
+              "stable_id": "asr-002554",
+              "start_seconds": 10033.94,
+              "clock": "02:47:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002554"
+            },
+            {
+              "stable_id": "asr-002669",
+              "start_seconds": 10263.0,
+              "clock": "02:51:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002669"
+            },
+            {
+              "stable_id": "asr-002704-split-2",
+              "start_seconds": 10335.36,
+              "clock": "02:52:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002704-split-2"
+            },
+            {
+              "stable_id": "asr-002893",
+              "start_seconds": 10709.2,
+              "clock": "02:58:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002893"
+            },
+            {
+              "stable_id": "asr-003034",
+              "start_seconds": 10987.0,
+              "clock": "03:03:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003034"
+            },
+            {
+              "stable_id": "asr-003169",
+              "start_seconds": 11259.62,
+              "clock": "03:07:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003169"
+            },
+            {
+              "stable_id": "asr-003194",
+              "start_seconds": 11309.62,
+              "clock": "03:08:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003194"
+            }
+          ]
+        },
+        {
+          "label": "Household income and reintegration outcomes",
+          "text": "Caunan said successful reintegration should give OFWs and their families more choices. By way of comparison, she cited domestic-worker earnings of $400–$500 monthly, approximately ₱30,000, against an estimated living wage for a family of five of more than ₱1,300 per day, or about ₱34,000–₱35,000 monthly, based on Ebon Foundation research. She said this income gap informed programs that build local employment, livelihood and education options. In an OWWA survey of crisis returnees, 38% preferred entrepreneurship or livelihood, about 20% (around 3,690 respondents) chose overseas employment, and 19% chose local wage work. Villanueva emphasized that reintegration could also mean gaining skills and returning overseas later under a better contract.",
+          "citations": [
+            {
+              "stable_id": "asr-002898",
+              "start_seconds": 10718.9,
+              "clock": "02:58:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002898"
+            },
+            {
+              "stable_id": "asr-002920",
+              "start_seconds": 10762.64,
+              "clock": "02:59:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002920"
+            },
+            {
+              "stable_id": "asr-002921",
+              "start_seconds": 10765.12,
+              "clock": "02:59:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002921"
+            },
+            {
+              "stable_id": "asr-002922",
+              "start_seconds": 10766.72,
+              "clock": "02:59:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002922"
+            },
+            {
+              "stable_id": "asr-002923",
+              "start_seconds": 10768.26,
+              "clock": "02:59:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002923"
+            },
+            {
+              "stable_id": "asr-002930",
+              "start_seconds": 10781.48,
+              "clock": "02:59:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002930"
+            },
+            {
+              "stable_id": "asr-002931",
+              "start_seconds": 10784.14,
+              "clock": "02:59:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002931"
+            },
+            {
+              "stable_id": "asr-002932",
+              "start_seconds": 10786.48,
+              "clock": "02:59:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002932"
+            },
+            {
+              "stable_id": "asr-003107",
+              "start_seconds": 11135.62,
+              "clock": "03:05:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003107"
+            }
+          ]
+        },
+        {
+          "label": "Regional protection capacity and illegal recruitment cases",
+          "text": "Villanueva asked about DMW’s regional adjudication offices and illegal recruitment efforts. Undersecretary Bernard P. Olalia said the campaign against illegal recruitment and trafficking had expanded to regional offices, which were authorized to close unlicensed recruiters and conduct entrapment operations. He reported at least 19 closures and 19 entrapment cases, including a Santiago City operation in which two suspects were arrested after recruiters charged 300,000 in a case involving the Korean government-to-government program. DMW and the National Prosecution Service of the Department of Justice (DOJ) provided legal assistance in illegal recruitment and trafficking cases; Olalia reported at least 16 convictions. DMW had memoranda of agreement with local government units (LGUs), nongovernmental and religious groups, and the Integrated Bar of the Philippines (IBP) to support information drives and victims. The Anti-Money Laundering Council (AMLC) could track, identify, freeze and recover illegally collected funds; deputized AMLC investigators included regional staff.\n\nOlalia said DMW had 16 existing regional offices, with the Negros Island Region (NIR) as the seventeenth, and said NIR already had a budget. The department planned to divide its large National Capital Region (NCR) office into four offices. Cacdac said staffing had grown from roughly 6–10 per former Philippine Overseas Employment Administration (POEA) regional office to about 30–40 on average under DMW. He estimated 70% of DMW’s workforce were millennials or Generation Z; Villanueva contrasted this with a 72% job-order figure he had raised earlier.",
+          "citations": [
+            {
+              "stable_id": "asr-003347",
+              "start_seconds": 11615.62,
+              "clock": "03:13:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003347"
+            },
+            {
+              "stable_id": "asr-003356",
+              "start_seconds": 11633.62,
+              "clock": "03:13:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003356"
+            },
+            {
+              "stable_id": "asr-003390",
+              "start_seconds": 11700.38,
+              "clock": "03:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003390"
+            },
+            {
+              "stable_id": "asr-003404",
+              "start_seconds": 11818.58,
+              "clock": "03:16:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003404"
+            },
+            {
+              "stable_id": "asr-003409",
+              "start_seconds": 11828.48,
+              "clock": "03:17:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003409"
+            },
+            {
+              "stable_id": "asr-003427",
+              "start_seconds": 11862.96,
+              "clock": "03:17:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003427"
+            }
+          ]
+        },
+        {
+          "label": "Online scam tactics, alleged insider assistance and case delays",
+          "text": "Villanueva said DMW reported taking down 87,011 online scam posts in 2025 and 44,079 in the first half of 2026, but only nine convictions in 2025 and four in the first half of 2026. Olalia said scammers impersonated licensed recruitment agencies and sent convincing job offers; he advised applicants to verify in person at an agency’s main or branch office and avoid online transactions or digital payments. He described a purported ₱3,000 reservation fee used to pressure victims.\n\nVillanueva raised a National Bureau of Investigation (NBI) report that an immigration officer was arrested for allegedly helping five potential trafficking victims travel to Thailand despite incomplete documents in exchange for a reported ₱40,000 per passenger, and asked about coordination with law enforcement. The specific coordination question remained unanswered before the exchange moved to adjudication rates.\n\nVillanueva questioned a reported adjudication disposition rate of 0.12% in the first half of 2026, compared with 51.23% in 2025, and an alternative-dispute-resolution rate falling from 96% to 88%. Olalia said \"12%\" in his reply, differing from the chair's 0.12% figure, and explained that hearings and evidence submissions occur before final decisions; the first half was still the initial phase. He said the performance target was to fully resolve 50% of that year’s docketed cases, and expected the rate to reach 100% in the second half. Cacdac said DMW had task forces to catch up and about 200 cases pending on appeal.",
+          "citations": [
+            {
+              "stable_id": "asr-003457",
+              "start_seconds": 11918.36,
+              "clock": "03:18:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003457"
+            },
+            {
+              "stable_id": "asr-003501",
+              "start_seconds": 12012.2,
+              "clock": "03:20:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003501"
+            },
+            {
+              "stable_id": "asr-003537",
+              "start_seconds": 12083.74,
+              "clock": "03:21:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003537"
+            },
+            {
+              "stable_id": "asr-003538",
+              "start_seconds": 12085.16,
+              "clock": "03:21:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003538"
+            },
+            {
+              "stable_id": "asr-003559",
+              "start_seconds": 12124.6,
+              "clock": "03:22:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003559"
+            },
+            {
+              "stable_id": "asr-003583",
+              "start_seconds": 12172.78,
+              "clock": "03:22:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003583"
+            },
+            {
+              "stable_id": "asr-003584",
+              "start_seconds": 12174.84,
+              "clock": "03:22:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003584"
+            },
+            {
+              "stable_id": "asr-003593",
+              "start_seconds": 12192.72,
+              "clock": "03:23:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003593"
+            },
+            {
+              "stable_id": "asr-003617",
+              "start_seconds": 12241.0,
+              "clock": "03:24:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003617"
+            },
+            {
+              "stable_id": "asr-003639",
+              "start_seconds": 12284.8,
+              "clock": "03:24:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003639"
+            },
+            {
+              "stable_id": "asr-003645-split-2",
+              "start_seconds": 12297.84,
+              "clock": "03:24:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003645-split-2"
+            }
+          ]
+        },
+        {
+          "label": "Passport fee proposal",
+          "text": "Villanueva joined the call to hold off on higher passport fees and urged coordinated efforts with the passport producer, APO Production Unit, Inc. He noted the longer passport validity and the foreign-affairs secretary's reported discussions with APO.",
+          "citations": [
+            {
+              "stable_id": "asr-002349",
+              "start_seconds": 9037.06,
+              "clock": "02:30:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002349"
+            },
+            {
+              "stable_id": "asr-002351",
+              "start_seconds": 9067.3,
+              "clock": "02:31:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002351"
+            },
+            {
+              "stable_id": "asr-002352",
+              "start_seconds": 9084.54,
+              "clock": "02:31:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002352"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-erwin-tulfo",
+      "label": "Senator Erwin Tulfo",
+      "items": [
+        {
+          "label": "What the Action Fund covers",
+          "text": "When Tulfo asked which expenses the Action Fund covered, Cacdac said it paid for legal, medical and financial assistance and repatriation. It could hire lawyers for OFWs facing or bringing cases abroad, cover hospital bills, assist distressed workers returning to the Philippines, and support victims of illegal recruitment and trafficking. It also paid charter flights and other repatriation costs during the war involving Israel, the United States and Iran.\n\nCacdac said “blood money” was excluded because it was a private settlement with a victim, consistent with Commission on Audit (COA) findings. Immigration-related expenses, fines and court-related penalties were included.",
+          "citations": [
+            {
+              "stable_id": "asr-000970",
+              "start_seconds": 3821.98,
+              "clock": "01:03:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000970"
+            },
+            {
+              "stable_id": "asr-000973-split-2",
+              "start_seconds": 3828.68,
+              "clock": "01:03:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-000973-split-2"
+            },
+            {
+              "stable_id": "asr-001061",
+              "start_seconds": 4004.74,
+              "clock": "01:06:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001061"
+            },
+            {
+              "stable_id": "asr-001073",
+              "start_seconds": 4033.02,
+              "clock": "01:07:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001073"
+            }
+          ]
+        },
+        {
+          "label": "Repatriation support, transition assistance and reintegration",
+          "text": "Cacdac said the Action Fund had supported the return of 12,000 distressed workers. He distinguished reintegration assistance from transitional financial assistance intended to bridge the return home: when Tulfo asked whether workers choosing not to return to overseas employment could receive start-up capital and how much, Cacdac described a safety net equivalent to one, one and a half, or two months' salary but did not give a separate capital amount.\n\nCacdac then said approximately PHP30,000 per returning worker had been provided jointly with OWWA in that war-related repatriation round: PHP20,000 from DMW and PHP10,000 from OWWA. Separately, 20,000 workers who remained abroad but lost income through reduced take-home pay, night shifts, shifts or overtime received US$200 each, along with groceries and basic food, water and necessities.",
+          "citations": [
+            {
+              "stable_id": "asr-001078",
+              "start_seconds": 4045.0,
+              "clock": "01:07:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001078"
+            },
+            {
+              "stable_id": "asr-001086",
+              "start_seconds": 4062.1,
+              "clock": "01:07:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001086"
+            },
+            {
+              "stable_id": "asr-001120",
+              "start_seconds": 4128.28,
+              "clock": "01:08:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001120"
+            },
+            {
+              "stable_id": "asr-001121",
+              "start_seconds": 4130.7,
+              "clock": "01:08:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001121"
+            },
+            {
+              "stable_id": "asr-001122",
+              "start_seconds": 4133.08,
+              "clock": "01:08:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001122"
+            },
+            {
+              "stable_id": "asr-001123",
+              "start_seconds": 4135.08,
+              "clock": "01:08:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001123"
+            },
+            {
+              "stable_id": "asr-001124",
+              "start_seconds": 4136.86,
+              "clock": "01:08:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001124"
+            },
+            {
+              "stable_id": "asr-001134",
+              "start_seconds": 4156.68,
+              "clock": "01:09:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001134"
+            },
+            {
+              "stable_id": "asr-001135",
+              "start_seconds": 4159.12,
+              "clock": "01:09:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001135"
+            },
+            {
+              "stable_id": "asr-001141",
+              "start_seconds": 4170.96,
+              "clock": "01:09:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001141"
+            },
+            {
+              "stable_id": "asr-001142",
+              "start_seconds": 4173.02,
+              "clock": "01:09:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001142"
+            }
+          ]
+        },
+        {
+          "label": "Death-row cases and a worker receiving hospice care",
+          "text": "Asked about OFWs in prison and facing legal cases, Cacdac reported 35 on death row worldwide.\n\nTulfo also asked about a worker he had visited in Milan whose hospitalization he said the DMW was covering. At the end of the round, Cacdac updated him that she remained in the same facility receiving hospice care and could not be moved at that stage; DMW and OWWA continued to care for and monitor her.",
+          "citations": [
+            {
+              "stable_id": "asr-001016",
+              "start_seconds": 3914.12,
+              "clock": "01:05:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001016"
+            },
+            {
+              "stable_id": "asr-001049",
+              "start_seconds": 3978.8,
+              "clock": "01:06:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001049"
+            },
+            {
+              "stable_id": "asr-001058",
+              "start_seconds": 3998.02,
+              "clock": "01:06:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001058"
+            },
+            {
+              "stable_id": "asr-001260",
+              "start_seconds": 4408.9,
+              "clock": "01:13:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001260"
+            }
+          ]
+        },
+        {
+          "label": "Repatriated cruise workers and renewed employment",
+          "text": "Tulfo asked about cruise workers repatriated from the Americas and Caribbean in the prior year and whether they had found work or returned to cruise ships. Cacdac said approximately 222 had received financial assistance between 2025 and 2026. He said some had found work, but it remained difficult for them to return to cruise employment in the Americas; DMW was seeking suitable positions locally and in hotels and hospitality.",
+          "citations": [
+            {
+              "stable_id": "asr-001146",
+              "start_seconds": 4181.82,
+              "clock": "01:09:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001146"
+            },
+            {
+              "stable_id": "asr-001154",
+              "start_seconds": 4196.82,
+              "clock": "01:09:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001154"
+            }
+          ]
+        },
+        {
+          "label": "MWO coverage and new Guam post",
+          "text": "Tulfo asked why the DMW had offices in some countries with many OFWs but not others. Cacdac said the 43 MWOs were located where OFWs were most concentrated; 60–70% of OFWs were in the Middle East, where the Philippines had a presence in every country. The DFA had Foreign Service Posts in about 95 countries, all of which the DMW Charter required the department to cover. Cacdac said four offices had been added since the DMW was established and four more were hoped for by the first quarter of the following year. He identified Guam as the latest labor-attache posting and the 44th post, serving about 6,000–7,000 Filipino workers. He said about 90% of Filipinos were in places with an MWO; the remaining roughly 10% were in countries with fewer workers and less demand.",
+          "citations": [
+            {
+              "stable_id": "asr-001179",
+              "start_seconds": 4246.66,
+              "clock": "01:10:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001179"
+            },
+            {
+              "stable_id": "asr-001196",
+              "start_seconds": 4281.48,
+              "clock": "01:11:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001196"
+            },
+            {
+              "stable_id": "asr-001222",
+              "start_seconds": 4332.88,
+              "clock": "01:12:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001222"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-raffy-t-tulfo",
+      "label": "Senator Raffy T. Tulfo",
+      "items": [
+        {
+          "label": "Four priorities for protecting migrant workers",
+          "text": "Tulfo expressed full support for the DMW and OWWA budgets, which he said served nearly 2.1 million OFWs worldwide. As chair of the Senate Committee on Migrant Workers, he named four priorities: swift crisis response through the Action Fund; safe repatriation and reintegration for workers returning after abuse, calamities, illegal recruitment or trafficking; healthcare and education support for OFWs and their families in the Philippines; and monitoring to ensure foreign employers followed labor laws, including accessible hotlines and digital platforms for workers facing abuse. Villanueva took note of all four priorities and highlighted monitoring of workers abroad.",
+          "citations": [
+            {
+              "stable_id": "asr-001285",
+              "start_seconds": 4459.28,
+              "clock": "01:14:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001285"
+            },
+            {
+              "stable_id": "asr-001307",
+              "start_seconds": 4502.94,
+              "clock": "01:15:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001307"
+            },
+            {
+              "stable_id": "asr-001322",
+              "start_seconds": 4581.14,
+              "clock": "01:16:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001322"
+            }
+          ]
+        },
+        {
+          "label": "Remittances and support for OFW services",
+          "text": "Raffy Tulfo linked his support for worker services to OFWs' contribution to the economy through remittances. Villanueva said added funding required finding an offset elsewhere in the budget.",
+          "citations": [
+            {
+              "stable_id": "asr-001373",
+              "start_seconds": 4819.22,
+              "clock": "01:20:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001373"
+            },
+            {
+              "stable_id": "asr-001376",
+              "start_seconds": 4858.16,
+              "clock": "01:20:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001376"
+            }
+          ]
+        },
+        {
+          "label": "Seafarers exercising the right to refuse sailing",
+          "text": "Asked what support was available to seafarers who feared sailing because of drone strikes, Cacdac said 1,500 had manifested the right to refuse sailing over the previous three years. The rules barred discrimination against those exercising the right. Cacdac said the 1,500 cases reported to DMW and affirmed by their licensing agencies had not resulted in known adverse consequences: shipping lines had moved seafarers to another voyage or assignment. Those who returned home received Action Fund assistance.",
+          "citations": [
+            {
+              "stable_id": "asr-001384",
+              "start_seconds": 4937.04,
+              "clock": "01:22:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001384"
+            },
+            {
+              "stable_id": "asr-001385",
+              "start_seconds": 4959.46,
+              "clock": "01:22:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001385"
+            }
+          ]
+        },
+        {
+          "label": "Temporary accommodation for repatriated workers",
+          "text": "Tulfo asked whether it was more practical to house returning OFWs through hotel partnerships or build government accommodation, especially if many arrived at once and hotels had no available rooms. Cacdac said private hospitality providers were better suited to house large numbers during a pandemic, war or other crisis; he said the government could not sustain facilities with 1,000, 2,000 or 10,000 rooms. He said DMW or OWWA could manage a smaller temporary facility of 25 to 50 rooms, as OWWA had considered, but not a large-scale operation. He cited Kabayan Hotel as a major existing lodging partner.",
+          "citations": [
+            {
+              "stable_id": "asr-001393",
+              "start_seconds": 5026.02,
+              "clock": "01:23:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001393"
+            },
+            {
+              "stable_id": "asr-001399",
+              "start_seconds": 5072.26,
+              "clock": "01:24:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001399"
+            },
+            {
+              "stable_id": "asr-001409",
+              "start_seconds": 5116.02,
+              "clock": "01:25:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001409"
+            }
+          ]
+        },
+        {
+          "label": "Ombudsman resolution on the OWWA halfway-house purchase",
+          "text": "Asked about the halfway-house purchase case, Cacdac said the Ombudsman had directed the filing of a case for usurpation of official functions because a deed of sale was signed without authority from the OWWA Board of Trustees. The Ombudsman dismissed the plunder and Anti-Graft and Corrupt Practices Act aspects. DMW filed a motion for reconsideration. Cacdac said the purchase included condominium titles; after first saying “52?” he said there were 50 titles. He said the condominium had been demolished, the titles transferred to the government, and characterized the purchase as a “ghost purchase” of 52 units. He cited PHP97 million as an addition to the purchase price. DMW was raising the demolished units and transferred titles in its motion for reconsideration.",
+          "citations": [
+            {
+              "stable_id": "asr-001419",
+              "start_seconds": 5182.16,
+              "clock": "01:26:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001419"
+            },
+            {
+              "stable_id": "asr-001423",
+              "start_seconds": 5197.16,
+              "clock": "01:26:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001423"
+            },
+            {
+              "stable_id": "asr-001429",
+              "start_seconds": 5230.16,
+              "clock": "01:27:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001429"
+            },
+            {
+              "stable_id": "asr-001434",
+              "start_seconds": 5247.74,
+              "clock": "01:27:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001434"
+            },
+            {
+              "stable_id": "asr-001439",
+              "start_seconds": 5264.32,
+              "clock": "01:27:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001439"
+            },
+            {
+              "stable_id": "asr-001443",
+              "start_seconds": 5277.08,
+              "clock": "01:27:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001443"
+            },
+            {
+              "stable_id": "asr-001444",
+              "start_seconds": 5279.9400000000005,
+              "clock": "01:27:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-001444"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-christopher-lawrence-t-go",
+      "label": "Senator Christopher Lawrence T. Go",
+      "items": [
+        {
+          "label": "OFW Hospital access and proposed wards",
+          "text": "Go said that the OFW Hospital in Pampanga, established through Executive Order 154, should remain accessible to workers and their families. He asked about its operating needs and how funding reductions could affect services, and said he had filed Senate Bill No. 414 to institutionalize the hospital. Because not all OFWs could travel to Pampanga for care, he also cited Senate Bill No. 1290, the proposed OFW Wards Act, to establish dedicated wards in hospitals across the country. Cacdac reported 190,000 people served, including OFWs, their parents and children, and a Cancer Care Center planned for the following year.",
+          "citations": [
+            {
+              "stable_id": "asr-002143",
+              "start_seconds": 7793.12,
+              "clock": "02:09:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002143"
+            },
+            {
+              "stable_id": "asr-002157",
+              "start_seconds": 7860.6,
+              "clock": "02:11:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002157"
+            },
+            {
+              "stable_id": "asr-002260",
+              "start_seconds": 8441.26,
+              "clock": "02:20:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002260"
+            },
+            {
+              "stable_id": "asr-002267",
+              "start_seconds": 8509.42,
+              "clock": "02:21:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002267"
+            }
+          ]
+        },
+        {
+          "label": "Passport fee increase and DMW response",
+          "text": "Go said a proposed Philippine passport processing fee increase would raise the fee from ₱950 to ₱1,500. He urged the DFA and the APO Production Unit, Inc. (APO), the government-owned passport printer, to defer the increase or lower the fee if possible, citing the cost to OFWs and their families. He urged the government to consider a subsidy to spare workers the added expense.\n\nCacdac said passport fees fell under the Foreign Affairs Secretary’s findings and that he would speak with his counterpart and relay OFWs’ concerns. Go welcomed that commitment and urged Cacdac to ask DFA to defer the increase.",
+          "citations": [
+            {
+              "stable_id": "asr-002160",
+              "start_seconds": 7879.18,
+              "clock": "02:11:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002160"
+            },
+            {
+              "stable_id": "asr-002169",
+              "start_seconds": 7939.18,
+              "clock": "02:12:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002169"
+            },
+            {
+              "stable_id": "asr-002188",
+              "start_seconds": 7998.34,
+              "clock": "02:13:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002188"
+            },
+            {
+              "stable_id": "asr-002282",
+              "start_seconds": 8678.36,
+              "clock": "02:24:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002282"
+            },
+            {
+              "stable_id": "asr-002288",
+              "start_seconds": 8733.5,
+              "clock": "02:25:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002288"
+            },
+            {
+              "stable_id": "asr-002292",
+              "start_seconds": 8753.38,
+              "clock": "02:25:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002292"
+            }
+          ]
+        },
+        {
+          "label": "Migrant Workers Office in Nagoya",
+          "text": "Go said a recent visit to Nagoya, Japan, highlighted that the area had no Migrant Workers Office (MWO) despite its large Filipino worker population. Cacdac said he had discussed the matter with Consul General Sherlyn Manangkil during the presidential trip, agreed Nagoya had many OFWs, and committed to assign an MWO there. He said DFA Secretary Ma. Theresa P. Lazaro was involved in the discussions and DMW would expand its presence where Filipino workers needed access to support.",
+          "citations": [
+            {
+              "stable_id": "asr-002232",
+              "start_seconds": 8211.36,
+              "clock": "02:16:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002232"
+            },
+            {
+              "stable_id": "asr-002299",
+              "start_seconds": 8795.52,
+              "clock": "02:26:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002299"
+            },
+            {
+              "stable_id": "asr-002308",
+              "start_seconds": 8829.08,
+              "clock": "02:27:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002308"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-committee-disposition",
+      "label": "Committee disposition",
+      "items": [
+        {
+          "label": "Committee disposition",
+          "text": "Villanueva submitted the fiscal year 2027 proposed budget of the DMW and its attached agencies for plenary consideration, subject to the day's discussions and the subcommittee's requested documents and information. He then suspended the budget briefing.",
+          "citations": [
+            {
+              "stable_id": "asr-003681",
+              "start_seconds": 12373.02,
+              "clock": "03:26:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003681"
+            },
+            {
+              "stable_id": "asr-003686",
+              "start_seconds": 12383.1,
+              "clock": "03:26:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003686"
+            },
+            {
+              "stable_id": "asr-003689",
+              "start_seconds": 12388.78,
+              "clock": "03:26:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003689"
+            },
+            {
+              "stable_id": "asr-003703",
+              "start_seconds": 12417.54,
+              "clock": "03:26:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-003703"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

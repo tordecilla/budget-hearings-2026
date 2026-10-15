@@ -1,0 +1,3106 @@
+{
+  "hearing": {
+    "hearing_id": 43,
+    "title": "Senate Committee on Finance: DOH - September 4, 2026",
+    "hearing_date": "2026-09-04",
+    "official_url": "https://www.youtube.com/watch?v=ETQ8ir97r2E"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h43/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Patient costs and service delivery",
+      "text": "Health Secretary Edwin M. Mercado presented the Department of Health (DOH) program and answered questions with Philippine Health Insurance Corporation (PhilHealth) President and Chief Executive Officer Dr. Beverly Lorraine Ho; members tested whether appropriations and benefit design would reduce patient costs and improve access.",
+      "citations": []
+    },
+    {
+      "label": "Medicine supply and procurement",
+      "text": "Senator Raffy T. Tulfo challenged medicine-expiration and procurement practices. DOH officials distinguished reported stock figures from his allegations; the proposed World Health Organization medicine donation remained under review.",
+      "citations": []
+    },
+    {
+      "label": "Local outcomes and financing",
+      "text": "Senators Sherwin “Win” T. Gatchalian and Panfilo Lacson pressed for measurable nutrition, immunization, facility-readiness and health-financing outcomes. Officials acknowledged local delivery and funding-data gaps and promised follow-up records or plans.",
+      "citations": []
+    },
+    {
+      "label": "Workforce and regulation",
+      "text": "Senator Pia S. Cayetano raised allied-health training and migration, vape regulation and Food and Drug Administration (FDA) capacity. FDA OIC Director General Atty. Franklin Anthony M. Tabaquin IV described ongoing policy work and staffing needs; Cayetano also pressed for research funding, future planning, and fair medical-assistance access.",
+      "citations": []
+    },
+    {
+      "label": "Hospital priorities and outcome",
+      "text": "Members supported prioritizing specialty hospitals and service-ready projects, while hearing hearing chair Senator Joseph Victor “JV” G. Ejercito warned that fiscal space was limited. He deemed the DOH and attached-agency budgets submitted for plenary consideration subject to discussion and requested documents.",
+      "citations": []
+    }
+  ],
+  "method_note": "Use the timestamp links to check each exchange in the transcript and official video.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "FY2027 DOH proposed allocation",
+          "text": "Secretary Edwin M. Mercado presented an FY2027 National Expenditure Program (NEP) allocation of ₱353.8 billion for the Department of Health (DOH) alone. The original aggregate request submitted to the Department of Budget and Management (DBM) is not stated in the hearing, so no original-request comparison is available.",
+          "citations": [
+            {
+              "stable_id": "asr-000509",
+              "start_seconds": 1737.77,
+              "clock": "00:28:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000509"
+            },
+            {
+              "stable_id": "asr-000510",
+              "start_seconds": 1740.49,
+              "clock": "00:29:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000510"
+            },
+            {
+              "stable_id": "asr-000536",
+              "start_seconds": 1763.73,
+              "clock": "00:29:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000536"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 PhilHealth subsidy and conflicting original-request figures",
+          "text": "Senator Joel Villanueva cited a PHP74.449 billion FY2027 National Health Insurance Program (NHIP) subsidy, including Special Purpose Insurance Coverage (SPIC), for the Philippine Health Insurance Corporation (PhilHealth). President and Chief Executive Officer Dr. Beverly Lorraine Ho identified its original submission as PHP370 billion and later gave PHP374 billion; hearing chair Senator Joseph Victor \"JV\" G. Ejercito cited PHP376 billion. These request figures were not reconciled.",
+          "citations": [
+            {
+              "stable_id": "asr-006335",
+              "start_seconds": 18244.74,
+              "clock": "05:04:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006335"
+            },
+            {
+              "stable_id": "asr-006336",
+              "start_seconds": 18248.16,
+              "clock": "05:04:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006336"
+            },
+            {
+              "stable_id": "asr-003453",
+              "start_seconds": 9452.37,
+              "clock": "02:37:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003453"
+            },
+            {
+              "stable_id": "asr-007566",
+              "start_seconds": 21071.7,
+              "clock": "05:51:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007566"
+            },
+            {
+              "stable_id": "asr-007569",
+              "start_seconds": 21080.44,
+              "clock": "05:51:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007569"
+            },
+            {
+              "stable_id": "asr-003386",
+              "start_seconds": 9316.16,
+              "clock": "02:35:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003386"
+            },
+            {
+              "stable_id": "asr-003387",
+              "start_seconds": 9318.16,
+              "clock": "02:35:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003387"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 NNC amount cited in the hearing",
+          "text": "Senator Sherwin “Win” T. Gatchalian cited ₱340 million shown under the National Nutrition Council (NNC) for FY2027. The original NNC request amount is not stated in the hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-002019",
+              "start_seconds": 5587.42,
+              "clock": "01:33:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002019"
+            },
+            {
+              "stable_id": "asr-002020",
+              "start_seconds": 5588.98,
+              "clock": "01:33:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002020"
+            },
+            {
+              "stable_id": "asr-002021",
+              "start_seconds": 5591.24,
+              "clock": "01:33:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002021"
+            }
+          ]
+        },
+        {
+          "label": "Totals not stated for several agency accounts",
+          "text": "The hearing did not state complete FY2027 NEP or original-request totals for the National Kidney and Transplant Institute (NKTI), Lung Center of the Philippines (LCP), and Philippine Heart Center (PHC). Their project appeals are listed in the agency accounts below.",
+          "citations": [
+            {
+              "stable_id": "asr-008067",
+              "start_seconds": 22728.24,
+              "clock": "06:18:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008067"
+            },
+            {
+              "stable_id": "asr-008167",
+              "start_seconds": 23259.78,
+              "clock": "06:27:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008167"
+            },
+            {
+              "stable_id": "asr-008290",
+              "start_seconds": 23681.0,
+              "clock": "06:34:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008290"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 PCMC original proposal and NEP allocation",
+          "text": "Philippine Children's Medical Center (PCMC) Executive Director Dr. Cecilia O. Gan gave an original FY2027 proposed budget of ₱4.9 billion and an NEP allocation of ₱1.8 billion.",
+          "citations": [
+            {
+              "stable_id": "asr-008254",
+              "start_seconds": 23438.18,
+              "clock": "06:30:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008254"
+            },
+            {
+              "stable_id": "asr-008255",
+              "start_seconds": 23448.38,
+              "clock": "06:30:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008255"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-health-doh",
+      "label": "Department of Health (DOH) budget",
+      "items": [
+        {
+          "label": "Operating and capital components",
+          "text": "For FY2027, the largest expense category was PHP218 billion in maintenance and other operating expenses (MOOE), 20% above the 2026 NEP. Health Secretary Edwin M. Mercado corrected his initial personal-services label to MOOE, and separately reported a 7% increase in personal services. The capital account included PHP14.5 billion for the Health Facilities Enhancement Program (HFEP) and PHP4.2 billion for the World Bank-financed Health System Resilience Project in 17 provinces; capital outlay declined against the 2026 NEP.",
+          "citations": [
+            {
+              "stable_id": "asr-000578",
+              "start_seconds": 1828.06,
+              "clock": "00:30:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000578"
+            },
+            {
+              "stable_id": "asr-000579",
+              "start_seconds": 1844.98,
+              "clock": "00:30:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000579"
+            },
+            {
+              "stable_id": "asr-000581",
+              "start_seconds": 1857.04,
+              "clock": "00:30:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000581"
+            },
+            {
+              "stable_id": "asr-000583",
+              "start_seconds": 1868.34,
+              "clock": "00:31:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000583"
+            },
+            {
+              "stable_id": "asr-000584",
+              "start_seconds": 1878.18,
+              "clock": "00:31:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000584"
+            }
+          ]
+        },
+        {
+          "label": "Pillars one and two: prevention and primary care",
+          "text": "Mercado assigned ₱60.5 billion to pillar one, Healthy Schools, Workplaces and Communities. Its named amounts included ₱55.4 billion for Philippine Health Insurance Corporation (PhilHealth) premiums covering indirect contributors, ₱2.5 billion for health promotion, and ₱1.3 billion for health emergency preparedness. He said the promotion amount remained below the mandated 1% but had risen significantly and nearly doubled from prior years. He said 30.7 million people were registered as indirect contributors. Pillar two, Functional Primary Care Services, received ₱29.1 billion: ₱9.1 billion for family health, immunization, nutrition and responsible parenting; ₱6.9 billion for communicable diseases centered on tuberculosis and HIV; ₱2.7 billion for noncommunicable diseases including hypertension, diabetes and mental health; and ₱1.5 billion for local health-system development supporting local health systems across 18 regions. Mercado said DOH and PhilHealth were working to expand medicine access through the YAKAP program, including family-planning commodities, and to cover HIV testing; these were plans rather than completed additions in this account.",
+          "citations": [
+            {
+              "stable_id": "asr-000412",
+              "start_seconds": 1618.13,
+              "clock": "00:26:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000412"
+            },
+            {
+              "stable_id": "asr-000417",
+              "start_seconds": 1623.37,
+              "clock": "00:27:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000417"
+            },
+            {
+              "stable_id": "asr-000588",
+              "start_seconds": 1900.14,
+              "clock": "00:31:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000588"
+            },
+            {
+              "stable_id": "asr-000591",
+              "start_seconds": 1917.48,
+              "clock": "00:31:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000591"
+            },
+            {
+              "stable_id": "asr-000593",
+              "start_seconds": 1928.76,
+              "clock": "00:32:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000593"
+            },
+            {
+              "stable_id": "asr-000624",
+              "start_seconds": 2063.6,
+              "clock": "00:34:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000624"
+            },
+            {
+              "stable_id": "asr-000627",
+              "start_seconds": 2081.62,
+              "clock": "00:34:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000627"
+            },
+            {
+              "stable_id": "asr-000631",
+              "start_seconds": 2101.58,
+              "clock": "00:35:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000631"
+            },
+            {
+              "stable_id": "asr-000633",
+              "start_seconds": 2113.38,
+              "clock": "00:35:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000633"
+            }
+          ]
+        },
+        {
+          "label": "Pillar three: hospital services and restoration priorities",
+          "text": "Pillar three, Quality and Efficient Hospitals, received PHP207.3 billion, including hospital operating expenses and HFEP. Mercado said DOH hospitals and specialty hospitals had NEP coverage for operating expenses and personal services, with operating funds sustaining free services beyond PhilHealth coverage. Medical Assistance to Indigent and Financially Incapacitated Patients (MAIFIP) received PHP24.2 billion, and the Cancer Assistance Fund PHP3.8 billion. Mercado appealed for restoration of reduced HFEP funding to strengthen local services and ease demand at DOH hospitals; the appeal was a request for committee consideration.",
+          "citations": [
+            {
+              "stable_id": "asr-000421",
+              "start_seconds": 1628.67,
+              "clock": "00:27:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000421"
+            },
+            {
+              "stable_id": "asr-000662",
+              "start_seconds": 2251.91,
+              "clock": "00:37:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000662"
+            },
+            {
+              "stable_id": "asr-000667",
+              "start_seconds": 2292.7200000000003,
+              "clock": "00:38:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000667"
+            },
+            {
+              "stable_id": "asr-000668",
+              "start_seconds": 2296.5,
+              "clock": "00:38:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000668"
+            },
+            {
+              "stable_id": "asr-000672",
+              "start_seconds": 2317.7200000000003,
+              "clock": "00:38:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000672"
+            }
+          ]
+        },
+        {
+          "label": "Information systems, workforce appeal and other capital requests",
+          "text": "Pillar four provided PHP2.7 billion for information technology, including a national health data repository and interoperable YAKAP electronic medical records. Mercado also cited PHP222 million for health statistics. He sought an amendment of about PHP740 million for validated health emergency allowance (HEA) appeals by healthcare workers. Separately, he reported PHP1.97 trillion in cumulative health-care spending during the current administration; this was a cumulative spending claim, rather than the FY2027 allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-000436",
+              "start_seconds": 1648.81,
+              "clock": "00:27:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000436"
+            },
+            {
+              "stable_id": "asr-000442",
+              "start_seconds": 1655.75,
+              "clock": "00:27:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000442"
+            },
+            {
+              "stable_id": "asr-000474",
+              "start_seconds": 1697.0700000000002,
+              "clock": "00:28:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000474"
+            },
+            {
+              "stable_id": "asr-000495",
+              "start_seconds": 1722.95,
+              "clock": "00:28:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000495"
+            },
+            {
+              "stable_id": "asr-000680",
+              "start_seconds": 2352.64,
+              "clock": "00:39:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000680"
+            }
+          ]
+        },
+        {
+          "label": "Expired medicines, reported losses, and distribution failures",
+          "text": "Senator Raffy T. Tulfo challenged the Department of Health (DOH) over medicines he said were repeatedly left to expire or buried while poor patients and barangay health centers lacked supplies. Undersecretary Dr. Gloria J. Balboa described a systems problem involving program forecasting, delayed procurement and failed bids, delivery, and inventory visibility; she said medicine should arrive with 18 months of shelf life, while in some cases the DOH accepted 15 months with a supplier guarantee to replace it when it neared six months. Tulfo demanded records and contracts to support earlier claims that expired drugs were returned to suppliers. Balboa said she knew of replacement requirements for near-expiry stock in the terms of reference, but was not aware of an arrangement returning already-expired medicines. Asked about 2026, Secretary Edwin M. Mercado instead reported 2025 figures: expired stocks valued at about PHP 217 million and near-expiry stocks at PHP 477 million. Tulfo separately alleged that 11 billion pesos worth of medicines had been buried in 2023. He also alleged that medicine procurement favored suppliers offering near-expiry drugs and kickbacks, and that expired mental-health medicines intended for the Mandaluyong Mental Health Center were disposed of while some products were sold after expiry dates were removed. These were Tulfo's allegations. He said he would raise the matter in a privilege speech for possible Senate Blue Ribbon Committee investigation.",
+          "citations": [
+            {
+              "stable_id": "asr-000930",
+              "start_seconds": 3393.11,
+              "clock": "00:56:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000930"
+            },
+            {
+              "stable_id": "asr-001018",
+              "start_seconds": 3558.58,
+              "clock": "00:59:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001018"
+            },
+            {
+              "stable_id": "asr-001104",
+              "start_seconds": 3814.0,
+              "clock": "01:03:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001104"
+            },
+            {
+              "stable_id": "asr-001111",
+              "start_seconds": 3867.21,
+              "clock": "01:04:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001111"
+            },
+            {
+              "stable_id": "asr-001112",
+              "start_seconds": 3874.17,
+              "clock": "01:04:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001112"
+            },
+            {
+              "stable_id": "asr-001174",
+              "start_seconds": 4123.62,
+              "clock": "01:08:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001174"
+            },
+            {
+              "stable_id": "asr-001176",
+              "start_seconds": 4128.24,
+              "clock": "01:08:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001176"
+            },
+            {
+              "stable_id": "asr-001248",
+              "start_seconds": 4257.02,
+              "clock": "01:10:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001248"
+            }
+          ]
+        },
+        {
+          "label": "Medicine procurement and proposed purchasing changes",
+          "text": "Hearing chair Senator Joseph Victor \"JV\" G. Ejercito suggested studying prescription-based purchasing used by some local governments, where they pay for medicines prescribed rather than buy in bulk. Mercado said the DOH was considering routing the budget for medicine commodities through the Philippine Health Insurance Corporation (PhilHealth) for purchasing, using its pharmacists and negotiated prices. He described 40% of procurement as central and 60%, including locally available essential medicines, as regional procurement through Centers for Health Development. Later, Mercado said the 18-month shelf-life requirement was now enforced strictly and that noncompliant suppliers had been disqualified from subsequent bids. Tulfo also alleged that officials delayed purchases to exploit emergency negotiated procurement; he again excluded Mercado from those allegations and sought investigation.",
+          "citations": [
+            {
+              "stable_id": "asr-001140",
+              "start_seconds": 4016.12,
+              "clock": "01:06:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001140"
+            },
+            {
+              "stable_id": "asr-001181",
+              "start_seconds": 4137.74,
+              "clock": "01:08:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001181"
+            },
+            {
+              "stable_id": "asr-001203",
+              "start_seconds": 4175.5,
+              "clock": "01:09:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001203"
+            },
+            {
+              "stable_id": "asr-001205",
+              "start_seconds": 4177.92,
+              "clock": "01:09:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001205"
+            },
+            {
+              "stable_id": "asr-001532",
+              "start_seconds": 4685.47,
+              "clock": "01:18:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001532"
+            },
+            {
+              "stable_id": "asr-001554",
+              "start_seconds": 4712.97,
+              "clock": "01:18:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001554"
+            }
+          ]
+        },
+        {
+          "label": "Proposed cancellation of the World Health Organization medicine donation",
+          "text": "Tulfo criticized a reported commitment of medicines worth 10 million dollars to the World Health Organization (WHO). He urged the DOH to cancel the commitment and redirect the medicines to local needs. Mercado said the department was studying the issue and consulting the Department of Finance (DOF) and Department of Foreign Affairs (DFA); his stated direction was to use the medicines for local needs. Cancellation had not been decided in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-001285",
+              "start_seconds": 4324.26,
+              "clock": "01:12:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001285"
+            },
+            {
+              "stable_id": "asr-001287",
+              "start_seconds": 4327.18,
+              "clock": "01:12:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001287"
+            },
+            {
+              "stable_id": "asr-001288",
+              "start_seconds": 4328.9,
+              "clock": "01:12:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001288"
+            },
+            {
+              "stable_id": "asr-001317",
+              "start_seconds": 4359.22,
+              "clock": "01:12:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001317"
+            }
+          ]
+        },
+        {
+          "label": "Tuberculosis medicine procurement and supply continuity",
+          "text": "Tulfo said an earlier Secretary of Health had stopped a 3 billion peso procurement of tuberculosis (TB) medicines and asked how treatment would continue. Mercado said the delayed procurement proceeded after he took office; remaining stocks had been brought down and would last about five months while the next supply arrived. He said the procurement was progressing at 3 point something billion pesos and was expected to be completed within three to four months. Tulfo framed the prior halt and its consequences as his account; Mercado described the procurement as moving forward.",
+          "citations": [
+            {
+              "stable_id": "asr-001345",
+              "start_seconds": 4397.24,
+              "clock": "01:13:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001345"
+            },
+            {
+              "stable_id": "asr-001398",
+              "start_seconds": 4462.62,
+              "clock": "01:14:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001398"
+            },
+            {
+              "stable_id": "asr-001436",
+              "start_seconds": 4500.0,
+              "clock": "01:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001436"
+            },
+            {
+              "stable_id": "asr-001438",
+              "start_seconds": 4504.02,
+              "clock": "01:15:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001438"
+            }
+          ]
+        },
+        {
+          "label": "Immunization coverage, vaccine wastage, and delivery response",
+          "text": "Senator Sherwin \"Win\" T. Gatchalian linked medicine wastage to immunization and cited a total budget of about P7.9 billion, and about P4.9 billion for the first 1,000 days. He said reported coverage was 65%, later describing coverage among children in the first 1,000 days as 60%, despite the need to reach all eligible children. For 2025 he cited vaccine and medicine wastage of P590 million among seven types, after correcting a rougher estimate. Secretary Edwin M. Mercado responded that the Department of Health (DOH) and Philippine Health Insurance Corporation (PhilHealth) were expanding maternal care: eight prenatal visits, pregnancy growth monitoring, delivery and four postnatal visits. He described linking newborn registration to YAKAP, using care coordinators to track immunization and growth, incentivizing clinics, and coordinating DOH vaccine delivery and outreach. Gatchalian asked whether PhilHealth would track children from birth; Mercado said clinics could feed records into an electronic medical record platform and the National Health Data Repository, while DOH retained its own programs. Mercado also acknowledged that the vaccine inventory system was outdated and not maintained, and that tracking often stopped at regional offices instead of reaching local governments and rural health units; he said this was an early system priority.",
+          "citations": [
+            {
+              "stable_id": "asr-001834",
+              "start_seconds": 5031.14,
+              "clock": "01:23:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001834"
+            },
+            {
+              "stable_id": "asr-001835",
+              "start_seconds": 5036.26,
+              "clock": "01:23:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001835"
+            },
+            {
+              "stable_id": "asr-001849",
+              "start_seconds": 5111.04,
+              "clock": "01:25:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001849"
+            },
+            {
+              "stable_id": "asr-001850",
+              "start_seconds": 5116.6,
+              "clock": "01:25:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001850"
+            },
+            {
+              "stable_id": "asr-001874",
+              "start_seconds": 5206.26,
+              "clock": "01:26:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001874"
+            },
+            {
+              "stable_id": "asr-001920",
+              "start_seconds": 5375.9,
+              "clock": "01:29:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001920"
+            },
+            {
+              "stable_id": "asr-001996",
+              "start_seconds": 5541.64,
+              "clock": "01:32:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001996"
+            }
+          ]
+        },
+        {
+          "label": "P7 billion dietary-supplementation request moved to the DOH Disease Prevention and Control Bureau",
+          "text": "National Nutrition Council (NNC) Executive Director IV and DOH Undersecretary Dr. Albert Francis E. Domingo described a P7 billion proposal for targeted dietary supplementation. He said he was reluctant for NNC, a policy-formulation and coordination body rather than an implementation agency, to handle a procurement-heavy program of that scale. He suggested delivery through local governments and said one or two billion could be downloaded to them if appropriate. Domingo said the Tier 2 request for P7 billion had been moved to the DOH Disease Prevention and Control Bureau as the more suitable implementing office.",
+          "citations": [
+            {
+              "stable_id": "asr-002119",
+              "start_seconds": 5787.44,
+              "clock": "01:36:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002119"
+            },
+            {
+              "stable_id": "asr-002135",
+              "start_seconds": 5819.06,
+              "clock": "01:36:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002135"
+            },
+            {
+              "stable_id": "asr-002136",
+              "start_seconds": 5820.72,
+              "clock": "01:37:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002136"
+            },
+            {
+              "stable_id": "asr-002139",
+              "start_seconds": 5827.26,
+              "clock": "01:37:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002139"
+            },
+            {
+              "stable_id": "asr-002160",
+              "start_seconds": 5869.0,
+              "clock": "01:37:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002160"
+            }
+          ]
+        },
+        {
+          "label": "Health Facilities Enhancement Program backlogs, readiness, and alternative delivery",
+          "text": "On the Health Facilities Enhancement Program (HFEP), Gatchalian cited Commission on Audit (COA) findings: 38 delayed projects worth P11 billion; 136 idle, unutilized, or non-operational projects worth P1.1 billion; a further P1.1 billion described as underutilized without a project count; and 227 unimplemented projects worth P3.1 billion. He also cited bed occupancy above 100%, reaching 200% or 300% in some areas. Mercado proposed planning provider networks by local need and facility tier, prioritizing existing facilities that were complete but unopened or incomplete, and requiring site, land-title, power, equipment, staffing, and local-government commitments before projects advanced. Senator Panfilo Lacson said post-NEP legislative insertions partly explained projects outside DOH plans; Mercado agreed only that this was partly the issue. For super health centers, Gatchalian cited about 2.9 billion completed but not operational and about 3.9 billion with unclear or incomplete status; he said some local governments would not pay utilities, staff centers, or buy medicines. He said the 2026 Finance Committee funding he worked on focused on completing existing centers rather than adding new ones.",
+          "citations": [
+            {
+              "stable_id": "asr-002429",
+              "start_seconds": 6557.97,
+              "clock": "01:49:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002429"
+            },
+            {
+              "stable_id": "asr-002430",
+              "start_seconds": 6564.55,
+              "clock": "01:49:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002430"
+            },
+            {
+              "stable_id": "asr-002432",
+              "start_seconds": 6571.25,
+              "clock": "01:49:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002432"
+            },
+            {
+              "stable_id": "asr-002433",
+              "start_seconds": 6578.25,
+              "clock": "01:49:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002433"
+            },
+            {
+              "stable_id": "asr-002554",
+              "start_seconds": 7055.75,
+              "clock": "01:57:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002554"
+            },
+            {
+              "stable_id": "asr-002555",
+              "start_seconds": 7060.29,
+              "clock": "01:57:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002555"
+            },
+            {
+              "stable_id": "asr-002474",
+              "start_seconds": 6779.51,
+              "clock": "01:52:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002474"
+            },
+            {
+              "stable_id": "asr-002523",
+              "start_seconds": 6952.51,
+              "clock": "01:55:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002523"
+            }
+          ]
+        },
+        {
+          "label": "Health Emergency Allowance releases and remaining appeals",
+          "text": "Senator Christopher Lawrence T. Go said that after 14 Senate Health Committee hearings in 2024, ₱27 billion in Health Emergency Allowance (HEA) funding was released; he then cited ₱6.7 billion released in 2025 for unpaid HEA. He said health workers were still appealing for outstanding validated services and asked DOH and the Department of Budget and Management (DBM) to revisit their appeals. These are releases and payments for earlier services, not a new FY2027 appropriation in Go's remarks.",
+          "citations": [
+            {
+              "stable_id": "asr-002699",
+              "start_seconds": 7692.12,
+              "clock": "02:08:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002699"
+            },
+            {
+              "stable_id": "asr-002701",
+              "start_seconds": 7699.2,
+              "clock": "02:08:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002701"
+            },
+            {
+              "stable_id": "asr-002705",
+              "start_seconds": 7714.98,
+              "clock": "02:08:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002705"
+            }
+          ]
+        },
+        {
+          "label": "Cancer Assistance Fund prior-year support",
+          "text": "Go said the Cancer Assistance Fund (CAF) had a PHP1.5 billion budget for 2026 and urged continuing support for cancer treatment.",
+          "citations": [
+            {
+              "stable_id": "asr-003184",
+              "start_seconds": 8735.71,
+              "clock": "02:25:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003184"
+            }
+          ]
+        },
+        {
+          "label": "DOH expired medicines and current stock value",
+          "text": "Ejercito requested prior-year expired-medicine figures and a system to prevent repeat losses. Mercado committed to devising that system and said DOH had reduced the value of current stocks from PHP6.6 billion to PHP232 million.",
+          "citations": [
+            {
+              "stable_id": "asr-003307",
+              "start_seconds": 9155.46,
+              "clock": "02:32:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003307"
+            },
+            {
+              "stable_id": "asr-003316",
+              "start_seconds": 9172.94,
+              "clock": "02:32:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003316"
+            },
+            {
+              "stable_id": "asr-003322",
+              "start_seconds": 9185.18,
+              "clock": "02:33:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003322"
+            },
+            {
+              "stable_id": "asr-003323",
+              "start_seconds": 9187.22,
+              "clock": "02:33:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003323"
+            },
+            {
+              "stable_id": "asr-003324",
+              "start_seconds": 9188.52,
+              "clock": "02:33:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003324"
+            }
+          ]
+        },
+        {
+          "label": "Strategic purchasing and prospective MAIFIP transfer",
+          "text": "Mercado described contracted second-payer arrangements and fixed hospital payments that could include professional fees, along with front-loaded medical assistance and a possible transfer of an eligible MAIFIP portion to PhilHealth at negotiated rates once data were available, to avoid duplicate coverage. These were planned or prospective measures, not reported completed changes.",
+          "citations": [
+            {
+              "stable_id": "asr-003644",
+              "start_seconds": 9843.5,
+              "clock": "02:44:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003644"
+            },
+            {
+              "stable_id": "asr-003674",
+              "start_seconds": 9902.1,
+              "clock": "02:45:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003674"
+            },
+            {
+              "stable_id": "asr-003690",
+              "start_seconds": 9934.74,
+              "clock": "02:45:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003690"
+            }
+          ]
+        },
+        {
+          "label": "Primary care facilities and Super Health Center completion",
+          "text": "Senator Christopher Lawrence T. Go asked the Department of Health (DOH) to provide a written regional status report on primary care facilities, including Super Health Centers, and a catch-up plan to complete them, make them operational, and coordinate with local government units so they do not become unused buildings. He asked Mercado to prioritize completion in the next year's budget. Secretary Edwin M. Mercado said he had met with the Health Facilities Enhancement Program (HFEP) team the previous day and was developing a decision tree to prioritize unfinished and partially completed facilities. Mercado asked for counts of facilities still under construction or completed but not yet operating and committed to provide those numbers.",
+          "citations": [
+            {
+              "stable_id": "asr-003714",
+              "start_seconds": 9983.94,
+              "clock": "02:46:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003714"
+            },
+            {
+              "stable_id": "asr-003740",
+              "start_seconds": 10034.48,
+              "clock": "02:47:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003740"
+            },
+            {
+              "stable_id": "asr-003755",
+              "start_seconds": 10065.2,
+              "clock": "02:47:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003755"
+            }
+          ]
+        },
+        {
+          "label": "Regional specialty centers under Republic Act No. 11959",
+          "text": "Go cited the Regional Specialty Centers Act (Republic Act No. 11959), noting that the Senate had passed it 24-0 in the 19th Congress, and asked Mercado to prioritize the regional specialty centers. Mercado agreed to prioritize them under the law. He said 17 specialties and their proposed locations had been laid out using a study, while noting that other requests for centers could duplicate or overlap.",
+          "citations": [
+            {
+              "stable_id": "asr-003756",
+              "start_seconds": 10067.28,
+              "clock": "02:47:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003756"
+            },
+            {
+              "stable_id": "asr-003777",
+              "start_seconds": 10108.58,
+              "clock": "02:48:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003777"
+            },
+            {
+              "stable_id": "asr-003780",
+              "start_seconds": 10116.06,
+              "clock": "02:48:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003780"
+            }
+          ]
+        },
+        {
+          "label": "Malasakit Centers and access to medical assistance",
+          "text": "Go cited the Malasakit Centers Act (Republic Act No. 11463) and its aim of making medical assistance easier to access. He asked Mercado to prioritize help for poor patients, saying he would support different assistance programs as long as patients had a help desk or place to turn. Mercado said the assistance was included in the DOH's budget and plan.",
+          "citations": [
+            {
+              "stable_id": "asr-003853",
+              "start_seconds": 10262.62,
+              "clock": "02:51:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003853"
+            },
+            {
+              "stable_id": "asr-003875",
+              "start_seconds": 10307.22,
+              "clock": "02:51:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003875"
+            },
+            {
+              "stable_id": "asr-003915",
+              "start_seconds": 10391.34,
+              "clock": "02:53:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003915"
+            }
+          ]
+        },
+        {
+          "label": "Health-facility readiness and DOH prioritization",
+          "text": "Ejercito said tertiary and specialty hospitals were overwhelmed and described a patient at a Cebu medical center being told to wait three months. He urged investment in provincial and local hospitals so they could handle appropriate cases and leave complex care to apex and specialty centers. He supported the Health Facilities Enhancement Program (HFEP) but said low utilization had put it at risk of reductions; he insisted that legislators could recommend projects, while DOH must make the final technical assessment, validation, and prioritization against health needs, service gaps, readiness, and its facility plan. Mercado said the response should include local governments and private hospitals, citing no-balance-billing beds at private hospitals in Manila and a pilot in which Asian Hospital and Cardinal Santos helped reduce a cancer backlog. He said local hospitals and primary care should be strengthened in coordination with the local governments that would operate them. Ejercito reaffirmed that political recommendations did not replace DOH's final assessment and called for better disbursement and utilization. He said HFEP-supported provincial hospitals and specialty centers he had visited had improved, while warning that underused funds could be shifted elsewhere.",
+          "citations": [
+            {
+              "stable_id": "asr-004070",
+              "start_seconds": 10701.71,
+              "clock": "02:58:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004070"
+            },
+            {
+              "stable_id": "asr-004187",
+              "start_seconds": 10938.88,
+              "clock": "03:02:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004187"
+            },
+            {
+              "stable_id": "asr-004239",
+              "start_seconds": 11041.3,
+              "clock": "03:04:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004239"
+            },
+            {
+              "stable_id": "asr-004342",
+              "start_seconds": 11247.98,
+              "clock": "03:07:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004342"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 DOH retained-hospital operations and patient-facing targets",
+          "text": "Senator Joel Villanueva said the FY2027 NEP provided ₱129.96 billion for operations of Department of Health (DOH)-retained hospitals, compared with about ₱131 billion in the prior GAA. He asked what patients would see in access to doctors, beds, medicines, diagnostics and specialists. Secretary Edwin M. Mercado discussed reducing out-of-pocket costs through PhilHealth and asked Dr. Ho to explain its targets.",
+          "citations": [
+            {
+              "stable_id": "asr-004684",
+              "start_seconds": 15773.96,
+              "clock": "04:22:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004684"
+            },
+            {
+              "stable_id": "asr-004692",
+              "start_seconds": 15791.2,
+              "clock": "04:23:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004692"
+            },
+            {
+              "stable_id": "asr-004733",
+              "start_seconds": 15872.51,
+              "clock": "04:24:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004733"
+            },
+            {
+              "stable_id": "asr-004800",
+              "start_seconds": 15975.96,
+              "clock": "04:26:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004800"
+            }
+          ]
+        },
+        {
+          "label": "2026 DOH hospital additions and requested ZBB outcome reporting",
+          "text": "Senator Pia S. Cayetano separately cited PHP 3.3 billion added to Department of Health (DOH) hospitals in Metro Manila and PHP 6 billion added for DOH regional hospitals in 2026. She asked that reporting cover the outcomes of ZBB programs in those hospitals, describing them as existing pilots or institutions where ZBB was being rolled out or should have been rolled out; these additions were not identified as exclusively ZBB funding.",
+          "citations": [
+            {
+              "stable_id": "asr-005572",
+              "start_seconds": 17315.81,
+              "clock": "04:48:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005572"
+            },
+            {
+              "stable_id": "asr-005574",
+              "start_seconds": 17318.13,
+              "clock": "04:48:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005574"
+            },
+            {
+              "stable_id": "asr-005580",
+              "start_seconds": 17324.75,
+              "clock": "04:48:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005580"
+            },
+            {
+              "stable_id": "asr-005582",
+              "start_seconds": 17327.57,
+              "clock": "04:48:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005582"
+            },
+            {
+              "stable_id": "asr-005594",
+              "start_seconds": 17337.67,
+              "clock": "04:48:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005594"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 health-workforce funding, deployment, and vacancy response",
+          "text": "Senator Joel Villanueva asked how the Department of Health (DOH) would recruit, train, deploy, and retain enough health workers, especially in underserved areas. Secretary Edwin M. Mercado said all municipalities now had a doctor, but at current production the DOH estimated it would take seven years to reach its cited workforce ratios, before accounting for population growth and attrition. For FY2027, Mercado said the DOH planned to deploy 24,381 health professionals across cadres; Villanueva asked how deployment would address shortages in occupational and physical therapy and speech therapy. Villanueva cited a P25.4 billion FY2027 National Health Workforce Support System allocation, an 8.7% increase over the prior year, and urged deployment to underserved areas. He later cited 20,000 job-order and contract-of-service workers, 9,069 unfilled positions, and 9,027 vacancies in the Office of the Secretary alone. DOH Undersecretary Maylene M. Beltran said plantilla positions were 92% filled; temporary residency and fellowship posts and difficulty recruiting specialized cadres contributed to vacancies. Hospitals had formed selection and promotion boards, and workers in job-order and contract-of-service roles were being prioritized for permanent plantilla posts. Mercado said the DOH was reviewing organizational tables and possible reclassification. Villanueva requested a DOH update distinguishing clinical from administrative or obsolete vacancies and identifying recruitment, compensation, qualification, deployment, and location barriers.",
+          "citations": [
+            {
+              "stable_id": "asr-006266",
+              "start_seconds": 18102.92,
+              "clock": "05:01:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006266"
+            },
+            {
+              "stable_id": "asr-006647",
+              "start_seconds": 18873.22,
+              "clock": "05:14:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006647"
+            },
+            {
+              "stable_id": "asr-006714",
+              "start_seconds": 19003.66,
+              "clock": "05:16:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006714"
+            },
+            {
+              "stable_id": "asr-006785",
+              "start_seconds": 19144.0,
+              "clock": "05:19:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006785"
+            },
+            {
+              "stable_id": "asr-006791",
+              "start_seconds": 19156.58,
+              "clock": "05:19:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006791"
+            },
+            {
+              "stable_id": "asr-006807",
+              "start_seconds": 19188.1,
+              "clock": "05:19:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006807"
+            },
+            {
+              "stable_id": "asr-006808",
+              "start_seconds": 19189.9,
+              "clock": "05:19:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006808"
+            }
+          ]
+        },
+        {
+          "label": "HFEP completion priorities and delayed hospital release",
+          "text": "Villanueva asked what the reported reduction in the Health Facilities Enhancement Program (HFEP) would affect. Secretary Edwin M. Mercado said the FY2027 budget-preparation guidance was to avoid starting new hospital projects and instead finish ongoing construction, complete and equip facilities that were built but not functioning, and focus on primary care, district and local-government hospitals. He said existing DOH hospitals that had received substantial prior HFEP support could use PhilHealth income to continue upgrading equipment. Chair Senator Joseph Victor \"JV\" G. Ejercito supported finishing ongoing projects before starting new ones and said ready infrastructure could be equipped rather than replaced with new construction. Villanueva reported that the 2025 HFEP funding for a local hospital project remained unreleased and urged release before Christmas.",
+          "citations": [
+            {
+              "stable_id": "asr-006821",
+              "start_seconds": 19216.26,
+              "clock": "05:20:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006821"
+            },
+            {
+              "stable_id": "asr-006825",
+              "start_seconds": 19223.46,
+              "clock": "05:20:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006825"
+            },
+            {
+              "stable_id": "asr-006871",
+              "start_seconds": 19318.34,
+              "clock": "05:21:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006871"
+            },
+            {
+              "stable_id": "asr-006949",
+              "start_seconds": 19475.48,
+              "clock": "05:24:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006949"
+            },
+            {
+              "stable_id": "asr-006975",
+              "start_seconds": 19528.08,
+              "clock": "05:25:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006975"
+            }
+          ]
+        },
+        {
+          "label": "FDA regulatory capacity and staffing plan",
+          "text": "Cayetano asked about FDA testing capacity, inspection staffing and the five-year development plan needed for access to special funds. Food and Drug Administration (FDA) OIC Director General Atty. Franklin Anthony M. Tabaquin IV said the former director general had submitted the plan to DBM and that budget support was needed; Mercado added that the plan included an information-systems strategic plan and an exemption to hire 300 job-order personnel, with filling underway. The exchange ended with follow-up commitments.",
+          "citations": [
+            {
+              "stable_id": "asr-007768",
+              "start_seconds": 21663.46,
+              "clock": "06:01:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007768"
+            },
+            {
+              "stable_id": "asr-007791",
+              "start_seconds": 21764.75,
+              "clock": "06:02:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007791"
+            },
+            {
+              "stable_id": "asr-007813",
+              "start_seconds": 21829.29,
+              "clock": "06:03:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007813"
+            },
+            {
+              "stable_id": "asr-007828",
+              "start_seconds": 21886.65,
+              "clock": "06:04:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007828"
+            }
+          ]
+        },
+        {
+          "label": "Research Institute for Tropical Medicine funding and public-health priorities",
+          "text": "Cayetano flagged a 20% reduction for the Research Institute for Tropical Medicine (RITM). Its Director Atty. Ana Liza P. Hombrado-Duran said the institute's reduction was mainly in MOOE, especially its Laboratory Research Division fund. Cayetano questioned reducing research at a research institution and asked RITM to submit its needs and priorities, offering support for them. Cayetano also asked DOH to explain reported reductions in family planning (11%), health emergency and preparedness (37%), communicable-disease prevention and control (11%), and family health, immunization, nutrition and responsible parenting (11%). Mercado said DOH would provide a follow-up, and Cayetano affirmed that family-planning and reproductive-health supplies remained a priority. She also noted the Futures Thinking Office funded in DOH's 2026 budget and urged that it remain a separate group looking beyond daily operations; Mercado welcomed that role.",
+          "citations": [
+            {
+              "stable_id": "asr-007860",
+              "start_seconds": 22001.69,
+              "clock": "06:06:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007860"
+            },
+            {
+              "stable_id": "asr-007870",
+              "start_seconds": 22043.09,
+              "clock": "06:07:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007870"
+            },
+            {
+              "stable_id": "asr-007878",
+              "start_seconds": 22071.16,
+              "clock": "06:07:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007878"
+            },
+            {
+              "stable_id": "asr-007891",
+              "start_seconds": 22101.48,
+              "clock": "06:08:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007891"
+            },
+            {
+              "stable_id": "asr-007904",
+              "start_seconds": 22143.06,
+              "clock": "06:09:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007904"
+            },
+            {
+              "stable_id": "asr-007914",
+              "start_seconds": 22168.94,
+              "clock": "06:09:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007914"
+            },
+            {
+              "stable_id": "asr-007965",
+              "start_seconds": 22345.94,
+              "clock": "06:12:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007965"
+            }
+          ]
+        },
+        {
+          "label": "Anti-hospital-detention bill and medical-assistance recommendations",
+          "text": "Cayetano said the Senate had passed an anti-hospital-detention bill and asked DOH to estimate how the proposed provision for MAIFIP to cover hospital-bill balances would affect funding needs. She said her minority group had been unable to recommend constituents' medical-assistance cases through DOH as before and asked why; she framed it as a service-access concern and said her office filtered submissions to reduce the Department's burden. The exchange records her question and position, but no DOH response or disposition on the recommendation process appears before she yielded to the specialty-hospital reports.",
+          "citations": [
+            {
+              "stable_id": "asr-007986",
+              "start_seconds": 22399.39,
+              "clock": "06:13:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007986"
+            },
+            {
+              "stable_id": "asr-007989",
+              "start_seconds": 22409.49,
+              "clock": "06:13:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007989"
+            },
+            {
+              "stable_id": "asr-008023",
+              "start_seconds": 22500.0,
+              "clock": "06:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008023"
+            },
+            {
+              "stable_id": "asr-008030",
+              "start_seconds": 22539.06,
+              "clock": "06:15:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008030"
+            }
+          ]
+        },
+        {
+          "label": "ZBB spending data and conditional 2027 increase",
+          "text": "Senator Joseph Victor \"JV\" G. Ejercito cited 3.29 million patients reported to have benefited from zero-balance billing (ZBB) from July 2025 to July 2026, and asked the Department of Health (DOH) for actual spending data for 2025 and 2026 to support a possible 2027 increase. Secretary Edwin M. Mercado said the department would provide the data; Ejercito said an increase would depend on whether the figures show a need. Ejercito also cited an additional PHP 10.377 billion released in 2026 for ZBB in DOH and selected local government unit (LGU) hospitals. He asked how the costs are divided between the Philippine Health Insurance Corporation (PhilHealth) and direct DOH or other government subsidies, and who is accountable for delivering the benefit.",
+          "citations": [
+            {
+              "stable_id": "asr-008432",
+              "start_seconds": 24272.52,
+              "clock": "06:44:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008432"
+            },
+            {
+              "stable_id": "asr-008450",
+              "start_seconds": 24348.16,
+              "clock": "06:45:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008450"
+            },
+            {
+              "stable_id": "asr-008454",
+              "start_seconds": 24369.5,
+              "clock": "06:46:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008454"
+            },
+            {
+              "stable_id": "asr-008455",
+              "start_seconds": 24378.78,
+              "clock": "06:46:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008455"
+            },
+            {
+              "stable_id": "asr-008457",
+              "start_seconds": 24388.38,
+              "clock": "06:46:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008457"
+            }
+          ]
+        },
+        {
+          "label": "Cancer Assistance Fund services and public information",
+          "text": "Ejercito asked the DOH to explain how the expanded 2027 Cancer Assistance Fund would improve access to faster treatment and lower patient spending, including whether it covers cancer medicines, chemotherapy and other treatments, and which hospitals provide them. Mercado agreed to provide the requested information and said the department had requested an amendment to add nutrition services and laboratory tests, with expected figures to be drawn from hospital inputs. These were a request and data commitment, not a recorded approval of the amendment. Ejercito also urged the department to inform the public about the covered benefits and how to access them.",
+          "citations": [
+            {
+              "stable_id": "asr-008461",
+              "start_seconds": 24411.96,
+              "clock": "06:46:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008461"
+            },
+            {
+              "stable_id": "asr-008475",
+              "start_seconds": 24503.71,
+              "clock": "06:48:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008475"
+            },
+            {
+              "stable_id": "asr-008476",
+              "start_seconds": 24510.21,
+              "clock": "06:48:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008476"
+            }
+          ]
+        },
+        {
+          "label": "Provincial capacity upgrades and service-delivery models",
+          "text": "Ejercito asked which provincial and regional hospitals should receive capacity upgrades so patients could obtain appropriate care closer to home. He proposed model provinces and service-delivery networks, including priority facilities serving populous areas, and described Danao Hospital as unfinished for several years. He asked the DOH to verify needs before developing support proposals. Secretary Edwin M. Mercado identified DOH facilities in Tayabas and Tagkawayan and discussed a separate Southern Tagalog center in Bacoor, Cavite. The exchange developed possible facility priorities; it did not record a specific approved upgrade list.",
+          "citations": [
+            {
+              "stable_id": "asr-008482",
+              "start_seconds": 24533.71,
+              "clock": "06:48:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008482"
+            },
+            {
+              "stable_id": "asr-008579",
+              "start_seconds": 24656.93,
+              "clock": "06:50:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008579"
+            },
+            {
+              "stable_id": "asr-009061",
+              "start_seconds": 25103.79,
+              "clock": "06:58:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009061"
+            },
+            {
+              "stable_id": "asr-009081",
+              "start_seconds": 25123.16,
+              "clock": "06:58:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009081"
+            }
+          ]
+        },
+        {
+          "label": "Sulu health-system transition funding",
+          "text": "Ejercito asked where the 2027 health-service transition for Sulu was funded following its separation from the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), and whether salaries, medicines, hospital operations and public-health programs would continue. He cited PHP 7.996 billion in 2027 NEP new appropriations for Region IX but said the briefing did not show a separate Sulu transition line. Secretary Edwin M. Mercado said the transition directive covered the Sulu provincial health system during the transition year. Undersecretary Mary Ann Palermo-Maestral said the Department of Budget and Management (DBM) and stakeholders were working out the distribution of responsibilities and funds between national and local governments; she gave a preliminary estimate of roughly PHP 1.7 billion for the overall transition, while noting the amount and personnel requirements remained a moving target. Ejercito asked for clarity on staffing, facilities and operating support; no final allocation split was stated.",
+          "citations": [
+            {
+              "stable_id": "asr-008623",
+              "start_seconds": 24699.19,
+              "clock": "06:51:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008623"
+            },
+            {
+              "stable_id": "asr-008628",
+              "start_seconds": 24703.93,
+              "clock": "06:51:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008628"
+            },
+            {
+              "stable_id": "asr-008630",
+              "start_seconds": 24706.51,
+              "clock": "06:51:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008630"
+            },
+            {
+              "stable_id": "asr-008676",
+              "start_seconds": 24757.91,
+              "clock": "06:52:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008676"
+            },
+            {
+              "stable_id": "asr-008697",
+              "start_seconds": 24777.21,
+              "clock": "06:52:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008697"
+            },
+            {
+              "stable_id": "asr-008839",
+              "start_seconds": 24910.06,
+              "clock": "06:55:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008839"
+            },
+            {
+              "stable_id": "asr-008899",
+              "start_seconds": 24960.37,
+              "clock": "06:56:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008899"
+            },
+            {
+              "stable_id": "asr-008902",
+              "start_seconds": 24962.05,
+              "clock": "06:56:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008902"
+            },
+            {
+              "stable_id": "asr-008903",
+              "start_seconds": 24963.49,
+              "clock": "06:56:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008903"
+            }
+          ]
+        },
+        {
+          "label": "Philippine General Hospital cut and assistance coverage",
+          "text": "Ejercito relayed civil-society concerns about a PHP 805 million cut to the Philippine General Hospital (PGH) budget and asked whether the DOH had coordinated with PGH. Mercado clarified that PGH falls under the University of the Philippines (UP), not the DOH budget, and said its DOH medical-assistance funding would remain intact. Ejercito acknowledged the clarification.",
+          "citations": [
+            {
+              "stable_id": "asr-008941",
+              "start_seconds": 25001.91,
+              "clock": "06:56:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008941"
+            },
+            {
+              "stable_id": "asr-008984",
+              "start_seconds": 25039.05,
+              "clock": "06:57:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008984"
+            },
+            {
+              "stable_id": "asr-008988",
+              "start_seconds": 25042.85,
+              "clock": "06:57:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008988"
+            }
+          ]
+        },
+        {
+          "label": "HIV and STI prevention, testing and treatment",
+          "text": "Ejercito asked about HIV programs for young people and school settings. Mercado said the 2027 NEP allocation for HIV and sexually transmitted infection (STI) coverage was higher than the 2026 General Appropriations Act (GAA), correcting himself from PHP 1.674 billion to PHP 1.394 billion as the 2026 amount and PHP 1.674 billion for 2027. He said the program would support pre-exposure prophylaxis (PrEP), HIV testing, condoms and lubricants, antiretroviral medicines, selected opportunistic-infection medicines and CD4/viral-load monitoring. He also described coordination with PhilHealth to expand testing through YAKAP clinics and referrals to accredited Outpatient HIV/AIDS Treatment (OHAT) centers.",
+          "citations": [
+            {
+              "stable_id": "asr-009095",
+              "start_seconds": 25136.51,
+              "clock": "06:58:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009095"
+            },
+            {
+              "stable_id": "asr-009145",
+              "start_seconds": 25174.17,
+              "clock": "06:59:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009145"
+            },
+            {
+              "stable_id": "asr-009157",
+              "start_seconds": 25184.77,
+              "clock": "06:59:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009157"
+            },
+            {
+              "stable_id": "asr-009158",
+              "start_seconds": 25187.49,
+              "clock": "06:59:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009158"
+            },
+            {
+              "stable_id": "asr-009160",
+              "start_seconds": 25188.01,
+              "clock": "06:59:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009160"
+            },
+            {
+              "stable_id": "asr-009162",
+              "start_seconds": 25189.75,
+              "clock": "06:59:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009162"
+            },
+            {
+              "stable_id": "asr-009163",
+              "start_seconds": 25191.21,
+              "clock": "06:59:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009163"
+            },
+            {
+              "stable_id": "asr-009167",
+              "start_seconds": 25193.85,
+              "clock": "06:59:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009167"
+            },
+            {
+              "stable_id": "asr-009175",
+              "start_seconds": 25198.57,
+              "clock": "06:59:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009175"
+            },
+            {
+              "stable_id": "asr-009212",
+              "start_seconds": 25227.82,
+              "clock": "07:00:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009212"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-philippine-health-insurance-corporation-philhealth",
+      "label": "Philippine Health Insurance Corporation (PhilHealth) budget",
+      "items": [
+        {
+          "label": "PhilHealth benefit payments in 2025",
+          "text": "Mercado reported PHP300 billion in PhilHealth benefit payments in 2025, 82% above the preceding year, and linked the increase to lower household out-of-pocket spending. This was a reported prior-year payout, separate from the FY2027 subsidy allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-000637",
+              "start_seconds": 2132.42,
+              "clock": "00:35:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000637"
+            },
+            {
+              "stable_id": "asr-000638",
+              "start_seconds": 2139.94,
+              "clock": "00:35:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000638"
+            }
+          ]
+        },
+        {
+          "label": "Health financing measures and targets",
+          "text": "Lacson questioned the value of financing strategies when plans and targets kept changing. Philippine Health Insurance Corporation (PhilHealth) President and CEO Dr. Beverly Lorraine Ho said PhilHealth's share of total health expenditure rose to 19% from 2022 to 2025, while the whole-of-government share reached 46.5%. She said household out-of-pocket (OOP) payments were 41% by the end of 2025, down from about 55% a decade earlier. Ho agreed that targets need recalibration as measures change every three years; she said the Philippine Development Plan (PDP) targets reducing OOP to 37% by 2028. Later, Lacson cited a current-health-expenditure table showing household OOP at 41.2%; Ho confirmed that the comparator from ten years earlier was 55%.",
+          "citations": [
+            {
+              "stable_id": "asr-000757",
+              "start_seconds": 2796.38,
+              "clock": "00:46:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000757"
+            },
+            {
+              "stable_id": "asr-000760",
+              "start_seconds": 2828.2,
+              "clock": "00:47:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000760"
+            }
+          ]
+        },
+        {
+          "label": "Earmarked funding, appropriations, and reconciliation",
+          "text": "Lacson asked for a clearer accounting of the funding behind universal health care (UHC), including earmarks and other government sources. Ho said the total PhilHealth should be able to claim from the Philippine Amusement and Gaming Corporation (PAGCOR) and Philippine Charity Sweepstakes Office (PCSO), from 2019 through the second quarter of 2026, was P127.55 billion. She separately reported General Appropriations Act (GAA) appropriations of P21 billion in fiscal year 2023 and P21 billion in fiscal year 2024, and said Special Allotment Release Orders (SAROs) were in place; the exchange did not establish whether those or the other earmarked amounts had actually been released. Lacson asked whether the full earmarked shares reached the DOH/UHC and what the gap was, noting his understanding that 50% of the national government's PAGCOR income share was earmarked. He also challenged the table's P805 billion government-financing figure, saying it incorporated broader budget items and earmarks. He questioned whether the 46.5% government financing share overstated health-care-program spending because the underlying government-scheme total also included broader DOH budget items such as personnel services. Ho had earlier defined the government schemes as national-government spending, local-government spending, and PhilHealth. Chair Senator Joseph Victor “JV” G. Ejercito asked PhilHealth to provide its own records so the receivables and earmarked amounts could be reconciled with the Department of Budget and Management (DBM) and Department of Finance (DOF). Lacson offered legislative oversight if required. No release-gap amount or reconciliation result was provided in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-000786",
+              "start_seconds": 2957.7,
+              "clock": "00:49:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000786"
+            },
+            {
+              "stable_id": "asr-000789",
+              "start_seconds": 2969.74,
+              "clock": "00:49:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000789"
+            },
+            {
+              "stable_id": "asr-000794",
+              "start_seconds": 2992.02,
+              "clock": "00:49:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000794"
+            },
+            {
+              "stable_id": "asr-000834",
+              "start_seconds": 3135.38,
+              "clock": "00:52:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000834"
+            },
+            {
+              "stable_id": "asr-000850",
+              "start_seconds": 3190.61,
+              "clock": "00:53:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000850"
+            },
+            {
+              "stable_id": "asr-000856",
+              "start_seconds": 3203.91,
+              "clock": "00:53:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000856"
+            },
+            {
+              "stable_id": "asr-000857",
+              "start_seconds": 3208.07,
+              "clock": "00:53:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000857"
+            },
+            {
+              "stable_id": "asr-000878",
+              "start_seconds": 3269.85,
+              "clock": "00:54:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000878"
+            }
+          ]
+        },
+        {
+          "label": "PhilHealth's 2024 sin-tax earmark, GAA allocation and transfer",
+          "text": "Go said the 2024 General Appropriations Act (GAA) approved ₱61 billion 514 million, sourced in part from ₱40.283 billion in sin-tax subsidy for National Health Insurance and ₱21 billion from the Philippine Amusement and Gaming Corporation (Pagcor). He asked the Senate to review the shortfall during the 2027 budget. Go also said ₱60 billion in PhilHealth funds had been transferred by the National Treasury to unprogrammed funds and that the Supreme Court had ruled that transfer illegal; he questioned where it had been used.",
+          "citations": [
+            {
+              "stable_id": "asr-002713",
+              "start_seconds": 7761.91,
+              "clock": "02:09:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002713"
+            },
+            {
+              "stable_id": "asr-002714",
+              "start_seconds": 7777.84,
+              "clock": "02:09:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002714"
+            },
+            {
+              "stable_id": "asr-002716",
+              "start_seconds": 7790.0,
+              "clock": "02:09:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002716"
+            },
+            {
+              "stable_id": "asr-002728",
+              "start_seconds": 7883.07,
+              "clock": "02:11:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002728"
+            },
+            {
+              "stable_id": "asr-002731",
+              "start_seconds": 7902.95,
+              "clock": "02:11:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002731"
+            }
+          ]
+        },
+        {
+          "label": "2026 sin-tax allocation and returned funds",
+          "text": "For 2026, Go described the statutory earmark as PHP69.8 billion and the initial GAA provision as PHP53 billion. He said the Senate raised the allocation to meet the mandate and added ₱60 billion that the President had promised to return from the 2024 transfer.",
+          "citations": [
+            {
+              "stable_id": "asr-002871",
+              "start_seconds": 8199.58,
+              "clock": "02:16:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002871"
+            },
+            {
+              "stable_id": "asr-002878",
+              "start_seconds": 8209.2,
+              "clock": "02:16:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002878"
+            },
+            {
+              "stable_id": "asr-002880",
+              "start_seconds": 8214.4,
+              "clock": "02:16:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002880"
+            },
+            {
+              "stable_id": "asr-002884",
+              "start_seconds": 8218.36,
+              "clock": "02:16:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002884"
+            }
+          ]
+        },
+        {
+          "label": "Premium-based funding calculation",
+          "text": "Ho explained that an earlier PHP170 billion proposal was calculated from the estimated number of indirect contributors and a set premium rate. She distinguished this premium calculation from estimating payouts through current benefits and utilization.",
+          "citations": [
+            {
+              "stable_id": "asr-003420",
+              "start_seconds": 9384.16,
+              "clock": "02:36:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003420"
+            },
+            {
+              "stable_id": "asr-003422",
+              "start_seconds": 9388.16,
+              "clock": "02:36:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003422"
+            }
+          ]
+        },
+        {
+          "label": "2028 PhilHealth target and projected funding need",
+          "text": "Chair Ejercito asked whether the FY2027 budget could move household out-of-pocket spending from the cited 41.2 percent toward 28 percent. Ho said PhilHealth's target for 2028 was currently 37.8 percent and depended on the budget allocated. She estimated that around PHP 800 billion would be needed to meet the Philippine Development Plan (PDP) target in 2028.",
+          "citations": [
+            {
+              "stable_id": "asr-003342",
+              "start_seconds": 9226.3,
+              "clock": "02:33:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003342"
+            },
+            {
+              "stable_id": "asr-003343",
+              "start_seconds": 9228.46,
+              "clock": "02:33:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003343"
+            },
+            {
+              "stable_id": "asr-003362",
+              "start_seconds": 9268.16,
+              "clock": "02:34:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003362"
+            },
+            {
+              "stable_id": "asr-003374",
+              "start_seconds": 9292.16,
+              "clock": "02:34:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003374"
+            },
+            {
+              "stable_id": "asr-003375",
+              "start_seconds": 9294.16,
+              "clock": "02:34:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003375"
+            }
+          ]
+        },
+        {
+          "label": "PhilHealth's FY2027 NEP allocation and requested benefit funding",
+          "text": "PhilHealth President and Chief Executive Officer Dr. Beverly Lorraine Ho estimated FY2027 payouts for indirect contributors at around PHP244 billion and sought an additional PHP170 billion above the proposed subsidy to cover that need.",
+          "citations": [
+            {
+              "stable_id": "asr-004931",
+              "start_seconds": 16100.42,
+              "clock": "04:28:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004931"
+            },
+            {
+              "stable_id": "asr-004932",
+              "start_seconds": 16102.08,
+              "clock": "04:28:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004932"
+            },
+            {
+              "stable_id": "asr-004938",
+              "start_seconds": 16106.66,
+              "clock": "04:28:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004938"
+            },
+            {
+              "stable_id": "asr-004940",
+              "start_seconds": 16109.14,
+              "clock": "04:28:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004940"
+            }
+          ]
+        },
+        {
+          "label": "PhilHealth ZBB pilot, proposed expansion and contracting readiness",
+          "text": "Senator Pia S. Cayetano said the 2026 PhilHealth budget included PHP 1 billion for zero-balance billing (ZBB) pilot testing in local government unit (LGU) hospitals; she said the funds were downloaded only on August 25, leaving little time to produce pilot results before considering a larger amount that year. Secretary Edwin M. Mercado said the 2027 National Expenditure Program (NEP) proposed an additional PHP 19 billion for PhilHealth, mostly to cover 368 LGU hospitals. Cayetano clarified that the PHP 19 billion covered ZBB alongside mental health, diabetes and severe malnutrition, and asked how it would be distributed. Cayetano asked whether patients going to LGU hospitals could already receive ZBB and stressed that the public understands it as having no balance to pay. Mercado described a non-inflationary design using global payments tied to agreed service volumes and criteria such as case mix and average length of stay, with work to encourage LGU efficiency. He left the structure to PhilHealth President and Chief Executive Officer Dr. Beverly Lorraine Ho. Ho said PhilHealth would work out details over the next couple of weeks, contract hospitals and agree what advance payments require hospitals to guarantee, including medicine availability. Cayetano supported leaving the design to PhilHealth but urged clear public communication and cautioned against announcing blanket coverage of 300 LGUs before it was ready.",
+          "citations": [
+            {
+              "stable_id": "asr-005238",
+              "start_seconds": 16867.0,
+              "clock": "04:41:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005238"
+            },
+            {
+              "stable_id": "asr-005244",
+              "start_seconds": 16881.26,
+              "clock": "04:41:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005244"
+            },
+            {
+              "stable_id": "asr-005289",
+              "start_seconds": 16998.38,
+              "clock": "04:43:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005289"
+            },
+            {
+              "stable_id": "asr-005297",
+              "start_seconds": 17011.98,
+              "clock": "04:43:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005297"
+            },
+            {
+              "stable_id": "asr-005417",
+              "start_seconds": 17151.74,
+              "clock": "04:45:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005417"
+            },
+            {
+              "stable_id": "asr-005425",
+              "start_seconds": 17161.6,
+              "clock": "04:46:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005425"
+            },
+            {
+              "stable_id": "asr-005343",
+              "start_seconds": 17089.37,
+              "clock": "04:44:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005343"
+            },
+            {
+              "stable_id": "asr-005368",
+              "start_seconds": 17100.23,
+              "clock": "04:45:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005368"
+            },
+            {
+              "stable_id": "asr-005454",
+              "start_seconds": 17194.39,
+              "clock": "04:46:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005454"
+            },
+            {
+              "stable_id": "asr-005486",
+              "start_seconds": 17228.39,
+              "clock": "04:47:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005486"
+            }
+          ]
+        },
+        {
+          "label": "PhilHealth sin-tax earmarks, NEP allocations and funding appeal",
+          "text": "Senator Pia S. Cayetano presented her account of earmarked sin-tax revenue for Philippine Health Insurance Corporation (PhilHealth), distinguishing amounts earmarked from those appearing in the National Expenditure Program (NEP) and final General Appropriations Act (GAA). For 2023 she cited ₱83.90 billion earmarked, ₱79 billion in the NEP and GAA, and a stated ₱4.90 billion deficiency. For 2024 she cited ₱79 billion earmarked, ₱80 billion in the NEP and ₱40 billion in the GAA, with a stated ₱38.73 billion deficiency. For 2025 she cited ₱69.81 billion earmarked, ₱53.13 billion in the NEP and zero in the GAA, describing the deficiency as ₱69.81 billion. Cayetano said the 2026 amount had been secured during bicameral negotiations but did not give a clear figure in this passage. For FY2027, she said economic managers gave her an earmark of ₱75.2 billion and the NEP contained ₱55.4 billion; she described ₱19.78 billion as the deficiency owed to PhilHealth. Cayetano also cited PHP66.21 billion in PCSO and PAGCOR receivables as potential funding. She urged Health Secretary Edwin M. Mercado and PhilHealth President and CEO Dr. Beverly Lorraine Ho to pursue release of earmarked funds. Hearing chair Senator Joseph Victor \"JV\" G. Ejercito supported pressing for at least a portion to be released. These were funding appeals; no appropriation or transfer was voted.",
+          "citations": [
+            {
+              "stable_id": "asr-007495",
+              "start_seconds": 20931.46,
+              "clock": "05:48:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007495"
+            },
+            {
+              "stable_id": "asr-007497",
+              "start_seconds": 20935.42,
+              "clock": "05:48:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007497"
+            },
+            {
+              "stable_id": "asr-007499",
+              "start_seconds": 20939.26,
+              "clock": "05:48:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007499"
+            },
+            {
+              "stable_id": "asr-007500",
+              "start_seconds": 20941.62,
+              "clock": "05:49:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007500"
+            },
+            {
+              "stable_id": "asr-007501",
+              "start_seconds": 20943.74,
+              "clock": "05:49:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007501"
+            },
+            {
+              "stable_id": "asr-007502",
+              "start_seconds": 20945.7,
+              "clock": "05:49:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007502"
+            },
+            {
+              "stable_id": "asr-007503",
+              "start_seconds": 20948.38,
+              "clock": "05:49:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007503"
+            },
+            {
+              "stable_id": "asr-007504",
+              "start_seconds": 20949.74,
+              "clock": "05:49:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007504"
+            },
+            {
+              "stable_id": "asr-007506",
+              "start_seconds": 20952.96,
+              "clock": "05:49:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007506"
+            },
+            {
+              "stable_id": "asr-007507",
+              "start_seconds": 20956.12,
+              "clock": "05:49:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007507"
+            },
+            {
+              "stable_id": "asr-007508",
+              "start_seconds": 20957.28,
+              "clock": "05:49:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007508"
+            },
+            {
+              "stable_id": "asr-007509",
+              "start_seconds": 20960.0,
+              "clock": "05:49:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007509"
+            },
+            {
+              "stable_id": "asr-007511",
+              "start_seconds": 20963.48,
+              "clock": "05:49:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007511"
+            },
+            {
+              "stable_id": "asr-007514",
+              "start_seconds": 20969.14,
+              "clock": "05:49:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007514"
+            },
+            {
+              "stable_id": "asr-007540",
+              "start_seconds": 21021.52,
+              "clock": "05:50:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007540"
+            },
+            {
+              "stable_id": "asr-007541",
+              "start_seconds": 21024.44,
+              "clock": "05:50:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007541"
+            },
+            {
+              "stable_id": "asr-007544",
+              "start_seconds": 21029.84,
+              "clock": "05:50:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007544"
+            },
+            {
+              "stable_id": "asr-007547",
+              "start_seconds": 21035.18,
+              "clock": "05:50:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007547"
+            },
+            {
+              "stable_id": "asr-007590",
+              "start_seconds": 21127.68,
+              "clock": "05:52:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007590"
+            },
+            {
+              "stable_id": "asr-007633",
+              "start_seconds": 21242.41,
+              "clock": "05:54:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007633"
+            },
+            {
+              "stable_id": "asr-007650",
+              "start_seconds": 21268.61,
+              "clock": "05:54:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007650"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-national-kidney-and-transplant-institute-nkti",
+      "label": "National Kidney and Transplant Institute (NKTI) budget",
+      "items": [
+        {
+          "label": "National Kidney and Transplant Institute subsidy and project appeal",
+          "text": "National Kidney and Transplant Institute (NKTI) Executive Director Dr. Jose Dante P. Dator said the FY2027 subsidy comparison included a special-project addition in 2026 that was not included in the following year's base subsidy. He said the remaining FY2027 subsidy would cover continuing QFS. He reported 72,015 patients served under zero-balance billing since its launch and ₱1.585 billion in assistance. He then described further proposals: clinic-conversion funding, including a stated PHP250 million appeal. These were requested additions; the chair asked NKTI to submit its priorities and supporting details in writing. Cayetano said the Committee had increased NKTI's 2026 budget by ₱1.9 billion, including ₱1 billion for hospital services, ₱500 million for outpatient-services construction and ₱400 million for a linear accelerator. Those prior-year committee additions are not the FY2027 NEP allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-008069",
+              "start_seconds": 22736.22,
+              "clock": "06:18:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008069"
+            },
+            {
+              "stable_id": "asr-008072",
+              "start_seconds": 22765.56,
+              "clock": "06:19:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008072"
+            },
+            {
+              "stable_id": "asr-008085",
+              "start_seconds": 22892.52,
+              "clock": "06:21:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008085"
+            },
+            {
+              "stable_id": "asr-008086",
+              "start_seconds": 22902.24,
+              "clock": "06:21:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008086"
+            },
+            {
+              "stable_id": "asr-008090",
+              "start_seconds": 22916.34,
+              "clock": "06:21:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008090"
+            },
+            {
+              "stable_id": "asr-008118",
+              "start_seconds": 23007.14,
+              "clock": "06:23:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008118"
+            },
+            {
+              "stable_id": "asr-008119",
+              "start_seconds": 23010.22,
+              "clock": "06:23:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008119"
+            },
+            {
+              "stable_id": "asr-008120",
+              "start_seconds": 23011.96,
+              "clock": "06:23:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008120"
+            },
+            {
+              "stable_id": "asr-008121",
+              "start_seconds": 23016.3,
+              "clock": "06:23:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008121"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-lung-center-of-the-philippines-lcp",
+      "label": "Lung Center of the Philippines (LCP) budget",
+      "items": [
+        {
+          "label": "Lung Center of the Philippines expansion and patient services",
+          "text": "Lung Center of the Philippines (LCP) OIC Executive Director Dr. Jubert P. Benedicto reported that the prior locally funded project supported new treatment and robotics equipment, biobanking and biopsy instruments, and that ₱10 million had supported its smoking-cessation program. He said the Center served about 35,000 inpatients and outpatients the previous year. He described the FY2027 priority as a proposed three-story expansion to restore capacity after the 1998 fire reduced the Center from more than 500 beds to 237; he put the project appeal at about ₱5 billion and said plans would be submitted. Cayetano said the specialty hospitals received a separate prior-year zero-balance-billing allocation of ₱1 billion. These were appeals and prior-year funding statements, not an appropriation decision.",
+          "citations": [
+            {
+              "stable_id": "asr-008130",
+              "start_seconds": 23045.34,
+              "clock": "06:24:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008130"
+            },
+            {
+              "stable_id": "asr-008158",
+              "start_seconds": 23198.82,
+              "clock": "06:26:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008158"
+            },
+            {
+              "stable_id": "asr-008171",
+              "start_seconds": 23273.24,
+              "clock": "06:27:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008171"
+            },
+            {
+              "stable_id": "asr-008175",
+              "start_seconds": 23297.06,
+              "clock": "06:28:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008175"
+            },
+            {
+              "stable_id": "asr-008176",
+              "start_seconds": 23298.34,
+              "clock": "06:28:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008176"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-philippine-children-s-medical-center-pcmc",
+      "label": "Philippine Children's Medical Center (PCMC) budget",
+      "items": [
+        {
+          "label": "Philippine Children's Medical Center FY2027 request and appeal",
+          "text": "PCMC Executive Director Dr. Cecilia O. Gan sought a later FY2027 augmentation. She said PCMC appealed for ₱2.4 billion, including ₱1.1 billion in maintenance and other operating expenses (MOOE), ₱448 million for equipment outlay, ₱251 million for infrastructure capital outlay and ₱552 million for the second phase of its MITHI information-technology project. Within MOOE, she cited ₱924 million for inpatient zero-balance billing, ₱200 million for 13 outpatient health packages and ₱5 million for employee mental-health programming. Gan separately described medical-equipment outlay of ₱488 million, which does not match the ₱448 million equipment figure in the appeal breakdown; the two figures are retained as separate statements, not added or reconciled. The appeal was a request, not an approved increase. Gan also reported that the 2026 allocation had included ₱3.5 billion and ₱100 million for a locally funded building.",
+          "citations": [
+            {
+              "stable_id": "asr-008230",
+              "start_seconds": 23374.24,
+              "clock": "06:29:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008230"
+            },
+            {
+              "stable_id": "asr-008234",
+              "start_seconds": 23382.74,
+              "clock": "06:29:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008234"
+            },
+            {
+              "stable_id": "asr-008257",
+              "start_seconds": 23457.92,
+              "clock": "06:30:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008257"
+            },
+            {
+              "stable_id": "asr-008258",
+              "start_seconds": 23469.04,
+              "clock": "06:31:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008258"
+            },
+            {
+              "stable_id": "asr-008259",
+              "start_seconds": 23477.82,
+              "clock": "06:31:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008259"
+            },
+            {
+              "stable_id": "asr-008261",
+              "start_seconds": 23487.92,
+              "clock": "06:31:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008261"
+            },
+            {
+              "stable_id": "asr-008269",
+              "start_seconds": 23547.2,
+              "clock": "06:32:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008269"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-philippine-heart-center-phc",
+      "label": "Philippine Heart Center (PHC) budget",
+      "items": [
+        {
+          "label": "Philippine Heart Center expansion appeal",
+          "text": "Philippine Heart Center (PHC) executive Dr. June Aventura said the Center had supported regional specialty services and wanted a 12-story expansion to increase beds, intensive-care units and operating rooms. Aventura said previously assigned funding had been returned after failed bids and was no longer in the FY2027 NEP, and that PHC was also considering nearby land using corporate funds and a loan. Aventura put the request at about ₱1.14 billion. Hearing chair Senator Joseph Victor “JV” G. Ejercito repeated the amount while discussing regional capacity, then said the specialty-hospital requests would be prioritized; he did not promise an appropriation.",
+          "citations": [
+            {
+              "stable_id": "asr-008300",
+              "start_seconds": 23732.38,
+              "clock": "06:35:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008300"
+            },
+            {
+              "stable_id": "asr-008302",
+              "start_seconds": 23753.98,
+              "clock": "06:35:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008302"
+            },
+            {
+              "stable_id": "asr-008309",
+              "start_seconds": 23804.22,
+              "clock": "06:36:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008309"
+            },
+            {
+              "stable_id": "asr-008311",
+              "start_seconds": 23824.46,
+              "clock": "06:37:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008311"
+            },
+            {
+              "stable_id": "asr-008312",
+              "start_seconds": 23834.22,
+              "clock": "06:37:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008312"
+            },
+            {
+              "stable_id": "asr-008337",
+              "start_seconds": 23953.78,
+              "clock": "06:39:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008337"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-department-of-health-integrated-presentation",
+      "label": "Department of Health integrated presentation",
+      "items": [
+        {
+          "label": "2025 coverage and service results",
+          "text": "For 2025, Mercado said household out-of-pocket spending had fallen to 41.2%, against a goal of about 25%. DOH reported 64.54% full immunization among children against a 95% target, attributing the shortfall in part to late commodity delivery; stunting was 21.1%, down from 22.5% in 2023. Household access to basic water was 82.74%, short of the stated 2025 target of 94%. Family-planning access reached 72.5%, above the 64.5% target. DOH said 367,000 people received tuberculosis medicines, more than 100,000 people living with HIV received treatment, 15,000 cancer patients accessed essential medicines and palliative care, and 262,000 people received mental-health medicines or intervention. Mercado also described 40 million people registered with YAKAP and 4.3 million patients through the medical-assistance program; he said electronic processing had begun in August, had processed 32,000 cases, and was expanding from DOH hospitals to local-government hospitals.",
+          "citations": [
+            {
+              "stable_id": "asr-000265",
+              "start_seconds": 1455.01,
+              "clock": "00:24:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000265"
+            },
+            {
+              "stable_id": "asr-000598",
+              "start_seconds": 1948.94,
+              "clock": "00:32:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000598"
+            },
+            {
+              "stable_id": "asr-000641",
+              "start_seconds": 2153.6,
+              "clock": "00:35:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000641"
+            },
+            {
+              "stable_id": "asr-000648",
+              "start_seconds": 2183.58,
+              "clock": "00:36:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000648"
+            }
+          ]
+        },
+        {
+          "label": "Unified health agenda and service priorities",
+          "text": "Mercado said the Unified National Agenda for Health (Una para sa Kalusugan) was developed with PhilHealth President and Chief Executive Officer (PCEO) Dr. Beverly Lorraine Ho around five pillars: healthy schools, workplaces and communities; functional primary care; quality and efficient hospitals; information-technology transformation; and strong institutions, workforce and sector. He said the agenda aims to bring prevention, screening and health promotion to communities; make primary care, affordable medicines and PhilHealth benefits more accessible; improve hospital governance, patient safety, operations and referral flow; build a central digital health system and information exchange; and support health workers, supply chains, warehouses and vaccine cold chains. His stated aim was to move universal health care from policy into practice, with services experienced by the public as fast, fair and trustworthy.",
+          "citations": [
+            {
+              "stable_id": "asr-000273",
+              "start_seconds": 1466.95,
+              "clock": "00:24:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000273"
+            },
+            {
+              "stable_id": "asr-000327",
+              "start_seconds": 1528.75,
+              "clock": "00:25:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000327"
+            },
+            {
+              "stable_id": "asr-000684",
+              "start_seconds": 2373.14,
+              "clock": "00:39:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000684"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-and-chair-statement",
+      "label": "Opening and chair statement",
+      "items": [
+        {
+          "label": "Health care priorities and the test for the FY2027 budget",
+          "text": "Hearing chair Senator Joseph Victor \"JV\" G. Ejercito framed the FY2027 Department of Health (DOH) and attached-agency budget as a test of whether patients receive accessible care and pay less out of pocket. As an author and principal sponsor of the Universal Health Care (UHC) Act, he called for sufficient funding and proper implementation: stronger primary and preventive care, provincial hospitals, medical equipment and staffing, and Philippine Health Insurance Corporation (PhilHealth) benefits that cover more of patients' bills. He credited Senate funding for specialty centers with improving DOH-run hospitals and sought clear targets, timelines and accountability for what the budget would deliver.",
+          "citations": [
+            {
+              "stable_id": "asr-000032",
+              "start_seconds": 824.5,
+              "clock": "00:13:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000032"
+            },
+            {
+              "stable_id": "asr-000052",
+              "start_seconds": 946.86,
+              "clock": "00:15:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000052"
+            },
+            {
+              "stable_id": "asr-000076",
+              "start_seconds": 1053.22,
+              "clock": "00:17:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000076"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-raffy-t-tulfo",
+      "label": "Senator Raffy T. Tulfo",
+      "items": [
+        {
+          "label": "Expired medicines and distribution",
+          "text": "Senator Raffy T. Tulfo challenged recurring medicine expirations at the Department of Health (DOH), describing losses in the billions of pesos despite shortages at health centers. He disputed the department's previous explanation that expired medicines were returned to suppliers for replacement, said his photographs showed medicines being buried, and called for accountability and imprisonment. These allegations formed the opening of his later questioning.",
+          "citations": [
+            {
+              "stable_id": "asr-000100",
+              "start_seconds": 1132.3899999999999,
+              "clock": "00:18:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000100"
+            },
+            {
+              "stable_id": "asr-000103",
+              "start_seconds": 1152.95,
+              "clock": "00:19:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000103"
+            },
+            {
+              "stable_id": "asr-000120",
+              "start_seconds": 1211.15,
+              "clock": "00:20:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000120"
+            }
+          ]
+        },
+        {
+          "label": "Food and Drug Administration appointments and later questions",
+          "text": "Tulfo reserved further questions on alleged DOH irregularities for his later turn, expressly excluding current Health Secretary Edwin M. Mercado from responsibility for the earlier conduct he criticized. He challenged the appointment and advancement of Food and Drug Administration (FDA) Officer-in-Charge Director General Atty. Franklin Anthony M. Tabaquin IV, questioned his qualifications, and referred to an Ombudsman case. Tulfo alleged that a former FDA official had favored the appointee and allowed earlier irregularities to continue; he told the appointee not to answer during this opening statement.",
+          "citations": [
+            {
+              "stable_id": "asr-000126",
+              "start_seconds": 1230.31,
+              "clock": "00:20:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000126"
+            },
+            {
+              "stable_id": "asr-000145",
+              "start_seconds": 1269.25,
+              "clock": "00:21:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000145"
+            },
+            {
+              "stable_id": "asr-000147",
+              "start_seconds": 1273.47,
+              "clock": "00:21:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000147"
+            },
+            {
+              "stable_id": "asr-000170",
+              "start_seconds": 1314.83,
+              "clock": "00:21:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000170"
+            }
+          ]
+        },
+        {
+          "label": "Leptospirosis medicines and distribution",
+          "text": "Tulfo pressed the DOH to distribute leptospirosis medicines from central stores to hospitals and areas with patients. Mercado reported 3.1 million in stock, in addition to 2.5 million already brought down, and agreed to bring supplies down further. Tulfo said he had records showing stock remained in the central warehouse and urged prompt distribution. The transcript does not identify the unit represented by these counts.",
+          "citations": [
+            {
+              "stable_id": "asr-001440",
+              "start_seconds": 4507.68,
+              "clock": "01:15:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001440"
+            },
+            {
+              "stable_id": "asr-001448",
+              "start_seconds": 4524.0,
+              "clock": "01:15:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001448"
+            },
+            {
+              "stable_id": "asr-001473",
+              "start_seconds": 4576.23,
+              "clock": "01:16:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001473"
+            }
+          ]
+        },
+        {
+          "label": "Food and Drug Administration leadership and pending case",
+          "text": "Tulfo questioned Atty. Franklin Anthony M. Tabaquin IV, Officer in Charge Director General of the Food and Drug Administration (FDA), about a pending Ombudsman graft and corruption case and his appointment. Tabaquin said he had applied to the FDA and had been recruited by its former leadership. He said that in his 15 years of government service this was the first time he had been sued. He said the allegations concerned delays that occurred before his time: he became OIC Deputy Director for Operations in October of the prior year, was formally made deputy in July of the current year, and had been OIC Director General for two weeks. Tulfo criticized his promotion and alleged favoritism by his predecessor, while Tabaquin located the underlying delays before his own tenure. Tulfo said he would bring the matter to the Senate Blue Ribbon Committee.",
+          "citations": [
+            {
+              "stable_id": "asr-001590",
+              "start_seconds": 4765.76,
+              "clock": "01:19:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001590"
+            },
+            {
+              "stable_id": "asr-001599",
+              "start_seconds": 4777.26,
+              "clock": "01:19:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001599"
+            },
+            {
+              "stable_id": "asr-001621",
+              "start_seconds": 4800.48,
+              "clock": "01:20:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001621"
+            },
+            {
+              "stable_id": "asr-001624",
+              "start_seconds": 4803.1,
+              "clock": "01:20:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001624"
+            },
+            {
+              "stable_id": "asr-001714",
+              "start_seconds": 4915.4,
+              "clock": "01:21:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001714"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-panfilo-lacson",
+      "label": "Senator Panfilo Lacson",
+      "items": [
+        {
+          "label": "Universal health care implementation and local delivery capacity",
+          "text": "Senator Panfilo Lacson asked Department of Health (DOH) Secretary Edwin M. Mercado where implementation of the Universal Health Care Act stood, noting repeated changes to spending plans and asking why the six-year rollout had not reached high coverage. Mercado said the unexpected COVID-19 pandemic delayed implementation by two to three years. He said universal eligibility had been achieved for all Filipinos regardless of contributions, while the supply side lagged: accredited Philippine Health Insurance Corporation (PhilHealth) facilities were unevenly available, including for high-complexity procedures covered by its Z packages. Local health systems also had uneven capacity. Mercado said the DOH was shifting payments to a Special Health Fund (SHF) for local chief executives to plan, and that it still needed to help local governments budget and allocate health funding. He did not consider universal health care fully achieved; he could not give a current percentage against the targets and said the measures had changed over time. His plan was for local health units or executives to have their own SHFs by 2028, alongside a proper financing analysis.",
+          "citations": [
+            {
+              "stable_id": "asr-000717",
+              "start_seconds": 2572.32,
+              "clock": "00:42:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000717"
+            },
+            {
+              "stable_id": "asr-000725",
+              "start_seconds": 2605.88,
+              "clock": "00:43:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000725"
+            },
+            {
+              "stable_id": "asr-000752",
+              "start_seconds": 2754.26,
+              "clock": "00:45:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-sherwin-win-t-gatchalian",
+      "label": "Senator Sherwin \"Win\" T. Gatchalian",
+      "items": [
+        {
+          "label": "Nutrition outcomes, performance measures, and local delivery",
+          "text": "Gatchalian cited stunting of 25%, underweight of 16%, and wasting of 5% among children aged 0-59 months, and stressed that nutrition and immunization required local delivery. Elsewhere he described stunting among children under five as 20%; in a later exchange he used 25% with an estimated 8.7 million children under five to characterize roughly two million children as stunted. Domingo gave an extrapolated 2025 estimate of 8,747,200 children under five, and Gatchalian calculated roughly two million from that rate and population estimate. The two percentages are retained with their separate statements. Gatchalian challenged a reported 96% of local governments reaching an 85% nutrition-program quality score, arguing that the measure did not match child outcomes. Domingo agreed that plans and documentation can measure inputs rather than results and said stunting should be the ultimate outcome; he pointed to a multisectoral scorecard as one possible approach. He supported empowering and training local governments for last-mile work. For reaching families, he suggested reviewing health conditions in the Pantawid Pamilyang Pilipino Program (4Ps), while noting that it covered only some families, and considering links to food-stamp or Walang Gutom initiatives. He also cited barangay nutrition scholars' house-to-house reach and proposed amending their governing law to improve benefits. These were suggested approaches, not adopted actions.",
+          "citations": [
+            {
+              "stable_id": "asr-002017",
+              "start_seconds": 5583.16,
+              "clock": "01:33:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002017"
+            },
+            {
+              "stable_id": "asr-002079",
+              "start_seconds": 5706.7,
+              "clock": "01:35:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002079"
+            },
+            {
+              "stable_id": "asr-002249",
+              "start_seconds": 6044.48,
+              "clock": "01:40:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002249"
+            },
+            {
+              "stable_id": "asr-002290",
+              "start_seconds": 6129.3,
+              "clock": "01:42:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002290"
+            },
+            {
+              "stable_id": "asr-002398",
+              "start_seconds": 6427.66,
+              "clock": "01:47:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002398"
+            }
+          ]
+        },
+        {
+          "label": "Alternative delivery through public-private partnerships",
+          "text": "Gatchalian and Mercado discussed public-private partnership (PPP) delivery. Mercado said private providers needed a viable financial model and noted that private YAKAP clinics could charge an additional co-payment up to 900 pesos. He asked whether a supported clinic should be classified as private or local-government-run; that classification was still under discussion. He said coverage expansion and per-referral or per-vaccination top-ups could also provide clinic revenue.",
+          "citations": [
+            {
+              "stable_id": "asr-002582",
+              "start_seconds": 7163.05,
+              "clock": "01:59:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002582"
+            },
+            {
+              "stable_id": "asr-002601",
+              "start_seconds": 7200.46,
+              "clock": "02:00:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002601"
+            },
+            {
+              "stable_id": "asr-002602",
+              "start_seconds": 7215.66,
+              "clock": "02:00:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002602"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-christopher-lawrence-t-go",
+      "label": "Senator Christopher Lawrence T. Go",
+      "items": [
+        {
+          "label": "Complete and operate rural health centers",
+          "text": "Senator Christopher Lawrence T. Go urged the Department of Health (DOH) and local government units (LGUs) to assess each LGU's capacity to operate a super health center before signing an operating agreement. He pointed to remote communities where long trips to towns and hospitals had forced pregnant women to give birth on boats, and said a super health center was already operating on Balot Island. He said existing projects should be completed and made usable before starting new ones, with Health Facilities Enhancement Program (HFEP) support and coordination between DOH regional offices and willing LGUs; he warned against leaving facilities as “white elephants.” Go placed his support for the DOH and attached-agency budgets on the record, but this was his stated support, not a vote adopting an appropriation.",
+          "citations": [
+            {
+              "stable_id": "asr-002626",
+              "start_seconds": 7373.42,
+              "clock": "02:02:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002626"
+            },
+            {
+              "stable_id": "asr-002642",
+              "start_seconds": 7452.46,
+              "clock": "02:04:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002642"
+            },
+            {
+              "stable_id": "asr-002665",
+              "start_seconds": 7527.02,
+              "clock": "02:05:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002665"
+            },
+            {
+              "stable_id": "asr-002678",
+              "start_seconds": 7581.08,
+              "clock": "02:06:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002678"
+            }
+          ]
+        },
+        {
+          "label": "Patient costs and PhilHealth coverage responses",
+          "text": "Go argued that patients remained poorly protected by PhilHealth benefits. He said the 50% case-rate increase still left substantial patient bills. PhilHealth President and Chief Executive Officer Dr. Beverly Lorraine Ho acknowledged that benefits had increased but still did not fully cover patients' needs. When Go asked Secretary of Health Edwin M. Mercado about the low coverage, Mercado said the coverage during his own hospitalization had been substantial under the new package, while coverage before that had been very small. Go questioned why the case-rate increases were approved in December rather than January, arguing that PhilHealth funds could have supported higher packages before being treated as excess.",
+          "citations": [
+            {
+              "stable_id": "asr-002763",
+              "start_seconds": 8037.93,
+              "clock": "02:13:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002763"
+            },
+            {
+              "stable_id": "asr-002779",
+              "start_seconds": 8090.73,
+              "clock": "02:14:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002779"
+            },
+            {
+              "stable_id": "asr-002788",
+              "start_seconds": 8102.62,
+              "clock": "02:15:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002788"
+            },
+            {
+              "stable_id": "asr-002803",
+              "start_seconds": 8117.68,
+              "clock": "02:15:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002803"
+            }
+          ]
+        },
+        {
+          "label": "Benefit-package changes, eligibility rules and member identification",
+          "text": "Go credited Dr. Beverly Lorraine Ho and Secretary Edwin M. Mercado with PhilHealth reforms following a prior commitment letter, including new dental, optometric and emergency outpatient benefits, higher case rates and improved packages for common diseases. He said the single-period-of-confinement policy, which prevented repeat PhilHealth coverage within 90 days, had been removed; he urged further review of a 24-hour admission condition and the 45-day benefit limit. Go also asked Mercado to pursue a PhilHealth identification card, or integrate membership information with the national identification card, because some people did not know they were members. He described Malasakit Centers under Republic Act 11463 as one-stop shops without their own budget, bringing together PhilHealth, the Philippine Charity Sweepstakes Office (PCSO), DOH and the Department of Social Welfare and Development (DSWD) to assist patients; he argued that broader PhilHealth coverage could reduce out-of-pocket costs and applications for other assistance.",
+          "citations": [
+            {
+              "stable_id": "asr-003094",
+              "start_seconds": 8469.71,
+              "clock": "02:21:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003094"
+            },
+            {
+              "stable_id": "asr-003118",
+              "start_seconds": 8529.71,
+              "clock": "02:22:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003118"
+            },
+            {
+              "stable_id": "asr-003120",
+              "start_seconds": 8533.71,
+              "clock": "02:22:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003120"
+            },
+            {
+              "stable_id": "asr-003128",
+              "start_seconds": 8553.71,
+              "clock": "02:22:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003128"
+            },
+            {
+              "stable_id": "asr-003135",
+              "start_seconds": 8574.71,
+              "clock": "02:22:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003135"
+            },
+            {
+              "stable_id": "asr-003155",
+              "start_seconds": 8637.71,
+              "clock": "02:23:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003155"
+            }
+          ]
+        },
+        {
+          "label": "Operational facilities, regional specialty care and health-worker vacancies",
+          "text": "Go said it had been reported that only 200 of 600 health centers nationwide were operating. He urged DOH to finish and equip facilities, coordinate with LGUs that could operate them, and prioritize HFEP and staff for regional specialty centers so patients outside Manila could receive specialist care closer to home. He cited the Regional Specialty Centers Act and referred to services in Mindanao and other regions. He also said the DOH had nearly 100,000 positions, with more than 9,000 unfilled, and urged action to retain health workers in stable jobs near their families. He described some fourth-class municipalities as unable to build facilities because their limited annual budgets went mainly to staff salaries.",
+          "citations": [
+            {
+              "stable_id": "asr-003192",
+              "start_seconds": 8766.71,
+              "clock": "02:26:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003192"
+            },
+            {
+              "stable_id": "asr-003207",
+              "start_seconds": 8846.71,
+              "clock": "02:27:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003207"
+            },
+            {
+              "stable_id": "asr-003212",
+              "start_seconds": 8874.71,
+              "clock": "02:27:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003212"
+            },
+            {
+              "stable_id": "asr-003227",
+              "start_seconds": 8961.71,
+              "clock": "02:29:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003227"
+            }
+          ]
+        },
+        {
+          "label": "Zero-balance billing beyond charity wards",
+          "text": "Go asked the DOH to reduce patients' out-of-pocket expenses through zero-balance billing. He said universal health care remained far from full implementation and that charity wards were often full, forcing some patients into shared or semi-private rooms; some could not leave hospitals because they could not pay. Go asked that semi-private patients also be covered and referred to a bill to amend the hospital detention law. This request for coverage beyond charity wards remained without a response before Go moved to Malasakit Center access.",
+          "citations": [
+            {
+              "stable_id": "asr-003799",
+              "start_seconds": 10153.12,
+              "clock": "02:49:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003799"
+            },
+            {
+              "stable_id": "asr-003833",
+              "start_seconds": 10221.14,
+              "clock": "02:50:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003833"
+            },
+            {
+              "stable_id": "asr-003848",
+              "start_seconds": 10252.58,
+              "clock": "02:50:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003848"
+            }
+          ]
+        },
+        {
+          "label": "Leptospirosis reports, flood exposure, and access to prophylaxis",
+          "text": "Senator Christopher Lawrence T. Go asked about leptospirosis after flooding, citing reports of full or overwhelmed hospitals, one Manila hospital at 300% capacity, and the flood-related closure of San Lazaro Hospital's outpatient department. He asked how residents would learn about prevention after flood exposure and where to obtain free medicine. DOH Undersecretary Dr. Gloria J. Balboa reported that cases from January through August were 37% lower than the prior year, while July-to-August cases had risen 29%; she cited 495 cases in the morbidity weeks she identified as July 26 through August 8. She said admissions had risen, but a bed tracker and surge plan enabled hospitals to add leptospirosis beds, share the load, and transfer stable patients to Level 1 or Level 2 facilities. Balboa reported 277 deaths from January 4 through August 22 and described this as a 62% year-over-year decrease. Go asked the DOH to intensify its information campaign on post-flood exposure and where to obtain medicines. Balboa said the campaign and prophylaxis access were being expanded through health centers and YAKAP clinics, with additional sites in schools, churches, and malls in the National Capital Region; health workers provide instructions.",
+          "citations": [
+            {
+              "stable_id": "asr-004357",
+              "start_seconds": 11279.76,
+              "clock": "03:07:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004357"
+            },
+            {
+              "stable_id": "asr-004440",
+              "start_seconds": 11453.35,
+              "clock": "03:10:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004440"
+            },
+            {
+              "stable_id": "asr-004545",
+              "start_seconds": 11663.28,
+              "clock": "03:14:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004545"
+            },
+            {
+              "stable_id": "asr-004557",
+              "start_seconds": 11686.7,
+              "clock": "03:14:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004557"
+            }
+          ]
+        },
+        {
+          "label": "Philippine Heart Center halfway house and patient access",
+          "text": "Senator Christopher Lawrence T. Go said the Philippine Heart Center serves patients and watchers from the provinces and asked about the halfway house for patient watchers. Dr. June Aventura said construction was underway and estimated completion by the end of the month after a short rain-related extension, after which it could be equipped and used. Aventura also said air-conditioning had been added in emergency and intensive care areas and that an online outpatient appointment system had shortened queues. Go said the halfway house would help watchers who otherwise wait outside or find nearby lodging.",
+          "citations": [
+            {
+              "stable_id": "asr-008343",
+              "start_seconds": 23973.24,
+              "clock": "06:39:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008343"
+            },
+            {
+              "stable_id": "asr-008367",
+              "start_seconds": 24067.22,
+              "clock": "06:41:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008367"
+            },
+            {
+              "stable_id": "asr-008371",
+              "start_seconds": 24079.5,
+              "clock": "06:41:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008371"
+            },
+            {
+              "stable_id": "asr-008381",
+              "start_seconds": 24116.94,
+              "clock": "06:41:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008381"
+            }
+          ]
+        },
+        {
+          "label": "Other halfway houses and requested status report",
+          "text": "Go asked the Department of Health (DOH) to check the status of halfway houses at Quirino Memorial Medical Center, Dr. Jose Rodriguez Memorial Hospital, V. Luna, East Avenue, Bataan General Hospital and San Lazaro, and to prioritize suitable spaces at other hospitals. DOH Undersecretary Christian Lel M. Saquilabon agreed to check and provide a status report. The request focused on providing resting space for patient watchers, including those traveling from the provinces.",
+          "citations": [
+            {
+              "stable_id": "asr-008386",
+              "start_seconds": 24134.1,
+              "clock": "06:42:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008386"
+            },
+            {
+              "stable_id": "asr-008422",
+              "start_seconds": 24243.68,
+              "clock": "06:44:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008422"
+            },
+            {
+              "stable_id": "asr-008423",
+              "start_seconds": 24248.16,
+              "clock": "06:44:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-008423"
+            }
+          ]
+        },
+        {
+          "label": "Quirino Memorial Medical Center and Philippine Children's Medical Center halfway house status",
+          "text": "Senator Christopher Lawrence T. Go clarified that Quirino Memorial Medical Center was complete and that the ongoing construction he meant was the halfway house at the Philippine Children's Medical Center (PCMC). PCMC Executive Director Dr. Cecilia O. Gan said the project was in its second phase; after the contractor was terminated, the center began bidding for that phase. Go asked that the project be included in updates and noted that it would help children's caregivers.",
+          "citations": [
+            {
+              "stable_id": "asr-009291",
+              "start_seconds": 25412.39,
+              "clock": "07:03:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009291"
+            },
+            {
+              "stable_id": "asr-009304",
+              "start_seconds": 25438.29,
+              "clock": "07:03:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009304"
+            },
+            {
+              "stable_id": "asr-009305",
+              "start_seconds": 25440.49,
+              "clock": "07:04:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009305"
+            },
+            {
+              "stable_id": "asr-009307",
+              "start_seconds": 25444.07,
+              "clock": "07:04:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009307"
+            }
+          ]
+        },
+        {
+          "label": "Malasakit Centers patient-assistance update",
+          "text": "Go asked for an update on the Malasakit Centers, citing about 17 million patients assisted in the previous year. DOH Undersecretary Zhielah Ritz C. Gatchalian said DOH personnel continued to staff and monitor the centers and reported 2 million assisted through the DOH program so far that year. She separately gave a combined total of 3.9 million people assisted through the program with the Philippine Charity Sweepstakes Office (PCSO) and the Department of Social Welfare and Development (DSWD), as of July 31, across 167 active Malasakit Centers. Go checked whether 3.9 million was the total; Gatchalian confirmed the date and figure and said assistance to indigent patients was continuing.",
+          "citations": [
+            {
+              "stable_id": "asr-009319",
+              "start_seconds": 25468.35,
+              "clock": "07:04:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009319"
+            },
+            {
+              "stable_id": "asr-009328",
+              "start_seconds": 25491.61,
+              "clock": "07:04:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009328"
+            },
+            {
+              "stable_id": "asr-009336",
+              "start_seconds": 25507.75,
+              "clock": "07:05:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009336"
+            },
+            {
+              "stable_id": "asr-009350",
+              "start_seconds": 25537.37,
+              "clock": "07:05:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009350"
+            }
+          ]
+        },
+        {
+          "label": "Written questions and procedural submission of the DOH budget",
+          "text": "Chair Senator Joseph Victor \"JV\" G. Ejercito said the remaining questions would be sent to the concerned agencies for written responses. He placed on record that Minority Leader Senator Alan Peter S. Cayetano had sent written questions for the Department of Health (DOH), to be forwarded for response. Ejercito then stated that, with no further questions, the DOH budget and those of its attached agencies and corporations were deemed submitted for plenary consideration, subject to plenary discussion and submission of requested documents. Go seconded and asked the agencies to comply with the requested submissions. The chair suspended the briefing.",
+          "citations": [
+            {
+              "stable_id": "asr-009368",
+              "start_seconds": 25596.8,
+              "clock": "07:06:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009368"
+            },
+            {
+              "stable_id": "asr-009373",
+              "start_seconds": 25606.96,
+              "clock": "07:06:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009373"
+            },
+            {
+              "stable_id": "asr-009389",
+              "start_seconds": 25641.16,
+              "clock": "07:07:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009389"
+            },
+            {
+              "stable_id": "asr-009393",
+              "start_seconds": 25648.82,
+              "clock": "07:07:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009393"
+            },
+            {
+              "stable_id": "asr-009397",
+              "start_seconds": 25657.36,
+              "clock": "07:07:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009397"
+            },
+            {
+              "stable_id": "asr-009404",
+              "start_seconds": 25670.58,
+              "clock": "07:07:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009404"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Reducing out-of-pocket costs as hospitals face rising charges",
+          "text": "Ejercito asked how PhilHealth could increase participation in hospital bills and reduce out-of-pocket costs, especially for middle-class direct contributors. As examples, he cited a PHP 100,000 hospital bill against PhilHealth participation of only PHP 5,000 to PHP 8,000, and a mayor-reported PHP 5 million Medical Assistance to Indigent and Financially Incapacitated Patients (MAIFIP) allocation that once helped many patients but now sometimes covered only ten as hospital bills stayed above six digits. He connected the pressure to medical inflation, rising professional fees, hospital charges, and delayed payments. Ho said average PhilHealth claims turnaround was about 19 days, reaching 10 days in some regions; separately, some private hospitals delayed remitting fees to physicians for six to nine months after receiving payment, for which she said stricter rules may be needed. To control costs while increasing effective coverage, Ho described direct negotiations with hospitals, work with medical societies to standardize common professional fees, additional no-balance-billing beds beyond the 90 percent government and 10 percent private requirements, possible global budgets or advance payments for participating hospitals, diagnosis-related groupings with data modifiers for patients with greater needs, and work with health maintenance organizations on benefit complementation and future PhilHealth Plus supplemental insurance. These were planned or prospective measures.",
+          "citations": [
+            {
+              "stable_id": "asr-003459",
+              "start_seconds": 9467.5,
+              "clock": "02:37:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003459"
+            },
+            {
+              "stable_id": "asr-003472",
+              "start_seconds": 9493.5,
+              "clock": "02:38:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003472"
+            },
+            {
+              "stable_id": "asr-003474",
+              "start_seconds": 9497.5,
+              "clock": "02:38:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003474"
+            },
+            {
+              "stable_id": "asr-003475",
+              "start_seconds": 9499.5,
+              "clock": "02:38:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003475"
+            },
+            {
+              "stable_id": "asr-003587",
+              "start_seconds": 9725.5,
+              "clock": "02:42:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003587"
+            },
+            {
+              "stable_id": "asr-003618-split-2",
+              "start_seconds": 9788.88,
+              "clock": "02:43:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003618-split-2"
+            },
+            {
+              "stable_id": "asr-003623",
+              "start_seconds": 9797.5,
+              "clock": "02:43:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003623"
+            },
+            {
+              "stable_id": "asr-003625",
+              "start_seconds": 9801.5,
+              "clock": "02:43:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003625"
+            }
+          ]
+        },
+        {
+          "label": "Youth mental-health access and awareness",
+          "text": "Chair Senator Joseph Victor \"JV\" G. Ejercito asked how the Department of Health (DOH) could better publicize its mental-health services for young people, including treatment, early detection, counseling, prevention, and maintenance medicines. Secretary Edwin M. Mercado said the age group commonly involved in suicide crises was 15 to 29 and identified schools as an important point of contact. He said the DOH would integrate mental-health promotion into YAKAP, train more practitioners through MHGAP certification with academic institutions, and develop peer-to-peer and community-based support. PhilHealth President and CEO Dr. Beverly Lorraine Ho said existing general and specialist mental-health packages had low utilization: about 7,500 claims in 2025 and 651 so far in the current year. She attributed the low take-up in part to too few trained providers to support accreditation and said PhilHealth was working with the National Center for Mental Health (NCMH). Ejercito emphasized public awareness, urging information agencies to promote available programs and noting that free maintenance medicines were available at selected DOH hospitals.",
+          "citations": [
+            {
+              "stable_id": "asr-003925",
+              "start_seconds": 10408.68,
+              "clock": "02:53:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003925"
+            },
+            {
+              "stable_id": "asr-003962",
+              "start_seconds": 10482.68,
+              "clock": "02:54:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-003962"
+            },
+            {
+              "stable_id": "asr-004022",
+              "start_seconds": 10601.6,
+              "clock": "02:56:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004022"
+            },
+            {
+              "stable_id": "asr-004043",
+              "start_seconds": 10647.43,
+              "clock": "02:57:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004043"
+            }
+          ]
+        },
+        {
+          "label": "Community prevention and animal-bite burden",
+          "text": "After Go's leptospirosis questions, Mercado connected health spending to prevention and waste control. He said PhilHealth's animal-bite centers were among its five largest areas of expenditure, and argued that Department of Agriculture (DA) vaccination of pets and stray dogs, alongside identifying stray animals, could reduce animal-bite cases and related spending. He asked legislators to align public-health policy with prevention so households' out-of-pocket costs could fall.",
+          "citations": [
+            {
+              "stable_id": "asr-004572",
+              "start_seconds": 11745.86,
+              "clock": "03:15:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004572"
+            },
+            {
+              "stable_id": "asr-004577",
+              "start_seconds": 11769.74,
+              "clock": "03:16:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004577"
+            },
+            {
+              "stable_id": "asr-004581",
+              "start_seconds": 11787.92,
+              "clock": "03:16:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004581"
+            }
+          ]
+        },
+        {
+          "label": "GIDA health-worker retention and deployment priorities",
+          "text": "Ejercito asked for cohort-level retention data for health workers deployed in geographically isolated and disadvantaged areas (GIDA) over the past three years. Mercado said exact data would be provided and gave an initial feedback that retention was in the single digits. Ejercito asked that deployment respond to facility readiness and staffing gaps rather than regional population ratios. Mercado said deployment priorities are weighted for need (45%), access (25%), equity (20%) and facility readiness/alignment (10%), with the DOH workforce team working with the Health Facility Development Bureau (HFDB) to plan and forecast local needs. The exact retention figures remained for a later submission.",
+          "citations": [
+            {
+              "stable_id": "asr-009225",
+              "start_seconds": 25254.04,
+              "clock": "07:00:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009225"
+            },
+            {
+              "stable_id": "asr-009241",
+              "start_seconds": 25288.19,
+              "clock": "07:01:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009241"
+            },
+            {
+              "stable_id": "asr-009244",
+              "start_seconds": 25294.61,
+              "clock": "07:01:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009244"
+            },
+            {
+              "stable_id": "asr-009260",
+              "start_seconds": 25347.99,
+              "clock": "07:02:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009260"
+            },
+            {
+              "stable_id": "asr-009277",
+              "start_seconds": 25382.09,
+              "clock": "07:03:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-009277"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joel-villanueva",
+      "label": "Senator Joel Villanueva",
+      "items": [
+        {
+          "label": "Government health spending, out-of-pocket costs and PhilHealth coverage",
+          "text": "Villanueva asked how Philippine health spending compared internationally, noting that the proposed health budget was 4.9% of the national budget and about 1.1% of GDP, with the latter qualified as approximate. Mercado distinguished public spending from total health expenditure: he said the 1.1% was government spending alone, while developed countries generally spent 8–10% of GDP across government, out-of-pocket and private health spending. He said government accounted for 46% of Philippine health expenditure and that doubling the public share would put it around 2.2–2.5%, still below that comparison. Mercado said out-of-pocket spending had decreased in 2025 compared with 2024 and attributed the change to PhilHealth's increased contribution; he said the 2025 GAA provision for PhilHealth was zero and that retained earnings were used to reduce out-of-pocket spending. Ho reported out-of-pocket payments at 41% of total health expenditure at end-2025 and set a trend-based target of 37% by 2028. Villanueva cited a Philippine Statistics Authority (PSA) figure of 41.2% out-of-pocket spending in 2025 and 12.3% for voluntary health-care payment schemes, then asked whether PhilHealth's share of hospital bills would rise. Ho confirmed a goal of increasing PhilHealth's share to as much as 30% of total health expenditure and said it was then 19%.",
+          "citations": [
+            {
+              "stable_id": "asr-004643",
+              "start_seconds": 15693.18,
+              "clock": "04:21:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004643"
+            },
+            {
+              "stable_id": "asr-004665",
+              "start_seconds": 15737.46,
+              "clock": "04:22:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004665"
+            },
+            {
+              "stable_id": "asr-004795",
+              "start_seconds": 15969.68,
+              "clock": "04:26:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-004795"
+            },
+            {
+              "stable_id": "asr-005011",
+              "start_seconds": 16174.68,
+              "clock": "04:29:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005011"
+            },
+            {
+              "stable_id": "asr-005084",
+              "start_seconds": 16416.69,
+              "clock": "04:33:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005084"
+            }
+          ]
+        },
+        {
+          "label": "No-balance-billing beds and making patient costs more predictable",
+          "text": "Ho said the goal for no-balance-billing (NBB) beds in public and private hospitals was no out-of-pocket payment; patients choosing semi-private or private rooms could still face charges, which PhilHealth hoped to make more predictable through hospital negotiations. She described the legal bed shares as 90% of public hospital beds, except government-owned or controlled corporation hospitals, and 10% of private beds. She counted 59,790 government beds within the mandated NBB shares plus 6,265 private beds, or 66,055 nationwide; she cautioned that the mandates had been difficult to enforce when payments were not commensurate, while saying more private hospitals were participating. Mercado put total national bed capacity at about 120,000, including 32,400 DOH beds and 21,600 local-government-unit beds, and described the NBB target as about half of national capacity. He said DOH would pursue strategic purchasing, negotiate rates and faster payments, consider global budgets and coordinate to route overflow from government hospitals to private beds. DOH's Medical Assistance to Indigent and Financially Incapacitated Patients (MAIFIP) would address exceptional costs beyond standard case rates under rules-based negotiated rates; Ho had said semi-private charges should be more predictable, not necessarily eliminated.",
+          "citations": [
+            {
+              "stable_id": "asr-005063",
+              "start_seconds": 16316.85,
+              "clock": "04:31:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005063"
+            },
+            {
+              "stable_id": "asr-005114",
+              "start_seconds": 16529.36,
+              "clock": "04:35:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005114"
+            },
+            {
+              "stable_id": "asr-005148",
+              "start_seconds": 16651.94,
+              "clock": "04:37:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005148"
+            },
+            {
+              "stable_id": "asr-005174",
+              "start_seconds": 16732.28,
+              "clock": "04:38:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005174"
+            },
+            {
+              "stable_id": "asr-005213",
+              "start_seconds": 16815.12,
+              "clock": "04:40:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005213"
+            }
+          ]
+        },
+        {
+          "label": "Gamot expansion, local provider access, and commodity funding proposal",
+          "text": "Villanueva asked whether the GAMOT outpatient medicine program would bring medicines closer to poor patients and expand its provider network. PhilHealth President and CEO Dr. Beverly Lorraine Ho said that by August 2026 GAMOT had 2,984 pharmacy providers (2,472 private and 512 government) and had served about 788,000 patients, while noting that this remained far below the roughly 20,000 licensed pharmacies discussed in the exchange. She said 21 medicines then available through YAKAP were planned to move into GAMOT; GAMOT had 54 medicines, with an expansion list bringing its planned total to about 120. Villanueva initially thought the current figure was 75, but Ho clarified that 21 were in YAKAP and 54 were in GAMOT, so 75 was not GAMOT's current count. Ho said only 52% of local government units had accredited GAMOT providers and committed to work on broader local access. Mercado added that the DOH was considering shifting some of its commodity budget into an additional PhilHealth subsidy to improve access and reduce central-stock accumulation and expiration; he said expanding coverage could also encourage more pharmacies to participate. This was presented as a plan under consideration, not a completed transfer.",
+          "citations": [
+            {
+              "stable_id": "asr-005647",
+              "start_seconds": 17399.69,
+              "clock": "04:49:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005647"
+            },
+            {
+              "stable_id": "asr-005694",
+              "start_seconds": 17469.91,
+              "clock": "04:51:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005694"
+            },
+            {
+              "stable_id": "asr-005752",
+              "start_seconds": 17545.47,
+              "clock": "04:52:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005752"
+            },
+            {
+              "stable_id": "asr-005819",
+              "start_seconds": 17622.09,
+              "clock": "04:53:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005819"
+            },
+            {
+              "stable_id": "asr-005834",
+              "start_seconds": 17636.63,
+              "clock": "04:53:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005834"
+            },
+            {
+              "stable_id": "asr-005911",
+              "start_seconds": 17712.39,
+              "clock": "04:55:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-005911"
+            }
+          ]
+        },
+        {
+          "label": "Developmental-disability coverage, screening and allied-health access",
+          "text": "Villanueva asked whether the proposed FY2027 subsidy for the National Health Insurance Program (NHIP), including Special Purpose Insurance Coverage (SPIC), would cover people with autism spectrum disorder (ASD) and other developmental disabilities. Philippine Health Insurance Corporation (PhilHealth) President and CEO Dr. Beverly Lorraine Ho confirmed coverage and described an existing benefit package dating to 2017, but said PhilHealth had paid only 482 claims and had five contracted facilities. She said the accreditation rules were stringent and that PhilHealth would issue a policy later that week to decouple accreditation standards so more facilities could participate, permit practice-based accreditation for allied-health professionals, and work toward implementation before year-end. Senator Joel Villanueva linked the limits of autism and developmental-disability benefits to shortages of occupational therapists, physical therapists, speech therapists, and developmental pediatricians. He said the PhilHealth package covered 90 therapy sessions and an assessment cost of P3,000 to P5,000 depending on the number and type of professionals involved, and asked PhilHealth to expand the package even before pending legislation. He described families' difficulty finding providers. PhilHealth President and CEO Dr. Beverly Lorraine Ho said developmental pediatricians could not screen every school and community, so the Developmental Pediatrics Society had piloted training for barangay health workers and daycare staff to conduct first-level screening, with further training planned for primary-care physicians and general pediatricians. PhilHealth was discussing practice-based accreditation so more allied-health professionals could participate. Secretary Edwin M. Mercado said the DOH was developing a stepwise workforce response, including primary diagnosis and initial intervention at community and primary-care levels, a referral path to specialists, and task shifting while specialized professionals are trained. Villanueva stressed that students need viable work settings. Mercado said a substantial increase in professional fees, if approved by the PhilHealth Board, could signal demand. Ho committed to finish consultations and issue an updated package policy before year-end, while preparing the provider supply side.",
+          "citations": [
+            {
+              "stable_id": "asr-006330",
+              "start_seconds": 18235.46,
+              "clock": "05:03:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006330"
+            },
+            {
+              "stable_id": "asr-006344",
+              "start_seconds": 18263.76,
+              "clock": "05:04:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006344"
+            },
+            {
+              "stable_id": "asr-006350",
+              "start_seconds": 18274.82,
+              "clock": "05:04:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006350"
+            },
+            {
+              "stable_id": "asr-006353",
+              "start_seconds": 18281.1,
+              "clock": "05:04:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006353"
+            },
+            {
+              "stable_id": "asr-006357",
+              "start_seconds": 18289.32,
+              "clock": "05:04:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006357"
+            },
+            {
+              "stable_id": "asr-006465",
+              "start_seconds": 18506.88,
+              "clock": "05:08:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006465"
+            },
+            {
+              "stable_id": "asr-006466",
+              "start_seconds": 18508.88,
+              "clock": "05:08:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006466"
+            },
+            {
+              "stable_id": "asr-006498",
+              "start_seconds": 18574.92,
+              "clock": "05:09:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006498"
+            },
+            {
+              "stable_id": "asr-006505-split-2",
+              "start_seconds": 18589.55,
+              "clock": "05:09:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006505-split-2"
+            },
+            {
+              "stable_id": "asr-006573",
+              "start_seconds": 18725.88,
+              "clock": "05:12:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-006573"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-pia-s-cayetano",
+      "label": "Senator Pia S. Cayetano",
+      "items": [
+        {
+          "label": "Health workforce education, migration and laddered career pathways",
+          "text": "Cayetano urged the Department of Health (DOH), Commission on Higher Education (CHED), Department of Migrant Workers (DMW) and professional groups to coordinate on allied-health workforce planning, including occupational and physical therapists, pharmacists and radiologic technologists. She said medical schools had grown from eight public schools to 32, while allied-health program expansion remained limited, and asked DOH to lead a multi-agency review of domestic needs and overseas recruitment. Mercado cited a shortage of qualified professors and said many clinicians pursue overseas work; he supported considering bilateral recruitment agreements and said he would discuss the issue with other agencies. Cayetano pointed to a Philippines–Denmark exchange linking recruitment with education and training. She also proposed exploring associate-level nursing/task-shifting pathways and ladderized progression from barangay health worker (BHW) training toward midwifery, nursing and medicine; Mercado agreed that scope and professional roles would need definition.",
+          "citations": [
+            {
+              "stable_id": "asr-007013",
+              "start_seconds": 19607.54,
+              "clock": "05:26:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007013"
+            },
+            {
+              "stable_id": "asr-007079",
+              "start_seconds": 19737.44,
+              "clock": "05:28:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007079"
+            },
+            {
+              "stable_id": "asr-007120",
+              "start_seconds": 19874.83,
+              "clock": "05:31:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007120"
+            },
+            {
+              "stable_id": "asr-007148",
+              "start_seconds": 20040.67,
+              "clock": "05:34:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007148"
+            },
+            {
+              "stable_id": "asr-007177",
+              "start_seconds": 20212.65,
+              "clock": "05:36:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007177"
+            },
+            {
+              "stable_id": "asr-007204",
+              "start_seconds": 20283.91,
+              "clock": "05:38:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007204"
+            }
+          ]
+        },
+        {
+          "label": "HFEP readiness, facility placement and local operating commitments",
+          "text": "On the Health Facilities Enhancement Program (HFEP), Cayetano said the earlier category lists had helped explain why equipment depended on functional buildings and readiness, and Mercado confirmed an omnibus requirement framework that excluded sites failing conditions discussed earlier. They agreed that facility placement should follow catchment-area needs and existing services rather than duplicate equipment, and Cayetano asked DOH to use its authority while coordinating with local governments. She raised reports of “haunted” facilities as referring to sites lacking equipment or left unused and asked DOH to verify the figures; she accepted the Secretary's commitment to follow up. She also urged DOH to enforce memoranda of agreement under which local government units (LGUs) would operate facilities built for them, allow shared facilities where catchment areas overlap, and involve LGUs in sustaining super health centers.",
+          "citations": [
+            {
+              "stable_id": "asr-007228",
+              "start_seconds": 20344.79,
+              "clock": "05:39:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007228"
+            },
+            {
+              "stable_id": "asr-007279",
+              "start_seconds": 20458.51,
+              "clock": "05:40:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007279"
+            },
+            {
+              "stable_id": "asr-007338",
+              "start_seconds": 20603.14,
+              "clock": "05:43:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007338"
+            },
+            {
+              "stable_id": "asr-007373",
+              "start_seconds": 20676.14,
+              "clock": "05:44:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007373"
+            },
+            {
+              "stable_id": "asr-007440",
+              "start_seconds": 20814.18,
+              "clock": "05:46:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007440"
+            },
+            {
+              "stable_id": "asr-007465",
+              "start_seconds": 20864.72,
+              "clock": "05:47:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007465"
+            }
+          ]
+        },
+        {
+          "label": "Vape regulation, FDA capacity and enforcement support",
+          "text": "Cayetano challenged the Food and Drug Administration (FDA) and DOH to take a stronger health role in regulating vaping products, citing her account of adolescent vaping prevalence rising from 0.8% in 2015 to 39.9% in 2023. She said the Sin Tax Reform Act had set the access age at 21, FDA jurisdiction and flavor restrictions, while the later vape law lowered the age to 18, transferred jurisdiction to the Department of Trade and Industry (DTI), and opened access to flavors. FDA OIC Director General Atty. Franklin Anthony M. Tabaquin IV said the agency was crafting or had issued vape-product policy.",
+          "citations": [
+            {
+              "stable_id": "asr-007692",
+              "start_seconds": 21389.6,
+              "clock": "05:56:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007692"
+            },
+            {
+              "stable_id": "asr-007740",
+              "start_seconds": 21544.82,
+              "clock": "05:59:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007740"
+            },
+            {
+              "stable_id": "asr-007758",
+              "start_seconds": 21602.9,
+              "clock": "06:00:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-007758"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
