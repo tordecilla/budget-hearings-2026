@@ -1,0 +1,1939 @@
+{
+  "hearing": {
+    "hearing_id": 95,
+    "title": "Senate Committee on Finance: GAB, PSC - October 14, 2026",
+    "hearing_date": "2026-10-14",
+    "official_url": "https://www.youtube.com/watch?v=rUCrFJAf4qU"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h95/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Athlete support and federation accountability",
+      "text": "Senators Christopher Lawrence T. Go, Joel Villanueva and Joseph Victor \"JV\" G. Ejercito raised athlete welfare, delayed training allowances and concerns about politics and leadership in the Philippine National Volleyball Federation (PNVF) and national sports associations (NSAs). Philippine Sports Commission (PSC) Chairman John Patrick C. Gregorio distinguished travel support from training allowances and said the PSC funds and oversees programs while NSAs manage athletes. Senators pressed for timely support and greater athlete representation in sports bodies.",
+      "citations": []
+    },
+    {
+      "label": "Sports-association financial assistance",
+      "text": "Ejercito raised Commission on Audit (COA) findings about unliquidated financial assistance to the PNVF and the Gymnastics Association of the Philippines. COA Supervising Auditor Jeorge Roman G. Lozano gave records and an effective balance on different accounting bases; Gregorio said associations that hosted international events still needed to liquidate advances before the PSC could keep funding them. The hearing did not reconcile the different balances.",
+      "citations": []
+    },
+    {
+      "label": "Facilities and regional access",
+      "text": "Gregorio described repairs to abandoned sites, proposed and ongoing sports facilities, and plans to complete regional training centers so athletes could train closer to home. Senators asked how budget reductions affected those priorities and encouraged local and private partners to help fund facilities.",
+      "citations": []
+    },
+    {
+      "label": "Professional-athlete eligibility and support",
+      "text": "Villanueva asked which athletes qualified for PSC assistance and whether support ended after major competitions. Gregorio cited the charter's amateur-athlete focus as a constraint. PSC OIC Executive Director Attorney Guillermo B. Iroy Jr. later clarified that professional players representing the country may receive event-related support through their NSA, including endorsed training camps, while PSC cannot fund club representation.",
+      "citations": []
+    },
+    {
+      "label": "Meals and athlete welfare review",
+      "text": "National jiu-jitsu athlete Kimberly Anne Custodio asked whether meal service replaced a monthly allowance and described an inadequate meal portion and an angry staff response. Gregorio explained the meal-or-allowance option for athletes training away from PSC facilities, apologized for the interaction and promised an immediate review with the nutritionist.",
+      "citations": []
+    },
+    {
+      "label": "Sports-fund remittances and public oversight",
+      "text": "Go called for the Philippine Amusement and Gaming Corporation (PAGCOR) to comply with its statutory sports-development remittance to the PSC. Gregorio said PAGCOR had resumed payments and sought continued committee support for regional centers; Games and Amusements Board (GAB) Chairperson Attorney Francisco J. Rivera asked the committee to support the board's proposed allocation.",
+      "citations": []
+    },
+    {
+      "label": "Professional-sports regulation",
+      "text": "Rivera described licensing, enforcement, insurance and due-process responsibilities. Senators pressed for action on game-fixing and asked how professional athletes were defined and supported when representing the country.",
+      "citations": []
+    },
+    {
+      "label": "Submission to plenary",
+      "text": "Go said the committee was submitting the PSC and GAB budgets to plenary after considering the hearing discussion, then suspended the hearing.",
+      "citations": []
+    }
+  ],
+  "method_note": "Budget accounts distinguish NEP allocations from agency requests and conditional project support. Other financial and procedural outcomes are attributed to the speakers, with differing liquidation balances left as stated.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Philippine Sports Commission (PSC)",
+          "text": "For fiscal year 2027, the National Expenditure Program (NEP) included a ₱1.349 billion allocation for PSC. Go cited an original ₱21 billion request to the Department of Budget and Management (DBM); the request preceded the NEP allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-003394",
+              "start_seconds": 10085.94,
+              "clock": "02:48:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003394"
+            },
+            {
+              "stable_id": "asr-003395",
+              "start_seconds": 10098.06,
+              "clock": "02:48:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003395"
+            },
+            {
+              "stable_id": "asr-000289",
+              "start_seconds": 2717.72,
+              "clock": "00:45:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000289"
+            }
+          ]
+        },
+        {
+          "label": "Games and Amusements Board (GAB)",
+          "text": "The FY2027 NEP proposed ₱175 million for the Games and Amusements Board (GAB). The presentation did not state a separate original agency-request amount.",
+          "citations": [
+            {
+              "stable_id": "asr-003501",
+              "start_seconds": 10699.6,
+              "clock": "02:58:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003501"
+            },
+            {
+              "stable_id": "asr-003502",
+              "start_seconds": 10700.74,
+              "clock": "02:58:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003502"
+            },
+            {
+              "stable_id": "asr-003503",
+              "start_seconds": 10702.98,
+              "clock": "02:58:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003503"
+            },
+            {
+              "stable_id": "asr-003504",
+              "start_seconds": 10705.28,
+              "clock": "02:58:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003504"
+            },
+            {
+              "stable_id": "asr-003505",
+              "start_seconds": 10706.8,
+              "clock": "02:58:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003505"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-philippine-sports-commission",
+      "label": "Philippine Sports Commission budget",
+      "items": [
+        {
+          "label": "PSC's 2027 recommended allocation and prior-year reduction",
+          "text": "For 2027, Finance Committee Chair Senator Joseph Victor \"JV\" G. Ejercito described the PSC allocation as ₱895.294 million, or 39.9%, below its 2026 budget, which he rounded to ₱2.2 billion. He asked why the Department of Budget and Management (DBM) had cut the proposal. He separately noted roughly ₱10 billion in earmarks from other sources. He asked which programs were affected and whether the reduction reflected absorptive capacity, utilization or low disbursement. \n\nPSC Chairman John Patrick C. Gregorio identified development of regional training centers nationwide as affected work, saying the funds were needed to finish promised priority facilities. He cited about ₱1 billion still needed for the Ilocos Norte Stadium regional training center and described a sports-center undertaking being finished with the Department of Public Works and Highways (DPWH) by 2027 as a ₱1.3 billion project. Gregorio said keeping young athletes in provincial training centers would avoid bringing them to Metro Manila. He did not answer whether utilization or disbursement drove DBM's reduction.",
+          "citations": [
+            {
+              "stable_id": "asr-002827",
+              "start_seconds": 8773.06,
+              "clock": "02:26:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002827"
+            },
+            {
+              "stable_id": "asr-002841",
+              "start_seconds": 8787.72,
+              "clock": "02:26:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002841"
+            },
+            {
+              "stable_id": "asr-002842",
+              "start_seconds": 8791.62,
+              "clock": "02:26:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002842"
+            },
+            {
+              "stable_id": "asr-002844",
+              "start_seconds": 8794.2,
+              "clock": "02:26:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002844"
+            },
+            {
+              "stable_id": "asr-002845",
+              "start_seconds": 8795.3,
+              "clock": "02:26:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002845"
+            },
+            {
+              "stable_id": "asr-002846",
+              "start_seconds": 8796.76,
+              "clock": "02:26:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002846"
+            },
+            {
+              "stable_id": "asr-002854",
+              "start_seconds": 8805.14,
+              "clock": "02:26:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002854"
+            },
+            {
+              "stable_id": "asr-002879",
+              "start_seconds": 8832.04,
+              "clock": "02:27:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002879"
+            },
+            {
+              "stable_id": "asr-002900",
+              "start_seconds": 8855.1,
+              "clock": "02:27:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002900"
+            },
+            {
+              "stable_id": "asr-002929",
+              "start_seconds": 8885.28,
+              "clock": "02:28:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002929"
+            },
+            {
+              "stable_id": "asr-002930",
+              "start_seconds": 8886.38,
+              "clock": "02:28:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002930"
+            }
+          ]
+        },
+        {
+          "label": "Sports funding and budget advocacy",
+          "text": "Senator Christopher Lawrence T. Go, presiding over the finance subcommittee, urged the Philippine Sports Commission (PSC) to seek a larger allocation during preparation of the National Expenditure Program (NEP), rather than relying solely on legislative additions. He supported additional sports funding and asked both agencies to spend their budgets fully and accountably.",
+          "citations": [
+            {
+              "stable_id": "asr-000293",
+              "start_seconds": 2754.86,
+              "clock": "00:45:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000293"
+            },
+            {
+              "stable_id": "asr-000300",
+              "start_seconds": 2784.0,
+              "clock": "00:46:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000300"
+            },
+            {
+              "stable_id": "asr-000414",
+              "start_seconds": 3847.68,
+              "clock": "01:04:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000414"
+            }
+          ]
+        },
+        {
+          "label": "National Sports Development Fund",
+          "text": "Go said the Supreme Court had directed the Philippine Amusement and Gaming Corporation (PAGCOR) to account for and remit the full 5% of its gross annual income to the PSC for the National Sports Development Fund (NSDF), as provided under Republic Act No. 6847. He urged that the funds be used transparently for athletes and sports programs.",
+          "citations": [
+            {
+              "stable_id": "asr-000367",
+              "start_seconds": 3557.7,
+              "clock": "00:59:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000367"
+            },
+            {
+              "stable_id": "asr-000368",
+              "start_seconds": 3587.7,
+              "clock": "00:59:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000368"
+            }
+          ]
+        },
+        {
+          "label": "Davao swimming training center funding and completion",
+          "text": "Gregorio said the Davao center's roof and training facility, left unfinished after the city hosted the Palarong Pambansa, had been completed, and that PSC was rehabilitating the swimming pool. He said the chair had allocated budget for the remaining work and promised PSC would finish the swimming training center.",
+          "citations": [
+            {
+              "stable_id": "asr-000779",
+              "start_seconds": 4862.48,
+              "clock": "01:21:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000779"
+            },
+            {
+              "stable_id": "asr-000794",
+              "start_seconds": 4891.32,
+              "clock": "01:21:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000794"
+            },
+            {
+              "stable_id": "asr-000799",
+              "start_seconds": 4900.64,
+              "clock": "01:21:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000799"
+            }
+          ]
+        },
+        {
+          "label": "Rizal Memorial upgrades and pedestrian link",
+          "text": "Gregorio said PSC had improved the Rizal Memorial facade, installed solar lamps and other facilities, and planned further transformation over the next year. A proposed elevated walkway would connect Taft Avenue LRT to Rizal Memorial and SM Horizon Plaza, with escalators leading toward the sports facilities. Gregorio described it as a ₱300 million project sponsored by the SM Group, with no cost to government, and said approvals had been given. Go stressed that clear signs would help visitors find the facilities. Gregorio said PSC, the SM Group and Manila Mayor Isko Moreno had signed on to the project and called it a long-overdue transformation for Manila and Rizal Memorial.",
+          "citations": [
+            {
+              "stable_id": "asr-000868",
+              "start_seconds": 5041.42,
+              "clock": "01:24:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000868"
+            },
+            {
+              "stable_id": "asr-000913",
+              "start_seconds": 5131.14,
+              "clock": "01:25:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000913"
+            },
+            {
+              "stable_id": "asr-000914",
+              "start_seconds": 5133.12,
+              "clock": "01:25:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000914"
+            },
+            {
+              "stable_id": "asr-000915",
+              "start_seconds": 5135.02,
+              "clock": "01:25:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000915"
+            },
+            {
+              "stable_id": "asr-000929",
+              "start_seconds": 5161.82,
+              "clock": "01:26:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000929"
+            },
+            {
+              "stable_id": "asr-000941",
+              "start_seconds": 5187.08,
+              "clock": "01:26:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000941"
+            }
+          ]
+        },
+        {
+          "label": "Budget review amid limited fiscal space",
+          "text": "As Chairperson of the Senate Committee on Finance, Senator Joseph Victor \"JV\" G. Ejercito said limited revenues constrained the government's fiscal room. He said the hearing would hear agencies' appeals, especially for programs that the Department of Budget and Management had reduced, and that the committee would consider which programs should not be lost or cut further and could be reconsidered. Go subsequently reiterated support for additional funding requests.",
+          "citations": [
+            {
+              "stable_id": "asr-001233",
+              "start_seconds": 5776.08,
+              "clock": "01:36:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001233"
+            },
+            {
+              "stable_id": "asr-001245",
+              "start_seconds": 5797.5,
+              "clock": "01:36:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001245"
+            },
+            {
+              "stable_id": "asr-001298",
+              "start_seconds": 5903.26,
+              "clock": "01:38:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001298"
+            }
+          ]
+        },
+        {
+          "label": "Athlete welfare, allowances and equipment",
+          "text": "Senator Christopher Lawrence T. Go urged the Philippine Sports Commission (PSC) to put athletes' full allowances, transportation, food, training and equipment ahead of renovations to meeting and award venues, and to consider providing shoes to athletes without sponsors. PSC Chair John Patrick C. Gregorio said athlete welfare was the agency's first priority and facilities second. He put PSC's annual athlete-welfare spending at about ₱1.6 billion.\n\nGregorio said PSC had provided tracksuits and shoes, and that procurement was under way for new tracksuit sets for 1,600 athletes and coaches. He described the additional cost, aside from allowances, as about ₱50–60 million.",
+          "citations": [
+            {
+              "stable_id": "asr-001394",
+              "start_seconds": 6096.52,
+              "clock": "01:41:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001394"
+            },
+            {
+              "stable_id": "asr-001450",
+              "start_seconds": 6198.34,
+              "clock": "01:43:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001450"
+            },
+            {
+              "stable_id": "asr-001474",
+              "start_seconds": 6245.02,
+              "clock": "01:44:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001474"
+            },
+            {
+              "stable_id": "asr-001475",
+              "start_seconds": 6248.4,
+              "clock": "01:44:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001475"
+            },
+            {
+              "stable_id": "asr-001487",
+              "start_seconds": 6271.66,
+              "clock": "01:44:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001487"
+            },
+            {
+              "stable_id": "asr-001488",
+              "start_seconds": 6273.4400000000005,
+              "clock": "01:44:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001488"
+            },
+            {
+              "stable_id": "asr-001490",
+              "start_seconds": 6277.54,
+              "clock": "01:44:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001490"
+            },
+            {
+              "stable_id": "asr-001491",
+              "start_seconds": 6279.28,
+              "clock": "01:44:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001491"
+            }
+          ]
+        },
+        {
+          "label": "Meals: prior monthly allowance and current food provision",
+          "text": "Gregorio said PSC provides athletes breakfast, lunch and dinner. He described the food budget as around ₱1,000 per athlete per day, which he calculated as ₱30,000 per athlete per month. This is the stated value of meals provided, not a cash allowance. He separately recalled that the previous meal budget was ₱5,000 per athlete per month. Go said PSC should confer with the national sports associations (NSAs) about any training needs the current support did not meet.",
+          "citations": [
+            {
+              "stable_id": "asr-001498",
+              "start_seconds": 6293.12,
+              "clock": "01:44:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001498"
+            },
+            {
+              "stable_id": "asr-001503",
+              "start_seconds": 6304.1,
+              "clock": "01:45:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001503"
+            },
+            {
+              "stable_id": "asr-001505",
+              "start_seconds": 6313.76,
+              "clock": "01:45:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001505"
+            },
+            {
+              "stable_id": "asr-001506",
+              "start_seconds": 6322.04,
+              "clock": "01:45:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001506"
+            },
+            {
+              "stable_id": "asr-001509",
+              "start_seconds": 6333.8,
+              "clock": "01:45:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001509"
+            }
+          ]
+        },
+        {
+          "label": "Facility renovations funded outside the PSC budget",
+          "text": "Responding to Go's concern about priorities, Gregorio credited assistance from the President and First Lady for swimming-pool and dormitory improvements at PhilSports. He said the work had not used the PSC budget.",
+          "citations": [
+            {
+              "stable_id": "asr-001455",
+              "start_seconds": 6207.18,
+              "clock": "01:43:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001455"
+            },
+            {
+              "stable_id": "asr-001462",
+              "start_seconds": 6220.36,
+              "clock": "01:43:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001462"
+            },
+            {
+              "stable_id": "asr-001469",
+              "start_seconds": 6234.4400000000005,
+              "clock": "01:43:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001469"
+            }
+          ]
+        },
+        {
+          "label": "Training support, delayed allowances and athlete incentives",
+          "text": "Go said athletes had complained of delays in receiving allowances and raised a separate follow-up request for a jiu-jitsu medalist's incentive for winning the August 2026 World Championship. He pointed to proposed 2027 special provisions for classified athletes' basic training allowances and asked why payments and incentives were delayed; he praised the PSC for proactively contacting sepak takraw athletes about their allowances and asked it to do the same across sports.\n\nGregorio said the PSC provides funding and oversight, while the national sports association (NSA) manages athletes. He cited Asian Games support separately from the reported training delays: the PSC gave each participating athlete US$500, added ₱6,000 before departure, and he characterized the resulting allowance as about US$600 per athlete. For volleyball, he said Philippine National Volleyball Federation (PNVF) president Frank Lau provided additional support; Gregorio put each volleyball athlete's total cash support at ₱56,000, while food and other needs were covered. Gregorio attributed the training-payment delays to three changes in PNVF presidents and internal issues. Senator Joel Villanueva clarified that the reported complaints concerned training allowances. Go said delays during training remained unacceptable even if athletes had travel funds for the Asian Games, and urged the PSC to expedite support and ensure athletes did not have to pay for training, food or equipment themselves.",
+          "citations": [
+            {
+              "stable_id": "asr-002072",
+              "start_seconds": 7885.48,
+              "clock": "02:11:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002072"
+            },
+            {
+              "stable_id": "asr-002133",
+              "start_seconds": 8007.16,
+              "clock": "02:13:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002133"
+            },
+            {
+              "stable_id": "asr-002152",
+              "start_seconds": 8045.16,
+              "clock": "02:14:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002152"
+            },
+            {
+              "stable_id": "asr-002153",
+              "start_seconds": 8046.48,
+              "clock": "02:14:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002153"
+            },
+            {
+              "stable_id": "asr-002155",
+              "start_seconds": 8051.14,
+              "clock": "02:14:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002155"
+            },
+            {
+              "stable_id": "asr-002157",
+              "start_seconds": 8055.3,
+              "clock": "02:14:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002157"
+            },
+            {
+              "stable_id": "asr-002169",
+              "start_seconds": 8078.98,
+              "clock": "02:14:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002169"
+            },
+            {
+              "stable_id": "asr-002183",
+              "start_seconds": 8102.64,
+              "clock": "02:15:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002183"
+            },
+            {
+              "stable_id": "asr-002190",
+              "start_seconds": 8110.16,
+              "clock": "02:15:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002190"
+            }
+          ]
+        },
+        {
+          "label": "Liquidation of PSC financial assistance to sports associations",
+          "text": "Ejercito cited Commission on Audit (COA) findings of ₱1.17 billion in unliquidated financial assistance to non-government organizations and people's organizations outstanding as of December 31, 2025. He identified PNVF as the largest balance at ₱690 million, followed by the Gymnastics Association of the Philippines at ₱196 million, and questioned why PNVF had not liquidated the assistance while athletes were under-supported. He also urged that hosted tournaments include the Philippine team to give national athletes competition experience.\n\nGregorio and Ejercito also offered lower estimates, saying 180 and 188 without restating the unit. COA Supervising Auditor Jeorge Roman G. Lozano said the accounting records available to COA were only current through August and not updated: they showed about ₱405 million unliquidated, while liquidation reports were being processed, and the association's explanation brought the effective outstanding amount to ₱270 million. Gregorio said assistance for PNVF and the gymnastics association included their world-event hosting, and that both needed to liquidate promptly. For the coming World Surf League event in Siargao, he said no Filipino had qualified among the top 40 surfers, but hosting provided three competition slots. He said the PSC would monitor NSA liquidations and could not continue funding them without liquidation, while working with COA. These figures were presented on different dates and accounting bases; the hearing did not establish one reconciled current balance.",
+          "citations": [
+            {
+              "stable_id": "asr-002264",
+              "start_seconds": 8192.24,
+              "clock": "02:16:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002264"
+            },
+            {
+              "stable_id": "asr-002266",
+              "start_seconds": 8195.1,
+              "clock": "02:16:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002266"
+            },
+            {
+              "stable_id": "asr-002271",
+              "start_seconds": 8200.34,
+              "clock": "02:16:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002271"
+            },
+            {
+              "stable_id": "asr-002277",
+              "start_seconds": 8207.46,
+              "clock": "02:16:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002277"
+            },
+            {
+              "stable_id": "asr-002282",
+              "start_seconds": 8213.84,
+              "clock": "02:16:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002282"
+            },
+            {
+              "stable_id": "asr-002413",
+              "start_seconds": 8341.72,
+              "clock": "02:19:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002413"
+            },
+            {
+              "stable_id": "asr-002414",
+              "start_seconds": 8342.42,
+              "clock": "02:19:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002414"
+            },
+            {
+              "stable_id": "asr-002416",
+              "start_seconds": 8346.76,
+              "clock": "02:19:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002416"
+            },
+            {
+              "stable_id": "asr-002426",
+              "start_seconds": 8359.62,
+              "clock": "02:19:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002426"
+            },
+            {
+              "stable_id": "asr-002441",
+              "start_seconds": 8378.06,
+              "clock": "02:19:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002441"
+            },
+            {
+              "stable_id": "asr-002442",
+              "start_seconds": 8378.76,
+              "clock": "02:19:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002442"
+            },
+            {
+              "stable_id": "asr-002445",
+              "start_seconds": 8383.0,
+              "clock": "02:19:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002445"
+            },
+            {
+              "stable_id": "asr-002501",
+              "start_seconds": 8439.96,
+              "clock": "02:20:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002501"
+            }
+          ]
+        },
+        {
+          "label": "Regional sports facilities and funding proposals",
+          "text": "Gregorio described a range of incomplete or aging facilities the PSC was finishing or seeking support to improve. The Kawayan Sports Center in Isabela had been stalled for six years, with its structure standing empty; Gregorio said it was being completed for ₱40 million. He showed plans for a fencing hall and shooting range, said the athletes' dormitory needed completion, and described regional training and aquatic facilities in Cebu and Mindanao, a PhilSports track and field oval not renovated since the late 1980s, and a swimming-pool stadium in Rizal needing rehabilitation. Cebu City had provided 1,000 square meters for an Arnis, gymnastics and dancesport facility, and Senator Juan Miguel F. Zubiri had promised funding help. For a Cebu facility that had deteriorated, Gregorio said the PSC had an initial budget and he planned to inspect it.\n\nHe cited the ₱40 million spent to renovate Baguio's Gintong Alay track and football pitch. The Province of Cavite was ready to provide ₱300 million for an Imus aquatic center if the PSC could provide matching funds. Gregorio also presented the proposed Philippine International Tennis Center, also called the Alex Eala Tennis Center, at New Clark City as a ₱2 billion project with land available and about 16 courts. He said cuts could affect the PSC's planned hosting of the Southeast Asian Youth Games Plus and Asian Beach Games in 2027 and 2028, while the regional centers were intended as legacy projects using facilities that had been left unfinished.",
+          "citations": [
+            {
+              "stable_id": "asr-002984",
+              "start_seconds": 8940.84,
+              "clock": "02:29:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002984"
+            },
+            {
+              "stable_id": "asr-002998",
+              "start_seconds": 8953.86,
+              "clock": "02:29:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002998"
+            },
+            {
+              "stable_id": "asr-003034",
+              "start_seconds": 8990.16,
+              "clock": "02:29:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003034"
+            },
+            {
+              "stable_id": "asr-003055",
+              "start_seconds": 9093.16,
+              "clock": "02:31:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003055"
+            },
+            {
+              "stable_id": "asr-003057",
+              "start_seconds": 9110.98,
+              "clock": "02:31:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003057"
+            },
+            {
+              "stable_id": "asr-003058",
+              "start_seconds": 9118.1,
+              "clock": "02:31:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003058"
+            },
+            {
+              "stable_id": "asr-003060",
+              "start_seconds": 9131.24,
+              "clock": "02:32:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003060"
+            },
+            {
+              "stable_id": "asr-003061",
+              "start_seconds": 9138.1,
+              "clock": "02:32:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003061"
+            }
+          ]
+        },
+        {
+          "label": "Subic WTA facility proposal and discussed financing",
+          "text": "John Patrick C. Gregorio, chair of the Philippine Sports Commission (PSC), proposed reusing Remy Field and the existing tennis courts at the Subic Bay Metropolitan Authority (SBMA) as a possible host for the Women's Tennis Association (WTA) 250. PSC was studying a 4,000-seat facility there, with an estimated cost below ₱400 million because the site already had infrastructure. Gregorio discussed three prospective ₱100 million shares, including one sought from PSC, as a funding approach still under study. Go asked whether the field could also support tennis and whether the center area already existed; Gregorio said the plan would require further work and could be built within 12 months.",
+          "citations": [
+            {
+              "stable_id": "asr-003110",
+              "start_seconds": 9374.4,
+              "clock": "02:36:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003110"
+            },
+            {
+              "stable_id": "asr-003137",
+              "start_seconds": 9443.92,
+              "clock": "02:37:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003137"
+            },
+            {
+              "stable_id": "asr-003141",
+              "start_seconds": 9453.9,
+              "clock": "02:37:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003141"
+            },
+            {
+              "stable_id": "asr-003152",
+              "start_seconds": 9470.88,
+              "clock": "02:37:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003152"
+            },
+            {
+              "stable_id": "asr-003153",
+              "start_seconds": 9473.0,
+              "clock": "02:37:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003153"
+            },
+            {
+              "stable_id": "asr-003155",
+              "start_seconds": 9476.38,
+              "clock": "02:37:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003155"
+            },
+            {
+              "stable_id": "asr-003163",
+              "start_seconds": 9487.46,
+              "clock": "02:38:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003163"
+            },
+            {
+              "stable_id": "asr-003165",
+              "start_seconds": 9489.04,
+              "clock": "02:38:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003165"
+            }
+          ]
+        },
+        {
+          "label": "Artificial football pitches and shared project costs",
+          "text": "Go said football associations were willing to invest in fields if government could help them access land and connect them with local governments or state universities and colleges; he noted that some associations would pay for construction themselves. Gregorio said state universities and colleges held substantial land but lacked funds, and described a partnership model for pitches. He put an international artificial football pitch at about ₱30 million and later characterized a world-class pitch as costing ₱25–30 million.\n\nFor the Baguio project on Department of Education (DepEd) land, Gregorio said Philippine Football and PSC each covered 50 percent, or ₱13 million apiece. Laying the pitch was planned for November and he described similar projects or plans in Masbate, Naga, Mindoro, other parts of Mindanao, and Barotac Nuevo in Iloilo. Go urged PSC to make facilities more accessible to athletes and communities and to help associations reach land-owning agencies and local governments.",
+          "citations": [
+            {
+              "stable_id": "asr-003171",
+              "start_seconds": 9500.3,
+              "clock": "02:38:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003171"
+            },
+            {
+              "stable_id": "asr-003206",
+              "start_seconds": 9576.34,
+              "clock": "02:39:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003206"
+            },
+            {
+              "stable_id": "asr-003243",
+              "start_seconds": 9652.96,
+              "clock": "02:40:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003243"
+            },
+            {
+              "stable_id": "asr-003261",
+              "start_seconds": 9688.72,
+              "clock": "02:41:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003261"
+            },
+            {
+              "stable_id": "asr-003264",
+              "start_seconds": 9694.44,
+              "clock": "02:41:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003264"
+            },
+            {
+              "stable_id": "asr-003280",
+              "start_seconds": 9726.62,
+              "clock": "02:42:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003280"
+            }
+          ]
+        },
+        {
+          "label": "National Taekwondo Center partnership",
+          "text": "Gregorio said PSC was converting an abandoned bowling alley beside the Ninoy Aquino Stadium into the Philippine National Taekwondo Center, a ₱180 million facility expected to be completed in the second quarter of 2027, with close to 2,000 seats. He first described the Philippine Taekwondo Association's project spending as ₱50–60 million, then later specified that the Association had contributed ₱50 million to PSC for the center. He presented the project as a partnership in which national sports associations and private partners provide counterpart funding, with Commission on Audit guidance.",
+          "citations": [
+            {
+              "stable_id": "asr-003362",
+              "start_seconds": 9890.06,
+              "clock": "02:44:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003362"
+            },
+            {
+              "stable_id": "asr-003363",
+              "start_seconds": 9892.64,
+              "clock": "02:44:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003363"
+            },
+            {
+              "stable_id": "asr-003364",
+              "start_seconds": 9894.6,
+              "clock": "02:44:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003364"
+            },
+            {
+              "stable_id": "asr-003384",
+              "start_seconds": 10038.22,
+              "clock": "02:47:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003384"
+            },
+            {
+              "stable_id": "asr-003386",
+              "start_seconds": 10051.78,
+              "clock": "02:47:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003386"
+            }
+          ]
+        },
+        {
+          "label": "PSC budget request, PAGCOR remittances and utilization",
+          "text": "Gregorio said PSC's 2027 request sought additional General Appropriations Act (GAA) support for regional training centers. He said the Philippine Amusement and Gaming Corporation (PAGCOR) had begun paying back amounts owed and was remitting 5 percent of revenue each month. Gregorio said PAGCOR had to remit ₱37 billion to PSC over the next 10 years and had so far provided ₱1 billion of that amount. He planned to meet PAGCOR's chair after the hearing to discuss continued funding, while asking the committee to add GAA support for regional centers in view of PAGCOR's own needs and commitments.\n\nAsked about current-year budget utilization, Gregorio reported 97 percent as of September and said funds were running short; Go urged PSC to follow up with PAGCOR.",
+          "citations": [
+            {
+              "stable_id": "asr-003395",
+              "start_seconds": 10098.06,
+              "clock": "02:48:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003395"
+            },
+            {
+              "stable_id": "asr-003399",
+              "start_seconds": 10120.24,
+              "clock": "02:48:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003399"
+            },
+            {
+              "stable_id": "asr-003401",
+              "start_seconds": 10131.32,
+              "clock": "02:48:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003401"
+            },
+            {
+              "stable_id": "asr-003402",
+              "start_seconds": 10143.56,
+              "clock": "02:49:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003402"
+            },
+            {
+              "stable_id": "asr-003411",
+              "start_seconds": 10190.9,
+              "clock": "02:49:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003411"
+            },
+            {
+              "stable_id": "asr-003412",
+              "start_seconds": 10196.74,
+              "clock": "02:49:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003412"
+            },
+            {
+              "stable_id": "asr-003414",
+              "start_seconds": 10201.24,
+              "clock": "02:50:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003414"
+            }
+          ]
+        },
+        {
+          "label": "Community sports assistance and release delays",
+          "text": "Senator Christopher Lawrence T. Go asked the Philippine Sports Commission (PSC) about processing delays in financial assistance, saying late releases could disrupt event preparation, scheduling and athletes' access to programs. He said the Community Sports Development program supported local governments, schools, community organizations and sports clubs in grassroots activities. PSC OIC Executive Director Atty. Guillermo B. Iroy Jr. said local-government requests generally needed a mayor's letter with a city ordinance or barangay resolution. Delays more often arose with private groups whose papers were incomplete or who lacked legal personality or registration needed for Commission on Audit review.\n\nHe said the board could promptly approve individuals organizing sports events, and PSC would seek a workable process for school clubs. Iroy said assistance should reach requesting parties before their events; Go urged faster service while following audit rules.",
+          "citations": [
+            {
+              "stable_id": "asr-003636",
+              "start_seconds": 11329.06,
+              "clock": "03:08:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003636"
+            },
+            {
+              "stable_id": "asr-003641",
+              "start_seconds": 11348.42,
+              "clock": "03:09:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003641"
+            },
+            {
+              "stable_id": "asr-003706",
+              "start_seconds": 11491.06,
+              "clock": "03:11:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003706"
+            },
+            {
+              "stable_id": "asr-003718",
+              "start_seconds": 11508.9,
+              "clock": "03:11:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003718"
+            },
+            {
+              "stable_id": "asr-003791",
+              "start_seconds": 11639.48,
+              "clock": "03:13:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003791"
+            },
+            {
+              "stable_id": "asr-003829",
+              "start_seconds": 11683.08,
+              "clock": "03:14:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003829"
+            },
+            {
+              "stable_id": "asr-003848",
+              "start_seconds": 11704.18,
+              "clock": "03:15:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003848"
+            }
+          ]
+        },
+        {
+          "label": "Meal provision or monthly allowance option",
+          "text": "National jiu-jitsu athlete Kimberly Anne Custodio asked whether the ₱5,000 monthly allowance increase she understood had followed the SEA Games was withdrawn when meal service began at the Athletes Village. PSC Chair John Patrick C. Gregorio said the allowance had been provided when meals were unavailable at the PhilSports complex, Rizal Memorial and Baguio; PSC now offered meals at those sites. Athletes could receive meals or a ₱5,000 monthly allowance, but not both. Gregorio said an athlete training elsewhere could request the allowance by letter through her Jiu-Jitsu association. He added that some teams arranged delivery of meals from Rizal Memorial to their separate training facility. Custodio acknowledged that athletes had that option.",
+          "citations": [
+            {
+              "stable_id": "asr-003891",
+              "start_seconds": 11802.78,
+              "clock": "03:16:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003891"
+            },
+            {
+              "stable_id": "asr-003897",
+              "start_seconds": 11814.46,
+              "clock": "03:16:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003897"
+            },
+            {
+              "stable_id": "asr-003903",
+              "start_seconds": 11827.8,
+              "clock": "03:17:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003903"
+            },
+            {
+              "stable_id": "asr-003963",
+              "start_seconds": 11949.86,
+              "clock": "03:19:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003963"
+            },
+            {
+              "stable_id": "asr-003974",
+              "start_seconds": 11968.8,
+              "clock": "03:19:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003974"
+            },
+            {
+              "stable_id": "asr-004015",
+              "start_seconds": 12045.24,
+              "clock": "03:20:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004015"
+            },
+            {
+              "stable_id": "asr-004018",
+              "start_seconds": 12048.98,
+              "clock": "03:20:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004018"
+            }
+          ]
+        },
+        {
+          "label": "Rizal Memorial and PhilSports rehabilitation",
+          "text": "Go asked for the status of the Rizal Memorial Sports Complex and PhilSports rehabilitation, noting the multipurpose gym included in PSC's NEP. Gregorio said work continued across buildings, lighting and walkways. PSC had installed more than 200 solar lamps; baseball-stadium rehabilitation was ongoing, with opening planned for the end of November. Upgrades to Rizal Memorial Coliseum and Ninoy Aquino Stadium were also underway for a November regional event. Gregorio said the wider transformation was expected to culminate by December 2027. He said broken equipment and accumulated waste were being addressed and that PSC's disposal committee and the Commission on Audit had reviewed which items could be disposed of.",
+          "citations": [
+            {
+              "stable_id": "asr-004166",
+              "start_seconds": 12204.62,
+              "clock": "03:23:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004166"
+            },
+            {
+              "stable_id": "asr-004201",
+              "start_seconds": 12246.84,
+              "clock": "03:24:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004201"
+            },
+            {
+              "stable_id": "asr-004214",
+              "start_seconds": 12263.76,
+              "clock": "03:24:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004214"
+            },
+            {
+              "stable_id": "asr-004243",
+              "start_seconds": 12292.38,
+              "clock": "03:24:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004243"
+            },
+            {
+              "stable_id": "asr-004264",
+              "start_seconds": 12316.44,
+              "clock": "03:25:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004264"
+            },
+            {
+              "stable_id": "asr-004281",
+              "start_seconds": 12334.42,
+              "clock": "03:25:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004281"
+            }
+          ]
+        },
+        {
+          "label": "Men's volleyball allowance follow-up",
+          "text": "Go relayed Senator Joel Villanueva's concern that the men's volleyball team had not received allowances during January–May or July–August, and asked PSC to check its records with the Philippine National Volleyball Federation (PNVF). Gregorio said the PNVF had submitted the allowance documents near the end of September and PSC had officially received them on September 28. He said PSC would address the matter immediately.",
+          "citations": [
+            {
+              "stable_id": "asr-004341",
+              "start_seconds": 12392.12,
+              "clock": "03:26:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004341"
+            },
+            {
+              "stable_id": "asr-004345",
+              "start_seconds": 12395.86,
+              "clock": "03:26:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004345"
+            },
+            {
+              "stable_id": "asr-004349",
+              "start_seconds": 12401.18,
+              "clock": "03:26:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004349"
+            },
+            {
+              "stable_id": "asr-004388",
+              "start_seconds": 12428.02,
+              "clock": "03:27:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004388"
+            },
+            {
+              "stable_id": "asr-004417",
+              "start_seconds": 12454.54,
+              "clock": "03:27:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004417"
+            },
+            {
+              "stable_id": "asr-004423",
+              "start_seconds": 12460.16,
+              "clock": "03:27:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004423"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-games-and-amusements-board",
+      "label": "Games and Amusements Board budget",
+      "items": [
+        {
+          "label": "Regulatory collections and proposed GAB budget",
+          "text": "In 2025, the Games and Amusements Board (GAB) collected ₱30 million in regulatory fees, according to Chairperson Attorney Francisco J. Rivera. He asked the committee to approve its proposed allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-003453",
+              "start_seconds": 10556.56,
+              "clock": "02:55:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003453"
+            },
+            {
+              "stable_id": "asr-003454",
+              "start_seconds": 10565.82,
+              "clock": "02:56:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003454"
+            },
+            {
+              "stable_id": "asr-003506",
+              "start_seconds": 10709.52,
+              "clock": "02:58:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003506"
+            },
+            {
+              "stable_id": "asr-003507",
+              "start_seconds": 10710.74,
+              "clock": "02:58:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003507"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-philippine-sports-commission-presentation",
+      "label": "Philippine Sports Commission presentation",
+      "items": [
+        {
+          "label": "Presentation priorities and regional training centers",
+          "text": "John Patrick C. Gregorio, chair of the Philippine Sports Commission (PSC), said the agency's work over the preceding 12 months focused on athlete welfare, regional training centers and sports tourism. He described the centers as a shift from decades of concentrating facilities in Rizal Memorial and Baguio, bringing world-class sports and training opportunities to other regions.\n\nAt the Kandon, Ilocos Sur, archery center, the local government provided the land beside its stadium; Gregorio also cited local participation in archery, World Archery Philippines' role and Kandon's sports-tourism plans. PSC's center-selection criteria were local-government interest, the number of athletes taking up the sport, and support from the relevant national sports association. Gregorio linked the center and its two Olympic Korean coaches to the Philippines' first Asian Games archery silver in almost 20 years. Senator Christopher Lawrence T. Go asked how local governments could support centers; Gregorio described the Kandon land contribution and the three selection criteria.",
+          "citations": [
+            {
+              "stable_id": "asr-000605",
+              "start_seconds": 4516.56,
+              "clock": "01:15:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000605"
+            },
+            {
+              "stable_id": "asr-000677",
+              "start_seconds": 4660.12,
+              "clock": "01:17:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000677"
+            },
+            {
+              "stable_id": "asr-000693",
+              "start_seconds": 4689.7,
+              "clock": "01:18:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000693"
+            },
+            {
+              "stable_id": "asr-000713",
+              "start_seconds": 4730.08,
+              "clock": "01:18:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000713"
+            }
+          ]
+        },
+        {
+          "label": "Rowing and gymnastics centers outside Manila",
+          "text": "PSC presented Kawayan, Isabela, as a rowing center on the Cagayan River. Gregorio cited the river, former Southeast Asian Games gold medalist Joe Rodriguez's connection to Kawayan, and the community's request for boats as reasons for locating rowing training there. In Dagupan, PSC converted a former basketball court and relocated previously used gymnastics equipment there after upgrading the national facilities, so hundreds of children from Pangasinan and nearby provinces could train locally instead of traveling to Manila each week.",
+          "citations": [
+            {
+              "stable_id": "asr-000726",
+              "start_seconds": 4754.64,
+              "clock": "01:19:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000726"
+            },
+            {
+              "stable_id": "asr-000750",
+              "start_seconds": 4803.24,
+              "clock": "01:20:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000750"
+            }
+          ]
+        },
+        {
+          "label": "Siargao World Surf League event",
+          "text": "Gregorio said the World Surf League's 11th leg would be held in Siargao, at the rebuilt Cloud 9 surf tower in General Luna, constructed by PSC after Typhoon Odette damaged the former facility. He said the event had been moved to the Philippines from another location because of war there, and that PSC would host it for two years, with a possible third year if the event went well. Go asked about the venue, spectator and judge locations, and event; Gregorio identified the tower and described it as adjacent to the surf site.",
+          "citations": [
+            {
+              "stable_id": "asr-000801",
+              "start_seconds": 4905.5,
+              "clock": "01:21:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000801"
+            },
+            {
+              "stable_id": "asr-000837",
+              "start_seconds": 4977.08,
+              "clock": "01:22:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000837"
+            },
+            {
+              "stable_id": "asr-000859",
+              "start_seconds": 5020.64,
+              "clock": "01:23:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000859"
+            }
+          ]
+        },
+        {
+          "label": "Tennis facilities, public use and athlete access",
+          "text": "Gregorio said PSC rebuilt its tennis courts in 45 days, including Christmas and New Year, ahead of the Women's Tennis Association (WTA) 125 event. He said the public could use the courts; the stated fee was ₱600, compared with about ₱1,200 per hour at country clubs. Go asked whether the three outer courts could host competition and how many seats were available. Gregorio said they could be used, with a few hundred seats at the lower left and about 2,000 at the larger spectator area, and said the close court layout was also used in Nagoya.\n\nSenator Joel Villanueva praised public access but asked whether athletes had protected training time and enough facilities, given the crowds and requests for photos. Gregorio said national athletes trained in the morning and public access ran from 3 p.m. to 10 p.m.; the busiest time was after work, and the PhilSports facilities were free. Villanueva said he had not seen a Bulacan center in the presentation and would coordinate with PSC after it concluded.",
+          "citations": [
+            {
+              "stable_id": "asr-000957",
+              "start_seconds": 5223.16,
+              "clock": "01:27:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000957"
+            },
+            {
+              "stable_id": "asr-000972",
+              "start_seconds": 5257.26,
+              "clock": "01:27:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000972"
+            },
+            {
+              "stable_id": "asr-000974",
+              "start_seconds": 5260.88,
+              "clock": "01:27:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000974"
+            },
+            {
+              "stable_id": "asr-000975-split-2",
+              "start_seconds": 5263.55,
+              "clock": "01:27:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000975-split-2"
+            },
+            {
+              "stable_id": "asr-001038",
+              "start_seconds": 5386.62,
+              "clock": "01:29:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001038"
+            },
+            {
+              "stable_id": "asr-001076",
+              "start_seconds": 5460.58,
+              "clock": "01:31:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001076"
+            },
+            {
+              "stable_id": "asr-001096",
+              "start_seconds": 5497.8,
+              "clock": "01:31:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001096"
+            }
+          ]
+        },
+        {
+          "label": "Asian Games apparel resale",
+          "text": "Go asked about reports that athletes' bags and other items distributed for the Asian Games were being sold online. Gregorio said PSC was checking the posts and would discuss prevention at the next board meeting; he said resale would be prohibited and penalties imposed. Go urged athletes and officials to keep and value the items, and asked PSC to look into the online sales. Gregorio said PSC would enforce stricter guidelines to prevent a recurrence.",
+          "citations": [
+            {
+              "stable_id": "asr-001141",
+              "start_seconds": 5585.96,
+              "clock": "01:33:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001141"
+            },
+            {
+              "stable_id": "asr-001156",
+              "start_seconds": 5616.78,
+              "clock": "01:33:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001156"
+            },
+            {
+              "stable_id": "asr-001218",
+              "start_seconds": 5745.8,
+              "clock": "01:35:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001218"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-psc-facility-rehabilitation",
+      "label": "PSC facility rehabilitation",
+      "items": [
+        {
+          "label": "Rehabilitating abandoned sports facilities",
+          "text": "Philippine Sports Commission (PSC) Chairman John Patrick C. Gregorio said the commission was repairing old or unfinished facilities rather than building new ones. He described converting an eight-year-abandoned former Philippine National Bank building in Rizal into a commission ceremonial and meeting venue, a venue for PSC ceremonies, Hall of Fame events, meetings, and hosting international sports federations and athletes. Gregorio said the project was completed in ten months with help from the public works secretary. He also showed a formerly abandoned building used as a storage area at PhilSports and swimming pool, which the PSC renovated in seven months for meetings and hosting, including visiting Vietnamese ambassadors; he said this let the commission host events there instead of using hotels.",
+          "citations": [
+            {
+              "stable_id": "asr-001320",
+              "start_seconds": 5948.18,
+              "clock": "01:39:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001320"
+            },
+            {
+              "stable_id": "asr-001336",
+              "start_seconds": 5979.74,
+              "clock": "01:39:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001336"
+            },
+            {
+              "stable_id": "asr-001361",
+              "start_seconds": 6031.34,
+              "clock": "01:40:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001361"
+            },
+            {
+              "stable_id": "asr-001370",
+              "start_seconds": 6049.42,
+              "clock": "01:40:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001370"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-games-and-amusements-board-presentation",
+      "label": "Games and Amusements Board presentation",
+      "items": [
+        {
+          "label": "Sports oversight, enforcement, and licensee training",
+          "text": "Rivera said GAB oversees 17 non-contact and 6 contact sports, handles horse-racing bets and licensing for international derbies, and coordinates law-enforcement operations with the Philippine National Police (PNP) and National Bureau of Investigation (NBI). He reported that 2025 operations led to 194 arrests, with 145 people charged; in the current year, 14 people had been arrested and 6 charged. For 2026, GAB planned continuing education seminars for licensees, including boxing training in sports, nutrition, and conditioning. It also planned to seek International Organization for Standardization (ISO) accreditation to bring its processes closer to international standards and was preparing procedural rules intended to make administrative cases faster and less costly for stakeholders.",
+          "citations": [
+            {
+              "stable_id": "asr-003452",
+              "start_seconds": 10544.92,
+              "clock": "02:55:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003452"
+            },
+            {
+              "stable_id": "asr-003457",
+              "start_seconds": 10584.68,
+              "clock": "02:56:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003457"
+            },
+            {
+              "stable_id": "asr-003459",
+              "start_seconds": 10600.92,
+              "clock": "02:56:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003459"
+            },
+            {
+              "stable_id": "asr-003463",
+              "start_seconds": 10612.74,
+              "clock": "02:56:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003463"
+            },
+            {
+              "stable_id": "asr-003467",
+              "start_seconds": 10626.82,
+              "clock": "02:57:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003467"
+            },
+            {
+              "stable_id": "asr-003473",
+              "start_seconds": 10639.62,
+              "clock": "02:57:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003473"
+            },
+            {
+              "stable_id": "asr-003489",
+              "start_seconds": 10670.52,
+              "clock": "02:57:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003489"
+            },
+            {
+              "stable_id": "asr-003495",
+              "start_seconds": 10686.62,
+              "clock": "02:58:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003495"
+            }
+          ]
+        },
+        {
+          "label": "Due process, insurance, and athlete compensation",
+          "text": "Senator Christopher Lawrence T. Go asked what GAB does to protect professional athletes' rights and welfare. Rivera said athletes facing discipline are afforded due process. He said GAB requires motorsports participants to submit insurance before licensing, while noting that insurers often will not cover professional-athlete risks, especially in motorsports and boxing. On salaries, fight purses, prizes and contractual compensation, Rivera said GAB had received no non-payment complaints that year. He said the prior year's basketball non-payment complaints were withdrawn and appeared to have been addressed by the teams.",
+          "citations": [
+            {
+              "stable_id": "asr-003514",
+              "start_seconds": 10748.8,
+              "clock": "02:59:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003514"
+            },
+            {
+              "stable_id": "asr-003518",
+              "start_seconds": 10754.8,
+              "clock": "02:59:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003518"
+            },
+            {
+              "stable_id": "asr-003520",
+              "start_seconds": 10778.18,
+              "clock": "02:59:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003520"
+            },
+            {
+              "stable_id": "asr-003521",
+              "start_seconds": 10797.56,
+              "clock": "02:59:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003521"
+            },
+            {
+              "stable_id": "asr-003527",
+              "start_seconds": 10851.22,
+              "clock": "03:00:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003527"
+            },
+            {
+              "stable_id": "asr-003528",
+              "start_seconds": 10857.64,
+              "clock": "03:00:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003528"
+            }
+          ]
+        },
+        {
+          "label": "Professional league oversight and game-fixing",
+          "text": "Go urged GAB to address game-fixing across sports. He confirmed that GAB licenses and attends Premier Volleyball League games, then asked about men's volleyball and national-team support. Rivera explained that GAB and the PSC use a joint resolution to distinguish professional from non-professional athletes; the general definition treats an athlete paid a salary or prize to participate in an event as a professional.",
+          "citations": [
+            {
+              "stable_id": "asr-003510",
+              "start_seconds": 10722.9,
+              "clock": "02:58:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003510"
+            },
+            {
+              "stable_id": "asr-003513",
+              "start_seconds": 10745.32,
+              "clock": "02:59:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003513"
+            },
+            {
+              "stable_id": "asr-003532",
+              "start_seconds": 10887.8,
+              "clock": "03:01:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003532"
+            },
+            {
+              "stable_id": "asr-003536",
+              "start_seconds": 10895.88,
+              "clock": "03:01:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003536"
+            },
+            {
+              "stable_id": "asr-003543",
+              "start_seconds": 10946.48,
+              "clock": "03:02:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003543"
+            },
+            {
+              "stable_id": "asr-003580",
+              "start_seconds": 10981.92,
+              "clock": "03:03:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003580"
+            }
+          ]
+        },
+        {
+          "label": "PSC support for professional athletes representing the country",
+          "text": "In response to Go's question, PSC OIC Executive Director Attorney Guillermo B. Iroy Jr. said professional players may receive the support available to amateur athletes when they represent the country in international competitions through endorsement by their National Sports Association (NSA). This can include airfare, accommodation, allowances, training, and other team expenses; he cited a prior PSC board-approved volleyball allowance request. PSC cannot fund players when they represent a club. Regular monthly allowances depend on federation endorsement, while competition-related support may cover the training camp and other expenses for the international event. Iroy said allowances were approved for Asian Games representation and that the duration depended on the competition-related request. He added that one earlier volleyball camp was not endorsed by the federation, which affected access to PSC support.",
+          "citations": [
+            {
+              "stable_id": "asr-003582",
+              "start_seconds": 10989.9,
+              "clock": "03:03:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003582"
+            },
+            {
+              "stable_id": "asr-003583",
+              "start_seconds": 11016.58,
+              "clock": "03:03:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003583"
+            },
+            {
+              "stable_id": "asr-003588",
+              "start_seconds": 11106.58,
+              "clock": "03:05:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003588"
+            },
+            {
+              "stable_id": "asr-003590",
+              "start_seconds": 11120.46,
+              "clock": "03:05:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003590"
+            },
+            {
+              "stable_id": "asr-003596",
+              "start_seconds": 11143.88,
+              "clock": "03:05:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003596"
+            },
+            {
+              "stable_id": "asr-003603",
+              "start_seconds": 11178.62,
+              "clock": "03:06:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003603"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-christopher-lawrence-t-go",
+      "label": "Senator Christopher Lawrence T. Go",
+      "items": [
+        {
+          "label": "Athlete preparation, results, and para-athlete medal support",
+          "text": "Go linked sustained public investment in sports with athletes’ opportunities to compete internationally and urged the PSC to prioritize their welfare. He cited Philippine Olympic results, including one gold medal at the 2020 Tokyo Olympics and two at the Paris Olympics, and called for preparation for the Los Angeles 2028 Olympics. He also urged equal medal benefits for para-athletes, saying their disabilities should not diminish the honor their medals bring.",
+          "citations": [
+            {
+              "stable_id": "asr-000184",
+              "start_seconds": 2492.1,
+              "clock": "00:41:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000184"
+            },
+            {
+              "stable_id": "asr-000256",
+              "start_seconds": 2637.34,
+              "clock": "00:43:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000256"
+            }
+          ]
+        },
+        {
+          "label": "Training support and facilities",
+          "text": "Go urged the agencies to ensure athletes receive support during preparation, including allowances, training, and travel, so they would not need to borrow for training. He called for adequate facilities and equipment, and cited rehabilitation of the Rizal Memorial and PhilSports complexes. He also supported regional training centers and named proposed 2026 projects: an aquatic center at the University of the Philippines Mindanao, a high-altitude sports facility in Baguio City, and an Olympic water-sports training facility in Siargao. He called for a tennis stadium in Clark and described the National Academy of Sports as enabling student-athletes to study while training.",
+          "citations": [
+            {
+              "stable_id": "asr-000321",
+              "start_seconds": 2855.04,
+              "clock": "00:47:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000321"
+            },
+            {
+              "stable_id": "asr-000343",
+              "start_seconds": 2963.4,
+              "clock": "00:49:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000343"
+            },
+            {
+              "stable_id": "asr-000354",
+              "start_seconds": 3167.7,
+              "clock": "00:52:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000354"
+            }
+          ]
+        },
+        {
+          "label": "Sports tourism and athlete-centered coordination",
+          "text": "Go supported sports tourism and cited international events hosted or planned in the Philippines as opportunities to promote the country and create economic activity. He said hosting should involve multiple sectors. He also asked the PSC to help resolve disputes between athletes and their national sports associations so organizational disagreements would not harm athlete welfare or national-team participation.",
+          "citations": [
+            {
+              "stable_id": "asr-000359",
+              "start_seconds": 3317.7,
+              "clock": "00:55:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000359"
+            },
+            {
+              "stable_id": "asr-000363",
+              "start_seconds": 3437.7,
+              "clock": "00:57:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000363"
+            }
+          ]
+        },
+        {
+          "label": "Sports legislation",
+          "text": "Go urged passage of the Philippine National Games measure, which he said would support a mini-Olympics every two years, and cited Senate Bill No. 678, the National Tertiary Games Act, to formalize a national collegiate multisport tournament.",
+          "citations": [
+            {
+              "stable_id": "asr-000379",
+              "start_seconds": 3677.96,
+              "clock": "01:01:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000379"
+            },
+            {
+              "stable_id": "asr-000383",
+              "start_seconds": 3694.5,
+              "clock": "01:01:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000383"
+            }
+          ]
+        },
+        {
+          "label": "Professional sports regulation and game-fixing",
+          "text": "Go described the Games and Amusements Board (GAB) as responsible for regulating professional sports and monitoring Philippine Basketball Association games. He urged stronger licensing and physical-safety processes, and asked the GAB and league organizers to address illegal gambling and game-fixing, including through sanctions or suspensions. He said fixing undermines fair competition and can drive fans away.",
+          "citations": [
+            {
+              "stable_id": "asr-000385",
+              "start_seconds": 3714.62,
+              "clock": "01:01:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000385"
+            },
+            {
+              "stable_id": "asr-000389",
+              "start_seconds": 3735.5,
+              "clock": "01:02:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000389"
+            },
+            {
+              "stable_id": "asr-000399",
+              "start_seconds": 3781.52,
+              "clock": "01:03:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000399"
+            }
+          ]
+        },
+        {
+          "label": "Private support and para-athlete benefits",
+          "text": "Senator Christopher Lawrence T. Go called for greater private-sector support for athletes and cited a tax-exemption measure for private financial incentives that he said had passed the Senate and was before Congress. He also said para-athletes received half the National Sports Development Fund (NSDF) medal benefit and cited a measure to equalize those benefits. ",
+          "citations": [
+            {
+              "stable_id": "asr-001724",
+              "start_seconds": 7159.76,
+              "clock": "01:59:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001724"
+            },
+            {
+              "stable_id": "asr-001734",
+              "start_seconds": 7208.52,
+              "clock": "02:00:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001734"
+            },
+            {
+              "stable_id": "asr-001739",
+              "start_seconds": 7217.82,
+              "clock": "02:00:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001739"
+            },
+            {
+              "stable_id": "asr-001740",
+              "start_seconds": 7220.1,
+              "clock": "02:00:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001740"
+            }
+          ]
+        },
+        {
+          "label": "Regional hosting and facility access",
+          "text": "Go congratulated tennis player Alex Eala and the Philippine Tennis Association, and welcomed the planned Philippine WTA 250 in November 2027 and WTA 125 in January. He urged PSC to consider existing government facilities in Cebu, Calabarzon and Clark for regional training centers, which could help ease Metro Manila congestion. Gregorio pointed to Remy Field in Subic as an example of an existing site that could be restored and developed for hosting. Go also encouraged PSC to bring facilities closer to athletes and the public, particularly in provincial areas.",
+          "citations": [
+            {
+              "stable_id": "asr-003075",
+              "start_seconds": 9218.64,
+              "clock": "02:33:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003075"
+            },
+            {
+              "stable_id": "asr-003092",
+              "start_seconds": 9297.94,
+              "clock": "02:34:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003092"
+            },
+            {
+              "stable_id": "asr-003100",
+              "start_seconds": 9337.9,
+              "clock": "02:35:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003100"
+            }
+          ]
+        },
+        {
+          "label": "Jiu-jitsu incentive processing",
+          "text": "Go raised a delay reported by national athlete Kimberly Anne Custodio in receiving her incentive for the Jiu-Jitsu World Championship. Gregorio said PSC was processing it and explained that the federation submitted her records on October 1, after the August competition. He said payment should follow within days or weeks and that incentive funds were reserved. Gregorio said processing depended on the association submitting the required records.",
+          "citations": [
+            {
+              "stable_id": "asr-003420",
+              "start_seconds": 10223.28,
+              "clock": "02:50:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003420"
+            },
+            {
+              "stable_id": "asr-003426",
+              "start_seconds": 10261.8,
+              "clock": "02:51:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003426"
+            },
+            {
+              "stable_id": "asr-003427",
+              "start_seconds": 10265.78,
+              "clock": "02:51:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003427"
+            },
+            {
+              "stable_id": "asr-003432",
+              "start_seconds": 10292.08,
+              "clock": "02:51:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003432"
+            }
+          ]
+        },
+        {
+          "label": "Meal access and serving portions",
+          "text": "Custodio said she was from Iloilo but trained in Manila and could not regularly reach Ultra because it was too far; she had eaten there during a three-week camp before the Asian Games. She described a post-training meal of fried tilapia, vegetables and rice, and later said she received only half a fish. At 45 kg and moving up a weight division, she said the portion was not enough; when she asked for more, staff became angry and told her to message PSC's nutritionist. She said her portion was the same as a 100-kg teammate's and asked PSC to address the problem. \n\nGregorio apologized for the staff interaction, said he would consult the nutritionist, and promised an immediate review and response to her concern.",
+          "citations": [
+            {
+              "stable_id": "asr-003934",
+              "start_seconds": 11890.92,
+              "clock": "03:18:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003934"
+            },
+            {
+              "stable_id": "asr-003951",
+              "start_seconds": 11925.88,
+              "clock": "03:18:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-003951"
+            },
+            {
+              "stable_id": "asr-004019",
+              "start_seconds": 12054.92,
+              "clock": "03:20:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004019"
+            },
+            {
+              "stable_id": "asr-004040",
+              "start_seconds": 12075.4,
+              "clock": "03:21:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004040"
+            },
+            {
+              "stable_id": "asr-004055",
+              "start_seconds": 12090.78,
+              "clock": "03:21:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004055"
+            },
+            {
+              "stable_id": "asr-004091",
+              "start_seconds": 12129.26,
+              "clock": "03:22:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004091"
+            },
+            {
+              "stable_id": "asr-004103",
+              "start_seconds": 12140.92,
+              "clock": "03:22:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004103"
+            },
+            {
+              "stable_id": "asr-004149",
+              "start_seconds": 12184.9,
+              "clock": "03:23:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004149"
+            }
+          ]
+        },
+        {
+          "label": "Closing support and submission to plenary",
+          "text": "Go reiterated support for PSC and the Games and Amusements Board (GAB), urged prudent use of their budgets for athletes and sports development, and said the committee was prepared to support additional athlete-focused funding. He then stated that the budgets of PSC and GAB were submitted to plenary, taking the hearing's discussions into consideration, and suspended the hearing. ",
+          "citations": [
+            {
+              "stable_id": "asr-004557",
+              "start_seconds": 12616.58,
+              "clock": "03:30:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004557"
+            },
+            {
+              "stable_id": "asr-004570",
+              "start_seconds": 12691.42,
+              "clock": "03:31:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004570"
+            },
+            {
+              "stable_id": "asr-004576",
+              "start_seconds": 12727.74,
+              "clock": "03:32:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004576"
+            },
+            {
+              "stable_id": "asr-004577",
+              "start_seconds": 12733.68,
+              "clock": "03:32:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004577"
+            },
+            {
+              "stable_id": "asr-004580",
+              "start_seconds": 12745.64,
+              "clock": "03:32:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-004580"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joel-villanueva",
+      "label": "Senator Joel Villanueva",
+      "items": [
+        {
+          "label": "Athlete support and sports governance",
+          "text": "Senator Joel Villanueva drew on his experience as an athletic scholar and national-team player to argue that athletes should not have to borrow for training or transport. Citing volleyball player Brian Bagunas's account, he sought clear answers from the Philippine National Volleyball Federation (PNVF) and said inadequate answers could lead him to seek a Senate investigation, potentially through the Blue Ribbon Committee. He wanted the Philippine Sports Commission's (PSC) budget and sports development funds to address preparation and welfare gaps.\n\nVillanueva also raised concerns about sports politics and sponsorship proceeds reaching athletes. He said he intended to question the Games and Amusements Board (GAB) about game-fixing and prohibited drug use, while affirming his support for the agency and asking that public funding yield clear benefits.",
+          "citations": [
+            {
+              "stable_id": "asr-000472",
+              "start_seconds": 4093.42,
+              "clock": "01:08:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000472"
+            },
+            {
+              "stable_id": "asr-000483",
+              "start_seconds": 4133.58,
+              "clock": "01:08:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000483"
+            },
+            {
+              "stable_id": "asr-000503",
+              "start_seconds": 4206.18,
+              "clock": "01:10:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000503"
+            },
+            {
+              "stable_id": "asr-000518",
+              "start_seconds": 4245.72,
+              "clock": "01:10:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000518"
+            }
+          ]
+        },
+        {
+          "label": "Athlete welfare over sports politics",
+          "text": "Senator Christopher Lawrence T. Go endorsed Villanueva's call, saying athletes should receive what they are entitled to and that politics should not interfere in sports. He expressed continuing support for the PSC and asked that athletes receive sustained attention.",
+          "citations": [
+            {
+              "stable_id": "asr-000551",
+              "start_seconds": 4351.66,
+              "clock": "01:12:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000551"
+            },
+            {
+              "stable_id": "asr-000559",
+              "start_seconds": 4389.66,
+              "clock": "01:13:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-000559"
+            }
+          ]
+        },
+        {
+          "label": "Athlete eligibility and continuing benefits",
+          "text": "Senator Joel Villanueva asked Philippine Sports Commission (PSC) Chairman John Patrick C. Gregorio which athletes qualified for support. Gregorio said national athletes listed on the PSC team roster were covered, including volleyball players. When Villanueva asked whether the monthly amount was cash, Gregorio clarified that the benefit was food rather than cash. Gregorio said the PSC Charter of 1990 limits support to amateur athletes, creating difficulties when national team members are professionals, even though professionals may compete in the Olympics and Asian Games. Villanueva asked whether support ended after the Asian Games. Gregorio said support continued for amateur athletes, including uniforms and overseas training; professional-athlete eligibility remained tied to the charter and its definitions.",
+          "citations": [
+            {
+              "stable_id": "asr-001513",
+              "start_seconds": 6354.38,
+              "clock": "01:45:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001513"
+            },
+            {
+              "stable_id": "asr-001516",
+              "start_seconds": 6363.48,
+              "clock": "01:46:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001516"
+            },
+            {
+              "stable_id": "asr-001520",
+              "start_seconds": 6375.88,
+              "clock": "01:46:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001520"
+            },
+            {
+              "stable_id": "asr-001524",
+              "start_seconds": 6387.18,
+              "clock": "01:46:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001524"
+            },
+            {
+              "stable_id": "asr-001583",
+              "start_seconds": 6584.5,
+              "clock": "01:49:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001583"
+            }
+          ]
+        },
+        {
+          "label": "PSC's mandate, structure, and regional access",
+          "text": "Go asked whether expanding the PSC into a sports department would give athletes stronger attention and broaden the agency's capacity. Villanueva said the PSC should study the question in depth and explain how department status would change its operations and responsibilities. Gregorio described two proposals being advanced in the House: a Department of Tourism and Sports, or a Department of Youth and Sports that would bring together the National Youth Council and PSC. He said PSC had 105 employees and no regional administrative hubs. Go supported revisiting the PSC charter and urged the agency to strengthen regional access, with offices and training centers so athletes outside Metro Manila could reach services without costly travel. Gregorio described small field offices in Davao and Cebu, including a rented Cebu office staffed by one person. Villanueva said he was open to a department if PSC could show that it was the right structure, and agreed that revisiting the charter was urgent. The discussion remained a request for study and charter revision.",
+          "citations": [
+            {
+              "stable_id": "asr-001530",
+              "start_seconds": 6417.12,
+              "clock": "01:46:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001530"
+            },
+            {
+              "stable_id": "asr-001548",
+              "start_seconds": 6491.92,
+              "clock": "01:48:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001548"
+            },
+            {
+              "stable_id": "asr-001659",
+              "start_seconds": 6853.92,
+              "clock": "01:54:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001659"
+            },
+            {
+              "stable_id": "asr-001672",
+              "start_seconds": 6924.32,
+              "clock": "01:55:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001672"
+            },
+            {
+              "stable_id": "asr-001674",
+              "start_seconds": 6936.86,
+              "clock": "01:55:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001674"
+            },
+            {
+              "stable_id": "asr-001692",
+              "start_seconds": 7033.72,
+              "clock": "01:57:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001692"
+            },
+            {
+              "stable_id": "asr-001841",
+              "start_seconds": 7424.1,
+              "clock": "02:03:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001841"
+            }
+          ]
+        },
+        {
+          "label": "Volleyball players' welfare and PNVF follow-up",
+          "text": "Villanueva asked what the PSC and the Philippine National Volleyball Federation (PNVF) had agreed after a transition report, including improvements to players' allowances and training. He relayed players' concerns about transportation, food, allowance payments, and a reported sponsor dress-code demand, and urged the PSC to help address them. He said he was speaking about volleyball and that an investigation could follow if he obtained documents and witnesses. \n\nGregorio attributed PNVF's difficulties to leadership turnover, saying it had three presidents in 12 months, with changing signatories and programs. He said he was trying to resolve the issue and had a meeting the next day with the new president and officers, including discussion of unliquidated funds. He also said the PSC was reviewing how it defined professional athletes, noting that professional status did not always mean high pay, particularly in men's volleyball. Villanueva said he would meet men's and women's players that afternoon about allowances, noted that funds might have been downloaded but not released by the national sports association, and asked to be updated after the PSC-PNVF meeting. He requested an update following the scheduled meeting.",
+          "citations": [
+            {
+              "stable_id": "asr-001587",
+              "start_seconds": 6595.56,
+              "clock": "01:49:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001587"
+            },
+            {
+              "stable_id": "asr-001619",
+              "start_seconds": 6714.32,
+              "clock": "01:51:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001619"
+            },
+            {
+              "stable_id": "asr-001637",
+              "start_seconds": 6779.26,
+              "clock": "01:52:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001637"
+            },
+            {
+              "stable_id": "asr-001646",
+              "start_seconds": 6807.82,
+              "clock": "01:53:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001646"
+            },
+            {
+              "stable_id": "asr-001779",
+              "start_seconds": 7298.84,
+              "clock": "02:01:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001779"
+            },
+            {
+              "stable_id": "asr-001837",
+              "start_seconds": 7416.44,
+              "clock": "02:03:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001837"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Athlete achievements and efficient support",
+          "text": "Ejercito cited the Philippines' 29 medals at the 20th Asian Games in Aichi-Nagoya, Japan, which he described as one of the country's best finishes in recent years. He praised the athletes' hard work and said he hoped to discuss with the Philippine Sports Commission (PSC) and Games and Amusements Board (GAB) how to support athletes and the sports industry efficiently despite limited fiscal space.",
+          "citations": [
+            {
+              "stable_id": "asr-001263",
+              "start_seconds": 5835.24,
+              "clock": "01:37:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001263"
+            },
+            {
+              "stable_id": "asr-001281",
+              "start_seconds": 5869.56,
+              "clock": "01:37:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001281"
+            }
+          ]
+        },
+        {
+          "label": "Athlete representation and volleyball governance",
+          "text": "Senator Joseph Victor \"JV\" G. Ejercito praised the growth of volleyball, which he had helped promote through San Juan's V-League, but worried that repeated leadership changes and controversy in the Philippine National Volleyball Federation (PNVF) had left too few athletes involved in its leadership. He urged the National Sports Associations (NSAs) to include active or former athletes who understand athletes' needs, and hoped the PNVF board would represent them. He said hosting tournaments without the Philippine team loses an opportunity to build national players through competition.\n\nPSC Chairman John Patrick C. Gregorio said a strong national team was a PSC deliverable ahead of the Philippines hosting the 2029 World Women's Volleyball Championship. He distinguished that event from the Asian Beach Games, after Senator Christopher Lawrence T. Go asked about beach volleyball in Cebu, and said Indonesia and Thailand had each asked about hosting eight teams. Gregorio hoped PNVF president Frank Lau could resolve the federation's problems. Go urged the PSC, the Philippine Olympic Committee (POC), and NSAs to protect athletes from internal politics and keep them focused on playing, with government and private-sector support.",
+          "citations": [
+            {
+              "stable_id": "asr-001864",
+              "start_seconds": 7469.44,
+              "clock": "02:04:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001864"
+            },
+            {
+              "stable_id": "asr-001930",
+              "start_seconds": 7601.3,
+              "clock": "02:06:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-001930"
+            },
+            {
+              "stable_id": "asr-002622-insert-1",
+              "start_seconds": 8556.52,
+              "clock": "02:22:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002622-insert-1"
+            },
+            {
+              "stable_id": "asr-002631",
+              "start_seconds": 8583.46,
+              "clock": "02:23:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002631"
+            },
+            {
+              "stable_id": "asr-002645",
+              "start_seconds": 8597.12,
+              "clock": "02:23:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002645"
+            },
+            {
+              "stable_id": "asr-002678",
+              "start_seconds": 8627.76,
+              "clock": "02:23:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/95/#asr-002678"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

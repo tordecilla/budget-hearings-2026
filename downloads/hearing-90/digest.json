@@ -73,7 +73,7 @@
         },
         {
           "label": "Department of Education (DepEd) amendment summary",
-          "text": "The chair summarized the amendments at PHP 1,952 million, matching the exact amount shown: PHP 1,952,000,000.\n\n- School safety and security: Chair Rep. Mikaela Angela B. Suansing moved a PHP 500 million DepEd school-safety insertion; the program had zero FY2027 NEP funding. Approved.\n- Special-education programs and party-list submissions: Rep. Allan U. Ty relayed party-list institutional amendments for consideration. No separate amount was specified; the approved Madrasa, special-needs and IPED amounts are listed below.\n- Madrasa Education Program: Chair Suansing moved PHP 50 million for DepEd's Madrasa Education Program. Approved.\n- Special Needs Education Program: Chair Suansing moved a PHP 75 million DepEd increase for the Special Needs Education Program, above its PHP 849 million NEP allocation. Approved.\n- Indigenous Peoples Education Program: Chair Suansing moved PHP 25 million for IPED, whose NEP allocation was PHP 76 million. Approved.\n- Academic Recovery and Accessible Learning: Chair Suansing proposed PHP 350 million for the ARAL tutoring program, which had zero FY2027 NEP funding. Approved.\n- Basic Education Facilities program: Chair Suansing moved PHP 952 million for DepEd Basic Education Facilities classroom construction. Approved.\n- Requested special provisions (not approved): DepEd requested school-site and subsidy eligibility changes, PHP 100.8 million for competition participation, expanded school-feeding beneficiaries, school-security authority, and PHP 6.61 billion for ARAL learning recovery. These requests were not carried amendments.",
+          "text": "The chair summarized the amendments at PHP 1,952 million, matching the exact amount shown: PHP 1,952,000,000.\n\n- School safety and security: Chair Rep. Mikaela Angela B. Suansing moved a PHP 500 million DepEd school-safety insertion; the program had zero FY2027 NEP funding, and the final schedule showed a PHP 500 million new total. Approved.\n- Special-education programs and party-list submissions: Rep. Allan U. Ty relayed party-list institutional amendments for consideration. No separate amount was specified; the approved Madrasa, special-needs and IPED amounts are listed below.\n- Madrasa Education Program: Chair Suansing moved PHP 50 million for DepEd's Madrasa Education Program. Approved.\n- Special Needs Education Program: Chair Suansing moved a PHP 75 million DepEd increase for the Special Needs Education Program, above the chair's rounded PHP 849 million NEP figure; the final schedule showed PHP 849,980,000. Approved.\n- Indigenous Peoples Education Program: Chair Suansing moved PHP 25 million for IPED, whose NEP allocation the chair described as PHP 76 million; the final schedule showed PHP 76,168,000. Approved.\n- Academic Recovery and Accessible Learning: Chair Suansing proposed PHP 350 million for the ARAL tutoring program, which had zero FY2027 NEP funding. Approved.\n- Basic Education Facilities program: Chair Suansing moved PHP 952 million for DepEd Basic Education Facilities classroom construction. Approved.\n- Requested special provisions (not approved): DepEd requested school-site and subsidy eligibility changes, PHP 100.8 million for competition participation, expanded school-feeding beneficiaries, school-security authority, and PHP 6.61 billion for ARAL learning recovery. These requests were not carried amendments.",
           "citations": [
             {
               "stable_id": "asr-006705",
@@ -422,6 +422,12 @@
               "start_seconds": 20320.18,
               "clock": "05:38:40",
               "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006447"
+            },
+            {
+              "stable_id": "asr-006713",
+              "start_seconds": 23327.58,
+              "clock": "06:28:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006713"
             }
           ]
         },
@@ -1375,7 +1381,7 @@
         },
         {
           "label": "Department of Agriculture (DA) amendment summary",
-          "text": "The chair summarized the amendments at about PHP 16.44 billion; the exact amount shown was PHP 16,440,224,000. This corrected the earlier PHP 15.4 billion readout.\n\n- Expanded fertilizer assistance program: Rep. Wilfrido Mark M. Enverga moved PHP 500 million for DA's expanded fertilizer-assistance program, above its stated PHP 14,443,499,000 NEP allocation. Approved.\n- High-value crops and ube: Rep. Brian Poe withdrew his earlier PHP 100 million fertilizer-to-ube realignment. Rep. Enverga then moved one PHP 100 million high-value-crops increase, with the ube earmark within that amount; approved.\n- Solar pumps for irrigation: Rep. Enverga moved PHP 125 million for DA solar irrigation pumps outside NIA service areas. Approved.\n- Hybrid solar-powered ice plants: Rep. Enverga moved PHP 105 million for BFAR hybrid solar-powered ice plants; island-fishing areas were proposed as priority sites. Approved.\n- Agri-transport and tram system: Rep. Enverga moved PHP 150 million for an agri-transport cable-car or tram project; it had zero FY2027 NEP allocation. Approved.\n- Farm-to-market roads: Rep. Enverga moved an additional PHP 4,960,224,000 for farm-to-market roads, citing gaps despite PHP 16 billion already available. Approved.\n- Fish-port construction, rehabilitation and improvement: Rep. Enverga moved PHP 500 million for PFDA fish-port construction, rehabilitation and improvement, above its stated PHP 2.1 billion NEP budget. Approved.\n- Presidential Assistance to Farmers and Fisher Folk: Chair Suansing, on behalf of Speaker Bojie Dy, moved to restore PHP 10 billion for Presidential Assistance to Farmers and Fisher Folk (PAF), which had zero FY2027 NEP funding. Approved.\n- PAF access, eligibility and delivery: Deputy Speaker Yevgeny Vincente B. Emano asked DA to extend PAF access to farm workers; Rep. Enverga proposed including FishR registrants. Chair Suansing asked DA to review eligibility and records; no separate priced motion was carried. No separate peso amount was specified.\n- Requested special provisions (not approved): DA requested direct Quick Response Fund equipment authority, restoration of a presidential-assistance provision, and PHP 51 million for citizen monitoring through the Philippine Council for Agriculture and Fisheries. Not approved in this unit.",
+          "text": "The chair summarized the amendments at about PHP 16.44 billion; the exact amount shown was PHP 16,440,224,000. This corrected the earlier PHP 15.4 billion readout.\n\n- Expanded fertilizer assistance program: Rep. Wilfrido Mark M. Enverga moved PHP 500 million for DA's expanded fertilizer-assistance program, above its stated PHP 14,443,499,000 NEP allocation. Approved.\n- High-value crops and ube: Rep. Brian Poe withdrew his earlier PHP 100 million fertilizer-to-ube realignment. Rep. Enverga then moved one PHP 100 million high-value-crops increase, with the ube earmark within that amount; Poe described its resulting allocation as about PHP 1.8 billion, while the final schedule showed the precise PHP 1,700,308,000 NEP baseline. Approved.\n- Solar pumps for irrigation: Rep. Enverga moved PHP 125 million for DA solar irrigation pumps outside NIA service areas. Approved.\n- Hybrid solar-powered ice plants: Rep. Enverga moved PHP 105 million for BFAR hybrid solar-powered ice plants; island-fishing areas were proposed as priority sites. Approved.\n- Agri-transport and tram system: Rep. Enverga moved PHP 150 million for an agri-transport cable-car or tram project; it had zero FY2027 NEP allocation. Approved.\n- Farm-to-market roads: Rep. Enverga moved an additional PHP 4,960,224,000 for farm-to-market roads, citing gaps despite PHP 16 billion already available. Approved.\n- Fish-port construction, rehabilitation and improvement: Rep. Enverga moved PHP 500 million for PFDA fish-port construction, rehabilitation and improvement, above its stated PHP 2.1 billion NEP budget. Approved.\n- Presidential Assistance to Farmers and Fisher Folk: Chair Suansing, on behalf of Speaker Bojie Dy, moved to restore PHP 10 billion for Presidential Assistance to Farmers and Fisher Folk (PAF), which had zero FY2027 NEP funding. Approved.\n- PAF access, eligibility and delivery: Deputy Speaker Yevgeny Vincente B. Emano asked DA to extend PAF access to farm workers; Rep. Enverga proposed including FishR registrants. Chair Suansing asked DA to review eligibility and records; no separate priced motion was carried. No separate peso amount was specified.\n- Requested special provisions (not approved): DA requested direct Quick Response Fund equipment authority, restoration of a presidential-assistance provision, and PHP 51 million for citizen monitoring through the Philippine Council for Agriculture and Fisheries. Not approved in this unit.",
           "citations": [
             {
               "stable_id": "asr-006760",
@@ -2348,6 +2354,18 @@
               "start_seconds": 19049.72,
               "clock": "05:17:29",
               "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006373"
+            },
+            {
+              "stable_id": "asr-001728",
+              "start_seconds": 5311.78,
+              "clock": "01:28:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-001728"
+            },
+            {
+              "stable_id": "asr-006756",
+              "start_seconds": 23425.5,
+              "clock": "06:30:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006756"
             }
           ]
         },
@@ -7633,7 +7651,7 @@
         },
         {
           "label": "Department of Migrant Workers (DMW) amendment summary",
-          "text": "The chair summarized the amendments at PHP 250 million, matching the exact amount shown: PHP 250,000,000.\n\n- AKSYON Fund for migrant-worker assistance: Rep. Johanne Monich G. Bautista moved a PHP 150 million increase for the AKSYON Fund; approved against the agency's larger PHP 1 billion request.\n- OWWA Emergency Repatriation Fund increase: Rep. Bautista moved a fixed PHP 100 million increase for OWWA's Emergency Repatriation Fund; the separate PHP 575 million agency request remained for consideration. Approved.\n- General Administration and Support MOOE request: Rep. Bautista submitted OWWA's additional PHP 353 million MOOE request for consideration; no approval is recorded.\n- Capital outlay request: Rep. Bautista submitted OWWA's additional PHP 447 million capital-outlay request for consideration; no approval is recorded.\n- Alagang OWWA request: Rep. Bautista submitted OWWA's additional PHP 433 million Alagang OWWA request for consideration; no approval is recorded.\n- Congressional Migrant Workers Scholarship Program request: Rep. Bautista submitted OWWA's additional PHP 60 million scholarship-program request for consideration; no approval is recorded.\n- Workers Auxiliary Support Project request: Rep. Bautista submitted OWWA's additional PHP 130 million Workers Auxiliary Support Project request for consideration; no approval is recorded.\n- Requested special provisions (not approved): DMW requested restoration of 2026 GAA provisions for AKSYON Fund administration and reintegration-program monitoring; unpriced and not approved here.",
+          "text": "The chair summarized the amendments at PHP 250 million, matching the exact amount shown: PHP 250,000,000.\n\n- AKSYON Fund for migrant-worker assistance: Rep. Johanne Monich G. Bautista moved a PHP 150 million increase for the AKSYON Fund from its PHP 2 billion FY2027 NEP level; approved against the agency's larger PHP 1 billion request.\n- OWWA Emergency Repatriation Fund increase: Rep. Bautista moved a fixed PHP 100 million increase for OWWA's Emergency Repatriation Fund from its PHP 997 million FY2027 NEP level; the separate PHP 575 million agency request remained for consideration. Approved.\n- General Administration and Support MOOE request: Rep. Bautista submitted OWWA's additional PHP 353 million MOOE request for consideration; no approval is recorded.\n- Capital outlay request: Rep. Bautista submitted OWWA's additional PHP 447 million capital-outlay request for consideration; no approval is recorded.\n- Alagang OWWA request: Rep. Bautista submitted OWWA's additional PHP 433 million Alagang OWWA request for consideration; no approval is recorded.\n- Congressional Migrant Workers Scholarship Program request: Rep. Bautista submitted OWWA's additional PHP 60 million scholarship-program request for consideration; no approval is recorded.\n- Workers Auxiliary Support Project request: Rep. Bautista submitted OWWA's additional PHP 130 million Workers Auxiliary Support Project request for consideration; no approval is recorded.\n- Requested special provisions (not approved): DMW requested restoration of 2026 GAA provisions for AKSYON Fund administration and reintegration-program monitoring; unpriced and not approved here.",
           "citations": [
             {
               "stable_id": "asr-006894",
@@ -7952,6 +7970,24 @@
               "start_seconds": 20777.56,
               "clock": "05:46:17",
               "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006540"
+            },
+            {
+              "stable_id": "asr-005930",
+              "start_seconds": 16082.3,
+              "clock": "04:28:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-005930"
+            },
+            {
+              "stable_id": "asr-006002",
+              "start_seconds": 16227.16,
+              "clock": "04:30:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006002"
+            },
+            {
+              "stable_id": "asr-006003",
+              "start_seconds": 16229.28,
+              "clock": "04:30:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006003"
             }
           ]
         },
@@ -8593,7 +8629,7 @@
       "items": [
         {
           "label": "School safety and security",
-          "text": "Suansing said DepEd, in a request signed by Secretary Sonny Angara, sought about PHP 800 million for school safety and security. She said the program had zero funding in the FY 2027 NEP. Citing school shootings, violence, and potential threats to students, she proposed a PHP 500 million insertion for school safety and security under DepEd. Senior Deputy Speaker Ferdinand L. Hernandez supported the school-safety proposal, citing a recent shooting in his district and the need to prevent further loss of life. Chairperson Rep. Mikaela Angela B. Suansing then stated that the Budget Amendments Review Subcommittee concurred and asked the Committee Secretary to enter PHP 500 million in the row. Suansing then began putting the proposal as a formal motion after a member requested it. Suansing formally moved to allocate PHP 500 million for DepEd school safety and security. The motion was duly seconded; after the chair heard no objection, she declared it carried.",
+          "text": "Suansing said DepEd, in a request signed by Secretary Sonny Angara, sought about PHP 800 million for school safety and security. She said the program had zero funding in the FY 2027 NEP. The final amendment schedule showed the PHP 500 million proposal and PHP 500 million new program total. Citing school shootings, violence, and potential threats to students, she proposed a PHP 500 million insertion for school safety and security under DepEd. Senior Deputy Speaker Ferdinand L. Hernandez supported the school-safety proposal, citing a recent shooting in his district and the need to prevent further loss of life. Chairperson Rep. Mikaela Angela B. Suansing then stated that the Budget Amendments Review Subcommittee concurred and asked the Committee Secretary to enter PHP 500 million in the row. Suansing then began putting the proposal as a formal motion after a member requested it. Suansing formally moved to allocate PHP 500 million for DepEd school safety and security. The motion was duly seconded; after the chair heard no objection, she declared it carried.",
           "citations": [
             {
               "stable_id": "asr-000585",
@@ -8690,6 +8726,12 @@
               "start_seconds": 1932.42,
               "clock": "00:32:12",
               "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-000732"
+            },
+            {
+              "stable_id": "asr-006713",
+              "start_seconds": 23327.58,
+              "clock": "06:28:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006713"
             }
           ]
         },
@@ -8755,7 +8797,7 @@
         },
         {
           "label": "Special Needs Education Program",
-          "text": "Suansing described a Special Needs Education classroom with insufficient equipment and said students needed two or three teachers per classroom for individual attention. She cited PHP 849 million in the NEP for the program and moved to add PHP 75 million. A committee member seconded the motion; the chair announced it carried without objection.",
+          "text": "Suansing described a Special Needs Education classroom with insufficient equipment and said students needed two or three teachers per classroom for individual attention. She cited PHP 849 million in the NEP for the program; the final schedule showed PHP 849,980,000. She moved to add PHP 75 million. A committee member seconded the motion; the chair announced it carried without objection.",
           "citations": [
             {
               "stable_id": "asr-000751",
@@ -8786,12 +8828,18 @@
               "start_seconds": 2070.65,
               "clock": "00:34:30",
               "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-000755-split-2"
+            },
+            {
+              "stable_id": "asr-006713",
+              "start_seconds": 23327.58,
+              "clock": "06:28:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006713"
             }
           ]
         },
         {
           "label": "Indigenous Peoples Education Program",
-          "text": "Suansing said DepEd requested an augmentation for IPED, which had PHP 76 million in the NEP. She moved to add PHP 25 million for special education for Indigenous Peoples and later reiterated the motion. The chair announced that the IPED motion was duly seconded and, with no objection, carried.",
+          "text": "Suansing said DepEd requested an augmentation for IPED, which she described as having PHP 76 million in the NEP; the final schedule showed PHP 76,168,000. She moved to add PHP 25 million for special education for Indigenous Peoples and later reiterated the motion. The chair announced that the IPED motion was duly seconded and, with no objection, carried.",
           "citations": [
             {
               "stable_id": "asr-000757",
@@ -8822,6 +8870,12 @@
               "start_seconds": 2171.9,
               "clock": "00:36:11",
               "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-000775"
+            },
+            {
+              "stable_id": "asr-006713",
+              "start_seconds": 23327.58,
+              "clock": "06:28:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006713"
             }
           ]
         },
@@ -9937,7 +9991,7 @@
         },
         {
           "label": "High-value crops and ube",
-          "text": "Earlier, Rep. Brian Poe moved to realign PHP 100 million from the fertilizer budget to support ube farming. Enverga welcomed consideration of the idea at the appropriate time, noting ube export was among DA's priorities and requests; Poe then retracted the motion and left it as a manifestation. Later, Enverga proposed a PHP 100 million increase for the high-value crop sector, Poe described the baseline as PHP 1.7 billion and said the increase would bring the total to PHP 1.8 billion. He asked to earmark PHP 100 million for ube; Enverga agreed, and Minority Leader Marcelino C. Libanan supported the ube focus, citing demand and the Region 8 tinampay variety. The chair put one PHP 100 million addition to high-value crops to the body, and it carried without objection; the proposed ube earmark was within that increase, not an additional PHP 100 million.",
+          "text": "Earlier, Rep. Brian Poe moved to realign PHP 100 million from the fertilizer budget to support ube farming. Enverga welcomed consideration of the idea at the appropriate time, noting ube export was among DA's priorities and requests; Poe then retracted the motion and left it as a manifestation. Later, Enverga proposed a PHP 100 million increase for the high-value crop sector, Poe described the baseline as PHP 1.7 billion and said the increase would bring the total to about PHP 1.8 billion; the final schedule showed the more precise NEP baseline of PHP 1,700,308,000 but no new-total figure. He asked to earmark PHP 100 million for ube; Enverga agreed, and Minority Leader Marcelino C. Libanan supported the ube focus, citing demand and the Region 8 tinampay variety. The chair put one PHP 100 million addition to high-value crops to the body, and it carried without objection; the proposed ube earmark was within that increase, not an additional PHP 100 million.",
           "citations": [
             {
               "stable_id": "asr-001335",
@@ -10064,6 +10118,18 @@
               "start_seconds": 5416.02,
               "clock": "01:30:16",
               "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-001780"
+            },
+            {
+              "stable_id": "asr-001728",
+              "start_seconds": 5311.78,
+              "clock": "01:28:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-001728"
+            },
+            {
+              "stable_id": "asr-006756",
+              "start_seconds": 23425.5,
+              "clock": "06:30:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006756"
             }
           ]
         },
@@ -13297,7 +13363,7 @@
       "items": [
         {
           "label": "Digitalization program",
-          "text": "Rep. Amado Carlos A. Bolilia IV presented a letter request from Solicitor General Darlene Berberabe for a PHP 16 million digitalization budget for the Office of the Solicitor General. Bolilia moved to appropriate an additional PHP 16 million for the program; the chair put the motion to the body and approved it after hearing no objections.",
+          "text": "Rep. Amado Carlos A. Bolilia IV presented a letter request from Solicitor General Darlene Berberabe for a PHP 16 million digitalization budget for the Office of the Solicitor General (OSG). The final BARSC schedule identifies the OSG line as an AI Powered Docket Management System. Bolilia moved to appropriate an additional PHP 16 million for the program; the chair put the motion to the body and approved it after hearing no objections.",
           "citations": [
             {
               "stable_id": "asr-003351",
@@ -13346,6 +13412,12 @@
               "start_seconds": 9326.66,
               "clock": "02:35:26",
               "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-003371"
+            },
+            {
+              "stable_id": "asr-006834",
+              "start_seconds": 23587.54,
+              "clock": "06:33:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006834"
             }
           ]
         },
@@ -13675,7 +13747,7 @@
       "items": [
         {
           "label": "Design Center of the Philippines augmentation",
-          "text": "Deputy Speaker Yevgeny Vincente B. Emano presented a request from the DTI Secretary for a 2027 augmentation for the Design Center of the Philippines. He first said the Center had been given PHP 276 million, then moved between 2026 and 2027 references and gave the 2027 amount as PHP 129 million followed by PHP 125 million. Emano moved an additional PHP 30 million for the Center. Garcia restated the additional PHP 30 million, said the motion was duly seconded, heard no objection, and approved it; he later repeated the Design Center's PHP 30 million addition. He raised the request while describing a Misamis Oriental designer paying his own travel and luggage costs to showcase Mindanao at New York Fashion Week.",
+          "text": "Deputy Speaker Yevgeny Vincente B. Emano presented a request from the DTI Secretary for a 2027 augmentation for the Design Center of the Philippines. He first said the Center had been given PHP 276 million, then moved between 2026 and 2027 references and gave the 2027 amount as PHP 129 million followed by PHP 125 million. The final BARSC schedule displays PHP 125,000,000 in the FY2027 NEP column for the Center. Emano moved an additional PHP 30 million for the Center. Garcia restated the additional PHP 30 million, said the motion was duly seconded, heard no objection, and approved it; he later repeated the Design Center's PHP 30 million addition. He raised the request while describing a Misamis Oriental designer paying his own travel and luggage costs to showcase Mindanao at New York Fashion Week.",
           "citations": [
             {
               "stable_id": "asr-003509",
@@ -13784,6 +13856,18 @@
               "start_seconds": 9876.9,
               "clock": "02:44:36",
               "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-003540"
+            },
+            {
+              "stable_id": "asr-003519",
+              "start_seconds": 9834.14,
+              "clock": "02:43:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-003519"
+            },
+            {
+              "stable_id": "asr-006843",
+              "start_seconds": 23607.36,
+              "clock": "06:33:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006843"
             }
           ]
         },
@@ -14623,7 +14707,7 @@
       "items": [
         {
           "label": "MAIFIP increase and remaining funding gap",
-          "text": "As DOH budget sponsor, Rep. Albert S. Garcia moved an additional PHP 24,965,776,000 for the Medical Assistance to Indigent and Financially Incapacitated Patients (MAIFIP) program, whose FY 2027 NEP allocation was PHP 24,235,078,000. Garcia said the resulting program total would be around PHP 49,203,854,000. Chair Mikaela Angela B. Suansing first said the increase would restore the 2026 GAA level, then corrected that after the motion carried: it would restore the 2026 H-GAB level, leaving a shortfall of around PHP 2 billion. Minority Leader Marcelino C. Libanan had earlier estimated a PHP 2.6 billion gap. The motion was seconded and carried without objection. Deputy Speaker Yevgeny Vincente B. Emano cited a DOH measure that might compel doctors to accept MAIFIP professional-fee payments and urged further increases if funds become available. Garcia agreed that the program should be augmented if fiscal space permits.",
+          "text": "As DOH budget sponsor, Rep. Albert S. Garcia moved an additional PHP 24,965,776,000 for the Medical Assistance to Indigent and Financially Incapacitated Patients (MAIFIP) program, whose FY 2027 NEP allocation was PHP 24,235,078,000. Garcia said the resulting program total would be around PHP 49,203,854,000. That spoken estimate does not reconcile with the stated NEP allocation and approved increase; the final schedule leaves the New Total cell blank. Chair Mikaela Angela B. Suansing first said the increase would restore the 2026 GAA level, then corrected that after the motion carried: it would restore the 2026 H-GAB level, leaving a shortfall of around PHP 2 billion. Minority Leader Marcelino C. Libanan had earlier estimated a PHP 2.6 billion gap. The motion was seconded and carried without objection. Deputy Speaker Yevgeny Vincente B. Emano cited a DOH measure that might compel doctors to accept MAIFIP professional-fee payments and urged further increases if funds become available. Garcia agreed that the program should be augmented if fiscal space permits.",
           "citations": [
             {
               "stable_id": "asr-004336",
@@ -14684,6 +14768,72 @@
               "start_seconds": 12978.24,
               "clock": "03:36:18",
               "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-004637"
+            },
+            {
+              "stable_id": "asr-004350",
+              "start_seconds": 12224.8,
+              "clock": "03:23:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-004350"
+            },
+            {
+              "stable_id": "asr-004354",
+              "start_seconds": 12252.48,
+              "clock": "03:24:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-004354"
+            },
+            {
+              "stable_id": "asr-004355",
+              "start_seconds": 12255.66,
+              "clock": "03:24:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-004355"
+            },
+            {
+              "stable_id": "asr-004623",
+              "start_seconds": 12937.74,
+              "clock": "03:35:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-004623"
+            },
+            {
+              "stable_id": "asr-004624",
+              "start_seconds": 12941.44,
+              "clock": "03:35:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-004624"
+            },
+            {
+              "stable_id": "asr-004625",
+              "start_seconds": 12947.74,
+              "clock": "03:35:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-004625"
+            },
+            {
+              "stable_id": "asr-004626",
+              "start_seconds": 12950.36,
+              "clock": "03:35:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-004626"
+            },
+            {
+              "stable_id": "asr-004627",
+              "start_seconds": 12951.24,
+              "clock": "03:35:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-004627"
+            },
+            {
+              "stable_id": "asr-004628",
+              "start_seconds": 12953.24,
+              "clock": "03:35:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-004628"
+            },
+            {
+              "stable_id": "asr-004630",
+              "start_seconds": 12958.24,
+              "clock": "03:35:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-004630"
+            },
+            {
+              "stable_id": "asr-006851",
+              "start_seconds": 23626.12,
+              "clock": "06:33:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/90/#asr-006851"
             }
           ]
         },
