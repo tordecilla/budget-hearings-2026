@@ -47,7 +47,7 @@ We have Undersecretary and Chief of Staff,
 Attorney
 
 **[00:00:57.970] Committee Secretary** (asr-000015)  
-Sulaika Lopez,
+Zuleika Lopez,
 
 **[00:01:01.200] Committee Secretary** (asr-000016)  
 Director from Administrative and Financial Services Office,
@@ -172,40 +172,40 @@ you have the floor.
 **[00:03:09.390] Deputy Speaker Jose C. Alvarez** (asr-000056)  
 Thank you very much, ma'am.
 
-**[00:03:10.590] Undersecretary Sulaika T. Lopez** (asr-000057)  
+**[00:03:10.590] Undersecretary Zuleika T. Lopez** (asr-000057)  
 Thank you very much, Congressman Alvarez.
 
-**[00:03:13.070] Undersecretary Sulaika T. Lopez** (asr-000058)  
+**[00:03:13.070] Undersecretary Zuleika T. Lopez** (asr-000058)  
 Magandang hapon sa lahat.
 
-**[00:03:15.270] Undersecretary Sulaika T. Lopez** (asr-000059)  
+**[00:03:15.270] Undersecretary Zuleika T. Lopez** (asr-000059)  
 We are the Office of the Vice President,
 
-**[00:03:17.250] Undersecretary Sulaika T. Lopez** (asr-000060)  
+**[00:03:17.250] Undersecretary Zuleika T. Lopez** (asr-000060)  
 and we are here today to present to you our proposed budget for calendar year,
 
-**[00:03:22.130] Undersecretary Sulaika T. Lopez** (asr-000061)  
+**[00:03:22.130] Undersecretary Zuleika T. Lopez** (asr-000061)  
 or fiscal year rather, 2027.
 
-**[00:03:24.450] Undersecretary Sulaika T. Lopez** (asr-000062)  
+**[00:03:24.450] Undersecretary Zuleika T. Lopez** (asr-000062)  
 We would like to start with a short audiovisual presentation
 
-**[00:03:27.510] Undersecretary Sulaika T. Lopez** (asr-000063)  
+**[00:03:27.510] Undersecretary Zuleika T. Lopez** (asr-000063)  
 to be followed by a presentation by our Chief of Budget Division,
 
-**[00:03:31.410] Undersecretary Sulaika T. Lopez** (asr-000064)  
+**[00:03:31.410] Undersecretary Zuleika T. Lopez** (asr-000064)  
 Atty. Kelvin Tenido,
 
-**[00:03:33.110] Undersecretary Sulaika T. Lopez** (asr-000065)  
+**[00:03:33.110] Undersecretary Zuleika T. Lopez** (asr-000065)  
 on the highlights of our budget proposal.
 
-**[00:03:35.930] Undersecretary Sulaika T. Lopez** (asr-000066)  
+**[00:03:35.930] Undersecretary Zuleika T. Lopez** (asr-000066)  
 If the members of the committee will indulge,
 
-**[00:03:38.750] Undersecretary Sulaika T. Lopez** (asr-000067)  
+**[00:03:38.750] Undersecretary Zuleika T. Lopez** (asr-000067)  
 we'd like to request the Secretariat to please play our video.
 
-**[00:03:42.350] Undersecretary Sulaika T. Lopez** (asr-000068)  
+**[00:03:42.350] Undersecretary Zuleika T. Lopez** (asr-000068)  
 Thank you.
 
 **[00:03:54.480] Presentation video** (asr-000069)  
@@ -1753,10 +1753,10 @@ Is it alright, Atonis Ulayka, if you yield to a few questions regarding the budg
 **[00:24:24.650] Deputy Speaker Jose C. Alvarez** (asr-000583)  
 Is it alright?
 
-**[00:24:26.370] Undersecretary Sulaika T. Lopez** (asr-000584)  
+**[00:24:26.370] Undersecretary Zuleika T. Lopez** (asr-000584)  
 Yes, Your Honor.
 
-**[00:24:29.790] Undersecretary Sulaika T. Lopez** (asr-000585)  
+**[00:24:29.790] Undersecretary Zuleika T. Lopez** (asr-000585)  
 We are ready to answer the questions.
 
 **[00:24:31.830] Deputy Speaker Jose C. Alvarez** (asr-000586)  
@@ -2074,19 +2074,19 @@ pagbabago campaign, and so on and so forth.
 **[00:31:48.880] Rep. Antonio L. Tinio** (asr-000691)  
 At accessible po ba ito sa publiko?
 
-**[00:31:51.640] Undersecretary Sulaika T. Lopez** (asr-000692)  
+**[00:31:51.640] Undersecretary Zuleika T. Lopez** (asr-000692)  
 So, for the record, Your Honor, yes.
 
-**[00:31:54.900] Undersecretary Sulaika T. Lopez** (asr-000693)  
+**[00:31:54.900] Undersecretary Zuleika T. Lopez** (asr-000693)  
 All our programs, all the nine core programs of the Office of the Vice President
 
-**[00:31:58.840] Undersecretary Sulaika T. Lopez** (asr-000694)  
+**[00:31:58.840] Undersecretary Zuleika T. Lopez** (asr-000694)  
 are covered by manuals of operation.
 
-**[00:32:02.780] Undersecretary Sulaika T. Lopez** (asr-000695)  
+**[00:32:02.780] Undersecretary Zuleika T. Lopez** (asr-000695)  
 Several manuals of operation that is regularly updated in consultation with the Commission on Audit
 
-**[00:32:08.960] Undersecretary Sulaika T. Lopez** (asr-000696)  
+**[00:32:08.960] Undersecretary Zuleika T. Lopez** (asr-000696)  
 to further improve process requirements, Your Honor.
 
 **[00:32:15.860] Rep. Antonio L. Tinio** (asr-000697)  
@@ -2128,25 +2128,25 @@ Para sa dalawang beneficiary?
 **[00:32:56.720] Rep. Antonio L. Tinio** (asr-000709)  
 Tornes Olaiga.
 
-**[00:32:57.680] Undersecretary Sulaika T. Lopez** (asr-000710)  
+**[00:32:57.680] Undersecretary Zuleika T. Lopez** (asr-000710)  
 Yes, Your Honor.
 
-**[00:32:59.240] Undersecretary Sulaika T. Lopez** (asr-000711)  
+**[00:32:59.240] Undersecretary Zuleika T. Lopez** (asr-000711)  
 So, just to add to the earlier question,
 
-**[00:33:02.060] Undersecretary Sulaika T. Lopez** (asr-000712)  
+**[00:33:02.060] Undersecretary Zuleika T. Lopez** (asr-000712)  
 some of our manuals of operation or the procedure is actually found in our citizens charter.
 
-**[00:33:07.680] Undersecretary Sulaika T. Lopez** (asr-000713)  
+**[00:33:07.680] Undersecretary Zuleika T. Lopez** (asr-000713)  
 But you're right, the You Can Be VP is not included in the citizens charter.
 
-**[00:33:12.880] Undersecretary Sulaika T. Lopez** (asr-000714)  
+**[00:33:12.880] Undersecretary Zuleika T. Lopez** (asr-000714)  
 Siguro for more detailed process as regards the You Can Be VP program,
 
-**[00:33:21.180] Undersecretary Sulaika T. Lopez** (asr-000715)  
+**[00:33:21.180] Undersecretary Zuleika T. Lopez** (asr-000715)  
 we can have our Director for Operations, Director Baloro, discuss it further.
 
-**[00:33:24.640] Undersecretary Sulaika T. Lopez** (asr-000716)  
+**[00:33:24.640] Undersecretary Zuleika T. Lopez** (asr-000716)  
 Go ahead, Norman.
 
 **[00:33:25.480] Director Norman Valora** (asr-000717)  
@@ -2275,82 +2275,82 @@ Please explain.
 **[00:35:44.780] Rep. Antonio L. Tinio** (asr-000758)  
 Please explain, Attorney.
 
-**[00:35:45.960] Undersecretary Sulaika T. Lopez** (asr-000759)  
+**[00:35:45.960] Undersecretary Zuleika T. Lopez** (asr-000759)  
 Alright, thank you.
 
-**[00:35:47.400] Undersecretary Sulaika T. Lopez** (asr-000760)  
+**[00:35:47.400] Undersecretary Zuleika T. Lopez** (asr-000760)  
 Thank you, Sir.
 
-**[00:35:49.460] Undersecretary Sulaika T. Lopez** (asr-000761)  
+**[00:35:49.460] Undersecretary Zuleika T. Lopez** (asr-000761)  
 Alright, currently, the Libreng Sakay program has nine buses across the country.
 
-**[00:35:55.320] Undersecretary Sulaika T. Lopez** (asr-000762)  
+**[00:35:55.320] Undersecretary Zuleika T. Lopez** (asr-000762)  
 Four are flying in Metro Manila,
 
-**[00:35:57.520] Undersecretary Sulaika T. Lopez** (asr-000763)  
+**[00:35:57.520] Undersecretary Zuleika T. Lopez** (asr-000763)  
 two, one for Cavite, P-TEX, correct, no?
 
-**[00:36:03.300] Undersecretary Sulaika T. Lopez** (asr-000764)  
+**[00:36:03.300] Undersecretary Zuleika T. Lopez** (asr-000764)  
 And then we have for Quiapo to Commonwealth, dalawa.
 
-**[00:36:07.460] Undersecretary Sulaika T. Lopez** (asr-000765)  
+**[00:36:07.460] Undersecretary Zuleika T. Lopez** (asr-000765)  
 And then also, also for the EDSA carousel.
 
-**[00:36:10.580] Undersecretary Sulaika T. Lopez** (asr-000766)  
+**[00:36:10.580] Undersecretary Zuleika T. Lopez** (asr-000766)  
 And then we also have buses for Tacloban,
 
-**[00:36:13.640] Undersecretary Sulaika T. Lopez** (asr-000767)  
+**[00:36:13.640] Undersecretary Zuleika T. Lopez** (asr-000767)  
 Bacolod, the city of Bacolod,
 
-**[00:36:16.000] Undersecretary Sulaika T. Lopez** (asr-000768)  
+**[00:36:16.000] Undersecretary Zuleika T. Lopez** (asr-000768)  
 Davao City, Cebu, and...
 
-**[00:36:21.260] Undersecretary Sulaika T. Lopez** (asr-000769)  
+**[00:36:21.260] Undersecretary Zuleika T. Lopez** (asr-000769)  
 Yun lang. So, nine na pala.
 
-**[00:36:23.380] Undersecretary Sulaika T. Lopez** (asr-000770)  
+**[00:36:23.380] Undersecretary Zuleika T. Lopez** (asr-000770)  
 Wala sa Palawan at saka sa Nueva Ecija.
 
-**[00:36:25.780] Undersecretary Sulaika T. Lopez** (asr-000771)  
+**[00:36:25.780] Undersecretary Zuleika T. Lopez** (asr-000771)  
 Yes, we heard you, Sir.
 
-**[00:36:27.520] Undersecretary Sulaika T. Lopez** (asr-000772)  
+**[00:36:27.520] Undersecretary Zuleika T. Lopez** (asr-000772)  
 So, sa kabuuan, nationwide, nine na sasakyan.
 
-**[00:36:31.000] Undersecretary Sulaika T. Lopez** (asr-000773)  
+**[00:36:31.000] Undersecretary Zuleika T. Lopez** (asr-000773)  
 That is true.
 
-**[00:36:31.920] Undersecretary Sulaika T. Lopez** (asr-000774)  
+**[00:36:31.920] Undersecretary Zuleika T. Lopez** (asr-000774)  
 Nine buses, yes.
 
-**[00:36:33.160] Undersecretary Sulaika T. Lopez** (asr-000775)  
+**[00:36:33.160] Undersecretary Zuleika T. Lopez** (asr-000775)  
 This is a partnership, if I may add also,
 
-**[00:36:35.380] Undersecretary Sulaika T. Lopez** (asr-000776)  
+**[00:36:35.380] Undersecretary Zuleika T. Lopez** (asr-000776)  
 to also recognize our partners for the Libreng Sakay.
 
-**[00:36:39.060] Undersecretary Sulaika T. Lopez** (asr-000777)  
+**[00:36:39.060] Undersecretary Zuleika T. Lopez** (asr-000777)  
 We are working with the LTFRB and also with the MMDA.
 
-**[00:36:43.160] Undersecretary Sulaika T. Lopez** (asr-000778)  
+**[00:36:43.160] Undersecretary Zuleika T. Lopez** (asr-000778)  
 They are the ones, and also, of course, the OTR,
 
-**[00:36:45.920] Undersecretary Sulaika T. Lopez** (asr-000779)  
+**[00:36:45.920] Undersecretary Zuleika T. Lopez** (asr-000779)  
 they're the ones who plan the routes for the buses
 
-**[00:36:48.780] Undersecretary Sulaika T. Lopez** (asr-000780)  
+**[00:36:48.780] Undersecretary Zuleika T. Lopez** (asr-000780)  
 because that is not an expertise of the Office of the Vice President.
 
-**[00:36:53.440] Undersecretary Sulaika T. Lopez** (asr-000781)  
+**[00:36:53.440] Undersecretary Zuleika T. Lopez** (asr-000781)  
 Okay.
 
-**[00:36:53.500] Undersecretary Sulaika T. Lopez** (asr-000782)  
+**[00:36:53.500] Undersecretary Zuleika T. Lopez** (asr-000782)  
 Yung binili ba yung sasakyan or service contracting, how does it work?
 
-**[00:37:01.860] Undersecretary Sulaika T. Lopez** (asr-000783)  
+**[00:37:01.860] Undersecretary Zuleika T. Lopez** (asr-000783)  
 Okay.
 
-**[00:37:02.420] Undersecretary Sulaika T. Lopez** (asr-000784)  
+**[00:37:02.420] Undersecretary Zuleika T. Lopez** (asr-000784)  
 Siguro, Director Norman, for the operation details.
 
 **[00:37:07.380] Director Norman Valora** (asr-000785)  
@@ -2608,109 +2608,109 @@ Including your owner.
 **[00:40:42.440] Rep. Antonio L. Tinio** (asr-000869)  
 Ah, including din.
 
-**[00:40:43.440] Undersecretary Sulaika T. Lopez** (asr-000870)  
+**[00:40:43.440] Undersecretary Zuleika T. Lopez** (asr-000870)  
 Yes, and the bus conductors.
 
-**[00:40:44.440] Undersecretary Sulaika T. Lopez** (asr-000871)  
+**[00:40:44.440] Undersecretary Zuleika T. Lopez** (asr-000871)  
 Ah, yun pala.
 
-**[00:40:45.440] Undersecretary Sulaika T. Lopez** (asr-000872)  
+**[00:40:45.440] Undersecretary Zuleika T. Lopez** (asr-000872)  
 Salaries, wages, maintenance, fuel.
 
-**[00:40:48.440] Undersecretary Sulaika T. Lopez** (asr-000873)  
+**[00:40:48.440] Undersecretary Zuleika T. Lopez** (asr-000873)  
 Okay.
 
-**[00:40:49.440] Undersecretary Sulaika T. Lopez** (asr-000874)  
+**[00:40:49.440] Undersecretary Zuleika T. Lopez** (asr-000874)  
 Okay, at least.
 
-**[00:40:50.440] Undersecretary Sulaika T. Lopez** (asr-000875)  
+**[00:40:50.440] Undersecretary Zuleika T. Lopez** (asr-000875)  
 Thank you.
 
-**[00:40:51.440] Undersecretary Sulaika T. Lopez** (asr-000876)  
+**[00:40:51.440] Undersecretary Zuleika T. Lopez** (asr-000876)  
 Clarified.
 
-**[00:40:52.440] Undersecretary Sulaika T. Lopez** (asr-000877)  
+**[00:40:52.440] Undersecretary Zuleika T. Lopez** (asr-000877)  
 Tama?
 
-**[00:40:53.440] Undersecretary Sulaika T. Lopez** (asr-000878)  
+**[00:40:53.440] Undersecretary Zuleika T. Lopez** (asr-000878)  
 Tama.
 
-**[00:40:54.440] Undersecretary Sulaika T. Lopez** (asr-000879)  
+**[00:40:54.440] Undersecretary Zuleika T. Lopez** (asr-000879)  
 Oo.
 
-**[00:40:55.440] Undersecretary Sulaika T. Lopez** (asr-000880)  
+**[00:40:55.440] Undersecretary Zuleika T. Lopez** (asr-000880)  
 So, tama ka na.
 
-**[00:40:56.440] Undersecretary Sulaika T. Lopez** (asr-000881)  
+**[00:40:56.440] Undersecretary Zuleika T. Lopez** (asr-000881)  
 Okay.
 
-**[00:40:57.440] Undersecretary Sulaika T. Lopez** (asr-000882)  
+**[00:40:57.440] Undersecretary Zuleika T. Lopez** (asr-000882)  
 Your honors.
 
-**[00:40:58.440] Undersecretary Sulaika T. Lopez** (asr-000883)  
+**[00:40:58.440] Undersecretary Zuleika T. Lopez** (asr-000883)  
 Tapos ka na.
 
-**[00:40:59.440] Undersecretary Sulaika T. Lopez** (asr-000884)  
+**[00:40:59.440] Undersecretary Zuleika T. Lopez** (asr-000884)  
 Tapos na 5 minutes mo eh.
 
-**[00:41:00.440] Undersecretary Sulaika T. Lopez** (asr-000885)  
+**[00:41:00.440] Undersecretary Zuleika T. Lopez** (asr-000885)  
 Alright, your honors.
 
-**[00:41:01.440] Undersecretary Sulaika T. Lopez** (asr-000886)  
+**[00:41:01.440] Undersecretary Zuleika T. Lopez** (asr-000886)  
 If I may add.
 
-**[00:41:02.440] Undersecretary Sulaika T. Lopez** (asr-000887)  
+**[00:41:02.440] Undersecretary Zuleika T. Lopez** (asr-000887)  
 Sir, if I may add.
 
-**[00:41:03.440] Undersecretary Sulaika T. Lopez** (asr-000888)  
+**[00:41:03.440] Undersecretary Zuleika T. Lopez** (asr-000888)  
 O, kita mo, very cooperative.
 
-**[00:41:04.440] Undersecretary Sulaika T. Lopez** (asr-000889)  
+**[00:41:04.440] Undersecretary Zuleika T. Lopez** (asr-000889)  
 Saan ka maghanap ng ganyan?
 
-**[00:41:05.440] Undersecretary Sulaika T. Lopez** (asr-000890)  
+**[00:41:05.440] Undersecretary Zuleika T. Lopez** (asr-000890)  
 Di ba?
 
-**[00:41:06.440] Undersecretary Sulaika T. Lopez** (asr-000891)  
+**[00:41:06.440] Undersecretary Zuleika T. Lopez** (asr-000891)  
 Alright.
 
-**[00:41:07.440] Undersecretary Sulaika T. Lopez** (asr-000892)  
+**[00:41:07.440] Undersecretary Zuleika T. Lopez** (asr-000892)  
 I think in November, no?
 
-**[00:41:08.440] Undersecretary Sulaika T. Lopez** (asr-000893)  
+**[00:41:08.440] Undersecretary Zuleika T. Lopez** (asr-000893)  
 Mid-November, we are expecting the onboarding of our 4 million passengers.
 
-**[00:41:13.440] Undersecretary Sulaika T. Lopez** (asr-000894)  
+**[00:41:13.440] Undersecretary Zuleika T. Lopez** (asr-000894)  
 Wow!
 
-**[00:41:14.440] Undersecretary Sulaika T. Lopez** (asr-000895)  
+**[00:41:14.440] Undersecretary Zuleika T. Lopez** (asr-000895)  
 Already.
 
-**[00:41:15.440] Undersecretary Sulaika T. Lopez** (asr-000896)  
+**[00:41:15.440] Undersecretary Zuleika T. Lopez** (asr-000896)  
 Okay.
 
-**[00:41:16.440] Undersecretary Sulaika T. Lopez** (asr-000897)  
+**[00:41:16.440] Undersecretary Zuleika T. Lopez** (asr-000897)  
 And then, we'd like to, of course, to invite the members of the Congress.
 
-**[00:41:18.440] Undersecretary Sulaika T. Lopez** (asr-000898)  
+**[00:41:18.440] Undersecretary Zuleika T. Lopez** (asr-000898)  
 If you can, you can ride the...
 
-**[00:41:20.440] Undersecretary Sulaika T. Lopez** (asr-000899)  
+**[00:41:20.440] Undersecretary Zuleika T. Lopez** (asr-000899)  
 You can give us passes.
 
-**[00:41:21.440] Undersecretary Sulaika T. Lopez** (asr-000900)  
+**[00:41:21.440] Undersecretary Zuleika T. Lopez** (asr-000900)  
 Yes, sir.
 
-**[00:41:22.440] Undersecretary Sulaika T. Lopez** (asr-000901)  
+**[00:41:22.440] Undersecretary Zuleika T. Lopez** (asr-000901)  
 It's available for everyone.
 
-**[00:41:23.440] Undersecretary Sulaika T. Lopez** (asr-000902)  
+**[00:41:23.440] Undersecretary Zuleika T. Lopez** (asr-000902)  
 Okay.
 
-**[00:41:24.440] Undersecretary Sulaika T. Lopez** (asr-000903)  
+**[00:41:24.440] Undersecretary Zuleika T. Lopez** (asr-000903)  
 Sige.
 
-**[00:41:25.440] Undersecretary Sulaika T. Lopez** (asr-000904)  
+**[00:41:25.440] Undersecretary Zuleika T. Lopez** (asr-000904)  
 Thank you.
 
 **[00:41:26.440] Rep. Antonio L. Tinio** (asr-000905)  
@@ -2806,28 +2806,28 @@ Ano yung process niya sa pag-tukoy sino itong 150,000 learners, itong 600 client
 **[00:42:36.440] Rep. Renee Louise M. Co** (asr-000935)  
 wheelchair and algenaza kits, etc.?
 
-**[00:42:38.440] Undersecretary Sulaika T. Lopez** (asr-000936)  
+**[00:42:38.440] Undersecretary Zuleika T. Lopez** (asr-000936)  
 Thank you, ma'am.
 
-**[00:42:39.440] Undersecretary Sulaika T. Lopez** (asr-000937)  
+**[00:42:39.440] Undersecretary Zuleika T. Lopez** (asr-000937)  
 Yes, sir.
 
-**[00:42:40.440] Undersecretary Sulaika T. Lopez** (asr-000938)  
+**[00:42:40.440] Undersecretary Zuleika T. Lopez** (asr-000938)  
 As mentioned earlier, there are manuals of operation that cover these programs.
 
-**[00:42:45.440] Undersecretary Sulaika T. Lopez** (asr-000939)  
+**[00:42:45.440] Undersecretary Zuleika T. Lopez** (asr-000939)  
 For a complete detailed process flow of the pagbabago a million learners campaign, there's
 
-**[00:42:48.440] Undersecretary Sulaika T. Lopez** (asr-000940)  
+**[00:42:48.440] Undersecretary Zuleika T. Lopez** (asr-000940)  
 a full list of the pagbabago a million learners campaign and the algenaza and wheelchair
 
-**[00:42:55.440] Undersecretary Sulaika T. Lopez** (asr-000941)  
+**[00:42:55.440] Undersecretary Zuleika T. Lopez** (asr-000941)  
 distribution.
 
-**[00:42:56.440] Undersecretary Sulaika T. Lopez** (asr-000942)  
+**[00:42:56.440] Undersecretary Zuleika T. Lopez** (asr-000942)  
 We can have our director for operations discuss it further.
 
-**[00:42:59.440] Undersecretary Sulaika T. Lopez** (asr-000943)  
+**[00:42:59.440] Undersecretary Zuleika T. Lopez** (asr-000943)  
 Go ahead.
 
 **[00:43:00.440] Director Norman Valora** (asr-000944)  
@@ -3268,115 +3268,115 @@ ibang-ibang agencies? May ganun po bang efforts?
 **[00:48:23.770] Rep. Renee Louise M. Co** (asr-001089)  
 Torne?
 
-**[00:48:25.010] Undersecretary Sulaika T. Lopez** (asr-001090)  
+**[00:48:25.010] Undersecretary Zuleika T. Lopez** (asr-001090)  
 Thank you. Actually, ma'am,
 
-**[00:48:26.810] Undersecretary Sulaika T. Lopez** (asr-001091)  
+**[00:48:26.810] Undersecretary Zuleika T. Lopez** (asr-001091)  
 one of the things that
 
-**[00:48:28.790] Undersecretary Sulaika T. Lopez** (asr-001092)  
+**[00:48:28.790] Undersecretary Zuleika T. Lopez** (asr-001092)  
 one of our institutional projects
 
-**[00:48:30.830] Undersecretary Sulaika T. Lopez** (asr-001093)  
+**[00:48:30.830] Undersecretary Zuleika T. Lopez** (asr-001093)  
 really is the
 
-**[00:48:31.790] Undersecretary Sulaika T. Lopez** (asr-001094)  
+**[00:48:31.790] Undersecretary Zuleika T. Lopez** (asr-001094)  
 creation of the
 
-**[00:48:34.330] Undersecretary Sulaika T. Lopez** (asr-001095)  
+**[00:48:34.330] Undersecretary Zuleika T. Lopez** (asr-001095)  
 OVP charter. And we are very
 
-**[00:48:36.690] Undersecretary Sulaika T. Lopez** (asr-001096)  
+**[00:48:36.690] Undersecretary Zuleika T. Lopez** (asr-001096)  
 lucky that through representative
 
-**[00:48:38.490] Undersecretary Sulaika T. Lopez** (asr-001097)  
+**[00:48:38.490] Undersecretary Zuleika T. Lopez** (asr-001097)  
 and former president and vice president
 
-**[00:48:40.830] Undersecretary Sulaika T. Lopez** (asr-001098)  
+**[00:48:40.830] Undersecretary Zuleika T. Lopez** (asr-001098)  
 Gloria Macapagal-Arroyo, she has
 
-**[00:48:42.750] Undersecretary Sulaika T. Lopez** (asr-001099)  
+**[00:48:42.750] Undersecretary Zuleika T. Lopez** (asr-001099)  
 filed House Bill
 
-**[00:48:44.330] Undersecretary Sulaika T. Lopez** (asr-001100)  
+**[00:48:44.330] Undersecretary Zuleika T. Lopez** (asr-001100)  
 number 4215.
 
-**[00:48:47.330] Undersecretary Sulaika T. Lopez** (asr-001101)  
+**[00:48:47.330] Undersecretary Zuleika T. Lopez** (asr-001101)  
 It is actually entitled
 
-**[00:48:48.690] Undersecretary Sulaika T. Lopez** (asr-001102)  
+**[00:48:48.690] Undersecretary Zuleika T. Lopez** (asr-001102)  
 an act providing for the
 
-**[00:48:50.550] Undersecretary Sulaika T. Lopez** (asr-001103)  
+**[00:48:50.550] Undersecretary Zuleika T. Lopez** (asr-001103)  
 charter of the office of the vice president
 
-**[00:48:52.490] Undersecretary Sulaika T. Lopez** (asr-001104)  
+**[00:48:52.490] Undersecretary Zuleika T. Lopez** (asr-001104)  
 of the Republic of the Philippines,
 
-**[00:48:54.650] Undersecretary Sulaika T. Lopez** (asr-001105)  
+**[00:48:54.650] Undersecretary Zuleika T. Lopez** (asr-001105)  
 defining its powers and functions
 
-**[00:48:56.410] Undersecretary Sulaika T. Lopez** (asr-001106)  
+**[00:48:56.410] Undersecretary Zuleika T. Lopez** (asr-001106)  
 and appropriating funds therefore.
 
-**[00:48:58.790] Undersecretary Sulaika T. Lopez** (asr-001107)  
+**[00:48:58.790] Undersecretary Zuleika T. Lopez** (asr-001107)  
 And for other purposes, it is hoped,
 
-**[00:49:00.830] Undersecretary Sulaika T. Lopez** (asr-001108)  
+**[00:49:00.830] Undersecretary Zuleika T. Lopez** (asr-001108)  
 Your Honor, that this
 
-**[00:49:02.210] Undersecretary Sulaika T. Lopez** (asr-001109)  
+**[00:49:02.210] Undersecretary Zuleika T. Lopez** (asr-001109)  
 bill or this form of legislation will be
 
-**[00:49:05.090] Undersecretary Sulaika T. Lopez** (asr-001110)  
+**[00:49:05.090] Undersecretary Zuleika T. Lopez** (asr-001110)  
 able to empower
 
-**[00:49:07.210] Undersecretary Sulaika T. Lopez** (asr-001111)  
+**[00:49:07.210] Undersecretary Zuleika T. Lopez** (asr-001111)  
 future vice presidents
 
-**[00:49:09.010] Undersecretary Sulaika T. Lopez** (asr-001112)  
+**[00:49:09.010] Undersecretary Zuleika T. Lopez** (asr-001112)  
 to be able to lead the office
 
-**[00:49:11.210] Undersecretary Sulaika T. Lopez** (asr-001113)  
+**[00:49:11.210] Undersecretary Zuleika T. Lopez** (asr-001113)  
 with the programs
 
-**[00:49:12.790] Undersecretary Sulaika T. Lopez** (asr-001114)  
+**[00:49:12.790] Undersecretary Zuleika T. Lopez** (asr-001114)  
 that are institutionalized.
 
-**[00:49:14.690] Undersecretary Sulaika T. Lopez** (asr-001115)  
+**[00:49:14.690] Undersecretary Zuleika T. Lopez** (asr-001115)  
 So, it will not be, well,
 
-**[00:49:16.770] Undersecretary Sulaika T. Lopez** (asr-001116)  
+**[00:49:16.770] Undersecretary Zuleika T. Lopez** (asr-001116)  
 in a way, as what was mentioned
 
-**[00:49:18.410] Undersecretary Sulaika T. Lopez** (asr-001117)  
+**[00:49:18.410] Undersecretary Zuleika T. Lopez** (asr-001117)  
 kanina ni Representative Tino,
 
-**[00:49:20.770] Undersecretary Sulaika T. Lopez** (asr-001118)  
+**[00:49:20.770] Undersecretary Zuleika T. Lopez** (asr-001118)  
 na depende na lang sa programa
 
-**[00:49:22.510] Undersecretary Sulaika T. Lopez** (asr-001119)  
+**[00:49:22.510] Undersecretary Zuleika T. Lopez** (asr-001119)  
 ng susunod na
 
-**[00:49:25.030] Undersecretary Sulaika T. Lopez** (asr-001120)  
+**[00:49:25.030] Undersecretary Zuleika T. Lopez** (asr-001120)  
 nakaupong vice president.
 
-**[00:49:27.130] Undersecretary Sulaika T. Lopez** (asr-001121)  
+**[00:49:27.130] Undersecretary Zuleika T. Lopez** (asr-001121)  
 So, that is really one of our,
 
-**[00:49:28.790] Undersecretary Sulaika T. Lopez** (asr-001122)  
+**[00:49:28.790] Undersecretary Zuleika T. Lopez** (asr-001122)  
 our programs, our
 
-**[00:49:30.530] Undersecretary Sulaika T. Lopez** (asr-001123)  
+**[00:49:30.530] Undersecretary Zuleika T. Lopez** (asr-001123)  
 institutional, ang direksyon
 
-**[00:49:33.250] Undersecretary Sulaika T. Lopez** (asr-001124)  
+**[00:49:33.250] Undersecretary Zuleika T. Lopez** (asr-001124)  
 nun. Parang institutionalizing
 
-**[00:49:35.250] Undersecretary Sulaika T. Lopez** (asr-001125)  
+**[00:49:35.250] Undersecretary Zuleika T. Lopez** (asr-001125)  
 the OVP. Yes, and the
 
-**[00:49:36.910] Undersecretary Sulaika T. Lopez** (asr-001126)  
+**[00:49:36.910] Undersecretary Zuleika T. Lopez** (asr-001126)  
 programs.
 
 **[00:49:39.250] Rep. Renee Louise M. Co** (asr-001127)  
@@ -3427,58 +3427,58 @@ sa publiko? Paano po ba ito nakakommunicate
 **[00:50:09.050] Rep. Renee Louise M. Co** (asr-001142)  
 sa iba't ibang ahensya?
 
-**[00:50:10.050] Undersecretary Sulaika T. Lopez** (asr-001143)  
+**[00:50:10.050] Undersecretary Zuleika T. Lopez** (asr-001143)  
 Okay. Balikan ko lang
 
-**[00:50:12.290] Undersecretary Sulaika T. Lopez** (asr-001144)  
+**[00:50:12.290] Undersecretary Zuleika T. Lopez** (asr-001144)  
 kanina yung creation ng OVP
 
-**[00:50:13.910] Undersecretary Sulaika T. Lopez** (asr-001145)  
+**[00:50:13.910] Undersecretary Zuleika T. Lopez** (asr-001145)  
 charter, no?
 
-**[00:50:15.850] Undersecretary Sulaika T. Lopez** (asr-001146)  
+**[00:50:15.850] Undersecretary Zuleika T. Lopez** (asr-001146)  
 There is a provision there that identifies
 
-**[00:50:17.850] Undersecretary Sulaika T. Lopez** (asr-001147)  
+**[00:50:17.850] Undersecretary Zuleika T. Lopez** (asr-001147)  
 a specific office for policy
 
-**[00:50:20.090] Undersecretary Sulaika T. Lopez** (asr-001148)  
+**[00:50:20.090] Undersecretary Zuleika T. Lopez** (asr-001148)  
 research. That's one.
 
-**[00:50:22.090] Undersecretary Sulaika T. Lopez** (asr-001149)  
+**[00:50:22.090] Undersecretary Zuleika T. Lopez** (asr-001149)  
 But right now, that is being handled by
 
-**[00:50:23.950] Undersecretary Sulaika T. Lopez** (asr-001150)  
+**[00:50:23.950] Undersecretary Zuleika T. Lopez** (asr-001150)  
 the office of Director Shine Fajarda.
 
-**[00:50:26.290] Undersecretary Sulaika T. Lopez** (asr-001151)  
+**[00:50:26.290] Undersecretary Zuleika T. Lopez** (asr-001151)  
 She handles the strategic management
 
-**[00:50:28.170] Undersecretary Sulaika T. Lopez** (asr-001152)  
+**[00:50:28.170] Undersecretary Zuleika T. Lopez** (asr-001152)  
 office.
 
-**[00:50:28.790] Undersecretary Sulaika T. Lopez** (asr-001153)  
+**[00:50:28.790] Undersecretary Zuleika T. Lopez** (asr-001153)  
 Ito yung coordination with various
 
-**[00:50:30.530] Undersecretary Sulaika T. Lopez** (asr-001154)  
+**[00:50:30.530] Undersecretary Zuleika T. Lopez** (asr-001154)  
 national government agencies and also
 
-**[00:50:32.710] Undersecretary Sulaika T. Lopez** (asr-001155)  
+**[00:50:32.710] Undersecretary Zuleika T. Lopez** (asr-001155)  
 with the private sector and how
 
-**[00:50:34.730] Undersecretary Sulaika T. Lopez** (asr-001156)  
+**[00:50:34.730] Undersecretary Zuleika T. Lopez** (asr-001156)  
 for opportunities that they can partner
 
-**[00:50:36.590] Undersecretary Sulaika T. Lopez** (asr-001157)  
+**[00:50:36.590] Undersecretary Zuleika T. Lopez** (asr-001157)  
 with the office of the Vice President
 
-**[00:50:38.410] Undersecretary Sulaika T. Lopez** (asr-001158)  
+**[00:50:38.410] Undersecretary Zuleika T. Lopez** (asr-001158)  
 and of course, help in
 
-**[00:50:40.310] Undersecretary Sulaika T. Lopez** (asr-001159)  
+**[00:50:40.310] Undersecretary Zuleika T. Lopez** (asr-001159)  
 delivering public service.
 
-**[00:50:42.090] Undersecretary Sulaika T. Lopez** (asr-001160)  
+**[00:50:42.090] Undersecretary Zuleika T. Lopez** (asr-001160)  
 Beling, kung?
 
 **[00:50:43.830] Rep. Renee Louise M. Co** (asr-001161)  
@@ -3538,19 +3538,19 @@ Meron po ba siyang policy research na ginawa?
 **[00:51:20.710] Rep. Renee Louise M. Co** (asr-001179)  
 It's not part of your budget.
 
-**[00:51:22.170] Undersecretary Sulaika T. Lopez** (asr-001180)  
+**[00:51:22.170] Undersecretary Zuleika T. Lopez** (asr-001180)  
 Sir, we are authorized to answer
 
-**[00:51:24.070] Undersecretary Sulaika T. Lopez** (asr-001181)  
+**[00:51:24.070] Undersecretary Zuleika T. Lopez** (asr-001181)  
 only those questions related
 
-**[00:51:26.710] Undersecretary Sulaika T. Lopez** (asr-001182)  
+**[00:51:26.710] Undersecretary Zuleika T. Lopez** (asr-001182)  
 to the 2027 proposed budget.
 
-**[00:51:28.790] Undersecretary Sulaika T. Lopez** (asr-001183)  
+**[00:51:28.790] Undersecretary Zuleika T. Lopez** (asr-001183)  
 If you want, I can answer for them.
 
-**[00:51:31.750] Undersecretary Sulaika T. Lopez** (asr-001184)  
+**[00:51:31.750] Undersecretary Zuleika T. Lopez** (asr-001184)  
 Alam ko na yung stance ni Chair
 
 **[00:51:33.130] Rep. Renee Louise M. Co** (asr-001185)  
@@ -3628,79 +3628,79 @@ sa publiko?
 **[00:52:19.090] Rep. Renee Louise M. Co** (asr-001209)  
 That's a reasonable question.
 
-**[00:52:21.030] Undersecretary Sulaika T. Lopez** (asr-001210)  
+**[00:52:21.030] Undersecretary Zuleika T. Lopez** (asr-001210)  
 Actually, just to mention, ma'am,
 
-**[00:52:22.870] Undersecretary Sulaika T. Lopez** (asr-001211)  
+**[00:52:22.870] Undersecretary Zuleika T. Lopez** (asr-001211)  
 there are some
 
-**[00:52:24.350] Undersecretary Sulaika T. Lopez** (asr-001212)  
+**[00:52:24.350] Undersecretary Zuleika T. Lopez** (asr-001212)  
 legislators who asked comments
 
-**[00:52:27.210] Undersecretary Sulaika T. Lopez** (asr-001213)  
+**[00:52:27.210] Undersecretary Zuleika T. Lopez** (asr-001213)  
 of the Office of the Vice President.
 
-**[00:52:28.790] Undersecretary Sulaika T. Lopez** (asr-001214)  
+**[00:52:28.790] Undersecretary Zuleika T. Lopez** (asr-001214)  
 Especially on certain
 
-**[00:52:30.710] Undersecretary Sulaika T. Lopez** (asr-001215)  
+**[00:52:30.710] Undersecretary Zuleika T. Lopez** (asr-001215)  
 proposed legislation. And this is handled
 
-**[00:52:32.870] Undersecretary Sulaika T. Lopez** (asr-001216)  
+**[00:52:32.870] Undersecretary Zuleika T. Lopez** (asr-001216)  
 by the Office of the Strategic
 
-**[00:52:34.870] Undersecretary Sulaika T. Lopez** (asr-001217)  
+**[00:52:34.870] Undersecretary Zuleika T. Lopez** (asr-001217)  
 Management Office. I think one of
 
-**[00:52:36.970] Undersecretary Sulaika T. Lopez** (asr-001218)  
+**[00:52:36.970] Undersecretary Zuleika T. Lopez** (asr-001218)  
 those is also
 
-**[00:52:37.850] Undersecretary Sulaika T. Lopez** (asr-001219)  
+**[00:52:37.850] Undersecretary Zuleika T. Lopez** (asr-001219)  
 the issue on, or the concerns
 
-**[00:52:40.990] Undersecretary Sulaika T. Lopez** (asr-001220)  
+**[00:52:40.990] Undersecretary Zuleika T. Lopez** (asr-001220)  
 on Pax Silica. Because we have also
 
-**[00:52:43.010] Undersecretary Sulaika T. Lopez** (asr-001221)  
+**[00:52:43.010] Undersecretary Zuleika T. Lopez** (asr-001221)  
 been
 
-**[00:52:43.830] Undersecretary Sulaika T. Lopez** (asr-001222)  
+**[00:52:43.830] Undersecretary Zuleika T. Lopez** (asr-001222)  
 in receipt of some letters
 
-**[00:52:46.830] Undersecretary Sulaika T. Lopez** (asr-001223)  
+**[00:52:46.830] Undersecretary Zuleika T. Lopez** (asr-001223)  
 stating their positions
 
-**[00:52:48.930] Undersecretary Sulaika T. Lopez** (asr-001224)  
+**[00:52:48.930] Undersecretary Zuleika T. Lopez** (asr-001224)  
 on the Pax Silica.
 
-**[00:52:51.430] Undersecretary Sulaika T. Lopez** (asr-001225)  
+**[00:52:51.430] Undersecretary Zuleika T. Lopez** (asr-001225)  
 So for now, may
 
-**[00:52:52.710] Undersecretary Sulaika T. Lopez** (asr-001226)  
+**[00:52:52.710] Undersecretary Zuleika T. Lopez** (asr-001226)  
 position na po ba ang OVP or si VP Sara
 
-**[00:52:55.010] Undersecretary Sulaika T. Lopez** (asr-001227)  
+**[00:52:55.010] Undersecretary Zuleika T. Lopez** (asr-001227)  
 on Pax Silica?
 
-**[00:52:55.730] Undersecretary Sulaika T. Lopez** (asr-001228)  
+**[00:52:55.730] Undersecretary Zuleika T. Lopez** (asr-001228)  
 Wala pa.
 
-**[00:52:56.850] Undersecretary Sulaika T. Lopez** (asr-001229)  
+**[00:52:56.850] Undersecretary Zuleika T. Lopez** (asr-001229)  
 No.
 
-**[00:52:58.790] Undersecretary Sulaika T. Lopez** (asr-001230)  
+**[00:52:58.790] Undersecretary Zuleika T. Lopez** (asr-001230)  
 I cannot comment on that, Your Honor, because
 
-**[00:53:00.650] Undersecretary Sulaika T. Lopez** (asr-001231)  
+**[00:53:00.650] Undersecretary Zuleika T. Lopez** (asr-001231)  
 we are just authorized to answer for the
 
-**[00:53:02.590] Undersecretary Sulaika T. Lopez** (asr-001232)  
+**[00:53:02.590] Undersecretary Zuleika T. Lopez** (asr-001232)  
 reasonable naman yung sagot.
 
-**[00:53:04.630] Undersecretary Sulaika T. Lopez** (asr-001233)  
+**[00:53:04.630] Undersecretary Zuleika T. Lopez** (asr-001233)  
 Reasonable naman yung question.
 
-**[00:53:05.590] Undersecretary Sulaika T. Lopez** (asr-001234)  
+**[00:53:05.590] Undersecretary Zuleika T. Lopez** (asr-001234)  
 We will note that question.
 
 **[00:53:08.070] Rep. Renee Louise M. Co** (asr-001235)  
@@ -4648,16 +4648,16 @@ the services they actually
 **[01:03:37.960] Rep. Sarah Jane I. Elago** (asr-001549)  
 render? Thank you,
 
-**[01:03:39.900] Undersecretary Sulaika T. Lopez** (asr-001550)  
+**[01:03:39.900] Undersecretary Zuleika T. Lopez** (asr-001550)  
 Mr. Chair. For this,
 
-**[01:03:41.180] Undersecretary Sulaika T. Lopez** (asr-001551)  
+**[01:03:41.180] Undersecretary Zuleika T. Lopez** (asr-001551)  
 this will be answered by our
 
-**[01:03:43.680] Undersecretary Sulaika T. Lopez** (asr-001552)  
+**[01:03:43.680] Undersecretary Zuleika T. Lopez** (asr-001552)  
 Director for Admin and Financial Service,
 
-**[01:03:46.200] Undersecretary Sulaika T. Lopez** (asr-001553)  
+**[01:03:46.200] Undersecretary Zuleika T. Lopez** (asr-001553)  
 si Director Lynn. Go ahead, ma'am.
 
 **[01:03:48.860] Atty. Rosalynne L. Sanchez** (asr-001554)  
@@ -4888,7 +4888,7 @@ Negay Erize from the
 **[01:06:26.210] Deputy Speaker Jose C. Alvarez** (asr-001629)  
 Lone District of
 
-**[01:06:27.490] Undersecretary Sulaika T. Lopez** (asr-001630)  
+**[01:06:27.490] Undersecretary Zuleika T. Lopez** (asr-001630)  
 Good afternoon, sir.
 
 **[01:06:32.520] Deputy Speaker Jose C. Alvarez** (asr-001631)  
@@ -5212,25 +5212,25 @@ paninindigan sa mga bagay na ito.
 **[01:12:39.460] Rep. Edgar R. Erice** (asr-001737)  
 Salamat po.
 
-**[01:12:41.300] Undersecretary Sulaika T. Lopez** (asr-001738)  
+**[01:12:41.300] Undersecretary Zuleika T. Lopez** (asr-001738)  
 Thank you very much, Mr. Chair,
 
-**[01:12:43.220] Undersecretary Sulaika T. Lopez** (asr-001739)  
+**[01:12:43.220] Undersecretary Zuleika T. Lopez** (asr-001739)  
 and also thank you to the esteemed congressman.
 
-**[01:12:45.640] Undersecretary Sulaika T. Lopez** (asr-001740)  
+**[01:12:45.640] Undersecretary Zuleika T. Lopez** (asr-001740)  
 Yes, we will relay
 
-**[01:12:47.340] Undersecretary Sulaika T. Lopez** (asr-001741)  
+**[01:12:47.340] Undersecretary Zuleika T. Lopez** (asr-001741)  
 this particular manifestation
 
-**[01:12:49.380] Undersecretary Sulaika T. Lopez** (asr-001742)  
+**[01:12:49.380] Undersecretary Zuleika T. Lopez** (asr-001742)  
 to the Vice President.
 
 **[01:12:51.400] Deputy Speaker Jose C. Alvarez** (asr-001743)  
 Very good.
 
-**[01:12:52.280] Undersecretary Sulaika T. Lopez** (asr-001743-split-2)  
+**[01:12:52.280] Undersecretary Zuleika T. Lopez** (asr-001743-split-2)  
 Thank you.
 
 **[01:12:54.620] Rep. Ma. Isabel L. Sagarbarria** (asr-001744)  
