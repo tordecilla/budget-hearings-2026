@@ -18853,52 +18853,52 @@ Okay.
 **[04:18:56.160] Senator Risa Hontiveros** (asr-006433)  
 Briefly na lang please, Ms. Eunice of the Mangrove Breakthrough.
 
-**[04:19:00.960] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006434)  
+**[04:19:00.960] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006434)  
 Mangrove Breakthrough.
 
-**[04:19:02.480] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006435)  
+**[04:19:02.480] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006435)  
 Yes. Thank you, Madam Chair.
 
 **[04:19:03.320] Senator Risa Hontiveros** (asr-006436)  
 Two minutes please.
 
-**[04:19:04.100] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006437)  
+**[04:19:04.100] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006437)  
 Very briefly.
 
-**[04:19:05.100] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006438)  
+**[04:19:05.100] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006438)  
 So I think our colleagues at the PBC have already talked about the upstream issues on watershed management.
 
-**[04:19:10.360] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006439)  
+**[04:19:10.360] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006439)  
 I'd like to focus on downstream to coastal communities.
 
-**[04:19:14.260] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006440)  
+**[04:19:14.260] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006440)  
 So I'm Eunice Tanilon.
 
-**[04:19:15.500] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006441)  
+**[04:19:15.500] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006441)  
 Thank you so much to the subcommittee, Secretary Kuna, and our colleagues from DNR.
 
-**[04:19:19.460] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006442)  
+**[04:19:19.460] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006442)  
 I'm Eunice Tanilon of the Mangrove Breakthrough, a global partnership of government, scientists, and investors
 
-**[04:19:24.760] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006443)  
+**[04:19:24.760] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006443)  
 working to secure the world's mangroves by 2030.
 
-**[04:19:28.340] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006444)  
+**[04:19:28.340] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006444)  
 Our partner is the Global Mangrove Alliance Philippines, comprised of key conservation organizations.
 
-**[04:19:35.980] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006445)  
+**[04:19:35.980] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006445)  
 We work together with the DNR and the National Blue Carbon Action Partnership.
 
-**[04:19:39.960] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006446)  
+**[04:19:39.960] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006446)  
 So it's essentially a roadmap for five years on how to restore our key mangrove priority landscapes.
 
-**[04:19:49.720] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006447)  
+**[04:19:49.720] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006447)  
 So I think what I want to talk about this afternoon is to really just...
 
-**[04:19:52.960] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006448)  
+**[04:19:52.960] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006448)  
 how difficult it's been to put together financing and money for the very large-scale coordination that's needed
 
-**[04:20:01.960] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006449)  
+**[04:20:01.960] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006449)  
 to support restoration projects.
 
 **[04:20:05.920] Senator Risa Hontiveros** (asr-006450)  
@@ -18913,61 +18913,61 @@ Please proceed.
 **[04:20:12.240] Senator Risa Hontiveros** (asr-006453)  
 But please wind up.
 
-**[04:20:13.180] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006454)  
+**[04:20:13.180] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006454)  
 I think to jump straight to our recommendations, we really hope that the DNR could fund,
 
-**[04:20:19.040] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006455)  
+**[04:20:19.040] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006455)  
 and of course the committee could fund the foundations,
 
-**[04:20:22.160] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006456)  
+**[04:20:22.160] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006456)  
 and put a date on protocol.
 
-**[04:20:23.660] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006457)  
+**[04:20:23.660] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006457)  
 So we would really like a national carbon stock assessment carried out with our universities,
 
-**[04:20:28.660] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006458)  
+**[04:20:28.660] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006458)  
 funded through the research lines,
 
-**[04:20:30.660] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006459)  
+**[04:20:30.660] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006459)  
 and a commitment that a blue carbon quantification protocol will be issued as a department order
 
-**[04:20:36.660] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006460)  
+**[04:20:36.660] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006460)  
 by the end of the first quarter of 2027.
 
-**[04:20:39.160] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006461)  
+**[04:20:39.160] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006461)  
 This has been the key item that's been blocking all of our conversations with investors.
 
-**[04:20:45.160] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006462)  
+**[04:20:45.160] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006462)  
 We've been in conversations with ADB, AIIB, and also other banks in Singapore.
 
-**[04:20:51.160] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006463)  
+**[04:20:51.160] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006463)  
 And a lot of...
 
-**[04:20:52.080] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006464)  
+**[04:20:52.080] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006464)  
 a lot of our conversations stalled because of the lack of these foundational items.
 
-**[04:20:56.580] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006465)  
+**[04:20:56.580] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006465)  
 And secondly, we hope that a special provision in the DNR budget that accounts for blue carbon
 
-**[04:21:02.080] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006466)  
+**[04:21:02.080] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006466)  
 separately from forest carbon requires the department to designate within 90 days
 
-**[04:21:08.080] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006467)  
+**[04:21:08.080] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006467)  
 the bureau accountable for mangroves inside and outside protected areas
 
-**[04:21:12.080] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006468)  
+**[04:21:12.080] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006468)  
 and requires an annual public hectare count against the PSA mangrove accounts.
 
-**[04:21:17.580] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006469)  
+**[04:21:17.580] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006469)  
 So we really hope with this that it gives every loan, grant, and private peso
 
-**[04:21:21.580] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006470)  
+**[04:21:21.580] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006470)  
 a public share to match against.
 
-**[04:21:24.580] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006471)  
+**[04:21:24.580] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006471)  
 So we're very willing to help the Mangrove Breakthrough and Global Mangrove Alliance on these items.
 
-**[04:21:29.580] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-006472)  
+**[04:21:29.580] Mangrove Breakthrough Southeast Asia Manager Eunice Tanilon** (asr-006472)  
 Thank you very much.
 
 **[04:21:31.580] Senator Risa Hontiveros** (asr-006473)  
