@@ -1,0 +1,916 @@
+{
+  "hearing": {
+    "id": 104,
+    "title": "Senate Committee on Finance: Senate, SET and CA - October 22, 2026",
+    "hearing_date": "2026-10-22",
+    "official_url": "https://www.youtube.com/watch?v=Y2NnYVKs_BM"
+  },
+  "revision_id": 9226,
+  "revision_number": 9,
+  "notice": "AI-assisted working draft. AI can make errors. Always check quotations, names, rulings, and other consequential details against the official video.",
+  "segments": [
+    {
+      "stable_id": "asr-000018",
+      "start_seconds": 510.0,
+      "end_seconds": 525.32,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "The 2027 proposed expenditure program of the Senate of the Philippines, Senate Electoral Tribunal, and Commission on Appointments. At this juncture, the Chair recognizes the Committee Secretary to call in our resource persons."
+    },
+    {
+      "stable_id": "asr-000019",
+      "start_seconds": 525.32,
+      "end_seconds": 570.0,
+      "speaker": "Committee Secretary",
+      "text": "Thank you, Mr. Chair. Good afternoon. For the briefing on the proposed FY 2027 budgets of the Senate, the Senate Electoral Tribunal, and the Commission on Appointments, we would like to acknowledge our resource persons. From the Senate of the Philippines, we have Secretary Renato Bantug, together with Attorney Arnel Jose Banuez, the Deputy Secretary for Administrative and Financial Services, and Director Rio Samanala, Director III of the Legislative Budget Service. For the Senate Electoral Tribunal or SET, we have Secretary Luis Jose Geronimo, together with Attorney Eleanor Francisco Anunciacion, the Deputy Secretary, and Director Eloisa Marquez, Director III of the Financial Management Service. From the Commission on Appointments or CA, we have Secretary Myra Marie Villarica, together with Deputy Secretary for Legal Affairs,"
+    },
+    {
+      "stable_id": "asr-000020",
+      "start_seconds": 570.0,
+      "end_seconds": 600.0,
+      "speaker": "Committee Secretary",
+      "text": "Attorney Alfredo Alvin S. Cruz, Deputy Secretary Lyndon Paul Das, Deputy Secretary for Administration Attorney Arturo Paras, Deputy Secretary for Investigation and Appointment Review, and Director Elsie Monticello, Director III of the Budget Service. We have also invited representatives from DBM and COA. From DBM we have Assistant Director Lulu Vispo, Ms. Mary Lou Lagarde, and Mr. John Paul Maria P. Faigal. From COA we have Ms. Cynthia Ferrer, Supervising Auditor. Thank you, Mr. Chair."
+    },
+    {
+      "stable_id": "asr-000021",
+      "start_seconds": 600.0,
+      "end_seconds": 630.0,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you. Good afternoon, everyone. Today, as we discuss the 2027 budget of the Senate, the Senate Electoral Tribunal, and the Commission on Appointments, while these agencies represent a relatively small fraction of the overall 2027 National Expenditures Program, the work that happens here is vital to keeping our democracy running smoothly. For the Senate, every peso allocated must directly strengthen our mandate to craft meaningful laws and ensure that public funds across all sectors are spent wisely."
+    },
+    {
+      "stable_id": "asr-000051",
+      "start_seconds": 630.0,
+      "end_seconds": 640.02,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "For the SET, proper support ensures that electoral disputes involving the Senate are resolved swiftly, impartially, and fairly to protect the integrity of the vote."
+    },
+    {
+      "stable_id": "asr-000052",
+      "start_seconds": 640.48,
+      "end_seconds": 646.62,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Finally, the proper funding for the Commission on Appointments enables us to thoroughly vet presidential appointees."
+    },
+    {
+      "stable_id": "asr-000053",
+      "start_seconds": 647.48,
+      "end_seconds": 650.28,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "As we go through today's briefing, our focus is simple."
+    },
+    {
+      "stable_id": "asr-000054",
+      "start_seconds": 650.44,
+      "end_seconds": 655.3,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "To make sure that each agency gets the support they need to serve the public effectively."
+    },
+    {
+      "stable_id": "asr-000055",
+      "start_seconds": 655.46,
+      "end_seconds": 655.78,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you."
+    },
+    {
+      "stable_id": "asr-000056",
+      "start_seconds": 655.78,
+      "end_seconds": 664.16,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "So I now call on Secretary Renato Bantug Jr. to present the 2027 proposed expenditure program of the Senate of the Philippines."
+    },
+    {
+      "stable_id": "asr-000057",
+      "start_seconds": 664.8199999999999,
+      "end_seconds": 673.8199999999999,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Then after, Secretary Luis Jose Geronimo for the Senate Electoral Tribunal, and lastly, Secretary Myra Marie Villarica for the Commission on Appointments."
+    },
+    {
+      "stable_id": "asr-000058",
+      "start_seconds": 674.64,
+      "end_seconds": 679.42,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Please keep your presentations brief so that we can already wrap up today."
+    },
+    {
+      "stable_id": "asr-000059",
+      "start_seconds": 680.56,
+      "end_seconds": 682.0,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Secretary Batug, you now have the floor."
+    },
+    {
+      "stable_id": "asr-000060",
+      "start_seconds": 682.8399999999999,
+      "end_seconds": 684.42,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "Thank you, and good afternoon, Your Honor."
+    },
+    {
+      "stable_id": "asr-000061",
+      "start_seconds": 684.42,
+      "end_seconds": 685.74,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "Today, we respectfully present."
+    },
+    {
+      "stable_id": "asr-000062",
+      "start_seconds": 685.78,
+      "end_seconds": 702.66,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "We respectfully present the 2027 budget context of the Senate of the Philippines in support of its constitutional mandate to legislate, to provide service to the people, and sustain an institution that is fiscally responsible and accessible, transparent, and responsive to the people."
+    },
+    {
+      "stable_id": "asr-000063",
+      "start_seconds": 703.88,
+      "end_seconds": 714.86,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "In 2025, the Senate held 68 session days and recorded significant legislative activity, with a total of 1,694 bills and 313 resolutions filed."
+    },
+    {
+      "stable_id": "asr-000064",
+      "start_seconds": 715.78,
+      "end_seconds": 719.1,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "These efforts produced meaningful legislative outcomes."
+    },
+    {
+      "stable_id": "asr-000065",
+      "start_seconds": 719.4399999999999,
+      "end_seconds": 726.9399999999999,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "In 2025, 197 bills became Republic Acts, while additional measures advanced through the legislative process."
+    },
+    {
+      "stable_id": "asr-000066",
+      "start_seconds": 727.76,
+      "end_seconds": 740.5,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "Key laws included measures on government optimization, judiciary fiscal autonomy, digital governance, telecommunications connectivity, teacher-school leader career progression, and reforms of right-of-way acquisition."
+    },
+    {
+      "stable_id": "asr-000067",
+      "start_seconds": 740.5,
+      "end_seconds": 745.6999999999999,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "In 2026, the Senate sustained its legislative momentum by advancing"
+    },
+    {
+      "stable_id": "asr-000068",
+      "start_seconds": 745.78,
+      "end_seconds": 752.18,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "measures that address infrastructure delivery, public protection, education access, and economic concerns."
+    },
+    {
+      "stable_id": "asr-000069",
+      "start_seconds": 752.78,
+      "end_seconds": 758.0799999999999,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "From January to June 2026, the Senate recorded an additional 33 session days"
+    },
+    {
+      "stable_id": "asr-000070",
+      "start_seconds": 758.0799999999999,
+      "end_seconds": 764.48,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "with a total of 653 bills and 249 resolutions filed."
+    },
+    {
+      "stable_id": "asr-000071",
+      "start_seconds": 765.3199999999999,
+      "end_seconds": 769.3199999999999,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "As of October 15, 2026, 13 measures had become Republic Acts."
+    },
+    {
+      "stable_id": "asr-000072",
+      "start_seconds": 769.3199999999999,
+      "end_seconds": 773.3199999999999,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "A further 16 measures had been transmitted for presidential approval,"
+    },
+    {
+      "stable_id": "asr-000073",
+      "start_seconds": 773.32,
+      "end_seconds": 779.84,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "6 pending in the Conference Committee, 38 approved on 3rd reading, and 19 pending 2nd reading."
+    },
+    {
+      "stable_id": "asr-000074",
+      "start_seconds": 780.4200000000001,
+      "end_seconds": 784.5,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "Among the notable outcomes were the suspension of the excise tax on petroleum products,"
+    },
+    {
+      "stable_id": "asr-000075",
+      "start_seconds": 784.74,
+      "end_seconds": 788.6800000000001,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "which provides a policy mechanism for responding to fuel price pressures,"
+    },
+    {
+      "stable_id": "asr-000076",
+      "start_seconds": 789.3000000000001,
+      "end_seconds": 795.9200000000001,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "education-centered reforms through measures for last mile or geographically isolated and disadvantaged area schools,"
+    },
+    {
+      "stable_id": "asr-000077",
+      "start_seconds": 795.9200000000001,
+      "end_seconds": 802.74,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "and expanding opportunity for quality tertiary education, especially for underserved communities."
+    },
+    {
+      "stable_id": "asr-000078",
+      "start_seconds": 803.32,
+      "end_seconds": 806.9200000000001,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "The measures still progressing through the legislative process also demonstrate"
+    },
+    {
+      "stable_id": "asr-000079",
+      "start_seconds": 806.9200000000001,
+      "end_seconds": 811.0,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "a continuing commitment on addressing practical barriers to development,"
+    },
+    {
+      "stable_id": "asr-000080",
+      "start_seconds": 811.2800000000001,
+      "end_seconds": 816.58,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "protecting the public interest, and widening access to essential services."
+    },
+    {
+      "stable_id": "asr-000081",
+      "start_seconds": 817.36,
+      "end_seconds": 823.2600000000001,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "Through all these, the Senate's legislative outcomes relied and depended on institutional support,"
+    },
+    {
+      "stable_id": "asr-000082",
+      "start_seconds": 823.2600000000001,
+      "end_seconds": 830.8800000000001,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "which must be strengthened and sustained so that the Senate can continue translating priority measures into concrete public benefit."
+    },
+    {
+      "stable_id": "asr-000083",
+      "start_seconds": 831.6800000000001,
+      "end_seconds": 833.1600000000001,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "Thus, for the years 2025,"
+    },
+    {
+      "stable_id": "asr-000084",
+      "start_seconds": 833.32,
+      "end_seconds": 838.6800000000001,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "and 2026, the Senate also continued strengthening institutional policy and administration"
+    },
+    {
+      "stable_id": "asr-000085",
+      "start_seconds": 839.1,
+      "end_seconds": 842.5600000000001,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "through policy orders covering Senate proper and the Senate Secretariat."
+    },
+    {
+      "stable_id": "asr-000086",
+      "start_seconds": 843.96,
+      "end_seconds": 847.7600000000001,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "We expanded digital transformation initiatives that improve legislation,"
+    },
+    {
+      "stable_id": "asr-000087",
+      "start_seconds": 848.12,
+      "end_seconds": 852.6800000000001,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "public access, transparency, visitor services, and internal systems."
+    },
+    {
+      "stable_id": "asr-000088",
+      "start_seconds": 853.5600000000001,
+      "end_seconds": 858.58,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "Employee services, information services, and organizational development were likewise enhanced."
+    },
+    {
+      "stable_id": "asr-000089",
+      "start_seconds": 859.06,
+      "end_seconds": 864.31,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "On fiscal performance, the Senate maintained prudent use of public funds."
+    },
+    {
+      "stable_id": "asr-000092",
+      "start_seconds": 864.96,
+      "end_seconds": 867.46,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "For 2025, total allotment"
+    },
+    {
+      "stable_id": "asr-000093",
+      "start_seconds": 867.46,
+      "end_seconds": 869.04,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "was 10.1 billion"
+    },
+    {
+      "stable_id": "asr-000094",
+      "start_seconds": 869.04,
+      "end_seconds": 871.1,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "with 8.1 billion in"
+    },
+    {
+      "stable_id": "asr-000095",
+      "start_seconds": 871.1,
+      "end_seconds": 873.2,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "obligations incurred, equivalent"
+    },
+    {
+      "stable_id": "asr-000096",
+      "start_seconds": 873.2,
+      "end_seconds": 875.38,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "to an 80.22%"
+    },
+    {
+      "stable_id": "asr-000097",
+      "start_seconds": 875.38,
+      "end_seconds": 876.42,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "obligation rate."
+    },
+    {
+      "stable_id": "asr-000098",
+      "start_seconds": 877.28,
+      "end_seconds": 879.26,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "As of October 14, 2026,"
+    },
+    {
+      "stable_id": "asr-000099",
+      "start_seconds": 879.4,
+      "end_seconds": 881.52,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "the Senate had obligated 6.5"
+    },
+    {
+      "stable_id": "asr-000100",
+      "start_seconds": 881.52,
+      "end_seconds": 883.56,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "billion out of 8.8"
+    },
+    {
+      "stable_id": "asr-000101",
+      "start_seconds": 883.56,
+      "end_seconds": 885.56,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "billion allotment, or to date,"
+    },
+    {
+      "stable_id": "asr-000102",
+      "start_seconds": 886.12,
+      "end_seconds": 886.6,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "a total"
+    },
+    {
+      "stable_id": "asr-000103",
+      "start_seconds": 886.6,
+      "end_seconds": 890.38,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "of 74.41%"
+    },
+    {
+      "stable_id": "asr-000104",
+      "start_seconds": 890.38,
+      "end_seconds": 891.5,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "obligation rate."
+    },
+    {
+      "stable_id": "asr-000105",
+      "start_seconds": 893.26,
+      "end_seconds": 895.4,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "Our financial"
+    },
+    {
+      "stable_id": "asr-000106",
+      "start_seconds": 895.4,
+      "end_seconds": 897.22,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "stewardship was also affirmed by the"
+    },
+    {
+      "stable_id": "asr-000107",
+      "start_seconds": 897.22,
+      "end_seconds": 898.8199999999999,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "Commission on Audit, which issued an"
+    },
+    {
+      "stable_id": "asr-000108",
+      "start_seconds": 898.8199999999999,
+      "end_seconds": 899.86,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "unmodified"
+    },
+    {
+      "stable_id": "asr-000109",
+      "start_seconds": 900.0,
+      "end_seconds": 913.56,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "opinion on the fairness of the Senate's 2025 financial statements. And it is also our good fortune that no audit suspensions, disallowances, and charges were made for that particular fiscal year."
+    },
+    {
+      "stable_id": "asr-000110",
+      "start_seconds": 913.56,
+      "end_seconds": 938.98,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "For 2027, the National Expenditure Program provides 7.7 billion for the Senate. This is 187.5 million or 2.5% higher than the 2026 NEP, but 863 million or 10.1% below the 2026 General Appropriations Act."
+    },
+    {
+      "stable_id": "asr-000111",
+      "start_seconds": 940.84,
+      "end_seconds": 943.54,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "We are respectfully submitting for the"
+    },
+    {
+      "stable_id": "asr-000112",
+      "start_seconds": 943.56,
+      "end_seconds": 969.5,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "For the consideration of the Honorable Committee, various budget permutations of the 2027 Senate Budget that will enable the Senate to sustain its constitutional mandate, to legislate effectively, provide accessible and transparent public service, modernize institutional system, maintain responsible management of public resources, while sustaining personal requirements, essential operating needs, and the delivery of legislative and public-facing services."
+    },
+    {
+      "stable_id": "asr-000113",
+      "start_seconds": 969.72,
+      "end_seconds": 973.42,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "Our budget permutations would include, at the maximum,"
+    },
+    {
+      "stable_id": "asr-000114",
+      "start_seconds": 973.56,
+      "end_seconds": 979.26,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "at a level provided for in the NEP, and as low as 2 billion less than the NEP."
+    },
+    {
+      "stable_id": "asr-000115",
+      "start_seconds": 979.6,
+      "end_seconds": 985.28,
+      "speaker": "Senate Secretary Renato N. Bantug, Jr.",
+      "text": "With that, Your Honor, we respectfully submit our budget proposal for the Honorable Committee's consideration."
+    },
+    {
+      "stable_id": "asr-000116",
+      "start_seconds": 985.28,
+      "end_seconds": 1003.16,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you, Secretary Bantug. Just for the record, before we ask Secretary Luis Geronimo and Secretary Mayra, just on the Senate, we are practicing what we preach."
+    },
+    {
+      "stable_id": "asr-000117",
+      "start_seconds": 1003.56,
+      "end_seconds": 1016.68,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "We are one of the very few agencies that has a lower budget for 2027."
+    },
+    {
+      "stable_id": "asr-000118",
+      "start_seconds": 1016.68,
+      "end_seconds": 1022.47,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Because of the very limited fiscal space."
+    },
+    {
+      "stable_id": "asr-000119",
+      "start_seconds": 1022.76,
+      "end_seconds": 1025.36,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "So we are already, you know, but we practice austerity."
+    },
+    {
+      "stable_id": "asr-000120",
+      "start_seconds": 1025.9,
+      "end_seconds": 1032.14,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Okay, so next is Secretary Luis Jose Geronimo."
+    },
+    {
+      "stable_id": "asr-000121",
+      "start_seconds": 1033.56,
+      "end_seconds": 1035.46,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Of Senate Electoral Tribunal."
+    },
+    {
+      "stable_id": "asr-000122",
+      "start_seconds": 1036.88,
+      "end_seconds": 1037.68,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Now, the floor is yours."
+    },
+    {
+      "stable_id": "asr-000123",
+      "start_seconds": 1038.2,
+      "end_seconds": 1039.12,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "Good afternoon, Your Honor."
+    },
+    {
+      "stable_id": "asr-000124",
+      "start_seconds": 1039.76,
+      "end_seconds": 1044.9,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "We are happy to present our budget proposal for fiscal year 2027."
+    },
+    {
+      "stable_id": "asr-000125",
+      "start_seconds": 1044.9,
+      "end_seconds": 1057.9,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "In keeping and in faithful compliance of its mandate as a sole judge of all contests relating to the election returns and qualifications of the members of the Senate under Article 6, Section 17 of the 1987 Constitution,"
+    },
+    {
+      "stable_id": "asr-000126",
+      "start_seconds": 1059.24,
+      "end_seconds": 1062.8,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "the defining standard for the Senate Electoral Tribunal is readiness."
+    },
+    {
+      "stable_id": "asr-000127",
+      "start_seconds": 1062.8,
+      "end_seconds": 1063.4,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "to fulfill"
+    },
+    {
+      "stable_id": "asr-000128",
+      "start_seconds": 1063.56,
+      "end_seconds": 1063.8,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "its"
+    },
+    {
+      "stable_id": "asr-000129",
+      "start_seconds": 1063.8,
+      "end_seconds": 1065.76,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "mandate as an adjudicative body."
+    },
+    {
+      "stable_id": "asr-000130",
+      "start_seconds": 1065.76,
+      "end_seconds": 1083.06,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "In keeping with this, we are proud to note that in years past, particularly in the most recent year, the Tribunal has earned an unmodified opinion from the Commission on Audit, a testament to its faithfulness in its accountability in guarding the finances of the Republic."
+    },
+    {
+      "stable_id": "asr-000131",
+      "start_seconds": 1083.06,
+      "end_seconds": 1091.28,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "Your Honor, in keeping with our standard to maintain readiness to discharge our adjudicative function,"
+    },
+    {
+      "stable_id": "asr-000132",
+      "start_seconds": 1092.04,
+      "end_seconds": 1093.54,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "the Tribunal is proud."
+    },
+    {
+      "stable_id": "asr-000133",
+      "start_seconds": 1093.56,
+      "end_seconds": 1095.84,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "The Tribunal is proud of how, at present, for the first time."
+    },
+    {
+      "stable_id": "asr-000134",
+      "start_seconds": 1095.8600000000001,
+      "end_seconds": 1097.08,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Sorry to interrupt you."
+    },
+    {
+      "stable_id": "asr-000135",
+      "start_seconds": 1098.02,
+      "end_seconds": 1099.5,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "I'm quick here."
+    },
+    {
+      "stable_id": "asr-000136",
+      "start_seconds": 1099.7,
+      "end_seconds": 1100.68,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "We're direct to the budget."
+    },
+    {
+      "stable_id": "asr-000137",
+      "start_seconds": 1100.96,
+      "end_seconds": 1101.5,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "Yes, Your Honor."
+    },
+    {
+      "stable_id": "asr-000138",
+      "start_seconds": 1101.84,
+      "end_seconds": 1105.32,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "So that will save everyone's time."
+    },
+    {
+      "stable_id": "asr-000139",
+      "start_seconds": 1106.24,
+      "end_seconds": 1106.72,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "It's okay."
+    },
+    {
+      "stable_id": "asr-000140",
+      "start_seconds": 1106.8600000000001,
+      "end_seconds": 1108.56,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "We know all of these things already."
+    },
+    {
+      "stable_id": "asr-000141",
+      "start_seconds": 1109.78,
+      "end_seconds": 1122.12,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "So, our proposed budget, Your Honor, maintains fidelity with the budget that we have secured from the previous fiscal year."
+    },
+    {
+      "stable_id": "asr-000142",
+      "start_seconds": 1123.56,
+      "end_seconds": 1138.96,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "Particularly, the Tribunal was granted an increase in its personal services allocation, despite something that it has secured, despite no increase having been given to it over the course of an entire decade."
+    },
+    {
+      "stable_id": "asr-000143",
+      "start_seconds": 1139.58,
+      "end_seconds": 1149.1,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "Unfortunately, the current national expenditure program does not yet include the increase which was already reflected last year."
+    },
+    {
+      "stable_id": "asr-000144",
+      "start_seconds": 1149.1,
+      "end_seconds": 1153.1,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "And therefore, our humble request is that this item."
+    },
+    {
+      "stable_id": "asr-000145",
+      "start_seconds": 1153.56,
+      "end_seconds": 1168.46,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "which has been secured in the previous year be restored in order to secure the proper level of benefits and compensation for our employees."
+    },
+    {
+      "stable_id": "asr-000146",
+      "start_seconds": 1168.78,
+      "end_seconds": 1182.9,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "Likewise, Your Honor, in view of the very recent experiences of the Tribunal, where the safety and security of its personnel were severely compromised by the state of its building and its premises, we are seeking a budget to"
+    },
+    {
+      "stable_id": "asr-000147",
+      "start_seconds": 1182.92,
+      "end_seconds": 1183.42,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "to undertake"
+    },
+    {
+      "stable_id": "asr-000148",
+      "start_seconds": 1183.42,
+      "end_seconds": 1212.42,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "the most urgent repairs and improvements to be undertaken for our premises. Also in keeping with our desire to be future ready and to be capable of handling the adjudicative mandate of the tribunal, we are proposing a budget which will adequately cover our needs for information and communications technology"
+    },
+    {
+      "stable_id": "asr-000149",
+      "start_seconds": 1213.42,
+      "end_seconds": 1237.94,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "upgrading as well as for other necessary expenses relating to the upskilling of our employees, their welfare including HMO coverage and other initiatives relating to future readiness such as digitization and digitalization. With that, Your Honor, we are thankful for this opportunity. We humbly submit our budget proposal for fiscal year 2027. Thank you, Your Honor."
+    },
+    {
+      "stable_id": "asr-000150",
+      "start_seconds": 1237.94,
+      "end_seconds": 1240.94,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you, Secretary Luis Jose Geronimo."
+    },
+    {
+      "stable_id": "asr-000151",
+      "start_seconds": 1242.16,
+      "end_seconds": 1249.84,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "So, yung budget natin for next year also is lower than this year's budget, kung hindi mabibigay."
+    },
+    {
+      "stable_id": "asr-000151-split-2",
+      "start_seconds": 1249.84,
+      "end_seconds": 1250.56,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "Yes, Your Honor."
+    },
+    {
+      "stable_id": "asr-000151-split-3",
+      "start_seconds": 1250.56,
+      "end_seconds": 1269.96,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "If the requested increase is not granted, but basically talaga ano rin tayo, kumbaga we also practice austerity. Iba kasi lalaki ng mga increases eh. So, thank you sa SET natin, Sec. Luis Geronimo."
+    },
+    {
+      "stable_id": "asr-000152",
+      "start_seconds": 1270.46,
+      "end_seconds": 1281.92,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "And last but not least, for Commission on Appointments, Secretary Myra Marie Villarica. Ma'am, you are now recognized."
+    },
+    {
+      "stable_id": "asr-000153",
+      "start_seconds": 1281.92,
+      "end_seconds": 1288.68,
+      "speaker": "Commission on Appointments Secretary Myra Marie D. Villarica",
+      "text": "Good afternoon, Mr. Chairman, Your Honor. Thank you very much. I'll be very brief upon your instruction, Your Honor."
+    },
+    {
+      "stable_id": "asr-000154",
+      "start_seconds": 1288.8400000000001,
+      "end_seconds": 1302.88,
+      "speaker": "Commission on Appointments Secretary Myra Marie D. Villarica",
+      "text": "Your Commission on Appointments, in the performance of its constitutional mandate, initially requested and proposed a budget proposal, as submitted to the DBM, in the amount of 1.9, roughly approximately 1.9 billion."
+    },
+    {
+      "stable_id": "asr-000155",
+      "start_seconds": 1303.42,
+      "end_seconds": 1319.76,
+      "speaker": "Commission on Appointments Secretary Myra Marie D. Villarica",
+      "text": "However, the DBM only recommended in its NEP for 2027, 1.137 approximately billion with a variance of about 847,256,866,000"
+    },
+    {
+      "stable_id": "asr-000156",
+      "start_seconds": 1319.76,
+      "end_seconds": 1333.4,
+      "speaker": "Commission on Appointments Secretary Myra Marie D. Villarica",
+      "text": "In the GAA of 2026, which is our current budget, Your Honor, we received approximately 1.714 billion as compared to the NEP of 2027, which is again, as I pointed out"
+    },
+    {
+      "stable_id": "asr-000157",
+      "start_seconds": 1333.42,
+      "end_seconds": 1341.14,
+      "speaker": "Commission on Appointments Secretary Myra Marie D. Villarica",
+      "text": "earlier, only 1.137659 billion, with a variance of about 576 or so million."
+    },
+    {
+      "stable_id": "asr-000158",
+      "start_seconds": 1341.52,
+      "end_seconds": 1363.1399999999999,
+      "speaker": "Commission on Appointments Secretary Myra Marie D. Villarica",
+      "text": "Our proposed, Your Honor, budget and upon the instruction of our own Chairperson and Senate President, Win Gatchalian, and also with the reminder of the Chairman of the Finance Committee that there's very limited fiscal space, we've been instructed to trim and streamline our budget and to reduce our requested augmentation."
+    },
+    {
+      "stable_id": "asr-000159",
+      "start_seconds": 1363.42,
+      "end_seconds": 1379.42,
+      "speaker": "Commission on Appointments Secretary Myra Marie D. Villarica",
+      "text": "So for our proposed budget for the year 2027, we have reduced our request for augmentation to only a total of 1.733451548 billion pesos."
+    },
+    {
+      "stable_id": "asr-000160",
+      "start_seconds": 1380.1399999999999,
+      "end_seconds": 1389.46,
+      "speaker": "Commission on Appointments Secretary Myra Marie D. Villarica",
+      "text": "That's only, Your Honor, an increase of 1.1% from our present GAA of 2026 budget, Your Honor. That is all. Thank you very much."
+    },
+    {
+      "stable_id": "asr-000161",
+      "start_seconds": 1389.46,
+      "end_seconds": 1392.66,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "How much is that, Secretary?"
+    },
+    {
+      "stable_id": "asr-000162",
+      "start_seconds": 1393.42,
+      "end_seconds": 1397.48,
+      "speaker": "Commission on Appointments Secretary Myra Marie D. Villarica",
+      "text": "The request for augmentation. It's only now"
+    },
+    {
+      "stable_id": "asr-000162-split-2",
+      "start_seconds": 1397.48,
+      "end_seconds": 1398.72,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "595."
+    },
+    {
+      "stable_id": "asr-000162-split-3",
+      "start_seconds": 1398.72,
+      "end_seconds": 1402.56,
+      "speaker": "Commission on Appointments Secretary Myra Marie D. Villarica",
+      "text": "595, 792, 548,000, Your Honor."
+    },
+    {
+      "stable_id": "asr-000163",
+      "start_seconds": 1402.58,
+      "end_seconds": 1403.76,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Okay. Just for the record."
+    },
+    {
+      "stable_id": "asr-000165",
+      "start_seconds": 1404.42,
+      "end_seconds": 1414.2,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Sec. Luis Jose [unclear], for the record, yung sa SET nga, yung inyong pong for augmentation. [unclear] just for us so that we"
+    },
+    {
+      "stable_id": "asr-000166",
+      "start_seconds": 1414.2,
+      "end_seconds": 1419.78,
+      "speaker": "Senate Electoral Tribunal Secretary Luis Jose Geronimo",
+      "text": "Our request for augmentation, Your Honors, in the total of 93.506 million, Your Honor."
+    },
+    {
+      "stable_id": "asr-000167",
+      "start_seconds": 1420.28,
+      "end_seconds": 1423.24,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Okay. We'll take note of that. So thank you."
+    },
+    {
+      "stable_id": "asr-000168",
+      "start_seconds": 1423.42,
+      "end_seconds": 1453.4,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "I have some questions here, but I will just forward it to all of you, to the Senate, to the CA and to the SET. So please prepare for this just in case it will be asked in plenary. So pakihanda na lang din sa mga index cards so that it will help, it will help hasten the defense of your respective budget. [unclear] ko na lang po sa inyo"
+    },
+    {
+      "stable_id": "asr-000169",
+      "start_seconds": 1453.42,
+      "end_seconds": 1458.82,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Yung mga questions and issues that may arise during the plenary."
+    },
+    {
+      "stable_id": "asr-000170",
+      "start_seconds": 1459.6599999999999,
+      "end_seconds": 1467.88,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "So with that, the Committee Chair would like to thank everyone, especially our esteemed resource persons, for actively participating in our discussions today."
+    },
+    {
+      "stable_id": "asr-000171",
+      "start_seconds": 1468.6999999999998,
+      "end_seconds": 1480.3600000000001,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "There being no further questions, the budget of the Senate of the Philippines, the Senate Electoral Tribunal, and the Commission on Appointments are now deemed, submitted for plenary's consideration,"
+    },
+    {
+      "stable_id": "asr-000172",
+      "start_seconds": 1480.3600000000001,
+      "end_seconds": 1483.3600000000001,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "subject to the discussion and submission of the documents requested."
+    },
+    {
+      "stable_id": "asr-000173",
+      "start_seconds": 1483.42,
+      "end_seconds": 1485.6999999999998,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you very much."
+    },
+    {
+      "stable_id": "asr-000174",
+      "start_seconds": 1485.6999999999998,
+      "end_seconds": 1487.6999999999998,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "This briefing is hereby suspended."
+    }
+  ]
+}

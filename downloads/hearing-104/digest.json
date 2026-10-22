@@ -1,0 +1,438 @@
+{
+  "hearing": {
+    "hearing_id": 104,
+    "title": "Senate Committee on Finance: Senate, SET and CA - October 22, 2026",
+    "hearing_date": "2026-10-22",
+    "official_url": "https://www.youtube.com/watch?v=Y2NnYVKs_BM"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h104/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Three agency presentations",
+      "text": "The Senate, SET, and CA presented their FY2027 budget positions in sequence, with the chair moving each secretary to the floor.",
+      "citations": []
+    },
+    {
+      "label": "Requests and fiscal limits",
+      "text": "The discussion included Senate budget alternatives, SET's requested personnel restoration and facility and technology needs, and CA's reduced proposal amid limited fiscal space.",
+      "citations": []
+    },
+    {
+      "label": "Plenary preparation",
+      "text": "Ejercito asked the agencies to prepare answers and requested documents for questions that could arise in plenary. The three budgets were submitted for plenary consideration subject to discussion and submission of those documents.",
+      "citations": []
+    }
+  ],
+  "method_note": "Amounts are in Philippine pesos. The recorded CA variance and follow-up augmentation figures do not reconcile with the stated budget totals; their source turns are linked in the CA account.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget summary",
+      "items": [
+        {
+          "label": "Senate of the Philippines",
+          "text": "The FY2027 National Expenditure Program (NEP) provides ₱7.7 billion for the Senate. Bantug described budget alternatives from the NEP level down to ₱2 billion below it; he did not give a separate original submission total.",
+          "citations": [
+            {
+              "stable_id": "asr-000110",
+              "start_seconds": 913.56,
+              "clock": "00:15:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000110"
+            },
+            {
+              "stable_id": "asr-000113",
+              "start_seconds": 969.72,
+              "clock": "00:16:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000113"
+            },
+            {
+              "stable_id": "asr-000114",
+              "start_seconds": 973.56,
+              "clock": "00:16:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000114"
+            }
+          ]
+        },
+        {
+          "label": "Senate Electoral Tribunal",
+          "text": "SET requested ₱93.506 million in FY2027 augmentation; its overall NEP allocation and total agency request were not stated. In a later follow-up, Geronimo supplied the amount at Ejercito's request, and the chair said the committee would take note.",
+          "citations": [
+            {
+              "stable_id": "asr-000165",
+              "start_seconds": 1404.42,
+              "clock": "00:23:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000165"
+            },
+            {
+              "stable_id": "asr-000166",
+              "start_seconds": 1414.2,
+              "clock": "00:23:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000166"
+            },
+            {
+              "stable_id": "asr-000167",
+              "start_seconds": 1420.28,
+              "clock": "00:23:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000167"
+            }
+          ]
+        },
+        {
+          "label": "Commission on Appointments",
+          "text": "CA initially submitted an FY2027 request of approximately ₱1.9 billion to the Department of Budget and Management (DBM); the FY2027 NEP allocation was ₱1.137659 billion. After reducing its requested augmentation, CA put its revised FY2027 proposed budget at ₱1,733,451,548.",
+          "citations": [
+            {
+              "stable_id": "asr-000154",
+              "start_seconds": 1288.8400000000001,
+              "clock": "00:21:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000154"
+            },
+            {
+              "stable_id": "asr-000157",
+              "start_seconds": 1333.42,
+              "clock": "00:22:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000157"
+            },
+            {
+              "stable_id": "asr-000159",
+              "start_seconds": 1363.42,
+              "clock": "00:22:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000159"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-senate-of-the-philippines",
+      "label": "Senate of the Philippines",
+      "items": [
+        {
+          "label": "2027 proposed allocation and Senate budget permutations",
+          "text": "Compared with the 2026 NEP, the Senate's FY2027 allocation was ₱187.5 million (2.5%) higher, but ₱863 million (10.1%) below the 2026 General Appropriations Act (GAA).\n\nBantug submitted the budget options for committee consideration to sustain the Senate's mandate, public service, modernization, personnel requirements and operating needs.\n\nEjercito responded that the Senate was among the few agencies with a lower 2027 budget because of limited fiscal space, and said it was practicing austerity.",
+          "citations": [
+            {
+              "stable_id": "asr-000110",
+              "start_seconds": 913.56,
+              "clock": "00:15:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000110"
+            },
+            {
+              "stable_id": "asr-000112",
+              "start_seconds": 943.56,
+              "clock": "00:15:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000112"
+            },
+            {
+              "stable_id": "asr-000116",
+              "start_seconds": 985.28,
+              "clock": "00:16:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000116"
+            }
+          ]
+        },
+        {
+          "label": "Fiscal utilization and audit",
+          "text": "For 2025, the Senate reported a ₱10.1 billion allotment and ₱8.1 billion in obligations, an 80.22% obligation rate. As of October 14, 2026, it had obligated ₱6.5 billion of an ₱8.8 billion allotment, a 74.41% rate.\n\nBantug said the Commission on Audit issued an unmodified opinion on the fairness of the Senate's 2025 financial statements and made no audit suspensions, disallowances or charges for that fiscal year.",
+          "citations": [
+            {
+              "stable_id": "asr-000092",
+              "start_seconds": 864.96,
+              "clock": "00:14:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000092"
+            },
+            {
+              "stable_id": "asr-000093",
+              "start_seconds": 867.46,
+              "clock": "00:14:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000093"
+            },
+            {
+              "stable_id": "asr-000094",
+              "start_seconds": 869.04,
+              "clock": "00:14:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000094"
+            },
+            {
+              "stable_id": "asr-000095",
+              "start_seconds": 871.1,
+              "clock": "00:14:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000095"
+            },
+            {
+              "stable_id": "asr-000096",
+              "start_seconds": 873.2,
+              "clock": "00:14:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000096"
+            },
+            {
+              "stable_id": "asr-000097",
+              "start_seconds": 875.38,
+              "clock": "00:14:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000097"
+            },
+            {
+              "stable_id": "asr-000098",
+              "start_seconds": 877.28,
+              "clock": "00:14:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000098"
+            },
+            {
+              "stable_id": "asr-000099",
+              "start_seconds": 879.4,
+              "clock": "00:14:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000099"
+            },
+            {
+              "stable_id": "asr-000100",
+              "start_seconds": 881.52,
+              "clock": "00:14:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000100"
+            },
+            {
+              "stable_id": "asr-000101",
+              "start_seconds": 883.56,
+              "clock": "00:14:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000101"
+            },
+            {
+              "stable_id": "asr-000103",
+              "start_seconds": 886.6,
+              "clock": "00:14:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000103"
+            },
+            {
+              "stable_id": "asr-000104",
+              "start_seconds": 890.38,
+              "clock": "00:14:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000104"
+            },
+            {
+              "stable_id": "asr-000109",
+              "start_seconds": 900.0,
+              "clock": "00:15:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000109"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-senate-electoral-tribunal",
+      "label": "Senate Electoral Tribunal",
+      "items": [
+        {
+          "label": "FY2027 budget proposal and requested restoration",
+          "text": "The Senate Electoral Tribunal (SET) presented its fiscal year 2027 budget proposal. Secretary Geronimo said the Tribunal's proposed budget maintained fidelity with funding secured in the previous fiscal year. He said a prior increase in personal services had been secured after a decade without an increase, but that increase was not included in the current National Expenditure Program (NEP). SET asked that the previously secured item be restored to provide an appropriate level of employee benefits and compensation.\n\nGeronimo also requested funding for urgent repairs and improvements to SET's premises after recent conditions there had severely compromised personnel safety and security. He identified information and communications technology upgrades, employee upskilling and welfare including health maintenance organization (HMO) coverage, and digitization and digitalization as other needs in the fiscal year 2027 proposal.\n\nEjercito asked whether SET's next-year budget would also be lower if the requested increase were not granted. Geronimo answered, “Yes, Your Honor.” Ejercito then noted that the Senate practiced austerity and thanked SET.",
+          "citations": [
+            {
+              "stable_id": "asr-000141",
+              "start_seconds": 1109.78,
+              "clock": "00:18:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000141"
+            },
+            {
+              "stable_id": "asr-000146",
+              "start_seconds": 1168.78,
+              "clock": "00:19:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000146"
+            },
+            {
+              "stable_id": "asr-000149",
+              "start_seconds": 1213.42,
+              "clock": "00:20:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000149"
+            },
+            {
+              "stable_id": "asr-000151",
+              "start_seconds": 1242.16,
+              "clock": "00:20:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000151"
+            },
+            {
+              "stable_id": "asr-000151-split-2",
+              "start_seconds": 1249.84,
+              "clock": "00:20:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000151-split-2"
+            },
+            {
+              "stable_id": "asr-000151-split-3",
+              "start_seconds": 1250.56,
+              "clock": "00:20:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000151-split-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-commission-on-appointments",
+      "label": "Commission on Appointments",
+      "items": [
+        {
+          "label": "FY2027 Commission on Appointments request, NEP allocation and GAA comparison",
+          "text": "CA received approximately ₱1.714 billion under the FY2026 GAA; Villarica said the FY2027 NEP was about ₱576 million lower. The recorded initial-submission-to-NEP variance of \"847,256,866,000\" does not reconcile with the budget totals.\n\nVillarica said the revised FY2027 proposal was 1.1% above the FY2026 GAA, after instructions to trim and streamline the request because of limited fiscal space. She attributed those instructions to Senator Sherwin \"Win\" T. Gatchalian, identified as CA Chairperson and Senate President, and the Senate Finance Committee chair's reminder about fiscal limits.\n\nWhen Ejercito asked for the augmentation amount, he supplied \"595\" before Villarica continued. The follow-up amount is recorded as \"595,792,548,000\"; it likewise does not reconcile with the budget totals.",
+          "citations": [
+            {
+              "stable_id": "asr-000155",
+              "start_seconds": 1303.42,
+              "clock": "00:21:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000155"
+            },
+            {
+              "stable_id": "asr-000156",
+              "start_seconds": 1319.76,
+              "clock": "00:21:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000156"
+            },
+            {
+              "stable_id": "asr-000157",
+              "start_seconds": 1333.42,
+              "clock": "00:22:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000157"
+            },
+            {
+              "stable_id": "asr-000158",
+              "start_seconds": 1341.52,
+              "clock": "00:22:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000158"
+            },
+            {
+              "stable_id": "asr-000160",
+              "start_seconds": 1380.1399999999999,
+              "clock": "00:23:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000160"
+            },
+            {
+              "stable_id": "asr-000161",
+              "start_seconds": 1389.46,
+              "clock": "00:23:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000161"
+            },
+            {
+              "stable_id": "asr-000162-split-2",
+              "start_seconds": 1397.48,
+              "clock": "00:23:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000162-split-2"
+            },
+            {
+              "stable_id": "asr-000162-split-3",
+              "start_seconds": 1398.72,
+              "clock": "00:23:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000162-split-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-committee-disposition",
+      "label": "Committee disposition",
+      "items": [
+        {
+          "label": "Plenary preparation and committee disposition",
+          "text": "Ejercito said he would forward questions to the Senate, SET and CA, and asked their representatives to prepare answers and index cards in case the issues arose in plenary, to help expedite their respective budget defenses.\n\nWith no further questions, Ejercito declared the budgets of the Senate, SET and CA submitted for plenary consideration, subject to discussion and submission of the requested documents. He thanked the resource persons and suspended the briefing.",
+          "citations": [
+            {
+              "stable_id": "asr-000168",
+              "start_seconds": 1423.42,
+              "clock": "00:23:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000168"
+            },
+            {
+              "stable_id": "asr-000171",
+              "start_seconds": 1468.6999999999998,
+              "clock": "00:24:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000171"
+            },
+            {
+              "stable_id": "asr-000172",
+              "start_seconds": 1480.3600000000001,
+              "clock": "00:24:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000172"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-senate-presentation",
+      "label": "Senate presentation",
+      "items": [
+        {
+          "label": "Legislative activity and institutional support",
+          "text": "Bantug framed the proposed program as support for the Senate's constitutional work: legislating, serving the public and maintaining a fiscally responsible, accessible, transparent and responsive institution. He said the Senate held 68 session days in 2025, when 1,694 bills and 313 resolutions were filed; 197 bills became Republic Acts. He highlighted government optimization, judiciary fiscal autonomy, digital governance, telecommunications connectivity, teacher and school-leader career progression, and right-of-way acquisition reforms.\n\nFrom January through June 2026, the Senate recorded 33 session days, with 653 bills and 249 resolutions filed. As of October 15, 2026, 13 measures had become Republic Acts; another 16 had been transmitted for presidential approval, six were pending in conference committee, 38 had passed third reading and 19 were pending second reading. Bantug cited measures addressing fuel-price pressures, geographically isolated and disadvantaged area schools, tertiary education access, infrastructure, public protection and economic concerns.\n\nHe also described policy and administration orders for the Senate proper and Secretariat, digital transformation for legislation, public access, transparency, visitor services and internal systems, and improvements to employee and information services and organizational development. He said these functions relied on sustained institutional support.",
+          "citations": [
+            {
+              "stable_id": "asr-000063",
+              "start_seconds": 703.88,
+              "clock": "00:11:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000063"
+            },
+            {
+              "stable_id": "asr-000066",
+              "start_seconds": 727.76,
+              "clock": "00:12:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000066"
+            },
+            {
+              "stable_id": "asr-000069",
+              "start_seconds": 752.78,
+              "clock": "00:12:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000069"
+            },
+            {
+              "stable_id": "asr-000071",
+              "start_seconds": 765.3199999999999,
+              "clock": "00:12:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000071"
+            },
+            {
+              "stable_id": "asr-000081",
+              "start_seconds": 817.36,
+              "clock": "00:13:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000081"
+            },
+            {
+              "stable_id": "asr-000086",
+              "start_seconds": 843.96,
+              "clock": "00:14:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000086"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-senate-electoral-tribunal-presentation",
+      "label": "Senate Electoral Tribunal presentation",
+      "items": [
+        {
+          "label": "Mandate and audit record",
+          "text": "Geronimo described SET as the sole judge of contests relating to Senate election returns and members' qualifications under Article VI, Section 17 of the 1987 Constitution. He said readiness to discharge that adjudicative mandate was the Tribunal's defining standard and reported that it had received an unmodified Commission on Audit opinion in the most recent year. Ejercito redirected the presentation to the budget before Geronimo completed his broader remarks.",
+          "citations": [
+            {
+              "stable_id": "asr-000125",
+              "start_seconds": 1044.9,
+              "clock": "00:17:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000125"
+            },
+            {
+              "stable_id": "asr-000130",
+              "start_seconds": 1065.76,
+              "clock": "00:17:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000130"
+            },
+            {
+              "stable_id": "asr-000134",
+              "start_seconds": 1095.8600000000001,
+              "clock": "00:18:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/104/#asr-000134"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
