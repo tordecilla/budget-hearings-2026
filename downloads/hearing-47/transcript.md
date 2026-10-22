@@ -883,172 +883,172 @@ Tama po ba, sir?
 **[00:18:39.210] John Castillo** (asr-000293)  
 The president or the vice president of Philippine Association of Agriculture is incorporated, Al, Mr. Al Christian Hilario.
 
-**[00:18:49.970] Al Christian R. Hilario** (asr-000294)  
+**[00:18:49.970] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000294)  
 Marami salamat po, and good morning po sa lahat.
 
-**[00:18:53.250] Al Christian R. Hilario** (asr-000295)  
+**[00:18:53.250] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000295)  
 Kami po sa Philippine Association of Agriculture is ay nandito para po mag-observe.
 
-**[00:19:03.540] Al Christian R. Hilario** (asr-000296)  
+**[00:19:03.540] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000296)  
 Kami po sa Philippine Association of Agriculture is ay nandito po para tumulong na ma-prioritize po ang agricultural sector.
 
-**[00:19:10.160] Al Christian R. Hilario** (asr-000297)  
+**[00:19:10.160] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000297)  
 Sa 2027 budget.
 
-**[00:19:12.920] Al Christian R. Hilario** (asr-000298)  
+**[00:19:12.920] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000298)  
 Kasabay din po nito, kasabay po ng enactment o pagsasabatas ng Philippine Agriculturalist Act or the Republic Act 12215, yung pagpapalakas po ng mga agrikulturist na matagal ng napabayaan.
 
-**[00:19:26.280] Al Christian R. Hilario** (asr-000299)  
+**[00:19:26.280] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000299)  
 And isa po sa mga concern nito ay yung adjustment ng salaries na hindi na-implement.
 
-**[00:19:31.320] Al Christian R. Hilario** (asr-000300)  
+**[00:19:31.320] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000300)  
 Since one year na po na yung batas ay naipapasa, yung upgrading po from SG-11 ng mga nasa government, agrikulturist,
 
-**[00:19:38.780] Al Christian R. Hilario** (asr-000301)  
+**[00:19:38.780] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000301)  
 ay hindi pa na-i-adjust into SG-11.
 
-**[00:19:40.160] Al Christian R. Hilario** (asr-000303)  
+**[00:19:40.160] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000303)  
 At tinatanong namin yung mga agencies ay wala po silang definite response.
 
-**[00:19:45.260] Al Christian R. Hilario** (asr-000304)  
+**[00:19:45.260] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000304)  
 Sa private sector naman po, yung mga practicing agrikulturist natin, hindi na i-a-align.
 
-**[00:19:50.560] Al Christian R. Hilario** (asr-000305)  
+**[00:19:50.560] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000305)  
 Still lowest, mababa pa rin po, kumpado sa industrial rate, yung kanilang mga salaries.
 
-**[00:19:56.080] Al Christian R. Hilario** (asr-000306)  
+**[00:19:56.080] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000306)  
 So yun po yung isang tinitignan natin sa budget.
 
-**[00:19:58.400] Al Christian R. Hilario** (asr-000307)  
+**[00:19:58.400] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000307)  
 And kasabay din po nito, yung iba't-ibang mga agro-environmental investment programs ay atin po tinitignan.
 
-**[00:20:07.120] Al Christian R. Hilario** (asr-000308)  
+**[00:20:07.120] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000308)  
 And other projects na magpapalakas.
 
-**[00:20:08.840] Al Christian R. Hilario** (asr-000309)  
+**[00:20:08.840] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000309)  
 Sa ngayon po, sa dami.
 
-**[00:20:10.120] Al Christian R. Hilario** (asr-000310)  
+**[00:20:10.120] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000310)  
 Sa dami ng mga calamities at sa mga pinominan na na-i-encounter natin across the country.
 
-**[00:20:14.560] Al Christian R. Hilario** (asr-000311)  
+**[00:20:14.560] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000311)  
 Isa rin po sa tinitignan ng grupo ng agrikulturist ay ma-ensure po na yung food security plan ay naka-align po at well-funded.
 
-**[00:20:23.840] Al Christian R. Hilario** (asr-000312)  
+**[00:20:23.840] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000312)  
 Para po maiwasan yung ating, kung hindi po maiwasan, totally malimited or to zero yung ating malnutrition and gutom.
 
-**[00:20:32.420] Al Christian R. Hilario** (asr-000313)  
+**[00:20:32.420] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-000313)  
 Yun lang po at maraming salamat.
 
 **[00:20:33.740] John Castillo** (asr-000314)  
 Thank you very much, President or Sir.
 
-**[00:22:08.480] Tim Salomon** (asr-000315)  
+**[00:22:08.480] CODE-NGO Project Coordinator Timothy Salomon** (asr-000315)  
 I don't believe na ginawang individual.
 
-**[00:22:09.970] Tim Salomon** (asr-000316)  
+**[00:22:09.970] CODE-NGO Project Coordinator Timothy Salomon** (asr-000316)  
 Yun yung tatapusin niya.
 
-**[00:22:11.370] Tim Salomon** (asr-000317)  
+**[00:22:11.370] CODE-NGO Project Coordinator Timothy Salomon** (asr-000317)  
 [unclear] million hectares, they target 750,000 hectares next year.
 
-**[00:22:18.750] Tim Salomon** (asr-000318)  
+**[00:22:18.750] CODE-NGO Project Coordinator Timothy Salomon** (asr-000318)  
 Okay lang, well and good, kailangan ng taong bahay, kailangan ng magsasakang individual titles.
 
-**[00:22:23.390] Tim Salomon** (asr-000319)  
+**[00:22:23.390] CODE-NGO Project Coordinator Timothy Salomon** (asr-000319)  
 What we asked was, ano yung target doon sa land acquisition and distribution?
 
-**[00:22:29.250] Tim Salomon** (asr-000320)  
+**[00:22:29.250] CODE-NGO Project Coordinator Timothy Salomon** (asr-000320)  
 And they said 20,000 hectares only.
 
-**[00:22:33.490] Tim Salomon** (asr-000321)  
+**[00:22:33.490] CODE-NGO Project Coordinator Timothy Salomon** (asr-000321)  
 Tapos, ang sinasabi nila, on that issue, bakit hindi po tapusin yung land acquisition and distribution?
 
-**[00:22:39.970] Tim Salomon** (asr-000322)  
+**[00:22:39.970] CODE-NGO Project Coordinator Timothy Salomon** (asr-000322)  
 Just as a context, ang last notices of coverage issued were on 2014 pa, June 2014.
 
-**[00:22:49.370] Tim Salomon** (asr-000323)  
+**[00:22:49.370] CODE-NGO Project Coordinator Timothy Salomon** (asr-000323)  
 So, at least, lahat ng mga [unclear] agrarian reform have been waiting at least 12 years.
 
-**[00:22:55.410] Tim Salomon** (asr-000324)  
+**[00:22:55.410] CODE-NGO Project Coordinator Timothy Salomon** (asr-000324)  
 Kasi 2026 na, diba?
 
-**[00:22:57.430] Tim Salomon** (asr-000325)  
+**[00:22:57.430] CODE-NGO Project Coordinator Timothy Salomon** (asr-000325)  
 And that means to say, dapat 2015 tapos na yun kasi yun yung policy nandar, one year land distribution lang.
 
-**[00:23:06.730] Tim Salomon** (asr-000326)  
+**[00:23:06.730] CODE-NGO Project Coordinator Timothy Salomon** (asr-000326)  
 Tapos ngayon ang target nila 20,000 lang.
 
-**[00:23:09.970] Tim Salomon** (asr-000327)  
+**[00:23:09.970] CODE-NGO Project Coordinator Timothy Salomon** (asr-000327)  
 Yun po yung tinanong na hindi po satisfactorily sinagot ni Secretary Estrella, bakit 20,000 lang?
 
-**[00:23:16.110] Tim Salomon** (asr-000328)  
+**[00:23:16.110] CODE-NGO Project Coordinator Timothy Salomon** (asr-000328)  
 Kahit meron pang about 580,000 hectares na balance doon sa land acquisition and distribution.
 
-**[00:23:23.750] Tim Salomon** (asr-000329)  
+**[00:23:23.750] CODE-NGO Project Coordinator Timothy Salomon** (asr-000329)  
 Ang tanong namin, bakit di tanatapos?
 
-**[00:23:27.250] Tim Salomon** (asr-000330)  
+**[00:23:27.250] CODE-NGO Project Coordinator Timothy Salomon** (asr-000330)  
 Sino yung nakikinabang sa hindi pagtapos ang land distribution?
 
-**[00:23:30.170] Tim Salomon** (asr-000331)  
+**[00:23:30.170] CODE-NGO Project Coordinator Timothy Salomon** (asr-000331)  
 Kasi alam naman natin, yung mga huling natitira are yung mga landed elites.
 
-**[00:23:35.630] Tim Salomon** (asr-000332)  
+**[00:23:35.630] CODE-NGO Project Coordinator Timothy Salomon** (asr-000332)  
 And we want sa ANAD 2 to see the sincerity of Congress din.
 
-**[00:23:39.970] Tim Salomon** (asr-000333)  
+**[00:23:39.970] CODE-NGO Project Coordinator Timothy Salomon** (asr-000333)  
 Understand, many of the members of Congress are also subject to agrarian reform.
 
-**[00:23:45.210] Tim Salomon** (asr-000334)  
+**[00:23:45.210] CODE-NGO Project Coordinator Timothy Salomon** (asr-000334)  
 Kasi may mga land holdings po tayong nasa atin pa, hindi pa napapa sa ilalim.
 
-**[00:23:49.830] Tim Salomon** (asr-000335)  
+**[00:23:49.830] CODE-NGO Project Coordinator Timothy Salomon** (asr-000335)  
 So, nag-compute po kami ng numbers kung ano yung kailangan.
 
-**[00:23:52.450] Tim Salomon** (asr-000336)  
+**[00:23:52.450] CODE-NGO Project Coordinator Timothy Salomon** (asr-000336)  
 Ang hinihingi lang ng DAR ay 100 million.
 
-**[00:23:54.930] Tim Salomon** (asr-000337)  
+**[00:23:54.930] CODE-NGO Project Coordinator Timothy Salomon** (asr-000337)  
 That is only enough for 2,000 hectares purchase land acquisition.
 
-**[00:24:00.210] Tim Salomon** (asr-000338)  
+**[00:24:00.210] CODE-NGO Project Coordinator Timothy Salomon** (asr-000338)  
 Paano nila magagawa yung mandate nila kung hindi nila hinihingi yung pera?
 
-**[00:24:04.290] Tim Salomon** (asr-000339)  
+**[00:24:04.290] CODE-NGO Project Coordinator Timothy Salomon** (asr-000339)  
 Perhaps hot air lang yung sinabi ni Presidente sa SONA.
 
-**[00:24:08.430] Tim Salomon** (asr-000340)  
+**[00:24:08.430] CODE-NGO Project Coordinator Timothy Salomon** (asr-000340)  
 Natatapusin niya.
 
-**[00:24:09.210] Tim Salomon** (asr-000341)  
+**[00:24:09.210] CODE-NGO Project Coordinator Timothy Salomon** (asr-000341)  
 Second, meron po kasi kaming tinatanong din doon regarding dun sa pagtatanggal sa listahan ng lupa dun sa DAR.
 
-**[00:24:21.050] Tim Salomon** (asr-000342)  
+**[00:24:21.050] CODE-NGO Project Coordinator Timothy Salomon** (asr-000342)  
 Sinabi nila, they remove problematic land holdings.
 
-**[00:24:24.270] Tim Salomon** (asr-000343)  
+**[00:24:24.270] CODE-NGO Project Coordinator Timothy Salomon** (asr-000343)  
 So, we ask, isn't it illegal to remove land holdings?
 
-**[00:24:28.310] Tim Salomon** (asr-000344)  
+**[00:24:28.310] CODE-NGO Project Coordinator Timothy Salomon** (asr-000344)  
 Kasi one hectare removed from the list is one farmer left landless for another year at least.
 
-**[00:24:35.050] Tim Salomon** (asr-000345)  
+**[00:24:35.050] CODE-NGO Project Coordinator Timothy Salomon** (asr-000345)  
 Kasi hindi siya napunta dun sa budget.
 
-**[00:24:36.530] Tim Salomon** (asr-000346)  
+**[00:24:36.530] CODE-NGO Project Coordinator Timothy Salomon** (asr-000346)  
 So, we wanted to ask, legal ba yung pagpapakita?
 
-**[00:24:39.210] Tim Salomon** (asr-000347)  
+**[00:24:39.210] CODE-NGO Project Coordinator Timothy Salomon** (asr-000347)  
 Ano yung proseso nila?
 
-**[00:24:40.030] Tim Salomon** (asr-000348)  
+**[00:24:40.030] CODE-NGO Project Coordinator Timothy Salomon** (asr-000348)  
 At ano yung proseso nila?
 
-**[00:24:41.630] Tim Salomon** (asr-000349)  
+**[00:24:41.630] CODE-NGO Project Coordinator Timothy Salomon** (asr-000349)  
 Ano yung validation to get due process dun sa magsasaka natatanggal sa listahan?
 
-**[00:24:45.490] Tim Salomon** (asr-000350)  
+**[00:24:45.490] CODE-NGO Project Coordinator Timothy Salomon** (asr-000350)  
 Maraming salamat.
 
 **[00:24:46.050] John Castillo** (asr-000351)  
@@ -1549,358 +1549,358 @@ hearing from the
 **[00:32:52.530] John Castillo** (asr-000516)  
 Code NGO.
 
-**[00:33:02.140] Doris Ramirez** (asr-000517)  
+**[00:33:02.140] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000517)  
 Magandang umaga po
 
-**[00:33:03.580] Doris Ramirez** (asr-000518)  
+**[00:33:03.580] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000518)  
 sa lahat. We think that
 
-**[00:33:05.380] Doris Ramirez** (asr-000519)  
+**[00:33:05.380] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000519)  
 the House of Representatives and
 
-**[00:33:07.280] Doris Ramirez** (asr-000520)  
+**[00:33:07.280] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000520)  
 the CPBRD for providing
 
-**[00:33:09.640] Doris Ramirez** (asr-000521)  
+**[00:33:09.640] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000521)  
 the CSOs today
 
-**[00:33:11.180] Doris Ramirez** (asr-000522)  
+**[00:33:11.180] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000522)  
 with this platform.
 
-**[00:33:13.760] Doris Ramirez** (asr-000523)  
+**[00:33:13.760] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000523)  
 For a Code NGO, a budget
 
-**[00:33:15.360] Doris Ramirez** (asr-000524)  
+**[00:33:15.360] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000524)  
 can genuinely be called
 
-**[00:33:17.320] Doris Ramirez** (asr-000525)  
+**[00:33:17.320] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000525)  
 a people's budget only if it passes
 
-**[00:33:19.440] Doris Ramirez** (asr-000526)  
+**[00:33:19.440] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000526)  
 three tests. First,
 
-**[00:33:21.560] Doris Ramirez** (asr-000527)  
+**[00:33:21.560] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000527)  
 does it respond to people's actual
 
-**[00:33:23.600] Doris Ramirez** (asr-000528)  
+**[00:33:23.600] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000528)  
 needs? Second,
 
-**[00:33:25.340] Doris Ramirez** (asr-000529)  
+**[00:33:25.340] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000529)  
 can citizens trace where every peso
 
-**[00:33:27.540] Doris Ramirez** (asr-000530)  
+**[00:33:27.540] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000530)  
 goes and what it delivers?
 
-**[00:33:29.780] Doris Ramirez** (asr-000531)  
+**[00:33:29.780] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000531)  
 Third, can citizens
 
-**[00:33:31.360] Doris Ramirez** (asr-000532)  
+**[00:33:31.360] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000532)  
 meaningfully participate
 
-**[00:33:32.940] Doris Ramirez** (asr-000533)  
+**[00:33:32.940] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000533)  
 not only in consultation,
 
-**[00:33:35.380] Doris Ramirez** (asr-000534)  
+**[00:33:35.380] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000534)  
 but also in decision-making,
 
-**[00:33:37.620] Doris Ramirez** (asr-000535)  
+**[00:33:37.620] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000535)  
 implementation, monitoring,
 
-**[00:33:39.560] Doris Ramirez** (asr-000536)  
+**[00:33:39.560] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000536)  
 and audit? For today,
 
-**[00:33:41.560] Doris Ramirez** (asr-000537)  
+**[00:33:41.560] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000537)  
 due to limited time, we would like
 
-**[00:33:43.400] Doris Ramirez** (asr-000538)  
+**[00:33:43.400] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000538)  
 to focus on two major items
 
-**[00:33:45.800] Doris Ramirez** (asr-000539)  
+**[00:33:45.800] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000539)  
 in the proposed
 
-**[00:33:47.600] Doris Ramirez** (asr-000540)  
+**[00:33:47.600] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000540)  
 appropriations.
 
-**[00:33:50.300] Doris Ramirez** (asr-000541)  
+**[00:33:50.300] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000541)  
 We
 
-**[00:33:50.660] Doris Ramirez** (asr-000542)  
+**[00:33:50.660] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000542)  
 request the
 
-**[00:33:53.240] Doris Ramirez** (asr-000543)  
+**[00:33:53.240] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000543)  
 Congress to have a stronger
 
-**[00:33:55.120] Doris Ramirez** (asr-000544)  
+**[00:33:55.120] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000544)  
 safeguards needed for large
 
-**[00:33:57.420] Doris Ramirez** (asr-000545)  
+**[00:33:57.420] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000545)  
 discretionary and special
 
-**[00:33:59.240] Doris Ramirez** (asr-000546)  
+**[00:33:59.240] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000546)  
 purpose funds. The proposed
 
-**[00:34:01.500] Doris Ramirez** (asr-000547)  
+**[00:34:01.500] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000547)  
 local government support fund
 
-**[00:34:03.380] Doris Ramirez** (asr-000548)  
+**[00:34:03.380] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000548)  
 amounts to 53.53
 
-**[00:34:05.380] Doris Ramirez** (asr-000549)  
+**[00:34:05.380] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000549)  
 billion.
 
-**[00:34:06.980] Doris Ramirez** (asr-000550)  
+**[00:34:06.980] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000550)  
 The proposed
 
-**[00:34:08.420] Doris Ramirez** (asr-000551)  
+**[00:34:08.420] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000551)  
 of this, 37.49
 
-**[00:34:11.780] Doris Ramirez** (asr-000552)  
+**[00:34:11.780] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000552)  
 billion is for
 
-**[00:34:12.840] Doris Ramirez** (asr-000553)  
+**[00:34:12.840] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000553)  
 financial assistance to
 
-**[00:34:14.920] Doris Ramirez** (asr-000554)  
+**[00:34:14.920] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000554)  
 LGUs under allocation
 
-**[00:34:16.680] Doris Ramirez** (asr-000555)  
+**[00:34:16.680] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000555)  
 criteria that are still
 
-**[00:34:18.820] Doris Ramirez** (asr-000556)  
+**[00:34:18.820] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000556)  
 to be developed. Meanwhile,
 
-**[00:34:21.120] Doris Ramirez** (asr-000557)  
+**[00:34:21.120] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000557)  
 only 1 billion
 
-**[00:34:22.520] Doris Ramirez** (asr-000558)  
+**[00:34:22.520] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000558)  
 or about 1.7%
 
-**[00:34:25.260] Doris Ramirez** (asr-000559)  
+**[00:34:25.260] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000559)  
 of the entire
 
-**[00:34:26.660] Doris Ramirez** (asr-000560)  
+**[00:34:26.660] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000560)  
 LGSF is expressly
 
-**[00:34:28.920] Doris Ramirez** (asr-000561)  
+**[00:34:28.920] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000561)  
 subject to participatory
 
-**[00:34:30.740] Doris Ramirez** (asr-000562)  
+**[00:34:30.740] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000562)  
 budgeting requirements.
 
-**[00:34:33.000] Doris Ramirez** (asr-000563)  
+**[00:34:33.000] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000563)  
 We therefore respectfully
 
-**[00:34:34.660] Doris Ramirez** (asr-000564)  
+**[00:34:34.660] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000564)  
 propose that objective
 
-**[00:34:36.580] Doris Ramirez** (asr-000565)  
+**[00:34:36.580] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000565)  
 needs-based criteria,
 
-**[00:34:39.200] Doris Ramirez** (asr-000566)  
+**[00:34:39.200] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000566)  
 project-level disclosure,
 
-**[00:34:41.440] Doris Ramirez** (asr-000567)  
+**[00:34:41.440] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000567)  
 documented community
 
-**[00:34:43.260] Doris Ramirez** (asr-000568)  
+**[00:34:43.260] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000568)  
 consultation, and
 
-**[00:34:44.940] Doris Ramirez** (asr-000569)  
+**[00:34:44.940] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000569)  
 independent citizen monitoring
 
-**[00:34:46.980] Doris Ramirez** (asr-000570)  
+**[00:34:46.980] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000570)  
 apply across the entire
 
-**[00:34:49.360] Doris Ramirez** (asr-000571)  
+**[00:34:49.360] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000571)  
 LGSF and
 
-**[00:34:51.260] Doris Ramirez** (asr-000572)  
+**[00:34:51.260] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000572)  
 not the meager 1.7%.
 
-**[00:34:54.200] Doris Ramirez** (asr-000573)  
+**[00:34:54.200] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000573)  
 We
 
-**[00:34:55.400] Doris Ramirez** (asr-000574)  
+**[00:34:55.400] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000574)  
 also like to
 
-**[00:34:56.880] Doris Ramirez** (asr-000575)  
+**[00:34:56.880] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000575)  
 propose that a certain
 
-**[00:34:59.100] Doris Ramirez** (asr-000576)  
+**[00:34:59.100] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000576)  
 portion of the LGSF
 
-**[00:35:01.400] Doris Ramirez** (asr-000577)  
+**[00:35:01.400] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000577)  
 be used by the LGUs
 
-**[00:35:03.520] Doris Ramirez** (asr-000578)  
+**[00:35:03.520] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000578)  
 to capacitate
 
-**[00:35:04.660] Doris Ramirez** (asr-000579)  
+**[00:35:04.660] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000579)  
 the local CSOs.
 
-**[00:35:06.600] Doris Ramirez** (asr-000580)  
+**[00:35:06.600] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000580)  
 CSOs are given a lot
 
-**[00:35:08.780] Doris Ramirez** (asr-000581)  
+**[00:35:08.780] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000581)  
 of responsibilities
 
-**[00:35:09.900] Doris Ramirez** (asr-000582)  
+**[00:35:09.900] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000582)  
 doing third-party monitoring
 
-**[00:35:12.600] Doris Ramirez** (asr-000583)  
+**[00:35:12.600] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000583)  
 but we do not have the budget
 
-**[00:35:14.700] Doris Ramirez** (asr-000584)  
+**[00:35:14.700] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000584)  
 necessary to capacitate
 
-**[00:35:16.660] Doris Ramirez** (asr-000585)  
+**[00:35:16.660] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000585)  
 all the local
 
-**[00:35:18.120] Doris Ramirez** (asr-000586)  
+**[00:35:18.120] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000586)  
 CSOs that supposedly
 
-**[00:35:21.220] Doris Ramirez** (asr-000587)  
+**[00:35:21.220] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000587)  
 would have to monitor
 
-**[00:35:22.720] Doris Ramirez** (asr-000588)  
+**[00:35:22.720] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000588)  
 these discretionary funds.
 
-**[00:35:25.140] Doris Ramirez** (asr-000589)  
+**[00:35:25.140] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000589)  
 So we respectfully appeal
 
-**[00:35:26.720] Doris Ramirez** (asr-000590)  
+**[00:35:26.720] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000590)  
 to the House of Representatives
 
-**[00:35:28.840] Doris Ramirez** (asr-000591)  
+**[00:35:28.840] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000591)  
 to also fund
 
-**[00:35:31.320] Doris Ramirez** (asr-000592)  
+**[00:35:31.320] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000592)  
 so that
 
-**[00:35:32.760] Doris Ramirez** (asr-000593)  
+**[00:35:32.760] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000593)  
 the CSOs,
 
-**[00:35:34.660] Doris Ramirez** (asr-000594)  
+**[00:35:34.660] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000594)  
 will not be incompetent
 
-**[00:35:36.980] Doris Ramirez** (asr-000595)  
+**[00:35:36.980] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000595)  
 because they always say
 
-**[00:35:38.680] Doris Ramirez** (asr-000596)  
+**[00:35:38.680] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000596)  
 that they will not engage
 
-**[00:35:40.240] Doris Ramirez** (asr-000597)  
+**[00:35:40.240] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000597)  
 the local CSOs at the bottom
 
-**[00:35:42.680] Doris Ramirez** (asr-000598)  
+**[00:35:42.680] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000598)  
 because they do not understand
 
-**[00:35:45.020] Doris Ramirez** (asr-000599)  
+**[00:35:45.020] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000599)  
 the budget.
 
-**[00:35:46.420] Doris Ramirez** (asr-000600)  
+**[00:35:46.420] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000600)  
 But then what are we doing?
 
-**[00:35:49.260] Doris Ramirez** (asr-000601)  
+**[00:35:49.260] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000601)  
 It is not because
 
-**[00:35:50.820] Doris Ramirez** (asr-000602)  
+**[00:35:50.820] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000602)  
 we are a people's organization,
 
-**[00:35:53.200] Doris Ramirez** (asr-000603)  
+**[00:35:53.200] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000603)  
 CSOs.
 
-**[00:35:54.280] Doris Ramirez** (asr-000604)  
+**[00:35:54.280] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000604)  
 It does not mean that we are not
 
-**[00:35:56.760] Doris Ramirez** (asr-000605)  
+**[00:35:56.760] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000605)  
 entitled to the
 
-**[00:35:58.540] Doris Ramirez** (asr-000606)  
+**[00:35:58.540] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000606)  
 people's budget so that we
 
-**[00:36:00.500] Doris Ramirez** (asr-000607)  
+**[00:36:00.500] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000607)  
 will also be capacitated
 
-**[00:36:02.280] Doris Ramirez** (asr-000608)  
+**[00:36:02.280] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000608)  
 so that we can do our jobs well.
 
-**[00:36:04.660] Doris Ramirez** (asr-000609)  
+**[00:36:04.660] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000609)  
 Another point is
 
-**[00:36:07.300] Doris Ramirez** (asr-000610)  
+**[00:36:07.300] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000610)  
 the NTF-ELCAC
 
-**[00:36:08.900] Doris Ramirez** (asr-000611)  
+**[00:36:08.900] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000611)  
 Barangay Program.
 
-**[00:36:11.200] Doris Ramirez** (asr-000612)  
+**[00:36:11.200] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000612)  
 We note that in the proposed
 
-**[00:36:12.980] Doris Ramirez** (asr-000613)  
+**[00:36:12.980] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000613)  
 budget,
 
-**[00:36:14.060] Doris Ramirez** (asr-000614)  
+**[00:36:14.060] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000614)  
 9.74 billion
 
-**[00:36:16.520] Doris Ramirez** (asr-000615)  
+**[00:36:16.520] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000615)  
 support to Barangay Development
 
-**[00:36:18.680] Doris Ramirez** (asr-000616)  
+**[00:36:18.680] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000616)  
 Program likewise
 
-**[00:36:20.320] Doris Ramirez** (asr-000617)  
+**[00:36:20.320] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000617)  
 require independent review
 
-**[00:36:23.100] Doris Ramirez** (asr-000618)  
+**[00:36:23.100] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000618)  
 of the basis for selecting
 
-**[00:36:25.040] Doris Ramirez** (asr-000619)  
+**[00:36:25.040] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000619)  
 this 1,948
 
-**[00:36:27.380] Doris Ramirez** (asr-000620)  
+**[00:36:27.380] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000620)  
 barangays
 
-**[00:36:28.220] Doris Ramirez** (asr-000621)  
+**[00:36:28.220] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000621)  
 and a uniform allocation of
 
-**[00:36:30.560] Doris Ramirez** (asr-000622)  
+**[00:36:30.560] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000622)  
 5 million per barangay.
 
-**[00:36:32.680] Doris Ramirez** (asr-000623)  
+**[00:36:32.680] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000623)  
 We
 
 **[00:36:33.610] John Castillo** (asr-000623-split-2)  
 kindly wrap up lang po, sorry.
 
-**[00:36:35.970] Doris Ramirez** (asr-000624)  
+**[00:36:35.970] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000624)  
 We respectfully request
 
-**[00:36:37.280] Doris Ramirez** (asr-000625)  
+**[00:36:37.280] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000625)  
 to require publication
 
-**[00:36:38.560] Doris Ramirez** (asr-000626)  
+**[00:36:38.560] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000626)  
 of prior utilization
 
-**[00:36:40.280] Doris Ramirez** (asr-000627)  
+**[00:36:40.280] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000627)  
 of the outcomes used by the
 
-**[00:36:42.600] Doris Ramirez** (asr-000628)  
+**[00:36:42.600] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000628)  
 NTF-ELCAC Barangay Program
 
-**[00:36:44.860] Doris Ramirez** (asr-000629)  
+**[00:36:44.860] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000629)  
 independent evaluation
 
-**[00:36:46.560] Doris Ramirez** (asr-000630)  
+**[00:36:46.560] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000630)  
 and safeguards against
 
-**[00:36:48.580] Doris Ramirez** (asr-000631)  
+**[00:36:48.580] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000631)  
 political influence, red tagging
 
-**[00:36:51.120] Doris Ramirez** (asr-000632)  
+**[00:36:51.120] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000632)  
 or exclusion.
 
-**[00:36:52.740] Doris Ramirez** (asr-000633)  
+**[00:36:52.740] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-000633)  
 Maraming salamat po.
 
 **[00:36:54.220] John Castillo** (asr-000634)  
@@ -1921,382 +1921,382 @@ Coalition.
 **[00:37:03.460] John Castillo** (asr-000639)  
 A.J. Montesa, sir.
 
-**[00:37:14.040] Adolfo Jose Montesa** (asr-000640)  
+**[00:37:14.040] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000640)  
 Yes. Hello. Magandang umaga po.
 
-**[00:37:16.280] Adolfo Jose Montesa** (asr-000641)  
+**[00:37:16.280] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000641)  
 I'm A.J. Montesa from the People's Budget Coalition.
 
-**[00:37:19.040] Adolfo Jose Montesa** (asr-000642)  
+**[00:37:19.040] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000642)  
 First of all, I would like to
 
-**[00:37:20.720] Adolfo Jose Montesa** (asr-000643)  
+**[00:37:20.720] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000643)  
 thank po the panel,
 
-**[00:37:23.380] Adolfo Jose Montesa** (asr-000644)  
+**[00:37:23.380] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000644)  
 Representative Abet Garcia
 
-**[00:37:24.920] Adolfo Jose Montesa** (asr-000645)  
+**[00:37:24.920] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000645)  
 and everyone on this panel. We're very
 
-**[00:37:26.460] Adolfo Jose Montesa** (asr-000646)  
+**[00:37:26.460] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000646)  
 grateful that you took the time to be here.
 
-**[00:37:28.900] Adolfo Jose Montesa** (asr-000647)  
+**[00:37:28.900] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000647)  
 We understand that budget hearings are
 
-**[00:37:30.700] Adolfo Jose Montesa** (asr-000648)  
+**[00:37:30.700] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000648)  
 already ongoing so despite your
 
-**[00:37:32.720] Adolfo Jose Montesa** (asr-000649)  
+**[00:37:32.720] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000649)  
 busy schedules, you took the time to listen to us po.
 
-**[00:37:35.640] Adolfo Jose Montesa** (asr-000650)  
+**[00:37:35.640] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000650)  
 We are very appreciative
 
-**[00:37:37.160] Adolfo Jose Montesa** (asr-000651)  
+**[00:37:37.160] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000651)  
 to the CPBRD, the Task Force
 
-**[00:37:39.320] Adolfo Jose Montesa** (asr-000652)  
+**[00:37:39.320] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000652)  
 on People's Participation for
 
-**[00:37:40.680] Adolfo Jose Montesa** (asr-000653)  
+**[00:37:40.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000653)  
 really hearing our voices.
 
-**[00:37:42.680] Adolfo Jose Montesa** (asr-000654)  
+**[00:37:42.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000654)  
 So we'd like to just flag to
 
-**[00:37:44.680] Adolfo Jose Montesa** (asr-000655)  
+**[00:37:44.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000655)  
 maybe two or three big issues.
 
-**[00:37:46.680] Adolfo Jose Montesa** (asr-000656)  
+**[00:37:46.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000656)  
 Number one, we do understand
 
-**[00:37:48.680] Adolfo Jose Montesa** (asr-000657)  
+**[00:37:48.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000657)  
 that, this was already mentioned,
 
-**[00:37:50.680] Adolfo Jose Montesa** (asr-000658)  
+**[00:37:50.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000658)  
 the fiscal space of the budget is
 
-**[00:37:52.680] Adolfo Jose Montesa** (asr-000659)  
+**[00:37:52.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000659)  
 shrinking. We know that
 
-**[00:37:54.680] Adolfo Jose Montesa** (asr-000660)  
+**[00:37:54.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000660)  
 even before Congress gets to deliberate,
 
-**[00:37:56.680] Adolfo Jose Montesa** (asr-000661)  
+**[00:37:56.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000661)  
 there are many automatic appropriations
 
-**[00:37:58.680] Adolfo Jose Montesa** (asr-000662)  
+**[00:37:58.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000662)  
 that already cut into the budget.
 
-**[00:38:00.680] Adolfo Jose Montesa** (asr-000663)  
+**[00:38:00.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000663)  
 So 7.2 trillion, not all of
 
-**[00:38:02.680] Adolfo Jose Montesa** (asr-000664)  
+**[00:38:02.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000664)  
 that is available for Congress
 
-**[00:38:04.680] Adolfo Jose Montesa** (asr-000665)  
+**[00:38:04.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000665)  
 to legislate, right?
 
-**[00:38:06.680] Adolfo Jose Montesa** (asr-000666)  
+**[00:38:06.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000666)  
 For every 100 pesos
 
-**[00:38:08.680] Adolfo Jose Montesa** (asr-000667)  
+**[00:38:08.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000667)  
 in the budget, 36 pesos lang po talaga po.
 
-**[00:38:10.680] Adolfo Jose Montesa** (asr-000668)  
+**[00:38:10.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000668)  
 Yung kayang i-legislate ng Congress.
 
-**[00:38:12.680] Adolfo Jose Montesa** (asr-000669)  
+**[00:38:12.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000669)  
 So we understand that you are quite constrained
 
-**[00:38:14.680] Adolfo Jose Montesa** (asr-000670)  
+**[00:38:14.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000670)  
 with that. So we hope that
 
-**[00:38:16.680] Adolfo Jose Montesa** (asr-000671)  
+**[00:38:16.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000671)  
 we can consider things that will
 
-**[00:38:18.680] Adolfo Jose Montesa** (asr-000672)  
+**[00:38:18.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000672)  
 address that shrinking fiscal space,
 
-**[00:38:20.680] Adolfo Jose Montesa** (asr-000673)  
+**[00:38:20.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000673)  
 the national tax allotment, the debt interest
 
-**[00:38:22.680] Adolfo Jose Montesa** (asr-000674)  
+**[00:38:22.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000674)  
 payments, the automatic appropriations
 
-**[00:38:24.680] Adolfo Jose Montesa** (asr-000675)  
+**[00:38:24.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000675)  
 to military and uniform personnel. Lahat po
 
-**[00:38:26.680] Adolfo Jose Montesa** (asr-000676)  
+**[00:38:26.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000676)  
 ng iyon are macro-fiscal
 
-**[00:38:28.680] Adolfo Jose Montesa** (asr-000677)  
+**[00:38:28.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000677)  
 things that perhaps Congress can address
 
-**[00:38:30.680] Adolfo Jose Montesa** (asr-000678)  
+**[00:38:30.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000678)  
 later on.
 
-**[00:38:32.680] Adolfo Jose Montesa** (asr-000679)  
+**[00:38:32.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000679)  
 And so that leads us to the bigger point
 
-**[00:38:34.680] Adolfo Jose Montesa** (asr-000680)  
+**[00:38:34.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000680)  
 that for us to have a people-centered
 
-**[00:38:36.680] Adolfo Jose Montesa** (asr-000681)  
+**[00:38:36.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000681)  
 budget, we do hope that we can address
 
-**[00:38:38.680] Adolfo Jose Montesa** (asr-000682)  
+**[00:38:38.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000682)  
 the issues that the people are facing.
 
-**[00:38:40.680] Adolfo Jose Montesa** (asr-000683)  
+**[00:38:40.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000683)  
 I think the 2026 budget
 
-**[00:38:42.680] Adolfo Jose Montesa** (asr-000684)  
+**[00:38:42.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000684)  
 was passed before the
 
-**[00:38:44.680] Adolfo Jose Montesa** (asr-000685)  
+**[00:38:44.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000685)  
 fuel crisis came about.
 
-**[00:38:46.680] Adolfo Jose Montesa** (asr-000686)  
+**[00:38:46.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000686)  
 And so it was not necessarily responsive
 
-**[00:38:48.680] Adolfo Jose Montesa** (asr-000687)  
+**[00:38:48.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000687)  
 to that crisis. So we're facing
 
-**[00:38:50.680] Adolfo Jose Montesa** (asr-000688)  
+**[00:38:50.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000688)  
 affordability crisis in food.
 
-**[00:38:52.680] Adolfo Jose Montesa** (asr-000689)  
+**[00:38:52.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000689)  
 Inflation for food is almost
 
-**[00:38:54.680] Adolfo Jose Montesa** (asr-000690)  
+**[00:38:54.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000690)  
 20% po. Inflation
 
-**[00:38:56.680] Adolfo Jose Montesa** (asr-000691)  
+**[00:38:56.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000691)  
 for fuel, inflation
 
-**[00:38:58.680] Adolfo Jose Montesa** (asr-000692)  
+**[00:38:58.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000692)  
 for electricity, lahat po ng
 
-**[00:39:00.680] Adolfo Jose Montesa** (asr-000693)  
+**[00:39:00.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000693)  
 pagtataas po ng presyo are
 
-**[00:39:02.680] Adolfo Jose Montesa** (asr-000694)  
+**[00:39:02.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000694)  
 things that our people are
 
-**[00:39:04.680] Adolfo Jose Montesa** (asr-000695)  
+**[00:39:04.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000695)  
 facing po. And so we hope that there
 
-**[00:39:06.680] Adolfo Jose Montesa** (asr-000696)  
+**[00:39:06.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000696)  
 can be a focus on specific line items.
 
-**[00:39:08.680] Adolfo Jose Montesa** (asr-000697)  
+**[00:39:08.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000697)  
 Programs, activities, and
 
-**[00:39:10.680] Adolfo Jose Montesa** (asr-000698)  
+**[00:39:10.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000698)  
 projects that will address really the
 
-**[00:39:12.680] Adolfo Jose Montesa** (asr-000699)  
+**[00:39:12.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000699)  
 day-to-day basic needs of the people
 
-**[00:39:14.680] Adolfo Jose Montesa** (asr-000700)  
+**[00:39:14.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000700)  
 despite the limited fiscal space.
 
-**[00:39:16.680] Adolfo Jose Montesa** (asr-000701)  
+**[00:39:16.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000701)  
 And so we would
 
-**[00:39:18.680] Adolfo Jose Montesa** (asr-000702)  
+**[00:39:18.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000702)  
 also like to flag that despite the
 
-**[00:39:20.680] Adolfo Jose Montesa** (asr-000703)  
+**[00:39:20.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000703)  
 6% increase in the budget, we are
 
-**[00:39:22.680] Adolfo Jose Montesa** (asr-000704)  
+**[00:39:22.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000704)  
 noticing that there are, it's
 
-**[00:39:24.680] Adolfo Jose Montesa** (asr-000705)  
+**[00:39:24.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000705)  
 not an even increase. There are budget
 
-**[00:39:26.680] Adolfo Jose Montesa** (asr-000706)  
+**[00:39:26.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000706)  
 decreases for DepEd, for CHED,
 
-**[00:39:28.680] Adolfo Jose Montesa** (asr-000707)  
+**[00:39:28.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000707)  
 for TESDA, for DOH, for
 
-**[00:39:30.680] Adolfo Jose Montesa** (asr-000708)  
+**[00:39:30.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000708)  
 PhilHealth, for DA. So all of these
 
-**[00:39:32.680] Adolfo Jose Montesa** (asr-000709)  
+**[00:39:32.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000709)  
 core agencies, nabawasan po yung budget
 
-**[00:39:34.680] Adolfo Jose Montesa** (asr-000710)  
+**[00:39:34.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000710)  
 because of the lack of fiscal space. So we hope that's
 
-**[00:39:36.680] Adolfo Jose Montesa** (asr-000711)  
+**[00:39:36.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000711)  
 something that Congress,
 
-**[00:39:38.680] Adolfo Jose Montesa** (asr-000712)  
+**[00:39:38.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000712)  
 through the power of the purse, can correct yung
 
-**[00:39:40.680] Adolfo Jose Montesa** (asr-000713)  
+**[00:39:40.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000713)  
 proposal po ng National Expenditure Program.
 
-**[00:39:42.680] Adolfo Jose Montesa** (asr-000714)  
+**[00:39:42.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000714)  
 I think the last
 
-**[00:39:44.680] Adolfo Jose Montesa** (asr-000715)  
+**[00:39:44.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000715)  
 item that we would like to flag are some
 
-**[00:39:46.680] Adolfo Jose Montesa** (asr-000716)  
+**[00:39:46.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000716)  
 of the red flags that we have been tagging.
 
-**[00:39:48.680] Adolfo Jose Montesa** (asr-000717)  
+**[00:39:48.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000717)  
 We've been very vigilant in monitoring
 
-**[00:39:50.680] Adolfo Jose Montesa** (asr-000718)  
+**[00:39:50.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000718)  
 the budget. We recognize
 
-**[00:39:52.680] Adolfo Jose Montesa** (asr-000719)  
+**[00:39:52.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000719)  
 that a lot of the line items are crucial.
 
-**[00:39:54.680] Adolfo Jose Montesa** (asr-000720)  
+**[00:39:54.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000720)  
 For example, infrastructure is very important.
 
-**[00:39:56.680] Adolfo Jose Montesa** (asr-000721)  
+**[00:39:56.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000721)  
 Flood control is very important.
 
-**[00:39:58.680] Adolfo Jose Montesa** (asr-000722)  
+**[00:39:58.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000722)  
 Pagpapagawa ng mga daan,
 
-**[00:40:00.680] Adolfo Jose Montesa** (asr-000723)  
+**[00:40:00.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000723)  
 mga bridges and all of that are important.
 
-**[00:40:02.680] Adolfo Jose Montesa** (asr-000724)  
+**[00:40:02.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000724)  
 What we did notice though is
 
-**[00:40:04.680] Adolfo Jose Montesa** (asr-000725)  
+**[00:40:04.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000725)  
 there has been a tendency in previous years to
 
-**[00:40:06.680] Adolfo Jose Montesa** (asr-000726)  
+**[00:40:06.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000726)  
 politicize these line items.
 
-**[00:40:08.680] Adolfo Jose Montesa** (asr-000727)  
+**[00:40:08.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000727)  
 So we do hope Congress can
 
-**[00:40:10.680] Adolfo Jose Montesa** (asr-000728)  
+**[00:40:10.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000728)  
 enact some safeguard measures.
 
-**[00:40:12.680] Adolfo Jose Montesa** (asr-000729)  
+**[00:40:12.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000729)  
 Make sure that any
 
-**[00:40:14.680] Adolfo Jose Montesa** (asr-000730)  
+**[00:40:14.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000730)  
 amendments or any proposals to add
 
-**[00:40:16.680] Adolfo Jose Montesa** (asr-000731)  
+**[00:40:16.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000731)  
 infrastructure projects will be supported by
 
-**[00:40:18.680] Adolfo Jose Montesa** (asr-000732)  
+**[00:40:18.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000732)  
 master plans, by programs
 
-**[00:40:20.680] Adolfo Jose Montesa** (asr-000733)  
+**[00:40:20.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000733)  
 of works that will be transparent
 
-**[00:40:22.680] Adolfo Jose Montesa** (asr-000734)  
+**[00:40:22.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000734)  
 and accessible to the public. So that
 
-**[00:40:24.680] Adolfo Jose Montesa** (asr-000735)  
+**[00:40:24.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000735)  
 the people can see that the trust is
 
-**[00:40:26.680] Adolfo Jose Montesa** (asr-000736)  
+**[00:40:26.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000736)  
 restored, that the budget is not based on politics
 
-**[00:40:28.680] Adolfo Jose Montesa** (asr-000737)  
+**[00:40:28.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000737)  
 but on development plans. The second
 
-**[00:40:30.680] Adolfo Jose Montesa** (asr-000738)  
+**[00:40:30.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000738)  
 is yung mga ayuda programs.
 
-**[00:40:32.680] Adolfo Jose Montesa** (asr-000739)  
+**[00:40:32.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000739)  
 People are starting to become more critical of
 
-**[00:40:34.680] Adolfo Jose Montesa** (asr-000740)  
+**[00:40:34.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000740)  
 this. We hope that, for example,
 
-**[00:40:36.680] Adolfo Jose Montesa** (asr-000741)  
+**[00:40:36.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000741)  
 MAIFIP, AICS, TUPAD,
 
-**[00:40:38.680] Adolfo Jose Montesa** (asr-000742)  
+**[00:40:38.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000742)  
 these are not things that will drive
 
-**[00:40:40.680] Adolfo Jose Montesa** (asr-000743)  
+**[00:40:40.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000743)  
 patronage politics.
 
 **[00:40:42.680] John Castillo** (asr-000744)  
 Kindly wrap up.
 
-**[00:40:44.680] Adolfo Jose Montesa** (asr-000745)  
+**[00:40:44.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000745)  
 We hope that we can focus on more rules-based,
 
-**[00:40:46.680] Adolfo Jose Montesa** (asr-000746)  
+**[00:40:46.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000746)  
 rights-based social
 
-**[00:40:48.680] Adolfo Jose Montesa** (asr-000747)  
+**[00:40:48.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000747)  
 protection where the citizens can feel
 
-**[00:40:50.680] Adolfo Jose Montesa** (asr-000748)  
+**[00:40:50.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000748)  
 that we are really accessing our rights rather
 
-**[00:40:52.680] Adolfo Jose Montesa** (asr-000749)  
+**[00:40:52.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000749)  
 than having to beg from politicians.
 
-**[00:40:54.680] Adolfo Jose Montesa** (asr-000750)  
+**[00:40:54.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000750)  
 And then the third is yung local
 
-**[00:40:56.680] Adolfo Jose Montesa** (asr-000751)  
+**[00:40:56.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000751)  
 government support fund.
 
-**[00:40:58.680] Adolfo Jose Montesa** (asr-000752)  
+**[00:40:58.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000752)  
 I think the main criticism has been
 
-**[00:41:00.680] Adolfo Jose Montesa** (asr-000753)  
+**[00:41:00.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000753)  
 there's really a lack of transparency on the
 
-**[00:41:02.680] Adolfo Jose Montesa** (asr-000754)  
+**[00:41:02.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000754)  
 local government support fund. The fear that
 
-**[00:41:04.680] Adolfo Jose Montesa** (asr-000755)  
+**[00:41:04.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000755)  
 most of us are flagging is that this might be
 
-**[00:41:06.680] Adolfo Jose Montesa** (asr-000756)  
+**[00:41:06.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000756)  
 an advanced election budget already.
 
-**[00:41:08.680] Adolfo Jose Montesa** (asr-000757)  
+**[00:41:08.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000757)  
 So we do hope, I think just to close po,
 
-**[00:41:10.680] Adolfo Jose Montesa** (asr-000758)  
+**[00:41:10.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000758)  
 that with all the corruption
 
-**[00:41:12.680] Adolfo Jose Montesa** (asr-000759)  
+**[00:41:12.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000759)  
 scandals that have plagued our budget,
 
-**[00:41:14.680] Adolfo Jose Montesa** (asr-000760)  
+**[00:41:14.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000760)  
 we do hope that this is not a business as usual
 
-**[00:41:16.680] Adolfo Jose Montesa** (asr-000761)  
+**[00:41:16.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000761)  
 budget, but that Congress can correct
 
-**[00:41:18.680] Adolfo Jose Montesa** (asr-000762)  
+**[00:41:18.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000762)  
 a lot of the mistakes that were made in the past
 
-**[00:41:20.680] Adolfo Jose Montesa** (asr-000763)  
+**[00:41:20.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000763)  
 and that we will really try to restore the trust
 
-**[00:41:22.680] Adolfo Jose Montesa** (asr-000764)  
+**[00:41:22.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000764)  
 of the people in our institutions.
 
-**[00:41:23.960] Adolfo Jose Montesa** (asr-000765)  
+**[00:41:23.960] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-000765)  
 Yun lamang po. Maraming salamat.
 
 **[00:41:25.620] John Castillo** (asr-000766)  
@@ -2335,277 +2335,277 @@ Ms. Eunice Tanilon.
 **[00:41:48.680] John Castillo** (asr-000777)  
 Thank you.
 
-**[00:41:52.090] Eunice Tanilon** (asr-000778)  
+**[00:41:52.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000778)  
 Hello. Good morning.
 
-**[00:41:54.090] Eunice Tanilon** (asr-000779)  
+**[00:41:54.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000779)  
 Abbot Garcia and of course the panel.
 
-**[00:41:56.090] Eunice Tanilon** (asr-000780)  
+**[00:41:56.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000780)  
 Thank you so much. This is our second
 
-**[00:41:58.090] Eunice Tanilon** (asr-000781)  
+**[00:41:58.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000781)  
 time around and we're glad that this is
 
-**[00:42:00.090] Eunice Tanilon** (asr-000782)  
+**[00:42:00.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000782)  
 happening again and we have space to have
 
-**[00:42:02.090] Eunice Tanilon** (asr-000783)  
+**[00:42:02.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000783)  
 a dialogue on the budget.
 
-**[00:42:04.090] Eunice Tanilon** (asr-000784)  
+**[00:42:04.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000784)  
 So once again, I'm Eunice Tanilon.
 
-**[00:42:06.090] Eunice Tanilon** (asr-000785)  
+**[00:42:06.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000785)  
 I'm the governance and sustainability lead
 
-**[00:42:08.090] Eunice Tanilon** (asr-000786)  
+**[00:42:08.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000786)  
 of Makati Business Club. Just for the
 
-**[00:42:10.090] Eunice Tanilon** (asr-000787)  
+**[00:42:10.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000787)  
 reference of the room, MBC is
 
-**[00:42:12.090] Eunice Tanilon** (asr-000788)  
+**[00:42:12.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000788)  
 an industry association of 400
 
-**[00:42:14.090] Eunice Tanilon** (asr-000789)  
+**[00:42:14.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000789)  
 of the largest companies in the
 
-**[00:42:16.090] Eunice Tanilon** (asr-000790)  
+**[00:42:16.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000790)  
 country. Our membership base is mostly
 
-**[00:42:18.090] Eunice Tanilon** (asr-000791)  
+**[00:42:18.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000791)  
 CEOs.
 
-**[00:42:20.090] Eunice Tanilon** (asr-000792)  
+**[00:42:20.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000792)  
 I'm here on behalf of our executive director,
 
-**[00:42:22.090] Eunice Tanilon** (asr-000793)  
+**[00:42:22.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000793)  
 Julia Abad, and of course our trustees.
 
-**[00:42:24.090] Eunice Tanilon** (asr-000794)  
+**[00:42:24.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000794)  
 To clarify,
 
-**[00:42:26.090] Eunice Tanilon** (asr-000795)  
+**[00:42:26.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000795)  
 business's voice here in the budget,
 
-**[00:42:28.090] Eunice Tanilon** (asr-000796)  
+**[00:42:28.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000796)  
 we're not asking for a bigger
 
-**[00:42:30.090] Eunice Tanilon** (asr-000797)  
+**[00:42:30.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000797)  
 share of anything. Business
 
-**[00:42:32.090] Eunice Tanilon** (asr-000798)  
+**[00:42:32.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000798)  
 is a user of what the budget buys.
 
-**[00:42:34.090] Eunice Tanilon** (asr-000799)  
+**[00:42:34.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000799)  
 Power, roads, ports,
 
-**[00:42:36.090] Eunice Tanilon** (asr-000800)  
+**[00:42:36.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000800)  
 skills, and a
 
-**[00:42:38.090] Eunice Tanilon** (asr-000801)  
+**[00:42:38.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000801)  
 working regulatory front desk.
 
-**[00:42:40.090] Eunice Tanilon** (asr-000802)  
+**[00:42:40.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000802)  
 We believe that governance is an
 
-**[00:42:42.090] Eunice Tanilon** (asr-000803)  
+**[00:42:42.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000803)  
 economic issue for us.
 
-**[00:42:44.090] Eunice Tanilon** (asr-000804)  
+**[00:42:44.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000804)  
 I think for some comments on
 
-**[00:42:46.090] Eunice Tanilon** (asr-000805)  
+**[00:42:46.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000805)  
 the economy, so
 
-**[00:42:48.090] Eunice Tanilon** (asr-000806)  
+**[00:42:48.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000806)  
 2.6%
 
-**[00:42:50.090] Eunice Tanilon** (asr-000807)  
+**[00:42:50.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000807)  
 in the first half, the weakest outside
 
-**[00:42:52.090] Eunice Tanilon** (asr-000808)  
+**[00:42:52.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000808)  
 the pandemic since 2009.
 
-**[00:42:54.090] Eunice Tanilon** (asr-000809)  
+**[00:42:54.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000809)  
 The DBCC has already
 
-**[00:42:56.090] Eunice Tanilon** (asr-000810)  
+**[00:42:56.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000810)  
 lowered its target once and
 
-**[00:42:58.090] Eunice Tanilon** (asr-000811)  
+**[00:42:58.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000811)  
 we really hope they're right. But the
 
-**[00:43:00.090] Eunice Tanilon** (asr-000812)  
+**[00:43:00.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000812)  
 second half now has hit to 4.4%
 
-**[00:43:02.090] Eunice Tanilon** (asr-000813)  
+**[00:43:02.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000813)  
 just to reach the bottom
 
-**[00:43:04.090] Eunice Tanilon** (asr-000814)  
+**[00:43:04.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000814)  
 of that range. Debt now
 
-**[00:43:06.090] Eunice Tanilon** (asr-000815)  
+**[00:43:06.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000815)  
 stands at 66%
 
-**[00:43:08.090] Eunice Tanilon** (asr-000816)  
+**[00:43:08.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000816)  
 of GDP. The government's own
 
-**[00:43:10.090] Eunice Tanilon** (asr-000817)  
+**[00:43:10.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000817)  
 fiscal program set it at 56.6%.
 
-**[00:43:12.090] Eunice Tanilon** (asr-000818)  
+**[00:43:12.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000818)  
 That's nearly 10 points
 
-**[00:43:14.090] Eunice Tanilon** (asr-000819)  
+**[00:43:14.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000819)  
 higher than initially planned.
 
-**[00:43:16.090] Eunice Tanilon** (asr-000820)  
+**[00:43:16.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000820)  
 And every point is money
 
-**[00:43:18.090] Eunice Tanilon** (asr-000821)  
+**[00:43:18.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000821)  
 that goes to interest instead of
 
-**[00:43:20.090] Eunice Tanilon** (asr-000822)  
+**[00:43:20.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000822)  
 roads, classrooms,
 
-**[00:43:22.090] Eunice Tanilon** (asr-000823)  
+**[00:43:22.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000823)  
 or hospitals. The deficit
 
-**[00:43:24.090] Eunice Tanilon** (asr-000824)  
+**[00:43:24.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000824)  
 is at 5.5% of GDP
 
-**[00:43:26.090] Eunice Tanilon** (asr-000825)  
+**[00:43:26.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000825)  
 against a target of 3.5, which
 
-**[00:43:28.090] Eunice Tanilon** (asr-000826)  
+**[00:43:28.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000826)  
 means we are borrowing more
 
-**[00:43:30.090] Eunice Tanilon** (asr-000827)  
+**[00:43:30.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000827)  
 than we said we would to fund a
 
-**[00:43:32.090] Eunice Tanilon** (asr-000828)  
+**[00:43:32.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000828)  
 budget that might be delivering
 
-**[00:43:34.090] Eunice Tanilon** (asr-000829)  
+**[00:43:34.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000829)  
 less than it promised. So
 
-**[00:43:36.090] Eunice Tanilon** (asr-000830)  
+**[00:43:36.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000830)  
 we really want to be able to clarify
 
-**[00:43:38.090] Eunice Tanilon** (asr-000831)  
+**[00:43:38.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000831)  
 with these moving
 
-**[00:43:40.090] Eunice Tanilon** (asr-000832)  
+**[00:43:40.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000832)  
 targets if we're asking Congress
 
-**[00:43:42.090] Eunice Tanilon** (asr-000833)  
+**[00:43:42.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000833)  
 to be able to assess
 
-**[00:43:44.090] Eunice Tanilon** (asr-000834)  
+**[00:43:44.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000834)  
 given the, in light of the
 
-**[00:43:46.090] Eunice Tanilon** (asr-000835)  
+**[00:43:46.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000835)  
 new, with the performance of our
 
-**[00:43:48.090] Eunice Tanilon** (asr-000836)  
+**[00:43:48.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000836)  
 economy right now.
 
-**[00:43:50.090] Eunice Tanilon** (asr-000837)  
+**[00:43:50.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000837)  
 So we're really not here to score a point.
 
-**[00:43:52.090] Eunice Tanilon** (asr-000838)  
+**[00:43:52.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000838)  
 Public spending is an engine of this
 
-**[00:43:54.090] Eunice Tanilon** (asr-000839)  
+**[00:43:54.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000839)  
 economy and when it stalls, business
 
-**[00:43:56.090] Eunice Tanilon** (asr-000840)  
+**[00:43:56.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000840)  
 stalls with it.
 
-**[00:43:58.090] Eunice Tanilon** (asr-000841)  
+**[00:43:58.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000841)  
 So our two ask is really to help government
 
-**[00:44:00.090] Eunice Tanilon** (asr-000842)  
+**[00:44:00.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000842)  
 catch up on spending that's already funded
 
-**[00:44:02.090] Eunice Tanilon** (asr-000843)  
+**[00:44:02.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000843)  
 and hold our economic
 
-**[00:44:04.090] Eunice Tanilon** (asr-000844)  
+**[00:44:04.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000844)  
 managers to the numbers that
 
-**[00:44:06.090] Eunice Tanilon** (asr-000845)  
+**[00:44:06.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000845)  
 they set. One process,
 
-**[00:44:08.090] Eunice Tanilon** (asr-000846)  
+**[00:44:08.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000846)  
 we really hope for transparency
 
-**[00:44:10.090] Eunice Tanilon** (asr-000847)  
+**[00:44:10.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000847)  
 before the money moves,
 
-**[00:44:12.090] Eunice Tanilon** (asr-000848)  
+**[00:44:12.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000848)  
 not after. So we really want to be
 
-**[00:44:14.090] Eunice Tanilon** (asr-000849)  
+**[00:44:14.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000849)  
 able to see published criteria,
 
-**[00:44:16.090] Eunice Tanilon** (asr-000850)  
+**[00:44:16.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000850)  
 beneficiary lists,
 
-**[00:44:18.090] Eunice Tanilon** (asr-000851)  
+**[00:44:18.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000851)  
 and scores before
 
-**[00:44:20.090] Eunice Tanilon** (asr-000852)  
+**[00:44:20.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000852)  
 release. Especially at the project level,
 
-**[00:44:22.090] Eunice Tanilon** (asr-000853)  
+**[00:44:22.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000853)  
 this is very important for
 
-**[00:44:24.090] Eunice Tanilon** (asr-000854)  
+**[00:44:24.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000854)  
 businesses, especially for assessing
 
-**[00:44:26.090] Eunice Tanilon** (asr-000855)  
+**[00:44:26.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000855)  
 execution risk and
 
-**[00:44:28.090] Eunice Tanilon** (asr-000856)  
+**[00:44:28.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000856)  
 execution planning.
 
-**[00:44:30.090] Eunice Tanilon** (asr-000857)  
+**[00:44:30.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000857)  
 We also want
 
-**[00:44:32.090] Eunice Tanilon** (asr-000858)  
+**[00:44:32.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000858)  
 to call to pass FOI into law
 
-**[00:44:34.090] Eunice Tanilon** (asr-000859)  
+**[00:44:34.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000859)  
 as part of the broad
 
-**[00:44:36.090] Eunice Tanilon** (asr-000860)  
+**[00:44:36.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000860)  
 process transparency
 
-**[00:44:38.090] Eunice Tanilon** (asr-000861)  
+**[00:44:38.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000861)  
 reforms. So MBC
 
-**[00:44:40.090] Eunice Tanilon** (asr-000862)  
+**[00:44:40.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000862)  
 stands ready to convene the private sector
 
-**[00:44:42.090] Eunice Tanilon** (asr-000863)  
+**[00:44:42.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000863)  
 and be a partner with government
 
-**[00:44:44.090] Eunice Tanilon** (asr-000864)  
+**[00:44:44.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000864)  
 for progress as the leading private
 
-**[00:44:46.090] Eunice Tanilon** (asr-000865)  
+**[00:44:46.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000865)  
 sector voice across broad coalitions.
 
-**[00:44:48.090] Eunice Tanilon** (asr-000866)  
+**[00:44:48.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000866)  
 We are guided by our core
 
-**[00:44:50.090] Eunice Tanilon** (asr-000867)  
+**[00:44:50.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000867)  
 belief that better governance creates a
 
-**[00:44:52.090] Eunice Tanilon** (asr-000868)  
+**[00:44:52.090] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-000868)  
 better environment for business. Thank you.
 
 **[00:44:54.090] John Castillo** (asr-000869)  
@@ -2719,181 +2719,181 @@ to share their concerns or insights.
 **[00:46:05.620] John Castillo** (asr-000905)  
 Thank you.
 
-**[00:46:08.880] Archilles Parallon** (asr-000906)  
+**[00:46:08.880] IBON Foundation Representative Archilles Parallon** (asr-000906)  
 Yes, good morning po.
 
-**[00:46:11.380] Archilles Parallon** (asr-000907)  
+**[00:46:11.380] IBON Foundation Representative Archilles Parallon** (asr-000907)  
 Thank you po for the opportunity.
 
-**[00:46:14.140] Archilles Parallon** (asr-000908)  
+**[00:46:14.140] IBON Foundation Representative Archilles Parallon** (asr-000908)  
 I understand pangalawa po
 
-**[00:46:15.820] Archilles Parallon** (asr-000909)  
+**[00:46:15.820] IBON Foundation Representative Archilles Parallon** (asr-000909)  
 ito sa session ng mga
 
-**[00:46:17.620] Archilles Parallon** (asr-000910)  
+**[00:46:17.620] IBON Foundation Representative Archilles Parallon** (asr-000910)  
 People's Budget Review. And actually,
 
-**[00:46:20.080] Archilles Parallon** (asr-000911)  
+**[00:46:20.080] IBON Foundation Representative Archilles Parallon** (asr-000911)  
 nabanggit na actually din ng
 
-**[00:46:21.300] Archilles Parallon** (asr-000912)  
+**[00:46:21.300] IBON Foundation Representative Archilles Parallon** (asr-000912)  
 People's Budget Coalition yung medyo concerns
 
-**[00:46:23.560] Archilles Parallon** (asr-000913)  
+**[00:46:23.560] IBON Foundation Representative Archilles Parallon** (asr-000913)  
 din ng IBON Foundation.
 
-**[00:46:25.760] Archilles Parallon** (asr-000914)  
+**[00:46:25.760] IBON Foundation Representative Archilles Parallon** (asr-000914)  
 Yung 2027
 
-**[00:46:27.360] Archilles Parallon** (asr-000915)  
+**[00:46:27.360] IBON Foundation Representative Archilles Parallon** (asr-000915)  
 budget is
 
-**[00:46:28.400] Archilles Parallon** (asr-000916)  
+**[00:46:28.400] IBON Foundation Representative Archilles Parallon** (asr-000916)  
 medyo nagiging obvious yung
 
-**[00:46:31.000] Archilles Parallon** (asr-000917)  
+**[00:46:31.000] IBON Foundation Representative Archilles Parallon** (asr-000917)  
 pagbaba talaga for social services
 
-**[00:46:33.000] Archilles Parallon** (asr-000918)  
+**[00:46:33.000] IBON Foundation Representative Archilles Parallon** (asr-000918)  
 especially
 
-**[00:46:33.560] Archilles Parallon** (asr-000919)  
+**[00:46:33.560] IBON Foundation Representative Archilles Parallon** (asr-000919)  
 for those na
 
-**[00:46:36.540] Archilles Parallon** (asr-000920)  
+**[00:46:36.540] IBON Foundation Representative Archilles Parallon** (asr-000920)  
 yung sa education, sa health,
 
-**[00:46:39.440] Archilles Parallon** (asr-000921)  
+**[00:46:39.440] IBON Foundation Representative Archilles Parallon** (asr-000921)  
 etc., etc. Pero
 
-**[00:46:40.480] Archilles Parallon** (asr-000922)  
+**[00:46:40.480] IBON Foundation Representative Archilles Parallon** (asr-000922)  
 sa particular po, hindi ko kasi nabanggit
 
-**[00:46:43.120] Archilles Parallon** (asr-000923)  
+**[00:46:43.120] IBON Foundation Representative Archilles Parallon** (asr-000923)  
 kanina dun sa agriculture
 
-**[00:46:45.040] Archilles Parallon** (asr-000924)  
+**[00:46:45.040] IBON Foundation Representative Archilles Parallon** (asr-000924)  
 pero as we prepare
 
-**[00:46:47.180] Archilles Parallon** (asr-000925)  
+**[00:46:47.180] IBON Foundation Representative Archilles Parallon** (asr-000925)  
 for El Nino kasi,
 
-**[00:46:49.000] Archilles Parallon** (asr-000926)  
+**[00:46:49.000] IBON Foundation Representative Archilles Parallon** (asr-000926)  
 medyo bumaba yung target for
 
-**[00:46:51.080] Archilles Parallon** (asr-000927)  
+**[00:46:51.080] IBON Foundation Representative Archilles Parallon** (asr-000927)  
 NIA na about
 
-**[00:46:53.100] Archilles Parallon** (asr-000928)  
+**[00:46:53.100] IBON Foundation Representative Archilles Parallon** (asr-000928)  
 26% yata yung binaba niya.
 
-**[00:46:55.120] Archilles Parallon** (asr-000929)  
+**[00:46:55.120] IBON Foundation Representative Archilles Parallon** (asr-000929)  
 So, medyo na-flag namin yung
 
-**[00:46:56.940] Archilles Parallon** (asr-000930)  
+**[00:46:56.940] IBON Foundation Representative Archilles Parallon** (asr-000930)  
 nasa concern sa amin.
 
-**[00:46:58.400] Archilles Parallon** (asr-000931)  
+**[00:46:58.400] IBON Foundation Representative Archilles Parallon** (asr-000931)  
 Tapos po, yun nga,
 
-**[00:47:01.000] Archilles Parallon** (asr-000932)  
+**[00:47:01.000] IBON Foundation Representative Archilles Parallon** (asr-000932)  
 yung fiscal framework natin ngayon
 
-**[00:47:03.080] Archilles Parallon** (asr-000933)  
+**[00:47:03.080] IBON Foundation Representative Archilles Parallon** (asr-000933)  
 medyo same-same old.
 
-**[00:47:05.240] Archilles Parallon** (asr-000934)  
+**[00:47:05.240] IBON Foundation Representative Archilles Parallon** (asr-000934)  
 Tapos, yung
 
-**[00:47:07.040] Archilles Parallon** (asr-000935)  
+**[00:47:07.040] IBON Foundation Representative Archilles Parallon** (asr-000935)  
 pagka-core talaga sana ng
 
-**[00:47:08.560] Archilles Parallon** (asr-000936)  
+**[00:47:08.560] IBON Foundation Representative Archilles Parallon** (asr-000936)  
 people's budgeting and people-centered
 
-**[00:47:10.780] Archilles Parallon** (asr-000937)  
+**[00:47:10.780] IBON Foundation Representative Archilles Parallon** (asr-000937)  
 ay sana ma-uplift natin
 
-**[00:47:13.240] Archilles Parallon** (asr-000938)  
+**[00:47:13.240] IBON Foundation Representative Archilles Parallon** (asr-000938)  
 yung talagang core na mga
 
-**[00:47:15.140] Archilles Parallon** (asr-000939)  
+**[00:47:15.140] IBON Foundation Representative Archilles Parallon** (asr-000939)  
 sectors like agriculture
 
-**[00:47:17.260] Archilles Parallon** (asr-000940)  
+**[00:47:17.260] IBON Foundation Representative Archilles Parallon** (asr-000940)  
 and industry kasi
 
-**[00:47:18.460] Archilles Parallon** (asr-000941)  
+**[00:47:18.460] IBON Foundation Representative Archilles Parallon** (asr-000941)  
 as it is said kanina,
 
-**[00:47:21.600] Archilles Parallon** (asr-000942)  
+**[00:47:21.600] IBON Foundation Representative Archilles Parallon** (asr-000942)  
 medyo kailangan talaga siyang
 
-**[00:47:22.840] Archilles Parallon** (asr-000943)  
+**[00:47:22.840] IBON Foundation Representative Archilles Parallon** (asr-000943)  
 bigyan ng budgeting ngayon.
 
-**[00:47:24.340] Archilles Parallon** (asr-000944)  
+**[00:47:24.340] IBON Foundation Representative Archilles Parallon** (asr-000944)  
 And with the
 
-**[00:47:27.180] Archilles Parallon** (asr-000945)  
+**[00:47:27.180] IBON Foundation Representative Archilles Parallon** (asr-000945)  
 core,
 
-**[00:47:28.400] Archilles Parallon** (asr-000946)  
+**[00:47:28.400] IBON Foundation Representative Archilles Parallon** (asr-000946)  
 departments having about
 
-**[00:47:30.980] Archilles Parallon** (asr-000947)  
+**[00:47:30.980] IBON Foundation Representative Archilles Parallon** (asr-000947)  
 7 to 8% na decrease,
 
-**[00:47:33.260] Archilles Parallon** (asr-000948)  
+**[00:47:33.260] IBON Foundation Representative Archilles Parallon** (asr-000948)  
 medyo flag siya sa amin.
 
-**[00:47:35.920] Archilles Parallon** (asr-000949)  
+**[00:47:35.920] IBON Foundation Representative Archilles Parallon** (asr-000949)  
 So, mas ganun lang naman po.
 
-**[00:47:37.900] Archilles Parallon** (asr-000950)  
+**[00:47:37.900] IBON Foundation Representative Archilles Parallon** (asr-000950)  
 And siguro,
 
-**[00:47:39.200] Archilles Parallon** (asr-000951)  
+**[00:47:39.200] IBON Foundation Representative Archilles Parallon** (asr-000951)  
 reiterate ko lang din yung at least
 
-**[00:47:40.900] Archilles Parallon** (asr-000952)  
+**[00:47:40.900] IBON Foundation Representative Archilles Parallon** (asr-000952)  
 sa part ng IBON, yung
 
-**[00:47:43.100] Archilles Parallon** (asr-000953)  
+**[00:47:43.100] IBON Foundation Representative Archilles Parallon** (asr-000953)  
 dun sa Department of
 
-**[00:47:45.360] Archilles Parallon** (asr-000954)  
+**[00:47:45.360] IBON Foundation Representative Archilles Parallon** (asr-000954)  
 Public Works and Highways,
 
-**[00:47:47.120] Archilles Parallon** (asr-000955)  
+**[00:47:47.120] IBON Foundation Representative Archilles Parallon** (asr-000955)  
 yung at least specificity
 
-**[00:47:49.240] Archilles Parallon** (asr-000956)  
+**[00:47:49.240] IBON Foundation Representative Archilles Parallon** (asr-000956)  
 sana ng
 
-**[00:47:50.800] Archilles Parallon** (asr-000957)  
+**[00:47:50.800] IBON Foundation Representative Archilles Parallon** (asr-000957)  
 yung kung gaano
 
-**[00:47:53.260] Archilles Parallon** (asr-000958)  
+**[00:47:53.260] IBON Foundation Representative Archilles Parallon** (asr-000958)  
 kahaba yung road networks
 
-**[00:47:54.740] Archilles Parallon** (asr-000959)  
+**[00:47:54.740] IBON Foundation Representative Archilles Parallon** (asr-000959)  
 para at least kahit paano
 
-**[00:47:56.080] Archilles Parallon** (asr-000960)  
+**[00:47:56.080] IBON Foundation Representative Archilles Parallon** (asr-000960)  
 ma-
 
-**[00:47:58.400] Archilles Parallon** (asr-000961)  
+**[00:47:58.400] IBON Foundation Representative Archilles Parallon** (asr-000961)  
 audit or at least makita kung
 
-**[00:48:00.400] Archilles Parallon** (asr-000962)  
+**[00:48:00.400] IBON Foundation Representative Archilles Parallon** (asr-000962)  
 sumasapat ba or hindi yung
 
-**[00:48:02.580] Archilles Parallon** (asr-000963)  
+**[00:48:02.580] IBON Foundation Representative Archilles Parallon** (asr-000963)  
 budget for those.
 
-**[00:48:04.980] Archilles Parallon** (asr-000964)  
+**[00:48:04.980] IBON Foundation Representative Archilles Parallon** (asr-000964)  
 So, yun lang naman po.
 
 **[00:48:06.080] John Castillo** (asr-000965)  
@@ -4402,586 +4402,586 @@ and the Jesse Robredo Foundation.
 **[01:04:25.120] John Castillo** (asr-001465)  
 Thank you.
 
-**[01:04:29.530] John Lloyd B. Elsisura** (asr-001467)  
+**[01:04:29.530] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001467)  
 Magandang araw po sa ating lahat.
 
-**[01:04:31.650] John Lloyd B. Elsisura** (asr-001468)  
+**[01:04:31.650] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001468)  
 Ako po si John Lloyd Elsisura,
 
-**[01:04:35.110] John Lloyd B. Elsisura** (asr-001469)  
+**[01:04:35.110] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001469)  
 National Campaign Coordinator
 
-**[01:04:36.570] John Lloyd B. Elsisura** (asr-001470)  
+**[01:04:36.570] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001470)  
 ng Amplify Education Budget Initiative
 
-**[01:04:38.950] John Lloyd B. Elsisura** (asr-001471)  
+**[01:04:38.950] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001471)  
 ng Multiply Ed Philippines
 
-**[01:04:40.850] John Lloyd B. Elsisura** (asr-001472)  
+**[01:04:40.850] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001472)  
 from CIAN,
 
-**[01:04:42.530] John Lloyd B. Elsisura** (asr-001473)  
+**[01:04:42.530] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001473)  
 the only youth-led CSO na aktibong
 
-**[01:04:44.790] John Lloyd B. Elsisura** (asr-001474)  
+**[01:04:44.790] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001474)  
 nagmamonitor ng National
 
-**[01:04:46.410] John Lloyd B. Elsisura** (asr-001475)  
+**[01:04:46.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001475)  
 Education Budget. Sa pagsusuri
 
-**[01:04:48.890] John Lloyd B. Elsisura** (asr-001476)  
+**[01:04:48.890] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001476)  
 namin ng proposed
 
-**[01:04:50.150] John Lloyd B. Elsisura** (asr-001477)  
+**[01:04:50.150] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001477)  
 2027 Education Budget
 
-**[01:04:52.610] John Lloyd B. Elsisura** (asr-001478)  
+**[01:04:52.610] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001478)  
 or specifically sa DepEd
 
-**[01:04:54.510] John Lloyd B. Elsisura** (asr-001479)  
+**[01:04:54.510] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001479)  
 Budget, may malaking
 
-**[01:04:55.710] John Lloyd B. Elsisura** (asr-001480)  
+**[01:04:55.710] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001480)  
 kontradiksyon. Laging sinasabi
 
-**[01:04:58.410] John Lloyd B. Elsisura** (asr-001481)  
+**[01:04:58.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001481)  
 natin na gusto natin i-decentralized
 
-**[01:05:00.950] John Lloyd B. Elsisura** (asr-001482)  
+**[01:05:00.950] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001482)  
 ang DepEd. Pero sa nakita
 
-**[01:05:02.730] John Lloyd B. Elsisura** (asr-001483)  
+**[01:05:02.730] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001483)  
 namin, mas sinesentralized
 
-**[01:05:04.690] John Lloyd B. Elsisura** (asr-001484)  
+**[01:05:04.690] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001484)  
 pa nga yung budget nito
 
-**[01:05:06.470] John Lloyd B. Elsisura** (asr-001485)  
+**[01:05:06.470] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001485)  
 at ginagawang diskretionary. At tingin
 
-**[01:05:08.390] John Lloyd B. Elsisura** (asr-001486)  
+**[01:05:08.390] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001486)  
 namin, isa itong forma
 
-**[01:05:09.970] John Lloyd B. Elsisura** (asr-001487)  
+**[01:05:09.970] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001487)  
 ng patronage politics,
 
-**[01:05:12.470] John Lloyd B. Elsisura** (asr-001488)  
+**[01:05:12.470] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001488)  
 lalong-lalo na at paparating na ang eleksyon.
 
-**[01:05:15.290] John Lloyd B. Elsisura** (asr-001489)  
+**[01:05:15.290] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001489)  
 Hindi pwede yung nasa community
 
-**[01:05:16.810] John Lloyd B. Elsisura** (asr-001490)  
+**[01:05:16.810] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001490)  
 ang problema, pero nasa
 
-**[01:05:18.550] John Lloyd B. Elsisura** (asr-001491)  
+**[01:05:18.550] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001491)  
 central office, lagi
 
-**[01:05:20.230] John Lloyd B. Elsisura** (asr-001492)  
+**[01:05:20.230] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001492)  
 ang pera at desisyon.
 
-**[01:05:22.530] John Lloyd B. Elsisura** (asr-001493)  
+**[01:05:22.530] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001493)  
 Simulan natin sa mga zero.
 
-**[01:05:24.670] John Lloyd B. Elsisura** (asr-001494)  
+**[01:05:24.670] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001494)  
 Zero para sa Child Protection Program.
 
-**[01:05:27.430] John Lloyd B. Elsisura** (asr-001495)  
+**[01:05:27.430] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001495)  
 Zero na dedicated to the child protection program.
 
-**[01:05:28.410] John Lloyd B. Elsisura** (asr-001496)  
+**[01:05:28.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001496)  
 Zero na dedicated line para sa Last Mile Schools.
 
-**[01:05:31.010] John Lloyd B. Elsisura** (asr-001497)  
+**[01:05:31.010] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001497)  
 Zero para sa Aral Program.
 
-**[01:05:33.390] John Lloyd B. Elsisura** (asr-001498)  
+**[01:05:33.390] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001498)  
 Zero na malinaw na line item
 
-**[01:05:35.650] John Lloyd B. Elsisura** (asr-001499)  
+**[01:05:35.650] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001499)  
 para sa WASH in Schools
 
-**[01:05:36.770] John Lloyd B. Elsisura** (asr-001500)  
+**[01:05:36.770] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001500)  
 na dating may 500 million
 
-**[01:05:38.290] John Lloyd B. Elsisura** (asr-001501)  
+**[01:05:38.290] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001501)  
 noong 2026. Ngayon,
 
-**[01:05:40.390] John Lloyd B. Elsisura** (asr-001502)  
+**[01:05:40.390] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001502)  
 parang natunaw na lang ang
 
-**[01:05:41.770] John Lloyd B. Elsisura** (asr-001503)  
+**[01:05:41.770] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001503)  
 BEF or Basic Education Facilities
 
-**[01:05:44.510] John Lloyd B. Elsisura** (asr-001504)  
+**[01:05:44.510] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001504)  
 into 30.55
 
-**[01:05:46.470] John Lloyd B. Elsisura** (asr-001505)  
+**[01:05:46.470] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001505)  
 billion pesos na budget.
 
-**[01:05:48.990] John Lloyd B. Elsisura** (asr-001506)  
+**[01:05:48.990] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001506)  
 At kapag pinagsama-sama
 
-**[01:05:51.130] John Lloyd B. Elsisura** (asr-001507)  
+**[01:05:51.130] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001507)  
 yung mga critical programs
 
-**[01:05:52.350] John Lloyd B. Elsisura** (asr-001508)  
+**[01:05:52.350] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001508)  
 na nabanggit ko kanina sa isang
 
-**[01:05:54.210] John Lloyd B. Elsisura** (asr-001509)  
+**[01:05:54.210] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001509)  
 umbrella item,
 
-**[01:05:56.230] John Lloyd B. Elsisura** (asr-001510)  
+**[01:05:56.230] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001510)  
 ibig sabihin,
 
-**[01:05:57.270] John Lloyd B. Elsisura** (asr-001511)  
+**[01:05:57.270] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001511)  
 pinagsama ito sa
 
-**[01:05:58.410] John Lloyd B. Elsisura** (asr-001512)  
+**[01:05:58.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001512)  
 BEF, sa ilalim ng BEF,
 
-**[01:06:00.190] John Lloyd B. Elsisura** (asr-001513)  
+**[01:06:00.190] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001513)  
 mahirap po para sa amin
 
-**[01:06:01.930] John Lloyd B. Elsisura** (asr-001514)  
+**[01:06:01.930] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001514)  
 mga citizens monitoring
 
-**[01:06:04.230] John Lloyd B. Elsisura** (asr-001515)  
+**[01:06:04.230] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001515)  
 na mamonitor kung magkano
 
-**[01:06:06.330] John Lloyd B. Elsisura** (asr-001516)  
+**[01:06:06.330] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001516)  
 nga ba talaga ang pera para sa
 
-**[01:06:07.910] John Lloyd B. Elsisura** (asr-001517)  
+**[01:06:07.910] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001517)  
 classrooms, pera para sa Last Mile
 
-**[01:06:10.270] John Lloyd B. Elsisura** (asr-001518)  
+**[01:06:10.270] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001518)  
 Schools, pera para sa wash
 
-**[01:06:12.270] John Lloyd B. Elsisura** (asr-001519)  
+**[01:06:12.270] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001519)  
 at sa iba pang mga items
 
-**[01:06:14.330] John Lloyd B. Elsisura** (asr-001520)  
+**[01:06:14.330] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001520)  
 na in-umbrella sa
 
-**[01:06:15.910] John Lloyd B. Elsisura** (asr-001521)  
+**[01:06:15.910] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001521)  
 BEF. At sa mga classrooms
 
-**[01:06:18.070] John Lloyd B. Elsisura** (asr-001522)  
+**[01:06:18.070] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001522)  
 mismo, mula sa 85.4
 
-**[01:06:20.170] John Lloyd B. Elsisura** (asr-001523)  
+**[01:06:20.170] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001523)  
 billion noong 2026 ga
 
-**[01:06:21.990] John Lloyd B. Elsisura** (asr-001524)  
+**[01:06:21.990] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001524)  
 ang BEF
 
-**[01:06:24.390] John Lloyd B. Elsisura** (asr-001525)  
+**[01:06:24.390] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001525)  
 ay naging 30.55
 
-**[01:06:26.050] John Lloyd B. Elsisura** (asr-001526)  
+**[01:06:26.050] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001526)  
 billion na labang
 
-**[01:06:27.050] John Lloyd B. Elsisura** (asr-001527)  
+**[01:06:27.050] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001527)  
 at
 
-**[01:06:28.410] John Lloyd B. Elsisura** (asr-001528)  
+**[01:06:28.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001528)  
 60% yung pagbaba.
 
-**[01:06:30.490] John Lloyd B. Elsisura** (asr-001529)  
+**[01:06:30.490] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001529)  
 Samantala, sa admin monitoring
 
-**[01:06:32.610] John Lloyd B. Elsisura** (asr-001530)  
+**[01:06:32.610] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001530)  
 sa Multiply Ed Philippines
 
-**[01:06:34.590] John Lloyd B. Elsisura** (asr-001531)  
+**[01:06:34.590] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001531)  
 with our 80 schools
 
-**[01:06:36.910] John Lloyd B. Elsisura** (asr-001532)  
+**[01:06:36.910] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001532)  
 monitored, 58%
 
-**[01:06:38.870] John Lloyd B. Elsisura** (asr-001533)  
+**[01:06:38.870] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001533)  
 ng monitored schools namin na nagsasabi
 
-**[01:06:41.030] John Lloyd B. Elsisura** (asr-001534)  
+**[01:06:41.030] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001534)  
 na kulang sa classrooms.
 
-**[01:06:42.930] John Lloyd B. Elsisura** (asr-001535)  
+**[01:06:42.930] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001535)  
 At base na rin sa datos natin,
 
-**[01:06:44.850] John Lloyd B. Elsisura** (asr-001536)  
+**[01:06:44.850] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001536)  
 may backlog pa tayo na 165,000
 
-**[01:06:47.290] John Lloyd B. Elsisura** (asr-001537)  
+**[01:06:47.290] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001537)  
 classrooms nationwide.
 
-**[01:06:49.590] John Lloyd B. Elsisura** (asr-001538)  
+**[01:06:49.590] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001538)  
 Nakikita naman natin
 
-**[01:06:50.810] John Lloyd B. Elsisura** (asr-001539)  
+**[01:06:50.810] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001539)  
 na yung budget sa
 
-**[01:06:52.590] John Lloyd B. Elsisura** (asr-001540)  
+**[01:06:52.590] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001540)  
 BEF sa 2026 ga
 
-**[01:06:54.790] John Lloyd B. Elsisura** (asr-001541)  
+**[01:06:54.790] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001541)  
 ay mula sa
 
-**[01:06:56.790] John Lloyd B. Elsisura** (asr-001542)  
+**[01:06:56.790] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001542)  
 mga flood control na na-initiwala.
 
-**[01:06:58.410] John Lloyd B. Elsisura** (asr-001543)  
+**[01:06:58.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001543)  
 Inilipat from flood control
 
-**[01:07:00.630] John Lloyd B. Elsisura** (asr-001544)  
+**[01:07:00.630] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001544)  
 ang DPWH at inilipat ito
 
-**[01:07:02.730] John Lloyd B. Elsisura** (asr-001545)  
+**[01:07:02.730] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001545)  
 sa DepEd. Pero nakikita
 
-**[01:07:04.590] John Lloyd B. Elsisura** (asr-001546)  
+**[01:07:04.590] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001546)  
 natin kung ganito karami yung backlog
 
-**[01:07:06.310] John Lloyd B. Elsisura** (asr-001547)  
+**[01:07:06.310] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001547)  
 natin sa classrooms, bakit hindi
 
-**[01:07:08.230] John Lloyd B. Elsisura** (asr-001548)  
+**[01:07:08.230] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001548)  
 natin gawing
 
-**[01:07:09.090] John Lloyd B. Elsisura** (asr-001549)  
+**[01:07:09.090] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001549)  
 baseline yung 2026 ga
 
-**[01:07:12.550] John Lloyd B. Elsisura** (asr-001550)  
+**[01:07:12.550] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001550)  
 para sa BEF para
 
-**[01:07:14.190] John Lloyd B. Elsisura** (asr-001551)  
+**[01:07:14.190] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001551)  
 ma-fast track yung backlogs natin
 
-**[01:07:16.370] John Lloyd B. Elsisura** (asr-001552)  
+**[01:07:16.370] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001552)  
 sa classrooms nationwide. And sa
 
-**[01:07:18.270] John Lloyd B. Elsisura** (asr-001553)  
+**[01:07:18.270] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001553)  
 inclusive education, apat
 
-**[01:07:20.390] John Lloyd B. Elsisura** (asr-001554)  
+**[01:07:20.390] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001554)  
 taon na matapos ang RA
 
-**[01:07:21.910] John Lloyd B. Elsisura** (asr-001555)  
+**[01:07:21.910] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001555)  
 11650, 32 lang sa target
 
-**[01:07:24.610] John Lloyd B. Elsisura** (asr-001556)  
+**[01:07:24.610] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001556)  
 na 1642 na inclusive
 
-**[01:07:26.270] John Lloyd B. Elsisura** (asr-001557)  
+**[01:07:26.270] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001557)  
 learning resource centers ang naitayag.
 
-**[01:07:28.410] John Lloyd B. Elsisura** (asr-001558)  
+**[01:07:28.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001558)  
 At base mismo sa EDCOM,
 
-**[01:07:30.770] John Lloyd B. Elsisura** (asr-001559)  
+**[01:07:30.770] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001559)  
 ang 32 ILRC na yun
 
-**[01:07:32.830] John Lloyd B. Elsisura** (asr-001560)  
+**[01:07:32.830] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001560)  
 ay hindi operational.
 
-**[01:07:34.650] John Lloyd B. Elsisura** (asr-001561)  
+**[01:07:34.650] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001561)  
 At nung tinanong kahapon
 
-**[01:07:35.950] John Lloyd B. Elsisura** (asr-001562)  
+**[01:07:35.950] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001562)  
 si Secretary Angara kung ilan
 
-**[01:07:38.430] John Lloyd B. Elsisura** (asr-001563)  
+**[01:07:38.430] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001563)  
 ang target sa susunod na taon
 
-**[01:07:40.270] John Lloyd B. Elsisura** (asr-001564)  
+**[01:07:40.270] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001564)  
 o sa 2027, ang sinagot
 
-**[01:07:42.430] John Lloyd B. Elsisura** (asr-001565)  
+**[01:07:42.430] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001565)  
 niya lamang ay 6.
 
-**[01:07:44.070] John Lloyd B. Elsisura** (asr-001566)  
+**[01:07:44.070] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001566)  
 So kung mayroong
 
-**[01:07:45.770] John Lloyd B. Elsisura** (asr-001567)  
+**[01:07:45.770] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001567)  
 1,642 na ILRC
 
-**[01:07:48.850] John Lloyd B. Elsisura** (asr-001568)  
+**[01:07:48.850] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001568)  
 or inclusive learning resource centers
 
-**[01:07:50.590] John Lloyd B. Elsisura** (asr-001569)  
+**[01:07:50.590] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001569)  
 na target, kailan
 
-**[01:07:52.510] John Lloyd B. Elsisura** (asr-001570)  
+**[01:07:52.510] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001570)  
 pa po matatapos o mapafast track
 
-**[01:07:54.630] John Lloyd B. Elsisura** (asr-001571)  
+**[01:07:54.630] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001571)  
 yung mga ILRCs
 
-**[01:07:56.270] John Lloyd B. Elsisura** (asr-001572)  
+**[01:07:56.270] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001572)  
 na talagang tumutugon.
 
-**[01:07:58.410] John Lloyd B. Elsisura** (asr-001573)  
+**[01:07:58.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001573)  
 Sa mga pangailangan ng ating mga
 
-**[01:08:00.130] John Lloyd B. Elsisura** (asr-001574)  
+**[01:08:00.130] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001574)  
 marginalized sectors. Sa IPED
 
-**[01:08:02.390] John Lloyd B. Elsisura** (asr-001575)  
+**[01:08:02.390] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001575)  
 at Madrasa, bumaba po ang IPED
 
-**[01:08:04.430] John Lloyd B. Elsisura** (asr-001576)  
+**[01:08:04.430] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001576)  
 allocation mula 154.4
 
-**[01:08:06.530] John Lloyd B. Elsisura** (asr-001577)  
+**[01:08:06.530] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001577)  
 million, naging
 
-**[01:08:08.430] John Lloyd B. Elsisura** (asr-001578)  
+**[01:08:08.430] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001578)  
 76.2 million. Halos
 
-**[01:08:10.430] John Lloyd B. Elsisura** (asr-001579)  
+**[01:08:10.430] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001579)  
 51% decrease.
 
-**[01:08:12.750] John Lloyd B. Elsisura** (asr-001580)  
+**[01:08:12.750] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001580)  
 At kahit sa 76%
 
-**[01:08:15.390] John Lloyd B. Elsisura** (asr-001581)  
+**[01:08:15.390] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001581)  
 ng monitored schools namin
 
-**[01:08:16.690] John Lloyd B. Elsisura** (asr-001582)  
+**[01:08:16.690] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001582)  
 sa Multiplied Philippines,
 
-**[01:08:19.230] John Lloyd B. Elsisura** (asr-001583)  
+**[01:08:19.230] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001583)  
 hindi may tapad
 
-**[01:08:20.630] John Lloyd B. Elsisura** (asr-001584)  
+**[01:08:20.630] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001584)  
 sa 76% ang
 
-**[01:08:22.510] John Lloyd B. Elsisura** (asr-001585)  
+**[01:08:22.510] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001585)  
 IPED, 93%
 
-**[01:08:24.430] John Lloyd B. Elsisura** (asr-001586)  
+**[01:08:24.430] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001586)  
 naman ang walang program support fund,
 
-**[01:08:26.910] John Lloyd B. Elsisura** (asr-001587)  
+**[01:08:26.910] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001587)  
 88% ang walang
 
-**[01:08:28.410] John Lloyd B. Elsisura** (asr-001588)  
+**[01:08:28.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001588)  
 trained IPED teachers.
 
-**[01:08:30.250] John Lloyd B. Elsisura** (asr-001589)  
+**[01:08:30.250] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001589)  
 Sa Madrasa, 74 schools
 
-**[01:08:32.410] John Lloyd B. Elsisura** (asr-001590)  
+**[01:08:32.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001590)  
 ang walang programa ng Madrasa.
 
-**[01:08:34.790] John Lloyd B. Elsisura** (asr-001591)  
+**[01:08:34.790] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001591)  
 80% ang kulang sa facilities.
 
-**[01:08:37.770] John Lloyd B. Elsisura** (asr-001592)  
+**[01:08:37.770] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001592)  
 Ang mga programang
 
-**[01:08:38.630] John Lloyd B. Elsisura** (asr-001593)  
+**[01:08:38.630] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001593)  
 na nangailangan ng local context
 
-**[01:08:40.430] John Lloyd B. Elsisura** (asr-001594)  
+**[01:08:40.430] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001594)  
 at cultural sensitivity
 
-**[01:08:42.090] John Lloyd B. Elsisura** (asr-001595)  
+**[01:08:42.090] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001595)  
 ay mas nakakonsentrate ngayon sa central office.
 
-**[01:08:45.070] John Lloyd B. Elsisura** (asr-001596)  
+**[01:08:45.070] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001596)  
 Nakita namin sa inclusive education
 
-**[01:08:46.870] John Lloyd B. Elsisura** (asr-001597)  
+**[01:08:46.870] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001597)  
 program na ang dating
 
-**[01:08:48.430] John Lloyd B. Elsisura** (asr-001598)  
+**[01:08:48.430] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001598)  
 mga budget na nakaalaan
 
-**[01:08:51.330] John Lloyd B. Elsisura** (asr-001599)  
+**[01:08:51.330] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001599)  
 sa regional offices,
 
-**[01:08:53.070] John Lloyd B. Elsisura** (asr-001600)  
+**[01:08:53.070] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001600)  
 ngayon, nilodge na lang po sa
 
-**[01:08:54.510] John Lloyd B. Elsisura** (asr-001601)  
+**[01:08:54.510] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001601)  
 central offices. At kung
 
-**[01:08:56.410] John Lloyd B. Elsisura** (asr-001602)  
+**[01:08:56.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001602)  
 pag-uusapan natin na inclusive education,
 
-**[01:08:58.410] John Lloyd B. Elsisura** (asr-001603)  
+**[01:08:58.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001603)  
 program, hindi po ba dapat
 
-**[01:09:00.330] John Lloyd B. Elsisura** (asr-001604)  
+**[01:09:00.330] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001604)  
 sa regional offices
 
-**[01:09:02.670] John Lloyd B. Elsisura** (asr-001605)  
+**[01:09:02.670] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001605)  
 na sila mismo ang nakakaintindi
 
-**[01:09:04.550] John Lloyd B. Elsisura** (asr-001606)  
+**[01:09:04.550] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001606)  
 sa local context ng mga
 
-**[01:09:06.470] John Lloyd B. Elsisura** (asr-001607)  
+**[01:09:06.470] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001607)  
 marginalized sectors natin
 
-**[01:09:08.590] John Lloyd B. Elsisura** (asr-001608)  
+**[01:09:08.590] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001608)  
 ay sa kanila mismo napupunta
 
-**[01:09:10.170] John Lloyd B. Elsisura** (asr-001609)  
+**[01:09:10.170] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001609)  
 directly at hindi na nagiging
 
-**[01:09:12.570] John Lloyd B. Elsisura** (asr-001610)  
+**[01:09:12.570] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001610)  
 discretionary mula sa central office.
 
-**[01:09:15.710] John Lloyd B. Elsisura** (asr-001611)  
+**[01:09:15.710] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001611)  
 Sa mga guro,
 
-**[01:09:16.570] John Lloyd B. Elsisura** (asr-001612)  
+**[01:09:16.570] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001612)  
 zero budget po para sa ating hiring
 
-**[01:09:18.490] John Lloyd B. Elsisura** (asr-001613)  
+**[01:09:18.490] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001613)  
 ng bagong teachers, habang
 
-**[01:09:20.370] John Lloyd B. Elsisura** (asr-001614)  
+**[01:09:20.370] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001614)  
 may 14,274
 
-**[01:09:22.950] John Lloyd B. Elsisura** (asr-001615)  
+**[01:09:22.950] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001615)  
 backlog
 
-**[01:09:23.590] John Lloyd B. Elsisura** (asr-001616)  
+**[01:09:23.590] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001616)  
 na hindi pinondohan.
 
-**[01:09:26.830] John Lloyd B. Elsisura** (asr-001617)  
+**[01:09:26.830] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001617)  
 Sana po,
 
-**[01:09:28.410] John Lloyd B. Elsisura** (asr-001618)  
+**[01:09:28.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001618)  
 pinondohan din po natin.
 
-**[01:09:30.150] John Lloyd B. Elsisura** (asr-001619)  
+**[01:09:30.150] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001619)  
 Sa learning materials,
 
-**[01:09:32.090] John Lloyd B. Elsisura** (asr-001620)  
+**[01:09:32.090] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001620)  
 target na 97.83
 
-**[01:09:35.570] John Lloyd B. Elsisura** (asr-001621)  
+**[01:09:35.570] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001621)  
 million textbooks
 
-**[01:09:36.470] John Lloyd B. Elsisura** (asr-001622)  
+**[01:09:36.470] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001622)  
 pero 40.25 million lang
 
-**[01:09:38.610] John Lloyd B. Elsisura** (asr-001623)  
+**[01:09:38.610] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001623)  
 ang na-deliver.
 
-**[01:09:40.230] John Lloyd B. Elsisura** (asr-001624)  
+**[01:09:40.230] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001624)  
 At ayon sa
 
-**[01:09:42.610] John Lloyd B. Elsisura** (asr-001625)  
+**[01:09:42.610] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001625)  
 monitoring namin, 59%
 
-**[01:09:44.530] John Lloyd B. Elsisura** (asr-001626)  
+**[01:09:44.530] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001626)  
 ng mga estudyanteng na survey
 
-**[01:09:46.150] John Lloyd B. Elsisura** (asr-001627)  
+**[01:09:46.150] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001627)  
 or 298 over
 
-**[01:09:48.430] John Lloyd B. Elsisura** (asr-001628)  
+**[01:09:48.430] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001628)  
 507 students na na-survey
 
-**[01:09:50.510] John Lloyd B. Elsisura** (asr-001629)  
+**[01:09:50.510] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001629)  
 namin ay walang sariling
 
-**[01:09:52.610] John Lloyd B. Elsisura** (asr-001630)  
+**[01:09:52.610] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001630)  
 rebro. At sa guidance counselors,
 
-**[01:09:54.530] John Lloyd B. Elsisura** (asr-001631)  
+**[01:09:54.530] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001631)  
 kailangan ng 48,000
 
-**[01:09:56.290] John Lloyd B. Elsisura** (asr-001632)  
+**[01:09:56.290] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001632)  
 ng 10,000,
 
-**[01:09:58.410] John Lloyd B. Elsisura** (asr-001633)  
+**[01:09:58.410] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001633)  
 na guidance counselor
 
-**[01:10:00.790] John Lloyd B. Elsisura** (asr-001634)  
+**[01:10:00.790] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001634)  
 para sa 48,000
 
-**[01:10:02.430] John Lloyd B. Elsisura** (asr-001635)  
+**[01:10:02.430] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001635)  
 na target ang na-fund
 
-**[01:10:04.310] John Lloyd B. Elsisura** (asr-001636)  
+**[01:10:04.310] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001636)  
 noong 2026. Fewer than the
 
-**[01:10:06.350] John Lloyd B. Elsisura** (asr-001637)  
+**[01:10:06.350] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001637)  
 1,000 registered guidance counselors
 
-**[01:10:08.370] John Lloyd B. Elsisura** (asr-001638)  
+**[01:10:08.370] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001638)  
 para sa mahigit 45,000
 
-**[01:10:10.450] John Lloyd B. Elsisura** (asr-001639)  
+**[01:10:10.450] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001639)  
 schools sa buong bansa. So imagine
 
-**[01:10:12.530] John Lloyd B. Elsisura** (asr-001640)  
+**[01:10:12.530] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001640)  
 po, 1,000 lang po yung ating
 
-**[01:10:14.510] John Lloyd B. Elsisura** (asr-001641)  
+**[01:10:14.510] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001641)  
 registered guidance counselors
 
-**[01:10:16.670] John Lloyd B. Elsisura** (asr-001642)  
+**[01:10:16.670] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001642)  
 at 45,000 po
 
-**[01:10:18.570] John Lloyd B. Elsisura** (asr-001643)  
+**[01:10:18.570] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001643)  
 yung schools natin.
 
-**[01:10:21.290] John Lloyd B. Elsisura** (asr-001644)  
+**[01:10:21.290] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001644)  
 Kaya naman yung
 
-**[01:10:22.370] John Lloyd B. Elsisura** (asr-001645)  
+**[01:10:22.370] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001645)  
 panawagan namin sa DepEd, DBM
 
-**[01:10:24.270] John Lloyd B. Elsisura** (asr-001646)  
+**[01:10:24.270] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001646)  
 and of course sa Congress po,
 
-**[01:10:25.810] John Lloyd B. Elsisura** (asr-001647)  
+**[01:10:25.810] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001647)  
 una ibalik po yung mga
 
-**[01:10:27.530] John Lloyd B. Elsisura** (asr-001648)  
+**[01:10:27.530] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001648)  
 dedicated line items
 
-**[01:10:29.210] John Lloyd B. Elsisura** (asr-001649)  
+**[01:10:29.210] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001649)  
 para po sa last mile schools,
 
-**[01:10:31.870] John Lloyd B. Elsisura** (asr-001650)  
+**[01:10:31.870] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001650)  
 sa WASH, sa ILRCs,
 
-**[01:10:33.930] John Lloyd B. Elsisura** (asr-001651)  
+**[01:10:33.930] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001651)  
 sa ALS,
 
-**[01:10:35.470] John Lloyd B. Elsisura** (asr-001652)  
+**[01:10:35.470] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001652)  
 learning materials at inclusive education
 
-**[01:10:38.030] John Lloyd B. Elsisura** (asr-001653)  
+**[01:10:38.030] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001653)  
 specifically. Ikalawa,
 
-**[01:10:39.930] John Lloyd B. Elsisura** (asr-001654)  
+**[01:10:39.930] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001654)  
 maglagay po ng malinaw at masusukat
 
-**[01:10:41.830] John Lloyd B. Elsisura** (asr-001655)  
+**[01:10:41.830] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001655)  
 na targets. Restore and
 
-**[01:10:43.710] John Lloyd B. Elsisura** (asr-001656)  
+**[01:10:43.710] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001656)  
 expand inclusive education program.
 
-**[01:10:46.130] John Lloyd B. Elsisura** (asr-001657)  
+**[01:10:46.130] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001657)  
 Ikatlo, i-decentralize
 
-**[01:10:47.710] John Lloyd B. Elsisura** (asr-001658)  
+**[01:10:47.710] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001658)  
 hindi lang implementation, kundi pati
 
-**[01:10:49.490] John Lloyd B. Elsisura** (asr-001659)  
+**[01:10:49.490] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001659)  
 ang resources at budget authority patungo
 
-**[01:10:51.910] John Lloyd B. Elsisura** (asr-001660)  
+**[01:10:51.910] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001660)  
 sa regions.
 
 **[01:10:52.510] John Castillo** (asr-001660-split-2)  
@@ -4999,7 +4999,7 @@ task force for proper
 **[01:10:59.850] John Castillo** (asr-001664)  
 feedback. Thank you.
 
-**[01:11:00.970] John Lloyd B. Elsisura** (asr-001665)  
+**[01:11:00.970] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001665)  
 Okay po. Maraming salamat po.
 
 **[01:11:02.370] John Castillo** (asr-001666)  
@@ -5011,52 +5011,52 @@ John Lloyd?
 **[01:11:04.710] Rep. Arnie B. Fuentebella** (asr-001668)  
 How young are you?
 
-**[01:11:06.570] John Lloyd B. Elsisura** (asr-001669)  
+**[01:11:06.570] Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura** (asr-001669)  
 I'm 20 years old po.
 
 **[01:11:08.190] Rep. Arnie B. Fuentebella** (asr-001670)  
 Sobrang galing mo ah.
 
-**[01:13:41.140] Patricia Geneva de la Torre** (asr-001671)  
+**[01:13:41.140] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001671)  
 ...with the higher education
 
-**[01:13:45.860] Patricia Geneva de la Torre** (asr-001672)  
+**[01:13:45.860] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001672)  
 unit sector and
 
-**[01:13:47.920] Patricia Geneva de la Torre** (asr-001673)  
+**[01:13:47.920] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001673)  
 accorded by our leadership
 
-**[01:13:50.240] Patricia Geneva de la Torre** (asr-001674)  
+**[01:13:50.240] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001674)  
 of its director and
 
-**[01:13:51.900] Patricia Geneva de la Torre** (asr-001675)  
+**[01:13:51.900] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001675)  
 visiting fellows of the
 
-**[01:13:53.200] Patricia Geneva de la Torre** (asr-001676)  
+**[01:13:53.200] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001676)  
 CHED Tech School.
 
-**[01:13:57.640] Patricia Geneva de la Torre** (asr-001677)  
+**[01:13:57.640] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001677)  
 A pivotal role,
 
-**[01:13:59.800] Patricia Geneva de la Torre** (asr-001678)  
+**[01:13:59.800] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001678)  
 in delivering DBM's Public Financial Management Competency Program.
 
-**[01:14:06.420] Patricia Geneva de la Torre** (asr-001679)  
+**[01:14:06.420] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001679)  
 So, this is for the SUCs nationwide.
 
-**[01:14:10.200] Patricia Geneva de la Torre** (asr-001680)  
+**[01:14:10.200] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001680)  
 And through these strategic partnerships, we believe that GRE continues to strengthen institutional capacities
 
-**[01:14:17.580] Patricia Geneva de la Torre** (asr-001681)  
+**[01:14:17.580] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001681)  
 and empower development stakeholders and also uphold the highest standards of public governance.
 
-**[01:14:24.260] Patricia Geneva de la Torre** (asr-001682)  
+**[01:14:24.260] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001682)  
 And of course, from our observation, hearing from the representatives of institutions within this panel session,
 
-**[01:14:34.780] Patricia Geneva de la Torre** (asr-001683)  
+**[01:14:34.780] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001683)  
 I really believe that the GRE would be able to provide then also our insights for upcoming researchers.
 
-**[01:14:44.080] Patricia Geneva de la Torre** (asr-001684)  
+**[01:14:44.080] Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre** (asr-001684)  
 And that's all for the GRE. Thank you very much.
 
 **[01:14:48.260] John Castillo** (asr-001685)  
@@ -5740,283 +5740,283 @@ Freedom.
 **[01:22:25.480] John Castillo** (asr-001909)  
 Please take the floor. Thank you.
 
-**[01:22:27.360] Camille Fajardo** (asr-001910)  
+**[01:22:27.360] Safe Travel PH Representative Camille Fajardo** (asr-001910)  
 Alright. So, good morning.
 
-**[01:22:28.960] Camille Fajardo** (asr-001911)  
+**[01:22:28.960] Safe Travel PH Representative Camille Fajardo** (asr-001911)  
 Good morning, everyone.
 
-**[01:22:31.040] Camille Fajardo** (asr-001912)  
+**[01:22:31.040] Safe Travel PH Representative Camille Fajardo** (asr-001912)  
 I'm from, yes, I'm Camille Fajardo
 
-**[01:22:33.100] Camille Fajardo** (asr-001913)  
+**[01:22:33.100] Safe Travel PH Representative Camille Fajardo** (asr-001913)  
 from Safe Travel PH.
 
-**[01:22:35.280] Camille Fajardo** (asr-001914)  
+**[01:22:35.280] Safe Travel PH Representative Camille Fajardo** (asr-001914)  
 So, Safe Travel PH
 
-**[01:22:37.200] Camille Fajardo** (asr-001915)  
+**[01:22:37.200] Safe Travel PH Representative Camille Fajardo** (asr-001915)  
 is an NGO based in the
 
-**[01:22:39.080] Camille Fajardo** (asr-001916)  
+**[01:22:39.080] Safe Travel PH Representative Camille Fajardo** (asr-001916)  
 UP National College of Public
 
-**[01:22:41.140] Camille Fajardo** (asr-001917)  
+**[01:22:41.140] Safe Travel PH Representative Camille Fajardo** (asr-001917)  
 Administration and Governance.
 
-**[01:22:43.140] Camille Fajardo** (asr-001918)  
+**[01:22:43.140] Safe Travel PH Representative Camille Fajardo** (asr-001918)  
 We are a multidisciplinary group
 
-**[01:22:45.120] Camille Fajardo** (asr-001919)  
+**[01:22:45.120] Safe Travel PH Representative Camille Fajardo** (asr-001919)  
 of academics, researchers,
 
-**[01:22:47.240] Camille Fajardo** (asr-001920)  
+**[01:22:47.240] Safe Travel PH Representative Camille Fajardo** (asr-001920)  
 and public transport operators.
 
-**[01:22:50.260] Camille Fajardo** (asr-001921)  
+**[01:22:50.260] Safe Travel PH Representative Camille Fajardo** (asr-001921)  
 So,
 
-**[01:22:51.260] Camille Fajardo** (asr-001922)  
+**[01:22:51.260] Safe Travel PH Representative Camille Fajardo** (asr-001922)  
 just one thing, just one
 
-**[01:22:53.200] Camille Fajardo** (asr-001923)  
+**[01:22:53.200] Safe Travel PH Representative Camille Fajardo** (asr-001923)  
 concern that we would like to highlight is
 
-**[01:22:55.060] Camille Fajardo** (asr-001924)  
+**[01:22:55.060] Safe Travel PH Representative Camille Fajardo** (asr-001924)  
 that for the 2027
 
-**[01:22:56.620] Camille Fajardo** (asr-001925)  
+**[01:22:56.620] Safe Travel PH Representative Camille Fajardo** (asr-001925)  
 budget, we would like to raise,
 
-**[01:22:58.960] Camille Fajardo** (asr-001926)  
+**[01:22:58.960] Safe Travel PH Representative Camille Fajardo** (asr-001926)  
 is that we should not only look
 
-**[01:23:01.100] Camille Fajardo** (asr-001927)  
+**[01:23:01.100] Safe Travel PH Representative Camille Fajardo** (asr-001927)  
 at how much agencies are
 
-**[01:23:02.940] Camille Fajardo** (asr-001928)  
+**[01:23:02.940] Safe Travel PH Representative Camille Fajardo** (asr-001928)  
 spending, but also
 
-**[01:23:04.960] Camille Fajardo** (asr-001929)  
+**[01:23:04.960] Safe Travel PH Representative Camille Fajardo** (asr-001929)  
 at what public outcomes
 
-**[01:23:07.020] Camille Fajardo** (asr-001930)  
+**[01:23:07.020] Safe Travel PH Representative Camille Fajardo** (asr-001930)  
 that spending is actually
 
-**[01:23:08.780] Camille Fajardo** (asr-001931)  
+**[01:23:08.780] Safe Travel PH Representative Camille Fajardo** (asr-001931)  
 producing. We recognize
 
-**[01:23:11.060] Camille Fajardo** (asr-001932)  
+**[01:23:11.060] Safe Travel PH Representative Camille Fajardo** (asr-001932)  
 that budget utilization
 
-**[01:23:12.860] Camille Fajardo** (asr-001933)  
+**[01:23:12.860] Safe Travel PH Representative Camille Fajardo** (asr-001933)  
 is important, but the
 
-**[01:23:14.940] Camille Fajardo** (asr-001934)  
+**[01:23:14.940] Safe Travel PH Representative Camille Fajardo** (asr-001934)  
 low obligation or disbursement
 
-**[01:23:17.140] Camille Fajardo** (asr-001935)  
+**[01:23:17.140] Safe Travel PH Representative Camille Fajardo** (asr-001935)  
 rate does not automatically
 
-**[01:23:19.220] Camille Fajardo** (asr-001936)  
+**[01:23:19.220] Safe Travel PH Representative Camille Fajardo** (asr-001936)  
 mean that the program
 
-**[01:23:20.820] Camille Fajardo** (asr-001937)  
+**[01:23:20.820] Safe Travel PH Representative Camille Fajardo** (asr-001937)  
 is unnecessary or should
 
-**[01:23:22.860] Camille Fajardo** (asr-001938)  
+**[01:23:22.860] Safe Travel PH Representative Camille Fajardo** (asr-001938)  
 receive less funding.
 
-**[01:23:25.040] Camille Fajardo** (asr-001939)  
+**[01:23:25.040] Safe Travel PH Representative Camille Fajardo** (asr-001939)  
 It may also reflect
 
-**[01:23:26.380] Camille Fajardo** (asr-001940)  
+**[01:23:26.380] Safe Travel PH Representative Camille Fajardo** (asr-001940)  
 procurement delays, weak
 
-**[01:23:28.960] Camille Fajardo** (asr-001941)  
+**[01:23:28.960] Safe Travel PH Representative Camille Fajardo** (asr-001941)  
 staffing, delayed fund
 
-**[01:23:30.760] Camille Fajardo** (asr-001942)  
+**[01:23:30.760] Safe Travel PH Representative Camille Fajardo** (asr-001942)  
 releases, poor program
 
-**[01:23:32.920] Camille Fajardo** (asr-001943)  
+**[01:23:32.920] Safe Travel PH Representative Camille Fajardo** (asr-001943)  
 design, or implementation
 
-**[01:23:34.480] Camille Fajardo** (asr-001944)  
+**[01:23:34.480] Safe Travel PH Representative Camille Fajardo** (asr-001944)  
 bottlenecks. Our own
 
-**[01:23:36.880] Camille Fajardo** (asr-001945)  
+**[01:23:36.880] Safe Travel PH Representative Camille Fajardo** (asr-001945)  
 budget work has emphasized
 
-**[01:23:38.320] Camille Fajardo** (asr-001946)  
+**[01:23:38.320] Safe Travel PH Representative Camille Fajardo** (asr-001946)  
 that these underlying causes need
 
-**[01:23:40.900] Camille Fajardo** (asr-001947)  
+**[01:23:40.900] Safe Travel PH Representative Camille Fajardo** (asr-001947)  
 to be examined before drawing
 
-**[01:23:42.680] Camille Fajardo** (asr-001948)  
+**[01:23:42.680] Safe Travel PH Representative Camille Fajardo** (asr-001948)  
 conclusions from utilization figures
 
-**[01:23:45.140] Camille Fajardo** (asr-001949)  
+**[01:23:45.140] Safe Travel PH Representative Camille Fajardo** (asr-001949)  
 alone.
 
-**[01:23:46.800] Camille Fajardo** (asr-001950)  
+**[01:23:46.800] Safe Travel PH Representative Camille Fajardo** (asr-001950)  
 And likewise, high accomplishment
 
-**[01:23:49.020] Camille Fajardo** (asr-001951)  
+**[01:23:49.020] Safe Travel PH Representative Camille Fajardo** (asr-001951)  
 rates should not automatically
 
-**[01:23:50.780] Camille Fajardo** (asr-001952)  
+**[01:23:50.780] Safe Travel PH Representative Camille Fajardo** (asr-001952)  
 be treated as proof of success.
 
-**[01:23:53.640] Camille Fajardo** (asr-001953)  
+**[01:23:53.640] Safe Travel PH Representative Camille Fajardo** (asr-001953)  
 Congress should be able to
 
-**[01:23:54.880] Camille Fajardo** (asr-001954)  
+**[01:23:54.880] Safe Travel PH Representative Camille Fajardo** (asr-001954)  
 ask, what is the baseline?
 
-**[01:23:57.240] Camille Fajardo** (asr-001955)  
+**[01:23:57.240] Safe Travel PH Representative Camille Fajardo** (asr-001955)  
 What is the denominator?
 
-**[01:23:58.960] Camille Fajardo** (asr-001956)  
+**[01:23:58.960] Safe Travel PH Representative Camille Fajardo** (asr-001956)  
 What data were used?
 
-**[01:24:01.800] Camille Fajardo** (asr-001957)  
+**[01:24:01.800] Safe Travel PH Representative Camille Fajardo** (asr-001957)  
 And most importantly,
 
-**[01:24:03.320] Camille Fajardo** (asr-001958)  
+**[01:24:03.320] Safe Travel PH Representative Camille Fajardo** (asr-001958)  
 did people actually experience
 
-**[01:24:05.080] Camille Fajardo** (asr-001959)  
+**[01:24:05.080] Safe Travel PH Representative Camille Fajardo** (asr-001959)  
 better services?
 
-**[01:24:06.840] Camille Fajardo** (asr-001960)  
+**[01:24:06.840] Safe Travel PH Representative Camille Fajardo** (asr-001960)  
 For transportation, this means
 
-**[01:24:09.120] Camille Fajardo** (asr-001961)  
+**[01:24:09.120] Safe Travel PH Representative Camille Fajardo** (asr-001961)  
 looking beyond the number of vehicles
 
-**[01:24:11.140] Camille Fajardo** (asr-001962)  
+**[01:24:11.140] Safe Travel PH Representative Camille Fajardo** (asr-001962)  
 modernized, plans
 
-**[01:24:13.140] Camille Fajardo** (asr-001963)  
+**[01:24:13.140] Safe Travel PH Representative Camille Fajardo** (asr-001963)  
 approved, or subsidies released.
 
-**[01:24:15.740] Camille Fajardo** (asr-001964)  
+**[01:24:15.740] Safe Travel PH Representative Camille Fajardo** (asr-001964)  
 We should be measuring
 
-**[01:24:16.940] Camille Fajardo** (asr-001965)  
+**[01:24:16.940] Safe Travel PH Representative Camille Fajardo** (asr-001965)  
 whether commuters are experiencing
 
-**[01:24:18.760] Camille Fajardo** (asr-001966)  
+**[01:24:18.760] Safe Travel PH Representative Camille Fajardo** (asr-001966)  
 shorter waiting times,
 
-**[01:24:21.400] Camille Fajardo** (asr-001967)  
+**[01:24:21.400] Safe Travel PH Representative Camille Fajardo** (asr-001967)  
 more reliable service,
 
-**[01:24:23.700] Camille Fajardo** (asr-001968)  
+**[01:24:23.700] Safe Travel PH Representative Camille Fajardo** (asr-001968)  
 safer access,
 
-**[01:24:25.580] Camille Fajardo** (asr-001969)  
+**[01:24:25.580] Safe Travel PH Representative Camille Fajardo** (asr-001969)  
 better affordability,
 
-**[01:24:26.800] Camille Fajardo** (asr-001970)  
+**[01:24:26.800] Safe Travel PH Representative Camille Fajardo** (asr-001970)  
 and whether transport
 
-**[01:24:28.760] Camille Fajardo** (asr-001971)  
+**[01:24:28.760] Safe Travel PH Representative Camille Fajardo** (asr-001971)  
 workers have sustainable
 
-**[01:24:30.300] Camille Fajardo** (asr-001972)  
+**[01:24:30.300] Safe Travel PH Representative Camille Fajardo** (asr-001972)  
 livelihoods.
 
-**[01:24:32.140] Camille Fajardo** (asr-001973)  
+**[01:24:32.140] Safe Travel PH Representative Camille Fajardo** (asr-001973)  
 So these commuter-centered indicators
 
-**[01:24:34.360] Camille Fajardo** (asr-001974)  
+**[01:24:34.360] Safe Travel PH Representative Camille Fajardo** (asr-001974)  
 are still not prominent
 
-**[01:24:35.900] Camille Fajardo** (asr-001975)  
+**[01:24:35.900] Safe Travel PH Representative Camille Fajardo** (asr-001975)  
 in current public transport
 
-**[01:24:38.040] Camille Fajardo** (asr-001976)  
+**[01:24:38.040] Safe Travel PH Representative Camille Fajardo** (asr-001976)  
 performance reporting.
 
-**[01:24:40.020] Camille Fajardo** (asr-001977)  
+**[01:24:40.020] Safe Travel PH Representative Camille Fajardo** (asr-001977)  
 And this brings me specifically
 
-**[01:24:41.760] Camille Fajardo** (asr-001978)  
+**[01:24:41.760] Safe Travel PH Representative Camille Fajardo** (asr-001978)  
 to the proposed 2027 DOTR
 
-**[01:24:44.600] Camille Fajardo** (asr-001979)  
+**[01:24:44.600] Safe Travel PH Representative Camille Fajardo** (asr-001979)  
 budget. We are concerned
 
-**[01:24:46.820] Camille Fajardo** (asr-001980)  
+**[01:24:46.820] Safe Travel PH Representative Camille Fajardo** (asr-001980)  
 that the fuel subsidy
 
-**[01:24:48.300] Camille Fajardo** (asr-001981)  
+**[01:24:48.300] Safe Travel PH Representative Camille Fajardo** (asr-001981)  
 and service contracting programs
 
-**[01:24:50.140] Camille Fajardo** (asr-001982)  
+**[01:24:50.140] Safe Travel PH Representative Camille Fajardo** (asr-001982)  
 have zero proposed allocation,
 
-**[01:24:52.640] Camille Fajardo** (asr-001983)  
+**[01:24:52.640] Safe Travel PH Representative Camille Fajardo** (asr-001983)  
 while the public transport
 
-**[01:24:53.980] Camille Fajardo** (asr-001984)  
+**[01:24:53.980] Safe Travel PH Representative Camille Fajardo** (asr-001984)  
 modernization program is only around
 
-**[01:24:56.160] Camille Fajardo** (asr-001985)  
+**[01:24:56.160] Safe Travel PH Representative Camille Fajardo** (asr-001985)  
 176.8 million
 
-**[01:24:58.440] Camille Fajardo** (asr-001986)  
+**[01:24:58.440] Safe Travel PH Representative Camille Fajardo** (asr-001986)  
 nationwide.
 
-**[01:25:00.240] Camille Fajardo** (asr-001987)  
+**[01:25:00.240] Safe Travel PH Representative Camille Fajardo** (asr-001987)  
 If these reductions are being justified
 
-**[01:25:02.800] Camille Fajardo** (asr-001988)  
+**[01:25:02.800] Safe Travel PH Representative Camille Fajardo** (asr-001988)  
 by underutilization,
 
-**[01:25:04.240] Camille Fajardo** (asr-001989)  
+**[01:25:04.240] Safe Travel PH Representative Camille Fajardo** (asr-001989)  
 then Congress should ask,
 
-**[01:25:06.240] Camille Fajardo** (asr-001990)  
+**[01:25:06.240] Safe Travel PH Representative Camille Fajardo** (asr-001990)  
 how exactly was this
 
-**[01:25:08.240] Camille Fajardo** (asr-001991)  
+**[01:25:08.240] Safe Travel PH Representative Camille Fajardo** (asr-001991)  
 underutilization evaluated?
 
-**[01:25:10.240] Camille Fajardo** (asr-001992)  
+**[01:25:10.240] Safe Travel PH Representative Camille Fajardo** (asr-001992)  
 What caused it?
 
-**[01:25:12.240] Camille Fajardo** (asr-001993)  
+**[01:25:12.240] Safe Travel PH Representative Camille Fajardo** (asr-001993)  
 And why is the response to reduce
 
-**[01:25:14.240] Camille Fajardo** (asr-001994)  
+**[01:25:14.240] Safe Travel PH Representative Camille Fajardo** (asr-001994)  
 funding instead of fixing
 
-**[01:25:16.240] Camille Fajardo** (asr-001995)  
+**[01:25:16.240] Safe Travel PH Representative Camille Fajardo** (asr-001995)  
 the implementation bottlenecks?
 
-**[01:25:18.240] Camille Fajardo** (asr-001996)  
+**[01:25:18.240] Safe Travel PH Representative Camille Fajardo** (asr-001996)  
 And for us, the central question
 
-**[01:25:20.240] Camille Fajardo** (asr-001997)  
+**[01:25:20.240] Safe Travel PH Representative Camille Fajardo** (asr-001997)  
 is simple. So does
 
-**[01:25:22.240] Camille Fajardo** (asr-001998)  
+**[01:25:22.240] Safe Travel PH Representative Camille Fajardo** (asr-001998)  
 the 2027 budget actually match
 
-**[01:25:24.240] Camille Fajardo** (asr-001999)  
+**[01:25:24.240] Safe Travel PH Representative Camille Fajardo** (asr-001999)  
 the scale of the mobility problems
 
-**[01:25:26.240] Camille Fajardo** (asr-002000)  
+**[01:25:26.240] Safe Travel PH Representative Camille Fajardo** (asr-002000)  
 experienced every day by commuters and transport workers?
 
-**[01:25:31.220] Camille Fajardo** (asr-002001)  
+**[01:25:31.220] Safe Travel PH Representative Camille Fajardo** (asr-002001)  
 So, yun lamang po.
 
-**[01:25:32.400] Camille Fajardo** (asr-002002)  
+**[01:25:32.400] Safe Travel PH Representative Camille Fajardo** (asr-002002)  
 Maraming salamat.
 
 **[01:25:35.240] John Castillo** (asr-002005)  
@@ -6040,13 +6040,13 @@ the next CSO representative
 **[01:25:50.420] John Castillo** (asr-002011)  
 from...
 
-**[01:25:51.000] Ysabel Eugene G. Agregado** (asr-002012)  
+**[01:25:51.000] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002012)  
 Upo na lang po ako.
 
 **[01:25:52.040] John Castillo** (asr-002013)  
 Ay, upo ka na lang.
 
-**[01:25:53.100] Ysabel Eugene G. Agregado** (asr-002014)  
+**[01:25:53.100] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002014)  
 Ay, sige, pwede naman.
 
 **[01:25:54.020] John Castillo** (asr-002015)  
@@ -6058,316 +6058,316 @@ What do you prefer po?
 **[01:25:57.180] John Castillo** (asr-002017)  
 Ayan.
 
-**[01:25:57.720] Ysabel Eugene G. Agregado** (asr-002018)  
+**[01:25:57.720] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002018)  
 Salamat, Kamil, for sharing
 
-**[01:26:00.380] Ysabel Eugene G. Agregado** (asr-002019)  
+**[01:26:00.380] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002019)  
 what we've learned today.
 
-**[01:26:00.860] Ysabel Eugene G. Agregado** (asr-002020)  
+**[01:26:00.860] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002020)  
 we also advocate for. Good morning po
 
-**[01:26:02.940] Ysabel Eugene G. Agregado** (asr-002021)  
+**[01:26:02.940] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002021)  
 akong Abet and the panel. To everyone
 
-**[01:26:05.120] Ysabel Eugene G. Agregado** (asr-002022)  
+**[01:26:05.120] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002022)  
 here today, lalo na po sa mga nagko-commute,
 
-**[01:26:07.640] Ysabel Eugene G. Agregado** (asr-002023)  
+**[01:26:07.640] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002023)  
 naglalakad at nagbabike,
 
-**[01:26:09.060] Ysabel Eugene G. Agregado** (asr-002024)  
+**[01:26:09.060] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002024)  
 magandang
 
-**[01:26:09.660] Ysabel Eugene G. Agregado** (asr-002025)  
+**[01:26:09.660] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002025)  
 panghali po, sakto 12 noon.
 
-**[01:26:13.560] Ysabel Eugene G. Agregado** (asr-002026)  
+**[01:26:13.560] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002026)  
 Ako po si Ysabel Agregado
 
-**[01:26:15.220] Ysabel Eugene G. Agregado** (asr-002027)  
+**[01:26:15.220] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002027)  
 from the Move As One Coalition.
 
-**[01:26:16.880] Ysabel Eugene G. Agregado** (asr-002028)  
+**[01:26:16.880] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002028)  
 We advocate for better public transport,
 
-**[01:26:19.440] Ysabel Eugene G. Agregado** (asr-002029)  
+**[01:26:19.440] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002029)  
 active mobility, and road safety
 
-**[01:26:21.220] Ysabel Eugene G. Agregado** (asr-002030)  
+**[01:26:21.220] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002030)  
 in the Philippines.
 
-**[01:26:23.200] Ysabel Eugene G. Agregado** (asr-002031)  
+**[01:26:23.200] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002031)  
 For public transport and active mobility,
 
-**[01:26:25.680] Ysabel Eugene G. Agregado** (asr-002032)  
+**[01:26:25.680] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002032)  
 fortunately, during the
 
-**[01:26:26.980] Ysabel Eugene G. Agregado** (asr-002033)  
+**[01:26:26.980] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002033)  
 DOTR budget hearing, si
 
-**[01:26:28.600] Ysabel Eugene G. Agregado** (asr-002034)  
+**[01:26:28.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002034)  
 Rep. Arogancia was asked our
 
-**[01:26:31.080] Ysabel Eugene G. Agregado** (asr-002035)  
+**[01:26:31.080] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002035)  
 questions, I think po, for the CSOs.
 
-**[01:26:33.380] Ysabel Eugene G. Agregado** (asr-002036)  
+**[01:26:33.380] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002036)  
 We've already received support
 
-**[01:26:34.880] Ysabel Eugene G. Agregado** (asr-002037)  
+**[01:26:34.880] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002037)  
 from multiple members of the House
 
-**[01:26:36.780] Ysabel Eugene G. Agregado** (asr-002038)  
+**[01:26:36.780] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002038)  
 to restore the funding po dun sa mga
 
-**[01:26:38.900] Ysabel Eugene G. Agregado** (asr-002039)  
+**[01:26:38.900] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002039)  
 nabanggit ni Camille na na-zero
 
-**[01:26:40.540] Ysabel Eugene G. Agregado** (asr-002040)  
+**[01:26:40.540] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002040)  
 or almost zero na funding for critical
 
-**[01:26:42.960] Ysabel Eugene G. Agregado** (asr-002041)  
+**[01:26:42.960] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002041)  
 road-based transport programs.
 
-**[01:26:44.860] Ysabel Eugene G. Agregado** (asr-002042)  
+**[01:26:44.860] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002042)  
 This includes po yung EDSA busway.
 
-**[01:26:47.140] Ysabel Eugene G. Agregado** (asr-002043)  
+**[01:26:47.140] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002043)  
 Shout out po sa mga sumasakay na EDSA
 
-**[01:26:48.860] Ysabel Eugene G. Agregado** (asr-002044)  
+**[01:26:48.860] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002044)  
 busway dito. Active
 
-**[01:26:50.860] Ysabel Eugene G. Agregado** (asr-002045)  
+**[01:26:50.860] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002045)  
 transport po, which includes our sidewalks,
 
-**[01:26:53.300] Ysabel Eugene G. Agregado** (asr-002046)  
+**[01:26:53.300] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002046)  
 not just bike lanes, but also
 
-**[01:26:55.080] Ysabel Eugene G. Agregado** (asr-002047)  
+**[01:26:55.080] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002047)  
 our sidewalks.
 
-**[01:26:57.180] Ysabel Eugene G. Agregado** (asr-002048)  
+**[01:26:57.180] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002048)  
 And also subsidies.
 
-**[01:26:58.600] Ysabel Eugene G. Agregado** (asr-002049)  
+**[01:26:58.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002049)  
 For our transport workers, yung fuel subsidy
 
-**[01:27:00.880] Ysabel Eugene G. Agregado** (asr-002050)  
+**[01:27:00.880] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002050)  
 program and service contracting
 
-**[01:27:02.960] Ysabel Eugene G. Agregado** (asr-002051)  
+**[01:27:02.960] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002051)  
 program. Nakakalungkot po
 
-**[01:27:05.160] Ysabel Eugene G. Agregado** (asr-002052)  
+**[01:27:05.160] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002052)  
 na the programs that were used to
 
-**[01:27:06.980] Ysabel Eugene G. Agregado** (asr-002053)  
+**[01:27:06.980] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002053)  
 help the sector during the oil
 
-**[01:27:08.780] Ysabel Eugene G. Agregado** (asr-002054)  
+**[01:27:08.780] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002054)  
 crisis. Imbis na dagdagan po yung
 
-**[01:27:11.020] Ysabel Eugene G. Agregado** (asr-002055)  
+**[01:27:11.020] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002055)  
 pondo kasi kinulang po ito this year,
 
-**[01:27:13.740] Ysabel Eugene G. Agregado** (asr-002056)  
+**[01:27:13.740] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002056)  
 zero po ang pondo
 
-**[01:27:14.960] Ysabel Eugene G. Agregado** (asr-002057)  
+**[01:27:14.960] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002057)  
 for next year. But thankfully po,
 
-**[01:27:17.260] Ysabel Eugene G. Agregado** (asr-002058)  
+**[01:27:17.260] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002058)  
 may support na from Congress
 
-**[01:27:18.900] Ysabel Eugene G. Agregado** (asr-002059)  
+**[01:27:18.900] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002059)  
 and hopefully po, masi-through po yun hanggang
 
-**[01:27:21.020] Ysabel Eugene G. Agregado** (asr-002060)  
+**[01:27:21.020] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002060)  
 mag-gaa po tayo. Now for
 
-**[01:27:23.020] Ysabel Eugene G. Agregado** (asr-002061)  
+**[01:27:23.020] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002061)  
 our third pillar po sa Move Us One,
 
-**[01:27:24.980] Ysabel Eugene G. Agregado** (asr-002062)  
+**[01:27:24.980] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002062)  
 road safety. We'd like to raise
 
-**[01:27:27.040] Ysabel Eugene G. Agregado** (asr-002063)  
+**[01:27:27.040] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002063)  
 something po that the Congress has never
 
-**[01:27:28.880] Ysabel Eugene G. Agregado** (asr-002064)  
+**[01:27:28.880] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002064)  
 funded. The implementation
 
-**[01:27:30.540] Ysabel Eugene G. Agregado** (asr-002065)  
+**[01:27:30.540] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002065)  
 of the 2023 to
 
-**[01:27:32.820] Ysabel Eugene G. Agregado** (asr-002066)  
+**[01:27:32.820] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002066)  
 2028 Philippine Road Safety
 
-**[01:27:34.880] Ysabel Eugene G. Agregado** (asr-002067)  
+**[01:27:34.880] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002067)  
 Action Plan. Road crashes
 
-**[01:27:36.960] Ysabel Eugene G. Agregado** (asr-002068)  
+**[01:27:36.960] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002068)  
 po remain the top cause of
 
-**[01:27:38.940] Ysabel Eugene G. Agregado** (asr-002069)  
+**[01:27:38.940] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002069)  
 death for Filipinos age
 
-**[01:27:40.840] Ysabel Eugene G. Agregado** (asr-002070)  
+**[01:27:40.840] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002070)  
 15 to 29 years old.
 
-**[01:27:42.920] Ysabel Eugene G. Agregado** (asr-002071)  
+**[01:27:42.920] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002071)  
 So pasok pa po ako sa age group na yun. Kayo rin
 
-**[01:27:44.940] Ysabel Eugene G. Agregado** (asr-002072)  
+**[01:27:44.940] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002072)  
 po, pasok pa po sa age group na yun.
 
-**[01:27:48.460] Ysabel Eugene G. Agregado** (asr-002073)  
+**[01:27:48.460] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002073)  
 The
 
-**[01:27:48.980] Ysabel Eugene G. Agregado** (asr-002074)  
+**[01:27:48.980] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002074)  
 DOTR proposes to fund this
 
-**[01:27:51.020] Ysabel Eugene G. Agregado** (asr-002075)  
+**[01:27:51.020] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002075)  
 every year. Hindi po malaki ang hinihingi
 
-**[01:27:53.240] Ysabel Eugene G. Agregado** (asr-002076)  
+**[01:27:53.240] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002076)  
 nila, just a hundred million pesos.
 
-**[01:27:55.420] Ysabel Eugene G. Agregado** (asr-002077)  
+**[01:27:55.420] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002077)  
 Two years na lang po yung natitira sa
 
-**[01:27:56.920] Ysabel Eugene G. Agregado** (asr-002078)  
+**[01:27:56.920] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002078)  
 plano, but we've never funded
 
-**[01:27:58.960] Ysabel Eugene G. Agregado** (asr-002079)  
+**[01:27:58.960] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002079)  
 this. So hopefully po,
 
-**[01:28:01.360] Ysabel Eugene G. Agregado** (asr-002080)  
+**[01:28:01.360] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002080)  
 2027 is
 
-**[01:28:03.020] Ysabel Eugene G. Agregado** (asr-002081)  
+**[01:28:03.020] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002081)  
 the year. And
 
-**[01:28:04.500] Ysabel Eugene G. Agregado** (asr-002082)  
+**[01:28:04.500] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002082)  
 I'll end po doon for the transport sector
 
-**[01:28:07.180] Ysabel Eugene G. Agregado** (asr-002083)  
+**[01:28:07.180] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002083)  
 just to
 
-**[01:28:08.120] Ysabel Eugene G. Agregado** (asr-002084)  
+**[01:28:08.120] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002084)  
 move beyond po yung transport
 
-**[01:28:11.140] Ysabel Eugene G. Agregado** (asr-002085)  
+**[01:28:11.140] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002085)  
 as a member of the People's Budget
 
-**[01:28:12.900] Ysabel Eugene G. Agregado** (asr-002086)  
+**[01:28:12.900] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002086)  
 Coalition with sila AJ po.
 
-**[01:28:14.860] Ysabel Eugene G. Agregado** (asr-002087)  
+**[01:28:14.860] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002087)  
 We also ask the Congress to act
 
-**[01:28:16.980] Ysabel Eugene G. Agregado** (asr-002088)  
+**[01:28:16.980] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002088)  
 on reform measures
 
-**[01:28:18.340] Ysabel Eugene G. Agregado** (asr-002089)  
+**[01:28:18.340] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002089)  
 already before the House,
 
-**[01:28:20.960] Ysabel Eugene G. Agregado** (asr-002090)  
+**[01:28:20.960] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002090)  
 lalo na po yung Cadena Act.
 
-**[01:28:23.620] Ysabel Eugene G. Agregado** (asr-002091)  
+**[01:28:23.620] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002091)  
 This was approved by the
 
-**[01:28:24.960] Ysabel Eugene G. Agregado** (asr-002092)  
+**[01:28:24.960] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002092)  
 Senate in December 2025.
 
-**[01:28:26.920] Ysabel Eugene G. Agregado** (asr-002093)  
+**[01:28:26.920] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002093)  
 It has now been pending in the House.
 
-**[01:28:28.860] Ysabel Eugene G. Agregado** (asr-002094)  
+**[01:28:28.860] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002094)  
 This Act would provide the transparency
 
-**[01:28:30.700] Ysabel Eugene G. Agregado** (asr-002095)  
+**[01:28:30.700] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002095)  
 infrastructure needed to digitize
 
-**[01:28:33.300] Ysabel Eugene G. Agregado** (asr-002096)  
+**[01:28:33.300] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002096)  
 and publicly verify House
 
-**[01:28:35.000] Ysabel Eugene G. Agregado** (asr-002097)  
+**[01:28:35.000] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002097)  
 budget amendments, allowing citizens
 
-**[01:28:37.120] Ysabel Eugene G. Agregado** (asr-002098)  
+**[01:28:37.120] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002098)  
 to track whether budget commitments
 
-**[01:28:39.120] Ysabel Eugene G. Agregado** (asr-002099)  
+**[01:28:39.120] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002099)  
 are actually reflected in final
 
-**[01:28:41.020] Ysabel Eugene G. Agregado** (asr-002100)  
+**[01:28:41.020] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002100)  
 appropriations. So existing
 
-**[01:28:43.340] Ysabel Eugene G. Agregado** (asr-002101)  
+**[01:28:43.340] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002101)  
 na po, civil society
 
-**[01:28:45.020] Ysabel Eugene G. Agregado** (asr-002102)  
+**[01:28:45.020] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002102)  
 has been
 
-**[01:28:45.760] Ysabel Eugene G. Agregado** (asr-002103)  
+**[01:28:45.760] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002103)  
 uploading, sending
 
-**[01:28:49.240] Ysabel Eugene G. Agregado** (asr-002104)  
+**[01:28:49.240] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002104)  
 links po for open source tools
 
-**[01:28:51.260] Ysabel Eugene G. Agregado** (asr-002105)  
+**[01:28:51.260] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002105)  
 such as the Open Budget Transparency
 
-**[01:28:53.280] Ysabel Eugene G. Agregado** (asr-002106)  
+**[01:28:53.280] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002106)  
 Server. Kailangan lang po natin
 
-**[01:28:55.020] Ysabel Eugene G. Agregado** (asr-002107)  
+**[01:28:55.020] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002107)  
 ilagay yung legal framework to
 
-**[01:28:56.680] Ysabel Eugene G. Agregado** (asr-002108)  
+**[01:28:56.680] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002108)  
 fund this and keep this maintained
 
-**[01:28:58.400] Ysabel Eugene G. Agregado** (asr-002109)  
+**[01:28:58.400] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002109)  
 hopefully by DBM Congress or kung sino
 
-**[01:29:00.880] Ysabel Eugene G. Agregado** (asr-002110)  
+**[01:29:00.880] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002110)  
 man po. At the end
 
-**[01:29:02.820] Ysabel Eugene G. Agregado** (asr-002111)  
+**[01:29:02.820] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002111)  
 of the day, we have to ask
 
-**[01:29:04.680] Ysabel Eugene G. Agregado** (asr-002112)  
+**[01:29:04.680] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002112)  
 ourselves po, kami po tinatanong namin
 
-**[01:29:06.940] Ysabel Eugene G. Agregado** (asr-002113)  
+**[01:29:06.940] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002113)  
 ano pong CSO inputs
 
-**[01:29:08.620] Ysabel Eugene G. Agregado** (asr-002114)  
+**[01:29:08.620] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002114)  
 ang ano pong
 
-**[01:29:10.600] Ysabel Eugene G. Agregado** (asr-002115)  
+**[01:29:10.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002115)  
 budget line items ang binago po ng
 
-**[01:29:12.540] Ysabel Eugene G. Agregado** (asr-002116)  
+**[01:29:12.540] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002116)  
 Kongreso dahil sa participation
 
-**[01:29:14.480] Ysabel Eugene G. Agregado** (asr-002117)  
+**[01:29:14.480] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002117)  
 ng CSOs. I think that would help
 
-**[01:29:16.260] Ysabel Eugene G. Agregado** (asr-002118)  
+**[01:29:16.260] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002118)  
 Congress, that would help the task force
 
-**[01:29:18.540] Ysabel Eugene G. Agregado** (asr-002119)  
+**[01:29:18.540] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002119)  
 and the civil society po if we're able
 
-**[01:29:20.680] Ysabel Eugene G. Agregado** (asr-002120)  
+**[01:29:20.680] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002120)  
 to push this pong Cadena Act.
 
-**[01:29:22.680] Ysabel Eugene G. Agregado** (asr-002121)  
+**[01:29:22.680] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-002121)  
 Yun lamang po, maraming salamat.
 
 **[01:29:25.720] John Castillo** (asr-002122)  
@@ -6751,97 +6751,97 @@ You can raise your hands or signify.
 **[01:40:17.680] John Castillo** (asr-002248)  
 I think I saw already Sir Tim to raise his concern.
 
-**[01:40:23.680] Tim Salomon** (asr-002249)  
+**[01:40:23.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002249)  
 Yes po, salamat.
 
-**[01:40:25.680] Tim Salomon** (asr-002250)  
+**[01:40:25.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002250)  
 I need to leave na rin.
 
-**[01:40:27.680] Tim Salomon** (asr-002251)  
+**[01:40:27.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002251)  
 [unclear] ako na alis ako ng 12.
 
-**[01:40:29.680] Tim Salomon** (asr-002252)  
+**[01:40:29.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002252)  
 But I wanted to ask for some clarifications on what transpired.
 
-**[01:40:34.680] Tim Salomon** (asr-002253)  
+**[01:40:34.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002253)  
 Kasi nagkaroon po kami ng meeting with the CPBRD nung nagkaroon ng consultation
 
-**[01:40:40.680] Tim Salomon** (asr-002254)  
+**[01:40:40.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002254)  
 with the CSOs.
 
-**[01:40:41.680] Tim Salomon** (asr-002255)  
+**[01:40:41.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002255)  
 Tapos, we waited about one and a half months to be provided new information.
 
-**[01:40:47.680] Tim Salomon** (asr-002256)  
+**[01:40:47.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002256)  
 So, within that process, we already sent questions to the DBM during the DBCC briefing,
 
-**[01:40:54.680] Tim Salomon** (asr-002257)  
+**[01:40:54.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002257)  
 as well as sa DPWH.
 
-**[01:40:56.680] Tim Salomon** (asr-002258)  
+**[01:40:56.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002258)  
 Tapos, we only heard their questions being read during the DILG.
 
-**[01:40:59.680] Tim Salomon** (asr-002259)  
+**[01:40:59.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002259)  
 Nagpapasalamat po kami kay Chair Mika Suansing that she actually asked the questions that we issued from the CODE-NGO.
 
-**[01:41:07.680] Tim Salomon** (asr-002260)  
+**[01:41:07.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002260)  
 So, I just want an explanation kung bakit ganyan yung nangyari,
 
-**[01:41:10.680] Tim Salomon** (asr-002261)  
+**[01:41:10.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002261)  
 na leave out particularly these two very important agencies that we submitted for,
 
-**[01:41:16.680] Tim Salomon** (asr-002262)  
+**[01:41:16.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002262)  
 yung DBM at DPWH.
 
-**[01:41:18.680] Tim Salomon** (asr-002263)  
+**[01:41:18.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002263)  
 As well, the week after, kasi di ba Thursday yung DILG,
 
-**[01:41:23.680] Tim Salomon** (asr-002264)  
+**[01:41:23.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002264)  
 nung OP naman, I understand nagbigay ng parliamentary courtesy.
 
-**[01:41:27.680] Tim Salomon** (asr-002265)  
+**[01:41:27.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002265)  
 So, hindi nabasa yung OP questions.
 
-**[01:41:30.680] Tim Salomon** (asr-002266)  
+**[01:41:30.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002266)  
 Baka pwede. I thought it would have been easy to just ask it.
 
-**[01:41:34.680] Tim Salomon** (asr-002267)  
+**[01:41:34.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002267)  
 I mean, anyway.
 
-**[01:41:35.680] Tim Salomon** (asr-002268)  
+**[01:41:35.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002268)  
 But also, the Department of Agriculture questions that the farmers also sent,
 
-**[01:41:39.680] Tim Salomon** (asr-002269)  
+**[01:41:39.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002269)  
 weren't also asked.
 
-**[01:41:41.680] Tim Salomon** (asr-002270)  
+**[01:41:41.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002270)  
 Hindi ko alam what is the reason for the inconsistencies?
 
-**[01:41:44.680] Tim Salomon** (asr-002271)  
+**[01:41:44.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002271)  
 And what can we do moving forward?
 
-**[01:41:47.680] Tim Salomon** (asr-002272)  
+**[01:41:47.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002272)  
 Ano ba yung, hindi ko na kasi maintindihan kung bakit hindi pwedeng maging resource persons yung CSOs.
 
-**[01:41:53.680] Tim Salomon** (asr-002273)  
+**[01:41:53.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002273)  
 Nagre-research din naman kami.
 
-**[01:41:56.680] Tim Salomon** (asr-002274)  
+**[01:41:56.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002274)  
 So baka pwede ninyo i-forward kasi [unclear] nakakaligtaan.
 
-**[01:42:00.680] Tim Salomon** (asr-002275)  
+**[01:42:00.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002275)  
 Baka kasi ang haba na ng hearing.
 
-**[01:42:02.680] Tim Salomon** (asr-002276)  
+**[01:42:02.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002276)  
 I understand seven hours na yung DA.
 
-**[01:42:04.680] Tim Salomon** (asr-002277)  
+**[01:42:04.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002277)  
 So baka kung pwede naman kami magsalita naman, pwede naman sana.
 
-**[01:42:08.680] Tim Salomon** (asr-002278)  
+**[01:42:08.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002278)  
 So at least yun lang po muna.
 
-**[01:42:09.680] Tim Salomon** (asr-002279)  
+**[01:42:09.680] CODE-NGO Project Coordinator Timothy Salomon** (asr-002279)  
 Salamat.
 
 **[01:42:10.680] Rep. Arnie B. Fuentebella** (asr-002280)  
@@ -7252,151 +7252,151 @@ from BTAG,
 **[01:48:06.330] John Castillo** (asr-002415)  
 to raise her concerns.
 
-**[01:48:08.050] April Joy Meneses** (asr-002416)  
+**[01:48:08.050] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002416)  
 Hi, sir. Good afternoon.
 
-**[01:48:10.190] April Joy Meneses** (asr-002417)  
+**[01:48:10.190] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002417)  
 I'm April Meneses.
 
 **[01:48:11.310] John Castillo** (asr-002418)  
 If it's okay with you.
 
-**[01:48:13.670] April Joy Meneses** (asr-002419)  
+**[01:48:13.670] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002419)  
 I'm April Meneses,
 
-**[01:48:15.570] April Joy Meneses** (asr-002420)  
+**[01:48:15.570] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002420)  
 the Executive Director of
 
-**[01:48:17.650] April Joy Meneses** (asr-002421)  
+**[01:48:17.650] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002421)  
 ipaBITAGmo Incorporated.
 
-**[01:48:19.650] April Joy Meneses** (asr-002422)  
+**[01:48:19.650] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002422)  
 We are the advocacy arm of
 
-**[01:48:21.610] April Joy Meneses** (asr-002423)  
+**[01:48:21.610] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002423)  
 BTAG Media Network.
 
-**[01:48:24.950] April Joy Meneses** (asr-002424)  
+**[01:48:24.950] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002424)  
 And I would like
 
-**[01:48:26.290] April Joy Meneses** (asr-002425)  
+**[01:48:26.290] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002425)  
 to address this to
 
-**[01:48:28.130] April Joy Meneses** (asr-002426)  
+**[01:48:28.130] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002426)  
 the Vice Chairpersons
 
-**[01:48:30.130] April Joy Meneses** (asr-002427)  
+**[01:48:30.130] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002427)  
 and Chairman of
 
-**[01:48:32.170] April Joy Meneses** (asr-002428)  
+**[01:48:32.170] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002428)  
 this committee.
 
-**[01:48:34.770] April Joy Meneses** (asr-002429)  
+**[01:48:34.770] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002429)  
 The IBMI-NGO
 
-**[01:48:36.330] April Joy Meneses** (asr-002430)  
+**[01:48:36.330] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002430)  
 has been actively pushing
 
-**[01:48:37.890] April Joy Meneses** (asr-002431)  
+**[01:48:37.890] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002431)  
 for the bottom-up budgeting,
 
-**[01:48:39.170] April Joy Meneses** (asr-002432)  
+**[01:48:39.170] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002432)  
 or the BUB.
 
-**[01:48:40.450] April Joy Meneses** (asr-002433)  
+**[01:48:40.450] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002433)  
 It's actually the policy
 
-**[01:48:42.450] April Joy Meneses** (asr-002434)  
+**[01:48:42.450] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002434)  
 or the program initiated
 
-**[01:48:44.170] April Joy Meneses** (asr-002435)  
+**[01:48:44.170] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002435)  
 by the Pinoy administration.
 
-**[01:48:46.650] April Joy Meneses** (asr-002436)  
+**[01:48:46.650] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002436)  
 It's a grassroot level
 
-**[01:48:48.290] April Joy Meneses** (asr-002437)  
+**[01:48:48.290] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002437)  
 of a budgeting process.
 
-**[01:48:50.130] April Joy Meneses** (asr-002438)  
+**[01:48:50.130] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002438)  
 Inaalam sa ibaba
 
-**[01:48:51.410] April Joy Meneses** (asr-002439)  
+**[01:48:51.410] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002439)  
 kung ano po yung mga kailangan
 
-**[01:48:52.770] April Joy Meneses** (asr-002440)  
+**[01:48:52.770] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002440)  
 ng mga proyekto or programa,
 
-**[01:48:54.530] April Joy Meneses** (asr-002441)  
+**[01:48:54.530] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002441)  
 aktividad sa ibaba.
 
-**[01:48:56.250] April Joy Meneses** (asr-002442)  
+**[01:48:56.250] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002442)  
 At inaakyat po sa LDC,
 
-**[01:48:58.610] April Joy Meneses** (asr-002443)  
+**[01:48:58.610] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002443)  
 going to the RDC,
 
-**[01:49:00.370] April Joy Meneses** (asr-002444)  
+**[01:49:00.370] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002444)  
 and to the national government.
 
-**[01:49:02.730] April Joy Meneses** (asr-002445)  
+**[01:49:02.730] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002445)  
 Now, ang concern na po namin,
 
-**[01:49:06.330] April Joy Meneses** (asr-002449)  
+**[01:49:06.330] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002449)  
 is how I wish,
 
-**[01:49:08.930] April Joy Meneses** (asr-002450)  
+**[01:49:08.930] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002450)  
 or we encourage the lawmakers
 
-**[01:49:10.430] April Joy Meneses** (asr-002451)  
+**[01:49:10.430] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002451)  
 to adopt this kind of budget process
 
-**[01:49:13.450] April Joy Meneses** (asr-002452)  
+**[01:49:13.450] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002452)  
 para involve po yung mga tao
 
-**[01:49:15.450] April Joy Meneses** (asr-002453)  
+**[01:49:15.450] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002453)  
 sa ibaba.
 
-**[01:49:16.450] April Joy Meneses** (asr-002454)  
+**[01:49:16.450] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002454)  
 In so doing,
 
-**[01:49:18.290] April Joy Meneses** (asr-002455)  
+**[01:49:18.290] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002455)  
 may iwasan po natin
 
-**[01:49:20.050] April Joy Meneses** (asr-002456)  
+**[01:49:20.050] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002456)  
 yung mga nangyari in the past,
 
-**[01:49:22.490] April Joy Meneses** (asr-002457)  
+**[01:49:22.490] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002457)  
 the ghost projects,
 
-**[01:49:23.750] April Joy Meneses** (asr-002458)  
+**[01:49:23.750] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002458)  
 the unfinished projects,
 
-**[01:49:25.410] April Joy Meneses** (asr-002459)  
+**[01:49:25.410] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002459)  
 or yung hindi na isasama po
 
-**[01:49:28.290] April Joy Meneses** (asr-002460)  
+**[01:49:28.290] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002460)  
 yung mga request ng mga tao mismo
 
-**[01:49:30.190] April Joy Meneses** (asr-002461)  
+**[01:49:30.190] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002461)  
 na nasa ibaba.
 
-**[01:49:31.530] April Joy Meneses** (asr-002462)  
+**[01:49:31.530] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002462)  
 What we are actually,
 
-**[01:49:33.770] April Joy Meneses** (asr-002463)  
+**[01:49:33.770] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002463)  
 actively pushing po is,
 
-**[01:49:36.330] April Joy Meneses** (asr-002464)  
+**[01:49:36.330] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002464)  
 the implementation of that,
 
-**[01:49:38.210] April Joy Meneses** (asr-002465)  
+**[01:49:38.210] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002465)  
 or the adoption of the lawmakers
 
-**[01:49:40.970] April Joy Meneses** (asr-002466)  
+**[01:49:40.970] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002466)  
 in the budget process
 
-**[01:49:42.130] April Joy Meneses** (asr-002467)  
+**[01:49:42.130] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-002467)  
 of the bottom-up budgeting.
 
 **[01:49:43.810] John Castillo** (asr-002468)  
@@ -7417,271 +7417,271 @@ Yes, sir, AJ Montesa
 **[01:50:01.090] John Castillo** (asr-002473)  
 from People's Budget Coalition.
 
-**[01:50:06.080] Adolfo Jose Montesa** (asr-002474)  
+**[01:50:06.080] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002474)  
 Yes. Good morning.
 
-**[01:50:07.800] Adolfo Jose Montesa** (asr-002475)  
+**[01:50:07.800] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002475)  
 Good morning again, po.
 
-**[01:50:08.400] Adolfo Jose Montesa** (asr-002476)  
+**[01:50:08.400] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002476)  
 So, I'd like to, again,
 
-**[01:50:10.000] Adolfo Jose Montesa** (asr-002477)  
+**[01:50:10.000] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002477)  
 thank you, po, for acknowledging.
 
-**[01:50:11.680] Adolfo Jose Montesa** (asr-002478)  
+**[01:50:11.680] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002478)  
 I think it's worth acknowledging
 
-**[01:50:12.920] Adolfo Jose Montesa** (asr-002479)  
+**[01:50:12.920] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002479)  
 that you admitted the mistake
 
-**[01:50:14.960] Adolfo Jose Montesa** (asr-002480)  
+**[01:50:14.960] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002480)  
 or the miscommunication that happened.
 
-**[01:50:16.280] Adolfo Jose Montesa** (asr-002481)  
+**[01:50:16.280] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002481)  
 So, we're grateful that moving forward,
 
-**[01:50:18.320] Adolfo Jose Montesa** (asr-002482)  
+**[01:50:18.320] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002482)  
 the questions will be included in the deliberations.
 
-**[01:50:21.800] Adolfo Jose Montesa** (asr-002483)  
+**[01:50:21.800] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002483)  
 I think trying to go back and analyze
 
-**[01:50:24.120] Adolfo Jose Montesa** (asr-002484)  
+**[01:50:24.120] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002484)  
 where the root of the problem was,
 
-**[01:50:26.320] Adolfo Jose Montesa** (asr-002485)  
+**[01:50:26.320] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002485)  
 there was a House resolution last year
 
-**[01:50:28.320] Adolfo Jose Montesa** (asr-002486)  
+**[01:50:28.320] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002486)  
 that really defined the structure,
 
-**[01:50:29.880] Adolfo Jose Montesa** (asr-002487)  
+**[01:50:29.880] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002487)  
 the rules, the procedure.
 
-**[01:50:31.640] Adolfo Jose Montesa** (asr-002488)  
+**[01:50:31.640] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002488)  
 So, perhaps that's something
 
-**[01:50:32.920] Adolfo Jose Montesa** (asr-002489)  
+**[01:50:32.920] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002489)  
 that the House leadership can consider.
 
-**[01:50:35.000] Adolfo Jose Montesa** (asr-002490)  
+**[01:50:35.000] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002490)  
 Baka pwede po,
 
-**[01:50:35.800] Adolfo Jose Montesa** (asr-002491)  
+**[01:50:35.800] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002491)  
 because that House resolution covered
 
-**[01:50:37.600] Adolfo Jose Montesa** (asr-002492)  
+**[01:50:37.600] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002492)  
 the 2026 budget cycle.
 
-**[01:50:40.200] Adolfo Jose Montesa** (asr-002493)  
+**[01:50:40.200] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002493)  
 So, maybe this time
 
-**[01:50:41.200] Adolfo Jose Montesa** (asr-002494)  
+**[01:50:41.200] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002494)  
 it's worth passing another House resolution
 
-**[01:50:43.600] Adolfo Jose Montesa** (asr-002495)  
+**[01:50:43.600] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002495)  
 to cover this budget cycle
 
-**[01:50:44.800] Adolfo Jose Montesa** (asr-002496)  
+**[01:50:44.800] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002496)  
 or even the next one
 
-**[01:50:45.760] Adolfo Jose Montesa** (asr-002497)  
+**[01:50:45.760] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002497)  
 to make it more institutionalized.
 
-**[01:50:48.080] Adolfo Jose Montesa** (asr-002498)  
+**[01:50:48.080] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002498)  
 And I understand, I think,
 
-**[01:50:49.120] Adolfo Jose Montesa** (asr-002499)  
+**[01:50:49.120] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002499)  
 that there's legislation now
 
-**[01:50:50.360] Adolfo Jose Montesa** (asr-002500)  
+**[01:50:50.360] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002500)  
 for the Philippine Budgeting Code.
 
-**[01:50:52.320] Adolfo Jose Montesa** (asr-002501)  
+**[01:50:52.320] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002501)  
 So, we hope that the more structured
 
-**[01:50:54.920] Adolfo Jose Montesa** (asr-002502)  
+**[01:50:54.920] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002502)  
 or more formal rules can really be considered
 
-**[01:50:56.920] Adolfo Jose Montesa** (asr-002503)  
+**[01:50:56.920] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002503)  
 because, of course, even after this year,
 
-**[01:50:59.960] Adolfo Jose Montesa** (asr-002504)  
+**[01:50:59.960] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002504)  
 we hope na magpapatuloy po siya
 
-**[01:51:01.560] Adolfo Jose Montesa** (asr-002505)  
+**[01:51:01.560] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002505)  
 in a more structured way
 
-**[01:51:03.080] Adolfo Jose Montesa** (asr-002506)  
+**[01:51:03.080] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002506)  
 para clear po yung, for us,
 
-**[01:51:04.840] Adolfo Jose Montesa** (asr-002507)  
+**[01:51:04.840] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002507)  
 what we can expect and everything.
 
-**[01:51:06.440] Adolfo Jose Montesa** (asr-002508)  
+**[01:51:06.440] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002508)  
 So, we will support all of these rules,
 
-**[01:51:07.440] Adolfo Jose Montesa** (asr-002509)  
+**[01:51:07.440] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002509)  
 these legislation po. I think yung PBC, we were very active in trying to join the
 
-**[01:51:11.880] Adolfo Jose Montesa** (asr-002510)  
+**[01:51:11.880] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002510)  
 committee hearings, we're pushing for the Cadena bill which would strengthen that.
 
-**[01:51:15.420] Adolfo Jose Montesa** (asr-002511)  
+**[01:51:15.420] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002511)  
 Yung FOI, bicam na lang po yung kulang so sana din maipasa po yun. I think we have
 
-**[01:51:21.060] Adolfo Jose Montesa** (asr-002512)  
+**[01:51:21.060] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002512)  
 some very practical recommendations. Last year when we did this po, we did
 
-**[01:51:26.000] Adolfo Jose Montesa** (asr-002513)  
+**[01:51:26.000] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002513)  
 suggest that we have sort of a transparency server kind of thing like
 
-**[01:51:30.300] Adolfo Jose Montesa** (asr-002514)  
+**[01:51:30.300] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002514)  
 the website. So for example, si CPBRD po nasa website po ng Congress na nandun po
 
-**[01:51:34.940] Adolfo Jose Montesa** (asr-002515)  
+**[01:51:34.940] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002515)  
 ina-upload yung mga budget presentations sa ngayon po. So that's a good effort.
 
-**[01:51:40.980] Adolfo Jose Montesa** (asr-002516)  
+**[01:51:40.980] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002516)  
 I think what we would also recommend is yung line items din po ng budget for
 
-**[01:51:44.980] Adolfo Jose Montesa** (asr-002517)  
+**[01:51:44.980] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002517)  
 example, in the BARSc. Last year to be honest, honest feedback po. We were
 
-**[01:51:50.660] Adolfo Jose Montesa** (asr-002518)  
+**[01:51:50.660] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002518)  
 surprised when the BARSc hearing was convened. We know it was
 
-**[01:51:54.200] Adolfo Jose Montesa** (asr-002519)  
+**[01:51:54.200] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002519)  
 live-streamed but the schedule was not released in advance. So we were waiting
 
-**[01:51:58.460] Adolfo Jose Montesa** (asr-002520)  
+**[01:51:58.460] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002520)  
 for when the schedule would be and then we learned on the day itself, ah may live
 
-**[01:52:02.960] Adolfo Jose Montesa** (asr-002521)  
+**[01:52:02.960] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002521)  
 stream na pala yung BARSc.
 
-**[01:52:04.540] Adolfo Jose Montesa** (asr-002522)  
+**[01:52:04.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002522)  
 So,
 
-**[01:52:04.920] Adolfo Jose Montesa** (asr-002523)  
+**[01:52:04.920] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002523)  
 So, okay, so we're giving the feedback,
 
-**[01:52:06.640] Adolfo Jose Montesa** (asr-002524)  
+**[01:52:06.640] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002524)  
 sana po ma-announce in advance yung mga schedules like this,
 
-**[01:52:09.760] Adolfo Jose Montesa** (asr-002525)  
+**[01:52:09.760] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002525)  
 sana po itulo yung live stream,
 
-**[01:52:11.180] Adolfo Jose Montesa** (asr-002526)  
+**[01:52:11.180] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002526)  
 and then even yung mga line item changes po,
 
-**[01:52:13.440] Adolfo Jose Montesa** (asr-002527)  
+**[01:52:13.440] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002527)  
 sana po we can transparently see, track,
 
-**[01:52:16.520] Adolfo Jose Montesa** (asr-002528)  
+**[01:52:16.520] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002528)  
 up to the committee report, up to the third reading version,
 
-**[01:52:21.360] Adolfo Jose Montesa** (asr-002529)  
+**[01:52:21.360] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002529)  
 because sa ngayon po, I think the versions of the bills
 
-**[01:52:24.260] Adolfo Jose Montesa** (asr-002530)  
+**[01:52:24.260] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002530)  
 are not yet posted on the website.
 
-**[01:52:26.820] Adolfo Jose Montesa** (asr-002531)  
+**[01:52:26.820] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002531)  
 So we're hoping that we can have some sort of mechanism to track this.
 
-**[01:52:30.720] Adolfo Jose Montesa** (asr-002532)  
+**[01:52:30.720] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002532)  
 Not to compare po, since you will have your own separate process,
 
-**[01:52:34.540] Adolfo Jose Montesa** (asr-002533)  
+**[01:52:34.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002533)  
 but in the Senate po, they did have that website
 
-**[01:52:37.120] Adolfo Jose Montesa** (asr-002534)  
+**[01:52:37.120] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002534)  
 where they would upload all of the documents complete.
 
-**[01:52:40.380] Adolfo Jose Montesa** (asr-002535)  
+**[01:52:40.380] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002535)  
 So even, for example, yung proposals for infrastructure,
 
-**[01:52:43.840] Adolfo Jose Montesa** (asr-002536)  
+**[01:52:43.840] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002536)  
 lahat ng line items po na yun, may in-upload po sila.
 
-**[01:52:47.200] Adolfo Jose Montesa** (asr-002537)  
+**[01:52:47.200] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002537)  
 So what we're trying to say is, it's possible,
 
-**[01:52:49.800] Adolfo Jose Montesa** (asr-002538)  
+**[01:52:49.800] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002538)  
 kaya po siyang gawin, and we are offering support.
 
-**[01:52:52.360] Adolfo Jose Montesa** (asr-002539)  
+**[01:52:52.360] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002539)  
 We will be happy to provide technical support,
 
-**[01:52:54.420] Adolfo Jose Montesa** (asr-002540)  
+**[01:52:54.420] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002540)  
 we will be happy to provide additional,
 
-**[01:52:57.280] Adolfo Jose Montesa** (asr-002541)  
+**[01:52:57.280] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002541)  
 almost like staffing as civil society,
 
-**[01:53:00.380] Adolfo Jose Montesa** (asr-002542)  
+**[01:53:00.380] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002542)  
 kasi marami po sa amin do this kind of work to begin with po.
 
-**[01:53:03.300] Adolfo Jose Montesa** (asr-002543)  
+**[01:53:03.300] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002543)  
 So we really want to demonstrate that we're here to open that.
 
-**[01:53:06.540] Adolfo Jose Montesa** (asr-002544)  
+**[01:53:06.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002544)  
 Practically speaking, what we do recommend is if we can use
 
-**[01:53:09.720] Adolfo Jose Montesa** (asr-002545)  
+**[01:53:09.720] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002545)  
 machine-readable formats.
 
-**[01:53:12.760] Adolfo Jose Montesa** (asr-002546)  
+**[01:53:12.760] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002546)  
 So machine-readable po, meaning naka-Excel file po,
 
-**[01:53:15.560] Adolfo Jose Montesa** (asr-002547)  
+**[01:53:15.560] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002547)  
 it's easy to track them.
 
-**[01:53:17.160] Adolfo Jose Montesa** (asr-002548)  
+**[01:53:17.160] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002548)  
 May standardized codes.
 
-**[01:53:18.540] Adolfo Jose Montesa** (asr-002549)  
+**[01:53:18.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002549)  
 So in the NEP and the GAA, the DBM attaches a unified account code structure,
 
-**[01:53:23.120] Adolfo Jose Montesa** (asr-002550)  
+**[01:53:23.120] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002550)  
 yung UACS.
 
-**[01:53:24.140] Adolfo Jose Montesa** (asr-002551)  
+**[01:53:24.140] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002551)  
 So kahit baguhin yung name or yung title ng project,
 
-**[01:53:27.400] Adolfo Jose Montesa** (asr-002552)  
+**[01:53:27.400] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002552)  
 pwede pa rin po siya i-track in case there are errors.
 
-**[01:53:30.980] Adolfo Jose Montesa** (asr-002553)  
+**[01:53:30.980] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002553)  
 Rather than PDFs, which are very difficult,
 
-**[01:53:33.280] Adolfo Jose Montesa** (asr-002554)  
+**[01:53:33.280] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002554)  
 difficult to work with,
 
-**[01:53:35.000] Adolfo Jose Montesa** (asr-002555)  
+**[01:53:35.000] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002555)  
 mahirap po siya i-scan.
 
-**[01:53:36.540] Adolfo Jose Montesa** (asr-002556)  
+**[01:53:36.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002556)  
 So yun po, these are all of our,
 
-**[01:53:39.020] Adolfo Jose Montesa** (asr-002557)  
+**[01:53:39.020] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002557)  
 some of the recommendations that we have.
 
-**[01:53:41.260] Adolfo Jose Montesa** (asr-002558)  
+**[01:53:41.260] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002558)  
 Again, we're very willing to help po,
 
-**[01:53:43.220] Adolfo Jose Montesa** (asr-002559)  
+**[01:53:43.220] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002559)  
 to extend a hand, to provide technical support to all of this.
 
-**[01:53:45.980] Adolfo Jose Montesa** (asr-002560)  
+**[01:53:45.980] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002560)  
 Alam po namin na all of the requests that we're asking for,
 
-**[01:53:49.840] Adolfo Jose Montesa** (asr-002561)  
+**[01:53:49.840] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002561)  
 pwede din po kami mag-ambag dito sa proseso.
 
-**[01:53:51.920] Adolfo Jose Montesa** (asr-002562)  
+**[01:53:51.920] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-002562)  
 So yun lamang po. Salamat.
 
 **[01:53:53.400] John Castillo** (asr-002563)  
@@ -7810,40 +7810,40 @@ I think our, currently, our event is being,
 **[01:57:30.020] John Castillo** (asr-002608)  
 Yes, yes, sir, from Philippine Association of Agriculturists, Inc.
 
-**[01:57:36.180] Al Christian R. Hilario** (asr-002609)  
+**[01:57:36.180] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002609)  
 Siguro, sir, sa mga sinabi ni Sir Tim,
 
-**[01:57:39.140] Al Christian R. Hilario** (asr-002610)  
+**[01:57:39.140] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002610)  
 next year po, siguro [unclear],
 
-**[01:57:41.320] Al Christian R. Hilario** (asr-002611)  
+**[01:57:41.320] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002611)  
 dapat sa DBCC pa lang
 
-**[01:57:43.080] Al Christian R. Hilario** (asr-002612)  
+**[01:57:43.080] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002612)  
 kasama na po ang CSO.
 
-**[01:57:44.820] Al Christian R. Hilario** (asr-002613)  
+**[01:57:44.820] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002613)  
 Yun lang po yung
 
-**[01:57:45.380] Al Christian R. Hilario** (asr-002614)  
+**[01:57:45.380] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002614)  
 kasi napakahalaga po na malaman na
 
-**[01:57:48.500] Al Christian R. Hilario** (asr-002615)  
+**[01:57:48.500] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002615)  
 doon pa lang makapag-raise na po kami ng concern
 
-**[01:57:51.080] Al Christian R. Hilario** (asr-002616)  
+**[01:57:51.080] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002616)  
 kasi on the budget matters,
 
-**[01:57:53.120] Al Christian R. Hilario** (asr-002617)  
+**[01:57:53.120] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002617)  
 sila lang naman ang sumasagot eh.
 
-**[01:57:54.700] Al Christian R. Hilario** (asr-002618)  
+**[01:57:54.700] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002618)  
 Wala namang ibang nakakapag-explain properly
 
-**[01:57:58.060] Al Christian R. Hilario** (asr-002619)  
+**[01:57:58.060] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002619)  
 ng mga queries na may kinalaman sa pera.
 
-**[01:58:01.200] Al Christian R. Hilario** (asr-002620)  
+**[01:58:01.200] Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario** (asr-002620)  
 Yun lang po, maraming salamat.
 
 **[01:58:02.160] Rep. Arnie B. Fuentebella** (asr-002621)  
@@ -9796,211 +9796,211 @@ Yes, Ms. Isabel from Move Us One Club.
 **[02:23:30.600] John Castillo** (asr-003274)  
 Coalition.
 
-**[02:23:32.600] Ysabel Eugene G. Agregado** (asr-003275)  
+**[02:23:32.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003275)  
 Maraming salamat po
 
-**[02:23:34.600] Ysabel Eugene G. Agregado** (asr-003276)  
+**[02:23:34.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003276)  
 Kong Abbott and the panel
 
-**[02:23:36.600] Ysabel Eugene G. Agregado** (asr-003277)  
+**[02:23:36.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003277)  
 who shared po
 
-**[02:23:38.600] Ysabel Eugene G. Agregado** (asr-003278)  
+**[02:23:38.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003278)  
 yung mga steps
 
-**[02:23:40.600] Ysabel Eugene G. Agregado** (asr-003279)  
+**[02:23:40.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003279)  
 po natin moving forward.
 
-**[02:23:42.600] Ysabel Eugene G. Agregado** (asr-003280)  
+**[02:23:42.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003280)  
 Again, thank you for the commitment
 
-**[02:23:44.600] Ysabel Eugene G. Agregado** (asr-003281)  
+**[02:23:44.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003281)  
 to work on the House portal
 
-**[02:23:46.600] Ysabel Eugene G. Agregado** (asr-003282)  
+**[02:23:46.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003282)  
 for budget transparency.
 
-**[02:23:48.600] Ysabel Eugene G. Agregado** (asr-003283)  
+**[02:23:48.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003283)  
 Maraming salamat din po sa mga batas
 
-**[02:23:50.600] Ysabel Eugene G. Agregado** (asr-003284)  
+**[02:23:50.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003284)  
 or mga bills po na ating
 
-**[02:23:52.600] Ysabel Eugene G. Agregado** (asr-003285)  
+**[02:23:52.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003285)  
 pinuput forward po.
 
-**[02:23:54.600] Ysabel Eugene G. Agregado** (asr-003286)  
+**[02:23:54.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003286)  
 Just to, I guess, summarize po
 
-**[02:23:56.600] Ysabel Eugene G. Agregado** (asr-003287)  
+**[02:23:56.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003287)  
 yung mga kasamahan ko po na CSOs,
 
-**[02:23:58.600] Ysabel Eugene G. Agregado** (asr-003288)  
+**[02:23:58.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003288)  
 we acknowledge po that
 
-**[02:24:00.600] Ysabel Eugene G. Agregado** (asr-003289)  
+**[02:24:00.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003289)  
 some of these laws
 
-**[02:24:02.600] Ysabel Eugene G. Agregado** (asr-003290)  
+**[02:24:02.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003290)  
 take time to pass.
 
-**[02:24:04.600] Ysabel Eugene G. Agregado** (asr-003291)  
+**[02:24:04.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003291)  
 So, kaya po gusto ko sanang i-bring up
 
-**[02:24:06.600] Ysabel Eugene G. Agregado** (asr-003292)  
+**[02:24:06.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003292)  
 something that can be done right away
 
-**[02:24:08.600] Ysabel Eugene G. Agregado** (asr-003293)  
+**[02:24:08.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003293)  
 even today by the Committee on
 
-**[02:24:10.600] Ysabel Eugene G. Agregado** (asr-003294)  
+**[02:24:10.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003294)  
 Appropriations and the Committee on
 
-**[02:24:12.600] Ysabel Eugene G. Agregado** (asr-003295)  
+**[02:24:12.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003295)  
 People's Participation.
 
-**[02:24:14.600] Ysabel Eugene G. Agregado** (asr-003296)  
+**[02:24:14.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003296)  
 Yung House resolution po
 
-**[02:24:16.600] Ysabel Eugene G. Agregado** (asr-003297)  
+**[02:24:16.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003297)  
 on the guidelines for civil society
 
-**[02:24:18.600] Ysabel Eugene G. Agregado** (asr-003298)  
+**[02:24:18.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003298)  
 participation na last year po
 
-**[02:24:20.600] Ysabel Eugene G. Agregado** (asr-003299)  
+**[02:24:20.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003299)  
 around August po siya na-issue
 
-**[02:24:22.600] Ysabel Eugene G. Agregado** (asr-003300)  
+**[02:24:22.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003300)  
 at na-release, hindi pa po siya na-issue
 
-**[02:24:24.600] Ysabel Eugene G. Agregado** (asr-003301)  
+**[02:24:24.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003301)  
 for this budget cycle.
 
-**[02:24:26.600] Ysabel Eugene G. Agregado** (asr-003302)  
+**[02:24:26.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003302)  
 Nagsimula po yung hearings
 
-**[02:24:28.600] Ysabel Eugene G. Agregado** (asr-003303)  
+**[02:24:28.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003303)  
 pero wala pa pong formal guidelines
 
-**[02:24:30.600] Ysabel Eugene G. Agregado** (asr-003304)  
+**[02:24:30.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003304)  
 kung pa sa. We've followed up
 
-**[02:24:32.600] Ysabel Eugene G. Agregado** (asr-003305)  
+**[02:24:32.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003305)  
 multiple times and we have the receipts po
 
-**[02:24:34.600] Ysabel Eugene G. Agregado** (asr-003306)  
+**[02:24:34.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003306)  
 to back it up po.
 
-**[02:24:36.600] Ysabel Eugene G. Agregado** (asr-003307)  
+**[02:24:36.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003307)  
 And kita po natin yung resulta
 
-**[02:24:38.600] Ysabel Eugene G. Agregado** (asr-003308)  
+**[02:24:38.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003308)  
 when formal rules are not
 
-**[02:24:40.600] Ysabel Eugene G. Agregado** (asr-003309)  
+**[02:24:40.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003309)  
 present. We have yung mga
 
-**[02:24:42.600] Ysabel Eugene G. Agregado** (asr-003310)  
+**[02:24:42.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003310)  
 na-share po kanina on agriculture
 
-**[02:24:44.600] Ysabel Eugene G. Agregado** (asr-003311)  
+**[02:24:44.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003311)  
 na hindi po natanong yung questions nila
 
-**[02:24:46.600] Ysabel Eugene G. Agregado** (asr-003312)  
+**[02:24:46.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003312)  
 kasi wala pa po rules nung time
 
-**[02:24:48.600] Ysabel Eugene G. Agregado** (asr-003313)  
+**[02:24:48.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003313)  
 na to hanggang ngayon. Meron din
 
-**[02:24:50.600] Ysabel Eugene G. Agregado** (asr-003314)  
+**[02:24:50.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003314)  
 pong issues na even our
 
-**[02:24:52.600] Ysabel Eugene G. Agregado** (asr-003315)  
+**[02:24:52.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003315)  
 House passes can't be processed
 
-**[02:24:54.600] Ysabel Eugene G. Agregado** (asr-003316)  
+**[02:24:54.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003316)  
 because there's no guidelines po, wala pong
 
-**[02:24:56.600] Ysabel Eugene G. Agregado** (asr-003317)  
+**[02:24:56.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003317)  
 guidelines kung paano kami magsasubmit
 
-**[02:24:58.600] Ysabel Eugene G. Agregado** (asr-003318)  
+**[02:24:58.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003318)  
 ng pangalan nung time po na yun.
 
-**[02:25:00.600] Ysabel Eugene G. Agregado** (asr-003319)  
+**[02:25:00.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003319)  
 Hanggang ngayon po, hindi pa po
 
-**[02:25:02.600] Ysabel Eugene G. Agregado** (asr-003320)  
+**[02:25:02.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003320)  
 ito formal rules. So yun po
 
-**[02:25:04.600] Ysabel Eugene G. Agregado** (asr-003321)  
+**[02:25:04.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003321)  
 yung ano po
 
-**[02:25:06.600] Ysabel Eugene G. Agregado** (asr-003322)  
+**[02:25:06.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003322)  
 pangarap po ng civil society.
 
-**[02:25:08.600] Ysabel Eugene G. Agregado** (asr-003323)  
+**[02:25:08.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003323)  
 Last year po, the guidelines
 
-**[02:25:10.600] Ysabel Eugene G. Agregado** (asr-003324)  
+**[02:25:10.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003324)  
 were released before
 
-**[02:25:12.600] Ysabel Eugene G. Agregado** (asr-003325)  
+**[02:25:12.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003325)  
 all the hearings. And
 
-**[02:25:14.600] Ysabel Eugene G. Agregado** (asr-003326)  
+**[02:25:14.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003326)  
 kung may ano po, o dapat po
 
-**[02:25:16.600] Ysabel Eugene G. Agregado** (asr-003327)  
+**[02:25:16.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003327)  
 sana na ituloy yun.
 
-**[02:25:18.600] Ysabel Eugene G. Agregado** (asr-003328)  
+**[02:25:18.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003328)  
 So this time po
 
-**[02:25:20.600] Ysabel Eugene G. Agregado** (asr-003329)  
+**[02:25:20.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003329)  
 we were told na under
 
-**[02:25:22.600] Ysabel Eugene G. Agregado** (asr-003330)  
+**[02:25:22.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003330)  
 consideration para po siya ng APRO.
 
-**[02:25:24.600] Ysabel Eugene G. Agregado** (asr-003331)  
+**[02:25:24.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003331)  
 The guidelines po are under consideration
 
-**[02:25:26.600] Ysabel Eugene G. Agregado** (asr-003332)  
+**[02:25:26.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003332)  
 para po ng APRO. Again po,
 
-**[02:25:28.600] Ysabel Eugene G. Agregado** (asr-003333)  
+**[02:25:28.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003333)  
 just to end, we'd like to seek and explain
 
-**[02:25:30.600] Ysabel Eugene G. Agregado** (asr-003334)  
+**[02:25:30.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003334)  
 explanation po or maybe a rationale
 
-**[02:25:32.600] Ysabel Eugene G. Agregado** (asr-003335)  
+**[02:25:32.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003335)  
 why it couldn't be released before the
 
-**[02:25:34.600] Ysabel Eugene G. Agregado** (asr-003336)  
+**[02:25:34.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003336)  
 hearings this year and to prevent
 
-**[02:25:36.600] Ysabel Eugene G. Agregado** (asr-003337)  
+**[02:25:36.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003337)  
 po a possible sin of
 
-**[02:25:38.600] Ysabel Eugene G. Agregado** (asr-003338)  
+**[02:25:38.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003338)  
 omission if we are unable
 
-**[02:25:40.600] Ysabel Eugene G. Agregado** (asr-003339)  
+**[02:25:40.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003339)  
 to issue these guidelines.
 
-**[02:25:42.600] Ysabel Eugene G. Agregado** (asr-003340)  
+**[02:25:42.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003340)  
 Pwede po ba namin kunin ang commitment
 
-**[02:25:44.600] Ysabel Eugene G. Agregado** (asr-003341)  
+**[02:25:44.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003341)  
 ng panel for the House
 
-**[02:25:46.600] Ysabel Eugene G. Agregado** (asr-003342)  
+**[02:25:46.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003342)  
 to pass a resolution on this
 
-**[02:25:48.600] Ysabel Eugene G. Agregado** (asr-003343)  
+**[02:25:48.600] Move As One Coalition Representative Ysabel Eugene G. Agregado** (asr-003343)  
 as soon as possible po? Maraming salamat.
 
 **[02:25:50.600] John Castillo** (asr-003344)  
@@ -10015,157 +10015,157 @@ People's Budget Coalition, Mr.
 **[02:25:56.600] John Castillo** (asr-003347)  
 Adolfo Montesa.
 
-**[02:26:02.540] Adolfo Jose Montesa** (asr-003348)  
+**[02:26:02.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003348)  
 Yes. Again, good afternoon po.
 
-**[02:26:04.540] Adolfo Jose Montesa** (asr-003349)  
+**[02:26:04.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003349)  
 We're very grateful that
 
-**[02:26:06.540] Adolfo Jose Montesa** (asr-003350)  
+**[02:26:06.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003350)  
 you're here po with us, that you're
 
-**[02:26:08.540] Adolfo Jose Montesa** (asr-003351)  
+**[02:26:08.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003351)  
 hearing us out, that you're very open
 
-**[02:26:10.540] Adolfo Jose Montesa** (asr-003352)  
+**[02:26:10.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003352)  
 to this dialogue. Our hope really is
 
-**[02:26:12.540] Adolfo Jose Montesa** (asr-003353)  
+**[02:26:12.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003353)  
 that if we want a people-centered
 
-**[02:26:14.540] Adolfo Jose Montesa** (asr-003354)  
+**[02:26:14.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003354)  
 budget, that the people will also be
 
-**[02:26:16.540] Adolfo Jose Montesa** (asr-003355)  
+**[02:26:16.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003355)  
 at the center of the process.
 
-**[02:26:18.540] Adolfo Jose Montesa** (asr-003356)  
+**[02:26:18.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003356)  
 Aside from line items, programs, and
 
-**[02:26:20.540] Adolfo Jose Montesa** (asr-003357)  
+**[02:26:20.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003357)  
 projects, process is very important.
 
-**[02:26:22.540] Adolfo Jose Montesa** (asr-003358)  
+**[02:26:22.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003358)  
 Institutions are very important.
 
-**[02:26:24.540] Adolfo Jose Montesa** (asr-003359)  
+**[02:26:24.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003359)  
 You, the panel here,
 
-**[02:26:26.540] Adolfo Jose Montesa** (asr-003360)  
+**[02:26:26.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003360)  
 express their openness to hear us out.
 
-**[02:26:28.540] Adolfo Jose Montesa** (asr-003361)  
+**[02:26:28.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003361)  
 But we hope that this can be institutionalized
 
-**[02:26:30.540] Adolfo Jose Montesa** (asr-003362)  
+**[02:26:30.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003362)  
 as clear rules so that
 
-**[02:26:32.540] Adolfo Jose Montesa** (asr-003363)  
+**[02:26:32.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003363)  
 even in the future, this can
 
-**[02:26:34.540] Adolfo Jose Montesa** (asr-003364)  
+**[02:26:34.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003364)  
 be implemented. I think
 
-**[02:26:36.540] Adolfo Jose Montesa** (asr-003365)  
+**[02:26:36.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003365)  
 the people have not forgotten
 
-**[02:26:38.540] Adolfo Jose Montesa** (asr-003366)  
+**[02:26:38.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003366)  
 all the issues with flood control and the budget.
 
-**[02:26:40.540] Adolfo Jose Montesa** (asr-003367)  
+**[02:26:40.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003367)  
 So really, it cannot be business
 
-**[02:26:42.540] Adolfo Jose Montesa** (asr-003368)  
+**[02:26:42.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003368)  
 as usual. We can't go back to normal.
 
-**[02:26:44.540] Adolfo Jose Montesa** (asr-003369)  
+**[02:26:44.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003369)  
 I think there really is
 
-**[02:26:46.540] Adolfo Jose Montesa** (asr-003370)  
+**[02:26:46.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003370)  
 a drive to restore trust in the
 
-**[02:26:48.540] Adolfo Jose Montesa** (asr-003371)  
+**[02:26:48.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003371)  
 process. And we, as people's organizations,
 
-**[02:26:50.540] Adolfo Jose Montesa** (asr-003372)  
+**[02:26:50.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003372)  
 we're very willing to participate.
 
-**[02:26:52.540] Adolfo Jose Montesa** (asr-003373)  
+**[02:26:52.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003373)  
 We're very willing to lend a hand,
 
-**[02:26:54.540] Adolfo Jose Montesa** (asr-003374)  
+**[02:26:54.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003374)  
 to be your partners, and collaborate on this.
 
-**[02:26:56.540] Adolfo Jose Montesa** (asr-003375)  
+**[02:26:56.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003375)  
 And we're very grateful for the
 
-**[02:26:58.540] Adolfo Jose Montesa** (asr-003376)  
+**[02:26:58.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003376)  
 openness po of the
 
-**[02:27:00.540] Adolfo Jose Montesa** (asr-003377)  
+**[02:27:00.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003377)  
 members of Congress who are here today.
 
-**[02:27:02.540] Adolfo Jose Montesa** (asr-003378)  
+**[02:27:02.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003378)  
 So we do hope that you will consider
 
-**[02:27:04.540] Adolfo Jose Montesa** (asr-003379)  
+**[02:27:04.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003379)  
 the issues that we flagged, the lack of
 
-**[02:27:06.540] Adolfo Jose Montesa** (asr-003380)  
+**[02:27:06.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003380)  
 funding for education, for transportation,
 
-**[02:27:08.540] Adolfo Jose Montesa** (asr-003381)  
+**[02:27:08.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003381)  
 for agriculture, all these
 
-**[02:27:10.540] Adolfo Jose Montesa** (asr-003382)  
+**[02:27:10.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003382)  
 different sectors. But also,
 
-**[02:27:12.540] Adolfo Jose Montesa** (asr-003383)  
+**[02:27:12.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003383)  
 we do hope that the
 
-**[02:27:14.540] Adolfo Jose Montesa** (asr-003384)  
+**[02:27:14.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003384)  
 past practices of Congress,
 
-**[02:27:16.540] Adolfo Jose Montesa** (asr-003385)  
+**[02:27:16.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003385)  
 for example, emphasizing
 
-**[02:27:18.540] Adolfo Jose Montesa** (asr-003386)  
+**[02:27:18.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003386)  
 ayuda programs or politicized infrastructure
 
-**[02:27:20.540] Adolfo Jose Montesa** (asr-003387)  
+**[02:27:20.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003387)  
 projects, these are some things that
 
-**[02:27:22.540] Adolfo Jose Montesa** (asr-003388)  
+**[02:27:22.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003388)  
 we are constantly monitoring.
 
-**[02:27:24.540] Adolfo Jose Montesa** (asr-003389)  
+**[02:27:24.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003389)  
 And we hope that by flagging these,
 
-**[02:27:26.540] Adolfo Jose Montesa** (asr-003390)  
+**[02:27:26.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003390)  
 we can have a more
 
-**[02:27:28.540] Adolfo Jose Montesa** (asr-003391)  
+**[02:27:28.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003391)  
 rationalized budget
 
-**[02:27:30.540] Adolfo Jose Montesa** (asr-003392)  
+**[02:27:30.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003392)  
 free from corruption po. We'll be
 
-**[02:27:32.540] Adolfo Jose Montesa** (asr-003393)  
+**[02:27:32.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003393)  
 happy to, again, lend a hand and participate
 
-**[02:27:34.540] Adolfo Jose Montesa** (asr-003394)  
+**[02:27:34.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003394)  
 in this. But I think it will really start
 
-**[02:27:36.540] Adolfo Jose Montesa** (asr-003395)  
+**[02:27:36.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003395)  
 po if we have clear guidelines
 
-**[02:27:38.540] Adolfo Jose Montesa** (asr-003396)  
+**[02:27:38.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003396)  
 on how we can engage directly po
 
-**[02:27:40.540] Adolfo Jose Montesa** (asr-003397)  
+**[02:27:40.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003397)  
 with the process. Ayun lang po. Again, we're very
 
-**[02:27:42.540] Adolfo Jose Montesa** (asr-003398)  
+**[02:27:42.540] People's Budget Coalition Co-convenor Adolfo Jose Montesa** (asr-003398)  
 grateful. Maraming salamat po.
 
 **[02:27:44.540] John Castillo** (asr-003399)  
@@ -10261,157 +10261,157 @@ Eunice Tanilon for your final
 **[02:28:44.490] John Castillo** (asr-003428)  
 message from the Makati Business Club.
 
-**[02:28:46.490] Eunice Tanilon** (asr-003429)  
+**[02:28:46.490] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003429)  
 Hello.
 
-**[02:28:50.030] Eunice Tanilon** (asr-003430)  
+**[02:28:50.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003430)  
 Thank you once again
 
-**[02:28:52.030] Eunice Tanilon** (asr-003431)  
+**[02:28:52.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003431)  
 for calling this and also for clarifying
 
-**[02:28:54.030] Eunice Tanilon** (asr-003432)  
+**[02:28:54.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003432)  
 the engagement.
 
-**[02:28:56.030] Eunice Tanilon** (asr-003433)  
+**[02:28:56.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003433)  
 I think
 
-**[02:28:58.030] Eunice Tanilon** (asr-003434)  
+**[02:28:58.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003434)  
 it's good to have that here.
 
-**[02:29:00.030] Eunice Tanilon** (asr-003435)  
+**[02:29:00.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003435)  
 We just really
 
-**[02:29:02.030] Eunice Tanilon** (asr-003436)  
+**[02:29:02.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003436)  
 wanted, I think, to reiterate how
 
-**[02:29:04.030] Eunice Tanilon** (asr-003437)  
+**[02:29:04.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003437)  
 we want to maintain
 
-**[02:29:06.030] Eunice Tanilon** (asr-003438)  
+**[02:29:06.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003438)  
 the initiative, the process,
 
-**[02:29:08.030] Eunice Tanilon** (asr-003439)  
+**[02:29:08.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003439)  
 the openness that was shown last
 
-**[02:29:10.030] Eunice Tanilon** (asr-003440)  
+**[02:29:10.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003440)  
 year. I think the sentiment
 
-**[02:29:12.030] Eunice Tanilon** (asr-003441)  
+**[02:29:12.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003441)  
 right now is that it does not,
 
-**[02:29:14.030] Eunice Tanilon** (asr-003442)  
+**[02:29:14.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003442)  
 we feel like we're moving a step backward
 
-**[02:29:16.030] Eunice Tanilon** (asr-003443)  
+**[02:29:16.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003443)  
 a bit from last year, at least in terms
 
-**[02:29:18.030] Eunice Tanilon** (asr-003444)  
+**[02:29:18.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003444)  
 of CSO engagement.
 
-**[02:29:20.030] Eunice Tanilon** (asr-003445)  
+**[02:29:20.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003445)  
 But I think we
 
-**[02:29:22.030] Eunice Tanilon** (asr-003446)  
+**[02:29:22.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003446)  
 are in all in agreement
 
-**[02:29:24.030] Eunice Tanilon** (asr-003447)  
+**[02:29:24.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003447)  
 that there's a little bit more
 
-**[02:29:26.030] Eunice Tanilon** (asr-003448)  
+**[02:29:26.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003448)  
 responsiveness,
 
-**[02:29:28.030] Eunice Tanilon** (asr-003449)  
+**[02:29:28.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003449)  
 especially with this.
 
-**[02:29:30.030] Eunice Tanilon** (asr-003450)  
+**[02:29:30.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003450)  
 So, I think for MBC,
 
-**[02:29:32.030] Eunice Tanilon** (asr-003451)  
+**[02:29:32.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003451)  
 our main concern is really
 
-**[02:29:34.030] Eunice Tanilon** (asr-003452)  
+**[02:29:34.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003452)  
 on the
 
-**[02:29:36.030] Eunice Tanilon** (asr-003453)  
+**[02:29:36.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003453)  
 clearing up the sentiment
 
-**[02:29:38.030] Eunice Tanilon** (asr-003454)  
+**[02:29:38.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003454)  
 around corruption scandals.
 
-**[02:29:40.030] Eunice Tanilon** (asr-003455)  
+**[02:29:40.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003455)  
 It has been very bad
 
-**[02:29:42.030] Eunice Tanilon** (asr-003456)  
+**[02:29:42.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003456)  
 for business, for foreign direct
 
-**[02:29:44.030] Eunice Tanilon** (asr-003457)  
+**[02:29:44.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003457)  
 investments.
 
-**[02:29:46.030] Eunice Tanilon** (asr-003458)  
+**[02:29:46.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003458)  
 That is something we're constantly monitoring.
 
-**[02:29:48.030] Eunice Tanilon** (asr-003459)  
+**[02:29:48.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003459)  
 And really our engagement
 
-**[02:29:50.030] Eunice Tanilon** (asr-003460)  
+**[02:29:50.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003460)  
 here is in the hopes of
 
-**[02:29:52.030] Eunice Tanilon** (asr-003461)  
+**[02:29:52.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003461)  
 really clarifying that.
 
-**[02:29:54.030] Eunice Tanilon** (asr-003462)  
+**[02:29:54.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003462)  
 And other items as well on the budget,
 
-**[02:29:56.030] Eunice Tanilon** (asr-003463)  
+**[02:29:56.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003463)  
 we're monitoring on
 
-**[02:29:58.030] Eunice Tanilon** (asr-003464)  
+**[02:29:58.030] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003464)  
 if there's clear
 
-**[02:30:00.000] Eunice Tanilon** (asr-003465)  
+**[02:30:00.000] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003465)  
 investment on regulatory desks in ease of doing business and key to this as well as our
 
-**[02:30:07.800] Eunice Tanilon** (asr-003466)  
+**[02:30:07.800] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003466)  
 push for the Right to Information Act as you as we mentioned is kulang na lang sa
 
-**[02:30:14.160] Eunice Tanilon** (asr-003467)  
+**[02:30:14.160] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003467)  
 BICAM we really are pushing for this and we've been actively convening as
 
-**[02:30:21.180] Eunice Tanilon** (asr-003468)  
+**[02:30:21.180] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003468)  
 MBC multiple companies mostly from multinational sectors on the issues
 
-**[02:30:28.240] Eunice Tanilon** (asr-003469)  
+**[02:30:28.240] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003469)  
 around the lack of information and we've received many cases many queries on
 
-**[02:30:34.560] Eunice Tanilon** (asr-003470)  
+**[02:30:34.560] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003470)  
 loss of investments missed opportunities and I think that is really part of the
 
-**[02:30:40.780] Eunice Tanilon** (asr-003471)  
+**[02:30:40.780] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003471)  
 broader forms that we're hoping to really push for alongside Cadena I think
 
-**[02:30:46.660] Eunice Tanilon** (asr-003472)  
+**[02:30:46.660] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003472)  
 as you mentioned I really need a push for these reforms for more proactive
 
-**[02:30:52.160] Eunice Tanilon** (asr-003473)  
+**[02:30:52.160] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003473)  
 disclosure and more clarity I think key to what business wants is clarity and
 
-**[02:30:57.300] Eunice Tanilon** (asr-003474)  
+**[02:30:57.300] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003474)  
 predictability
 
-**[02:30:58.120] Eunice Tanilon** (asr-003475)  
+**[02:30:58.120] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003475)  
 you
 
-**[02:30:58.240] Eunice Tanilon** (asr-003476)  
+**[02:30:58.240] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003476)  
 and why we also emphasize getting advanced release calendars really
 
-**[02:31:05.480] Eunice Tanilon** (asr-003477)  
+**[02:31:05.480] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003477)  
 getting a heads up on hearings and sessions as well as where we actually
 
-**[02:31:11.660] Eunice Tanilon** (asr-003478)  
+**[02:31:11.660] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003478)  
 have input in the process and Sana earlier in the process as well so that's
 
-**[02:31:18.740] Eunice Tanilon** (asr-003479)  
+**[02:31:18.740] Makati Business Club Governance and Sustainability Lead Eunice Tanilon** (asr-003479)  
 it for us at MBC thank you
 
 **[02:31:20.030] John Castillo** (asr-003479-split-2)  
@@ -10423,100 +10423,100 @@ Eunice Tanilon. Now we call on for her final message or inputs, Ms. April Joy
 **[02:31:28.120] John Castillo** (asr-003481)  
 Meneses from BTAG Media Unlimited, Inc.
 
-**[02:31:35.440] April Joy Meneses** (asr-003482)  
+**[02:31:35.440] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003482)  
 Thank you, sir. To our chairman, Congressman Albert Garcia.
 
-**[02:31:42.100] April Joy Meneses** (asr-003483)  
+**[02:31:42.100] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003483)  
 Yeah, sir, we're really happy.
 
-**[02:31:43.940] April Joy Meneses** (asr-003484)  
+**[02:31:43.940] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003484)  
 We're really happy that you've mentioned the BUB, the bottom-up budgeting.
 
-**[02:31:46.960] April Joy Meneses** (asr-003485)  
+**[02:31:46.960] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003485)  
 That's what we've been advocating for years already.
 
-**[02:31:49.860] April Joy Meneses** (asr-003486)  
+**[02:31:49.860] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003486)  
 And beyond policy or beyond the guidelines,
 
-**[02:31:54.000] April Joy Meneses** (asr-003487)  
+**[02:31:54.000] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003487)  
 we want it to be legislated po sana.
 
-**[02:31:56.720] April Joy Meneses** (asr-003488)  
+**[02:31:56.720] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003488)  
 And we're happy that you've mentioned na you want, or we want, to have this budget people-centric. Yung ano po, yung mga kailangan mismo ng mga tao sa ibaba, yun po yung mapondohan, mabudgetan.
 
-**[02:32:09.810] April Joy Meneses** (asr-003489)  
+**[02:32:09.810] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003489)  
 and then they will monitor that and all the paps the programs activities and projects
 
-**[02:32:20.210] April Joy Meneses** (asr-003490)  
+**[02:32:20.210] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003490)  
 and we're happy also sir that you've mentioned the cadena act and also the transparency portal
 
-**[02:32:27.170] April Joy Meneses** (asr-003491)  
+**[02:32:27.170] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003491)  
 and we're happy that they launched that the transparency portal and we're encouraging also
 
-**[02:32:38.770] April Joy Meneses** (asr-003492)  
+**[02:32:38.770] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003492)  
 the other departments
 
-**[02:32:43.170] April Joy Meneses** (asr-003493)  
+**[02:32:43.170] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003493)  
 and also sir i would like to emphasize that we have submitted our um you know our opposition
 
-**[02:32:49.650] April Joy Meneses** (asr-003494)  
+**[02:32:49.650] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003494)  
 paper para poosana malegislate the bottom of budgeting hindi lang siya gawing uh program
 
-**[02:32:56.850] April Joy Meneses** (asr-003495)  
+**[02:32:56.850] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003495)  
 or
 
-**[02:32:57.170] April Joy Meneses** (asr-003496)  
+**[02:32:57.170] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003496)  
 and it depends on the administration na if they wanna adopt it or not
 
-**[02:33:07.170] April Joy Meneses** (asr-003497)  
+**[02:33:07.170] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003497)  
 because it's not yet a law so we wanna push poosana to make it a law and uh if i may just
 
-**[02:33:14.130] April Joy Meneses** (asr-003498)  
+**[02:33:14.130] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003498)  
 say sir since you've mentioned and you've been passionate about the bub that you mentioned
 
-**[02:33:19.090] April Joy Meneses** (asr-003499)  
+**[02:33:19.090] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003499)  
 earlier sana sir we can come to your office and seek your help to uh really sponsor the bill
 
-**[02:33:28.130] April Joy Meneses** (asr-003500)  
+**[02:33:28.130] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003500)  
 uh to answer all the issues that been hounding the the legislators or the lawmakers uh parapa
 
-**[02:33:34.850] April Joy Meneses** (asr-003501)  
+**[02:33:34.850] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003501)  
 wala na tayong mga you know i think pareho naman po tayo ng layunin and all the csos here
 
-**[02:33:40.130] April Joy Meneses** (asr-003502)  
+**[02:33:40.130] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003502)  
 na wala na po tayong magiging ghost projects ng mga you know unfinished projects or yung mga
 
-**[02:33:48.050] April Joy Meneses** (asr-003503)  
+**[02:33:48.050] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003503)  
 insertions
 
-**[02:33:49.170] April Joy Meneses** (asr-003504)  
+**[02:33:49.170] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003504)  
 na bulag po yung taong bayan. And that's what we really wanted to see and to
 
-**[02:33:55.170] April Joy Meneses** (asr-003505)  
+**[02:33:55.170] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003505)  
 really
 
-**[02:33:56.130] April Joy Meneses** (asr-003506)  
+**[02:33:56.130] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003506)  
 advocate po.
 
-**[02:33:58.530] April Joy Meneses** (asr-003507)  
+**[02:33:58.530] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003507)  
 And yan lang po,
 
-**[02:33:59.730] April Joy Meneses** (asr-003508)  
+**[02:33:59.730] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003508)  
 Congressman and also to our Vice Chairs,
 
-**[02:34:02.550] April Joy Meneses** (asr-003509)  
+**[02:34:02.550] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003509)  
 kakatupo kami sa pintuan
 
-**[02:34:04.310] April Joy Meneses** (asr-003510)  
+**[02:34:04.310] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003510)  
 nyo sir, to really
 
-**[02:34:05.210] April Joy Meneses** (asr-003511)  
+**[02:34:05.210] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003511)  
 seek your help to have
 
-**[02:34:08.190] April Joy Meneses** (asr-003512)  
+**[02:34:08.190] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003512)  
 this bottom-up budgeting process
 
-**[02:34:10.030] April Joy Meneses** (asr-003513)  
+**[02:34:10.030] ipaBITAGmo Incorporated Executive Director April Joy Meneses** (asr-003513)  
 be legislated. Thank you.
 
 **[02:34:12.310] John Castillo** (asr-003514)  
@@ -10537,124 +10537,124 @@ Mr. Lance Avery
 **[02:34:24.240] John Castillo** (asr-003519)  
 Alo.
 
-**[02:34:24.600] Michelle Andre Macahilo** (asr-003519-split-2)  
+**[02:34:24.600] GoodGovPH Representative Michelle Andre Macahilo** (asr-003519-split-2)  
 Sorry, Lance is
 
-**[02:34:26.160] Michelle Andre Macahilo** (asr-003520)  
+**[02:34:26.160] GoodGovPH Representative Michelle Andre Macahilo** (asr-003520)  
 not here. I'm Michelle.
 
-**[02:34:27.640] Michelle Andre Macahilo** (asr-003521)  
+**[02:34:27.640] GoodGovPH Representative Michelle Andre Macahilo** (asr-003521)  
 Ms. Michelle Andre Macahilo.
 
 **[02:34:29.030] John Castillo** (asr-003521-split-2)  
 Okay.
 
-**[02:34:29.940] Michelle Andre Macahilo** (asr-003522)  
+**[02:34:29.940] GoodGovPH Representative Michelle Andre Macahilo** (asr-003522)  
 So gusto naman sabihin kanina
 
-**[02:34:31.980] Michelle Andre Macahilo** (asr-003523)  
+**[02:34:31.980] GoodGovPH Representative Michelle Andre Macahilo** (asr-003523)  
 sa GoodGovPH on behalf of
 
-**[02:34:34.260] Michelle Andre Macahilo** (asr-003524)  
+**[02:34:34.260] GoodGovPH Representative Michelle Andre Macahilo** (asr-003524)  
 the youth sectors that we
 
-**[02:34:36.000] Michelle Andre Macahilo** (asr-003525)  
+**[02:34:36.000] GoodGovPH Representative Michelle Andre Macahilo** (asr-003525)  
 represent na maganda na pinag-uusapan
 
-**[02:34:38.080] Michelle Andre Macahilo** (asr-003526)  
+**[02:34:38.080] GoodGovPH Representative Michelle Andre Macahilo** (asr-003526)  
 natin at cognizant ang ating
 
-**[02:34:40.140] Michelle Andre Macahilo** (asr-003527)  
+**[02:34:40.140] GoodGovPH Representative Michelle Andre Macahilo** (asr-003527)  
 mga opisyalis na hindi
 
-**[02:34:42.100] Michelle Andre Macahilo** (asr-003528)  
+**[02:34:42.100] GoodGovPH Representative Michelle Andre Macahilo** (asr-003528)  
 nagtatapos ang budget or yung
 
-**[02:34:44.100] Michelle Andre Macahilo** (asr-003529)  
+**[02:34:44.100] GoodGovPH Representative Michelle Andre Macahilo** (asr-003529)  
 pag-monitor sa budget dito lamang sa deliberations
 
-**[02:34:46.300] Michelle Andre Macahilo** (asr-003530)  
+**[02:34:46.300] GoodGovPH Representative Michelle Andre Macahilo** (asr-003530)  
 but ongoing process siya. Kaya rin
 
-**[02:34:48.220] Michelle Andre Macahilo** (asr-003531)  
+**[02:34:48.220] GoodGovPH Representative Michelle Andre Macahilo** (asr-003531)  
 siguro nagkaroon ng talks kanina about
 
-**[02:34:49.840] Michelle Andre Macahilo** (asr-003532)  
+**[02:34:49.840] GoodGovPH Representative Michelle Andre Macahilo** (asr-003532)  
 amending the SGLG and to strengthen
 
-**[02:34:52.220] Michelle Andre Macahilo** (asr-003533)  
+**[02:34:52.220] GoodGovPH Representative Michelle Andre Macahilo** (asr-003533)  
 merit-based programs to recognize exemplary
 
-**[02:34:54.420] Michelle Andre Macahilo** (asr-003534)  
+**[02:34:54.420] GoodGovPH Representative Michelle Andre Macahilo** (asr-003534)  
 LGUs. Gusto ko lang
 
-**[02:34:55.840] Michelle Andre Macahilo** (asr-003535)  
+**[02:34:55.840] GoodGovPH Representative Michelle Andre Macahilo** (asr-003535)  
 sabihin na we should also highlight the youth
 
-**[02:34:57.860] Michelle Andre Macahilo** (asr-003536)  
+**[02:34:57.860] GoodGovPH Representative Michelle Andre Macahilo** (asr-003536)  
 counterparts in youth governance, meaning
 
-**[02:34:59.840] Michelle Andre Macahilo** (asr-003537)  
+**[02:34:59.840] GoodGovPH Representative Michelle Andre Macahilo** (asr-003537)  
 yung mga SK at yung mga LAIDOS. And
 
-**[02:35:01.840] Michelle Andre Macahilo** (asr-003538)  
+**[02:35:01.840] GoodGovPH Representative Michelle Andre Macahilo** (asr-003538)  
 hopefully it can extend to other youth governance
 
-**[02:35:03.720] Michelle Andre Macahilo** (asr-003539)  
+**[02:35:03.720] GoodGovPH Representative Michelle Andre Macahilo** (asr-003539)  
 institutions. Sa organisasyon, meron
 
-**[02:35:05.980] Michelle Andre Macahilo** (asr-003540)  
+**[02:35:05.980] GoodGovPH Representative Michelle Andre Macahilo** (asr-003540)  
 kaming tinatawag na Seal of Good Youth Governance
 
-**[02:35:08.100] Michelle Andre Macahilo** (asr-003541)  
+**[02:35:08.100] GoodGovPH Representative Michelle Andre Macahilo** (asr-003541)  
 which shows that the
 
-**[02:35:09.700] Michelle Andre Macahilo** (asr-003542)  
+**[02:35:09.700] GoodGovPH Representative Michelle Andre Macahilo** (asr-003542)  
 SKs, LAIDOS, LYDCs also
 
-**[02:35:12.020] Michelle Andre Macahilo** (asr-003543)  
+**[02:35:12.020] GoodGovPH Representative Michelle Andre Macahilo** (asr-003543)  
 have the capacity to govern
 
-**[02:35:13.800] Michelle Andre Macahilo** (asr-003544)  
+**[02:35:13.800] GoodGovPH Representative Michelle Andre Macahilo** (asr-003544)  
 kapag merong good monitors
 
-**[02:35:15.860] Michelle Andre Macahilo** (asr-003545)  
+**[02:35:15.860] GoodGovPH Representative Michelle Andre Macahilo** (asr-003545)  
 that can strengthen accountability and transparency.
 
-**[02:35:18.600] Michelle Andre Macahilo** (asr-003546)  
+**[02:35:18.600] GoodGovPH Representative Michelle Andre Macahilo** (asr-003546)  
 Nakita natin ito sa mga ilang
 
-**[02:35:19.740] Michelle Andre Macahilo** (asr-003547)  
+**[02:35:19.740] GoodGovPH Representative Michelle Andre Macahilo** (asr-003547)  
 syudad tulad ng Pasig, tulad ng Binyan
 
-**[02:35:21.740] Michelle Andre Macahilo** (asr-003548)  
+**[02:35:21.740] GoodGovPH Representative Michelle Andre Macahilo** (asr-003548)  
 na siyang nakapagpapatunay na ang kabatan
 
-**[02:35:23.760] Michelle Andre Macahilo** (asr-003549)  
+**[02:35:23.760] GoodGovPH Representative Michelle Andre Macahilo** (asr-003549)  
 ay may capacity na mamuno din.
 
-**[02:35:25.840] Michelle Andre Macahilo** (asr-003550)  
+**[02:35:25.840] GoodGovPH Representative Michelle Andre Macahilo** (asr-003550)  
 Hopefully, ito ay sana
 
-**[02:35:27.540] Michelle Andre Macahilo** (asr-003551)  
+**[02:35:27.540] GoodGovPH Representative Michelle Andre Macahilo** (asr-003551)  
 ma-consider ng ating mga opisyalis
 
-**[02:35:29.580] Michelle Andre Macahilo** (asr-003552)  
+**[02:35:29.580] GoodGovPH Representative Michelle Andre Macahilo** (asr-003552)  
 sa pag-amend ng SGLG
 
-**[02:35:31.260] Michelle Andre Macahilo** (asr-003553)  
+**[02:35:31.260] GoodGovPH Representative Michelle Andre Macahilo** (asr-003553)  
 para hindi lamang nakakaroon ng responsible
 
-**[02:35:33.540] Michelle Andre Macahilo** (asr-003554)  
+**[02:35:33.540] GoodGovPH Representative Michelle Andre Macahilo** (asr-003554)  
 budget monitoring ngayon
 
-**[02:35:35.800] Michelle Andre Macahilo** (asr-003555)  
+**[02:35:35.800] GoodGovPH Representative Michelle Andre Macahilo** (asr-003555)  
 sa deliberations, pero ongoing
 
-**[02:35:37.740] Michelle Andre Macahilo** (asr-003556)  
+**[02:35:37.740] GoodGovPH Representative Michelle Andre Macahilo** (asr-003556)  
 process ito kahit sa mismong
 
-**[02:35:39.400] Michelle Andre Macahilo** (asr-003557)  
+**[02:35:39.400] GoodGovPH Representative Michelle Andre Macahilo** (asr-003557)  
 implementation, pati na rin sa auditing.
 
 **[02:35:41.540] John Castillo** (asr-003558)  
@@ -10684,163 +10684,163 @@ Development, NGO Networks,
 **[02:35:57.560] John Castillo** (asr-003566)  
 Atty. Doris Ramirez.
 
-**[02:35:59.140] Doris Ramirez** (asr-003567)  
+**[02:35:59.140] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003567)  
 Yes, po. Maraming maraming salamat po
 
-**[02:36:01.420] Doris Ramirez** (asr-003568)  
+**[02:36:01.420] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003568)  
 to all our congressmen and
 
-**[02:36:03.660] Doris Ramirez** (asr-003569)  
+**[02:36:03.660] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003569)  
 congresswomen who are here.
 
-**[02:36:06.260] Doris Ramirez** (asr-003570)  
+**[02:36:06.260] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003570)  
 We welcome po
 
-**[02:36:07.700] Doris Ramirez** (asr-003571)  
+**[02:36:07.700] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003571)  
 yung inyong commitment na hindi na maulit
 
-**[02:36:10.000] Doris Ramirez** (asr-003572)  
+**[02:36:10.000] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003572)  
 yung ating mga
 
-**[02:36:11.080] Doris Ramirez** (asr-003573)  
+**[02:36:11.080] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003573)  
 nangyaring miscommunications
 
-**[02:36:13.320] Doris Ramirez** (asr-003574)  
+**[02:36:13.320] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003574)  
 and
 
-**[02:36:14.560] Doris Ramirez** (asr-003575)  
+**[02:36:14.560] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003575)  
 mga processes na mas
 
-**[02:36:17.700] Doris Ramirez** (asr-003576)  
+**[02:36:17.700] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003576)  
 maging malinaw pa.
 
-**[02:36:19.320] Doris Ramirez** (asr-003577)  
+**[02:36:19.320] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003577)  
 Just want to share po na yung mga
 
-**[02:36:21.360] Doris Ramirez** (asr-003578)  
+**[02:36:21.360] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003578)  
 CSOs po, we had the opportunity
 
-**[02:36:23.340] Doris Ramirez** (asr-003579)  
+**[02:36:23.340] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003579)  
 to participate in the technical
 
-**[02:36:25.760] Doris Ramirez** (asr-003580)  
+**[02:36:25.760] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003580)  
 working group in the Senate
 
-**[02:36:27.420] Doris Ramirez** (asr-003581)  
+**[02:36:27.420] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003581)  
 with regard to the proposed
 
-**[02:36:29.840] Doris Ramirez** (asr-003582)  
+**[02:36:29.840] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003582)  
 budget reform bills, and
 
-**[02:36:31.860] Doris Ramirez** (asr-003583)  
+**[02:36:31.860] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003583)  
 we are really seeking the
 
-**[02:36:33.800] Doris Ramirez** (asr-003584)  
+**[02:36:33.800] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003584)  
 indulgence of the honorable
 
-**[02:36:35.540] Doris Ramirez** (asr-003585)  
+**[02:36:35.540] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003585)  
 congresspersons here
 
-**[02:36:37.320] Doris Ramirez** (asr-003586)  
+**[02:36:37.320] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003586)  
 to allow us to be
 
-**[02:36:39.700] Doris Ramirez** (asr-003587)  
+**[02:36:39.700] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003587)  
 part of the technical working
 
-**[02:36:41.420] Doris Ramirez** (asr-003588)  
+**[02:36:41.420] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003588)  
 groups in the event that
 
-**[02:36:43.800] Doris Ramirez** (asr-003589)  
+**[02:36:43.800] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003589)  
 there are technical working
 
-**[02:36:45.940] Doris Ramirez** (asr-003590)  
+**[02:36:45.940] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003590)  
 groups that will be
 
-**[02:36:47.460] Doris Ramirez** (asr-003591)  
+**[02:36:47.460] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003591)  
 established for
 
-**[02:36:49.860] Doris Ramirez** (asr-003592)  
+**[02:36:49.860] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003592)  
 the pending, like the
 
-**[02:36:51.820] Doris Ramirez** (asr-003593)  
+**[02:36:51.820] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003593)  
 meritocracy bill
 
-**[02:36:53.840] Doris Ramirez** (asr-003594)  
+**[02:36:53.840] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003594)  
 that was being discussed,
 
-**[02:36:55.760] Doris Ramirez** (asr-003595)  
+**[02:36:55.760] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003595)  
 by Congressman Garcia.
 
-**[02:36:57.260] Doris Ramirez** (asr-003596)  
+**[02:36:57.260] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003596)  
 We will be very happy to
 
-**[02:36:59.320] Doris Ramirez** (asr-003597)  
+**[02:36:59.320] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003597)  
 participate as part of
 
-**[02:37:01.500] Doris Ramirez** (asr-003598)  
+**[02:37:01.500] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003598)  
 the technical working group.
 
-**[02:37:03.360] Doris Ramirez** (asr-003599)  
+**[02:37:03.360] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003599)  
 We know how very
 
-**[02:37:05.300] Doris Ramirez** (asr-003600)  
+**[02:37:05.300] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003600)  
 important technical working groups are,
 
-**[02:37:08.320] Doris Ramirez** (asr-003601)  
+**[02:37:08.320] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003601)  
 and that is
 
-**[02:37:09.320] Doris Ramirez** (asr-003602)  
+**[02:37:09.320] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003602)  
 a very concrete avenue
 
-**[02:37:11.720] Doris Ramirez** (asr-003603)  
+**[02:37:11.720] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003603)  
 where CSOs can
 
-**[02:37:13.340] Doris Ramirez** (asr-003604)  
+**[02:37:13.340] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003604)  
 give our inputs.
 
-**[02:37:15.940] Doris Ramirez** (asr-003605)  
+**[02:37:15.940] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003605)  
 And on behalf of
 
-**[02:37:17.320] Doris Ramirez** (asr-003606)  
+**[02:37:17.320] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003606)  
 Code NGO and the
 
-**[02:37:18.980] Doris Ramirez** (asr-003607)  
+**[02:37:18.980] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003607)  
 11 networks nationwide
 
-**[02:37:21.320] Doris Ramirez** (asr-003608)  
+**[02:37:21.320] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003608)  
 that we are representing,
 
-**[02:37:23.300] Doris Ramirez** (asr-003609)  
+**[02:37:23.300] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003609)  
 representing with more than
 
-**[02:37:25.740] Doris Ramirez** (asr-003610)  
+**[02:37:25.740] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003610)  
 2,000 organizations,
 
-**[02:37:27.480] Doris Ramirez** (asr-003611)  
+**[02:37:27.480] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003611)  
 people's organizations, and other
 
-**[02:37:29.480] Doris Ramirez** (asr-003612)  
+**[02:37:29.480] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003612)  
 entities that we represent,
 
-**[02:37:31.480] Doris Ramirez** (asr-003613)  
+**[02:37:31.480] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003613)  
 we are really appealing
 
-**[02:37:33.480] Doris Ramirez** (asr-003614)  
+**[02:37:33.480] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003614)  
 for an open, transparent,
 
-**[02:37:35.480] Doris Ramirez** (asr-003615)  
+**[02:37:35.480] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003615)  
 bicameral
 
-**[02:37:37.480] Doris Ramirez** (asr-003616)  
+**[02:37:37.480] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003616)  
 session
 
-**[02:37:39.480] Doris Ramirez** (asr-003617)  
+**[02:37:39.480] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003617)  
 this 2026
 
-**[02:37:41.480] Doris Ramirez** (asr-003618)  
+**[02:37:41.480] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003618)  
 for the people's budget in
 
-**[02:37:43.480] Doris Ramirez** (asr-003619)  
+**[02:37:43.480] CODE-NGO Executive Director Atty. Doris Ramirez** (asr-003619)  
 2027. Maraming maraming salamat po.
 
 **[02:37:45.480] John Castillo** (asr-003620)  

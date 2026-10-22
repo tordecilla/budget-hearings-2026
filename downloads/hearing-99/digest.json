@@ -1,0 +1,444 @@
+{
+  "hearing": {
+    "hearing_id": 99,
+    "title": "Senate Committee on Finance: OVP - October 20, 2026",
+    "hearing_date": "2026-10-20",
+    "official_url": "https://www.youtube.com/watch?v=YmxlFfo5_f0"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h99/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Committee chair and opening",
+      "text": "Senator Joseph Victor \"JV\" G. Ejercito presided over the budget deliberation, acknowledged the OVP resource persons, and opened the floor for questions.",
+      "citations": []
+    },
+    {
+      "label": "Budget questions and program recalibration",
+      "text": "Senator Sherwin \"Win\" T. Gatchalian asked about the Vice President's absence and hoped she would attend the plenary. Undersecretary Zuleika T. Lopez explained that she was representing former President Rodrigo Roa Duterte at an inurnment. Senator Imee R. Marcos asked how program recalibration would affect beneficiaries; Lopez described reduced Mag-Negosyo Ta-Day targets and monitoring, while OVP Director for Operations Norman Baloro reported progress toward the Pagbabago learner campaign target. Marcos followed up on whether Mag-Negosyo Ta-Day beneficiaries continued operating businesses.",
+      "citations": []
+    },
+    {
+      "label": "Program support and disposition",
+      "text": "Senator Christopher Lawrence T. Go supported continuing OVP programs, including Libreng Sakay. Ejercito questioned the effect of the OVP's lower allocation and continuation of programs, and the OVP described ongoing service and evaluation. He deemed the proposed budget submitted for plenary consideration, subject to discussion and submission of requested documents.",
+      "citations": []
+    }
+  ],
+  "method_note": "Citations link to the timed transcript. Budget matters appear first, followed by the remaining exchanges in source order.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Office of the Vice President proposed budget",
+      "items": [
+        {
+          "label": "FY 2027 NEP allocation and FY 2026 comparison",
+          "text": "For the Office of the Vice President, the proposed FY 2027 National Expenditure Program (NEP) allocation was PHP 785 million; the FY 2026 comparison was PHP 889 million. The original agency request amount was not stated in the hearing.",
+          "citations": [
+            {
+              "stable_id": "asr-000041",
+              "start_seconds": 1162.97,
+              "clock": "00:19:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000041"
+            },
+            {
+              "stable_id": "asr-000048",
+              "start_seconds": 1321.2,
+              "clock": "00:22:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000048"
+            },
+            {
+              "stable_id": "asr-000049",
+              "start_seconds": 1332.08,
+              "clock": "00:22:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000049"
+            },
+            {
+              "stable_id": "asr-000117",
+              "start_seconds": 1722.6,
+              "clock": "00:28:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000117"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-office-of-the-vice-president",
+      "label": "Office of the Vice President budget",
+      "items": [
+        {
+          "label": "OVP budget comparison",
+          "text": "Senator Sherwin \"Win\" T. Gatchalian described the proposed FY 2027 budget of the Office of the Vice President (OVP) as an 11% decrease from the previous year. He viewed its socioeconomic programs as a way to give constituents relief and said the office was spending its budget efficiently.",
+          "citations": [
+            {
+              "stable_id": "asr-000048",
+              "start_seconds": 1321.2,
+              "clock": "00:22:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000048"
+            },
+            {
+              "stable_id": "asr-000053",
+              "start_seconds": 1362.82,
+              "clock": "00:22:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000053"
+            }
+          ]
+        },
+        {
+          "label": "Socioeconomic programs: recalibration and beneficiary targets",
+          "text": "Senator Imee R. Marcos supported extending traditional courtesy to the Office of the Vice President (OVP), then asked what its budget reduction of more than 11% would mean for programs and beneficiaries. Undersecretary Zuleika T. Lopez attributed much of the change to reprogramming or recalibration. Mag-Negosyo Ta-Day would concentrate on monitoring and evaluating its impact, with reduced beneficiary targets.\n\nOVP Director for Operations Norman Baloro said the Pagbabago a Million Learners campaign was nearing its target of 1 million learners receiving bags, raincoats and dental kits, and expected to reach it before 2028. Marcos congratulated the OVP and asked how many Mag-Negosyo Ta-Day beneficiaries had continued operating businesses, emphasizing the need for monitoring and evaluation. She received no figure before moving to endorse the budget.",
+          "citations": [
+            {
+              "stable_id": "asr-000096",
+              "start_seconds": 1574.1399999999999,
+              "clock": "00:26:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000096"
+            },
+            {
+              "stable_id": "asr-000098",
+              "start_seconds": 1588.76,
+              "clock": "00:26:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000098"
+            },
+            {
+              "stable_id": "asr-000101",
+              "start_seconds": 1606.38,
+              "clock": "00:26:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000101"
+            },
+            {
+              "stable_id": "asr-000107",
+              "start_seconds": 1647.18,
+              "clock": "00:27:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000107"
+            },
+            {
+              "stable_id": "asr-000108",
+              "start_seconds": 1656.52,
+              "clock": "00:27:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000108"
+            },
+            {
+              "stable_id": "asr-000111",
+              "start_seconds": 1677.18,
+              "clock": "00:27:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000111"
+            }
+          ]
+        },
+        {
+          "label": "Motion to endorse the OVP budget",
+          "text": "Marcos moved to endorse the OVP budget to the plenary.",
+          "citations": [
+            {
+              "stable_id": "asr-000113",
+              "start_seconds": 1694.8600000000001,
+              "clock": "00:28:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000113"
+            }
+          ]
+        },
+        {
+          "label": "Support for the reduced allocation",
+          "text": "Senator Christopher Lawrence T. Go supported the proposed FY 2027 budget of the Office of the Vice President (OVP), praising its continued disaster assistance, livelihood programs and free rides despite a smaller allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-000117",
+              "start_seconds": 1722.6,
+              "clock": "00:28:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000117"
+            },
+            {
+              "stable_id": "asr-000121",
+              "start_seconds": 1746.6200000000001,
+              "clock": "00:29:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000121"
+            },
+            {
+              "stable_id": "asr-000116",
+              "start_seconds": 1716.8000000000002,
+              "clock": "00:28:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000116"
+            }
+          ]
+        },
+        {
+          "label": "Seconding the endorsement motion",
+          "text": "Go seconded the motion to submit and recommend the OVP's proposed FY 2027 budget to the plenary.",
+          "citations": [
+            {
+              "stable_id": "asr-000168",
+              "start_seconds": 1874.26,
+              "clock": "00:31:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000168"
+            },
+            {
+              "stable_id": "asr-000169",
+              "start_seconds": 1875.76,
+              "clock": "00:31:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000169"
+            },
+            {
+              "stable_id": "asr-000171",
+              "start_seconds": 1879.72,
+              "clock": "00:31:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000171"
+            }
+          ]
+        },
+        {
+          "label": "OVP budget comparison",
+          "text": "Senator Joseph Victor \"JV\" G. Ejercito said the Office of the Vice President (OVP) had almost P86 million deducted from its budget compared with the \"2027 GAA\" (General Appropriations Act) and asked whether that was correct. He separately said the Senate budget was lower by P1 billion that year. These comparisons are stated separately; the exchange does not reconcile the OVP comparison year.",
+          "citations": [
+            {
+              "stable_id": "asr-000196",
+              "start_seconds": 1927.56,
+              "clock": "00:32:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000196"
+            },
+            {
+              "stable_id": "asr-000198",
+              "start_seconds": 1932.42,
+              "clock": "00:32:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000198"
+            },
+            {
+              "stable_id": "asr-000199",
+              "start_seconds": 1934.6,
+              "clock": "00:32:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000199"
+            },
+            {
+              "stable_id": "asr-000200",
+              "start_seconds": 1936.44,
+              "clock": "00:32:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000200"
+            },
+            {
+              "stable_id": "asr-000202",
+              "start_seconds": 1939.66,
+              "clock": "00:32:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000202"
+            },
+            {
+              "stable_id": "asr-000203",
+              "start_seconds": 1940.88,
+              "clock": "00:32:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000203"
+            }
+          ]
+        },
+        {
+          "label": "Committee position and plenary disposition",
+          "text": "At the start of the exchange, Ejercito took note of motions by Senator Imee R. Marcos and Senator Christopher Lawrence T. Go. He then deemed the OVP budget submitted for plenary consideration, subject to discussion and submission of requested documents.",
+          "citations": [
+            {
+              "stable_id": "asr-000173",
+              "start_seconds": 1883.74,
+              "clock": "00:31:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000173"
+            },
+            {
+              "stable_id": "asr-000276",
+              "start_seconds": 2086.42,
+              "clock": "00:34:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000276"
+            },
+            {
+              "stable_id": "asr-000279",
+              "start_seconds": 2092.38,
+              "clock": "00:34:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000279"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-sherwin-win-t-gatchalian",
+      "label": "Senator Sherwin \"Win\" T. Gatchalian",
+      "items": [
+        {
+          "label": "Vice President's absence and plenary appearance",
+          "text": "Gatchalian asked OVP Chief of Staff Undersecretary Zuleika T. Lopez where the Vice President was, noting the tradition of heads of offices attending budget hearings and her participation the previous year. Lopez said the Vice President was representing former President Rodrigo Roa Duterte at the October 20 inurnment of a long-serving Davao City planner, and confirmed she was in the country.\n\nGatchalian hoped the Vice President would attend the plenary deliberation to defend the OVP budget. He left committee-level shepherding of the budget to the committee chair, Senator Joseph Victor \"JV\" G. Ejercito.",
+          "citations": [
+            {
+              "stable_id": "asr-000061",
+              "start_seconds": 1408.76,
+              "clock": "00:23:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000061"
+            },
+            {
+              "stable_id": "asr-000069",
+              "start_seconds": 1450.8,
+              "clock": "00:24:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000069"
+            },
+            {
+              "stable_id": "asr-000070",
+              "start_seconds": 1459.02,
+              "clock": "00:24:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000070"
+            },
+            {
+              "stable_id": "asr-000076",
+              "start_seconds": 1479.42,
+              "clock": "00:24:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000076"
+            },
+            {
+              "stable_id": "asr-000083",
+              "start_seconds": 1503.8400000000001,
+              "clock": "00:25:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000083"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-christopher-lawrence-t-go",
+      "label": "Senator Christopher Lawrence T. Go",
+      "items": [
+        {
+          "label": "Libreng Sakay: operations and route coverage",
+          "text": "Go asked whether Libreng Sakay was continuing. OVP Director Norman Baloro confirmed that it was operational and had nine buses. Two served the Monumento-PITX EDSA Carousel route, and two operated between Commonwealth and Quiapo in both directions. He also listed the PITX-Naic, Cavite route and one bus each in Bacolod, Cebu City, Davao and Tacloban City.\n\nGo urged the OVP to continue the service, which he said he had supported in previous years. He argued that the Vice President should be a working Vice President rather than a spare tire, and emphasized public servants' duty to help people needing social services.",
+          "citations": [
+            {
+              "stable_id": "asr-000125",
+              "start_seconds": 1777.9,
+              "clock": "00:29:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000125"
+            },
+            {
+              "stable_id": "asr-000127",
+              "start_seconds": 1785.9,
+              "clock": "00:29:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000127"
+            },
+            {
+              "stable_id": "asr-000128",
+              "start_seconds": 1791.1,
+              "clock": "00:29:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000128"
+            },
+            {
+              "stable_id": "asr-000130",
+              "start_seconds": 1797.18,
+              "clock": "00:29:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000130"
+            },
+            {
+              "stable_id": "asr-000133",
+              "start_seconds": 1802.06,
+              "clock": "00:30:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000133"
+            },
+            {
+              "stable_id": "asr-000135",
+              "start_seconds": 1805.88,
+              "clock": "00:30:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000135"
+            },
+            {
+              "stable_id": "asr-000138",
+              "start_seconds": 1811.96,
+              "clock": "00:30:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000138"
+            },
+            {
+              "stable_id": "asr-000131",
+              "start_seconds": 1799.3400000000001,
+              "clock": "00:29:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000131"
+            },
+            {
+              "stable_id": "asr-000144",
+              "start_seconds": 1825.92,
+              "clock": "00:30:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000144"
+            },
+            {
+              "stable_id": "asr-000147",
+              "start_seconds": 1831.88,
+              "clock": "00:30:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000147"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Libreng Sakay and Mag-Negosyo Ta-Day",
+          "text": "Ejercito asked whether the OVP would continue Libreng Sakay and Mag-Negosyo Ta-Day. He said higher fuel prices were leaving some operators unwilling to travel because they were losing money, and that continuation could help during the crisis; he said he would support the programs. Undersecretary Zuleika T. Lopez said Libreng Sakay continued daily with nine buses and expected its four-millionth passenger within two weeks. For Mag-Negosyo Ta-Day, the OVP was monitoring and evaluating whether beneficiaries had succeeded in businesses or livelihoods it provided. Ejercito then asked whether the office was sure it wanted to recalibrate the program and, if it was successful, whether recalibration might waste something that could help businesses. Lopez described the recalibration as involving the \"program and program mix\".\n\nEjercito affirmed support for OVP social programs despite political noise, expressed hope for national unity and hoped the Vice President would attend plenary.",
+          "citations": [
+            {
+              "stable_id": "asr-000205",
+              "start_seconds": 1946.58,
+              "clock": "00:32:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000205"
+            },
+            {
+              "stable_id": "asr-000224",
+              "start_seconds": 1983.1,
+              "clock": "00:33:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000224"
+            },
+            {
+              "stable_id": "asr-000227",
+              "start_seconds": 1988.56,
+              "clock": "00:33:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000227"
+            },
+            {
+              "stable_id": "asr-000228",
+              "start_seconds": 1990.18,
+              "clock": "00:33:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000228"
+            },
+            {
+              "stable_id": "asr-000230",
+              "start_seconds": 1994.14,
+              "clock": "00:33:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000230"
+            },
+            {
+              "stable_id": "asr-000235",
+              "start_seconds": 2004.38,
+              "clock": "00:33:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000235"
+            },
+            {
+              "stable_id": "asr-000237",
+              "start_seconds": 2006.58,
+              "clock": "00:33:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000237"
+            },
+            {
+              "stable_id": "asr-000245-split-2",
+              "start_seconds": 2023.26,
+              "clock": "00:33:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000245-split-2"
+            },
+            {
+              "stable_id": "asr-000250",
+              "start_seconds": 2032.88,
+              "clock": "00:33:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000250"
+            },
+            {
+              "stable_id": "asr-000254",
+              "start_seconds": 2040.76,
+              "clock": "00:34:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000254"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

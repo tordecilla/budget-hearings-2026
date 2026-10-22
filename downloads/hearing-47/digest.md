@@ -38,7 +38,7 @@ Garcia said committee vice chairs were present to address concerns within their 
 
 [00:10:20 · asr-000160](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-000160) · [00:10:41 · asr-000171](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-000171) · [00:16:03 · asr-000273](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-000273) · [00:17:12 · asr-000280](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-000280) · [00:17:27 · asr-000283](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-000283) · [00:17:48 · asr-000285](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-000285) · [00:18:39 · asr-000293](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-000293)
 
-## Al Christian R. Hilario
+## Philippine Association of Agriculturists NCR Chapter President Al Christian R. Hilario
 
 ### Agriculturists’ salary alignment and food-security priorities
 
@@ -58,7 +58,7 @@ Al Christian R. Hilario of the Philippine Association of Agriculturists, Inc. pr
 
 [01:57:41 · asr-002611](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-002611) · [01:58:02 · asr-002621](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-002621) · [01:58:30 · asr-002630](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-002630)
 
-## Tim Salomon
+## CODE-NGO Project Coordinator Timothy Salomon
 
 ### Land acquisition, distribution and due process
 
@@ -78,7 +78,7 @@ Bondoc, who identified herself as AGRI vice chair, said she had not been made aw
 
 [01:46:06 · asr-002356](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-002356) · [01:46:54 · asr-002380](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-002380) · [01:47:18 · asr-002391](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-002391) · [01:47:58 · asr-002411](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-002411)
 
-## Doris Ramirez
+## CODE-NGO Executive Director Atty. Doris Ramirez
 
 ### People's budget tests and Local Government Support Fund safeguards
 
@@ -110,7 +110,7 @@ Atty. Doris Ramirez, Executive Director of the Caucus of Development NGO Network
 
 [02:36:19 · asr-003577](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003577) · [02:36:37 · asr-003586](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003586) · [02:37:18 · asr-003607](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003607) · [02:37:25 · asr-003610](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003610) · [02:37:33 · asr-003614](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003614)
 
-## Adolfo Jose Montesa
+## People's Budget Coalition Co-convenor Adolfo Jose Montesa
 
 ### Fiscal room and basic needs
 
@@ -142,7 +142,7 @@ Montesa said meaningful people-centered budgeting required people to remain invo
 
 [02:26:28 · asr-003361](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003361) · [02:27:02 · asr-003378](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003378) · [02:27:36 · asr-003395](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003395)
 
-## Eunice Tanilon
+## Makati Business Club Governance and Sustainability Lead Eunice Tanilon
 
 ### Fiscal performance and budget credibility
 
@@ -168,7 +168,7 @@ Eunice Tanilon of the Makati Business Club (MBC) said the group wanted to mainta
 
 [02:29:14 · asr-003442](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003442) · [02:30:00 · asr-003465](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003465) · [02:30:07 · asr-003466](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003466) · [02:30:58 · asr-003476](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003476)
 
-## Archilles Parallon
+## IBON Foundation Representative Archilles Parallon
 
 ### Social-service reductions and road-project detail
 
@@ -176,7 +176,7 @@ Parallon of IBON Foundation said the 2027 budget appeared to reduce social-servi
 
 [00:46:25 · asr-000914](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-000914) · [00:46:53 · asr-000928](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-000928) · [00:47:30 · asr-000947](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-000947) · [00:47:39 · asr-000951](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-000951)
 
-## John Lloyd B. Elsisura
+## Multiply Ed Philippines Amplify Education Budget Initiative National Campaign Coordinator John Lloyd B. Elsisura
 
 ### Restore visible education priorities and devolve resources
 
@@ -184,7 +184,7 @@ John Lloyd B. Elsisura, National Campaign Coordinator of the Amplify Education B
 
 [01:05:22 · asr-001493](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001493) · [01:05:36 · asr-001500](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001500) · [01:06:18 · asr-001522](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001522) · [01:06:20 · asr-001523](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001523) · [01:06:24 · asr-001525](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001525) · [01:06:26 · asr-001526](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001526) · [01:08:04 · asr-001576](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001576) · [01:08:06 · asr-001577](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001577) · [01:08:08 · asr-001578](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001578) · [01:10:21 · asr-001644](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001644) · [01:15:04 · asr-001690](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001690) · [01:18:01 · asr-001778-split-2](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001778-split-2) · [01:19:59 · asr-001838](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001838)
 
-## Patricia Geneva de la Torre
+## Jesse M. Robredo Institute of Governance Program Assistant Patricia Geneva de la Torre
 
 ### Governance partnerships and capacity building
 
@@ -192,7 +192,7 @@ Torre of the Jesse Robredo Institute of Governance described partnerships with h
 
 [01:13:41 · asr-001671](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001671) · [01:17:16 · asr-001754](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001754) · [01:19:10 · asr-001813](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001813)
 
-## Camille Fajardo
+## Safe Travel PH Representative Camille Fajardo
 
 ### Measure transport outcomes and address utilization bottlenecks
 
@@ -200,7 +200,7 @@ Fajardo of Safe Travel PH urged Congress to judge transport spending by public o
 
 [01:22:55 · asr-001924](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001924) · [01:24:50 · asr-001982](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001982) · [01:24:56 · asr-001985](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-001985) · [01:30:08 · asr-002143](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-002143) · [01:34:26 · asr-002182](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-002182)
 
-## Ysabel Eugene G. Agregado
+## Move As One Coalition Representative Ysabel Eugene G. Agregado
 
 ### Restore public transport programs and fund road safety
 
@@ -226,7 +226,7 @@ Moderator John Castillo clarified new participation guidelines were under consid
 
 [02:27:52 · asr-003403](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003403) · [02:28:14 · asr-003414-split-2](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003414-split-2) · [02:28:22 · asr-003418](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003418)
 
-## April Joy Meneses
+## ipaBITAGmo Incorporated Executive Director April Joy Meneses
 
 ### Adopt bottom-up budgeting to include local priorities
 
@@ -260,7 +260,7 @@ Committee on People's Participation Chairperson Rep. Maria Angela S. Garcia said
 
 [02:14:17 · asr-003000](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003000) · [02:16:04 · asr-003054](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003054) · [02:17:17 · asr-003090](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003090) · [02:21:18 · asr-003208](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003208)
 
-## Michelle Andre Macahilo
+## GoodGovPH Representative Michelle Andre Macahilo
 
 ### Youth participation in budget monitoring and accountability
 

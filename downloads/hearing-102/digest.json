@@ -1,0 +1,2740 @@
+{
+  "hearing": {
+    "hearing_id": 102,
+    "title": "Senate Committee on Finance: DSWD - October 21, 2026",
+    "hearing_date": "2026-10-21",
+    "official_url": "https://www.youtube.com/watch?v=jNB2L-EJGEU"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h102/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Purpose and scrutiny",
+      "text": "Presiding Senator Risa Hontiveros framed social protection around timely help, appropriate targeting and measurable effects amid economic and climate pressures. Members pressed the Department of Social Welfare and Development (DSWD) on assistance, caseload changes, audit findings and the responsibilities shared with other agencies.",
+      "citations": []
+    },
+    {
+      "label": "Programs and delivery",
+      "text": "Questions covered Pantawid Pamilyang Pilipino Program (4Ps) targeting and graduation, crisis assistance, social pension, livelihood and disaster response, Tara, Basa! and Aral tutoring, water access, and verification of disability IDs. Answers described agency roles, implementation limits, data checks and service-delivery changes.",
+      "citations": []
+    },
+    {
+      "label": "Civil-society and community priorities",
+      "text": "Social Watch Philippines raised attached-agency restoration, child protection, disability support and accessible services. Samahan ng Nagkakaisang Pamilyang Pantawid (SNPP) described 4Ps inclusion and exclusion problems and paperwork burdens; the Coalition of Services of the Elderly (COSE) pressed for broader pension coverage and reliable beneficiary data.",
+      "citations": []
+    },
+    {
+      "label": "Commitments and follow-up",
+      "text": "Officials committed to provide program evaluation results, certification and audit or corrective-action reports, and to continue validating assistance records. Some questions about funding basis, beneficiary counts and agency accountability remained open in the hearing.",
+      "citations": []
+    },
+    {
+      "label": "Plenary consideration",
+      "text": "Hontiveros conditionally endorsed the FY 2027 budgets of DSWD and its attached and supervised agencies, including the National Anti-Poverty Commission (NAPC) and Presidential Commission for the Urban Poor (PCUP), for Senate plenary consideration subject to clarifications and commitments made during the hearing. This was a referral for consideration, not appropriation approval.",
+      "citations": []
+    }
+  ],
+  "method_note": "The digest keeps Executive budget allocations, House new appropriations, total-expenditure figures, prior-year amounts, program components and agency requests on their stated bases. It distinguishes agency requests, restoration proposals, expressions of support and conditional endorsement for plenary consideration from an adopted appropriation. Budget comparisons appear before the policy, oversight and community discussions.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget proposals and comparisons",
+      "items": [
+        {
+          "label": "Department of Social Welfare and Development (DSWD)",
+          "text": "DSWD Secretary Rex Gatchalian presented an FY 2027 National Expenditure Program (NEP) total of PHP 240.7 billion for DSWD and its attached and supervised group, including PHP 235.7 billion for the DSWD Office of the Secretary (OSEC). Presiding Senator Risa Hontiveros cited the House-approved General Appropriations Bill (GAB) total of PHP 262.757 billion in new appropriations. \n\nSenator Joseph Victor \"JV\" G. Ejercito separately cited PHP 241.5 billion as the FY 2027 NEP total-expenditure figure for the group, 10.6% below FY 2026; the transcript does not explain the difference from the presenter's NEP budget total or establish a common basis for comparison with House new appropriations. DSWD's full original agency request to the Department of Budget and Management (DBM) was not stated; Tier 2 submissions and program-specific restoration or augmentation proposals are not that whole-agency request.",
+          "citations": [
+            {
+              "stable_id": "asr-000535",
+              "start_seconds": 1894.02,
+              "clock": "00:31:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000535"
+            },
+            {
+              "stable_id": "asr-000536",
+              "start_seconds": 1901.24,
+              "clock": "00:31:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000536"
+            },
+            {
+              "stable_id": "asr-000022",
+              "start_seconds": 631.12,
+              "clock": "00:10:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000022"
+            },
+            {
+              "stable_id": "asr-003799",
+              "start_seconds": 9648.8,
+              "clock": "02:40:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003799"
+            },
+            {
+              "stable_id": "asr-003802",
+              "start_seconds": 9654.84,
+              "clock": "02:40:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003802"
+            }
+          ]
+        },
+        {
+          "label": "NCDA and other attached-agency requests",
+          "text": "Comparable principal NEP allocations and original agency-request totals were not provided in the reviewed transcript for the National Council on Disability Affairs (NCDA), Council for the Welfare of Children (CWC) or Juvenile Justice and Welfare Council (JJWC). Their specific funding concerns are set out in the agency accounts below.",
+          "citations": [
+            {
+              "stable_id": "asr-000976",
+              "start_seconds": 3154.52,
+              "clock": "00:52:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000976"
+            },
+            {
+              "stable_id": "asr-005663",
+              "start_seconds": 13090.62,
+              "clock": "03:38:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005663"
+            }
+          ]
+        },
+        {
+          "label": "National Anti-Poverty Commission (NAPC)",
+          "text": "Senator Imee R. Marcos cited a PHP 360 million NAPC budget figure, but its appropriation basis was not established. The reviewed transcript does not establish a comparable NEP allocation or full original agency-request total. Undersecretary Esnaen Catong presented separate trust-fund and implementation requests, covered in the NAPC budget account below.",
+          "citations": [
+            {
+              "stable_id": "asr-001103",
+              "start_seconds": 3407.44,
+              "clock": "00:56:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001103"
+            }
+          ]
+        },
+        {
+          "label": "Presidential Commission for the Urban Poor (PCUP)",
+          "text": "PCUP Chairperson Michelle Anne B. Gonzales stated a FY 2026 budget of PHP 258,924,000 and a FY 2027 NEP allocation of PHP 244,450,000, a decrease of PHP 14,474,000 or 5.59%. Gonzales repeated the NEP figure when asked about the proposed next-year budget; a distinct original agency request was not stated. Marcos separately cited PHP 233 million for PCUP, but the exchange did not establish that figure's budget basis; it is distinct from the stated FY 2027 NEP allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-001516",
+              "start_seconds": 4760.74,
+              "clock": "01:19:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001516"
+            },
+            {
+              "stable_id": "asr-001519",
+              "start_seconds": 4766.94,
+              "clock": "01:19:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001519"
+            },
+            {
+              "stable_id": "asr-001521",
+              "start_seconds": 4771.56,
+              "clock": "01:19:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001521"
+            },
+            {
+              "stable_id": "asr-001522",
+              "start_seconds": 4773.8,
+              "clock": "01:19:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001522"
+            },
+            {
+              "stable_id": "asr-001527",
+              "start_seconds": 4785.6,
+              "clock": "01:19:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001527"
+            },
+            {
+              "stable_id": "asr-001100",
+              "start_seconds": 3400.86,
+              "clock": "00:56:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001100"
+            },
+            {
+              "stable_id": "asr-001101",
+              "start_seconds": 3403.4,
+              "clock": "00:56:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001101"
+            }
+          ]
+        },
+        {
+          "label": "National Commission of Senior Citizens (NCSC)",
+          "text": "During the FY 2027 discussion, Senate President Senator Sherwin \"Win\" T. Gatchalian cited a PHP 3.8 billion NCSC budget. A separate original agency-submission total was not stated.",
+          "citations": [
+            {
+              "stable_id": "asr-003293",
+              "start_seconds": 9107.54,
+              "clock": "02:31:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003293"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-social-welfare-and-development-dswd",
+      "label": "Department of Social Welfare and Development (DSWD) budget",
+      "items": [
+        {
+          "label": "Releases, utilization and the proposed reductions",
+          "text": "Rex Gatchalian reported approximately PHP 254 billion in 2025 DBM releases, combining DSWD's agency budget with other funding sources, with near-full utilization as of September 2026. He reported 81% utilization of the PHP 264.3 billion agency-specific 2026 budget and, separately, 83.71% utilization of PHP 13.7 billion in calamity and Quick Response Fund (QRF) replenishments. Compared with the 2026 General Appropriations Act (GAA), the FY 2027 NEP generally reduced DSWD and attached-agency budgets; the National Authority for Child Care (NACC) and NCSC were exceptions because of additional or filled personnel positions.",
+          "citations": [
+            {
+              "stable_id": "asr-000538",
+              "start_seconds": 1911.3,
+              "clock": "00:31:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000538"
+            },
+            {
+              "stable_id": "asr-000542",
+              "start_seconds": 1930.34,
+              "clock": "00:32:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000542"
+            },
+            {
+              "stable_id": "asr-000544",
+              "start_seconds": 1939.3,
+              "clock": "00:32:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000544"
+            },
+            {
+              "stable_id": "asr-000546",
+              "start_seconds": 1947.58,
+              "clock": "00:32:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000546"
+            },
+            {
+              "stable_id": "asr-000548",
+              "start_seconds": 1957.56,
+              "clock": "00:32:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000548"
+            }
+          ]
+        },
+        {
+          "label": "4Ps allocation, caseload and the request to retain coverage",
+          "text": "For FY 2027, the Pantawid Pamilyang Pilipino Program (4Ps) had a PHP 99.075 billion NEP allocation, including PHP 81.3 billion for grants, targeting 3.5 million households. The 2026 allotment was PHP 112.9 billion, including PHP 98.3 billion for grants; the presenter reported 99.83% utilization of the 2025 allotment. Ejercito described the current reduction as 12.3%; Win Gatchalian cited a roughly PHP 13 billion decline and a caseload change from 4.1 million households.\n\nRex said eligibility-list cleanup and alignment with poverty data explained the smaller caseload, rather than a cut to individual benefits. The adjustment used earlier 15.5% poverty data, not the newly released 9% figure; he contrasted it with the historically fixed 4.4-million-family cap. Jeana Catacio of Samahan ng Nagkakaisang Pamilyang Pantawid (SNPP) urged senators to retain funding for that larger coverage. Rex assured her that services would not deteriorate. The larger caseload was not adopted in the exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-003938",
+              "start_seconds": 9808.46,
+              "clock": "02:43:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003938"
+            },
+            {
+              "stable_id": "asr-000574",
+              "start_seconds": 2084.2,
+              "clock": "00:34:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000574"
+            },
+            {
+              "stable_id": "asr-000577",
+              "start_seconds": 2097.2,
+              "clock": "00:34:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000577"
+            },
+            {
+              "stable_id": "asr-000578",
+              "start_seconds": 2107.4,
+              "clock": "00:35:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000578"
+            },
+            {
+              "stable_id": "asr-002847",
+              "start_seconds": 7553.12,
+              "clock": "02:05:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002847"
+            },
+            {
+              "stable_id": "asr-002884",
+              "start_seconds": 7625.1,
+              "clock": "02:07:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002884"
+            },
+            {
+              "stable_id": "asr-003940",
+              "start_seconds": 9811.04,
+              "clock": "02:43:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003940"
+            },
+            {
+              "stable_id": "asr-004410",
+              "start_seconds": 11067.58,
+              "clock": "03:04:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004410"
+            },
+            {
+              "stable_id": "asr-004435",
+              "start_seconds": 11220.24,
+              "clock": "03:07:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004435"
+            },
+            {
+              "stable_id": "asr-004453",
+              "start_seconds": 11336.76,
+              "clock": "03:08:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004453"
+            }
+          ]
+        },
+        {
+          "label": "AICS funding and emergency demand",
+          "text": "Ejercito compared FY 2027 funding for protective services, principally Assistance to Individuals in Crisis Situations (AICS): PHP 33.285 billion in the NEP against PHP 58.091 billion in the House GAB. The NEP included PHP 29.4 billion in subsidies. Rex confirmed the comparison and said DSWD sought PHP 63.9 billion. Imee Marcos contrasted the House's PHP 24.8 billion AICS increase with unfunded pension needs and alleged an electoral motivation; Rex maintained that the department had sought full pension coverage too.\n\nSenator Erwin T. Tulfo questioned whether House additions could cover simultaneous disaster, conflict and transport-worker needs. He recalled a prior-year AICS appropriation near PHP 63 billion and floated PHP 50 billion as an alternative; Rex called the prior-year level his minimum and said transport assistance alone had consumed close to PHP 10 billion in one month. The requests remained for Senate consideration.\n\nWin distinguished regular AICS beneficiaries, reported at 8.7 million on a September slide, from Uplift recipients drawing on the same fund. He questioned whether a FY 2027 target of 4.6 million could absorb drought affecting up to four million farmers, suggesting planning for four to eight million people over six to twelve months. Rex said DBM had already provided augmentation for emergency assistance but could not identify its funding source.",
+          "citations": [
+            {
+              "stable_id": "asr-004058",
+              "start_seconds": 9976.5,
+              "clock": "02:46:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004058"
+            },
+            {
+              "stable_id": "asr-004059",
+              "start_seconds": 9978.6,
+              "clock": "02:46:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004059"
+            },
+            {
+              "stable_id": "asr-000598",
+              "start_seconds": 2228.36,
+              "clock": "00:37:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000598"
+            },
+            {
+              "stable_id": "asr-001596",
+              "start_seconds": 4892.08,
+              "clock": "01:21:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001596"
+            },
+            {
+              "stable_id": "asr-001768",
+              "start_seconds": 5108.96,
+              "clock": "01:25:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001768"
+            },
+            {
+              "stable_id": "asr-002489",
+              "start_seconds": 6535.48,
+              "clock": "01:48:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002489"
+            },
+            {
+              "stable_id": "asr-002494",
+              "start_seconds": 6561.6,
+              "clock": "01:49:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002494"
+            },
+            {
+              "stable_id": "asr-002514",
+              "start_seconds": 6627.8,
+              "clock": "01:50:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002514"
+            },
+            {
+              "stable_id": "asr-002521",
+              "start_seconds": 6645.72,
+              "clock": "01:50:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002521"
+            },
+            {
+              "stable_id": "asr-002625",
+              "start_seconds": 6997.84,
+              "clock": "01:56:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002625"
+            },
+            {
+              "stable_id": "asr-002628",
+              "start_seconds": 7016.26,
+              "clock": "01:56:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002628"
+            },
+            {
+              "stable_id": "asr-003180",
+              "start_seconds": 8861.96,
+              "clock": "02:27:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003180"
+            },
+            {
+              "stable_id": "asr-003188",
+              "start_seconds": 8895.58,
+              "clock": "02:28:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003188"
+            },
+            {
+              "stable_id": "asr-003192",
+              "start_seconds": 8911.52,
+              "clock": "02:28:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003192"
+            },
+            {
+              "stable_id": "asr-003211",
+              "start_seconds": 8988.68,
+              "clock": "02:29:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003211"
+            },
+            {
+              "stable_id": "asr-004207",
+              "start_seconds": 10274.56,
+              "clock": "02:51:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004207"
+            }
+          ]
+        },
+        {
+          "label": "Social pension coverage and the unmet request",
+          "text": "The indigent-senior social pension had PHP 51 billion available in 2026 and a FY 2027 proposal of PHP 51.6 billion, including PHP 50 billion in subsidies. Coalition of Services of the Elderly (COSE) Executive Director Emily N. Beridico asked how far it would reach; Rex gave a 4.2-million-beneficiary target and supported movement toward a universal pension.\n\nUsing the Community-Based Monitoring System (CBMS), Marcos cited 550,000 qualified people aged 70 and above still uncovered, requiring another PHP 6.6 billion. Rex said DSWD repeatedly submitted the full requirement through Tier 2, but additions were stripped and a prior PHP 200 million Senate amendment was removed. He agreed coverage should expand and said many seniors also received AICS; Marcos objected that the broad crisis-assistance line obscured the specific pension wait-list. Erwin also raised that wait-list in his opening scrutiny. No restoration covering the full need was adopted.",
+          "citations": [
+            {
+              "stable_id": "asr-000631",
+              "start_seconds": 2304.9,
+              "clock": "00:38:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000631"
+            },
+            {
+              "stable_id": "asr-000633",
+              "start_seconds": 2309.48,
+              "clock": "00:38:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000633"
+            },
+            {
+              "stable_id": "asr-001565",
+              "start_seconds": 4843.56,
+              "clock": "01:20:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001565"
+            },
+            {
+              "stable_id": "asr-001569",
+              "start_seconds": 4849.66,
+              "clock": "01:20:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001569"
+            },
+            {
+              "stable_id": "asr-001578",
+              "start_seconds": 4863.42,
+              "clock": "01:21:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001578"
+            },
+            {
+              "stable_id": "asr-001622",
+              "start_seconds": 4935.24,
+              "clock": "01:22:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001622"
+            },
+            {
+              "stable_id": "asr-001664",
+              "start_seconds": 4994.06,
+              "clock": "01:23:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001664"
+            },
+            {
+              "stable_id": "asr-001666",
+              "start_seconds": 4996.3,
+              "clock": "01:23:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001666"
+            },
+            {
+              "stable_id": "asr-001768",
+              "start_seconds": 5108.96,
+              "clock": "01:25:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001768"
+            },
+            {
+              "stable_id": "asr-006161",
+              "start_seconds": 14483.88,
+              "clock": "04:01:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006161"
+            },
+            {
+              "stable_id": "asr-006226",
+              "start_seconds": 14613.24,
+              "clock": "04:03:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006226"
+            }
+          ]
+        },
+        {
+          "label": "Supplementary feeding",
+          "text": "The FY 2027 proposal provided PHP 6.4 billion for 1.899 million children. Rex said the reduction shortened feeding from 180 days in 2026 to 120 days, without reducing the number of children served.",
+          "citations": [
+            {
+              "stable_id": "asr-000666",
+              "start_seconds": 2392.9,
+              "clock": "00:39:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000666"
+            },
+            {
+              "stable_id": "asr-000670",
+              "start_seconds": 2407.14,
+              "clock": "00:40:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000670"
+            }
+          ]
+        },
+        {
+          "label": "Livelihood funding and the Tier 2 request",
+          "text": "The Sustainable Livelihood Program (SLP) FY 2027 proposal was PHP 5.1 billion for 251,449 households, following a PHP 6.2 billion 2025 allocation that Rex said was fully obligated. Hontiveros noted that the House raised the line to almost PHP 6 billion. Answering Erwin, Rex described the removal of amendments as a roughly PHP 1 billion change from PHP 6 billion back to PHP 5 billion. Erwin asked whether another PHP 1 billion was needed; Rex instead identified an additional PHP 3.5 billion Tier 2 request, describing the resulting funding as close to PHP 10 billion without reconciling those figures.\n\nErwin cited continuing regional and local demand. Rex described the grants as a pathway for families leaving 4Ps to avoid returning to poverty; Erwin contrasted them with repayable Department of Trade and Industry (DTI) assistance.",
+          "citations": [
+            {
+              "stable_id": "asr-000679",
+              "start_seconds": 2440.84,
+              "clock": "00:40:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000679"
+            },
+            {
+              "stable_id": "asr-000023",
+              "start_seconds": 667.5,
+              "clock": "00:11:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000023"
+            },
+            {
+              "stable_id": "asr-000677",
+              "start_seconds": 2429.92,
+              "clock": "00:40:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000677"
+            },
+            {
+              "stable_id": "asr-002457",
+              "start_seconds": 6435.48,
+              "clock": "01:47:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002457"
+            },
+            {
+              "stable_id": "asr-002459",
+              "start_seconds": 6441.82,
+              "clock": "01:47:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002459"
+            },
+            {
+              "stable_id": "asr-002463",
+              "start_seconds": 6450.86,
+              "clock": "01:47:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002463"
+            },
+            {
+              "stable_id": "asr-002467",
+              "start_seconds": 6455.94,
+              "clock": "01:47:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002467"
+            },
+            {
+              "stable_id": "asr-002475",
+              "start_seconds": 6484.48,
+              "clock": "01:48:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002475"
+            },
+            {
+              "stable_id": "asr-002476",
+              "start_seconds": 6489.9,
+              "clock": "01:48:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002476"
+            }
+          ]
+        },
+        {
+          "label": "Care facilities and the proposed Visayas home",
+          "text": "Residential and center-based services had PHP 3.3 billion in the FY 2027 proposal. Rex sought another PHP 286.1 million for facility power-system rehabilitation and PHP 204 million for cost-of-care subsidies to qualified private social welfare agencies, reporting that 50 were operating beyond bed capacity.\n\nErwin asked about a home for abandoned older people in the Visayas. Rex said its construction and repairs to existing facilities were in a Tier 2 request but absent from both the NEP and House bill; DSWD was lobbying during amendments. Erwin supported the wish list for plenary consideration. No amount for the home or approval of the requested additions was recorded.",
+          "citations": [
+            {
+              "stable_id": "asr-000699",
+              "start_seconds": 2517.58,
+              "clock": "00:41:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000699"
+            },
+            {
+              "stable_id": "asr-000704",
+              "start_seconds": 2539.9,
+              "clock": "00:42:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000704"
+            },
+            {
+              "stable_id": "asr-000706",
+              "start_seconds": 2547.6800000000003,
+              "clock": "00:42:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000706"
+            },
+            {
+              "stable_id": "asr-002643",
+              "start_seconds": 7068.06,
+              "clock": "01:57:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002643"
+            },
+            {
+              "stable_id": "asr-002660",
+              "start_seconds": 7145.3,
+              "clock": "01:59:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002660"
+            },
+            {
+              "stable_id": "asr-002670",
+              "start_seconds": 7184.76,
+              "clock": "01:59:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002670"
+            }
+          ]
+        },
+        {
+          "label": "Disaster funds, replenishment and preparedness",
+          "text": "The FY 2027 NEP QRF allocation was PHP 1.25 billion; the House restored it to PHP 3 billion. Win compared this with the 2026 PHP 3 billion seed fund and roughly PHP 13 billion replenishment by September. He sought restoration of the shared National Disaster Risk Reduction and Management Fund (NDRRMF), describing its NEP-to-GAB reduction first as PHP 9 billion and later PHP 9.5 billion. Rex supported the call, warning that cuts would impair several agencies' emergency cash, food and logistics.\n\nErwin pressed for enough standby cash for overlapping crises. Rex said replenishment paperwork could take two weeks, the shared NDRRMF had only PHP 900 million remaining, and the Office of the President had previously replenished it from contingency funds. He cited PHP 13.6 billion in DSWD QRF use and constraints from the statutory replenishment formula. These figures describe different funds and reporting bases; no new increase was settled.\n\nSeparately, the presentation reported PHP 14.3 billion used from PHP 16.7 billion released for disaster response in 2026, and a PHP 1.9 billion FY 2027 disaster-response/rehabilitation line supporting LAWA and BINHI. Rex later cited PHP 1.1 billion in expenditure without assigning a fiscal year. Emergency cash transfers and water-filter kits draw on QRF, distinct from preparedness funding.",
+          "citations": [
+            {
+              "stable_id": "asr-002722",
+              "start_seconds": 7303.72,
+              "clock": "02:01:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002722"
+            },
+            {
+              "stable_id": "asr-002595",
+              "start_seconds": 6880.34,
+              "clock": "01:54:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002595"
+            },
+            {
+              "stable_id": "asr-000716",
+              "start_seconds": 2582.88,
+              "clock": "00:43:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000716"
+            },
+            {
+              "stable_id": "asr-000727",
+              "start_seconds": 2624.7799999999997,
+              "clock": "00:43:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000727"
+            },
+            {
+              "stable_id": "asr-002577",
+              "start_seconds": 6837.2,
+              "clock": "01:53:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002577"
+            },
+            {
+              "stable_id": "asr-002592",
+              "start_seconds": 6873.92,
+              "clock": "01:54:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002592"
+            },
+            {
+              "stable_id": "asr-002603",
+              "start_seconds": 6910.82,
+              "clock": "01:55:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002603"
+            },
+            {
+              "stable_id": "asr-002632",
+              "start_seconds": 7029.4400000000005,
+              "clock": "01:57:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002632"
+            },
+            {
+              "stable_id": "asr-002691",
+              "start_seconds": 7231.78,
+              "clock": "02:00:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002691"
+            },
+            {
+              "stable_id": "asr-002702",
+              "start_seconds": 7263.32,
+              "clock": "02:01:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002702"
+            },
+            {
+              "stable_id": "asr-002746",
+              "start_seconds": 7350.24,
+              "clock": "02:02:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002746"
+            },
+            {
+              "stable_id": "asr-002747",
+              "start_seconds": 7352.66,
+              "clock": "02:02:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002747"
+            },
+            {
+              "stable_id": "asr-002772",
+              "start_seconds": 7402.54,
+              "clock": "02:03:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002772"
+            },
+            {
+              "stable_id": "asr-002805",
+              "start_seconds": 7469.5,
+              "clock": "02:04:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002805"
+            },
+            {
+              "stable_id": "asr-002806",
+              "start_seconds": 7471.8,
+              "clock": "02:04:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002806"
+            },
+            {
+              "stable_id": "asr-003096",
+              "start_seconds": 8529.94,
+              "clock": "02:22:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003096"
+            },
+            {
+              "stable_id": "asr-003269",
+              "start_seconds": 9065.8,
+              "clock": "02:31:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003269"
+            },
+            {
+              "stable_id": "asr-004990",
+              "start_seconds": 12213.72,
+              "clock": "03:23:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004990"
+            },
+            {
+              "stable_id": "asr-005000",
+              "start_seconds": 12224.28,
+              "clock": "03:23:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005000"
+            },
+            {
+              "stable_id": "asr-005001",
+              "start_seconds": 12224.9,
+              "clock": "03:23:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005001"
+            }
+          ]
+        },
+        {
+          "label": "Walang Gutom financing and the promised breakdown",
+          "text": "Marcos cited a PHP 49 billion project cost, PHP 43.5 billion loan and PHP 5.3 billion Philippine counterpart. She also referred to a PHP 74.6 billion DBM submission/approval figure, an official development assistance (ODA) component stated as \"25\", and more than PHP 29.6 billion proposed against PHP 3.9 billion provided. Their scopes were not reconciled and do not establish DSWD's whole-agency request.\n\nShe sought a fiscal-year and funding-source account of amounts allotted, released, disbursed and remaining, citing PHP 18.3 billion for 2025 and PHP 26.6 billion for 2026. Rex promised it before plenary. He reported a PHP 10 billion top line released since inception and fully disbursed on the beneficiary-redemption schedule, then identified PHP 6.385 billion released on October 30, 2025 and PHP 4.288 billion in 2026; those releases were not reconciled with his top line.\n\nAsked whether the two-year loan implementation could finish with PHP 3.877 billion for 2027, Rex said yes: DBM releases followed the approved work, financial and payout plans, growing with coverage toward 750,000 families. He said beneficiaries had not been squeezed and cited DSWD's Asian Development Bank (ADB) commitment.",
+          "citations": [
+            {
+              "stable_id": "asr-001808",
+              "start_seconds": 5156.5,
+              "clock": "01:25:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001808"
+            },
+            {
+              "stable_id": "asr-001810",
+              "start_seconds": 5159.22,
+              "clock": "01:25:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001810"
+            },
+            {
+              "stable_id": "asr-001811",
+              "start_seconds": 5161.3,
+              "clock": "01:26:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001811"
+            },
+            {
+              "stable_id": "asr-001812",
+              "start_seconds": 5162.42,
+              "clock": "01:26:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001812"
+            },
+            {
+              "stable_id": "asr-001815",
+              "start_seconds": 5166.84,
+              "clock": "01:26:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001815"
+            },
+            {
+              "stable_id": "asr-001821",
+              "start_seconds": 5174.4,
+              "clock": "01:26:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001821"
+            },
+            {
+              "stable_id": "asr-001822",
+              "start_seconds": 5177.04,
+              "clock": "01:26:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001822"
+            },
+            {
+              "stable_id": "asr-001823",
+              "start_seconds": 5178.64,
+              "clock": "01:26:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001823"
+            },
+            {
+              "stable_id": "asr-001826",
+              "start_seconds": 5185.02,
+              "clock": "01:26:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001826"
+            },
+            {
+              "stable_id": "asr-001830",
+              "start_seconds": 5189.04,
+              "clock": "01:26:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001830"
+            },
+            {
+              "stable_id": "asr-001856",
+              "start_seconds": 5233.04,
+              "clock": "01:27:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001856"
+            },
+            {
+              "stable_id": "asr-001858",
+              "start_seconds": 5237.04,
+              "clock": "01:27:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001858"
+            },
+            {
+              "stable_id": "asr-001883",
+              "start_seconds": 5278.04,
+              "clock": "01:27:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001883"
+            },
+            {
+              "stable_id": "asr-001888",
+              "start_seconds": 5285.04,
+              "clock": "01:28:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001888"
+            },
+            {
+              "stable_id": "asr-001891",
+              "start_seconds": 5289.04,
+              "clock": "01:28:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001891"
+            },
+            {
+              "stable_id": "asr-001898",
+              "start_seconds": 5301.04,
+              "clock": "01:28:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001898"
+            },
+            {
+              "stable_id": "asr-001903",
+              "start_seconds": 5310.04,
+              "clock": "01:28:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001903"
+            },
+            {
+              "stable_id": "asr-001908",
+              "start_seconds": 5316.04,
+              "clock": "01:28:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001908"
+            },
+            {
+              "stable_id": "asr-001939",
+              "start_seconds": 5361.04,
+              "clock": "01:29:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001939"
+            },
+            {
+              "stable_id": "asr-001940",
+              "start_seconds": 5365.04,
+              "clock": "01:29:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001940"
+            },
+            {
+              "stable_id": "asr-001984-split-2",
+              "start_seconds": 5440.48,
+              "clock": "01:30:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001984-split-2"
+            },
+            {
+              "stable_id": "asr-001993",
+              "start_seconds": 5457.8,
+              "clock": "01:30:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001993"
+            }
+          ]
+        },
+        {
+          "label": "Community resilience project and the effect of cuts",
+          "text": "Win asked how the ongoing Philippine Community Resilience Project, or Panahon ng Pagkilos, could absorb a cut he called PHP 5.5 billion, also referring to PHP 5.4 billion. Rex described a World Bank-assisted successor to KALAHI, in its first round and planned through 2031, with an original PHP 17 billion total including a PHP 10 billion counterpart. He said the approved new ODA appeared in unprogrammed appropriations, and that the cut affected that side and risked preset development commitments.\n\nCommunities identify and procure projects, with 20-30% counterparting, in remote poor areas selected for poverty, stunting, indigenous populations and disaster exposure. Rex initially referred to sub-projects of no more than PHP 20 million over three years, but later annual/multiyear descriptions varied. His final clarification was that the physical target would remain while grants shrank proportionally. Already-notified local government units (LGUs) would have to scale down their plans, risking less impact or unfinished work. Win said the committee was evaluating cuts and additions; no restoration was adopted.",
+          "citations": [
+            {
+              "stable_id": "asr-004306",
+              "start_seconds": 10655.1,
+              "clock": "02:57:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004306"
+            },
+            {
+              "stable_id": "asr-004307",
+              "start_seconds": 10661.76,
+              "clock": "02:57:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004307"
+            },
+            {
+              "stable_id": "asr-004310",
+              "start_seconds": 10689.92,
+              "clock": "02:58:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004310"
+            },
+            {
+              "stable_id": "asr-004318",
+              "start_seconds": 10726.16,
+              "clock": "02:58:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004318"
+            },
+            {
+              "stable_id": "asr-004336",
+              "start_seconds": 10795.34,
+              "clock": "02:59:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004336"
+            },
+            {
+              "stable_id": "asr-004339",
+              "start_seconds": 10802.12,
+              "clock": "03:00:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004339"
+            },
+            {
+              "stable_id": "asr-004340",
+              "start_seconds": 10815.02,
+              "clock": "03:00:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004340"
+            },
+            {
+              "stable_id": "asr-004345",
+              "start_seconds": 10824.06,
+              "clock": "03:00:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004345"
+            },
+            {
+              "stable_id": "asr-004348",
+              "start_seconds": 10854.06,
+              "clock": "03:00:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004348"
+            },
+            {
+              "stable_id": "asr-004388",
+              "start_seconds": 10966.32,
+              "clock": "03:02:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004388"
+            },
+            {
+              "stable_id": "asr-003151",
+              "start_seconds": 8731.76,
+              "clock": "02:25:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003151"
+            }
+          ]
+        },
+        {
+          "label": "Sugar-producing provinces",
+          "text": "Ejercito asked about RSSI beneficiaries. Rex answered with allocations: PHP 1.4 billion, including PHP 1.1-1.2 billion for Negros Occidental and Negros Oriental, with the balance for Capiz. DSWD was considering Passi City and other sugar-producing areas in Iloilo, with additional areas raised. A beneficiary count was not supplied.",
+          "citations": [
+            {
+              "stable_id": "asr-004235",
+              "start_seconds": 10330.5,
+              "clock": "02:52:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004235"
+            },
+            {
+              "stable_id": "asr-004260",
+              "start_seconds": 10466.78,
+              "clock": "02:54:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004260"
+            },
+            {
+              "stable_id": "asr-004266",
+              "start_seconds": 10494.02,
+              "clock": "02:54:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004266"
+            }
+          ]
+        },
+        {
+          "label": "Tara, Basa! tutoring allocation",
+          "text": "Marcos cited the FY 2027 PHP 900 million Tara, Basa! allocation. Rex said it funded college-student tutor wages.",
+          "citations": [
+            {
+              "stable_id": "asr-004534",
+              "start_seconds": 11585.86,
+              "clock": "03:13:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004534"
+            },
+            {
+              "stable_id": "asr-004594",
+              "start_seconds": 11724.66,
+              "clock": "03:15:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004594"
+            }
+          ]
+        },
+        {
+          "label": "Outstanding accounts and cash returns",
+          "text": "Marcos cited Commission on Audit (COA) findings of PHP 8.185 billion in accounting deficiencies and nearly PHP 5 billion unliquidated. Rex said DSWD had hired accounting staff and was completing adjustments and liquidation. Some inherited Priority Development Assistance Fund (PDAF) accounts required court/legal resolution or were not yet eligible for write-off.\n\nShe also questioned undistributed cash cards and mistaken or delayed delisting affecting more than 2,000 4Ps households. Rex distinguished the inherited unconditional cash-transfer card issue: some recipients could not be found or did not collect cards. Against Marcos's PHP 617 million figure, he said about PHP 600 million remained and that Land Bank of the Philippines had been asked to surrender it for return to the Treasury. The 4Ps delisting issue received no separate explanation.\n\nFor approximately PHP 20 million in unclaimed social-pension payouts, Rex said funds were obligated but some beneficiaries had not appeared. DSWD allowed repeated collection opportunities before reallocating unclaimed amounts to other eligible people.",
+          "citations": [
+            {
+              "stable_id": "asr-005028",
+              "start_seconds": 12258.62,
+              "clock": "03:24:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005028"
+            },
+            {
+              "stable_id": "asr-005034",
+              "start_seconds": 12267.7,
+              "clock": "03:24:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005034"
+            },
+            {
+              "stable_id": "asr-005041",
+              "start_seconds": 12274.7,
+              "clock": "03:24:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005041"
+            },
+            {
+              "stable_id": "asr-005073",
+              "start_seconds": 12307.96,
+              "clock": "03:25:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005073"
+            },
+            {
+              "stable_id": "asr-005183",
+              "start_seconds": 12417.76,
+              "clock": "03:26:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005183"
+            },
+            {
+              "stable_id": "asr-005197",
+              "start_seconds": 12439.22,
+              "clock": "03:27:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005197"
+            },
+            {
+              "stable_id": "asr-005230",
+              "start_seconds": 12475.68,
+              "clock": "03:27:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005230"
+            },
+            {
+              "stable_id": "asr-005234",
+              "start_seconds": 12487.84,
+              "clock": "03:28:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005234"
+            },
+            {
+              "stable_id": "asr-005235",
+              "start_seconds": 12489.02,
+              "clock": "03:28:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005235"
+            },
+            {
+              "stable_id": "asr-005250",
+              "start_seconds": 12505.54,
+              "clock": "03:28:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005250"
+            },
+            {
+              "stable_id": "asr-005252",
+              "start_seconds": 12509.96,
+              "clock": "03:28:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005252"
+            },
+            {
+              "stable_id": "asr-005258",
+              "start_seconds": 12520.32,
+              "clock": "03:28:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005258"
+            },
+            {
+              "stable_id": "asr-005308",
+              "start_seconds": 12576.08,
+              "clock": "03:29:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005308"
+            }
+          ]
+        },
+        {
+          "label": "Attached agencies, child protection and disability support",
+          "text": "Dr. Liza Martinez of Social Watch Philippines opposed cuts to CWC and JJWC and requested restoration of attached-agency budgets to FY 2026 levels or adoption of justified Tier 2 requests. Rex agreed, citing compensation and administrative capacity at risk. Martinez also sought publication of AICS allocation criteria, selection safeguards, geographic distribution, monitoring and outcomes, warning that discretionary relief should not crowd out prevention and sustained rights-based services.\n\nHer specific child-protection request was PHP 28,563,800 under the 2025-2028 strategic plan against online sexual abuse and exploitation of children (OSAEC) and child sexual-abuse/exploitation materials, including basic-course and survivor-outcome training. She proposed a PHP 2,000 monthly disability allowance for 345,000 people with severe functional difficulties: PHP 690 million monthly and more than PHP 8 billion annually. She said the 2020-census target was already half the newer CBMS count for children aged 5-19 alone. Marcos recalled her more modest PHP 500 monthly bill because a funding source was needed; Hontiveros backed following up her own PHP 2,000 proposal and the possible 2027 amendments.\n\nRex pointed to House-restored pilots: PHP 25 million each for Project Aruga and Project SAFE. Aruga combines early assessment, family/caregiver support, a described PHP 2,000 allowance and AICS guarantee letters for therapy; SAFE combines prevention, reporting, care, recovery and reintegration. These pilots did not establish the proposed universal monthly entitlement. Martinez also cited PHP 1 million for interpreter training described as four times yearly for 45 trainees, with 80 on the roster; whether that amount covered each course or the annual series was unclear. The new proposals were noted, without adoption.",
+          "citations": [
+            {
+              "stable_id": "asr-005663",
+              "start_seconds": 13090.62,
+              "clock": "03:38:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005663"
+            },
+            {
+              "stable_id": "asr-005717",
+              "start_seconds": 13161.94,
+              "clock": "03:39:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005717"
+            },
+            {
+              "stable_id": "asr-005733",
+              "start_seconds": 13184.66,
+              "clock": "03:39:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005733"
+            },
+            {
+              "stable_id": "asr-005784",
+              "start_seconds": 13257.16,
+              "clock": "03:40:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005784"
+            },
+            {
+              "stable_id": "asr-005840",
+              "start_seconds": 13357.62,
+              "clock": "03:42:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005840"
+            },
+            {
+              "stable_id": "asr-005845",
+              "start_seconds": 13366.380000000001,
+              "clock": "03:42:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005845"
+            },
+            {
+              "stable_id": "asr-005846",
+              "start_seconds": 13369.4,
+              "clock": "03:42:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005846"
+            },
+            {
+              "stable_id": "asr-005847",
+              "start_seconds": 13371.06,
+              "clock": "03:42:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005847"
+            },
+            {
+              "stable_id": "asr-005950",
+              "start_seconds": 13655.4,
+              "clock": "03:47:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005950"
+            },
+            {
+              "stable_id": "asr-006015",
+              "start_seconds": 13989.04,
+              "clock": "03:53:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006015"
+            },
+            {
+              "stable_id": "asr-006037",
+              "start_seconds": 14078.46,
+              "clock": "03:54:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006037"
+            },
+            {
+              "stable_id": "asr-006046",
+              "start_seconds": 14122.7,
+              "clock": "03:55:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006046"
+            },
+            {
+              "stable_id": "asr-006059",
+              "start_seconds": 14179.16,
+              "clock": "03:56:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006059"
+            },
+            {
+              "stable_id": "asr-006062",
+              "start_seconds": 14197.62,
+              "clock": "03:56:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006062"
+            },
+            {
+              "stable_id": "asr-006082",
+              "start_seconds": 14269.92,
+              "clock": "03:57:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006082"
+            },
+            {
+              "stable_id": "asr-006091",
+              "start_seconds": 14307.82,
+              "clock": "03:58:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006091"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-national-council-on-disability-affairs-ncda",
+      "label": "National Council on Disability Affairs (NCDA) budget",
+      "items": [
+        {
+          "label": "Hardware for local disability-ID offices",
+          "text": "Rex requested restoration of NCDA funds cut from the plan to provide computers for local persons with disabilities (PWD) offices. He said DSWD's unified software and database were ready; local offices would enter records and print IDs, but needed hardware. No amount or adopted restoration was recorded.",
+          "citations": [
+            {
+              "stable_id": "asr-000976",
+              "start_seconds": 3154.52,
+              "clock": "00:52:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000976"
+            },
+            {
+              "stable_id": "asr-000998",
+              "start_seconds": 3198.16,
+              "clock": "00:53:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000998"
+            },
+            {
+              "stable_id": "asr-001015",
+              "start_seconds": 3232.0,
+              "clock": "00:53:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-national-anti-poverty-commission-napc",
+      "label": "National Anti-Poverty Commission (NAPC) budget",
+      "items": [
+        {
+          "label": "Trust fund, implementation and local planning",
+          "text": "Undersecretary Esnaen Catong said the PHP 140 million augmentation obtained with congressional support at a 2024 meeting remained insufficient to implement the Magna Carta of the Poor. He requested fulfillment of the PHP 4.5 billion People's Development Trust Fund under Republic Act 8425 and PHP 1 billion for poverty-reduction implementation and regional reach. After discussing fiscal constraints with Secretary Manny Pacquiao, he prioritized the implementation request.\n\nThe trust fund would support basic-sector participation, project development, capacity building and participatory monitoring. Catong also sought a special provision and Local Government Support Fund (LGSF) operating support for Local Poverty Reduction Action Plans. He described locally financed planning costs of about PHP 10 million for one province and PHP 16 million for Zamboanga del Norte, covering 27 LGUs and the province across three districts. These were component requests and planning costs, with no appropriation disposition recorded.",
+          "citations": [
+            {
+              "stable_id": "asr-001219",
+              "start_seconds": 3714.8,
+              "clock": "01:01:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001219"
+            },
+            {
+              "stable_id": "asr-001307",
+              "start_seconds": 4106.7,
+              "clock": "01:08:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001307"
+            },
+            {
+              "stable_id": "asr-001334",
+              "start_seconds": 4224.3,
+              "clock": "01:10:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001334"
+            },
+            {
+              "stable_id": "asr-001370",
+              "start_seconds": 4424.38,
+              "clock": "01:13:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001370"
+            },
+            {
+              "stable_id": "asr-001371",
+              "start_seconds": 4427.06,
+              "clock": "01:13:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001371"
+            },
+            {
+              "stable_id": "asr-001378",
+              "start_seconds": 4462.74,
+              "clock": "01:14:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001378"
+            },
+            {
+              "stable_id": "asr-001399",
+              "start_seconds": 4529.08,
+              "clock": "01:15:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001399"
+            },
+            {
+              "stable_id": "asr-001400",
+              "start_seconds": 4531.6,
+              "clock": "01:15:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001400"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-presidential-commission-for-the-urban-poor-pcup",
+      "label": "Presidential Commission for the Urban Poor (PCUP) budget",
+      "items": [
+        {
+          "label": "Budget utilization",
+          "text": "PCUP Chairperson Michelle Anne B. Gonzales reported that PCUP's FY 2025 budget utilization was 96.85% as of December 31, 2025, and that the commission had reached 1,501,633 families. She gave FY 2026 utilization as 66% as of September 2026.",
+          "citations": [
+            {
+              "stable_id": "asr-001485",
+              "start_seconds": 4696.68,
+              "clock": "01:18:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001485"
+            },
+            {
+              "stable_id": "asr-001491",
+              "start_seconds": 4708.36,
+              "clock": "01:18:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001491"
+            },
+            {
+              "stable_id": "asr-001497",
+              "start_seconds": 4723.48,
+              "clock": "01:18:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001497"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-national-commission-of-senior-citizens-ncsc",
+      "label": "National Commission of Senior Citizens (NCSC) budget",
+      "items": [
+        {
+          "label": "Gift program, database request and audit follow-up",
+          "text": "Acting Executive Director Ana Marie C. Calapit clarified that NCSC's main welfare-program component covers centenarian and milestone-age gifts at ages 80, 85, 90, 95 and 100; social pension remains with DSWD.\n\nShe identified the unfunded Elderly Data Management System (EDMS) as NCSC's top wish-list item. Rex argued that the Community-Based Monitoring System (CBMS), Philippine Statistics Authority (PSA) registries and death records could supply the information without new spending. Marcos sought corrective measures and an updated COA report, citing PHP 23 million in unsupported payables as well as delayed-delivery contracts and unliquidated advances. Calapit said those issues had been corrected and agreed to provide the report.",
+          "citations": [
+            {
+              "stable_id": "asr-003296",
+              "start_seconds": 9113.3,
+              "clock": "02:31:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003296"
+            },
+            {
+              "stable_id": "asr-003298",
+              "start_seconds": 9117.28,
+              "clock": "02:31:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003298"
+            },
+            {
+              "stable_id": "asr-003303",
+              "start_seconds": 9122.16,
+              "clock": "02:32:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003303"
+            },
+            {
+              "stable_id": "asr-005391",
+              "start_seconds": 12726.96,
+              "clock": "03:32:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005391"
+            },
+            {
+              "stable_id": "asr-005409",
+              "start_seconds": 12759.72,
+              "clock": "03:32:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005409"
+            },
+            {
+              "stable_id": "asr-005439",
+              "start_seconds": 12810.92,
+              "clock": "03:33:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005439"
+            },
+            {
+              "stable_id": "asr-005445",
+              "start_seconds": 12822.26,
+              "clock": "03:33:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005445"
+            },
+            {
+              "stable_id": "asr-005450",
+              "start_seconds": 12829.42,
+              "clock": "03:33:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005450"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dswd-presentation",
+      "label": "DSWD presentation",
+      "items": [
+        {
+          "label": "Human-development results",
+          "text": "In the DSWD presentation, Rex reported 1.77 million households graduating to self-sufficiency from 2022 through July 2026, 7.24 million children completing primary or secondary education, and 78,886 beneficiaries passing licensure examinations, including 259 top performers. He reported 83.9% completion of required prenatal visits among pregnant beneficiaries. He cited a 2026 World Bank study attributing a 2.2-percentage-point national poverty reduction to 4Ps and a 4.4 cost-benefit ratio, alongside a Brain Trust education study.\n\nSocial pension reached 4.11 million beneficiaries in 2025, with 88% utilization reported in 2026 while enrollment continued. Beyond the funded programs, he described Pag-Abot's work with people in street situations and targeted services such as Protect Teen for adolescent mothers.",
+          "citations": [
+            {
+              "stable_id": "asr-000558",
+              "start_seconds": 1991.62,
+              "clock": "00:33:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000558"
+            },
+            {
+              "stable_id": "asr-000581",
+              "start_seconds": 2130.8,
+              "clock": "00:35:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000581"
+            },
+            {
+              "stable_id": "asr-000583",
+              "start_seconds": 2153.28,
+              "clock": "00:35:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000583"
+            },
+            {
+              "stable_id": "asr-000585",
+              "start_seconds": 2166.94,
+              "clock": "00:36:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000585"
+            },
+            {
+              "stable_id": "asr-000634",
+              "start_seconds": 2314.3,
+              "clock": "00:38:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000634"
+            }
+          ]
+        },
+        {
+          "label": "Assistance, livelihood and care results",
+          "text": "The presentation reported AICS assistance to more than 9.4 million people in 2025 and 6.7 million at the 2026 reporting point, with nearly 92% utilization. Uplift assistance had reached 5.8 million people by October 14. DSWD separately reported PHP 5,000 for 1.839 million transport workers; a rapid Social Weather Stations (SWS) assessment found 96% considered the grant crucial to continuing work and 80% used it for food.\n\nSLP reached 275,478 households in 2025, above target, and 238,233 in 2026. Rex described moving beyond one-time grants toward enterprise development, market links and sustainability support. DSWD's 77 care facilities served 9,620 clients in 2025, 11.34% above target, and 8,674 in 2026 to date, with safety, accessibility and sustainability still needing attention.",
+          "citations": [
+            {
+              "stable_id": "asr-000590",
+              "start_seconds": 2204.8,
+              "clock": "00:36:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000590"
+            },
+            {
+              "stable_id": "asr-000611",
+              "start_seconds": 2253.64,
+              "clock": "00:37:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000611"
+            },
+            {
+              "stable_id": "asr-000612",
+              "start_seconds": 2255.96,
+              "clock": "00:37:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000612"
+            },
+            {
+              "stable_id": "asr-000676",
+              "start_seconds": 2423.2799999999997,
+              "clock": "00:40:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000676"
+            },
+            {
+              "stable_id": "asr-000696",
+              "start_seconds": 2501.36,
+              "clock": "00:41:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000696"
+            }
+          ]
+        },
+        {
+          "label": "Disaster logistics and recovery",
+          "text": "As of September 30, 2026, DSWD reported 1,048 warehouses and 4.4 million family food packs in stock, with capacity for 63,000 packs per shift; it produced 7.2 million packs in 2025. Emergency cash transfers and cash-for-work reached 1.3 million families that year. The presentation described LAWA/BINHI water, food-production and livelihood projects, and farmer grants tied to regional minimum wages for 30 days, extendable to a maximum of 90 days.",
+          "citations": [
+            {
+              "stable_id": "asr-000719",
+              "start_seconds": 2594.7799999999997,
+              "clock": "00:43:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000719"
+            },
+            {
+              "stable_id": "asr-000720",
+              "start_seconds": 2598.36,
+              "clock": "00:43:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000720"
+            },
+            {
+              "stable_id": "asr-000721",
+              "start_seconds": 2604.62,
+              "clock": "00:43:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000721"
+            },
+            {
+              "stable_id": "asr-000722",
+              "start_seconds": 2608.62,
+              "clock": "00:43:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000722"
+            },
+            {
+              "stable_id": "asr-000724",
+              "start_seconds": 2617.36,
+              "clock": "00:43:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000724"
+            },
+            {
+              "stable_id": "asr-000751",
+              "start_seconds": 2702.16,
+              "clock": "00:45:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000751"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-national-anti-poverty-commission-napc-presentation",
+      "label": "National Anti-Poverty Commission (NAPC) presentation",
+      "items": [
+        {
+          "label": "Local poverty-reduction planning",
+          "text": "Catong reported more than 704 local poverty-reduction action committees formed out of almost 1,600, split equally between government and the 14 basic sectors. Plans were bottom-up, data-driven and participatory, with 30 vulnerable provinces among the targets. NAPC had visited all 82 provinces and trained 3,654 basic-sector representatives.\n\nHe described local and interagency coordination, including Department of the Interior and Local Government (DILG) participation and Armed Forces of the Philippines (AFP) and Philippine National Police (PNP) assistance in isolated areas. A 2025 joint circular would provide a common LGU template to address gaps without duplication. Hontiveros expressed Senate support for the best streamlining policy and informal settlers' rights.",
+          "citations": [
+            {
+              "stable_id": "asr-001289",
+              "start_seconds": 4023.76,
+              "clock": "01:07:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001289"
+            },
+            {
+              "stable_id": "asr-001295",
+              "start_seconds": 4056.42,
+              "clock": "01:07:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001295"
+            },
+            {
+              "stable_id": "asr-001314",
+              "start_seconds": 4140.32,
+              "clock": "01:09:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001314"
+            },
+            {
+              "stable_id": "asr-001350",
+              "start_seconds": 4307.46,
+              "clock": "01:11:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001350"
+            },
+            {
+              "stable_id": "asr-001354",
+              "start_seconds": 4329.56,
+              "clock": "01:12:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001354"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-pcup-presentation",
+      "label": "PCUP presentation",
+      "items": [
+        {
+          "label": "Urban-poor focus",
+          "text": "Gonzales defended PCUP's urban-poor focus, citing the commission's projection of an 80-million urban-poor population by 2050 as its reason for retaining a dedicated agency.",
+          "citations": [
+            {
+              "stable_id": "asr-001473",
+              "start_seconds": 4672.02,
+              "clock": "01:17:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001473"
+            },
+            {
+              "stable_id": "asr-001480",
+              "start_seconds": 4687.3,
+              "clock": "01:18:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001480"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "opening-opening-priorities",
+      "label": "Opening priorities",
+      "items": [
+        {
+          "label": "Hearing priorities",
+          "text": "Hontiveros framed the hearing around timely, correctly targeted and adequate support, rather than obligations alone. She wanted 4Ps exits linked to education and livelihoods, crisis assistance accessible despite missing phones, bank accounts or records, and stronger duplicate-payment controls. She questioned whether the PHP 1,000 monthly social pension remained adequate as essentials became more expensive.\n\nShe urged preparedness before El Nino crises, combining relief with resilience, and inclusion of adolescent mothers, people with disabilities and caregivers, child survivors of online exploitation, and LGBTQIA+ communities. Civil-society and people's organizations were invited to raise substantive questions and possible plenary amendments.",
+          "citations": [
+            {
+              "stable_id": "asr-000024",
+              "start_seconds": 691.44,
+              "clock": "00:11:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000024"
+            },
+            {
+              "stable_id": "asr-000027",
+              "start_seconds": 732.3,
+              "clock": "00:12:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000027"
+            },
+            {
+              "stable_id": "asr-000032",
+              "start_seconds": 773.4200000000001,
+              "clock": "00:12:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000032"
+            },
+            {
+              "stable_id": "asr-000039",
+              "start_seconds": 831.94,
+              "clock": "00:13:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000039"
+            },
+            {
+              "stable_id": "asr-000047",
+              "start_seconds": 869.32,
+              "clock": "00:14:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000047"
+            },
+            {
+              "stable_id": "asr-000063",
+              "start_seconds": 920.64,
+              "clock": "00:15:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000063"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-raffy-t-tulfo",
+      "label": "Senator Raffy T. Tulfo",
+      "items": [
+        {
+          "label": "Counterfeit disability IDs and enforcement",
+          "text": "Senator Raffy T. Tulfo cited a Department of Justice (DOJ) report claiming six million of eight million PWD IDs were counterfeit, with only two million legitimate and NCDA-registered. He attributed PHP 88 billion in tax-revenue losses and PHP 166 billion in business losses to the problem, saying abuse undermined the intended 20% discount and genuine beneficiaries. His staff had found online card-and-booklet offers; he questioned certification, permanent cards for alleged temporary conditions, interagency enforcement and the definition of qualifying disabilities.\n\nIn a prerecorded presentation, RestoPH President David Sison said the Department of Health (DOH) verification site was outdated and that more than 2,500 LGU jurisdictions used varying designs. He described readily purchased cards and losses threatening small restaurants' margins. Raffy called for clearer laws and enforcement while emphasizing protection of PWD rights.",
+          "citations": [
+            {
+              "stable_id": "asr-000162",
+              "start_seconds": 1121.88,
+              "clock": "00:18:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000162"
+            },
+            {
+              "stable_id": "asr-000164",
+              "start_seconds": 1125.92,
+              "clock": "00:18:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000164"
+            },
+            {
+              "stable_id": "asr-000167",
+              "start_seconds": 1132.46,
+              "clock": "00:18:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000167"
+            },
+            {
+              "stable_id": "asr-000171",
+              "start_seconds": 1140.34,
+              "clock": "00:19:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000171"
+            },
+            {
+              "stable_id": "asr-000175",
+              "start_seconds": 1147.92,
+              "clock": "00:19:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000175"
+            },
+            {
+              "stable_id": "asr-000176",
+              "start_seconds": 1149.6399999999999,
+              "clock": "00:19:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000176"
+            },
+            {
+              "stable_id": "asr-000185",
+              "start_seconds": 1169.04,
+              "clock": "00:19:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000185"
+            },
+            {
+              "stable_id": "asr-000206",
+              "start_seconds": 1209.56,
+              "clock": "00:20:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000206"
+            },
+            {
+              "stable_id": "asr-000243",
+              "start_seconds": 1287.82,
+              "clock": "00:21:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000243"
+            },
+            {
+              "stable_id": "asr-000257",
+              "start_seconds": 1316.1,
+              "clock": "00:21:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000257"
+            },
+            {
+              "stable_id": "asr-000362",
+              "start_seconds": 1537.2600000000002,
+              "clock": "00:25:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000362"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-erwin-t-tulfo",
+      "label": "Senator Erwin T. Tulfo",
+      "items": [
+        {
+          "label": "Staff regularization and job security",
+          "text": "Erwin's opening called for scrutiny of cuts, targeting and recurring COA findings without sacrificing frontline assistance. On staffing, he cited DBM approval of 26,711 positions: 5,711 regular and 21,000 contractual, intended for contract-of-service (COS) and job-order (JO) workers. Rex reported 24,000 COS workers across programs, with 5,000 regular 4Ps case-manager positions being filled by end-October and another 5,000 signaled.\n\nErwin asked whether the ceiling meant job losses. Rex said incumbents would have first opportunity to convert, preserving institutional knowledge; gradual regular-position releases reflected fiscal space and would reduce COS numbers rather than dismiss staff.",
+          "citations": [
+            {
+              "stable_id": "asr-002087",
+              "start_seconds": 5645.16,
+              "clock": "01:34:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002087"
+            },
+            {
+              "stable_id": "asr-002092",
+              "start_seconds": 5654.96,
+              "clock": "01:34:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002092"
+            },
+            {
+              "stable_id": "asr-002114",
+              "start_seconds": 5709.82,
+              "clock": "01:35:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002114"
+            },
+            {
+              "stable_id": "asr-002130",
+              "start_seconds": 5741.34,
+              "clock": "01:35:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002130"
+            },
+            {
+              "stable_id": "asr-002146",
+              "start_seconds": 5774.36,
+              "clock": "01:36:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002146"
+            }
+          ]
+        },
+        {
+          "label": "Senior-citizen responsibilities, gifts and attendance",
+          "text": "Calapit said gifts for 2024-2025 birthdays had been distributed and 2026 payments were ongoing, with 15,000 scheduled through December. Rex cautioned that this counted applicants, not every eligible person, and advocated automatic milestone-age payments. Calapit described planned bank deposits and validation with PSA, the Philippine Identification System (PhilSys) and the Department of Information and Communications Technology (DICT) eGov app. Beridico supported accurate local data and payment without queues, but warned that remote seniors may lack bank access and suggested Office of Senior Citizens Affairs (OSCA)/field delivery.\n\nErwin cited the transfer of social pension to NCSC under Republic Act 11350 and asked about DSWD's continuing role. Rex described an executive order returning a function to DSWD, with NCSC as policy-maker, but the relationship to the cited statute remained unresolved. He said the commission's application process and limited staffing complicated implementation, despite an earlier three-year rolling CBMS forecast.\n\nHontiveros questioned the absent NCSC chair and commissioners. Calapit cited a letter and Geneva working-group preparations; Hontiveros expected their attendance at plenary and urged resolution of the institutional issues. Erwin objected that the absence left Rex speaking for the commission.",
+          "citations": [
+            {
+              "stable_id": "asr-002167",
+              "start_seconds": 5817.06,
+              "clock": "01:36:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002167"
+            },
+            {
+              "stable_id": "asr-002194",
+              "start_seconds": 5874.0,
+              "clock": "01:37:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002194"
+            },
+            {
+              "stable_id": "asr-002230",
+              "start_seconds": 5944.92,
+              "clock": "01:39:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002230"
+            },
+            {
+              "stable_id": "asr-002283",
+              "start_seconds": 6050.04,
+              "clock": "01:40:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002283"
+            },
+            {
+              "stable_id": "asr-002312",
+              "start_seconds": 6107.78,
+              "clock": "01:41:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002312"
+            },
+            {
+              "stable_id": "asr-002360",
+              "start_seconds": 6203.48,
+              "clock": "01:43:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002360"
+            },
+            {
+              "stable_id": "asr-002394",
+              "start_seconds": 6270.26,
+              "clock": "01:44:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002394"
+            },
+            {
+              "stable_id": "asr-002407",
+              "start_seconds": 6295.98,
+              "clock": "01:44:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002407"
+            },
+            {
+              "stable_id": "asr-002419",
+              "start_seconds": 6327.38,
+              "clock": "01:45:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002419"
+            },
+            {
+              "stable_id": "asr-002420",
+              "start_seconds": 6335.52,
+              "clock": "01:45:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002420"
+            },
+            {
+              "stable_id": "asr-002439",
+              "start_seconds": 6396.82,
+              "clock": "01:46:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002439"
+            },
+            {
+              "stable_id": "asr-002448",
+              "start_seconds": 6415.64,
+              "clock": "01:46:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002448"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-sherwin-win-t-gatchalian",
+      "label": "Senator Sherwin \"Win\" T. Gatchalian",
+      "items": [
+        {
+          "label": "4Ps services and the education-to-work pathway",
+          "text": "Win questioned whether the caseload reduction reflected real poverty gains. Rex described 4Ps Forward: 14 systems integrated from registration to payout, live and due for full operation by December, with devices for 15,000 field workers. Payment delays of 60-75 days would shorten to within 45 days; beneficiary school records and health booklets would replace burdensome teacher compliance reporting.\n\nThe existing Enhanced Support Service Intervention (ESSI) would become Tuloy in December, without a new budget request: PHP 10,000 once on college enrollment, PHP 5,000 for continuing study, and PHP 10,000 on graduation for pre-employment requirements. Rex cited comparative studies showing degree attainment of 53% versus 31%, permanent work of 44% versus 25%, and permanent employment among young women of 55% versus 33%. He also cited PSA's Family Income and Expenditure Survey (FIES) on cash transfers' contribution to the newly reported 9% poverty rate.",
+          "citations": [
+            {
+              "stable_id": "asr-002904",
+              "start_seconds": 7706.42,
+              "clock": "02:08:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002904"
+            },
+            {
+              "stable_id": "asr-002950",
+              "start_seconds": 7879.74,
+              "clock": "02:11:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002950"
+            },
+            {
+              "stable_id": "asr-002958",
+              "start_seconds": 7916.22,
+              "clock": "02:11:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002958"
+            },
+            {
+              "stable_id": "asr-002960",
+              "start_seconds": 7931.8,
+              "clock": "02:12:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002960"
+            },
+            {
+              "stable_id": "asr-002964",
+              "start_seconds": 7940.42,
+              "clock": "02:12:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002964"
+            },
+            {
+              "stable_id": "asr-002977",
+              "start_seconds": 7997.58,
+              "clock": "02:13:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002977"
+            },
+            {
+              "stable_id": "asr-003002",
+              "start_seconds": 8109.34,
+              "clock": "02:15:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003002"
+            }
+          ]
+        },
+        {
+          "label": "Economic shocks and livelihood protection",
+          "text": "Win warned of the combined Iran conflict, oil-driven inflation and El Nino, noting Senate RISE Committee work. He first cited 350,000 potentially affected farmers, then Department of Agriculture (DA) Secretary Francisco P. Tiu Laurel Jr.'s worst case of four million, against ten million agricultural workers. He also raised a hypothetical USD 150-200 oil price per barrel.\n\nRex described Uplift's PHP 1,200-1,500 estimated purchasing-power loss as the basis for PHP 2,000 assistance. 4Ps households received a one-time top-up in July or August; 2.5 million poor/near-poor non-4Ps households received monthly support from July through December. A third group covered 1.5 million low-wage Social Security System (SSS) earners or households; he cited PHP 20,000 salary credits and later a below-PHP 10,000 range. Extension beyond December depended on the emergency. The protection target was 7.5 million families, with about 6.5 million reached in the later clarification; Rex estimated 70-85% of 4Ps families were farmers. DA vulnerability assessments and calamity declarations guided emergency transfers already underway.\n\nFor longer-term drought protection, he described the 2023 revamp of LAWA/BINHI with DA and the World Food Programme (WFP): about 5,000 active water-impounding projects, 20-day cash-for-work, irrigation/community farms and links to feeding and Walang Gutom. Agriculture partners supplied inputs and technical support. He cited a Masbate community water system under Pagkilos as another resilience intervention.",
+          "citations": [
+            {
+              "stable_id": "asr-000779",
+              "start_seconds": 2757.58,
+              "clock": "00:45:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000779"
+            },
+            {
+              "stable_id": "asr-003026",
+              "start_seconds": 8264.36,
+              "clock": "02:17:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003026"
+            },
+            {
+              "stable_id": "asr-003041",
+              "start_seconds": 8315.02,
+              "clock": "02:18:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003041"
+            },
+            {
+              "stable_id": "asr-003059",
+              "start_seconds": 8382.0,
+              "clock": "02:19:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003059"
+            },
+            {
+              "stable_id": "asr-003060",
+              "start_seconds": 8385.88,
+              "clock": "02:19:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003060"
+            },
+            {
+              "stable_id": "asr-003066",
+              "start_seconds": 8403.46,
+              "clock": "02:20:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003066"
+            },
+            {
+              "stable_id": "asr-003071",
+              "start_seconds": 8423.24,
+              "clock": "02:20:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003071"
+            },
+            {
+              "stable_id": "asr-003080",
+              "start_seconds": 8454.86,
+              "clock": "02:20:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003080"
+            },
+            {
+              "stable_id": "asr-003081",
+              "start_seconds": 8461.22,
+              "clock": "02:21:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003081"
+            },
+            {
+              "stable_id": "asr-003101",
+              "start_seconds": 8544.68,
+              "clock": "02:22:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003101"
+            },
+            {
+              "stable_id": "asr-003125",
+              "start_seconds": 8633.28,
+              "clock": "02:23:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003125"
+            },
+            {
+              "stable_id": "asr-003157",
+              "start_seconds": 8758.8,
+              "clock": "02:25:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003157"
+            },
+            {
+              "stable_id": "asr-003195",
+              "start_seconds": 8923.28,
+              "clock": "02:28:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003195"
+            }
+          ]
+        },
+        {
+          "label": "Senior-citizen policies beyond cash gifts",
+          "text": "Win pressed NCSC for health, livelihood and financial-independence policies beyond birthday gifts. Calapit cited review of Republic Act 11350's implementing rules, a Magna Carta for Older Persons, the Philippine Plan of Action for Senior Citizens, geriatric-policy proposals and interagency benefits. She described livelihood/leadership training and senior tour-guide pilots in Intramuros and five regions. Win said the Geriatric Hospital Bill had been approved, which she affirmed, and asked for concrete recommendations to the committee. Calapit agreed to submit them.",
+          "citations": [
+            {
+              "stable_id": "asr-003353",
+              "start_seconds": 9179.58,
+              "clock": "02:32:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003353"
+            },
+            {
+              "stable_id": "asr-003385",
+              "start_seconds": 9215.68,
+              "clock": "02:33:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003385"
+            },
+            {
+              "stable_id": "asr-003443",
+              "start_seconds": 9273.94,
+              "clock": "02:34:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003443"
+            },
+            {
+              "stable_id": "asr-003521",
+              "start_seconds": 9357.82,
+              "clock": "02:35:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003521"
+            },
+            {
+              "stable_id": "asr-003568",
+              "start_seconds": 9398.12,
+              "clock": "02:36:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003568"
+            },
+            {
+              "stable_id": "asr-003675",
+              "start_seconds": 9506.02,
+              "clock": "02:38:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003675"
+            },
+            {
+              "stable_id": "asr-003677",
+              "start_seconds": 9510.9,
+              "clock": "02:38:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003677"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-risa-hontiveros",
+      "label": "Senator Risa Hontiveros",
+      "items": [
+        {
+          "label": "The unified disability-ID response",
+          "text": "Following the counterfeit-ID concerns, Hontiveros sought DSWD's response. Rex said the unified QR/database system was ready, printable for people needing physical cards, with nearly 80% of LGUs trained. Rollout still required changing rules that left issuance with LGUs; he cited around 1,500 designs/issuing authorities. He expected revised rules with the Department of Finance (DOF) and DOH within two weeks, while working with the Bureau of Internal Revenue (BIR) on merchant verification.\n\nHe distinguished three fraud points: medical certification, addressed by tighter DOH rules; LGU issuance without documents, raised with DILG; and forged cards, addressed by the unified system. DSWD had consulted RestoPH and PWD groups. Hontiveros stressed technology access, and Rex agreed lack of devices or connectivity should not exclude people.",
+          "citations": [
+            {
+              "stable_id": "asr-000834",
+              "start_seconds": 2872.62,
+              "clock": "00:47:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000834"
+            },
+            {
+              "stable_id": "asr-000842",
+              "start_seconds": 2886.16,
+              "clock": "00:48:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000842"
+            },
+            {
+              "stable_id": "asr-000906",
+              "start_seconds": 3014.32,
+              "clock": "00:50:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000906"
+            },
+            {
+              "stable_id": "asr-000991",
+              "start_seconds": 3184.28,
+              "clock": "00:53:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000991"
+            }
+          ]
+        },
+        {
+          "label": "Drought targeting and agency coordination",
+          "text": "Hontiveros asked whether food stamps and ADB e-vouchers could prioritize drought-prone provinces. Rex said the submitted project design was fixed around the poorest, hungriest and high-stunting areas. Its food-poor target families, identified with incomes below PHP 9,000 at a period not specified, were expected to overlap with drought vulnerability; he did not commit to retargeting.\n\nShe also asked how DA, DSWD, the Department of Labor and Employment (DOLE) and Department of Transportation (DOTr) coordinated assistance. Rex described the existing Task Force El Nino, regular President-chaired meetings and agency plans collated by the Office of Civil Defense (OCD).",
+          "citations": [
+            {
+              "stable_id": "asr-002007",
+              "start_seconds": 5484.08,
+              "clock": "01:31:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002007"
+            },
+            {
+              "stable_id": "asr-002014-split-2",
+              "start_seconds": 5500.13,
+              "clock": "01:31:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002014-split-2"
+            },
+            {
+              "stable_id": "asr-002027",
+              "start_seconds": 5525.26,
+              "clock": "01:32:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002027"
+            },
+            {
+              "stable_id": "asr-002029",
+              "start_seconds": 5529.38,
+              "clock": "01:32:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002029"
+            },
+            {
+              "stable_id": "asr-003693",
+              "start_seconds": 9527.48,
+              "clock": "02:38:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003693"
+            },
+            {
+              "stable_id": "asr-003723",
+              "start_seconds": 9556.12,
+              "clock": "02:39:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003723"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-imee-r-marcos",
+      "label": "Senator Imee R. Marcos",
+      "items": [
+        {
+          "label": "Agency roles, consolidation and leadership",
+          "text": "Marcos questioned duplication between NAPC and PCUP and proposed examining consolidation. Rex supported combining them under agency optimization plans, citing PCUP's demolition mediation as a distinct function. Catong said PCUP was one of NAPC's 27 partner agencies and defended NAPC's poverty-reduction coordination across the basic sectors under Republic Acts 8425 and 11291. He linked local poverty plans to CBMS, and recalled a presidential target spoken as \"8.8\" without an explicit unit.\n\nGonzales defended PCUP's direct community-organizing, capacity-building and urban-poor safeguards, including local housing-board work, pre-demolition conferences and Urban Development and Housing Act clearance. She contrasted this with NAPC's convening role and cited Executive Orders 82 and 69. Catong said NAPC had been under DSWD supervision since 2019 and cited Executive Order 123, issued August 14, returning both agencies to the Office of the President; Rex and Marcos disagreed over PCUP's earlier DSWD relationship. No merger was adopted.\n\nHontiveros asked why Secretary Manny Pacquiao was absent. Catong cited a letter promising plenary attendance, transition and poverty-eradication activities, and flight delays affecting him and colleagues.",
+          "citations": [
+            {
+              "stable_id": "asr-001040",
+              "start_seconds": 3283.48,
+              "clock": "00:54:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001040"
+            },
+            {
+              "stable_id": "asr-001046",
+              "start_seconds": 3295.8,
+              "clock": "00:54:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001046"
+            },
+            {
+              "stable_id": "asr-001070",
+              "start_seconds": 3341.66,
+              "clock": "00:55:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001070"
+            },
+            {
+              "stable_id": "asr-001093",
+              "start_seconds": 3387.7,
+              "clock": "00:56:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001093"
+            },
+            {
+              "stable_id": "asr-001108-split-2",
+              "start_seconds": 3418.34,
+              "clock": "00:56:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001108-split-2"
+            },
+            {
+              "stable_id": "asr-001128-split-2",
+              "start_seconds": 3458.39,
+              "clock": "00:57:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001128-split-2"
+            },
+            {
+              "stable_id": "asr-001162",
+              "start_seconds": 3525.16,
+              "clock": "00:58:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001162"
+            },
+            {
+              "stable_id": "asr-001215",
+              "start_seconds": 3692.46,
+              "clock": "01:01:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001215"
+            },
+            {
+              "stable_id": "asr-001235",
+              "start_seconds": 3782.48,
+              "clock": "01:03:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001235"
+            },
+            {
+              "stable_id": "asr-001241",
+              "start_seconds": 3798.06,
+              "clock": "01:03:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001241"
+            },
+            {
+              "stable_id": "asr-001249",
+              "start_seconds": 3821.78,
+              "clock": "01:03:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001249"
+            },
+            {
+              "stable_id": "asr-001264",
+              "start_seconds": 3897.66,
+              "clock": "01:04:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-001264"
+            }
+          ]
+        },
+        {
+          "label": "Tutoring roles and evaluation",
+          "text": "Marcos asked whether Tara, Basa! duplicated Aral and how effectiveness was measured. Rex said DepEd selected Grade 2 non-readers/frustrated readers while DSWD recruited poor college tutors from state and local universities/colleges, treating the work as conditional student assistance. After he described Aral as volunteer work, Hontiveros clarified that its tutors included DepEd teachers receiving overload pay/service credits, eligible applicants, pre-service teachers and para-teachers.\n\nRex said DepEd administered pre/post-tests for 20 days of two-hour sessions, with about 85-89% moving up a reading level, and had asked DSWD to continue. He promised the results. Marcos supported informal schooling but insisted on time-bound assessment; Rex described a once-yearly cohort, with funding ending after the session.",
+          "citations": [
+            {
+              "stable_id": "asr-004538",
+              "start_seconds": 11603.2,
+              "clock": "03:13:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004538"
+            },
+            {
+              "stable_id": "asr-004545",
+              "start_seconds": 11623.82,
+              "clock": "03:13:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004545"
+            },
+            {
+              "stable_id": "asr-004630",
+              "start_seconds": 11775.82,
+              "clock": "03:16:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004630"
+            },
+            {
+              "stable_id": "asr-004645",
+              "start_seconds": 11794.7,
+              "clock": "03:16:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004645"
+            },
+            {
+              "stable_id": "asr-004660",
+              "start_seconds": 11809.7,
+              "clock": "03:16:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004660"
+            },
+            {
+              "stable_id": "asr-004699",
+              "start_seconds": 11855.28,
+              "clock": "03:17:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004699"
+            },
+            {
+              "stable_id": "asr-004711",
+              "start_seconds": 11867.6,
+              "clock": "03:17:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004711"
+            },
+            {
+              "stable_id": "asr-004752",
+              "start_seconds": 11911.88,
+              "clock": "03:18:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004752"
+            }
+          ]
+        },
+        {
+          "label": "Water filtration and deployment",
+          "text": "Marcos asked about safety certification, deployment quantities and priority communities for the demonstrated bucket filter. Rex said DSWD had held and used Waves for Water filters since 2023 and planned depots for high-density areas facing low pressure or water loss. He distinguished the membrane from chlorine tablets and said it removed bacteria, not viruses. He promised the DOH medical-device certification and product information. Priority areas were described, but no unit count or distribution schedule was supplied.",
+          "citations": [
+            {
+              "stable_id": "asr-004796",
+              "start_seconds": 11972.62,
+              "clock": "03:19:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004796"
+            },
+            {
+              "stable_id": "asr-004825",
+              "start_seconds": 12005.58,
+              "clock": "03:20:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004825"
+            },
+            {
+              "stable_id": "asr-004924",
+              "start_seconds": 12128.76,
+              "clock": "03:22:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004924"
+            },
+            {
+              "stable_id": "asr-004956",
+              "start_seconds": 12170.04,
+              "clock": "03:22:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004956"
+            },
+            {
+              "stable_id": "asr-004967",
+              "start_seconds": 12183.88,
+              "clock": "03:23:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004967"
+            }
+          ]
+        },
+        {
+          "label": "Cash-gift records and payment capacity",
+          "text": "Marcos challenged the commission's payout account, citing 74,877 unpaid cash-gift applicants and later variations around 75,000. Calapit disputed the report's period, saying NCSC began implementation in February 2025 and that 2025-reported findings could concern 2024 carryover. She agreed to submit a report on unpaid gifts and corrective measures; the counts and period remained unresolved.\n\nHontiveros asked whether DSWD could continue paying assistance for other agencies. Rex cited its 56,000-person national footprint and transport/RSSI payouts and agreed. Asked by Marcos about cash-handling workers, vehicles and fees, he cited operating funds, permitted transport rentals and gradual digital migration, including negotiations to reduce a PHP 50 deduction to PHP 1. He also pointed to ongoing regularization of cash-handling staff.",
+          "citations": [
+            {
+              "stable_id": "asr-005343",
+              "start_seconds": 12630.66,
+              "clock": "03:30:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005343"
+            },
+            {
+              "stable_id": "asr-005355",
+              "start_seconds": 12656.0,
+              "clock": "03:30:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005355"
+            },
+            {
+              "stable_id": "asr-005361",
+              "start_seconds": 12666.9,
+              "clock": "03:31:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005361"
+            },
+            {
+              "stable_id": "asr-005379",
+              "start_seconds": 12703.9,
+              "clock": "03:31:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005379"
+            },
+            {
+              "stable_id": "asr-005457",
+              "start_seconds": 12846.48,
+              "clock": "03:34:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005457"
+            },
+            {
+              "stable_id": "asr-005482",
+              "start_seconds": 12885.72,
+              "clock": "03:34:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005482"
+            },
+            {
+              "stable_id": "asr-005527",
+              "start_seconds": 12936.48,
+              "clock": "03:35:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005527"
+            },
+            {
+              "stable_id": "asr-005539",
+              "start_seconds": 12952.52,
+              "clock": "03:35:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005539"
+            },
+            {
+              "stable_id": "asr-005544",
+              "start_seconds": 12958.94,
+              "clock": "03:35:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005544"
+            },
+            {
+              "stable_id": "asr-005567",
+              "start_seconds": 12982.02,
+              "clock": "03:36:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005567"
+            },
+            {
+              "stable_id": "asr-005568",
+              "start_seconds": 12982.88,
+              "clock": "03:36:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005568"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-alan-peter-s-cayetano",
+      "label": "Senator Alan Peter S. Cayetano",
+      "items": [
+        {
+          "label": "Anti-stunting coordination",
+          "text": "Minority Leader Senator Alan Peter S. Cayetano sought a short discussion before plenary on anti-stunting projects and problems raised by faith-based partners. Rex agreed to make himself personally available.",
+          "citations": [
+            {
+              "stable_id": "asr-002052",
+              "start_seconds": 5575.3,
+              "clock": "01:32:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002052"
+            },
+            {
+              "stable_id": "asr-002063",
+              "start_seconds": 5598.34,
+              "clock": "01:33:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002063"
+            },
+            {
+              "stable_id": "asr-002071",
+              "start_seconds": 5613.98,
+              "clock": "01:33:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002071"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "senator-joseph-victor-jv-g-ejercito",
+      "label": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "items": [
+        {
+          "label": "Measurable outcomes and graduation",
+          "text": "Ejercito asked for concrete 2027 outcomes. Rex identified stronger 4Ps human-capital investment, faster disaster response through warehouses and frontline-LGU support, and improved care facilities. He cited a revamped family-development curriculum addressing issues such as violent extremism and warned that cutting World Bank community-resilience support threatened commitments.\n\nOn a graduation plan for households remaining beyond seven years until Level 3 self-sufficiency, Rex contrasted recent large-scale exits with only 15,000 before 2022. He emphasized the three monitored children completing college or technical-vocational study and casework to remove households no longer eligible. DSWD support would complement the Commission on Higher Education (CHED) PHP 15,000-per-semester assistance, which he said did not cover city housing and food costs.",
+          "citations": [
+            {
+              "stable_id": "asr-003814",
+              "start_seconds": 9667.94,
+              "clock": "02:41:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003814"
+            },
+            {
+              "stable_id": "asr-003840",
+              "start_seconds": 9699.02,
+              "clock": "02:41:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003840"
+            },
+            {
+              "stable_id": "asr-003870",
+              "start_seconds": 9736.8,
+              "clock": "02:42:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003870"
+            },
+            {
+              "stable_id": "asr-003899",
+              "start_seconds": 9769.82,
+              "clock": "02:42:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003899"
+            },
+            {
+              "stable_id": "asr-003961",
+              "start_seconds": 9836.7,
+              "clock": "02:43:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003961"
+            },
+            {
+              "stable_id": "asr-003997",
+              "start_seconds": 9874.52,
+              "clock": "02:44:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003997"
+            },
+            {
+              "stable_id": "asr-004026",
+              "start_seconds": 9913.9,
+              "clock": "02:45:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004026"
+            },
+            {
+              "stable_id": "asr-004027",
+              "start_seconds": 9915.8,
+              "clock": "02:45:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004027"
+            },
+            {
+              "stable_id": "asr-004028",
+              "start_seconds": 9917.8,
+              "clock": "02:45:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004028"
+            },
+            {
+              "stable_id": "asr-004030",
+              "start_seconds": 9921.78,
+              "clock": "02:45:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004030"
+            }
+          ]
+        },
+        {
+          "label": "AICS audit findings and safeguards",
+          "text": "Ejercito cited the COA FY 2025 finding of PHP 397.4 million in multiple/overlapping payments and asked how referral-based aid would avoid political patronage. Marcos later raised the same overlap concern. Rex said no disallowance had been issued: different needs, such as medical and burial assistance, could justify separate payments. Under DSWD guidelines, repeat help within three months could remain below PHP 10,000; he illustrated this with two PHP 2,000 grants. DSWD and COA were conducting parallel validations due by December 2026, and he said missing assistance documents had been submitted.\n\nHe said anyone could refer a case, but licensed social workers determined eligibility and amounts. Asked about diversion, he cited charges over an alleged scheme involving certain Iloilo barangay officials, while distinguishing them from officials generally. Safeguards included payout reminders, anonymous grievances and local-language notices of entitlements.",
+          "citations": [
+            {
+              "stable_id": "asr-004063",
+              "start_seconds": 9986.74,
+              "clock": "02:46:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004063"
+            },
+            {
+              "stable_id": "asr-004064",
+              "start_seconds": 9988.64,
+              "clock": "02:46:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004064"
+            },
+            {
+              "stable_id": "asr-004065",
+              "start_seconds": 9990.82,
+              "clock": "02:46:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004065"
+            },
+            {
+              "stable_id": "asr-004084",
+              "start_seconds": 10028.66,
+              "clock": "02:47:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004084"
+            },
+            {
+              "stable_id": "asr-004104",
+              "start_seconds": 10068.2,
+              "clock": "02:47:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004104"
+            },
+            {
+              "stable_id": "asr-004105",
+              "start_seconds": 10070.52,
+              "clock": "02:47:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004105"
+            },
+            {
+              "stable_id": "asr-004107",
+              "start_seconds": 10074.38,
+              "clock": "02:47:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004107"
+            },
+            {
+              "stable_id": "asr-004113",
+              "start_seconds": 10086.76,
+              "clock": "02:48:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004113"
+            },
+            {
+              "stable_id": "asr-004161",
+              "start_seconds": 10182.46,
+              "clock": "02:49:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004161"
+            },
+            {
+              "stable_id": "asr-005098",
+              "start_seconds": 12331.78,
+              "clock": "03:25:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005098"
+            },
+            {
+              "stable_id": "asr-005107",
+              "start_seconds": 12342.28,
+              "clock": "03:25:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005107"
+            },
+            {
+              "stable_id": "asr-005141",
+              "start_seconds": 12375.56,
+              "clock": "03:26:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005141"
+            },
+            {
+              "stable_id": "asr-005175",
+              "start_seconds": 12411.08,
+              "clock": "03:26:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005175"
+            }
+          ]
+        },
+        {
+          "label": "Farmer projections and current payouts",
+          "text": "Ejercito requested high/low El Nino estimates for farmers and fishers. Rex said DA's projection was pending and reported ongoing or completed payouts to 77,260 farmers in Cagayan/Isabela and 26,041 in Camarines Norte. Ejercito said he would monitor the continuing crises.",
+          "citations": [
+            {
+              "stable_id": "asr-004267",
+              "start_seconds": 10501.0,
+              "clock": "02:55:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004267"
+            },
+            {
+              "stable_id": "asr-004269",
+              "start_seconds": 10518.9,
+              "clock": "02:55:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004269"
+            },
+            {
+              "stable_id": "asr-004285",
+              "start_seconds": 10576.5,
+              "clock": "02:56:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004285"
+            },
+            {
+              "stable_id": "asr-004287",
+              "start_seconds": 10587.04,
+              "clock": "02:56:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004287"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-snpp-civil-society-exchange",
+      "label": "SNPP civil society exchange",
+      "items": [
+        {
+          "label": "Inclusion errors and locating eligible families",
+          "text": "Catacio distinguished successful 4Ps exits from continuing poverty and waiting-list needs. She cited 3.2 million poor people and a World Bank study she described as lifting 2.2 million households, while reporting eligible families missing from CBMS and ineligible ones still enrolled. Birth certificates, marriage records, school certifications, transport and card requirements imposed costs. She welcomed tertiary-education improvements and urged convergence with livelihood support to prevent backsliding.\n\nHontiveros suggested working on a buffer for the roughly 900,000-family coverage gap. Rex agreed to meet Catacio and said most families in a pool he variously called 450,000, 434,000 or 434,069 had been located, leaving 59,000. DSWD and PSA were validating Listahanan/on-demand LGU referrals as a CBMS addendum, consistent with the current-targeting-tool enrollment requirement. He promised to locate the remainder within the year, then specified 45 days, and described staffing that would improve the social-welfare-assistant ratio from one per 1,000 families to one per 500.",
+          "citations": [
+            {
+              "stable_id": "asr-004403",
+              "start_seconds": 11034.06,
+              "clock": "03:03:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004403"
+            },
+            {
+              "stable_id": "asr-004415",
+              "start_seconds": 11092.22,
+              "clock": "03:04:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004415"
+            },
+            {
+              "stable_id": "asr-004432",
+              "start_seconds": 11192.18,
+              "clock": "03:06:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004432"
+            },
+            {
+              "stable_id": "asr-004434",
+              "start_seconds": 11212.22,
+              "clock": "03:06:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004434"
+            },
+            {
+              "stable_id": "asr-004488",
+              "start_seconds": 11463.1,
+              "clock": "03:11:03",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004488"
+            },
+            {
+              "stable_id": "asr-004501",
+              "start_seconds": 11493.8,
+              "clock": "03:11:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004501"
+            },
+            {
+              "stable_id": "asr-004502",
+              "start_seconds": 11496.82,
+              "clock": "03:11:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004502"
+            },
+            {
+              "stable_id": "asr-004508",
+              "start_seconds": 11518.34,
+              "clock": "03:11:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004508"
+            },
+            {
+              "stable_id": "asr-004517",
+              "start_seconds": 11540.36,
+              "clock": "03:12:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004517"
+            },
+            {
+              "stable_id": "asr-004525",
+              "start_seconds": 11563.84,
+              "clock": "03:12:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-004525"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-social-watch-civil-society-exchange",
+      "label": "Social Watch civil-society exchange",
+      "items": [
+        {
+          "label": "Deaf access, service costs and spending visibility",
+          "text": "Martinez said auxiliary sign-language services under Republic Act 7277 remained inadequately implemented despite DSWD's 2003 guidelines. She described unschooled deaf rape survivors allegedly told to learn sign language first, despite court provisions for interpreting, and cited sexual-violence incidence ten times the national average. She reported 35 deaf people arrested without their rights being communicated and criticized an attempted Miranda-rights translation that lacked deaf-community participation.\n\nShe urged accessible services across all agencies rather than reliance on IDs, discounts and VAT exemption. Her examples showed the allowance's limits: PHP 1,000 for an interpreting hour, at least PHP 5,000 for a developmental pediatrician and at least PHP 800 for transport. She said government-wide disability spending remained invisible, criticized reports focused on shelters/facilities rather than the mandates, and distinguished a proposed accounting/governance provision requiring no appropriation from her costed program proposals. The old 1% spending earmark had lapsed, she said, although annual GAA obligations remained.\n\nRex admitted DSWD needed to improve Filipino Sign Language (FSL) implementation. Its academy, operating off-site and expected to open by year-end, would train department and LGU personnel with the Philippine Association of the Deaf. He committed to work with DBM and other agencies on eligible accessibility spending, accessible workplaces and the separate 1% hiring reservation. Martinez identified Komisyon sa Wikang Filipino for FSL-training certification coordination.",
+          "citations": [
+            {
+              "stable_id": "asr-005912",
+              "start_seconds": 13472.8,
+              "clock": "03:44:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005912"
+            },
+            {
+              "stable_id": "asr-005929",
+              "start_seconds": 13500.0,
+              "clock": "03:45:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005929"
+            },
+            {
+              "stable_id": "asr-005951",
+              "start_seconds": 13667.46,
+              "clock": "03:47:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005951"
+            },
+            {
+              "stable_id": "asr-005954",
+              "start_seconds": 13688.94,
+              "clock": "03:48:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005954"
+            },
+            {
+              "stable_id": "asr-005976",
+              "start_seconds": 13823.32,
+              "clock": "03:50:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005976"
+            },
+            {
+              "stable_id": "asr-005977",
+              "start_seconds": 13834.5,
+              "clock": "03:50:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005977"
+            },
+            {
+              "stable_id": "asr-005979",
+              "start_seconds": 13848.82,
+              "clock": "03:50:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005979"
+            },
+            {
+              "stable_id": "asr-005981",
+              "start_seconds": 13857.36,
+              "clock": "03:50:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-005981"
+            },
+            {
+              "stable_id": "asr-006004",
+              "start_seconds": 13948.1,
+              "clock": "03:52:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006004"
+            },
+            {
+              "stable_id": "asr-006096",
+              "start_seconds": 14327.52,
+              "clock": "03:58:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006096"
+            },
+            {
+              "stable_id": "asr-006103",
+              "start_seconds": 14351.36,
+              "clock": "03:59:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006103"
+            },
+            {
+              "stable_id": "asr-006128",
+              "start_seconds": 14416.38,
+              "clock": "04:00:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006128"
+            },
+            {
+              "stable_id": "asr-006147",
+              "start_seconds": 14454.38,
+              "clock": "04:00:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006147"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "proc-older-person-protection-and-closing",
+      "label": "Older-person protection and closing",
+      "items": [
+        {
+          "label": "Pension access and a common beneficiary database",
+          "text": "Beridico cited PSA data showing about 42%, or 4.8 million older people, with no pension and recalled COSE's universal-pension advocacy since 2006. She reported an 80-year-old in Northern Samar still excluded while younger people received assistance and proposed a local senior-registration system linked to NCSC, OSCAs and social-welfare offices, updated on turning 60 or death.\n\nRex said CBMS covered all ages but its first national implementation had substantial exclusions, which he estimated could exceed 30%. Existing pension recipients would not be removed; new slots prioritized the oldest, working down from age 100. DSWD had removed frailty/sickliness as a condition, cross-checked pension records and allowed validated local referrals, including those aged 70 and above. He favored better LGU enumeration and the on-demand validation route over competing databases. Hontiveros floated a common CBMS platform with disaggregated senior data and validated additions as a possible way forward.",
+          "citations": [
+            {
+              "stable_id": "asr-000634",
+              "start_seconds": 2314.3,
+              "clock": "00:38:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000634"
+            },
+            {
+              "stable_id": "asr-000644",
+              "start_seconds": 2335.42,
+              "clock": "00:38:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000644"
+            },
+            {
+              "stable_id": "asr-000648",
+              "start_seconds": 2347.26,
+              "clock": "00:39:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-000648"
+            },
+            {
+              "stable_id": "asr-006167",
+              "start_seconds": 14496.5,
+              "clock": "04:01:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006167"
+            },
+            {
+              "stable_id": "asr-006191",
+              "start_seconds": 14543.94,
+              "clock": "04:02:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006191"
+            },
+            {
+              "stable_id": "asr-006222",
+              "start_seconds": 14605.62,
+              "clock": "04:03:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006222"
+            },
+            {
+              "stable_id": "asr-006294",
+              "start_seconds": 14750.36,
+              "clock": "04:05:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006294"
+            },
+            {
+              "stable_id": "asr-006299",
+              "start_seconds": 14759.42,
+              "clock": "04:05:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006299"
+            },
+            {
+              "stable_id": "asr-006312",
+              "start_seconds": 14786.26,
+              "clock": "04:06:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006312"
+            },
+            {
+              "stable_id": "asr-006334",
+              "start_seconds": 14829.68,
+              "clock": "04:07:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006334"
+            }
+          ]
+        },
+        {
+          "label": "Conditional endorsement for plenary",
+          "text": "Hontiveros endorsed the FY 2027 DSWD and attached/supervised-agency budgets, including NAPC and PCUP, for Senate plenary consideration, subject to colleagues' clarifications and the day's commitments. She recognized the agencies' work while stressing timely, accurate and adequate protection amid fiscal constraints, El Nino and rising costs. This was conditional endorsement for consideration, not appropriation approval.",
+          "citations": [
+            {
+              "stable_id": "asr-006358",
+              "start_seconds": 14877.76,
+              "clock": "04:07:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006358"
+            },
+            {
+              "stable_id": "asr-006389",
+              "start_seconds": 14938.24,
+              "clock": "04:08:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006389"
+            },
+            {
+              "stable_id": "asr-006399",
+              "start_seconds": 14966.88,
+              "clock": "04:09:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006399"
+            },
+            {
+              "stable_id": "asr-006402",
+              "start_seconds": 14972.88,
+              "clock": "04:09:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-006402"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1756 @@
+{
+  "hearing": {
+    "id": 99,
+    "title": "Senate Committee on Finance: OVP - October 20, 2026",
+    "hearing_date": "2026-10-20",
+    "official_url": "https://www.youtube.com/watch?v=YmxlFfo5_f0"
+  },
+  "revision_id": 9079,
+  "revision_number": 11,
+  "notice": "AI-assisted working draft. AI can make errors. Always check quotations, names, rulings, and other consequential details against the official video.",
+  "segments": [
+    {
+      "stable_id": "asr-000041",
+      "start_seconds": 1162.97,
+      "end_seconds": 1169.98,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Today's briefing, the briefing of the fiscal year 2027 proposed expenditure"
+    },
+    {
+      "stable_id": "asr-000042",
+      "start_seconds": 1170.0,
+      "end_seconds": 1188.08,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "program of the Office of the Vice President is now called to order. I would like to acknowledge the presence of our Senate President Win, and likewise Senator Imee Marcos. Thank you for attending today's hearing. I would like to ask the Committee Secretary to acknowledge the resource persons present for today."
+    },
+    {
+      "stable_id": "asr-000042-split-2",
+      "start_seconds": 1188.08,
+      "end_seconds": 1199.98,
+      "speaker": "Committee Secretary",
+      "text": "Thank you, Mr. Chair. Good morning. Good morning also to our Senate President and Senator Marcos. For the briefing on the proposed FY 2027 budget of the Office of the Vice President, I would like to acknowledge our resource persons from"
+    },
+    {
+      "stable_id": "asr-000043",
+      "start_seconds": 1200.0,
+      "end_seconds": 1229.98,
+      "speaker": "Committee Secretary",
+      "text": "the OVP. We have Attorney Zuleica Lopez, Assistant Secretary Lemwel Ortono, Attorney Rosely Sanchez, Attorney Sunshine Chari Faarda, Director Norman Baloro, Attorney Emily Rose Torentira, Attorney Kelvin Jerome Pe[unclear], Miss Julieta Villed Rey, Mr. Ard Eje, and Mr. Simon Jezer Lao. We have also invited representatives from the DBM and COA. From DBM, we have Assistant Director Lulu Vispo, Miss Lorian Jaivier, Mr."
+    },
+    {
+      "stable_id": "asr-000044",
+      "start_seconds": 1230.0,
+      "end_seconds": 1240.12,
+      "speaker": "Committee Secretary",
+      "text": "George Catalan, Mr. Edward J. Perales, and Miss Queen Valerie Macaspak. For COA, we have Mr. Fahad bin Abdul Malik Tumawis and Miss Zara Jane Tegalan. Thank you, Mr. Chair."
+    },
+    {
+      "stable_id": "asr-000044-split-2",
+      "start_seconds": 1240.12,
+      "end_seconds": 1259.98,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you, our Committee Secretary. Ladies, gentlemen, honorable colleagues in the Senate, guests and resource persons to the Office of the Vice President, a pleasant morning to everyone as we open today's budget hearing of the proposed 2027 budget of the OVP. We recognize the vital role of the Office of the Vice President as a platform for public"
+    },
+    {
+      "stable_id": "asr-000045",
+      "start_seconds": 1260.0,
+      "end_seconds": 1289.98,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "service through socioeconomic and support programs. Being the second highest executive office of the Philippine government, it shall maintain outstanding delivery of its local programs, dignified international networks and resilient sustainable solutions to the countrywide challenges. For this budget deliberation, we endeavor to efficiently utilize the fiscal resources to meet short and long-term projections, strengthen national readiness and enhance responsiveness to the needs of the"
+    },
+    {
+      "stable_id": "asr-000046",
+      "start_seconds": 1290.0,
+      "end_seconds": 1319.98,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Filipino people. Moving forward, this representation acknowledges the tradition of interparliamentary courtesy in respect to the Office of the Vice President, while also assuring the public that the fiscal year 2027 proposed expenditure is taken up with due diligence. Thank you very much. So, before we proceed, I would like to ask our Senate President if he has any remarks."
+    },
+    {
+      "stable_id": "asr-000047",
+      "start_seconds": 1320.0,
+      "end_seconds": 1320.62,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Thank you, Mr. Chairman."
+    },
+    {
+      "stable_id": "asr-000048",
+      "start_seconds": 1321.2,
+      "end_seconds": 1332.08,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Mr. Chairman, binabasa ko itong budget ng OVP and nakita ko na compared to last year, it went down by 11%."
+    },
+    {
+      "stable_id": "asr-000049",
+      "start_seconds": 1332.08,
+      "end_seconds": 1341.8600000000001,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "It went down by approximately from P889 million to P785 million."
+    },
+    {
+      "stable_id": "asr-000050",
+      "start_seconds": 1343.92,
+      "end_seconds": 1349.8600000000001,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "And nakita ko rin na ang kanilang main program ay yung social..."
+    },
+    {
+      "stable_id": "asr-000051",
+      "start_seconds": 1350.0,
+      "end_seconds": 1358.84,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "social economic program na tumutulong sa ating mga constituents."
+    },
+    {
+      "stable_id": "asr-000052",
+      "start_seconds": 1359.18,
+      "end_seconds": 1362.82,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "And I saw various components of that program."
+    },
+    {
+      "stable_id": "asr-000053",
+      "start_seconds": 1362.82,
+      "end_seconds": 1374.38,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "So with that, nakita ko na the Office of the Vice President is spending their budget as efficiently, as wisely as possible."
+    },
+    {
+      "stable_id": "asr-000054",
+      "start_seconds": 1375.44,
+      "end_seconds": 1379.82,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Of course, bilang Vice President, meron din silang mga..."
+    },
+    {
+      "stable_id": "asr-000055",
+      "start_seconds": 1380.0,
+      "end_seconds": 1381.8,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "kailangan tulungan."
+    },
+    {
+      "stable_id": "asr-000056",
+      "start_seconds": 1382.18,
+      "end_seconds": 1386.28,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Bilang kayo, mga politicians, marami talagang lumalapit sa amin."
+    },
+    {
+      "stable_id": "asr-000057",
+      "start_seconds": 1387.1,
+      "end_seconds": 1390.84,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "I'm sure kay Vice President, marami rin lumalapit ang humingi ng tulong."
+    },
+    {
+      "stable_id": "asr-000058",
+      "start_seconds": 1391.38,
+      "end_seconds": 1401.8600000000001,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "At itong social economic program will be a tool for her to help her constituents, or our constituents for that matter,"
+    },
+    {
+      "stable_id": "asr-000059",
+      "start_seconds": 1402.02,
+      "end_seconds": 1406.22,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "para mabigyan naman ng relief yung ating mga constituents."
+    },
+    {
+      "stable_id": "asr-000060",
+      "start_seconds": 1406.7,
+      "end_seconds": 1408.76,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "So I only have one question."
+    },
+    {
+      "stable_id": "asr-000061",
+      "start_seconds": 1408.76,
+      "end_seconds": 1414.2,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Atty. Zulaika, bilang Chief of Staff, may I know where is the Vice President?"
+    },
+    {
+      "stable_id": "asr-000062",
+      "start_seconds": 1415.6399999999999,
+      "end_seconds": 1426.08,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Traditionally kasi pag ganitong mga budget deliberation, the Head of Office comes here to defend their budget."
+    },
+    {
+      "stable_id": "asr-000063",
+      "start_seconds": 1426.46,
+      "end_seconds": 1430.5,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Alam mo naman yan. You've been here for the last four years."
+    },
+    {
+      "stable_id": "asr-000064",
+      "start_seconds": 1432.78,
+      "end_seconds": 1437.26,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "And traditionally, even last year when I was the Chairman of the Finance Committee,"
+    },
+    {
+      "stable_id": "asr-000065",
+      "start_seconds": 1438.76,
+      "end_seconds": 1442.0,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "the Vice President took time to come here to defend her budget."
+    },
+    {
+      "stable_id": "asr-000066",
+      "start_seconds": 1442.48,
+      "end_seconds": 1447.0,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "So may I know, for the record, kung nasaan ang ating butihing Vice President?"
+    },
+    {
+      "stable_id": "asr-000067",
+      "start_seconds": 1447.28,
+      "end_seconds": 1449.24,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "Yes. Thank you, Your Honor."
+    },
+    {
+      "stable_id": "asr-000068",
+      "start_seconds": 1449.24,
+      "end_seconds": 1450.6,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "Good morning, ladies and gentlemen."
+    },
+    {
+      "stable_id": "asr-000069",
+      "start_seconds": 1450.8,
+      "end_seconds": 1459.02,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "The Vice President is actually representing former President Rodrigo Roa Duterte"
+    },
+    {
+      "stable_id": "asr-000070",
+      "start_seconds": 1459.02,
+      "end_seconds": 1465.52,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "in the inurnment of our long-serving city planner in Davao City."
+    },
+    {
+      "stable_id": "asr-000071",
+      "start_seconds": 1465.98,
+      "end_seconds": 1468.74,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "So the schedule for the inurnment  is today, October 20."
+    },
+    {
+      "stable_id": "asr-000072",
+      "start_seconds": 1468.76,
+      "end_seconds": 1472.26,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "So she's the representative of the former President."
+    },
+    {
+      "stable_id": "asr-000073",
+      "start_seconds": 1474.1399999999999,
+      "end_seconds": 1477.08,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Is that in the country or outside of the country?"
+    },
+    {
+      "stable_id": "asr-000074",
+      "start_seconds": 1477.2,
+      "end_seconds": 1478.22,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "Just in the country, Your Honor."
+    },
+    {
+      "stable_id": "asr-000075",
+      "start_seconds": 1478.22,
+      "end_seconds": 1479.0,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Just in the country."
+    },
+    {
+      "stable_id": "asr-000076",
+      "start_seconds": 1479.42,
+      "end_seconds": 1491.32,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Well, we hope that sa plenary, we would welcome her presence to further defend her budget."
+    },
+    {
+      "stable_id": "asr-000077",
+      "start_seconds": 1491.52,
+      "end_seconds": 1492.32,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "This is the first step."
+    },
+    {
+      "stable_id": "asr-000078",
+      "start_seconds": 1492.48,
+      "end_seconds": 1494.8,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "Alam mo naman yan, may second step pa tayo, which is plenary."
+    },
+    {
+      "stable_id": "asr-000080",
+      "start_seconds": 1495.48,
+      "end_seconds": 1498.74,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "And we would hope that she can give time."
+    },
+    {
+      "stable_id": "asr-000081",
+      "start_seconds": 1498.76,
+      "end_seconds": 1502.98,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "We would hope that she can give time to represent her office and defend her budget in plenary."
+    },
+    {
+      "stable_id": "asr-000082",
+      "start_seconds": 1503.3400000000001,
+      "end_seconds": 1503.82,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "Yes, Your Honor."
+    },
+    {
+      "stable_id": "asr-000083",
+      "start_seconds": 1503.8400000000001,
+      "end_seconds": 1509.3,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "But at this time, during the committee level, I'll leave it to our Chairman,"
+    },
+    {
+      "stable_id": "asr-000084",
+      "start_seconds": 1509.5,
+      "end_seconds": 1513.54,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "who is the one spearheading the budget of the entire bureaucracy."
+    },
+    {
+      "stable_id": "asr-000085",
+      "start_seconds": 1513.88,
+      "end_seconds": 1523.1399999999999,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "So I'll leave the shepherding to him on the budget of the OVP."
+    },
+    {
+      "stable_id": "asr-000086",
+      "start_seconds": 1523.54,
+      "end_seconds": 1525.26,
+      "speaker": "Senator Sherwin \"Win\" T. Gatchalian",
+      "text": "So with that, Mr. Chairman, maraming salamat."
+    },
+    {
+      "stable_id": "asr-000087",
+      "start_seconds": 1526.74,
+      "end_seconds": 1528.4,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you, our Senate President."
+    },
+    {
+      "stable_id": "asr-000088",
+      "start_seconds": 1528.76,
+      "end_seconds": 1531.3400000000001,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Likewise, the Chair would like to acknowledge the presence of Senator Bong Go."
+    },
+    {
+      "stable_id": "asr-000089",
+      "start_seconds": 1532.08,
+      "end_seconds": 1536.8400000000001,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "At this point, I'd like to open the floor to our colleagues if there are any questions for the OVP."
+    },
+    {
+      "stable_id": "asr-000090",
+      "start_seconds": 1537.8600000000001,
+      "end_seconds": 1538.82,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Yes, Senator Marcos."
+    },
+    {
+      "stable_id": "asr-000091",
+      "start_seconds": 1539.26,
+      "end_seconds": 1540.3400000000001,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "Yes, Chairman."
+    },
+    {
+      "stable_id": "asr-000092",
+      "start_seconds": 1540.48,
+      "end_seconds": 1546.38,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "Thank you very much and welcome to the Office of the Vice President, to the halls of the Senate."
+    },
+    {
+      "stable_id": "asr-000093",
+      "start_seconds": 1546.38,
+      "end_seconds": 1558.74,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "At gusto ko lang sumali dun sa sinabi ng ating mahal na Chairman, si JV, na i-extend na lang yung traditional courtesy natin."
+    },
+    {
+      "stable_id": "asr-000094",
+      "start_seconds": 1558.76,
+      "end_seconds": 1566.58,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "Sa ating mga executive offices, as we do, to the other house, the House of Representatives."
+    },
+    {
+      "stable_id": "asr-000095",
+      "start_seconds": 1567.3400000000001,
+      "end_seconds": 1574.06,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "At kahit wala rito ang Pangulo, kahit wala yung pangalawang Pangulo, e talagang namang hinahayaan."
+    },
+    {
+      "stable_id": "asr-000096",
+      "start_seconds": 1574.1399999999999,
+      "end_seconds": 1579.04,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "Higit sa lahat, nabawasan pa yung budget ninyo ng higit sa 11%."
+    },
+    {
+      "stable_id": "asr-000097",
+      "start_seconds": 1579.04,
+      "end_seconds": 1585.76,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "Kaya't ang tanging tanong ko na lamang is maliban dun sa sinasabing mga..."
+    },
+    {
+      "stable_id": "asr-000098",
+      "start_seconds": 1588.76,
+      "end_seconds": 1592.94,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "Socio-economic programs, ano ba talaga ang mababawasan?"
+    },
+    {
+      "stable_id": "asr-000099",
+      "start_seconds": 1593.1399999999999,
+      "end_seconds": 1599.76,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "Kasi alam ko maraming tulong, ako yung nakasama sa mag-negosyo-taday na iba't-ibang mga opening ninyo."
+    },
+    {
+      "stable_id": "asr-000100",
+      "start_seconds": 1600.1599999999999,
+      "end_seconds": 1604.32,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "Ano ang matatamaan at mapeperwisyo ba yung mga beneficiaries natin?"
+    },
+    {
+      "stable_id": "asr-000101",
+      "start_seconds": 1606.38,
+      "end_seconds": 1614.76,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "At the outset, Your Honor, much of the budget is really because there is a reprogramming or recalibration of our programs."
+    },
+    {
+      "stable_id": "asr-000102",
+      "start_seconds": 1615.26,
+      "end_seconds": 1618.74,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "One good example could be, as you mentioned, the mag-negosyo-taday."
+    },
+    {
+      "stable_id": "asr-000103",
+      "start_seconds": 1618.76,
+      "end_seconds": 1629.02,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "This year, we're concentrating on monitoring and evaluation and checking if it actually has made impact, this particular program."
+    },
+    {
+      "stable_id": "asr-000104",
+      "start_seconds": 1629.1599999999999,
+      "end_seconds": 1636.3400000000001,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "Therefore, we have identified a reduced number of beneficiaries and target beneficiaries for the year."
+    },
+    {
+      "stable_id": "asr-000105",
+      "start_seconds": 1636.76,
+      "end_seconds": 1641.6799999999998,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "Another example could be, maybe we can have our Director for Operations, Pagbabago."
+    },
+    {
+      "stable_id": "asr-000106",
+      "start_seconds": 1641.8600000000001,
+      "end_seconds": 1647.1799999999998,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "Thank you, Yusek. Madam Chair, this is with regard to our Pagbabago a Million Learners campaign."
+    },
+    {
+      "stable_id": "asr-000107",
+      "start_seconds": 1647.18,
+      "end_seconds": 1656.2800000000002,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "We are about to reach already our target, which is 1 million learners to be given with the Pagbabago bags, with raincoats and dental kits as well."
+    },
+    {
+      "stable_id": "asr-000108",
+      "start_seconds": 1656.52,
+      "end_seconds": 1666.8200000000002,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "So parang yun na rin po, parang napakasaya na rin po namin dahil hindi naaabot ng 2028, ma-re-reach na rin po namin yung goal namin for the 1 million learners."
+    },
+    {
+      "stable_id": "asr-000109",
+      "start_seconds": 1667.14,
+      "end_seconds": 1672.48,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "Thank you and congratulations on the early attainment of the goals stated, your targets."
+    },
+    {
+      "stable_id": "asr-000110",
+      "start_seconds": 1672.48,
+      "end_seconds": 1676.98,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "At syempre, gusto rin namin malaman dun sa mag-negosyo-taday."
+    },
+    {
+      "stable_id": "asr-000111",
+      "start_seconds": 1677.18,
+      "end_seconds": 1686.18,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "Kung ilan dun talaga tuloy-tuloy na nag-negosyo, kasi maganda yung sinasabing nyo, kulang na kulang ang monitoring at evaluation sa buong pamahalaan."
+    },
+    {
+      "stable_id": "asr-000112",
+      "start_seconds": 1687.3000000000002,
+      "end_seconds": 1694.42,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "At mahusay naman that we take a step back and assess the success and the accomplishment in our actual projects."
+    },
+    {
+      "stable_id": "asr-000113",
+      "start_seconds": 1694.8600000000001,
+      "end_seconds": 1701.04,
+      "speaker": "Senator Imee R. Marcos",
+      "text": "With that, I move that we endorse the budget of the Vice President to the plenary."
+    },
+    {
+      "stable_id": "asr-000114",
+      "start_seconds": 1702.0,
+      "end_seconds": 1705.7,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Thank you, Senator Marcos. But before that, I would like to ask Senator Bong Go."
+    },
+    {
+      "stable_id": "asr-000115",
+      "start_seconds": 1707.18,
+      "end_seconds": 1716.66,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "Mr. Chair, good morning po sa lahat ng officials ng OVP. Maraming salamat po sa inyong servisyo, patuloy na servisyo sa ating mga kababayan."
+    },
+    {
+      "stable_id": "asr-000116",
+      "start_seconds": 1716.8000000000002,
+      "end_seconds": 1722.06,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "I just want to express my strong support for the proposed budget of the Office of the Vice President."
+    },
+    {
+      "stable_id": "asr-000117",
+      "start_seconds": 1722.6,
+      "end_seconds": 1732.42,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "Napansin ko po from 2026 na bawasan pa kayo from 800 million to naging 700 plus na lang million."
+    },
+    {
+      "stable_id": "asr-000118",
+      "start_seconds": 1733.42,
+      "end_seconds": 1734.06,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "Ngunit patuloy..."
+    },
+    {
+      "stable_id": "asr-000119",
+      "start_seconds": 1735.3000000000002,
+      "end_seconds": 1736.06,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "This year po, napansin ko po..."
+    },
+    {
+      "stable_id": "asr-000120",
+      "start_seconds": 1737.18,
+      "end_seconds": 1745.96,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "Despite the Office's limited budget, nagkaroon po ang OVP ng mga programang nagbibigay ng tunay na beneficyo sa ating mamamayan."
+    },
+    {
+      "stable_id": "asr-000121",
+      "start_seconds": 1746.6200000000001,
+      "end_seconds": 1754.18,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "From disaster operations, patuloy po ang inyong tulong, pangkabuhayan programs at libring sakay, among others, patuloy po ito."
+    },
+    {
+      "stable_id": "asr-000122",
+      "start_seconds": 1754.96,
+      "end_seconds": 1759.9,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "At napagkasha nyo po ang inyong pondo. Salamat po sa inyong lahat."
+    },
+    {
+      "stable_id": "asr-000123",
+      "start_seconds": 1761.2,
+      "end_seconds": 1767.1,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "These are just some of the programs of the Office of the Vice President that provide meaningful assistance to our fellow Filipinos."
+    },
+    {
+      "stable_id": "asr-000124",
+      "start_seconds": 1767.18,
+      "end_seconds": 1777.5,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "Despite its annual limited budget, the OVP continues to carry out its mandate and deliver services to those who need them most."
+    },
+    {
+      "stable_id": "asr-000125",
+      "start_seconds": 1777.9,
+      "end_seconds": 1780.4,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "Kumusta po inyong libring sakay?"
+    },
+    {
+      "stable_id": "asr-000126",
+      "start_seconds": 1781.14,
+      "end_seconds": 1782.66,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "Sa inyong tuloy-tuloy po ba?"
+    },
+    {
+      "stable_id": "asr-000127",
+      "start_seconds": 1785.9,
+      "end_seconds": 1791.1,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "Yes, sir. Very operational po yung ating libring sakay."
+    },
+    {
+      "stable_id": "asr-000128",
+      "start_seconds": 1791.1,
+      "end_seconds": 1794.1,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "We have nine buses already, sir. It is deployed in..."
+    },
+    {
+      "stable_id": "asr-000129",
+      "start_seconds": 1794.64,
+      "end_seconds": 1797.1,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "Particularly, we have in EDSA Carousel, Monumento"
+    },
+    {
+      "stable_id": "asr-000130",
+      "start_seconds": 1797.18,
+      "end_seconds": 1798.7800000000002,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "to PITX, we have two buses."
+    },
+    {
+      "stable_id": "asr-000131",
+      "start_seconds": 1799.3400000000001,
+      "end_seconds": 1800.02,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "We have also two..."
+    },
+    {
+      "stable_id": "asr-000132",
+      "start_seconds": 1800.0,
+      "end_seconds": 1802.06,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "buses operating in"
+    },
+    {
+      "stable_id": "asr-000133",
+      "start_seconds": 1802.06,
+      "end_seconds": 1803.98,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "the Commonwealth and Quiapo, it's"
+    },
+    {
+      "stable_id": "asr-000134",
+      "start_seconds": 1803.98,
+      "end_seconds": 1805.88,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "vice versa. We have also P-TEX to"
+    },
+    {
+      "stable_id": "asr-000135",
+      "start_seconds": 1805.88,
+      "end_seconds": 1807.98,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "Naic, Cavite, and we have one"
+    },
+    {
+      "stable_id": "asr-000136",
+      "start_seconds": 1807.98,
+      "end_seconds": 1809.82,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "in Bacolod, one in"
+    },
+    {
+      "stable_id": "asr-000137",
+      "start_seconds": 1809.82,
+      "end_seconds": 1811.96,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "Cebu City, one in Davao, and"
+    },
+    {
+      "stable_id": "asr-000138",
+      "start_seconds": 1811.96,
+      "end_seconds": 1814.1,
+      "speaker": "OVP Director Norman Baloro",
+      "text": "one in Tacloban City, Your Honor."
+    },
+    {
+      "stable_id": "asr-000139",
+      "start_seconds": 1816.0,
+      "end_seconds": 1818.16,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "Salamat po, at nakikita ko"
+    },
+    {
+      "stable_id": "asr-000140",
+      "start_seconds": 1818.16,
+      "end_seconds": 1819.9,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "maraming natutulungan po ito."
+    },
+    {
+      "stable_id": "asr-000141",
+      "start_seconds": 1820.4,
+      "end_seconds": 1821.48,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "At ako mismo,"
+    },
+    {
+      "stable_id": "asr-000142",
+      "start_seconds": 1821.76,
+      "end_seconds": 1823.9,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "nung mga nakaraang taon, ay tayo rin po"
+    },
+    {
+      "stable_id": "asr-000143",
+      "start_seconds": 1823.9,
+      "end_seconds": 1825.92,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "sumuporta sa programang"
+    },
+    {
+      "stable_id": "asr-000144",
+      "start_seconds": 1825.92,
+      "end_seconds": 1827.94,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "ito. Sana po'y maipagpatuloy"
+    },
+    {
+      "stable_id": "asr-000145",
+      "start_seconds": 1827.94,
+      "end_seconds": 1829.6,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "nyo ito. Nakakatulong talaga sa ating mga"
+    },
+    {
+      "stable_id": "asr-000146",
+      "start_seconds": 1829.6,
+      "end_seconds": 1831.82,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "kababayan. Sa totoo lamang po,"
+    },
+    {
+      "stable_id": "asr-000147",
+      "start_seconds": 1831.88,
+      "end_seconds": 1833.66,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "inihalal ang Vice President na hindi"
+    },
+    {
+      "stable_id": "asr-000148",
+      "start_seconds": 1833.66,
+      "end_seconds": 1835.8,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "lamang para umupo sa pwesto at maging"
+    },
+    {
+      "stable_id": "asr-000149",
+      "start_seconds": 1835.8,
+      "end_seconds": 1837.98,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "spare tire. Inihalal"
+    },
+    {
+      "stable_id": "asr-000150",
+      "start_seconds": 1837.98,
+      "end_seconds": 1839.44,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "po siya para maging working"
+    },
+    {
+      "stable_id": "asr-000151",
+      "start_seconds": 1839.44,
+      "end_seconds": 1841.78,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "Vice President para maglingkod at tumugon"
+    },
+    {
+      "stable_id": "asr-000152",
+      "start_seconds": 1841.78,
+      "end_seconds": 1843.6,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "sa pangangailangan ng ating mga"
+    },
+    {
+      "stable_id": "asr-000153",
+      "start_seconds": 1843.6,
+      "end_seconds": 1845.86,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "kababayan. Lahat po tayo"
+    },
+    {
+      "stable_id": "asr-000154",
+      "start_seconds": 1845.86,
+      "end_seconds": 1847.8,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "ay public servants. We are meant"
+    },
+    {
+      "stable_id": "asr-000155",
+      "start_seconds": 1847.8,
+      "end_seconds": 1849.18,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "to serve the Filipino people."
+    },
+    {
+      "stable_id": "asr-000156",
+      "start_seconds": 1849.8,
+      "end_seconds": 1852.14,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "Basic mandate po ang tumulong"
+    },
+    {
+      "stable_id": "asr-000157",
+      "start_seconds": 1852.14,
+      "end_seconds": 1853.76,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "lalo na sa nangangailangan ng social"
+    },
+    {
+      "stable_id": "asr-000158",
+      "start_seconds": 1853.76,
+      "end_seconds": 1856.0,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "services. Salamat"
+    },
+    {
+      "stable_id": "asr-000159",
+      "start_seconds": 1856.0,
+      "end_seconds": 1857.66,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "po sa inyong lahat, despite"
+    },
+    {
+      "stable_id": "asr-000160",
+      "start_seconds": 1857.66,
+      "end_seconds": 1859.7,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "your limited budget, patuloy"
+    },
+    {
+      "stable_id": "asr-000161",
+      "start_seconds": 1859.7,
+      "end_seconds": 1861.6,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "kayong nagsiservisyo. Nandito"
+    },
+    {
+      "stable_id": "asr-000162",
+      "start_seconds": 1861.6,
+      "end_seconds": 1863.62,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "lamang po kami, kahit isang boto lamang po"
+    },
+    {
+      "stable_id": "asr-000163",
+      "start_seconds": 1863.62,
+      "end_seconds": 1865.7,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "ako para sumuporta po sa"
+    },
+    {
+      "stable_id": "asr-000164",
+      "start_seconds": 1865.7,
+      "end_seconds": 1867.02,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "inyong opisina. Basta"
+    },
+    {
+      "stable_id": "asr-000165",
+      "start_seconds": 1867.02,
+      "end_seconds": 1869.74,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "makakatulong po ng mga programa sa ating"
+    },
+    {
+      "stable_id": "asr-000166",
+      "start_seconds": 1869.74,
+      "end_seconds": 1871.7,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "mga kababayan Pilipino. Lalong-lalo na po"
+    },
+    {
+      "stable_id": "asr-000167",
+      "start_seconds": 1871.7,
+      "end_seconds": 1873.84,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "yung mga mahirap. Salamat po sa inyo."
+    },
+    {
+      "stable_id": "asr-000168",
+      "start_seconds": 1874.26,
+      "end_seconds": 1875.76,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "With that, Mr. Chair, I second"
+    },
+    {
+      "stable_id": "asr-000169",
+      "start_seconds": 1875.76,
+      "end_seconds": 1877.7,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "the motion to submit and recommend"
+    },
+    {
+      "stable_id": "asr-000170",
+      "start_seconds": 1877.7,
+      "end_seconds": 1879.72,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "to the plenary the proposed budget of"
+    },
+    {
+      "stable_id": "asr-000171",
+      "start_seconds": 1879.72,
+      "end_seconds": 1881.7,
+      "speaker": "Senator Christopher Lawrence T. Go",
+      "text": "the OVP for 2027."
+    },
+    {
+      "stable_id": "asr-000172",
+      "start_seconds": 1883.36,
+      "end_seconds": 1883.62,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Yes,"
+    },
+    {
+      "stable_id": "asr-000173",
+      "start_seconds": 1883.74,
+      "end_seconds": 1885.36,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "we take note of the two"
+    },
+    {
+      "stable_id": "asr-000174",
+      "start_seconds": 1885.36,
+      "end_seconds": 1886.58,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "motions by"
+    },
+    {
+      "stable_id": "asr-000175",
+      "start_seconds": 1886.58,
+      "end_seconds": 1889.12,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Senator Marcos and Senator"
+    },
+    {
+      "stable_id": "asr-000176",
+      "start_seconds": 1889.12,
+      "end_seconds": 1889.96,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Bongo. However,"
+    },
+    {
+      "stable_id": "asr-000177",
+      "start_seconds": 1890.6,
+      "end_seconds": 1893.36,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "it is worth noting that"
+    },
+    {
+      "stable_id": "asr-000178",
+      "start_seconds": 1893.36,
+      "end_seconds": 1895.36,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "among the agencies and departments"
+    },
+    {
+      "stable_id": "asr-000179",
+      "start_seconds": 1895.36,
+      "end_seconds": 1897.34,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "being the chairman of the Committee on Finance"
+    },
+    {
+      "stable_id": "asr-000180",
+      "start_seconds": 1897.34,
+      "end_seconds": 1899.26,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "this year, lahat po talaga"
+    },
+    {
+      "stable_id": "asr-000181",
+      "start_seconds": 1899.26,
+      "end_seconds": 1901.36,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "natural na humingi ng taas"
+    },
+    {
+      "stable_id": "asr-000182",
+      "start_seconds": 1901.36,
+      "end_seconds": 1903.58,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "ng raise, ng increase"
+    },
+    {
+      "stable_id": "asr-000183",
+      "start_seconds": 1903.58,
+      "end_seconds": 1905.44,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "in most"
+    },
+    {
+      "stable_id": "asr-000184",
+      "start_seconds": 1905.44,
+      "end_seconds": 1906.2,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "if not"
+    },
+    {
+      "stable_id": "asr-000185",
+      "start_seconds": 1906.2,
+      "end_seconds": 1909.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "majority of the"
+    },
+    {
+      "stable_id": "asr-000186",
+      "start_seconds": 1909.1,
+      "end_seconds": 1911.18,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "departments are appealing"
+    },
+    {
+      "stable_id": "asr-000187",
+      "start_seconds": 1911.18,
+      "end_seconds": 1912.52,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "to increase their budgets."
+    },
+    {
+      "stable_id": "asr-000188",
+      "start_seconds": 1912.52,
+      "end_seconds": 1914.64,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "And OBP is just"
+    },
+    {
+      "stable_id": "asr-000189",
+      "start_seconds": 1914.64,
+      "end_seconds": 1916.42,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "one of the departments of the very few."
+    },
+    {
+      "stable_id": "asr-000190",
+      "start_seconds": 1916.58,
+      "end_seconds": 1918.06,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Just like the Senate."
+    },
+    {
+      "stable_id": "asr-000191",
+      "start_seconds": 1918.36,
+      "end_seconds": 1920.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Ang Senate po, nagbabaho kami under"
+    },
+    {
+      "stable_id": "asr-000192",
+      "start_seconds": 1920.1,
+      "end_seconds": 1922.48,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "the leadership"
+    },
+    {
+      "stable_id": "asr-000193",
+      "start_seconds": 1922.48,
+      "end_seconds": 1923.78,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "of our Senate President."
+    },
+    {
+      "stable_id": "asr-000194",
+      "start_seconds": 1924.88,
+      "end_seconds": 1925.84,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "The Senate"
+    },
+    {
+      "stable_id": "asr-000195",
+      "start_seconds": 1925.84,
+      "end_seconds": 1927.56,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "has a lower"
+    },
+    {
+      "stable_id": "asr-000196",
+      "start_seconds": 1927.56,
+      "end_seconds": 1930.24,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "budget this year by 1 billion."
+    },
+    {
+      "stable_id": "asr-000197",
+      "start_seconds": 1930.72,
+      "end_seconds": 1932.42,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "And I noticed that the"
+    },
+    {
+      "stable_id": "asr-000198",
+      "start_seconds": 1932.42,
+      "end_seconds": 1934.6,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "OBP is less. Almost"
+    },
+    {
+      "stable_id": "asr-000199",
+      "start_seconds": 1934.6,
+      "end_seconds": 1936.44,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "86 million po ang inyong"
+    },
+    {
+      "stable_id": "asr-000200",
+      "start_seconds": 1936.44,
+      "end_seconds": 1938.58,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "naibawas"
+    },
+    {
+      "stable_id": "asr-000201",
+      "start_seconds": 1938.58,
+      "end_seconds": 1939.66,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "from compared to the"
+    },
+    {
+      "stable_id": "asr-000202",
+      "start_seconds": 1939.66,
+      "end_seconds": 1940.88,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "2027"
+    },
+    {
+      "stable_id": "asr-000203",
+      "start_seconds": 1940.88,
+      "end_seconds": 1944.3,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "GAA. Am I correct?"
+    },
+    {
+      "stable_id": "asr-000204",
+      "start_seconds": 1944.3,
+      "end_seconds": 1946.34,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Tama po. So, ang tanong ko lang po,"
+    },
+    {
+      "stable_id": "asr-000205",
+      "start_seconds": 1946.58,
+      "end_seconds": 1948.62,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "do you still intend"
+    },
+    {
+      "stable_id": "asr-000206",
+      "start_seconds": 1948.62,
+      "end_seconds": 1950.3,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "to continue with the, I think that"
+    },
+    {
+      "stable_id": "asr-000207",
+      "start_seconds": 1950.3,
+      "end_seconds": 1951.82,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "that's a good program, yung inyong"
+    },
+    {
+      "stable_id": "asr-000208",
+      "start_seconds": 1951.82,
+      "end_seconds": 1954.46,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "negosyo, magnegosyo ka dahil, and"
+    },
+    {
+      "stable_id": "asr-000209",
+      "start_seconds": 1954.46,
+      "end_seconds": 1956.42,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "yung libre sakay,"
+    },
+    {
+      "stable_id": "asr-000210",
+      "start_seconds": 1956.54,
+      "end_seconds": 1958.3,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "any updates lang, sayang doon. Because"
+    },
+    {
+      "stable_id": "asr-000211",
+      "start_seconds": 1958.3,
+      "end_seconds": 1960.56,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "now that we have a crisis,"
+    },
+    {
+      "stable_id": "asr-000212",
+      "start_seconds": 1960.76,
+      "end_seconds": 1962.44,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "malaking tulong po sana yan,"
+    },
+    {
+      "stable_id": "asr-000213",
+      "start_seconds": 1962.6,
+      "end_seconds": 1964.58,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "kung itutuloy, and we will support that"
+    },
+    {
+      "stable_id": "asr-000214",
+      "start_seconds": 1964.58,
+      "end_seconds": 1966.74,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "dahil it will at least"
+    },
+    {
+      "stable_id": "asr-000215",
+      "start_seconds": 1966.74,
+      "end_seconds": 1968.46,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "fill in the gaps."
+    },
+    {
+      "stable_id": "asr-000216",
+      "start_seconds": 1968.68,
+      "end_seconds": 1969.6,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Because of the,"
+    },
+    {
+      "stable_id": "asr-000217",
+      "start_seconds": 1970.28,
+      "end_seconds": 1971.38,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "minsan yung iba ayaw"
+    },
+    {
+      "stable_id": "asr-000218",
+      "start_seconds": 1971.38,
+      "end_seconds": 1973.28,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "nang bumiyahe dahil sa taas ng presyo"
+    },
+    {
+      "stable_id": "asr-000219",
+      "start_seconds": 1973.28,
+      "end_seconds": 1975.46,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "ng krudo"
+    },
+    {
+      "stable_id": "asr-000220",
+      "start_seconds": 1975.46,
+      "end_seconds": 1976.56,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "na nalulugi"
+    },
+    {
+      "stable_id": "asr-000221",
+      "start_seconds": 1976.58,
+      "end_seconds": 1978.56,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "sila. So, sige po,"
+    },
+    {
+      "stable_id": "asr-000222",
+      "start_seconds": 1978.62,
+      "end_seconds": 1980.54,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Atty. Zuleyka, can you"
+    },
+    {
+      "stable_id": "asr-000223",
+      "start_seconds": 1980.54,
+      "end_seconds": 1982.7,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "brief me with the two programs?"
+    },
+    {
+      "stable_id": "asr-000224",
+      "start_seconds": 1983.1,
+      "end_seconds": 1984.0,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "Yes, Your Honor."
+    },
+    {
+      "stable_id": "asr-000225",
+      "start_seconds": 1984.82,
+      "end_seconds": 1986.7,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "The libre sakay continues to"
+    },
+    {
+      "stable_id": "asr-000226",
+      "start_seconds": 1986.7,
+      "end_seconds": 1988.56,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "flourish. As a matter of fact, Your Honor, we are"
+    },
+    {
+      "stable_id": "asr-000227",
+      "start_seconds": 1988.56,
+      "end_seconds": 1990.18,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "expecting our 4 millionth"
+    },
+    {
+      "stable_id": "asr-000228",
+      "start_seconds": 1990.18,
+      "end_seconds": 1992.58,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "passenger anytime, within two weeks"
+    },
+    {
+      "stable_id": "asr-000229",
+      "start_seconds": 1992.58,
+      "end_seconds": 1993.88,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "time. I understand."
+    },
+    {
+      "stable_id": "asr-000230",
+      "start_seconds": 1994.14,
+      "end_seconds": 1996.48,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "So, we already have nine buses, as mentioned by"
+    },
+    {
+      "stable_id": "asr-000231",
+      "start_seconds": 1996.48,
+      "end_seconds": 1998.82,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "our Director for Operations. And then,"
+    },
+    {
+      "stable_id": "asr-000232",
+      "start_seconds": 1999.18,
+      "end_seconds": 2000.78,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "it is our own way to provide"
+    },
+    {
+      "stable_id": "asr-000233",
+      "start_seconds": 2000.78,
+      "end_seconds": 2002.24,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "free transport to our"
+    },
+    {
+      "stable_id": "asr-000234",
+      "start_seconds": 2002.24,
+      "end_seconds": 2003.74,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "fellow Filipinos."
+    },
+    {
+      "stable_id": "asr-000235",
+      "start_seconds": 2004.38,
+      "end_seconds": 2005.78,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "Daily. Daily ang"
+    },
+    {
+      "stable_id": "asr-000236",
+      "start_seconds": 2005.78,
+      "end_seconds": 2006.56,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "services nito."
+    },
+    {
+      "stable_id": "asr-000237",
+      "start_seconds": 2006.58,
+      "end_seconds": 2008.58,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "For the mag-negosyo today, as mentioned"
+    },
+    {
+      "stable_id": "asr-000238",
+      "start_seconds": 2008.58,
+      "end_seconds": 2010.56,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "earlier, we are concentrating on monitor"
+    },
+    {
+      "stable_id": "asr-000239",
+      "start_seconds": 2010.56,
+      "end_seconds": 2012.54,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "and checking and evaluating"
+    },
+    {
+      "stable_id": "asr-000240",
+      "start_seconds": 2012.54,
+      "end_seconds": 2014.42,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "if our beneficiaries"
+    },
+    {
+      "stable_id": "asr-000241",
+      "start_seconds": 2014.42,
+      "end_seconds": 2016.56,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "have actually made an"
+    },
+    {
+      "stable_id": "asr-000242",
+      "start_seconds": 2016.56,
+      "end_seconds": 2018.7,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "impact or made successes of the businesses"
+    },
+    {
+      "stable_id": "asr-000243",
+      "start_seconds": 2018.7,
+      "end_seconds": 2020.4,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "that were, or livelihood that was"
+    },
+    {
+      "stable_id": "asr-000244",
+      "start_seconds": 2020.4,
+      "end_seconds": 2021.3600000000001,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "provided them."
+    },
+    {
+      "stable_id": "asr-000245",
+      "start_seconds": 2022.42,
+      "end_seconds": 2023.26,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "Yes, Your Honor."
+    },
+    {
+      "stable_id": "asr-000245-split-2",
+      "start_seconds": 2023.26,
+      "end_seconds": 2024.58,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "So, are you sure you want"
+    },
+    {
+      "stable_id": "asr-000246",
+      "start_seconds": 2024.58,
+      "end_seconds": 2026.58,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "to recalibrate"
+    },
+    {
+      "stable_id": "asr-000247",
+      "start_seconds": 2027.14,
+      "end_seconds": 2028.72,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "and if it's"
+    },
+    {
+      "stable_id": "asr-000248",
+      "start_seconds": 2028.72,
+      "end_seconds": 2030.72,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "successful, sayag naman kung ito'y makakatulong"
+    },
+    {
+      "stable_id": "asr-000249",
+      "start_seconds": 2030.72,
+      "end_seconds": 2031.44,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "sa mga negosyo?"
+    },
+    {
+      "stable_id": "asr-000250",
+      "start_seconds": 2032.88,
+      "end_seconds": 2034.72,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "Yes, Your Honor. Recalibration"
+    },
+    {
+      "stable_id": "asr-000251",
+      "start_seconds": 2034.72,
+      "end_seconds": 2036.56,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "is a program"
+    },
+    {
+      "stable_id": "asr-000252",
+      "start_seconds": 2036.58,
+      "end_seconds": 2038.48,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "and program mix."
+    },
+    {
+      "stable_id": "asr-000253",
+      "start_seconds": 2039.34,
+      "end_seconds": 2040.3,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "So, with that,"
+    },
+    {
+      "stable_id": "asr-000254",
+      "start_seconds": 2040.76,
+      "end_seconds": 2042.58,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "actually, we will support"
+    },
+    {
+      "stable_id": "asr-000255",
+      "start_seconds": 2042.58,
+      "end_seconds": 2044.76,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "the social programs of the office"
+    },
+    {
+      "stable_id": "asr-000256",
+      "start_seconds": 2044.76,
+      "end_seconds": 2046.22,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "of the Vice President and"
+    },
+    {
+      "stable_id": "asr-000257",
+      "start_seconds": 2046.22,
+      "end_seconds": 2047.8600000000001,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "in spite of all of"
+    },
+    {
+      "stable_id": "asr-000258",
+      "start_seconds": 2047.8600000000001,
+      "end_seconds": 2050.64,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "the political noise, we are still hoping that"
+    },
+    {
+      "stable_id": "asr-000259",
+      "start_seconds": 2050.64,
+      "end_seconds": 2052.68,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "one day that we will have"
+    },
+    {
+      "stable_id": "asr-000260",
+      "start_seconds": 2052.68,
+      "end_seconds": 2054.76,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "unity"
+    },
+    {
+      "stable_id": "asr-000261",
+      "start_seconds": 2054.76,
+      "end_seconds": 2055.58,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "in this country."
+    },
+    {
+      "stable_id": "asr-000262",
+      "start_seconds": 2055.86,
+      "end_seconds": 2058.56,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "And we are looking"
+    },
+    {
+      "stable_id": "asr-000263",
+      "start_seconds": 2058.56,
+      "end_seconds": 2060.68,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "and praying for that in the future."
+    },
+    {
+      "stable_id": "asr-000264",
+      "start_seconds": 2061.2,
+      "end_seconds": 2062.68,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "And I send our regards to our"
+    },
+    {
+      "stable_id": "asr-000265",
+      "start_seconds": 2062.68,
+      "end_seconds": 2064.62,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Vice President. We're hoping to"
+    },
+    {
+      "stable_id": "asr-000266",
+      "start_seconds": 2064.62,
+      "end_seconds": 2066.38,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "see her during plenary."
+    },
+    {
+      "stable_id": "asr-000267",
+      "start_seconds": 2066.58,
+      "end_seconds": 2068.7799999999997,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "And the Committee Chair would like to thank"
+    },
+    {
+      "stable_id": "asr-000268",
+      "start_seconds": 2068.7799999999997,
+      "end_seconds": 2070.24,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "everyone, especially our"
+    },
+    {
+      "stable_id": "asr-000269",
+      "start_seconds": 2070.24,
+      "end_seconds": 2071.94,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "esteemed resource persons"
+    },
+    {
+      "stable_id": "asr-000270",
+      "start_seconds": 2071.94,
+      "end_seconds": 2074.52,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "led by the Chief of Staff of the OVP"
+    },
+    {
+      "stable_id": "asr-000271",
+      "start_seconds": 2074.52,
+      "end_seconds": 2075.92,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Attorney, Zolaica"
+    },
+    {
+      "stable_id": "asr-000272",
+      "start_seconds": 2075.92,
+      "end_seconds": 2078.44,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Lopez, and the rest of the"
+    },
+    {
+      "stable_id": "asr-000273",
+      "start_seconds": 2078.44,
+      "end_seconds": 2080.46,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "OVP family. Thank you for"
+    },
+    {
+      "stable_id": "asr-000274",
+      "start_seconds": 2080.46,
+      "end_seconds": 2082.8,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "joining this morning's"
+    },
+    {
+      "stable_id": "asr-000275",
+      "start_seconds": 2082.8,
+      "end_seconds": 2086.1,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "budget hearing."
+    },
+    {
+      "stable_id": "asr-000276",
+      "start_seconds": 2086.42,
+      "end_seconds": 2088.62,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "There being no further questions, the budget of the"
+    },
+    {
+      "stable_id": "asr-000277",
+      "start_seconds": 2088.62,
+      "end_seconds": 2090.6,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Office of the Vice President is deemed submitted for the"
+    },
+    {
+      "stable_id": "asr-000278",
+      "start_seconds": 2090.6,
+      "end_seconds": 2091.58,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "plenary's consideration."
+    },
+    {
+      "stable_id": "asr-000279",
+      "start_seconds": 2092.38,
+      "end_seconds": 2094.54,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Subject to the discussion and submission of"
+    },
+    {
+      "stable_id": "asr-000280",
+      "start_seconds": 2094.54,
+      "end_seconds": 2096.02,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "documents requested."
+    },
+    {
+      "stable_id": "asr-000281",
+      "start_seconds": 2096.58,
+      "end_seconds": 2098.34,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Gusto ko sana 15 minutes eh, kaso"
+    },
+    {
+      "stable_id": "asr-000282",
+      "start_seconds": 2098.34,
+      "end_seconds": 2100.38,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "tumagal lang konti. So,"
+    },
+    {
+      "stable_id": "asr-000283",
+      "start_seconds": 2100.44,
+      "end_seconds": 2101.92,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "and send our regards to"
+    },
+    {
+      "stable_id": "asr-000284",
+      "start_seconds": 2101.92,
+      "end_seconds": 2104.22,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "our Vice President."
+    },
+    {
+      "stable_id": "asr-000285",
+      "start_seconds": 2104.34,
+      "end_seconds": 2106.66,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "Magandang umaga po. This briefing is hereby"
+    },
+    {
+      "stable_id": "asr-000286",
+      "start_seconds": 2106.66,
+      "end_seconds": 2107.92,
+      "speaker": "Senator Joseph Victor \"JV\" G. Ejercito",
+      "text": "suspended. Thank you."
+    },
+    {
+      "stable_id": "asr-000287",
+      "start_seconds": 2108.16,
+      "end_seconds": 2109.04,
+      "speaker": "Undersecretary Zuleika T. Lopez",
+      "text": "Thank you, Your Honors."
+    }
+  ]
+}
