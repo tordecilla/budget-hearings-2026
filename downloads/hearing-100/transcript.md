@@ -1297,142 +1297,142 @@ Senate President would like to
 **[00:57:36.740] Senator Joseph Victor "JV" G. Ejercito** (asr-000556)  
 have his statement and ask some questions.
 
-**[00:57:40.500] Senator Sherwin "Win" T. Gatchalian** (asr-000557)  
+**[00:57:40.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000557)  
 Thank you, Mr. Chairman.
 
-**[00:57:43.040] Senator Sherwin "Win" T. Gatchalian** (asr-000558)  
+**[00:57:43.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000558)  
 First of all,
 
-**[00:57:43.920] Senator Sherwin "Win" T. Gatchalian** (asr-000559)  
+**[00:57:43.920] Senate President Sherwin "Win" T. Gatchalian** (asr-000559)  
 let me welcome our colleagues from the
 
-**[00:57:45.840] Senator Sherwin "Win" T. Gatchalian** (asr-000560)  
+**[00:57:45.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000560)  
 OPA-PRO, former Mayor,
 
-**[00:57:47.740] Senator Sherwin "Win" T. Gatchalian** (asr-000561)  
+**[00:57:47.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000561)  
 Secretary Mel Cermento,
 
-**[00:57:49.740] Senator Sherwin "Win" T. Gatchalian** (asr-000562)  
+**[00:57:49.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000562)  
 former Chief of Police ngayon,
 
-**[00:57:51.740] Senator Sherwin "Win" T. Gatchalian** (asr-000563)  
+**[00:57:51.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000563)  
 USEC Wilbin Mayor.
 
-**[00:57:53.740] Senator Sherwin "Win" T. Gatchalian** (asr-000564)  
+**[00:57:53.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000564)  
 Maraming salamat sa briefing niyo kanina.
 
-**[00:57:57.740] Senator Sherwin "Win" T. Gatchalian** (asr-000565)  
+**[00:57:57.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000565)  
 And I saw that in your budget,
 
-**[00:57:59.740] Senator Sherwin "Win" T. Gatchalian** (asr-000566)  
+**[00:57:59.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000566)  
 you increased by about a billion pesos,
 
-**[00:58:01.740] Senator Sherwin "Win" T. Gatchalian** (asr-000567)  
+**[00:58:01.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000567)  
 1.1 billion pesos in your budget.
 
-**[00:58:06.740] Senator Sherwin "Win" T. Gatchalian** (asr-000568)  
+**[00:58:06.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000568)  
 So I would just like to get an update.
 
-**[00:58:09.740] Senator Sherwin "Win" T. Gatchalian** (asr-000569)  
+**[00:58:09.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000569)  
 One of the main direction of OPA-PRO is the
 
-**[00:58:17.580] Senator Sherwin "Win" T. Gatchalian** (asr-000570)  
+**[00:58:17.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000570)  
 decommissioning of the combatants.
 
-**[00:58:20.580] Senator Sherwin "Win" T. Gatchalian** (asr-000571)  
+**[00:58:20.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000571)  
 And this has been a long time coming.
 
-**[00:58:23.580] Senator Sherwin "Win" T. Gatchalian** (asr-000572)  
+**[00:58:23.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000572)  
 In fact, maraming nagiging issue tungkol dito.
 
-**[00:58:28.580] Senator Sherwin "Win" T. Gatchalian** (asr-000573)  
+**[00:58:28.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000573)  
 But despite the challenges in the
 
-**[00:58:31.580] Senator Sherwin "Win" T. Gatchalian** (asr-000574)  
+**[00:58:31.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000574)  
 decommissioning and normalization,
 
-**[00:58:34.580] Senator Sherwin "Win" T. Gatchalian** (asr-000575)  
+**[00:58:34.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000575)  
 nakita natin na naging relatively successful
 
-**[00:58:38.580] Senator Sherwin "Win" T. Gatchalian** (asr-000576)  
+**[00:58:38.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000576)  
 yung election last month sa BARM.
 
-**[00:58:43.580] Senator Sherwin "Win" T. Gatchalian** (asr-000577)  
+**[00:58:43.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000577)  
 So in other words, there is support from our
 
-**[00:58:47.580] Senator Sherwin "Win" T. Gatchalian** (asr-000578)  
+**[00:58:47.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000578)  
 constituents to continue the gains of the
 
-**[00:58:50.580] Senator Sherwin "Win" T. Gatchalian** (asr-000579)  
+**[00:58:50.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000579)  
 peace process, to continue the gains of the BOL,
 
-**[00:58:56.580] Senator Sherwin "Win" T. Gatchalian** (asr-000580)  
+**[00:58:56.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000580)  
 the Bangsa Moro Organic Law.
 
-**[00:58:58.580] Senator Sherwin "Win" T. Gatchalian** (asr-000581)  
+**[00:58:58.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000581)  
 However, we have to sustain it.
 
-**[00:59:00.580] Senator Sherwin "Win" T. Gatchalian** (asr-000582)  
+**[00:59:00.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000582)  
 Itong pinakamahirap eh.
 
-**[00:59:02.580] Senator Sherwin "Win" T. Gatchalian** (asr-000583)  
+**[00:59:02.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000583)  
 Yung unang medyo relatively madali pero yung
 
-**[00:59:05.580] Senator Sherwin "Win" T. Gatchalian** (asr-000584)  
+**[00:59:05.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000584)  
 sustainability of peace is a challenging matter.
 
-**[00:59:09.580] Senator Sherwin "Win" T. Gatchalian** (asr-000585)  
+**[00:59:09.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000585)  
 And that's where OPA-PRO will come in.
 
-**[00:59:12.580] Senator Sherwin "Win" T. Gatchalian** (asr-000586)  
+**[00:59:12.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000586)  
 So I would like to get a detailed update.
 
-**[00:59:16.580] Senator Sherwin "Win" T. Gatchalian** (asr-000587)  
+**[00:59:16.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000587)  
 On the decommissioning process that will lead to
 
-**[00:59:20.580] Senator Sherwin "Win" T. Gatchalian** (asr-000588)  
+**[00:59:20.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000588)  
 the normalization process.
 
-**[00:59:22.580] Senator Sherwin "Win" T. Gatchalian** (asr-000589)  
+**[00:59:22.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000589)  
 For example, ilan bang combatants ang hindi pa natin na tutulungan
 
-**[00:59:28.580] Senator Sherwin "Win" T. Gatchalian** (asr-000590)  
+**[00:59:28.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000590)  
 o nade-decommission?
 
-**[00:59:30.580] Senator Sherwin "Win" T. Gatchalian** (asr-000591)  
+**[00:59:30.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000591)  
 Ilan pa ang nangangailangan ng educational assistance?
 
-**[00:59:34.580] Senator Sherwin "Win" T. Gatchalian** (asr-000592)  
+**[00:59:34.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000592)  
 In fact, last year, I remember during the hearing,
 
-**[00:59:37.580] Senator Sherwin "Win" T. Gatchalian** (asr-000593)  
+**[00:59:37.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000593)  
 isa sa mga request ng OPA-PRO at that time
 
-**[00:59:41.580] Senator Sherwin "Win" T. Gatchalian** (asr-000594)  
+**[00:59:41.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000594)  
 kay General Galvez Pais, yung educational assistance
 
-**[00:59:44.580] Senator Sherwin "Win" T. Gatchalian** (asr-000595)  
+**[00:59:44.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000595)  
 in which we
 
-**[00:59:45.580] Senator Sherwin "Win" T. Gatchalian** (asr-000596)  
+**[00:59:45.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000596)  
 We provided 850 million.
 
-**[00:59:47.580] Senator Sherwin "Win" T. Gatchalian** (asr-000597)  
+**[00:59:47.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000597)  
 Because our view is education is an integral part
 
-**[00:59:53.580] Senator Sherwin "Win" T. Gatchalian** (asr-000598)  
+**[00:59:53.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000598)  
 of the peace process.
 
-**[00:59:55.580] Senator Sherwin "Win" T. Gatchalian** (asr-000599)  
+**[00:59:55.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000599)  
 So I would like to get an update on where we are
 
-**[00:59:57.580] Senator Sherwin "Win" T. Gatchalian** (asr-000600)  
+**[00:59:57.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000600)  
 in terms of the decommissioning.
 
-**[01:00:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-000601)  
+**[01:00:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000601)  
 Ano ba yung mga challenges na hinaharap natin dito sa decommissioning?
 
-**[01:00:06.700] Senator Sherwin "Win" T. Gatchalian** (asr-000602)  
+**[01:00:06.700] Senate President Sherwin "Win" T. Gatchalian** (asr-000602)  
 So anyone can answer? Secretary Mel or Usec Wilben, anyone can answer from the agency?
 
 **[01:00:15.540] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000603)  
@@ -1456,13 +1456,13 @@ He is also the chair of the government implementing.
 **[01:00:58.380] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000609)  
 Out of the 14,000 combatants, 4,625 weapons were turned over, Mr. Chair, Your Honors.
 
-**[01:01:18.340] Senator Sherwin "Win" T. Gatchalian** (asr-000610)  
+**[01:01:18.340] Senate President Sherwin "Win" T. Gatchalian** (asr-000610)  
 How would you judge this?
 
-**[01:01:20.940] Senator Sherwin "Win" T. Gatchalian** (asr-000611)  
+**[01:01:20.940] Senate President Sherwin "Win" T. Gatchalian** (asr-000611)  
 So at present, ilan po ang total armed members?
 
-**[01:01:28.380] Senator Sherwin "Win" T. Gatchalian** (asr-000612)  
+**[01:01:28.380] Senate President Sherwin "Win" T. Gatchalian** (asr-000612)  
 MLF that have yet to be part of the decommissioning?
 
 **[01:01:35.300] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000613)  
@@ -1507,22 +1507,22 @@ pwedeng may release yung 40% din ng kanilang armas.
 **[01:03:13.620] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000626)  
 So, palagi pong ganoon ang proseso.
 
-**[01:03:17.840] Senator Sherwin "Win" T. Gatchalian** (asr-000627)  
+**[01:03:17.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000627)  
 Sa...
 
-**[01:03:18.440] Senator Sherwin "Win" T. Gatchalian** (asr-000628)  
+**[01:03:18.440] Senate President Sherwin "Win" T. Gatchalian** (asr-000628)  
 Bangsamoro Organic Law was signed in 2018.
 
-**[01:03:20.920] Senator Sherwin "Win" T. Gatchalian** (asr-000629)  
+**[01:03:20.920] Senate President Sherwin "Win" T. Gatchalian** (asr-000629)  
 2018.
 
-**[01:03:21.380] Senator Sherwin "Win" T. Gatchalian** (asr-000630)  
+**[01:03:21.380] Senate President Sherwin "Win" T. Gatchalian** (asr-000630)  
 And implementation started in 2019.
 
-**[01:03:24.120] Senator Sherwin "Win" T. Gatchalian** (asr-000631)  
+**[01:03:24.120] Senate President Sherwin "Win" T. Gatchalian** (asr-000631)  
 So, this will be the 8th year of the implementation.
 
-**[01:03:27.660] Senator Sherwin "Win" T. Gatchalian** (asr-000632)  
+**[01:03:27.660] Senate President Sherwin "Win" T. Gatchalian** (asr-000632)  
 So, gano'ng katagal pa ho yung inaasa natin for the total na na-decommissioning?
 
 **[01:03:34.500] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000633)  
@@ -1909,94 +1909,94 @@ sa pag-submit ng additional proposal ng aming, ah... opisina.
 **[01:09:51.640] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000760)  
 Thank you po.
 
-**[01:09:53.640] Senator Sherwin "Win" T. Gatchalian** (asr-000761)  
+**[01:09:53.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000761)  
 In short, ah... 14,000 ang tinitignan natin left to decommission.
 
-**[01:09:59.640] Senator Sherwin "Win" T. Gatchalian** (asr-000762)  
+**[01:09:59.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000762)  
 And, ah... what I understand, ah...
 
-**[01:10:03.640] Senator Sherwin "Win" T. Gatchalian** (asr-000763)  
+**[01:10:03.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000763)  
 part of the challenge is yung napangakong 1 million. Tama?
 
-**[01:10:09.640] Senator Sherwin "Win" T. Gatchalian** (asr-000764)  
+**[01:10:09.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000764)  
 So, ah... yun ang, ah...
 
-**[01:10:15.640] Senator Sherwin "Win" T. Gatchalian** (asr-000765)  
+**[01:10:15.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000765)  
 ang, ah... nagiging challenge.
 
-**[01:10:19.640] Senator Sherwin "Win" T. Gatchalian** (asr-000766)  
+**[01:10:19.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000766)  
 Ah... pag 1 million of that 14 is, ah... lumalabas 14 billion.
 
-**[01:10:26.640] Senator Sherwin "Win" T. Gatchalian** (asr-000767)  
+**[01:10:26.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000767)  
 Tama?
 
-**[01:10:28.640] Senator Sherwin "Win" T. Gatchalian** (asr-000768)  
+**[01:10:28.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000768)  
 Ah... ang kakailanganin natin.
 
-**[01:10:30.640] Senator Sherwin "Win" T. Gatchalian** (asr-000769)  
+**[01:10:30.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000769)  
 Assuming that will be given to the combatants.
 
-**[01:10:34.640] Senator Sherwin "Win" T. Gatchalian** (asr-000770)  
+**[01:10:34.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000770)  
 No?
 
-**[01:10:35.640] Senator Sherwin "Win" T. Gatchalian** (asr-000771)  
+**[01:10:35.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000771)  
 Ah... and then tinitignan ko doon sa budget ninyo.
 
-**[01:10:39.640] Senator Sherwin "Win" T. Gatchalian** (asr-000772)  
+**[01:10:39.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000772)  
 Ah... although your budget grew, no?
 
-**[01:10:41.640] Senator Sherwin "Win" T. Gatchalian** (asr-000773)  
+**[01:10:41.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000773)  
 About 9 billion na siya ngayon.
 
-**[01:10:43.640] Senator Sherwin "Win" T. Gatchalian** (asr-000774)  
+**[01:10:43.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000774)  
 Ah...
 
-**[01:10:44.640] Senator Sherwin "Win" T. Gatchalian** (asr-000775)  
+**[01:10:44.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000775)  
 majority of which pupunta sa, ah...
 
-**[01:10:47.640] Senator Sherwin "Win" T. Gatchalian** (asr-000776)  
+**[01:10:47.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000776)  
 ah... pamana program. No?
 
-**[01:10:49.640] Senator Sherwin "Win" T. Gatchalian** (asr-000777)  
+**[01:10:49.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000777)  
 Ah... 6 billion out of the 9 billion will go to the pamana program.
 
-**[01:10:54.640] Senator Sherwin "Win" T. Gatchalian** (asr-000778)  
+**[01:10:54.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000778)  
 And the pamana program, ah...
 
-**[01:10:57.640] Senator Sherwin "Win" T. Gatchalian** (asr-000779)  
+**[01:10:57.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000779)  
 nakakalat to sa iba-ibang programa.
 
-**[01:10:59.640] Senator Sherwin "Win" T. Gatchalian** (asr-000780)  
+**[01:10:59.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000780)  
 Sa, ah... educational assistance, housing, roads.
 
-**[01:11:04.640] Senator Sherwin "Win" T. Gatchalian** (asr-000781)  
+**[01:11:04.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000781)  
 Roads is about 3.7 billion na eh. No?
 
-**[01:11:08.640] Senator Sherwin "Win" T. Gatchalian** (asr-000782)  
+**[01:11:08.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000782)  
 No? So, in other words, in... in short, from what I'm reading here,
 
-**[01:11:12.640] Senator Sherwin "Win" T. Gatchalian** (asr-000783)  
+**[01:11:12.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000783)  
 yung ah... budget pupunta dito sa pamana program.
 
-**[01:11:15.640] Senator Sherwin "Win" T. Gatchalian** (asr-000784)  
+**[01:11:15.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000784)  
 Yung pamana program is meant naman to, ah... sustain the peace efforts on the ground.
 
-**[01:11:24.640] Senator Sherwin "Win" T. Gatchalian** (asr-000785)  
+**[01:11:24.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000785)  
 Tama po ba? Ganyan ang direction ng pamana eh, no?
 
-**[01:11:28.640] Senator Sherwin "Win" T. Gatchalian** (asr-000786)  
+**[01:11:28.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000786)  
 Ah... para nga may development, para may economic activity, ah... and ah...
 
-**[01:11:35.640] Senator Sherwin "Win" T. Gatchalian** (asr-000787)  
+**[01:11:35.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000787)  
 ma-sustain, no? In gains of peace.
 
-**[01:11:38.640] Senator Sherwin "Win" T. Gatchalian** (asr-000788)  
+**[01:11:38.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000788)  
 Ang kulang dito sa budget ninyo is for that decommissioning.
 
-**[01:11:40.640] Senator Sherwin "Win" T. Gatchalian** (asr-000789)  
+**[01:11:40.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000789)  
 Tama?
 
-**[01:11:43.640] Senator Sherwin "Win" T. Gatchalian** (asr-000790)  
+**[01:11:43.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000790)  
 Magkano ang naka-allocate for decommissioning in your 9 billion budget?
 
 **[01:11:49.640] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000791)  
@@ -2023,13 +2023,13 @@ I can perhaps go... perhaps go there and brief you a little bit about it
 **[01:12:27.640] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000798)  
 so you'll have an idea of what, ah... the proposal is what's going to be.
 
-**[01:12:32.640] Senator Sherwin "Win" T. Gatchalian** (asr-000799)  
+**[01:12:32.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000799)  
 We'll do that, ah... later on, ah... chairman.
 
-**[01:12:35.640] Senator Sherwin "Win" T. Gatchalian** (asr-000800)  
+**[01:12:35.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000800)  
 Ah... so, I know there are some sensitivities in the, ah... process.
 
-**[01:12:39.640] Senator Sherwin "Win" T. Gatchalian** (asr-000801)  
+**[01:12:39.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000801)  
 We'll... we'll, ah... have a short, ah... break later on.
 
 **[01:12:43.640] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000802)  
@@ -2038,19 +2038,19 @@ But our proposal is going to be very doable, ah...
 **[01:12:46.640] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000803)  
 Mr. Chair, we can assure you.
 
-**[01:12:47.640] Senator Sherwin "Win" T. Gatchalian** (asr-000804)  
+**[01:12:47.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000804)  
 This is outside of the...
 
 **[01:12:49.640] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000805)  
 Yes, this outside.
 
-**[01:12:50.640] Senator Sherwin "Win" T. Gatchalian** (asr-000806)  
+**[01:12:50.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000806)  
 ...decommissioning...
 
 **[01:12:51.640] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000807)  
 Not for the decommissioning part.
 
-**[01:12:53.640] Senator Sherwin "Win" T. Gatchalian** (asr-000808)  
+**[01:12:53.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000808)  
 Ah, this is the... within the decommissioning.
 
 **[01:12:54.640] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000809)  
@@ -2062,22 +2062,22 @@ Okay.
 **[01:12:56.640] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000811)  
 I can perhaps discuss this with you, ah... ah... after.
 
-**[01:12:59.640] Senator Sherwin "Win" T. Gatchalian** (asr-000812)  
+**[01:12:59.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000812)  
 Okay. Sige.
 
-**[01:13:00.640] Senator Sherwin "Win" T. Gatchalian** (asr-000813)  
+**[01:13:00.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000813)  
 Um... with that, ah... ang itutuloy ko naman ang next question ko is the education.
 
-**[01:13:08.640] Senator Sherwin "Win" T. Gatchalian** (asr-000814)  
+**[01:13:08.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000814)  
 Is the educational assistance, no?
 
-**[01:13:10.640] Senator Sherwin "Win" T. Gatchalian** (asr-000815)  
+**[01:13:10.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000815)  
 Ah... I... I know that is a... ah... from what I understand, ah... yung mga... ah... beneficiaries nito, they're... they feel very strongly, ah... ah... dito sa educational assistance, no?
 
-**[01:13:27.640] Senator Sherwin "Win" T. Gatchalian** (asr-000816)  
+**[01:13:27.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000816)  
 So, may I know kung ano na ng... can I get an update for... on the additional 850 million that we included in the 2026 budget?
 
-**[01:13:38.640] Senator Sherwin "Win" T. Gatchalian** (asr-000817)  
+**[01:13:38.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000817)  
 And, ah... yan talagang direk... direkta para sa educational assistance. May I get an update on the... on that, ah... portion?
 
 **[01:13:47.640] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000818)  
@@ -2107,7 +2107,7 @@ But, ah... just to underscore, Your Honors, ah... considering that the DBM is al
 **[01:14:51.640] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000826)  
 At wala pa po yung, ah... we're still awaiting for the notice of cash allotment dito po, ah... Your Honors.
 
-**[01:15:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-000827)  
+**[01:15:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000827)  
 So, Yusek, wala pang, nabigay na yung SARO?
 
 **[01:15:04.400] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000828)  
@@ -2116,22 +2116,22 @@ Meron pong SARO.
 **[01:15:06.080] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000829)  
 We have already the names of the beneficiaries.
 
-**[01:15:09.040] Senator Sherwin "Win" T. Gatchalian** (asr-000830)  
+**[01:15:09.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000830)  
 Pero wala pa yung cash?
 
 **[01:15:09.860] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000831)  
 Wala pa po yung cash.
 
-**[01:15:10.960] Senator Sherwin "Win" T. Gatchalian** (asr-000832)  
+**[01:15:10.960] Senate President Sherwin "Win" T. Gatchalian** (asr-000832)  
 Oo, wala pa yung cash.
 
 **[01:15:12.180] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000833)  
 Yes, sir.
 
-**[01:15:13.060] Senator Sherwin "Win" T. Gatchalian** (asr-000834)  
+**[01:15:13.060] Senate President Sherwin "Win" T. Gatchalian** (asr-000834)  
 End of the year na.
 
-**[01:15:20.680] Senator Sherwin "Win" T. Gatchalian** (asr-000835)  
+**[01:15:20.680] Senate President Sherwin "Win" T. Gatchalian** (asr-000835)  
 And na-identify nyo na yung mga beneficiaries?
 
 **[01:15:22.780] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000836)  
@@ -2152,10 +2152,10 @@ na kasama po doon sa mag-e-sponsor ng educational assistance program po ng OPAPR
 **[01:15:48.840] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000841)  
 as well as yung ibang para po sa mga beneficiaries natin sa IMLH at IMLH.
 
-**[01:15:54.380] Senator Sherwin "Win" T. Gatchalian** (asr-000842)  
+**[01:15:54.380] Senate President Sherwin "Win" T. Gatchalian** (asr-000842)  
 And then for 2027, nakita ko dito meron ding...
 
-**[01:15:58.100] Senator Sherwin "Win" T. Gatchalian** (asr-000843)  
+**[01:15:58.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000843)  
 Na-retain yung 800 million?
 
 **[01:16:01.620] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000844)  
@@ -2170,7 +2170,7 @@ Ang program po natin yan is yung four years po.
 **[01:16:09.260] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000847)  
 So sila din po yung...
 
-**[01:16:10.140] Senator Sherwin "Win" T. Gatchalian** (asr-000848)  
+**[01:16:10.140] Senate President Sherwin "Win" T. Gatchalian** (asr-000848)  
 Sila rin yun.
 
 **[01:16:10.700] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-000849)  
@@ -2482,166 +2482,166 @@ nagbibigay po
 **[01:18:48.100] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-000951)  
 ng pondo para sa kanila
 
-**[01:18:49.620] Senator Sherwin "Win" T. Gatchalian** (asr-000952)  
+**[01:18:49.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000952)  
 Thank you
 
-**[01:18:50.900] Senator Sherwin "Win" T. Gatchalian** (asr-000953)  
+**[01:18:50.900] Senate President Sherwin "Win" T. Gatchalian** (asr-000953)  
 actually yan
 
-**[01:18:51.980] Senator Sherwin "Win" T. Gatchalian** (asr-000954)  
+**[01:18:51.980] Senate President Sherwin "Win" T. Gatchalian** (asr-000954)  
 ang aking pananaw
 
-**[01:18:53.440] Senator Sherwin "Win" T. Gatchalian** (asr-000955)  
+**[01:18:53.440] Senate President Sherwin "Win" T. Gatchalian** (asr-000955)  
 sa
 
-**[01:18:53.720] Senator Sherwin "Win" T. Gatchalian** (asr-000956)  
+**[01:18:53.720] Senate President Sherwin "Win" T. Gatchalian** (asr-000956)  
 how to sustain
 
-**[01:18:55.620] Senator Sherwin "Win" T. Gatchalian** (asr-000957)  
+**[01:18:55.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000957)  
 the gains
 
-**[01:18:56.000] Senator Sherwin "Win" T. Gatchalian** (asr-000958)  
+**[01:18:56.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000958)  
 of peace
 
-**[01:18:56.440] Senator Sherwin "Win" T. Gatchalian** (asr-000959)  
+**[01:18:56.440] Senate President Sherwin "Win" T. Gatchalian** (asr-000959)  
 is through education
 
-**[01:18:57.500] Senator Sherwin "Win" T. Gatchalian** (asr-000960)  
+**[01:18:57.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000960)  
 kahil
 
-**[01:18:58.140] Senator Sherwin "Win" T. Gatchalian** (asr-000961)  
+**[01:18:58.140] Senate President Sherwin "Win" T. Gatchalian** (asr-000961)  
 education talaga
 
-**[01:19:01.260] Senator Sherwin "Win" T. Gatchalian** (asr-000962)  
+**[01:19:01.260] Senate President Sherwin "Win" T. Gatchalian** (asr-000962)  
 ang makakatulong
 
-**[01:19:02.700] Senator Sherwin "Win" T. Gatchalian** (asr-000963)  
+**[01:19:02.700] Senate President Sherwin "Win" T. Gatchalian** (asr-000963)  
 para doon
 
-**[01:19:04.100] Senator Sherwin "Win" T. Gatchalian** (asr-000964)  
+**[01:19:04.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000964)  
 sa pamilya
 
-**[01:19:04.720] Senator Sherwin "Win" T. Gatchalian** (asr-000965)  
+**[01:19:04.720] Senate President Sherwin "Win" T. Gatchalian** (asr-000965)  
 makahanap ng trabaho
 
-**[01:19:06.060] Senator Sherwin "Win" T. Gatchalian** (asr-000966)  
+**[01:19:06.060] Senate President Sherwin "Win" T. Gatchalian** (asr-000966)  
 makapagtayo
 
-**[01:19:07.580] Senator Sherwin "Win" T. Gatchalian** (asr-000967)  
+**[01:19:07.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000967)  
 ng sariling negosyo
 
-**[01:19:08.840] Senator Sherwin "Win" T. Gatchalian** (asr-000968)  
+**[01:19:08.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000968)  
 the only way
 
-**[01:19:10.840] Senator Sherwin "Win" T. Gatchalian** (asr-000969)  
+**[01:19:10.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000969)  
 to sustain peace
 
-**[01:19:11.680] Senator Sherwin "Win" T. Gatchalian** (asr-000970)  
+**[01:19:11.680] Senate President Sherwin "Win" T. Gatchalian** (asr-000970)  
 is if they have
 
-**[01:19:12.340] Senator Sherwin "Win" T. Gatchalian** (asr-000971)  
+**[01:19:12.340] Senate President Sherwin "Win" T. Gatchalian** (asr-000971)  
 their own livelihoods
 
-**[01:19:13.880] Senator Sherwin "Win" T. Gatchalian** (asr-000972)  
+**[01:19:13.880] Senate President Sherwin "Win" T. Gatchalian** (asr-000972)  
 they have their own jobs
 
-**[01:19:14.980] Senator Sherwin "Win" T. Gatchalian** (asr-000973)  
+**[01:19:14.980] Senate President Sherwin "Win" T. Gatchalian** (asr-000973)  
 they have their own businesses
 
-**[01:19:16.300] Senator Sherwin "Win" T. Gatchalian** (asr-000974)  
+**[01:19:16.300] Senate President Sherwin "Win" T. Gatchalian** (asr-000974)  
 dahil kung walang kinikita
 
-**[01:19:19.040] Senator Sherwin "Win" T. Gatchalian** (asr-000975)  
+**[01:19:19.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000975)  
 o walang pagkukunan
 
-**[01:19:21.000] Senator Sherwin "Win" T. Gatchalian** (asr-000976)  
+**[01:19:21.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000976)  
 ng kita
 
-**[01:19:21.440] Senator Sherwin "Win" T. Gatchalian** (asr-000977)  
+**[01:19:21.440] Senate President Sherwin "Win" T. Gatchalian** (asr-000977)  
 doon talaga
 
-**[01:19:22.100] Senator Sherwin "Win" T. Gatchalian** (asr-000978)  
+**[01:19:22.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000978)  
 pumapasok sa
 
-**[01:19:23.820] Senator Sherwin "Win" T. Gatchalian** (asr-000979)  
+**[01:19:23.820] Senate President Sherwin "Win" T. Gatchalian** (asr-000979)  
 hindi magaganda
 
-**[01:19:25.260] Senator Sherwin "Win" T. Gatchalian** (asr-000980)  
+**[01:19:25.260] Senate President Sherwin "Win" T. Gatchalian** (asr-000980)  
 whether
 
-**[01:19:26.000] Senator Sherwin "Win" T. Gatchalian** (asr-000981)  
+**[01:19:26.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000981)  
 it's
 
-**[01:19:26.680] Senator Sherwin "Win" T. Gatchalian** (asr-000982)  
+**[01:19:26.680] Senate President Sherwin "Win" T. Gatchalian** (asr-000982)  
 ideology
 
-**[01:19:28.380] Senator Sherwin "Win" T. Gatchalian** (asr-000983)  
+**[01:19:28.380] Senate President Sherwin "Win" T. Gatchalian** (asr-000983)  
 or
 
-**[01:19:28.980] Senator Sherwin "Win" T. Gatchalian** (asr-000984)  
+**[01:19:28.980] Senate President Sherwin "Win" T. Gatchalian** (asr-000984)  
 even
 
-**[01:19:29.740] Senator Sherwin "Win" T. Gatchalian** (asr-000985)  
+**[01:19:29.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000985)  
 crime
 
-**[01:19:31.040] Senator Sherwin "Win" T. Gatchalian** (asr-000986)  
+**[01:19:31.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000986)  
 alam ni Will Bento
 
-**[01:19:32.000] Senator Sherwin "Win" T. Gatchalian** (asr-000987)  
+**[01:19:32.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000987)  
 ganyan talaga
 
-**[01:19:34.280] Senator Sherwin "Win" T. Gatchalian** (asr-000988)  
+**[01:19:34.280] Senate President Sherwin "Win" T. Gatchalian** (asr-000988)  
 ang
 
-**[01:19:34.560] Senator Sherwin "Win" T. Gatchalian** (asr-000989)  
+**[01:19:34.560] Senate President Sherwin "Win" T. Gatchalian** (asr-000989)  
 natural tendency
 
-**[01:19:36.460] Senator Sherwin "Win" T. Gatchalian** (asr-000990)  
+**[01:19:36.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000990)  
 so education
 
-**[01:19:37.200] Senator Sherwin "Win" T. Gatchalian** (asr-000991)  
+**[01:19:37.200] Senate President Sherwin "Win" T. Gatchalian** (asr-000991)  
 is
 
-**[01:19:37.760] Senator Sherwin "Win" T. Gatchalian** (asr-000992)  
+**[01:19:37.760] Senate President Sherwin "Win" T. Gatchalian** (asr-000992)  
 a very
 
-**[01:19:38.820] Senator Sherwin "Win" T. Gatchalian** (asr-000993)  
+**[01:19:38.820] Senate President Sherwin "Win" T. Gatchalian** (asr-000993)  
 potent
 
-**[01:19:40.500] Senator Sherwin "Win" T. Gatchalian** (asr-000994)  
+**[01:19:40.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000994)  
 solution
 
-**[01:19:41.320] Senator Sherwin "Win" T. Gatchalian** (asr-000995)  
+**[01:19:41.320] Senate President Sherwin "Win" T. Gatchalian** (asr-000995)  
 to
 
-**[01:19:41.900] Senator Sherwin "Win" T. Gatchalian** (asr-000996)  
+**[01:19:41.900] Senate President Sherwin "Win" T. Gatchalian** (asr-000996)  
 sustain
 
-**[01:19:42.900] Senator Sherwin "Win" T. Gatchalian** (asr-000997)  
+**[01:19:42.900] Senate President Sherwin "Win" T. Gatchalian** (asr-000997)  
 the gains of peace
 
-**[01:19:44.180] Senator Sherwin "Win" T. Gatchalian** (asr-000998)  
+**[01:19:44.180] Senate President Sherwin "Win" T. Gatchalian** (asr-000998)  
 kaya
 
-**[01:19:44.520] Senator Sherwin "Win" T. Gatchalian** (asr-000999)  
+**[01:19:44.520] Senate President Sherwin "Win" T. Gatchalian** (asr-000999)  
 yan natutuan naman ako
 
-**[01:19:45.820] Senator Sherwin "Win" T. Gatchalian** (asr-001000)  
+**[01:19:45.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001000)  
 Bill
 
-**[01:19:46.200] Senator Sherwin "Win" T. Gatchalian** (asr-001001)  
+**[01:19:46.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001001)  
 you also included
 
-**[01:19:48.320] Senator Sherwin "Win" T. Gatchalian** (asr-001002)  
+**[01:19:48.320] Senate President Sherwin "Win" T. Gatchalian** (asr-001002)  
 almost a billion pesos
 
-**[01:19:49.740] Senator Sherwin "Win" T. Gatchalian** (asr-001003)  
+**[01:19:49.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001003)  
 800 million
 
-**[01:19:50.560] Senator Sherwin "Win" T. Gatchalian** (asr-001004)  
+**[01:19:50.560] Senate President Sherwin "Win" T. Gatchalian** (asr-001004)  
 dito sa
 
-**[01:19:51.180] Senator Sherwin "Win" T. Gatchalian** (asr-001005)  
+**[01:19:51.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001005)  
 education
 
 **[01:19:52.780] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-001006)  
@@ -2812,28 +2812,28 @@ pumasa sa
 **[01:20:57.400] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-001061)  
 bar exam
 
-**[01:20:58.180] Senator Sherwin "Win" T. Gatchalian** (asr-001062)  
+**[01:20:58.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001062)  
 Thank you
 
-**[01:21:01.680] Senator Sherwin "Win" T. Gatchalian** (asr-001063)  
+**[01:21:01.680] Senate President Sherwin "Win" T. Gatchalian** (asr-001063)  
 Secretary
 
-**[01:21:02.680] Senator Sherwin "Win" T. Gatchalian** (asr-001064)  
+**[01:21:02.680] Senate President Sherwin "Win" T. Gatchalian** (asr-001064)  
 Mr. Chairman
 
-**[01:21:03.720] Senator Sherwin "Win" T. Gatchalian** (asr-001065)  
+**[01:21:03.720] Senate President Sherwin "Win" T. Gatchalian** (asr-001065)  
 I'll
 
-**[01:21:04.300] Senator Sherwin "Win" T. Gatchalian** (asr-001066)  
+**[01:21:04.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001066)  
 go for my second round
 
-**[01:21:09.500] Senator Sherwin "Win" T. Gatchalian** (asr-001067)  
+**[01:21:09.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001067)  
 I'll
 
-**[01:21:09.880] Senator Sherwin "Win" T. Gatchalian** (asr-001068)  
+**[01:21:09.880] Senate President Sherwin "Win" T. Gatchalian** (asr-001068)  
 I'll
 
-**[01:21:12.080] Senator Sherwin "Win" T. Gatchalian** (asr-001069)  
+**[01:21:12.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001069)  
 listen to you first
 
 **[01:21:14.020] Senator Joseph Victor "JV" G. Ejercito** (asr-001070)  
@@ -5485,121 +5485,121 @@ to discuss with you
 **[01:49:22.420] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-001952)  
 after the
 
-**[01:49:23.100] Senator Sherwin "Win" T. Gatchalian** (asr-001953)  
+**[01:49:23.100] Senate President Sherwin "Win" T. Gatchalian** (asr-001953)  
 Mr. Chairman, kita ko lang dito
 
-**[01:49:25.960] Senator Sherwin "Win" T. Gatchalian** (asr-001954)  
+**[01:49:25.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001954)  
 in my notes
 
-**[01:49:27.540] Senator Sherwin "Win" T. Gatchalian** (asr-001955)  
+**[01:49:27.540] Senate President Sherwin "Win" T. Gatchalian** (asr-001955)  
 yung normalization program
 
-**[01:49:30.000] Senator Sherwin "Win" T. Gatchalian** (asr-001956)  
+**[01:49:30.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001956)  
 for 2026 is 918
 
-**[01:49:32.660] Senator Sherwin "Win" T. Gatchalian** (asr-001957)  
+**[01:49:32.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001957)  
 million
 
-**[01:49:33.180] Senator Sherwin "Win" T. Gatchalian** (asr-001958)  
+**[01:49:33.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001958)  
 so of course
 
-**[01:49:36.460] Senator Sherwin "Win" T. Gatchalian** (asr-001959)  
+**[01:49:36.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001959)  
 far cry from the 14 billion
 
-**[01:49:38.660] Senator Sherwin "Win" T. Gatchalian** (asr-001960)  
+**[01:49:38.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001960)  
 na kailangan
 
-**[01:49:40.240] Senator Sherwin "Win" T. Gatchalian** (asr-001961)  
+**[01:49:40.240] Senate President Sherwin "Win" T. Gatchalian** (asr-001961)  
 I'm putting emphasis on
 
-**[01:49:42.360] Senator Sherwin "Win" T. Gatchalian** (asr-001962)  
+**[01:49:42.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001962)  
 the normalization because
 
-**[01:49:43.740] Senator Sherwin "Win" T. Gatchalian** (asr-001963)  
+**[01:49:43.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001963)  
 una una that's part of the deal
 
-**[01:49:45.540] Senator Sherwin "Win" T. Gatchalian** (asr-001964)  
+**[01:49:45.540] Senate President Sherwin "Win" T. Gatchalian** (asr-001964)  
 and then pangalawa
 
-**[01:49:48.020] Senator Sherwin "Win" T. Gatchalian** (asr-001965)  
+**[01:49:48.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001965)  
 that's also part of the
 
-**[01:49:50.340] Senator Sherwin "Win" T. Gatchalian** (asr-001966)  
+**[01:49:50.340] Senate President Sherwin "Win" T. Gatchalian** (asr-001966)  
 sustaining the peace
 
-**[01:49:52.340] Senator Sherwin "Win" T. Gatchalian** (asr-001967)  
+**[01:49:52.340] Senate President Sherwin "Win" T. Gatchalian** (asr-001967)  
 efforts
 
-**[01:49:52.940] Senator Sherwin "Win" T. Gatchalian** (asr-001968)  
+**[01:49:52.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001968)  
 ang ayaw kasi natin is
 
-**[01:49:55.320] Senator Sherwin "Win" T. Gatchalian** (asr-001969)  
+**[01:49:55.320] Senate President Sherwin "Win" T. Gatchalian** (asr-001969)  
 after doing all of this
 
-**[01:49:57.320] Senator Sherwin "Win" T. Gatchalian** (asr-001970)  
+**[01:49:57.320] Senate President Sherwin "Win" T. Gatchalian** (asr-001970)  
 nagkaroon tayo ng signing ng batas
 
-**[01:50:00.100] Senator Sherwin "Win" T. Gatchalian** (asr-001971)  
+**[01:50:00.100] Senate President Sherwin "Win" T. Gatchalian** (asr-001971)  
 tapos babalik tayo sa dati
 
-**[01:50:01.700] Senator Sherwin "Win" T. Gatchalian** (asr-001972)  
+**[01:50:01.700] Senate President Sherwin "Win" T. Gatchalian** (asr-001972)  
 mukha naman hindi because the election
 
-**[01:50:04.060] Senator Sherwin "Win" T. Gatchalian** (asr-001973)  
+**[01:50:04.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001973)  
 for me is a sign that
 
-**[01:50:06.200] Senator Sherwin "Win" T. Gatchalian** (asr-001974)  
+**[01:50:06.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001974)  
 people are yearning for
 
-**[01:50:07.940] Senator Sherwin "Win" T. Gatchalian** (asr-001975)  
+**[01:50:07.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001975)  
 peace and stability
 
-**[01:50:10.380] Senator Sherwin "Win" T. Gatchalian** (asr-001976)  
+**[01:50:10.380] Senate President Sherwin "Win" T. Gatchalian** (asr-001976)  
 but we need to sustain it
 
-**[01:50:12.360] Senator Sherwin "Win" T. Gatchalian** (asr-001977)  
+**[01:50:12.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001977)  
 especially those agreements
 
-**[01:50:14.460] Senator Sherwin "Win" T. Gatchalian** (asr-001978)  
+**[01:50:14.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001978)  
 that we entered into
 
-**[01:50:15.680] Senator Sherwin "Win" T. Gatchalian** (asr-001979)  
+**[01:50:15.680] Senate President Sherwin "Win" T. Gatchalian** (asr-001979)  
 so
 
-**[01:50:16.800] Senator Sherwin "Win" T. Gatchalian** (asr-001980)  
+**[01:50:16.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001980)  
 dito sa
 
-**[01:50:20.040] Senator Sherwin "Win" T. Gatchalian** (asr-001981)  
+**[01:50:20.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001981)  
 2016
 
-**[01:50:23.080] Senator Sherwin "Win" T. Gatchalian** (asr-001982)  
+**[01:50:23.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001982)  
 is 918
 
-**[01:50:24.760] Senator Sherwin "Win" T. Gatchalian** (asr-001983)  
+**[01:50:24.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001983)  
 ang normalization
 
-**[01:50:27.060] Senator Sherwin "Win" T. Gatchalian** (asr-001984)  
+**[01:50:27.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001984)  
 ah
 
-**[01:50:28.700] Senator Sherwin "Win" T. Gatchalian** (asr-001985)  
+**[01:50:28.700] Senate President Sherwin "Win" T. Gatchalian** (asr-001985)  
 2026 pala
 
-**[01:50:33.960] Senator Sherwin "Win" T. Gatchalian** (asr-001986)  
+**[01:50:33.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001986)  
 918
 
-**[01:50:35.320] Senator Sherwin "Win" T. Gatchalian** (asr-001987)  
+**[01:50:35.320] Senate President Sherwin "Win" T. Gatchalian** (asr-001987)  
 and then for 2027
 
-**[01:50:37.280] Senator Sherwin "Win" T. Gatchalian** (asr-001988)  
+**[01:50:37.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001988)  
 walang amounts
 
-**[01:50:39.280] Senator Sherwin "Win" T. Gatchalian** (asr-001989)  
+**[01:50:39.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001989)  
 for normalization
 
-**[01:50:41.820] Senator Sherwin "Win" T. Gatchalian** (asr-001990)  
+**[01:50:41.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001990)  
 tama ba?
 
-**[01:50:42.360] Senator Sherwin "Win" T. Gatchalian** (asr-001991)  
+**[01:50:42.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001991)  
 Yusef Wilben?
 
 **[01:50:44.360] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-001992)  
@@ -5614,43 +5614,43 @@ for 2027 that's
 **[01:50:49.360] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-001995)  
 for normalization is 1.3 billion
 
-**[01:50:52.360] Senator Sherwin "Win" T. Gatchalian** (asr-001996)  
+**[01:50:52.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001996)  
 sorry 1.3 hindi ko pala nakita
 
-**[01:50:54.360] Senator Sherwin "Win" T. Gatchalian** (asr-001997)  
+**[01:50:54.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001997)  
 1.3 ang nag increase
 
-**[01:50:56.360] Senator Sherwin "Win" T. Gatchalian** (asr-001998)  
+**[01:50:56.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001998)  
 but again far cry from
 
-**[01:50:58.360] Senator Sherwin "Win" T. Gatchalian** (asr-001999)  
+**[01:50:58.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001999)  
 that 14 billion that we are
 
-**[01:51:00.360] Senator Sherwin "Win" T. Gatchalian** (asr-002000)  
+**[01:51:00.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002000)  
 requesting
 
-**[01:51:02.360] Senator Sherwin "Win" T. Gatchalian** (asr-002001)  
+**[01:51:02.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002001)  
 Mr. Chairman with your permission
 
-**[01:51:04.360] Senator Sherwin "Win" T. Gatchalian** (asr-002002)  
+**[01:51:04.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002002)  
 I think si Secretary Mel wants to
 
-**[01:51:06.360] Senator Sherwin "Win" T. Gatchalian** (asr-002003)  
+**[01:51:06.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002003)  
 have a 5 minute
 
-**[01:51:08.360] Senator Sherwin "Win" T. Gatchalian** (asr-002004)  
+**[01:51:08.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002004)  
 ah
 
-**[01:51:10.360] Senator Sherwin "Win" T. Gatchalian** (asr-002005)  
+**[01:51:10.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002005)  
 conversation with us
 
-**[01:51:11.560] Senator Sherwin "Win" T. Gatchalian** (asr-002006)  
+**[01:51:11.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002006)  
 um
 
-**[01:51:12.360] Senator Sherwin "Win" T. Gatchalian** (asr-002007)  
+**[01:51:12.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002007)  
 if you allow Mr. Chairman
 
-**[01:51:14.360] Senator Sherwin "Win" T. Gatchalian** (asr-002008)  
+**[01:51:14.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002008)  
 so we can suspend
 
 **[01:51:15.360] Senator Joseph Victor "JV" G. Ejercito** (asr-002009)  
@@ -5812,88 +5812,88 @@ Your Honors,
 **[02:05:33.780] OPAPRU Presidential Assistant Wilben M. Mayor** (asr-002071)  
 Mr. Senator President.
 
-**[02:05:35.360] Senator Sherwin "Win" T. Gatchalian** (asr-002072)  
+**[02:05:35.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002072)  
 Nakita ko dito, 21 years na,
 
-**[02:05:38.100] Senator Sherwin "Win" T. Gatchalian** (asr-002073)  
+**[02:05:38.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002073)  
 iba?
 
-**[02:05:39.960] Senator Sherwin "Win" T. Gatchalian** (asr-002074)  
+**[02:05:39.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002074)  
 So, baka, I'm sure
 
-**[02:05:41.960] Senator Sherwin "Win" T. Gatchalian** (asr-002075)  
+**[02:05:41.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002075)  
 hindi na mali-liquidate ito pag 21
 
-**[02:05:43.820] Senator Sherwin "Win" T. Gatchalian** (asr-002076)  
+**[02:05:43.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002076)  
 years na. But
 
-**[02:05:45.680] Senator Sherwin "Win" T. Gatchalian** (asr-002077)  
+**[02:05:45.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002077)  
 I just want to
 
-**[02:05:47.140] Senator Sherwin "Win" T. Gatchalian** (asr-002078)  
+**[02:05:47.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002078)  
 just flag our agency
 
-**[02:05:49.760] Senator Sherwin "Win" T. Gatchalian** (asr-002079)  
+**[02:05:49.760] Senate President Sherwin "Win" T. Gatchalian** (asr-002079)  
 na
 
-**[02:05:50.380] Senator Sherwin "Win" T. Gatchalian** (asr-002080)  
+**[02:05:50.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002080)  
 I think it's
 
-**[02:05:53.940] Senator Sherwin "Win" T. Gatchalian** (asr-002081)  
+**[02:05:53.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002081)  
 a documentation
 
-**[02:05:55.580] Senator Sherwin "Win" T. Gatchalian** (asr-002082)  
+**[02:05:55.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002082)  
 slash follow-up issue
 
-**[02:05:57.920] Senator Sherwin "Win" T. Gatchalian** (asr-002083)  
+**[02:05:57.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002083)  
 sa mga ganitong
 
-**[02:05:59.680] Senator Sherwin "Win" T. Gatchalian** (asr-002084)  
+**[02:05:59.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002084)  
 liquidation. Kailangan medyo makulit
 
-**[02:06:01.820] Senator Sherwin "Win" T. Gatchalian** (asr-002085)  
+**[02:06:01.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002085)  
 sa pag-follow-up.
 
-**[02:06:03.460] Senator Sherwin "Win" T. Gatchalian** (asr-002086)  
+**[02:06:03.460] Senate President Sherwin "Win" T. Gatchalian** (asr-002086)  
 Kung hindi nagli-liquidate, huwag na bigyan
 
-**[02:06:05.780] Senator Sherwin "Win" T. Gatchalian** (asr-002087)  
+**[02:06:05.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002087)  
 ulit kasi nanganganak yan eh.
 
-**[02:06:07.540] Senator Sherwin "Win" T. Gatchalian** (asr-002088)  
+**[02:06:07.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002088)  
 We've seen this in many agencies, no?
 
-**[02:06:09.380] Senator Sherwin "Win" T. Gatchalian** (asr-002089)  
+**[02:06:09.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002089)  
 Nagpapatong-patong yung kanilang
 
-**[02:06:11.040] Senator Sherwin "Win" T. Gatchalian** (asr-002090)  
+**[02:06:11.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002090)  
 liquidation. So,
 
-**[02:06:13.720] Senator Sherwin "Win" T. Gatchalian** (asr-002091)  
+**[02:06:13.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002091)  
 just be mindful of
 
-**[02:06:15.620] Senator Sherwin "Win" T. Gatchalian** (asr-002092)  
+**[02:06:15.620] Senate President Sherwin "Win" T. Gatchalian** (asr-002092)  
 itong ganitong
 
-**[02:06:17.740] Senator Sherwin "Win" T. Gatchalian** (asr-002093)  
+**[02:06:17.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002093)  
 liquidating issue. Kasi
 
-**[02:06:19.620] Senator Sherwin "Win" T. Gatchalian** (asr-002094)  
+**[02:06:19.620] Senate President Sherwin "Win" T. Gatchalian** (asr-002094)  
 malaki siya eh, USEC.
 
-**[02:06:21.600] Senator Sherwin "Win" T. Gatchalian** (asr-002095)  
+**[02:06:21.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002095)  
 9.94 billion
 
-**[02:06:23.640] Senator Sherwin "Win" T. Gatchalian** (asr-002096)  
+**[02:06:23.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002096)  
 ang hindi nali-liquidate.
 
-**[02:06:26.400] Senator Sherwin "Win" T. Gatchalian** (asr-002097)  
+**[02:06:26.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002097)  
 Including
 
-**[02:06:26.860] Senator Sherwin "Win" T. Gatchalian** (asr-002098)  
+**[02:06:26.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002098)  
 8.57 billion for
 
-**[02:06:29.600] Senator Sherwin "Win" T. Gatchalian** (asr-002099)  
+**[02:06:29.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002099)  
 PAMANA.
 
 **[02:06:36.020] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-002100)  
@@ -5971,100 +5971,100 @@ digital platform they currently have
 **[02:07:25.620] OPAPRU Secretary Mel Senen S. Sarmiento** (asr-002124)  
 already.
 
-**[02:07:27.360] Senator Sherwin "Win" T. Gatchalian** (asr-002125)  
+**[02:07:27.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002125)  
 Record, Mr. Chairman, nung during
 
-**[02:07:29.180] Senator Sherwin "Win" T. Gatchalian** (asr-002126)  
+**[02:07:29.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002126)  
 the
 
-**[02:07:32.200] Senator Sherwin "Win" T. Gatchalian** (asr-002127)  
+**[02:07:32.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002127)  
 suspension of the hearing,
 
-**[02:07:35.740] Senator Sherwin "Win" T. Gatchalian** (asr-002128)  
+**[02:07:35.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002128)  
 si Secretary Mel
 
-**[02:07:36.760] Senator Sherwin "Win" T. Gatchalian** (asr-002129)  
+**[02:07:36.760] Senate President Sherwin "Win" T. Gatchalian** (asr-002129)  
 will give us
 
-**[02:07:38.780] Senator Sherwin "Win" T. Gatchalian** (asr-002130)  
+**[02:07:38.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002130)  
 a proposal through the committee.
 
-**[02:07:41.080] Senator Sherwin "Win" T. Gatchalian** (asr-002131)  
+**[02:07:41.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002131)  
 Of course, we cannot
 
-**[02:07:41.960] Senator Sherwin "Win" T. Gatchalian** (asr-002132)  
+**[02:07:41.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002132)  
 divulge it openly because it's
 
-**[02:07:44.560] Senator Sherwin "Win" T. Gatchalian** (asr-002133)  
+**[02:07:44.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002133)  
 confidential in nature.
 
-**[02:07:46.480] Senator Sherwin "Win" T. Gatchalian** (asr-002134)  
+**[02:07:46.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002134)  
 But upon that record, that there are
 
-**[02:07:48.480] Senator Sherwin "Win" T. Gatchalian** (asr-002135)  
+**[02:07:48.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002135)  
 proposals to
 
-**[02:07:50.100] Senator Sherwin "Win" T. Gatchalian** (asr-002136)  
+**[02:07:50.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002136)  
 fulfill our commitments
 
-**[02:07:54.740] Senator Sherwin "Win" T. Gatchalian** (asr-002137)  
+**[02:07:54.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002137)  
 in relation to
 
-**[02:07:56.700] Senator Sherwin "Win" T. Gatchalian** (asr-002138)  
+**[02:07:56.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002138)  
 the decommissioning and the normalization.
 
-**[02:07:59.180] Senator Sherwin "Win" T. Gatchalian** (asr-002139)  
+**[02:07:59.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002139)  
 So, kasi nga, kanina
 
-**[02:08:01.060] Senator Sherwin "Win" T. Gatchalian** (asr-002140)  
+**[02:08:01.060] Senate President Sherwin "Win" T. Gatchalian** (asr-002140)  
 napag-usapan nung natin na
 
-**[02:08:02.700] Senator Sherwin "Win" T. Gatchalian** (asr-002141)  
+**[02:08:02.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002141)  
 kakailangan yung malaking amount,
 
-**[02:08:04.400] Senator Sherwin "Win" T. Gatchalian** (asr-002142)  
+**[02:08:04.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002142)  
 14 billion is the estimate.
 
-**[02:08:06.500] Senator Sherwin "Win" T. Gatchalian** (asr-002143)  
+**[02:08:06.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002143)  
 But then again, yan ang agreement natin
 
-**[02:08:08.660] Senator Sherwin "Win" T. Gatchalian** (asr-002144)  
+**[02:08:08.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002144)  
 with the groups.
 
-**[02:08:10.580] Senator Sherwin "Win" T. Gatchalian** (asr-002145)  
+**[02:08:10.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002145)  
 So, we cannot renege
 
-**[02:08:12.640] Senator Sherwin "Win" T. Gatchalian** (asr-002146)  
+**[02:08:12.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002146)  
 on that agreement.
 
-**[02:08:14.800] Senator Sherwin "Win" T. Gatchalian** (asr-002147)  
+**[02:08:14.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002147)  
 But then again, malaki nga, 14 billion
 
-**[02:08:16.840] Senator Sherwin "Win" T. Gatchalian** (asr-002148)  
+**[02:08:16.840] Senate President Sherwin "Win" T. Gatchalian** (asr-002148)  
 is a big amount, kaya
 
-**[02:08:18.340] Senator Sherwin "Win" T. Gatchalian** (asr-002149)  
+**[02:08:18.340] Senate President Sherwin "Win" T. Gatchalian** (asr-002149)  
 tumatagal. But just to put on record
 
-**[02:08:21.080] Senator Sherwin "Win" T. Gatchalian** (asr-002150)  
+**[02:08:21.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002150)  
 that OPAP
 
-**[02:08:22.980] Senator Sherwin "Win" T. Gatchalian** (asr-002151)  
+**[02:08:22.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002151)  
 through Secretary Semento has
 
-**[02:08:24.900] Senator Sherwin "Win" T. Gatchalian** (asr-002152)  
+**[02:08:24.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002152)  
 a proposal
 
-**[02:08:26.380] Senator Sherwin "Win" T. Gatchalian** (asr-002153)  
+**[02:08:26.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002153)  
 to the committee and we will just await.
 
-**[02:08:29.180] Senator Sherwin "Win" T. Gatchalian** (asr-002154)  
+**[02:08:29.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002154)  
 That proposal through a
 
-**[02:08:30.680] Senator Sherwin "Win" T. Gatchalian** (asr-002155)  
+**[02:08:30.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002155)  
 position paper. Thank you,
 
-**[02:08:32.980] Senator Sherwin "Win" T. Gatchalian** (asr-002156)  
+**[02:08:32.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002156)  
 Mr. Chairman.
 
 **[02:08:33.630] Senator Joseph Victor "JV" G. Ejercito** (asr-002156-split-2)  

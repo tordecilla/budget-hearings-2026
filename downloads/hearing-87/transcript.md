@@ -7,7 +7,7 @@ AI-assisted working draft. AI can make errors. Always check quotations, names, r
 **[00:06:30.000] Committee Secretary** (asr-000014)  
 And Deputy Executive Director Attorney Helen G. Aguila-Flores, and other members and officers of the Commission on Elections, sir. Thank you.
 
-**[00:06:42.320] Senator Panfilo Lacson** (asr-000014-split-2)  
+**[00:06:42.320] Senator Panfilo "Ping" M. Lacson** (asr-000014-split-2)  
 Thank you. So, wala nang... Si Senator Sotto pa, isang opening statement.
 
 **[00:06:48.670] Senator Vicente C. Sotto III** (asr-000014-split-3)  
@@ -22,7 +22,7 @@ can brief our chairman: what will you do if the Supreme Court issues a TRO tomor
 **[00:08:00.000] Senator Vicente C. Sotto III** (asr-000017)  
 my full support to the Comelec. Thank you very much. Thank you, Mr. Chairman.
 
-**[00:08:05.800] Senator Panfilo Lacson** (asr-000017-split-2)  
+**[00:08:05.800] Senator Panfilo "Ping" M. Lacson** (asr-000017-split-2)  
 Hindi mo nahintay 'yung sagot? Okay, so, yeah, please.
 
 **[00:08:12.600] COMELEC Chairperson George Erwin M. Garcia** (asr-000017-split-3)  
@@ -451,7 +451,7 @@ tomorrow, the Comelec naman po is prepared
 **[00:13:10.880] COMELEC Chairperson George Erwin M. Garcia** (asr-000158)  
 just in case.
 
-**[00:13:12.860] Senator Panfilo Lacson** (asr-000159)  
+**[00:13:12.860] Senator Panfilo "Ping" M. Lacson** (asr-000159)  
 Come what may, you're budget ready, di ba?
 
 **[00:13:15.100] COMELEC Chairperson George Erwin M. Garcia** (asr-000160)  
@@ -502,16 +502,16 @@ for the preparation for the
 **[00:13:44.820] COMELEC Chairperson George Erwin M. Garcia** (asr-000175)  
 national and local election of 2028.
 
-**[00:13:47.300] Senator Panfilo Lacson** (asr-000176)  
+**[00:13:47.300] Senator Panfilo "Ping" M. Lacson** (asr-000176)  
 And you have the authority under the
 
-**[00:13:48.800] Senator Panfilo Lacson** (asr-000177)  
+**[00:13:48.800] Senator Panfilo "Ping" M. Lacson** (asr-000177)  
 Constitution to realign.
 
 **[00:13:50.160] COMELEC Chairperson George Erwin M. Garcia** (asr-000177-split-2)  
 Yes po, Mr. Chair.
 
-**[00:13:51.080] Senator Panfilo Lacson** (asr-000178)  
+**[00:13:51.080] Senator Panfilo "Ping" M. Lacson** (asr-000178)  
 Being a constitutional body, di ba?
 
 **[00:13:52.360] COMELEC Chairperson George Erwin M. Garcia** (asr-000178-split-2)  
@@ -577,16 +577,16 @@ ensure that the election of
 **[00:14:30.720] COMELEC Chairperson George Erwin M. Garcia** (asr-000198)  
 2028 will not be compromised.
 
-**[00:14:33.160] Senator Panfilo Lacson** (asr-000199)  
+**[00:14:33.160] Senator Panfilo "Ping" M. Lacson** (asr-000199)  
 Ano pa ang pakikinabangan doon sa
 
-**[00:14:34.920] Senator Panfilo Lacson** (asr-000200)  
+**[00:14:34.920] Senator Panfilo "Ping" M. Lacson** (asr-000200)  
 ano pa pwedeng pakinabangan
 
-**[00:14:36.800] Senator Panfilo Lacson** (asr-000201)  
+**[00:14:36.800] Senator Panfilo "Ping" M. Lacson** (asr-000201)  
 doon sa 8 billion na naggasta na?
 
-**[00:14:39.100] Senator Panfilo Lacson** (asr-000202)  
+**[00:14:39.100] Senator Panfilo "Ping" M. Lacson** (asr-000202)  
 O naka-locate na?
 
 **[00:14:42.040] COMELEC Chairperson George Erwin M. Garcia** (asr-000203)  
@@ -685,16 +685,16 @@ Dagdag na electoral board members, dagdag na election para Pernalia.
 **[00:16:36.480] COMELEC Chairperson George Erwin M. Garcia** (asr-000234)  
 Maraming salamat po.
 
-**[00:16:38.180] Senator Panfilo Lacson** (asr-000235)  
+**[00:16:38.180] Senator Panfilo "Ping" M. Lacson** (asr-000235)  
 Ang masasayang lang, yung talagang tapon, ito yung manpower utilization, di ba?
 
-**[00:16:45.040] Senator Panfilo Lacson** (asr-000236)  
+**[00:16:45.040] Senator Panfilo "Ping" M. Lacson** (asr-000236)  
 In terms of, for the preparation.
 
 **[00:16:47.020] COMELEC Chairperson George Erwin M. Garcia** (asr-000237)  
 Yes po, Mr. Chair.
 
-**[00:16:47.940] Senator Panfilo Lacson** (asr-000238)  
+**[00:16:47.940] Senator Panfilo "Ping" M. Lacson** (asr-000238)  
 Like overtime pay, etc.
 
 **[00:16:50.600] COMELEC Chairperson George Erwin M. Garcia** (asr-000239)  
@@ -709,25 +709,25 @@ Masisigurado pong nakahanda lahat yung mga presinto natin, yung mga polling plac
 **[00:17:04.900] COMELEC Chairperson George Erwin M. Garcia** (asr-000242)  
 So, technically, hindi naman po, wala po, Mr. Chair.
 
-**[00:17:07.920] Senator Panfilo Lacson** (asr-000243)  
+**[00:17:07.920] Senator Panfilo "Ping" M. Lacson** (asr-000243)  
 Thank you. So, let's listen to your presentation.
 
 **[00:17:10.800] COMELEC Chairperson George Erwin M. Garcia** (asr-000244)  
 Maraming salamat po, Mr. Chair.
 
-**[00:17:11.600] Senator Panfilo Lacson** (asr-000245)  
+**[00:17:11.600] Senator Panfilo "Ping" M. Lacson** (asr-000245)  
 Yun na yung question and answer. Pagkatapos ng presentation, submitted na.
 
 **[00:17:15.220] COMELEC Chairperson George Erwin M. Garcia** (asr-000246)  
 Maraming salamat po, Mr. Chair, your honors.
 
-**[00:17:17.120] Senator Panfilo Lacson** (asr-000247)  
+**[00:17:17.120] Senator Panfilo "Ping" M. Lacson** (asr-000247)  
 Go ahead, please.
 
 **[00:17:18.000] COMELEC Chairperson George Erwin M. Garcia** (asr-000248)  
 Kung inyo pong mamarapatin.
 
-**[00:17:19.180] Senator Panfilo Lacson** (asr-000249)  
+**[00:17:19.180] Senator Panfilo "Ping" M. Lacson** (asr-000249)  
 Yes.
 
 **[00:17:27.480] COMELEC Chairperson George Erwin M. Garcia** (asr-000250)  
@@ -1027,13 +1027,13 @@ For example, tayo po ay magkakailanganin po natin more or less 24,000 machines.
 **[00:25:10.740] COMELEC Chairperson George Erwin M. Garcia** (asr-000348)  
 Kung kaya lang po, natanggalan po kami more or less ng 1.6 billion.
 
-**[00:25:14.720] Senator Panfilo Lacson** (asr-000349)  
+**[00:25:14.720] Senator Panfilo "Ping" M. Lacson** (asr-000349)  
 Question, if you know, how much has the House restored?
 
-**[00:25:19.000] Senator Panfilo Lacson** (asr-000350)  
+**[00:25:19.000] Senator Panfilo "Ping" M. Lacson** (asr-000350)  
 Kasi we have not received the GAB, the General [unclear] Bill, yung house version.
 
-**[00:25:24.320] Senator Panfilo Lacson** (asr-000351)  
+**[00:25:24.320] Senator Panfilo "Ping" M. Lacson** (asr-000351)  
 And if you know, nag-restore ba sila sa...
 
 **[00:25:27.860] COMELEC Chairperson George Erwin M. Garcia** (asr-000352)  
@@ -1066,7 +1066,7 @@ Pero ang Congress din po, sa kanila pong special provision, ilalagay din daw po 
 **[00:26:17.840] COMELEC Chairperson George Erwin M. Garcia** (asr-000361)  
 para daw po makasigurado na may magagamit si Comelec.
 
-**[00:26:23.580] Senator Panfilo Lacson** (asr-000362)  
+**[00:26:23.580] Senator Panfilo "Ping" M. Lacson** (asr-000362)  
 Understood. So you're hoping na ma-postpone?
 
 **[00:26:28.380] COMELEC Chairperson George Erwin M. Garcia** (asr-000363)  
@@ -1093,37 +1093,37 @@ yung pong sa registration of voters namin, and such other activities na natangga
 **[00:27:08.960] COMELEC Chairperson George Erwin M. Garcia** (asr-000370)  
 Ang importante po, okay na po yung 11 billion kesa po, kahit po nawala yung buong 15, at least po mayroon kami yung 11 billion.
 
-**[00:27:17.280] Senator Panfilo Lacson** (asr-000371)  
+**[00:27:17.280] Senator Panfilo "Ping" M. Lacson** (asr-000371)  
 Kindly update, kasi yung binigay sa aking briefer, yung sa utilization rate,
 
-**[00:27:21.820] Senator Panfilo Lacson** (asr-000372)  
+**[00:27:21.820] Senator Panfilo "Ping" M. Lacson** (asr-000372)  
 well, it is true na 99.9 yung, as of December 31, yung aming data.
 
-**[00:27:28.900] Senator Panfilo Lacson** (asr-000373)  
+**[00:27:28.900] Senator Panfilo "Ping" M. Lacson** (asr-000373)  
 Kung meron kayong as of June 30, 2026, kindly update us.
 
 **[00:27:32.840] COMELEC Chairperson George Erwin M. Garcia** (asr-000374)  
 Yes, po, Mr. Chair.
 
-**[00:27:33.660] Senator Panfilo Lacson** (asr-000375)  
+**[00:27:33.660] Senator Panfilo "Ping" M. Lacson** (asr-000375)  
 Kasi yung sa, yung na-release talagang nasa 99.9%, no?
 
-**[00:27:39.740] Senator Panfilo Lacson** (asr-000376)  
+**[00:27:39.740] Senator Panfilo "Ping" M. Lacson** (asr-000376)  
 47.334 billion ang na-release, na iwan lang 32 million eh.
 
-**[00:27:46.280] Senator Panfilo Lacson** (asr-000377)  
+**[00:27:46.280] Senator Panfilo "Ping" M. Lacson** (asr-000377)  
 But of the release amount, 26.4 billion or 55.9%
 
-**[00:27:51.820] Senator Panfilo Lacson** (asr-000378)  
+**[00:27:51.820] Senator Panfilo "Ping" M. Lacson** (asr-000378)  
 lang yung obligated.
 
-**[00:27:54.900] Senator Panfilo Lacson** (asr-000379)  
+**[00:27:54.900] Senator Panfilo "Ping" M. Lacson** (asr-000379)  
 Okay, so yung 20.861 billion, corresponding to 44.1%, yun ang remain unobligated.
 
-**[00:28:04.520] Senator Panfilo Lacson** (asr-000380)  
+**[00:28:04.520] Senator Panfilo "Ping" M. Lacson** (asr-000380)  
 Pero yung disbursement rate, again, mataas.
 
-**[00:28:08.160] Senator Panfilo Lacson** (asr-000381)  
+**[00:28:08.160] Senator Panfilo "Ping" M. Lacson** (asr-000381)  
 So,
 
 **[00:28:09.580] COMELEC Chairperson George Erwin M. Garcia** (asr-000382)  
@@ -1132,19 +1132,19 @@ So, Mr. Chair, sa kasalukuyan po, as of September 15, ang aming pong budget util
 **[00:28:17.760] COMELEC Chairperson George Erwin M. Garcia** (asr-000383)  
 sapagkat ito nga po yung sa barangay ng SK, yung part ng period po,
 
-**[00:28:21.820] Senator Panfilo Lacson** (asr-000384)  
+**[00:28:21.820] Senator Panfilo "Ping" M. Lacson** (asr-000384)  
 Yeah, I know. Pero yung obligation, yung unobligated, nabawasan na?
 
 **[00:28:26.240] COMELEC Chairperson George Erwin M. Garcia** (asr-000385)  
 Yes.
 
-**[00:28:27.040] Senator Panfilo Lacson** (asr-000386)  
+**[00:28:27.040] Senator Panfilo "Ping" M. Lacson** (asr-000386)  
 Naka-factorin yung BSKE?
 
 **[00:28:29.480] COMELEC Chairperson George Erwin M. Garcia** (asr-000387)  
 Yes, po, Mr. Chair.
 
-**[00:28:30.140] Senator Panfilo Lacson** (asr-000388)  
+**[00:28:30.140] Senator Panfilo "Ping" M. Lacson** (asr-000388)  
 Ah, okay. Thank you. Understood.
 
 **[00:28:36.020] Senator Christopher Lawrence T. Go** (asr-000389)  
@@ -1162,22 +1162,22 @@ for the successful conduct of the first ever Bangsamoro Parliamentary Elections.
 **[00:28:57.560] Senator Christopher Lawrence T. Go** (asr-000393)  
 Congratulations po sa inyong lahat.
 
-**[00:28:59.160] Senator Panfilo Lacson** (asr-000394)  
+**[00:28:59.160] Senator Panfilo "Ping" M. Lacson** (asr-000394)  
 Anyway, we'll give you time to submit according to the order of priorities,
 
-**[00:29:04.460] Senator Panfilo Lacson** (asr-000395)  
+**[00:29:04.460] Senator Panfilo "Ping" M. Lacson** (asr-000395)  
 kung ano yung gusto nyong ipaugment.
 
-**[00:29:08.740] Senator Panfilo Lacson** (asr-000396)  
+**[00:29:08.740] Senator Panfilo "Ping" M. Lacson** (asr-000396)  
 And let's find out if we can create some fiscal space pagdating nung GAB sa amin.
 
 **[00:29:15.240] COMELEC Chairperson George Erwin M. Garcia** (asr-000397)  
 Yes, po, Mr. Chair. Maraming maraming salamat.
 
-**[00:29:17.080] Senator Panfilo Lacson** (asr-000398)  
+**[00:29:17.080] Senator Panfilo "Ping" M. Lacson** (asr-000398)  
 Ano pa naman? November pa naman siguro yung plenary dito eh, so...
 
-**[00:29:21.700] Senator Panfilo Lacson** (asr-000399)  
+**[00:29:21.700] Senator Panfilo "Ping" M. Lacson** (asr-000399)  
 Okay. So, yeah.
 
 **[00:29:25.260] Senator Christopher Lawrence T. Go** (asr-000400)  
@@ -1186,15 +1186,15 @@ I move to approve the budget of the Commission on Elections.
 **[00:29:29.320] Senator Christopher Lawrence T. Go** (asr-000401)  
 And I recommend pala to approve the budget and submit it to the plenary for consideration, po.
 
-**[00:29:36.720] Senator Panfilo Lacson** (asr-000402)  
+**[00:29:36.720] Senator Panfilo "Ping" M. Lacson** (asr-000402)  
 There's a motion to recommend to the plenary the budget of the Comelec.
 
-**[00:29:41.520] Senator Panfilo Lacson** (asr-000403)  
+**[00:29:41.520] Senator Panfilo "Ping" M. Lacson** (asr-000403)  
 So, hearing no objection, so submitted, approved. Thank you.
 
 **[00:29:47.000] COMELEC Chairperson George Erwin M. Garcia** (asr-000404)  
 Maraming salamat po, Mr. Chair. Senator Bong, maraming maraming salamat po.
 
-**[00:30:00.000] Senator Panfilo Lacson** (asr-000406)  
+**[00:30:00.000] Senator Panfilo "Ping" M. Lacson** (asr-000406)  
 [unclear] suspended.
 

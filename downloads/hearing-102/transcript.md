@@ -2260,166 +2260,166 @@ official present here, you'll have first
 **[00:45:46.000] Senator Risa Hontiveros** (asr-000773)  
 crack at the questions to the Department.
 
-**[00:45:47.960] Senator Sherwin "Win" T. Gatchalian** (asr-000774)  
+**[00:45:47.960] Senate President Sherwin "Win" T. Gatchalian** (asr-000774)  
 Just very short, Madam Chairperson.
 
 **[00:45:50.180] Senator Risa Hontiveros** (asr-000775)  
 Let's proceed.
 
-**[00:45:51.980] Senator Sherwin "Win" T. Gatchalian** (asr-000776)  
+**[00:45:51.980] Senate President Sherwin "Win" T. Gatchalian** (asr-000776)  
 Talagang
 
-**[00:45:52.500] Senator Sherwin "Win" T. Gatchalian** (asr-000777)  
+**[00:45:52.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000777)  
 pumapasok tayo sa
 
-**[00:45:55.640] Senator Sherwin "Win" T. Gatchalian** (asr-000778)  
+**[00:45:55.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000778)  
 tawag ko nga doon,
 
-**[00:45:57.580] Senator Sherwin "Win" T. Gatchalian** (asr-000779)  
+**[00:45:57.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000779)  
 triple whammy
 
-**[00:45:58.660] Senator Sherwin "Win" T. Gatchalian** (asr-000780)  
+**[00:45:58.660] Senate President Sherwin "Win" T. Gatchalian** (asr-000780)  
 sa ating bansa,
 
-**[00:46:01.400] Senator Sherwin "Win" T. Gatchalian** (asr-000781)  
+**[00:46:01.400] Senate President Sherwin "Win" T. Gatchalian** (asr-000781)  
 sa ating ekonomiya.
 
-**[00:46:02.980] Senator Sherwin "Win" T. Gatchalian** (asr-000782)  
+**[00:46:02.980] Senate President Sherwin "Win" T. Gatchalian** (asr-000782)  
 In fact, because of that triple whammy,
 
-**[00:46:05.200] Senator Sherwin "Win" T. Gatchalian** (asr-000783)  
+**[00:46:05.200] Senate President Sherwin "Win" T. Gatchalian** (asr-000783)  
 the Senate created the RISE Committee
 
-**[00:46:07.280] Senator Sherwin "Win" T. Gatchalian** (asr-000784)  
+**[00:46:07.280] Senate President Sherwin "Win" T. Gatchalian** (asr-000784)  
 to address the economic
 
-**[00:46:09.300] Senator Sherwin "Win" T. Gatchalian** (asr-000785)  
+**[00:46:09.300] Senate President Sherwin "Win" T. Gatchalian** (asr-000785)  
 slowdown of our country.
 
-**[00:46:12.120] Senator Sherwin "Win" T. Gatchalian** (asr-000786)  
+**[00:46:12.120] Senate President Sherwin "Win" T. Gatchalian** (asr-000786)  
 So, in triple whammy will be
 
-**[00:46:13.500] Senator Sherwin "Win" T. Gatchalian** (asr-000787)  
+**[00:46:13.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000787)  
 the Iran conflict.
 
-**[00:46:15.460] Senator Sherwin "Win" T. Gatchalian** (asr-000788)  
+**[00:46:15.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000788)  
 Number two will be
 
-**[00:46:17.320] Senator Sherwin "Win" T. Gatchalian** (asr-000789)  
+**[00:46:17.320] Senate President Sherwin "Win" T. Gatchalian** (asr-000789)  
 the rise in oil prices
 
-**[00:46:19.120] Senator Sherwin "Win" T. Gatchalian** (asr-000790)  
+**[00:46:19.120] Senate President Sherwin "Win" T. Gatchalian** (asr-000790)  
 and may spillover effect
 
-**[00:46:21.420] Senator Sherwin "Win" T. Gatchalian** (asr-000791)  
+**[00:46:21.420] Senate President Sherwin "Win" T. Gatchalian** (asr-000791)  
 dyan tulad ng inflation.
 
-**[00:46:23.760] Senator Sherwin "Win" T. Gatchalian** (asr-000792)  
+**[00:46:23.760] Senate President Sherwin "Win" T. Gatchalian** (asr-000792)  
 And number three, what we are
 
-**[00:46:25.380] Senator Sherwin "Win" T. Gatchalian** (asr-000793)  
+**[00:46:25.380] Senate President Sherwin "Win" T. Gatchalian** (asr-000793)  
 now experiencing and we
 
-**[00:46:27.420] Senator Sherwin "Win" T. Gatchalian** (asr-000794)  
+**[00:46:27.420] Senate President Sherwin "Win" T. Gatchalian** (asr-000794)  
 will be experiencing,
 
-**[00:46:28.660] Senator Sherwin "Win" T. Gatchalian** (asr-000795)  
+**[00:46:28.660] Senate President Sherwin "Win" T. Gatchalian** (asr-000795)  
 throughout the next few months,
 
-**[00:46:29.960] Senator Sherwin "Win" T. Gatchalian** (asr-000796)  
+**[00:46:29.960] Senate President Sherwin "Win" T. Gatchalian** (asr-000796)  
 will be El Nino.
 
-**[00:46:31.300] Senator Sherwin "Win" T. Gatchalian** (asr-000797)  
+**[00:46:31.300] Senate President Sherwin "Win" T. Gatchalian** (asr-000797)  
 And because of this effect,
 
-**[00:46:36.740] Senator Sherwin "Win" T. Gatchalian** (asr-000798)  
+**[00:46:36.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000798)  
 ang kinakabahan ako, baka hindi natin
 
-**[00:46:40.840] Senator Sherwin "Win" T. Gatchalian** (asr-000799)  
+**[00:46:40.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000799)  
 maabot, hindi natin maabot
 
-**[00:46:43.380] Senator Sherwin "Win" T. Gatchalian** (asr-000800)  
+**[00:46:43.380] Senate President Sherwin "Win" T. Gatchalian** (asr-000800)  
 yung ating target pagdating sa
 
-**[00:46:45.480] Senator Sherwin "Win" T. Gatchalian** (asr-000801)  
+**[00:46:45.480] Senate President Sherwin "Win" T. Gatchalian** (asr-000801)  
 poverty reduction.
 
-**[00:46:47.160] Senator Sherwin "Win" T. Gatchalian** (asr-000802)  
+**[00:46:47.160] Senate President Sherwin "Win" T. Gatchalian** (asr-000802)  
 And we also need to make sure
 
-**[00:46:49.280] Senator Sherwin "Win" T. Gatchalian** (asr-000803)  
+**[00:46:49.280] Senate President Sherwin "Win" T. Gatchalian** (asr-000803)  
 that there are enough social
 
-**[00:46:51.540] Senator Sherwin "Win" T. Gatchalian** (asr-000804)  
+**[00:46:51.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000804)  
 safety nets for inflation.
 
-**[00:46:53.500] Senator Sherwin "Win" T. Gatchalian** (asr-000805)  
+**[00:46:53.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000805)  
 Yung gera sa Iran, on and off eh.
 
-**[00:46:55.380] Senator Sherwin "Win" T. Gatchalian** (asr-000806)  
+**[00:46:55.380] Senate President Sherwin "Win" T. Gatchalian** (asr-000806)  
 Minsan bumababa ang presyo ng langis,
 
-**[00:46:57.400] Senator Sherwin "Win" T. Gatchalian** (asr-000807)  
+**[00:46:57.400] Senate President Sherwin "Win" T. Gatchalian** (asr-000807)  
 Minsan hindi.
 
-**[00:46:58.040] Senator Sherwin "Win" T. Gatchalian** (asr-000808)  
+**[00:46:58.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000808)  
 But every time nang pa-fluctuate yan,
 
-**[00:47:00.020] Senator Sherwin "Win" T. Gatchalian** (asr-000809)  
+**[00:47:00.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000809)  
 tama niyan ang inflation.
 
-**[00:47:01.760] Senator Sherwin "Win" T. Gatchalian** (asr-000810)  
+**[00:47:01.760] Senate President Sherwin "Win" T. Gatchalian** (asr-000810)  
 If you look at inflation, you also look at
 
-**[00:47:03.720] Senator Sherwin "Win" T. Gatchalian** (asr-000811)  
+**[00:47:03.720] Senate President Sherwin "Win" T. Gatchalian** (asr-000811)  
 the price of utilities, the price of oil,
 
-**[00:47:07.040] Senator Sherwin "Win" T. Gatchalian** (asr-000812)  
+**[00:47:07.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000812)  
 and the price of food.
 
-**[00:47:08.260] Senator Sherwin "Win" T. Gatchalian** (asr-000813)  
+**[00:47:08.260] Senate President Sherwin "Win" T. Gatchalian** (asr-000813)  
 Yung food, doon ako nag-worry.
 
-**[00:47:10.460] Senator Sherwin "Win" T. Gatchalian** (asr-000814)  
+**[00:47:10.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000814)  
 That's why we need the social safety nets
 
-**[00:47:12.580] Senator Sherwin "Win" T. Gatchalian** (asr-000815)  
+**[00:47:12.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000815)  
 from the SWD to make sure
 
-**[00:47:14.660] Senator Sherwin "Win" T. Gatchalian** (asr-000816)  
+**[00:47:14.660] Senate President Sherwin "Win" T. Gatchalian** (asr-000816)  
 that our constituents have food to eat,
 
-**[00:47:17.700] Senator Sherwin "Win" T. Gatchalian** (asr-000817)  
+**[00:47:17.700] Senate President Sherwin "Win" T. Gatchalian** (asr-000817)  
 their children go to school,
 
-**[00:47:19.460] Senator Sherwin "Win" T. Gatchalian** (asr-000818)  
+**[00:47:19.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000818)  
 hindi nakakain yung kanilang
 
-**[00:47:22.040] Senator Sherwin "Win" T. Gatchalian** (asr-000819)  
+**[00:47:22.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000819)  
 disposable income
 
-**[00:47:24.240] Senator Sherwin "Win" T. Gatchalian** (asr-000820)  
+**[00:47:24.240] Senate President Sherwin "Win" T. Gatchalian** (asr-000820)  
 ng inflation.
 
-**[00:47:27.120] Senator Sherwin "Win" T. Gatchalian** (asr-000821)  
+**[00:47:27.120] Senate President Sherwin "Win" T. Gatchalian** (asr-000821)  
 At,
 
-**[00:47:28.040] Senator Sherwin "Win" T. Gatchalian** (asr-000822)  
+**[00:47:28.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000822)  
 nakakapagtrabaho sila ng maayos.
 
-**[00:47:31.300] Senator Sherwin "Win" T. Gatchalian** (asr-000823)  
+**[00:47:31.300] Senate President Sherwin "Win" T. Gatchalian** (asr-000823)  
 So, we will hear from the department
 
-**[00:47:32.880] Senator Sherwin "Win" T. Gatchalian** (asr-000824)  
+**[00:47:32.880] Senate President Sherwin "Win" T. Gatchalian** (asr-000824)  
 what are the interventions on those
 
-**[00:47:35.020] Senator Sherwin "Win" T. Gatchalian** (asr-000825)  
+**[00:47:35.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000825)  
 specific aspects.
 
-**[00:47:37.360] Senator Sherwin "Win" T. Gatchalian** (asr-000826)  
+**[00:47:37.360] Senate President Sherwin "Win" T. Gatchalian** (asr-000826)  
 And maraming salamat,
 
-**[00:47:38.440] Senator Sherwin "Win" T. Gatchalian** (asr-000827)  
+**[00:47:38.440] Senate President Sherwin "Win" T. Gatchalian** (asr-000827)  
 Madam Chairperson.
 
 **[00:47:40.700] Senator Risa Hontiveros** (asr-000828)  
@@ -4612,34 +4612,34 @@ Sige po.
 **[01:20:14.900] Senator Risa Hontiveros** (asr-001547)  
 Please proceed, sir.
 
-**[01:20:15.520] Senator Sherwin "Win" T. Gatchalian** (asr-001548)  
+**[01:20:15.520] Senate President Sherwin "Win" T. Gatchalian** (asr-001548)  
 Madam Chairperson,
 
-**[01:20:16.860] Senator Sherwin "Win" T. Gatchalian** (asr-001549)  
+**[01:20:16.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001549)  
 I'll waive my privilege
 
-**[01:20:19.760] Senator Sherwin "Win" T. Gatchalian** (asr-001550)  
+**[01:20:19.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001550)  
 to ask first.
 
-**[01:20:20.600] Senator Sherwin "Win" T. Gatchalian** (asr-001551)  
+**[01:20:20.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001551)  
 I came in late, actually.
 
-**[01:20:22.280] Senator Sherwin "Win" T. Gatchalian** (asr-001552)  
+**[01:20:22.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001552)  
 Senator Aimee and Senator Irwin
 
-**[01:20:23.760] Senator Sherwin "Win" T. Gatchalian** (asr-001553)  
+**[01:20:23.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001553)  
 were here ahead of me.
 
-**[01:20:25.220] Senator Sherwin "Win" T. Gatchalian** (asr-001554)  
+**[01:20:25.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001554)  
 So, I'll waive...
 
-**[01:20:26.380] Senator Sherwin "Win" T. Gatchalian** (asr-001555)  
+**[01:20:26.380] Senate President Sherwin "Win" T. Gatchalian** (asr-001555)  
 I'll waive my privilege
 
-**[01:20:28.500] Senator Sherwin "Win" T. Gatchalian** (asr-001556)  
+**[01:20:28.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001556)  
 so that they can answer.
 
-**[01:20:30.340] Senator Sherwin "Win" T. Gatchalian** (asr-001557)  
+**[01:20:30.340] Senate President Sherwin "Win" T. Gatchalian** (asr-001557)  
 They can ask their questions.
 
 **[01:20:32.220] Senator Risa Hontiveros** (asr-001558)  
@@ -8017,391 +8017,391 @@ It's the turn.
 **[02:00:00.000] Senator Risa Hontiveros** (asr-002676)  
 of the Senate President.
 
-**[02:00:01.680] Senator Sherwin "Win" T. Gatchalian** (asr-002677)  
+**[02:00:01.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002677)  
 Thank you, Madam Chairperson.
 
-**[02:00:04.020] Senator Sherwin "Win" T. Gatchalian** (asr-002678)  
+**[02:00:04.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002678)  
 Sundan ko po yung mga tanong
 
-**[02:00:05.780] Senator Sherwin "Win" T. Gatchalian** (asr-002679)  
+**[02:00:05.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002679)  
 ni Senator Erwin
 
-**[02:00:06.820] Senator Sherwin "Win" T. Gatchalian** (asr-002680)  
+**[02:00:06.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002680)  
 dahil marami po siyang importanteng
 
-**[02:00:09.820] Senator Sherwin "Win" T. Gatchalian** (asr-002681)  
+**[02:00:09.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002681)  
 points na na-raise
 
-**[02:00:12.140] Senator Sherwin "Win" T. Gatchalian** (asr-002682)  
+**[02:00:12.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002682)  
 one of which itong
 
-**[02:00:13.640] Senator Sherwin "Win" T. Gatchalian** (asr-002683)  
+**[02:00:13.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002683)  
 I saw in the slide of the SWD
 
-**[02:00:16.080] Senator Sherwin "Win" T. Gatchalian** (asr-002684)  
+**[02:00:16.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002684)  
 slide 11
 
-**[02:00:18.020] Senator Sherwin "Win" T. Gatchalian** (asr-002685)  
+**[02:00:18.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002685)  
 Wait, can we
 
-**[02:00:19.960] Senator Sherwin "Win" T. Gatchalian** (asr-002686)  
+**[02:00:19.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002686)  
 flash it for a sec?
 
-**[02:00:23.680] Senator Sherwin "Win" T. Gatchalian** (asr-002687)  
+**[02:00:23.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002687)  
 Na
 
-**[02:00:24.000] Senator Sherwin "Win" T. Gatchalian** (asr-002688)  
+**[02:00:24.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002688)  
 nabibigay sa QRF
 
-**[02:00:28.160] Senator Sherwin "Win" T. Gatchalian** (asr-002689)  
+**[02:00:28.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002689)  
 for example
 
-**[02:00:29.900] Senator Sherwin "Win" T. Gatchalian** (asr-002690)  
+**[02:00:29.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002690)  
 in 2026, nabigay sa
 
-**[02:00:31.780] Senator Sherwin "Win" T. Gatchalian** (asr-002691)  
+**[02:00:31.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002691)  
 QRF is 3 billion
 
-**[02:00:33.240] Senator Sherwin "Win" T. Gatchalian** (asr-002692)  
+**[02:00:33.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002692)  
 but yung replenishment is
 
-**[02:00:35.380] Senator Sherwin "Win" T. Gatchalian** (asr-002693)  
+**[02:00:35.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002693)  
 13. So, it's almost
 
-**[02:00:37.980] Senator Sherwin "Win" T. Gatchalian** (asr-002694)  
+**[02:00:37.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002694)  
 4 times the amount
 
-**[02:00:39.920] Senator Sherwin "Win" T. Gatchalian** (asr-002695)  
+**[02:00:39.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002695)  
 Pa-flash, ComSec?
 
 **[02:00:41.600] Senator Risa Hontiveros** (asr-002696)  
 Page 20 po ba yun, Tech?
 
-**[02:00:44.120] Senator Sherwin "Win" T. Gatchalian** (asr-002697)  
+**[02:00:44.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002697)  
 Quick response, Juan.
 
-**[02:00:46.360] Senator Sherwin "Win" T. Gatchalian** (asr-002698)  
+**[02:00:46.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002698)  
 Page 20
 
-**[02:00:47.640] Senator Sherwin "Win" T. Gatchalian** (asr-002699)  
+**[02:00:47.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002699)  
 The SWD slide
 
-**[02:00:59.900] Senator Sherwin "Win" T. Gatchalian** (asr-002700)  
+**[02:00:59.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002700)  
 and so
 
-**[02:01:02.100] Senator Sherwin "Win" T. Gatchalian** (asr-002701)  
+**[02:01:02.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002701)  
 and then
 
-**[02:01:03.320] Senator Sherwin "Win" T. Gatchalian** (asr-002702)  
+**[02:01:03.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002702)  
 13 billion ang replenishment
 
-**[02:01:05.700] Senator Sherwin "Win" T. Gatchalian** (asr-002703)  
+**[02:01:05.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002703)  
 This is September, di pa tayo tapos
 
-**[02:01:07.920] Senator Sherwin "Win" T. Gatchalian** (asr-002704)  
+**[02:01:07.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002704)  
 ang taon
 
-**[02:01:08.780] Senator Sherwin "Win" T. Gatchalian** (asr-002705)  
+**[02:01:08.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002705)  
 Earlier, we had a hearing
 
-**[02:01:12.020] Senator Sherwin "Win" T. Gatchalian** (asr-002706)  
+**[02:01:12.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002706)  
 with the Department of Agriculture
 
-**[02:01:14.400] Senator Sherwin "Win" T. Gatchalian** (asr-002707)  
+**[02:01:14.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002707)  
 at magandang sinabi
 
-**[02:01:16.440] Senator Sherwin "Win" T. Gatchalian** (asr-002708)  
+**[02:01:16.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002708)  
 ni Secretary Kiko
 
-**[02:01:18.320] Senator Sherwin "Win" T. Gatchalian** (asr-002709)  
+**[02:01:18.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002709)  
 na merong very close
 
-**[02:01:20.140] Senator Sherwin "Win" T. Gatchalian** (asr-002710)  
+**[02:01:20.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002710)  
 coordination with the SWD
 
-**[02:01:22.240] Senator Sherwin "Win" T. Gatchalian** (asr-002711)  
+**[02:01:22.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002711)  
 and DOLE to respond to
 
-**[02:01:24.380] Senator Sherwin "Win" T. Gatchalian** (asr-002712)  
+**[02:01:24.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002712)  
 those who are affected
 
-**[02:01:26.200] Senator Sherwin "Win" T. Gatchalian** (asr-002713)  
+**[02:01:26.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002713)  
 by El Nino
 
-**[02:01:27.240] Senator Sherwin "Win" T. Gatchalian** (asr-002714)  
+**[02:01:27.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002714)  
 So, nako-conserve
 
-**[02:01:29.900] Senator Sherwin "Win" T. Gatchalian** (asr-002715)  
+**[02:01:29.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002715)  
 nagiging efficient yung
 
-**[02:01:31.240] Senator Sherwin "Win" T. Gatchalian** (asr-002716)  
+**[02:01:31.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002716)  
 pagtulong natin sa tao
 
-**[02:01:33.540] Senator Sherwin "Win" T. Gatchalian** (asr-002717)  
+**[02:01:33.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002717)  
 but in this case, makikita natin na
 
-**[02:01:36.140] Senator Sherwin "Win" T. Gatchalian** (asr-002718)  
+**[02:01:36.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002718)  
 ganito kalaki
 
-**[02:01:37.160] Senator Sherwin "Win" T. Gatchalian** (asr-002719)  
+**[02:01:37.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002719)  
 yung replenishment
 
-**[02:01:39.320] Senator Sherwin "Win" T. Gatchalian** (asr-002720)  
+**[02:01:39.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002720)  
 and kung ibabangga natin
 
-**[02:01:42.320] Senator Sherwin "Win" T. Gatchalian** (asr-002721)  
+**[02:01:42.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002721)  
 ito sa 2027
 
-**[02:01:43.720] Senator Sherwin "Win" T. Gatchalian** (asr-002722)  
+**[02:01:43.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002722)  
 it's only 1.25 billion
 
-**[02:01:46.220] Senator Sherwin "Win" T. Gatchalian** (asr-002723)  
+**[02:01:46.220] Senate President Sherwin "Win" T. Gatchalian** (asr-002723)  
 So, obviously
 
-**[02:01:47.700] Senator Sherwin "Win" T. Gatchalian** (asr-002724)  
+**[02:01:47.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002724)  
 obviously
 
-**[02:01:50.180] Senator Sherwin "Win" T. Gatchalian** (asr-002725)  
+**[02:01:50.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002725)  
 magre-replenish yan
 
-**[02:01:51.320] Senator Sherwin "Win" T. Gatchalian** (asr-002726)  
+**[02:01:51.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002726)  
 and
 
-**[02:01:52.400] Senator Sherwin "Win" T. Gatchalian** (asr-002727)  
+**[02:01:52.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002727)  
 like I said in my opening speech
 
-**[02:01:56.220] Senator Sherwin "Win" T. Gatchalian** (asr-002728)  
+**[02:01:56.220] Senate President Sherwin "Win" T. Gatchalian** (asr-002728)  
 in El Nino, umpisa pa lang
 
-**[02:01:57.980] Senator Sherwin "Win" T. Gatchalian** (asr-002729)  
+**[02:01:57.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002729)  
 eh
 
-**[02:01:58.360] Senator Sherwin "Win" T. Gatchalian** (asr-002730)  
+**[02:01:58.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002730)  
 at
 
-**[02:02:00.460] Senator Sherwin "Win" T. Gatchalian** (asr-002731)  
+**[02:02:00.460] Senate President Sherwin "Win" T. Gatchalian** (asr-002731)  
 in-expect natin na mas
 
-**[02:02:03.000] Senator Sherwin "Win" T. Gatchalian** (asr-002732)  
+**[02:02:03.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002732)  
 sasabay ito doon
 
-**[02:02:06.020] Senator Sherwin "Win" T. Gatchalian** (asr-002733)  
+**[02:02:06.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002733)  
 sa nangyayari sa Iran
 
-**[02:02:07.860] Senator Sherwin "Win" T. Gatchalian** (asr-002734)  
+**[02:02:07.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002734)  
 which is inflationary
 
-**[02:02:09.940] Senator Sherwin "Win" T. Gatchalian** (asr-002735)  
+**[02:02:09.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002735)  
 at hopefully
 
-**[02:02:11.440] Senator Sherwin "Win" T. Gatchalian** (asr-002736)  
+**[02:02:11.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002736)  
 wala na tayong makita pang iba pang
 
-**[02:02:13.700] Senator Sherwin "Win" T. Gatchalian** (asr-002737)  
+**[02:02:13.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002737)  
 mga natural calamities
 
-**[02:02:15.880] Senator Sherwin "Win" T. Gatchalian** (asr-002738)  
+**[02:02:15.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002738)  
 So,
 
-**[02:02:17.540] Senator Sherwin "Win" T. Gatchalian** (asr-002739)  
+**[02:02:17.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002739)  
 gusto ko lang i-point out
 
-**[02:02:19.820] Senator Sherwin "Win" T. Gatchalian** (asr-002740)  
+**[02:02:19.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002740)  
 yan and
 
-**[02:02:21.040] Senator Sherwin "Win" T. Gatchalian** (asr-002741)  
+**[02:02:21.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002741)  
 when we were looking at the
 
-**[02:02:24.320] Senator Sherwin "Win" T. Gatchalian** (asr-002742)  
+**[02:02:24.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002742)  
 NEP
 
-**[02:02:25.160] Senator Sherwin "Win" T. Gatchalian** (asr-002743)  
+**[02:02:25.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002743)  
 and DREAM Fund, kung saan yung source
 
-**[02:02:27.840] Senator Sherwin "Win" T. Gatchalian** (asr-002744)  
+**[02:02:27.840] Senate President Sherwin "Win" T. Gatchalian** (asr-002744)  
 yan, di ba?
 
-**[02:02:28.360] Senator Sherwin "Win" T. Gatchalian** (asr-002745)  
+**[02:02:28.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002745)  
 Yan ang source ng replenishment
 
-**[02:02:30.240] Senator Sherwin "Win" T. Gatchalian** (asr-002746)  
+**[02:02:30.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002746)  
 nabawasan siya ng 9 billion
 
-**[02:02:32.660] Senator Sherwin "Win" T. Gatchalian** (asr-002747)  
+**[02:02:32.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002747)  
 from NEP to GAB
 
-**[02:02:33.920] Senator Sherwin "Win" T. Gatchalian** (asr-002748)  
+**[02:02:33.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002748)  
 Center Tulfo
 
-**[02:02:36.040] Senator Sherwin "Win" T. Gatchalian** (asr-002749)  
+**[02:02:36.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002749)  
 So, this is a
 
-**[02:02:38.180] Senator Sherwin "Win" T. Gatchalian** (asr-002750)  
+**[02:02:38.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002750)  
 for me, a concerning
 
-**[02:02:39.800] Senator Sherwin "Win" T. Gatchalian** (asr-002751)  
+**[02:02:39.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002751)  
 event
 
-**[02:02:42.660] Senator Sherwin "Win" T. Gatchalian** (asr-002752)  
+**[02:02:42.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002752)  
 dahil
 
-**[02:02:43.940] Senator Sherwin "Win" T. Gatchalian** (asr-002753)  
+**[02:02:43.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002753)  
 alam natin na
 
-**[02:02:48.780] Senator Sherwin "Win" T. Gatchalian** (asr-002754)  
+**[02:02:48.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002754)  
 delikado tayo in the next
 
-**[02:02:50.300] Senator Sherwin "Win" T. Gatchalian** (asr-002755)  
+**[02:02:50.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002755)  
 maybe in the next 6 to 12 months
 
-**[02:02:52.900] Senator Sherwin "Win" T. Gatchalian** (asr-002756)  
+**[02:02:52.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002756)  
 because of El Nino
 
-**[02:02:54.840] Senator Sherwin "Win" T. Gatchalian** (asr-002757)  
+**[02:02:54.840] Senate President Sherwin "Win" T. Gatchalian** (asr-002757)  
 but yan again
 
-**[02:02:55.960] Senator Sherwin "Win" T. Gatchalian** (asr-002758)  
+**[02:02:55.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002758)  
 nabawasan ng 9.5 billion
 
-**[02:02:58.360] Senator Sherwin "Win" T. Gatchalian** (asr-002759)  
+**[02:02:58.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002759)  
 yung N-DREAM Fund
 
-**[02:02:59.920] Senator Sherwin "Win" T. Gatchalian** (asr-002760)  
+**[02:02:59.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002760)  
 of which yan ang source ng department
 
-**[02:03:02.120] Senator Sherwin "Win" T. Gatchalian** (asr-002761)  
+**[02:03:02.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002761)  
 pag nagre-replenish
 
-**[02:03:04.160] Senator Sherwin "Win" T. Gatchalian** (asr-002762)  
+**[02:03:04.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002762)  
 So, in other words
 
-**[02:03:05.540] Senator Sherwin "Win" T. Gatchalian** (asr-002763)  
+**[02:03:05.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002763)  
 the point I'm trying to make
 
-**[02:03:07.200] Senator Sherwin "Win" T. Gatchalian** (asr-002764)  
+**[02:03:07.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002764)  
 agawan na nga yung
 
-**[02:03:08.780] Senator Sherwin "Win" T. Gatchalian** (asr-002765)  
+**[02:03:08.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002765)  
 N-DREAM Fund
 
-**[02:03:10.560] Senator Sherwin "Win" T. Gatchalian** (asr-002766)  
+**[02:03:10.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002766)  
 and nakita natin dito sa replenishment
 
-**[02:03:12.980] Senator Sherwin "Win" T. Gatchalian** (asr-002767)  
+**[02:03:12.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002767)  
 at the same time
 
-**[02:03:14.220] Senator Sherwin "Win" T. Gatchalian** (asr-002768)  
+**[02:03:14.220] Senate President Sherwin "Win" T. Gatchalian** (asr-002768)  
 nabawasan pa
 
-**[02:03:15.500] Senator Sherwin "Win" T. Gatchalian** (asr-002769)  
+**[02:03:15.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002769)  
 So, yun yung isang bagay na
 
-**[02:03:17.600] Senator Sherwin "Win" T. Gatchalian** (asr-002770)  
+**[02:03:17.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002770)  
 we will work here in the Senate
 
-**[02:03:20.480] Senator Sherwin "Win" T. Gatchalian** (asr-002771)  
+**[02:03:20.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002771)  
 na mabalik ma-restore yung
 
-**[02:03:22.540] Senator Sherwin "Win" T. Gatchalian** (asr-002772)  
+**[02:03:22.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002772)  
 NEP level ng N-DREAM
 
-**[02:03:23.940] Senator Sherwin "Win" T. Gatchalian** (asr-002773)  
+**[02:03:23.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002773)  
 dahil nakikita ko in the next 12 months
 
-**[02:03:26.540] Senator Sherwin "Win" T. Gatchalian** (asr-002774)  
+**[02:03:26.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002774)  
 talagang kakalanganin natin
 
-**[02:03:28.360] Senator Sherwin "Win" T. Gatchalian** (asr-002775)  
+**[02:03:28.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002775)  
 ang standby fund
 
-**[02:03:30.180] Senator Sherwin "Win" T. Gatchalian** (asr-002776)  
+**[02:03:30.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002776)  
 for the support
 
-**[02:03:32.300] Senator Sherwin "Win" T. Gatchalian** (asr-002777)  
+**[02:03:32.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002777)  
 to our constituents
 
-**[02:03:33.440] Senator Sherwin "Win" T. Gatchalian** (asr-002778)  
+**[02:03:33.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002778)  
 especially our farmers, fisher folks
 
-**[02:03:36.040] Senator Sherwin "Win" T. Gatchalian** (asr-002779)  
+**[02:03:36.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002779)  
 yung mga
 
-**[02:03:38.540] Senator Sherwin "Win" T. Gatchalian** (asr-002780)  
+**[02:03:38.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002780)  
 tinamaan ng inflation
 
-**[02:03:42.600] Senator Sherwin "Win" T. Gatchalian** (asr-002781)  
+**[02:03:42.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002781)  
 alam ko nagbigay rin kayo
 
-**[02:03:44.380] Senator Sherwin "Win" T. Gatchalian** (asr-002782)  
+**[02:03:44.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002782)  
 ng tulong dun sa mga poor
 
-**[02:03:46.140] Senator Sherwin "Win" T. Gatchalian** (asr-002783)  
+**[02:03:46.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002783)  
 and near poor, which is about
 
-**[02:03:47.740] Senator Sherwin "Win" T. Gatchalian** (asr-002784)  
+**[02:03:47.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002784)  
 3 million families, tama ba?
 
-**[02:03:50.000] Senator Sherwin "Win" T. Gatchalian** (asr-002785)  
+**[02:03:50.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002785)  
 In total, 7.5 million
 
-**[02:03:51.520] Senator Sherwin "Win" T. Gatchalian** (asr-002786)  
+**[02:03:51.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002786)  
 7.5 families
 
-**[02:03:52.740] Senator Sherwin "Win" T. Gatchalian** (asr-002787)  
+**[02:03:52.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002787)  
 Hindi pa tayo kasi tapos sa inflationary effects
 
-**[02:03:56.520] Senator Sherwin "Win" T. Gatchalian** (asr-002788)  
+**[02:03:56.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002788)  
 Nandiyan pa siya
 
-**[02:03:58.360] Senator Sherwin "Win" T. Gatchalian** (asr-002789)  
+**[02:03:58.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002789)  
 and yun naman ang binabantayan natin
 
-**[02:04:00.680] Senator Sherwin "Win" T. Gatchalian** (asr-002790)  
+**[02:04:00.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002790)  
 dahil inflation
 
-**[02:04:01.440] Senator Sherwin "Win" T. Gatchalian** (asr-002791)  
+**[02:04:01.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002791)  
 can push our
 
-**[02:04:04.260] Senator Sherwin "Win" T. Gatchalian** (asr-002792)  
+**[02:04:04.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002792)  
 push our efforts
 
-**[02:04:07.200] Senator Sherwin "Win" T. Gatchalian** (asr-002793)  
+**[02:04:07.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002793)  
 to lower down poverty incidents back
 
-**[02:04:09.260] Senator Sherwin "Win" T. Gatchalian** (asr-002794)  
+**[02:04:09.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002794)  
 So, we need to make sure
 
-**[02:04:10.840] Senator Sherwin "Win" T. Gatchalian** (asr-002795)  
+**[02:04:10.840] Senate President Sherwin "Win" T. Gatchalian** (asr-002795)  
 that we have that resources
 
-**[02:04:12.680] Senator Sherwin "Win" T. Gatchalian** (asr-002796)  
+**[02:04:12.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002796)  
 para matulungan natin sila
 
-**[02:04:14.780] Senator Sherwin "Win" T. Gatchalian** (asr-002797)  
+**[02:04:14.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002797)  
 at least temporarily
 
-**[02:04:17.420] Senator Sherwin "Win" T. Gatchalian** (asr-002798)  
+**[02:04:17.420] Senate President Sherwin "Win" T. Gatchalian** (asr-002798)  
 o pangtawid lang hanggang matapos tayo
 
-**[02:04:19.520] Senator Sherwin "Win" T. Gatchalian** (asr-002799)  
+**[02:04:19.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002799)  
 dito sa mga crisis na hinaharap natin
 
-**[02:04:21.600] Senator Sherwin "Win" T. Gatchalian** (asr-002800)  
+**[02:04:21.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002800)  
 So, I just want to
 
-**[02:04:23.720] Senator Sherwin "Win" T. Gatchalian** (asr-002801)  
+**[02:04:23.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002801)  
 put that on record na
 
-**[02:04:25.340] Senator Sherwin "Win" T. Gatchalian** (asr-002802)  
+**[02:04:25.340] Senate President Sherwin "Win" T. Gatchalian** (asr-002802)  
 we need to restore
 
-**[02:04:26.360] Senator Sherwin "Win" T. Gatchalian** (asr-002803)  
+**[02:04:26.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002803)  
 itong N-DREAM Fund
 
-**[02:04:28.200] Senator Sherwin "Win" T. Gatchalian** (asr-002804)  
+**[02:04:28.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002804)  
 na nabawasan
 
-**[02:04:29.500] Senator Sherwin "Win" T. Gatchalian** (asr-002805)  
+**[02:04:29.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002805)  
 ng 9.5 billion pesos
 
 **[02:04:31.800] DSWD Secretary Rex Gatchalian** (asr-002806)  
@@ -8449,151 +8449,151 @@ will be impaired in responding
 **[02:05:00.440] DSWD Secretary Rex Gatchalian** (asr-002820)  
 to any crisis
 
-**[02:05:01.740] Senator Sherwin "Win" T. Gatchalian** (asr-002821)  
+**[02:05:01.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002821)  
 And then I saw dito doon sa slide nyo
 
-**[02:05:04.500] Senator Sherwin "Win" T. Gatchalian** (asr-002822)  
+**[02:05:04.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002822)  
 ginamit nito for disaster affected families
 
-**[02:05:07.660] Senator Sherwin "Win" T. Gatchalian** (asr-002823)  
+**[02:05:07.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002823)  
 so marami dito
 
-**[02:05:09.920] Senator Sherwin "Win" T. Gatchalian** (asr-002824)  
+**[02:05:09.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002824)  
 prepositioning of goods
 
-**[02:05:11.420] Senator Sherwin "Win" T. Gatchalian** (asr-002825)  
+**[02:05:11.420] Senate President Sherwin "Win" T. Gatchalian** (asr-002825)  
 So, it's really
 
-**[02:05:14.140] Senator Sherwin "Win" T. Gatchalian** (asr-002826)  
+**[02:05:14.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002826)  
 sabi nga ni Sen. Erwin
 
-**[02:05:15.300] Senator Sherwin "Win" T. Gatchalian** (asr-002827)  
+**[02:05:15.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002827)  
 kailangan na kailangan ito
 
-**[02:05:16.380] Senator Sherwin "Win" T. Gatchalian** (asr-002828)  
+**[02:05:16.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002828)  
 dahil pag may mga ganitong disaster
 
-**[02:05:18.800] Senator Sherwin "Win" T. Gatchalian** (asr-002829)  
+**[02:05:18.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002829)  
 ang unang tinatawagan
 
-**[02:05:20.300] Senator Sherwin "Win" T. Gatchalian** (asr-002830)  
+**[02:05:20.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002830)  
 DSWD Secretary
 
-**[02:05:22.140] Senator Sherwin "Win" T. Gatchalian** (asr-002831)  
+**[02:05:22.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002831)  
 at hindi lang naman
 
-**[02:05:23.100] Senator Sherwin "Win" T. Gatchalian** (asr-002832)  
+**[02:05:23.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002832)  
 pag may disaster na
 
-**[02:05:24.140] Senator Sherwin "Win" T. Gatchalian** (asr-002833)  
+**[02:05:24.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002833)  
 dapat yung goods naka-preposition
 
-**[02:05:26.440] Senator Sherwin "Win" T. Gatchalian** (asr-002834)  
+**[02:05:26.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002834)  
 or else
 
-**[02:05:27.540] Senator Sherwin "Win" T. Gatchalian** (asr-002835)  
+**[02:05:27.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002835)  
 paano naman magre-responde
 
-**[02:05:29.580] Senator Sherwin "Win" T. Gatchalian** (asr-002836)  
+**[02:05:29.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002836)  
 ang gobyerno kung walang goods
 
-**[02:05:31.260] Senator Sherwin "Win" T. Gatchalian** (asr-002837)  
+**[02:05:31.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002837)  
 na naka-preposition
 
-**[02:05:32.600] Senator Sherwin "Win" T. Gatchalian** (asr-002838)  
+**[02:05:32.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002838)  
 My next question
 
-**[02:05:36.800] Senator Sherwin "Win" T. Gatchalian** (asr-002839)  
+**[02:05:36.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002839)  
 is also related doon sa mga
 
-**[02:05:38.420] Senator Sherwin "Win" T. Gatchalian** (asr-002840)  
+**[02:05:38.420] Senate President Sherwin "Win" T. Gatchalian** (asr-002840)  
 tanong ni Sen. Erwin
 
-**[02:05:39.920] Senator Sherwin "Win" T. Gatchalian** (asr-002841)  
+**[02:05:39.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002841)  
 on 4Ps
 
-**[02:05:41.200] Senator Sherwin "Win" T. Gatchalian** (asr-002842)  
+**[02:05:41.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002842)  
 Nakita ko dito sa
 
-**[02:05:44.140] Senator Sherwin "Win" T. Gatchalian** (asr-002843)  
+**[02:05:44.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002843)  
 sa
 
-**[02:05:45.460] Senator Sherwin "Win" T. Gatchalian** (asr-002844)  
+**[02:05:45.460] Senate President Sherwin "Win" T. Gatchalian** (asr-002844)  
 sa budget
 
-**[02:05:49.300] Senator Sherwin "Win" T. Gatchalian** (asr-002845)  
+**[02:05:49.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002845)  
 and na
 
-**[02:05:51.540] Senator Sherwin "Win" T. Gatchalian** (asr-002846)  
+**[02:05:51.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002846)  
 ang budget ng 4Ps
 
-**[02:05:53.120] Senator Sherwin "Win" T. Gatchalian** (asr-002847)  
+**[02:05:53.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002847)  
 nabawasan ng 13 billion
 
-**[02:05:54.660] Senator Sherwin "Win" T. Gatchalian** (asr-002848)  
+**[02:05:54.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002848)  
 and it's a good thing
 
-**[02:05:55.780] Senator Sherwin "Win" T. Gatchalian** (asr-002849)  
+**[02:05:55.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002849)  
 kasi gusto natin nababawasan
 
-**[02:05:57.380] Senator Sherwin "Win" T. Gatchalian** (asr-002850)  
+**[02:05:57.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002850)  
 ng mahihirap sa ating bansa
 
-**[02:05:59.380] Senator Sherwin "Win" T. Gatchalian** (asr-002851)  
+**[02:05:59.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002851)  
 ang goal naman ng
 
-**[02:06:01.380] Senator Sherwin "Win" T. Gatchalian** (asr-002852)  
+**[02:06:01.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002852)  
 4Ps is pantawid eh
 
-**[02:06:03.380] Senator Sherwin "Win" T. Gatchalian** (asr-002853)  
+**[02:06:03.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002853)  
 ibig sabihin hanggang
 
-**[02:06:05.380] Senator Sherwin "Win" T. Gatchalian** (asr-002854)  
+**[02:06:05.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002854)  
 makatawid ang ating mga pamilya
 
-**[02:06:07.380] Senator Sherwin "Win" T. Gatchalian** (asr-002855)  
+**[02:06:07.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002855)  
 sa kanilang kakayahan
 
-**[02:06:09.380] Senator Sherwin "Win" T. Gatchalian** (asr-002856)  
+**[02:06:09.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002856)  
 andyan yung gobyerno
 
-**[02:06:11.380] Senator Sherwin "Win" T. Gatchalian** (asr-002857)  
+**[02:06:11.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002857)  
 para bigyan sila ng tulong
 
-**[02:06:13.380] Senator Sherwin "Win" T. Gatchalian** (asr-002858)  
+**[02:06:13.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002858)  
 So, nabawasan siya ng
 
-**[02:06:16.380] Senator Sherwin "Win" T. Gatchalian** (asr-002859)  
+**[02:06:16.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002859)  
 ng 13 billion
 
-**[02:06:19.380] Senator Sherwin "Win" T. Gatchalian** (asr-002860)  
+**[02:06:19.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002860)  
 and before it was about
 
-**[02:06:22.380] Senator Sherwin "Win" T. Gatchalian** (asr-002861)  
+**[02:06:22.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002861)  
 4.1 million household
 
-**[02:06:24.380] Senator Sherwin "Win" T. Gatchalian** (asr-002862)  
+**[02:06:24.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002862)  
 ngayon ang target is about 3.5
 
-**[02:06:27.520] Senator Sherwin "Win" T. Gatchalian** (asr-002866)  
+**[02:06:27.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002866)  
 So may we get an update kung
 
-**[02:06:29.520] Senator Sherwin "Win" T. Gatchalian** (asr-002867)  
+**[02:06:29.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002867)  
 ano ba ang nakikita natin
 
-**[02:06:35.180] Senator Sherwin "Win" T. Gatchalian** (asr-002868)  
+**[02:06:35.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002868)  
 Direksyon ng 4Ps
 
-**[02:06:36.520] Senator Sherwin "Win" T. Gatchalian** (asr-002869)  
+**[02:06:36.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002869)  
 and ano ba yung mga
 
-**[02:06:37.860] Senator Sherwin "Win" T. Gatchalian** (asr-002870)  
+**[02:06:37.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002870)  
 naging magagandang
 
-**[02:06:41.520] Senator Sherwin "Win" T. Gatchalian** (asr-002871)  
+**[02:06:41.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002871)  
 bacta ng
 
-**[02:06:43.260] Senator Sherwin "Win" T. Gatchalian** (asr-002872)  
+**[02:06:43.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002872)  
 4Ps
 
 **[02:06:44.520] DSWD Secretary Rex Gatchalian** (asr-002873)  
@@ -8995,82 +8995,82 @@ And a big chunk of that in protecting the households and pulling them out of pov
 **[02:15:49.700] DSWD Secretary Rex Gatchalian** (asr-003006)  
 And attributable yan to a big chunk sa 4Ps.
 
-**[02:15:54.480] Senator Sherwin "Win" T. Gatchalian** (asr-003007)  
+**[02:15:54.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003007)  
 Thank you for those answers.
 
-**[02:16:01.580] Senator Sherwin "Win" T. Gatchalian** (asr-003008)  
+**[02:16:01.580] Senate President Sherwin "Win" T. Gatchalian** (asr-003008)  
 Actually, itong program na ito, ang isang programa na pag bumaba ba yung budget, natutuwa ko eh.
 
-**[02:16:08.720] Senator Sherwin "Win" T. Gatchalian** (asr-003009)  
+**[02:16:08.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003009)  
 Dahil alam natin na bumaba ba yung bilang ng mahihirap sa ating bansa.
 
-**[02:16:13.800] Senator Sherwin "Win" T. Gatchalian** (asr-003010)  
+**[02:16:13.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003010)  
 Of course, malayo pa tayo with 3.5 million poorest of the poor family.
 
-**[02:16:20.780] Senator Sherwin "Win" T. Gatchalian** (asr-003011)  
+**[02:16:20.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003011)  
 But tutuwa ko dahil 1.7 million ang...
 
-**[02:16:24.480] Senator Sherwin "Win" T. Gatchalian** (asr-003012)  
+**[02:16:24.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003012)  
 na ilabas natin sa poorest of the poor category.
 
-**[02:16:28.920] Senator Sherwin "Win" T. Gatchalian** (asr-003013)  
+**[02:16:28.920] Senate President Sherwin "Win" T. Gatchalian** (asr-003013)  
 Ngayon, my next question is, how do we continue the gains?
 
-**[02:16:35.240] Senator Sherwin "Win" T. Gatchalian** (asr-003014)  
+**[02:16:35.240] Senate President Sherwin "Win" T. Gatchalian** (asr-003014)  
 This is related to what I said earlier, which is El Nino.
 
-**[02:16:39.720] Senator Sherwin "Win" T. Gatchalian** (asr-003015)  
+**[02:16:39.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003015)  
 And also, yung last PSA poverty survey was 2025.
 
-**[02:16:47.200] Senator Sherwin "Win" T. Gatchalian** (asr-003016)  
+**[02:16:47.200] Senate President Sherwin "Win" T. Gatchalian** (asr-003016)  
 Wala pang gera ng era nun.
 
-**[02:16:49.380] Senator Sherwin "Win" T. Gatchalian** (asr-003017)  
+**[02:16:49.380] Senate President Sherwin "Win" T. Gatchalian** (asr-003017)  
 Wala pa tayong El Nino.
 
-**[02:16:51.140] Senator Sherwin "Win" T. Gatchalian** (asr-003018)  
+**[02:16:51.140] Senate President Sherwin "Win" T. Gatchalian** (asr-003018)  
 Wala pa tayong 7.5 inflation.
 
-**[02:16:54.480] Senator Sherwin "Win" T. Gatchalian** (asr-003019)  
+**[02:16:54.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003019)  
 2025, actually, mababa ang inflation natin at that time.
 
-**[02:16:58.280] Senator Sherwin "Win" T. Gatchalian** (asr-003020)  
+**[02:16:58.280] Senate President Sherwin "Win" T. Gatchalian** (asr-003020)  
 Inflation is a, I would call it, is a poverty, it can cause poverty in our country.
 
-**[02:17:09.800] Senator Sherwin "Win" T. Gatchalian** (asr-003021)  
+**[02:17:09.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003021)  
 So, how do we maintain yung pababa na trajectory ng poverty reduction natin?
 
-**[02:17:21.600] Senator Sherwin "Win" T. Gatchalian** (asr-003022)  
+**[02:17:21.600] Senate President Sherwin "Win" T. Gatchalian** (asr-003022)  
 I'll start off with El Nino.
 
-**[02:17:24.480] Senator Sherwin "Win" T. Gatchalian** (asr-003023)  
+**[02:17:24.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003023)  
 And then, I also want to understand anong ginagawa ng department to prepare for this El Nino.
 
-**[02:17:31.700] Senator Sherwin "Win" T. Gatchalian** (asr-003024)  
+**[02:17:31.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003024)  
 Kanina sinabi ni Secretary na they're looking at...
 
-**[02:17:35.700] Senator Sherwin "Win" T. Gatchalian** (asr-003025)  
+**[02:17:35.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003025)  
 Secretary Kiko Laurela, they're looking at...
 
-**[02:17:44.360] Senator Sherwin "Win" T. Gatchalian** (asr-003026)  
+**[02:17:44.360] Senate President Sherwin "Win" T. Gatchalian** (asr-003026)  
 close to 350,000 affected farmers.
 
-**[02:17:52.960] Senator Sherwin "Win" T. Gatchalian** (asr-003027)  
+**[02:17:52.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003027)  
 No?
 
-**[02:17:53.160] Senator Sherwin "Win" T. Gatchalian** (asr-003028)  
+**[02:17:53.160] Senate President Sherwin "Win" T. Gatchalian** (asr-003028)  
 So, medyo...
 
-**[02:17:54.480] Senator Sherwin "Win" T. Gatchalian** (asr-003029)  
+**[02:17:54.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003029)  
 Malaki-laki yun.
 
-**[02:18:00.920] Senator Sherwin "Win" T. Gatchalian** (asr-003030)  
+**[02:18:00.920] Senate President Sherwin "Win" T. Gatchalian** (asr-003030)  
 And, of course, itong affected farmers,
 
-**[02:18:04.200] Senator Sherwin "Win" T. Gatchalian** (asr-003031)  
+**[02:18:04.200] Senate President Sherwin "Win" T. Gatchalian** (asr-003031)  
 mawawalan sila ng trabaho, mawawalan sila ng livelihood.
 
-**[02:18:07.260] Senator Sherwin "Win" T. Gatchalian** (asr-003032)  
+**[02:18:07.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003032)  
 So, how are we preparing for that?
 
 **[02:18:09.640] Senator Risa Hontiveros** (asr-003033)  
@@ -9097,34 +9097,34 @@ After yung itong first round ni SP, tanongin ko kayo dalawa kung gusto nyo mag-o
 **[02:18:33.660] Senator Risa Hontiveros** (asr-003040)  
 When the...
 
-**[02:18:35.020] Senator Sherwin "Win" T. Gatchalian** (asr-003041)  
+**[02:18:35.020] Senate President Sherwin "Win" T. Gatchalian** (asr-003041)  
 Ang sabi pala ni Secretary Kiko Laurela is 4 million farmers can be affected at the worst case scenario.
 
-**[02:18:42.600] Senator Sherwin "Win" T. Gatchalian** (asr-003042)  
+**[02:18:42.600] Senate President Sherwin "Win" T. Gatchalian** (asr-003042)  
 And we have 10 million workers in the agriculture industry.
 
-**[02:18:47.180] Senator Sherwin "Win" T. Gatchalian** (asr-003043)  
+**[02:18:47.180] Senate President Sherwin "Win" T. Gatchalian** (asr-003043)  
 Dahil nga, iba, drought eh.
 
-**[02:18:48.960] Senator Sherwin "Win" T. Gatchalian** (asr-003044)  
+**[02:18:48.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003044)  
 Wala silang pwedeng pagtaniman.
 
-**[02:18:53.220] Senator Sherwin "Win" T. Gatchalian** (asr-003045)  
+**[02:18:53.220] Senate President Sherwin "Win" T. Gatchalian** (asr-003045)  
 At...
 
-**[02:18:53.460] Senator Sherwin "Win" T. Gatchalian** (asr-003046)  
+**[02:18:53.460] Senate President Sherwin "Win" T. Gatchalian** (asr-003046)  
 Talagang magkakaroon tayo ng widespread unemployment kung at the worst case scenario.
 
-**[02:18:59.100] Senator Sherwin "Win" T. Gatchalian** (asr-003047)  
+**[02:18:59.100] Senate President Sherwin "Win" T. Gatchalian** (asr-003047)  
 So, two questions.
 
-**[02:19:01.020] Senator Sherwin "Win" T. Gatchalian** (asr-003048)  
+**[02:19:01.020] Senate President Sherwin "Win" T. Gatchalian** (asr-003048)  
 One is, how do we prevent El Nino?
 
-**[02:19:04.420] Senator Sherwin "Win" T. Gatchalian** (asr-003049)  
+**[02:19:04.420] Senate President Sherwin "Win" T. Gatchalian** (asr-003049)  
 Or how do we mitigate El Nino in terms of poverty reduction?
 
-**[02:19:08.160] Senator Sherwin "Win" T. Gatchalian** (asr-003050)  
+**[02:19:08.160] Senate President Sherwin "Win" T. Gatchalian** (asr-003050)  
 And how are we addressing El Nino this coming next few months?
 
 **[02:19:12.700] DSWD Secretary Rex Gatchalian** (asr-003051)  
@@ -9481,19 +9481,19 @@ Pero at the same time, we're embarking on social development programs that are m
 **[02:26:45.000] DSWD Secretary Rex Gatchalian** (asr-003168)  
 Katulad ng Project Lawat Binhi at netong air-to-water system ng community-driven development.
 
-**[02:26:51.220] Senator Sherwin "Win" T. Gatchalian** (asr-003169)  
+**[02:26:51.220] Senate President Sherwin "Win" T. Gatchalian** (asr-003169)  
 Yung kaninang pinakita ninyo, can we go back to that slide?
 
-**[02:27:00.340] Senator Sherwin "Win" T. Gatchalian** (asr-003170)  
+**[02:27:00.340] Senate President Sherwin "Win" T. Gatchalian** (asr-003170)  
 Yung slide ng mga binigyan ng may different categories in uplift slide.
 
-**[02:27:10.980] Senator Sherwin "Win" T. Gatchalian** (asr-003171)  
+**[02:27:10.980] Senate President Sherwin "Win" T. Gatchalian** (asr-003171)  
 Nakita ko na ang beneficiaries noon is about 6.5 million?
 
 **[02:27:15.560] DSWD Secretary Rex Gatchalian** (asr-003172)  
 Sir, sir.
 
-**[02:27:16.940] Senator Sherwin "Win" T. Gatchalian** (asr-003173)  
+**[02:27:16.940] Senate President Sherwin "Win" T. Gatchalian** (asr-003173)  
 6.5 million.
 
 **[02:27:17.640] DSWD Secretary Rex Gatchalian** (asr-003174)  
@@ -9505,25 +9505,25 @@ Hinahanap pa namin.
 **[02:27:20.720] DSWD Secretary Rex Gatchalian** (asr-003176)  
 Well, yan ay hinahanap namin using CPMSS data and SSS data.
 
-**[02:27:25.520] Senator Sherwin "Win" T. Gatchalian** (asr-003177)  
+**[02:27:25.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003177)  
 But, and ang ginamit na pondo dyan is the IX fund, no?
 
 **[02:27:32.040] DSWD Secretary Rex Gatchalian** (asr-003178)  
 The IX po ang ginagamit ko dyan.
 
-**[02:27:33.620] Senator Sherwin "Win" T. Gatchalian** (asr-003179)  
+**[02:27:33.620] Senate President Sherwin "Win" T. Gatchalian** (asr-003179)  
 And then, dito sa slide ninyo, slide 11, nakita ko na to date or September, as of September,
 
-**[02:27:41.960] Senator Sherwin "Win" T. Gatchalian** (asr-003180)  
+**[02:27:41.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003180)  
 ang beneficiaries is about, total beneficiaries is 8.7 million beneficiaries.
 
-**[02:27:48.860] Senator Sherwin "Win" T. Gatchalian** (asr-003181)  
+**[02:27:48.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003181)  
 So, in other words…
 
-**[02:27:50.720] Senator Sherwin "Win" T. Gatchalian** (asr-003182)  
+**[02:27:50.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003182)  
 Yung uplift, andiyan pala, 8.7 million yung beneficiaries.
 
-**[02:27:59.500] Senator Sherwin "Win" T. Gatchalian** (asr-003183)  
+**[02:27:59.500] Senate President Sherwin "Win" T. Gatchalian** (asr-003183)  
 Pero, out of that 8.7, 7.5 galing sa…
 
 **[02:28:03.780] DSWD Secretary Rex Gatchalian** (asr-003184)  
@@ -9535,76 +9535,76 @@ Itong tinutukoy ng slide na to, na tinutukoy ng Senate President, ay IX regular.
 **[02:28:13.180] DSWD Secretary Rex Gatchalian** (asr-003186)  
 Ito ho yung mga pumupunta sa sasina.
 
-**[02:28:14.280] Senator Sherwin "Win" T. Gatchalian** (asr-003187)  
+**[02:28:14.280] Senate President Sherwin "Win" T. Gatchalian** (asr-003187)  
 Pero dyan rin kinuhin uplift?
 
 **[02:28:15.580] DSWD Secretary Rex Gatchalian** (asr-003188)  
 Yes, kinukuha siya from the same pot.
 
-**[02:28:18.720] Senator Sherwin "Win" T. Gatchalian** (asr-003189)  
+**[02:28:18.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003189)  
 Okay.
 
-**[02:28:19.100] Senator Sherwin "Win" T. Gatchalian** (asr-003190)  
+**[02:28:19.100] Senate President Sherwin "Win" T. Gatchalian** (asr-003190)  
 Ang punto ko dito kasi…
 
-**[02:28:20.720] Senator Sherwin "Win" T. Gatchalian** (asr-003191)  
+**[02:28:20.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003191)  
 Ang 2027 is 4.6 million ang target beneficiaries, or pwedeng mag-apply for the IX fund, di ba?
 
-**[02:28:31.520] Senator Sherwin "Win" T. Gatchalian** (asr-003192)  
+**[02:28:31.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003192)  
 Kung ang DA is already projecting at the worst case scenario, 4 million, ubos na kagad yan sa DA.
 
-**[02:28:38.780] Senator Sherwin "Win" T. Gatchalian** (asr-003193)  
+**[02:28:38.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003193)  
 That's a point I'm trying to make.
 
-**[02:28:41.060] Senator Sherwin "Win" T. Gatchalian** (asr-003194)  
+**[02:28:41.060] Senate President Sherwin "Win" T. Gatchalian** (asr-003194)  
 And this is only DA.
 
-**[02:28:43.280] Senator Sherwin "Win" T. Gatchalian** (asr-003195)  
+**[02:28:43.280] Senate President Sherwin "Win" T. Gatchalian** (asr-003195)  
 Hindi pa natin kinakount yan kung tuloy-tuloy yung gera sa Iran at sumipa to $150 per barrel, or even $200.
 
-**[02:28:50.720] Senator Sherwin "Win" T. Gatchalian** (asr-003196)  
+**[02:28:50.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003196)  
 Hindi natin malaman ngayon.
 
-**[02:28:52.840] Senator Sherwin "Win" T. Gatchalian** (asr-003197)  
+**[02:28:52.840] Senate President Sherwin "Win" T. Gatchalian** (asr-003197)  
 Medyo wild-wild west doon.
 
-**[02:28:55.020] Senator Sherwin "Win" T. Gatchalian** (asr-003198)  
+**[02:28:55.020] Senate President Sherwin "Win" T. Gatchalian** (asr-003198)  
 So, the 4 million is only for the farmers, pero we all learned na sa uplift, 7.5 ang binigyan na.
 
-**[02:29:05.180] Senator Sherwin "Win" T. Gatchalian** (asr-003199)  
+**[02:29:05.180] Senate President Sherwin "Win" T. Gatchalian** (asr-003199)  
 So, mayroon pa tayong…
 
-**[02:29:08.400] Senator Sherwin "Win" T. Gatchalian** (asr-003200)  
+**[02:29:08.400] Senate President Sherwin "Win" T. Gatchalian** (asr-003200)  
 Dapat ang nakahanda tayo is between 4 million to maybe 8 million beneficiaries for the next 6 to 12 months.
 
-**[02:29:17.240] Senator Sherwin "Win" T. Gatchalian** (asr-003201)  
+**[02:29:17.240] Senate President Sherwin "Win" T. Gatchalian** (asr-003201)  
 So, yun ang nakikita kong based on the briefing ng mga sekretary.
 
-**[02:29:20.420] Senator Sherwin "Win" T. Gatchalian** (asr-003202)  
+**[02:29:20.420] Senate President Sherwin "Win" T. Gatchalian** (asr-003202)  
 So, yun ang nakikita kong dapat paghandaan natin.
 
-**[02:29:23.340] Senator Sherwin "Win" T. Gatchalian** (asr-003203)  
+**[02:29:23.340] Senate President Sherwin "Win" T. Gatchalian** (asr-003203)  
 But 2027, in other words, is only 4.6.
 
-**[02:29:28.660] Senator Sherwin "Win" T. Gatchalian** (asr-003204)  
+**[02:29:28.660] Senate President Sherwin "Win" T. Gatchalian** (asr-003204)  
 So, hindi siya responsive to the situation in the next 6 to 12 months.
 
-**[02:29:32.480] Senator Sherwin "Win" T. Gatchalian** (asr-003205)  
+**[02:29:32.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003205)  
 Mabuti kung walang gera.
 
-**[02:29:33.980] Senator Sherwin "Win" T. Gatchalian** (asr-003206)  
+**[02:29:33.980] Senate President Sherwin "Win" T. Gatchalian** (asr-003206)  
 Mabuti kung walang El Nino, di ba?
 
-**[02:29:36.680] Senator Sherwin "Win" T. Gatchalian** (asr-003207)  
+**[02:29:36.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003207)  
 Baka pwede yan.
 
-**[02:29:37.700] Senator Sherwin "Win" T. Gatchalian** (asr-003208)  
+**[02:29:37.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003208)  
 In the normal circumstances, pwede yan.
 
-**[02:29:39.860] Senator Sherwin "Win" T. Gatchalian** (asr-003209)  
+**[02:29:39.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003209)  
 Pero alam naman natin, in the next 6 to 12 months, ibang situation natin.
 
-**[02:29:46.800] Senator Sherwin "Win" T. Gatchalian** (asr-003210)  
+**[02:29:46.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003210)  
 Very delikado yung ating situation.
 
 **[02:29:48.680] DSWD Secretary Rex Gatchalian** (asr-003211)  
@@ -9739,19 +9739,19 @@ meron or wala
 **[02:30:46.960] DSWD Secretary Rex Gatchalian** (asr-003254)  
 na dadating.
 
-**[02:30:48.020] Senator Sherwin "Win" T. Gatchalian** (asr-003255)  
+**[02:30:48.020] Senate President Sherwin "Win" T. Gatchalian** (asr-003255)  
 Yung kaninang
 
-**[02:30:49.100] Senator Sherwin "Win" T. Gatchalian** (asr-003256)  
+**[02:30:49.100] Senate President Sherwin "Win" T. Gatchalian** (asr-003256)  
 pinakitang LAWA
 
-**[02:30:50.080] Senator Sherwin "Win" T. Gatchalian** (asr-003257)  
+**[02:30:50.080] Senate President Sherwin "Win" T. Gatchalian** (asr-003257)  
 and the other projects,
 
-**[02:30:51.500] Senator Sherwin "Win" T. Gatchalian** (asr-003258)  
+**[02:30:51.500] Senate President Sherwin "Win" T. Gatchalian** (asr-003258)  
 under disaster response
 
-**[02:30:52.980] Senator Sherwin "Win" T. Gatchalian** (asr-003259)  
+**[02:30:52.980] Senate President Sherwin "Win" T. Gatchalian** (asr-003259)  
 and rehabilitation program?
 
 **[02:30:54.160] DSWD Secretary Rex Gatchalian** (asr-003260)  
@@ -9769,13 +9769,13 @@ That's about 1.9 billion.
 **[02:30:59.720] DSWD Secretary Rex Gatchalian** (asr-003264)  
 1.9 billion, yes.
 
-**[02:31:02.340] Senator Sherwin "Win" T. Gatchalian** (asr-003265)  
+**[02:31:02.340] Senate President Sherwin "Win" T. Gatchalian** (asr-003265)  
 1.9 billion.
 
-**[02:31:03.220] Senator Sherwin "Win" T. Gatchalian** (asr-003266)  
+**[02:31:03.220] Senate President Sherwin "Win" T. Gatchalian** (asr-003266)  
 And emergency cash transfer,
 
-**[02:31:04.860] Senator Sherwin "Win" T. Gatchalian** (asr-003267)  
+**[02:31:04.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003267)  
 andyan rin yan?
 
 **[02:31:05.320] DSWD Secretary Rex Gatchalian** (asr-003268)  
@@ -9784,7 +9784,7 @@ Hindi po.
 **[02:31:05.800] DSWD Secretary Rex Gatchalian** (asr-003269)  
 Kinukuha ho yun sa quick response.
 
-**[02:31:07.480] Senator Sherwin "Win" T. Gatchalian** (asr-003270)  
+**[02:31:07.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003270)  
 Ah, sa quick response.
 
 **[02:31:08.120] DSWD Secretary Rex Gatchalian** (asr-003271)  
@@ -9799,85 +9799,85 @@ then sa quick response
 **[02:31:12.140] DSWD Secretary Rex Gatchalian** (asr-003274)  
 is to respond.
 
-**[02:31:13.040] Senator Sherwin "Win" T. Gatchalian** (asr-003275)  
+**[02:31:13.040] Senate President Sherwin "Win" T. Gatchalian** (asr-003275)  
 Alright.
 
-**[02:31:13.760] Senator Sherwin "Win" T. Gatchalian** (asr-003276)  
+**[02:31:13.760] Senate President Sherwin "Win" T. Gatchalian** (asr-003276)  
 Thank you for that.
 
-**[02:31:15.900] Senator Sherwin "Win" T. Gatchalian** (asr-003277)  
+**[02:31:15.900] Senate President Sherwin "Win" T. Gatchalian** (asr-003277)  
 Madam Chairperson,
 
-**[02:31:17.320] Senator Sherwin "Win" T. Gatchalian** (asr-003278)  
+**[02:31:17.320] Senate President Sherwin "Win" T. Gatchalian** (asr-003278)  
 I have one more question.
 
 **[02:31:20.100] Senator Risa Hontiveros** (asr-003279)  
 If you proceed SP.
 
-**[02:31:22.780] Senator Sherwin "Win" T. Gatchalian** (asr-003280)  
+**[02:31:22.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003280)  
 I'll jump to
 
-**[02:31:23.920] Senator Sherwin "Win" T. Gatchalian** (asr-003281)  
+**[02:31:23.920] Senate President Sherwin "Win" T. Gatchalian** (asr-003281)  
 kanina na rinig ko rin
 
-**[02:31:25.060] Senator Sherwin "Win" T. Gatchalian** (asr-003282)  
+**[02:31:25.060] Senate President Sherwin "Win" T. Gatchalian** (asr-003282)  
 si Senator Erwin
 
-**[02:31:25.980] Senator Sherwin "Win" T. Gatchalian** (asr-003283)  
+**[02:31:25.980] Senate President Sherwin "Win" T. Gatchalian** (asr-003283)  
 yung question niya
 
-**[02:31:27.560] Senator Sherwin "Win" T. Gatchalian** (asr-003284)  
+**[02:31:27.560] Senate President Sherwin "Win" T. Gatchalian** (asr-003284)  
 on the senior citizens.
 
-**[02:31:29.720] Senator Sherwin "Win" T. Gatchalian** (asr-003285)  
+**[02:31:29.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003285)  
 I would like to jump
 
-**[02:31:32.560] Senator Sherwin "Win" T. Gatchalian** (asr-003286)  
+**[02:31:32.560] Senate President Sherwin "Win" T. Gatchalian** (asr-003286)  
 on the senior citizens.
 
-**[02:31:34.600] Senator Sherwin "Win" T. Gatchalian** (asr-003287)  
+**[02:31:34.600] Senate President Sherwin "Win" T. Gatchalian** (asr-003287)  
 Nitignan ko yung
 
-**[02:31:35.540] Senator Sherwin "Win" T. Gatchalian** (asr-003288)  
+**[02:31:35.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003288)  
 budget ninyo.
 
-**[02:31:38.220] Senator Sherwin "Win" T. Gatchalian** (asr-003289)  
+**[02:31:38.220] Senate President Sherwin "Win" T. Gatchalian** (asr-003289)  
 And the biggest chunk
 
-**[02:31:39.720] Senator Sherwin "Win" T. Gatchalian** (asr-003290)  
+**[02:31:39.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003290)  
 of your
 
-**[02:31:40.620] Senator Sherwin "Win" T. Gatchalian** (asr-003291)  
+**[02:31:40.620] Senate President Sherwin "Win" T. Gatchalian** (asr-003291)  
 the biggest chunk
 
-**[02:31:46.660] Senator Sherwin "Win" T. Gatchalian** (asr-003292)  
+**[02:31:46.660] Senate President Sherwin "Win" T. Gatchalian** (asr-003292)  
 of your
 
-**[02:31:47.540] Senator Sherwin "Win" T. Gatchalian** (asr-003293)  
+**[02:31:47.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003293)  
 3.8 billion budget
 
-**[02:31:49.660] Senator Sherwin "Win" T. Gatchalian** (asr-003294)  
+**[02:31:49.660] Senate President Sherwin "Win" T. Gatchalian** (asr-003294)  
 is the
 
-**[02:31:51.540] Senator Sherwin "Win" T. Gatchalian** (asr-003295)  
+**[02:31:51.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003295)  
 senior citizens
 
-**[02:31:53.300] Senator Sherwin "Win" T. Gatchalian** (asr-003296)  
+**[02:31:53.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003296)  
 welfare development program.
 
-**[02:31:54.980] Senator Sherwin "Win" T. Gatchalian** (asr-003297)  
+**[02:31:54.980] Senate President Sherwin "Win" T. Gatchalian** (asr-003297)  
 Tama po ba?
 
 **[02:31:57.280] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003298)  
 Yes, boss.
 
-**[02:31:58.060] Senator Sherwin "Win" T. Gatchalian** (asr-003299)  
+**[02:31:58.060] Senate President Sherwin "Win" T. Gatchalian** (asr-003299)  
 And I would assume
 
-**[02:31:58.780] Senator Sherwin "Win" T. Gatchalian** (asr-003300)  
+**[02:31:58.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003300)  
 this is the social
 
-**[02:31:59.580] Senator Sherwin "Win" T. Gatchalian** (asr-003301)  
+**[02:31:59.580] Senate President Sherwin "Win" T. Gatchalian** (asr-003301)  
 pension?
 
 **[02:32:01.280] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003302)  
@@ -9886,154 +9886,154 @@ That is the
 **[02:32:02.160] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003303)  
 centenarian gifts.
 
-**[02:32:03.020] Senator Sherwin "Win" T. Gatchalian** (asr-003304)  
+**[02:32:03.020] Senate President Sherwin "Win" T. Gatchalian** (asr-003304)  
 Ah, this is the
 
-**[02:32:03.660] Senator Sherwin "Win" T. Gatchalian** (asr-003305)  
+**[02:32:03.660] Senate President Sherwin "Win" T. Gatchalian** (asr-003305)  
 centenarian gifts.
 
 **[02:32:04.180] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003306)  
 Stone nature gifts.
 
-**[02:32:05.540] Senator Sherwin "Win" T. Gatchalian** (asr-003307)  
+**[02:32:05.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003307)  
 Okay.
 
-**[02:32:05.920] Senator Sherwin "Win" T. Gatchalian** (asr-003308)  
+**[02:32:05.920] Senate President Sherwin "Win" T. Gatchalian** (asr-003308)  
 Yung social pension
 
-**[02:32:06.860] Senator Sherwin "Win" T. Gatchalian** (asr-003309)  
+**[02:32:06.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003309)  
 is still with the DSWD?
 
 **[02:32:08.660] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003310)  
 Yes, boss.
 
-**[02:32:09.180] Senator Sherwin "Win" T. Gatchalian** (asr-003311)  
+**[02:32:09.180] Senate President Sherwin "Win" T. Gatchalian** (asr-003311)  
 So, itong
 
-**[02:32:09.640] Senator Sherwin "Win" T. Gatchalian** (asr-003312)  
+**[02:32:09.640] Senate President Sherwin "Win" T. Gatchalian** (asr-003312)  
 ito is just purely
 
-**[02:32:12.260] Senator Sherwin "Win" T. Gatchalian** (asr-003313)  
+**[02:32:12.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003313)  
 on the
 
-**[02:32:13.140] Senator Sherwin "Win" T. Gatchalian** (asr-003314)  
+**[02:32:13.140] Senate President Sherwin "Win" T. Gatchalian** (asr-003314)  
 yung binibigay natin
 
-**[02:32:14.780] Senator Sherwin "Win" T. Gatchalian** (asr-003315)  
+**[02:32:14.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003315)  
 sa mga
 
-**[02:32:15.280] Senator Sherwin "Win" T. Gatchalian** (asr-003316)  
+**[02:32:15.280] Senate President Sherwin "Win" T. Gatchalian** (asr-003316)  
 80,
 
-**[02:32:16.280] Senator Sherwin "Win" T. Gatchalian** (asr-003317)  
+**[02:32:16.280] Senate President Sherwin "Win" T. Gatchalian** (asr-003317)  
 85,
 
-**[02:32:18.060] Senator Sherwin "Win" T. Gatchalian** (asr-003318)  
+**[02:32:18.060] Senate President Sherwin "Win" T. Gatchalian** (asr-003318)  
 90,
 
-**[02:32:18.560] Senator Sherwin "Win" T. Gatchalian** (asr-003319)  
+**[02:32:18.560] Senate President Sherwin "Win" T. Gatchalian** (asr-003319)  
 95,
 
-**[02:32:19.060] Senator Sherwin "Win" T. Gatchalian** (asr-003320)  
+**[02:32:19.060] Senate President Sherwin "Win" T. Gatchalian** (asr-003320)  
 100.
 
 **[02:32:19.920] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003321)  
 Yes, boss.
 
-**[02:32:21.700] Senator Sherwin "Win" T. Gatchalian** (asr-003322)  
+**[02:32:21.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003322)  
 Other than this program,
 
-**[02:32:23.680] Senator Sherwin "Win" T. Gatchalian** (asr-003323)  
+**[02:32:23.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003323)  
 ako, I support
 
-**[02:32:24.520] Senator Sherwin "Win" T. Gatchalian** (asr-003324)  
+**[02:32:24.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003324)  
 this program kasi
 
-**[02:32:25.500] Senator Sherwin "Win" T. Gatchalian** (asr-003325)  
+**[02:32:25.500] Senate President Sherwin "Win" T. Gatchalian** (asr-003325)  
 masaya yung mga
 
-**[02:32:29.120] Senator Sherwin "Win" T. Gatchalian** (asr-003326)  
+**[02:32:29.120] Senate President Sherwin "Win" T. Gatchalian** (asr-003326)  
 seniors.
 
-**[02:32:29.580] Senator Sherwin "Win" T. Gatchalian** (asr-003327)  
+**[02:32:29.580] Senate President Sherwin "Win" T. Gatchalian** (asr-003327)  
 Matutuwa sila eh.
 
-**[02:32:31.720] Senator Sherwin "Win" T. Gatchalian** (asr-003328)  
+**[02:32:31.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003328)  
 At
 
-**[02:32:32.040] Senator Sherwin "Win" T. Gatchalian** (asr-003329)  
+**[02:32:32.040] Senate President Sherwin "Win" T. Gatchalian** (asr-003329)  
 any dole out
 
-**[02:32:35.080] Senator Sherwin "Win" T. Gatchalian** (asr-003330)  
+**[02:32:35.080] Senate President Sherwin "Win" T. Gatchalian** (asr-003330)  
 to our senior
 
-**[02:32:36.260] Senator Sherwin "Win" T. Gatchalian** (asr-003331)  
+**[02:32:36.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003331)  
 citizen,
 
-**[02:32:36.820] Senator Sherwin "Win" T. Gatchalian** (asr-003332)  
+**[02:32:36.820] Senate President Sherwin "Win" T. Gatchalian** (asr-003332)  
 matutuwa sila.
 
-**[02:32:38.240] Senator Sherwin "Win" T. Gatchalian** (asr-003333)  
+**[02:32:38.240] Senate President Sherwin "Win" T. Gatchalian** (asr-003333)  
 But
 
-**[02:32:38.460] Senator Sherwin "Win" T. Gatchalian** (asr-003334)  
+**[02:32:38.460] Senate President Sherwin "Win" T. Gatchalian** (asr-003334)  
 part of the mandate
 
-**[02:32:40.200] Senator Sherwin "Win" T. Gatchalian** (asr-003335)  
+**[02:32:40.200] Senate President Sherwin "Win" T. Gatchalian** (asr-003335)  
 ng
 
-**[02:32:40.540] Senator Sherwin "Win" T. Gatchalian** (asr-003336)  
+**[02:32:40.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003336)  
 ng commission
 
-**[02:32:43.180] Senator Sherwin "Win" T. Gatchalian** (asr-003337)  
+**[02:32:43.180] Senate President Sherwin "Win" T. Gatchalian** (asr-003337)  
 is to also
 
-**[02:32:44.380] Senator Sherwin "Win" T. Gatchalian** (asr-003338)  
+**[02:32:44.380] Senate President Sherwin "Win" T. Gatchalian** (asr-003338)  
 come up with
 
-**[02:32:45.740] Senator Sherwin "Win" T. Gatchalian** (asr-003339)  
+**[02:32:45.740] Senate President Sherwin "Win" T. Gatchalian** (asr-003339)  
 policies.
 
-**[02:32:46.560] Senator Sherwin "Win" T. Gatchalian** (asr-003340)  
+**[02:32:46.560] Senate President Sherwin "Win" T. Gatchalian** (asr-003340)  
 Diba?
 
-**[02:32:47.100] Senator Sherwin "Win" T. Gatchalian** (asr-003341)  
+**[02:32:47.100] Senate President Sherwin "Win" T. Gatchalian** (asr-003341)  
 So, other than
 
-**[02:32:48.400] Senator Sherwin "Win" T. Gatchalian** (asr-003342)  
+**[02:32:48.400] Senate President Sherwin "Win" T. Gatchalian** (asr-003342)  
 itong
 
-**[02:32:49.220] Senator Sherwin "Win" T. Gatchalian** (asr-003343)  
+**[02:32:49.220] Senate President Sherwin "Win" T. Gatchalian** (asr-003343)  
 cash gift
 
-**[02:32:50.320] Senator Sherwin "Win" T. Gatchalian** (asr-003344)  
+**[02:32:50.320] Senate President Sherwin "Win" T. Gatchalian** (asr-003344)  
 or birthday gift,
 
-**[02:32:51.760] Senator Sherwin "Win" T. Gatchalian** (asr-003345)  
+**[02:32:51.760] Senate President Sherwin "Win" T. Gatchalian** (asr-003345)  
 what other policies
 
-**[02:32:52.800] Senator Sherwin "Win" T. Gatchalian** (asr-003346)  
+**[02:32:52.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003346)  
 do
 
-**[02:32:53.180] Senator Sherwin "Win" T. Gatchalian** (asr-003347)  
+**[02:32:53.180] Senate President Sherwin "Win" T. Gatchalian** (asr-003347)  
 have you recommended
 
-**[02:32:54.960] Senator Sherwin "Win" T. Gatchalian** (asr-003348)  
+**[02:32:54.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003348)  
 to government
 
-**[02:32:55.740] Senator Sherwin "Win" T. Gatchalian** (asr-003349)  
+**[02:32:55.740] Senate President Sherwin "Win" T. Gatchalian** (asr-003349)  
 in order to
 
-**[02:32:57.000] Senator Sherwin "Win" T. Gatchalian** (asr-003350)  
+**[02:32:57.000] Senate President Sherwin "Win" T. Gatchalian** (asr-003350)  
 improve the
 
-**[02:32:57.700] Senator Sherwin "Win" T. Gatchalian** (asr-003351)  
+**[02:32:57.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003351)  
 welfare of our
 
-**[02:32:58.720] Senator Sherwin "Win" T. Gatchalian** (asr-003352)  
+**[02:32:58.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003352)  
 senior citizens?
 
-**[02:32:59.580] Senator Sherwin "Win" T. Gatchalian** (asr-003353)  
+**[02:32:59.580] Senate President Sherwin "Win" T. Gatchalian** (asr-003353)  
 ED Ana Marie.
 
 **[02:33:04.000] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003354)  
@@ -10159,70 +10159,70 @@ establishment
 **[02:33:46.180] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003394)  
 ng NCSC.
 
-**[02:33:47.880] Senator Sherwin "Win" T. Gatchalian** (asr-003395)  
+**[02:33:47.880] Senate President Sherwin "Win" T. Gatchalian** (asr-003395)  
 But other,
 
-**[02:33:48.520] Senator Sherwin "Win" T. Gatchalian** (asr-003396)  
+**[02:33:48.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003396)  
 kasi nakita ko dito
 
-**[02:33:49.380] Senator Sherwin "Win" T. Gatchalian** (asr-003397)  
+**[02:33:49.380] Senate President Sherwin "Win" T. Gatchalian** (asr-003397)  
 sa budget niyo,
 
-**[02:33:50.320] Senator Sherwin "Win" T. Gatchalian** (asr-003398)  
+**[02:33:50.320] Senate President Sherwin "Win" T. Gatchalian** (asr-003398)  
 it's only one
 
-**[02:33:50.920] Senator Sherwin "Win" T. Gatchalian** (asr-003399)  
+**[02:33:50.920] Senate President Sherwin "Win" T. Gatchalian** (asr-003399)  
 it's a
 
-**[02:33:51.600] Senator Sherwin "Win" T. Gatchalian** (asr-003400)  
+**[02:33:51.600] Senate President Sherwin "Win" T. Gatchalian** (asr-003400)  
 no, it's a
 
-**[02:33:52.960] Senator Sherwin "Win" T. Gatchalian** (asr-003401)  
+**[02:33:52.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003401)  
 there's only one
 
-**[02:33:53.660] Senator Sherwin "Win" T. Gatchalian** (asr-003402)  
+**[02:33:53.660] Senate President Sherwin "Win" T. Gatchalian** (asr-003402)  
 program which is
 
-**[02:33:54.700] Senator Sherwin "Win" T. Gatchalian** (asr-003403)  
+**[02:33:54.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003403)  
 the birthday.
 
-**[02:33:56.480] Senator Sherwin "Win" T. Gatchalian** (asr-003404)  
+**[02:33:56.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003404)  
 But ano pang
 
-**[02:33:57.680] Senator Sherwin "Win" T. Gatchalian** (asr-003405)  
+**[02:33:57.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003405)  
 anong policy
 
-**[02:33:58.460] Senator Sherwin "Win" T. Gatchalian** (asr-003406)  
+**[02:33:58.460] Senate President Sherwin "Win" T. Gatchalian** (asr-003406)  
 recommendation
 
-**[02:33:58.920] Senator Sherwin "Win" T. Gatchalian** (asr-003407)  
+**[02:33:58.920] Senate President Sherwin "Win" T. Gatchalian** (asr-003407)  
 niyo to
 
-**[02:33:59.680] Senator Sherwin "Win" T. Gatchalian** (asr-003408)  
+**[02:33:59.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003408)  
 improve the
 
-**[02:34:00.240] Senator Sherwin "Win" T. Gatchalian** (asr-003409)  
+**[02:34:00.240] Senate President Sherwin "Win" T. Gatchalian** (asr-003409)  
 welfare of
 
-**[02:34:01.400] Senator Sherwin "Win" T. Gatchalian** (asr-003410)  
+**[02:34:01.400] Senate President Sherwin "Win" T. Gatchalian** (asr-003410)  
 our senior
 
-**[02:34:01.780] Senator Sherwin "Win" T. Gatchalian** (asr-003411)  
+**[02:34:01.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003411)  
 citizens?
 
-**[02:34:02.300] Senator Sherwin "Win" T. Gatchalian** (asr-003412)  
+**[02:34:02.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003412)  
 Just share
 
-**[02:34:02.960] Senator Sherwin "Win" T. Gatchalian** (asr-003413)  
+**[02:34:02.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003413)  
 with us
 
-**[02:34:03.360] Senator Sherwin "Win" T. Gatchalian** (asr-003414)  
+**[02:34:03.360] Senate President Sherwin "Win" T. Gatchalian** (asr-003414)  
 maybe three
 
-**[02:34:04.540] Senator Sherwin "Win" T. Gatchalian** (asr-003415)  
+**[02:34:04.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003415)  
 policy
 
-**[02:34:05.520] Senator Sherwin "Win" T. Gatchalian** (asr-003416)  
+**[02:34:05.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003416)  
 recommendations?
 
 **[02:34:08.760] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003417)  
@@ -10600,22 +10600,22 @@ livelihood
 **[02:36:14.140] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003541)  
 activities.
 
-**[02:36:15.740] Senator Sherwin "Win" T. Gatchalian** (asr-003542)  
+**[02:36:15.740] Senate President Sherwin "Win" T. Gatchalian** (asr-003542)  
 Well,
 
-**[02:36:16.060] Senator Sherwin "Win" T. Gatchalian** (asr-003543)  
+**[02:36:16.060] Senate President Sherwin "Win" T. Gatchalian** (asr-003543)  
 yung
 
-**[02:36:16.280] Senator Sherwin "Win" T. Gatchalian** (asr-003544)  
+**[02:36:16.280] Senate President Sherwin "Win" T. Gatchalian** (asr-003544)  
 Philippine
 
-**[02:36:17.700] Senator Sherwin "Win" T. Gatchalian** (asr-003545)  
+**[02:36:17.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003545)  
 Geriatric
 
-**[02:36:18.380] Senator Sherwin "Win" T. Gatchalian** (asr-003546)  
+**[02:36:18.380] Senate President Sherwin "Win" T. Gatchalian** (asr-003546)  
 Hospital Bill
 
-**[02:36:19.680] Senator Sherwin "Win" T. Gatchalian** (asr-003547)  
+**[02:36:19.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003547)  
 aprobado na yun.
 
 **[02:36:20.740] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003548)  
@@ -10627,379 +10627,379 @@ It's already
 **[02:36:21.680] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003550)  
 approved.
 
-**[02:36:22.200] Senator Sherwin "Win" T. Gatchalian** (asr-003551)  
+**[02:36:22.200] Senate President Sherwin "Win" T. Gatchalian** (asr-003551)  
 And
 
-**[02:36:22.640] Senator Sherwin "Win" T. Gatchalian** (asr-003552)  
+**[02:36:22.640] Senate President Sherwin "Win" T. Gatchalian** (asr-003552)  
 yung bill na yan
 
-**[02:36:24.760] Senator Sherwin "Win" T. Gatchalian** (asr-003553)  
+**[02:36:24.760] Senate President Sherwin "Win" T. Gatchalian** (asr-003553)  
 is really meant
 
-**[02:36:25.560] Senator Sherwin "Win" T. Gatchalian** (asr-003554)  
+**[02:36:25.560] Senate President Sherwin "Win" T. Gatchalian** (asr-003554)  
 for our
 
-**[02:36:26.080] Senator Sherwin "Win" T. Gatchalian** (asr-003555)  
+**[02:36:26.080] Senate President Sherwin "Win" T. Gatchalian** (asr-003555)  
 senior citizens.
 
-**[02:36:26.960] Senator Sherwin "Win" T. Gatchalian** (asr-003556)  
+**[02:36:26.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003556)  
 It was approved
 
-**[02:36:27.540] Senator Sherwin "Win" T. Gatchalian** (asr-003557)  
+**[02:36:27.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003557)  
 by,
 
-**[02:36:28.240] Senator Sherwin "Win" T. Gatchalian** (asr-003558)  
+**[02:36:28.240] Senate President Sherwin "Win" T. Gatchalian** (asr-003558)  
 the chairman
 
-**[02:36:29.780] Senator Sherwin "Win" T. Gatchalian** (asr-003559)  
+**[02:36:29.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003559)  
 of the health
 
-**[02:36:30.520] Senator Sherwin "Win" T. Gatchalian** (asr-003560)  
+**[02:36:30.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003560)  
 committee
 
-**[02:36:30.900] Senator Sherwin "Win" T. Gatchalian** (asr-003561)  
+**[02:36:30.900] Senate President Sherwin "Win" T. Gatchalian** (asr-003561)  
 sa center
 
-**[02:36:31.580] Senator Sherwin "Win" T. Gatchalian** (asr-003562)  
+**[02:36:31.580] Senate President Sherwin "Win" T. Gatchalian** (asr-003562)  
 Risa Ontiveros.
 
 **[02:36:34.280] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003563)  
 Yes po.
 
-**[02:36:34.700] Senator Sherwin "Win" T. Gatchalian** (asr-003564)  
+**[02:36:34.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003564)  
 So,
 
-**[02:36:35.640] Senator Sherwin "Win" T. Gatchalian** (asr-003565)  
+**[02:36:35.640] Senate President Sherwin "Win" T. Gatchalian** (asr-003565)  
 ang top two
 
-**[02:36:36.260] Senator Sherwin "Win" T. Gatchalian** (asr-003566)  
+**[02:36:36.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003566)  
 concern ng ating
 
-**[02:36:37.200] Senator Sherwin "Win" T. Gatchalian** (asr-003567)  
+**[02:36:37.200] Senate President Sherwin "Win" T. Gatchalian** (asr-003567)  
 mga senior citizens
 
-**[02:36:38.120] Senator Sherwin "Win" T. Gatchalian** (asr-003568)  
+**[02:36:38.120] Senate President Sherwin "Win" T. Gatchalian** (asr-003568)  
 is health
 
-**[02:36:38.760] Senator Sherwin "Win" T. Gatchalian** (asr-003569)  
+**[02:36:38.760] Senate President Sherwin "Win" T. Gatchalian** (asr-003569)  
 and livelihood.
 
 **[02:36:41.180] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003570)  
 Yes.
 
-**[02:36:41.620] Senator Sherwin "Win" T. Gatchalian** (asr-003571)  
+**[02:36:41.620] Senate President Sherwin "Win" T. Gatchalian** (asr-003571)  
 Actually,
 
-**[02:36:42.080] Senator Sherwin "Win" T. Gatchalian** (asr-003572)  
+**[02:36:42.080] Senate President Sherwin "Win" T. Gatchalian** (asr-003572)  
 third is pension.
 
-**[02:36:44.020] Senator Sherwin "Win" T. Gatchalian** (asr-003573)  
+**[02:36:44.020] Senate President Sherwin "Win" T. Gatchalian** (asr-003573)  
 Diba?
 
-**[02:36:44.540] Senator Sherwin "Win" T. Gatchalian** (asr-003574)  
+**[02:36:44.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003574)  
 Yun ang
 
-**[02:36:44.920] Senator Sherwin "Win" T. Gatchalian** (asr-003575)  
+**[02:36:44.920] Senate President Sherwin "Win" T. Gatchalian** (asr-003575)  
 kanilang
 
-**[02:36:46.840] Senator Sherwin "Win" T. Gatchalian** (asr-003576)  
+**[02:36:46.840] Senate President Sherwin "Win" T. Gatchalian** (asr-003576)  
 mga concerns.
 
 **[02:36:48.260] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003577)  
 Yes po.
 
-**[02:36:48.560] Senator Sherwin "Win" T. Gatchalian** (asr-003578)  
+**[02:36:48.560] Senate President Sherwin "Win" T. Gatchalian** (asr-003578)  
 But more so
 
-**[02:36:49.220] Senator Sherwin "Win" T. Gatchalian** (asr-003579)  
+**[02:36:49.220] Senate President Sherwin "Win" T. Gatchalian** (asr-003579)  
 is
 
-**[02:36:49.420] Senator Sherwin "Win" T. Gatchalian** (asr-003580)  
+**[02:36:49.420] Senate President Sherwin "Win" T. Gatchalian** (asr-003580)  
 ang mga
 
-**[02:36:50.700] Senator Sherwin "Win" T. Gatchalian** (asr-003581)  
+**[02:36:50.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003581)  
 senior citizens
 
-**[02:36:51.480] Senator Sherwin "Win" T. Gatchalian** (asr-003582)  
+**[02:36:51.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003582)  
 natin,
 
-**[02:36:52.020] Senator Sherwin "Win" T. Gatchalian** (asr-003583)  
+**[02:36:52.020] Senate President Sherwin "Win" T. Gatchalian** (asr-003583)  
 ayaw nila
 
-**[02:36:52.360] Senator Sherwin "Win" T. Gatchalian** (asr-003584)  
+**[02:36:52.360] Senate President Sherwin "Win" T. Gatchalian** (asr-003584)  
 pabigat sa society.
 
-**[02:36:54.540] Senator Sherwin "Win" T. Gatchalian** (asr-003585)  
+**[02:36:54.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003585)  
 Ayaw nila
 
-**[02:36:55.180] Senator Sherwin "Win" T. Gatchalian** (asr-003586)  
+**[02:36:55.180] Senate President Sherwin "Win" T. Gatchalian** (asr-003586)  
 maging
 
-**[02:36:56.680] Senator Sherwin "Win" T. Gatchalian** (asr-003587)  
+**[02:36:56.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003587)  
 burden
 
-**[02:36:57.380] Senator Sherwin "Win" T. Gatchalian** (asr-003588)  
+**[02:36:57.380] Senate President Sherwin "Win" T. Gatchalian** (asr-003588)  
 to society.
 
-**[02:36:58.240] Senator Sherwin "Win" T. Gatchalian** (asr-003589)  
+**[02:36:58.240] Senate President Sherwin "Win" T. Gatchalian** (asr-003589)  
 So,
 
-**[02:36:59.660] Senator Sherwin "Win" T. Gatchalian** (asr-003590)  
+**[02:36:59.660] Senate President Sherwin "Win" T. Gatchalian** (asr-003590)  
 ako sa Valenzuela,
 
-**[02:37:01.080] Senator Sherwin "Win" T. Gatchalian** (asr-003591)  
+**[02:37:01.080] Senate President Sherwin "Win" T. Gatchalian** (asr-003591)  
 kami ni
 
-**[02:37:01.480] Senator Sherwin "Win" T. Gatchalian** (asr-003592)  
+**[02:37:01.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003592)  
 Secretary Rex,
 
-**[02:37:02.800] Senator Sherwin "Win" T. Gatchalian** (asr-003593)  
+**[02:37:02.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003593)  
 nung mayor kami,
 
-**[02:37:04.300] Senator Sherwin "Win" T. Gatchalian** (asr-003594)  
+**[02:37:04.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003594)  
 pagkausap namin
 
-**[02:37:04.980] Senator Sherwin "Win" T. Gatchalian** (asr-003595)  
+**[02:37:04.980] Senate President Sherwin "Win" T. Gatchalian** (asr-003595)  
 senior citizen,
 
-**[02:37:06.000] Senator Sherwin "Win" T. Gatchalian** (asr-003596)  
+**[02:37:06.000] Senate President Sherwin "Win" T. Gatchalian** (asr-003596)  
 ayaw nila
 
-**[02:37:06.420] Senator Sherwin "Win" T. Gatchalian** (asr-003597)  
+**[02:37:06.420] Senate President Sherwin "Win" T. Gatchalian** (asr-003597)  
 maging pabigat.
 
-**[02:37:07.300] Senator Sherwin "Win" T. Gatchalian** (asr-003598)  
+**[02:37:07.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003598)  
 Gusto nila
 
-**[02:37:07.720] Senator Sherwin "Win" T. Gatchalian** (asr-003599)  
+**[02:37:07.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003599)  
 maging independent.
 
-**[02:37:09.360] Senator Sherwin "Win" T. Gatchalian** (asr-003600)  
+**[02:37:09.360] Senate President Sherwin "Win" T. Gatchalian** (asr-003600)  
 So,
 
-**[02:37:09.600] Senator Sherwin "Win" T. Gatchalian** (asr-003601)  
+**[02:37:09.600] Senate President Sherwin "Win" T. Gatchalian** (asr-003601)  
 the point I'm trying
 
-**[02:37:10.540] Senator Sherwin "Win" T. Gatchalian** (asr-003602)  
+**[02:37:10.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003602)  
 to make there is
 
-**[02:37:11.440] Senator Sherwin "Win" T. Gatchalian** (asr-003603)  
+**[02:37:11.440] Senate President Sherwin "Win" T. Gatchalian** (asr-003603)  
 to make them
 
-**[02:37:12.400] Senator Sherwin "Win" T. Gatchalian** (asr-003604)  
+**[02:37:12.400] Senate President Sherwin "Win" T. Gatchalian** (asr-003604)  
 independent,
 
-**[02:37:13.100] Senator Sherwin "Win" T. Gatchalian** (asr-003605)  
+**[02:37:13.100] Senate President Sherwin "Win" T. Gatchalian** (asr-003605)  
 one,
 
-**[02:37:13.460] Senator Sherwin "Win" T. Gatchalian** (asr-003606)  
+**[02:37:13.460] Senate President Sherwin "Win" T. Gatchalian** (asr-003606)  
 is to address
 
-**[02:37:14.360] Senator Sherwin "Win" T. Gatchalian** (asr-003607)  
+**[02:37:14.360] Senate President Sherwin "Win" T. Gatchalian** (asr-003607)  
 their health concerns.
 
-**[02:37:16.500] Senator Sherwin "Win" T. Gatchalian** (asr-003608)  
+**[02:37:16.500] Senate President Sherwin "Win" T. Gatchalian** (asr-003608)  
 Yun na nga,
 
-**[02:37:16.860] Senator Sherwin "Win" T. Gatchalian** (asr-003609)  
+**[02:37:16.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003609)  
 may hospital na tayo
 
-**[02:37:17.820] Senator Sherwin "Win" T. Gatchalian** (asr-003610)  
+**[02:37:17.820] Senate President Sherwin "Win" T. Gatchalian** (asr-003610)  
 ngayon,
 
-**[02:37:18.440] Senator Sherwin "Win" T. Gatchalian** (asr-003611)  
+**[02:37:18.440] Senate President Sherwin "Win" T. Gatchalian** (asr-003611)  
 solely catering
 
-**[02:37:19.480] Senator Sherwin "Win" T. Gatchalian** (asr-003612)  
+**[02:37:19.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003612)  
 to our senior citizens.
 
-**[02:37:21.360] Senator Sherwin "Win" T. Gatchalian** (asr-003613)  
+**[02:37:21.360] Senate President Sherwin "Win" T. Gatchalian** (asr-003613)  
 But number two,
 
-**[02:37:22.440] Senator Sherwin "Win" T. Gatchalian** (asr-003614)  
+**[02:37:22.440] Senate President Sherwin "Win" T. Gatchalian** (asr-003614)  
 is how do we make
 
-**[02:37:23.160] Senator Sherwin "Win" T. Gatchalian** (asr-003615)  
+**[02:37:23.160] Senate President Sherwin "Win" T. Gatchalian** (asr-003615)  
 them financially
 
-**[02:37:24.320] Senator Sherwin "Win" T. Gatchalian** (asr-003616)  
+**[02:37:24.320] Senate President Sherwin "Win" T. Gatchalian** (asr-003616)  
 independent?
 
-**[02:37:25.700] Senator Sherwin "Win" T. Gatchalian** (asr-003617)  
+**[02:37:25.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003617)  
 Of course,
 
-**[02:37:26.360] Senator Sherwin "Win" T. Gatchalian** (asr-003618)  
+**[02:37:26.360] Senate President Sherwin "Win" T. Gatchalian** (asr-003618)  
 masaya tayo
 
-**[02:37:27.360] Senator Sherwin "Win" T. Gatchalian** (asr-003619)  
+**[02:37:27.360] Senate President Sherwin "Win" T. Gatchalian** (asr-003619)  
 dun sa
 
-**[02:37:27.860] Senator Sherwin "Win" T. Gatchalian** (asr-003620)  
+**[02:37:27.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003620)  
 dole-outs,
 
-**[02:37:28.960] Senator Sherwin "Win" T. Gatchalian** (asr-003621)  
+**[02:37:28.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003621)  
 but we cannot
 
-**[02:37:29.680] Senator Sherwin "Win" T. Gatchalian** (asr-003622)  
+**[02:37:29.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003622)  
 make that as a
 
-**[02:37:31.680] Senator Sherwin "Win" T. Gatchalian** (asr-003623)  
+**[02:37:31.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003623)  
 sole policy.
 
-**[02:37:33.480] Senator Sherwin "Win" T. Gatchalian** (asr-003624)  
+**[02:37:33.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003624)  
 Kasi nakita ko
 
-**[02:37:34.200] Senator Sherwin "Win" T. Gatchalian** (asr-003625)  
+**[02:37:34.200] Senate President Sherwin "Win" T. Gatchalian** (asr-003625)  
 dito sa inyo,
 
-**[02:37:35.500] Senator Sherwin "Win" T. Gatchalian** (asr-003626)  
+**[02:37:35.500] Senate President Sherwin "Win" T. Gatchalian** (asr-003626)  
 isa lang yung
 
-**[02:37:36.320] Senator Sherwin "Win" T. Gatchalian** (asr-003627)  
+**[02:37:36.320] Senate President Sherwin "Win" T. Gatchalian** (asr-003627)  
 inyong program.
 
-**[02:37:37.720] Senator Sherwin "Win" T. Gatchalian** (asr-003628)  
+**[02:37:37.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003628)  
 So, what I'm
 
-**[02:37:38.240] Senator Sherwin "Win" T. Gatchalian** (asr-003629)  
+**[02:37:38.240] Senate President Sherwin "Win" T. Gatchalian** (asr-003629)  
 driving at is,
 
-**[02:37:39.700] Senator Sherwin "Win" T. Gatchalian** (asr-003630)  
+**[02:37:39.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003630)  
 mag-isipan pa natin
 
-**[02:37:40.920] Senator Sherwin "Win" T. Gatchalian** (asr-003631)  
+**[02:37:40.920] Senate President Sherwin "Win" T. Gatchalian** (asr-003631)  
 bilang
 
-**[02:37:41.460] Senator Sherwin "Win" T. Gatchalian** (asr-003632)  
+**[02:37:41.460] Senate President Sherwin "Win" T. Gatchalian** (asr-003632)  
 the policymaker
 
-**[02:37:43.160] Senator Sherwin "Win" T. Gatchalian** (asr-003633)  
+**[02:37:43.160] Senate President Sherwin "Win" T. Gatchalian** (asr-003633)  
 of our senior
 
-**[02:37:43.960] Senator Sherwin "Win" T. Gatchalian** (asr-003634)  
+**[02:37:43.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003634)  
 citizen,
 
-**[02:37:45.080] Senator Sherwin "Win" T. Gatchalian** (asr-003635)  
+**[02:37:45.080] Senate President Sherwin "Win" T. Gatchalian** (asr-003635)  
 kung how do we
 
-**[02:37:45.700] Senator Sherwin "Win" T. Gatchalian** (asr-003636)  
+**[02:37:45.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003636)  
 make them
 
-**[02:37:46.320] Senator Sherwin "Win" T. Gatchalian** (asr-003637)  
+**[02:37:46.320] Senate President Sherwin "Win" T. Gatchalian** (asr-003637)  
 productive
 
-**[02:37:47.680] Senator Sherwin "Win" T. Gatchalian** (asr-003638)  
+**[02:37:47.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003638)  
 sector
 
-**[02:37:48.880] Senator Sherwin "Win" T. Gatchalian** (asr-003639)  
+**[02:37:48.880] Senate President Sherwin "Win" T. Gatchalian** (asr-003639)  
 or productive
 
-**[02:37:49.620] Senator Sherwin "Win" T. Gatchalian** (asr-003640)  
+**[02:37:49.620] Senate President Sherwin "Win" T. Gatchalian** (asr-003640)  
 sector of our
 
-**[02:37:50.440] Senator Sherwin "Win" T. Gatchalian** (asr-003641)  
+**[02:37:50.440] Senate President Sherwin "Win" T. Gatchalian** (asr-003641)  
 society.
 
-**[02:37:51.680] Senator Sherwin "Win" T. Gatchalian** (asr-003642)  
+**[02:37:51.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003642)  
 Yun ang
 
-**[02:37:52.300] Senator Sherwin "Win" T. Gatchalian** (asr-003643)  
+**[02:37:52.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003643)  
 nakukuha kong
 
-**[02:37:54.800] Senator Sherwin "Win" T. Gatchalian** (asr-003644)  
+**[02:37:54.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003644)  
 feedback from
 
-**[02:37:55.560] Senator Sherwin "Win" T. Gatchalian** (asr-003645)  
+**[02:37:55.560] Senate President Sherwin "Win" T. Gatchalian** (asr-003645)  
 our senior
 
-**[02:37:56.140] Senator Sherwin "Win" T. Gatchalian** (asr-003646)  
+**[02:37:56.140] Senate President Sherwin "Win" T. Gatchalian** (asr-003646)  
 citizens.
 
-**[02:37:57.860] Senator Sherwin "Win" T. Gatchalian** (asr-003647)  
+**[02:37:57.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003647)  
 Especially,
 
-**[02:37:58.760] Senator Sherwin "Win" T. Gatchalian** (asr-003648)  
+**[02:37:58.760] Senate President Sherwin "Win" T. Gatchalian** (asr-003648)  
 pagdating sa
 
-**[02:37:59.400] Senator Sherwin "Win" T. Gatchalian** (asr-003649)  
+**[02:37:59.400] Senate President Sherwin "Win" T. Gatchalian** (asr-003649)  
 contribution.
 
-**[02:38:00.960] Senator Sherwin "Win" T. Gatchalian** (asr-003650)  
+**[02:38:00.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003650)  
 So, in the next
 
-**[02:38:02.360] Senator Sherwin "Win" T. Gatchalian** (asr-003651)  
+**[02:38:02.360] Senate President Sherwin "Win" T. Gatchalian** (asr-003651)  
 few,
 
-**[02:38:03.880] Senator Sherwin "Win" T. Gatchalian** (asr-003652)  
+**[02:38:03.880] Senate President Sherwin "Win" T. Gatchalian** (asr-003652)  
 sabit na lang sa
 
-**[02:38:04.700] Senator Sherwin "Win" T. Gatchalian** (asr-003653)  
+**[02:38:04.700] Senate President Sherwin "Win" T. Gatchalian** (asr-003653)  
 committee,
 
-**[02:38:05.220] Senator Sherwin "Win" T. Gatchalian** (asr-003654)  
+**[02:38:05.220] Senate President Sherwin "Win" T. Gatchalian** (asr-003654)  
 just submit to
 
-**[02:38:05.740] Senator Sherwin "Win" T. Gatchalian** (asr-003655)  
+**[02:38:05.740] Senate President Sherwin "Win" T. Gatchalian** (asr-003655)  
 our committee,
 
-**[02:38:06.900] Senator Sherwin "Win" T. Gatchalian** (asr-003656)  
+**[02:38:06.900] Senate President Sherwin "Win" T. Gatchalian** (asr-003656)  
 what do you
 
-**[02:38:07.580] Senator Sherwin "Win" T. Gatchalian** (asr-003657)  
+**[02:38:07.580] Senate President Sherwin "Win" T. Gatchalian** (asr-003657)  
 recommend
 
-**[02:38:08.100] Senator Sherwin "Win" T. Gatchalian** (asr-003658)  
+**[02:38:08.100] Senate President Sherwin "Win" T. Gatchalian** (asr-003658)  
 as policy
 
-**[02:38:09.560] Senator Sherwin "Win" T. Gatchalian** (asr-003659)  
+**[02:38:09.560] Senate President Sherwin "Win" T. Gatchalian** (asr-003659)  
 to help our
 
-**[02:38:11.120] Senator Sherwin "Win" T. Gatchalian** (asr-003660)  
+**[02:38:11.120] Senate President Sherwin "Win" T. Gatchalian** (asr-003660)  
 senior citizens
 
-**[02:38:12.040] Senator Sherwin "Win" T. Gatchalian** (asr-003661)  
+**[02:38:12.040] Senate President Sherwin "Win" T. Gatchalian** (asr-003661)  
 to become
 
-**[02:38:12.960] Senator Sherwin "Win" T. Gatchalian** (asr-003662)  
+**[02:38:12.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003662)  
 financially
 
-**[02:38:14.080] Senator Sherwin "Win" T. Gatchalian** (asr-003663)  
+**[02:38:14.080] Senate President Sherwin "Win" T. Gatchalian** (asr-003663)  
 independent,
 
-**[02:38:17.000] Senator Sherwin "Win" T. Gatchalian** (asr-003664)  
+**[02:38:17.000] Senate President Sherwin "Win" T. Gatchalian** (asr-003664)  
 a productive
 
-**[02:38:18.320] Senator Sherwin "Win" T. Gatchalian** (asr-003665)  
+**[02:38:18.320] Senate President Sherwin "Win" T. Gatchalian** (asr-003665)  
 sector of
 
-**[02:38:19.020] Senator Sherwin "Win" T. Gatchalian** (asr-003666)  
+**[02:38:19.020] Senate President Sherwin "Win" T. Gatchalian** (asr-003666)  
 our society,
 
-**[02:38:20.300] Senator Sherwin "Win" T. Gatchalian** (asr-003667)  
+**[02:38:20.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003667)  
 at matulungan
 
-**[02:38:21.140] Senator Sherwin "Win" T. Gatchalian** (asr-003668)  
+**[02:38:21.140] Senate President Sherwin "Win" T. Gatchalian** (asr-003668)  
 rin natin
 
-**[02:38:21.660] Senator Sherwin "Win" T. Gatchalian** (asr-003669)  
+**[02:38:21.660] Senate President Sherwin "Win" T. Gatchalian** (asr-003669)  
 yung kanilang
 
-**[02:38:22.140] Senator Sherwin "Win" T. Gatchalian** (asr-003670)  
+**[02:38:22.140] Senate President Sherwin "Win" T. Gatchalian** (asr-003670)  
 mga concerns
 
-**[02:38:22.960] Senator Sherwin "Win" T. Gatchalian** (asr-003671)  
+**[02:38:22.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003671)  
 in health
 
-**[02:38:23.520] Senator Sherwin "Win" T. Gatchalian** (asr-003672)  
+**[02:38:23.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003672)  
 and livelihood.
 
-**[02:38:25.260] Senator Sherwin "Win" T. Gatchalian** (asr-003673)  
+**[02:38:25.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003673)  
 Just submit
 
-**[02:38:25.760] Senator Sherwin "Win" T. Gatchalian** (asr-003674)  
+**[02:38:25.760] Senate President Sherwin "Win" T. Gatchalian** (asr-003674)  
 to the
 
-**[02:38:26.020] Senator Sherwin "Win" T. Gatchalian** (asr-003675)  
+**[02:38:26.020] Senate President Sherwin "Win" T. Gatchalian** (asr-003675)  
 committee.
 
 **[02:38:27.860] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003676)  
@@ -11008,25 +11008,25 @@ Yes, po, sir.
 **[02:38:30.900] NCSC Acting Executive Director Ana Marie C. Calapit** (asr-003677)  
 We will submit, po.
 
-**[02:38:31.720] Senator Sherwin "Win" T. Gatchalian** (asr-003678)  
+**[02:38:31.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003678)  
 With that,
 
-**[02:38:32.560] Senator Sherwin "Win" T. Gatchalian** (asr-003679)  
+**[02:38:32.560] Senate President Sherwin "Win" T. Gatchalian** (asr-003679)  
 Madam Chair,
 
-**[02:38:33.100] Senator Sherwin "Win" T. Gatchalian** (asr-003680)  
+**[02:38:33.100] Senate President Sherwin "Win" T. Gatchalian** (asr-003680)  
 thank you very much.
 
-**[02:38:34.000] Senator Sherwin "Win" T. Gatchalian** (asr-003681)  
+**[02:38:34.000] Senate President Sherwin "Win" T. Gatchalian** (asr-003681)  
 I'll just avail
 
-**[02:38:34.680] Senator Sherwin "Win" T. Gatchalian** (asr-003682)  
+**[02:38:34.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003682)  
 of the second round
 
-**[02:38:35.600] Senator Sherwin "Win" T. Gatchalian** (asr-003683)  
+**[02:38:35.600] Senate President Sherwin "Win" T. Gatchalian** (asr-003683)  
 later on.
 
-**[02:38:36.480] Senator Sherwin "Win" T. Gatchalian** (asr-003684)  
+**[02:38:36.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003684)  
 Thank you.
 
 **[02:38:37.200] Senator Risa Hontiveros** (asr-003685)  
@@ -12868,34 +12868,34 @@ And then sabi kanina ni Senator Ami, babalik siya.
 **[02:57:03.220] Senator Risa Hontiveros** (asr-004299)  
 So you may lead off for the second round.
 
-**[02:57:05.620] Senator Sherwin "Win" T. Gatchalian** (asr-004300)  
+**[02:57:05.620] Senate President Sherwin "Win" T. Gatchalian** (asr-004300)  
 I just have a few items lang, Madam Chairperson.
 
-**[02:57:10.400] Senator Sherwin "Win" T. Gatchalian** (asr-004301)  
+**[02:57:10.400] Senate President Sherwin "Win" T. Gatchalian** (asr-004301)  
 Balikan ko lang yung sinabi ng ating Chairman, Senator JV.
 
-**[02:57:14.800] Senator Sherwin "Win" T. Gatchalian** (asr-004302)  
+**[02:57:14.800] Senate President Sherwin "Win" T. Gatchalian** (asr-004302)  
 Itong panahon ng pagkilos, Philippine Community Resilience Project.
 
-**[02:57:19.740] Senator Sherwin "Win" T. Gatchalian** (asr-004303)  
+**[02:57:19.740] Senate President Sherwin "Win" T. Gatchalian** (asr-004303)  
 I understand that this is a foreign-assisted project.
 
-**[02:57:24.020] Senator Sherwin "Win" T. Gatchalian** (asr-004304)  
+**[02:57:24.020] Senate President Sherwin "Win" T. Gatchalian** (asr-004304)  
 It's a funded project.
 
-**[02:57:25.740] Senator Sherwin "Win" T. Gatchalian** (asr-004305)  
+**[02:57:25.740] Senate President Sherwin "Win" T. Gatchalian** (asr-004305)  
 And ang aim nito is to make communities resilient to poverty, disaster, and climate change.
 
-**[02:57:35.100] Senator Sherwin "Win" T. Gatchalian** (asr-004306)  
+**[02:57:35.100] Senate President Sherwin "Win" T. Gatchalian** (asr-004306)  
 And ongoing, I just want to ask, anong status nitong project?
 
-**[02:57:41.760] Senator Sherwin "Win" T. Gatchalian** (asr-004307)  
+**[02:57:41.760] Senate President Sherwin "Win" T. Gatchalian** (asr-004307)  
 At paano makaka-apekto itong pagbawas sa NEP ng 5.5 billion pesos?
 
-**[02:57:54.020] Senator Sherwin "Win" T. Gatchalian** (asr-004308)  
+**[02:57:54.020] Senate President Sherwin "Win" T. Gatchalian** (asr-004308)  
 So, kasi kung ongoing na siya, tapos mababawasan, mapuputol, sayang inumpisahan.
 
-**[02:58:02.560] Senator Sherwin "Win" T. Gatchalian** (asr-004309)  
+**[02:58:02.560] Senate President Sherwin "Win" T. Gatchalian** (asr-004309)  
 So we want to get an update on this foreign-assisted project.
 
 **[02:58:09.920] DSWD Secretary Rex Gatchalian** (asr-004310)  
@@ -12961,13 +12961,13 @@ Now, the worry there is also, I don't think the development agency will like tha
 **[02:59:38.000] DSWD Secretary Rex Gatchalian** (asr-004330)  
 because when we did sign the commitment, meron na yung pre-identified mechanisms and the designs are already preset.
 
-**[02:59:45.680] Senator Sherwin "Win" T. Gatchalian** (asr-004331)  
+**[02:59:45.680] Senate President Sherwin "Win" T. Gatchalian** (asr-004331)  
 Ongoing na ito?
 
 **[02:59:46.900] DSWD Secretary Rex Gatchalian** (asr-004332)  
 Ongoing na po. In fact, we're doing the first round this year.
 
-**[02:59:50.220] Senator Sherwin "Win" T. Gatchalian** (asr-004333)  
+**[02:59:50.220] Senate President Sherwin "Win" T. Gatchalian** (asr-004333)  
 Okay.
 
 **[02:59:50.520] DSWD Secretary Rex Gatchalian** (asr-004334)  
@@ -12976,40 +12976,40 @@ It's a five-year plan.
 **[02:59:53.260] DSWD Secretary Rex Gatchalian** (asr-004335)  
 Until 2031.
 
-**[02:59:55.340] Senator Sherwin "Win" T. Gatchalian** (asr-004336)  
+**[02:59:55.340] Senate President Sherwin "Win" T. Gatchalian** (asr-004336)  
 Okay. And then, ang counterpart natin is 10 billion.
 
 **[02:59:59.200] DSWD Secretary Rex Gatchalian** (asr-004337)  
 Is correct.
 
-**[02:59:59.980] Senator Sherwin "Win" T. Gatchalian** (asr-004338)  
+**[02:59:59.980] Senate President Sherwin "Win" T. Gatchalian** (asr-004338)  
 10 billion.
 
-**[03:00:02.120] Senator Sherwin "Win" T. Gatchalian** (asr-004339)  
+**[03:00:02.120] Senate President Sherwin "Win" T. Gatchalian** (asr-004339)  
 Dito sa original na P17 billion, nandito na yung counterpart.
 
 **[03:00:15.020] DSWD Secretary Rex Gatchalian** (asr-004340)  
 Nandito na yung counterpart pero ang nabawasan po ay yung ODA side.
 
-**[03:00:20.680] Senator Sherwin "Win" T. Gatchalian** (asr-004341)  
+**[03:00:20.680] Senate President Sherwin "Win" T. Gatchalian** (asr-004341)  
 Ah, yung ODA side.
 
 **[03:00:21.860] DSWD Secretary Rex Gatchalian** (asr-004342)  
 At the COP side.
 
-**[03:00:23.580] Senator Sherwin "Win" T. Gatchalian** (asr-004343)  
+**[03:00:23.580] Senate President Sherwin "Win" T. Gatchalian** (asr-004343)  
 Okay.
 
-**[03:00:23.920] Senator Sherwin "Win" T. Gatchalian** (asr-004344)  
+**[03:00:23.920] Senate President Sherwin "Win" T. Gatchalian** (asr-004344)  
 Okay.
 
-**[03:00:24.060] Senator Sherwin "Win" T. Gatchalian** (asr-004345)  
+**[03:00:24.060] Senate President Sherwin "Win" T. Gatchalian** (asr-004345)  
 Okay. Will it help? Ang mangyayari dito dahil nabawasan ng P5.4, beneficiary?
 
 **[03:00:35.980] DSWD Secretary Rex Gatchalian** (asr-004346)  
 Liliit. Yes. And when we talk about beneficiaries, communities. LGUs.
 
-**[03:00:40.120] Senator Sherwin "Win" T. Gatchalian** (asr-004347)  
+**[03:00:40.120] Senate President Sherwin "Win" T. Gatchalian** (asr-004347)  
 And how many communities ang mababawasan with that P5.5 cut?
 
 **[03:00:54.060] DSWD Secretary Rex Gatchalian** (asr-004348)  
@@ -13048,7 +13048,7 @@ yung plinano nyo, if that was no more than 20 million, liliit ho yun.
 **[03:01:39.380] DSWD Secretary Rex Gatchalian** (asr-004359)  
 So they'll have to scale down.
 
-**[03:01:40.600] Senator Sherwin "Win" T. Gatchalian** (asr-004360)  
+**[03:01:40.600] Senate President Sherwin "Win" T. Gatchalian** (asr-004360)  
 Pagkano makukuha nila? Originally it was 20 million.
 
 **[03:01:43.340] DSWD Secretary Rex Gatchalian** (asr-004361)  
@@ -13087,10 +13087,10 @@ So yun ang mababawasan ho.
 **[03:02:10.520] DSWD Secretary Rex Gatchalian** (asr-004372)  
 Proportionately, we'll have to cut it.
 
-**[03:02:12.180] Senator Sherwin "Win" T. Gatchalian** (asr-004373)  
+**[03:02:12.180] Senate President Sherwin "Win" T. Gatchalian** (asr-004373)  
 Baka wala na silang matapos with that.
 
-**[03:02:14.440] Senator Sherwin "Win" T. Gatchalian** (asr-004374)  
+**[03:02:14.440] Senate President Sherwin "Win" T. Gatchalian** (asr-004374)  
 Siyempre, the smaller the project, the less the impact, di ba?
 
 **[03:02:18.700] DSWD Secretary Rex Gatchalian** (asr-004375)  
@@ -13102,7 +13102,7 @@ And more so, maliliit na nga siya kasi they're micro-infrastructure projects.
 **[03:02:24.060] DSWD Secretary Rex Gatchalian** (asr-004377)  
 That otherwise, hindi mapapansin sa budgeting season because bottom-up budgeting to.
 
-**[03:02:27.860] Senator Sherwin "Win" T. Gatchalian** (asr-004378)  
+**[03:02:27.860] Senate President Sherwin "Win" T. Gatchalian** (asr-004378)  
 So this is the successor to Kalahis?
 
 **[03:02:29.840] DSWD Secretary Rex Gatchalian** (asr-004379)  
@@ -13111,10 +13111,10 @@ Yes.
 **[03:02:30.460] DSWD Secretary Rex Gatchalian** (asr-004380)  
 Yes.
 
-**[03:02:30.940] Senator Sherwin "Win" T. Gatchalian** (asr-004381)  
+**[03:02:30.940] Senate President Sherwin "Win" T. Gatchalian** (asr-004381)  
 Okay.
 
-**[03:02:31.280] Senator Sherwin "Win" T. Gatchalian** (asr-004382)  
+**[03:02:31.280] Senate President Sherwin "Win" T. Gatchalian** (asr-004382)  
 Which is a successful project rin?
 
 **[03:02:33.100] DSWD Secretary Rex Gatchalian** (asr-004383)  
@@ -13129,22 +13129,22 @@ We believe that it's successful.
 **[03:02:36.840] DSWD Secretary Rex Gatchalian** (asr-004386)  
 Otherwise, the World Bank would not have given it or NEDA, DEPDEV would not have given it a go-signal for a successor program.
 
-**[03:02:43.640] Senator Sherwin "Win" T. Gatchalian** (asr-004387)  
+**[03:02:43.640] Senate President Sherwin "Win" T. Gatchalian** (asr-004387)  
 Alright.
 
-**[03:02:46.320] Senator Sherwin "Win" T. Gatchalian** (asr-004388)  
+**[03:02:46.320] Senate President Sherwin "Win" T. Gatchalian** (asr-004388)  
 We'll take note of that kasi nakita ko na-cut yung project na nasabi na ng ating chairman to kanina.
 
-**[03:02:54.060] Senator Sherwin "Win" T. Gatchalian** (asr-004389)  
+**[03:02:54.060] Senate President Sherwin "Win" T. Gatchalian** (asr-004389)  
 That's why we're also evaluating yung mga cuts and also additions, actually.
 
-**[03:03:04.300] Senator Sherwin "Win" T. Gatchalian** (asr-004390)  
+**[03:03:04.300] Senate President Sherwin "Win" T. Gatchalian** (asr-004390)  
 Actually, I don't have any more questions, Madam Chairperson.
 
-**[03:03:08.020] Senator Sherwin "Win" T. Gatchalian** (asr-004391)  
+**[03:03:08.020] Senate President Sherwin "Win" T. Gatchalian** (asr-004391)  
 Thank you.
 
-**[03:03:08.460] Senator Sherwin "Win" T. Gatchalian** (asr-004392)  
+**[03:03:08.460] Senate President Sherwin "Win" T. Gatchalian** (asr-004392)  
 Thank you for that.
 
 **[03:03:09.700] Senator Risa Hontiveros** (asr-004393)  
@@ -16801,67 +16801,67 @@ Ms. Liza,
 **[03:37:02.420] Senator Risa Hontiveros** (asr-005609)  
 mula sa Social Watch Philippines.
 
-**[03:37:04.740] Dr. Liza Martinez** (asr-005610)  
+**[03:37:04.740] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005610)  
 Magandang hapon po.
 
-**[03:37:07.020] Dr. Liza Martinez** (asr-005611)  
+**[03:37:07.020] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005611)  
 Dalawa po ang bit-bit ko
 
-**[03:37:08.540] Dr. Liza Martinez** (asr-005612)  
+**[03:37:08.540] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005612)  
 ngayong hapon.
 
-**[03:37:09.580] Dr. Liza Martinez** (asr-005613)  
+**[03:37:09.580] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005613)  
 So,
 
-**[03:37:09.800] Dr. Liza Martinez** (asr-005614)  
+**[03:37:09.800] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005614)  
 sa ngalan ng Social Watch
 
-**[03:37:11.520] Dr. Liza Martinez** (asr-005615)  
+**[03:37:11.520] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005615)  
 Philippines na isang
 
-**[03:37:13.240] Dr. Liza Martinez** (asr-005616)  
+**[03:37:13.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005616)  
 budget advocacy
 
-**[03:37:14.280] Dr. Liza Martinez** (asr-005617)  
+**[03:37:14.280] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005617)  
 CSO
 
-**[03:37:15.560] Dr. Liza Martinez** (asr-005618)  
+**[03:37:15.560] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005618)  
 at yung aking personal
 
-**[03:37:17.520] Dr. Liza Martinez** (asr-005619)  
+**[03:37:17.520] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005619)  
 nakaranasan naman
 
-**[03:37:18.580] Dr. Liza Martinez** (asr-005620)  
+**[03:37:18.580] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005620)  
 ay sa mga may kapansanan
 
-**[03:37:20.220] Dr. Liza Martinez** (asr-005621)  
+**[03:37:20.220] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005621)  
 na may kapansanan
 
-**[03:37:21.220] Dr. Liza Martinez** (asr-005622)  
+**[03:37:21.220] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005622)  
 specific po
 
-**[03:37:21.980] Dr. Liza Martinez** (asr-005623)  
+**[03:37:21.980] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005623)  
 sa deaf community
 
-**[03:37:22.920] Dr. Liza Martinez** (asr-005624)  
+**[03:37:22.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005624)  
 where I have worked
 
-**[03:37:23.780] Dr. Liza Martinez** (asr-005625)  
+**[03:37:23.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005625)  
 for 30 years.
 
-**[03:37:25.560] Dr. Liza Martinez** (asr-005626)  
+**[03:37:25.560] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005626)  
 Gusto ko pong hatiin
 
-**[03:37:26.940] Dr. Liza Martinez** (asr-005627)  
+**[03:37:26.940] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005627)  
 yung dalawang minuto
 
-**[03:37:28.220] Dr. Liza Martinez** (asr-005628)  
+**[03:37:28.220] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005628)  
 at magmamakaawa
 
-**[03:37:29.820] Dr. Liza Martinez** (asr-005629)  
+**[03:37:29.820] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005629)  
 ng isa pang minuto
 
-**[03:37:31.100] Dr. Liza Martinez** (asr-005630)  
+**[03:37:31.100] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005630)  
 para...
 
 **[03:37:31.540] Senator Risa Hontiveros** (asr-005631)  
@@ -16870,712 +16870,712 @@ Sure po.
 **[03:37:32.080] Senator Risa Hontiveros** (asr-005632)  
 Please go ahead.
 
-**[03:37:33.080] Dr. Liza Martinez** (asr-005633)  
+**[03:37:33.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005633)  
 Salamat po.
 
-**[03:37:34.420] Dr. Liza Martinez** (asr-005634)  
+**[03:37:34.420] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005634)  
 Gusto kong umpilsahan muna
 
-**[03:37:36.040] Dr. Liza Martinez** (asr-005635)  
+**[03:37:36.040] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005635)  
 siguro dahil
 
-**[03:37:36.860] Dr. Liza Martinez** (asr-005636)  
+**[03:37:36.860] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005636)  
 may ilang nabanggit na
 
-**[03:37:37.940] Dr. Liza Martinez** (asr-005637)  
+**[03:37:37.940] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005637)  
 maraming salamat
 
-**[03:37:38.780] Dr. Liza Martinez** (asr-005638)  
+**[03:37:38.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005638)  
 ngayong hapon
 
-**[03:37:39.380] Dr. Liza Martinez** (asr-005639)  
+**[03:37:39.380] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005639)  
 sa mga ibinahagi
 
-**[03:37:40.620] Dr. Liza Martinez** (asr-005640)  
+**[03:37:40.620] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005640)  
 ng ating mga lingkod bayan.
 
-**[03:37:42.080] Dr. Liza Martinez** (asr-005641)  
+**[03:37:42.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005641)  
 Marami po ako natutunan
 
-**[03:37:43.380] Dr. Liza Martinez** (asr-005642)  
+**[03:37:43.380] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005642)  
 tungkol sa DSWD
 
-**[03:37:45.140] Dr. Liza Martinez** (asr-005643)  
+**[03:37:45.140] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005643)  
 at maraming salamat
 
-**[03:37:46.140] Dr. Liza Martinez** (asr-005644)  
+**[03:37:46.140] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005644)  
 sa mga servisyo
 
-**[03:37:47.300] Dr. Liza Martinez** (asr-005645)  
+**[03:37:47.300] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005645)  
 at programa.
 
-**[03:37:48.760] Dr. Liza Martinez** (asr-005646)  
+**[03:37:48.760] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005646)  
 So,
 
-**[03:37:48.980] Dr. Liza Martinez** (asr-005647)  
+**[03:37:48.980] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005647)  
 sa kabuoan lang po
 
-**[03:37:49.940] Dr. Liza Martinez** (asr-005648)  
+**[03:37:49.940] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005648)  
 meron kaming ilang
 
-**[03:37:51.220] Dr. Liza Martinez** (asr-005650)  
+**[03:37:51.220] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005650)  
 summary statements
 
-**[03:37:53.120] Dr. Liza Martinez** (asr-005651)  
+**[03:37:53.120] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005651)  
 mula sa Social Watch Philippines.
 
-**[03:37:55.900] Dr. Liza Martinez** (asr-005652)  
+**[03:37:55.900] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005652)  
 Sa ngayon po,
 
-**[03:37:57.440] Dr. Liza Martinez** (asr-005653)  
+**[03:37:57.440] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005653)  
 ang tingin namin
 
-**[03:37:58.380] Dr. Liza Martinez** (asr-005654)  
+**[03:37:58.380] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005654)  
 sa
 
-**[03:37:58.920] Dr. Liza Martinez** (asr-005655)  
+**[03:37:58.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005655)  
 sa 2027
 
-**[03:38:01.500] Dr. Liza Martinez** (asr-005656)  
+**[03:38:01.500] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005656)  
 ang analysis
 
-**[03:38:02.360] Dr. Liza Martinez** (asr-005657)  
+**[03:38:02.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005657)  
 o critique
 
-**[03:38:03.160] Dr. Liza Martinez** (asr-005658)  
+**[03:38:03.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005658)  
 ng Social Watch Philippines
 
-**[03:38:04.700] Dr. Liza Martinez** (asr-005659)  
+**[03:38:04.700] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005659)  
 ay
 
-**[03:38:05.180] Dr. Liza Martinez** (asr-005660)  
+**[03:38:05.180] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005660)  
 yung mga
 
-**[03:38:06.720] Dr. Liza Martinez** (asr-005661)  
+**[03:38:06.720] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005661)  
 yung mga ahensya
 
-**[03:38:08.500] Dr. Liza Martinez** (asr-005662)  
+**[03:38:08.500] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005662)  
 attached sa DSWD
 
-**[03:38:10.620] Dr. Liza Martinez** (asr-005663)  
+**[03:38:10.620] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005663)  
 na binawasan
 
-**[03:38:12.100] Dr. Liza Martinez** (asr-005664)  
+**[03:38:12.100] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005664)  
 halimbawa ang
 
-**[03:38:12.880] Dr. Liza Martinez** (asr-005665)  
+**[03:38:12.880] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005665)  
 Council for the Welfare of Children,
 
-**[03:38:14.780] Dr. Liza Martinez** (asr-005666)  
+**[03:38:14.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005666)  
 Juvenile Justice and Welfare Council.
 
-**[03:38:17.520] Dr. Liza Martinez** (asr-005667)  
+**[03:38:17.520] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005667)  
 Ito pong mga cuts na to
 
-**[03:38:18.780] Dr. Liza Martinez** (asr-005668)  
+**[03:38:18.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005668)  
 ay hindi po
 
-**[03:38:20.340] Dr. Liza Martinez** (asr-005669)  
+**[03:38:20.340] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005669)  
 kami sangayon
 
-**[03:38:21.120] Dr. Liza Martinez** (asr-005670)  
+**[03:38:21.120] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005670)  
 dahil it weakens
 
-**[03:38:22.780] Dr. Liza Martinez** (asr-005671)  
+**[03:38:22.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005671)  
 the institutions
 
-**[03:38:23.920] Dr. Liza Martinez** (asr-005672)  
+**[03:38:23.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005672)  
 responsible for
 
-**[03:38:25.460] Dr. Liza Martinez** (asr-005673)  
+**[03:38:25.460] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005673)  
 child rights
 
-**[03:38:26.360] Dr. Liza Martinez** (asr-005674)  
+**[03:38:26.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005674)  
 and protection,
 
-**[03:38:27.220] Dr. Liza Martinez** (asr-005675)  
+**[03:38:27.220] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005675)  
 disability,
 
-**[03:38:28.120] Dr. Liza Martinez** (asr-005676)  
+**[03:38:28.120] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005676)  
 juvenile justice,
 
-**[03:38:29.220] Dr. Liza Martinez** (asr-005677)  
+**[03:38:29.220] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005677)  
 rehab,
 
-**[03:38:30.300] Dr. Liza Martinez** (asr-005678)  
+**[03:38:30.300] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005678)  
 regulation,
 
-**[03:38:30.980] Dr. Liza Martinez** (asr-005679)  
+**[03:38:30.980] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005679)  
 and social development.
 
-**[03:38:32.860] Dr. Liza Martinez** (asr-005680)  
+**[03:38:32.860] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005680)  
 Although assistance
 
-**[03:38:34.000] Dr. Liza Martinez** (asr-005681)  
+**[03:38:34.000] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005681)  
 to households
 
-**[03:38:35.480] Dr. Liza Martinez** (asr-005682)  
+**[03:38:35.480] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005682)  
 in crisis
 
-**[03:38:36.280] Dr. Liza Martinez** (asr-005683)  
+**[03:38:36.280] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005683)  
 is essential
 
-**[03:38:37.240] Dr. Liza Martinez** (asr-005684)  
+**[03:38:37.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005684)  
 at ilang beses na pong inulit-ulit
 
-**[03:38:39.980] Dr. Liza Martinez** (asr-005685)  
+**[03:38:39.980] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005685)  
 ang napakalaking
 
-**[03:38:41.120] Dr. Liza Martinez** (asr-005686)  
+**[03:38:41.120] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005686)  
 ibinalik
 
-**[03:38:41.800] Dr. Liza Martinez** (asr-005687)  
+**[03:38:41.800] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005687)  
 sa AICS
 
-**[03:38:43.080] Dr. Liza Martinez** (asr-005688)  
+**[03:38:43.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005688)  
 na halos bumalik na
 
-**[03:38:44.340] Dr. Liza Martinez** (asr-005689)  
+**[03:38:44.340] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005689)  
 doon sa 63
 
-**[03:38:45.360] Dr. Liza Martinez** (asr-005690)  
+**[03:38:45.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005690)  
 na hinihingi naman
 
-**[03:38:46.320] Dr. Liza Martinez** (asr-005691)  
+**[03:38:46.320] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005691)  
 ng ating kalihim.
 
-**[03:38:48.680] Dr. Liza Martinez** (asr-005692)  
+**[03:38:48.680] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005692)  
 Sa tingin po namin,
 
-**[03:38:49.840] Dr. Liza Martinez** (asr-005693)  
+**[03:38:49.840] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005693)  
 although assistance
 
-**[03:38:50.540] Dr. Liza Martinez** (asr-005694)  
+**[03:38:50.540] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005694)  
 to households
 
-**[03:38:51.100] Dr. Liza Martinez** (asr-005695)  
+**[03:38:51.100] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005695)  
 in crisis
 
-**[03:38:51.820] Dr. Liza Martinez** (asr-005696)  
+**[03:38:51.820] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005696)  
 is essential,
 
-**[03:38:53.240] Dr. Liza Martinez** (asr-005697)  
+**[03:38:53.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005697)  
 an increase of this scale
 
-**[03:38:55.260] Dr. Liza Martinez** (asr-005698)  
+**[03:38:55.260] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005698)  
 demands careful scrutiny,
 
-**[03:38:58.460] Dr. Liza Martinez** (asr-005699)  
+**[03:38:58.460] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005699)  
 heavy reliance
 
-**[03:38:59.220] Dr. Liza Martinez** (asr-005700)  
+**[03:38:59.220] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005700)  
 on discretionary subsidies,
 
-**[03:39:00.900] Dr. Liza Martinez** (asr-005701)  
+**[03:39:00.900] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005701)  
 at paulit-ulit na nating
 
-**[03:39:01.960] Dr. Liza Martinez** (asr-005702)  
+**[03:39:01.960] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005702)  
 sinasabi ito,
 
-**[03:39:02.820] Dr. Liza Martinez** (asr-005703)  
+**[03:39:02.820] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005703)  
 hindi lang ngayong hapon,
 
-**[03:39:04.240] Dr. Liza Martinez** (asr-005704)  
+**[03:39:04.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005704)  
 may reinforced short-term
 
-**[03:39:05.520] Dr. Liza Martinez** (asr-005705)  
+**[03:39:05.520] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005705)  
 patronage-prone politics
 
-**[03:39:07.460] Dr. Liza Martinez** (asr-005706)  
+**[03:39:07.460] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005706)  
 on the provision
 
-**[03:39:08.640] Dr. Liza Martinez** (asr-005707)  
+**[03:39:08.640] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005707)  
 of social assistance
 
-**[03:39:09.920] Dr. Liza Martinez** (asr-005708)  
+**[03:39:09.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005708)  
 rather than build
 
-**[03:39:11.380] Dr. Liza Martinez** (asr-005709)  
+**[03:39:11.380] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005709)  
 predictable rights-based
 
-**[03:39:13.800] Dr. Liza Martinez** (asr-005710)  
+**[03:39:13.800] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005710)  
 social protection.
 
-**[03:39:15.740] Dr. Liza Martinez** (asr-005711)  
+**[03:39:15.740] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005711)  
 So ang hiling po
 
-**[03:39:16.440] Dr. Liza Martinez** (asr-005712)  
+**[03:39:16.440] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005712)  
 ng Social Watch,
 
-**[03:39:17.660] Dr. Liza Martinez** (asr-005713)  
+**[03:39:17.660] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005713)  
 kung mamarapatin
 
-**[03:39:18.640] Dr. Liza Martinez** (asr-005714)  
+**[03:39:18.640] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005714)  
 ng komite,
 
-**[03:39:19.320] Dr. Liza Martinez** (asr-005715)  
+**[03:39:19.320] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005715)  
 ay nananakay
 
-**[03:39:21.100] Dr. Liza Martinez** (asr-005716)  
+**[03:39:21.100] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005716)  
 ang panawagan po
 
-**[03:39:21.940] Dr. Liza Martinez** (asr-005717)  
+**[03:39:21.940] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005717)  
 na to restore
 
-**[03:39:23.280] Dr. Liza Martinez** (asr-005718)  
+**[03:39:23.280] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005718)  
 the budgets
 
-**[03:39:24.080] Dr. Liza Martinez** (asr-005719)  
+**[03:39:24.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005719)  
 of those attached
 
-**[03:39:25.320] Dr. Liza Martinez** (asr-005720)  
+**[03:39:25.320] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005720)  
 and supervised agency
 
-**[03:39:26.760] Dr. Liza Martinez** (asr-005721)  
+**[03:39:26.760] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005721)  
 to at least
 
-**[03:39:27.620] Dr. Liza Martinez** (asr-005722)  
+**[03:39:27.620] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005722)  
 their 2026 levels
 
-**[03:39:29.940] Dr. Liza Martinez** (asr-005723)  
+**[03:39:29.940] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005723)  
 and adopt
 
-**[03:39:31.360] Dr. Liza Martinez** (asr-005724)  
+**[03:39:31.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005724)  
 and or adopt
 
-**[03:39:32.960] Dr. Liza Martinez** (asr-005725)  
+**[03:39:32.960] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005725)  
 their justified
 
-**[03:39:33.680] Dr. Liza Martinez** (asr-005726)  
+**[03:39:33.680] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005726)  
 Tier 2 proposals.
 
-**[03:39:36.080] Dr. Liza Martinez** (asr-005727)  
+**[03:39:36.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005727)  
 Narinig ko na rin
 
-**[03:39:36.820] Dr. Liza Martinez** (asr-005728)  
+**[03:39:36.820] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005728)  
 kanina na
 
-**[03:39:37.580] Dr. Liza Martinez** (asr-005729)  
+**[03:39:37.580] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005729)  
 miminungkahi yun.
 
-**[03:39:38.920] Dr. Liza Martinez** (asr-005730)  
+**[03:39:38.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005730)  
 Para naman sa AICS,
 
-**[03:39:41.680] Dr. Liza Martinez** (asr-005731)  
+**[03:39:41.680] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005731)  
 the request is to publish
 
-**[03:39:43.260] Dr. Liza Martinez** (asr-005732)  
+**[03:39:43.260] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005732)  
 clear AICS
 
-**[03:39:44.660] Dr. Liza Martinez** (asr-005733)  
+**[03:39:44.660] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005733)  
 allocation criteria,
 
-**[03:39:46.840] Dr. Liza Martinez** (asr-005734)  
+**[03:39:46.840] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005734)  
 beneficiary selection safeguards,
 
-**[03:39:50.020] Dr. Liza Martinez** (asr-005735)  
+**[03:39:50.020] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005735)  
 geographic distribution,
 
-**[03:39:51.100] Dr. Liza Martinez** (asr-005736)  
+**[03:39:51.100] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005736)  
 monitoring mechanisms,
 
-**[03:39:53.000] Dr. Liza Martinez** (asr-005737)  
+**[03:39:53.000] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005737)  
 and measurable outcomes.
 
-**[03:39:55.280] Dr. Liza Martinez** (asr-005738)  
+**[03:39:55.280] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005738)  
 Emergency assistance
 
-**[03:39:56.500] Dr. Liza Martinez** (asr-005739)  
+**[03:39:56.500] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005739)  
 must not crowd out
 
-**[03:39:58.060] Dr. Liza Martinez** (asr-005740)  
+**[03:39:58.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005740)  
 sustained investment
 
-**[03:39:59.540] Dr. Liza Martinez** (asr-005741)  
+**[03:39:59.540] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005741)  
 in prevention,
 
-**[03:40:01.380] Dr. Liza Martinez** (asr-005742)  
+**[03:40:01.380] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005742)  
 case management,
 
-**[03:40:02.420] Dr. Liza Martinez** (asr-005743)  
+**[03:40:02.420] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005743)  
 community-based services,
 
-**[03:40:03.820] Dr. Liza Martinez** (asr-005744)  
+**[03:40:03.820] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005744)  
 institutional capacity,
 
-**[03:40:05.040] Dr. Liza Martinez** (asr-005745)  
+**[03:40:05.040] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005745)  
 and the mandates
 
-**[03:40:05.700] Dr. Liza Martinez** (asr-005746)  
+**[03:40:05.700] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005746)  
 of DSWD-attached
 
-**[03:40:07.720] Dr. Liza Martinez** (asr-005747)  
+**[03:40:07.720] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005747)  
 and supervised agencies.
 
-**[03:40:11.120] Dr. Liza Martinez** (asr-005748)  
+**[03:40:11.120] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005748)  
 A credible DSWD budget
 
-**[03:40:13.280] Dr. Liza Martinez** (asr-005749)  
+**[03:40:13.280] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005749)  
 must do more,
 
-**[03:40:15.180] Dr. Liza Martinez** (asr-005750)  
+**[03:40:15.180] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005750)  
 much more
 
-**[03:40:15.720] Dr. Liza Martinez** (asr-005751)  
+**[03:40:15.720] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005751)  
 than provide relief
 
-**[03:40:17.060] Dr. Liza Martinez** (asr-005752)  
+**[03:40:17.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005752)  
 after harm
 
-**[03:40:18.820] Dr. Liza Martinez** (asr-005753)  
+**[03:40:18.820] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005753)  
 or hardship occurs.
 
-**[03:40:20.360] Dr. Liza Martinez** (asr-005754)  
+**[03:40:20.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005754)  
 It must be
 
-**[03:40:21.080] Dr. Liza Martinez** (asr-005755)  
+**[03:40:21.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005755)  
 must strengthen
 
-**[03:40:21.880] Dr. Liza Martinez** (asr-005756)  
+**[03:40:21.880] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005756)  
 the systems,
 
-**[03:40:22.940] Dr. Liza Martinez** (asr-005757)  
+**[03:40:22.940] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005757)  
 institutions,
 
-**[03:40:23.820] Dr. Liza Martinez** (asr-005758)  
+**[03:40:23.820] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005758)  
 frontline workers,
 
-**[03:40:25.260] Dr. Liza Martinez** (asr-005759)  
+**[03:40:25.260] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005759)  
 and direct support
 
-**[03:40:26.240] Dr. Liza Martinez** (asr-005760)  
+**[03:40:26.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005760)  
 needed to uphold
 
-**[03:40:27.340] Dr. Liza Martinez** (asr-005761)  
+**[03:40:27.340] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005761)  
 the rights,
 
-**[03:40:28.360] Dr. Liza Martinez** (asr-005762)  
+**[03:40:28.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005762)  
 dignity,
 
-**[03:40:29.080] Dr. Liza Martinez** (asr-005763)  
+**[03:40:29.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005763)  
 independence,
 
-**[03:40:30.120] Dr. Liza Martinez** (asr-005764)  
+**[03:40:30.120] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005764)  
 and well-being,
 
-**[03:40:31.560] Dr. Liza Martinez** (asr-005765)  
+**[03:40:31.560] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005765)  
 particularly of
 
-**[03:40:32.440] Dr. Liza Martinez** (asr-005766)  
+**[03:40:32.440] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005766)  
 two sectors
 
-**[03:40:33.420] Dr. Liza Martinez** (asr-005767)  
+**[03:40:33.420] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005767)  
 of children
 
-**[03:40:34.160] Dr. Liza Martinez** (asr-005768)  
+**[03:40:34.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005768)  
 and persons
 
-**[03:40:34.860] Dr. Liza Martinez** (asr-005769)  
+**[03:40:34.860] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005769)  
 with disabilities.
 
-**[03:40:36.920] Dr. Liza Martinez** (asr-005770)  
+**[03:40:36.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005770)  
 And
 
-**[03:40:37.240] Dr. Liza Martinez** (asr-005771)  
+**[03:40:37.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005771)  
 I'd like to bring up
 
-**[03:40:39.400] Dr. Liza Martinez** (asr-005772)  
+**[03:40:39.400] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005772)  
 two specific examples
 
-**[03:40:40.760] Dr. Liza Martinez** (asr-005773)  
+**[03:40:40.760] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005773)  
 of what Social Watch Philippines
 
-**[03:40:42.460] Dr. Liza Martinez** (asr-005774)  
+**[03:40:42.460] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005774)  
 is asking
 
-**[03:40:43.180] Dr. Liza Martinez** (asr-005775)  
+**[03:40:43.180] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005775)  
 for the child protection cluster.
 
-**[03:40:47.520] Dr. Liza Martinez** (asr-005776)  
+**[03:40:47.520] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005776)  
 And we've already submitted
 
-**[03:40:48.840] Dr. Liza Martinez** (asr-005777)  
+**[03:40:48.840] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005777)  
 for the slides.
 
-**[03:40:49.500] Dr. Liza Martinez** (asr-005778)  
+**[03:40:49.500] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005778)  
 I don't have the time
 
-**[03:40:50.380] Dr. Liza Martinez** (asr-005779)  
+**[03:40:50.380] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005779)  
 to go through all of them.
 
-**[03:40:51.060] Dr. Liza Martinez** (asr-005780)  
+**[03:40:51.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005780)  
 But there is also
 
-**[03:40:53.060] Dr. Liza Martinez** (asr-005781)  
+**[03:40:53.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005781)  
 a position paper
 
-**[03:40:54.560] Dr. Liza Martinez** (asr-005782)  
+**[03:40:54.560] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005782)  
 or a statement.
 
-**[03:40:56.300] Dr. Liza Martinez** (asr-005783)  
+**[03:40:56.300] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005783)  
 A targeted
 
-**[03:40:57.160] Dr. Liza Martinez** (asr-005784)  
+**[03:40:57.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005784)  
 28,563,800
 
-**[03:41:00.400] Dr. Liza Martinez** (asr-005785)  
+**[03:41:00.400] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005785)  
 investment
 
-**[03:41:01.160] Dr. Liza Martinez** (asr-005786)  
+**[03:41:01.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005786)  
 in child protection
 
-**[03:41:02.380] Dr. Liza Martinez** (asr-005787)  
+**[03:41:02.380] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005787)  
 under the DSWD budget
 
-**[03:41:04.680] Dr. Liza Martinez** (asr-005788)  
+**[03:41:04.680] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005788)  
 is being proposed.
 
-**[03:41:07.220] Dr. Liza Martinez** (asr-005789)  
+**[03:41:07.220] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005789)  
 And this is
 
-**[03:41:07.860] Dr. Liza Martinez** (asr-005790)  
+**[03:41:07.860] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005790)  
 the costing is based
 
-**[03:41:09.120] Dr. Liza Martinez** (asr-005791)  
+**[03:41:09.120] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005791)  
 on
 
-**[03:41:09.700] Dr. Liza Martinez** (asr-005792)  
+**[03:41:09.700] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005792)  
 the costed implementation plan
 
-**[03:41:12.420] Dr. Liza Martinez** (asr-005793)  
+**[03:41:12.420] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005793)  
 of the Philippine Strategic Plan
 
-**[03:41:14.200] Dr. Liza Martinez** (asr-005794)  
+**[03:41:14.200] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005794)  
 against the online sexual abuse
 
-**[03:41:16.340] Dr. Liza Martinez** (asr-005795)  
+**[03:41:16.340] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005795)  
 or exploitation of children
 
-**[03:41:18.320] Dr. Liza Martinez** (asr-005796)  
+**[03:41:18.320] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005796)  
 or the osaic
 
-**[03:41:19.280] Dr. Liza Martinez** (asr-005797)  
+**[03:41:19.280] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005797)  
 and the child sexual abuse
 
-**[03:41:21.060] Dr. Liza Martinez** (asr-005798)  
+**[03:41:21.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005798)  
 or exploitation materials
 
-**[03:41:23.640] Dr. Liza Martinez** (asr-005799)  
+**[03:41:23.640] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005799)  
 the CISA-SM
 
-**[03:41:25.300] Dr. Liza Martinez** (asr-005800)  
+**[03:41:25.300] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005800)  
 2025 to 2028.
 
-**[03:41:27.600] Dr. Liza Martinez** (asr-005801)  
+**[03:41:27.600] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005801)  
 The top two items there
 
-**[03:41:29.060] Dr. Liza Martinez** (asr-005802)  
+**[03:41:29.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005802)  
 are the basic course
 
-**[03:41:31.840] Dr. Liza Martinez** (asr-005803)  
+**[03:41:31.840] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005803)  
 on anti-osaic
 
-**[03:41:33.300] Dr. Liza Martinez** (asr-005804)  
+**[03:41:33.300] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005804)  
 and also the assessment
 
-**[03:41:34.720] Dr. Liza Martinez** (asr-005805)  
+**[03:41:34.720] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005805)  
 on survivors' outcome training.
 
-**[03:41:37.880] Dr. Liza Martinez** (asr-005806)  
+**[03:41:37.880] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005806)  
 So persons with disabilities cluster,
 
-**[03:41:40.140] Dr. Liza Martinez** (asr-005807)  
+**[03:41:40.140] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005807)  
 the Social Watch
 
-**[03:41:41.140] Dr. Liza Martinez** (asr-005808)  
+**[03:41:41.140] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005808)  
 is pushing for
 
-**[03:41:42.840] Dr. Liza Martinez** (asr-005809)  
+**[03:41:42.840] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005809)  
 the proposed
 
-**[03:41:44.400] Dr. Liza Martinez** (asr-005810)  
+**[03:41:44.400] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005810)  
 disability support allowance.
 
-**[03:41:47.260] Dr. Liza Martinez** (asr-005811)  
+**[03:41:47.260] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005811)  
 And this covers
 
-**[03:41:48.920] Dr. Liza Martinez** (asr-005812)  
+**[03:41:48.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005812)  
 disability-related experiences
 
-**[03:41:51.060] Dr. Liza Martinez** (asr-005813)  
+**[03:41:51.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005813)  
 such as
 
-**[03:41:52.060] Dr. Liza Martinez** (asr-005814)  
+**[03:41:52.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005814)  
 ongoing medical treatment
 
-**[03:41:53.440] Dr. Liza Martinez** (asr-005815)  
+**[03:41:53.440] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005815)  
 and medication,
 
-**[03:41:55.100] Dr. Liza Martinez** (asr-005816)  
+**[03:41:55.100] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005816)  
 hygiene and incontinence supply,
 
-**[03:41:57.240] Dr. Liza Martinez** (asr-005817)  
+**[03:41:57.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005817)  
 specialized transportation,
 
-**[03:41:58.760] Dr. Liza Martinez** (asr-005818)  
+**[03:41:58.760] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005818)  
 and several other things.
 
-**[03:42:00.560] Dr. Liza Martinez** (asr-005819)  
+**[03:42:00.560] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005819)  
 The program
 
-**[03:42:01.360] Dr. Liza Martinez** (asr-005820)  
+**[03:42:01.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005820)  
 is proposed to cover
 
-**[03:42:02.660] Dr. Liza Martinez** (asr-005821)  
+**[03:42:02.660] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005821)  
 345,000 beneficiaries
 
-**[03:42:04.940] Dr. Liza Martinez** (asr-005822)  
+**[03:42:04.940] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005822)  
 identified as Filipinos
 
-**[03:42:06.900] Dr. Liza Martinez** (asr-005823)  
+**[03:42:06.900] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005823)  
 with severe
 
-**[03:42:08.240] Dr. Liza Martinez** (asr-005824)  
+**[03:42:08.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005824)  
 functioning difficulties.
 
-**[03:42:10.980] Dr. Liza Martinez** (asr-005825)  
+**[03:42:10.980] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005825)  
 In fact,
 
-**[03:42:11.860] Dr. Liza Martinez** (asr-005826)  
+**[03:42:11.860] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005826)  
 the demographic
 
-**[03:42:13.880] Dr. Liza Martinez** (asr-005827)  
+**[03:42:13.880] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005827)  
 mentioned here
 
-**[03:42:15.280] Dr. Liza Martinez** (asr-005828)  
+**[03:42:15.280] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005828)  
 is based on the 2020 census
 
-**[03:42:17.180] Dr. Liza Martinez** (asr-005829)  
+**[03:42:17.180] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005829)  
 and as has already been mentioned,
 
-**[03:42:19.780] Dr. Liza Martinez** (asr-005830)  
+**[03:42:19.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005830)  
 the CBMS,
 
-**[03:42:21.060] Dr. Liza Martinez** (asr-005831)  
+**[03:42:21.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005831)  
 actually has doubled
 
-**[03:42:22.300] Dr. Liza Martinez** (asr-005832)  
+**[03:42:22.300] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005832)  
 that amount
 
-**[03:42:23.060] Dr. Liza Martinez** (asr-005833)  
+**[03:42:23.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005833)  
 for persons with severe disabilities
 
-**[03:42:25.760] Dr. Liza Martinez** (asr-005834)  
+**[03:42:25.760] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005834)  
 only from ages 5 to 19.
 
-**[03:42:29.140] Dr. Liza Martinez** (asr-005835)  
+**[03:42:29.140] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005835)  
 These are children and youth.
 
-**[03:42:30.660] Dr. Liza Martinez** (asr-005836)  
+**[03:42:30.660] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005836)  
 It's doubled.
 
-**[03:42:31.280] Dr. Liza Martinez** (asr-005837)  
+**[03:42:31.280] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005837)  
 This is only half.
 
-**[03:42:33.920] Dr. Liza Martinez** (asr-005838)  
+**[03:42:33.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005838)  
 It's proposing to give
 
-**[03:42:35.780] Dr. Liza Martinez** (asr-005839)  
+**[03:42:35.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005839)  
 a disability support allowance
 
-**[03:42:37.620] Dr. Liza Martinez** (asr-005840)  
+**[03:42:37.620] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005840)  
 of 2,000 pesos per month
 
-**[03:42:39.920] Dr. Liza Martinez** (asr-005841)  
+**[03:42:39.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005841)  
 for Filipinos
 
-**[03:42:41.080] Dr. Liza Martinez** (asr-005842)  
+**[03:42:41.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005842)  
 with severe functioning disabilities,
 
-**[03:42:43.400] Dr. Liza Martinez** (asr-005843)  
+**[03:42:43.400] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005843)  
 difficulties, I'm sorry.
 
-**[03:42:45.180] Dr. Liza Martinez** (asr-005844)  
+**[03:42:45.180] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005844)  
 And this amounts to
 
-**[03:42:46.380] Dr. Liza Martinez** (asr-005845)  
+**[03:42:46.380] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005845)  
 690 million monthly
 
-**[03:42:49.400] Dr. Liza Martinez** (asr-005846)  
+**[03:42:49.400] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005846)  
 and 8
 
-**[03:42:51.060] Dr. Liza Martinez** (asr-005847)  
+**[03:42:51.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005847)  
 plus billion annually
 
-**[03:42:52.680] Dr. Liza Martinez** (asr-005848)  
+**[03:42:52.680] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005848)  
 for the allowance.
 
-**[03:42:56.660] Dr. Liza Martinez** (asr-005849)  
+**[03:42:56.660] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005849)  
 Taken together,
 
-**[03:42:58.580] Dr. Liza Martinez** (asr-005850)  
+**[03:42:58.580] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005850)  
 the proposals for child protection
 
-**[03:43:00.140] Dr. Liza Martinez** (asr-005851)  
+**[03:43:00.140] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005851)  
 and persons with disabilities
 
-**[03:43:01.500] Dr. Liza Martinez** (asr-005852)  
+**[03:43:01.500] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005852)  
 would move the DSWD budget
 
-**[03:43:03.340] Dr. Liza Martinez** (asr-005853)  
+**[03:43:03.340] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005853)  
 toward prevention,
 
-**[03:43:05.440] Dr. Liza Martinez** (asr-005854)  
+**[03:43:05.440] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005854)  
 survivor-centered recovery
 
-**[03:43:07.220] Dr. Liza Martinez** (asr-005855)  
+**[03:43:07.220] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005855)  
 and reintegration,
 
-**[03:43:08.420] Dr. Liza Martinez** (asr-005856)  
+**[03:43:08.420] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005856)  
 disability visibility
 
-**[03:43:09.780] Dr. Liza Martinez** (asr-005857)  
+**[03:43:09.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005857)  
 and inclusion,
 
-**[03:43:11.700] Dr. Liza Martinez** (asr-005858)  
+**[03:43:11.700] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005858)  
 stronger professional capacity
 
-**[03:43:13.260] Dr. Liza Martinez** (asr-005859)  
+**[03:43:13.260] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005859)  
 and accountable service delivery.
 
-**[03:43:16.240] Dr. Liza Martinez** (asr-005860)  
+**[03:43:16.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005860)  
 Social Watch respectfully calls
 
-**[03:43:18.360] Dr. Liza Martinez** (asr-005861)  
+**[03:43:18.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005861)  
 on Senator Ontiveros
 
-**[03:43:19.680] Dr. Liza Martinez** (asr-005862)  
+**[03:43:19.680] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005862)  
 and the appropriate subcommittee
 
-**[03:43:21.020] Dr. Liza Martinez** (asr-005863)  
+**[03:43:21.020] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005863)  
 chairs to champion
 
-**[03:43:22.180] Dr. Liza Martinez** (asr-005864)  
+**[03:43:22.180] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005864)  
 these proposals
 
-**[03:43:23.240] Dr. Liza Martinez** (asr-005865)  
+**[03:43:23.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005865)  
 and sponsor the corresponding
 
-**[03:43:25.080] Dr. Liza Martinez** (asr-005866)  
+**[03:43:25.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005866)  
 amendments during the period
 
-**[03:43:26.680] Dr. Liza Martinez** (asr-005867)  
+**[03:43:26.680] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005867)  
 of amendments.
 
-**[03:43:28.260] Dr. Liza Martinez** (asr-005868)  
+**[03:43:28.260] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005868)  
 My second minute.
 
-**[03:43:30.040] Dr. Liza Martinez** (asr-005869)  
+**[03:43:30.040] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005869)  
 I would like just to mention,
 
 **[03:43:31.540] Senator Risa Hontiveros** (asr-005870)  
@@ -17587,52 +17587,52 @@ More than one minute.
 **[03:43:33.100] Senator Risa Hontiveros** (asr-005872)  
 Please proceed and wind up.
 
-**[03:43:35.840] Dr. Liza Martinez** (asr-005873)  
+**[03:43:35.840] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005873)  
 Just a very specific example
 
-**[03:43:38.660] Dr. Liza Martinez** (asr-005874)  
+**[03:43:38.660] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005874)  
 to bring it down to the ground.
 
-**[03:43:40.560] Dr. Liza Martinez** (asr-005875)  
+**[03:43:40.560] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005875)  
 And this is a specific example
 
-**[03:43:42.100] Dr. Liza Martinez** (asr-005876)  
+**[03:43:42.100] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005876)  
 on the deaf community.
 
-**[03:43:44.420] Dr. Liza Martinez** (asr-005877)  
+**[03:43:44.420] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005877)  
 It is probably the only constituency
 
-**[03:43:46.380] Dr. Liza Martinez** (asr-005878)  
+**[03:43:46.380] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005878)  
 in the entire sector
 
-**[03:43:48.380] Dr. Liza Martinez** (asr-005879)  
+**[03:43:48.380] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005879)  
 of persons with disabilities
 
-**[03:43:49.580] Dr. Liza Martinez** (asr-005880)  
+**[03:43:49.580] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005880)  
 which has its own law.
 
-**[03:43:51.020] Dr. Liza Martinez** (asr-005881)  
+**[03:43:51.020] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005881)  
 Because the identity
 
-**[03:43:52.180] Dr. Liza Martinez** (asr-005882)  
+**[03:43:52.180] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005882)  
 of deaf people
 
-**[03:43:53.120] Dr. Liza Martinez** (asr-005883)  
+**[03:43:53.120] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005883)  
 is not just dependent
 
-**[03:43:54.160] Dr. Liza Martinez** (asr-005884)  
+**[03:43:54.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005884)  
 on being a person
 
-**[03:43:55.240] Dr. Liza Martinez** (asr-005885)  
+**[03:43:55.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005885)  
 with a disability
 
-**[03:43:56.160] Dr. Liza Martinez** (asr-005886)  
+**[03:43:56.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005886)  
 but because they have
 
-**[03:43:57.440] Dr. Liza Martinez** (asr-005887)  
+**[03:43:57.440] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005887)  
 their own language
 
-**[03:43:58.300] Dr. Liza Martinez** (asr-005888)  
+**[03:43:58.300] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005888)  
 and culture.
 
 **[03:44:00.020] Senator Risa Hontiveros** (asr-005889)  
@@ -17650,319 +17650,319 @@ Recently, I've already
 **[03:44:04.760] Senator Risa Hontiveros** (asr-005893)  
 mentioned it.
 
-**[03:44:04.860] Dr. Liza Martinez** (asr-005894)  
+**[03:44:04.860] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005894)  
 Yes, I'm sorry.
 
-**[03:44:05.620] Dr. Liza Martinez** (asr-005895)  
+**[03:44:05.620] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005895)  
 It's okay.
 
-**[03:44:06.340] Dr. Liza Martinez** (asr-005896)  
+**[03:44:06.340] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005896)  
 And also for the others,
 
-**[03:44:07.880] Dr. Liza Martinez** (asr-005897)  
+**[03:44:07.880] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005897)  
 I was going to mention that
 
-**[03:44:09.740] Dr. Liza Martinez** (asr-005898)  
+**[03:44:09.740] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005898)  
 we also have the laws
 
-**[03:44:11.100] Dr. Liza Martinez** (asr-005899)  
+**[03:44:11.100] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005899)  
 which recognize persons
 
-**[03:44:12.280] Dr. Liza Martinez** (asr-005900)  
+**[03:44:12.280] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005900)  
 with rare diseases,
 
-**[03:44:14.020] Dr. Liza Martinez** (asr-005901)  
+**[03:44:14.020] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005901)  
 the mental health law,
 
-**[03:44:15.920] Dr. Liza Martinez** (asr-005902)  
+**[03:44:15.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005902)  
 the national cancer control law
 
-**[03:44:17.700] Dr. Liza Martinez** (asr-005903)  
+**[03:44:17.700] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005903)  
 which all recognizes
 
-**[03:44:18.680] Dr. Liza Martinez** (asr-005904)  
+**[03:44:18.680] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005904)  
 these persons with disabilities.
 
-**[03:44:21.020] Dr. Liza Martinez** (asr-005905)  
+**[03:44:21.020] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005905)  
 These constituencies
 
-**[03:44:23.800] Dr. Liza Martinez** (asr-005906)  
+**[03:44:23.800] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005906)  
 as persons with disabilities.
 
-**[03:44:25.880] Dr. Liza Martinez** (asr-005907)  
+**[03:44:25.880] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005907)  
 But we have specific questions
 
-**[03:44:27.160] Dr. Liza Martinez** (asr-005908)  
+**[03:44:27.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005908)  
 because we have many good policies
 
-**[03:44:29.480] Dr. Liza Martinez** (asr-005909)  
+**[03:44:29.480] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005909)  
 which unfortunately
 
-**[03:44:30.400] Dr. Liza Martinez** (asr-005910)  
+**[03:44:30.400] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005910)  
 remain on paper.
 
-**[03:44:32.160] Dr. Liza Martinez** (asr-005911)  
+**[03:44:32.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005911)  
 For instance,
 
-**[03:44:32.800] Dr. Liza Martinez** (asr-005912)  
+**[03:44:32.800] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005912)  
 the 1992 RA 7277
 
-**[03:44:36.500] Dr. Liza Martinez** (asr-005913)  
+**[03:44:36.500] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005913)  
 has a section on
 
-**[03:44:37.560] Dr. Liza Martinez** (asr-005914)  
+**[03:44:37.560] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005914)  
 auxiliary social services
 
-**[03:44:39.100] Dr. Liza Martinez** (asr-005915)  
+**[03:44:39.100] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005915)  
 which includes
 
-**[03:44:40.220] Dr. Liza Martinez** (asr-005916)  
+**[03:44:40.220] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005916)  
 the provision of
 
-**[03:44:41.460] Dr. Liza Martinez** (asr-005917)  
+**[03:44:41.460] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005917)  
 qualified sign language interpreters
 
-**[03:44:43.340] Dr. Liza Martinez** (asr-005918)  
+**[03:44:43.340] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005918)  
 as part of that.
 
-**[03:44:45.040] Dr. Liza Martinez** (asr-005919)  
+**[03:44:45.040] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005919)  
 And that has remained
 
-**[03:44:46.320] Dr. Liza Martinez** (asr-005920)  
+**[03:44:46.320] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005920)  
 unimplemented since 1992.
 
-**[03:44:49.320] Dr. Liza Martinez** (asr-005921)  
+**[03:44:49.320] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005921)  
 The DSWD,
 
-**[03:44:51.020] Dr. Liza Martinez** (asr-005922)  
+**[03:44:51.020] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005922)  
 actually issued
 
-**[03:44:51.640] Dr. Liza Martinez** (asr-005923)  
+**[03:44:51.640] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005923)  
 an administrative order
 
-**[03:44:52.820] Dr. Liza Martinez** (asr-005924)  
+**[03:44:52.820] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005924)  
 in 2003-059
 
-**[03:44:54.760] Dr. Liza Martinez** (asr-005925)  
+**[03:44:54.760] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005925)  
 for the guidelines
 
-**[03:44:55.620] Dr. Liza Martinez** (asr-005926)  
+**[03:44:55.620] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005926)  
 for the implementation
 
-**[03:44:57.060] Dr. Liza Martinez** (asr-005927)  
+**[03:44:57.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005927)  
 of the auxiliary social services
 
-**[03:44:59.080] Dr. Liza Martinez** (asr-005928)  
+**[03:44:59.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005928)  
 in coordination...
 
-**[03:45:00.000] Dr. Liza Martinez** (asr-005929)  
+**[03:45:00.000] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005929)  
 A more recent one is because of the previous 1% earmarked spending of all agencies during the second decade of persons with disabilities lapsed from 2003 to 2012.
 
-**[03:45:17.080] Dr. Liza Martinez** (asr-005930)  
+**[03:45:17.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005930)  
 So the general provision in the GAA annually has remained but with no more earmarking.
 
-**[03:45:22.800] Dr. Liza Martinez** (asr-005931)  
+**[03:45:22.800] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005931)  
 So it's just requiring agencies to have programs and activities for persons with disabilities and older persons.
 
-**[03:45:31.760] Dr. Liza Martinez** (asr-005932)  
+**[03:45:31.760] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005932)  
 In fact, there is a Joint Circular DBM-DSWD-NCDA-NCSC Joint Circular No. 1 Series of 2023 on the MEAL, the MEAL, Monitoring and Evaluation of Accountability for Learning.
 
-**[03:45:49.080] Dr. Liza Martinez** (asr-005933)  
+**[03:45:49.080] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005933)  
 For and learning from the implementation of Section 12.
 
-**[03:45:52.800] Dr. Liza Martinez** (asr-005934)  
+**[03:45:52.800] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005934)  
 So there has been a general provision 36. It was 37 in the succeeding years. It's been still in 2026.
 
-**[03:46:08.040] Dr. Liza Martinez** (asr-005935)  
+**[03:46:08.040] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005935)  
 And this is, and we requested actually this week, we asked the DSWD to send us some of the annual, the reports because of this Joint Circular.
 
-**[03:46:21.760] Dr. Liza Martinez** (asr-005936)  
+**[03:46:21.760] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005936)  
 And we were surprised.
 
-**[03:46:22.800] Dr. Liza Martinez** (asr-005937)  
+**[03:46:22.800] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005937)  
 We were surprised to receive tables showing shelters, facilities, and rehabilitation programs.
 
-**[03:46:29.400] Dr. Liza Martinez** (asr-005938)  
+**[03:46:29.400] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005938)  
 And so we were wondering, we weren't quite sure what was in their minds in looking at all of the, what was mandated in the general provision.
 
-**[03:46:40.060] Dr. Liza Martinez** (asr-005939)  
+**[03:46:40.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005939)  
 In the budget hearing last Monday, and I think Senator, the Honorable Senator Erwin Tufo mentioned this, our DSWD Secretary mentioned in relation to this,
 
-**[03:46:50.980] Dr. Liza Martinez** (asr-005940)  
+**[03:46:50.980] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005940)  
 we raised the,
 
-**[03:46:52.800] Dr. Liza Martinez** (asr-005941)  
+**[03:46:52.800] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005941)  
 the implemented sections of the Magna Carta.
 
-**[03:46:57.480] Dr. Liza Martinez** (asr-005942)  
+**[03:46:57.480] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005942)  
 And regarding particularly the auxiliary social services,
 
-**[03:47:01.060] Dr. Liza Martinez** (asr-005943)  
+**[03:47:01.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005943)  
 and our good Secretary mentioned that they have already proposed indicators for the SGLC to compel LGUs to comply.
 
-**[03:47:12.780] Dr. Liza Martinez** (asr-005944)  
+**[03:47:12.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005944)  
 And that has to do with my last point later on.
 
-**[03:47:16.980] Dr. Liza Martinez** (asr-005945)  
+**[03:47:16.980] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005945)  
 And also our...
 
 **[03:47:18.220] Senator Risa Hontiveros** (asr-005946)  
 I thought your last point was now.
 
-**[03:47:20.360] Dr. Liza Martinez** (asr-005947)  
+**[03:47:20.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005947)  
 Okay.
 
-**[03:47:20.880] Dr. Liza Martinez** (asr-005948)  
+**[03:47:20.880] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005948)  
 Okay.
 
-**[03:47:22.800] Dr. Liza Martinez** (asr-005949)  
+**[03:47:22.800] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005949)  
 N-C-D-A-E-D, Ms. Relova, and because we were asking even in the budget hearings of the House regarding Filipino Sign Language interpreters,
 
-**[03:47:35.400] Dr. Liza Martinez** (asr-005950)  
+**[03:47:35.400] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005950)  
 and they mentioned an upcoming or ongoing DSWD Academy training allotted for 1 million four times a year, 45 trainees, and that you already have 80 interpreters on your roster.
 
-**[03:47:47.460] Dr. Liza Martinez** (asr-005951)  
+**[03:47:47.460] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005951)  
 However, on the ground, we have received cases of rape victims.
 
-**[03:47:52.360] Dr. Liza Martinez** (asr-005952)  
+**[03:47:52.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005952)  
 And they're usually women and girls who are unschooled and therefore much more vulnerable who have been advised by the social workers to learn sign language first on their own so that they could have the communication skills.
 
-**[03:48:05.880] Dr. Liza Martinez** (asr-005953)  
+**[03:48:05.880] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005953)  
 Essentially, we feel this is highly discriminatory.
 
-**[03:48:08.940] Dr. Liza Martinez** (asr-005954)  
+**[03:48:08.940] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005954)  
 And especially so since the Supreme Court has already issued a rule on interpreting, specifically institutionalizing deaf-rely interpreters for unschooled deaf people.
 
-**[03:48:21.560] Dr. Liza Martinez** (asr-005955)  
+**[03:48:21.560] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005955)  
 So,
 
-**[03:48:22.360] Dr. Liza Martinez** (asr-005956)  
+**[03:48:22.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005956)  
 they may not sign in the standard language, but they are highly communicative.
 
-**[03:48:29.240] Dr. Liza Martinez** (asr-005957)  
+**[03:48:29.240] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005957)  
 So, we are very disturbed because the incidence of rape and sexual violence is about 10 times higher than the national average.
 
-**[03:48:37.340] Dr. Liza Martinez** (asr-005958)  
+**[03:48:37.340] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005958)  
 Last 30 seconds.
 
-**[03:48:41.540] Dr. Liza Martinez** (asr-005959)  
+**[03:48:41.540] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005959)  
 Last na po.
 
-**[03:48:42.720] Dr. Liza Martinez** (asr-005960)  
+**[03:48:42.720] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005960)  
 Here is just a challenge or food for thought.
 
-**[03:48:47.660] Dr. Liza Martinez** (asr-005961)  
+**[03:48:47.660] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005961)  
 We have been talking a lot since Monday about the PWD IDs.
 
-**[03:48:51.180] Dr. Liza Martinez** (asr-005962)  
+**[03:48:51.180] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005962)  
 Maybe it is time for us to step back a little and maybe not put too much value on the discounts and the VAT exemption if we can provide a whole of government approach in really providing services to persons with disabilities.
 
-**[03:49:09.220] Dr. Liza Martinez** (asr-005963)  
+**[03:49:09.220] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005963)  
 I can imagine that if there is no discount, then the government will have all agencies, not just DSWD na sila ang tinuturo lagi or DILG only.
 
-**[03:49:20.520] Dr. Liza Martinez** (asr-005964)  
+**[03:49:20.520] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005964)  
 But all agencies have to provide, make their public services accessible to all.
 
-**[03:49:26.500] Dr. Liza Martinez** (asr-005965)  
+**[03:49:26.500] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005965)  
 The reason that disability is such a beast to deal with siguro in governance, it's because it's a highly diverse group.
 
-**[03:49:35.200] Dr. Liza Martinez** (asr-005966)  
+**[03:49:35.200] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005966)  
 You're talking about, we have many conceptions of sino ba yung totoong person with a disability and laking debate niyan between the SWDD or HNCDA and so on.
 
-**[03:49:48.060] Dr. Liza Martinez** (asr-005967)  
+**[03:49:48.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005967)  
 Where are the deaf-blind?
 
-**[03:49:49.760] Dr. Liza Martinez** (asr-005968)  
+**[03:49:49.760] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005968)  
 Where are, we don't talk very often about those on the spectrum, those with intellectual disabilities, and those with mental health, those who have episodic and chronic conditions.
 
-**[03:50:02.920] Dr. Liza Martinez** (asr-005969)  
+**[03:50:02.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005969)  
 You don't see them.
 
-**[03:50:04.880] Dr. Liza Martinez** (asr-005970)  
+**[03:50:04.880] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005970)  
 And sometimes they're all just lumped.
 
-**[03:50:06.760] Dr. Liza Martinez** (asr-005971)  
+**[03:50:06.760] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005971)  
 O, psychosocial kayo lahat.
 
-**[03:50:09.060] Dr. Liza Martinez** (asr-005972)  
+**[03:50:09.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005972)  
 Okay.
 
-**[03:50:10.120] Dr. Liza Martinez** (asr-005973)  
+**[03:50:10.120] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005973)  
 And our experience with the deaf, it shows that this whole government approach is so critical.
 
-**[03:50:17.320] Dr. Liza Martinez** (asr-005974)  
+**[03:50:17.320] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005974)  
 And this is our appeal to the committee.
 
-**[03:50:19.760] Dr. Liza Martinez** (asr-005975)  
+**[03:50:19.760] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005975)  
 Let us not just put it all on one agency.
 
-**[03:50:23.320] Dr. Liza Martinez** (asr-005976)  
+**[03:50:23.320] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005976)  
 Because for instance, if we look at the 2,000 proposed disability support allowance, 2,000 per month, one interpreting for one hour is already 1,000.
 
-**[03:50:34.500] Dr. Liza Martinez** (asr-005977)  
+**[03:50:34.500] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005977)  
 Going to see a developmental pediatrician is at least 5,000.
 
-**[03:50:39.020] Dr. Liza Martinez** (asr-005978)  
+**[03:50:39.020] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005978)  
 Taking a grab, just to go from if you're in a wheelchair or you have to carry your child who has severe cerebral palsy,
 
-**[03:50:48.820] Dr. Liza Martinez** (asr-005979)  
+**[03:50:48.820] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005979)  
 will take you at least 800 pesos.
 
-**[03:50:51.500] Dr. Liza Martinez** (asr-005980)  
+**[03:50:51.500] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005980)  
 Wala ka agad yung 2,000.
 
-**[03:50:57.360] Dr. Liza Martinez** (asr-005981)  
+**[03:50:57.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005981)  
 There are now 35 deaf people who have been arrested without being read their rights.
 
-**[03:51:05.780] Dr. Liza Martinez** (asr-005982)  
+**[03:51:05.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005982)  
 They do not know why they're being arrested.
 
-**[03:51:09.720] Dr. Liza Martinez** (asr-005983)  
+**[03:51:09.720] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005983)  
 There was an attempt to translate the Miranda rights,
 
-**[03:51:13.700] Dr. Liza Martinez** (asr-005984)  
+**[03:51:13.700] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005984)  
 but it was done, unfortunately, without the lack of awareness.
 
-**[03:51:17.860] Dr. Liza Martinez** (asr-005985)  
+**[03:51:17.860] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005985)  
 That you have to ask deaf people.
 
-**[03:51:18.820] Dr. Liza Martinez** (asr-005986)  
+**[03:51:18.820] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005986)  
 So that they can be understood.
 
-**[03:51:21.260] Dr. Liza Martinez** (asr-005987)  
+**[03:51:21.260] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005987)  
 These are mostly deaf people who have never been to school.
 
-**[03:51:24.780] Dr. Liza Martinez** (asr-005988)  
+**[03:51:24.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005988)  
 The number is growing.
 
-**[03:51:27.360] Dr. Liza Martinez** (asr-005989)  
+**[03:51:27.360] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005989)  
 Where are we in the deaf-deaf SDGs?
 
-**[03:51:31.980] Dr. Liza Martinez** (asr-005990)  
+**[03:51:31.980] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005990)  
 The time will be up in three years.
 
-**[03:51:34.500] Dr. Liza Martinez** (asr-005991)  
+**[03:51:34.500] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005991)  
 We have had 15 years, SDG 1 on the poverty about leaving no one behind.
 
-**[03:51:42.560] Dr. Liza Martinez** (asr-005992)  
+**[03:51:42.560] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005992)  
 Persons with disabilities and children are already left behind.
 
-**[03:51:45.500] Dr. Liza Martinez** (asr-005993)  
+**[03:51:45.500] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005993)  
 Because there's no data even up until now.
 
-**[03:51:48.820] Dr. Liza Martinez** (asr-005994)  
+**[03:51:48.820] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005994)  
 How much is government spending for persons with disabilities, including children with disabilities?
 
-**[03:51:54.660] Dr. Liza Martinez** (asr-005995)  
+**[03:51:54.660] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005995)  
 The only study which has been done was in 2013 by Civil Society, the Philippine Coalition on the CRPD.
 
-**[03:52:01.160] Dr. Liza Martinez** (asr-005996)  
+**[03:52:01.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005996)  
 But as of now, we don't know.
 
-**[03:52:03.160] Dr. Liza Martinez** (asr-005997)  
+**[03:52:03.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005997)  
 We are invisible.
 
-**[03:52:05.160] Dr. Liza Martinez** (asr-005998)  
+**[03:52:05.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-005998)  
 Okay, this is the final.
 
 **[03:52:07.160] Senator Risa Hontiveros** (asr-005999)  
@@ -17971,25 +17971,25 @@ Yes, please, because also Senator Amy would actually like to interject here.
 **[03:52:11.160] Senator Risa Hontiveros** (asr-006000)  
 Okay, so please wrap up, Ms. Liza.
 
-**[03:52:13.160] Dr. Liza Martinez** (asr-006001)  
+**[03:52:13.160] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006001)  
 This is a provision which builds on, this is for the deaf,
 
-**[03:52:17.860] Dr. Liza Martinez** (asr-006002)  
+**[03:52:17.860] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006002)  
 and the main point, it has several things, we have sent the draft,
 
-**[03:52:23.900] Dr. Liza Martinez** (asr-006003)  
+**[03:52:23.900] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006003)  
 is to make persons with disabilities visible.
 
-**[03:52:28.100] Dr. Liza Martinez** (asr-006004)  
+**[03:52:28.100] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006004)  
 We are not asking for any appropriation, but we are asking for certain accounting,
 
-**[03:52:34.780] Dr. Liza Martinez** (asr-006005)  
+**[03:52:34.780] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006005)  
 you know, governance mechanisms, just so that it can be seen.
 
-**[03:52:39.260] Dr. Liza Martinez** (asr-006006)  
+**[03:52:39.260] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006006)  
 Because if you're out of sight, you're out of mind.
 
-**[03:52:42.460] Dr. Liza Martinez** (asr-006007)  
+**[03:52:42.460] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006007)  
 That's all. Thank you very much.
 
 **[03:52:43.760] Senator Imee R. Marcos** (asr-006008)  
@@ -18394,34 +18394,34 @@ tanungin ang si Ms. Emily
 **[04:00:42.100] Senator Risa Hontiveros** (asr-006141)  
 kung gusto rin nilang mag-input.
 
-**[04:00:44.200] Dr. Liza Martinez** (asr-006142)  
+**[04:00:44.200] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006142)  
 Coordinate po regarding the
 
-**[04:00:46.040] Dr. Liza Martinez** (asr-006143)  
+**[04:00:46.040] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006143)  
 FSL training, there is a certification
 
-**[04:00:48.020] Dr. Liza Martinez** (asr-006144)  
+**[04:00:48.020] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006144)  
 process for all government agencies
 
-**[04:00:49.980] Dr. Liza Martinez** (asr-006145)  
+**[04:00:49.980] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006145)  
 and private entities who are
 
-**[04:00:51.920] Dr. Liza Martinez** (asr-006146)  
+**[04:00:51.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006146)  
 teaching FSL.
 
-**[04:00:54.380] Dr. Liza Martinez** (asr-006147)  
+**[04:00:54.380] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006147)  
 Komisyon sa Wikang Filipino
 
-**[04:00:55.980] Dr. Liza Martinez** (asr-006148)  
+**[04:00:55.980] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006148)  
 is the agency to coordinate with.
 
-**[04:00:58.060] Dr. Liza Martinez** (asr-006149)  
+**[04:00:58.060] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006149)  
 To meet them tomorrow.
 
-**[04:00:59.920] Dr. Liza Martinez** (asr-006150)  
+**[04:00:59.920] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006150)  
 Excellent. And the other one
 
-**[04:01:02.200] Dr. Liza Martinez** (asr-006151)  
+**[04:01:02.200] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006151)  
 I forgot already. Thank you po.
 
 **[04:01:04.740] Senator Risa Hontiveros** (asr-006152)  
@@ -19042,7 +19042,7 @@ Ms. Liza, naalala nyo pa ba yung huling
 **[04:07:50.200] Senator Risa Hontiveros** (asr-006354)  
 input nyo?
 
-**[04:07:50.800] Dr. Liza Martinez** (asr-006354-split-2)  
+**[04:07:50.800] Filipino Sign Language National Network Convenor Dr. Liza B. Martinez** (asr-006354-split-2)  
 Hindi po.
 
 **[04:07:51.300] Senator Risa Hontiveros** (asr-006354-split-3)  

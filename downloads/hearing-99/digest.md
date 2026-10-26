@@ -8,7 +8,7 @@ AI-assisted working draft. AI can make errors. Always verify consequential inter
 
 - **Committee chair and opening:** Senator Joseph Victor "JV" G. Ejercito presided over the budget deliberation, acknowledged the OVP resource persons, and opened the floor for questions.
 
-- **Budget questions and program recalibration:** Senator Sherwin "Win" T. Gatchalian asked about the Vice President's absence and hoped she would attend the plenary. Undersecretary Zuleika T. Lopez explained that she was representing former President Rodrigo Roa Duterte at an inurnment. Senator Imee R. Marcos asked how program recalibration would affect beneficiaries; Lopez described reduced Mag-Negosyo Ta-Day targets and monitoring, while OVP Director for Operations Norman Baloro reported progress toward the Pagbabago learner campaign target. Marcos followed up on whether Mag-Negosyo Ta-Day beneficiaries continued operating businesses.
+- **Budget questions and program recalibration:** Senate President Sherwin "Win" T. Gatchalian asked about the Vice President's absence and hoped she would attend the plenary. Undersecretary Zuleika T. Lopez explained that she was representing former President Rodrigo Roa Duterte at an inurnment. Senator Imee R. Marcos asked how program recalibration would affect beneficiaries; Lopez described reduced Mag-Negosyo Ta-Day targets and monitoring, while OVP Director for Operations Norman Baloro reported progress toward the Pagbabago learner campaign target. Marcos followed up on whether Mag-Negosyo Ta-Day beneficiaries continued operating businesses.
 
 - **Program support and disposition:** Senator Christopher Lawrence T. Go supported continuing OVP programs, including Libreng Sakay. Ejercito questioned the effect of the OVP's lower allocation and continuation of programs, and the OVP described ongoing service and evaluation. He deemed the proposed budget submitted for plenary consideration, subject to discussion and submission of requested documents.
 
@@ -26,7 +26,7 @@ For the Office of the Vice President, the proposed FY 2027 National Expenditure 
 
 ### OVP budget comparison
 
-Senator Sherwin "Win" T. Gatchalian described the proposed FY 2027 budget of the Office of the Vice President (OVP) as an 11% decrease from the previous year. He viewed its socioeconomic programs as a way to give constituents relief and said the office was spending its budget efficiently.
+Senate President Sherwin "Win" T. Gatchalian described the proposed FY 2027 budget of the Office of the Vice President (OVP) as an 11% decrease from the previous year. He viewed its socioeconomic programs as a way to give constituents relief and said the office was spending its budget efficiently.
 
 [00:22:01 · asr-000048](https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000048) · [00:22:42 · asr-000053](https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000053)
 
@@ -68,7 +68,7 @@ At the start of the exchange, Ejercito took note of motions by Senator Imee R. M
 
 [00:31:23 · asr-000173](https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000173) · [00:34:46 · asr-000276](https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000276) · [00:34:52 · asr-000279](https://tordecilla.github.io/budget-hearings-2026/records/99/#asr-000279)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Vice President's absence and plenary appearance
 

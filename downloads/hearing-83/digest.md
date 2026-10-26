@@ -6,7 +6,7 @@ AI-assisted working draft. AI can make errors. Always verify consequential inter
 
 ## At a glance
 
-- **Courtesy and plenary referral:** Chair Senator Joseph Victor "JV" G. Ejercito opened with remarks on parliamentary courtesy toward the Office of the President (OP). Senate President Senator Sherwin "Win" T. Gatchalian said he would move for approval of the OP budget after its presentation; Senator Joel Villanueva said he would join a motion to submit the OP, Presidential Management Staff (PMS) and their attached agencies for plenary action. After the presentation, Ejercito deemed the OP and PMS budgets submitted for plenary consideration.
+- **Courtesy and plenary referral:** Chair Senator Joseph Victor "JV" G. Ejercito opened with remarks on parliamentary courtesy toward the Office of the President (OP). Senate President Senate President Sherwin "Win" T. Gatchalian said he would move for approval of the OP budget after its presentation; Senator Joel Villanueva said he would join a motion to submit the OP, Presidential Management Staff (PMS) and their attached agencies for plenary action. After the presentation, Ejercito deemed the OP and PMS budgets submitted for plenary consideration.
 
 - **Budget reduction and fiscal accountability:** Executive Secretary Ralph Recto attributed the lower OP proposal to reduced delivery-unit operational needs and the end of Association of Southeast Asian Nations (ASEAN) Summit hosting activities. He reported the OP received a FY2025 unmodified audit opinion, its third consecutive opinion since 2022, and said the proposed budget followed Department of Budget and Management (DBM) processes.
 
@@ -54,7 +54,7 @@ Chair Senator Joseph Victor "JV" G. Ejercito described the Office of the Preside
 
 [00:12:34 · asr-000048](https://tordecilla.github.io/budget-hearings-2026/records/83/#asr-000048) · [00:12:58 · asr-000051](https://tordecilla.github.io/budget-hearings-2026/records/83/#asr-000051) · [00:13:20 · asr-000053](https://tordecilla.github.io/budget-hearings-2026/records/83/#asr-000053)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Courtesy and motion to approve the Office of the President budget
 

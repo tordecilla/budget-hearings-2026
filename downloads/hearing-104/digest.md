@@ -72,7 +72,7 @@ Ejercito asked whether SET's next-year budget would also be lower if the request
 
 CA received approximately ₱1.714 billion under the FY2026 GAA; Villarica said the FY2027 NEP was about ₱576 million lower. The recorded initial-submission-to-NEP variance of "847,256,866,000" does not reconcile with the budget totals.
 
-Villarica said the revised FY2027 proposal was 1.1% above the FY2026 GAA, after instructions to trim and streamline the request because of limited fiscal space. She attributed those instructions to Senator Sherwin "Win" T. Gatchalian, identified as CA Chairperson and Senate President, and the Senate Finance Committee chair's reminder about fiscal limits.
+Villarica said the revised FY2027 proposal was 1.1% above the FY2026 GAA, after instructions to trim and streamline the request because of limited fiscal space. She attributed those instructions to Senate President Sherwin "Win" T. Gatchalian, identified as CA Chairperson and Senate President, and the Senate Finance Committee chair's reminder about fiscal limits.
 
 When Ejercito asked for the augmentation amount, he supplied "595" before Villarica continued. The follow-up amount is recorded as "595,792,548,000"; it likewise does not reconcile with the budget totals.
 

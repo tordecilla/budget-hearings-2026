@@ -1132,115 +1132,115 @@ Thank you, Senator Gachalian.
 **[00:45:14.680] Senator Paolo Benigno "Bam" Aquino IV** (asr-000442)  
 And then we'll have Senator Cayetano.
 
-**[00:45:16.600] Senator Sherwin "Win" T. Gatchalian** (asr-000443)  
+**[00:45:16.600] Senate President Sherwin "Win" T. Gatchalian** (asr-000443)  
 Thank you, Mr. Chairman.
 
-**[00:45:17.780] Senator Sherwin "Win" T. Gatchalian** (asr-000444)  
+**[00:45:17.780] Senate President Sherwin "Win" T. Gatchalian** (asr-000444)  
 Mr. Chairman, I just want to show three slides dahil 2026 ay naging napaka-importante
 
-**[00:45:25.740] Senator Sherwin "Win" T. Gatchalian** (asr-000445)  
+**[00:45:25.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000445)  
 at maraming magagandang nangyari for 2026 in the education sector.
 
-**[00:45:31.340] Senator Sherwin "Win" T. Gatchalian** (asr-000446)  
+**[00:45:31.340] Senate President Sherwin "Win" T. Gatchalian** (asr-000446)  
 So first of all, nagkaroon po tayo ng isa sa pinakamataas na budget pagdating sa education sector,
 
-**[00:45:37.420] Senator Sherwin "Win" T. Gatchalian** (asr-000447)  
+**[00:45:37.420] Senate President Sherwin "Win" T. Gatchalian** (asr-000447)  
 about 1.3 trillion pesos or about 4.36% of GDP.
 
-**[00:45:42.500] Senator Sherwin "Win" T. Gatchalian** (asr-000448)  
+**[00:45:42.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000448)  
 So ito ay pasok na pasok na doon sa requirement ng international standards na 4 to 6% of GDP allocated to education.
 
-**[00:45:52.780] Senator Sherwin "Win" T. Gatchalian** (asr-000449)  
+**[00:45:52.780] Senate President Sherwin "Win" T. Gatchalian** (asr-000449)  
 Pero alam ko marami rin challenges dahil isang...
 
-**[00:45:55.740] Senator Sherwin "Win" T. Gatchalian** (asr-000450)  
+**[00:45:55.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000450)  
 Isa sa pinakamalaking challenges dito ay yung absorptive capacity,
 
-**[00:46:00.620] Senator Sherwin "Win" T. Gatchalian** (asr-000451)  
+**[00:46:00.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000451)  
 kung paano gastusin naman itong pondo na ito.
 
-**[00:46:03.360] Senator Sherwin "Win" T. Gatchalian** (asr-000452)  
+**[00:46:03.360] Senate President Sherwin "Win" T. Gatchalian** (asr-000452)  
 At yan ang pag-uusapan natin ngayong araw na ito.
 
-**[00:46:05.460] Senator Sherwin "Win" T. Gatchalian** (asr-000453)  
+**[00:46:05.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000453)  
 Alam ko binabantayan ho ng ating chairman of the basic education, si Senator Bam Aquino,
 
-**[00:46:13.900] Senator Sherwin "Win" T. Gatchalian** (asr-000454)  
+**[00:46:13.900] Senate President Sherwin "Win" T. Gatchalian** (asr-000454)  
 yung efficient na paggastos nitong budget na ito.
 
-**[00:46:17.500] Senator Sherwin "Win" T. Gatchalian** (asr-000455)  
+**[00:46:17.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000455)  
 Pangalawa, and I have to congratulate the Department of Education under the leadership of Senator Sani Angara,
 
-**[00:46:24.220] Senator Sherwin "Win" T. Gatchalian** (asr-000456)  
+**[00:46:24.220] Senate President Sherwin "Win" T. Gatchalian** (asr-000456)  
 tayo ang most improved country.
 
-**[00:46:25.740] Senator Sherwin "Win" T. Gatchalian** (asr-000457)  
+**[00:46:25.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000457)  
 pagdating sa PISA.
 
-**[00:46:27.460] Senator Sherwin "Win" T. Gatchalian** (asr-000458)  
+**[00:46:27.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000458)  
 At napakalaking bagay ito, both for the education sector and also for national pride.
 
-**[00:46:33.400] Senator Sherwin "Win" T. Gatchalian** (asr-000459)  
+**[00:46:33.400] Senate President Sherwin "Win" T. Gatchalian** (asr-000459)  
 Dahil nung unang labas ng PISA, tayo pinakahuli.
 
-**[00:46:37.020] Senator Sherwin "Win" T. Gatchalian** (asr-000460)  
+**[00:46:37.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000460)  
 Ngayon, hindi na tayo pinakahuli.
 
-**[00:46:39.100] Senator Sherwin "Win" T. Gatchalian** (asr-000461)  
+**[00:46:39.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000461)  
 Most improved pa.
 
-**[00:46:40.280] Senator Sherwin "Win" T. Gatchalian** (asr-000462)  
+**[00:46:40.280] Senate President Sherwin "Win" T. Gatchalian** (asr-000462)  
 So we also want to understand from the Department of Education, yung gains.
 
-**[00:46:45.680] Senator Sherwin "Win" T. Gatchalian** (asr-000463)  
+**[00:46:45.680] Senate President Sherwin "Win" T. Gatchalian** (asr-000463)  
 And of course, how to sustain the gains.
 
-**[00:46:48.000] Senator Sherwin "Win" T. Gatchalian** (asr-000464)  
+**[00:46:48.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000464)  
 Sana tuloy-tuloy na ho ito pagdating ng mga susunod na panahon.
 
-**[00:46:53.220] Senator Sherwin "Win" T. Gatchalian** (asr-000465)  
+**[00:46:53.220] Senate President Sherwin "Win" T. Gatchalian** (asr-000465)  
 At lastly, on the local...
 
-**[00:46:55.740] Senator Sherwin "Win" T. Gatchalian** (asr-000466)  
+**[00:46:55.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000466)  
 On the local front, yung aral program through the aral law, malaki rin ang improvements pagdating sa literacy.
 
-**[00:47:04.380] Senator Sherwin "Win" T. Gatchalian** (asr-000467)  
+**[00:47:04.380] Senate President Sherwin "Win" T. Gatchalian** (asr-000467)  
 1.3 million students in grades 1 to 10 ang nag-improve.
 
-**[00:47:10.840] Senator Sherwin "Win" T. Gatchalian** (asr-000468)  
+**[00:47:10.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000468)  
 Dati problema natin yung pagbabasa at pagbibilang ngayon ay dahil dito sa aral program,
 
-**[00:47:18.300] Senator Sherwin "Win" T. Gatchalian** (asr-000469)  
+**[00:47:18.300] Senate President Sherwin "Win" T. Gatchalian** (asr-000469)  
 ay malaki ang natulungan natin mga mag-aaral na magbasa sila at marunong magbilang.
 
-**[00:47:25.740] Senator Sherwin "Win" T. Gatchalian** (asr-000470)  
+**[00:47:25.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000470)  
 So we also want to understand how we can sustain this program.
 
-**[00:47:29.500] Senator Sherwin "Win" T. Gatchalian** (asr-000471)  
+**[00:47:29.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000471)  
 Naintindihan ko na hindi nabigyan ng pondo ito this 2027.
 
-**[00:47:35.720] Senator Sherwin "Win" T. Gatchalian** (asr-000472)  
+**[00:47:35.720] Senate President Sherwin "Win" T. Gatchalian** (asr-000472)  
 At yun naman ang aming magiging commitment sa Department of Education.
 
-**[00:47:42.600] Senator Sherwin "Win" T. Gatchalian** (asr-000473)  
+**[00:47:42.600] Senate President Sherwin "Win" T. Gatchalian** (asr-000473)  
 Dahil kung maganda yung programa, dapat mapondohan para masustain yung gains nitong programa na ito.
 
-**[00:47:49.040] Senator Sherwin "Win" T. Gatchalian** (asr-000474)  
+**[00:47:49.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000474)  
 So 2026 was a good year for the education sector.
 
-**[00:47:54.620] Senator Sherwin "Win" T. Gatchalian** (asr-000475)  
+**[00:47:54.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000475)  
 Marami tayong makikitang...
 
-**[00:47:55.740] Senator Sherwin "Win" T. Gatchalian** (asr-000476)  
+**[00:47:55.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000476)  
 Magagandang nangyayari.
 
-**[00:47:57.760] Senator Sherwin "Win" T. Gatchalian** (asr-000477)  
+**[00:47:57.760] Senate President Sherwin "Win" T. Gatchalian** (asr-000477)  
 Ang next challenge natin is paano natin masustain itong mga naumpisahan na natin through the 2027 budget.
 
-**[00:48:05.560] Senator Sherwin "Win" T. Gatchalian** (asr-000478)  
+**[00:48:05.560] Senate President Sherwin "Win" T. Gatchalian** (asr-000478)  
 So with that, I thank the Chairman of the Subcommittee on Education.
 
-**[00:48:10.260] Senator Sherwin "Win" T. Gatchalian** (asr-000479)  
+**[00:48:10.260] Senate President Sherwin "Win" T. Gatchalian** (asr-000479)  
 Maraming salamat po.
 
 **[00:48:11.120] Senator Paolo Benigno "Bam" Aquino IV** (asr-000480)  
@@ -1435,118 +1435,118 @@ Salamat, Senator Pia.
 **[00:52:53.280] Senator Paolo Benigno "Bam" Aquino IV** (asr-000544)  
 Senator Erwin Tulfo.
 
-**[00:52:54.280] Senator Erwin Tulfo** (asr-000545)  
+**[00:52:54.280] Senator Erwin T. Tulfo** (asr-000545)  
 Thank you.
 
 **[00:52:56.380] Senator Pia S. Cayetano** (asr-000546)  
 Thank you rin, Senator Erwin at Senator Kiko.
 
-**[00:53:00.020] Senator Erwin Tulfo** (asr-000547)  
+**[00:53:00.020] Senator Erwin T. Tulfo** (asr-000547)  
 It's okay.
 
 **[00:53:00.660] Senator Pia S. Cayetano** (asr-000548)  
 Kasi siya lang naman yung sinisingitan ko, eh.
 
-**[00:53:03.280] Senator Erwin Tulfo** (asr-000549)  
+**[00:53:03.280] Senator Erwin T. Tulfo** (asr-000549)  
 It's alright.
 
-**[00:53:04.280] Senator Erwin Tulfo** (asr-000550)  
+**[00:53:04.280] Senator Erwin T. Tulfo** (asr-000550)  
 It's alright.
 
-**[00:53:05.280] Senator Erwin Tulfo** (asr-000551)  
+**[00:53:05.280] Senator Erwin T. Tulfo** (asr-000551)  
 No problem.
 
-**[00:53:17.280] Senator Erwin Tulfo** (asr-000552)  
+**[00:53:17.280] Senator Erwin T. Tulfo** (asr-000552)  
 Good morning, Mr. Chairman, fellow senators and our officials from the Department of Education.
 
-**[00:53:24.280] Senator Erwin Tulfo** (asr-000553)  
+**[00:53:24.280] Senator Erwin T. Tulfo** (asr-000553)  
 As we deliberate on the proposed 2027 budget of DepEd,
 
-**[00:53:29.280] Senator Erwin Tulfo** (asr-000554)  
+**[00:53:29.280] Senator Erwin T. Tulfo** (asr-000554)  
 I would like to emphasize three priorities that deserve our urgent attention.
 
-**[00:53:34.280] Senator Erwin Tulfo** (asr-000555)  
+**[00:53:34.280] Senator Erwin T. Tulfo** (asr-000555)  
 More classrooms, computers, and safer schools.
 
-**[00:53:38.280] Senator Erwin Tulfo** (asr-000556)  
+**[00:53:38.280] Senator Erwin T. Tulfo** (asr-000556)  
 Una, kailangan nating patuloy na tugunan ang kakulangan sa ating mga silid-aralan.
 
-**[00:53:44.280] Senator Erwin Tulfo** (asr-000557)  
+**[00:53:44.280] Senator Erwin T. Tulfo** (asr-000557)  
 Hindi po dapat patuloy na nagsisiksikan ang ating mga estudyante sa mga silid-aralan,
 
-**[00:53:48.800] Senator Erwin Tulfo** (asr-000558)  
+**[00:53:48.800] Senator Erwin T. Tulfo** (asr-000558)  
 o lumakad ng kilo-kilometro para makapasok lamang sa paaralan,
 
-**[00:53:58.240] Senator Erwin Tulfo** (asr-000559)  
+**[00:53:58.240] Senator Erwin T. Tulfo** (asr-000559)  
 o napipilitang mag-aral sa mga pasilidad na hindi naman angkop sa kanilang pangangailangan.
 
-**[00:54:05.280] Senator Erwin Tulfo** (asr-000560)  
+**[00:54:05.280] Senator Erwin T. Tulfo** (asr-000560)  
 We must prioritize classroom construction, especially in areas where shortages are most severe,
 
-**[00:54:13.280] Senator Erwin Tulfo** (asr-000561)  
+**[00:54:13.280] Senator Erwin T. Tulfo** (asr-000561)  
 so that every Filipino child has access to a decent learning environment.
 
-**[00:54:19.280] Senator Erwin Tulfo** (asr-000562)  
+**[00:54:19.280] Senator Erwin T. Tulfo** (asr-000562)  
 Second, and equally important,
 
-**[00:54:21.280] Senator Erwin Tulfo** (asr-000563)  
+**[00:54:21.280] Senator Erwin T. Tulfo** (asr-000563)  
 is the safety of our children inside school premises.
 
-**[00:54:25.280] Senator Erwin Tulfo** (asr-000564)  
+**[00:54:25.280] Senator Erwin T. Tulfo** (asr-000564)  
 The recent school shooting incidents in school grounds are a painful reminder
 
-**[00:54:31.280] Senator Erwin Tulfo** (asr-000565)  
+**[00:54:31.280] Senator Erwin T. Tulfo** (asr-000565)  
 that schools must be places of learning, not places of fear.
 
-**[00:54:36.280] Senator Erwin Tulfo** (asr-000566)  
+**[00:54:36.280] Senator Erwin T. Tulfo** (asr-000566)  
 Our children should never have to worry about their safety while pursuing their education.
 
-**[00:54:42.280] Senator Erwin Tulfo** (asr-000567)  
+**[00:54:42.280] Senator Erwin T. Tulfo** (asr-000567)  
 Na makatitiyak po ang isang magulang na makakauwi lagi ng ligtas ang kanyang anak mula sa paaralan.
 
-**[00:54:50.280] Senator Erwin Tulfo** (asr-000568)  
+**[00:54:50.280] Senator Erwin T. Tulfo** (asr-000568)  
 Ikatlo at panghuli, may mga mag-aaral po tayo, lalo na sa mga liblib na lugar,
 
-**[00:54:56.280] Senator Erwin Tulfo** (asr-000569)  
+**[00:54:56.280] Senator Erwin T. Tulfo** (asr-000569)  
 na hindi pa po nakakakita ng computer o hindi marunong kung pa paano gamitin ito.
 
-**[00:55:03.280] Senator Erwin Tulfo** (asr-000570)  
+**[00:55:03.280] Senator Erwin T. Tulfo** (asr-000570)  
 As our lives intertwine with cyberspace,
 
-**[00:55:08.280] Senator Erwin Tulfo** (asr-000571)  
+**[00:55:08.280] Senator Erwin T. Tulfo** (asr-000571)  
 our children, particularly in the barrios,
 
-**[00:55:12.280] Senator Erwin Tulfo** (asr-000572)  
+**[00:55:12.280] Senator Erwin T. Tulfo** (asr-000572)  
 should be introduced to the information superhighway and to the artificial intelligence or AI.
 
-**[00:55:19.280] Senator Erwin Tulfo** (asr-000573)  
+**[00:55:19.280] Senator Erwin T. Tulfo** (asr-000573)  
 Kaya nais po natin malaman kung ano mga programa at pondo ang inilaan ng DepEd
 
-**[00:55:25.280] Senator Erwin Tulfo** (asr-000574)  
+**[00:55:25.280] Senator Erwin T. Tulfo** (asr-000574)  
 at ating bigyan ng importansya para palakasin ang school security,
 
-**[00:55:30.280] Senator Erwin Tulfo** (asr-000575)  
+**[00:55:30.280] Senator Erwin T. Tulfo** (asr-000575)  
 improve emergency response, provide psychosocial support,
 
-**[00:55:34.280] Senator Erwin Tulfo** (asr-000576)  
+**[00:55:34.280] Senator Erwin T. Tulfo** (asr-000576)  
 and prevent violence within our schools and computer equipment in every classroom.
 
-**[00:55:41.280] Senator Erwin Tulfo** (asr-000577)  
+**[00:55:41.280] Senator Erwin T. Tulfo** (asr-000577)  
 As we review this budget, let us remember that education is not simply about building classrooms and hiring teachers.
 
-**[00:55:47.280] Senator Erwin Tulfo** (asr-000578)  
+**[00:55:47.280] Senator Erwin T. Tulfo** (asr-000578)  
 It is about
 
-**[00:55:49.280] Senator Erwin Tulfo** (asr-000579)  
+**[00:55:49.280] Senator Erwin T. Tulfo** (asr-000579)  
 building a future for our children and ensuring that they are safe while doing so.
 
-**[00:55:55.280] Senator Erwin Tulfo** (asr-000580)  
+**[00:55:55.280] Senator Erwin T. Tulfo** (asr-000580)  
 Because every peso we allocate must translate into better classrooms,
 
-**[00:56:01.280] Senator Erwin Tulfo** (asr-000581)  
+**[00:56:01.280] Senator Erwin T. Tulfo** (asr-000581)  
 better learning conditions, and safer schools for every Filipino child.
 
-**[00:56:06.280] Senator Erwin Tulfo** (asr-000582)  
+**[00:56:06.280] Senator Erwin T. Tulfo** (asr-000582)  
 Thank you and I look forward to a productive budget hearing. Thank you, Mr. Chair.
 
 **[00:56:10.280] Senator Paolo Benigno "Bam" Aquino IV** (asr-000583)  
@@ -6553,37 +6553,37 @@ Sen. Tulfo, do you have questions for other members of the DepEd family?
 **[02:25:18.040] Senator Paolo Benigno "Bam" Aquino IV** (asr-002281)  
 You may wish to go, or would you want to wait for Secretary Angara?
 
-**[02:25:20.760] Senator Erwin Tulfo** (asr-002282)  
+**[02:25:20.760] Senator Erwin T. Tulfo** (asr-002282)  
 Yeah, I want to ask a few questions now, Mr. Chair.
 
 **[02:25:24.620] Senator Paolo Benigno "Bam" Aquino IV** (asr-002283)  
 Yeah, go ahead, go ahead.
 
-**[02:25:25.440] Senator Erwin Tulfo** (asr-002284)  
+**[02:25:25.440] Senator Erwin T. Tulfo** (asr-002284)  
 I know some of the...
 
-**[02:25:27.540] Senator Erwin Tulfo** (asr-002285)  
+**[02:25:27.540] Senator Erwin T. Tulfo** (asr-002285)  
 Usecs may be able to answer this question.
 
-**[02:25:31.480] Senator Erwin Tulfo** (asr-002286)  
+**[02:25:31.480] Senator Erwin T. Tulfo** (asr-002286)  
 I don't know which one, pero my question is, ano po ba talaga itong aral program?
 
-**[02:25:36.540] Senator Erwin Tulfo** (asr-002287)  
+**[02:25:36.540] Senator Erwin T. Tulfo** (asr-002287)  
 15.32 billion po ang request po ninyo.
 
-**[02:25:40.780] Senator Erwin Tulfo** (asr-002288)  
+**[02:25:40.780] Senator Erwin T. Tulfo** (asr-002288)  
 And zero po sa net.
 
-**[02:25:44.620] Senator Erwin Tulfo** (asr-002289)  
+**[02:25:44.620] Senator Erwin T. Tulfo** (asr-002289)  
 I don't understand, bakit ginawang zero po ito?
 
-**[02:25:48.360] Senator Erwin Tulfo** (asr-002290)  
+**[02:25:48.360] Senator Erwin T. Tulfo** (asr-002290)  
 Pero ang gab naman, naawa pa ng konti, nilagay ng 350 million, nagbibigay ng bariya.
 
-**[02:25:55.920] Senator Erwin Tulfo** (asr-002291)  
+**[02:25:55.920] Senator Erwin T. Tulfo** (asr-002291)  
 Okay, can somebody explain this to us?
 
-**[02:25:57.540] Senator Erwin Tulfo** (asr-002292)  
+**[02:25:57.540] Senator Erwin T. Tulfo** (asr-002292)  
 What is aral program? How important is this?
 
 **[02:26:00.920] Senator Paolo Benigno "Bam" Aquino IV** (asr-002293)  
@@ -6691,16 +6691,16 @@ specifically those who are not performing
 **[02:28:06.060] DepEd Undersecretary Carmela C. Oracion** (asr-002327)  
 at expected levels in the grade level.
 
-**[02:28:09.100] Senator Erwin Tulfo** (asr-002328)  
+**[02:28:09.100] Senator Erwin T. Tulfo** (asr-002328)  
 How do you do that, Yusef?
 
-**[02:28:10.920] Senator Erwin Tulfo** (asr-002329)  
+**[02:28:10.920] Senator Erwin T. Tulfo** (asr-002329)  
 Is it after school hours?
 
-**[02:28:13.300] Senator Erwin Tulfo** (asr-002330)  
+**[02:28:13.300] Senator Erwin T. Tulfo** (asr-002330)  
 Parang tutoring?
 
-**[02:28:15.100] Senator Erwin Tulfo** (asr-002331)  
+**[02:28:15.100] Senator Erwin T. Tulfo** (asr-002331)  
 Tama po ba?
 
 **[02:28:15.900] DepEd Undersecretary Carmela C. Oracion** (asr-002332)  
@@ -6739,94 +6739,94 @@ that need to do it on Saturdays,
 **[02:28:48.500] DepEd Undersecretary Carmela C. Oracion** (asr-002343)  
 two hours on Saturdays, po.
 
-**[02:28:50.860] Senator Erwin Tulfo** (asr-002344)  
+**[02:28:50.860] Senator Erwin T. Tulfo** (asr-002344)  
 Thank you, Yusef.
 
-**[02:28:52.300] Senator Erwin Tulfo** (asr-002345)  
+**[02:28:52.300] Senator Erwin T. Tulfo** (asr-002345)  
 May we ask for the representative,
 
-**[02:28:56.680] Senator Erwin Tulfo** (asr-002346)  
+**[02:28:56.680] Senator Erwin T. Tulfo** (asr-002346)  
 Department of Budget and Management.
 
-**[02:28:58.180] Senator Erwin Tulfo** (asr-002347)  
+**[02:28:58.180] Senator Erwin T. Tulfo** (asr-002347)  
 Are you here, Director LaBastilla?
 
-**[02:29:00.160] Senator Erwin Tulfo** (asr-002348)  
+**[02:29:00.160] Senator Erwin T. Tulfo** (asr-002348)  
 Yes, she's right there, po.
 
-**[02:29:01.500] Senator Erwin Tulfo** (asr-002349)  
+**[02:29:01.500] Senator Erwin T. Tulfo** (asr-002349)  
 Katabi po niya.
 
-**[02:29:02.460] Senator Erwin Tulfo** (asr-002350)  
+**[02:29:02.460] Senator Erwin T. Tulfo** (asr-002350)  
 Director, are you familiar with this ARAL Law, ma'am?
 
-**[02:29:06.800] Senator Erwin Tulfo** (asr-002351)  
+**[02:29:06.800] Senator Erwin T. Tulfo** (asr-002351)  
 Kasi parang hindi yata ho ninyo alam
 
-**[02:29:08.960] Senator Erwin Tulfo** (asr-002352)  
+**[02:29:08.960] Senator Erwin T. Tulfo** (asr-002352)  
 at ito'y dito sa NEP ho ninyo, zero?
 
-**[02:29:13.100] Senator Erwin Tulfo** (asr-002353)  
+**[02:29:13.100] Senator Erwin T. Tulfo** (asr-002353)  
 E kita mo naman ho, during the past few years,
 
-**[02:29:15.580] Senator Erwin Tulfo** (asr-002354)  
+**[02:29:15.580] Senator Erwin T. Tulfo** (asr-002354)  
 yung mga studyante natin parang nasa ropor.
 
-**[02:29:18.840] Senator Erwin Tulfo** (asr-002355)  
+**[02:29:18.840] Senator Erwin T. Tulfo** (asr-002355)  
 E kailangan ho naman,
 
-**[02:29:20.060] Senator Erwin Tulfo** (asr-002356)  
+**[02:29:20.060] Senator Erwin T. Tulfo** (asr-002356)  
 lalo na po siguro sa mga liblib na lugar,
 
-**[02:29:22.260] Senator Erwin Tulfo** (asr-002357)  
+**[02:29:22.260] Senator Erwin T. Tulfo** (asr-002357)  
 sa mga kanayunan,
 
-**[02:29:23.340] Senator Erwin Tulfo** (asr-002358)  
+**[02:29:23.340] Senator Erwin T. Tulfo** (asr-002358)  
 they need this, ma'am.
 
-**[02:29:25.360] Senator Erwin Tulfo** (asr-002359)  
+**[02:29:25.360] Senator Erwin T. Tulfo** (asr-002359)  
 Eto, dito po sa batas,
 
-**[02:29:26.680] Senator Erwin Tulfo** (asr-002360)  
+**[02:29:26.680] Senator Erwin T. Tulfo** (asr-002360)  
 batas natin, nakalagay,
 
-**[02:29:27.920] Senator Erwin Tulfo** (asr-002361)  
+**[02:29:27.920] Senator Erwin T. Tulfo** (asr-002361)  
 Section 21, Appropriations,
 
-**[02:29:30.300] Senator Erwin Tulfo** (asr-002362)  
+**[02:29:30.300] Senator Erwin T. Tulfo** (asr-002362)  
 the amount necessary for the implementation of this Act
 
-**[02:29:33.280] Senator Erwin Tulfo** (asr-002363)  
+**[02:29:33.280] Senator Erwin T. Tulfo** (asr-002363)  
 shall be charged against those authorized
 
-**[02:29:35.860] Senator Erwin Tulfo** (asr-002364)  
+**[02:29:35.860] Senator Erwin T. Tulfo** (asr-002364)  
 in the current appropriations of the DepEd.
 
-**[02:29:39.000] Senator Erwin Tulfo** (asr-002365)  
+**[02:29:39.000] Senator Erwin T. Tulfo** (asr-002365)  
 Thereafter, the amount necessary
 
-**[02:29:40.640] Senator Erwin Tulfo** (asr-002366)  
+**[02:29:40.640] Senator Erwin T. Tulfo** (asr-002366)  
 for its continuous implementation
 
-**[02:29:42.240] Senator Erwin Tulfo** (asr-002367)  
+**[02:29:42.240] Senator Erwin T. Tulfo** (asr-002367)  
 shall be included
 
-**[02:29:43.820] Senator Erwin Tulfo** (asr-002368)  
+**[02:29:43.820] Senator Erwin T. Tulfo** (asr-002368)  
 in the Annual General Appropriations Act.
 
-**[02:29:48.760] Senator Erwin Tulfo** (asr-002369)  
+**[02:29:48.760] Senator Erwin T. Tulfo** (asr-002369)  
 I believe, DBM, you have to review this.
 
-**[02:29:51.700] Senator Erwin Tulfo** (asr-002370)  
+**[02:29:51.700] Senator Erwin T. Tulfo** (asr-002370)  
 Are you familiar with this, Director LaBastilla?
 
-**[02:29:55.040] Senator Erwin Tulfo** (asr-002371)  
+**[02:29:55.040] Senator Erwin T. Tulfo** (asr-002371)  
 Why?
 
-**[02:29:55.660] Senator Erwin Tulfo** (asr-002372)  
+**[02:29:55.660] Senator Erwin T. Tulfo** (asr-002372)  
 Or do you have any,
 
-**[02:29:56.680] Senator Erwin Tulfo** (asr-002373)  
+**[02:29:56.680] Senator Erwin T. Tulfo** (asr-002373)  
 any answers, ma'am?
 
 **[02:29:58.920] DBM Budget and Management Bureau-F Director Vivien V. Labastilla** (asr-002374)  
@@ -6886,19 +6886,19 @@ so attribution po siya
 **[02:30:34.780] DBM Budget and Management Bureau-F Director Vivien V. Labastilla** (asr-002392)  
 under that PAP
 
-**[02:30:36.160] Senator Erwin Tulfo** (asr-002393)  
+**[02:30:36.160] Senator Erwin T. Tulfo** (asr-002393)  
 magkano po yun ma'am?
 
-**[02:30:39.220] Senator Erwin Tulfo** (asr-002394)  
+**[02:30:39.220] Senator Erwin T. Tulfo** (asr-002394)  
 kasi dito parang
 
-**[02:30:40.640] Senator Erwin Tulfo** (asr-002395)  
+**[02:30:40.640] Senator Erwin T. Tulfo** (asr-002395)  
 sabi zero budget
 
-**[02:30:42.400] Senator Erwin Tulfo** (asr-002396)  
+**[02:30:42.400] Senator Erwin T. Tulfo** (asr-002396)  
 under the NEP, pero so magkano ito yung sinasabi nyo
 
-**[02:30:45.040] Senator Erwin Tulfo** (asr-002397)  
+**[02:30:45.040] Senator Erwin T. Tulfo** (asr-002397)  
 under sa textbooks po?
 
 **[02:30:46.560] DBM Budget and Management Bureau-F Director Vivien V. Labastilla** (asr-002398)  
@@ -6913,40 +6913,40 @@ sina-subsum po siya under
 **[02:30:52.780] DBM Budget and Management Bureau-F Director Vivien V. Labastilla** (asr-002401)  
 textbooks
 
-**[02:30:53.540] Senator Erwin Tulfo** (asr-002402)  
+**[02:30:53.540] Senator Erwin T. Tulfo** (asr-002402)  
 so under textbooks, so ibig sabihin
 
-**[02:30:56.600] Senator Erwin Tulfo** (asr-002403)  
+**[02:30:56.600] Senator Erwin T. Tulfo** (asr-002403)  
 kasalanan pa pala ng DepEd
 
-**[02:30:58.300] Senator Erwin Tulfo** (asr-002404)  
+**[02:30:58.300] Senator Erwin T. Tulfo** (asr-002404)  
 so paano po yung mga
 
-**[02:31:00.420] Senator Erwin Tulfo** (asr-002405)  
+**[02:31:00.420] Senator Erwin T. Tulfo** (asr-002405)  
 tutor natin, paano sila babayaran
 
-**[02:31:02.640] Senator Erwin Tulfo** (asr-002406)  
+**[02:31:02.640] Senator Erwin T. Tulfo** (asr-002406)  
 siyempre, additional po yun
 
-**[02:31:04.640] Senator Erwin Tulfo** (asr-002407)  
+**[02:31:04.640] Senator Erwin T. Tulfo** (asr-002407)  
 kailangan po natin magbayad
 
-**[02:31:06.400] Senator Erwin Tulfo** (asr-002408)  
+**[02:31:06.400] Senator Erwin T. Tulfo** (asr-002408)  
 wala naman po libre na ho ngayon
 
-**[02:31:08.500] Senator Erwin Tulfo** (asr-002409)  
+**[02:31:08.500] Senator Erwin T. Tulfo** (asr-002409)  
 how is that?
 
-**[02:31:10.260] Senator Erwin Tulfo** (asr-002410)  
+**[02:31:10.260] Senator Erwin T. Tulfo** (asr-002410)  
 have you factored that in?
 
-**[02:31:12.060] Senator Erwin Tulfo** (asr-002411)  
+**[02:31:12.060] Senator Erwin T. Tulfo** (asr-002411)  
 kailangan po bigyan po yung mga tutor
 
-**[02:31:14.500] Senator Erwin Tulfo** (asr-002412)  
+**[02:31:14.500] Senator Erwin T. Tulfo** (asr-002412)  
 natin na pakonsuelo
 
-**[02:31:16.520] Senator Erwin Tulfo** (asr-002413)  
+**[02:31:16.520] Senator Erwin T. Tulfo** (asr-002413)  
 man lang, na allowance po ma'am?
 
 **[02:31:19.700] DBM Budget and Management Bureau-F Director Vivien V. Labastilla** (asr-002414)  
@@ -6961,52 +6961,52 @@ magpapost po sila for overtime pay
 **[02:31:26.600] DBM Budget and Management Bureau-F Director Vivien V. Labastilla** (asr-002417)  
 po
 
-**[02:31:27.040] Senator Erwin Tulfo** (asr-002418)  
+**[02:31:27.040] Senator Erwin T. Tulfo** (asr-002418)  
 alright, well anyway
 
-**[02:31:28.500] Senator Erwin Tulfo** (asr-002419)  
+**[02:31:28.500] Senator Erwin T. Tulfo** (asr-002419)  
 next year po siguro ma'am, kailangan natin
 
-**[02:31:30.940] Senator Erwin Tulfo** (asr-002420)  
+**[02:31:30.940] Senator Erwin T. Tulfo** (asr-002420)  
 i-consider na rin po ito
 
-**[02:31:32.340] Senator Erwin Tulfo** (asr-002421)  
+**[02:31:32.340] Senator Erwin T. Tulfo** (asr-002421)  
 when they submit, when DepEd submits
 
-**[02:31:35.060] Senator Erwin Tulfo** (asr-002422)  
+**[02:31:35.060] Senator Erwin T. Tulfo** (asr-002422)  
 its
 
-**[02:31:35.340] Senator Erwin Tulfo** (asr-002423)  
+**[02:31:35.340] Senator Erwin T. Tulfo** (asr-002423)  
 budget
 
-**[02:31:37.920] Senator Erwin Tulfo** (asr-002424)  
+**[02:31:37.920] Senator Erwin T. Tulfo** (asr-002424)  
 sa DBM, I think we have to
 
-**[02:31:40.440] Senator Erwin Tulfo** (asr-002425)  
+**[02:31:40.440] Senator Erwin T. Tulfo** (asr-002425)  
 factor that in, ano po ma'am?
 
-**[02:31:42.660] Senator Erwin Tulfo** (asr-002426)  
+**[02:31:42.660] Senator Erwin T. Tulfo** (asr-002426)  
 importante po yun, alright
 
-**[02:31:44.120] Senator Erwin Tulfo** (asr-002427)  
+**[02:31:44.120] Senator Erwin T. Tulfo** (asr-002427)  
 let's go back, Secretary
 
-**[02:31:46.040] Senator Erwin Tulfo** (asr-002428)  
+**[02:31:46.040] Senator Erwin T. Tulfo** (asr-002428)  
 Angara, thank you sir, quickly lang po
 
-**[02:31:48.320] Senator Erwin Tulfo** (asr-002429)  
+**[02:31:48.320] Senator Erwin T. Tulfo** (asr-002429)  
 computerization program
 
-**[02:31:49.660] Senator Erwin Tulfo** (asr-002430)  
+**[02:31:49.660] Senator Erwin T. Tulfo** (asr-002430)  
 the NEP budget of 5.79 was reduced
 
-**[02:31:52.800] Senator Erwin Tulfo** (asr-002431)  
+**[02:31:52.800] Senator Erwin T. Tulfo** (asr-002431)  
 to 3.16, ito po ba yung
 
-**[02:31:54.480] Senator Erwin Tulfo** (asr-002432)  
+**[02:31:54.480] Senator Erwin T. Tulfo** (asr-002432)  
 pangarap ninyo na
 
-**[02:31:56.600] Senator Erwin Tulfo** (asr-002433)  
+**[02:31:56.600] Senator Erwin T. Tulfo** (asr-002433)  
 bigyan lahat ng teacher na laptop?
 
 **[02:31:59.280] DepEd Secretary Sonny Angara** (asr-002434)  
@@ -7066,58 +7066,58 @@ dun sa isipan ng ating mga guro
 **[02:32:35.060] DepEd Secretary Sonny Angara** (asr-002452)  
 na makakatanggap po lahat sila
 
-**[02:32:36.860] Senator Erwin Tulfo** (asr-002453)  
+**[02:32:36.860] Senator Erwin T. Tulfo** (asr-002453)  
 opo, kasi may mga alam mo akong guro
 
-**[02:32:38.580] Senator Erwin Tulfo** (asr-002454)  
+**[02:32:38.580] Senator Erwin T. Tulfo** (asr-002454)  
 sa amin po, sa lamin na lawigan, sa Palawan
 
-**[02:32:40.740] Senator Erwin Tulfo** (asr-002455)  
+**[02:32:40.740] Senator Erwin T. Tulfo** (asr-002455)  
 nag-loan po sa GSIS
 
-**[02:32:43.160] Senator Erwin Tulfo** (asr-002456)  
+**[02:32:43.160] Senator Erwin T. Tulfo** (asr-002456)  
 para makabili po ng laptop
 
-**[02:32:44.700] Senator Erwin Tulfo** (asr-002457)  
+**[02:32:44.700] Senator Erwin T. Tulfo** (asr-002457)  
 it's very ironic, tama po kayo
 
-**[02:32:46.600] Senator Erwin Tulfo** (asr-002458)  
+**[02:32:46.600] Senator Erwin T. Tulfo** (asr-002458)  
 naalala ko po, may sabi po
 
-**[02:32:48.560] Senator Erwin Tulfo** (asr-002459)  
+**[02:32:48.560] Senator Erwin T. Tulfo** (asr-002459)  
 ang pangulo na bigyan po lahat ng teacher
 
-**[02:32:50.560] Senator Erwin Tulfo** (asr-002460)  
+**[02:32:50.560] Senator Erwin T. Tulfo** (asr-002460)  
 but I do understand, siguro
 
-**[02:32:52.340] Senator Erwin Tulfo** (asr-002461)  
+**[02:32:52.340] Senator Erwin T. Tulfo** (asr-002461)  
 we'll do something
 
-**[02:32:54.760] Senator Erwin Tulfo** (asr-002462)  
+**[02:32:54.760] Senator Erwin T. Tulfo** (asr-002462)  
 about this po, kawawa naman
 
-**[02:32:56.600] Senator Erwin Tulfo** (asr-002463)  
+**[02:32:56.600] Senator Erwin T. Tulfo** (asr-002463)  
 ho, isa pa ho
 
-**[02:32:58.280] Senator Erwin Tulfo** (asr-002464)  
+**[02:32:58.280] Senator Erwin T. Tulfo** (asr-002464)  
 ang katanungan, ito pong
 
-**[02:32:59.920] Senator Erwin Tulfo** (asr-002465)  
+**[02:32:59.920] Senator Erwin T. Tulfo** (asr-002465)  
 learner support
 
-**[02:33:02.720] Senator Erwin Tulfo** (asr-002466)  
+**[02:33:02.720] Senator Erwin T. Tulfo** (asr-002466)  
 program 1.39b
 
-**[02:33:04.860] Senator Erwin Tulfo** (asr-002467)  
+**[02:33:04.860] Senator Erwin T. Tulfo** (asr-002467)  
 from 3.2b under
 
-**[02:33:06.600] Senator Erwin Tulfo** (asr-002468)  
+**[02:33:06.600] Senator Erwin T. Tulfo** (asr-002468)  
 the NEP, supports child
 
-**[02:33:08.480] Senator Erwin Tulfo** (asr-002469)  
+**[02:33:08.480] Senator Erwin T. Tulfo** (asr-002469)  
 protection, anong included dito
 
-**[02:33:10.780] Senator Erwin Tulfo** (asr-002470)  
+**[02:33:10.780] Senator Erwin T. Tulfo** (asr-002470)  
 Secretary?
 
 **[02:33:14.560] DepEd Secretary Sonny Angara** (asr-002471)  
@@ -7207,19 +7207,19 @@ education attainment, but with the proper
 **[02:34:12.040] DepEd Secretary Sonny Angara** (asr-002499)  
 training, your honor.
 
-**[02:34:13.960] Senator Erwin Tulfo** (asr-002500)  
+**[02:34:13.960] Senator Erwin T. Tulfo** (asr-002500)  
 I have last two questions sa Secretary
 
-**[02:34:15.860] Senator Erwin Tulfo** (asr-002501)  
+**[02:34:15.860] Senator Erwin T. Tulfo** (asr-002501)  
 Ano po ang
 
-**[02:34:17.240] Senator Erwin Tulfo** (asr-002502)  
+**[02:34:17.240] Senator Erwin T. Tulfo** (asr-002502)  
 ilan po sa ating mga publicong paaralan
 
-**[02:34:19.900] Senator Erwin Tulfo** (asr-002503)  
+**[02:34:19.900] Senator Erwin T. Tulfo** (asr-002503)  
 ng wala pong kuryente at what is
 
-**[02:34:21.860] Senator Erwin Tulfo** (asr-002504)  
+**[02:34:21.860] Senator Erwin T. Tulfo** (asr-002504)  
 DEPA doing about this?
 
 **[02:34:25.480] DepEd Secretary Sonny Angara** (asr-002505)  
@@ -7246,37 +7246,37 @@ na ho siya, nasa NEA na ho siya, National
 **[02:34:39.820] DepEd Secretary Sonny Angara** (asr-002512)  
 Electrification Administration
 
-**[02:34:41.540] Senator Erwin Tulfo** (asr-002513)  
+**[02:34:41.540] Senator Erwin T. Tulfo** (asr-002513)  
 NEA na po ang
 
-**[02:34:43.740] Senator Erwin Tulfo** (asr-002514)  
+**[02:34:43.740] Senator Erwin T. Tulfo** (asr-002514)  
 in charge dito?
 
-**[02:34:46.260] Senator Erwin Tulfo** (asr-002515)  
+**[02:34:46.260] Senator Erwin T. Tulfo** (asr-002515)  
 Lastly po, tatanungan ko, taon-taon
 
-**[02:34:48.480] Senator Erwin Tulfo** (asr-002516)  
+**[02:34:48.480] Senator Erwin T. Tulfo** (asr-002516)  
 po pinupunduhan natin itong
 
-**[02:34:50.320] Senator Erwin Tulfo** (asr-002517)  
+**[02:34:50.320] Senator Erwin T. Tulfo** (asr-002517)  
 panahon pa po nung nakarang
 
-**[02:34:52.460] Senator Erwin Tulfo** (asr-002518)  
+**[02:34:52.460] Senator Erwin T. Tulfo** (asr-002518)  
 administration, yung sinasabing
 
-**[02:34:54.440] Senator Erwin Tulfo** (asr-002519)  
+**[02:34:54.440] Senator Erwin T. Tulfo** (asr-002519)  
 free internet for
 
-**[02:34:56.600] Senator Erwin Tulfo** (asr-002520)  
+**[02:34:56.600] Senator Erwin T. Tulfo** (asr-002520)  
 all at uunahin ito mga pampublikong
 
-**[02:34:58.940] Senator Erwin Tulfo** (asr-002521)  
+**[02:34:58.940] Senator Erwin T. Tulfo** (asr-002521)  
 paaralan. Ano na po nangyari
 
-**[02:35:00.480] Senator Erwin Tulfo** (asr-002522)  
+**[02:35:00.480] Senator Erwin T. Tulfo** (asr-002522)  
 dito?
 
-**[02:35:01.860] Senator Erwin Tulfo** (asr-002523)  
+**[02:35:01.860] Senator Erwin T. Tulfo** (asr-002523)  
 Ano po sabi ng DICT?
 
 **[02:35:04.320] DepEd Secretary Sonny Angara** (asr-002524)  
@@ -7429,115 +7429,115 @@ with Starlink, things like that. Medyo mabigat daw
 **[02:36:37.020] DepEd Secretary Sonny Angara** (asr-002571)  
 yung monthly.
 
-**[02:36:37.320] Senator Erwin Tulfo** (asr-002571-split-2)  
+**[02:36:37.320] Senator Erwin T. Tulfo** (asr-002571-split-2)  
 Yun na nga ang problema,
 
-**[02:36:38.700] Senator Erwin Tulfo** (asr-002572)  
+**[02:36:38.700] Senator Erwin T. Tulfo** (asr-002572)  
 Mr. Secretary, baka you may want to
 
-**[02:36:40.900] Senator Erwin Tulfo** (asr-002573)  
+**[02:36:40.900] Senator Erwin T. Tulfo** (asr-002573)  
 look into it kasi may mga reports po
 
-**[02:36:42.780] Senator Erwin Tulfo** (asr-002574)  
+**[02:36:42.780] Senator Erwin T. Tulfo** (asr-002574)  
 na pinapasa po
 
-**[02:36:45.200] Senator Erwin Tulfo** (asr-002575)  
+**[02:36:45.200] Senator Erwin T. Tulfo** (asr-002575)  
 sa amin ngayon, dito po sa Blue Ribbon,
 
-**[02:36:47.440] Senator Erwin Tulfo** (asr-002576)  
+**[02:36:47.440] Senator Erwin T. Tulfo** (asr-002576)  
 na pinapatignan po, na sinasabi
 
-**[02:36:49.340] Senator Erwin Tulfo** (asr-002577)  
+**[02:36:49.340] Senator Erwin T. Tulfo** (asr-002577)  
 ng DICT na itong
 
-**[02:36:50.580] Senator Erwin Tulfo** (asr-002578)  
+**[02:36:50.580] Senator Erwin T. Tulfo** (asr-002578)  
 skwelahan na ito, may internet, may Starlink,
 
-**[02:36:53.360] Senator Erwin Tulfo** (asr-002579)  
+**[02:36:53.360] Senator Erwin T. Tulfo** (asr-002579)  
 et cetera, et cetera,
 
-**[02:36:55.220] Senator Erwin Tulfo** (asr-002580)  
+**[02:36:55.220] Senator Erwin T. Tulfo** (asr-002580)  
 e maawa ka po dun sa,
 
-**[02:36:56.600] Senator Erwin Tulfo** (asr-002581)  
+**[02:36:56.600] Senator Erwin T. Tulfo** (asr-002581)  
 mga principal, e ginaganong galing yung
 
-**[02:36:58.340] Senator Erwin Tulfo** (asr-002582)  
+**[02:36:58.340] Senator Erwin T. Tulfo** (asr-002582)  
 laptop niya, e. Nagahanap na signal, e.
 
-**[02:37:01.260] Senator Erwin Tulfo** (asr-002583)  
+**[02:37:01.260] Senator Erwin T. Tulfo** (asr-002583)  
 Kaya kawawa po, tapos sasabihin,
 
-**[02:37:02.560] Senator Erwin Tulfo** (asr-002584)  
+**[02:37:02.560] Senator Erwin T. Tulfo** (asr-002584)  
 Starlink, e wala naman pala ho.
 
-**[02:37:05.100] Senator Erwin Tulfo** (asr-002585)  
+**[02:37:05.100] Senator Erwin T. Tulfo** (asr-002585)  
 Minsan, lumalabas po si principal,
 
-**[02:37:06.540] Senator Erwin Tulfo** (asr-002586)  
+**[02:37:06.540] Senator Erwin T. Tulfo** (asr-002586)  
 tama po kayo, Mr. Chair. Doon siya
 
-**[02:37:08.540] Senator Erwin Tulfo** (asr-002587)  
+**[02:37:08.540] Senator Erwin T. Tulfo** (asr-002587)  
 sa parang bus stop, doon sa
 
-**[02:37:09.960] Senator Erwin Tulfo** (asr-002588)  
+**[02:37:09.960] Senator Erwin T. Tulfo** (asr-002588)  
 antayan sa labas ng school, doon may internet.
 
-**[02:37:13.100] Senator Erwin Tulfo** (asr-002589)  
+**[02:37:13.100] Senator Erwin T. Tulfo** (asr-002589)  
 So, yun po yung problema.
 
-**[02:37:15.120] Senator Erwin Tulfo** (asr-002590)  
+**[02:37:15.120] Senator Erwin T. Tulfo** (asr-002590)  
 Panghuli na lamang po, Mr.
 
-**[02:37:16.540] Senator Erwin Tulfo** (asr-002591)  
+**[02:37:16.540] Senator Erwin T. Tulfo** (asr-002591)  
 Chairman,
 
-**[02:37:17.440] Senator Erwin Tulfo** (asr-002592)  
+**[02:37:17.440] Senator Erwin T. Tulfo** (asr-002592)  
 Secretary, doon po sa
 
-**[02:37:20.360] Senator Erwin Tulfo** (asr-002593)  
+**[02:37:20.360] Senator Erwin T. Tulfo** (asr-002593)  
 school security, alam ko hong kulang
 
-**[02:37:22.640] Senator Erwin Tulfo** (asr-002594)  
+**[02:37:22.640] Senator Erwin T. Tulfo** (asr-002594)  
 ho yung ating mga
 
-**[02:37:23.760] Senator Erwin Tulfo** (asr-002595)  
+**[02:37:23.760] Senator Erwin T. Tulfo** (asr-002595)  
 security guard.
 
-**[02:37:26.600] Senator Erwin Tulfo** (asr-002596)  
+**[02:37:26.600] Senator Erwin T. Tulfo** (asr-002596)  
 Meron po ba kayo, nakikipag-ugnayan na po
 
-**[02:37:28.780] Senator Erwin Tulfo** (asr-002597)  
+**[02:37:28.780] Senator Erwin T. Tulfo** (asr-002597)  
 ba kayo sa LGU na maaring
 
-**[02:37:30.760] Senator Erwin Tulfo** (asr-002598)  
+**[02:37:30.760] Senator Erwin T. Tulfo** (asr-002598)  
 magpadala po ng barangay
 
-**[02:37:32.620] Senator Erwin Tulfo** (asr-002599)  
+**[02:37:32.620] Senator Erwin T. Tulfo** (asr-002599)  
 tanod? Kasi doon po sa ilang
 
-**[02:37:34.560] Senator Erwin Tulfo** (asr-002600)  
+**[02:37:34.560] Senator Erwin T. Tulfo** (asr-002600)  
 barangay sa aming lalawigan,
 
-**[02:37:36.780] Senator Erwin Tulfo** (asr-002601)  
+**[02:37:36.780] Senator Erwin T. Tulfo** (asr-002601)  
 eh, kusa po nagpapadala
 
-**[02:37:38.640] Senator Erwin Tulfo** (asr-002602)  
+**[02:37:38.640] Senator Erwin T. Tulfo** (asr-002602)  
 ang barangay na mga tanod
 
-**[02:37:40.720] Senator Erwin Tulfo** (asr-002603)  
+**[02:37:40.720] Senator Erwin T. Tulfo** (asr-002603)  
 na magbantay sa gate tuwing
 
-**[02:37:42.620] Senator Erwin Tulfo** (asr-002604)  
+**[02:37:42.620] Senator Erwin T. Tulfo** (asr-002604)  
 pasukan at paglabasa
 
-**[02:37:44.660] Senator Erwin Tulfo** (asr-002605)  
+**[02:37:44.660] Senator Erwin T. Tulfo** (asr-002605)  
 ng mga estudyante para makatulong
 
-**[02:37:46.680] Senator Erwin Tulfo** (asr-002606)  
+**[02:37:46.680] Senator Erwin T. Tulfo** (asr-002606)  
 lang po magtitingin ng mga bag.
 
-**[02:37:48.920] Senator Erwin Tulfo** (asr-002607)  
+**[02:37:48.920] Senator Erwin T. Tulfo** (asr-002607)  
 Meron na po bang ugnayan kayo sa
 
 **[02:37:50.840] DepEd Secretary Sonny Angara** (asr-002608)  
@@ -7624,13 +7624,13 @@ some of the security guards in the schools,
 **[02:38:44.680] DepEd Secretary Sonny Angara** (asr-002635)  
 your honor.
 
-**[02:38:44.950] Senator Erwin Tulfo** (asr-002635-split-2)  
+**[02:38:44.950] Senator Erwin T. Tulfo** (asr-002635-split-2)  
 Thank you, Secretary.
 
-**[02:38:46.320] Senator Erwin Tulfo** (asr-002636)  
+**[02:38:46.320] Senator Erwin T. Tulfo** (asr-002636)  
 Mr. Chair, I will ask
 
-**[02:38:48.400] Senator Erwin Tulfo** (asr-002637)  
+**[02:38:48.400] Senator Erwin T. Tulfo** (asr-002637)  
 again on the second round. Thank you.
 
 **[02:38:50.300] Senator Paolo Benigno "Bam" Aquino IV** (asr-002638)  
@@ -14002,172 +14002,172 @@ If you give Dr. Yee a coffee break,
 **[03:54:35.740] DepEd Secretary Sonny Angara** (asr-004754)  
 then it will just be one hour.
 
-**[03:54:39.920] Senator Sherwin "Win" T. Gatchalian** (asr-004755)  
+**[03:54:39.920] Senate President Sherwin "Win" T. Gatchalian** (asr-004755)  
 Si Dr. Yee, bulong nung bulong dito.
 
-**[03:54:43.500] Senator Sherwin "Win" T. Gatchalian** (asr-004756)  
+**[03:54:43.500] Senate President Sherwin "Win" T. Gatchalian** (asr-004756)  
 Secretary.
 
-**[03:54:45.000] Senator Sherwin "Win" T. Gatchalian** (asr-004757)  
+**[03:54:45.000] Senate President Sherwin "Win" T. Gatchalian** (asr-004757)  
 Thank you, Mr. Chairman.
 
-**[03:54:48.280] Senator Sherwin "Win" T. Gatchalian** (asr-004758)  
+**[03:54:48.280] Senate President Sherwin "Win" T. Gatchalian** (asr-004758)  
 I'll just continue some of the questions.
 
-**[03:54:50.220] Senator Sherwin "Win" T. Gatchalian** (asr-004759)  
+**[03:54:50.220] Senate President Sherwin "Win" T. Gatchalian** (asr-004759)  
 And,
 
-**[03:54:51.600] Senator Sherwin "Win" T. Gatchalian** (asr-004760)  
+**[03:54:51.600] Senate President Sherwin "Win" T. Gatchalian** (asr-004760)  
 some of the items that were not tackled.
 
-**[03:54:54.500] Senator Sherwin "Win" T. Gatchalian** (asr-004761)  
+**[03:54:54.500] Senate President Sherwin "Win" T. Gatchalian** (asr-004761)  
 I'll start off with textbooks,
 
-**[03:54:56.260] Senator Sherwin "Win" T. Gatchalian** (asr-004762)  
+**[03:54:56.260] Senate President Sherwin "Win" T. Gatchalian** (asr-004762)  
 Secretary,
 
-**[03:54:57.160] Senator Sherwin "Win" T. Gatchalian** (asr-004763)  
+**[03:54:57.160] Senate President Sherwin "Win" T. Gatchalian** (asr-004763)  
 dahil last year when we allocated
 
-**[03:54:59.820] Senator Sherwin "Win" T. Gatchalian** (asr-004764)  
+**[03:54:59.820] Senate President Sherwin "Win" T. Gatchalian** (asr-004764)  
 the 19 billion,
 
-**[03:55:01.160] Senator Sherwin "Win" T. Gatchalian** (asr-004765)  
+**[03:55:01.160] Senate President Sherwin "Win" T. Gatchalian** (asr-004765)  
 the goal is to give one is to one.
 
-**[03:55:03.780] Senator Sherwin "Win" T. Gatchalian** (asr-004766)  
+**[03:55:03.780] Senate President Sherwin "Win" T. Gatchalian** (asr-004766)  
 And narinig ko kanina sa statement ninyo
 
-**[03:55:05.800] Senator Sherwin "Win" T. Gatchalian** (asr-004767)  
+**[03:55:05.800] Senate President Sherwin "Win" T. Gatchalian** (asr-004767)  
 na
 
-**[03:55:06.720] Senator Sherwin "Win" T. Gatchalian** (asr-004768)  
+**[03:55:06.720] Senate President Sherwin "Win" T. Gatchalian** (asr-004768)  
 they'll have their own textbooks,
 
-**[03:55:12.040] Senator Sherwin "Win" T. Gatchalian** (asr-004769)  
+**[03:55:12.040] Senate President Sherwin "Win" T. Gatchalian** (asr-004769)  
 they can bring home their own textbooks,
 
-**[03:55:13.540] Senator Sherwin "Win" T. Gatchalian** (asr-004770)  
+**[03:55:13.540] Senate President Sherwin "Win" T. Gatchalian** (asr-004770)  
 just like in private schools.
 
-**[03:55:15.240] Senator Sherwin "Win" T. Gatchalian** (asr-004771)  
+**[03:55:15.240] Senate President Sherwin "Win" T. Gatchalian** (asr-004771)  
 So that's why we allocated
 
-**[03:55:17.200] Senator Sherwin "Win" T. Gatchalian** (asr-004772)  
+**[03:55:17.200] Senate President Sherwin "Win" T. Gatchalian** (asr-004772)  
 the 19 billion last year.
 
-**[03:55:19.000] Senator Sherwin "Win" T. Gatchalian** (asr-004773)  
+**[03:55:19.000] Senate President Sherwin "Win" T. Gatchalian** (asr-004773)  
 I think that was the
 
-**[03:55:20.520] Senator Sherwin "Win" T. Gatchalian** (asr-004774)  
+**[03:55:20.520] Senate President Sherwin "Win" T. Gatchalian** (asr-004774)  
 the...
 
-**[03:55:21.600] Senator Sherwin "Win" T. Gatchalian** (asr-004775)  
+**[03:55:21.600] Senate President Sherwin "Win" T. Gatchalian** (asr-004775)  
 the number that was given to us.
 
-**[03:55:23.360] Senator Sherwin "Win" T. Gatchalian** (asr-004776)  
+**[03:55:23.360] Senate President Sherwin "Win" T. Gatchalian** (asr-004776)  
 So I just want to get
 
-**[03:55:24.480] Senator Sherwin "Win" T. Gatchalian** (asr-004777)  
+**[03:55:24.480] Senate President Sherwin "Win" T. Gatchalian** (asr-004777)  
 number one,
 
-**[03:55:26.440] Senator Sherwin "Win" T. Gatchalian** (asr-004778)  
+**[03:55:26.440] Senate President Sherwin "Win" T. Gatchalian** (asr-004778)  
 an update on
 
-**[03:55:27.420] Senator Sherwin "Win" T. Gatchalian** (asr-004779)  
+**[03:55:27.420] Senate President Sherwin "Win" T. Gatchalian** (asr-004779)  
 that amount that we have given
 
-**[03:55:29.620] Senator Sherwin "Win" T. Gatchalian** (asr-004780)  
+**[03:55:29.620] Senate President Sherwin "Win" T. Gatchalian** (asr-004780)  
 the department.
 
-**[03:55:31.500] Senator Sherwin "Win" T. Gatchalian** (asr-004781)  
+**[03:55:31.500] Senate President Sherwin "Win" T. Gatchalian** (asr-004781)  
 And then number two,
 
-**[03:55:33.320] Senator Sherwin "Win" T. Gatchalian** (asr-004782)  
+**[03:55:33.320] Senate President Sherwin "Win" T. Gatchalian** (asr-004782)  
 kung
 
-**[03:55:33.660] Senator Sherwin "Win" T. Gatchalian** (asr-004783)  
+**[03:55:33.660] Senate President Sherwin "Win" T. Gatchalian** (asr-004783)  
 in goal ba natin
 
-**[03:55:36.020] Senator Sherwin "Win" T. Gatchalian** (asr-004784)  
+**[03:55:36.020] Senate President Sherwin "Win" T. Gatchalian** (asr-004784)  
 na one is to one,
 
-**[03:55:36.860] Senator Sherwin "Win" T. Gatchalian** (asr-004785)  
+**[03:55:36.860] Senate President Sherwin "Win" T. Gatchalian** (asr-004785)  
 nagawa ba natin
 
-**[03:55:37.900] Senator Sherwin "Win" T. Gatchalian** (asr-004786)  
+**[03:55:37.900] Senate President Sherwin "Win" T. Gatchalian** (asr-004786)  
 to date?
 
-**[03:55:40.820] Senator Sherwin "Win" T. Gatchalian** (asr-004787)  
+**[03:55:40.820] Senate President Sherwin "Win" T. Gatchalian** (asr-004787)  
 And number three,
 
-**[03:55:42.860] Senator Sherwin "Win" T. Gatchalian** (asr-004788)  
+**[03:55:42.860] Senate President Sherwin "Win" T. Gatchalian** (asr-004788)  
 what are the
 
-**[03:55:43.880] Senator Sherwin "Win" T. Gatchalian** (asr-004789)  
+**[03:55:43.880] Senate President Sherwin "Win" T. Gatchalian** (asr-004789)  
 what are the issues
 
-**[03:55:47.860] Senator Sherwin "Win" T. Gatchalian** (asr-004790)  
+**[03:55:47.860] Senate President Sherwin "Win" T. Gatchalian** (asr-004790)  
 surrounding textbooks?
 
-**[03:55:49.260] Senator Sherwin "Win" T. Gatchalian** (asr-004791)  
+**[03:55:49.260] Senate President Sherwin "Win" T. Gatchalian** (asr-004791)  
 I know that you have reformed
 
-**[03:55:50.520] Senator Sherwin "Win" T. Gatchalian** (asr-004796)  
+**[03:55:50.520] Senate President Sherwin "Win" T. Gatchalian** (asr-004796)  
 the procurement of textbooks.
 
-**[03:55:53.540] Senator Sherwin "Win" T. Gatchalian** (asr-004797)  
+**[03:55:53.540] Senate President Sherwin "Win" T. Gatchalian** (asr-004797)  
 Matagal natin pinag-usapan
 
-**[03:55:55.060] Senator Sherwin "Win" T. Gatchalian** (asr-004798)  
+**[03:55:55.060] Senate President Sherwin "Win" T. Gatchalian** (asr-004798)  
 ito sa EDCOM.
 
-**[03:55:57.160] Senator Sherwin "Win" T. Gatchalian** (asr-004799)  
+**[03:55:57.160] Senate President Sherwin "Win" T. Gatchalian** (asr-004799)  
 And I know that you have
 
-**[03:55:58.460] Senator Sherwin "Win" T. Gatchalian** (asr-004800)  
+**[03:55:58.460] Senate President Sherwin "Win" T. Gatchalian** (asr-004800)  
 radically reformed
 
-**[03:56:00.400] Senator Sherwin "Win" T. Gatchalian** (asr-004801)  
+**[03:56:00.400] Senate President Sherwin "Win" T. Gatchalian** (asr-004801)  
 the way we procure textbooks
 
-**[03:56:01.820] Senator Sherwin "Win" T. Gatchalian** (asr-004802)  
+**[03:56:01.820] Senate President Sherwin "Win" T. Gatchalian** (asr-004802)  
 so that we can streamline
 
-**[03:56:03.580] Senator Sherwin "Win" T. Gatchalian** (asr-004803)  
+**[03:56:03.580] Senate President Sherwin "Win" T. Gatchalian** (asr-004803)  
 the procurement of textbooks.
 
-**[03:56:05.940] Senator Sherwin "Win" T. Gatchalian** (asr-004804)  
+**[03:56:05.940] Senate President Sherwin "Win" T. Gatchalian** (asr-004804)  
 So after that streamlining,
 
-**[03:56:07.680] Senator Sherwin "Win" T. Gatchalian** (asr-004805)  
+**[03:56:07.680] Senate President Sherwin "Win" T. Gatchalian** (asr-004805)  
 gusto namin malaman
 
-**[03:56:08.580] Senator Sherwin "Win" T. Gatchalian** (asr-004806)  
+**[03:56:08.580] Senate President Sherwin "Win" T. Gatchalian** (asr-004806)  
 kung na-achieve ba natin
 
-**[03:56:10.180] Senator Sherwin "Win" T. Gatchalian** (asr-004807)  
+**[03:56:10.180] Senate President Sherwin "Win" T. Gatchalian** (asr-004807)  
 in one is to one textbook
 
-**[03:56:11.880] Senator Sherwin "Win" T. Gatchalian** (asr-004808)  
+**[03:56:11.880] Senate President Sherwin "Win" T. Gatchalian** (asr-004808)  
 using this amount.
 
-**[03:56:13.420] Senator Sherwin "Win" T. Gatchalian** (asr-004809)  
+**[03:56:13.420] Senate President Sherwin "Win" T. Gatchalian** (asr-004809)  
 And I noted also that next year,
 
-**[03:56:15.160] Senator Sherwin "Win" T. Gatchalian** (asr-004810)  
+**[03:56:15.160] Senate President Sherwin "Win" T. Gatchalian** (asr-004810)  
 nabawasan siya.
 
-**[03:56:16.640] Senator Sherwin "Win" T. Gatchalian** (asr-004811)  
+**[03:56:16.640] Senate President Sherwin "Win" T. Gatchalian** (asr-004811)  
 Baka naman magre-regress tayo
 
-**[03:56:18.320] Senator Sherwin "Win" T. Gatchalian** (asr-004812)  
+**[03:56:18.320] Senate President Sherwin "Win" T. Gatchalian** (asr-004812)  
 from that
 
-**[03:56:19.880] Senator Sherwin "Win" T. Gatchalian** (asr-004813)  
+**[03:56:19.880] Senate President Sherwin "Win" T. Gatchalian** (asr-004813)  
 amount.
 
-**[03:56:20.500] Senator Sherwin "Win" T. Gatchalian** (asr-004815)  
+**[03:56:20.500] Senate President Sherwin "Win" T. Gatchalian** (asr-004815)  
 Aspiration of one is to one.
 
 **[03:56:22.980] DepEd Secretary Sonny Angara** (asr-004816)  
@@ -14482,13 +14482,13 @@ Tama po ba? We chose
 **[03:59:52.040] Senator Paolo Benigno "Bam" Aquino IV** (asr-004919)  
 the available in the market and we bought
 
-**[03:59:54.220] Senator Sherwin "Win" T. Gatchalian** (asr-004920)  
+**[03:59:54.220] Senate President Sherwin "Win" T. Gatchalian** (asr-004920)  
 that?
 
 **[03:59:54.600] DepEd Undersecretary Carmela C. Oracion** (asr-004920-split-2)  
 Yes po.
 
-**[03:59:55.480] Senator Sherwin "Win" T. Gatchalian** (asr-004920-split-3)  
+**[03:59:55.480] Senate President Sherwin "Win" T. Gatchalian** (asr-004920-split-3)  
 Okay.
 
 **[03:59:55.940] DepEd Secretary Sonny Angara** (asr-004921)  
@@ -14560,13 +14560,13 @@ The universe is open, basically, to whoever.
 **[04:00:58.300] DepEd Secretary Sonny Angara** (asr-004943)  
 However, books are of a sufficient quality, Your Honor.
 
-**[04:01:02.880] Senator Sherwin "Win" T. Gatchalian** (asr-004944)  
+**[04:01:02.880] Senate President Sherwin "Win" T. Gatchalian** (asr-004944)  
 Dati kasi manuscript, if I'm not mistaken, pinapabid ba yun?
 
-**[04:01:09.200] Senator Sherwin "Win" T. Gatchalian** (asr-004945)  
+**[04:01:09.200] Senate President Sherwin "Win" T. Gatchalian** (asr-004945)  
 Yung procurement, pinapabid ba yun?
 
-**[04:01:11.340] Senator Sherwin "Win" T. Gatchalian** (asr-004946)  
+**[04:01:11.340] Senate President Sherwin "Win" T. Gatchalian** (asr-004946)  
 Three different, so three years ho ang whole process.
 
 **[04:01:15.720] DepEd Secretary Sonny Angara** (asr-004947)  
@@ -14578,13 +14578,13 @@ She did early procurement for many of these.
 **[04:01:24.820] DepEd Secretary Sonny Angara** (asr-004949)  
 That's why nakompleto na ho namin yung 100.
 
-**[04:01:28.300] Senator Sherwin "Win" T. Gatchalian** (asr-004950)  
+**[04:01:28.300] Senate President Sherwin "Win" T. Gatchalian** (asr-004950)  
 So from start to end, normally, three years yan.
 
-**[04:01:31.120] Senator Sherwin "Win" T. Gatchalian** (asr-004951)  
+**[04:01:31.120] Senate President Sherwin "Win" T. Gatchalian** (asr-004951)  
 So ngayon, you just accredit the books, and then dep-ed buys from those accredited books.
 
-**[04:01:36.500] Senator Sherwin "Win" T. Gatchalian** (asr-004952)  
+**[04:01:36.500] Senate President Sherwin "Win" T. Gatchalian** (asr-004952)  
 Ang LGU, pwede rin bumili sila doon eh.
 
 **[04:01:38.380] DepEd Secretary Sonny Angara** (asr-004953)  
@@ -14599,70 +14599,70 @@ They have a menu.
 **[04:01:41.140] DepEd Secretary Sonny Angara** (asr-004956)  
 Parang menu na lang ho siya, Mr. President.
 
-**[04:01:42.600] Senator Sherwin "Win" T. Gatchalian** (asr-004957)  
+**[04:01:42.600] Senate President Sherwin "Win" T. Gatchalian** (asr-004957)  
 The regions can also buy using their own funds, no?
 
-**[04:01:44.900] Senator Sherwin "Win" T. Gatchalian** (asr-004958)  
+**[04:01:44.900] Senate President Sherwin "Win" T. Gatchalian** (asr-004958)  
 So to augment the dep-ed central deliveries, no?
 
-**[04:01:49.920] Senator Sherwin "Win" T. Gatchalian** (asr-004959)  
+**[04:01:49.920] Senate President Sherwin "Win" T. Gatchalian** (asr-004959)  
 I know some LGUs, they buy to augment rin eh.
 
-**[04:01:52.880] Senator Sherwin "Win" T. Gatchalian** (asr-004960)  
+**[04:01:52.880] Senate President Sherwin "Win" T. Gatchalian** (asr-004960)  
 Kung hindi kulang, or hindi siya on time.
 
-**[04:01:58.300] Senator Sherwin "Win" T. Gatchalian** (asr-004961)  
+**[04:01:58.300] Senate President Sherwin "Win" T. Gatchalian** (asr-004961)  
 LGU bumibili rin using their SEF.
 
 **[04:02:00.400] DepEd Secretary Sonny Angara** (asr-004962)  
 That's correct, Mr. President.
 
-**[04:02:01.160] Senator Sherwin "Win" T. Gatchalian** (asr-004963)  
+**[04:02:01.160] Senate President Sherwin "Win" T. Gatchalian** (asr-004963)  
 So right now, narinig ko kay Yusec, Mel, on the average, we're at around 70%.
 
-**[04:02:09.500] Senator Sherwin "Win" T. Gatchalian** (asr-004964)  
+**[04:02:09.500] Senate President Sherwin "Win" T. Gatchalian** (asr-004964)  
 Tama po ba, Yusec?
 
 **[04:02:12.760] DepEd Undersecretary Carmela C. Oracion** (asr-004965)  
 Yes, po.
 
-**[04:02:13.700] Senator Sherwin "Win" T. Gatchalian** (asr-004966)  
+**[04:02:13.700] Senate President Sherwin "Win" T. Gatchalian** (asr-004966)  
 And this is using the 2026 funds or the funds prior?
 
 **[04:02:19.920] DepEd Undersecretary Carmela C. Oracion** (asr-004967)  
 The funds.
 
-**[04:02:21.200] Senator Sherwin "Win" T. Gatchalian** (asr-004967-split-2)  
+**[04:02:21.200] Senate President Sherwin "Win" T. Gatchalian** (asr-004967-split-2)  
 Or both?
 
 **[04:02:22.300] DepEd Undersecretary Carmela C. Oracion** (asr-004967-split-3)  
 Both po.
 
-**[04:02:23.120] Senator Sherwin "Win" T. Gatchalian** (asr-004968)  
+**[04:02:23.120] Senate President Sherwin "Win" T. Gatchalian** (asr-004968)  
 Okay. Alright.
 
-**[04:02:24.240] Senator Sherwin "Win" T. Gatchalian** (asr-004969)  
+**[04:02:24.240] Senate President Sherwin "Win" T. Gatchalian** (asr-004969)  
 Because ang next question ko is,
 
-**[04:02:28.300] Senator Sherwin "Win" T. Gatchalian** (asr-004970)  
+**[04:02:28.300] Senate President Sherwin "Win" T. Gatchalian** (asr-004970)  
 I saw in the budget that for 2027,
 
-**[04:02:34.320] Senator Sherwin "Win" T. Gatchalian** (asr-004971)  
+**[04:02:34.320] Senate President Sherwin "Win" T. Gatchalian** (asr-004971)  
 the textbook funds went down to 6.4 billion pesos.
 
-**[04:02:40.540] Senator Sherwin "Win" T. Gatchalian** (asr-004972)  
+**[04:02:40.540] Senate President Sherwin "Win" T. Gatchalian** (asr-004972)  
 So how will this affect our aspiration?
 
-**[04:02:43.500] Senator Sherwin "Win" T. Gatchalian** (asr-004973)  
+**[04:02:43.500] Senate President Sherwin "Win" T. Gatchalian** (asr-004973)  
 Because malapit na tayo eh.
 
-**[04:02:45.920] Senator Sherwin "Win" T. Gatchalian** (asr-004974)  
+**[04:02:45.920] Senate President Sherwin "Win" T. Gatchalian** (asr-004974)  
 We're at 70% on the average.
 
-**[04:02:48.840] Senator Sherwin "Win" T. Gatchalian** (asr-004975)  
+**[04:02:48.840] Senate President Sherwin "Win" T. Gatchalian** (asr-004975)  
 And konti na lang, we'll reach the 100% mark.
 
-**[04:02:52.260] Senator Sherwin "Win" T. Gatchalian** (asr-004976)  
+**[04:02:52.260] Senate President Sherwin "Win" T. Gatchalian** (asr-004976)  
 Sige po.
 
 **[04:02:54.600] DepEd Undersecretary Carmela C. Oracion** (asr-004977)  
@@ -14692,10 +14692,10 @@ And then we'll also use some of that for certain tech pro courses
 **[04:03:26.560] DepEd Undersecretary Carmela C. Oracion** (asr-004985)  
 for the senior high school.
 
-**[04:03:28.300] Senator Sherwin "Win" T. Gatchalian** (asr-004986)  
+**[04:03:28.300] Senate President Sherwin "Win" T. Gatchalian** (asr-004986)  
 But we're still, these textbooks are still the ones students will have to leave in the school, di ba?
 
-**[04:03:34.520] Senator Sherwin "Win" T. Gatchalian** (asr-004987)  
+**[04:03:34.520] Senate President Sherwin "Win" T. Gatchalian** (asr-004987)  
 Hindi pa ito yung inuwi nila sa kanila pa.
 
 **[04:03:36.920] DepEd Undersecretary Carmela C. Oracion** (asr-004988)  
@@ -14722,73 +14722,73 @@ we are hoping to produce workbooks for all the grade levels,
 **[04:04:06.800] DepEd Undersecretary Carmela C. Oracion** (asr-004997)  
 already grades 1 to 10.
 
-**[04:04:08.580] Senator Sherwin "Win" T. Gatchalian** (asr-004998)  
+**[04:04:08.580] Senate President Sherwin "Win" T. Gatchalian** (asr-004998)  
 And the workbooks, they take home?
 
 **[04:04:10.200] DepEd Undersecretary Carmela C. Oracion** (asr-004999)  
 They take home and they can write on it.
 
-**[04:04:13.300] Senator Sherwin "Win" T. Gatchalian** (asr-005000)  
+**[04:04:13.300] Senate President Sherwin "Win" T. Gatchalian** (asr-005000)  
 But that will now stop in 2027.
 
-**[04:04:17.440] Senator Sherwin "Win" T. Gatchalian** (asr-005001)  
+**[04:04:17.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005001)  
 Because it's not funded anymore.
 
 **[04:04:20.120] DepEd Undersecretary Carmela C. Oracion** (asr-005002)  
 Yes po.
 
-**[04:04:21.000] Senator Sherwin "Win" T. Gatchalian** (asr-005003)  
+**[04:04:21.000] Senate President Sherwin "Win" T. Gatchalian** (asr-005003)  
 Di ba? Kasi that's only funded for 2026.
 
 **[04:04:23.320] DepEd Undersecretary Carmela C. Oracion** (asr-005004)  
 Yes po.
 
-**[04:04:23.620] Senator Sherwin "Win" T. Gatchalian** (asr-005005)  
+**[04:04:23.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005005)  
 And workbooks kasi, parang consumable siya eh.
 
-**[04:04:26.860] Senator Sherwin "Win" T. Gatchalian** (asr-005006)  
+**[04:04:26.860] Senate President Sherwin "Win" T. Gatchalian** (asr-005006)  
 They cannot...
 
-**[04:04:28.180] Senator Sherwin "Win" T. Gatchalian** (asr-005007)  
+**[04:04:28.180] Senate President Sherwin "Win" T. Gatchalian** (asr-005007)  
 Return it to...
 
-**[04:04:29.840] Senator Sherwin "Win" T. Gatchalian** (asr-005008)  
+**[04:04:29.840] Senate President Sherwin "Win" T. Gatchalian** (asr-005008)  
 The textbooks, they return it to school.
 
 **[04:04:31.700] DepEd Undersecretary Carmela C. Oracion** (asr-005009)  
 Yes po.
 
-**[04:04:32.440] Senator Sherwin "Win" T. Gatchalian** (asr-005010)  
+**[04:04:32.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005010)  
 Itong workbooks, hindi na nila.
 
-**[04:04:34.180] Senator Sherwin "Win" T. Gatchalian** (asr-005011)  
+**[04:04:34.180] Senate President Sherwin "Win" T. Gatchalian** (asr-005011)  
 Sayang naman.
 
-**[04:04:37.100] Senator Sherwin "Win" T. Gatchalian** (asr-005012)  
+**[04:04:37.100] Senate President Sherwin "Win" T. Gatchalian** (asr-005012)  
 Just give us an idea on how much the workbooks will cost.
 
-**[04:04:41.700] Senator Sherwin "Win" T. Gatchalian** (asr-005013)  
+**[04:04:41.700] Senate President Sherwin "Win" T. Gatchalian** (asr-005013)  
 Sa Valenzuela, we printed our own workbooks actually.
 
 **[04:04:44.180] DepEd Undersecretary Carmela C. Oracion** (asr-005014)  
 Yes po.
 
-**[04:04:44.780] Senator Sherwin "Win" T. Gatchalian** (asr-005015)  
+**[04:04:44.780] Senate President Sherwin "Win" T. Gatchalian** (asr-005015)  
 So, but hopefully, that can also be done nationwide.
 
-**[04:04:50.160] Senator Sherwin "Win" T. Gatchalian** (asr-005016)  
+**[04:04:50.160] Senate President Sherwin "Win" T. Gatchalian** (asr-005016)  
 Kung hindi man nila sa kanila yung textbooks,
 
-**[04:04:57.340] Senator Sherwin "Win" T. Gatchalian** (asr-005017)  
+**[04:04:57.340] Senate President Sherwin "Win" T. Gatchalian** (asr-005017)  
 at least yung workbooks,
 
-**[04:04:58.180] Senator Sherwin "Win" T. Gatchalian** (asr-005018)  
+**[04:04:58.180] Senate President Sherwin "Win" T. Gatchalian** (asr-005018)  
 sa kanila yun.
 
-**[04:04:59.620] Senator Sherwin "Win" T. Gatchalian** (asr-005019)  
+**[04:04:59.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005019)  
 I think some LGUs do dati.
 
-**[04:05:02.080] Senator Sherwin "Win" T. Gatchalian** (asr-005020)  
+**[04:05:02.080] Senate President Sherwin "Win" T. Gatchalian** (asr-005020)  
 So, pasubmit nilang sa amin, Yusek Mel.
 
 **[04:05:06.500] DepEd Undersecretary Carmela C. Oracion** (asr-005021)  
@@ -14803,88 +14803,88 @@ Our current estimate is 5.5B,
 **[04:05:12.180] DepEd Undersecretary Carmela C. Oracion** (asr-005024)  
 but we will compute carefully and let you know po.
 
-**[04:05:17.980] Senator Sherwin "Win" T. Gatchalian** (asr-005025)  
+**[04:05:17.980] Senate President Sherwin "Win" T. Gatchalian** (asr-005025)  
 Next is, my next question is on Aral.
 
-**[04:05:21.680] Senator Sherwin "Win" T. Gatchalian** (asr-005026)  
+**[04:05:21.680] Senate President Sherwin "Win" T. Gatchalian** (asr-005026)  
 And I showed earlier a slide that's one of the inspirations
 
-**[04:05:28.180] Senator Sherwin "Win" T. Gatchalian** (asr-005027)  
+**[04:05:28.180] Senate President Sherwin "Win" T. Gatchalian** (asr-005027)  
 this year, 2026, because of the good outcome from our students.
 
-**[04:05:35.600] Senator Sherwin "Win" T. Gatchalian** (asr-005028)  
+**[04:05:35.600] Senate President Sherwin "Win" T. Gatchalian** (asr-005028)  
 In fact, my numbers were low.
 
-**[04:05:37.060] Senator Sherwin "Win" T. Gatchalian** (asr-005029)  
+**[04:05:37.060] Senate President Sherwin "Win" T. Gatchalian** (asr-005029)  
 1.3 million pulled out of the struggling portion.
 
-**[04:05:45.360] Senator Sherwin "Win" T. Gatchalian** (asr-005030)  
+**[04:05:45.360] Senate President Sherwin "Win" T. Gatchalian** (asr-005030)  
 But kanina nakita ko sa DepEd, it's more than that.
 
-**[04:05:48.060] Senator Sherwin "Win" T. Gatchalian** (asr-005031)  
+**[04:05:48.060] Senate President Sherwin "Win" T. Gatchalian** (asr-005031)  
 It's about 3 million plus.
 
-**[04:05:49.560] Senator Sherwin "Win" T. Gatchalian** (asr-005032)  
+**[04:05:49.560] Senate President Sherwin "Win" T. Gatchalian** (asr-005032)  
 So, it's delivering what it intends to deliver,
 
-**[04:05:54.680] Senator Sherwin "Win" T. Gatchalian** (asr-005033)  
+**[04:05:54.680] Senate President Sherwin "Win" T. Gatchalian** (asr-005033)  
 which is to teach our children how to read,
 
-**[04:05:58.180] Senator Sherwin "Win" T. Gatchalian** (asr-005034)  
+**[04:05:58.180] Senate President Sherwin "Win" T. Gatchalian** (asr-005034)  
 and how to count.
 
-**[04:06:00.100] Senator Sherwin "Win" T. Gatchalian** (asr-005035)  
+**[04:06:00.100] Senate President Sherwin "Win" T. Gatchalian** (asr-005035)  
 But this year, na-zero yung budget ng aral,
 
-**[04:06:04.700] Senator Sherwin "Win" T. Gatchalian** (asr-005036)  
+**[04:06:04.700] Senate President Sherwin "Win" T. Gatchalian** (asr-005036)  
 which is shocking.
 
-**[04:06:06.360] Senator Sherwin "Win" T. Gatchalian** (asr-005037)  
+**[04:06:06.360] Senate President Sherwin "Win" T. Gatchalian** (asr-005037)  
 Dahil kung ano pa yung,
 
-**[04:06:08.320] Senator Sherwin "Win" T. Gatchalian** (asr-005038)  
+**[04:06:08.320] Senate President Sherwin "Win" T. Gatchalian** (asr-005038)  
 sabi ko nga kay Chairman Bam,
 
-**[04:06:11.040] Senator Sherwin "Win" T. Gatchalian** (asr-005039)  
+**[04:06:11.040] Senate President Sherwin "Win" T. Gatchalian** (asr-005039)  
 kung ano pa yung gumagana, yung pa yung nawala.
 
-**[04:06:14.220] Senator Sherwin "Win" T. Gatchalian** (asr-005040)  
+**[04:06:14.220] Senate President Sherwin "Win" T. Gatchalian** (asr-005040)  
 So, I want to understand
 
-**[04:06:22.680] Senator Sherwin "Win" T. Gatchalian** (asr-005041)  
+**[04:06:22.680] Senate President Sherwin "Win" T. Gatchalian** (asr-005041)  
 kung magkano pa ang kailangan natin
 
-**[04:06:27.480] Senator Sherwin "Win" T. Gatchalian** (asr-005042)  
+**[04:06:27.480] Senate President Sherwin "Win" T. Gatchalian** (asr-005042)  
 for aral.
 
-**[04:06:28.320] Senator Sherwin "Win" T. Gatchalian** (asr-005043)  
+**[04:06:28.320] Senate President Sherwin "Win" T. Gatchalian** (asr-005043)  
 Last year, we, or this year,
 
-**[04:06:30.380] Senator Sherwin "Win" T. Gatchalian** (asr-005044)  
+**[04:06:30.380] Senate President Sherwin "Win" T. Gatchalian** (asr-005044)  
 we allocated 8.9 billion pesos for aral.
 
-**[04:06:35.300] Senator Sherwin "Win" T. Gatchalian** (asr-005045)  
+**[04:06:35.300] Senate President Sherwin "Win" T. Gatchalian** (asr-005045)  
 And I think this is something that we should continue,
 
-**[04:06:38.600] Senator Sherwin "Win" T. Gatchalian** (asr-005046)  
+**[04:06:38.600] Senate President Sherwin "Win" T. Gatchalian** (asr-005046)  
 considering that we're still not out of the woods
 
-**[04:06:41.140] Senator Sherwin "Win" T. Gatchalian** (asr-005047)  
+**[04:06:41.140] Senate President Sherwin "Win" T. Gatchalian** (asr-005047)  
 in terms of struggling readers.
 
-**[04:06:44.320] Senator Sherwin "Win" T. Gatchalian** (asr-005048)  
+**[04:06:44.320] Senate President Sherwin "Win" T. Gatchalian** (asr-005048)  
 On the average, we still have 30% struggling readers
 
-**[04:06:48.420] Senator Sherwin "Win" T. Gatchalian** (asr-005049)  
+**[04:06:48.420] Senate President Sherwin "Win" T. Gatchalian** (asr-005049)  
 across the different grades.
 
-**[04:06:51.140] Senator Sherwin "Win" T. Gatchalian** (asr-005050)  
+**[04:06:51.140] Senate President Sherwin "Win" T. Gatchalian** (asr-005050)  
 So, ang gusto kong malaman is how much do we need?
 
-**[04:06:55.200] Senator Sherwin "Win" T. Gatchalian** (asr-005051)  
+**[04:06:55.200] Senate President Sherwin "Win" T. Gatchalian** (asr-005051)  
 In bare numbers.
 
-**[04:06:57.480] Senator Sherwin "Win" T. Gatchalian** (asr-005052)  
+**[04:06:57.480] Senate President Sherwin "Win" T. Gatchalian** (asr-005052)  
 To continue the aral program.
 
 **[04:07:03.000] DepEd Secretary Sonny Angara** (asr-005053)  
@@ -14896,19 +14896,19 @@ But we'll be happy if you give us the same amount this year,
 **[04:07:09.780] DepEd Secretary Sonny Angara** (asr-005055)  
 or any other additional amount would be welcome, of course, Mr. Chair.
 
-**[04:07:14.360] Senator Sherwin "Win" T. Gatchalian** (asr-005056)  
+**[04:07:14.360] Senate President Sherwin "Win" T. Gatchalian** (asr-005056)  
 Ano ang bare minimum, Secretary?
 
-**[04:07:19.520] Senator Sherwin "Win" T. Gatchalian** (asr-005057)  
+**[04:07:19.520] Senate President Sherwin "Win" T. Gatchalian** (asr-005057)  
 Do you have a number to...
 
-**[04:07:23.180] Senator Sherwin "Win" T. Gatchalian** (asr-005058)  
+**[04:07:23.180] Senate President Sherwin "Win" T. Gatchalian** (asr-005058)  
 I think ito, kay Chairman Bam,
 
-**[04:07:25.960] Senator Sherwin "Win" T. Gatchalian** (asr-005059)  
+**[04:07:25.960] Senate President Sherwin "Win" T. Gatchalian** (asr-005059)  
 ito yung isa sa mga proposal.
 
-**[04:07:27.480] Senator Sherwin "Win" T. Gatchalian** (asr-005060)  
+**[04:07:27.480] Senate President Sherwin "Win" T. Gatchalian** (asr-005060)  
 Ito yung isa sa mga proposal ko, no?
 
 **[04:07:28.400] Senator Joel Villanueva** (asr-005061)  
@@ -15109,16 +15109,16 @@ And the total for the Aral program.
 **[04:10:24.360] Senator Paolo Benigno "Bam" Aquino IV** (asr-005131)  
 Thank you.
 
-**[04:10:35.580] Senator Sherwin "Win" T. Gatchalian** (asr-005133)  
+**[04:10:35.580] Senate President Sherwin "Win" T. Gatchalian** (asr-005133)  
 Can I ask, Deped?
 
-**[04:10:37.240] Senator Sherwin "Win" T. Gatchalian** (asr-005134)  
+**[04:10:37.240] Senate President Sherwin "Win" T. Gatchalian** (asr-005134)  
 Alam ko nakalamp siya dun sa textbooks amount,
 
-**[04:10:42.020] Senator Sherwin "Win" T. Gatchalian** (asr-005135)  
+**[04:10:42.020] Senate President Sherwin "Win" T. Gatchalian** (asr-005135)  
 but out of that amount,
 
-**[04:10:44.020] Senator Sherwin "Win" T. Gatchalian** (asr-005136)  
+**[04:10:44.020] Senate President Sherwin "Win" T. Gatchalian** (asr-005136)  
 how much is allocated to Aral?
 
 **[04:10:47.620] DepEd Secretary Sonny Angara** (asr-005137)  
@@ -15361,31 +15361,31 @@ Correct, no?
 **[04:13:31.300] Senator Paolo Benigno "Bam" Aquino IV** (asr-005216)  
 Yeah, so zero nga.
 
-**[04:13:33.140] Senator Sherwin "Win" T. Gatchalian** (asr-005217)  
+**[04:13:33.140] Senate President Sherwin "Win" T. Gatchalian** (asr-005217)  
 Because it's...
 
-**[04:13:34.220] Senator Sherwin "Win" T. Gatchalian** (asr-005218)  
+**[04:13:34.220] Senate President Sherwin "Win" T. Gatchalian** (asr-005218)  
 The way I understand it,
 
-**[04:13:35.360] Senator Sherwin "Win" T. Gatchalian** (asr-005219)  
+**[04:13:35.360] Senate President Sherwin "Win" T. Gatchalian** (asr-005219)  
 nakalodge...
 
-**[04:13:36.340] Senator Sherwin "Win" T. Gatchalian** (asr-005220)  
+**[04:13:36.340] Senate President Sherwin "Win" T. Gatchalian** (asr-005220)  
 Supposedly, nakalodge siya sa textbooks
 
-**[04:13:38.800] Senator Sherwin "Win" T. Gatchalian** (asr-005221)  
+**[04:13:38.800] Senate President Sherwin "Win" T. Gatchalian** (asr-005221)  
 and other instructional materials
 
-**[04:13:40.960] Senator Sherwin "Win" T. Gatchalian** (asr-005222)  
+**[04:13:40.960] Senate President Sherwin "Win" T. Gatchalian** (asr-005222)  
 na 6.4 billion peso.
 
 **[04:13:43.740] DepEd Secretary Sonny Angara** (asr-005223)  
 That's what happened in 2026, Your Honor.
 
-**[04:13:45.500] Senator Sherwin "Win" T. Gatchalian** (asr-005224)  
+**[04:13:45.500] Senate President Sherwin "Win" T. Gatchalian** (asr-005224)  
 Yes.
 
-**[04:13:46.580] Senator Sherwin "Win" T. Gatchalian** (asr-005225)  
+**[04:13:46.580] Senate President Sherwin "Win" T. Gatchalian** (asr-005225)  
 Kasi, imbis na nagmumata yung line item,
 
 **[04:13:48.500] DepEd Secretary Sonny Angara** (asr-005226)  
@@ -15394,31 +15394,31 @@ your insertion was broken down
 **[04:13:52.700] DepEd Secretary Sonny Angara** (asr-005227)  
 in different budgetary PAPs or items, Your Honor.
 
-**[04:13:55.760] Senator Sherwin "Win" T. Gatchalian** (asr-005228)  
+**[04:13:55.760] Senate President Sherwin "Win" T. Gatchalian** (asr-005228)  
 Yes, yes.
 
-**[04:13:56.760] Senator Sherwin "Win" T. Gatchalian** (asr-005229)  
+**[04:13:56.760] Senate President Sherwin "Win" T. Gatchalian** (asr-005229)  
 Tama.
 
-**[04:13:57.120] Senator Sherwin "Win" T. Gatchalian** (asr-005230)  
+**[04:13:57.120] Senate President Sherwin "Win" T. Gatchalian** (asr-005230)  
 But for 2027, that's also 6.4 billion.
 
-**[04:14:02.620] Senator Sherwin "Win" T. Gatchalian** (asr-005231)  
+**[04:14:02.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005231)  
 Tama.
 
-**[04:14:04.440] Senator Sherwin "Win" T. Gatchalian** (asr-005232)  
+**[04:14:04.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005232)  
 Nakalodge supposedly siya ang aral under this...
 
 **[04:14:07.900] DepEd Secretary Sonny Angara** (asr-005233)  
 Wala pa po, inaantay pa namin yung insertion ng Senado, Your Honor.
 
-**[04:14:11.920] Senator Sherwin "Win" T. Gatchalian** (asr-005234)  
+**[04:14:11.920] Senate President Sherwin "Win" T. Gatchalian** (asr-005234)  
 But, in other words,
 
-**[04:14:13.200] Senator Sherwin "Win" T. Gatchalian** (asr-005235)  
+**[04:14:13.200] Senate President Sherwin "Win" T. Gatchalian** (asr-005235)  
 ginawa nyo lang ng paraan
 
-**[04:14:15.100] Senator Sherwin "Win" T. Gatchalian** (asr-005236)  
+**[04:14:15.100] Senate President Sherwin "Win" T. Gatchalian** (asr-005236)  
 para magkaroon ng...
 
 **[04:14:16.660] DepEd Secretary Sonny Angara** (asr-005237)  
@@ -15451,13 +15451,13 @@ So, but 2026, you provided the insertion,
 **[04:14:32.460] DepEd Secretary Sonny Angara** (asr-005246)  
 and 2027...
 
-**[04:14:33.760] Senator Sherwin "Win" T. Gatchalian** (asr-005247)  
+**[04:14:33.760] Senate President Sherwin "Win" T. Gatchalian** (asr-005247)  
 So, if we don't provide, ganoon rin,
 
-**[04:14:35.860] Senator Sherwin "Win" T. Gatchalian** (asr-005248)  
+**[04:14:35.860] Senate President Sherwin "Win" T. Gatchalian** (asr-005248)  
 magka-carve out kayo.
 
-**[04:14:37.560] Senator Sherwin "Win" T. Gatchalian** (asr-005249)  
+**[04:14:37.560] Senate President Sherwin "Win" T. Gatchalian** (asr-005249)  
 Well, yes.
 
 **[04:14:37.960] DepEd Secretary Sonny Angara** (asr-005250)  
@@ -15472,25 +15472,25 @@ and we're seeing it's a potential game changer.
 **[04:14:43.680] DepEd Secretary Sonny Angara** (asr-005253)  
 So, talaga, Your Honor.
 
-**[04:14:45.620] Senator Sherwin "Win" T. Gatchalian** (asr-005254)  
+**[04:14:45.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005254)  
 So, I'll propose to our chairman to finally...
 
 **[04:14:49.560] Senator Paolo Benigno "Bam" Aquino IV** (asr-005255)  
 Just to clarify it na lang.
 
-**[04:14:50.800] Senator Sherwin "Win" T. Gatchalian** (asr-005256)  
+**[04:14:50.800] Senate President Sherwin "Win" T. Gatchalian** (asr-005256)  
 To insert a line item na lang para clear
 
-**[04:14:53.000] Senator Sherwin "Win" T. Gatchalian** (asr-005257)  
+**[04:14:53.000] Senate President Sherwin "Win" T. Gatchalian** (asr-005257)  
 for our program.
 
-**[04:14:54.520] Senator Sherwin "Win" T. Gatchalian** (asr-005258)  
+**[04:14:54.520] Senate President Sherwin "Win" T. Gatchalian** (asr-005258)  
 Because I think na in-assume na lang,
 
-**[04:14:56.760] Senator Sherwin "Win" T. Gatchalian** (asr-005259)  
+**[04:14:56.760] Senate President Sherwin "Win" T. Gatchalian** (asr-005259)  
 na lang ng DBM na nandoon na siya eh.
 
-**[04:14:59.220] Senator Sherwin "Win" T. Gatchalian** (asr-005260)  
+**[04:14:59.220] Senate President Sherwin "Win" T. Gatchalian** (asr-005260)  
 No?
 
 **[04:14:59.700] Senator Paolo Benigno "Bam" Aquino IV** (asr-005261)  
@@ -15610,43 +15610,43 @@ Thank you, Mr. Chairman.
 **[04:17:22.740] DepEd Secretary Sonny Angara** (asr-005299)  
 Thank you, Mr. Chairman.
 
-**[04:17:24.760] Senator Sherwin "Win" T. Gatchalian** (asr-005300)  
+**[04:17:24.760] Senate President Sherwin "Win" T. Gatchalian** (asr-005300)  
 So yung isang...
 
-**[04:17:26.660] Senator Sherwin "Win" T. Gatchalian** (asr-005301)  
+**[04:17:26.660] Senate President Sherwin "Win" T. Gatchalian** (asr-005301)  
 I think it's better to really...
 
-**[04:17:28.660] Senator Sherwin "Win" T. Gatchalian** (asr-005302)  
+**[04:17:28.660] Senate President Sherwin "Win" T. Gatchalian** (asr-005302)  
 So the line item, no?
 
-**[04:17:31.840] Senator Sherwin "Win" T. Gatchalian** (asr-005303)  
+**[04:17:31.840] Senate President Sherwin "Win" T. Gatchalian** (asr-005303)  
 Director, dahil para hindi nagkakaroon ng confusion.
 
-**[04:17:36.340] Senator Sherwin "Win" T. Gatchalian** (asr-005304)  
+**[04:17:36.340] Senate President Sherwin "Win" T. Gatchalian** (asr-005304)  
 Kasi kung nakakumingal siya, it's actually for textbooks.
 
-**[04:17:40.160] Senator Sherwin "Win" T. Gatchalian** (asr-005305)  
+**[04:17:40.160] Senate President Sherwin "Win" T. Gatchalian** (asr-005305)  
 Noong 2025, dahil nakakumingal siya, kinarve out na lang from that textbooks account yung for-aaral.
 
-**[04:17:48.700] Senator Sherwin "Win" T. Gatchalian** (asr-005306)  
+**[04:17:48.700] Senate President Sherwin "Win" T. Gatchalian** (asr-005306)  
 Only for 2026 lang na ibay.
 
-**[04:17:51.820] Senator Sherwin "Win" T. Gatchalian** (asr-005307)  
+**[04:17:51.820] Senate President Sherwin "Win" T. Gatchalian** (asr-005307)  
 Pero and yet, hindi namin rin nagawan ng line item.
 
-**[04:17:55.640] Senator Sherwin "Win" T. Gatchalian** (asr-005308)  
+**[04:17:55.640] Senate President Sherwin "Win" T. Gatchalian** (asr-005308)  
 So kaya bumalik siya sa original...
 
-**[04:17:58.660] Senator Sherwin "Win" T. Gatchalian** (asr-005309)  
+**[04:17:58.660] Senate President Sherwin "Win" T. Gatchalian** (asr-005309)  
 Original setup.
 
 **[04:18:00.940] DBM Budget and Management Bureau-F Director Vivien V. Labastilla** (asr-005310)  
 And hindi rin po nag-propose ang DepEd for that separate line item.
 
-**[04:18:06.340] Senator Sherwin "Win" T. Gatchalian** (asr-005311)  
+**[04:18:06.340] Senate President Sherwin "Win" T. Gatchalian** (asr-005311)  
 Ah, okay.
 
-**[04:18:06.820] Senator Sherwin "Win" T. Gatchalian** (asr-005312)  
+**[04:18:06.820] Senate President Sherwin "Win" T. Gatchalian** (asr-005312)  
 Kasalanan pala ni Secretary.
 
 **[04:18:08.480] DBM Budget and Management Bureau-F Director Vivien V. Labastilla** (asr-005313)  
@@ -15658,34 +15658,34 @@ Hindi ko kayo nag-present DepEd eh.
 **[04:18:12.860] Senator Joel Villanueva** (asr-005315)  
 Kayo pa lang.
 
-**[04:18:14.880] Senator Sherwin "Win" T. Gatchalian** (asr-005316)  
+**[04:18:14.880] Senate President Sherwin "Win" T. Gatchalian** (asr-005316)  
 Pero anyway, that's why ganito tayong hearing, para maayos natin yung mga...
 
-**[04:18:19.660] Senator Sherwin "Win" T. Gatchalian** (asr-005317)  
+**[04:18:19.660] Senate President Sherwin "Win" T. Gatchalian** (asr-005317)  
 Dapat maayos.
 
 **[04:18:20.380] DBM Budget and Management Bureau-F Director Vivien V. Labastilla** (asr-005318)  
 Mahalo pa rin siya sa mga ibang...
 
-**[04:18:22.100] Senator Sherwin "Win" T. Gatchalian** (asr-005319)  
+**[04:18:22.100] Senate President Sherwin "Win" T. Gatchalian** (asr-005319)  
 Importante, Mr. President, madagdagan.
 
-**[04:18:24.200] Senator Sherwin "Win" T. Gatchalian** (asr-005320)  
+**[04:18:24.200] Senate President Sherwin "Win" T. Gatchalian** (asr-005320)  
 Ang Senado, yung importante.
 
-**[04:18:26.340] Senator Sherwin "Win" T. Gatchalian** (asr-005321)  
+**[04:18:26.340] Senate President Sherwin "Win" T. Gatchalian** (asr-005321)  
 Ano niyan?
 
-**[04:18:27.340] Senator Sherwin "Win" T. Gatchalian** (asr-005322)  
+**[04:18:27.340] Senate President Sherwin "Win" T. Gatchalian** (asr-005322)  
 We'll...
 
-**[04:18:28.100] Senator Sherwin "Win" T. Gatchalian** (asr-005323)  
+**[04:18:28.100] Senate President Sherwin "Win" T. Gatchalian** (asr-005323)  
 Again.
 
-**[04:18:28.660] Senator Sherwin "Win" T. Gatchalian** (asr-005324)  
+**[04:18:28.660] Senate President Sherwin "Win" T. Gatchalian** (asr-005324)  
 This is a very important program.
 
-**[04:18:30.700] Senator Sherwin "Win" T. Gatchalian** (asr-005325)  
+**[04:18:30.700] Senate President Sherwin "Win" T. Gatchalian** (asr-005325)  
 We're seeing the gains at sayang kung hindi matutuloy ito or mababawasan.
 
 **[04:18:34.700] DepEd Secretary Sonny Angara** (asr-005326)  
@@ -15694,10 +15694,10 @@ I think you've seen it in Valenzuela.
 **[04:18:36.100] DepEd Secretary Sonny Angara** (asr-005327)  
 It's proven in many other jurisdictions.
 
-**[04:18:40.740] Senator Sherwin "Win" T. Gatchalian** (asr-005328)  
+**[04:18:40.740] Senate President Sherwin "Win" T. Gatchalian** (asr-005328)  
 There's also an independent report that came out.
 
-**[04:18:42.920] Senator Sherwin "Win" T. Gatchalian** (asr-005329)  
+**[04:18:42.920] Senate President Sherwin "Win" T. Gatchalian** (asr-005329)  
 I think it's World Bank.
 
 **[04:18:46.080] DepEd Secretary Sonny Angara** (asr-005330)  
@@ -15721,28 +15721,28 @@ And the numbers you cited, sir, about the struggling readers,
 **[04:18:57.660] DepEd Secretary Sonny Angara** (asr-005336)  
 the reading at the right level, very encouraging.
 
-**[04:19:00.340] Senator Sherwin "Win" T. Gatchalian** (asr-005337)  
+**[04:19:00.340] Senate President Sherwin "Win" T. Gatchalian** (asr-005337)  
 Yeah, yeah.
 
-**[04:19:01.100] Senator Sherwin "Win" T. Gatchalian** (asr-005338)  
+**[04:19:01.100] Senate President Sherwin "Win" T. Gatchalian** (asr-005338)  
 So let's continue those gains.
 
-**[04:19:03.620] Senator Sherwin "Win" T. Gatchalian** (asr-005339)  
+**[04:19:03.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005339)  
 Next will be on...
 
-**[04:19:05.180] Senator Sherwin "Win" T. Gatchalian** (asr-005340)  
+**[04:19:05.180] Senate President Sherwin "Win" T. Gatchalian** (asr-005340)  
 Ito na pag-usapan na rin kanina, but on the school counselor associates.
 
-**[04:19:11.000] Senator Sherwin "Win" T. Gatchalian** (asr-005341)  
+**[04:19:11.000] Senate President Sherwin "Win" T. Gatchalian** (asr-005341)  
 Because lately, we've been seeing a lot of issues with school safety, bullying,
 
-**[04:19:18.600] Senator Sherwin "Win" T. Gatchalian** (asr-005342)  
+**[04:19:18.600] Senate President Sherwin "Win" T. Gatchalian** (asr-005342)  
 even gun violence inside our schools.
 
-**[04:19:21.360] Senator Sherwin "Win" T. Gatchalian** (asr-005343)  
+**[04:19:21.360] Senate President Sherwin "Win" T. Gatchalian** (asr-005343)  
 So, and this year, we provided funds to hire 10,000 school counselors.
 
-**[04:19:27.660] Senator Sherwin "Win" T. Gatchalian** (asr-005344)  
+**[04:19:27.660] Senate President Sherwin "Win" T. Gatchalian** (asr-005344)  
 So, we just want to get an update on that hiring process and what are the constraints.
 
 **[04:19:35.740] DepEd Secretary Sonny Angara** (asr-005345)  
@@ -15769,10 +15769,10 @@ or 46%, are undergoing the hiring process.
 **[04:20:00.620] DepEd Secretary Sonny Angara** (asr-005352)  
 So, we foresee that by December, we would have hired all 10,000, Your Honor.
 
-**[04:20:05.680] Senator Sherwin "Win" T. Gatchalian** (asr-005353)  
+**[04:20:05.680] Senate President Sherwin "Win" T. Gatchalian** (asr-005353)  
 And then, for 2027, mayroon bang proposal to increase the 10,000,
 
-**[04:20:13.080] Senator Sherwin "Win" T. Gatchalian** (asr-005354)  
+**[04:20:13.080] Senate President Sherwin "Win" T. Gatchalian** (asr-005354)  
 considering that we have 47,000 schools?
 
 **[04:20:15.300] DepEd Secretary Sonny Angara** (asr-005355)  
@@ -15781,61 +15781,61 @@ We have funding for 1,800 SCAs, Your Honor.
 **[04:20:24.040] DepEd Secretary Sonny Angara** (asr-005356)  
 519 million, Your Honor.
 
-**[04:20:25.580] Senator Sherwin "Win" T. Gatchalian** (asr-005357)  
+**[04:20:25.580] Senate President Sherwin "Win" T. Gatchalian** (asr-005357)  
 So, we're adding additional 1,000.
 
 **[04:20:27.660] DepEd Secretary Sonny Angara** (asr-005358)  
 1,800, Your Honor.
 
-**[04:20:31.500] Senator Sherwin "Win" T. Gatchalian** (asr-005359)  
+**[04:20:31.500] Senate President Sherwin "Win" T. Gatchalian** (asr-005359)  
 Medyo malayo pa tayo, but we'll try our best to,
 
-**[04:20:34.740] Senator Sherwin "Win" T. Gatchalian** (asr-005360)  
+**[04:20:34.740] Senate President Sherwin "Win" T. Gatchalian** (asr-005360)  
 at least, ang target natin is 1 is to 1.
 
 **[04:20:37.700] DepEd Secretary Sonny Angara** (asr-005361)  
 Yes, Your Honor.
 
-**[04:20:38.360] Senator Sherwin "Win" T. Gatchalian** (asr-005362)  
+**[04:20:38.360] Senate President Sherwin "Win" T. Gatchalian** (asr-005362)  
 At least for school counselor associates.
 
-**[04:20:40.300] Senator Sherwin "Win" T. Gatchalian** (asr-005363)  
+**[04:20:40.300] Senate President Sherwin "Win" T. Gatchalian** (asr-005363)  
 Opo, opo.
 
-**[04:20:40.960] Senator Sherwin "Win" T. Gatchalian** (asr-005364)  
+**[04:20:40.960] Senate President Sherwin "Win" T. Gatchalian** (asr-005364)  
 That's the target.
 
-**[04:20:42.900] Senator Sherwin "Win" T. Gatchalian** (asr-005365)  
+**[04:20:42.900] Senate President Sherwin "Win" T. Gatchalian** (asr-005365)  
 But in terms of full guidance counselors,
 
-**[04:20:45.020] Senator Sherwin "Win" T. Gatchalian** (asr-005366)  
+**[04:20:45.020] Senate President Sherwin "Win" T. Gatchalian** (asr-005366)  
 because under the law,
 
-**[04:20:47.620] Senator Sherwin "Win" T. Gatchalian** (asr-005367)  
+**[04:20:47.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005367)  
 yung full guidance counselor will be deployed in the division level.
 
 **[04:20:52.240] DepEd Secretary Sonny Angara** (asr-005368)  
 Yes, Your Honor.
 
-**[04:20:52.660] Senator Sherwin "Win" T. Gatchalian** (asr-005369)  
+**[04:20:52.660] Senate President Sherwin "Win" T. Gatchalian** (asr-005369)  
 So, out of the 200 plus divisions,
 
-**[04:20:54.740] Senator Sherwin "Win" T. Gatchalian** (asr-005370)  
+**[04:20:54.740] Senate President Sherwin "Win" T. Gatchalian** (asr-005370)  
 meron na ba tayong,
 
-**[04:20:56.260] Senator Sherwin "Win" T. Gatchalian** (asr-005371)  
+**[04:20:56.260] Senate President Sherwin "Win" T. Gatchalian** (asr-005371)  
 na puno ba natin,
 
-**[04:20:57.740] Senator Sherwin "Win" T. Gatchalian** (asr-005372)  
+**[04:20:57.740] Senate President Sherwin "Win" T. Gatchalian** (asr-005372)  
 yung guidance counselor at that level?
 
-**[04:20:59.860] Senator Sherwin "Win" T. Gatchalian** (asr-005373)  
+**[04:20:59.860] Senate President Sherwin "Win" T. Gatchalian** (asr-005373)  
 Because ang setup at the division,
 
-**[04:21:02.860] Senator Sherwin "Win" T. Gatchalian** (asr-005374)  
+**[04:21:02.860] Senate President Sherwin "Win" T. Gatchalian** (asr-005374)  
 full-fledged guidance counselor at the school level,
 
-**[04:21:06.180] Senator Sherwin "Win" T. Gatchalian** (asr-005375)  
+**[04:21:06.180] Senate President Sherwin "Win" T. Gatchalian** (asr-005375)  
 associate, dahil nga mahirap kumuha ng full-fledged guidance counselor as of this time.
 
 **[04:21:12.120] DepEd Secretary Sonny Angara** (asr-005376)  
@@ -15862,10 +15862,10 @@ Towards SCAs.
 **[04:21:28.920] DepEd Secretary Sonny Angara** (asr-005383)  
 Yung iba will go towards regional office guidance counselors.
 
-**[04:21:33.580] Senator Sherwin "Win" T. Gatchalian** (asr-005384)  
+**[04:21:33.580] Senate President Sherwin "Win" T. Gatchalian** (asr-005384)  
 Okay.
 
-**[04:21:34.100] Senator Sherwin "Win" T. Gatchalian** (asr-005385)  
+**[04:21:34.100] Senate President Sherwin "Win" T. Gatchalian** (asr-005385)  
 Alright.
 
 **[04:21:34.660] DepEd Secretary Sonny Angara** (asr-005386)  
@@ -15877,28 +15877,28 @@ Not regional.
 **[04:21:36.660] DepEd Secretary Sonny Angara** (asr-005388)  
 School division.
 
-**[04:21:37.120] Senator Sherwin "Win" T. Gatchalian** (asr-005389)  
+**[04:21:37.120] Senate President Sherwin "Win" T. Gatchalian** (asr-005389)  
 School division, yes.
 
-**[04:21:38.440] Senator Sherwin "Win" T. Gatchalian** (asr-005390)  
+**[04:21:38.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005390)  
 So, nasa process tayo nun.
 
-**[04:21:40.340] Senator Sherwin "Win" T. Gatchalian** (asr-005391)  
+**[04:21:40.340] Senate President Sherwin "Win" T. Gatchalian** (asr-005391)  
 Opo, opo.
 
-**[04:21:40.920] Senator Sherwin "Win" T. Gatchalian** (asr-005392)  
+**[04:21:40.920] Senate President Sherwin "Win" T. Gatchalian** (asr-005392)  
 As of this point.
 
-**[04:21:41.780] Senator Sherwin "Win" T. Gatchalian** (asr-005393)  
+**[04:21:41.780] Senate President Sherwin "Win" T. Gatchalian** (asr-005393)  
 Alright.
 
-**[04:21:42.380] Senator Sherwin "Win" T. Gatchalian** (asr-005394)  
+**[04:21:42.380] Senate President Sherwin "Win" T. Gatchalian** (asr-005394)  
 And we provided budget for 2027 for those 200, yun eh.
 
-**[04:21:47.180] Senator Sherwin "Win" T. Gatchalian** (asr-005395)  
+**[04:21:47.180] Senate President Sherwin "Win" T. Gatchalian** (asr-005395)  
 Mga 200.
 
-**[04:21:48.120] Senator Sherwin "Win" T. Gatchalian** (asr-005396)  
+**[04:21:48.120] Senate President Sherwin "Win" T. Gatchalian** (asr-005396)  
 Ilan ng divisions natin?
 
 **[04:21:49.640] DepEd Secretary Sonny Angara** (asr-005397)  
@@ -15907,28 +15907,28 @@ Yes, Your Honor.
 **[04:21:50.380] DepEd Secretary Sonny Angara** (asr-005398)  
 There's 282 million for that, Your Honor.
 
-**[04:21:57.660] Senator Sherwin "Win" T. Gatchalian** (asr-005399)  
+**[04:21:57.660] Senate President Sherwin "Win" T. Gatchalian** (asr-005399)  
 Next will be, ito na pag-usapan rin natin sa EDCOM ito, yung principals.
 
-**[04:22:09.000] Senator Sherwin "Win" T. Gatchalian** (asr-005400)  
+**[04:22:09.000] Senate President Sherwin "Win" T. Gatchalian** (asr-005400)  
 Fifty-five percent of our public schools or 26,000 of our schools do not have principals.
 
-**[04:22:18.860] Senator Sherwin "Win" T. Gatchalian** (asr-005401)  
+**[04:22:18.860] Senate President Sherwin "Win" T. Gatchalian** (asr-005401)  
 So, kumusta yung ating, I know that the department has already started
 
-**[04:22:24.660] Senator Sherwin "Win" T. Gatchalian** (asr-005402)  
+**[04:22:24.660] Senate President Sherwin "Win" T. Gatchalian** (asr-005402)  
 filling up the principals.
 
-**[04:22:27.660] Senator Sherwin "Win" T. Gatchalian** (asr-005403)  
+**[04:22:27.660] Senate President Sherwin "Win" T. Gatchalian** (asr-005403)  
 So, kumusta itong ating staffing of principals?
 
-**[04:22:33.800] Senator Sherwin "Win" T. Gatchalian** (asr-005404)  
+**[04:22:33.800] Senate President Sherwin "Win" T. Gatchalian** (asr-005404)  
 Which, nakakagulat, no?
 
-**[04:22:34.940] Senator Sherwin "Win" T. Gatchalian** (asr-005405)  
+**[04:22:34.940] Senate President Sherwin "Win" T. Gatchalian** (asr-005405)  
 Kalahating ng schools natin.
 
-**[04:22:36.680] Senator Sherwin "Win" T. Gatchalian** (asr-005406)  
+**[04:22:36.680] Senate President Sherwin "Win" T. Gatchalian** (asr-005406)  
 Chairman, wala tayong principals.
 
 **[04:22:38.340] DepEd Secretary Sonny Angara** (asr-005407)  
@@ -16000,13 +16000,13 @@ Mr. Chair.
 **[04:23:43.960] DepEd Secretary Sonny Angara** (asr-005442)  
 So, yun ang...
 
-**[04:23:46.020] Senator Sherwin "Win" T. Gatchalian** (asr-005443)  
+**[04:23:46.020] Senate President Sherwin "Win" T. Gatchalian** (asr-005443)  
 To date, ano ang
 
-**[04:23:47.860] Senator Sherwin "Win" T. Gatchalian** (asr-005444)  
+**[04:23:47.860] Senate President Sherwin "Win" T. Gatchalian** (asr-005444)  
 percentage natin
 
-**[04:23:49.860] Senator Sherwin "Win" T. Gatchalian** (asr-005445)  
+**[04:23:49.860] Senate President Sherwin "Win" T. Gatchalian** (asr-005445)  
 of schools without principals?
 
 **[04:23:52.760] DepEd Secretary Sonny Angara** (asr-005446)  
@@ -16015,10 +16015,10 @@ I'll ask
 **[04:23:53.320] DepEd Secretary Sonny Angara** (asr-005447)  
 Yusek Willy to answer that, Your Honor.
 
-**[04:23:56.080] Senator Sherwin "Win" T. Gatchalian** (asr-005448)  
+**[04:23:56.080] Senate President Sherwin "Win" T. Gatchalian** (asr-005448)  
 Bumaba na from
 
-**[04:23:57.080] Senator Sherwin "Win" T. Gatchalian** (asr-005449)  
+**[04:23:57.080] Senate President Sherwin "Win" T. Gatchalian** (asr-005449)  
 55%.
 
 **[04:23:58.120] DepEd Undersecretary Willy Cabral** (asr-005450)  
@@ -16102,19 +16102,19 @@ one is the needed
 **[04:24:52.780] DepEd Undersecretary Willy Cabral** (asr-005476)  
 item for them to lead the school.
 
-**[04:24:54.780] Senator Sherwin "Win" T. Gatchalian** (asr-005477)  
+**[04:24:54.780] Senate President Sherwin "Win" T. Gatchalian** (asr-005477)  
 So, ngayon, to date, we have managed
 
-**[04:24:56.940] Senator Sherwin "Win" T. Gatchalian** (asr-005478)  
+**[04:24:56.940] Senate President Sherwin "Win" T. Gatchalian** (asr-005478)  
 to bring it down from 55%
 
 **[04:24:58.900] DepEd Undersecretary Willy Cabral** (asr-005479)  
 to now
 
-**[04:25:00.920] Senator Sherwin "Win" T. Gatchalian** (asr-005480)  
+**[04:25:00.920] Senate President Sherwin "Win" T. Gatchalian** (asr-005480)  
 45%. So, how many
 
-**[04:25:02.580] Senator Sherwin "Win" T. Gatchalian** (asr-005481)  
+**[04:25:02.580] Senate President Sherwin "Win" T. Gatchalian** (asr-005481)  
 schools ang wala pang principal?
 
 **[04:25:04.520] DepEd Undersecretary Willy Cabral** (asr-005482)  
@@ -16132,7 +16132,7 @@ schools.
 **[04:25:12.620] DepEd Undersecretary Willy Cabral** (asr-005486)  
 school principals.
 
-**[04:25:15.700] Senator Sherwin "Win" T. Gatchalian** (asr-005487)  
+**[04:25:15.700] Senate President Sherwin "Win" T. Gatchalian** (asr-005487)  
 So, 23
 
 **[04:25:16.340] DepEd Undersecretary Willy Cabral** (asr-005488)  
@@ -16162,13 +16162,13 @@ in the qualification standards.
 **[04:25:32.940] DepEd Undersecretary Willy Cabral** (asr-005496)  
 So, yun ang minawork out po nila.
 
-**[04:25:34.900] Senator Sherwin "Win" T. Gatchalian** (asr-005497)  
+**[04:25:34.900] Senate President Sherwin "Win" T. Gatchalian** (asr-005497)  
 Okay. So, to date,
 
-**[04:25:36.760] Senator Sherwin "Win" T. Gatchalian** (asr-005498)  
+**[04:25:36.760] Senate President Sherwin "Win" T. Gatchalian** (asr-005498)  
 ilan ang schools natin na walang
 
-**[04:25:38.520] Senator Sherwin "Win" T. Gatchalian** (asr-005499)  
+**[04:25:38.520] Senate President Sherwin "Win" T. Gatchalian** (asr-005499)  
 principals pa? So, there's around
 
 **[04:25:40.860] DepEd Undersecretary Willy Cabral** (asr-005500)  
@@ -16177,28 +16177,28 @@ principals pa? So, there's around
 **[04:25:42.740] DepEd Undersecretary Willy Cabral** (asr-005501)  
 23,000.
 
-**[04:25:44.640] Senator Sherwin "Win" T. Gatchalian** (asr-005502)  
+**[04:25:44.640] Senate President Sherwin "Win" T. Gatchalian** (asr-005502)  
 23,000. Out of the 45,
 
 **[04:25:47.140] DepEd Undersecretary Willy Cabral** (asr-005503)  
 Mr. President.
 
-**[04:25:51.020] Senator Sherwin "Win" T. Gatchalian** (asr-005504)  
+**[04:25:51.020] Senate President Sherwin "Win" T. Gatchalian** (asr-005504)  
 Okay. And,
 
-**[04:25:52.260] Senator Sherwin "Win" T. Gatchalian** (asr-005505)  
+**[04:25:52.260] Senate President Sherwin "Win" T. Gatchalian** (asr-005505)  
 um,
 
-**[04:25:52.740] Senator Sherwin "Win" T. Gatchalian** (asr-005506)  
+**[04:25:52.740] Senate President Sherwin "Win" T. Gatchalian** (asr-005506)  
 next year,
 
-**[04:25:56.900] Senator Sherwin "Win" T. Gatchalian** (asr-005507)  
+**[04:25:56.900] Senate President Sherwin "Win" T. Gatchalian** (asr-005507)  
 this is the problem. Walang
 
-**[04:25:58.180] Senator Sherwin "Win" T. Gatchalian** (asr-005508)  
+**[04:25:58.180] Senate President Sherwin "Win" T. Gatchalian** (asr-005508)  
 budget
 
-**[04:25:59.780] Senator Sherwin "Win" T. Gatchalian** (asr-005509)  
+**[04:25:59.780] Senate President Sherwin "Win" T. Gatchalian** (asr-005509)  
 for principals.
 
 **[04:26:02.300] DepEd Undersecretary Willy Cabral** (asr-005510)  
@@ -16207,19 +16207,19 @@ There's no budget for creation
 **[04:26:04.480] DepEd Undersecretary Willy Cabral** (asr-005511)  
 of new school principal position.
 
-**[04:26:06.360] Senator Sherwin "Win" T. Gatchalian** (asr-005512)  
+**[04:26:06.360] Senate President Sherwin "Win" T. Gatchalian** (asr-005512)  
 So, none of the 23,000
 
-**[04:26:08.940] Senator Sherwin "Win" T. Gatchalian** (asr-005513)  
+**[04:26:08.940] Senate President Sherwin "Win" T. Gatchalian** (asr-005513)  
 na walang
 
-**[04:26:11.940] Senator Sherwin "Win" T. Gatchalian** (asr-005514)  
+**[04:26:11.940] Senate President Sherwin "Win" T. Gatchalian** (asr-005514)  
 principals is budgeted.
 
-**[04:26:15.060] Senator Sherwin "Win" T. Gatchalian** (asr-005515)  
+**[04:26:15.060] Senate President Sherwin "Win" T. Gatchalian** (asr-005515)  
 Ibig sabihin, next year, hindi tayo makaka-uha
 
-**[04:26:17.760] Senator Sherwin "Win" T. Gatchalian** (asr-005516)  
+**[04:26:17.760] Senate President Sherwin "Win" T. Gatchalian** (asr-005516)  
 ng principals.
 
 **[04:26:19.540] DepEd Undersecretary Willy Cabral** (asr-005517)  
@@ -16267,7 +16267,7 @@ expanded career progression
 **[04:26:46.240] DepEd Undersecretary Willy Cabral** (asr-005531)  
 under the ACP.
 
-**[04:26:48.280] Senator Sherwin "Win" T. Gatchalian** (asr-005532)  
+**[04:26:48.280] Senate President Sherwin "Win" T. Gatchalian** (asr-005532)  
 Wala siya pang sweldo?
 
 **[04:26:51.120] DepEd Undersecretary Willy Cabral** (asr-005533)  
@@ -16282,22 +16282,22 @@ billion for
 **[04:26:56.660] DepEd Undersecretary Willy Cabral** (asr-005536)  
 expanded career progression.
 
-**[04:26:58.400] Senator Sherwin "Win" T. Gatchalian** (asr-005537)  
+**[04:26:58.400] Senate President Sherwin "Win" T. Gatchalian** (asr-005537)  
 Okay. Because, ano siya,
 
-**[04:27:00.660] Senator Sherwin "Win" T. Gatchalian** (asr-005538)  
+**[04:27:00.660] Senate President Sherwin "Win" T. Gatchalian** (asr-005538)  
 magiging reclassification
 
-**[04:27:02.400] Senator Sherwin "Win" T. Gatchalian** (asr-005539)  
+**[04:27:02.400] Senate President Sherwin "Win" T. Gatchalian** (asr-005539)  
 yung kanyang status.
 
 **[04:27:04.400] DepEd Undersecretary Willy Cabral** (asr-005540)  
 That's correct.
 
-**[04:27:06.400] Senator Sherwin "Win" T. Gatchalian** (asr-005541)  
+**[04:27:06.400] Senate President Sherwin "Win" T. Gatchalian** (asr-005541)  
 Ilan yun?
 
-**[04:27:08.400] Senator Sherwin "Win" T. Gatchalian** (asr-005542)  
+**[04:27:08.400] Senate President Sherwin "Win" T. Gatchalian** (asr-005542)  
 Do you have an estimate?
 
 **[04:27:10.400] DepEd Undersecretary Willy Cabral** (asr-005543)  
@@ -16345,28 +16345,28 @@ three, then cover
 **[04:27:38.200] DepEd Undersecretary Willy Cabral** (asr-005557)  
 the push and on.
 
-**[04:27:39.880] Senator Sherwin "Win" T. Gatchalian** (asr-005558)  
+**[04:27:39.880] Senate President Sherwin "Win" T. Gatchalian** (asr-005558)  
 But, how much do you need
 
-**[04:27:41.700] Senator Sherwin "Win" T. Gatchalian** (asr-005559)  
+**[04:27:41.700] Senate President Sherwin "Win" T. Gatchalian** (asr-005559)  
 in order, to make it
 
-**[04:27:44.240] Senator Sherwin "Win" T. Gatchalian** (asr-005560)  
+**[04:27:44.240] Senate President Sherwin "Win" T. Gatchalian** (asr-005560)  
 simple, how much do you need
 
-**[04:27:45.340] Senator Sherwin "Win" T. Gatchalian** (asr-005561)  
+**[04:27:45.340] Senate President Sherwin "Win" T. Gatchalian** (asr-005561)  
 to staff
 
-**[04:27:47.400] Senator Sherwin "Win" T. Gatchalian** (asr-005562)  
+**[04:27:47.400] Senate President Sherwin "Win" T. Gatchalian** (asr-005562)  
 23,000 schools without principals?
 
-**[04:27:50.260] Senator Sherwin "Win" T. Gatchalian** (asr-005563)  
+**[04:27:50.260] Senate President Sherwin "Win" T. Gatchalian** (asr-005563)  
 Target lang yata.
 
-**[04:27:54.740] Senator Sherwin "Win" T. Gatchalian** (asr-005564)  
+**[04:27:54.740] Senate President Sherwin "Win" T. Gatchalian** (asr-005564)  
 Pero, target nyo is
 
-**[04:27:56.100] Senator Sherwin "Win" T. Gatchalian** (asr-005565)  
+**[04:27:56.100] Senate President Sherwin "Win" T. Gatchalian** (asr-005565)  
 only 14 next year.
 
 **[04:27:58.440] DepEd Undersecretary Willy Cabral** (asr-005566)  
@@ -16381,64 +16381,64 @@ to finance the
 **[04:28:05.440] DepEd Undersecretary Willy Cabral** (asr-005569)  
 items, school principal.
 
-**[04:28:07.440] Senator Sherwin "Win" T. Gatchalian** (asr-005570)  
+**[04:28:07.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005570)  
 10.5 billion.
 
-**[04:28:09.440] Senator Sherwin "Win" T. Gatchalian** (asr-005571)  
+**[04:28:09.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005571)  
 Alright.
 
-**[04:28:11.440] Senator Sherwin "Win" T. Gatchalian** (asr-005572)  
+**[04:28:11.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005572)  
 Kasi basic yan eh.
 
-**[04:28:13.440] Senator Sherwin "Win" T. Gatchalian** (asr-005573)  
+**[04:28:13.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005573)  
 Principal is a leadership position
 
-**[04:28:15.440] Senator Sherwin "Win" T. Gatchalian** (asr-005574)  
+**[04:28:15.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005574)  
 as well as,
 
-**[04:28:17.440] Senator Sherwin "Win" T. Gatchalian** (asr-005575)  
+**[04:28:17.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005575)  
 of course,
 
-**[04:28:19.440] Senator Sherwin "Win" T. Gatchalian** (asr-005576)  
+**[04:28:19.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005576)  
 moral booster
 
-**[04:28:23.440] Senator Sherwin "Win" T. Gatchalian** (asr-005577)  
+**[04:28:23.440] Senate President Sherwin "Win" T. Gatchalian** (asr-005577)  
 for our head teacher,
 
-**[04:28:25.620] Senator Sherwin "Win" T. Gatchalian** (asr-005578)  
+**[04:28:25.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005578)  
 pag nasa mga school sila.
 
-**[04:28:27.620] Senator Sherwin "Win" T. Gatchalian** (asr-005579)  
+**[04:28:27.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005579)  
 And, this is also another problem
 
-**[04:28:29.620] Senator Sherwin "Win" T. Gatchalian** (asr-005580)  
+**[04:28:29.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005580)  
 we're trying to solve
 
-**[04:28:31.620] Senator Sherwin "Win" T. Gatchalian** (asr-005581)  
+**[04:28:31.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005581)  
 in terms of operations.
 
-**[04:28:33.620] Senator Sherwin "Win" T. Gatchalian** (asr-005582)  
+**[04:28:33.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005582)  
 Alright.
 
-**[04:29:00.840] Senator Sherwin "Win" T. Gatchalian** (asr-005583)  
+**[04:29:00.840] Senate President Sherwin "Win" T. Gatchalian** (asr-005583)  
 I'll go back to the yung nabuksan na ni
 
-**[04:29:04.220] Senator Sherwin "Win" T. Gatchalian** (asr-005584)  
+**[04:29:04.220] Senate President Sherwin "Win" T. Gatchalian** (asr-005584)  
 Senator Bam, yung classrooms.
 
-**[04:29:08.840] Senator Sherwin "Win" T. Gatchalian** (asr-005585)  
+**[04:29:08.840] Senate President Sherwin "Win" T. Gatchalian** (asr-005585)  
 So, to date,
 
-**[04:29:12.640] Senator Sherwin "Win" T. Gatchalian** (asr-005586)  
+**[04:29:12.640] Senate President Sherwin "Win" T. Gatchalian** (asr-005586)  
 magkano na lang
 
-**[04:29:13.680] Senator Sherwin "Win" T. Gatchalian** (asr-005587)  
+**[04:29:13.680] Senate President Sherwin "Win" T. Gatchalian** (asr-005587)  
 ang unobligated
 
-**[04:29:15.340] Senator Sherwin "Win" T. Gatchalian** (asr-005588)  
+**[04:29:15.340] Senate President Sherwin "Win" T. Gatchalian** (asr-005588)  
 sa classrooms?
 
-**[04:29:16.980] Senator Sherwin "Win" T. Gatchalian** (asr-005589)  
+**[04:29:16.980] Senate President Sherwin "Win" T. Gatchalian** (asr-005589)  
 To date?
 
 **[04:29:21.100] DepEd Secretary Sonny Angara** (asr-005591)  
@@ -16450,7 +16450,7 @@ approximately, your honor.
 **[04:29:24.060] DepEd Secretary Sonny Angara** (asr-005593)  
 Kasi 60%
 
-**[04:29:24.620] Senator Sherwin "Win" T. Gatchalian** (asr-005594)  
+**[04:29:24.620] Senate President Sherwin "Win" T. Gatchalian** (asr-005594)  
 are obligated.
 
 **[04:29:25.260] DepEd Secretary Sonny Angara** (asr-005595)  
@@ -16489,13 +16489,13 @@ we left a little bit of a buffer for those
 **[04:29:47.760] DepEd Secretary Sonny Angara** (asr-005606)  
 cost adjustments going
 
-**[04:29:49.600] Senator Sherwin "Win" T. Gatchalian** (asr-005607)  
+**[04:29:49.600] Senate President Sherwin "Win" T. Gatchalian** (asr-005607)  
 forward, Your Honor. So, 40%
 
-**[04:29:51.740] Senator Sherwin "Win" T. Gatchalian** (asr-005608)  
+**[04:29:51.740] Senate President Sherwin "Win" T. Gatchalian** (asr-005608)  
 of the
 
-**[04:29:52.680] Senator Sherwin "Win" T. Gatchalian** (asr-005609)  
+**[04:29:52.680] Senate President Sherwin "Win" T. Gatchalian** (asr-005609)  
 80 or the 60?
 
 **[04:29:55.700] DepEd Secretary Sonny Angara** (asr-005610)  
@@ -16504,46 +16504,46 @@ Of the 65,
 **[04:29:57.800] DepEd Secretary Sonny Angara** (asr-005611)  
 Your Honor.
 
-**[04:30:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-005612)  
+**[04:30:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-005612)  
 30 billion or less.
 
 **[04:30:03.460] DepEd Secretary Sonny Angara** (asr-005613)  
 Around 24, 25 billion, Your Honor.
 
-**[04:30:07.020] Senator Sherwin "Win" T. Gatchalian** (asr-005614)  
+**[04:30:07.020] Senate President Sherwin "Win" T. Gatchalian** (asr-005614)  
 25 billion.
 
 **[04:30:07.980] DepEd Secretary Sonny Angara** (asr-005615)  
 Yes.
 
-**[04:30:18.220] Senator Sherwin "Win" T. Gatchalian** (asr-005616)  
+**[04:30:18.220] Senate President Sherwin "Win" T. Gatchalian** (asr-005616)  
 And sa DepEd, Yusek Lara,
 
-**[04:30:22.240] Senator Sherwin "Win" T. Gatchalian** (asr-005617)  
+**[04:30:22.240] Senate President Sherwin "Win" T. Gatchalian** (asr-005617)  
 nakita ko dun sa presentation ng
 
-**[04:30:24.220] Senator Sherwin "Win" T. Gatchalian** (asr-005618)  
+**[04:30:24.220] Senate President Sherwin "Win" T. Gatchalian** (asr-005618)  
 ng DepEd,
 
-**[04:30:30.700] Senator Sherwin "Win" T. Gatchalian** (asr-005619)  
+**[04:30:30.700] Senate President Sherwin "Win" T. Gatchalian** (asr-005619)  
 they have allocated 21 billion.
 
-**[04:30:33.840] Senator Sherwin "Win" T. Gatchalian** (asr-005620)  
+**[04:30:33.840] Senate President Sherwin "Win" T. Gatchalian** (asr-005620)  
 Out of the 21,
 
-**[04:30:35.700] Senator Sherwin "Win" T. Gatchalian** (asr-005621)  
+**[04:30:35.700] Senate President Sherwin "Win" T. Gatchalian** (asr-005621)  
 ilan na dito ang na-construct?
 
-**[04:30:39.240] Senator Sherwin "Win" T. Gatchalian** (asr-005622)  
+**[04:30:39.240] Senate President Sherwin "Win" T. Gatchalian** (asr-005622)  
 Or out of the 6,000,
 
-**[04:30:41.040] Senator Sherwin "Win" T. Gatchalian** (asr-005623)  
+**[04:30:41.040] Senate President Sherwin "Win" T. Gatchalian** (asr-005623)  
 out of the 21 na lang,
 
-**[04:30:42.080] Senator Sherwin "Win" T. Gatchalian** (asr-005624)  
+**[04:30:42.080] Senate President Sherwin "Win" T. Gatchalian** (asr-005624)  
 out of the 21,
 
-**[04:30:42.960] Senator Sherwin "Win" T. Gatchalian** (asr-005625)  
+**[04:30:42.960] Senate President Sherwin "Win" T. Gatchalian** (asr-005625)  
 ilan na dito ang disbursed?
 
 **[04:30:44.520] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005626)  
@@ -16564,7 +16564,7 @@ ang for post-procurement.
 **[04:30:54.220] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005631)  
 For award and post-qualification.
 
-**[04:30:56.280] Senator Sherwin "Win" T. Gatchalian** (asr-005632)  
+**[04:30:56.280] Senate President Sherwin "Win" T. Gatchalian** (asr-005632)  
 Okay.
 
 **[04:30:57.080] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005633)  
@@ -16576,10 +16576,10 @@ and 7B was endorsed to DepEd
 **[04:31:00.820] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005635)  
 for release ng quality.
 
-**[04:31:01.380] Senator Sherwin "Win" T. Gatchalian** (asr-005636)  
+**[04:31:01.380] Senate President Sherwin "Win" T. Gatchalian** (asr-005636)  
 Anong dahilan?
 
-**[04:31:02.180] Senator Sherwin "Win" T. Gatchalian** (asr-005637)  
+**[04:31:02.180] Senate President Sherwin "Win" T. Gatchalian** (asr-005637)  
 Bakit ngayon lang ang procurement stage?
 
 **[04:31:04.820] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005638)  
@@ -16606,7 +16606,7 @@ of transfer
 **[04:31:17.580] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005645)  
 and yun po yung in-advertise namin.
 
-**[04:31:19.480] Senator Sherwin "Win" T. Gatchalian** (asr-005646)  
+**[04:31:19.480] Senate President Sherwin "Win" T. Gatchalian** (asr-005646)  
 The ORS, ito yung inyong
 
 **[04:31:21.120] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005647)  
@@ -16615,13 +16615,13 @@ obligation request.
 **[04:31:22.660] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005648)  
 Ito yung
 
-**[04:31:24.220] Senator Sherwin "Win" T. Gatchalian** (asr-005649)  
+**[04:31:24.220] Senate President Sherwin "Win" T. Gatchalian** (asr-005649)  
 agreement with DepEd?
 
 **[04:31:26.740] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005650)  
 Opo, the transfer of the fund po.
 
-**[04:31:29.520] Senator Sherwin "Win" T. Gatchalian** (asr-005651)  
+**[04:31:29.520] Senate President Sherwin "Win" T. Gatchalian** (asr-005651)  
 Bakit ngayon lang lumabas?
 
 **[04:31:32.220] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005652)  
@@ -16633,55 +16633,55 @@ Parang duration ng June to September.
 **[04:31:37.780] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005654)  
 We already have 7 billion.
 
-**[04:31:41.380] Senator Sherwin "Win" T. Gatchalian** (asr-005655)  
+**[04:31:41.380] Senate President Sherwin "Win" T. Gatchalian** (asr-005655)  
 But yung 21 billion,
 
-**[04:31:43.640] Senator Sherwin "Win" T. Gatchalian** (asr-005656)  
+**[04:31:43.640] Senate President Sherwin "Win" T. Gatchalian** (asr-005656)  
 obligated na yan?
 
 **[04:31:44.880] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005657)  
 Not to DP po, only 7.
 
-**[04:31:47.020] Senator Sherwin "Win" T. Gatchalian** (asr-005658)  
+**[04:31:47.020] Senate President Sherwin "Win" T. Gatchalian** (asr-005658)  
 7 ang obligated.
 
-**[04:31:48.160] Senator Sherwin "Win" T. Gatchalian** (asr-005659)  
+**[04:31:48.160] Senate President Sherwin "Win" T. Gatchalian** (asr-005659)  
 So,
 
-**[04:31:49.560] Senator Sherwin "Win" T. Gatchalian** (asr-005660)  
+**[04:31:49.560] Senate President Sherwin "Win" T. Gatchalian** (asr-005660)  
 ah, okay.
 
 **[04:31:51.760] DPWH OIC Undersecretary Lara Marisse I. Esquibil** (asr-005661)  
 Yun po yung advertised namin.
 
-**[04:31:52.840] Senator Sherwin "Win" T. Gatchalian** (asr-005662)  
+**[04:31:52.840] Senate President Sherwin "Win" T. Gatchalian** (asr-005662)  
 Okay, okay.
 
-**[04:31:54.220] Senator Sherwin "Win" T. Gatchalian** (asr-005663)  
+**[04:31:54.220] Senate President Sherwin "Win" T. Gatchalian** (asr-005663)  
 Natitirang 14
 
-**[04:31:56.540] Senator Sherwin "Win" T. Gatchalian** (asr-005664)  
+**[04:31:56.540] Senate President Sherwin "Win" T. Gatchalian** (asr-005664)  
 nasa DepEd pa.
 
-**[04:31:57.740] Senator Sherwin "Win" T. Gatchalian** (asr-005665)  
+**[04:31:57.740] Senate President Sherwin "Win" T. Gatchalian** (asr-005665)  
 It's still with DepEd po.
 
-**[04:31:58.060] Senator Sherwin "Win" T. Gatchalian** (asr-005666)  
+**[04:31:58.060] Senate President Sherwin "Win" T. Gatchalian** (asr-005666)  
 Yes, okay.
 
-**[04:31:59.400] Senator Sherwin "Win" T. Gatchalian** (asr-005667)  
+**[04:31:59.400] Senate President Sherwin "Win" T. Gatchalian** (asr-005667)  
 I guess that 14
 
-**[04:32:00.260] Senator Sherwin "Win" T. Gatchalian** (asr-005668)  
+**[04:32:00.260] Senate President Sherwin "Win" T. Gatchalian** (asr-005668)  
 is part of the 25 billion.
 
-**[04:32:03.040] Senator Sherwin "Win" T. Gatchalian** (asr-005669)  
+**[04:32:03.040] Senate President Sherwin "Win" T. Gatchalian** (asr-005669)  
 Tama ba, Edson?
 
-**[04:32:04.920] Senator Sherwin "Win" T. Gatchalian** (asr-005670)  
+**[04:32:04.920] Senate President Sherwin "Win" T. Gatchalian** (asr-005670)  
 Kasama siya doon.
 
-**[04:32:05.700] Senator Sherwin "Win" T. Gatchalian** (asr-005671)  
+**[04:32:05.700] Senate President Sherwin "Win" T. Gatchalian** (asr-005671)  
 Alright.
 
 **[04:32:10.300] Senator Paolo Benigno "Bam" Aquino IV** (asr-005672)  

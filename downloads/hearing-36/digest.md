@@ -12,7 +12,7 @@ AI-assisted working draft. AI can make errors. Always verify consequential inter
 
 - **New enforcement and oversight commitments:** Senator Panfilo Lacson discussed legislation and funding for an Ombudsman Marshal Service, while members questioned its staffing, implementation and relationship to existing vacancies. Remulla and Bonoan described a request for 100 positions, a proposed separate office and possible leadership, but no recruitment and training timeline was supplied. Remulla also said the office would create a special investigative team on alleged corruption in local waste-hauling after Senator Vicente C. Sotto III asked how LGUs could address the problem; no specific hauler, contract or case was identified. For the Resident Ombudsman Program, Bonoan said the bureau had been reactivated and 10 lawyers hired, with deployment to agencies, especially high-revenue-generating ones, planned after training.
 
-- **Accountability, local presence and prevention:** Questions ranged from the Ombudsman's authority to act on substantiated complaints against inactive or corrupt barangay officials to the effect of judicial reversals on enforcement. Remulla proposed considering a justice-sector coordination mechanism that would include the Ombudsman, but no new body or formal judicial response was reported. He also described plans for an assistant Ombudsman presence in BARMM and the risks of that work. Senator Sherwin "Win" T. Gatchalian asked about the increase in integrity-promotion funding from PHP 44 million to PHP 148 million; Remulla described bringing students and governance advocates to the office and educating young people about corruption. He and Senator Sherwin "Win" T. Gatchalian connected early public-service values to changing attitudes toward government work. [01:30:49 · asr-001306](https://tordecilla.github.io/budget-hearings-2026/records/36/#asr-001306) · [01:30:52 · asr-001307](https://tordecilla.github.io/budget-hearings-2026/records/36/#asr-001307)
+- **Accountability, local presence and prevention:** Questions ranged from the Ombudsman's authority to act on substantiated complaints against inactive or corrupt barangay officials to the effect of judicial reversals on enforcement. Remulla proposed considering a justice-sector coordination mechanism that would include the Ombudsman, but no new body or formal judicial response was reported. He also described plans for an assistant Ombudsman presence in BARMM and the risks of that work. Senate President Sherwin "Win" T. Gatchalian asked about the increase in integrity-promotion funding from PHP 44 million to PHP 148 million; Remulla described bringing students and governance advocates to the office and educating young people about corruption. He and Senate President Sherwin "Win" T. Gatchalian connected early public-service values to changing attitudes toward government work. [01:30:49 · asr-001306](https://tordecilla.github.io/budget-hearings-2026/records/36/#asr-001306) · [01:30:52 · asr-001307](https://tordecilla.github.io/budget-hearings-2026/records/36/#asr-001307)
 
 - **Public confidence and the hearing's outcome:** Members voiced support for strengthening the Ombudsman and the justice system, while raising questions about corruption perceptions, public accountability, and delayed case outcomes. Gatchalian cited a corruption-perception ranking shift from 144 to 120 over three years and described it as worsening; the exchange does not reconcile the ranking's direction. Senator Vicente C. Sotto III moved to submit and approve the Ombudsman's budget with proposed amendments, and Committee Chair Senator Joseph Victor "JV" G. Ejercito seconded the motion and deemed the budget submitted for plenary consideration, subject to further discussion and requested documents. The briefing was suspended; the hearing did not record final budget approval.
 
@@ -134,7 +134,7 @@ Before moving for approval of the Ombudsman budget, subject to proposed amendmen
 
 [01:40:25 · asr-001540](https://tordecilla.github.io/budget-hearings-2026/records/36/#asr-001540)
 
-## Senator Panfilo Lacson
+## Senator Panfilo "Ping" M. Lacson
 
 ### Ombudsman Marshal Service and funding realignment
 
@@ -240,7 +240,7 @@ Chair Ejercito asked for the Resident Ombudsman Program's current status, includ
 
 [01:47:29 · asr-001642](https://tordecilla.github.io/budget-hearings-2026/records/36/#asr-001642)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Information purchases to strengthen corruption cases
 
@@ -272,7 +272,7 @@ In a brief intervention, Gatchalian said the Philippines faced a major challenge
 
 [01:44:20 · asr-001598](https://tordecilla.github.io/budget-hearings-2026/records/36/#asr-001598)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### Authorized staffing and specialist plantilla positions
 

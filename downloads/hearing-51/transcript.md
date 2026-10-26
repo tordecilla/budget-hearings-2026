@@ -280,211 +280,211 @@ our Senate President, if he has any opening statement,
 **[00:26:30.860] Senator Joseph Victor "JV" G. Ejercito** (asr-000129)  
 then probably our colleagues.
 
-**[00:26:33.460] Senator Sherwin "Win" T. Gatchalian** (asr-000130)  
+**[00:26:33.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000130)  
 Thank you, Mr. Chairman.
 
-**[00:26:35.720] Senator Sherwin "Win" T. Gatchalian** (asr-000131)  
+**[00:26:35.720] Senate President Sherwin "Win" T. Gatchalian** (asr-000131)  
 Maraming salamat po.
 
-**[00:26:38.480] Senator Sherwin "Win" T. Gatchalian** (asr-000132)  
+**[00:26:38.480] Senate President Sherwin "Win" T. Gatchalian** (asr-000132)  
 Natandaan ko po last year nung nagkaroon tayo ng hearing sa DPWH budget.
 
-**[00:26:46.740] Senator Sherwin "Win" T. Gatchalian** (asr-000133)  
+**[00:26:46.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000133)  
 Kakaupo lang po ni Secretary Vince Dison at that time.
 
-**[00:26:51.540] Senator Sherwin "Win" T. Gatchalian** (asr-000134)  
+**[00:26:51.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000134)  
 At natatandaan ko po parang nawala po sa kanya, parang 50 pounds.
 
-**[00:26:58.240] Senator Sherwin "Win" T. Gatchalian** (asr-000135)  
+**[00:26:58.240] Senate President Sherwin "Win" T. Gatchalian** (asr-000135)  
 Tapos yung buhok niya, parang hindi ko ma-describe.
 
-**[00:27:02.340] Senator Sherwin "Win" T. Gatchalian** (asr-000136)  
+**[00:27:02.340] Senate President Sherwin "Win" T. Gatchalian** (asr-000136)  
 Pero ngayon, at least naka-gel na at meron na ho siyang Amerikana.
 
-**[00:27:08.740] Senator Sherwin "Win" T. Gatchalian** (asr-000137)  
+**[00:27:08.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000137)  
 Kaya nakakahinga na ho siya ngayon at medyo tumaba-taba na rin.
 
-**[00:27:13.220] Senator Sherwin "Win" T. Gatchalian** (asr-000138)  
+**[00:27:13.220] Senate President Sherwin "Win" T. Gatchalian** (asr-000138)  
 Para tumanda ng 20 years eh.
 
-**[00:27:15.060] Senator Sherwin "Win" T. Gatchalian** (asr-000139)  
+**[00:27:15.060] Senate President Sherwin "Win" T. Gatchalian** (asr-000139)  
 Ngayon, ano na lang, 10 years na lang.
 
-**[00:27:18.040] Senator Sherwin "Win" T. Gatchalian** (asr-000140)  
+**[00:27:18.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000140)  
 But having said that, kidding aside,
 
-**[00:27:21.500] Senator Sherwin "Win" T. Gatchalian** (asr-000141)  
+**[00:27:21.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000141)  
 nagpapasalamat po ako kay Secretary Vince because over the last one year,
 
-**[00:27:26.700] Senator Sherwin "Win" T. Gatchalian** (asr-000142)  
+**[00:27:26.700] Senate President Sherwin "Win" T. Gatchalian** (asr-000142)  
 katulad po ng sinabi,
 
-**[00:27:28.240] Senator Sherwin "Win" T. Gatchalian** (asr-000143)  
+**[00:27:28.240] Senate President Sherwin "Win" T. Gatchalian** (asr-000143)  
 sabi ninyo, Mr. Chairman, maraming reforma ang nakita ho natin sa DPWH.
 
-**[00:27:33.560] Senator Sherwin "Win" T. Gatchalian** (asr-000144)  
+**[00:27:33.560] Senate President Sherwin "Win" T. Gatchalian** (asr-000144)  
 At marami ho tayong nakita ang mga basics na inilagay niya para po hindi na maulit yung nakita natin noong 2025.
 
-**[00:27:45.080] Senator Sherwin "Win" T. Gatchalian** (asr-000145)  
+**[00:27:45.080] Senate President Sherwin "Win" T. Gatchalian** (asr-000145)  
 Importante dito yung paggagawa ng master plan at feasibility study na pinakita nyo sa inyong slide ho kanina.
 
-**[00:27:52.480] Senator Sherwin "Win" T. Gatchalian** (asr-000146)  
+**[00:27:52.480] Senate President Sherwin "Win" T. Gatchalian** (asr-000146)  
 Napakahalaga ho yan dahil yan po yung kulang last time.
 
-**[00:27:55.560] Senator Sherwin "Win" T. Gatchalian** (asr-000147)  
+**[00:27:55.560] Senate President Sherwin "Win" T. Gatchalian** (asr-000147)  
 At isa rin pong impulsiyon.
 
-**[00:27:58.240] Senator Sherwin "Win" T. Gatchalian** (asr-000148)  
+**[00:27:58.240] Senate President Sherwin "Win" T. Gatchalian** (asr-000148)  
 Importante na nakita kong aksyon na ginawa po ng DPWH sa pumumunan po ni Secretary Dizon ay yung sinasabing yung madalas dapat panagutin yung dapat managot.
 
-**[00:28:12.060] Senator Sherwin "Win" T. Gatchalian** (asr-000149)  
+**[00:28:12.060] Senate President Sherwin "Win" T. Gatchalian** (asr-000149)  
 At nakita ho natin marami pong mga politiko, mga even DPWH people na nakulong at nakasuhan.
 
-**[00:28:20.540] Senator Sherwin "Win" T. Gatchalian** (asr-000150)  
+**[00:28:20.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000150)  
 At ito ay napakahalaga dahil isa, mahalaga po yung reforma pero mahalaga yung accountability.
 
-**[00:28:27.520] Senator Sherwin "Win" T. Gatchalian** (asr-000151)  
+**[00:28:27.520] Senate President Sherwin "Win" T. Gatchalian** (asr-000151)  
 At mapanagot natin para hindi ho ito naulit, mauulit.
 
-**[00:28:32.320] Senator Sherwin "Win" T. Gatchalian** (asr-000152)  
+**[00:28:32.320] Senate President Sherwin "Win" T. Gatchalian** (asr-000152)  
 Isang dahilan ho kaya nauulit to dahil walang natatakot eh.
 
-**[00:28:35.720] Senator Sherwin "Win" T. Gatchalian** (asr-000153)  
+**[00:28:35.720] Senate President Sherwin "Win" T. Gatchalian** (asr-000153)  
 Walang nakukulong, walang nagiging accountable.
 
-**[00:28:38.680] Senator Sherwin "Win" T. Gatchalian** (asr-000154)  
+**[00:28:38.680] Senate President Sherwin "Win" T. Gatchalian** (asr-000154)  
 Pero from top to bottom, from politiko all the way to the bureaucracy, nakita ho natin na marami hong nakulong at ngayon ay kinakasuhan.
 
-**[00:28:47.160] Senator Sherwin "Win" T. Gatchalian** (asr-000155)  
+**[00:28:47.160] Senate President Sherwin "Win" T. Gatchalian** (asr-000155)  
 At nagpapasalamat po ako sa DPWH at under the leadership of Secretary Dizon dahil nga ho nagpursige at naglakas ng loob.
 
-**[00:28:56.480] Senator Sherwin "Win" T. Gatchalian** (asr-000156)  
+**[00:28:56.480] Senate President Sherwin "Win" T. Gatchalian** (asr-000156)  
 Political will.
 
-**[00:28:57.520] Senator Sherwin "Win" T. Gatchalian** (asr-000157)  
+**[00:28:57.520] Senate President Sherwin "Win" T. Gatchalian** (asr-000157)  
 Para po magkaroon ng panadukutan sa loob po ng DPWH.
 
-**[00:29:03.840] Senator Sherwin "Win" T. Gatchalian** (asr-000158)  
+**[00:29:03.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000158)  
 May papakita lang po akong a few slides, Helena.
 
-**[00:29:07.640] Senator Sherwin "Win" T. Gatchalian** (asr-000159)  
+**[00:29:07.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000159)  
 At nasabi na rin to ng ating chairman na talagang bumagal po ang ating ekonomiya.
 
-**[00:29:14.240] Senator Sherwin "Win" T. Gatchalian** (asr-000160)  
+**[00:29:14.240] Senate President Sherwin "Win" T. Gatchalian** (asr-000160)  
 In the last 10 years outside of the pandemic, ito na yung pinakamabagal ho nating economic growth na nakita at 2.6% in the first half.
 
-**[00:29:24.000] Senator Sherwin "Win" T. Gatchalian** (asr-000161)  
+**[00:29:24.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000161)  
 And if you look at the reasons, next slide.
 
-**[00:29:27.520] Senator Sherwin "Win" T. Gatchalian** (asr-000162)  
+**[00:29:27.520] Senate President Sherwin "Win" T. Gatchalian** (asr-000162)  
 Ang pinakamalaking dahilan dito ay number one, bumagal po yung government construction at number two, bumagal yung household consumption.
 
-**[00:29:38.860] Senator Sherwin "Win" T. Gatchalian** (asr-000163)  
+**[00:29:38.860] Senate President Sherwin "Win" T. Gatchalian** (asr-000163)  
 In household consumption, may kaugnayan yan sa mataas na presyo ng bilihin or inflation.
 
-**[00:29:46.620] Senator Sherwin "Win" T. Gatchalian** (asr-000164)  
+**[00:29:46.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000164)  
 Pero in government construction, ito po ay directang connectado doon sa flood control issue natin.
 
-**[00:29:52.460] Senator Sherwin "Win" T. Gatchalian** (asr-000165)  
+**[00:29:52.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000165)  
 So gusto rin natin marinig ngayon sa DPWH kung ano po yung...
 
-**[00:29:57.520] Senator Sherwin "Win" T. Gatchalian** (asr-000166)  
+**[00:29:57.520] Senate President Sherwin "Win" T. Gatchalian** (asr-000166)  
 nagawa na this second half of
 
-**[00:30:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-000167)  
+**[00:30:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000167)  
 the year para po pabilisin
 
-**[00:30:01.940] Senator Sherwin "Win" T. Gatchalian** (asr-000168)  
+**[00:30:01.940] Senate President Sherwin "Win" T. Gatchalian** (asr-000168)  
 yung pag-gastos
 
-**[00:30:04.280] Senator Sherwin "Win" T. Gatchalian** (asr-000169)  
+**[00:30:04.280] Senate President Sherwin "Win" T. Gatchalian** (asr-000169)  
 natin sa mga infrastructure
 
-**[00:30:05.820] Senator Sherwin "Win" T. Gatchalian** (asr-000170)  
+**[00:30:05.820] Senate President Sherwin "Win" T. Gatchalian** (asr-000170)  
 projects. Ang low-hanging fruit
 
-**[00:30:07.860] Senator Sherwin "Win" T. Gatchalian** (asr-000171)  
+**[00:30:07.860] Senate President Sherwin "Win" T. Gatchalian** (asr-000171)  
 po para mapabilis po yung ating ekonomiya
 
-**[00:30:10.060] Senator Sherwin "Win" T. Gatchalian** (asr-000172)  
+**[00:30:10.060] Senate President Sherwin "Win" T. Gatchalian** (asr-000172)  
 ay pabilisin rin yung construction,
 
-**[00:30:12.740] Senator Sherwin "Win" T. Gatchalian** (asr-000173)  
+**[00:30:12.740] Senate President Sherwin "Win" T. Gatchalian** (asr-000173)  
 pabilisin yung implementation
 
-**[00:30:13.920] Senator Sherwin "Win" T. Gatchalian** (asr-000174)  
+**[00:30:13.920] Senate President Sherwin "Win" T. Gatchalian** (asr-000174)  
 ng project without sacrificing
 
-**[00:30:15.980] Senator Sherwin "Win" T. Gatchalian** (asr-000175)  
+**[00:30:15.980] Senate President Sherwin "Win" T. Gatchalian** (asr-000175)  
 integrity,
 
-**[00:30:17.960] Senator Sherwin "Win" T. Gatchalian** (asr-000176)  
+**[00:30:17.960] Senate President Sherwin "Win" T. Gatchalian** (asr-000176)  
 accountability, and of course
 
-**[00:30:19.840] Senator Sherwin "Win" T. Gatchalian** (asr-000177)  
+**[00:30:19.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000177)  
 the right price.
 
-**[00:30:21.640] Senator Sherwin "Win" T. Gatchalian** (asr-000178)  
+**[00:30:21.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000178)  
 Hindi ibig sabihin na pababilisin
 
-**[00:30:23.720] Senator Sherwin "Win" T. Gatchalian** (asr-000179)  
+**[00:30:23.720] Senate President Sherwin "Win" T. Gatchalian** (asr-000179)  
 natin yung construction,
 
-**[00:30:25.240] Senator Sherwin "Win" T. Gatchalian** (asr-000180)  
+**[00:30:25.240] Senate President Sherwin "Win" T. Gatchalian** (asr-000180)  
 babalik tayo sa dating gawin
 
-**[00:30:27.960] Senator Sherwin "Win" T. Gatchalian** (asr-000181)  
+**[00:30:27.960] Senate President Sherwin "Win" T. Gatchalian** (asr-000181)  
 na sino-sino na lang
 
-**[00:30:30.080] Senator Sherwin "Win" T. Gatchalian** (asr-000182)  
+**[00:30:30.080] Senate President Sherwin "Win" T. Gatchalian** (asr-000182)  
 ang binibigyan ng kontrata kahit na
 
-**[00:30:31.800] Senator Sherwin "Win" T. Gatchalian** (asr-000183)  
+**[00:30:31.800] Senate President Sherwin "Win" T. Gatchalian** (asr-000183)  
 overpriced. So, importante
 
-**[00:30:33.920] Senator Sherwin "Win" T. Gatchalian** (asr-000184)  
+**[00:30:33.920] Senate President Sherwin "Win" T. Gatchalian** (asr-000184)  
 na pabilisin yung implementation
 
-**[00:30:35.720] Senator Sherwin "Win" T. Gatchalian** (asr-000185)  
+**[00:30:35.720] Senate President Sherwin "Win" T. Gatchalian** (asr-000185)  
 ng project, pero yung reforma
 
-**[00:30:37.960] Senator Sherwin "Win" T. Gatchalian** (asr-000186)  
+**[00:30:37.960] Senate President Sherwin "Win" T. Gatchalian** (asr-000186)  
 na naumpisahan na po ng DPWH
 
-**[00:30:39.900] Senator Sherwin "Win" T. Gatchalian** (asr-000187)  
+**[00:30:39.900] Senate President Sherwin "Win" T. Gatchalian** (asr-000187)  
 under the leadership ni Secretary Dizon,
 
-**[00:30:41.800] Senator Sherwin "Win" T. Gatchalian** (asr-000188)  
+**[00:30:41.800] Senate President Sherwin "Win" T. Gatchalian** (asr-000188)  
 eh hindi ho mapuputulho yan.
 
-**[00:30:43.940] Senator Sherwin "Win" T. Gatchalian** (asr-000189)  
+**[00:30:43.940] Senate President Sherwin "Win" T. Gatchalian** (asr-000189)  
 So,
 
-**[00:30:45.020] Senator Sherwin "Win" T. Gatchalian** (asr-000190)  
+**[00:30:45.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000190)  
 again, Mr. Chairman,
 
-**[00:30:47.780] Senator Sherwin "Win" T. Gatchalian** (asr-000191)  
+**[00:30:47.780] Senate President Sherwin "Win" T. Gatchalian** (asr-000191)  
 thank you very much for
 
-**[00:30:49.040] Senator Sherwin "Win" T. Gatchalian** (asr-000192)  
+**[00:30:49.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000192)  
 making
 
-**[00:30:51.780] Senator Sherwin "Win" T. Gatchalian** (asr-000193)  
+**[00:30:51.780] Senate President Sherwin "Win" T. Gatchalian** (asr-000193)  
 the budget of
 
-**[00:30:53.520] Senator Sherwin "Win" T. Gatchalian** (asr-000194)  
+**[00:30:53.520] Senate President Sherwin "Win" T. Gatchalian** (asr-000194)  
 the DPWH as a priority.
 
-**[00:30:56.200] Senator Sherwin "Win" T. Gatchalian** (asr-000195)  
+**[00:30:56.200] Senate President Sherwin "Win" T. Gatchalian** (asr-000195)  
 Talagang mahalaga po ang DPWH
 
-**[00:30:57.920] Senator Sherwin "Win" T. Gatchalian** (asr-000196)  
+**[00:30:57.920] Senate President Sherwin "Win" T. Gatchalian** (asr-000196)  
 sa pagbilis po ng
 
-**[00:30:59.560] Senator Sherwin "Win" T. Gatchalian** (asr-000197)  
+**[00:30:59.560] Senate President Sherwin "Win" T. Gatchalian** (asr-000197)  
 paglago ng ating ekonomiya.
 
-**[00:31:01.620] Senator Sherwin "Win" T. Gatchalian** (asr-000198)  
+**[00:31:01.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000198)  
 Maraming salamat.
 
 **[00:31:02.960] Senator Joseph Victor "JV" G. Ejercito** (asr-000199)  
@@ -7396,1138 +7396,1138 @@ our Senate president may
 **[01:49:21.100] Senator Joseph Victor "JV" G. Ejercito** (asr-002499)  
 now ask his questions.
 
-**[01:49:24.020] Senator Sherwin "Win" T. Gatchalian** (asr-002500)  
+**[01:49:24.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002500)  
 Thank you, Mr. Chairman.
 
-**[01:49:26.000] Senator Sherwin "Win" T. Gatchalian** (asr-002501)  
+**[01:49:26.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002501)  
 Kaya pumapayat ka na,
 
-**[01:49:27.260] Senator Sherwin "Win" T. Gatchalian** (asr-002502)  
+**[01:49:27.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002502)  
 Mr. Chairman.
 
-**[01:49:29.120] Senator Sherwin "Win" T. Gatchalian** (asr-002503)  
+**[01:49:29.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002503)  
 Nakita ko hindi ka na nagla-lunch or late na nagla-lunch.
 
-**[01:49:31.500] Senator Sherwin "Win" T. Gatchalian** (asr-002504)  
+**[01:49:31.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002504)  
 But let me
 
-**[01:49:32.700] Senator Sherwin "Win" T. Gatchalian** (asr-002505)  
+**[01:49:32.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002505)  
 thank DPWH,
 
-**[01:49:35.500] Senator Sherwin "Win" T. Gatchalian** (asr-002506)  
+**[01:49:35.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002506)  
 Secretary Vince, dito sa
 
-**[01:49:37.060] Senator Sherwin "Win" T. Gatchalian** (asr-002507)  
+**[01:49:37.060] Senate President Sherwin "Win" T. Gatchalian** (asr-002507)  
 OPLAN kontrabaha.
 
-**[01:49:39.720] Senator Sherwin "Win" T. Gatchalian** (asr-002508)  
+**[01:49:39.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002508)  
 I'm also a
 
-**[01:49:41.260] Senator Sherwin "Win" T. Gatchalian** (asr-002509)  
+**[01:49:41.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002509)  
 witness that
 
-**[01:49:43.440] Senator Sherwin "Win" T. Gatchalian** (asr-002510)  
+**[01:49:43.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002510)  
 it's an effective program.
 
-**[01:49:45.160] Senator Sherwin "Win" T. Gatchalian** (asr-002511)  
+**[01:49:45.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002511)  
 Ngayon lang nga nagawa dahil
 
-**[01:49:46.720] Senator Sherwin "Win" T. Gatchalian** (asr-002512)  
+**[01:49:46.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002512)  
 experience namin dito sa Valenzuela
 
-**[01:49:49.500] Senator Sherwin "Win" T. Gatchalian** (asr-002513)  
+**[01:49:49.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002513)  
 nung
 
-**[01:49:50.560] Senator Sherwin "Win" T. Gatchalian** (asr-002514)  
+**[01:49:50.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002514)  
 nagkaroon tayo ng three weeks
 
-**[01:49:53.120] Senator Sherwin "Win" T. Gatchalian** (asr-002515)  
+**[01:49:53.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002515)  
 na tuloy-tuloy yung ulan.
 
-**[01:49:54.960] Senator Sherwin "Win" T. Gatchalian** (asr-002516)  
+**[01:49:54.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002516)  
 Bumaha doon sa Pampanga,
 
-**[01:49:56.960] Senator Sherwin "Win" T. Gatchalian** (asr-002517)  
+**[01:49:56.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002517)  
 Bulacan, pero yung NLEX portion ng
 
-**[01:49:59.120] Senator Sherwin "Win" T. Gatchalian** (asr-002518)  
+**[01:49:59.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002518)  
 Valenzuela na traditionally binabaha.
 
-**[01:50:02.140] Senator Sherwin "Win" T. Gatchalian** (asr-002519)  
+**[01:50:02.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002519)  
 Hindi siya binaha.
 
-**[01:50:02.820] Senator Sherwin "Win" T. Gatchalian** (asr-002520)  
+**[01:50:02.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002520)  
 Sa Paso de Blas, correct.
 
-**[01:50:04.680] Senator Sherwin "Win" T. Gatchalian** (asr-002521)  
+**[01:50:04.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002521)  
 Typically,
 
-**[01:50:06.240] Senator Sherwin "Win" T. Gatchalian** (asr-002522)  
+**[01:50:06.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002522)  
 nauuna kaming bahain
 
-**[01:50:08.720] Senator Sherwin "Win" T. Gatchalian** (asr-002523)  
+**[01:50:08.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002523)  
 bago yung sa Pampanga.
 
-**[01:50:11.140] Senator Sherwin "Win" T. Gatchalian** (asr-002524)  
+**[01:50:11.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002524)  
 But because
 
-**[01:50:12.280] Senator Sherwin "Win" T. Gatchalian** (asr-002525)  
+**[01:50:12.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002525)  
 nagkaroon ng dredging,
 
-**[01:50:15.500] Senator Sherwin "Win" T. Gatchalian** (asr-002526)  
+**[01:50:15.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002526)  
 additional pumps,
 
-**[01:50:16.840] Senator Sherwin "Win" T. Gatchalian** (asr-002527)  
+**[01:50:16.840] Senate President Sherwin "Win" T. Gatchalian** (asr-002527)  
 malakang bagay yung dredging. In fact, I would
 
-**[01:50:19.060] Senator Sherwin "Win" T. Gatchalian** (asr-002528)  
+**[01:50:19.060] Senate President Sherwin "Win" T. Gatchalian** (asr-002528)  
 credit that to the dredging.
 
-**[01:50:21.940] Senator Sherwin "Win" T. Gatchalian** (asr-002529)  
+**[01:50:21.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002529)  
 Hindi kami
 
-**[01:50:22.560] Senator Sherwin "Win" T. Gatchalian** (asr-002530)  
+**[01:50:22.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002530)  
 binaha ngayon yung barangay Paso de Blas.
 
-**[01:50:25.480] Senator Sherwin "Win" T. Gatchalian** (asr-002531)  
+**[01:50:25.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002531)  
 So, it goes to show that
 
-**[01:50:26.800] Senator Sherwin "Win" T. Gatchalian** (asr-002532)  
+**[01:50:26.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002532)  
 we really need to
 
-**[01:50:28.320] Senator Sherwin "Win" T. Gatchalian** (asr-002533)  
+**[01:50:28.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002533)  
 invest in dredging
 
-**[01:50:30.440] Senator Sherwin "Win" T. Gatchalian** (asr-002534)  
+**[01:50:30.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002534)  
 machineries, equipment,
 
-**[01:50:33.200] Senator Sherwin "Win" T. Gatchalian** (asr-002535)  
+**[01:50:33.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002535)  
 at dapat tuloy-tuloy na.
 
-**[01:50:34.800] Senator Sherwin "Win" T. Gatchalian** (asr-002536)  
+**[01:50:34.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002536)  
 At nakita ko dito sa Oplan Kontra Baha,
 
-**[01:50:36.900] Senator Sherwin "Win" T. Gatchalian** (asr-002537)  
+**[01:50:36.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002537)  
 it's DPWH na nagdadredge.
 
-**[01:50:38.980] Senator Sherwin "Win" T. Gatchalian** (asr-002538)  
+**[01:50:38.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002538)  
 Hindi contractor.
 
-**[01:50:41.200] Senator Sherwin "Win" T. Gatchalian** (asr-002539)  
+**[01:50:41.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002539)  
 Kasi,
 
-**[01:50:42.840] Senator Sherwin "Win" T. Gatchalian** (asr-002540)  
+**[01:50:42.840] Senate President Sherwin "Win" T. Gatchalian** (asr-002540)  
 yan rin isang source of corruption
 
-**[01:50:44.560] Senator Sherwin "Win" T. Gatchalian** (asr-002541)  
+**[01:50:44.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002541)  
 in the past in dredging.
 
-**[01:50:46.400] Senator Sherwin "Win" T. Gatchalian** (asr-002542)  
+**[01:50:46.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002542)  
 So, hindi mo kasi malaman kung
 
-**[01:50:48.520] Senator Sherwin "Win" T. Gatchalian** (asr-002543)  
+**[01:50:48.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002543)  
 ilang cubic meters na ang dinidredge.
 
-**[01:50:51.140] Senator Sherwin "Win" T. Gatchalian** (asr-002544)  
+**[01:50:51.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002544)  
 Hindi mo naman makikita yung tubig.
 
-**[01:50:52.960] Senator Sherwin "Win" T. Gatchalian** (asr-002545)  
+**[01:50:52.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002545)  
 But since equipment ang binibili,
 
-**[01:50:54.640] Senator Sherwin "Win" T. Gatchalian** (asr-002546)  
+**[01:50:54.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002546)  
 DPWH nagdadredge together with the local
 
-**[01:50:56.900] Senator Sherwin "Win" T. Gatchalian** (asr-002547)  
+**[01:50:56.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002547)  
 government.
 
-**[01:50:58.320] Senator Sherwin "Win" T. Gatchalian** (asr-002548)  
+**[01:50:58.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002548)  
 And balance na nadedredge siya.
 
-**[01:51:00.380] Senator Sherwin "Win" T. Gatchalian** (asr-002549)  
+**[01:51:00.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002549)  
 So, I support itong Oplan Kontra Baha.
 
-**[01:51:03.240] Senator Sherwin "Win" T. Gatchalian** (asr-002550)  
+**[01:51:03.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002550)  
 It's an effective program, Mr. Chairman.
 
-**[01:51:05.960] Senator Sherwin "Win" T. Gatchalian** (asr-002551)  
+**[01:51:05.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002551)  
 So, having said that,
 
-**[01:51:08.260] Senator Sherwin "Win" T. Gatchalian** (asr-002552)  
+**[01:51:08.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002552)  
 narinig ko rin na
 
-**[01:51:09.240] Senator Sherwin "Win" T. Gatchalian** (asr-002553)  
+**[01:51:09.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002553)  
 napakadami ng mga reformang
 
-**[01:51:10.920] Senator Sherwin "Win" T. Gatchalian** (asr-002554)  
+**[01:51:10.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002554)  
 na gawa ang DPWH.
 
-**[01:51:13.580] Senator Sherwin "Win" T. Gatchalian** (asr-002555)  
+**[01:51:13.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002555)  
 Nakita ko nga kanina yung
 
-**[01:51:15.700] Senator Sherwin "Win" T. Gatchalian** (asr-002556)  
+**[01:51:15.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002556)  
 I took pictures of the slides.
 
-**[01:51:18.900] Senator Sherwin "Win" T. Gatchalian** (asr-002557)  
+**[01:51:18.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002557)  
 Yung feasibility study
 
-**[01:51:22.720] Senator Sherwin "Win" T. Gatchalian** (asr-002558)  
+**[01:51:22.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002558)  
 plus in certificate of
 
-**[01:51:24.500] Senator Sherwin "Win" T. Gatchalian** (asr-002559)  
+**[01:51:24.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002559)  
 implementability, which are
 
-**[01:51:26.920] Senator Sherwin "Win" T. Gatchalian** (asr-002560)  
+**[01:51:26.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002560)  
 all very good reforms.
 
-**[01:51:28.320] Senator Sherwin "Win" T. Gatchalian** (asr-002561)  
+**[01:51:28.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002561)  
 And then last year,
 
-**[01:51:30.440] Senator Sherwin "Win" T. Gatchalian** (asr-002562)  
+**[01:51:30.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002562)  
 together with DPWH,
 
-**[01:51:32.560] Senator Sherwin "Win" T. Gatchalian** (asr-002563)  
+**[01:51:32.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002563)  
 inumpisahan rin natin
 
-**[01:51:35.440] Senator Sherwin "Win" T. Gatchalian** (asr-002564)  
+**[01:51:35.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002564)  
 yung reforma sa loob ng
 
-**[01:51:36.540] Senator Sherwin "Win" T. Gatchalian** (asr-002565)  
+**[01:51:36.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002565)  
 budget. Because
 
-**[01:51:38.160] Senator Sherwin "Win" T. Gatchalian** (asr-002566)  
+**[01:51:38.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002566)  
 the budget is the starting point.
 
-**[01:51:40.580] Senator Sherwin "Win" T. Gatchalian** (asr-002567)  
+**[01:51:40.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002567)  
 Kung full proofing budget,
 
-**[01:51:43.160] Senator Sherwin "Win" T. Gatchalian** (asr-002568)  
+**[01:51:43.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002568)  
 mas mahirap
 
-**[01:51:44.800] Senator Sherwin "Win" T. Gatchalian** (asr-002569)  
+**[01:51:44.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002569)  
 ang magkaroon ng
 
-**[01:51:46.880] Senator Sherwin "Win" T. Gatchalian** (asr-002570)  
+**[01:51:46.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002570)  
 elbow room for
 
-**[01:51:48.480] Senator Sherwin "Win" T. Gatchalian** (asr-002571)  
+**[01:51:48.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002571)  
 corruption or for discretion.
 
-**[01:51:50.820] Senator Sherwin "Win" T. Gatchalian** (asr-002572)  
+**[01:51:50.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002572)  
 Kaya last year, together with
 
-**[01:51:52.360] Senator Sherwin "Win" T. Gatchalian** (asr-002573)  
+**[01:51:52.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002573)  
 DPWH, inumpisahan
 
-**[01:51:54.740] Senator Sherwin "Win" T. Gatchalian** (asr-002574)  
+**[01:51:54.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002574)  
 natin yung reform in the budget.
 
-**[01:51:56.640] Senator Sherwin "Win" T. Gatchalian** (asr-002575)  
+**[01:51:56.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002575)  
 Meaning, mas transparent,
 
-**[01:51:58.320] Senator Sherwin "Win" T. Gatchalian** (asr-002576)  
+**[01:51:58.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002576)  
 mas granular,
 
-**[01:52:00.360] Senator Sherwin "Win" T. Gatchalian** (asr-002577)  
+**[01:52:00.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002577)  
 mas mayroong technical description,
 
-**[01:52:02.620] Senator Sherwin "Win" T. Gatchalian** (asr-002578)  
+**[01:52:02.620] Senate President Sherwin "Win" T. Gatchalian** (asr-002578)  
 station numbers, and everything.
 
-**[01:52:04.680] Senator Sherwin "Win" T. Gatchalian** (asr-002579)  
+**[01:52:04.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002579)  
 And that was carried over
 
-**[01:52:06.640] Senator Sherwin "Win" T. Gatchalian** (asr-002580)  
+**[01:52:06.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002580)  
 in the 2026 budget.
 
-**[01:52:09.520] Senator Sherwin "Win" T. Gatchalian** (asr-002581)  
+**[01:52:09.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002581)  
 However,
 
-**[01:52:11.180] Senator Sherwin "Win" T. Gatchalian** (asr-002582)  
+**[01:52:11.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002582)  
 marami pa tayong room for
 
-**[01:52:16.300] Senator Sherwin "Win" T. Gatchalian** (asr-002583)  
+**[01:52:16.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002583)  
 improvement na pwedeng gawin.
 
-**[01:52:18.400] Senator Sherwin "Win" T. Gatchalian** (asr-002584)  
+**[01:52:18.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002584)  
 At nabuksan to kanina ng ating
 
-**[01:52:20.060] Senator Sherwin "Win" T. Gatchalian** (asr-002585)  
+**[01:52:20.060] Senate President Sherwin "Win" T. Gatchalian** (asr-002585)  
 chairman sa kanyang opening speech
 
-**[01:52:22.320] Senator Sherwin "Win" T. Gatchalian** (asr-002586)  
+**[01:52:22.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002586)  
 na mayroon pa rin kaming nakikita
 
-**[01:52:24.020] Senator Sherwin "Win" T. Gatchalian** (asr-002587)  
+**[01:52:24.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002587)  
 na room for improvement
 
-**[01:52:26.640] Senator Sherwin "Win" T. Gatchalian** (asr-002588)  
+**[01:52:26.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002588)  
 in the budget that we have.
 
-**[01:52:28.320] Senator Sherwin "Win" T. Gatchalian** (asr-002589)  
+**[01:52:28.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002589)  
 It was submitted to us.
 
-**[01:52:29.900] Senator Sherwin "Win" T. Gatchalian** (asr-002590)  
+**[01:52:29.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002590)  
 Meaning, marami pa kaming nakikita
 
-**[01:52:31.540] Senator Sherwin "Win" T. Gatchalian** (asr-002591)  
+**[01:52:31.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002591)  
 ang mga red flags. Tawag natin
 
-**[01:52:33.340] Senator Sherwin "Win" T. Gatchalian** (asr-002592)  
+**[01:52:33.340] Senate President Sherwin "Win" T. Gatchalian** (asr-002592)  
 last time red flags.
 
-**[01:52:36.520] Senator Sherwin "Win" T. Gatchalian** (asr-002593)  
+**[01:52:36.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002593)  
 And I want to
 
-**[01:52:37.560] Senator Sherwin "Win" T. Gatchalian** (asr-002594)  
+**[01:52:37.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002594)  
 point this out to
 
-**[01:52:39.480] Senator Sherwin "Win" T. Gatchalian** (asr-002595)  
+**[01:52:39.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002595)  
 the DPWH and later on
 
-**[01:52:42.320] Senator Sherwin "Win" T. Gatchalian** (asr-002596)  
+**[01:52:42.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002596)  
 isasubmit namin yung full list
 
-**[01:52:43.920] Senator Sherwin "Win" T. Gatchalian** (asr-002597)  
+**[01:52:43.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002597)  
 ng
 
-**[01:52:45.240] Senator Sherwin "Win" T. Gatchalian** (asr-002598)  
+**[01:52:45.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002598)  
 itong mga red flags para makorect
 
-**[01:52:48.120] Senator Sherwin "Win" T. Gatchalian** (asr-002599)  
+**[01:52:48.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002599)  
 ng DPWH bago
 
-**[01:52:50.320] Senator Sherwin "Win" T. Gatchalian** (asr-002600)  
+**[01:52:50.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002600)  
 magawa ng ating chairman yung
 
-**[01:52:51.940] Senator Sherwin "Win" T. Gatchalian** (asr-002601)  
+**[01:52:51.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002601)  
 committee report. So,
 
-**[01:52:53.920] Senator Sherwin "Win" T. Gatchalian** (asr-002602)  
+**[01:52:53.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002602)  
 ganoon na ginawa natin in 2026 actually.
 
-**[01:52:56.240] Senator Sherwin "Win" T. Gatchalian** (asr-002603)  
+**[01:52:56.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002603)  
 Nung pinoint out natin yung red flags,
 
-**[01:52:58.320] Senator Sherwin "Win" T. Gatchalian** (asr-002604)  
+**[01:52:58.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002604)  
 lininis ito ni
 
-**[01:53:01.560] Senator Sherwin "Win" T. Gatchalian** (asr-002605)  
+**[01:53:01.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002605)  
 Yusek Esquibel
 
-**[01:53:04.000] Senator Sherwin "Win" T. Gatchalian** (asr-002606)  
+**[01:53:04.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002606)  
 ni Lara. I think, oh, naglinis
 
-**[01:53:06.280] Senator Sherwin "Win" T. Gatchalian** (asr-002607)  
+**[01:53:06.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002607)  
 itong Lara, di ba? I remember
 
-**[01:53:07.840] Senator Sherwin "Win" T. Gatchalian** (asr-002608)  
+**[01:53:07.840] Senate President Sherwin "Win" T. Gatchalian** (asr-002608)  
 the team.
 
-**[01:53:09.880] Senator Sherwin "Win" T. Gatchalian** (asr-002609)  
+**[01:53:09.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002609)  
 I remember you submitted to us.
 
-**[01:53:12.100] Senator Sherwin "Win" T. Gatchalian** (asr-002610)  
+**[01:53:12.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002610)  
 And then yun yung inadopt namin
 
-**[01:53:13.480] Senator Sherwin "Win" T. Gatchalian** (asr-002611)  
+**[01:53:13.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002611)  
 in the 2026 GAA.
 
-**[01:53:15.940] Senator Sherwin "Win" T. Gatchalian** (asr-002612)  
+**[01:53:15.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002612)  
 Which was very effective.
 
-**[01:53:17.660] Senator Sherwin "Win" T. Gatchalian** (asr-002613)  
+**[01:53:17.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002613)  
 So, I just want to point this out
 
-**[01:53:20.060] Senator Sherwin "Win" T. Gatchalian** (asr-002614)  
+**[01:53:20.060] Senate President Sherwin "Win" T. Gatchalian** (asr-002614)  
 so that
 
-**[01:53:20.760] Senator Sherwin "Win" T. Gatchalian** (asr-002615)  
+**[01:53:20.760] Senate President Sherwin "Win" T. Gatchalian** (asr-002615)  
 lahat tayo matututo
 
-**[01:53:24.440] Senator Sherwin "Win" T. Gatchalian** (asr-002616)  
+**[01:53:24.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002616)  
 and makikita natin na mayroon pang
 
-**[01:53:26.060] Senator Sherwin "Win" T. Gatchalian** (asr-002617)  
+**[01:53:26.060] Senate President Sherwin "Win" T. Gatchalian** (asr-002617)  
 room for improvement. So,
 
-**[01:53:28.320] Senator Sherwin "Win" T. Gatchalian** (asr-002618)  
+**[01:53:28.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002618)  
 slide 49.
 
-**[01:53:33.660] Senator Sherwin "Win" T. Gatchalian** (asr-002619)  
+**[01:53:33.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002619)  
 So, we identified
 
-**[01:53:34.700] Senator Sherwin "Win" T. Gatchalian** (asr-002620)  
+**[01:53:34.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002620)  
 eight types of red flags.
 
-**[01:53:39.080] Senator Sherwin "Win" T. Gatchalian** (asr-002621)  
+**[01:53:39.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002621)  
 Kasi hiniwalay namin yung
 
-**[01:53:41.000] Senator Sherwin "Win" T. Gatchalian** (asr-002622)  
+**[01:53:41.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002622)  
 ibang mga red flags
 
-**[01:53:42.660] Senator Sherwin "Win" T. Gatchalian** (asr-002623)  
+**[01:53:42.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002623)  
 into much more granular.
 
-**[01:53:45.580] Senator Sherwin "Win" T. Gatchalian** (asr-002624)  
+**[01:53:45.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002624)  
 So, we identified
 
-**[01:53:47.020] Senator Sherwin "Win" T. Gatchalian** (asr-002625)  
+**[01:53:47.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002625)  
 eight types of red flags and I would like
 
-**[01:53:49.000] Senator Sherwin "Win" T. Gatchalian** (asr-002626)  
+**[01:53:49.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002626)  
 to inform the department
 
-**[01:53:51.360] Senator Sherwin "Win" T. Gatchalian** (asr-002627)  
+**[01:53:51.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002627)  
 itong mga red flags. Again, we'll submit
 
-**[01:53:53.180] Senator Sherwin "Win" T. Gatchalian** (asr-002628)  
+**[01:53:53.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002628)  
 to you the complete list, Secretary,
 
-**[01:53:55.100] Senator Sherwin "Win" T. Gatchalian** (asr-002629)  
+**[01:53:55.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002629)  
 para ma-amend natin before the committee report.
 
-**[01:53:58.320] Senator Sherwin "Win" T. Gatchalian** (asr-002630)  
+**[01:53:58.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002630)  
 So, ito yung mga red flags na nakita namin.
 
-**[01:54:00.560] Senator Sherwin "Win" T. Gatchalian** (asr-002631)  
+**[01:54:00.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002631)  
 Station number, duplicated
 
-**[01:54:02.680] Senator Sherwin "Win" T. Gatchalian** (asr-002632)  
+**[01:54:02.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002632)  
 projects, reappear
 
-**[01:54:04.560] Senator Sherwin "Win" T. Gatchalian** (asr-002633)  
+**[01:54:04.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002633)  
 from 2026 to 2027,
 
-**[01:54:07.540] Senator Sherwin "Win" T. Gatchalian** (asr-002634)  
+**[01:54:07.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002634)  
 no coordinates,
 
-**[01:54:08.720] Senator Sherwin "Win" T. Gatchalian** (asr-002635)  
+**[01:54:08.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002635)  
 lump sum, hindi na-discuss nyo kanina,
 
-**[01:54:11.380] Senator Sherwin "Win" T. Gatchalian** (asr-002636)  
+**[01:54:11.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002636)  
 overlapping,
 
-**[01:54:13.780] Senator Sherwin "Win" T. Gatchalian** (asr-002637)  
+**[01:54:13.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002637)  
 unspecified
 
-**[01:54:14.580] Senator Sherwin "Win" T. Gatchalian** (asr-002638)  
+**[01:54:14.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002638)  
 work scope, and conflicting type of work.
 
-**[01:54:16.780] Senator Sherwin "Win" T. Gatchalian** (asr-002639)  
+**[01:54:16.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002639)  
 And I'll show some examples na nakita
 
-**[01:54:18.540] Senator Sherwin "Win" T. Gatchalian** (asr-002640)  
+**[01:54:18.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002640)  
 namin in the
 
-**[01:54:20.100] Senator Sherwin "Win" T. Gatchalian** (asr-002641)  
+**[01:54:20.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002641)  
 NEP
 
-**[01:54:22.960] Senator Sherwin "Win" T. Gatchalian** (asr-002642)  
+**[01:54:22.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002642)  
 na pwede natin
 
-**[01:54:24.600] Senator Sherwin "Win" T. Gatchalian** (asr-002643)  
+**[01:54:24.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002643)  
 i-correct moving forward. So, in slide
 
-**[01:54:26.840] Senator Sherwin "Win" T. Gatchalian** (asr-002644)  
+**[01:54:26.840] Senate President Sherwin "Win" T. Gatchalian** (asr-002644)  
 50,
 
-**[01:54:28.320] Senator Sherwin "Win" T. Gatchalian** (asr-002645)  
+**[01:54:28.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002645)  
 so, we saw some projects
 
-**[01:54:30.000] Senator Sherwin "Win" T. Gatchalian** (asr-002646)  
+**[01:54:30.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002646)  
 na marami naman may
 
-**[01:54:32.820] Senator Sherwin "Win" T. Gatchalian** (asr-002647)  
+**[01:54:32.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002647)  
 may kalsada
 
-**[01:54:35.020] Senator Sherwin "Win" T. Gatchalian** (asr-002648)  
+**[01:54:35.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002648)  
 na may station number.
 
-**[01:54:36.440] Senator Sherwin "Win" T. Gatchalian** (asr-002649)  
+**[01:54:36.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002649)  
 Pero meron pa rin tayo nakitang mga
 
-**[01:54:38.400] Senator Sherwin "Win" T. Gatchalian** (asr-002650)  
+**[01:54:38.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002650)  
 kalsada na walang station number.
 
-**[01:54:40.600] Senator Sherwin "Win" T. Gatchalian** (asr-002651)  
+**[01:54:40.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002651)  
 So, slide 50, Elena.
 
-**[01:54:49.680] Senator Sherwin "Win" T. Gatchalian** (asr-002652)  
+**[01:54:49.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002652)  
 Yan, pakilaki na lang.
 
-**[01:54:51.780] Senator Sherwin "Win" T. Gatchalian** (asr-002653)  
+**[01:54:51.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002653)  
 So, may mga kalsada
 
-**[01:54:53.560] Senator Sherwin "Win" T. Gatchalian** (asr-002654)  
+**[01:54:53.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002654)  
 na may station number.
 
-**[01:54:55.280] Senator Sherwin "Win" T. Gatchalian** (asr-002655)  
+**[01:54:55.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002655)  
 May mga kalsada na walang station number.
 
-**[01:54:58.160] Senator Sherwin "Win" T. Gatchalian** (asr-002656)  
+**[01:54:58.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002656)  
 And,
 
-**[01:54:58.320] Senator Sherwin "Win" T. Gatchalian** (asr-002657)  
+**[01:54:58.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002657)  
 it's now the standard
 
-**[01:55:00.220] Senator Sherwin "Win" T. Gatchalian** (asr-002658)  
+**[01:55:00.220] Senate President Sherwin "Win" T. Gatchalian** (asr-002658)  
 na dapat may station number
 
-**[01:55:02.820] Senator Sherwin "Win" T. Gatchalian** (asr-002659)  
+**[01:55:02.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002659)  
 para malaman natin kung saan siya mag-uumpisa.
 
-**[01:55:05.540] Senator Sherwin "Win" T. Gatchalian** (asr-002660)  
+**[01:55:05.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002660)  
 Next slide, Elena.
 
-**[01:55:07.400] Senator Sherwin "Win" T. Gatchalian** (asr-002661)  
+**[01:55:07.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002661)  
 So, a few more examples
 
-**[01:55:08.920] Senator Sherwin "Win" T. Gatchalian** (asr-002662)  
+**[01:55:08.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002662)  
 of
 
-**[01:55:09.400] Senator Sherwin "Win" T. Gatchalian** (asr-002663)  
+**[01:55:09.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002663)  
 roads. O, ito naman,
 
-**[01:55:12.780] Senator Sherwin "Win" T. Gatchalian** (asr-002664)  
+**[01:55:12.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002664)  
 flood control. These are flood control
 
-**[01:55:14.700] Senator Sherwin "Win" T. Gatchalian** (asr-002665)  
+**[01:55:14.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002665)  
 projects na walang station number.
 
-**[01:55:17.020] Senator Sherwin "Win" T. Gatchalian** (asr-002666)  
+**[01:55:17.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002666)  
 Ito, mas mahalaga ito dahil alam naman natin
 
-**[01:55:19.140] Senator Sherwin "Win" T. Gatchalian** (asr-002667)  
+**[01:55:19.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002667)  
 yung flood control
 
-**[01:55:19.880] Senator Sherwin "Win" T. Gatchalian** (asr-002668)  
+**[01:55:19.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002668)  
 nasa malalayong lugar.
 
-**[01:55:22.400] Senator Sherwin "Win" T. Gatchalian** (asr-002669)  
+**[01:55:22.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002669)  
 Hindi natin makikita.
 
-**[01:55:24.120] Senator Sherwin "Win" T. Gatchalian** (asr-002670)  
+**[01:55:24.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002670)  
 Unlike the roads, kitang-kita.
 
-**[01:55:25.880] Senator Sherwin "Win" T. Gatchalian** (asr-002671)  
+**[01:55:25.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002671)  
 But, yung flood control, kung hindi ka magbabangka,
 
-**[01:55:28.100] Senator Sherwin "Win" T. Gatchalian** (asr-002672)  
+**[01:55:28.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002672)  
 hindi mo makikita talaga.
 
-**[01:55:31.000] Senator Sherwin "Win" T. Gatchalian** (asr-002673)  
+**[01:55:31.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002673)  
 And then, next, Elena.
 
-**[01:55:32.400] Senator Sherwin "Win" T. Gatchalian** (asr-002674)  
+**[01:55:32.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002674)  
 We also saw some bridges na walang
 
-**[01:55:34.520] Senator Sherwin "Win" T. Gatchalian** (asr-002675)  
+**[01:55:34.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002675)  
 ID. Marami sa mga bridges
 
-**[01:55:37.060] Senator Sherwin "Win" T. Gatchalian** (asr-002676)  
+**[01:55:37.060] Senate President Sherwin "Win" T. Gatchalian** (asr-002676)  
 nakita namin may mga ID,
 
-**[01:55:38.740] Senator Sherwin "Win" T. Gatchalian** (asr-002677)  
+**[01:55:38.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002677)  
 but may mga bridges na walang ID.
 
-**[01:55:41.480] Senator Sherwin "Win" T. Gatchalian** (asr-002678)  
+**[01:55:41.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002678)  
 So,
 
-**[01:55:42.240] Senator Sherwin "Win" T. Gatchalian** (asr-002679)  
+**[01:55:42.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002679)  
 we just want to flag
 
-**[01:55:44.580] Senator Sherwin "Win" T. Gatchalian** (asr-002680)  
+**[01:55:44.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002680)  
 the department on that.
 
-**[01:55:45.860] Senator Sherwin "Win" T. Gatchalian** (asr-002681)  
+**[01:55:45.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002681)  
 So, pag tinotal namin yan, next slide,
 
-**[01:55:51.340] Senator Sherwin "Win" T. Gatchalian** (asr-002682)  
+**[01:55:51.340] Senate President Sherwin "Win" T. Gatchalian** (asr-002682)  
 yung red flag one,
 
-**[01:55:52.680] Senator Sherwin "Win" T. Gatchalian** (asr-002683)  
+**[01:55:52.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002683)  
 it's about
 
-**[01:55:53.100] Senator Sherwin "Win" T. Gatchalian** (asr-002684)  
+**[01:55:53.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002684)  
 2,570 projects
 
-**[01:55:56.940] Senator Sherwin "Win" T. Gatchalian** (asr-002685)  
+**[01:55:56.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002685)  
 worth about 83 billion pesos.
 
-**[01:55:58.100] Senator Sherwin "Win" T. Gatchalian** (asr-002686)  
+**[01:55:58.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002686)  
 So, let's
 
-**[01:56:00.560] Senator Sherwin "Win" T. Gatchalian** (asr-002687)  
+**[01:56:00.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002687)  
 just ask the district engineer
 
-**[01:56:02.660] Senator Sherwin "Win" T. Gatchalian** (asr-002688)  
+**[01:56:02.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002688)  
 to include all of
 
-**[01:56:04.640] Senator Sherwin "Win" T. Gatchalian** (asr-002689)  
+**[01:56:04.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002689)  
 these details.
 
-**[01:56:06.400] Senator Sherwin "Win" T. Gatchalian** (asr-002690)  
+**[01:56:06.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002690)  
 The next red flag,
 
-**[01:56:08.780] Senator Sherwin "Win" T. Gatchalian** (asr-002691)  
+**[01:56:08.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002691)  
 ito yung tinatawag namin, duplicate
 
-**[01:56:10.400] Senator Sherwin "Win" T. Gatchalian** (asr-002692)  
+**[01:56:10.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002692)  
 projects.
 
-**[01:56:11.880] Senator Sherwin "Win" T. Gatchalian** (asr-002693)  
+**[01:56:11.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002693)  
 Next slide.
 
-**[01:56:13.980] Senator Sherwin "Win" T. Gatchalian** (asr-002694)  
+**[01:56:13.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002694)  
 So, may mga nakikita kaming mga construction
 
-**[01:56:16.220] Senator Sherwin "Win" T. Gatchalian** (asr-002695)  
+**[01:56:16.220] Senate President Sherwin "Win" T. Gatchalian** (asr-002695)  
 of seawall. Pag makikita nyo, parehong-pareho
 
-**[01:56:18.920] Senator Sherwin "Win" T. Gatchalian** (asr-002696)  
+**[01:56:18.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002696)  
 yung title.
 
-**[01:56:20.260] Senator Sherwin "Win" T. Gatchalian** (asr-002697)  
+**[01:56:20.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002697)  
 Minsan, wrong spelling lang yung iba.
 
-**[01:56:22.720] Senator Sherwin "Win" T. Gatchalian** (asr-002698)  
+**[01:56:22.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002698)  
 So,
 
-**[01:56:24.480] Senator Sherwin "Win" T. Gatchalian** (asr-002699)  
+**[01:56:24.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002699)  
 like for example,
 
-**[01:56:26.800] Senator Sherwin "Win" T. Gatchalian** (asr-002700)  
+**[01:56:26.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002700)  
 dito sa Tugay Garaw,
 
-**[01:56:28.100] Senator Sherwin "Win" T. Gatchalian** (asr-002701)  
+**[01:56:28.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002701)  
 construction of drainage system along
 
-**[01:56:30.320] Senator Sherwin "Win" T. Gatchalian** (asr-002702)  
+**[01:56:30.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002702)  
 Caritan
 
-**[01:56:31.880] Senator Sherwin "Win" T. Gatchalian** (asr-002703)  
+**[01:56:31.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002703)  
 Balzain Creek.
 
-**[01:56:34.980] Senator Sherwin "Win" T. Gatchalian** (asr-002704)  
+**[01:56:34.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002704)  
 So, meron dalawang ganyan.
 
-**[01:56:37.740] Senator Sherwin "Win" T. Gatchalian** (asr-002705)  
+**[01:56:37.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002705)  
 In flood control,
 
-**[01:56:39.360] Senator Sherwin "Win" T. Gatchalian** (asr-002706)  
+**[01:56:39.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002706)  
 water supply system,
 
-**[01:56:41.000] Senator Sherwin "Win" T. Gatchalian** (asr-002707)  
+**[01:56:41.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002707)  
 and next slide,
 
-**[01:56:42.600] Senator Sherwin "Win" T. Gatchalian** (asr-002708)  
+**[01:56:42.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002708)  
 multipurpose buildings, meron rin ganoon.
 
-**[01:56:44.980] Senator Sherwin "Win" T. Gatchalian** (asr-002709)  
+**[01:56:44.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002709)  
 Rehabilitation multipurpose building
 
-**[01:56:46.780] Senator Sherwin "Win" T. Gatchalian** (asr-002710)  
+**[01:56:46.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002710)  
 in Barangay Santo Angel. Ito, wrong spelling lang.
 
-**[01:56:51.200] Senator Sherwin "Win" T. Gatchalian** (asr-002711)  
+**[01:56:51.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002711)  
 Isang angel, isang angel.
 
-**[01:56:53.820] Senator Sherwin "Win" T. Gatchalian** (asr-002712)  
+**[01:56:53.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002712)  
 So, but it's
 
-**[01:56:54.660] Senator Sherwin "Win" T. Gatchalian** (asr-002713)  
+**[01:56:54.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002713)  
 exactly the same.
 
-**[01:56:57.360] Senator Sherwin "Win" T. Gatchalian** (asr-002714)  
+**[01:56:57.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002714)  
 So,
 
-**[01:56:58.100] Senator Sherwin "Win" T. Gatchalian** (asr-002715)  
+**[01:56:58.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002715)  
 next slide.
 
-**[01:56:59.720] Senator Sherwin "Win" T. Gatchalian** (asr-002716)  
+**[01:56:59.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002716)  
 Again, pag tinotal natin ito, that's about
 
-**[01:57:01.840] Senator Sherwin "Win" T. Gatchalian** (asr-002717)  
+**[01:57:01.840] Senate President Sherwin "Win" T. Gatchalian** (asr-002717)  
 189 projects worth about
 
-**[01:57:04.100] Senator Sherwin "Win" T. Gatchalian** (asr-002718)  
+**[01:57:04.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002718)  
 3 billion pesos.
 
-**[01:57:06.720] Senator Sherwin "Win" T. Gatchalian** (asr-002719)  
+**[01:57:06.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002719)  
 Next will be
 
-**[01:57:08.100] Senator Sherwin "Win" T. Gatchalian** (asr-002720)  
+**[01:57:08.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002720)  
 itong
 
-**[01:57:09.680] Senator Sherwin "Win" T. Gatchalian** (asr-002721)  
+**[01:57:09.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002721)  
 nagre-reappear
 
-**[01:57:12.080] Senator Sherwin "Win" T. Gatchalian** (asr-002722)  
+**[01:57:12.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002722)  
 from 2026 to 2027.
 
-**[01:57:15.520] Senator Sherwin "Win" T. Gatchalian** (asr-002723)  
+**[01:57:15.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002723)  
 Nakita namin
 
-**[01:57:16.480] Senator Sherwin "Win" T. Gatchalian** (asr-002724)  
+**[01:57:16.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002724)  
 na, for example,
 
-**[01:57:18.320] Senator Sherwin "Win" T. Gatchalian** (asr-002725)  
+**[01:57:18.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002725)  
 sa Lawag-San Nicolas bypass roads,
 
-**[01:57:20.520] Senator Sherwin "Win" T. Gatchalian** (asr-002726)  
+**[01:57:20.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002726)  
 exactly the same. Pati yung
 
-**[01:57:22.260] Senator Sherwin "Win" T. Gatchalian** (asr-002727)  
+**[01:57:22.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002727)  
 station number, exactly the same.
 
-**[01:57:25.200] Senator Sherwin "Win" T. Gatchalian** (asr-002728)  
+**[01:57:25.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002728)  
 Iba lang yung amount.
 
-**[01:57:27.400] Senator Sherwin "Win" T. Gatchalian** (asr-002729)  
+**[01:57:27.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002729)  
 So,
 
-**[01:57:28.100] Senator Sherwin "Win" T. Gatchalian** (asr-002730)  
+**[01:57:28.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002730)  
 sa water supply system
 
-**[01:57:30.760] Senator Sherwin "Win" T. Gatchalian** (asr-002731)  
+**[01:57:30.760] Senate President Sherwin "Win" T. Gatchalian** (asr-002731)  
 also, it's the same for
 
-**[01:57:31.980] Senator Sherwin "Win" T. Gatchalian** (asr-002732)  
+**[01:57:31.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002732)  
 2026, 2027.
 
-**[01:57:35.220] Senator Sherwin "Win" T. Gatchalian** (asr-002733)  
+**[01:57:35.220] Senate President Sherwin "Win" T. Gatchalian** (asr-002733)  
 Next slide.
 
-**[01:57:36.460] Senator Sherwin "Win" T. Gatchalian** (asr-002734)  
+**[01:57:36.460] Senate President Sherwin "Win" T. Gatchalian** (asr-002734)  
 Multipurpose building,
 
-**[01:57:38.660] Senator Sherwin "Win" T. Gatchalian** (asr-002735)  
+**[01:57:38.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002735)  
 it's exactly the same rin.
 
-**[01:57:43.260] Senator Sherwin "Win" T. Gatchalian** (asr-002736)  
+**[01:57:43.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002736)  
 Bridges,
 
-**[01:57:44.080] Senator Sherwin "Win" T. Gatchalian** (asr-002737)  
+**[01:57:44.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002737)  
 exactly the same rin for
 
-**[01:57:45.780] Senator Sherwin "Win" T. Gatchalian** (asr-002738)  
+**[01:57:45.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002738)  
 2026, 2027.
 
-**[01:57:49.320] Senator Sherwin "Win" T. Gatchalian** (asr-002739)  
+**[01:57:49.320] Senate President Sherwin "Win" T. Gatchalian** (asr-002739)  
 Ang
 
-**[01:57:49.960] Senator Sherwin "Win" T. Gatchalian** (asr-002740)  
+**[01:57:49.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002740)  
 nangyari explanation before
 
-**[01:57:52.120] Senator Sherwin "Win" T. Gatchalian** (asr-002741)  
+**[01:57:52.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002741)  
 sa akin, minsan it happens in phases.
 
-**[01:57:54.440] Senator Sherwin "Win" T. Gatchalian** (asr-002742)  
+**[01:57:54.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002742)  
 Kung hindi matatapos yung una,
 
-**[01:57:56.040] Senator Sherwin "Win" T. Gatchalian** (asr-002743)  
+**[01:57:56.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002743)  
 next phase yung
 
-**[01:57:58.100] Senator Sherwin "Win" T. Gatchalian** (asr-002744)  
+**[01:57:58.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002744)  
 sa next year.
 
-**[01:57:59.420] Senator Sherwin "Win" T. Gatchalian** (asr-002745)  
+**[01:57:59.420] Senate President Sherwin "Win" T. Gatchalian** (asr-002745)  
 Kung ganun, dapat palitan na lang, let's say,
 
-**[01:58:01.560] Senator Sherwin "Win" T. Gatchalian** (asr-002746)  
+**[01:58:01.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002746)  
 construction and then to completion
 
-**[01:58:03.660] Senator Sherwin "Win" T. Gatchalian** (asr-002747)  
+**[01:58:03.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002747)  
 para lang very clear and transparent.
 
-**[01:58:08.040] Senator Sherwin "Win" T. Gatchalian** (asr-002748)  
+**[01:58:08.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002748)  
 So, next slide.
 
-**[01:58:09.120] Senator Sherwin "Win" T. Gatchalian** (asr-002749)  
+**[01:58:09.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002749)  
 The total of that is about 258
 
-**[01:58:11.300] Senator Sherwin "Win" T. Gatchalian** (asr-002750)  
+**[01:58:11.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002750)  
 projects worth about 20 billion pesos.
 
-**[01:58:16.180] Senator Sherwin "Win" T. Gatchalian** (asr-002751)  
+**[01:58:16.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002751)  
 Next will be
 
-**[01:58:17.500] Senator Sherwin "Win" T. Gatchalian** (asr-002752)  
+**[01:58:17.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002752)  
 the no coordinates.
 
-**[01:58:19.860] Senator Sherwin "Win" T. Gatchalian** (asr-002753)  
+**[01:58:19.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002753)  
 Maraming mga projects with coordinates.
 
-**[01:58:22.280] Senator Sherwin "Win" T. Gatchalian** (asr-002754)  
+**[01:58:22.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002754)  
 Pero may mga few projects
 
-**[01:58:24.040] Senator Sherwin "Win" T. Gatchalian** (asr-002755)  
+**[01:58:24.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002755)  
 nakita namin na wala pa rin
 
-**[01:58:25.400] Senator Sherwin "Win" T. Gatchalian** (asr-002756)  
+**[01:58:25.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002756)  
 yung coordinates.
 
-**[01:58:26.600] Senator Sherwin "Win" T. Gatchalian** (asr-002757)  
+**[01:58:26.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002757)  
 For flood control,
 
-**[01:58:28.100] Senator Sherwin "Win" T. Gatchalian** (asr-002758)  
+**[01:58:28.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002758)  
 for multipurpose building,
 
-**[01:58:29.520] Senator Sherwin "Win" T. Gatchalian** (asr-002759)  
+**[01:58:29.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002759)  
 for water supply.
 
-**[01:58:30.960] Senator Sherwin "Win" T. Gatchalian** (asr-002760)  
+**[01:58:30.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002760)  
 In flood control,
 
-**[01:58:31.820] Senator Sherwin "Win" T. Gatchalian** (asr-002761)  
+**[01:58:31.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002761)  
 importante yan dahil alam naman natin,
 
-**[01:58:34.120] Senator Sherwin "Win" T. Gatchalian** (asr-002762)  
+**[01:58:34.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002762)  
 again, malalayo yan.
 
-**[01:58:37.420] Senator Sherwin "Win" T. Gatchalian** (asr-002763)  
+**[01:58:37.420] Senate President Sherwin "Win" T. Gatchalian** (asr-002763)  
 So, next slide.
 
-**[01:58:40.240] Senator Sherwin "Win" T. Gatchalian** (asr-002764)  
+**[01:58:40.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002764)  
 The total for red flag number 4
 
-**[01:58:42.020] Senator Sherwin "Win" T. Gatchalian** (asr-002765)  
+**[01:58:42.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002765)  
 is about 3,500 projects
 
-**[01:58:44.220] Senator Sherwin "Win" T. Gatchalian** (asr-002766)  
+**[01:58:44.220] Senate President Sherwin "Win" T. Gatchalian** (asr-002766)  
 worth about 83 billion pesos.
 
-**[01:58:49.520] Senator Sherwin "Win" T. Gatchalian** (asr-002767)  
+**[01:58:49.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002767)  
 Next will be the lump sum projects.
 
-**[01:58:51.940] Senator Sherwin "Win" T. Gatchalian** (asr-002768)  
+**[01:58:51.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002768)  
 But ito na explained naman kanina
 
-**[01:58:53.800] Senator Sherwin "Win" T. Gatchalian** (asr-002769)  
+**[01:58:53.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002769)  
 ni si Secretary
 
-**[01:58:54.540] Senator Sherwin "Win" T. Gatchalian** (asr-002770)  
+**[01:58:54.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002770)  
 na ginagamit ito
 
-**[01:58:56.640] Senator Sherwin "Win" T. Gatchalian** (asr-002771)  
+**[01:58:56.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002771)  
 sort of like a
 
-**[01:58:58.100] Senator Sherwin "Win" T. Gatchalian** (asr-002776)  
+**[01:58:58.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002776)  
 contingency fund
 
-**[01:58:58.720] Senator Sherwin "Win" T. Gatchalian** (asr-002777)  
+**[01:58:58.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002777)  
 para kung may mga
 
-**[01:59:00.980] Senator Sherwin "Win" T. Gatchalian** (asr-002778)  
+**[01:59:00.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002778)  
 kailangan i-repair
 
-**[01:59:02.280] Senator Sherwin "Win" T. Gatchalian** (asr-002779)  
+**[01:59:02.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002779)  
 in the middle of the year,
 
-**[01:59:03.820] Senator Sherwin "Win" T. Gatchalian** (asr-002780)  
+**[01:59:03.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002780)  
 mayroong pagkukunan.
 
-**[01:59:05.020] Senator Sherwin "Win" T. Gatchalian** (asr-002781)  
+**[01:59:05.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002781)  
 So, alright.
 
-**[01:59:07.900] Senator Sherwin "Win" T. Gatchalian** (asr-002782)  
+**[01:59:07.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002782)  
 We'll skip the amounts.
 
-**[01:59:10.080] Senator Sherwin "Win" T. Gatchalian** (asr-002783)  
+**[01:59:10.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002783)  
 Well, the amounts is,
 
-**[01:59:11.040] Senator Sherwin "Win" T. Gatchalian** (asr-002784)  
+**[01:59:11.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002784)  
 next slide,
 
-**[01:59:11.660] Senator Sherwin "Win" T. Gatchalian** (asr-002785)  
+**[01:59:11.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002785)  
 ang lump sum amounts
 
-**[01:59:13.220] Senator Sherwin "Win" T. Gatchalian** (asr-002786)  
+**[01:59:13.220] Senate President Sherwin "Win" T. Gatchalian** (asr-002786)  
 is about 14 billion pesos
 
-**[01:59:14.880] Senator Sherwin "Win" T. Gatchalian** (asr-002787)  
+**[01:59:14.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002787)  
 across different programs.
 
-**[01:59:19.580] Senator Sherwin "Win" T. Gatchalian** (asr-002788)  
+**[01:59:19.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002788)  
 Next will be
 
-**[01:59:20.820] Senator Sherwin "Win" T. Gatchalian** (asr-002789)  
+**[01:59:20.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002789)  
 red flag 6.
 
-**[01:59:24.720] Senator Sherwin "Win" T. Gatchalian** (asr-002790)  
+**[01:59:24.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002790)  
 Ito, Secretary,
 
-**[01:59:27.020] Senator Sherwin "Win" T. Gatchalian** (asr-002791)  
+**[01:59:27.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002791)  
 ngayon lang namin nakita,
 
-**[01:59:27.720] Senator Sherwin "Win" T. Gatchalian** (asr-002792)  
+**[01:59:27.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002792)  
 nakita ito,
 
-**[01:59:28.340] Senator Sherwin "Win" T. Gatchalian** (asr-002793)  
+**[01:59:28.340] Senate President Sherwin "Win" T. Gatchalian** (asr-002793)  
 but if you look at
 
-**[01:59:29.540] Senator Sherwin "Win" T. Gatchalian** (asr-002794)  
+**[01:59:29.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002794)  
 the station number,
 
-**[01:59:32.380] Senator Sherwin "Win" T. Gatchalian** (asr-002795)  
+**[01:59:32.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002795)  
 itong sa Canon Road,
 
-**[01:59:34.580] Senator Sherwin "Win" T. Gatchalian** (asr-002796)  
+**[01:59:34.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002796)  
 1 plus 594.
 
-**[01:59:39.240] Senator Sherwin "Win" T. Gatchalian** (asr-002797)  
+**[01:59:39.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002797)  
 In isang project,
 
-**[01:59:40.400] Senator Sherwin "Win" T. Gatchalian** (asr-002798)  
+**[01:59:40.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002798)  
 ganun rin,
 
-**[01:59:40.900] Senator Sherwin "Win" T. Gatchalian** (asr-002799)  
+**[01:59:40.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002799)  
 1 plus 594.
 
-**[01:59:45.480] Senator Sherwin "Win" T. Gatchalian** (asr-002800)  
+**[01:59:45.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002800)  
 Pero yung dulo niya,
 
-**[01:59:47.680] Senator Sherwin "Win" T. Gatchalian** (asr-002801)  
+**[01:59:47.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002801)  
 iba.
 
-**[01:59:48.640] Senator Sherwin "Win" T. Gatchalian** (asr-002802)  
+**[01:59:48.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002802)  
 So, in other words,
 
-**[01:59:49.900] Senator Sherwin "Win" T. Gatchalian** (asr-002803)  
+**[01:59:49.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002803)  
 both projects started
 
-**[01:59:50.960] Senator Sherwin "Win" T. Gatchalian** (asr-002804)  
+**[01:59:50.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002804)  
 in the same location
 
-**[01:59:52.300] Senator Sherwin "Win" T. Gatchalian** (asr-002805)  
+**[01:59:52.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002805)  
 but ended in
 
-**[01:59:53.860] Senator Sherwin "Win" T. Gatchalian** (asr-002806)  
+**[01:59:53.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002806)  
 different locations.
 
-**[01:59:55.880] Senator Sherwin "Win" T. Gatchalian** (asr-002807)  
+**[01:59:55.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002807)  
 So,
 
-**[01:59:56.440] Senator Sherwin "Win" T. Gatchalian** (asr-002808)  
+**[01:59:56.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002808)  
 parang overlapping
 
-**[01:59:58.100] Senator Sherwin "Win" T. Gatchalian** (asr-002809)  
+**[01:59:58.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002809)  
 itong project na ito.
 
-**[02:00:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-002810)  
+**[02:00:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002810)  
 So, that's why we call it overlapping yung project.
 
-**[02:00:04.860] Senator Sherwin "Win" T. Gatchalian** (asr-002811)  
+**[02:00:04.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002811)  
 So, kasi starting point niya, the same ending point na iba.
 
-**[02:00:11.460] Senator Sherwin "Win" T. Gatchalian** (asr-002812)  
+**[02:00:11.460] Senate President Sherwin "Win" T. Gatchalian** (asr-002812)  
 Ito naman yung tawag namin, fragmented.
 
-**[02:00:15.040] Senator Sherwin "Win" T. Gatchalian** (asr-002813)  
+**[02:00:15.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002813)  
 One single project lang ito, pero iba-iba.
 
-**[02:00:19.480] Senator Sherwin "Win" T. Gatchalian** (asr-002814)  
+**[02:00:19.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002814)  
 Isang malaking project ito, pero iba-iba yung kanyang station number.
 
-**[02:00:24.500] Senator Sherwin "Win" T. Gatchalian** (asr-002815)  
+**[02:00:24.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002815)  
 So, it's one contiguous project, pero na-break up lang siya to 135 million tig-isang project.
 
-**[02:00:32.180] Senator Sherwin "Win" T. Gatchalian** (asr-002816)  
+**[02:00:32.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002816)  
 This is in Misamis Occidental.
 
-**[02:00:37.920] Senator Sherwin "Win" T. Gatchalian** (asr-002817)  
+**[02:00:37.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002817)  
 Next.
 
-**[02:00:40.100] Senator Sherwin "Win" T. Gatchalian** (asr-002818)  
+**[02:00:40.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002818)  
 Ito naman, fragmented and overlapping.
 
-**[02:00:43.300] Senator Sherwin "Win" T. Gatchalian** (asr-002819)  
+**[02:00:43.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002819)  
 Pag makikita natin, the same yung kanyang starting point, pero along the way, nag-overlap siya with other projects.
 
-**[02:00:53.220] Senator Sherwin "Win" T. Gatchalian** (asr-002820)  
+**[02:00:53.220] Senate President Sherwin "Win" T. Gatchalian** (asr-002820)  
 Next slide.
 
-**[02:00:54.100] Senator Sherwin "Win" T. Gatchalian** (asr-002821)  
+**[02:00:54.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002821)  
 Next slide.
 
-**[02:00:54.140] Senator Sherwin "Win" T. Gatchalian** (asr-002822)  
+**[02:00:54.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002822)  
 So, on total nito is about 533 projects, about 63 billion.
 
-**[02:01:02.760] Senator Sherwin "Win" T. Gatchalian** (asr-002823)  
+**[02:01:02.760] Senate President Sherwin "Win" T. Gatchalian** (asr-002823)  
 Next will be unspecified work scope.
 
-**[02:01:06.940] Senator Sherwin "Win" T. Gatchalian** (asr-002824)  
+**[02:01:06.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002824)  
 Kasi yung mga ibang mga projects, napansin namin merong barangay hall, merong covered court, merong evacuation center.
 
-**[02:01:13.720] Senator Sherwin "Win" T. Gatchalian** (asr-002825)  
+**[02:01:13.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002825)  
 Very specific siya.
 
-**[02:01:16.500] Senator Sherwin "Win" T. Gatchalian** (asr-002826)  
+**[02:01:16.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002826)  
 Itong multi-purpose buildings, hindi siya specific in some of the items.
 
-**[02:01:20.580] Senator Sherwin "Win" T. Gatchalian** (asr-002827)  
+**[02:01:20.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002827)  
 So, hindi natin alam kung siya ay valid.
 
-**[02:01:24.140] Senator Sherwin "Win" T. Gatchalian** (asr-002828)  
+**[02:01:24.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002828)  
 Evacuation center or covered court.
 
-**[02:01:27.920] Senator Sherwin "Win" T. Gatchalian** (asr-002829)  
+**[02:01:27.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002829)  
 So, yung mga ganyan na projects, we identified it, about 62 projects worth.
 
-**[02:01:32.460] Senator Sherwin "Win" T. Gatchalian** (asr-002830)  
+**[02:01:32.460] Senate President Sherwin "Win" T. Gatchalian** (asr-002830)  
 Next slide.
 
-**[02:01:33.680] Senator Sherwin "Win" T. Gatchalian** (asr-002831)  
+**[02:01:33.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002831)  
 1.5 billion pesos.
 
-**[02:01:37.920] Senator Sherwin "Win" T. Gatchalian** (asr-002832)  
+**[02:01:37.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002832)  
 And next will be what we call conflicting type work.
 
-**[02:01:42.860] Senator Sherwin "Win" T. Gatchalian** (asr-002833)  
+**[02:01:42.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002833)  
 In the same GA, may construction of road ka in barangay Mambabanga.
 
-**[02:01:52.260] Senator Sherwin "Win" T. Gatchalian** (asr-002834)  
+**[02:01:52.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002834)  
 Tapos in the same year,
 
-**[02:01:53.980] Senator Sherwin "Win" T. Gatchalian** (asr-002835)  
+**[02:01:53.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002835)  
 mayroon rehabilitation.
 
-**[02:01:55.740] Senator Sherwin "Win" T. Gatchalian** (asr-002836)  
+**[02:01:55.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002836)  
 So, you started to construct, but also rehabilitate.
 
-**[02:02:01.300] Senator Sherwin "Win" T. Gatchalian** (asr-002837)  
+**[02:02:01.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002837)  
 So, dapat malinis mabuti ito, whether this is construction, rehabilitation, or
 
-**[02:02:08.720] Senator Sherwin "Win" T. Gatchalian** (asr-002838)  
+**[02:02:08.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002838)  
 posibleng mag-construct, tapos nag-rehabilitate in the same year.
 
-**[02:02:14.020] Senator Sherwin "Win" T. Gatchalian** (asr-002839)  
+**[02:02:14.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002839)  
 So, ang number of projects nito is about 20 projects worth 386 million.
 
-**[02:02:22.300] Senator Sherwin "Win" T. Gatchalian** (asr-002840)  
+**[02:02:22.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002840)  
 So, pag tinotal,
 
-**[02:02:23.900] Senator Sherwin "Win" T. Gatchalian** (asr-002841)  
+**[02:02:23.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002841)  
 natin ito lahat.
 
-**[02:02:25.800] Senator Sherwin "Win" T. Gatchalian** (asr-002842)  
+**[02:02:25.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002842)  
 This is about 7,107 projects.
 
-**[02:02:32.120] Senator Sherwin "Win" T. Gatchalian** (asr-002843)  
+**[02:02:32.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002843)  
 Next slide.
 
-**[02:02:34.620] Senator Sherwin "Win" T. Gatchalian** (asr-002844)  
+**[02:02:34.620] Senate President Sherwin "Win" T. Gatchalian** (asr-002844)  
 7,107 projects.
 
-**[02:02:37.560] Senator Sherwin "Win" T. Gatchalian** (asr-002845)  
+**[02:02:37.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002845)  
 Parang 7,107 islands.
 
-**[02:02:40.280] Senator Sherwin "Win" T. Gatchalian** (asr-002846)  
+**[02:02:40.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002846)  
 Pero projects worth about 251 billion pesos.
 
-**[02:02:46.920] Senator Sherwin "Win" T. Gatchalian** (asr-002847)  
+**[02:02:46.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002847)  
 So, in other words, sa kita, marami ng reforms, marami ng nalinis,
 
-**[02:02:51.120] Senator Sherwin "Win" T. Gatchalian** (asr-002848)  
+**[02:02:51.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002848)  
 but marami pa rin, I think,
 
-**[02:02:53.900] Senator Sherwin "Win" T. Gatchalian** (asr-002849)  
+**[02:02:53.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002849)  
 lusot sa scrutiny.
 
-**[02:02:55.900] Senator Sherwin "Win" T. Gatchalian** (asr-002850)  
+**[02:02:55.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002850)  
 And I really want to flag,
 
-**[02:02:57.720] Senator Sherwin "Win" T. Gatchalian** (asr-002851)  
+**[02:02:57.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002851)  
 nakita ko may mga regional directors tayo dito,
 
-**[02:03:00.520] Senator Sherwin "Win" T. Gatchalian** (asr-002852)  
+**[02:03:00.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002852)  
 tsaka district engineers.
 
-**[02:03:02.520] Senator Sherwin "Win" T. Gatchalian** (asr-002853)  
+**[02:03:02.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002853)  
 Dapat yung mga district engineers natin and regional directors,
 
-**[02:03:06.040] Senator Sherwin "Win" T. Gatchalian** (asr-002854)  
+**[02:03:06.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002854)  
 kayo na ang maglinis nung data ninyo.
 
-**[02:03:09.360] Senator Sherwin "Win" T. Gatchalian** (asr-002855)  
+**[02:03:09.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002855)  
 Dahil sa dami ng projects, almost 12,000 projects,
 
-**[02:03:12.640] Senator Sherwin "Win" T. Gatchalian** (asr-002856)  
+**[02:03:12.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002856)  
 pag umakyat sa central,
 
-**[02:03:14.620] Senator Sherwin "Win" T. Gatchalian** (asr-002857)  
+**[02:03:14.620] Senate President Sherwin "Win" T. Gatchalian** (asr-002857)  
 napakahirap naman linisin nila.
 
-**[02:03:17.620] Senator Sherwin "Win" T. Gatchalian** (asr-002858)  
+**[02:03:17.620] Senate President Sherwin "Win" T. Gatchalian** (asr-002858)  
 Dapat sa district pa lang, sa regional pa lang, nalinis na ito.
 
-**[02:03:21.820] Senator Sherwin "Win" T. Gatchalian** (asr-002859)  
+**[02:03:21.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002859)  
 Hopefully, I'm assuming this is not intentional,
 
-**[02:03:23.900] Senator Sherwin "Win" T. Gatchalian** (asr-002860)  
+**[02:03:23.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002860)  
 I hope.
 
-**[02:03:27.160] Senator Sherwin "Win" T. Gatchalian** (asr-002861)  
+**[02:03:27.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002861)  
 But we're flagging the department so that the department can clean up
 
-**[02:03:32.180] Senator Sherwin "Win" T. Gatchalian** (asr-002862)  
+**[02:03:32.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002862)  
 and submit to the committee prior to the generation of the committee report.
 
-**[02:03:38.340] Senator Sherwin "Win" T. Gatchalian** (asr-002863)  
+**[02:03:38.340] Senate President Sherwin "Win" T. Gatchalian** (asr-002863)  
 Nagawa na natin ito, Secretary, in the past.
 
-**[02:03:40.380] Senator Sherwin "Win" T. Gatchalian** (asr-002864)  
+**[02:03:40.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002864)  
 Nalinis na rin natin ito.
 
-**[02:03:41.660] Senator Sherwin "Win" T. Gatchalian** (asr-002865)  
+**[02:03:41.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002865)  
 So, we'll work together in cleaning up this list.
 
-**[02:03:45.860] Senator Sherwin "Win" T. Gatchalian** (asr-002866)  
+**[02:03:45.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002866)  
 So, I would like to thank yung aming,
 
-**[02:03:50.040] Senator Sherwin "Win" T. Gatchalian** (asr-002867)  
+**[02:03:50.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002867)  
 meron kaming kinuha, hindi ho, AI yung kinuha namin, Secretary.
 
-**[02:03:53.900] Senator Sherwin "Win" T. Gatchalian** (asr-002868)  
+**[02:03:53.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002868)  
 V.I., Valenzuela Intelligence, yung mga,
 
-**[02:03:57.140] Senator Sherwin "Win" T. Gatchalian** (asr-002869)  
+**[02:03:57.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002869)  
 ay, doon ba?
 
-**[02:03:58.660] Senator Sherwin "Win" T. Gatchalian** (asr-002870)  
+**[02:03:58.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002870)  
 Nasa taas pala.
 
-**[02:03:59.920] Senator Sherwin "Win" T. Gatchalian** (asr-002871)  
+**[02:03:59.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002871)  
 Mga studyante ho sa aming pamantasan,
 
-**[02:04:03.120] Senator Sherwin "Win" T. Gatchalian** (asr-002872)  
+**[02:04:03.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002872)  
 pamantasan ng Lusod ng Valenzuela,
 
-**[02:04:05.700] Senator Sherwin "Win" T. Gatchalian** (asr-002873)  
+**[02:04:05.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002873)  
 na mga accounting graduates,
 
-**[02:04:07.680] Senator Sherwin "Win" T. Gatchalian** (asr-002874)  
+**[02:04:07.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002874)  
 nag-intern sila para one by one talaga linisin.
 
-**[02:04:10.660] Senator Sherwin "Win" T. Gatchalian** (asr-002875)  
+**[02:04:10.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002875)  
 I know artificial intelligence may limitation rin eh.
 
-**[02:04:13.700] Senator Sherwin "Win" T. Gatchalian** (asr-002876)  
+**[02:04:13.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002876)  
 So, talagang one by one per station number tinignan nila
 
-**[02:04:17.460] Senator Sherwin "Win" T. Gatchalian** (asr-002877)  
+**[02:04:17.460] Senate President Sherwin "Win" T. Gatchalian** (asr-002877)  
 para siguradong malinis at maayos at accurate.
 
-**[02:04:21.240] Senator Sherwin "Win" T. Gatchalian** (asr-002878)  
+**[02:04:21.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002878)  
 So, yun yung aming ginamit.
 
-**[02:04:23.060] Senator Sherwin "Win" T. Gatchalian** (asr-002879)  
+**[02:04:23.060] Senate President Sherwin "Win" T. Gatchalian** (asr-002879)  
 We used manual inspection and analysis.
 
-**[02:04:28.660] Senator Sherwin "Win" T. Gatchalian** (asr-002880)  
+**[02:04:28.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002880)  
 But we'll submit this to the department para malinis natin itong listahan.
 
-**[02:04:34.480] Senator Sherwin "Win" T. Gatchalian** (asr-002881)  
+**[02:04:34.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002881)  
 But any comments, Secretary?
 
 **[02:04:37.080] DPWH Secretary Vivencio B. Dizon** (asr-002882)  
@@ -8683,49 +8683,49 @@ Mr. Senate President,
 **[02:06:49.640] DPWH Secretary Vivencio B. Dizon** (asr-002932)  
 and that's what we will do.
 
-**[02:06:50.900] Senator Sherwin "Win" T. Gatchalian** (asr-002933)  
+**[02:06:50.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002933)  
 So, Secretary, sabi ko nga,
 
-**[02:06:52.580] Senator Sherwin "Win" T. Gatchalian** (asr-002934)  
+**[02:06:52.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002934)  
 dapat trabaho ito ng district engineer
 
-**[02:06:55.580] Senator Sherwin "Win" T. Gatchalian** (asr-002935)  
+**[02:06:55.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002935)  
 and trabaho ito ng regional.
 
-**[02:06:57.680] Senator Sherwin "Win" T. Gatchalian** (asr-002936)  
+**[02:06:57.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002936)  
 Bago umakyat ito sa central,
 
-**[02:06:59.760] Senator Sherwin "Win" T. Gatchalian** (asr-002937)  
+**[02:06:59.760] Senate President Sherwin "Win" T. Gatchalian** (asr-002937)  
 dapat maayos na maayos na ito.
 
-**[02:07:01.380] Senator Sherwin "Win" T. Gatchalian** (asr-002938)  
+**[02:07:01.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002938)  
 But, obviously, hindi ganun nangyayari.
 
-**[02:07:03.660] Senator Sherwin "Win" T. Gatchalian** (asr-002939)  
+**[02:07:03.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002939)  
 And, maganda na binigay nyo sa kanilang responsibility
 
-**[02:07:07.380] Senator Sherwin "Win" T. Gatchalian** (asr-002940)  
+**[02:07:07.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002940)  
 and strict compliance with a written certification.
 
-**[02:07:11.640] Senator Sherwin "Win" T. Gatchalian** (asr-002941)  
+**[02:07:11.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002941)  
 Yan naman ang kalangan natin, accountability.
 
-**[02:07:14.020] Senator Sherwin "Win" T. Gatchalian** (asr-002942)  
+**[02:07:14.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002942)  
 We need to exert and assert that.
 
-**[02:07:17.140] Senator Sherwin "Win" T. Gatchalian** (asr-002943)  
+**[02:07:17.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002943)  
 Kasi, kung hindi, hindi natin maayos talaga ito.
 
-**[02:07:20.020] Senator Sherwin "Win" T. Gatchalian** (asr-002944)  
+**[02:07:20.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002944)  
 But, we'll submit to you the data, Secretary.
 
-**[02:07:21.680] Senator Sherwin "Win" T. Gatchalian** (asr-002945)  
+**[02:07:21.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002945)  
 Just like what we did last time.
 
 **[02:07:23.380] DPWH Secretary Vivencio B. Dizon** (asr-002950)  
 Thank you very much, Mr. Senate President.
 
-**[02:07:25.440] Senator Sherwin "Win" T. Gatchalian** (asr-002951)  
+**[02:07:25.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002951)  
 Thank you, Mr. Chairman.
 
 **[02:07:28.200] Unresolved** (asr-002952)  

@@ -248,7 +248,7 @@ Sen. Camille Villar asked whether a downward GDP trend would continue, referring
 
 [01:13:16 · asr-001005](https://tordecilla.github.io/budget-hearings-2026/records/35/#asr-001005) · [01:13:54 · asr-001012](https://tordecilla.github.io/budget-hearings-2026/records/35/#asr-001012)
 
-## Sen. Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### AMLC corruption safeguards and follow-up
 

@@ -10537,124 +10537,124 @@ Mr. Lance Avery
 **[02:34:24.240] John Castillo** (asr-003519)  
 Alo.
 
-**[02:34:24.600] GoodGovPH Representative Michelle Andre Macahilo** (asr-003519-split-2)  
+**[02:34:24.600] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003519-split-2)  
 Sorry, Lance is
 
-**[02:34:26.160] GoodGovPH Representative Michelle Andre Macahilo** (asr-003520)  
+**[02:34:26.160] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003520)  
 not here. I'm Michelle.
 
-**[02:34:27.640] GoodGovPH Representative Michelle Andre Macahilo** (asr-003521)  
+**[02:34:27.640] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003521)  
 Ms. Michelle Andre Macahilo.
 
 **[02:34:29.030] John Castillo** (asr-003521-split-2)  
 Okay.
 
-**[02:34:29.940] GoodGovPH Representative Michelle Andre Macahilo** (asr-003522)  
+**[02:34:29.940] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003522)  
 So gusto naman sabihin kanina
 
-**[02:34:31.980] GoodGovPH Representative Michelle Andre Macahilo** (asr-003523)  
+**[02:34:31.980] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003523)  
 sa GoodGovPH on behalf of
 
-**[02:34:34.260] GoodGovPH Representative Michelle Andre Macahilo** (asr-003524)  
+**[02:34:34.260] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003524)  
 the youth sectors that we
 
-**[02:34:36.000] GoodGovPH Representative Michelle Andre Macahilo** (asr-003525)  
+**[02:34:36.000] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003525)  
 represent na maganda na pinag-uusapan
 
-**[02:34:38.080] GoodGovPH Representative Michelle Andre Macahilo** (asr-003526)  
+**[02:34:38.080] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003526)  
 natin at cognizant ang ating
 
-**[02:34:40.140] GoodGovPH Representative Michelle Andre Macahilo** (asr-003527)  
+**[02:34:40.140] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003527)  
 mga opisyalis na hindi
 
-**[02:34:42.100] GoodGovPH Representative Michelle Andre Macahilo** (asr-003528)  
+**[02:34:42.100] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003528)  
 nagtatapos ang budget or yung
 
-**[02:34:44.100] GoodGovPH Representative Michelle Andre Macahilo** (asr-003529)  
+**[02:34:44.100] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003529)  
 pag-monitor sa budget dito lamang sa deliberations
 
-**[02:34:46.300] GoodGovPH Representative Michelle Andre Macahilo** (asr-003530)  
+**[02:34:46.300] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003530)  
 but ongoing process siya. Kaya rin
 
-**[02:34:48.220] GoodGovPH Representative Michelle Andre Macahilo** (asr-003531)  
+**[02:34:48.220] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003531)  
 siguro nagkaroon ng talks kanina about
 
-**[02:34:49.840] GoodGovPH Representative Michelle Andre Macahilo** (asr-003532)  
+**[02:34:49.840] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003532)  
 amending the SGLG and to strengthen
 
-**[02:34:52.220] GoodGovPH Representative Michelle Andre Macahilo** (asr-003533)  
+**[02:34:52.220] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003533)  
 merit-based programs to recognize exemplary
 
-**[02:34:54.420] GoodGovPH Representative Michelle Andre Macahilo** (asr-003534)  
+**[02:34:54.420] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003534)  
 LGUs. Gusto ko lang
 
-**[02:34:55.840] GoodGovPH Representative Michelle Andre Macahilo** (asr-003535)  
+**[02:34:55.840] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003535)  
 sabihin na we should also highlight the youth
 
-**[02:34:57.860] GoodGovPH Representative Michelle Andre Macahilo** (asr-003536)  
+**[02:34:57.860] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003536)  
 counterparts in youth governance, meaning
 
-**[02:34:59.840] GoodGovPH Representative Michelle Andre Macahilo** (asr-003537)  
+**[02:34:59.840] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003537)  
 yung mga SK at yung mga LAIDOS. And
 
-**[02:35:01.840] GoodGovPH Representative Michelle Andre Macahilo** (asr-003538)  
+**[02:35:01.840] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003538)  
 hopefully it can extend to other youth governance
 
-**[02:35:03.720] GoodGovPH Representative Michelle Andre Macahilo** (asr-003539)  
+**[02:35:03.720] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003539)  
 institutions. Sa organisasyon, meron
 
-**[02:35:05.980] GoodGovPH Representative Michelle Andre Macahilo** (asr-003540)  
+**[02:35:05.980] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003540)  
 kaming tinatawag na Seal of Good Youth Governance
 
-**[02:35:08.100] GoodGovPH Representative Michelle Andre Macahilo** (asr-003541)  
+**[02:35:08.100] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003541)  
 which shows that the
 
-**[02:35:09.700] GoodGovPH Representative Michelle Andre Macahilo** (asr-003542)  
+**[02:35:09.700] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003542)  
 SKs, LAIDOS, LYDCs also
 
-**[02:35:12.020] GoodGovPH Representative Michelle Andre Macahilo** (asr-003543)  
+**[02:35:12.020] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003543)  
 have the capacity to govern
 
-**[02:35:13.800] GoodGovPH Representative Michelle Andre Macahilo** (asr-003544)  
+**[02:35:13.800] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003544)  
 kapag merong good monitors
 
-**[02:35:15.860] GoodGovPH Representative Michelle Andre Macahilo** (asr-003545)  
+**[02:35:15.860] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003545)  
 that can strengthen accountability and transparency.
 
-**[02:35:18.600] GoodGovPH Representative Michelle Andre Macahilo** (asr-003546)  
+**[02:35:18.600] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003546)  
 Nakita natin ito sa mga ilang
 
-**[02:35:19.740] GoodGovPH Representative Michelle Andre Macahilo** (asr-003547)  
+**[02:35:19.740] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003547)  
 syudad tulad ng Pasig, tulad ng Binyan
 
-**[02:35:21.740] GoodGovPH Representative Michelle Andre Macahilo** (asr-003548)  
+**[02:35:21.740] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003548)  
 na siyang nakapagpapatunay na ang kabatan
 
-**[02:35:23.760] GoodGovPH Representative Michelle Andre Macahilo** (asr-003549)  
+**[02:35:23.760] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003549)  
 ay may capacity na mamuno din.
 
-**[02:35:25.840] GoodGovPH Representative Michelle Andre Macahilo** (asr-003550)  
+**[02:35:25.840] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003550)  
 Hopefully, ito ay sana
 
-**[02:35:27.540] GoodGovPH Representative Michelle Andre Macahilo** (asr-003551)  
+**[02:35:27.540] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003551)  
 ma-consider ng ating mga opisyalis
 
-**[02:35:29.580] GoodGovPH Representative Michelle Andre Macahilo** (asr-003552)  
+**[02:35:29.580] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003552)  
 sa pag-amend ng SGLG
 
-**[02:35:31.260] GoodGovPH Representative Michelle Andre Macahilo** (asr-003553)  
+**[02:35:31.260] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003553)  
 para hindi lamang nakakaroon ng responsible
 
-**[02:35:33.540] GoodGovPH Representative Michelle Andre Macahilo** (asr-003554)  
+**[02:35:33.540] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003554)  
 budget monitoring ngayon
 
-**[02:35:35.800] GoodGovPH Representative Michelle Andre Macahilo** (asr-003555)  
+**[02:35:35.800] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003555)  
 sa deliberations, pero ongoing
 
-**[02:35:37.740] GoodGovPH Representative Michelle Andre Macahilo** (asr-003556)  
+**[02:35:37.740] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003556)  
 process ito kahit sa mismong
 
-**[02:35:39.400] GoodGovPH Representative Michelle Andre Macahilo** (asr-003557)  
+**[02:35:39.400] GoodGovPH Representative Michel Andre D. Macahilo** (asr-003557)  
 implementation, pati na rin sa auditing.
 
 **[02:35:41.540] John Castillo** (asr-003558)  

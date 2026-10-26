@@ -1120,19 +1120,19 @@ next is Senator Arwin Tulfo.
 **[00:28:23.800] Senator Joseph Victor "JV" G. Ejercito** (asr-000373)  
 Sir, you have the floor.
 
-**[00:28:25.380] Senator Erwin Tulfo** (asr-000374)  
+**[00:28:25.380] Senator Erwin T. Tulfo** (asr-000374)  
 I don't have any opening statement
 
-**[00:28:27.400] Senator Erwin Tulfo** (asr-000375)  
+**[00:28:27.400] Senator Erwin T. Tulfo** (asr-000375)  
 at this point, Mr. Chair.
 
 **[00:28:30.860] Senator Joseph Victor "JV" G. Ejercito** (asr-000376)  
 Senator Lacson?
 
-**[00:28:32.520] Senator Panfilo Lacson** (asr-000377)  
+**[00:28:32.520] Senator Panfilo "Ping" M. Lacson** (asr-000377)  
 Nothing from this representation,
 
-**[00:28:34.300] Senator Panfilo Lacson** (asr-000378)  
+**[00:28:34.300] Senator Panfilo "Ping" M. Lacson** (asr-000378)  
 Mr. Chairman.
 
 **[00:28:35.680] Senator Joseph Victor "JV" G. Ejercito** (asr-000379)  
@@ -2083,46 +2083,46 @@ If there are senators, do we have any for Governor Remolona?
 **[00:51:06.980] Senator Joseph Victor "JV" G. Ejercito** (asr-000705)  
 Yes, Senator Tulfo.
 
-**[00:51:08.180] Senator Erwin Tulfo** (asr-000706)  
+**[00:51:08.180] Senator Erwin T. Tulfo** (asr-000706)  
 Thank you.
 
-**[00:51:09.180] Senator Erwin Tulfo** (asr-000707)  
+**[00:51:09.180] Senator Erwin T. Tulfo** (asr-000707)  
 Good morning, Governor Rebolona.
 
-**[00:51:11.180] Senator Erwin Tulfo** (asr-000708)  
+**[00:51:11.180] Senator Erwin T. Tulfo** (asr-000708)  
 Sir.
 
-**[00:51:12.180] Senator Erwin Tulfo** (asr-000709)  
+**[00:51:12.180] Senator Erwin T. Tulfo** (asr-000709)  
 I have a couple of quick questions, probably three the most.
 
-**[00:51:16.980] Senator Erwin Tulfo** (asr-000710)  
+**[00:51:16.980] Senator Erwin T. Tulfo** (asr-000710)  
 My first question, sir, is, we may have
 
-**[00:51:21.180] Senator Erwin Tulfo** (asr-000711)  
+**[00:51:21.180] Senator Erwin T. Tulfo** (asr-000711)  
 overlooked that one of the causes of inflation is the peso-dollar exchange rate.
 
-**[00:51:28.680] Senator Erwin Tulfo** (asr-000712)  
+**[00:51:28.680] Senator Erwin T. Tulfo** (asr-000712)  
 My question is, are we going to experience again the exchange rate below 60 pesos to
 
-**[00:51:37.960] Senator Erwin Tulfo** (asr-000713)  
+**[00:51:37.960] Senator Erwin T. Tulfo** (asr-000713)  
 a dollar or ever, or it will continue to go up?
 
-**[00:51:42.540] Senator Erwin Tulfo** (asr-000714)  
+**[00:51:42.540] Senator Erwin T. Tulfo** (asr-000714)  
 Because right now it's 61 plus, 61.72, the exchange rate today.
 
-**[00:51:47.020] Senator Erwin Tulfo** (asr-000715)  
+**[00:51:47.020] Senator Erwin T. Tulfo** (asr-000715)  
 Because I was looking at my records, sir.
 
-**[00:51:51.940] Senator Erwin Tulfo** (asr-000716)  
+**[00:51:51.940] Senator Erwin T. Tulfo** (asr-000716)  
 It says like, causes of inflation, because the rising cost of important goods, oil, food,
 
-**[00:52:02.060] Senator Erwin Tulfo** (asr-000717)  
+**[00:52:02.060] Senator Erwin T. Tulfo** (asr-000717)  
 raw materials, food, particularly fertilizers that we import, we depend so much on imported
 
-**[00:52:09.680] Senator Erwin Tulfo** (asr-000718)  
+**[00:52:09.680] Senator Erwin T. Tulfo** (asr-000718)  
 fertilizers.
 
-**[00:52:10.500] Senator Erwin Tulfo** (asr-000719)  
+**[00:52:10.500] Senator Erwin T. Tulfo** (asr-000719)  
 So, will this go down?
 
 **[00:52:12.960] BSP Governor Eli M. Remolona Jr.** (asr-000720)  
@@ -2197,43 +2197,43 @@ That's the...
 **[00:53:49.740] BSP Governor Eli M. Remolona Jr.** (asr-000743)  
 That's our challenge here in the exchange rate.
 
-**[00:53:56.720] Senator Erwin Tulfo** (asr-000744)  
+**[00:53:56.720] Senator Erwin T. Tulfo** (asr-000744)  
 I just have one follow-up question on that.
 
-**[00:53:59.660] Senator Erwin Tulfo** (asr-000745)  
+**[00:53:59.660] Senator Erwin T. Tulfo** (asr-000745)  
 So, what are you studying?
 
-**[00:54:02.760] Senator Erwin Tulfo** (asr-000746)  
+**[00:54:02.760] Senator Erwin T. Tulfo** (asr-000746)  
 How do we go around this?
 
-**[00:54:04.540] Senator Erwin Tulfo** (asr-000747)  
+**[00:54:04.540] Senator Erwin T. Tulfo** (asr-000747)  
 How can we improve this?
 
-**[00:54:06.560] Senator Erwin Tulfo** (asr-000748)  
+**[00:54:06.560] Senator Erwin T. Tulfo** (asr-000748)  
 If we can't do anything about the exchange rate, because we depend so much right now
 
-**[00:54:14.100] Senator Erwin Tulfo** (asr-000749)  
+**[00:54:14.100] Senator Erwin T. Tulfo** (asr-000749)  
 on the remittances of our OFWs, and we thank God that they are there.
 
-**[00:54:19.400] Senator Erwin Tulfo** (asr-000750)  
+**[00:54:19.400] Senator Erwin T. Tulfo** (asr-000750)  
 Otherwise, wala na talaga.
 
-**[00:54:19.740] Senator Erwin Tulfo** (asr-000751)  
+**[00:54:19.740] Senator Erwin T. Tulfo** (asr-000751)  
 Bagsak na itong ekonomiya natin.
 
-**[00:54:22.880] Senator Erwin Tulfo** (asr-000752)  
+**[00:54:22.880] Senator Erwin T. Tulfo** (asr-000752)  
 So, other than remittances, sabi niyo, hindi rin po puwede yung exports dahil napakabagal.
 
-**[00:54:29.040] Senator Erwin Tulfo** (asr-000753)  
+**[00:54:29.040] Senator Erwin T. Tulfo** (asr-000753)  
 Isa sa mga sakit ng ulo ng Bureau of Customs right now, ang daming pumapasok po na container imports.
 
-**[00:54:35.980] Senator Erwin Tulfo** (asr-000754)  
+**[00:54:35.980] Senator Erwin T. Tulfo** (asr-000754)  
 Pero pag-export, natatambak ngayon diyan sa pier, sa mga kung saan-saan, masakit na po ang ulo ng commissioner natin.
 
-**[00:54:42.800] Senator Erwin Tulfo** (asr-000755)  
+**[00:54:42.800] Senator Erwin T. Tulfo** (asr-000755)  
 how to dispose those empty containers.
 
-**[00:54:46.180] Senator Erwin Tulfo** (asr-000756)  
+**[00:54:46.180] Senator Erwin T. Tulfo** (asr-000756)  
 So, anong nakikita ninyo in your studies?
 
 **[00:54:49.260] BSP Governor Eli M. Remolona Jr.** (asr-000757)  
@@ -2275,31 +2275,31 @@ It's a bit difficult to say this, Senator.
 **[00:55:53.720] BSP Governor Eli M. Remolona Jr.** (asr-000772)  
 But it's a bold decision.
 
-**[00:55:54.400] Senator Erwin Tulfo** (asr-000773)  
+**[00:55:54.400] Senator Erwin T. Tulfo** (asr-000773)  
 I agree with you, sir.
 
-**[00:56:01.880] Senator Erwin Tulfo** (asr-000774)  
+**[00:56:01.880] Senator Erwin T. Tulfo** (asr-000774)  
 Because we spend so much higher than what we make.
 
-**[00:56:06.060] Senator Erwin Tulfo** (asr-000775)  
+**[00:56:06.060] Senator Erwin T. Tulfo** (asr-000775)  
 You know, you only spend how much you make.
 
-**[00:56:12.420] Senator Erwin Tulfo** (asr-000776)  
+**[00:56:12.420] Senator Erwin T. Tulfo** (asr-000776)  
 But we spend more than what we make.
 
-**[00:56:15.900] Senator Erwin Tulfo** (asr-000777)  
+**[00:56:15.900] Senator Erwin T. Tulfo** (asr-000777)  
 It's like a family.
 
-**[00:56:17.240] Senator Erwin Tulfo** (asr-000778)  
+**[00:56:17.240] Senator Erwin T. Tulfo** (asr-000778)  
 The father and the mother have a salary of 50,000.
 
-**[00:56:20.920] Senator Erwin Tulfo** (asr-000779)  
+**[00:56:20.920] Senator Erwin T. Tulfo** (asr-000779)  
 The expenses are 80,000.
 
-**[00:56:23.120] Senator Erwin Tulfo** (asr-000780)  
+**[00:56:23.120] Senator Erwin T. Tulfo** (asr-000780)  
 How can you save?
 
-**[00:56:24.400] Senator Erwin Tulfo** (asr-000781)  
+**[00:56:24.400] Senator Erwin T. Tulfo** (asr-000781)  
 That's the problem.
 
 **[00:56:25.400] BSP Governor Eli M. Remolona Jr.** (asr-000782)  
@@ -2311,58 +2311,58 @@ And for the country as a whole, to finance it, it's a bigger investment than sav
 **[00:56:32.180] BSP Governor Eli M. Remolona Jr.** (asr-000784)  
 So to finance it, we'll borrow from abroad.
 
-**[00:56:36.900] Senator Erwin Tulfo** (asr-000785)  
+**[00:56:36.900] Senator Erwin T. Tulfo** (asr-000785)  
 Thank you.
 
-**[00:56:37.620] Senator Erwin Tulfo** (asr-000786)  
+**[00:56:37.620] Senator Erwin T. Tulfo** (asr-000786)  
 That's all for me, Mr. Chair.
 
 **[00:56:39.460] Senator Joseph Victor "JV" G. Ejercito** (asr-000787)  
 Yes, next is Senator Lacson, then Senator Hontiveros.
 
-**[00:56:41.420] Senator Panfilo Lacson** (asr-000788)  
+**[00:56:41.420] Senator Panfilo "Ping" M. Lacson** (asr-000788)  
 Thank you, Mr. Chairman.
 
-**[00:56:42.700] Senator Panfilo Lacson** (asr-000789)  
+**[00:56:42.700] Senator Panfilo "Ping" M. Lacson** (asr-000789)  
 Magandang umaga po, Governor Remolona.
 
-**[00:56:45.760] Senator Panfilo Lacson** (asr-000790)  
+**[00:56:45.760] Senator Panfilo "Ping" M. Lacson** (asr-000790)  
 Last time we met, last year, di ba?
 
 **[00:56:49.040] BSP Governor Eli M. Remolona Jr.** (asr-000791)  
 Yes.
 
-**[00:56:49.760] Senator Panfilo Lacson** (asr-000792)  
+**[00:56:49.760] Senator Panfilo "Ping" M. Lacson** (asr-000792)  
 So once a year lang tayo nakikita, samantalahin ko na lang tanungin.
 
 **[00:56:52.500] BSP Governor Eli M. Remolona Jr.** (asr-000793)  
 Go ahead.
 
-**[00:56:52.640] Senator Panfilo Lacson** (asr-000794)  
+**[00:56:52.640] Senator Panfilo "Ping" M. Lacson** (asr-000794)  
 Tama po ba yung aking understanding na ang easing ng inflation ay nakabasis sa assumption na bumaba ba yung prices ng oil at saka sundan ko yung kay Senator Tulfo, yung stable yung exchange rate natin.
 
-**[00:57:11.400] Senator Panfilo Lacson** (asr-000795)  
+**[00:57:11.400] Senator Panfilo "Ping" M. Lacson** (asr-000795)  
 Tama po ba yun?
 
 **[00:57:12.840] BSP Governor Eli M. Remolona Jr.** (asr-000796)  
 Tama po yun.
 
-**[00:57:13.620] Senator Panfilo Lacson** (asr-000797)  
+**[00:57:13.620] Senator Panfilo "Ping" M. Lacson** (asr-000797)  
 So ang tanong ko po, dahil nagbukas yung, kasi nakita ko yung graph ng inflation sa presentation,
 
-**[00:57:22.640] Senator Panfilo Lacson** (asr-000798)  
+**[00:57:22.640] Senator Panfilo "Ping" M. Lacson** (asr-000798)  
 Nagbukas po yung Strait of Hormus June this year.
 
-**[00:57:33.240] Senator Panfilo Lacson** (asr-000799)  
+**[00:57:33.240] Senator Panfilo "Ping" M. Lacson** (asr-000799)  
 Kasi nga nagkaroon ng memorandum of understanding between the US and Iran na buksan. Pero temporary lang dahil August, hindi naman fully open, hindi naman fully closed pero nagsara uli.
 
-**[00:57:41.900] Senator Panfilo Lacson** (asr-000800)  
+**[00:57:41.900] Senator Panfilo "Ping" M. Lacson** (asr-000800)  
 So ang tanong ko po, paano natin matatarget yung inflation, yung movement kung beyond the government control,
 
-**[00:57:52.640] Senator Panfilo Lacson** (asr-000801)  
+**[00:57:52.640] Senator Panfilo "Ping" M. Lacson** (asr-000801)  
 Yung mga factors o yung drivers like yung oil prices, exchange rate, ano po yung ating gagawing measures kasi hindi natin abot yun eh. Wala tayong kontrol eh.
 
-**[00:58:04.440] Senator Panfilo Lacson** (asr-000802)  
+**[00:58:04.440] Senator Panfilo "Ping" M. Lacson** (asr-000802)  
 So, at our end, ano po yung pwede lang natin gawin para masustain natin yung inflation rate?
 
 **[00:58:10.700] BSP Governor Eli M. Remolona Jr.** (asr-000803)  
@@ -2404,7 +2404,7 @@ So may magagawa tayo.
 **[00:58:47.840] BSP Governor Eli M. Remolona Jr.** (asr-000815)  
 Kaya lang mabagal.
 
-**[00:58:49.060] Senator Panfilo Lacson** (asr-000816)  
+**[00:58:49.060] Senator Panfilo "Ping" M. Lacson** (asr-000816)  
 Like what po?
 
 **[00:58:51.020] BSP Governor Eli M. Remolona Jr.** (asr-000818)  
@@ -2422,7 +2422,7 @@ Pero over time, mapapababa naman natin.
 **[00:59:07.260] BSP Governor Eli M. Remolona Jr.** (asr-000822)  
 Matagal lang.
 
-**[00:59:09.580] Senator Panfilo Lacson** (asr-000822-split-2)  
+**[00:59:09.580] Senator Panfilo "Ping" M. Lacson** (asr-000822-split-2)  
 For my education lang po, can we be more specific kung ano yung mga measures?
 
 **[00:59:11.900] BSP Governor Eli M. Remolona Jr.** (asr-000823)  
@@ -2437,16 +2437,16 @@ o yung mga tinatawag natin na second round effects ng mga items.
 **[00:59:38.320] BSP Governor Eli M. Remolona Jr.** (asr-000826)  
 So yun na muna.
 
-**[00:59:39.860] Senator Panfilo Lacson** (asr-000827)  
+**[00:59:39.860] Senator Panfilo "Ping" M. Lacson** (asr-000827)  
 How much po ang influence nung ating kayang gawin?
 
 **[00:59:43.880] BSP Governor Eli M. Remolona Jr.** (asr-000828)  
 Inaabot tayo ng two years bago natin mabalik sa 3%.
 
-**[00:59:47.900] Senator Panfilo Lacson** (asr-000829)  
+**[00:59:47.900] Senator Panfilo "Ping" M. Lacson** (asr-000829)  
 Anyway, thank you, Mr. Chairman.
 
-**[00:59:50.680] Senator Panfilo Lacson** (asr-000830)  
+**[00:59:50.680] Senator Panfilo "Ping" M. Lacson** (asr-000830)  
 Thank you, Governor.
 
 **[00:59:51.480] BSP Governor Eli M. Remolona Jr.** (asr-000831)  
@@ -3286,109 +3286,109 @@ Yes, next is our Senate President,
 **[01:18:49.840] Senator Joseph Victor "JV" G. Ejercito** (asr-001108)  
 Win Gatchalian.
 
-**[01:18:50.740] Senator Sherwin "Win" T. Gatchalian** (asr-001109)  
+**[01:18:50.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001109)  
 Thank you.
 
-**[01:18:52.160] Senator Sherwin "Win" T. Gatchalian** (asr-001110)  
+**[01:18:52.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001110)  
 I'll take advantage of the presence ni Governor.
 
-**[01:18:56.700] Senator Sherwin "Win" T. Gatchalian** (asr-001111)  
+**[01:18:56.700] Senate President Sherwin "Win" T. Gatchalian** (asr-001111)  
 I think we all agree na this year,
 
-**[01:18:59.880] Senator Sherwin "Win" T. Gatchalian** (asr-001112)  
+**[01:18:59.880] Senate President Sherwin "Win" T. Gatchalian** (asr-001112)  
 we can describe
 
-**[01:19:01.580] Senator Sherwin "Win" T. Gatchalian** (asr-001113)  
+**[01:19:01.580] Senate President Sherwin "Win" T. Gatchalian** (asr-001113)  
 yung ating
 
-**[01:19:02.600] Senator Sherwin "Win" T. Gatchalian** (asr-001114)  
+**[01:19:02.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001114)  
 economy in two letters, two letter C's. Number one, conflict. The U.S.-Iran conflict. Tama ho kayo, Governor, very limited yung control natin dito sa U.S.-Iran conflict because external ito. Number two is corruption. Because of the flood control issue, bumagal ang government spending, particularly construction. Now, ang BSP plays
 
-**[01:19:32.600] Senator Sherwin "Win" T. Gatchalian** (asr-001115)  
+**[01:19:32.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001115)  
 a role in this fight against corruption, particularly through AMLAC.
 
-**[01:19:38.420] Senator Sherwin "Win" T. Gatchalian** (asr-001116)  
+**[01:19:38.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001116)  
 And through the investigations ng Senate, particularly spearheaded by Senator Lacson,
 
-**[01:19:45.160] Senator Sherwin "Win" T. Gatchalian** (asr-001117)  
+**[01:19:45.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001117)  
 nakita ho namin na napakadaming transaction na pumapasok sa bangko,
 
-**[01:19:49.560] Senator Sherwin "Win" T. Gatchalian** (asr-001118)  
+**[01:19:49.560] Senate President Sherwin "Win" T. Gatchalian** (asr-001118)  
 lumalabas sa bangko, na hindi na didetect ng AMLAC.
 
-**[01:19:54.020] Senator Sherwin "Win" T. Gatchalian** (asr-001119)  
+**[01:19:54.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001119)  
 In fact, na-detect na yan, sumabog na yung corruption sa mukha natin.
 
-**[01:19:59.000] Senator Sherwin "Win" T. Gatchalian** (asr-001120)  
+**[01:19:59.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001120)  
 One case in point, yung binuksan ni Senator Kiko Pangilinan, yung land bank,
 
-**[01:20:04.040] Senator Sherwin "Win" T. Gatchalian** (asr-001121)  
+**[01:20:04.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001121)  
 na naka-withdraw ng cash, 500 million, not only once, but multiple times.
 
-**[01:20:13.540] Senator Sherwin "Win" T. Gatchalian** (asr-001122)  
+**[01:20:13.540] Senate President Sherwin "Win" T. Gatchalian** (asr-001122)  
 So because of that, during last year, through the efforts of Senator Lacson,
 
-**[01:20:19.300] Senator Sherwin "Win" T. Gatchalian** (asr-001123)  
+**[01:20:19.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001123)  
 nagdagdag ng 162 million to AMLAC to fully computerize its processes.
 
-**[01:20:25.700] Senator Sherwin "Win" T. Gatchalian** (asr-001124)  
+**[01:20:25.700] Senate President Sherwin "Win" T. Gatchalian** (asr-001124)  
 Kasi ang sagot sa amin, hindi ho namin na-detect,
 
-**[01:20:28.740] Senator Sherwin "Win" T. Gatchalian** (asr-001125)  
+**[01:20:28.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001125)  
 dahil libo-libo yung pumapasok na covered transaction,
 
-**[01:20:31.660] Senator Sherwin "Win" T. Gatchalian** (asr-001126)  
+**[01:20:31.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001126)  
 libo-libo yung pumapasok na suspicious transaction, walang analytical capabilities.
 
-**[01:20:38.040] Senator Sherwin "Win" T. Gatchalian** (asr-001127)  
+**[01:20:38.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001127)  
 But yan ang precisely kung bakit tayo merong Anti-Money Laundering Council,
 
-**[01:20:44.500] Senator Sherwin "Win" T. Gatchalian** (asr-001128)  
+**[01:20:44.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001128)  
 is to detect this type of fraud activity so that hindi na ho siya lumala.
 
-**[01:20:50.460] Senator Sherwin "Win" T. Gatchalian** (asr-001129)  
+**[01:20:50.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001129)  
 Dahil yung paglalaan nito, it affects our economy as well.
 
-**[01:20:54.180] Senator Sherwin "Win" T. Gatchalian** (asr-001130)  
+**[01:20:54.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001130)  
 Ang knee-jerk sa action natin, government, hindi gagastos.
 
-**[01:20:57.860] Senator Sherwin "Win" T. Gatchalian** (asr-001131)  
+**[01:20:57.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001131)  
 At lahat ho tayo.
 
-**[01:20:58.740] Senator Sherwin "Win" T. Gatchalian** (asr-001132)  
+**[01:20:58.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001132)  
 Apektado dito.
 
-**[01:20:59.640] Senator Sherwin "Win" T. Gatchalian** (asr-001133)  
+**[01:20:59.640] Senate President Sherwin "Win" T. Gatchalian** (asr-001133)  
 Now my question, Governor, being the chairperson or the chairman of AMLAC,
 
-**[01:21:04.500] Senator Sherwin "Win" T. Gatchalian** (asr-001134)  
+**[01:21:04.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001134)  
 ano ba ang mga reformang ginawa ng BSP to AMLAC
 
-**[01:21:09.080] Senator Sherwin "Win" T. Gatchalian** (asr-001135)  
+**[01:21:09.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001135)  
 in order to prevent this type of mega-corruption from happening again?
 
-**[01:21:16.020] Senator Sherwin "Win" T. Gatchalian** (asr-001136)  
+**[01:21:16.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001136)  
 Kasi nakaka-apekto ho yan sa atin.
 
-**[01:21:18.560] Senator Sherwin "Win" T. Gatchalian** (asr-001137)  
+**[01:21:18.560] Senate President Sherwin "Win" T. Gatchalian** (asr-001137)  
 And ito is something that we can control.
 
-**[01:21:20.860] Senator Sherwin "Win" T. Gatchalian** (asr-001138)  
+**[01:21:20.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001138)  
 Tama ho kayo. Yung price of oil, hindi ho natin makakontrol yan.
 
-**[01:21:24.720] Senator Sherwin "Win" T. Gatchalian** (asr-001139)  
+**[01:21:24.720] Senate President Sherwin "Win" T. Gatchalian** (asr-001139)  
 Pero corruption, we can control that. Eliminate or mitigate.
 
-**[01:21:28.740] Senator Sherwin "Win" T. Gatchalian** (asr-001140)  
+**[01:21:28.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001140)  
 And AMLAC is one of the key actors to mitigate or even eliminate corruption.
 
-**[01:21:36.040] Senator Sherwin "Win" T. Gatchalian** (asr-001141)  
+**[01:21:36.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001141)  
 So we want to know, what are the efforts of AMLAC through the BSP,
 
-**[01:21:41.060] Senator Sherwin "Win" T. Gatchalian** (asr-001142)  
+**[01:21:41.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001142)  
 because kayo po ang chairperson, para po hindi na maulit
 
-**[01:21:44.380] Senator Sherwin "Win" T. Gatchalian** (asr-001143)  
+**[01:21:44.380] Senate President Sherwin "Win" T. Gatchalian** (asr-001143)  
 yung ganitong mga transactions pumapasok at labas na hindi ho natin na-detect.
 
 **[01:21:49.340] BSP Governor Eli M. Remolona Jr.** (asr-001144)  
@@ -3475,40 +3475,40 @@ Kailangan ng predicate crime at saka probable cause.
 **[01:23:42.170] BSP Governor Eli M. Remolona Jr.** (asr-001171)  
 So medyo nakatali yung mga kamay namin dyan.
 
-**[01:23:47.470] Senator Panfilo Lacson** (asr-001172)  
+**[01:23:47.470] Senator Panfilo "Ping" M. Lacson** (asr-001172)  
 Thank you.
 
-**[01:23:48.410] Senator Panfilo Lacson** (asr-001173)  
+**[01:23:48.410] Senator Panfilo "Ping" M. Lacson** (asr-001173)  
 Permission to interject very quickly.
 
-**[01:23:50.430] Senator Panfilo Lacson** (asr-001174)  
+**[01:23:50.430] Senator Panfilo "Ping" M. Lacson** (asr-001174)  
 Yes, yes.
 
-**[01:23:50.890] Senator Panfilo Lacson** (asr-001175)  
+**[01:23:50.890] Senator Panfilo "Ping" M. Lacson** (asr-001175)  
 Gusto ko lang i-follow up kasi nabanggit ni Senate President Sherwin
 
-**[01:23:54.730] Senator Panfilo Lacson** (asr-001176)  
+**[01:23:54.730] Senator Panfilo "Ping" M. Lacson** (asr-001176)  
 yung integration through his and my initiative.
 
-**[01:23:59.430] Senator Panfilo Lacson** (asr-001177)  
+**[01:23:59.430] Senator Panfilo "Ping" M. Lacson** (asr-001177)  
 Nagdagdag kami ng 160.
 
-**[01:24:00.950] Senator Panfilo Lacson** (asr-001178)  
+**[01:24:00.950] Senator Panfilo "Ping" M. Lacson** (asr-001178)  
 162 million pesos dahil yun ang problema ng AMLAC.
 
-**[01:24:05.050] Senator Panfilo Lacson** (asr-001179)  
+**[01:24:05.050] Senator Panfilo "Ping" M. Lacson** (asr-001179)  
 Gusto ko lang malaman,
 
-**[01:24:07.090] Senator Panfilo Lacson** (asr-001180)  
+**[01:24:07.090] Senator Panfilo "Ping" M. Lacson** (asr-001180)  
 paano nakatulong sa exercise nalang ng oversight namin?
 
-**[01:24:11.230] Senator Panfilo Lacson** (asr-001181)  
+**[01:24:11.230] Senator Panfilo "Ping" M. Lacson** (asr-001181)  
 Nasaan na tayo ngayon doon sa naitulong namin konting halaga na 162 million?
 
-**[01:24:16.650] Senator Panfilo Lacson** (asr-001182)  
+**[01:24:16.650] Senator Panfilo "Ping" M. Lacson** (asr-001182)  
 Nag-improve po ba yung kapasidad ng AMLAC?
 
-**[01:24:21.110] Senator Panfilo Lacson** (asr-001183)  
+**[01:24:21.110] Senator Panfilo "Ping" M. Lacson** (asr-001183)  
 Salamat po.
 
 **[01:24:22.430] BSP Governor Eli M. Remolona Jr.** (asr-001184)  
@@ -3529,34 +3529,34 @@ kailangan din ng mga experts sa paggamit ng AI.
 **[01:24:36.950] BSP Governor Eli M. Remolona Jr.** (asr-001189)  
 So gamit na gamit po yung budget na yun.
 
-**[01:24:40.950] Senator Panfilo Lacson** (asr-001190)  
+**[01:24:40.950] Senator Panfilo "Ping" M. Lacson** (asr-001190)  
 So nakatulong po sa madalit-salita?
 
-**[01:24:42.950] Senator Panfilo Lacson** (asr-001191)  
+**[01:24:42.950] Senator Panfilo "Ping" M. Lacson** (asr-001191)  
 Absolutely.
 
-**[01:24:43.950] Senator Panfilo Lacson** (asr-001192)  
+**[01:24:43.950] Senator Panfilo "Ping" M. Lacson** (asr-001192)  
 Hindi lang reconciled yung record natin.
 
-**[01:24:45.950] Senator Panfilo Lacson** (asr-001193)  
+**[01:24:45.950] Senator Panfilo "Ping" M. Lacson** (asr-001193)  
 Sa record ng aming Senate President, 162.
 
-**[01:24:48.950] Senator Panfilo Lacson** (asr-001194)  
+**[01:24:48.950] Senator Panfilo "Ping" M. Lacson** (asr-001194)  
 Sa inyo, 125.
 
-**[01:24:49.950] Senator Panfilo Lacson** (asr-001195)  
+**[01:24:49.950] Senator Panfilo "Ping" M. Lacson** (asr-001195)  
 Saan napunta yung butal?
 
-**[01:24:51.950] Senator Panfilo Lacson** (asr-001196)  
+**[01:24:51.950] Senator Panfilo "Ping" M. Lacson** (asr-001196)  
 O na po later release.
 
 **[01:24:54.950] BSP Governor Eli M. Remolona Jr.** (asr-001197)  
 Meron pang iba.
 
-**[01:24:56.950] Senator Panfilo Lacson** (asr-001198)  
+**[01:24:56.950] Senator Panfilo "Ping" M. Lacson** (asr-001198)  
 Thank you po, President.
 
-**[01:24:59.950] Senator Panfilo Lacson** (asr-001199)  
+**[01:24:59.950] Senator Panfilo "Ping" M. Lacson** (asr-001199)  
 Thank you.
 
 **[01:25:00.950] Senator Joseph Victor "JV" G. Ejercito** (asr-001200)  
@@ -3706,199 +3706,199 @@ is front and center in this effort.
 **[01:28:00.950] Senator Joseph Victor "JV" G. Ejercito** (asr-001248)  
 Our Senate President.
 
-**[01:28:02.950] Senator Sherwin "Win" T. Gatchalian** (asr-001249)  
+**[01:28:02.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001249)  
 Just a caveat, nabanggit niyo po kasi yung sa AMLA,
 
-**[01:28:07.950] Senator Sherwin "Win" T. Gatchalian** (asr-001250)  
+**[01:28:07.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001250)  
 kano na kayo ang head eh.
 
-**[01:28:09.950] Senator Sherwin "Win" T. Gatchalian** (asr-001251)  
+**[01:28:09.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001251)  
 Yung CTRs, Covered Transaction Report, o kaya yung predicate crimes,
 
-**[01:28:14.950] Senator Sherwin "Win" T. Gatchalian** (asr-001252)  
+**[01:28:14.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001252)  
 o red flag, yun yung kaya nakakakilos ang AMLA eh.
 
-**[01:28:18.950] Senator Sherwin "Win" T. Gatchalian** (asr-001253)  
+**[01:28:18.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001253)  
 Merong isa pa po eh, paalala ko lang.
 
-**[01:28:21.950] Senator Sherwin "Win" T. Gatchalian** (asr-001254)  
+**[01:28:21.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001254)  
 Ombudsman, di ba?
 
-**[01:28:24.950] Senator Sherwin "Win" T. Gatchalian** (asr-001255)  
+**[01:28:24.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001255)  
 Pwede kayong i-authorize ng ombudsman na buksan ang kahit sino sa amin.
 
-**[01:28:30.950] Senator Sherwin "Win" T. Gatchalian** (asr-001256)  
+**[01:28:30.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001256)  
 Kaming lahat nakapirma na sa waiver.
 
-**[01:28:33.950] Senator Sherwin "Win" T. Gatchalian** (asr-001257)  
+**[01:28:33.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001257)  
 Kokunti nakakaalam na, lalo na yung mga politiko, hindi alam na nakapirma sila rin sa waiver eh.
 
-**[01:28:39.950] Senator Sherwin "Win" T. Gatchalian** (asr-001258)  
+**[01:28:39.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001258)  
 Nasa SAL-N po yun, di ba?
 
-**[01:28:41.950] Senator Sherwin "Win" T. Gatchalian** (asr-001259)  
+**[01:28:41.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001259)  
 Yung last paragraph, last line ng SAL-N namin lahat bago kami pumirma.
 
-**[01:28:47.950] Senator Sherwin "Win" T. Gatchalian** (asr-001260)  
+**[01:28:47.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001260)  
 Ina-authorize namin, mini-waive namin actually.
 
-**[01:28:51.950] Senator Sherwin "Win" T. Gatchalian** (asr-001261)  
+**[01:28:51.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001261)  
 And the AMLA can be authorized by ombudsman.
 
-**[01:28:54.950] Senator Sherwin "Win" T. Gatchalian** (asr-001262)  
+**[01:28:54.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001262)  
 Just for the record dahil hindi ata alam ng iba.
 
 **[01:28:57.950] BSP Governor Eli M. Remolona Jr.** (asr-001263)  
 Tama po, Senator. Pwede yun. Pwede.
 
-**[01:29:00.950] Senator Sherwin "Win" T. Gatchalian** (asr-001264)  
+**[01:29:00.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001264)  
 Governor, yung nangyari kasi doon sa land bank is nung pinrobe ni Center Pangilinan, I remember,
 
-**[01:29:12.950] Senator Sherwin "Win" T. Gatchalian** (asr-001265)  
+**[01:29:12.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001265)  
 the transaction might be regular, pero irregular na isang sole proprietor,
 
-**[01:29:20.950] Senator Sherwin "Win" T. Gatchalian** (asr-001266)  
+**[01:29:20.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001266)  
 ng opisina niya na, halos walang opisina yata, no?
 
-**[01:29:24.950] Senator Sherwin "Win" T. Gatchalian** (asr-001267)  
+**[01:29:24.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001267)  
 May picture ako na, yung SIMS construction, halos walang opisina.
 
-**[01:29:30.950] Senator Sherwin "Win" T. Gatchalian** (asr-001268)  
+**[01:29:30.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001268)  
 Nag-request ng withdrawal, nag-request ng payment of 500 million in cash.
 
-**[01:29:37.950] Senator Sherwin "Win" T. Gatchalian** (asr-001269)  
+**[01:29:37.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001269)  
 457 million in cash. Twice. Within one month. So a billion pesos ang request niya in cash.
 
-**[01:29:49.950] Senator Sherwin "Win" T. Gatchalian** (asr-001270)  
+**[01:29:49.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001270)  
 Kung ikaw ang legitimate na negosyo, tatanggapin mo cheque, di ba?
 
-**[01:29:55.950] Senator Sherwin "Win" T. Gatchalian** (asr-001271)  
+**[01:29:55.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001271)  
 Dahil matatakot kang manakawan o ma-hold up. Hindi kang mag-request.
 
-**[01:30:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-001272)  
+**[01:30:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001272)  
 re-request ng isang billion na cash.
 
-**[01:30:02.640] Senator Sherwin "Win" T. Gatchalian** (asr-001273)  
+**[01:30:02.640] Senate President Sherwin "Win" T. Gatchalian** (asr-001273)  
 Diba?
 
-**[01:30:03.200] Senator Sherwin "Win" T. Gatchalian** (asr-001274)  
+**[01:30:03.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001274)  
 Kaagad,
 
-**[01:30:04.760] Senator Sherwin "Win" T. Gatchalian** (asr-001275)  
+**[01:30:04.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001275)  
 questionable and red flag na yun.
 
-**[01:30:07.080] Senator Sherwin "Win" T. Gatchalian** (asr-001276)  
+**[01:30:07.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001276)  
 Diba?
 
-**[01:30:07.680] Senator Sherwin "Win" T. Gatchalian** (asr-001277)  
+**[01:30:07.680] Senate President Sherwin "Win" T. Gatchalian** (asr-001277)  
 Pero,
 
-**[01:30:09.060] Senator Sherwin "Win" T. Gatchalian** (asr-001278)  
+**[01:30:09.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001278)  
 nangyari yan many times.
 
-**[01:30:11.220] Senator Sherwin "Win" T. Gatchalian** (asr-001279)  
+**[01:30:11.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001279)  
 And AMLOC never detected that.
 
-**[01:30:13.040] Senator Sherwin "Win" T. Gatchalian** (asr-001280)  
+**[01:30:13.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001280)  
 Ang sagot ho sa amin,
 
-**[01:30:14.120] Senator Sherwin "Win" T. Gatchalian** (asr-001281)  
+**[01:30:14.120] Senate President Sherwin "Win" T. Gatchalian** (asr-001281)  
 because ang dami ho
 
-**[01:30:14.940] Senator Sherwin "Win" T. Gatchalian** (asr-001282)  
+**[01:30:14.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001282)  
 mga dokumento pumapasok,
 
-**[01:30:16.560] Senator Sherwin "Win" T. Gatchalian** (asr-001283)  
+**[01:30:16.560] Senate President Sherwin "Win" T. Gatchalian** (asr-001283)  
 libo-libo,
 
-**[01:30:17.220] Senator Sherwin "Win" T. Gatchalian** (asr-001284)  
+**[01:30:17.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001284)  
 hindi na nila ma-analyze.
 
-**[01:30:19.700] Senator Sherwin "Win" T. Gatchalian** (asr-001285)  
+**[01:30:19.700] Senate President Sherwin "Win" T. Gatchalian** (asr-001285)  
 But for me,
 
-**[01:30:20.780] Senator Sherwin "Win" T. Gatchalian** (asr-001286)  
+**[01:30:20.780] Senate President Sherwin "Win" T. Gatchalian** (asr-001286)  
 that's unacceptable.
 
-**[01:30:21.980] Senator Sherwin "Win" T. Gatchalian** (asr-001287)  
+**[01:30:21.980] Senate President Sherwin "Win" T. Gatchalian** (asr-001287)  
 Because that's precisely
 
-**[01:30:22.960] Senator Sherwin "Win" T. Gatchalian** (asr-001288)  
+**[01:30:22.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001288)  
 why AMLOC exists.
 
-**[01:30:25.020] Senator Sherwin "Win" T. Gatchalian** (asr-001289)  
+**[01:30:25.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001289)  
 To stop all of this crime
 
-**[01:30:26.800] Senator Sherwin "Win" T. Gatchalian** (asr-001290)  
+**[01:30:26.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001290)  
 from happening or
 
-**[01:30:27.820] Senator Sherwin "Win" T. Gatchalian** (asr-001291)  
+**[01:30:27.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001291)  
 blowing up at one
 
-**[01:30:29.840] Senator Sherwin "Win" T. Gatchalian** (asr-001292)  
+**[01:30:29.840] Senate President Sherwin "Win" T. Gatchalian** (asr-001292)  
 time.
 
-**[01:30:31.100] Senator Sherwin "Win" T. Gatchalian** (asr-001293)  
+**[01:30:31.100] Senate President Sherwin "Win" T. Gatchalian** (asr-001293)  
 So,
 
-**[01:30:32.000] Senator Sherwin "Win" T. Gatchalian** (asr-001294)  
+**[01:30:32.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001294)  
 ang initiative ng Senado,
 
-**[01:30:34.500] Senator Sherwin "Win" T. Gatchalian** (asr-001295)  
+**[01:30:34.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001295)  
 madagdagan yung pondo.
 
-**[01:30:35.900] Senator Sherwin "Win" T. Gatchalian** (asr-001296)  
+**[01:30:35.900] Senate President Sherwin "Win" T. Gatchalian** (asr-001296)  
 So, I just want to know,
 
-**[01:30:37.720] Senator Sherwin "Win" T. Gatchalian** (asr-001297)  
+**[01:30:37.720] Senate President Sherwin "Win" T. Gatchalian** (asr-001297)  
 ano ho ang ginawa,
 
-**[01:30:41.420] Senator Sherwin "Win" T. Gatchalian** (asr-001298)  
+**[01:30:41.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001298)  
 number one,
 
-**[01:30:42.200] Senator Sherwin "Win" T. Gatchalian** (asr-001299)  
+**[01:30:42.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001299)  
 ano ang ginawa dito sa pondo na ito?
 
-**[01:30:44.640] Senator Sherwin "Win" T. Gatchalian** (asr-001300)  
+**[01:30:44.640] Senate President Sherwin "Win" T. Gatchalian** (asr-001300)  
 162 sa record tsunami.
 
-**[01:30:46.800] Senator Sherwin "Win" T. Gatchalian** (asr-001301)  
+**[01:30:46.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001301)  
 And then number two,
 
-**[01:30:48.080] Senator Sherwin "Win" T. Gatchalian** (asr-001302)  
+**[01:30:48.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001302)  
 can we have an assurance na
 
-**[01:30:49.740] Senator Sherwin "Win" T. Gatchalian** (asr-001303)  
+**[01:30:49.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001303)  
 ito mga covered transactions,
 
-**[01:30:51.740] Senator Sherwin "Win" T. Gatchalian** (asr-001304)  
+**[01:30:51.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001304)  
 suspicious transactions,
 
-**[01:30:53.220] Senator Sherwin "Win" T. Gatchalian** (asr-001305)  
+**[01:30:53.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001305)  
 ma-analyze ho ito
 
-**[01:30:54.880] Senator Sherwin "Win" T. Gatchalian** (asr-001306)  
+**[01:30:54.880] Senate President Sherwin "Win" T. Gatchalian** (asr-001306)  
 through artificial intelligence,
 
-**[01:30:57.660] Senator Sherwin "Win" T. Gatchalian** (asr-001307)  
+**[01:30:57.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001307)  
 through proprietary software,
 
-**[01:30:59.840] Senator Sherwin "Win" T. Gatchalian** (asr-001308)  
+**[01:30:59.840] Senate President Sherwin "Win" T. Gatchalian** (asr-001308)  
 para ho hindi na lumala.
 
-**[01:31:01.420] Senator Sherwin "Win" T. Gatchalian** (asr-001309)  
+**[01:31:01.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001309)  
 Because this will happen again.
 
-**[01:31:03.660] Senator Sherwin "Win" T. Gatchalian** (asr-001310)  
+**[01:31:03.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001310)  
 Papalusutan at palalusutan ho tayo.
 
-**[01:31:06.340] Senator Sherwin "Win" T. Gatchalian** (asr-001311)  
+**[01:31:06.340] Senate President Sherwin "Win" T. Gatchalian** (asr-001311)  
 So, and kugusto ho namin
 
-**[01:31:08.100] Senator Sherwin "Win" T. Gatchalian** (asr-001312)  
+**[01:31:08.100] Senate President Sherwin "Win" T. Gatchalian** (asr-001312)  
 na maging effective ang AMLOC
 
-**[01:31:09.580] Senator Sherwin "Win" T. Gatchalian** (asr-001313)  
+**[01:31:09.580] Senate President Sherwin "Win" T. Gatchalian** (asr-001313)  
 dito sa paglaban sa korupsyon.
 
 **[01:31:13.620] BSP Governor Eli M. Remolona Jr.** (asr-001314)  
@@ -4075,13 +4075,13 @@ in relation to their CTR
 **[01:32:50.780] AMLC Acting Director Arnold T. Kabanlit** (asr-001371)  
 and STR reporting, po.
 
-**[01:32:54.360] Senator Panfilo Lacson** (asr-001372)  
+**[01:32:54.360] Senator Panfilo "Ping" M. Lacson** (asr-001372)  
 Interjection again.
 
-**[01:32:55.180] Senator Panfilo Lacson** (asr-001373)  
+**[01:32:55.180] Senator Panfilo "Ping" M. Lacson** (asr-001373)  
 How much more do you need
 
-**[01:32:56.180] Senator Panfilo Lacson** (asr-001374)  
+**[01:32:56.180] Senator Panfilo "Ping" M. Lacson** (asr-001374)  
 for 2027?
 
 **[01:32:58.980] AMLC Acting Director Arnold T. Kabanlit** (asr-001375)  
@@ -4093,70 +4093,70 @@ in our,
 **[01:33:01.280] AMLC Acting Director Arnold T. Kabanlit** (asr-001377)  
 in our proposed budget.
 
-**[01:33:02.440] Senator Panfilo Lacson** (asr-001378)  
+**[01:33:02.440] Senator Panfilo "Ping" M. Lacson** (asr-001378)  
 So, okay nyo yung nasa NEP?
 
-**[01:33:03.740] Senator Panfilo Lacson** (asr-001379)  
+**[01:33:03.740] Senator Panfilo "Ping" M. Lacson** (asr-001379)  
 As of now, po, sir.
 
-**[01:33:04.520] Senator Panfilo Lacson** (asr-001380)  
+**[01:33:04.520] Senator Panfilo "Ping" M. Lacson** (asr-001380)  
 Kasi last year,
 
-**[01:33:05.820] Senator Panfilo Lacson** (asr-001381)  
+**[01:33:05.820] Senator Panfilo "Ping" M. Lacson** (asr-001381)  
 ito yung sinabi,
 
-**[01:33:06.980] Senator Panfilo Lacson** (asr-001382)  
+**[01:33:06.980] Senator Panfilo "Ping" M. Lacson** (asr-001382)  
 kausap ko si
 
-**[01:33:07.840] Senator Panfilo Lacson** (asr-001383)  
+**[01:33:07.840] Senator Panfilo "Ping" M. Lacson** (asr-001383)  
 Executive Director
 
-**[01:33:09.380] Senator Panfilo Lacson** (asr-001384)  
+**[01:33:09.380] Senator Panfilo "Ping" M. Lacson** (asr-001384)  
 Matthew, no?
 
 **[01:33:11.380] AMLC Acting Director Arnold T. Kabanlit** (asr-001385)  
 Ah, yes.
 
-**[01:33:12.360] Senator Panfilo Lacson** (asr-001386)  
+**[01:33:12.360] Senator Panfilo "Ping" M. Lacson** (asr-001386)  
 Sabi niya,
 
-**[01:33:13.680] Senator Panfilo Lacson** (asr-001387)  
+**[01:33:13.680] Senator Panfilo "Ping" M. Lacson** (asr-001387)  
 nag-propose sila sa NEP,
 
-**[01:33:15.640] Senator Panfilo Lacson** (asr-001388)  
+**[01:33:15.640] Senator Panfilo "Ping" M. Lacson** (asr-001388)  
 kinulang daw,
 
-**[01:33:16.380] Senator Panfilo Lacson** (asr-001389)  
+**[01:33:16.380] Senator Panfilo "Ping" M. Lacson** (asr-001389)  
 binawasan ng 162.
 
-**[01:33:18.100] Senator Panfilo Lacson** (asr-001390)  
+**[01:33:18.100] Senator Panfilo "Ping" M. Lacson** (asr-001390)  
 Yes, sir.
 
-**[01:33:18.500] Senator Panfilo Lacson** (asr-001391)  
+**[01:33:18.500] Senator Panfilo "Ping" M. Lacson** (asr-001391)  
 Kaya in-augment namin sa GA.
 
-**[01:33:20.100] Senator Panfilo Lacson** (asr-001392)  
+**[01:33:20.100] Senator Panfilo "Ping" M. Lacson** (asr-001392)  
 Yes, po.
 
-**[01:33:20.660] Senator Panfilo Lacson** (asr-001393)  
+**[01:33:20.660] Senator Panfilo "Ping" M. Lacson** (asr-001393)  
 So, ang tanong ko,
 
-**[01:33:21.840] Senator Panfilo Lacson** (asr-001394)  
+**[01:33:21.840] Senator Panfilo "Ping" M. Lacson** (asr-001394)  
 okay na kayo sa
 
-**[01:33:22.680] Senator Panfilo Lacson** (asr-001395)  
+**[01:33:22.680] Senator Panfilo "Ping" M. Lacson** (asr-001395)  
 yung NEP,
 
-**[01:33:24.040] Senator Panfilo Lacson** (asr-001396)  
+**[01:33:24.040] Senator Panfilo "Ping" M. Lacson** (asr-001396)  
 natugunan na yung
 
-**[01:33:24.940] Senator Panfilo Lacson** (asr-001397)  
+**[01:33:24.940] Senator Panfilo "Ping" M. Lacson** (asr-001397)  
 kailangan ninyo?
 
 **[01:33:26.020] AMLC Acting Director Arnold T. Kabanlit** (asr-001398)  
 As of now, po, sir.
 
-**[01:33:26.920] Senator Panfilo Lacson** (asr-001399)  
+**[01:33:26.920] Senator Panfilo "Ping" M. Lacson** (asr-001399)  
 Oh, thank you.
 
 **[01:33:27.460] AMLC Acting Director Arnold T. Kabanlit** (asr-001400)  
@@ -4549,154 +4549,154 @@ Yes,
 **[01:35:52.920] BSP General Counsel Roberto L. Figueroa** (asr-001529)  
 we'll try our best,
 
-**[01:35:54.580] Senator Sherwin "Win" T. Gatchalian** (asr-001530)  
+**[01:35:54.580] Senate President Sherwin "Win" T. Gatchalian** (asr-001530)  
 Senator Gico.
 
-**[01:35:55.500] Senator Sherwin "Win" T. Gatchalian** (asr-001531)  
+**[01:35:55.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001531)  
 Yung mga corrupt,
 
-**[01:35:56.320] Senator Sherwin "Win" T. Gatchalian** (asr-001532)  
+**[01:35:56.320] Senate President Sherwin "Win" T. Gatchalian** (asr-001532)  
 mas mabilis mag-learn, eh.
 
-**[01:35:58.460] Senator Sherwin "Win" T. Gatchalian** (asr-001533)  
+**[01:35:58.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001533)  
 Kaysa sa gobyerno.
 
-**[01:35:59.940] Senator Sherwin "Win" T. Gatchalian** (asr-001534)  
+**[01:35:59.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001534)  
 So,
 
-**[01:36:01.440] Senator Sherwin "Win" T. Gatchalian** (asr-001535)  
+**[01:36:01.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001535)  
 just to,
 
-**[01:36:02.560] Senator Sherwin "Win" T. Gatchalian** (asr-001536)  
+**[01:36:02.560] Senate President Sherwin "Win" T. Gatchalian** (asr-001536)  
 just submit to us,
 
-**[01:36:03.760] Senator Sherwin "Win" T. Gatchalian** (asr-001537)  
+**[01:36:03.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001537)  
 a report on
 
-**[01:36:06.000] Senator Sherwin "Win" T. Gatchalian** (asr-001538)  
+**[01:36:06.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001538)  
 what improvements
 
-**[01:36:07.240] Senator Sherwin "Win" T. Gatchalian** (asr-001539)  
+**[01:36:07.240] Senate President Sherwin "Win" T. Gatchalian** (asr-001539)  
 have you done
 
-**[01:36:07.820] Senator Sherwin "Win" T. Gatchalian** (asr-001540)  
+**[01:36:07.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001540)  
 to stop all of this corruption
 
-**[01:36:10.300] Senator Sherwin "Win" T. Gatchalian** (asr-001541)  
+**[01:36:10.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001541)  
 from happening.
 
-**[01:36:12.280] Senator Sherwin "Win" T. Gatchalian** (asr-001542)  
+**[01:36:12.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001542)  
 Of course,
 
-**[01:36:13.060] Senator Sherwin "Win" T. Gatchalian** (asr-001543)  
+**[01:36:13.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001543)  
 a detailed explanation
 
-**[01:36:14.600] Senator Sherwin "Win" T. Gatchalian** (asr-001544)  
+**[01:36:14.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001544)  
 of that 162
 
-**[01:36:16.060] Senator Sherwin "Win" T. Gatchalian** (asr-001545)  
+**[01:36:16.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001545)  
 that
 
-**[01:36:16.380] Senator Sherwin "Win" T. Gatchalian** (asr-001546)  
+**[01:36:16.380] Senate President Sherwin "Win" T. Gatchalian** (asr-001546)  
 through
 
-**[01:36:17.760] Senator Sherwin "Win" T. Gatchalian** (asr-001547)  
+**[01:36:17.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001547)  
 Center Lacson's initiative.
 
-**[01:36:19.980] Senator Sherwin "Win" T. Gatchalian** (asr-001548)  
+**[01:36:19.980] Senate President Sherwin "Win" T. Gatchalian** (asr-001548)  
 That's for technology, eh.
 
-**[01:36:21.960] Senator Sherwin "Win" T. Gatchalian** (asr-001549)  
+**[01:36:21.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001549)  
 Ano pa,
 
-**[01:36:22.580] Senator Sherwin "Win" T. Gatchalian** (asr-001550)  
+**[01:36:22.580] Senate President Sherwin "Win" T. Gatchalian** (asr-001550)  
 paano ba na gastos ho yun.
 
-**[01:36:24.280] Senator Sherwin "Win" T. Gatchalian** (asr-001551)  
+**[01:36:24.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001551)  
 And during the AMLAC budget hearing,
 
-**[01:36:26.260] Senator Sherwin "Win" T. Gatchalian** (asr-001552)  
+**[01:36:26.260] Senate President Sherwin "Win" T. Gatchalian** (asr-001552)  
 we'll go deeper
 
-**[01:36:27.660] Senator Sherwin "Win" T. Gatchalian** (asr-001553)  
+**[01:36:27.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001553)  
 into this discussion.
 
-**[01:36:28.860] Senator Sherwin "Win" T. Gatchalian** (asr-001554)  
+**[01:36:28.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001554)  
 Magkakaroon naman
 
-**[01:36:29.460] Senator Sherwin "Win" T. Gatchalian** (asr-001555)  
+**[01:36:29.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001555)  
 ng ablak-ablak
 
-**[01:36:29.940] Senator Sherwin "Win" T. Gatchalian** (asr-001556)  
+**[01:36:29.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001556)  
 budgeteering
 
-**[01:36:30.720] Senator Sherwin "Win" T. Gatchalian** (asr-001557)  
+**[01:36:30.720] Senate President Sherwin "Win" T. Gatchalian** (asr-001557)  
 and definitely
 
-**[01:36:31.780] Senator Sherwin "Win" T. Gatchalian** (asr-001558)  
+**[01:36:31.780] Senate President Sherwin "Win" T. Gatchalian** (asr-001558)  
 we'll
 
-**[01:36:32.280] Senator Sherwin "Win" T. Gatchalian** (asr-001559)  
+**[01:36:32.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001559)  
 analyze
 
-**[01:36:33.680] Senator Sherwin "Win" T. Gatchalian** (asr-001560)  
+**[01:36:33.680] Senate President Sherwin "Win" T. Gatchalian** (asr-001560)  
 what are the
 
-**[01:36:37.060] Senator Sherwin "Win" T. Gatchalian** (asr-001561)  
+**[01:36:37.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001561)  
 other
 
-**[01:36:37.480] Senator Sherwin "Win" T. Gatchalian** (asr-001562)  
+**[01:36:37.480] Senate President Sherwin "Win" T. Gatchalian** (asr-001562)  
 things that
 
-**[01:36:38.400] Senator Sherwin "Win" T. Gatchalian** (asr-001563)  
+**[01:36:38.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001563)  
 AMLAC needs
 
-**[01:36:39.060] Senator Sherwin "Win" T. Gatchalian** (asr-001564)  
+**[01:36:39.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001564)  
 in order to
 
-**[01:36:39.960] Senator Sherwin "Win" T. Gatchalian** (asr-001565)  
+**[01:36:39.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001565)  
 strengthen itself.
 
-**[01:36:41.080] Senator Sherwin "Win" T. Gatchalian** (asr-001566)  
+**[01:36:41.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001566)  
 Ang direction naman
 
-**[01:36:41.660] Senator Sherwin "Win" T. Gatchalian** (asr-001567)  
+**[01:36:41.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001567)  
 is to help AMLAC.
 
-**[01:36:42.920] Senator Sherwin "Win" T. Gatchalian** (asr-001568)  
+**[01:36:42.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001568)  
 That is the direction.
 
-**[01:36:43.960] Senator Sherwin "Win" T. Gatchalian** (asr-001569)  
+**[01:36:43.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001569)  
 We want it to be stronger.
 
-**[01:36:45.920] Senator Sherwin "Win" T. Gatchalian** (asr-001570)  
+**[01:36:45.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001570)  
 But you also have to tell us
 
-**[01:36:47.400] Senator Sherwin "Win" T. Gatchalian** (asr-001571)  
+**[01:36:47.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001571)  
 ano pa yung mga kailangan
 
-**[01:36:48.400] Senator Sherwin "Win" T. Gatchalian** (asr-001572)  
+**[01:36:48.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001572)  
 para maging
 
-**[01:36:49.020] Senator Sherwin "Win" T. Gatchalian** (asr-001573)  
+**[01:36:49.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001573)  
 mas malakas pa siya.
 
-**[01:36:50.860] Senator Sherwin "Win" T. Gatchalian** (asr-001574)  
+**[01:36:50.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001574)  
 So,
 
-**[01:36:51.300] Senator Sherwin "Win" T. Gatchalian** (asr-001575)  
+**[01:36:51.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001575)  
 just submit to us the report
 
-**[01:36:52.280] Senator Sherwin "Win" T. Gatchalian** (asr-001576)  
+**[01:36:52.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001576)  
 and then
 
-**[01:36:52.700] Senator Sherwin "Win" T. Gatchalian** (asr-001577)  
+**[01:36:52.700] Senate President Sherwin "Win" T. Gatchalian** (asr-001577)  
 pag AMLAC budget,
 
-**[01:36:53.880] Senator Sherwin "Win" T. Gatchalian** (asr-001578)  
+**[01:36:53.880] Senate President Sherwin "Win" T. Gatchalian** (asr-001578)  
 we'll talk about this again.
 
-**[01:36:56.040] Senator Sherwin "Win" T. Gatchalian** (asr-001579)  
+**[01:36:56.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001579)  
 Yes, sir.
 
 **[01:36:56.360] Senator Joseph Victor "JV" G. Ejercito** (asr-001580)  
@@ -8935,157 +8935,157 @@ Okay, thank you, Secretary.
 **[02:20:52.210] Senator Joseph Victor "JV" G. Ejercito** (asr-003185)  
 Next, our Senate President.
 
-**[02:20:55.050] Senator Sherwin "Win" T. Gatchalian** (asr-003186)  
+**[02:20:55.050] Senate President Sherwin "Win" T. Gatchalian** (asr-003186)  
 Just to assist
 
-**[02:20:55.930] Senator Sherwin "Win" T. Gatchalian** (asr-003187)  
+**[02:20:55.930] Senate President Sherwin "Win" T. Gatchalian** (asr-003187)  
 Secretary
 
-**[02:20:57.710] Senator Sherwin "Win" T. Gatchalian** (asr-003188)  
+**[02:20:57.710] Senate President Sherwin "Win" T. Gatchalian** (asr-003188)  
 Balisacan, kasi nandun po ako
 
-**[02:21:00.390] Senator Sherwin "Win" T. Gatchalian** (asr-003189)  
+**[02:21:00.390] Senate President Sherwin "Win" T. Gatchalian** (asr-003189)  
 sa LIDAC. There is
 
-**[02:21:01.670] Senator Sherwin "Win" T. Gatchalian** (asr-003190)  
+**[02:21:01.670] Senate President Sherwin "Win" T. Gatchalian** (asr-003190)  
 a long list.
 
-**[02:21:04.230] Senator Sherwin "Win" T. Gatchalian** (asr-003191)  
+**[02:21:04.230] Senate President Sherwin "Win" T. Gatchalian** (asr-003191)  
 I think there are
 
-**[02:21:05.510] Senator Sherwin "Win" T. Gatchalian** (asr-003192)  
+**[02:21:05.510] Senate President Sherwin "Win" T. Gatchalian** (asr-003192)  
 53 bills,
 
-**[02:21:07.630] Senator Sherwin "Win" T. Gatchalian** (asr-003193)  
+**[02:21:07.630] Senate President Sherwin "Win" T. Gatchalian** (asr-003193)  
 if I'm not mistaken, in which Kadena
 
-**[02:21:09.570] Senator Sherwin "Win" T. Gatchalian** (asr-003194)  
+**[02:21:09.570] Senate President Sherwin "Win" T. Gatchalian** (asr-003194)  
 is there and also mine is there.
 
-**[02:21:11.850] Senator Sherwin "Win" T. Gatchalian** (asr-003195)  
+**[02:21:11.850] Senate President Sherwin "Win" T. Gatchalian** (asr-003195)  
 We divided it into
 
-**[02:21:13.410] Senator Sherwin "Win" T. Gatchalian** (asr-003196)  
+**[02:21:13.410] Senate President Sherwin "Win" T. Gatchalian** (asr-003196)  
 two phases.
 
-**[02:21:15.470] Senator Sherwin "Win" T. Gatchalian** (asr-003197)  
+**[02:21:15.470] Senate President Sherwin "Win" T. Gatchalian** (asr-003197)  
 The phase one is to approve it
 
-**[02:21:17.370] Senator Sherwin "Win" T. Gatchalian** (asr-003198)  
+**[02:21:17.370] Senate President Sherwin "Win" T. Gatchalian** (asr-003198)  
 hopefully before June
 
-**[02:21:19.670] Senator Sherwin "Win" T. Gatchalian** (asr-003199)  
+**[02:21:19.670] Senate President Sherwin "Win" T. Gatchalian** (asr-003199)  
 of next year, and the phase
 
-**[02:21:21.670] Senator Sherwin "Win" T. Gatchalian** (asr-003200)  
+**[02:21:21.670] Senate President Sherwin "Win" T. Gatchalian** (asr-003200)  
 two is hopefully approve it
 
-**[02:21:23.350] Senator Sherwin "Win" T. Gatchalian** (asr-003201)  
+**[02:21:23.350] Senate President Sherwin "Win" T. Gatchalian** (asr-003201)  
 the months after.
 
-**[02:21:27.210] Senator Sherwin "Win" T. Gatchalian** (asr-003202)  
+**[02:21:27.210] Senate President Sherwin "Win" T. Gatchalian** (asr-003202)  
 After
 
-**[02:21:27.810] Senator Sherwin "Win" T. Gatchalian** (asr-003203)  
+**[02:21:27.810] Senate President Sherwin "Win" T. Gatchalian** (asr-003203)  
 that LEDAC meeting,
 
-**[02:21:30.190] Senator Sherwin "Win" T. Gatchalian** (asr-003204)  
+**[02:21:30.190] Senate President Sherwin "Win" T. Gatchalian** (asr-003204)  
 we're waiting for
 
-**[02:21:31.670] Senator Sherwin "Win" T. Gatchalian** (asr-003205)  
+**[02:21:31.670] Senate President Sherwin "Win" T. Gatchalian** (asr-003205)  
 DEPDev being the
 
-**[02:21:34.250] Senator Sherwin "Win" T. Gatchalian** (asr-003206)  
+**[02:21:34.250] Senate President Sherwin "Win" T. Gatchalian** (asr-003206)  
 Secretariat to submit to us a
 
-**[02:21:36.030] Senator Sherwin "Win" T. Gatchalian** (asr-003207)  
+**[02:21:36.030] Senate President Sherwin "Win" T. Gatchalian** (asr-003207)  
 clean-up bill kasi may mga tinanggal tayo doon
 
-**[02:21:38.230] Senator Sherwin "Win" T. Gatchalian** (asr-003208)  
+**[02:21:38.230] Senate President Sherwin "Win" T. Gatchalian** (asr-003208)  
 tsaka may riniprioritize tayo
 
-**[02:21:40.310] Senator Sherwin "Win" T. Gatchalian** (asr-003209)  
+**[02:21:40.310] Senate President Sherwin "Win" T. Gatchalian** (asr-003209)  
 doon. In fact,
 
-**[02:21:42.090] Senator Sherwin "Win" T. Gatchalian** (asr-003210)  
+**[02:21:42.090] Senate President Sherwin "Win" T. Gatchalian** (asr-003210)  
 in the Senate, we also have a
 
-**[02:21:44.050] Senator Sherwin "Win" T. Gatchalian** (asr-003211)  
+**[02:21:44.050] Senate President Sherwin "Win" T. Gatchalian** (asr-003211)  
 what we call a top priority kasama
 
-**[02:21:46.090] Senator Sherwin "Win" T. Gatchalian** (asr-003212)  
+**[02:21:46.090] Senate President Sherwin "Win" T. Gatchalian** (asr-003212)  
 doon yung mind so that
 
-**[02:21:47.990] Senator Sherwin "Win" T. Gatchalian** (asr-003213)  
+**[02:21:47.990] Senate President Sherwin "Win" T. Gatchalian** (asr-003213)  
 we can push it faster.
 
-**[02:21:49.890] Senator Sherwin "Win" T. Gatchalian** (asr-003214)  
+**[02:21:49.890] Senate President Sherwin "Win" T. Gatchalian** (asr-003214)  
 So we'll wait for the DEPDev
 
-**[02:21:51.910] Senator Sherwin "Win" T. Gatchalian** (asr-003215)  
+**[02:21:51.910] Senate President Sherwin "Win" T. Gatchalian** (asr-003215)  
 to give us the clean list
 
-**[02:21:53.990] Senator Sherwin "Win" T. Gatchalian** (asr-003216)  
+**[02:21:53.990] Senate President Sherwin "Win" T. Gatchalian** (asr-003216)  
 of LEDAC bills kasi may mga tinanggal
 
-**[02:21:56.070] Senator Sherwin "Win" T. Gatchalian** (asr-003217)  
+**[02:21:56.070] Senate President Sherwin "Win" T. Gatchalian** (asr-003217)  
 tayo. Like for example, yung
 
-**[02:21:57.190] Senator Sherwin "Win" T. Gatchalian** (asr-003218)  
+**[02:21:57.190] Senate President Sherwin "Win" T. Gatchalian** (asr-003218)  
 Independent Infrastructure
 
-**[02:22:00.390] Senator Sherwin "Win" T. Gatchalian** (asr-003219)  
+**[02:22:00.390] Senate President Sherwin "Win" T. Gatchalian** (asr-003219)  
 Commission.
 
-**[02:22:01.670] Senator Sherwin "Win" T. Gatchalian** (asr-003220)  
+**[02:22:01.670] Senate President Sherwin "Win" T. Gatchalian** (asr-003220)  
 Wala na yun because obviously
 
-**[02:22:03.010] Senator Sherwin "Win" T. Gatchalian** (asr-003221)  
+**[02:22:03.010] Senate President Sherwin "Win" T. Gatchalian** (asr-003221)  
 nasa ombudsman na po lahat.
 
-**[02:22:05.250] Senator Sherwin "Win" T. Gatchalian** (asr-003222)  
+**[02:22:05.250] Senate President Sherwin "Win" T. Gatchalian** (asr-003222)  
 We also removed the biofuels
 
-**[02:22:07.350] Senator Sherwin "Win" T. Gatchalian** (asr-003223)  
+**[02:22:07.350] Senate President Sherwin "Win" T. Gatchalian** (asr-003223)  
 because that is supposed to be
 
-**[02:22:09.210] Senator Sherwin "Win" T. Gatchalian** (asr-003224)  
+**[02:22:09.210] Senate President Sherwin "Win" T. Gatchalian** (asr-003224)  
 an offshoot of
 
-**[02:22:10.950] Senator Sherwin "Win" T. Gatchalian** (asr-003225)  
+**[02:22:10.950] Senate President Sherwin "Win" T. Gatchalian** (asr-003225)  
 the increased price
 
-**[02:22:13.530] Senator Sherwin "Win" T. Gatchalian** (asr-003226)  
+**[02:22:13.530] Senate President Sherwin "Win" T. Gatchalian** (asr-003226)  
 of oil. So we removed some of them
 
-**[02:22:15.470] Senator Sherwin "Win" T. Gatchalian** (asr-003227)  
+**[02:22:15.470] Senate President Sherwin "Win" T. Gatchalian** (asr-003227)  
 and then we reprioritize.
 
-**[02:22:17.530] Senator Sherwin "Win" T. Gatchalian** (asr-003228)  
+**[02:22:17.530] Senate President Sherwin "Win" T. Gatchalian** (asr-003228)  
 So we'll just wait for DEPDev to submit
 
-**[02:22:19.430] Senator Sherwin "Win" T. Gatchalian** (asr-003229)  
+**[02:22:19.430] Senate President Sherwin "Win" T. Gatchalian** (asr-003229)  
 to us the list. Actually, I promised
 
-**[02:22:21.250] Senator Sherwin "Win" T. Gatchalian** (asr-003230)  
+**[02:22:21.250] Senate President Sherwin "Win" T. Gatchalian** (asr-003230)  
 Senator Bam to give him that list but
 
-**[02:22:22.970] Senator Sherwin "Win" T. Gatchalian** (asr-003231)  
+**[02:22:22.970] Senate President Sherwin "Win" T. Gatchalian** (asr-003231)  
 we're waiting for the official. Meron kami yung
 
-**[02:22:25.110] Senator Sherwin "Win" T. Gatchalian** (asr-003232)  
+**[02:22:25.110] Senate President Sherwin "Win" T. Gatchalian** (asr-003232)  
 non-official but
 
-**[02:22:26.030] Senator Sherwin "Win" T. Gatchalian** (asr-003233)  
+**[02:22:26.030] Senate President Sherwin "Win" T. Gatchalian** (asr-003233)  
 once we get the official list, we'll furnish the
 
-**[02:22:29.450] Senator Sherwin "Win" T. Gatchalian** (asr-003234)  
+**[02:22:29.450] Senate President Sherwin "Win" T. Gatchalian** (asr-003234)  
 chairman para ma-push
 
-**[02:22:31.450] Senator Sherwin "Win" T. Gatchalian** (asr-003235)  
+**[02:22:31.450] Senate President Sherwin "Win" T. Gatchalian** (asr-003235)  
 nila.
 
-**[02:22:31.670] Senator Sherwin "Win" T. Gatchalian** (asr-003236)  
+**[02:22:31.670] Senate President Sherwin "Win" T. Gatchalian** (asr-003236)  
 yung mga LIDAC bills natin.
 
 **[02:22:34.510] DEPDev Secretary Arsenio M. Balisacan** (asr-003237)  
@@ -11980,55 +11980,55 @@ So parang ano dati, because of our political system, laging six years and three 
 **[04:05:47.960] Senator Joseph Victor "JV" G. Ejercito** (asr-004200)  
 Anyway, to resume, Sen. Lacson is on deck. Sen. Lacson, you now have the floor.
 
-**[04:05:53.960] Senator Panfilo Lacson** (asr-004201)  
+**[04:05:53.960] Senator Panfilo "Ping" M. Lacson** (asr-004201)  
 Thank you. Thank you, Mr. Chairman.
 
-**[04:05:55.960] Senator Panfilo Lacson** (asr-004202)  
+**[04:05:55.960] Senator Panfilo "Ping" M. Lacson** (asr-004202)  
 I will address my questions to any of the members of the DBCC, pero siguro sa DBM.
 
-**[04:06:00.960] Senator Panfilo Lacson** (asr-004203)  
+**[04:06:00.960] Senator Panfilo "Ping" M. Lacson** (asr-004203)  
 Secretary, how do I address you? Secretary Kim, Secretary Robert?
 
 **[04:06:05.960] Acting DBM Secretary Kim Robert C. De Leon** (asr-004204)  
 Secretary Kim is fine.
 
-**[04:06:07.960] Senator Panfilo Lacson** (asr-004205)  
+**[04:06:07.960] Senator Panfilo "Ping" M. Lacson** (asr-004205)  
 Ah, Secretary Kim. Okay. Good afternoon.
 
-**[04:06:09.960] Senator Panfilo Lacson** (asr-004206)  
+**[04:06:09.960] Senator Panfilo "Ping" M. Lacson** (asr-004206)  
 Yeah, you know, my first question or first topic.
 
-**[04:06:12.960] Senator Panfilo Lacson** (asr-004207)  
+**[04:06:12.960] Senator Panfilo "Ping" M. Lacson** (asr-004207)  
 While the nominal amount of the expenditure program obviously reflects increases, diba, year on year.
 
-**[04:06:22.960] Senator Panfilo Lacson** (asr-004208)  
+**[04:06:22.960] Senator Panfilo "Ping" M. Lacson** (asr-004208)  
 Ayan, nandiyan naman. 2025, nasa 6.39.
 
-**[04:06:27.960] Senator Panfilo Lacson** (asr-004209)  
+**[04:06:27.960] Senator Panfilo "Ping" M. Lacson** (asr-004209)  
 2026, 6.793.
 
-**[04:06:30.960] Senator Panfilo Lacson** (asr-004212)  
+**[04:06:30.960] Senator Panfilo "Ping" M. Lacson** (asr-004212)  
 Hanggang ngayon, for 2027, 7.2 trillion.
 
-**[04:06:35.960] Senator Panfilo Lacson** (asr-004213)  
+**[04:06:35.960] Senator Panfilo "Ping" M. Lacson** (asr-004213)  
 Pero yung ratio ng NEP sa GDP, pa-decline, reverse mode.
 
-**[04:06:43.960] Senator Panfilo Lacson** (asr-004214)  
+**[04:06:43.960] Senator Panfilo "Ping" M. Lacson** (asr-004214)  
 Also as shown, no?
 
-**[04:06:48.170] Senator Panfilo Lacson** (asr-004215)  
+**[04:06:48.170] Senator Panfilo "Ping" M. Lacson** (asr-004215)  
 Ratio to GDP, 24 percent noong 2025, 22.3 percent 2026.
 
-**[04:06:56.170] Senator Panfilo Lacson** (asr-004216)  
+**[04:06:56.170] Senator Panfilo "Ping" M. Lacson** (asr-004216)  
 Tapos 2027, 21.6.
 
-**[04:06:59.170] Senator Panfilo Lacson** (asr-004217)  
+**[04:06:59.170] Senator Panfilo "Ping" M. Lacson** (asr-004217)  
 And projected at 20 percent in 2028.
 
-**[04:07:02.170] Senator Panfilo Lacson** (asr-004218)  
+**[04:07:02.170] Senator Panfilo "Ping" M. Lacson** (asr-004218)  
 My question is, kung ganito, is this part of your consolidation plan?
 
-**[04:07:12.170] Senator Panfilo Lacson** (asr-004219)  
+**[04:07:12.170] Senator Panfilo "Ping" M. Lacson** (asr-004219)  
 Because of, you know, growing deficit, other problems, deliberate ba ito?
 
 **[04:07:19.170] Acting DBM Secretary Kim Robert C. De Leon** (asr-004220)  
@@ -12052,13 +12052,13 @@ So that's among the things that we're looking into.
 **[04:07:51.170] Acting DBM Secretary Kim Robert C. De Leon** (asr-004226)  
 That's why we're looking at this fiscal consolidation strategy.
 
-**[04:07:54.170] Senator Panfilo Lacson** (asr-004227)  
+**[04:07:54.170] Senator Panfilo "Ping" M. Lacson** (asr-004227)  
 Okay. So for some specifics, what expenditures or new expenditures are being sacrificed?
 
-**[04:08:01.170] Senator Panfilo Lacson** (asr-004228)  
+**[04:08:01.170] Senator Panfilo "Ping" M. Lacson** (asr-004228)  
 Dahil nag-consolidation plan kayo to improve the financial health, di ba?
 
-**[04:08:08.480] Senator Panfilo Lacson** (asr-004229)  
+**[04:08:08.480] Senator Panfilo "Ping" M. Lacson** (asr-004229)  
 So mayroong masasakripisyo. Anong mga programa yung sinakripisyo nyo since this is deliberate?
 
 **[04:08:16.480] Acting DBM Secretary Kim Robert C. De Leon** (asr-004230)  
@@ -12109,16 +12109,16 @@ and the process streamlining, removing redundancies in the bureaucracy.
 **[04:09:55.860] Acting DBM Secretary Kim Robert C. De Leon** (asr-004245)  
 So kasama po yun, Your Honor, sa ating mga naging considerations.
 
-**[04:09:58.860] Senator Panfilo Lacson** (asr-004246)  
+**[04:09:58.860] Senator Panfilo "Ping" M. Lacson** (asr-004246)  
 So not necessarily sektoral.
 
-**[04:10:00.860] Senator Panfilo Lacson** (asr-004247)  
+**[04:10:00.860] Senator Panfilo "Ping" M. Lacson** (asr-004247)  
 It cuts across.
 
 **[04:10:01.860] Acting DBM Secretary Kim Robert C. De Leon** (asr-004248)  
 Yes, Your Honor, Mr. Chair.
 
-**[04:10:02.860] Senator Panfilo Lacson** (asr-004249)  
+**[04:10:02.860] Senator Panfilo "Ping" M. Lacson** (asr-004249)  
 Lahat ng sektors may tama.
 
 **[04:10:04.860] Acting DBM Secretary Kim Robert C. De Leon** (asr-004250)  
@@ -12130,49 +12130,49 @@ Based on your prioritization lang.
 **[04:10:07.860] Acting DBM Secretary Kim Robert C. De Leon** (asr-004252)  
 Yes, Your Honor, that's correct.
 
-**[04:10:11.170] Senator Panfilo Lacson** (asr-004253)  
+**[04:10:11.170] Senator Panfilo "Ping" M. Lacson** (asr-004253)  
 Thank you.
 
-**[04:10:12.170] Senator Panfilo Lacson** (asr-004254)  
+**[04:10:12.170] Senator Panfilo "Ping" M. Lacson** (asr-004254)  
 Anyway, pagdating na lang ng mga agency budget kami magpumunta ng mga specifics.
 
-**[04:10:18.170] Senator Panfilo Lacson** (asr-004255)  
+**[04:10:18.170] Senator Panfilo "Ping" M. Lacson** (asr-004255)  
 Now, we'll go now to the proposed budget by sector.
 
-**[04:10:23.170] Senator Panfilo Lacson** (asr-004256)  
+**[04:10:23.170] Senator Panfilo "Ping" M. Lacson** (asr-004256)  
 Meron kayong debt burden, of course, social services, general public services, defense, of course, and economic services.
 
-**[04:10:30.170] Senator Panfilo Lacson** (asr-004257)  
+**[04:10:30.170] Senator Panfilo "Ping" M. Lacson** (asr-004257)  
 Yung social services, malaki yung chunk, 34.1%.
 
-**[04:10:36.170] Senator Panfilo Lacson** (asr-004258)  
+**[04:10:36.170] Senator Panfilo "Ping" M. Lacson** (asr-004258)  
 Okay.
 
-**[04:10:37.170] Senator Panfilo Lacson** (asr-004259)  
+**[04:10:37.170] Senator Panfilo "Ping" M. Lacson** (asr-004259)  
 Pero pag tinignan natin, declining din ito, hindi ba?
 
-**[04:10:42.170] Senator Panfilo Lacson** (asr-004260)  
+**[04:10:42.170] Senator Panfilo "Ping" M. Lacson** (asr-004260)  
 From 2.599, ito yung actual for 2026.
 
-**[04:10:48.170] Senator Panfilo Lacson** (asr-004261)  
+**[04:10:48.170] Senator Panfilo "Ping" M. Lacson** (asr-004261)  
 Nandito na tayo sa 2.455 trillion in 2027.
 
-**[04:10:53.170] Senator Panfilo Lacson** (asr-004262)  
+**[04:10:53.170] Senator Panfilo "Ping" M. Lacson** (asr-004262)  
 Of course, yung sa 2.599, hindi naman ito eksakto.
 
-**[04:10:58.170] Senator Panfilo Lacson** (asr-004263)  
+**[04:10:58.170] Senator Panfilo "Ping" M. Lacson** (asr-004263)  
 Kasi may carryover ito from 2025.
 
-**[04:11:01.170] Senator Panfilo Lacson** (asr-004264)  
+**[04:11:01.170] Senator Panfilo "Ping" M. Lacson** (asr-004264)  
 So, I want to find out from you, ilan ba yung unspent?
 
-**[04:11:06.170] Senator Panfilo Lacson** (asr-004265)  
+**[04:11:06.170] Senator Panfilo "Ping" M. Lacson** (asr-004265)  
 Kasi may continuing appropriations sa 2025, pwede pa magamit sa 2026.
 
-**[04:11:12.170] Senator Panfilo Lacson** (asr-004266)  
+**[04:11:12.170] Senator Panfilo "Ping" M. Lacson** (asr-004266)  
 So, I just want my figures to be more accurate.
 
-**[04:11:16.170] Senator Panfilo Lacson** (asr-004267)  
+**[04:11:16.170] Senator Panfilo "Ping" M. Lacson** (asr-004267)  
 From 2.599, kung idadagdag mo yung from 2025, ilan actual yung numbers?
 
 **[04:11:23.170] Acting DBM Secretary Kim Robert C. De Leon** (asr-004268)  
@@ -12217,34 +12217,34 @@ But we'll have to confirm kasi you're asking, Your Honor, social services alone.
 **[04:12:50.120] Acting DBM Secretary Kim Robert C. De Leon** (asr-004281)  
 But this is the aggregate for entire government as of year end.
 
-**[04:12:54.120] Senator Panfilo Lacson** (asr-004282)  
+**[04:12:54.120] Senator Panfilo "Ping" M. Lacson** (asr-004282)  
 Never mind, maski aggregate.
 
 **[04:12:56.120] Acting DBM Secretary Kim Robert C. De Leon** (asr-004283)  
 It's 516.6 billion in unobligated allotments from 2025, GAA, Your Honor.
 
-**[04:13:04.120] Senator Panfilo Lacson** (asr-004284)  
+**[04:13:04.120] Senator Panfilo "Ping" M. Lacson** (asr-004284)  
 That's unobligated. Ilan yung unreleased?
 
 **[04:13:07.120] Acting DBM Secretary Kim Robert C. De Leon** (asr-004285)  
 Unreleased APRO.
 
-**[04:13:08.120] Senator Panfilo Lacson** (asr-004286)  
+**[04:13:08.120] Senator Panfilo "Ping" M. Lacson** (asr-004286)  
 Para mukha natin yung total na unused.
 
 **[04:13:10.120] Acting DBM Secretary Kim Robert C. De Leon** (asr-004287)  
 Unreleased APRO from 2025 from NGAs is at 83 billion, Your Honor.
 
-**[04:13:18.120] Senator Panfilo Lacson** (asr-004288)  
+**[04:13:18.120] Senator Panfilo "Ping" M. Lacson** (asr-004288)  
 So, if you will add it up sa 2025 na 2.599,
 
-**[04:13:24.120] Senator Panfilo Lacson** (asr-004289)  
+**[04:13:24.120] Senator Panfilo "Ping" M. Lacson** (asr-004289)  
 mas mataas pa rin siya dito sa proposed natin sa 2027?
 
 **[04:13:30.120] Acting DBM Secretary Kim Robert C. De Leon** (asr-004290)  
 Yes, Your Honor. Yes, Your Honor.
 
-**[04:13:32.120] Senator Panfilo Lacson** (asr-004291)  
+**[04:13:32.120] Senator Panfilo "Ping" M. Lacson** (asr-004291)  
 By how much?
 
 **[04:13:33.120] Acting DBM Secretary Kim Robert C. De Leon** (asr-004292)  
@@ -12256,13 +12256,13 @@ So, that's about 600 billion more.
 **[04:13:43.120] Acting DBM Secretary Kim Robert C. De Leon** (asr-004294)  
 So, we will be at 3.199 altogether, Mr. Chair, Your Honor.
 
-**[04:13:49.120] Senator Panfilo Lacson** (asr-004295)  
+**[04:13:49.120] Senator Panfilo "Ping" M. Lacson** (asr-004295)  
 What's the primary reason for the unreleased appropriations?
 
-**[04:13:53.120] Senator Panfilo Lacson** (asr-004296)  
+**[04:13:53.120] Senator Panfilo "Ping" M. Lacson** (asr-004296)  
 Yes.
 
-**[04:13:54.120] Senator Panfilo Lacson** (asr-004297)  
+**[04:13:54.120] Senator Panfilo "Ping" M. Lacson** (asr-004297)  
 Kasi hindi pa ma-obligate.
 
 **[04:13:56.120] Acting DBM Secretary Kim Robert C. De Leon** (asr-004298)  
@@ -12271,49 +12271,49 @@ For unreleased appropriations, Mr. Chair, Your Honor,
 **[04:14:00.120] Acting DBM Secretary Kim Robert C. De Leon** (asr-004299)  
 this means that the agencies are still not able to submit to the DBM the request for the release of the allotments.
 
-**[04:14:07.120] Senator Panfilo Lacson** (asr-004300)  
+**[04:14:07.120] Senator Panfilo "Ping" M. Lacson** (asr-004300)  
 Yes, understandable.
 
-**[04:14:08.120] Senator Panfilo Lacson** (asr-004301)  
+**[04:14:08.120] Senator Panfilo "Ping" M. Lacson** (asr-004301)  
 So, sa debt service natin, yung interest payments, lalaki ito ng 16.78%.
 
-**[04:14:15.120] Senator Panfilo Lacson** (asr-004302)  
+**[04:14:15.120] Senator Panfilo "Ping" M. Lacson** (asr-004302)  
 Pero yung payments for amortization will also rise by 51.5%.
 
-**[04:14:23.120] Senator Panfilo Lacson** (asr-004303)  
+**[04:14:23.120] Senator Panfilo "Ping" M. Lacson** (asr-004303)  
 Malaki.
 
-**[04:14:24.120] Senator Panfilo Lacson** (asr-004304)  
+**[04:14:24.120] Senator Panfilo "Ping" M. Lacson** (asr-004304)  
 Malaki.
 
-**[04:14:25.120] Senator Panfilo Lacson** (asr-004305)  
+**[04:14:25.120] Senator Panfilo "Ping" M. Lacson** (asr-004305)  
 What would attribute to this spike sa debt burden?
 
 **[04:14:33.680] DOF Secretary Frederick D. Go** (asr-004306)  
 Mr. Chair, Your Honor, if I may take the question.
 
-**[04:14:36.680] Senator Panfilo Lacson** (asr-004307)  
+**[04:14:36.680] Senator Panfilo "Ping" M. Lacson** (asr-004307)  
 Yes, please.
 
 **[04:14:37.680] DOF Secretary Frederick D. Go** (asr-004308)  
 The difference would be the rollover or debt maturing.
 
-**[04:14:43.680] Senator Panfilo Lacson** (asr-004309)  
+**[04:14:43.680] Senator Panfilo "Ping" M. Lacson** (asr-004309)  
 Debt maturing.
 
-**[04:14:45.680] Senator Panfilo Lacson** (asr-004310)  
+**[04:14:45.680] Senator Panfilo "Ping" M. Lacson** (asr-004310)  
 Pero sa NEP, hindi naman po kasama yung amortization, di ba?
 
-**[04:14:49.680] Senator Panfilo Lacson** (asr-004311)  
+**[04:14:49.680] Senator Panfilo "Ping" M. Lacson** (asr-004311)  
 Yung amortization will come from further borrowings.
 
 **[04:14:53.680] DOF Secretary Frederick D. Go** (asr-004312)  
 Yes.
 
-**[04:14:54.680] Senator Panfilo Lacson** (asr-004313)  
+**[04:14:54.680] Senator Panfilo "Ping" M. Lacson** (asr-004313)  
 So, ano yung projected deficit natin?
 
-**[04:14:56.680] Senator Panfilo Lacson** (asr-004314)  
+**[04:14:56.680] Senator Panfilo "Ping" M. Lacson** (asr-004314)  
 Ano yung projected borrowings natin?
 
 **[04:15:00.000] DOF Secretary Frederick D. Go** (asr-004315)  
@@ -12322,13 +12322,13 @@ The total projected borrowings for 2027, Your Honor, is 3.3 trillion against a p
 **[04:15:11.300] DOF Secretary Frederick D. Go** (asr-004316)  
 Of 1.7 trillion.
 
-**[04:15:13.820] Senator Panfilo Lacson** (asr-004317)  
+**[04:15:13.820] Senator Panfilo "Ping" M. Lacson** (asr-004317)  
 You know, I keep asking this every DBCC hearing, you know.
 
-**[04:15:19.560] Senator Panfilo Lacson** (asr-004318)  
+**[04:15:19.560] Senator Panfilo "Ping" M. Lacson** (asr-004318)  
 Bakit it seems na we're borrowing much, much more than the projected deficit?
 
-**[04:15:25.260] Senator Panfilo Lacson** (asr-004319)  
+**[04:15:25.260] Senator Panfilo "Ping" M. Lacson** (asr-004319)  
 And usually the response of the National Treasurer, classified.
 
 **[04:15:32.460] DOF Secretary Frederick D. Go** (asr-004320)  
@@ -12337,58 +12337,58 @@ I will gladly answer you, Your Honor, Mr. Chair.
 **[04:15:36.320] DOF Secretary Frederick D. Go** (asr-004321)  
 So the difference between the 3.3 trillion and the 1.7 deficit is the maturing loans of 1.6 trillion.
 
-**[04:15:45.960] Senator Panfilo Lacson** (asr-004322)  
+**[04:15:45.960] Senator Panfilo "Ping" M. Lacson** (asr-004322)  
 So bakit ang sagot dati ng, hindi naman kayo, no, yung previous,
 
-**[04:15:50.280] Senator Panfilo Lacson** (asr-004323)  
+**[04:15:50.280] Senator Panfilo "Ping" M. Lacson** (asr-004323)  
 ayaw sabihin yung reason bakit sobra-sobra yung hihirami natin,
 
-**[04:15:55.300] Senator Panfilo Lacson** (asr-004324)  
+**[04:15:55.300] Senator Panfilo "Ping" M. Lacson** (asr-004324)  
 domestic and foreign.
 
-**[04:15:57.280] Senator Panfilo Lacson** (asr-004325)  
+**[04:15:57.280] Senator Panfilo "Ping" M. Lacson** (asr-004325)  
 You know, against the projected deficit.
 
-**[04:16:00.600] Senator Panfilo Lacson** (asr-004326)  
+**[04:16:00.600] Senator Panfilo "Ping" M. Lacson** (asr-004326)  
 At that time, I could not figure out, bakit classified?
 
-**[04:16:06.280] Senator Panfilo Lacson** (asr-004327)  
+**[04:16:06.280] Senator Panfilo "Ping" M. Lacson** (asr-004327)  
 Unless it would affect the sale of treasury bonds,
 
-**[04:16:10.620] Senator Panfilo Lacson** (asr-004328)  
+**[04:16:10.620] Senator Panfilo "Ping" M. Lacson** (asr-004328)  
 baka merong mag-speculate or something to that effect.
 
-**[04:16:14.860] Senator Panfilo Lacson** (asr-004329)  
+**[04:16:14.860] Senator Panfilo "Ping" M. Lacson** (asr-004329)  
 Pero I could not find any reason bakit classified yung information na yan.
 
-**[04:16:19.060] Senator Panfilo Lacson** (asr-004330)  
+**[04:16:19.060] Senator Panfilo "Ping" M. Lacson** (asr-004330)  
 Now that you're giving us the figures, so therefore it's not really classified.
 
-**[04:16:25.040] Senator Panfilo Lacson** (asr-004331)  
+**[04:16:25.040] Senator Panfilo "Ping" M. Lacson** (asr-004331)  
 Kasi simple lang naman eh.
 
-**[04:16:27.280] Senator Panfilo Lacson** (asr-004332)  
+**[04:16:27.280] Senator Panfilo "Ping" M. Lacson** (asr-004332)  
 Mga general figures lang na mahiningin natin, not the specifics, di ba?
 
-**[04:16:32.840] Senator Panfilo Lacson** (asr-004333)  
+**[04:16:32.840] Senator Panfilo "Ping" M. Lacson** (asr-004333)  
 So anyway, yung budgetary change in cash.
 
-**[04:16:48.420] Senator Panfilo Lacson** (asr-004334)  
+**[04:16:48.420] Senator Panfilo "Ping" M. Lacson** (asr-004334)  
 Merong tayong mga figures dito, di ba?
 
-**[04:16:50.520] Senator Panfilo Lacson** (asr-004335)  
+**[04:16:50.520] Senator Panfilo "Ping" M. Lacson** (asr-004335)  
 May mga negative.
 
-**[04:16:52.000] Senator Panfilo Lacson** (asr-004336)  
+**[04:16:52.000] Senator Panfilo "Ping" M. Lacson** (asr-004336)  
 Kindly, for my continuing education, kindly clarify.
 
-**[04:16:57.220] Senator Panfilo Lacson** (asr-004337)  
+**[04:16:57.220] Senator Panfilo "Ping" M. Lacson** (asr-004337)  
 Also for the benefit of my other colleagues.
 
-**[04:17:03.900] Senator Panfilo Lacson** (asr-004338)  
+**[04:17:03.900] Senator Panfilo "Ping" M. Lacson** (asr-004338)  
 Budgetary change in cash.
 
-**[04:17:07.060] Senator Panfilo Lacson** (asr-004339)  
+**[04:17:07.060] Senator Panfilo "Ping" M. Lacson** (asr-004339)  
 Paki-explain lang.
 
 **[04:17:08.380] Treasurer of the Philippines Sharon P. Almanza** (asr-004340)  
@@ -12406,49 +12406,49 @@ And then if it's negative, it means that we're using our cash buffer,
 **[04:17:29.300] Treasurer of the Philippines Sharon P. Almanza** (asr-004344)  
 basically financial asset, to cover the difference between the gross borrowing and the net financing.
 
-**[04:17:35.820] Senator Panfilo Lacson** (asr-004345)  
+**[04:17:35.820] Senator Panfilo "Ping" M. Lacson** (asr-004345)  
 Thank you.
 
-**[04:17:39.280] Senator Panfilo Lacson** (asr-004346)  
+**[04:17:39.280] Senator Panfilo "Ping" M. Lacson** (asr-004346)  
 Okay, moving on.
 
-**[04:17:39.880] Senator Panfilo Lacson** (asr-004347)  
+**[04:17:39.880] Senator Panfilo "Ping" M. Lacson** (asr-004347)  
 Yung proposed budget by recipient sectors or units.
 
-**[04:17:47.140] Senator Panfilo Lacson** (asr-004348)  
+**[04:17:47.140] Senator Panfilo "Ping" M. Lacson** (asr-004348)  
 National government, 60.2%.
 
-**[04:17:50.380] Senator Panfilo Lacson** (asr-004349)  
+**[04:17:50.380] Senator Panfilo "Ping" M. Lacson** (asr-004349)  
 Local government units, 21.3%.
 
-**[04:17:55.500] Senator Panfilo Lacson** (asr-004350)  
+**[04:17:55.500] Senator Panfilo "Ping" M. Lacson** (asr-004350)  
 And so forth and so on.
 
-**[04:17:56.600] Senator Panfilo Lacson** (asr-004351)  
+**[04:17:56.600] Senator Panfilo "Ping" M. Lacson** (asr-004351)  
 Nandiyan naman po sa chart natin.
 
-**[04:18:00.220] Senator Panfilo Lacson** (asr-004352)  
+**[04:18:00.220] Senator Panfilo "Ping" M. Lacson** (asr-004352)  
 Ang tanong ko po, may we ask for further submission.
 
-**[04:18:04.220] Senator Panfilo Lacson** (asr-004353)  
+**[04:18:04.220] Senator Panfilo "Ping" M. Lacson** (asr-004353)  
 List of LGUs highly subsidized or dependent to the national...
 
-**[04:18:09.880] Senator Panfilo Lacson** (asr-004354)  
+**[04:18:09.880] Senator Panfilo "Ping" M. Lacson** (asr-004354)  
 On the national government support.
 
-**[04:18:12.580] Senator Panfilo Lacson** (asr-004355)  
+**[04:18:12.580] Senator Panfilo "Ping" M. Lacson** (asr-004355)  
 Can you submit that later?
 
-**[04:18:14.420] Senator Panfilo Lacson** (asr-004356)  
+**[04:18:14.420] Senator Panfilo "Ping" M. Lacson** (asr-004356)  
 Later, later.
 
-**[04:18:14.760] Senator Panfilo Lacson** (asr-004357)  
+**[04:18:14.760] Senator Panfilo "Ping" M. Lacson** (asr-004357)  
 Not necessarily today, no?
 
-**[04:18:18.140] Senator Panfilo Lacson** (asr-004358)  
+**[04:18:18.140] Senator Panfilo "Ping" M. Lacson** (asr-004358)  
 And then sa GOCC, bakit may decrease doon sa share ng GOCC?
 
-**[04:18:27.720] Senator Panfilo Lacson** (asr-004359)  
+**[04:18:27.720] Senator Panfilo "Ping" M. Lacson** (asr-004359)  
 Yung subsidies.
 
 **[04:18:30.260] Acting DBM Secretary Kim Robert C. De Leon** (asr-004360)  
@@ -12460,46 +12460,46 @@ the decrease is about 82.9 billion.
 **[04:18:41.200] Acting DBM Secretary Kim Robert C. De Leon** (asr-004362)  
 So the biggest one is because of the one-time 60 billion that we return to PhilHealth under the 2026 GAA, Your Honor, Mr. Chair.
 
-**[04:18:54.360] Senator Panfilo Lacson** (asr-004363)  
+**[04:18:54.360] Senator Panfilo "Ping" M. Lacson** (asr-004363)  
 Yeah, and what is the...
 
-**[04:18:56.040] Senator Panfilo Lacson** (asr-004364)  
+**[04:18:56.040] Senator Panfilo "Ping" M. Lacson** (asr-004364)  
 Ako, I'm not against that.
 
-**[04:18:57.420] Senator Panfilo Lacson** (asr-004365)  
+**[04:18:57.420] Senator Panfilo "Ping" M. Lacson** (asr-004365)  
 Yung babasa natin yung subsidy sa GOCC for the simple reason that there are so many non-performing GOCCs.
 
-**[04:19:06.140] Senator Panfilo Lacson** (asr-004366)  
+**[04:19:06.140] Senator Panfilo "Ping" M. Lacson** (asr-004366)  
 And I want to find out from you, what is the new policy of the government?
 
-**[04:19:09.980] Senator Panfilo Lacson** (asr-004367)  
+**[04:19:09.980] Senator Panfilo "Ping" M. Lacson** (asr-004367)  
 Doon sa mga non-performing GOCCs.
 
-**[04:19:13.040] Senator Panfilo Lacson** (asr-004368)  
+**[04:19:13.040] Senator Panfilo "Ping" M. Lacson** (asr-004368)  
 Ito yung year in, year out, sinasubsidize yung national government.
 
-**[04:19:17.180] Senator Panfilo Lacson** (asr-004369)  
+**[04:19:17.180] Senator Panfilo "Ping" M. Lacson** (asr-004369)  
 Mukhang wala naman pakinabang.
 
-**[04:19:19.280] Senator Panfilo Lacson** (asr-004370)  
+**[04:19:19.280] Senator Panfilo "Ping" M. Lacson** (asr-004370)  
 Unlike the others na nakakakuha tayo from the GOCCs.
 
-**[04:19:22.880] Senator Panfilo Lacson** (asr-004371)  
+**[04:19:22.880] Senator Panfilo "Ping" M. Lacson** (asr-004371)  
 Pero yung iba naman, talagang persistently, no?
 
-**[04:19:27.680] Senator Panfilo Lacson** (asr-004372)  
+**[04:19:27.680] Senator Panfilo "Ping" M. Lacson** (asr-004372)  
 Walang income, lahat expenses, walang revenues, pero tuloy-tuloy naman yung subsidies.
 
-**[04:19:33.500] Senator Panfilo Lacson** (asr-004373)  
+**[04:19:33.500] Senator Panfilo "Ping" M. Lacson** (asr-004373)  
 Why don't we just abolish them?
 
-**[04:19:35.900] Senator Panfilo Lacson** (asr-004374)  
+**[04:19:35.900] Senator Panfilo "Ping" M. Lacson** (asr-004374)  
 Or not fund them, for that matter.
 
-**[04:19:39.980] Senator Panfilo Lacson** (asr-004375)  
+**[04:19:39.980] Senator Panfilo "Ping" M. Lacson** (asr-004375)  
 If it's not abolished by law, kung hindi nyo ipa-fund, hindi rin makapangsyon, di ba?
 
-**[04:19:47.040] Senator Panfilo Lacson** (asr-004376)  
+**[04:19:47.040] Senator Panfilo "Ping" M. Lacson** (asr-004376)  
 So what's the policy?
 
 **[04:19:50.360] DOF Secretary Frederick D. Go** (asr-004377)  
@@ -12520,25 +12520,25 @@ The truth of the matter, Your Honor, is that it's a very slow, long, and tedious
 **[04:20:21.200] DOF Secretary Frederick D. Go** (asr-004382)  
 But there are currently 21 companies that we would like to shut down.
 
-**[04:20:27.160] Senator Panfilo Lacson** (asr-004383)  
+**[04:20:27.160] Senator Panfilo "Ping" M. Lacson** (asr-004383)  
 How much is the total subsidy being provided by the government sa mga non-performing, yung mga negative na GOCCs?
 
-**[04:20:34.860] Senator Panfilo Lacson** (asr-004384)  
+**[04:20:34.860] Senator Panfilo "Ping" M. Lacson** (asr-004384)  
 On the average, say, for the past...
 
-**[04:20:38.900] Senator Panfilo Lacson** (asr-004385)  
+**[04:20:38.900] Senator Panfilo "Ping" M. Lacson** (asr-004385)  
 From 2013...
 
-**[04:20:39.980] Senator Panfilo Lacson** (asr-004386)  
+**[04:20:39.980] Senator Panfilo "Ping" M. Lacson** (asr-004386)  
 From 2022 hanggang 2026, magkano na inaabon na ng national government?
 
 **[04:20:45.060] Acting DBM Secretary Kim Robert C. De Leon** (asr-004387)  
 Mr. Chair...
 
-**[04:20:45.860] Senator Panfilo Lacson** (asr-004388)  
+**[04:20:45.860] Senator Panfilo "Ping" M. Lacson** (asr-004388)  
 Kasi nasa very tight ating fiscal space, di ba?
 
-**[04:20:49.900] Senator Panfilo Lacson** (asr-004389)  
+**[04:20:49.900] Senator Panfilo "Ping" M. Lacson** (asr-004389)  
 So it's about time that we discuss this and talk about this and implement.
 
 **[04:20:57.500] Acting DBM Secretary Kim Robert C. De Leon** (asr-004390)  
@@ -12556,28 +12556,28 @@ Mr. Chair, of the definition of non-performing and will gladly provide a listing
 **[04:21:21.500] Acting DBM Secretary Kim Robert C. De Leon** (asr-004394)  
 Who may not be necessarily performing social service functions, Your Honor.
 
-**[04:21:25.800] Senator Panfilo Lacson** (asr-004395)  
+**[04:21:25.800] Senator Panfilo "Ping" M. Lacson** (asr-004395)  
 Yes, thank you.
 
-**[04:21:26.680] Senator Panfilo Lacson** (asr-004396)  
+**[04:21:26.680] Senator Panfilo "Ping" M. Lacson** (asr-004396)  
 And of course, I understand the complexities, kasi may mga madidisplaced na mga staff, mga personnel that are manning those GOCCs.
 
-**[04:21:37.680] Senator Panfilo Lacson** (asr-004397)  
+**[04:21:37.680] Senator Panfilo "Ping" M. Lacson** (asr-004397)  
 So ano yung plano?
 
-**[04:21:38.740] Senator Panfilo Lacson** (asr-004398)  
+**[04:21:38.740] Senator Panfilo "Ping" M. Lacson** (asr-004398)  
 In case we abolish them, ano yung contingency?
 
-**[04:21:42.580] Senator Panfilo Lacson** (asr-004399)  
+**[04:21:42.580] Senator Panfilo "Ping" M. Lacson** (asr-004399)  
 Para doon sa mga, of course, their government employees, ano yung contingency?
 
-**[04:21:48.260] Senator Panfilo Lacson** (asr-004400)  
+**[04:21:48.260] Senator Panfilo "Ping" M. Lacson** (asr-004400)  
 Maybe that's one of the reasons why you're finding difficulty in abolishing yung ibang GOCCs.
 
-**[04:21:57.500] Senator Panfilo Lacson** (asr-004401)  
+**[04:21:57.500] Senator Panfilo "Ping" M. Lacson** (asr-004401)  
 Parang for humanitarian.
 
-**[04:21:59.760] Senator Panfilo Lacson** (asr-004402)  
+**[04:21:59.760] Senator Panfilo "Ping" M. Lacson** (asr-004402)  
 Pero we cannot also afford to consider humanitarian reasons in lieu of the very tight fiscal space that we're having now.
 
 **[04:22:11.080] Acting DBM Secretary Kim Robert C. De Leon** (asr-004403)  
@@ -12625,91 +12625,91 @@ At least for PS.
 **[04:23:28.430] Acting DBM Secretary Kim Robert C. De Leon** (asr-004417)  
 Yes, Your Honor.
 
-**[04:23:31.940] Senator Panfilo Lacson** (asr-004418)  
+**[04:23:31.940] Senator Panfilo "Ping" M. Lacson** (asr-004418)  
 Okay, yung regionalized budget against the national.
 
-**[04:23:37.120] Senator Panfilo Lacson** (asr-004419)  
+**[04:23:37.120] Senator Panfilo "Ping" M. Lacson** (asr-004419)  
 You know, I'm glad that the President issued the Exceded Order No. 82, diba?
 
-**[04:23:42.660] Senator Panfilo Lacson** (asr-004420)  
+**[04:23:42.660] Senator Panfilo "Ping" M. Lacson** (asr-004420)  
 And I remember during...
 
-**[04:23:44.720] Senator Panfilo Lacson** (asr-004421)  
+**[04:23:44.720] Senator Panfilo "Ping" M. Lacson** (asr-004421)  
 During the campaign, when he was joining us,
 
-**[04:23:48.160] Senator Panfilo Lacson** (asr-004422)  
+**[04:23:48.160] Senator Panfilo "Ping" M. Lacson** (asr-004422)  
 he used to visit the Regional Development Council meetings, or he used to join.
 
-**[04:23:56.740] Senator Panfilo Lacson** (asr-004423)  
+**[04:23:56.740] Senator Panfilo "Ping" M. Lacson** (asr-004423)  
 But yung implementation, how is it being implemented now?
 
-**[04:24:00.820] Senator Panfilo Lacson** (asr-004424)  
+**[04:24:00.820] Senator Panfilo "Ping" M. Lacson** (asr-004424)  
 Because I remember during the past budget deliberations,
 
-**[04:24:05.600] Senator Panfilo Lacson** (asr-004425)  
+**[04:24:05.600] Senator Panfilo "Ping" M. Lacson** (asr-004425)  
 parang naglilinger lang doon sa hovering doon sa 20 to 30 percent lang
 
-**[04:24:12.720] Senator Panfilo Lacson** (asr-004426)  
+**[04:24:12.720] Senator Panfilo "Ping" M. Lacson** (asr-004426)  
 yung pakinabang ng mga regents.
 
-**[04:24:14.720] Senator Panfilo Lacson** (asr-004427)  
+**[04:24:14.720] Senator Panfilo "Ping" M. Lacson** (asr-004427)  
 Or the output of the Regional Development Councils, of course,
 
-**[04:24:19.420] Senator Panfilo Lacson** (asr-004428)  
+**[04:24:19.420] Senator Panfilo "Ping" M. Lacson** (asr-004428)  
 coming from the barangay, municipal, city, municipality, city, and even provincial.
 
-**[04:24:26.180] Senator Panfilo Lacson** (asr-004429)  
+**[04:24:26.180] Senator Panfilo "Ping" M. Lacson** (asr-004429)  
 But pag nabuo na yung NEP, nasa mga 20, 25 percent lang yung share nila doon sa output nila.
 
-**[04:24:33.720] Senator Panfilo Lacson** (asr-004430)  
+**[04:24:33.720] Senator Panfilo "Ping" M. Lacson** (asr-004430)  
 So what's the use of the Regional Development Councils discussing their regional development plans
 
-**[04:24:41.140] Senator Panfilo Lacson** (asr-004431)  
+**[04:24:41.140] Senator Panfilo "Ping" M. Lacson** (asr-004431)  
 when pagdating sa budget call?
 
-**[04:24:44.000] Senator Panfilo Lacson** (asr-004432)  
+**[04:24:44.000] Senator Panfilo "Ping" M. Lacson** (asr-004432)  
 Yun pala.
 
-**[04:24:44.720] Senator Panfilo Lacson** (asr-004437)  
+**[04:24:44.720] Senator Panfilo "Ping" M. Lacson** (asr-004437)  
 25 percent lang pala yung maipapasok sa NEP.
 
-**[04:24:48.580] Senator Panfilo Lacson** (asr-004438)  
+**[04:24:48.580] Senator Panfilo "Ping" M. Lacson** (asr-004438)  
 So now I want to find out from you, Mr. Secretary,
 
-**[04:24:52.680] Senator Panfilo Lacson** (asr-004439)  
+**[04:24:52.680] Senator Panfilo "Ping" M. Lacson** (asr-004439)  
 ano yung ratio between yung truly representative of the regional development
 
-**[04:25:01.420] Senator Panfilo Lacson** (asr-004440)  
+**[04:25:01.420] Senator Panfilo "Ping" M. Lacson** (asr-004440)  
 doon sa central or sa national government?
 
-**[04:25:05.780] Senator Panfilo Lacson** (asr-004441)  
+**[04:25:05.780] Senator Panfilo "Ping" M. Lacson** (asr-004441)  
 Yung actual.
 
-**[04:25:06.400] Senator Panfilo Lacson** (asr-004442)  
+**[04:25:06.400] Senator Panfilo "Ping" M. Lacson** (asr-004442)  
 Kasi nakalagay dito, regionalized budget, nasa mga 63.9 percent.
 
-**[04:25:12.400] Senator Panfilo Lacson** (asr-004443)  
+**[04:25:12.400] Senator Panfilo "Ping" M. Lacson** (asr-004443)  
 Well and good.
 
-**[04:25:12.900] Senator Panfilo Lacson** (asr-004444)  
+**[04:25:12.900] Senator Panfilo "Ping" M. Lacson** (asr-004444)  
 Pero yung actual,
 
-**[04:25:13.680] Senator Panfilo Lacson** (asr-004445)  
+**[04:25:13.680] Senator Panfilo "Ping" M. Lacson** (asr-004445)  
 ang nag-implement din dyan, national government, di ba?
 
-**[04:25:18.000] Senator Panfilo Lacson** (asr-004446)  
+**[04:25:18.000] Senator Panfilo "Ping" M. Lacson** (asr-004446)  
 Nakasulat lang dito, regionalized, but actually,
 
-**[04:25:21.340] Senator Panfilo Lacson** (asr-004447)  
+**[04:25:21.340] Senator Panfilo "Ping" M. Lacson** (asr-004447)  
 hindi naman ito yung nanggaling sa regional or output ng mga regional development councils.
 
-**[04:25:27.080] Senator Panfilo Lacson** (asr-004448)  
+**[04:25:27.080] Senator Panfilo "Ping" M. Lacson** (asr-004448)  
 So there goes the disconnect.
 
-**[04:25:29.600] Senator Panfilo Lacson** (asr-004449)  
+**[04:25:29.600] Senator Panfilo "Ping" M. Lacson** (asr-004449)  
 Because who would know the needs and priorities of the local government units
 
-**[04:25:35.280] Senator Panfilo Lacson** (asr-004450)  
+**[04:25:35.280] Senator Panfilo "Ping" M. Lacson** (asr-004450)  
 more than the LGUs themselves?
 
 **[04:25:40.400] Acting DBM Secretary Kim Robert C. De Leon** (asr-004451)  
@@ -12775,73 +12775,73 @@ But the system right now and the calendar of the preparation of the RDC-endorsed
 **[04:27:22.920] Acting DBM Secretary Kim Robert C. De Leon** (asr-004471)  
 and the national budget proposal seems to have some disconnect in terms of that submission, Your Honor.
 
-**[04:27:28.520] Senator Panfilo Lacson** (asr-004472)  
+**[04:27:28.520] Senator Panfilo "Ping" M. Lacson** (asr-004472)  
 Yeah. I'm glad you raised that point because ito yung perennial problem, lagi ko rin kinu-question.
 
-**[04:27:35.380] Senator Panfilo Lacson** (asr-004473)  
+**[04:27:35.380] Senator Panfilo "Ping" M. Lacson** (asr-004473)  
 Since time immemorial, dahil hindi nga in sync ang budget call ninyo.
 
-**[04:27:42.100] Senator Panfilo Lacson** (asr-004474)  
+**[04:27:42.100] Senator Panfilo "Ping" M. Lacson** (asr-004474)  
 Mr. Chairman, my time is up.
 
-**[04:27:43.540] Senator Panfilo Lacson** (asr-004475)  
+**[04:27:43.540] Senator Panfilo "Ping" M. Lacson** (asr-004475)  
 Pero last point na lang ito.
 
-**[04:27:45.020] Senator Panfilo Lacson** (asr-004476)  
+**[04:27:45.020] Senator Panfilo "Ping" M. Lacson** (asr-004476)  
 Please proceed.
 
-**[04:27:47.220] Senator Panfilo Lacson** (asr-004477)  
+**[04:27:47.220] Senator Panfilo "Ping" M. Lacson** (asr-004477)  
 Para hindi ma-skip sa mind ko.
 
-**[04:27:49.460] Senator Panfilo Lacson** (asr-004478)  
+**[04:27:49.460] Senator Panfilo "Ping" M. Lacson** (asr-004478)  
 Kasi very, very importante.
 
-**[04:27:52.140] Senator Panfilo Lacson** (asr-004479)  
+**[04:27:52.140] Senator Panfilo "Ping" M. Lacson** (asr-004479)  
 Yung budget call nyo, nag-start ito mga sometime in February or March.
 
-**[04:27:56.760] Senator Panfilo Lacson** (asr-004480)  
+**[04:27:56.760] Senator Panfilo "Ping" M. Lacson** (asr-004480)  
 Budget call, national?
 
-**[04:27:58.860] Senator Panfilo Lacson** (asr-004481)  
+**[04:27:58.860] Senator Panfilo "Ping" M. Lacson** (asr-004481)  
 Yes, January, Your Honor.
 
-**[04:27:59.860] Senator Panfilo Lacson** (asr-004482)  
+**[04:27:59.860] Senator Panfilo "Ping" M. Lacson** (asr-004482)  
 Okay.
 
-**[04:28:00.660] Senator Panfilo Lacson** (asr-004483)  
+**[04:28:00.660] Senator Panfilo "Ping" M. Lacson** (asr-004483)  
 Pero yung DBCC, yung ano, I mean the Regional Development Councils, parang natatapos sila, what, October, November?
 
-**[04:28:09.100] Senator Panfilo Lacson** (asr-004484)  
+**[04:28:09.100] Senator Panfilo "Ping" M. Lacson** (asr-004484)  
 Same year, for the same budget year?
 
-**[04:28:12.060] Senator Panfilo Lacson** (asr-004485)  
+**[04:28:12.060] Senator Panfilo "Ping" M. Lacson** (asr-004485)  
 So talagang malaki yung disconnect.
 
-**[04:28:13.540] Senator Panfilo Lacson** (asr-004486)  
+**[04:28:13.540] Senator Panfilo "Ping" M. Lacson** (asr-004486)  
 Why don't we synchronize na yung for the succeeding budget year, mauna yung RDC para makonsolidate and spare us, you know, spare us legislators from folders being carried by local government officials down to barangay officials?
 
-**[04:28:32.960] Senator Panfilo Lacson** (asr-004487)  
+**[04:28:32.960] Senator Panfilo "Ping" M. Lacson** (asr-004487)  
 Yan ang problema namin ngayon. Mag-i-start na yan.
 
-**[04:28:35.820] Senator Panfilo Lacson** (asr-004488)  
+**[04:28:35.820] Senator Panfilo "Ping" M. Lacson** (asr-004488)  
 Puno yung hallway namin kasi nga nakaligtaan yung kanilang hindi nadala sa NEP.
 
-**[04:28:41.300] Senator Panfilo Lacson** (asr-004489)  
+**[04:28:41.300] Senator Panfilo "Ping" M. Lacson** (asr-004489)  
 So you can, you know, you can spare us from the problems of, you know, facing these local government officials knocking at our doors.
 
-**[04:28:51.220] Senator Panfilo Lacson** (asr-004490)  
+**[04:28:51.220] Senator Panfilo "Ping" M. Lacson** (asr-004490)  
 Ako walang problema. Hindi ako pinupuntaan. Alhamdulillah, wala akong, well, wala na yung pork barrel anyway.
 
-**[04:28:57.260] Senator Panfilo Lacson** (asr-004491)  
+**[04:28:57.260] Senator Panfilo "Ping" M. Lacson** (asr-004491)  
 So kindly synchronize yung mabuti na andyan ka na, Secretary Kim, kasi ito rin yung lagi naming nire-raise sa previous DBM secretaries, pero hindi na-implement.
 
-**[04:29:09.940] Senator Panfilo Lacson** (asr-004492)  
+**[04:29:09.940] Senator Panfilo "Ping" M. Lacson** (asr-004492)  
 Okay.
 
-**[04:29:10.060] Senator Panfilo Lacson** (asr-004493)  
+**[04:29:10.060] Senator Panfilo "Ping" M. Lacson** (asr-004493)  
 So with that, thank you, Mr. Chairman.
 
-**[04:29:12.960] Senator Panfilo Lacson** (asr-004494)  
+**[04:29:12.960] Senator Panfilo "Ping" M. Lacson** (asr-004494)  
 Mr. Chair, if...
 
 **[04:29:13.900] Senator Joseph Victor "JV" G. Ejercito** (asr-004495)  
@@ -12862,7 +12862,7 @@ That includes the vertical alignment in terms of planning and budgeting linkage.
 **[04:29:40.060] Acting DBM Secretary Kim Robert C. De Leon** (asr-004500)  
 So, Your Honor, Mr. Chair.
 
-**[04:29:41.080] Senator Panfilo Lacson** (asr-004501)  
+**[04:29:41.080] Senator Panfilo "Ping" M. Lacson** (asr-004501)  
 Kung pwede, vertical and horizontal.
 
 **[04:29:44.760] Senator Joel Villanueva** (asr-004502)  
@@ -12964,10 +12964,10 @@ It's a ghost town.
 **[04:32:10.600] Senator Joel Villanueva** (asr-004535)  
 And I asked why, because of the dollar rates.
 
-**[04:32:13.860] Senator Panfilo Lacson** (asr-004536)  
+**[04:32:13.860] Senator Panfilo "Ping" M. Lacson** (asr-004536)  
 Mr. Chairman, I just need to clarify, that's our list.
 
-**[04:32:17.800] Senator Panfilo Lacson** (asr-004537)  
+**[04:32:17.800] Senator Panfilo "Ping" M. Lacson** (asr-004537)  
 And I just asked my staff, sigurado ba tayo dyan, sigurado pa naman.
 
 **[04:32:21.440] Senator Pia S. Cayetano** (asr-004538)  
@@ -12991,7 +12991,7 @@ Thank you, Mr. Chairman.
 **[04:32:40.220] Senator Joseph Victor "JV" G. Ejercito** (asr-004544)  
 Thank you, Senator Pia.
 
-**[04:32:41.380] Senator Panfilo Lacson** (asr-004545)  
+**[04:32:41.380] Senator Panfilo "Ping" M. Lacson** (asr-004545)  
 Siguro, pa-validate na rin natin sa kanila, Mr. Chairman.
 
 **[04:32:44.320] Senator Joseph Victor "JV" G. Ejercito** (asr-004546)  
@@ -15118,118 +15118,118 @@ in this round, I can hear murmurs around the table
 **[05:11:15.260] Senator Risa Hontiveros** (asr-005253)  
 and Senator Ping would like to interject.
 
-**[05:11:17.240] Senator Panfilo Lacson** (asr-005254)  
+**[05:11:17.240] Senator Panfilo "Ping" M. Lacson** (asr-005254)  
 Kunti interjection because interestingly,
 
-**[05:11:20.440] Senator Panfilo Lacson** (asr-005255)  
+**[05:11:20.440] Senator Panfilo "Ping" M. Lacson** (asr-005255)  
 ang sabi niyo po, Secretary,
 
-**[05:11:22.700] Senator Panfilo Lacson** (asr-005256)  
+**[05:11:22.700] Senator Panfilo "Ping" M. Lacson** (asr-005256)  
 yung budget preparation
 
-**[05:11:24.140] Senator Panfilo Lacson** (asr-005257)  
+**[05:11:24.140] Senator Panfilo "Ping" M. Lacson** (asr-005257)  
 ay
 
-**[05:11:25.120] Senator Panfilo Lacson** (asr-005258)  
+**[05:11:25.120] Senator Panfilo "Ping" M. Lacson** (asr-005258)  
 execution ready.
 
-**[05:11:28.920] Senator Panfilo Lacson** (asr-005259)  
+**[05:11:28.920] Senator Panfilo "Ping" M. Lacson** (asr-005259)  
 Merong programs of work,
 
-**[05:11:30.260] Senator Panfilo Lacson** (asr-005260)  
+**[05:11:30.260] Senator Panfilo "Ping" M. Lacson** (asr-005260)  
 etc.
 
-**[05:11:30.500] Senator Panfilo Lacson** (asr-005261)  
+**[05:11:30.500] Senator Panfilo "Ping" M. Lacson** (asr-005261)  
 Pero may nakita kaming
 
-**[05:11:32.660] Senator Panfilo Lacson** (asr-005262)  
+**[05:11:32.660] Senator Panfilo "Ping" M. Lacson** (asr-005262)  
 180.
 
-**[05:11:33.280] Senator Panfilo Lacson** (asr-005263)  
+**[05:11:33.280] Senator Panfilo "Ping" M. Lacson** (asr-005263)  
 million each.
 
-**[05:11:35.860] Senator Panfilo Lacson** (asr-005264)  
+**[05:11:35.860] Senator Panfilo "Ping" M. Lacson** (asr-005264)  
 Intended.
 
-**[05:11:36.640] Senator Panfilo Lacson** (asr-005265)  
+**[05:11:36.640] Senator Panfilo "Ping" M. Lacson** (asr-005265)  
 Lamsang po ito eh kasi intended
 
-**[05:11:38.320] Senator Panfilo Lacson** (asr-005266)  
+**[05:11:38.320] Senator Panfilo "Ping" M. Lacson** (asr-005266)  
 for all 17 regions.
 
-**[05:11:41.040] Senator Panfilo Lacson** (asr-005267)  
+**[05:11:41.040] Senator Panfilo "Ping" M. Lacson** (asr-005267)  
 Evacuation centers.
 
-**[05:11:42.980] Senator Panfilo Lacson** (asr-005268)  
+**[05:11:42.980] Senator Panfilo "Ping" M. Lacson** (asr-005268)  
 Eh walang malang
 
-**[05:11:44.200] Senator Panfilo Lacson** (asr-005269)  
+**[05:11:44.200] Senator Panfilo "Ping" M. Lacson** (asr-005269)  
 nakaspecify saan lugar sa region.
 
-**[05:11:47.320] Senator Panfilo Lacson** (asr-005270)  
+**[05:11:47.320] Senator Panfilo "Ping" M. Lacson** (asr-005270)  
 Ilan ba yung regions na marami
 
-**[05:11:48.720] Senator Panfilo Lacson** (asr-005271)  
+**[05:11:48.720] Senator Panfilo "Ping" M. Lacson** (asr-005271)  
 na evacuation centers? Walang specifics.
 
-**[05:11:51.780] Senator Panfilo Lacson** (asr-005272)  
+**[05:11:51.780] Senator Panfilo "Ping" M. Lacson** (asr-005272)  
 So,
 
-**[05:11:52.780] Senator Panfilo Lacson** (asr-005273)  
+**[05:11:52.780] Senator Panfilo "Ping" M. Lacson** (asr-005273)  
 much as I would like to believe you,
 
-**[05:11:57.520] Senator Panfilo Lacson** (asr-005274)  
+**[05:11:57.520] Senator Panfilo "Ping" M. Lacson** (asr-005274)  
 iba naman ang sinasabi doon sa NEP.
 
-**[05:12:00.600] Senator Panfilo Lacson** (asr-005275)  
+**[05:12:00.600] Senator Panfilo "Ping" M. Lacson** (asr-005275)  
 Ayan o.
 
-**[05:12:01.620] Senator Panfilo Lacson** (asr-005276)  
+**[05:12:01.620] Senator Panfilo "Ping" M. Lacson** (asr-005276)  
 180 million each.
 
-**[05:12:03.280] Senator Panfilo Lacson** (asr-005277)  
+**[05:12:03.280] Senator Panfilo "Ping" M. Lacson** (asr-005277)  
 And mind you,
 
-**[05:12:05.920] Senator Panfilo Lacson** (asr-005278)  
+**[05:12:05.920] Senator Panfilo "Ping" M. Lacson** (asr-005278)  
 it's not only for 2027.
 
-**[05:12:09.040] Senator Panfilo Lacson** (asr-005279)  
+**[05:12:09.040] Senator Panfilo "Ping" M. Lacson** (asr-005279)  
 Nakakita rin kami ng
 
-**[05:12:09.960] Senator Panfilo Lacson** (asr-005280)  
+**[05:12:09.960] Senator Panfilo "Ping" M. Lacson** (asr-005280)  
 100 million each for 2026.
 
-**[05:12:12.400] Senator Panfilo Lacson** (asr-005281)  
+**[05:12:12.400] Senator Panfilo "Ping" M. Lacson** (asr-005281)  
 Ganyan din po.
 
-**[05:12:13.900] Senator Panfilo Lacson** (asr-005282)  
+**[05:12:13.900] Senator Panfilo "Ping" M. Lacson** (asr-005282)  
 And of course, sa DPWS na namin
 
-**[05:12:16.100] Senator Panfilo Lacson** (asr-005283)  
+**[05:12:16.100] Senator Panfilo "Ping" M. Lacson** (asr-005283)  
 tatanungin yan. Pero since
 
-**[05:12:17.920] Senator Panfilo Lacson** (asr-005284)  
+**[05:12:17.920] Senator Panfilo "Ping" M. Lacson** (asr-005284)  
 this is also part of policy,
 
-**[05:12:20.580] Senator Panfilo Lacson** (asr-005285)  
+**[05:12:20.580] Senator Panfilo "Ping" M. Lacson** (asr-005285)  
 bakit yung pinayagan sa
 
-**[05:12:21.760] Senator Panfilo Lacson** (asr-005286)  
+**[05:12:21.760] Senator Panfilo "Ping" M. Lacson** (asr-005286)  
 DBCC na magkaroon ng
 
-**[05:12:24.120] Senator Panfilo Lacson** (asr-005287)  
+**[05:12:24.120] Senator Panfilo "Ping" M. Lacson** (asr-005287)  
 budget ng item
 
-**[05:12:26.380] Senator Panfilo Lacson** (asr-005288)  
+**[05:12:26.380] Senator Panfilo "Ping" M. Lacson** (asr-005288)  
 eh halos blanco.
 
-**[05:12:28.480] Senator Panfilo Lacson** (asr-005289)  
+**[05:12:28.480] Senator Panfilo "Ping" M. Lacson** (asr-005289)  
 May amount, walang
 
-**[05:12:30.080] Senator Panfilo Lacson** (asr-005290)  
+**[05:12:30.080] Senator Panfilo "Ping" M. Lacson** (asr-005290)  
 specs.
 
-**[05:12:30.580] Senator Panfilo Lacson** (asr-005291)  
+**[05:12:30.580] Senator Panfilo "Ping" M. Lacson** (asr-005291)  
 Thank you.
 
 **[05:12:33.280] Acting DBM Secretary Kim Robert C. De Leon** (asr-005292)  
@@ -15346,148 +15346,148 @@ discussion of the budget, the list can
 **[05:13:48.940] Acting DBM Secretary Kim Robert C. De Leon** (asr-005329)  
 already be provided, your honor.
 
-**[05:13:51.520] Senator Panfilo Lacson** (asr-005330)  
+**[05:13:51.520] Senator Panfilo "Ping" M. Lacson** (asr-005330)  
 Di po po dapat sa budget preparation?
 
-**[05:13:54.160] Senator Panfilo Lacson** (asr-005331)  
+**[05:13:54.160] Senator Panfilo "Ping" M. Lacson** (asr-005331)  
 Naando na yun.
 
-**[05:13:56.760] Senator Panfilo Lacson** (asr-005332)  
+**[05:13:56.760] Senator Panfilo "Ping" M. Lacson** (asr-005332)  
 Submitted na.
 
-**[05:13:57.880] Senator Panfilo Lacson** (asr-005333)  
+**[05:13:57.880] Senator Panfilo "Ping" M. Lacson** (asr-005333)  
 This would
 
-**[05:13:59.200] Senator Panfilo Lacson** (asr-005334)  
+**[05:13:59.200] Senator Panfilo "Ping" M. Lacson** (asr-005334)  
 amount to something like
 
-**[05:14:00.560] Senator Panfilo Lacson** (asr-005335)  
+**[05:14:00.560] Senator Panfilo "Ping" M. Lacson** (asr-005335)  
 3.60 or
 
-**[05:14:02.800] Senator Panfilo Lacson** (asr-005336)  
+**[05:14:02.800] Senator Panfilo "Ping" M. Lacson** (asr-005336)  
 3.06 billion
 
-**[05:14:04.240] Senator Panfilo Lacson** (asr-005337)  
+**[05:14:04.240] Senator Panfilo "Ping" M. Lacson** (asr-005337)  
 pesos. Now,
 
-**[05:14:06.700] Senator Panfilo Lacson** (asr-005338)  
+**[05:14:06.700] Senator Panfilo "Ping" M. Lacson** (asr-005338)  
 nag-sampling po kami kasi yung
 
-**[05:14:08.440] Senator Panfilo Lacson** (asr-005339)  
+**[05:14:08.440] Senator Panfilo "Ping" M. Lacson** (asr-005339)  
 dati, yung PDRF. Alam ni
 
-**[05:14:10.780] Senator Panfilo Lacson** (asr-005340)  
+**[05:14:10.780] Senator Panfilo "Ping" M. Lacson** (asr-005340)  
 Yusek Rosito
 
-**[05:14:12.760] Senator Panfilo Lacson** (asr-005341)  
+**[05:14:12.760] Senator Panfilo "Ping" M. Lacson** (asr-005341)  
 kasi we worked with her
 
-**[05:14:14.680] Senator Panfilo Lacson** (asr-005342)  
+**[05:14:14.680] Senator Panfilo "Ping" M. Lacson** (asr-005342)  
 sa Yolanda.
 
-**[05:14:16.660] Senator Panfilo Lacson** (asr-005343)  
+**[05:14:16.660] Senator Panfilo "Ping" M. Lacson** (asr-005343)  
 Ang isang evacuation center
 
-**[05:14:18.220] Senator Panfilo Lacson** (asr-005344)  
+**[05:14:18.220] Senator Panfilo "Ping" M. Lacson** (asr-005344)  
 in 2013,
 
-**[05:14:22.200] Senator Panfilo Lacson** (asr-005345)  
+**[05:14:22.200] Senator Panfilo "Ping" M. Lacson** (asr-005345)  
 2014,
 
-**[05:14:23.520] Senator Panfilo Lacson** (asr-005346)  
+**[05:14:23.520] Senator Panfilo "Ping" M. Lacson** (asr-005346)  
 ayan o, hanggang ngayon,
 
-**[05:14:24.680] Senator Panfilo Lacson** (asr-005347)  
+**[05:14:24.680] Senator Panfilo "Ping" M. Lacson** (asr-005347)  
 ganyan pa, itsura niyan, 12.77
 
-**[05:14:26.580] Senator Panfilo Lacson** (asr-005348)  
+**[05:14:26.580] Senator Panfilo "Ping" M. Lacson** (asr-005348)  
 million. Ilang evacuation
 
-**[05:14:28.780] Senator Panfilo Lacson** (asr-005349)  
+**[05:14:28.780] Senator Panfilo "Ping" M. Lacson** (asr-005349)  
 centers following
 
-**[05:14:30.740] Senator Panfilo Lacson** (asr-005350)  
+**[05:14:30.740] Senator Panfilo "Ping" M. Lacson** (asr-005350)  
 this model,
 
-**[05:14:31.600] Senator Panfilo Lacson** (asr-005351)  
+**[05:14:31.600] Senator Panfilo "Ping" M. Lacson** (asr-005351)  
 ang mapapagawa ng
 
-**[05:14:33.580] Senator Panfilo Lacson** (asr-005352)  
+**[05:14:33.580] Senator Panfilo "Ping" M. Lacson** (asr-005352)  
 3.06 billion.
 
-**[05:14:36.500] Senator Panfilo Lacson** (asr-005353)  
+**[05:14:36.500] Senator Panfilo "Ping" M. Lacson** (asr-005353)  
 12 points,
 
-**[05:14:37.620] Senator Panfilo Lacson** (asr-005354)  
+**[05:14:37.620] Senator Panfilo "Ping" M. Lacson** (asr-005354)  
 i-incorporate na natin, i-input na
 
-**[05:14:39.760] Senator Panfilo Lacson** (asr-005355)  
+**[05:14:39.760] Senator Panfilo "Ping" M. Lacson** (asr-005355)  
 natin yung 75
 
-**[05:14:41.860] Senator Panfilo Lacson** (asr-005356)  
+**[05:14:41.860] Senator Panfilo "Ping" M. Lacson** (asr-005356)  
 centavos na lamang
 
-**[05:14:43.220] Senator Panfilo Lacson** (asr-005357)  
+**[05:14:43.220] Senator Panfilo "Ping" M. Lacson** (asr-005357)  
 ang
 
-**[05:14:44.800] Senator Panfilo Lacson** (asr-005358)  
+**[05:14:44.800] Senator Panfilo "Ping" M. Lacson** (asr-005358)  
 equivalent ng 1 peso
 
-**[05:14:47.720] Senator Panfilo Lacson** (asr-005359)  
+**[05:14:47.720] Senator Panfilo "Ping" M. Lacson** (asr-005359)  
 noong 2018. And probably,
 
-**[05:14:50.140] Senator Panfilo Lacson** (asr-005360)  
+**[05:14:50.140] Senator Panfilo "Ping" M. Lacson** (asr-005360)  
 kung 2014,
 
-**[05:14:52.100] Senator Panfilo Lacson** (asr-005361)  
+**[05:14:52.100] Senator Panfilo "Ping" M. Lacson** (asr-005361)  
 baka 60 centavos
 
-**[05:14:53.820] Senator Panfilo Lacson** (asr-005362)  
+**[05:14:53.820] Senator Panfilo "Ping" M. Lacson** (asr-005362)  
 na lang ngayon, ang equivalent.
 
-**[05:14:56.480] Senator Panfilo Lacson** (asr-005363)  
+**[05:14:56.480] Senator Panfilo "Ping" M. Lacson** (asr-005363)  
 Kung i-incorporate pa rin
 
-**[05:14:57.780] Senator Panfilo Lacson** (asr-005364)  
+**[05:14:57.780] Senator Panfilo "Ping" M. Lacson** (asr-005364)  
 natin yun, i-input natin yun,
 
-**[05:15:00.000] Senator Panfilo Lacson** (asr-005365)  
+**[05:15:00.000] Senator Panfilo "Ping" M. Lacson** (asr-005365)  
 Ang daming evacuation center niyan,
 
-**[05:15:01.840] Senator Panfilo Lacson** (asr-005366)  
+**[05:15:01.840] Senator Panfilo "Ping" M. Lacson** (asr-005366)  
 Mr. Secretary.
 
-**[05:15:03.180] Senator Panfilo Lacson** (asr-005367)  
+**[05:15:03.180] Senator Panfilo "Ping" M. Lacson** (asr-005367)  
 Anyway, so much for that.
 
-**[05:15:04.600] Senator Panfilo Lacson** (asr-005368)  
+**[05:15:04.600] Senator Panfilo "Ping" M. Lacson** (asr-005368)  
 We'll discuss it with the DPWD officials
 
-**[05:15:07.660] Senator Panfilo Lacson** (asr-005369)  
+**[05:15:07.660] Senator Panfilo "Ping" M. Lacson** (asr-005369)  
 pagka dating ng budget.
 
-**[05:15:09.900] Senator Panfilo Lacson** (asr-005370)  
+**[05:15:09.900] Senator Panfilo "Ping" M. Lacson** (asr-005370)  
 Pinoint out ko lang para lang
 
-**[05:15:11.360] Senator Panfilo Lacson** (asr-005371)  
+**[05:15:11.360] Senator Panfilo "Ping" M. Lacson** (asr-005371)  
 sa budget preparation
 
-**[05:15:13.340] Senator Panfilo Lacson** (asr-005372)  
+**[05:15:13.340] Senator Panfilo "Ping" M. Lacson** (asr-005372)  
 kasi this is within your jurisdiction.
 
-**[05:15:17.100] Senator Panfilo Lacson** (asr-005373)  
+**[05:15:17.100] Senator Panfilo "Ping" M. Lacson** (asr-005373)  
 Eh, sabi mo kasi kanina,
 
-**[05:15:18.380] Senator Panfilo Lacson** (asr-005374)  
+**[05:15:18.380] Senator Panfilo "Ping" M. Lacson** (asr-005374)  
 execution ready.
 
-**[05:15:20.240] Senator Panfilo Lacson** (asr-005375)  
+**[05:15:20.240] Senator Panfilo "Ping" M. Lacson** (asr-005375)  
 So, you know,
 
-**[05:15:21.780] Senator Panfilo Lacson** (asr-005376)  
+**[05:15:21.780] Senator Panfilo "Ping" M. Lacson** (asr-005376)  
 napareact lang ako.
 
-**[05:15:22.800] Senator Panfilo Lacson** (asr-005377)  
+**[05:15:22.800] Senator Panfilo "Ping" M. Lacson** (asr-005377)  
 Thank you.
 
 **[05:15:24.520] Senator Risa Hontiveros** (asr-005378)  
@@ -15505,31 +15505,31 @@ then Senator Joel Villalueva
 **[05:15:29.740] Senator Joseph Victor "JV" G. Ejercito** (asr-005382)  
 because he's leaving at 3.30.
 
-**[05:15:32.800] Senator Panfilo Lacson** (asr-005383)  
+**[05:15:32.800] Senator Panfilo "Ping" M. Lacson** (asr-005383)  
 Ay, Mr. Chairman,
 
-**[05:15:35.020] Senator Panfilo Lacson** (asr-005384)  
+**[05:15:35.020] Senator Panfilo "Ping" M. Lacson** (asr-005384)  
 i-add ko lang.
 
-**[05:15:36.280] Senator Panfilo Lacson** (asr-005385)  
+**[05:15:36.280] Senator Panfilo "Ping" M. Lacson** (asr-005385)  
 Ang estimate pala ng OCD,
 
-**[05:15:38.500] Senator Panfilo Lacson** (asr-005386)  
+**[05:15:38.500] Senator Panfilo "Ping" M. Lacson** (asr-005386)  
 75 million per evacuation center.
 
-**[05:15:41.920] Senator Panfilo Lacson** (asr-005387)  
+**[05:15:41.920] Senator Panfilo "Ping" M. Lacson** (asr-005387)  
 Ang layo sa 12,
 
-**[05:15:43.600] Senator Panfilo Lacson** (asr-005388)  
+**[05:15:43.600] Senator Panfilo "Ping" M. Lacson** (asr-005388)  
 even inputting the inflation
 
-**[05:15:46.040] Senator Panfilo Lacson** (asr-005389)  
+**[05:15:46.040] Senator Panfilo "Ping" M. Lacson** (asr-005389)  
 or inflation,
 
-**[05:15:48.260] Senator Panfilo Lacson** (asr-005390)  
+**[05:15:48.260] Senator Panfilo "Ping" M. Lacson** (asr-005390)  
 sobra pa rin yung 75
 
-**[05:15:49.380] Senator Panfilo Lacson** (asr-005391)  
+**[05:15:49.380] Senator Panfilo "Ping" M. Lacson** (asr-005391)  
 per evacuation center.
 
 **[05:15:54.970] Senator Joseph Victor "JV" G. Ejercito** (asr-005392)  
@@ -18121,55 +18121,55 @@ Thank you,
 **[05:52:33.420] Senator Joseph Victor "JV" G. Ejercito** (asr-006263)  
 Senator Joel. Yes, our Senate President.
 
-**[05:52:35.500] Senator Sherwin "Win" T. Gatchalian** (asr-006264)  
+**[05:52:35.500] Senate President Sherwin "Win" T. Gatchalian** (asr-006264)  
 Very quick lang, Mr. Chairman, kasi
 
-**[05:52:37.260] Senator Sherwin "Win" T. Gatchalian** (asr-006265)  
+**[05:52:37.260] Senate President Sherwin "Win" T. Gatchalian** (asr-006265)  
 na-mention yung Optical Media Board.
 
-**[05:52:39.260] Senator Sherwin "Win" T. Gatchalian** (asr-006266)  
+**[05:52:39.260] Senate President Sherwin "Win" T. Gatchalian** (asr-006266)  
 We, in fact, placed a
 
-**[05:52:40.900] Senator Sherwin "Win" T. Gatchalian** (asr-006267)  
+**[05:52:40.900] Senate President Sherwin "Win" T. Gatchalian** (asr-006267)  
 special provision to
 
-**[05:52:43.360] Senator Sherwin "Win" T. Gatchalian** (asr-006268)  
+**[05:52:43.360] Senate President Sherwin "Win" T. Gatchalian** (asr-006268)  
 wind down
 
-**[05:52:44.440] Senator Sherwin "Win" T. Gatchalian** (asr-006269)  
+**[05:52:44.440] Senate President Sherwin "Win" T. Gatchalian** (asr-006269)  
 the Optical Media Board. So, in other words,
 
-**[05:52:47.540] Senator Sherwin "Win" T. Gatchalian** (asr-006270)  
+**[05:52:47.540] Senate President Sherwin "Win" T. Gatchalian** (asr-006270)  
 dapat hindi na siya
 
-**[05:52:49.520] Senator Sherwin "Win" T. Gatchalian** (asr-006271)  
+**[05:52:49.520] Senate President Sherwin "Win" T. Gatchalian** (asr-006271)  
 nagpa-function.
 
-**[05:52:51.140] Senator Sherwin "Win" T. Gatchalian** (asr-006272)  
+**[05:52:51.140] Senate President Sherwin "Win" T. Gatchalian** (asr-006272)  
 So, because during the budget
 
-**[05:52:53.340] Senator Sherwin "Win" T. Gatchalian** (asr-006273)  
+**[05:52:53.340] Senate President Sherwin "Win" T. Gatchalian** (asr-006273)  
 deliberation and maraming
 
-**[05:52:55.480] Senator Sherwin "Win" T. Gatchalian** (asr-006274)  
+**[05:52:55.480] Senate President Sherwin "Win" T. Gatchalian** (asr-006274)  
 nag-agree na obsolete na
 
-**[05:52:57.360] Senator Sherwin "Win" T. Gatchalian** (asr-006275)  
+**[05:52:57.360] Senate President Sherwin "Win" T. Gatchalian** (asr-006275)  
 yung kanilang mandate. Wala nang gumagamit
 
-**[05:52:59.380] Senator Sherwin "Win" T. Gatchalian** (asr-006276)  
+**[05:52:59.380] Senate President Sherwin "Win" T. Gatchalian** (asr-006276)  
 na CD.
 
-**[05:53:00.820] Senator Sherwin "Win" T. Gatchalian** (asr-006277)  
+**[05:53:00.820] Senate President Sherwin "Win" T. Gatchalian** (asr-006277)  
 So, kaya linagay na namin doong
 
-**[05:53:03.360] Senator Sherwin "Win" T. Gatchalian** (asr-006278)  
+**[05:53:03.360] Senate President Sherwin "Win" T. Gatchalian** (asr-006278)  
 ito wind down. Nabigyan ba siya
 
-**[05:53:05.340] Senator Sherwin "Win" T. Gatchalian** (asr-006279)  
+**[05:53:05.340] Senate President Sherwin "Win" T. Gatchalian** (asr-006279)  
 ng budget?
 
-**[05:53:07.660] Senator Sherwin "Win" T. Gatchalian** (asr-006280)  
+**[05:53:07.660] Senate President Sherwin "Win" T. Gatchalian** (asr-006280)  
 Secretary Kim?
 
 **[05:53:09.420] Acting DBM Secretary Kim Robert C. De Leon** (asr-006281)  
@@ -18208,10 +18208,10 @@ winding down of the OMB,
 **[05:53:31.540] Acting DBM Secretary Kim Robert C. De Leon** (asr-006292)  
 Your Honor.
 
-**[05:53:34.020] Senator Sherwin "Win" T. Gatchalian** (asr-006293)  
+**[05:53:34.020] Senate President Sherwin "Win" T. Gatchalian** (asr-006293)  
 Pero nasa NEP pa siya.
 
-**[05:53:35.900] Senator Sherwin "Win" T. Gatchalian** (asr-006294)  
+**[05:53:35.900] Senate President Sherwin "Win" T. Gatchalian** (asr-006294)  
 I guess, kasi bine-defend na.
 
 **[05:53:38.540] Acting DBM Secretary Kim Robert C. De Leon** (asr-006295)  
@@ -18229,37 +18229,37 @@ recurring expenses of
 **[05:53:46.720] Acting DBM Secretary Kim Robert C. De Leon** (asr-006299)  
 the OMB.
 
-**[05:53:47.970] Senator Sherwin "Win" T. Gatchalian** (asr-006299-split-2)  
+**[05:53:47.970] Senate President Sherwin "Win" T. Gatchalian** (asr-006299-split-2)  
 When the time comes,
 
-**[05:53:49.180] Senator Sherwin "Win" T. Gatchalian** (asr-006300)  
+**[05:53:49.180] Senate President Sherwin "Win" T. Gatchalian** (asr-006300)  
 si Senator Joel will
 
-**[05:53:50.620] Senator Sherwin "Win" T. Gatchalian** (asr-006301)  
+**[05:53:50.620] Senate President Sherwin "Win" T. Gatchalian** (asr-006301)  
 make sure that the special
 
-**[05:53:52.680] Senator Sherwin "Win" T. Gatchalian** (asr-006302)  
+**[05:53:52.680] Senate President Sherwin "Win" T. Gatchalian** (asr-006302)  
 provision will be implemented.
 
-**[05:53:57.020] Senator Sherwin "Win" T. Gatchalian** (asr-006303)  
+**[05:53:57.020] Senate President Sherwin "Win" T. Gatchalian** (asr-006303)  
 Natanong ni Sen. Ping kung may
 
-**[05:53:58.400] Senator Sherwin "Win" T. Gatchalian** (asr-006304)  
+**[05:53:58.400] Senate President Sherwin "Win" T. Gatchalian** (asr-006304)  
 confidential funds raw.
 
-**[05:54:00.720] Senator Sherwin "Win" T. Gatchalian** (asr-006305)  
+**[05:54:00.720] Senate President Sherwin "Win" T. Gatchalian** (asr-006305)  
 Ang OMB. Wala naman siguro.
 
 **[05:54:02.080] Acting DBM Secretary Kim Robert C. De Leon** (asr-006306)  
 It's the Optical Media Board. Wala po, Your Honor.
 
-**[05:54:05.680] Senator Sherwin "Win" T. Gatchalian** (asr-006307)  
+**[05:54:05.680] Senate President Sherwin "Win" T. Gatchalian** (asr-006307)  
 So, when the time comes,
 
-**[05:54:06.720] Senator Sherwin "Win" T. Gatchalian** (asr-006308)  
+**[05:54:06.720] Senate President Sherwin "Win" T. Gatchalian** (asr-006308)  
 silang will effect the special
 
-**[05:54:08.660] Senator Sherwin "Win" T. Gatchalian** (asr-006309)  
+**[05:54:08.660] Senate President Sherwin "Win" T. Gatchalian** (asr-006309)  
 provision.
 
 **[05:54:10.560] Senator Joseph Victor "JV" G. Ejercito** (asr-006310)  
@@ -19684,7 +19684,7 @@ No, not in progress, Your Honor.
 **[06:15:11.480] DOF Secretary Frederick D. Go** (asr-006783)  
 Inanggal na?
 
-**[06:15:12.180] Senator Sherwin "Win" T. Gatchalian** (asr-006784)  
+**[06:15:12.180] Senate President Sherwin "Win" T. Gatchalian** (asr-006784)  
 Not in progress. Progress only has a luxury tax for vehicles above 8 million pesos.
 
 **[06:15:17.720] Senator Imee R. Marcos** (asr-006785)  
@@ -22621,34 +22621,34 @@ Thank you, Senator Villar.
 **[07:17:32.320] Senator Joseph Victor "JV" G. Ejercito** (asr-007762)  
 Next is our Senate President.
 
-**[07:17:37.200] Senator Sherwin "Win" T. Gatchalian** (asr-007763)  
+**[07:17:37.200] Senate President Sherwin "Win" T. Gatchalian** (asr-007763)  
 Thank you, Mr. Chairman.
 
-**[07:17:40.620] Senator Sherwin "Win" T. Gatchalian** (asr-007764)  
+**[07:17:40.620] Senate President Sherwin "Win" T. Gatchalian** (asr-007764)  
 Marami na hoon na tanong. I'll just ask some of the loose ends lang.
 
-**[07:17:45.240] Senator Sherwin "Win" T. Gatchalian** (asr-007765)  
+**[07:17:45.240] Senate President Sherwin "Win" T. Gatchalian** (asr-007765)  
 I'll flash on the screen slide two.
 
-**[07:17:51.940] Senator Sherwin "Win" T. Gatchalian** (asr-007766)  
+**[07:17:51.940] Senate President Sherwin "Win" T. Gatchalian** (asr-007766)  
 Okay, flash on the screen.
 
-**[07:17:53.260] Senator Sherwin "Win" T. Gatchalian** (asr-007767)  
+**[07:17:53.260] Senate President Sherwin "Win" T. Gatchalian** (asr-007767)  
 So...
 
-**[07:17:53.900] Senator Sherwin "Win" T. Gatchalian** (asr-007768)  
+**[07:17:53.900] Senate President Sherwin "Win" T. Gatchalian** (asr-007768)  
 This was asked by Senator Aimee, but I want to get a clear answer from Secretary Balisakan.
 
-**[07:18:05.580] Senator Sherwin "Win" T. Gatchalian** (asr-007769)  
+**[07:18:05.580] Senate President Sherwin "Win" T. Gatchalian** (asr-007769)  
 So, first half, our economy grew by 2.6%.
 
-**[07:18:09.420] Senator Sherwin "Win" T. Gatchalian** (asr-007770)  
+**[07:18:09.420] Senate President Sherwin "Win" T. Gatchalian** (asr-007770)  
 And in order to reach the target, kailangan natin to grow at least on the low side at 4.4%, on the high side, 6.4%.
 
-**[07:18:18.800] Senator Sherwin "Win" T. Gatchalian** (asr-007771)  
+**[07:18:18.800] Senate President Sherwin "Win" T. Gatchalian** (asr-007771)  
 So, my question, Secretary,
 
-**[07:18:21.360] Senator Sherwin "Win" T. Gatchalian** (asr-007772)  
+**[07:18:21.360] Senate President Sherwin "Win" T. Gatchalian** (asr-007772)  
 kaya pa ba ma-hit itong 4.4% at the very least second half of the year?
 
 **[07:18:33.040] DEPDev Secretary Arsenio M. Balisacan** (asr-007773)  
@@ -22690,76 +22690,76 @@ We hope to get that further decline.
 **[07:19:39.280] DEPDev Secretary Arsenio M. Balisacan** (asr-007785)  
 And that should improve sentiment.
 
-**[07:19:41.920] Senator Sherwin "Win" T. Gatchalian** (asr-007786)  
+**[07:19:41.920] Senate President Sherwin "Win" T. Gatchalian** (asr-007786)  
 So, itong 4.4% at the lower end is still feasible based on your...
 
 **[07:19:47.360] DEPDev Secretary Arsenio M. Balisacan** (asr-007787)  
 I would say that, yeah, I would not give that up.
 
-**[07:19:49.560] Senator Sherwin "Win" T. Gatchalian** (asr-007788)  
+**[07:19:49.560] Senate President Sherwin "Win" T. Gatchalian** (asr-007788)  
 Okay.
 
-**[07:19:51.360] Senator Sherwin "Win" T. Gatchalian** (asr-007789)  
+**[07:19:51.360] Senate President Sherwin "Win" T. Gatchalian** (asr-007789)  
 So, the next slide, slide 3.
 
-**[07:19:53.720] Senator Sherwin "Win" T. Gatchalian** (asr-007790)  
+**[07:19:53.720] Senate President Sherwin "Win" T. Gatchalian** (asr-007790)  
 I mentioned earlier this morning, actually, two things that affected our economy, the two Cs,
 
-**[07:20:01.740] Senator Sherwin "Win" T. Gatchalian** (asr-007791)  
+**[07:20:01.740] Senate President Sherwin "Win" T. Gatchalian** (asr-007791)  
 conflict and corruption.
 
-**[07:20:04.360] Senator Sherwin "Win" T. Gatchalian** (asr-007792)  
+**[07:20:04.360] Senate President Sherwin "Win" T. Gatchalian** (asr-007792)  
 The conflict, the U.S.-Iran conflict, inflamed inflation, and obviously, consumption went down.
 
-**[07:20:13.140] Senator Sherwin "Win" T. Gatchalian** (asr-007793)  
+**[07:20:13.140] Senate President Sherwin "Win" T. Gatchalian** (asr-007793)  
 That's the red bar.
 
-**[07:20:15.800] Senator Sherwin "Win" T. Gatchalian** (asr-007794)  
+**[07:20:15.800] Senate President Sherwin "Win" T. Gatchalian** (asr-007794)  
 And then, or the red line.
 
-**[07:20:17.800] Senator Sherwin "Win" T. Gatchalian** (asr-007795)  
+**[07:20:17.800] Senate President Sherwin "Win" T. Gatchalian** (asr-007795)  
 And corruption reduced...
 
-**[07:20:21.360] Senator Sherwin "Win" T. Gatchalian** (asr-007796)  
+**[07:20:21.360] Senate President Sherwin "Win" T. Gatchalian** (asr-007796)  
 government construction to even negative.
 
-**[07:20:25.080] Senator Sherwin "Win" T. Gatchalian** (asr-007797)  
+**[07:20:25.080] Senate President Sherwin "Win" T. Gatchalian** (asr-007797)  
 And my question to you is, of course, itong household consumption is very difficult because it's susceptible to inflation.
 
-**[07:20:32.980] Senator Sherwin "Win" T. Gatchalian** (asr-007798)  
+**[07:20:32.980] Senate President Sherwin "Win" T. Gatchalian** (asr-007798)  
 Hopefully, with positive news in the Middle East, lower oil prices, lower inflation,
 
-**[07:20:44.520] Senator Sherwin "Win" T. Gatchalian** (asr-007799)  
+**[07:20:44.520] Senate President Sherwin "Win" T. Gatchalian** (asr-007799)  
 then we can see improvement in household sentiments in terms of consumption.
 
-**[07:20:50.480] Senator Sherwin "Win" T. Gatchalian** (asr-007800)  
+**[07:20:50.480] Senate President Sherwin "Win" T. Gatchalian** (asr-007800)  
 Itong government construction, what is government doing in order to ramp up government construction?
 
-**[07:20:59.620] Senator Sherwin "Win" T. Gatchalian** (asr-007801)  
+**[07:20:59.620] Senate President Sherwin "Win" T. Gatchalian** (asr-007801)  
 I can ask this to you or to Secretary Kim because ito, ito, kontrolado natin ito.
 
-**[07:21:06.340] Senator Sherwin "Win" T. Gatchalian** (asr-007802)  
+**[07:21:06.340] Senate President Sherwin "Win" T. Gatchalian** (asr-007802)  
 Alam ko, based on my experience in Valenzuela, a lot of the saros are already out, third quarter.
 
-**[07:21:16.860] Senator Sherwin "Win" T. Gatchalian** (asr-007803)  
+**[07:21:16.860] Senate President Sherwin "Win" T. Gatchalian** (asr-007803)  
 Pero umuulan eh.
 
-**[07:21:17.900] Senator Sherwin "Win" T. Gatchalian** (asr-007804)  
+**[07:21:17.900] Senate President Sherwin "Win" T. Gatchalian** (asr-007804)  
 So, in actual construction...
 
-**[07:21:20.480] Senator Sherwin "Win" T. Gatchalian** (asr-007805)  
+**[07:21:20.480] Senate President Sherwin "Win" T. Gatchalian** (asr-007805)  
 may not be there.
 
-**[07:21:22.360] Senator Sherwin "Win" T. Gatchalian** (asr-007806)  
+**[07:21:22.360] Senate President Sherwin "Win" T. Gatchalian** (asr-007806)  
 The saros is one thing, but yung physical construction is another thing.
 
-**[07:21:27.680] Senator Sherwin "Win" T. Gatchalian** (asr-007807)  
+**[07:21:27.680] Senate President Sherwin "Win" T. Gatchalian** (asr-007807)  
 Because of the incessant rains, hindi ganong kabilis yung physical construction.
 
-**[07:21:35.100] Senator Sherwin "Win" T. Gatchalian** (asr-007808)  
+**[07:21:35.100] Senate President Sherwin "Win" T. Gatchalian** (asr-007808)  
 But nevertheless, I want to hear from DBM, what are we doing to improve government construction?
 
-**[07:21:41.940] Senator Sherwin "Win" T. Gatchalian** (asr-007809)  
+**[07:21:41.940] Senate President Sherwin "Win" T. Gatchalian** (asr-007809)  
 Because this is something that we can control.
 
 **[07:21:44.740] Acting DBM Secretary Kim Robert C. De Leon** (asr-007810)  
@@ -22807,16 +22807,16 @@ So, probably some of the construction may be progressing in other parts of the c
 **[07:22:39.780] Acting DBM Secretary Kim Robert C. De Leon** (asr-007824)  
 because our releases actually cover a nationwide set of projects, Your Honor.
 
-**[07:22:45.060] Senator Sherwin "Win" T. Gatchalian** (asr-007825)  
+**[07:22:45.060] Senate President Sherwin "Win" T. Gatchalian** (asr-007825)  
 At least for the second half or even third quarter, narilis na siya.
 
-**[07:22:50.260] Senator Sherwin "Win" T. Gatchalian** (asr-007826)  
+**[07:22:50.260] Senate President Sherwin "Win" T. Gatchalian** (asr-007826)  
 Lagi.
 
-**[07:22:51.220] Senator Sherwin "Win" T. Gatchalian** (asr-007827)  
+**[07:22:51.220] Senate President Sherwin "Win" T. Gatchalian** (asr-007827)  
 Yes, Your Honor.
 
-**[07:22:52.400] Senator Sherwin "Win" T. Gatchalian** (asr-007828)  
+**[07:22:52.400] Senate President Sherwin "Win" T. Gatchalian** (asr-007828)  
 For buong taon, narilis na.
 
 **[07:22:53.380] Acting DBM Secretary Kim Robert C. De Leon** (asr-007829)  
@@ -22834,25 +22834,25 @@ But hopefully, the last July and this month of August, they should be able to aw
 **[07:23:19.980] Acting DBM Secretary Kim Robert C. De Leon** (asr-007833)  
 Okay.
 
-**[07:23:20.420] Senator Sherwin "Win" T. Gatchalian** (asr-007834)  
+**[07:23:20.420] Senate President Sherwin "Win" T. Gatchalian** (asr-007834)  
 But your release is on a, just to give us an idea, your release for infrastructure project.
 
-**[07:23:26.720] Senator Sherwin "Win" T. Gatchalian** (asr-007835)  
+**[07:23:26.720] Senate President Sherwin "Win" T. Gatchalian** (asr-007835)  
 Ano lang ito?
 
-**[07:23:27.260] Senator Sherwin "Win" T. Gatchalian** (asr-007836)  
+**[07:23:27.260] Senate President Sherwin "Win" T. Gatchalian** (asr-007836)  
 This is an estimate in general.
 
-**[07:23:30.500] Senator Sherwin "Win" T. Gatchalian** (asr-007837)  
+**[07:23:30.500] Senate President Sherwin "Win" T. Gatchalian** (asr-007837)  
 Have you released until what quarter?
 
-**[07:23:32.720] Senator Sherwin "Win" T. Gatchalian** (asr-007838)  
+**[07:23:32.720] Senate President Sherwin "Win" T. Gatchalian** (asr-007838)  
 Third quarter?
 
 **[07:23:33.980] Acting DBM Secretary Kim Robert C. De Leon** (asr-007839)  
 For the allotment, Your Honor, we released the full amount so that we can actually procure.
 
-**[07:23:38.400] Senator Sherwin "Win" T. Gatchalian** (asr-007840)  
+**[07:23:38.400] Senate President Sherwin "Win" T. Gatchalian** (asr-007840)  
 Until the end of the year.
 
 **[07:23:39.220] Acting DBM Secretary Kim Robert C. De Leon** (asr-007841)  
@@ -22864,10 +22864,10 @@ What we manage, Your Honor, is the cash requirement.
 **[07:23:42.280] Acting DBM Secretary Kim Robert C. De Leon** (asr-007843)  
 Yes, correct.
 
-**[07:23:42.820] Senator Sherwin "Win" T. Gatchalian** (asr-007844)  
+**[07:23:42.820] Senate President Sherwin "Win" T. Gatchalian** (asr-007844)  
 That's my actually next question.
 
-**[07:23:44.540] Senator Sherwin "Win" T. Gatchalian** (asr-007845)  
+**[07:23:44.540] Senate President Sherwin "Win" T. Gatchalian** (asr-007845)  
 That's why I'm asking whether third quarter until end of the year because the next problem is the cash.
 
 **[07:23:49.640] Acting DBM Secretary Kim Robert C. De Leon** (asr-007846)  
@@ -22879,22 +22879,22 @@ Okay.
 **[07:23:56.000] Acting DBM Secretary Kim Robert C. De Leon** (asr-007848)  
 All right.
 
-**[07:23:56.640] Senator Sherwin "Win" T. Gatchalian** (asr-007849)  
+**[07:23:56.640] Senate President Sherwin "Win" T. Gatchalian** (asr-007849)  
 So, until end of the year, na-release na completely?
 
 **[07:23:59.100] Acting DBM Secretary Kim Robert C. De Leon** (asr-007850)  
 Yes.
 
-**[07:23:59.460] Senator Sherwin "Win" T. Gatchalian** (asr-007851)  
+**[07:23:59.460] Senate President Sherwin "Win" T. Gatchalian** (asr-007851)  
 For DPWH, yes, Your Honor.
 
-**[07:24:01.140] Senator Sherwin "Win" T. Gatchalian** (asr-007852)  
+**[07:24:01.140] Senate President Sherwin "Win" T. Gatchalian** (asr-007852)  
 Yes, Your Honor.
 
-**[07:24:01.500] Senator Sherwin "Win" T. Gatchalian** (asr-007853)  
+**[07:24:01.500] Senate President Sherwin "Win" T. Gatchalian** (asr-007853)  
 Okay.
 
-**[07:24:01.940] Senator Sherwin "Win" T. Gatchalian** (asr-007854)  
+**[07:24:01.940] Senate President Sherwin "Win" T. Gatchalian** (asr-007854)  
 How about for the next big ticket is for DOTR and also for DEPED, in top three lang?
 
 **[07:24:08.520] Acting DBM Secretary Kim Robert C. De Leon** (asr-007855)  
@@ -22912,115 +22912,115 @@ So, this will actually enable DOTR to continue implementing and paying for the w
 **[07:24:37.720] Acting DBM Secretary Kim Robert C. De Leon** (asr-007859)  
 Okay.
 
-**[07:24:38.620] Senator Sherwin "Win" T. Gatchalian** (asr-007860)  
+**[07:24:38.620] Senate President Sherwin "Win" T. Gatchalian** (asr-007860)  
 And for DEPED, I heard 60, the biggest chunk there will be the classrooms.
 
-**[07:24:44.600] Senator Sherwin "Win" T. Gatchalian** (asr-007861)  
+**[07:24:44.600] Senate President Sherwin "Win" T. Gatchalian** (asr-007861)  
 That's correct, Your Honor.
 
-**[07:24:45.380] Senator Sherwin "Win" T. Gatchalian** (asr-007862)  
+**[07:24:45.380] Senate President Sherwin "Win" T. Gatchalian** (asr-007862)  
 The basic education facilities.
 
-**[07:24:46.680] Senator Sherwin "Win" T. Gatchalian** (asr-007863)  
+**[07:24:46.680] Senate President Sherwin "Win" T. Gatchalian** (asr-007863)  
 You've released 60 out of the 85.
 
-**[07:24:49.100] Senator Sherwin "Win" T. Gatchalian** (asr-007864)  
+**[07:24:49.100] Senate President Sherwin "Win" T. Gatchalian** (asr-007864)  
 Yes, Your Honor.
 
-**[07:24:49.880] Senator Sherwin "Win" T. Gatchalian** (asr-007865)  
+**[07:24:49.880] Senate President Sherwin "Win" T. Gatchalian** (asr-007865)  
 Okay.
 
-**[07:24:50.200] Senator Sherwin "Win" T. Gatchalian** (asr-007866)  
+**[07:24:50.200] Senate President Sherwin "Win" T. Gatchalian** (asr-007866)  
 So, just submit to us a per department, only for infrastructure, because what we want to address is this DIP.
 
-**[07:24:58.480] Senator Sherwin "Win" T. Gatchalian** (asr-007867)  
+**[07:24:58.480] Senate President Sherwin "Win" T. Gatchalian** (asr-007867)  
 For five quarters, government construction has gone down to negative.
 
-**[07:25:03.460] Senator Sherwin "Win" T. Gatchalian** (asr-007868)  
+**[07:25:03.460] Senate President Sherwin "Win" T. Gatchalian** (asr-007868)  
 So, what we want is to reverse the DIP.
 
 **[07:25:06.960] Acting DBM Secretary Kim Robert C. De Leon** (asr-007869)  
 We will submit, Your Honor.
 
-**[07:25:07.680] Senator Sherwin "Win" T. Gatchalian** (asr-007870)  
+**[07:25:07.680] Senate President Sherwin "Win" T. Gatchalian** (asr-007870)  
 Just submit to us a very detailed per department, per infrastructure spending on the releases.
 
-**[07:25:16.600] Senator Sherwin "Win" T. Gatchalian** (asr-007871)  
+**[07:25:16.600] Senate President Sherwin "Win" T. Gatchalian** (asr-007871)  
 So, we can account.
 
-**[07:25:19.100] Senator Sherwin "Win" T. Gatchalian** (asr-007872)  
+**[07:25:19.100] Senate President Sherwin "Win" T. Gatchalian** (asr-007872)  
 Since you mentioned cash, my next question is on revenue.
 
-**[07:25:29.300] Senator Sherwin "Win" T. Gatchalian** (asr-007873)  
+**[07:25:29.300] Senate President Sherwin "Win" T. Gatchalian** (asr-007873)  
 And this is, I was looking at the revenue targets for, this is page 62.
 
-**[07:26:12.970] Senator Sherwin "Win" T. Gatchalian** (asr-007874)  
+**[07:26:12.970] Senate President Sherwin "Win" T. Gatchalian** (asr-007874)  
 So, for tax natin.
 
-**[07:26:18.090] Senator Sherwin "Win" T. Gatchalian** (asr-007875)  
+**[07:26:18.090] Senate President Sherwin "Win" T. Gatchalian** (asr-007875)  
 We're looking at the targets.
 
-**[07:26:20.750] Senator Sherwin "Win" T. Gatchalian** (asr-007876)  
+**[07:26:20.750] Senate President Sherwin "Win" T. Gatchalian** (asr-007876)  
 For the last three years, we're not, paki flash lang.
 
-**[07:26:44.060] Senator Sherwin "Win" T. Gatchalian** (asr-007877)  
+**[07:26:44.060] Senate President Sherwin "Win" T. Gatchalian** (asr-007877)  
 Yan.
 
-**[07:26:44.520] Senator Sherwin "Win" T. Gatchalian** (asr-007878)  
+**[07:26:44.520] Senate President Sherwin "Win" T. Gatchalian** (asr-007878)  
 For the last three years, in terms of tax collection, there's a shortfall to target.
 
-**[07:26:52.120] Senator Sherwin "Win" T. Gatchalian** (asr-007879)  
+**[07:26:52.120] Senate President Sherwin "Win" T. Gatchalian** (asr-007879)  
 For non-tax, we're reaching the target.
 
-**[07:26:55.460] Senator Sherwin "Win" T. Gatchalian** (asr-007880)  
+**[07:26:55.460] Senate President Sherwin "Win" T. Gatchalian** (asr-007880)  
 Although, for 2025, bumaba yung ating non-tax.
 
-**[07:27:01.700] Senator Sherwin "Win" T. Gatchalian** (asr-007881)  
+**[07:27:01.700] Senate President Sherwin "Win" T. Gatchalian** (asr-007881)  
 And if I, if we break it down to, of course, the two.
 
-**[07:27:06.880] Senator Sherwin "Win" T. Gatchalian** (asr-007882)  
+**[07:27:06.880] Senate President Sherwin "Win" T. Gatchalian** (asr-007882)  
 Major collecting agencies, BIR and BOC.
 
-**[07:27:10.480] Senator Sherwin "Win" T. Gatchalian** (asr-007883)  
+**[07:27:10.480] Senate President Sherwin "Win" T. Gatchalian** (asr-007883)  
 Next slide.
 
-**[07:27:12.260] Senator Sherwin "Win" T. Gatchalian** (asr-007884)  
+**[07:27:12.260] Senate President Sherwin "Win" T. Gatchalian** (asr-007884)  
 Again, it's not reaching its target for the last three years.
 
-**[07:27:17.480] Senator Sherwin "Win" T. Gatchalian** (asr-007885)  
+**[07:27:17.480] Senate President Sherwin "Win" T. Gatchalian** (asr-007885)  
 For 2023, 2024, 2025.
 
-**[07:27:21.120] Senator Sherwin "Win" T. Gatchalian** (asr-007886)  
+**[07:27:21.120] Senate President Sherwin "Win" T. Gatchalian** (asr-007886)  
 Sa BOC, 2024, 2025, hindi siya nag-reach ng target niya.
 
-**[07:27:26.040] Senator Sherwin "Win" T. Gatchalian** (asr-007887)  
+**[07:27:26.040] Senate President Sherwin "Win" T. Gatchalian** (asr-007887)  
 So, obviously, we're relying on our two biggest revenue generators
 
-**[07:27:31.660] Senator Sherwin "Win" T. Gatchalian** (asr-007888)  
+**[07:27:31.660] Senate President Sherwin "Win" T. Gatchalian** (asr-007888)  
 in order for us to lessen our borrowing.
 
-**[07:27:36.580] Senator Sherwin "Win" T. Gatchalian** (asr-007889)  
+**[07:27:36.580] Senate President Sherwin "Win" T. Gatchalian** (asr-007889)  
 So, we're relying on our two biggest revenue generators in order for us to lessen our borrowing.
 
-**[07:27:36.600] Senator Sherwin "Win" T. Gatchalian** (asr-007890)  
+**[07:27:36.600] Senate President Sherwin "Win" T. Gatchalian** (asr-007890)  
 So, obviously, we're relying on our two biggest revenue generators in order for us to lessen our borrowing.
 
-**[07:27:36.660] Senator Sherwin "Win" T. Gatchalian** (asr-007891)  
+**[07:27:36.660] Senate President Sherwin "Win" T. Gatchalian** (asr-007891)  
 So, may I ask the DOF or any of the revenue collecting agencies,
 
-**[07:27:43.160] Senator Sherwin "Win" T. Gatchalian** (asr-007892)  
+**[07:27:43.160] Senate President Sherwin "Win" T. Gatchalian** (asr-007892)  
 bakit hindi natin natatamaan yung ating target?
 
 **[07:27:49.920] Senator Joseph Victor "JV" G. Ejercito** (asr-007893)  
 Assistant Commissioner Maria is here.
 
-**[07:27:52.020] Senator Sherwin "Win" T. Gatchalian** (asr-007894)  
+**[07:27:52.020] Senate President Sherwin "Win" T. Gatchalian** (asr-007894)  
 Bakit hindi natin natatamaan itong target natin?
 
 **[07:27:54.560] Senator Joseph Victor "JV" G. Ejercito** (asr-007895)  
 Commissioner ni Boca Sela.
 
-**[07:27:55.580] Senator Sherwin "Win" T. Gatchalian** (asr-007896)  
+**[07:27:55.580] Senate President Sherwin "Win" T. Gatchalian** (asr-007896)  
 Naglagay tayo ng target, pero hindi naman natin natatamaan yung target natin.
 
 **[07:27:59.920] BOC Assistant Commissioner Vincent Philip C. Maronilla** (asr-007897)  
@@ -23053,10 +23053,10 @@ In fact, for this year, as of...
 **[07:28:38.440] BOC Assistant Commissioner Vincent Philip C. Maronilla** (asr-007906)  
 July 2026, we're at surplus of about 11 billion from our adjusted target.
 
-**[07:28:45.000] Senator Sherwin "Win" T. Gatchalian** (asr-007907)  
+**[07:28:45.000] Senate President Sherwin "Win" T. Gatchalian** (asr-007907)  
 The surplus is because of the depreciation of peso.
 
-**[07:28:47.540] Senator Sherwin "Win" T. Gatchalian** (asr-007908)  
+**[07:28:47.540] Senate President Sherwin "Win" T. Gatchalian** (asr-007908)  
 And I'm sure yung preso ng gasolina kasi, o crudo, tumaas eh.
 
 **[07:28:52.100] BOC Assistant Commissioner Vincent Philip C. Maronilla** (asr-007909)  
@@ -23080,19 +23080,19 @@ And these tariff lines covers some top imports coming from other countries
 **[07:29:14.220] BOC Assistant Commissioner Vincent Philip C. Maronilla** (asr-007915)  
 which we depend on as our revenue.
 
-**[07:29:18.000] Senator Sherwin "Win" T. Gatchalian** (asr-007916)  
+**[07:29:18.000] Senate President Sherwin "Win" T. Gatchalian** (asr-007916)  
 Ano bang mga administrative reforms are we doing sa DOF or any of the revenue agencies
 
-**[07:29:25.480] Senator Sherwin "Win" T. Gatchalian** (asr-007917)  
+**[07:29:25.480] Senate President Sherwin "Win" T. Gatchalian** (asr-007917)  
 to improve revenue collection and meeting the targets?
 
-**[07:29:29.380] Senator Sherwin "Win" T. Gatchalian** (asr-007918)  
+**[07:29:29.380] Senate President Sherwin "Win" T. Gatchalian** (asr-007918)  
 It's important to meet the targets because, like I said, we're pressing DOF to reduce borrowing.
 
-**[07:29:36.160] Senator Sherwin "Win" T. Gatchalian** (asr-007919)  
+**[07:29:36.160] Senate President Sherwin "Win" T. Gatchalian** (asr-007919)  
 But if you cannot collect and meet the target,
 
-**[07:29:38.260] Senator Sherwin "Win" T. Gatchalian** (asr-007920)  
+**[07:29:38.260] Senate President Sherwin "Win" T. Gatchalian** (asr-007920)  
 we have no choice but to increase our borrowing.
 
 **[07:29:41.060] BOC Assistant Commissioner Vincent Philip C. Maronilla** (asr-007921)  
@@ -23125,7 +23125,7 @@ have a workaround on our system and try to improve trade facilitation because if
 **[07:30:37.360] BOC Assistant Commissioner Vincent Philip C. Maronilla** (asr-007930)  
 trade facilitation is restricted we're only able to collect so much for a given period of time
 
-**[07:30:42.520] Senator Sherwin "Win" T. Gatchalian** (asr-007931)  
+**[07:30:42.520] Senate President Sherwin "Win" T. Gatchalian** (asr-007931)  
 you mean in subscription and because of the subscription like improving collection
 
 **[07:30:49.760] BOC Assistant Commissioner Vincent Philip C. Maronilla** (asr-007932)  
@@ -23143,10 +23143,10 @@ specific proposals for specific subscription fees on major items that we look in
 **[07:31:06.180] BOC Assistant Commissioner Vincent Philip C. Maronilla** (asr-007936)  
 are these major items are the drivers of our imports these are the top imports that we look
 
-**[07:31:12.500] Senator Sherwin "Win" T. Gatchalian** (asr-007937)  
+**[07:31:12.500] Senate President Sherwin "Win" T. Gatchalian** (asr-007937)  
 into and they're the drivers of our collection so BIR and any what are the reforms that you are
 
-**[07:31:18.980] Senator Sherwin "Win" T. Gatchalian** (asr-007938)  
+**[07:31:18.980] Senate President Sherwin "Win" T. Gatchalian** (asr-007938)  
 doing in order to improve collection efficiency your honor for the BIR
 
 **[07:31:27.980] BIR Deputy Commissioner Marissa O. Cabreros** (asr-007939)  
@@ -23197,40 +23197,40 @@ to force them to comply with the requirements
 **[07:33:06.500] BIR Deputy Commissioner Marissa O. Cabreros** (asr-007954)  
 in the BIR and impose penalty.
 
-**[07:33:10.300] Senator Sherwin "Win" T. Gatchalian** (asr-007955)  
+**[07:33:10.300] Senate President Sherwin "Win" T. Gatchalian** (asr-007955)  
 Argo, meron bang internally,
 
-**[07:33:12.680] Senator Sherwin "Win" T. Gatchalian** (asr-007956)  
+**[07:33:12.680] Senate President Sherwin "Win" T. Gatchalian** (asr-007956)  
 do you have any disciplinary action
 
-**[07:33:15.500] Senator Sherwin "Win" T. Gatchalian** (asr-007957)  
+**[07:33:15.500] Senate President Sherwin "Win" T. Gatchalian** (asr-007957)  
 or any way of compelling the two agencies
 
-**[07:33:20.460] Senator Sherwin "Win" T. Gatchalian** (asr-007958)  
+**[07:33:20.460] Senate President Sherwin "Win" T. Gatchalian** (asr-007958)  
 to meet their targets?
 
-**[07:33:21.780] Senator Sherwin "Win" T. Gatchalian** (asr-007959)  
+**[07:33:21.780] Senate President Sherwin "Win" T. Gatchalian** (asr-007959)  
 Or do you have any covenant
 
-**[07:33:24.180] Senator Sherwin "Win" T. Gatchalian** (asr-007960)  
+**[07:33:24.180] Senate President Sherwin "Win" T. Gatchalian** (asr-007960)  
 na pag hindi mo tinamahan itong target na ito,
 
-**[07:33:26.800] Senator Sherwin "Win" T. Gatchalian** (asr-007961)  
+**[07:33:26.800] Senate President Sherwin "Win" T. Gatchalian** (asr-007961)  
 lagot ka?
 
-**[07:33:27.980] Senator Sherwin "Win" T. Gatchalian** (asr-007962)  
+**[07:33:27.980] Senate President Sherwin "Win" T. Gatchalian** (asr-007962)  
 Mayroon pa mga ganyan?
 
-**[07:33:29.380] Senator Sherwin "Win" T. Gatchalian** (asr-007963)  
+**[07:33:29.380] Senate President Sherwin "Win" T. Gatchalian** (asr-007963)  
 Or else these targets are just...
 
-**[07:33:31.140] Senator Sherwin "Win" T. Gatchalian** (asr-007964)  
+**[07:33:31.140] Senate President Sherwin "Win" T. Gatchalian** (asr-007964)  
 There is the attrition law?
 
-**[07:33:33.280] Senator Sherwin "Win" T. Gatchalian** (asr-007965)  
+**[07:33:33.280] Senate President Sherwin "Win" T. Gatchalian** (asr-007965)  
 Meron itong targets, pakita lang ito,
 
-**[07:33:35.380] Senator Sherwin "Win" T. Gatchalian** (asr-007966)  
+**[07:33:35.380] Senate President Sherwin "Win" T. Gatchalian** (asr-007966)  
 and it means nothing if you don't heed it.
 
 **[07:33:40.200] DOF Secretary Frederick D. Go** (asr-007967)  
@@ -23353,19 +23353,19 @@ the collection targets were set a year before that.
 **[07:35:46.840] DOF Secretary Frederick D. Go** (asr-008006)  
 So I think that's generally my observation on this matter.
 
-**[07:35:54.000] Senator Sherwin "Win" T. Gatchalian** (asr-008007)  
+**[07:35:54.000] Senate President Sherwin "Win" T. Gatchalian** (asr-008007)  
 Don't you and the DBCC also meet regularly?
 
-**[07:35:57.740] Senator Sherwin "Win" T. Gatchalian** (asr-008008)  
+**[07:35:57.740] Senate President Sherwin "Win" T. Gatchalian** (asr-008008)  
 Do you meet regularly to revise the targets?
 
-**[07:36:00.140] Senator Sherwin "Win" T. Gatchalian** (asr-008009)  
+**[07:36:00.140] Senate President Sherwin "Win" T. Gatchalian** (asr-008009)  
 Yes, we do.
 
-**[07:36:00.620] Senator Sherwin "Win" T. Gatchalian** (asr-008010)  
+**[07:36:00.620] Senate President Sherwin "Win" T. Gatchalian** (asr-008010)  
 Do you revise them every now and then,
 
-**[07:36:03.400] Senator Sherwin "Win" T. Gatchalian** (asr-008011)  
+**[07:36:03.400] Senate President Sherwin "Win" T. Gatchalian** (asr-008011)  
 depending on the economic situation?
 
 **[07:36:06.420] DOF Secretary Frederick D. Go** (asr-008012)  
@@ -23395,19 +23395,19 @@ Example now where...
 **[07:36:26.960] DOF Secretary Frederick D. Go** (asr-008020)  
 Only the...
 
-**[07:36:27.620] Senator Sherwin "Win" T. Gatchalian** (asr-008021)  
+**[07:36:27.620] Senate President Sherwin "Win" T. Gatchalian** (asr-008021)  
 Only the...
 
-**[07:36:27.660] Senator Sherwin "Win" T. Gatchalian** (asr-008022)  
+**[07:36:27.660] Senate President Sherwin "Win" T. Gatchalian** (asr-008022)  
 Only the...
 
-**[07:36:27.720] Senator Sherwin "Win" T. Gatchalian** (asr-008023)  
+**[07:36:27.720] Senate President Sherwin "Win" T. Gatchalian** (asr-008023)  
 We need this for collection.
 
-**[07:36:29.600] Senator Sherwin "Win" T. Gatchalian** (asr-008024)  
+**[07:36:29.600] Senate President Sherwin "Win" T. Gatchalian** (asr-008024)  
 For collection.
 
-**[07:36:30.660] Senator Sherwin "Win" T. Gatchalian** (asr-008025)  
+**[07:36:30.660] Senate President Sherwin "Win" T. Gatchalian** (asr-008025)  
 Don't you adjust this also?
 
 **[07:36:32.820] DOF Secretary Frederick D. Go** (asr-008026)  
@@ -23425,79 +23425,79 @@ The target slides downwards.
 **[07:36:42.720] DOF Secretary Frederick D. Go** (asr-008030)  
 Correct.
 
-**[07:36:43.180] Senator Sherwin "Win" T. Gatchalian** (asr-008031)  
+**[07:36:43.180] Senate President Sherwin "Win" T. Gatchalian** (asr-008031)  
 So my question is,
 
-**[07:36:45.060] Senator Sherwin "Win" T. Gatchalian** (asr-008032)  
+**[07:36:45.060] Senate President Sherwin "Win" T. Gatchalian** (asr-008032)  
 is there a penalty?
 
-**[07:36:49.840] Senator Sherwin "Win" T. Gatchalian** (asr-008033)  
+**[07:36:49.840] Senate President Sherwin "Win" T. Gatchalian** (asr-008033)  
 Is there a way to pressure the collection agencies?
 
-**[07:36:54.400] Senator Sherwin "Win" T. Gatchalian** (asr-008034)  
+**[07:36:54.400] Senate President Sherwin "Win" T. Gatchalian** (asr-008034)  
 Maybe it's about time to talk about that internally.
 
-**[07:36:57.080] Senator Sherwin "Win" T. Gatchalian** (asr-008035)  
+**[07:36:57.080] Senate President Sherwin "Win" T. Gatchalian** (asr-008035)  
 Because the targets should be met.
 
-**[07:37:03.220] Senator Sherwin "Win" T. Gatchalian** (asr-008036)  
+**[07:37:03.220] Senate President Sherwin "Win" T. Gatchalian** (asr-008036)  
 And we should not put targets just for the sake of putting targets.
 
-**[07:37:06.700] Senator Sherwin "Win" T. Gatchalian** (asr-008037)  
+**[07:37:06.700] Senate President Sherwin "Win" T. Gatchalian** (asr-008037)  
 There should also be a penalty if it's not reached.
 
-**[07:37:13.860] Senator Sherwin "Win" T. Gatchalian** (asr-008038)  
+**[07:37:13.860] Senate President Sherwin "Win" T. Gatchalian** (asr-008038)  
 Because there are consequences.
 
-**[07:37:16.000] Senator Sherwin "Win" T. Gatchalian** (asr-008039)  
+**[07:37:16.000] Senate President Sherwin "Win" T. Gatchalian** (asr-008039)  
 We borrow.
 
-**[07:37:16.980] Senator Sherwin "Win" T. Gatchalian** (asr-008040)  
+**[07:37:16.980] Senate President Sherwin "Win" T. Gatchalian** (asr-008040)  
 As I said earlier,
 
-**[07:37:17.820] Senator Sherwin "Win" T. Gatchalian** (asr-008041)  
+**[07:37:17.820] Senate President Sherwin "Win" T. Gatchalian** (asr-008041)  
 Senator Riza brought it up.
 
-**[07:37:19.140] Senator Sherwin "Win" T. Gatchalian** (asr-008042)  
+**[07:37:19.140] Senate President Sherwin "Win" T. Gatchalian** (asr-008042)  
 We borrow more.
 
-**[07:37:20.640] Senator Sherwin "Win" T. Gatchalian** (asr-008043)  
+**[07:37:20.640] Senate President Sherwin "Win" T. Gatchalian** (asr-008043)  
 We end up passing on the borrowing to the next generation.
 
-**[07:37:26.100] Senator Sherwin "Win" T. Gatchalian** (asr-008044)  
+**[07:37:26.100] Senate President Sherwin "Win" T. Gatchalian** (asr-008044)  
 We're not hitting...
 
-**[07:37:27.080] Senator Sherwin "Win" T. Gatchalian** (asr-008045)  
+**[07:37:27.080] Senate President Sherwin "Win" T. Gatchalian** (asr-008045)  
 We're not hitting our MTFF target.
 
-**[07:37:28.800] Senator Sherwin "Win" T. Gatchalian** (asr-008046)  
+**[07:37:28.800] Senate President Sherwin "Win" T. Gatchalian** (asr-008046)  
 So there are consequences.
 
-**[07:37:30.120] Senator Sherwin "Win" T. Gatchalian** (asr-008047)  
+**[07:37:30.120] Senate President Sherwin "Win" T. Gatchalian** (asr-008047)  
 So I assume that the targets are there
 
-**[07:37:32.880] Senator Sherwin "Win" T. Gatchalian** (asr-008048)  
+**[07:37:32.880] Senate President Sherwin "Win" T. Gatchalian** (asr-008048)  
 in order for us to become fiscally healthy.
 
-**[07:37:39.040] Senator Sherwin "Win" T. Gatchalian** (asr-008049)  
+**[07:37:39.040] Senate President Sherwin "Win" T. Gatchalian** (asr-008049)  
 So if we don't hit the targets,
 
-**[07:37:42.020] Senator Sherwin "Win" T. Gatchalian** (asr-008050)  
+**[07:37:42.020] Senate President Sherwin "Win" T. Gatchalian** (asr-008050)  
 then wala siyang meaning.
 
-**[07:37:43.360] Senator Sherwin "Win" T. Gatchalian** (asr-008051)  
+**[07:37:43.360] Senate President Sherwin "Win" T. Gatchalian** (asr-008051)  
 There's nothing...
 
-**[07:37:45.800] Senator Sherwin "Win" T. Gatchalian** (asr-008052)  
+**[07:37:45.800] Senate President Sherwin "Win" T. Gatchalian** (asr-008052)  
 So that's what I want to understand from internally.
 
-**[07:37:48.680] Senator Sherwin "Win" T. Gatchalian** (asr-008053)  
+**[07:37:48.680] Senate President Sherwin "Win" T. Gatchalian** (asr-008053)  
 Meron ba kayong ganyan na discussion
 
-**[07:37:50.860] Senator Sherwin "Win" T. Gatchalian** (asr-008054)  
+**[07:37:50.860] Senate President Sherwin "Win" T. Gatchalian** (asr-008054)  
 na merong penalty,
 
-**[07:37:52.740] Senator Sherwin "Win" T. Gatchalian** (asr-008055)  
+**[07:37:52.740] Senate President Sherwin "Win" T. Gatchalian** (asr-008055)  
 merong consequences kung hindi nahihit yung targets?
 
 **[07:37:57.080] DOF Undersecretary Karlo Fermin S. Adriano** (asr-008056)  
@@ -23521,7 +23521,7 @@ they can be subject to attrition.
 **[07:38:13.720] DOF Undersecretary Karlo Fermin S. Adriano** (asr-008062)  
 So yun po, meron po tayong attrition law.
 
-**[07:38:16.000] Senator Sherwin "Win" T. Gatchalian** (asr-008063)  
+**[07:38:16.000] Senate President Sherwin "Win" T. Gatchalian** (asr-008063)  
 Meron yan na-trigger na?
 
 **[07:38:17.020] DOF Undersecretary Karlo Fermin S. Adriano** (asr-008064)  
@@ -23539,34 +23539,34 @@ they can be...
 **[07:38:25.120] DOF Undersecretary Karlo Fermin S. Adriano** (asr-008068)  
 Nangyari na
 
-**[07:38:25.920] Senator Sherwin "Win" T. Gatchalian** (asr-008069)  
+**[07:38:25.920] Senate President Sherwin "Win" T. Gatchalian** (asr-008069)  
 They can be...
 
-**[07:38:26.920] Senator Sherwin "Win" T. Gatchalian** (asr-008070)  
+**[07:38:26.920] Senate President Sherwin "Win" T. Gatchalian** (asr-008070)  
 Let go.
 
-**[07:38:27.540] Senator Sherwin "Win" T. Gatchalian** (asr-008071)  
+**[07:38:27.540] Senate President Sherwin "Win" T. Gatchalian** (asr-008071)  
 Let go.
 
-**[07:38:28.180] Senator Sherwin "Win" T. Gatchalian** (asr-008072)  
+**[07:38:28.180] Senate President Sherwin "Win" T. Gatchalian** (asr-008072)  
 It's already happened.
 
-**[07:38:28.800] Senator Sherwin "Win" T. Gatchalian** (asr-008073)  
+**[07:38:28.800] Senate President Sherwin "Win" T. Gatchalian** (asr-008073)  
 It's already happened.
 
-**[07:38:29.300] Senator Sherwin "Win" T. Gatchalian** (asr-008074)  
+**[07:38:29.300] Senate President Sherwin "Win" T. Gatchalian** (asr-008074)  
 Okay.
 
-**[07:38:30.140] Senator Sherwin "Win" T. Gatchalian** (asr-008075)  
+**[07:38:30.140] Senate President Sherwin "Win" T. Gatchalian** (asr-008075)  
 Ito on the past few years
 
-**[07:38:31.420] Senator Sherwin "Win" T. Gatchalian** (asr-008076)  
+**[07:38:31.420] Senate President Sherwin "Win" T. Gatchalian** (asr-008076)  
 na hindi nag-hit ng target,
 
-**[07:38:32.820] Senator Sherwin "Win" T. Gatchalian** (asr-008077)  
+**[07:38:32.820] Senate President Sherwin "Win" T. Gatchalian** (asr-008077)  
 meron nang how many ang na-let go na?
 
-**[07:38:36.280] Senator Sherwin "Win" T. Gatchalian** (asr-008078)  
+**[07:38:36.280] Senate President Sherwin "Win" T. Gatchalian** (asr-008078)  
 Because of that attrition law.
 
 **[07:38:38.100] DOF Undersecretary Karlo Fermin S. Adriano** (asr-008079)  
@@ -23599,28 +23599,28 @@ But I would let a BIR to answer
 **[07:38:54.880] DOF Undersecretary Karlo Fermin S. Adriano** (asr-008088)  
 if there are how many.
 
-**[07:38:56.220] Senator Sherwin "Win" T. Gatchalian** (asr-008089)  
+**[07:38:56.220] Senate President Sherwin "Win" T. Gatchalian** (asr-008089)  
 But meron, meron.
 
-**[07:38:56.920] Senator Sherwin "Win" T. Gatchalian** (asr-008090)  
+**[07:38:56.920] Senate President Sherwin "Win" T. Gatchalian** (asr-008090)  
 Meron na let go
 
-**[07:38:59.640] Senator Sherwin "Win" T. Gatchalian** (asr-008091)  
+**[07:38:59.640] Senate President Sherwin "Win" T. Gatchalian** (asr-008091)  
 because people are not performing.
 
-**[07:39:03.060] Senator Sherwin "Win" T. Gatchalian** (asr-008092)  
+**[07:39:03.060] Senate President Sherwin "Win" T. Gatchalian** (asr-008092)  
 Because I also want to push the department
 
-**[07:39:05.380] Senator Sherwin "Win" T. Gatchalian** (asr-008093)  
+**[07:39:05.380] Senate President Sherwin "Win" T. Gatchalian** (asr-008093)  
 and the dalawang bureaus to perform.
 
-**[07:39:08.540] Senator Sherwin "Win" T. Gatchalian** (asr-008094)  
+**[07:39:08.540] Senate President Sherwin "Win" T. Gatchalian** (asr-008094)  
 That's the whole point there is
 
-**[07:39:10.180] Senator Sherwin "Win" T. Gatchalian** (asr-008095)  
+**[07:39:10.180] Senate President Sherwin "Win" T. Gatchalian** (asr-008095)  
 we want you to perform.
 
-**[07:39:12.360] Senator Sherwin "Win" T. Gatchalian** (asr-008096)  
+**[07:39:12.360] Senate President Sherwin "Win" T. Gatchalian** (asr-008096)  
 What tools do you need in order to perform?
 
 **[07:39:15.280] DEPDev Undersecretary Rosemarie G. Edillon** (asr-008097)  
@@ -23734,58 +23734,58 @@ or three months in a row,
 **[07:40:26.660] DOF Secretary Frederick D. Go** (asr-008133)  
 three months in a row it's almost expected automatically that you will be replaced
 
-**[07:40:32.360] Senator Sherwin "Win" T. Gatchalian** (asr-008134)  
+**[07:40:32.360] Senate President Sherwin "Win" T. Gatchalian** (asr-008134)  
 that's not addressing the problem you're just shifting the problem from one area to the other
 
-**[07:40:38.460] Senator Sherwin "Win" T. Gatchalian** (asr-008135)  
+**[07:40:38.460] Senate President Sherwin "Win" T. Gatchalian** (asr-008135)  
 area no administrative sorry yeah what we want is people who can collect for government honestly
 
-**[07:40:45.000] Senator Sherwin "Win" T. Gatchalian** (asr-008136)  
+**[07:40:45.000] Senate President Sherwin "Win" T. Gatchalian** (asr-008136)  
 Hindi yung corrupt way of collecting
 
-**[07:40:47.380] Senator Sherwin "Win" T. Gatchalian** (asr-008137)  
+**[07:40:47.380] Senate President Sherwin "Win" T. Gatchalian** (asr-008137)  
 nangha-harass or... Di ba? Hindi ganun, ah. Yung honest-to-goodness collection. Di ba? So that?s what I want to find out, because we want the bureaus to be effective.
 
-**[07:40:59.900] Senator Sherwin "Win" T. Gatchalian** (asr-008138)  
+**[07:40:59.900] Senate President Sherwin "Win" T. Gatchalian** (asr-008138)  
 we want to give you the tools to be effective because important it's important that we meet
 
-**[07:41:05.240] Senator Sherwin "Win" T. Gatchalian** (asr-008139)  
+**[07:41:05.240] Senate President Sherwin "Win" T. Gatchalian** (asr-008139)  
 the targets but uh shifting one collection officer to the other because he didn't meet
 
-**[07:41:11.940] Senator Sherwin "Win" T. Gatchalian** (asr-008140)  
+**[07:41:11.940] Senate President Sherwin "Win" T. Gatchalian** (asr-008140)  
 the targets then we're just moving the problem from one area to the other
 
-**[07:41:17.380] Senator Sherwin "Win" T. Gatchalian** (asr-008141)  
+**[07:41:17.380] Senate President Sherwin "Win" T. Gatchalian** (asr-008141)  
 so but in any case um just submit to us
 
-**[07:41:23.540] Senator Sherwin "Win" T. Gatchalian** (asr-008142)  
+**[07:41:23.540] Senate President Sherwin "Win" T. Gatchalian** (asr-008142)  
 kung sinasabi niyo na mayroon na penalized because of this attrition law. Submit to us a report on that.
 
-**[07:41:31.460] Senator Sherwin "Win" T. Gatchalian** (asr-008143)  
+**[07:41:31.460] Senate President Sherwin "Win" T. Gatchalian** (asr-008143)  
 Gusto namin malaman. And we just want to also tell the two bureaus that we?re monitoring the collection.
 
-**[07:41:37.440] Senator Sherwin "Win" T. Gatchalian** (asr-008144)  
+**[07:41:37.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008144)  
 Ayaw namin mawalan ng saysay yung targets. What we want is to hit the target. So just submit to us a report on those
 
-**[07:41:46.360] Senator Sherwin "Win" T. Gatchalian** (asr-008145)  
+**[07:41:46.360] Senate President Sherwin "Win" T. Gatchalian** (asr-008145)  
 attrition law
 
-**[07:41:47.200] Senator Sherwin "Win" T. Gatchalian** (asr-008146)  
+**[07:41:47.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008146)  
 kung ilan na natanggal, ilan na penalized because hindi niya ginagawa trabaho niya,
 
-**[07:41:52.940] Senator Sherwin "Win" T. Gatchalian** (asr-008147)  
+**[07:41:52.940] Senate President Sherwin "Win" T. Gatchalian** (asr-008147)  
 para malaman rin natin na kung sino yung mga taong walang ginagawa.
 
-**[07:41:59.580] Senator Sherwin "Win" T. Gatchalian** (asr-008148)  
+**[07:41:59.580] Senate President Sherwin "Win" T. Gatchalian** (asr-008148)  
 Maraming, alam niyo, pinakamaraming pag pumupunta dito, humingi ng recommendation
 
-**[07:42:06.200] Senator Sherwin "Win" T. Gatchalian** (asr-008149)  
+**[07:42:06.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008149)  
 sa Bureau of Customs. Ang daming nanghihingi ng recommendation. Ewan ko kung bakit doon.
 
-**[07:42:11.500] Senator Sherwin "Win" T. Gatchalian** (asr-008150)  
+**[07:42:11.500] Senate President Sherwin "Win" T. Gatchalian** (asr-008150)  
 Siguro mga, di ba? Seventy percent na humingi ng recommendation sa akin, Bureau of Customs eh.
 
-**[07:42:17.200] Senator Sherwin "Win" T. Gatchalian** (asr-008151)  
+**[07:42:17.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008151)  
 Pero hindi naman nai-hit yung target. Di ba? Ewan ko bakit ba, Chairman?
 
 **[07:42:23.000] Senator Joseph Victor "JV" G. Ejercito** (asr-008152)  
@@ -23794,16 +23794,16 @@ b.i.r or custom siguro
 **[07:42:24.500] Senator Joseph Victor "JV" G. Ejercito** (asr-008153)  
 Oo nga eh. More, more. Baka agency hindi na-hit pero sila baka hini-hit yung target nila.
 
-**[07:42:29.880] Senator Sherwin "Win" T. Gatchalian** (asr-008154)  
+**[07:42:29.880] Senate President Sherwin "Win" T. Gatchalian** (asr-008154)  
 but uh but just submit to us a report and just just putting you on notice that we're
 
-**[07:42:36.660] Senator Sherwin "Win" T. Gatchalian** (asr-008155)  
+**[07:42:36.660] Senate President Sherwin "Win" T. Gatchalian** (asr-008155)  
 monitoring the performance of the two agencies to help dof of course um to collect more
 
-**[07:42:42.580] Senator Sherwin "Win" T. Gatchalian** (asr-008156)  
+**[07:42:42.580] Senate President Sherwin "Win" T. Gatchalian** (asr-008156)  
 um i'll jump to another topic and this is for
 
-**[07:42:47.200] Senator Sherwin "Win" T. Gatchalian** (asr-008157)  
+**[07:42:47.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008157)  
 DBM.
 
 **[07:42:47.840] Senator Joseph Victor "JV" G. Ejercito** (asr-008158)  
@@ -23833,157 +23833,157 @@ proposal that we're putting forward for a general
 **[07:43:19.280] DOF Secretary Frederick D. Go** (asr-008165)  
 tax amnesty
 
-**[07:43:20.140] Senator Sherwin "Win" T. Gatchalian** (asr-008166)  
+**[07:43:20.140] Senate President Sherwin "Win" T. Gatchalian** (asr-008166)  
 my next is slide 19
 
-**[07:43:24.870] Senator Sherwin "Win" T. Gatchalian** (asr-008167)  
+**[07:43:24.870] Senate President Sherwin "Win" T. Gatchalian** (asr-008167)  
 this is for DBM
 
-**[07:43:27.330] Senator Sherwin "Win" T. Gatchalian** (asr-008168)  
+**[07:43:27.330] Senate President Sherwin "Win" T. Gatchalian** (asr-008168)  
 we're looking
 
-**[07:43:29.170] Senator Sherwin "Win" T. Gatchalian** (asr-008169)  
+**[07:43:29.170] Senate President Sherwin "Win" T. Gatchalian** (asr-008169)  
 at the current operating expenditures
 
-**[07:43:31.130] Senator Sherwin "Win" T. Gatchalian** (asr-008170)  
+**[07:43:31.130] Senate President Sherwin "Win" T. Gatchalian** (asr-008170)  
 meaning PSMOE
 
-**[07:43:33.470] Senator Sherwin "Win" T. Gatchalian** (asr-008171)  
+**[07:43:33.470] Senate President Sherwin "Win" T. Gatchalian** (asr-008171)  
 and
 
-**[07:43:34.770] Senator Sherwin "Win" T. Gatchalian** (asr-008172)  
+**[07:43:34.770] Senate President Sherwin "Win" T. Gatchalian** (asr-008172)  
 in a perfect world
 
-**[07:43:36.150] Senator Sherwin "Win" T. Gatchalian** (asr-008173)  
+**[07:43:36.150] Senate President Sherwin "Win" T. Gatchalian** (asr-008173)  
 our revenue should be sufficient
 
-**[07:43:38.870] Senator Sherwin "Win" T. Gatchalian** (asr-008174)  
+**[07:43:38.870] Senate President Sherwin "Win" T. Gatchalian** (asr-008174)  
 to pay for
 
-**[07:43:40.870] Senator Sherwin "Win" T. Gatchalian** (asr-008175)  
+**[07:43:40.870] Senate President Sherwin "Win" T. Gatchalian** (asr-008175)  
 current operating expenditures
 
-**[07:43:42.830] Senator Sherwin "Win" T. Gatchalian** (asr-008176)  
+**[07:43:42.830] Senate President Sherwin "Win" T. Gatchalian** (asr-008176)  
 then we only borrow for capital
 
-**[07:43:45.090] Senator Sherwin "Win" T. Gatchalian** (asr-008177)  
+**[07:43:45.090] Senate President Sherwin "Win" T. Gatchalian** (asr-008177)  
 outlay because these are investments
 
-**[07:43:46.770] Senator Sherwin "Win" T. Gatchalian** (asr-008178)  
+**[07:43:46.770] Senate President Sherwin "Win" T. Gatchalian** (asr-008178)  
 it takes time for
 
-**[07:43:48.590] Senator Sherwin "Win" T. Gatchalian** (asr-008179)  
+**[07:43:48.590] Senate President Sherwin "Win" T. Gatchalian** (asr-008179)  
 capital outlay
 
-**[07:43:51.030] Senator Sherwin "Win" T. Gatchalian** (asr-008180)  
+**[07:43:51.030] Senate President Sherwin "Win" T. Gatchalian** (asr-008180)  
 to yield
 
-**[07:43:51.710] Senator Sherwin "Win" T. Gatchalian** (asr-008181)  
+**[07:43:51.710] Senate President Sherwin "Win" T. Gatchalian** (asr-008181)  
 investment results
 
-**[07:43:54.130] Senator Sherwin "Win" T. Gatchalian** (asr-008182)  
+**[07:43:54.130] Senate President Sherwin "Win" T. Gatchalian** (asr-008182)  
 but in the last
 
-**[07:43:55.470] Senator Sherwin "Win" T. Gatchalian** (asr-008183)  
+**[07:43:55.470] Senate President Sherwin "Win" T. Gatchalian** (asr-008183)  
 3 years
 
-**[07:43:57.610] Senator Sherwin "Win" T. Gatchalian** (asr-008184)  
+**[07:43:57.610] Senate President Sherwin "Win" T. Gatchalian** (asr-008184)  
 in the last
 
-**[07:43:59.610] Senator Sherwin "Win" T. Gatchalian** (asr-008185)  
+**[07:43:59.610] Senate President Sherwin "Win" T. Gatchalian** (asr-008185)  
 2 years
 
-**[07:44:01.850] Senator Sherwin "Win" T. Gatchalian** (asr-008186)  
+**[07:44:01.850] Senate President Sherwin "Win" T. Gatchalian** (asr-008186)  
 25-26
 
-**[07:44:03.650] Senator Sherwin "Win" T. Gatchalian** (asr-008187)  
+**[07:44:03.650] Senate President Sherwin "Win" T. Gatchalian** (asr-008187)  
 our current operating expenditures
 
-**[07:44:08.390] Senator Sherwin "Win" T. Gatchalian** (asr-008188)  
+**[07:44:08.390] Senate President Sherwin "Win" T. Gatchalian** (asr-008188)  
 are higher
 
-**[07:44:08.410] Senator Sherwin "Win" T. Gatchalian** (asr-008189)  
+**[07:44:08.410] Senate President Sherwin "Win" T. Gatchalian** (asr-008189)  
 compared to our revenue
 
-**[07:44:09.650] Senator Sherwin "Win" T. Gatchalian** (asr-008190)  
+**[07:44:09.650] Senate President Sherwin "Win" T. Gatchalian** (asr-008190)  
 next year it will be the same
 
-**[07:44:11.090] Senator Sherwin "Win" T. Gatchalian** (asr-008191)  
+**[07:44:11.090] Senate President Sherwin "Win" T. Gatchalian** (asr-008191)  
 so in other words we're borrowing to pay salaries
 
-**[07:44:14.030] Senator Sherwin "Win" T. Gatchalian** (asr-008192)  
+**[07:44:14.030] Senate President Sherwin "Win" T. Gatchalian** (asr-008192)  
 we're borrowing to pay MOE
 
-**[07:44:16.190] Senator Sherwin "Win" T. Gatchalian** (asr-008193)  
+**[07:44:16.190] Senate President Sherwin "Win" T. Gatchalian** (asr-008193)  
 and that is not
 
-**[07:44:18.110] Senator Sherwin "Win" T. Gatchalian** (asr-008194)  
+**[07:44:18.110] Senate President Sherwin "Win" T. Gatchalian** (asr-008194)  
 the
 
-**[07:44:18.590] Senator Sherwin "Win" T. Gatchalian** (asr-008195)  
+**[07:44:18.590] Senate President Sherwin "Win" T. Gatchalian** (asr-008195)  
 best case
 
-**[07:44:20.390] Senator Sherwin "Win" T. Gatchalian** (asr-008196)  
+**[07:44:20.390] Senate President Sherwin "Win" T. Gatchalian** (asr-008196)  
 and a wise
 
-**[07:44:21.290] Senator Sherwin "Win" T. Gatchalian** (asr-008197)  
+**[07:44:21.290] Senate President Sherwin "Win" T. Gatchalian** (asr-008197)  
 management
 
-**[07:44:23.430] Senator Sherwin "Win" T. Gatchalian** (asr-008198)  
+**[07:44:23.430] Senate President Sherwin "Win" T. Gatchalian** (asr-008198)  
 decision
 
-**[07:44:25.470] Senator Sherwin "Win" T. Gatchalian** (asr-008199)  
+**[07:44:25.470] Senate President Sherwin "Win" T. Gatchalian** (asr-008199)  
 so we're not
 
-**[07:44:28.310] Senator Sherwin "Win" T. Gatchalian** (asr-008200)  
+**[07:44:28.310] Senate President Sherwin "Win" T. Gatchalian** (asr-008200)  
 managing our
 
-**[07:44:29.770] Senator Sherwin "Win" T. Gatchalian** (asr-008201)  
+**[07:44:29.770] Senate President Sherwin "Win" T. Gatchalian** (asr-008201)  
 finances very well
 
-**[07:44:32.450] Senator Sherwin "Win" T. Gatchalian** (asr-008202)  
+**[07:44:32.450] Senate President Sherwin "Win" T. Gatchalian** (asr-008202)  
 in this case because we're borrowing
 
-**[07:44:34.590] Senator Sherwin "Win" T. Gatchalian** (asr-008203)  
+**[07:44:34.590] Senate President Sherwin "Win" T. Gatchalian** (asr-008203)  
 long term we're financing
 
-**[07:44:35.870] Senator Sherwin "Win" T. Gatchalian** (asr-008204)  
+**[07:44:35.870] Senate President Sherwin "Win" T. Gatchalian** (asr-008204)  
 short term
 
-**[07:44:37.270] Senator Sherwin "Win" T. Gatchalian** (asr-008205)  
+**[07:44:37.270] Senate President Sherwin "Win" T. Gatchalian** (asr-008205)  
 operation expenses
 
-**[07:44:40.090] Senator Sherwin "Win" T. Gatchalian** (asr-008206)  
+**[07:44:40.090] Senate President Sherwin "Win" T. Gatchalian** (asr-008206)  
 may I get a comment from the DBM
 
-**[07:44:42.830] Senator Sherwin "Win" T. Gatchalian** (asr-008207)  
+**[07:44:42.830] Senate President Sherwin "Win" T. Gatchalian** (asr-008207)  
 ano bang
 
-**[07:44:43.330] Senator Sherwin "Win" T. Gatchalian** (asr-008208)  
+**[07:44:43.330] Senate President Sherwin "Win" T. Gatchalian** (asr-008208)  
 move natin to reverse this trend
 
-**[07:44:46.530] Senator Sherwin "Win" T. Gatchalian** (asr-008209)  
+**[07:44:46.530] Senate President Sherwin "Win" T. Gatchalian** (asr-008209)  
 at one point in time
 
-**[07:44:48.590] Senator Sherwin "Win" T. Gatchalian** (asr-008210)  
+**[07:44:48.590] Senate President Sherwin "Win" T. Gatchalian** (asr-008210)  
 in 2024
 
-**[07:44:50.590] Senator Sherwin "Win" T. Gatchalian** (asr-008211)  
+**[07:44:50.590] Senate President Sherwin "Win" T. Gatchalian** (asr-008211)  
 we're still better
 
-**[07:44:52.590] Senator Sherwin "Win" T. Gatchalian** (asr-008212)  
+**[07:44:52.590] Senate President Sherwin "Win" T. Gatchalian** (asr-008212)  
 but 25-26
 
-**[07:44:54.590] Senator Sherwin "Win" T. Gatchalian** (asr-008213)  
+**[07:44:54.590] Senate President Sherwin "Win" T. Gatchalian** (asr-008213)  
 this is a program
 
-**[07:44:56.590] Senator Sherwin "Win" T. Gatchalian** (asr-008214)  
+**[07:44:56.590] Senate President Sherwin "Win" T. Gatchalian** (asr-008214)  
 26
 
-**[07:44:58.590] Senator Sherwin "Win" T. Gatchalian** (asr-008215)  
+**[07:44:58.590] Senate President Sherwin "Win" T. Gatchalian** (asr-008215)  
 it has reversed
 
-**[07:45:00.320] Senator Sherwin "Win" T. Gatchalian** (asr-008216)  
+**[07:45:00.320] Senate President Sherwin "Win" T. Gatchalian** (asr-008216)  
 So may I get the opinion of the DBM Secretary on this phenomenon?
 
 **[07:45:11.300] Acting DBM Secretary Kim Robert C. De Leon** (asr-008217)  
@@ -24007,25 +24007,25 @@ Because the other part of current operating expense, it's something that we cann
 **[07:45:46.580] Acting DBM Secretary Kim Robert C. De Leon** (asr-008223)  
 which is personal services, which has been fixed by the plantilla and the scheduled salary increase.
 
-**[07:45:59.440] Senator Sherwin "Win" T. Gatchalian** (asr-008224)  
+**[07:45:59.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008224)  
 Okay yun. Okay yung scheduled salary increase. We support that.
 
-**[07:46:02.560] Senator Sherwin "Win" T. Gatchalian** (asr-008225)  
+**[07:46:02.560] Senate President Sherwin "Win" T. Gatchalian** (asr-008225)  
 That's for our employees.
 
-**[07:46:04.360] Senator Sherwin "Win" T. Gatchalian** (asr-008226)  
+**[07:46:04.360] Senate President Sherwin "Win" T. Gatchalian** (asr-008226)  
 Okay rin yung MOOE, lalo na cash flow contractual because that's increasing the capacity of government.
 
-**[07:46:12.260] Senator Sherwin "Win" T. Gatchalian** (asr-008227)  
+**[07:46:12.260] Senate President Sherwin "Win" T. Gatchalian** (asr-008227)  
 But it should not be financed through debt. It has to be financed through our own collection.
 
-**[07:46:16.640] Senator Sherwin "Win" T. Gatchalian** (asr-008228)  
+**[07:46:16.640] Senate President Sherwin "Win" T. Gatchalian** (asr-008228)  
 That's why I'm pushing the two collecting agencies so that what they collect goes to our current operating expenses.
 
-**[07:46:24.960] Senator Sherwin "Win" T. Gatchalian** (asr-008229)  
+**[07:46:24.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008229)  
 Pangbayad ng sweldo, pangbayad ng GO, contractual.
 
-**[07:46:27.800] Senator Sherwin "Win" T. Gatchalian** (asr-008230)  
+**[07:46:27.800] Senate President Sherwin "Win" T. Gatchalian** (asr-008230)  
 Hindi tayo umuutang para magbayad ng sweldo.
 
 **[07:46:32.560] Acting DBM Secretary Kim Robert C. De Leon** (asr-008231)  
@@ -24058,10 +24058,10 @@ that also covers services that should have been...
 **[07:47:32.560] Acting DBM Secretary Kim Robert C. De Leon** (asr-008240)  
 Absorbed by our local government units as well.
 
-**[07:47:35.080] Senator Sherwin "Win" T. Gatchalian** (asr-008241)  
+**[07:47:35.080] Senate President Sherwin "Win" T. Gatchalian** (asr-008241)  
 I saw that the NTA is now...
 
-**[07:47:38.440] Senator Sherwin "Win" T. Gatchalian** (asr-008242)  
+**[07:47:38.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008242)  
 How much is it now?
 
 **[07:47:40.660] Acting DBM Secretary Kim Robert C. De Leon** (asr-008243)  
@@ -24076,7 +24076,7 @@ Correct.
 **[07:47:46.640] Acting DBM Secretary Kim Robert C. De Leon** (asr-008246)  
 Because NTA increased by 11% and the budget has only increased 6%.
 
-**[07:47:50.160] Senator Sherwin "Win" T. Gatchalian** (asr-008247)  
+**[07:47:50.160] Senate President Sherwin "Win" T. Gatchalian** (asr-008247)  
 So it's almost 15% of the total budget, correct?
 
 **[07:47:54.080] Acting DBM Secretary Kim Robert C. De Leon** (asr-008248)  
@@ -24085,58 +24085,58 @@ More or less.
 **[07:47:54.840] Acting DBM Secretary Kim Robert C. De Leon** (asr-008249)  
 Yes, about that figure.
 
-**[07:47:55.440] Senator Sherwin "Win" T. Gatchalian** (asr-008250)  
+**[07:47:55.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008250)  
 More or less. 50% of the total budget.
 
-**[07:47:57.860] Senator Sherwin "Win" T. Gatchalian** (asr-008251)  
+**[07:47:57.860] Senate President Sherwin "Win" T. Gatchalian** (asr-008251)  
 The total pie now goes to the LGUs.
 
-**[07:48:00.180] Senator Sherwin "Win" T. Gatchalian** (asr-008252)  
+**[07:48:00.180] Senate President Sherwin "Win" T. Gatchalian** (asr-008252)  
 Yes.
 
-**[07:48:00.460] Senator Sherwin "Win" T. Gatchalian** (asr-008253)  
+**[07:48:00.460] Senate President Sherwin "Win" T. Gatchalian** (asr-008253)  
 And that's why...
 
-**[07:48:01.060] Senator Sherwin "Win" T. Gatchalian** (asr-008254)  
+**[07:48:01.060] Senate President Sherwin "Win" T. Gatchalian** (asr-008254)  
 It's good that you opened that because I think it's about time to study some items that we can devolve to the local government units.
 
-**[07:48:10.600] Senator Sherwin "Win" T. Gatchalian** (asr-008255)  
+**[07:48:10.600] Senate President Sherwin "Win" T. Gatchalian** (asr-008255)  
 I'll give you a very specific example.
 
-**[07:48:12.680] Senator Sherwin "Win" T. Gatchalian** (asr-008256)  
+**[07:48:12.680] Senate President Sherwin "Win" T. Gatchalian** (asr-008256)  
 Dito sa mga cities na kaya ni Manila, NCR in particular, we can devolve some of the functions there.
 
-**[07:48:19.360] Senator Sherwin "Win" T. Gatchalian** (asr-008257)  
+**[07:48:19.360] Senate President Sherwin "Win" T. Gatchalian** (asr-008257)  
 For example lang, isa sa mapwedeng devolve, let's say Bureau of Fire.
 
-**[07:48:24.740] Senator Sherwin "Win" T. Gatchalian** (asr-008258)  
+**[07:48:24.740] Senate President Sherwin "Win" T. Gatchalian** (asr-008258)  
 So let the LGU handle the fire.
 
-**[07:48:27.440] Senator Sherwin "Win" T. Gatchalian** (asr-008259)  
+**[07:48:27.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008259)  
 Bakit mga LGU ang...
 
-**[07:48:28.780] Senator Sherwin "Win" T. Gatchalian** (asr-008260)  
+**[07:48:28.780] Senate President Sherwin "Win" T. Gatchalian** (asr-008260)  
 Bakit national pa nag-handle kung may sunog?
 
-**[07:48:31.060] Senator Sherwin "Win" T. Gatchalian** (asr-008261)  
+**[07:48:31.060] Senate President Sherwin "Win" T. Gatchalian** (asr-008261)  
 Sa Canto, sunog sa Sulok.
 
-**[07:48:33.440] Senator Sherwin "Win" T. Gatchalian** (asr-008262)  
+**[07:48:33.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008262)  
 Si LGU naman ang first responders.
 
-**[07:48:35.980] Senator Sherwin "Win" T. Gatchalian** (asr-008263)  
+**[07:48:35.980] Senate President Sherwin "Win" T. Gatchalian** (asr-008263)  
 Maybe not all because not all LGUs, but at least the bigger cities.
 
-**[07:48:41.540] Senator Sherwin "Win" T. Gatchalian** (asr-008264)  
+**[07:48:41.540] Senate President Sherwin "Win" T. Gatchalian** (asr-008264)  
 You might need a law for that.
 
-**[07:48:43.020] Senator Sherwin "Win" T. Gatchalian** (asr-008265)  
+**[07:48:43.020] Senate President Sherwin "Win" T. Gatchalian** (asr-008265)  
 But I'm just saying these are some of the examples that you can devolve to the local government units
 
-**[07:48:49.240] Senator Sherwin "Win" T. Gatchalian** (asr-008266)  
+**[07:48:49.240] Senate President Sherwin "Win" T. Gatchalian** (asr-008266)  
 so that the local government units become empowered, responsive, and mas magaan pa sa national
 
-**[07:48:58.220] Senator Sherwin "Win" T. Gatchalian** (asr-008267)  
+**[07:48:58.220] Senate President Sherwin "Win" T. Gatchalian** (asr-008267)  
 in terms of fiscal space.
 
 **[07:49:01.060] Acting DBM Secretary Kim Robert C. De Leon** (asr-008268)  
@@ -24160,16 +24160,16 @@ So we hope that there can be some substantial movement in terms of the full devo
 **[07:49:31.060] Acting DBM Secretary Kim Robert C. De Leon** (asr-008274)  
 of these functions after the 2027 NEP, Your Honor.
 
-**[07:49:34.580] Senator Sherwin "Win" T. Gatchalian** (asr-008275)  
+**[07:49:34.580] Senate President Sherwin "Win" T. Gatchalian** (asr-008275)  
 But this one, itong current operating expenses should be taken seriously
 
-**[07:49:39.300] Senator Sherwin "Win" T. Gatchalian** (asr-008276)  
+**[07:49:39.300] Senate President Sherwin "Win" T. Gatchalian** (asr-008276)  
 because this is an inefficient way of allocating resources and also borrowing
 
-**[07:49:44.220] Senator Sherwin "Win" T. Gatchalian** (asr-008277)  
+**[07:49:44.220] Senate President Sherwin "Win" T. Gatchalian** (asr-008277)  
 because we're borrowing for short-term requirements natin.
 
-**[07:49:49.100] Senator Sherwin "Win" T. Gatchalian** (asr-008278)  
+**[07:49:49.100] Senate President Sherwin "Win" T. Gatchalian** (asr-008278)  
 It's not a wise strategy.
 
 **[07:49:54.380] Acting DBM Secretary Kim Robert C. De Leon** (asr-008279)  
@@ -24187,79 +24187,79 @@ in terms of spending and considering as well the continuing appropriations from 
 **[07:50:15.160] Acting DBM Secretary Kim Robert C. De Leon** (asr-008283)  
 that are just piling up.
 
-**[07:50:16.360] Senator Sherwin "Win" T. Gatchalian** (asr-008284)  
+**[07:50:16.360] Senate President Sherwin "Win" T. Gatchalian** (asr-008284)  
 I liked your statement earlier that you're looking at the prior years MOOE.
 
-**[07:50:20.320] Senator Sherwin "Win" T. Gatchalian** (asr-008285)  
+**[07:50:20.320] Senate President Sherwin "Win" T. Gatchalian** (asr-008285)  
 May rami talagang MOOE na hindi nagagastos or na-approve pero hindi naman kailangan
 
-**[07:50:27.200] Senator Sherwin "Win" T. Gatchalian** (asr-008286)  
+**[07:50:27.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008286)  
 kaya hindi ginagasto.
 
-**[07:50:28.280] Senator Sherwin "Win" T. Gatchalian** (asr-008287)  
+**[07:50:28.280] Senate President Sherwin "Win" T. Gatchalian** (asr-008287)  
 So let's be prudent in allocating.
 
-**[07:50:31.060] Senator Sherwin "Win" T. Gatchalian** (asr-008288)  
+**[07:50:31.060] Senate President Sherwin "Win" T. Gatchalian** (asr-008288)  
 Because that affects the current operating expenses.
 
-**[07:50:34.660] Senator Sherwin "Win" T. Gatchalian** (asr-008289)  
+**[07:50:34.660] Senate President Sherwin "Win" T. Gatchalian** (asr-008289)  
 I'll jump to another topic.
 
-**[07:50:36.840] Senator Sherwin "Win" T. Gatchalian** (asr-008290)  
+**[07:50:36.840] Senate President Sherwin "Win" T. Gatchalian** (asr-008290)  
 This was opened up by Santa Risa on our national debt.
 
-**[07:50:43.140] Senator Sherwin "Win" T. Gatchalian** (asr-008291)  
+**[07:50:43.140] Senate President Sherwin "Win" T. Gatchalian** (asr-008291)  
 And there's a target, yung MTFF, Medium Term Fiscal Framework.
 
-**[07:50:47.840] Senator Sherwin "Win" T. Gatchalian** (asr-008292)  
+**[07:50:47.840] Senate President Sherwin "Win" T. Gatchalian** (asr-008292)  
 Can you pull up slide 10?
 
-**[07:50:50.980] Senator Sherwin "Win" T. Gatchalian** (asr-008293)  
+**[07:50:50.980] Senate President Sherwin "Win" T. Gatchalian** (asr-008293)  
 And we've been monitoring this quite every budget season.
 
-**[07:50:57.100] Senator Sherwin "Win" T. Gatchalian** (asr-008294)  
+**[07:50:57.100] Senate President Sherwin "Win" T. Gatchalian** (asr-008294)  
 And we see a divergence.
 
-**[07:51:01.060] Senator Sherwin "Win" T. Gatchalian** (asr-008295)  
+**[07:51:01.060] Senate President Sherwin "Win" T. Gatchalian** (asr-008295)  
 The MTFF and the actual debt-to-GDP ratio.
 
-**[07:51:09.840] Senator Sherwin "Win" T. Gatchalian** (asr-008296)  
+**[07:51:09.840] Senate President Sherwin "Win" T. Gatchalian** (asr-008296)  
 So mayroon tayong target.
 
-**[07:51:11.700] Senator Sherwin "Win" T. Gatchalian** (asr-008297)  
+**[07:51:11.700] Senate President Sherwin "Win" T. Gatchalian** (asr-008297)  
 In fact, MTFF is an approved resolution.
 
-**[07:51:14.980] Senator Sherwin "Win" T. Gatchalian** (asr-008298)  
+**[07:51:14.980] Senate President Sherwin "Win" T. Gatchalian** (asr-008298)  
 It's an approved resolution so that we will know exactly how we will pare down our debt-to-GDP ratio.
 
-**[07:51:24.020] Senator Sherwin "Win" T. Gatchalian** (asr-008299)  
+**[07:51:24.020] Senate President Sherwin "Win" T. Gatchalian** (asr-008299)  
 And that's why collection is very important.
 
-**[07:51:25.800] Senator Sherwin "Win" T. Gatchalian** (asr-008300)  
+**[07:51:25.800] Senate President Sherwin "Win" T. Gatchalian** (asr-008300)  
 Because if you don't have collection, obviously, you have to continue to borrow.
 
-**[07:51:30.480] Senator Sherwin "Win" T. Gatchalian** (asr-008301)  
+**[07:51:30.480] Senate President Sherwin "Win" T. Gatchalian** (asr-008301)  
 So,
 
-**[07:51:31.060] Senator Sherwin "Win" T. Gatchalian** (asr-008302)  
+**[07:51:31.060] Senate President Sherwin "Win" T. Gatchalian** (asr-008302)  
 can I get a response on
 
-**[07:51:32.960] Senator Sherwin "Win" T. Gatchalian** (asr-008303)  
+**[07:51:32.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008303)  
 lumalayo na tayo sa MTFF target natin?
 
-**[07:51:38.400] Senator Sherwin "Win" T. Gatchalian** (asr-008304)  
+**[07:51:38.400] Senate President Sherwin "Win" T. Gatchalian** (asr-008304)  
 And
 
-**[07:51:38.720] Senator Sherwin "Win" T. Gatchalian** (asr-008305)  
+**[07:51:38.720] Senate President Sherwin "Win" T. Gatchalian** (asr-008305)  
 the goal
 
-**[07:51:40.600] Senator Sherwin "Win" T. Gatchalian** (asr-008306)  
+**[07:51:40.600] Senate President Sherwin "Win" T. Gatchalian** (asr-008306)  
 one day is to bring it down to pre-pandemic levels.
 
-**[07:51:44.600] Senator Sherwin "Win" T. Gatchalian** (asr-008307)  
+**[07:51:44.600] Senate President Sherwin "Win" T. Gatchalian** (asr-008307)  
 But that will be very tough.
 
-**[07:51:46.720] Senator Sherwin "Win" T. Gatchalian** (asr-008308)  
+**[07:51:46.720] Senate President Sherwin "Win" T. Gatchalian** (asr-008308)  
 But may I get a comment on how come we're diverging from our MTFF levels?
 
 **[07:51:55.140] DOF Secretary Frederick D. Go** (asr-008309)  
@@ -24322,103 +24322,103 @@ So the fiscal deficit that we have been incurring year after year is not in line
 **[07:53:33.980] DOF Secretary Frederick D. Go** (asr-008328)  
 Your Honor.
 
-**[07:53:35.400] Senator Sherwin "Win" T. Gatchalian** (asr-008329)  
+**[07:53:35.400] Senate President Sherwin "Win" T. Gatchalian** (asr-008329)  
 Then the solution there is to reduce expenditures.
 
-**[07:53:41.440] Senator Sherwin "Win" T. Gatchalian** (asr-008330)  
+**[07:53:41.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008330)  
 Pero marami tayong gastusin eh.
 
-**[07:53:43.460] Senator Sherwin "Win" T. Gatchalian** (asr-008331)  
+**[07:53:43.460] Senate President Sherwin "Win" T. Gatchalian** (asr-008331)  
 Marami tayong pwedeng dapat gastusin.
 
-**[07:53:45.600] Senator Sherwin "Win" T. Gatchalian** (asr-008332)  
+**[07:53:45.600] Senate President Sherwin "Win" T. Gatchalian** (asr-008332)  
 So it's a policy question.
 
-**[07:53:50.960] Senator Sherwin "Win" T. Gatchalian** (asr-008333)  
+**[07:53:50.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008333)  
 Do we reduce expenditures or do we borrow more?
 
-**[07:53:54.220] Senator Sherwin "Win" T. Gatchalian** (asr-008334)  
+**[07:53:54.220] Senate President Sherwin "Win" T. Gatchalian** (asr-008334)  
 But we cannot also continue to borrow if our economy is also not growing.
 
-**[07:53:59.260] Senator Sherwin "Win" T. Gatchalian** (asr-008335)  
+**[07:53:59.260] Senate President Sherwin "Win" T. Gatchalian** (asr-008335)  
 So we have a problem with that.
 
-**[07:54:01.060] Senator Sherwin "Win" T. Gatchalian** (asr-008336)  
+**[07:54:01.060] Senate President Sherwin "Win" T. Gatchalian** (asr-008336)  
 So that's why we have to keep on pushing revenue collection.
 
-**[07:54:08.820] Senator Sherwin "Win" T. Gatchalian** (asr-008337)  
+**[07:54:08.820] Senate President Sherwin "Win" T. Gatchalian** (asr-008337)  
 Because that's the only way we can pare down debt.
 
-**[07:54:12.800] Senator Sherwin "Win" T. Gatchalian** (asr-008338)  
+**[07:54:12.800] Senate President Sherwin "Win" T. Gatchalian** (asr-008338)  
 And also why spending?
 
-**[07:54:14.780] Senator Sherwin "Win" T. Gatchalian** (asr-008339)  
+**[07:54:14.780] Senate President Sherwin "Win" T. Gatchalian** (asr-008339)  
 Sabi ko nga marami akong nakikita.
 
-**[07:54:18.080] Senator Sherwin "Win" T. Gatchalian** (asr-008340)  
+**[07:54:18.080] Senate President Sherwin "Win" T. Gatchalian** (asr-008340)  
 Like for example last year, we removed close to about, I think about, I can't recall.
 
-**[07:54:27.500] Senator Sherwin "Win" T. Gatchalian** (asr-008341)  
+**[07:54:27.500] Senate President Sherwin "Win" T. Gatchalian** (asr-008341)  
 But we removed a few billions to IT.
 
-**[07:54:30.280] Senator Sherwin "Win" T. Gatchalian** (asr-008342)  
+**[07:54:30.280] Senate President Sherwin "Win" T. Gatchalian** (asr-008342)  
 Because apparently maraming IT na spending na redundant in different agencies.
 
-**[07:54:36.760] Senator Sherwin "Win" T. Gatchalian** (asr-008343)  
+**[07:54:36.760] Senate President Sherwin "Win" T. Gatchalian** (asr-008343)  
 I forget the exact number.
 
-**[07:54:38.640] Senator Sherwin "Win" T. Gatchalian** (asr-008344)  
+**[07:54:38.640] Senate President Sherwin "Win" T. Gatchalian** (asr-008344)  
 But may mga ganun na I call it fat in our MOE, in our different MOE expenditures.
 
-**[07:54:49.540] Senator Sherwin "Win" T. Gatchalian** (asr-008345)  
+**[07:54:49.540] Senate President Sherwin "Win" T. Gatchalian** (asr-008345)  
 So may mga ganyan rin na pwede nating bawasan pa eh.
 
-**[07:54:52.660] Senator Sherwin "Win" T. Gatchalian** (asr-008346)  
+**[07:54:52.660] Senate President Sherwin "Win" T. Gatchalian** (asr-008346)  
 So that's why I'm urging the DBM.
 
-**[07:54:58.200] Senator Sherwin "Win" T. Gatchalian** (asr-008347)  
+**[07:54:58.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008347)  
 And nakita ko naman na you're really scrutinizing.
 
-**[07:55:00.280] Senator Sherwin "Win" T. Gatchalian** (asr-008348)  
+**[07:55:00.280] Senate President Sherwin "Win" T. Gatchalian** (asr-008348)  
 To tanggalin pa natin yung ibang mga pwedeng tanggalin dahil sayang yung pera eh.
 
-**[07:55:06.080] Senator Sherwin "Win" T. Gatchalian** (asr-008349)  
+**[07:55:06.080] Senate President Sherwin "Win" T. Gatchalian** (asr-008349)  
 Sayang yung pera.
 
-**[07:55:08.800] Senator Sherwin "Win" T. Gatchalian** (asr-008350)  
+**[07:55:08.800] Senate President Sherwin "Win" T. Gatchalian** (asr-008350)  
 It's becoming, we're not hitting our TFF target.
 
-**[07:55:14.440] Senator Sherwin "Win" T. Gatchalian** (asr-008351)  
+**[07:55:14.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008351)  
 But we need to spend.
 
-**[07:55:15.780] Senator Sherwin "Win" T. Gatchalian** (asr-008352)  
+**[07:55:15.780] Senate President Sherwin "Win" T. Gatchalian** (asr-008352)  
 But we're spending on things that we don't need.
 
-**[07:55:18.480] Senator Sherwin "Win" T. Gatchalian** (asr-008353)  
+**[07:55:18.480] Senate President Sherwin "Win" T. Gatchalian** (asr-008353)  
 Ayun, 22 billion pala.
 
-**[07:55:20.200] Senator Sherwin "Win" T. Gatchalian** (asr-008354)  
+**[07:55:20.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008354)  
 We removed 22 billion on IT digitalization.
 
-**[07:55:26.700] Senator Sherwin "Win" T. Gatchalian** (asr-008355)  
+**[07:55:26.700] Senate President Sherwin "Win" T. Gatchalian** (asr-008355)  
 Because after conferring with DICT,
 
-**[07:55:30.280] Senator Sherwin "Win" T. Gatchalian** (asr-008356)  
+**[07:55:30.280] Senate President Sherwin "Win" T. Gatchalian** (asr-008356)  
 they advised us na maraming, it's either bloated ang presyo
 
-**[07:55:35.860] Senator Sherwin "Win" T. Gatchalian** (asr-008357)  
+**[07:55:35.860] Senate President Sherwin "Win" T. Gatchalian** (asr-008357)  
 or ginagawa na ng ibang agency or hindi naman nila kailangan.
 
-**[07:55:42.080] Senator Sherwin "Win" T. Gatchalian** (asr-008358)  
+**[07:55:42.080] Senate President Sherwin "Win" T. Gatchalian** (asr-008358)  
 So imagine 22 billion, we removed it.
 
-**[07:55:45.580] Senator Sherwin "Win" T. Gatchalian** (asr-008359)  
+**[07:55:45.580] Senate President Sherwin "Win" T. Gatchalian** (asr-008359)  
 So that's why we managed to put some amounts to PhilHealth,
 
-**[07:55:50.260] Senator Sherwin "Win" T. Gatchalian** (asr-008360)  
+**[07:55:50.260] Senate President Sherwin "Win" T. Gatchalian** (asr-008360)  
 some amounts to NDRMC.
 
-**[07:55:52.920] Senator Sherwin "Win" T. Gatchalian** (asr-008361)  
+**[07:55:52.920] Senate President Sherwin "Win" T. Gatchalian** (asr-008361)  
 But yung ganun example na dapat pag-aralan pa ng DBM.
 
 **[07:56:00.280] Acting DBM Secretary Kim Robert C. De Leon** (asr-008362)  
@@ -24451,52 +24451,52 @@ So definitely, we really have to find some room within the expenditure program
 **[07:56:40.980] Acting DBM Secretary Kim Robert C. De Leon** (asr-008371)  
 to pave the way for these automatic increases as well.
 
-**[07:56:45.200] Senator Sherwin "Win" T. Gatchalian** (asr-008372)  
+**[07:56:45.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008372)  
 I'll show you another slide.
 
-**[07:56:46.320] Senator Sherwin "Win" T. Gatchalian** (asr-008373)  
+**[07:56:46.320] Senate President Sherwin "Win" T. Gatchalian** (asr-008373)  
 Binuksan na ni Senator Riza ito kanina.
 
-**[07:56:48.880] Senator Sherwin "Win" T. Gatchalian** (asr-008374)  
+**[07:56:48.880] Senate President Sherwin "Win" T. Gatchalian** (asr-008374)  
 Slide 26.
 
-**[07:56:51.460] Senator Sherwin "Win" T. Gatchalian** (asr-008375)  
+**[07:56:51.460] Senate President Sherwin "Win" T. Gatchalian** (asr-008375)  
 Our debt service every year is now taking up,
 
-**[07:56:55.440] Senator Sherwin "Win" T. Gatchalian** (asr-008376)  
+**[07:56:55.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008376)  
 is going up in the last five years from 10% in 2020.
 
-**[07:57:00.280] Senator Sherwin "Win" T. Gatchalian** (asr-008377)  
+**[07:57:00.280] Senate President Sherwin "Win" T. Gatchalian** (asr-008377)  
 In 2022, 14% na in 2026.
 
-**[07:57:04.880] Senator Sherwin "Win" T. Gatchalian** (asr-008378)  
+**[07:57:04.880] Senate President Sherwin "Win" T. Gatchalian** (asr-008378)  
 And it will go up to 15% pa yan in 2027 projection.
 
-**[07:57:09.620] Senator Sherwin "Win" T. Gatchalian** (asr-008379)  
+**[07:57:09.620] Senate President Sherwin "Win" T. Gatchalian** (asr-008379)  
 So, in other words, utang tayo ng utang,
 
-**[07:57:13.080] Senator Sherwin "Win" T. Gatchalian** (asr-008380)  
+**[07:57:13.080] Senate President Sherwin "Win" T. Gatchalian** (asr-008380)  
 15% of our budget goes to debt servicing instead of productive use.
 
-**[07:57:18.540] Senator Sherwin "Win" T. Gatchalian** (asr-008381)  
+**[07:57:18.540] Senate President Sherwin "Win" T. Gatchalian** (asr-008381)  
 So, dugtong-dugtong eh.
 
-**[07:57:21.440] Senator Sherwin "Win" T. Gatchalian** (asr-008382)  
+**[07:57:21.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008382)  
 Collection, expenses, targets.
 
-**[07:57:25.660] Senator Sherwin "Win" T. Gatchalian** (asr-008383)  
+**[07:57:25.660] Senate President Sherwin "Win" T. Gatchalian** (asr-008383)  
 So, we're urging government to also be prudent in allocating,
 
-**[07:57:30.280] Senator Sherwin "Win" T. Gatchalian** (asr-008384)  
+**[07:57:30.280] Senate President Sherwin "Win" T. Gatchalian** (asr-008384)  
 expenses.
 
-**[07:57:31.200] Senator Sherwin "Win" T. Gatchalian** (asr-008385)  
+**[07:57:31.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008385)  
 Malaking bagay yan, expenses.
 
-**[07:57:33.300] Senator Sherwin "Win" T. Gatchalian** (asr-008386)  
+**[07:57:33.300] Senate President Sherwin "Win" T. Gatchalian** (asr-008386)  
 Lalo na kung wala, hindi naman natin kalangan.
 
-**[07:57:35.600] Senator Sherwin "Win" T. Gatchalian** (asr-008387)  
+**[07:57:35.600] Senate President Sherwin "Win" T. Gatchalian** (asr-008387)  
 Kasi umuutang tayo, ngayon umuutang tayo sa bagay na hindi natin kalangan.
 
 **[07:57:41.040] Senator Risa Hontiveros** (asr-008388)  
@@ -24511,7 +24511,7 @@ Please go ahead.
 **[07:57:46.840] Senator Risa Hontiveros** (asr-008391)  
 Yung sinabi po ni SP na the debt to GDP ratio at 15%.
 
-**[07:57:56.700] Senator Sherwin "Win" T. Gatchalian** (asr-008392)  
+**[07:57:56.700] Senate President Sherwin "Win" T. Gatchalian** (asr-008392)  
 Yeah, from 2027.
 
 **[07:57:57.980] Senator Risa Hontiveros** (asr-008393)  
@@ -24529,37 +24529,37 @@ Ah, yun lang dagdag.
 **[07:58:10.140] Senator Risa Hontiveros** (asr-008397)  
 Salamat, SP.
 
-**[07:58:10.620] Senator Sherwin "Win" T. Gatchalian** (asr-008398)  
+**[07:58:10.620] Senate President Sherwin "Win" T. Gatchalian** (asr-008398)  
 In 2022, it's only 10%.
 
-**[07:58:12.920] Senator Sherwin "Win" T. Gatchalian** (asr-008399)  
+**[07:58:12.920] Senate President Sherwin "Win" T. Gatchalian** (asr-008399)  
 Yeah.
 
-**[07:58:13.560] Senator Sherwin "Win" T. Gatchalian** (asr-008400)  
+**[07:58:13.560] Senate President Sherwin "Win" T. Gatchalian** (asr-008400)  
 2022.
 
-**[07:58:14.480] Senator Sherwin "Win" T. Gatchalian** (asr-008401)  
+**[07:58:14.480] Senate President Sherwin "Win" T. Gatchalian** (asr-008401)  
 Then, slowly, pataas na siya ng pataas.
 
-**[07:58:17.800] Senator Sherwin "Win" T. Gatchalian** (asr-008402)  
+**[07:58:17.800] Senate President Sherwin "Win" T. Gatchalian** (asr-008402)  
 2027, hindi lang nasulat ng SAT.
 
-**[07:58:19.720] Senator Sherwin "Win" T. Gatchalian** (asr-008403)  
+**[07:58:19.720] Senate President Sherwin "Win" T. Gatchalian** (asr-008403)  
 That's about 15%.
 
-**[07:58:21.100] Senator Sherwin "Win" T. Gatchalian** (asr-008404)  
+**[07:58:21.100] Senate President Sherwin "Win" T. Gatchalian** (asr-008404)  
 And because of that,
 
-**[07:58:23.460] Senator Sherwin "Win" T. Gatchalian** (asr-008405)  
+**[07:58:23.460] Senate President Sherwin "Win" T. Gatchalian** (asr-008405)  
 ang debt,
 
-**[07:58:25.860] Senator Sherwin "Win" T. Gatchalian** (asr-008406)  
+**[07:58:25.860] Senate President Sherwin "Win" T. Gatchalian** (asr-008406)  
 let me just,
 
-**[07:58:28.440] Senator Sherwin "Win" T. Gatchalian** (asr-008407)  
+**[07:58:28.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008407)  
 ito, I showed this.
 
-**[07:58:30.280] Senator Sherwin "Win" T. Gatchalian** (asr-008408)  
+**[07:58:30.280] Senate President Sherwin "Win" T. Gatchalian** (asr-008408)  
 I showed this also last year.
 
 **[07:58:46.900] Senator Joseph Victor "JV" G. Ejercito** (asr-008409)  
@@ -24604,97 +24604,97 @@ and probably we can continue this
 **[07:59:21.060] Senator Joseph Victor "JV" G. Ejercito** (asr-008422)  
 in your hearing proper.
 
-**[07:59:25.180] Senator Sherwin "Win" T. Gatchalian** (asr-008423)  
+**[07:59:25.180] Senate President Sherwin "Win" T. Gatchalian** (asr-008423)  
 Thank you, Mr. Chair.
 
-**[07:59:26.660] Senator Sherwin "Win" T. Gatchalian** (asr-008424)  
+**[07:59:26.660] Senate President Sherwin "Win" T. Gatchalian** (asr-008424)  
 Just to show itong slide 16.
 
-**[07:59:29.100] Senator Sherwin "Win" T. Gatchalian** (asr-008425)  
+**[07:59:29.100] Senate President Sherwin "Win" T. Gatchalian** (asr-008425)  
 And because of that,
 
-**[07:59:30.620] Senator Sherwin "Win" T. Gatchalian** (asr-008426)  
+**[07:59:30.620] Senate President Sherwin "Win" T. Gatchalian** (asr-008426)  
 right now,
 
-**[07:59:32.220] Senator Sherwin "Win" T. Gatchalian** (asr-008427)  
+**[07:59:32.220] Senate President Sherwin "Win" T. Gatchalian** (asr-008427)  
 for year 2026,
 
-**[07:59:36.160] Senator Sherwin "Win" T. Gatchalian** (asr-008428)  
+**[07:59:36.160] Senate President Sherwin "Win" T. Gatchalian** (asr-008428)  
 ang per capita debt,
 
-**[07:59:38.600] Senator Sherwin "Win" T. Gatchalian** (asr-008429)  
+**[07:59:38.600] Senate President Sherwin "Win" T. Gatchalian** (asr-008429)  
 meaning isang tao,
 
-**[07:59:41.860] Senator Sherwin "Win" T. Gatchalian** (asr-008430)  
+**[07:59:41.860] Senate President Sherwin "Win" T. Gatchalian** (asr-008430)  
 may utang na ngayon
 
-**[07:59:43.540] Senator Sherwin "Win" T. Gatchalian** (asr-008431)  
+**[07:59:43.540] Senate President Sherwin "Win" T. Gatchalian** (asr-008431)  
 ng 165,000
 
-**[07:59:45.500] Senator Sherwin "Win" T. Gatchalian** (asr-008432)  
+**[07:59:45.500] Senate President Sherwin "Win" T. Gatchalian** (asr-008432)  
 ng 165,000
 
-**[07:59:45.880] Senator Sherwin "Win" T. Gatchalian** (asr-008433)  
+**[07:59:45.880] Senate President Sherwin "Win" T. Gatchalian** (asr-008433)  
 ng 165,000
 
-**[07:59:46.500] Senator Sherwin "Win" T. Gatchalian** (asr-008434)  
+**[07:59:46.500] Senate President Sherwin "Win" T. Gatchalian** (asr-008434)  
 in 2026
 
-**[07:59:49.020] Senator Sherwin "Win" T. Gatchalian** (asr-008435)  
+**[07:59:49.020] Senate President Sherwin "Win" T. Gatchalian** (asr-008435)  
 because of our debt stock.
 
-**[07:59:51.600] Senator Sherwin "Win" T. Gatchalian** (asr-008436)  
+**[07:59:51.600] Senate President Sherwin "Win" T. Gatchalian** (asr-008436)  
 Kung dinivide natin
 
-**[07:59:53.280] Senator Sherwin "Win" T. Gatchalian** (asr-008437)  
+**[07:59:53.280] Senate President Sherwin "Win" T. Gatchalian** (asr-008437)  
 index stock natin
 
-**[07:59:54.520] Senator Sherwin "Win" T. Gatchalian** (asr-008438)  
+**[07:59:54.520] Senate President Sherwin "Win" T. Gatchalian** (asr-008438)  
 sa 100,
 
-**[07:59:56.480] Senator Sherwin "Win" T. Gatchalian** (asr-008439)  
+**[07:59:56.480] Senate President Sherwin "Win" T. Gatchalian** (asr-008439)  
 ilan ba tayo?
 
-**[07:59:57.040] Senator Sherwin "Win" T. Gatchalian** (asr-008440)  
+**[07:59:57.040] Senate President Sherwin "Win" T. Gatchalian** (asr-008440)  
 113,000,000.
 
-**[08:00:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-008441)  
+**[08:00:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-008441)  
 Filipinos, tama ba?
 
-**[08:00:01.820] Senator Sherwin "Win" T. Gatchalian** (asr-008442)  
+**[08:00:01.820] Senate President Sherwin "Win" T. Gatchalian** (asr-008442)  
 Yusek Mapa, 113.
 
-**[08:00:04.560] Senator Sherwin "Win" T. Gatchalian** (asr-008443)  
+**[08:00:04.560] Senate President Sherwin "Win" T. Gatchalian** (asr-008443)  
 Lumalabas na isang tao, ang utang niya is 165,000 pesos.
 
-**[08:00:08.920] Senator Sherwin "Win" T. Gatchalian** (asr-008444)  
+**[08:00:08.920] Senate President Sherwin "Win" T. Gatchalian** (asr-008444)  
 Pati mga babies.
 
-**[08:00:09.960] Senator Sherwin "Win" T. Gatchalian** (asr-008445)  
+**[08:00:09.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008445)  
 Pati mga babies yun.
 
-**[08:00:11.520] Senator Sherwin "Win" T. Gatchalian** (asr-008446)  
+**[08:00:11.520] Senate President Sherwin "Win" T. Gatchalian** (asr-008446)  
 So that's why intergenerational itong utang.
 
-**[08:00:18.380] Senator Sherwin "Win" T. Gatchalian** (asr-008447)  
+**[08:00:18.380] Senate President Sherwin "Win" T. Gatchalian** (asr-008447)  
 That's why we need to be very prudent with borrowings
 
-**[08:00:20.960] Senator Sherwin "Win" T. Gatchalian** (asr-008448)  
+**[08:00:20.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008448)  
 because hindi na tayo magbabayad niya.
 
-**[08:00:24.740] Senator Sherwin "Win" T. Gatchalian** (asr-008449)  
+**[08:00:24.740] Senate President Sherwin "Win" T. Gatchalian** (asr-008449)  
 Magbabayad niya next generation na.
 
-**[08:00:26.640] Senator Sherwin "Win" T. Gatchalian** (asr-008450)  
+**[08:00:26.640] Senate President Sherwin "Win" T. Gatchalian** (asr-008450)  
 So that's why we're pushing the revenue agencies to keep on collecting.
 
-**[08:00:37.680] Senator Sherwin "Win" T. Gatchalian** (asr-008451)  
+**[08:00:37.680] Senate President Sherwin "Win" T. Gatchalian** (asr-008451)  
 Mr. Chairman, I'll hand over the microphone to you.
 
-**[08:00:40.880] Senator Sherwin "Win" T. Gatchalian** (asr-008452)  
+**[08:00:40.880] Senate President Sherwin "Win" T. Gatchalian** (asr-008452)  
 I know that you've been waiting for a while.
 
-**[08:00:44.020] Senator Sherwin "Win" T. Gatchalian** (asr-008453)  
+**[08:00:44.020] Senate President Sherwin "Win" T. Gatchalian** (asr-008453)  
 That's okay.
 
 **[08:00:44.600] Senator Joseph Victor "JV" G. Ejercito** (asr-008454)  
@@ -25408,199 +25408,199 @@ Thank you.
 **[08:09:41.120] Senator Joseph Victor "JV" G. Ejercito** (asr-008690)  
 Mr. Senate President?
 
-**[08:09:42.000] Senator Sherwin "Win" T. Gatchalian** (asr-008691)  
+**[08:09:42.000] Senate President Sherwin "Win" T. Gatchalian** (asr-008691)  
 Thank you.
 
-**[08:09:43.900] Senator Sherwin "Win" T. Gatchalian** (asr-008692)  
+**[08:09:43.900] Senate President Sherwin "Win" T. Gatchalian** (asr-008692)  
 Thank you,
 
-**[08:09:44.400] Senator Sherwin "Win" T. Gatchalian** (asr-008693)  
+**[08:09:44.400] Senate President Sherwin "Win" T. Gatchalian** (asr-008693)  
 uh,
 
-**[08:09:44.900] Senator Sherwin "Win" T. Gatchalian** (asr-008694)  
+**[08:09:44.900] Senate President Sherwin "Win" T. Gatchalian** (asr-008694)  
 Mr. Chairman.
 
-**[08:09:45.400] Senator Sherwin "Win" T. Gatchalian** (asr-008695)  
+**[08:09:45.400] Senate President Sherwin "Win" T. Gatchalian** (asr-008695)  
 Um,
 
-**[08:09:45.900] Senator Sherwin "Win" T. Gatchalian** (asr-008696)  
+**[08:09:45.900] Senate President Sherwin "Win" T. Gatchalian** (asr-008696)  
 Mr. Chairman,
 
-**[08:09:47.400] Senator Sherwin "Win" T. Gatchalian** (asr-008697)  
+**[08:09:47.400] Senate President Sherwin "Win" T. Gatchalian** (asr-008697)  
 uh,
 
-**[08:09:47.900] Senator Sherwin "Win" T. Gatchalian** (asr-008698)  
+**[08:09:47.900] Senate President Sherwin "Win" T. Gatchalian** (asr-008698)  
 uh,
 
-**[08:09:48.400] Senator Sherwin "Win" T. Gatchalian** (asr-008699)  
+**[08:09:48.400] Senate President Sherwin "Win" T. Gatchalian** (asr-008699)  
 my next question will be on,
 
-**[08:09:50.200] Senator Sherwin "Win" T. Gatchalian** (asr-008700)  
+**[08:09:50.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008700)  
 uh,
 
-**[08:09:50.700] Senator Sherwin "Win" T. Gatchalian** (asr-008701)  
+**[08:09:50.700] Senate President Sherwin "Win" T. Gatchalian** (asr-008701)  
 confidential funds and,
 
-**[08:09:52.200] Senator Sherwin "Win" T. Gatchalian** (asr-008702)  
+**[08:09:52.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008702)  
 uh,
 
-**[08:09:52.700] Senator Sherwin "Win" T. Gatchalian** (asr-008703)  
+**[08:09:52.700] Senate President Sherwin "Win" T. Gatchalian** (asr-008703)  
 intelligence funds.
 
-**[08:09:54.200] Senator Sherwin "Win" T. Gatchalian** (asr-008704)  
+**[08:09:54.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008704)  
 Kasi,
 
-**[08:09:54.700] Senator Sherwin "Win" T. Gatchalian** (asr-008705)  
+**[08:09:54.700] Senate President Sherwin "Win" T. Gatchalian** (asr-008705)  
 uh,
 
-**[08:09:55.200] Senator Sherwin "Win" T. Gatchalian** (asr-008706)  
+**[08:09:55.200] Senate President Sherwin "Win" T. Gatchalian** (asr-008706)  
 right now,
 
-**[08:09:56.120] Senator Sherwin "Win" T. Gatchalian** (asr-008707)  
+**[08:09:56.120] Senate President Sherwin "Win" T. Gatchalian** (asr-008707)  
 sa impeachment,
 
-**[08:09:57.120] Senator Sherwin "Win" T. Gatchalian** (asr-008708)  
+**[08:09:57.120] Senate President Sherwin "Win" T. Gatchalian** (asr-008708)  
 yun ang aming topic ngayon.
 
-**[08:09:58.420] Senator Sherwin "Win" T. Gatchalian** (asr-008709)  
+**[08:09:58.420] Senate President Sherwin "Win" T. Gatchalian** (asr-008709)  
 So,
 
-**[08:09:59.420] Senator Sherwin "Win" T. Gatchalian** (asr-008710)  
+**[08:09:59.420] Senate President Sherwin "Win" T. Gatchalian** (asr-008710)  
 I did some,
 
-**[08:10:00.060] Senator Sherwin "Win" T. Gatchalian** (asr-008711)  
+**[08:10:00.060] Senate President Sherwin "Win" T. Gatchalian** (asr-008711)  
 uh,
 
-**[08:10:00.260] Senator Sherwin "Win" T. Gatchalian** (asr-008712)  
+**[08:10:00.260] Senate President Sherwin "Win" T. Gatchalian** (asr-008712)  
 research,
 
-**[08:10:01.420] Senator Sherwin "Win" T. Gatchalian** (asr-008713)  
+**[08:10:01.420] Senate President Sherwin "Win" T. Gatchalian** (asr-008713)  
 um,
 
-**[08:10:02.020] Senator Sherwin "Win" T. Gatchalian** (asr-008714)  
+**[08:10:02.020] Senate President Sherwin "Win" T. Gatchalian** (asr-008714)  
 in confidential funds,
 
-**[08:10:03.360] Senator Sherwin "Win" T. Gatchalian** (asr-008715)  
+**[08:10:03.360] Senate President Sherwin "Win" T. Gatchalian** (asr-008715)  
 um,
 
-**[08:10:04.680] Senator Sherwin "Win" T. Gatchalian** (asr-008716)  
+**[08:10:04.680] Senate President Sherwin "Win" T. Gatchalian** (asr-008716)  
 uh,
 
-**[08:10:04.960] Senator Sherwin "Win" T. Gatchalian** (asr-008717)  
+**[08:10:04.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008717)  
 Secretary Kim,
 
-**[08:10:06.060] Senator Sherwin "Win" T. Gatchalian** (asr-008718)  
+**[08:10:06.060] Senate President Sherwin "Win" T. Gatchalian** (asr-008718)  
 six point,
 
-**[08:10:07.060] Senator Sherwin "Win" T. Gatchalian** (asr-008719)  
+**[08:10:07.060] Senate President Sherwin "Win" T. Gatchalian** (asr-008719)  
 uh,
 
-**[08:10:07.280] Senator Sherwin "Win" T. Gatchalian** (asr-008720)  
+**[08:10:07.280] Senate President Sherwin "Win" T. Gatchalian** (asr-008720)  
 sorry,
 
-**[08:10:07.820] Senator Sherwin "Win" T. Gatchalian** (asr-008721)  
+**[08:10:07.820] Senate President Sherwin "Win" T. Gatchalian** (asr-008721)  
 4.3 billion for 20,
 
-**[08:10:10.920] Senator Sherwin "Win" T. Gatchalian** (asr-008722)  
+**[08:10:10.920] Senate President Sherwin "Win" T. Gatchalian** (asr-008722)  
 uh,
 
-**[08:10:11.820] Senator Sherwin "Win" T. Gatchalian** (asr-008723)  
+**[08:10:11.820] Senate President Sherwin "Win" T. Gatchalian** (asr-008723)  
 27 and 6.4 billion for 2027,
 
-**[08:10:17.460] Senator Sherwin "Win" T. Gatchalian** (asr-008724)  
+**[08:10:17.460] Senate President Sherwin "Win" T. Gatchalian** (asr-008724)  
 a total of 10.7 billion.
 
-**[08:10:20.120] Senator Sherwin "Win" T. Gatchalian** (asr-008725)  
+**[08:10:20.120] Senate President Sherwin "Win" T. Gatchalian** (asr-008725)  
 Ngayon,
 
-**[08:10:21.460] Senator Sherwin "Win" T. Gatchalian** (asr-008726)  
+**[08:10:21.460] Senate President Sherwin "Win" T. Gatchalian** (asr-008726)  
 we have to be very prudent in this use kasi lumalabas na ngayon sa,
 
-**[08:10:25.960] Senator Sherwin "Win" T. Gatchalian** (asr-008727)  
+**[08:10:25.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008727)  
 mga,
 
-**[08:10:26.960] Senator Sherwin "Win" T. Gatchalian** (asr-008728)  
+**[08:10:26.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008728)  
 lalo na dito sa,
 
-**[08:10:27.960] Senator Sherwin "Win" T. Gatchalian** (asr-008729)  
+**[08:10:27.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008729)  
 uh,
 
-**[08:10:28.960] Senator Sherwin "Win" T. Gatchalian** (asr-008730)  
+**[08:10:28.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008730)  
 impeachment,
 
-**[08:10:29.960] Senator Sherwin "Win" T. Gatchalian** (asr-008731)  
+**[08:10:29.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008731)  
 yung,
 
-**[08:10:30.960] Senator Sherwin "Win" T. Gatchalian** (asr-008732)  
+**[08:10:30.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008732)  
 um,
 
-**[08:10:31.960] Senator Sherwin "Win" T. Gatchalian** (asr-008733)  
+**[08:10:31.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008733)  
 paggamit nitong confidential funds and how it can be abused.
 
-**[08:10:35.960] Senator Sherwin "Win" T. Gatchalian** (asr-008734)  
+**[08:10:35.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008734)  
 Ngayon,
 
-**[08:10:36.960] Senator Sherwin "Win" T. Gatchalian** (asr-008735)  
+**[08:10:36.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008735)  
 ang,
 
-**[08:10:37.960] Senator Sherwin "Win" T. Gatchalian** (asr-008736)  
+**[08:10:37.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008736)  
 ang first tanong ko,
 
-**[08:10:38.960] Senator Sherwin "Win" T. Gatchalian** (asr-008737)  
+**[08:10:38.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008737)  
 um,
 
-**[08:10:39.960] Senator Sherwin "Win" T. Gatchalian** (asr-008738)  
+**[08:10:39.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008738)  
 I don't have the breakdown now,
 
-**[08:10:40.960] Senator Sherwin "Win" T. Gatchalian** (asr-008739)  
+**[08:10:40.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008739)  
 no,
 
-**[08:10:41.960] Senator Sherwin "Win" T. Gatchalian** (asr-008740)  
+**[08:10:41.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008740)  
 but,
 
-**[08:10:42.960] Senator Sherwin "Win" T. Gatchalian** (asr-008741)  
+**[08:10:42.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008741)  
 um,
 
-**[08:10:43.960] Senator Sherwin "Win" T. Gatchalian** (asr-008742)  
+**[08:10:43.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008742)  
 the confidential funds should only be given to enforcement agencies or legitimate agencies
 
-**[08:10:47.960] Senator Sherwin "Win" T. Gatchalian** (asr-008743)  
+**[08:10:47.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008743)  
 or agencies with legitimate surveillance activities.
 
-**[08:10:50.960] Senator Sherwin "Win" T. Gatchalian** (asr-008744)  
+**[08:10:50.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008744)  
 Hindi porket gusto nila,
 
-**[08:10:52.960] Senator Sherwin "Win" T. Gatchalian** (asr-008745)  
+**[08:10:52.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008745)  
 hingi sila ng,
 
-**[08:10:53.960] Senator Sherwin "Win" T. Gatchalian** (asr-008746)  
+**[08:10:53.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008746)  
 uh,
 
-**[08:10:54.960] Senator Sherwin "Win" T. Gatchalian** (asr-008747)  
+**[08:10:54.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008747)  
 confidential funds.
 
-**[08:10:55.960] Senator Sherwin "Win" T. Gatchalian** (asr-008748)  
+**[08:10:55.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008748)  
 Intelligence,
 
-**[08:10:56.960] Senator Sherwin "Win" T. Gatchalian** (asr-008749)  
+**[08:10:56.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008749)  
 ganun rin.
 
-**[08:10:57.960] Senator Sherwin "Win" T. Gatchalian** (asr-008750)  
+**[08:10:57.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008750)  
 Enforcement agencies with legitimate intelligence gathering activities.
 
-**[08:11:02.960] Senator Sherwin "Win" T. Gatchalian** (asr-008751)  
+**[08:11:02.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008751)  
 So,
 
-**[08:11:03.960] Senator Sherwin "Win" T. Gatchalian** (asr-008752)  
+**[08:11:03.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008752)  
 kayo,
 
-**[08:11:04.960] Senator Sherwin "Win" T. Gatchalian** (asr-008753)  
+**[08:11:04.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008753)  
 being the DBM,
 
-**[08:11:05.960] Senator Sherwin "Win" T. Gatchalian** (asr-008754)  
+**[08:11:05.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008754)  
 did you filter and make sure that those parameters are followed?
 
-**[08:11:08.960] Senator Sherwin "Win" T. Gatchalian** (asr-008755)  
+**[08:11:08.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008755)  
 Uh,
 
 **[08:11:09.960] Acting DBM Secretary Kim Robert C. De Leon** (asr-008756)  
@@ -25702,259 +25702,259 @@ for confidential and intelligence expenses,
 **[08:12:00.960] Acting DBM Secretary Kim Robert C. De Leon** (asr-008788)  
 Your Honor.
 
-**[08:12:01.960] Senator Sherwin "Win" T. Gatchalian** (asr-008789)  
+**[08:12:01.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008789)  
 So,
 
-**[08:12:02.960] Senator Sherwin "Win" T. Gatchalian** (asr-008790)  
+**[08:12:02.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008790)  
 in other words,
 
-**[08:12:03.960] Senator Sherwin "Win" T. Gatchalian** (asr-008791)  
+**[08:12:03.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008791)  
 uh,
 
-**[08:12:04.960] Senator Sherwin "Win" T. Gatchalian** (asr-008792)  
+**[08:12:04.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008792)  
 of course,
 
-**[08:12:05.960] Senator Sherwin "Win" T. Gatchalian** (asr-008793)  
+**[08:12:05.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008793)  
 pagdating na lang,
 
-**[08:12:06.960] Senator Sherwin "Win" T. Gatchalian** (asr-008794)  
+**[08:12:06.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008794)  
 Mr. Chairman,
 
-**[08:12:07.960] Senator Sherwin "Win" T. Gatchalian** (asr-008795)  
+**[08:12:07.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008795)  
 ng mga iba-ibang agencies,
 
-**[08:12:08.960] Senator Sherwin "Win" T. Gatchalian** (asr-008796)  
+**[08:12:08.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008796)  
 well,
 
-**[08:12:09.960] Senator Sherwin "Win" T. Gatchalian** (asr-008797)  
+**[08:12:09.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008797)  
 filter it again,
 
-**[08:12:10.960] Senator Sherwin "Win" T. Gatchalian** (asr-008798)  
+**[08:12:10.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008798)  
 no?
 
-**[08:12:11.960] Senator Sherwin "Win" T. Gatchalian** (asr-008799)  
+**[08:12:11.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008799)  
 But,
 
-**[08:12:12.960] Senator Sherwin "Win" T. Gatchalian** (asr-008800)  
+**[08:12:12.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008800)  
 uh,
 
-**[08:12:13.960] Senator Sherwin "Win" T. Gatchalian** (asr-008801)  
+**[08:12:13.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008801)  
 but,
 
-**[08:12:14.960] Senator Sherwin "Win" T. Gatchalian** (asr-008802)  
+**[08:12:14.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008802)  
 uh,
 
-**[08:12:15.960] Senator Sherwin "Win" T. Gatchalian** (asr-008803)  
+**[08:12:15.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008803)  
 the DBM did its own first round of filtering.
 
-**[08:12:16.960] Senator Sherwin "Win" T. Gatchalian** (asr-008804)  
+**[08:12:16.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008804)  
 So,
 
-**[08:12:17.960] Senator Sherwin "Win" T. Gatchalian** (asr-008805)  
+**[08:12:17.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008805)  
 hindi na natin makikita ito sa mga civilian agencies na wala namang surveillance activities
 
-**[08:12:20.960] Senator Sherwin "Win" T. Gatchalian** (asr-008806)  
+**[08:12:20.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008806)  
 or confidential activities.
 
 **[08:12:21.960] Acting DBM Secretary Kim Robert C. De Leon** (asr-008807)  
 Yes,
 
-**[08:12:22.960] Senator Sherwin "Win" T. Gatchalian** (asr-008808)  
+**[08:12:22.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008808)  
 Your Honor.
 
-**[08:12:23.960] Senator Sherwin "Win" T. Gatchalian** (asr-008809)  
+**[08:12:23.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008809)  
 Alright.
 
-**[08:12:24.960] Senator Sherwin "Win" T. Gatchalian** (asr-008810)  
+**[08:12:24.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008810)  
 Sige.
 
-**[08:12:25.960] Senator Sherwin "Win" T. Gatchalian** (asr-008811)  
+**[08:12:25.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008811)  
 Well,
 
-**[08:12:26.960] Senator Sherwin "Win" T. Gatchalian** (asr-008812)  
+**[08:12:26.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008812)  
 we'll,
 
-**[08:12:27.960] Senator Sherwin "Win" T. Gatchalian** (asr-008813)  
+**[08:12:27.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008813)  
 uh,
 
-**[08:12:28.960] Senator Sherwin "Win" T. Gatchalian** (asr-008814)  
+**[08:12:28.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008814)  
 get to that when we hear the budget of the different agencies.
 
-**[08:12:29.960] Senator Sherwin "Win" T. Gatchalian** (asr-008815)  
+**[08:12:29.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008815)  
 Another one is the LGSF.
 
-**[08:12:30.960] Senator Sherwin "Win" T. Gatchalian** (asr-008816)  
+**[08:12:30.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008816)  
 Um,
 
-**[08:12:31.960] Senator Sherwin "Win" T. Gatchalian** (asr-008817)  
+**[08:12:31.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008817)  
 I,
 
-**[08:12:32.960] Senator Sherwin "Win" T. Gatchalian** (asr-008818)  
+**[08:12:32.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008818)  
 I support,
 
-**[08:12:33.960] Senator Sherwin "Win" T. Gatchalian** (asr-008819)  
+**[08:12:33.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008819)  
 um,
 
-**[08:12:34.960] Senator Sherwin "Win" T. Gatchalian** (asr-008820)  
+**[08:12:34.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008820)  
 supporting local government units.
 
-**[08:12:35.960] Senator Sherwin "Win" T. Gatchalian** (asr-008821)  
+**[08:12:35.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008821)  
 No,
 
-**[08:12:36.960] Senator Sherwin "Win" T. Gatchalian** (asr-008822)  
+**[08:12:36.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008822)  
 I support,
 
-**[08:12:37.960] Senator Sherwin "Win" T. Gatchalian** (asr-008823)  
+**[08:12:37.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008823)  
 um,
 
-**[08:12:38.960] Senator Sherwin "Win" T. Gatchalian** (asr-008824)  
+**[08:12:38.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008824)  
 empowering them because the delivery of basic services is faster if it's in the hands of
 
-**[08:12:43.960] Senator Sherwin "Win" T. Gatchalian** (asr-008825)  
+**[08:12:43.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008825)  
 the local government units.
 
-**[08:12:45.960] Senator Sherwin "Win" T. Gatchalian** (asr-008826)  
+**[08:12:45.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008826)  
 But,
 
-**[08:12:46.960] Senator Sherwin "Win" T. Gatchalian** (asr-008827)  
+**[08:12:46.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008827)  
 uh,
 
-**[08:12:47.960] Senator Sherwin "Win" T. Gatchalian** (asr-008828)  
+**[08:12:47.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008828)  
 historically kasi,
 
-**[08:12:48.960] Senator Sherwin "Win" T. Gatchalian** (asr-008829)  
+**[08:12:48.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008829)  
 um,
 
-**[08:12:49.960] Senator Sherwin "Win" T. Gatchalian** (asr-008830)  
+**[08:12:49.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008830)  
 LGSF is at the,
 
-**[08:12:50.960] Senator Sherwin "Win" T. Gatchalian** (asr-008831)  
+**[08:12:50.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008831)  
 mga around 10 billion level,
 
-**[08:12:53.960] Senator Sherwin "Win" T. Gatchalian** (asr-008832)  
+**[08:12:53.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008832)  
 15 billion level.
 
-**[08:12:55.960] Senator Sherwin "Win" T. Gatchalian** (asr-008833)  
+**[08:12:55.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008833)  
 But last year,
 
-**[08:12:56.960] Senator Sherwin "Win" T. Gatchalian** (asr-008834)  
+**[08:12:56.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008834)  
 uh,
 
-**[08:12:57.960] Senator Sherwin "Win" T. Gatchalian** (asr-008835)  
+**[08:12:57.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008835)  
 we increased it to 57,
 
-**[08:12:58.960] Senator Sherwin "Win" T. Gatchalian** (asr-008836)  
+**[08:12:58.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008836)  
 no?
 
-**[08:12:59.960] Senator Sherwin "Win" T. Gatchalian** (asr-008837)  
+**[08:12:59.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008837)  
 And the reason for that is two fronts,
 
-**[08:13:01.960] Senator Sherwin "Win" T. Gatchalian** (asr-008838)  
+**[08:13:01.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008838)  
 no?
 
-**[08:13:02.960] Senator Sherwin "Win" T. Gatchalian** (asr-008839)  
+**[08:13:02.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008839)  
 Number one is to help our local government units with their priority projects,
 
-**[08:13:06.960] Senator Sherwin "Win" T. Gatchalian** (asr-008840)  
+**[08:13:06.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008840)  
 especially on infra.
 
-**[08:13:07.960] Senator Sherwin "Win" T. Gatchalian** (asr-008841)  
+**[08:13:07.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008841)  
 So,
 
-**[08:13:08.960] Senator Sherwin "Win" T. Gatchalian** (asr-008842)  
+**[08:13:08.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008842)  
 pantay-pantay yung paggagawa ng infra nationwide.
 
-**[08:13:11.960] Senator Sherwin "Win" T. Gatchalian** (asr-008843)  
+**[08:13:11.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008843)  
 But I also saw in this year's,
 
-**[08:13:13.960] Senator Sherwin "Win" T. Gatchalian** (asr-008844)  
+**[08:13:13.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008844)  
 uh,
 
-**[08:13:14.960] Senator Sherwin "Win" T. Gatchalian** (asr-008845)  
+**[08:13:14.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008845)  
 uh,
 
-**[08:13:15.960] Senator Sherwin "Win" T. Gatchalian** (asr-008846)  
+**[08:13:15.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008846)  
 budget,
 
-**[08:13:16.960] Senator Sherwin "Win" T. Gatchalian** (asr-008847)  
+**[08:13:16.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008847)  
 naritain siya at 58,
 
-**[08:13:18.960] Senator Sherwin "Win" T. Gatchalian** (asr-008848)  
+**[08:13:18.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008848)  
 uh,
 
-**[08:13:19.960] Senator Sherwin "Win" T. Gatchalian** (asr-008849)  
+**[08:13:19.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008849)  
 billion pesos,
 
-**[08:13:20.960] Senator Sherwin "Win" T. Gatchalian** (asr-008850)  
+**[08:13:20.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008850)  
 no?
 
-**[08:13:21.960] Senator Sherwin "Win" T. Gatchalian** (asr-008851)  
+**[08:13:21.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008851)  
 So,
 
-**[08:13:22.960] Senator Sherwin "Win" T. Gatchalian** (asr-008852)  
+**[08:13:22.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008852)  
 my question is,
 
-**[08:13:23.960] Senator Sherwin "Win" T. Gatchalian** (asr-008853)  
+**[08:13:23.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008853)  
 meron ba tayong report on how LGSF actually helped countryside development,
 
-**[08:13:29.960] Senator Sherwin "Win" T. Gatchalian** (asr-008854)  
+**[08:13:29.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008854)  
 uh,
 
-**[08:13:30.960] Senator Sherwin "Win" T. Gatchalian** (asr-008855)  
+**[08:13:30.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008855)  
 infrastructure development,
 
-**[08:13:32.960] Senator Sherwin "Win" T. Gatchalian** (asr-008856)  
+**[08:13:32.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008856)  
 um,
 
-**[08:13:33.960] Senator Sherwin "Win" T. Gatchalian** (asr-008857)  
+**[08:13:33.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008857)  
 empowering the local government units to,
 
-**[08:13:36.960] Senator Sherwin "Win" T. Gatchalian** (asr-008858)  
+**[08:13:36.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008858)  
 um,
 
-**[08:13:37.960] Senator Sherwin "Win" T. Gatchalian** (asr-008859)  
+**[08:13:37.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008859)  
 to,
 
-**[08:13:38.960] Senator Sherwin "Win" T. Gatchalian** (asr-008860)  
+**[08:13:38.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008860)  
 um,
 
-**[08:13:39.960] Senator Sherwin "Win" T. Gatchalian** (asr-008861)  
+**[08:13:39.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008861)  
 to,
 
-**[08:13:40.960] Senator Sherwin "Win" T. Gatchalian** (asr-008862)  
+**[08:13:40.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008862)  
 uh,
 
-**[08:13:41.960] Senator Sherwin "Win" T. Gatchalian** (asr-008863)  
+**[08:13:41.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008863)  
 with their,
 
-**[08:13:42.960] Senator Sherwin "Win" T. Gatchalian** (asr-008864)  
+**[08:13:42.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008864)  
 uh,
 
-**[08:13:43.960] Senator Sherwin "Win" T. Gatchalian** (asr-008865)  
+**[08:13:43.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008865)  
 infrastructure projects?
 
-**[08:13:44.960] Senator Sherwin "Win" T. Gatchalian** (asr-008866)  
+**[08:13:44.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008866)  
 Alam ko mahigpit itong LGSF eh.
 
-**[08:13:45.960] Senator Sherwin "Win" T. Gatchalian** (asr-008867)  
+**[08:13:45.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008867)  
 Hindi ito basta-basta nabibigay.
 
-**[08:13:46.960] Senator Sherwin "Win" T. Gatchalian** (asr-008868)  
+**[08:13:46.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008868)  
 Pero ang gusto ko malaman,
 
-**[08:13:47.960] Senator Sherwin "Win" T. Gatchalian** (asr-008869)  
+**[08:13:47.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008869)  
 nakatulong ba ito?
 
-**[08:13:48.960] Senator Sherwin "Win" T. Gatchalian** (asr-008870)  
+**[08:13:48.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008870)  
 Sa may LGUs natin at sa,
 
-**[08:13:51.960] Senator Sherwin "Win" T. Gatchalian** (asr-008871)  
+**[08:13:51.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008871)  
 uh,
 
-**[08:13:52.960] Senator Sherwin "Win" T. Gatchalian** (asr-008872)  
+**[08:13:52.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008872)  
 uh,
 
-**[08:13:53.960] Senator Sherwin "Win" T. Gatchalian** (asr-008873)  
+**[08:13:53.960] Senate President Sherwin "Win" T. Gatchalian** (asr-008873)  
 countryside development natin?
 
 **[08:13:55.960] Acting DBM Secretary Kim Robert C. De Leon** (asr-008874)  
@@ -26071,7 +26071,7 @@ so that we can give our citizens a comprehensive information
 **[08:15:54.360] Acting DBM Secretary Kim Robert C. De Leon** (asr-008911)  
 as to the status of releases and implementation of LGSF-funded projects, Your Honor.
 
-**[08:16:00.180] Senator Sherwin "Win" T. Gatchalian** (asr-008912)  
+**[08:16:00.180] Senate President Sherwin "Win" T. Gatchalian** (asr-008912)  
 The LGSF has two components. One is the RISE, one is the INFRA.
 
 **[08:16:04.980] Acting DBM Secretary Kim Robert C. De Leon** (asr-008913)  
@@ -26080,106 +26080,106 @@ Well, there is a menu, Your Honor, but what we are seeing right now, the trend,
 **[08:16:10.400] Acting DBM Secretary Kim Robert C. De Leon** (asr-008914)  
 is we are giving focus on RISE at one end and the rest of the infrastructure from the menu on the other end.
 
-**[08:16:16.600] Senator Sherwin "Win" T. Gatchalian** (asr-008915)  
+**[08:16:16.600] Senate President Sherwin "Win" T. Gatchalian** (asr-008915)  
 I would assume that the RISE is because of inflation.
 
-**[08:16:19.860] Senator Sherwin "Win" T. Gatchalian** (asr-008916)  
+**[08:16:19.860] Senate President Sherwin "Win" T. Gatchalian** (asr-008916)  
 It's correct, Your Honor.
 
-**[08:16:20.360] Senator Sherwin "Win" T. Gatchalian** (asr-008917)  
+**[08:16:20.360] Senate President Sherwin "Win" T. Gatchalian** (asr-008917)  
 Because of the erosion of purchasing power.
 
 **[08:16:24.360] Acting DBM Secretary Kim Robert C. De Leon** (asr-008918)  
 It's the result of the Middle East crisis as well.
 
-**[08:16:26.080] Senator Sherwin "Win" T. Gatchalian** (asr-008919)  
+**[08:16:26.080] Senate President Sherwin "Win" T. Gatchalian** (asr-008919)  
 Correct. So we're giving RISE so that it's a caution to the reduction of purchasing power.
 
-**[08:16:32.500] Senator Sherwin "Win" T. Gatchalian** (asr-008920)  
+**[08:16:32.500] Senate President Sherwin "Win" T. Gatchalian** (asr-008920)  
 The INFRA is supposed to stimulate construction nationwide.
 
-**[08:16:37.860] Senator Sherwin "Win" T. Gatchalian** (asr-008921)  
+**[08:16:37.860] Senate President Sherwin "Win" T. Gatchalian** (asr-008921)  
 Correct, Your Honor.
 
-**[08:16:38.400] Senator Sherwin "Win" T. Gatchalian** (asr-008922)  
+**[08:16:38.400] Senate President Sherwin "Win" T. Gatchalian** (asr-008922)  
 Correct. So I'm very interested with the INFRA because rinitain yung 57,
 
-**[08:16:44.580] Senator Sherwin "Win" T. Gatchalian** (asr-008923)  
+**[08:16:44.580] Senate President Sherwin "Win" T. Gatchalian** (asr-008923)  
 actually tinaasan pa to 58 in 2027.
 
-**[08:16:47.820] Senator Sherwin "Win" T. Gatchalian** (asr-008924)  
+**[08:16:47.820] Senate President Sherwin "Win" T. Gatchalian** (asr-008924)  
 So yung ibig sabihin, naging maganda yung experience ninyo,
 
-**[08:16:52.740] Senator Sherwin "Win" T. Gatchalian** (asr-008925)  
+**[08:16:52.740] Senate President Sherwin "Win" T. Gatchalian** (asr-008925)  
 naging positive yung...
 
-**[08:16:54.360] Senator Sherwin "Win" T. Gatchalian** (asr-008926)  
+**[08:16:54.360] Senate President Sherwin "Win" T. Gatchalian** (asr-008926)  
 Resulta.
 
-**[08:16:55.320] Senator Sherwin "Win" T. Gatchalian** (asr-008927)  
+**[08:16:55.320] Senate President Sherwin "Win" T. Gatchalian** (asr-008927)  
 And that's what I want to learn.
 
-**[08:16:57.840] Senator Sherwin "Win" T. Gatchalian** (asr-008928)  
+**[08:16:57.840] Senate President Sherwin "Win" T. Gatchalian** (asr-008928)  
 You mentioned the word sustained gain.
 
-**[08:17:00.740] Senator Sherwin "Win" T. Gatchalian** (asr-008929)  
+**[08:17:00.740] Senate President Sherwin "Win" T. Gatchalian** (asr-008929)  
 So I want to see a study that there was a gain.
 
-**[08:17:04.720] Senator Sherwin "Win" T. Gatchalian** (asr-008930)  
+**[08:17:04.720] Senate President Sherwin "Win" T. Gatchalian** (asr-008930)  
 May gain na nangyari sa mga LGUs.
 
-**[08:17:07.400] Senator Sherwin "Win" T. Gatchalian** (asr-008931)  
+**[08:17:07.400] Senate President Sherwin "Win" T. Gatchalian** (asr-008931)  
 And that's why it led you to repeat it again in 2027.
 
-**[08:17:12.740] Senator Sherwin "Win" T. Gatchalian** (asr-008932)  
+**[08:17:12.740] Senate President Sherwin "Win" T. Gatchalian** (asr-008932)  
 Prior to that, maliliit lang yan.
 
-**[08:17:14.160] Senator Sherwin "Win" T. Gatchalian** (asr-008933)  
+**[08:17:14.160] Senate President Sherwin "Win" T. Gatchalian** (asr-008933)  
 10 billion, 14 billion.
 
-**[08:17:16.180] Senator Sherwin "Win" T. Gatchalian** (asr-008934)  
+**[08:17:16.180] Senate President Sherwin "Win" T. Gatchalian** (asr-008934)  
 Pero ngayon, naging quadruple yung amount niya.
 
-**[08:17:18.700] Senator Sherwin "Win" T. Gatchalian** (asr-008935)  
+**[08:17:18.700] Senate President Sherwin "Win" T. Gatchalian** (asr-008935)  
 So you don't have to give it to us today, but just submit to us through you.
 
-**[08:17:24.440] Senator Sherwin "Win" T. Gatchalian** (asr-008936)  
+**[08:17:24.440] Senate President Sherwin "Win" T. Gatchalian** (asr-008936)  
 Or DILG.
 
-**[08:17:26.220] Senator Sherwin "Win" T. Gatchalian** (asr-008937)  
+**[08:17:26.220] Senate President Sherwin "Win" T. Gatchalian** (asr-008937)  
 A study in which the LGSF stimulated growth in the countryside,
 
-**[08:17:33.400] Senator Sherwin "Win" T. Gatchalian** (asr-008938)  
+**[08:17:33.400] Senate President Sherwin "Win" T. Gatchalian** (asr-008938)  
 helped our LGU achieve their developmental goals,
 
-**[08:17:37.420] Senator Sherwin "Win" T. Gatchalian** (asr-008939)  
+**[08:17:37.420] Senate President Sherwin "Win" T. Gatchalian** (asr-008939)  
 kung kaya, reduce poverty, improve educational outcomes,
 
-**[08:17:42.080] Senator Sherwin "Win" T. Gatchalian** (asr-008940)  
+**[08:17:42.080] Senate President Sherwin "Win" T. Gatchalian** (asr-008940)  
 all of these things.
 
-**[08:17:43.480] Senator Sherwin "Win" T. Gatchalian** (asr-008941)  
+**[08:17:43.480] Senate President Sherwin "Win" T. Gatchalian** (asr-008941)  
 We want to learn how LGSF helped our LGUs and their constituents.
 
-**[08:17:48.600] Senator Sherwin "Win" T. Gatchalian** (asr-008942)  
+**[08:17:48.600] Senate President Sherwin "Win" T. Gatchalian** (asr-008942)  
 We will comply, Your Honor.
 
-**[08:17:49.720] Senator Sherwin "Win" T. Gatchalian** (asr-008943)  
+**[08:17:49.720] Senate President Sherwin "Win" T. Gatchalian** (asr-008943)  
 Thank you.
 
-**[08:17:50.660] Senator Sherwin "Win" T. Gatchalian** (asr-008944)  
+**[08:17:50.660] Senate President Sherwin "Win" T. Gatchalian** (asr-008944)  
 And with that, Mr. Chairman, I don't have any more questions.
 
 **[08:17:54.360] Senator Joseph Victor "JV" G. Ejercito** (asr-008945)  
 So, yes, thank you, our Senate President.
 
-**[08:17:59.000] Senator Sherwin "Win" T. Gatchalian** (asr-008946)  
+**[08:17:59.000] Senate President Sherwin "Win" T. Gatchalian** (asr-008946)  
 Actually, nag-overtime kami para hindi na kayo bumalik bukas.
 
-**[08:18:01.880] Senator Sherwin "Win" T. Gatchalian** (asr-008947)  
+**[08:18:01.880] Senate President Sherwin "Win" T. Gatchalian** (asr-008947)  
 Unless gusto nyo bumalik bukas.
 
-**[08:18:04.140] Senator Sherwin "Win" T. Gatchalian** (asr-008948)  
+**[08:18:04.140] Senate President Sherwin "Win" T. Gatchalian** (asr-008948)  
 Si Chairman.
 
 **[08:18:04.860] Senator Joseph Victor "JV" G. Ejercito** (asr-008949)  

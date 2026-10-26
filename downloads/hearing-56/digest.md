@@ -338,7 +338,7 @@ Villanueva joined the call to hold off on higher passport fees and urged coordin
 
 [02:30:37 · asr-002349](https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002349) · [02:31:07 · asr-002351](https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002351) · [02:31:24 · asr-002352](https://tordecilla.github.io/budget-hearings-2026/records/56/#asr-002352)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### What the Action Fund covers
 

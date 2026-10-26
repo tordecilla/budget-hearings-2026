@@ -346,7 +346,7 @@ Tulfo framed the agencies' shared challenge as systems lagging behind technologi
 
 [00:10:28 · asr-000096](https://tordecilla.github.io/budget-hearings-2026/records/65/#asr-000096)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### Online streaming oversight would require a new mandate and platform cooperation
 

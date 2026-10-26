@@ -108,7 +108,7 @@ He noted that the government pays interest each year on delayed court-ordered pa
 
 ### Eight DPWH budget red flags and accountability response
 
-Senator Sherwin "Win" T. Gatchalian credited the Department of Public Works and Highways (DPWH) with adopting more transparent and granular budget descriptions, feasibility studies and certificates of implementability; he said reforms begun with the department the prior year carried into the 2026 General Appropriations Act (GAA). He said he and the committee still found red flags in the proposed 2027 National Expenditure Program (NEP), and would submit a detailed list so DPWH could correct the entries before the committee report. He described these as flags for review and said he was assuming they were not intentional. His team said it manually checked the list item by item with accounting-graduate interns from the Pamantasan ng Lungsod ng Valenzuela, whom he called "Valenzuela Intelligence," rather than relying on artificial intelligence alone.
+Senate President Sherwin "Win" T. Gatchalian credited the Department of Public Works and Highways (DPWH) with adopting more transparent and granular budget descriptions, feasibility studies and certificates of implementability; he said reforms begun with the department the prior year carried into the 2026 General Appropriations Act (GAA). He said he and the committee still found red flags in the proposed 2027 National Expenditure Program (NEP), and would submit a detailed list so DPWH could correct the entries before the committee report. He described these as flags for review and said he was assuming they were not intentional. His team said it manually checked the list item by item with accounting-graduate interns from the Pamantasan ng Lungsod ng Valenzuela, whom he called "Valenzuela Intelligence," rather than relying on artificial intelligence alone.
 
 Gatchalian identified eight categories. Missing station numbers affected 2,570 projects worth about PHP 83 billion. Duplicate project entries accounted for 189 projects worth about PHP 3 billion; examples included similarly titled seawalls, drainage, water-supply and multipurpose-building work, sometimes with spelling differences. Projects reappearing from 2026 to 2027 accounted for 258 projects worth about PHP 20 billion. He said some repeat entries may reflect phasing, but suggested labeling a first phase "construction" and the next "completion" to make the distinction clear.
 
@@ -338,7 +338,7 @@ Ejercito called the flood-control controversy a reason to pause, correct errors,
 
 ### Construction recovery with integrity and accountability
 
-Senator Sherwin "Win" T. Gatchalian credited Secretary Vivencio B. Dizon with instituting reforms, including master planning, feasibility studies, and accountability measures. Citing slower growth and a contraction in public construction, he asked what DPWH had done in the second half of 2026 to speed infrastructure spending. He called for faster construction and implementation without sacrificing integrity, accountability, or fair pricing, and cautioned against a return to overpriced contracts or preferential awards. He urged DPWH to continue its reforms while helping accelerate economic growth.
+Senate President Sherwin "Win" T. Gatchalian credited Secretary Vivencio B. Dizon with instituting reforms, including master planning, feasibility studies, and accountability measures. Citing slower growth and a contraction in public construction, he asked what DPWH had done in the second half of 2026 to speed infrastructure spending. He called for faster construction and implementation without sacrificing integrity, accountability, or fair pricing, and cautioned against a return to overpriced contracts or preferential awards. He urged DPWH to continue its reforms while helping accelerate economic growth.
 
 [00:27:21 · asr-000141](https://tordecilla.github.io/budget-hearings-2026/records/51/#asr-000141) · [00:29:14 · asr-000160](https://tordecilla.github.io/budget-hearings-2026/records/51/#asr-000160)
 
@@ -388,7 +388,7 @@ Marcos said convergence projects had been transferred to their appropriate depar
 
 [02:33:52 · asr-003788](https://tordecilla.github.io/budget-hearings-2026/records/51/#asr-003788) · [02:34:24 · asr-003804](https://tordecilla.github.io/budget-hearings-2026/records/51/#asr-003804)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Oplan Kontra Baha and dredging
 

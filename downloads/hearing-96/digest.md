@@ -42,7 +42,7 @@ For education as a whole, Senator Paolo Benigno "Bam" Aquino IV, chair of Senate
 
 ### Education-sector funding and spending capacity
 
-About PHP 1.3 trillion, or 4.36% of gross domestic product (GDP), was allocated to the education sector in 2026, Senator Sherwin "Win" T. Gatchalian said. He placed this within the 4-6% benchmark he cited and identified the capacity to spend the allocation effectively as a central challenge.
+About PHP 1.3 trillion, or 4.36% of gross domestic product (GDP), was allocated to the education sector in 2026, Senate President Sherwin "Win" T. Gatchalian said. He placed this within the 4-6% benchmark he cited and identified the capacity to spend the allocation effectively as a central challenge.
 
 [00:45:31 · asr-000446](https://tordecilla.github.io/budget-hearings-2026/records/96/#asr-000446) · [00:45:37 · asr-000447](https://tordecilla.github.io/budget-hearings-2026/records/96/#asr-000447) · [00:45:42 · asr-000448](https://tordecilla.github.io/budget-hearings-2026/records/96/#asr-000448) · [00:45:55 · asr-000450](https://tordecilla.github.io/budget-hearings-2026/records/96/#asr-000450)
 
@@ -432,7 +432,7 @@ Ejercito framed a return to basics around safe classrooms, sufficient teachers, 
 
 [00:41:17 · asr-000388](https://tordecilla.github.io/budget-hearings-2026/records/96/#asr-000388) · [00:42:05 · asr-000398](https://tordecilla.github.io/budget-hearings-2026/records/96/#asr-000398) · [00:42:26 · asr-000402](https://tordecilla.github.io/budget-hearings-2026/records/96/#asr-000402) · [00:44:37 · asr-000431](https://tordecilla.github.io/budget-hearings-2026/records/96/#asr-000431)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Sustaining learning gains
 
@@ -504,7 +504,7 @@ Aquino said the committee would collate suggested budget amendments and changes 
 
 [03:53:21 · asr-004717](https://tordecilla.github.io/budget-hearings-2026/records/96/#asr-004717) · [03:53:24 · asr-004719](https://tordecilla.github.io/budget-hearings-2026/records/96/#asr-004719) · [03:54:01 · asr-004735](https://tordecilla.github.io/budget-hearings-2026/records/96/#asr-004735)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### Classroom access and digital readiness
 

@@ -4,13 +4,13 @@ Source: https://www.youtube.com/watch?v=XW3lDBOLKsI
 
 AI-assisted working draft. AI can make errors. Always check quotations, names, rulings, and other consequential details against the official video.
 
-**[01:07:18.760] Senator Erwin Tulfo** (asr-000143)  
+**[01:07:18.760] Senator Erwin T. Tulfo** (asr-000143)  
 I apologize for the delay. I know we should have started at around three, but we had to go to the session hall because I had to sponsor several measures before the floor.
 
-**[01:07:30.000] Senator Erwin Tulfo** (asr-000144)  
+**[01:07:30.000] Senator Erwin T. Tulfo** (asr-000144)  
 So I do apologize and thank you for your patience and understanding. Well, let us now begin. Magandang hapon po sa ating lahat. The budget briefing for fiscal year 2007 proposed budgets of the Commission on Filipinos Overseas and the Philippine Reclamation Authority is hereby called to order. We will be joined by several of our colleagues later on.
 
-**[01:08:00.000] Senator Erwin Tulfo** (asr-000145)  
+**[01:08:00.000] Senator Erwin T. Tulfo** (asr-000145)  
 I would also like to thank and acknowledge the presence of CFO Secretary Dante Ang and PRA Chairman Alexander Lopez. At this juncture, may I ask the Committee Secretary to acknowledge our other resource persons in today's budget briefing?
 
 **[01:08:23.900] Committee Secretary** (asr-000145-split-2)  
@@ -40,79 +40,79 @@ And also from the Department of Budget and Management for Philippine Reclamation
 **[01:10:19.160] Committee Secretary** (asr-000179)  
 I think that is all, Mr. Chair.
 
-**[01:10:21.060] Senator Erwin Tulfo** (asr-000180)  
+**[01:10:21.060] Senator Erwin T. Tulfo** (asr-000180)  
 Thank you, Committee Secretary. I would like to acknowledge the presence of our Minority Leader, Senator Alan Peter Cayetano. Thank you, sir, for joining us this afternoon.
 
-**[01:10:33.820] Senator Erwin Tulfo** (asr-000181)  
+**[01:10:33.820] Senator Erwin T. Tulfo** (asr-000181)  
 Anyway, for today, the Finance Subcommittee H will deliberate on the fiscal year 2027 proposed budgets of the Commission on Filipinos Overseas and the Philippine Reclamation Authority.
 
-**[01:10:47.760] Senator Erwin Tulfo** (asr-000182)  
+**[01:10:47.760] Senator Erwin T. Tulfo** (asr-000182)  
 As we deliberate on the 2027 budget,
 
-**[01:10:51.060] Senator Erwin Tulfo** (asr-000183)  
+**[01:10:51.060] Senator Erwin T. Tulfo** (asr-000183)  
 let us remember that every peso appropriated is a peso entrusted to us by the people.
 
-**[01:10:58.040] Senator Erwin Tulfo** (asr-000184)  
+**[01:10:58.040] Senator Erwin T. Tulfo** (asr-000184)  
 Kaya dapat malinaw po saan napupunta ang ating pondo, ano ang resulta, at sino ang tunay na makikinabang.
 
-**[01:11:05.320] Senator Erwin Tulfo** (asr-000185)  
+**[01:11:05.320] Senator Erwin T. Tulfo** (asr-000185)  
 For the CFO, our starting point is equally clear.
 
-**[01:11:08.760] Senator Erwin Tulfo** (asr-000186)  
+**[01:11:08.760] Senator Erwin T. Tulfo** (asr-000186)  
 Hindi lamang remittance ang ambag ng ating mga kababayan sa abroad.
 
-**[01:11:12.380] Senator Erwin Tulfo** (asr-000187)  
+**[01:11:12.380] Senator Erwin T. Tulfo** (asr-000187)  
 They bring skills, investments, ideas, networks, and most importantly, a continuing connection to the Philippines.
 
-**[01:11:20.240] Senator Erwin Tulfo** (asr-000188)  
+**[01:11:20.240] Senator Erwin T. Tulfo** (asr-000188)  
 For the PRA,
 
-**[01:11:21.060] Senator Erwin Tulfo** (asr-000189)  
+**[01:11:21.060] Senator Erwin T. Tulfo** (asr-000189)  
 we will look closely at the balance between development and environmental stewardship.
 
-**[01:11:27.300] Senator Erwin Tulfo** (asr-000190)  
+**[01:11:27.300] Senator Erwin T. Tulfo** (asr-000190)  
 Reclamation and the development of public lands must be anchored on sound planning,
 
-**[01:11:33.500] Senator Erwin Tulfo** (asr-000191)  
+**[01:11:33.500] Senator Erwin T. Tulfo** (asr-000191)  
 economic value, climate resilience, and the long-term interests of Filipino people.
 
-**[01:11:39.180] Senator Erwin Tulfo** (asr-000192)  
+**[01:11:39.180] Senator Erwin T. Tulfo** (asr-000192)  
 Hindi po sapat na may proyekto.
 
-**[01:11:41.280] Senator Erwin Tulfo** (asr-000193)  
+**[01:11:41.280] Senator Erwin T. Tulfo** (asr-000193)  
 Dapat malinaw kung may tunay na pakinabang sa publiko.
 
-**[01:11:50.180] Senator Erwin Tulfo** (asr-000194)  
+**[01:11:50.180] Senator Erwin T. Tulfo** (asr-000194)  
 At the end of this deliberation,
 
-**[01:11:51.060] Senator Erwin Tulfo** (asr-000195)  
+**[01:11:51.060] Senator Erwin T. Tulfo** (asr-000195)  
 our standards should be clear:
 
-**[01:11:53.060] Senator Erwin Tulfo** (asr-000196)  
+**[01:11:53.060] Senator Erwin T. Tulfo** (asr-000196)  
 Translate into public value, measurable results, and meaningful services to the Filipino people.
 
-**[01:11:59.000] Senator Erwin Tulfo** (asr-000197)  
+**[01:11:59.000] Senator Erwin T. Tulfo** (asr-000197)  
 This is how we uphold fiscal responsibility and more importantly, maintain the trust that our people place in government.
 
-**[01:12:06.500] Senator Erwin Tulfo** (asr-000198)  
+**[01:12:06.500] Senator Erwin T. Tulfo** (asr-000198)  
 Let this hearing therefore be candid, constructive, and focused on the outcomes.
 
-**[01:12:12.300] Senator Erwin Tulfo** (asr-000199)  
+**[01:12:12.300] Senator Erwin T. Tulfo** (asr-000199)  
 Ang budget ay hindi lamang po numero sa papel.
 
-**[01:12:15.140] Senator Erwin Tulfo** (asr-000200)  
+**[01:12:15.140] Senator Erwin T. Tulfo** (asr-000200)  
 Ito ay salamin ng ating mga prioridad at pananagutan sa mamamayan.
 
-**[01:12:19.380] Senator Erwin Tulfo** (asr-000201)  
+**[01:12:19.380] Senator Erwin T. Tulfo** (asr-000201)  
 Thank you.
 
-**[01:12:21.060] Senator Erwin Tulfo** (asr-000202)  
+**[01:12:21.060] Senator Erwin T. Tulfo** (asr-000202)  
 Let's proceed.
 
-**[01:12:21.880] Senator Erwin Tulfo** (asr-000203)  
+**[01:12:21.880] Senator Erwin T. Tulfo** (asr-000203)  
 But before we do that,
 
-**[01:12:23.400] Senator Erwin Tulfo** (asr-000204)  
+**[01:12:23.400] Senator Erwin T. Tulfo** (asr-000204)  
 I would like to ask our minority leader, Senator Cayetano, if he has any opening statement.
 
 **[01:12:30.440] Senator Alan Peter S. Cayetano** (asr-000205)  
@@ -133,16 +133,16 @@ And in that spirit, after the chairman, may I ask one or two questions?
 **[01:12:51.060] Senator Alan Peter S. Cayetano** (asr-000210)  
 To the Honourable Secretary Dante, about Filipinos overseas.
 
-**[01:12:56.880] Senator Erwin Tulfo** (asr-000211)  
+**[01:12:56.880] Senator Erwin T. Tulfo** (asr-000211)  
 Thank you, Mayor.
 
-**[01:12:59.720] Senator Erwin Tulfo** (asr-000212)  
+**[01:12:59.720] Senator Erwin T. Tulfo** (asr-000212)  
 With that, let us proceed with our budget hearing.
 
-**[01:13:04.840] Senator Erwin Tulfo** (asr-000213)  
+**[01:13:04.840] Senator Erwin T. Tulfo** (asr-000213)  
 We will open the floor now for the Commission on Filipinos Overseas, if they have any or if they want to make any presentation.
 
-**[01:13:13.740] Senator Erwin Tulfo** (asr-000214)  
+**[01:13:13.740] Senator Erwin T. Tulfo** (asr-000214)  
 Secretary Ang, go ahead.
 
 **[01:13:16.980] CFO Chairperson Dante Francis M. Ang II** (asr-000215)  
@@ -154,7 +154,7 @@ With your permission.
 **[01:13:21.060] CFO Chairperson Dante Francis M. Ang II** (asr-000217)  
 Sirs, I have a two-page opening statement and a five-minute video, if that would be okay.
 
-**[01:13:28.300] Senator Erwin Tulfo** (asr-000218)  
+**[01:13:28.300] Senator Erwin T. Tulfo** (asr-000218)  
 Go ahead.
 
 **[01:13:28.940] CFO Chairperson Dante Francis M. Ang II** (asr-000219)  
@@ -532,13 +532,13 @@ Thank you, Mr. Chair.
 **[01:25:01.060] CFO Chairperson Dante Francis M. Ang II** (asr-000345)  
 We can take questions now.
 
-**[01:25:03.060] Senator Erwin Tulfo** (asr-000346)  
+**[01:25:03.060] Senator Erwin T. Tulfo** (asr-000346)  
 Thank you, Secretary.
 
-**[01:25:05.060] Senator Erwin Tulfo** (asr-000347)  
+**[01:25:05.060] Senator Erwin T. Tulfo** (asr-000347)  
 Let me turn over the mic now to our Minority Leader,
 
-**[01:25:08.060] Senator Erwin Tulfo** (asr-000348)  
+**[01:25:08.060] Senator Erwin T. Tulfo** (asr-000348)  
 Senator Allan Cayetano.
 
 **[01:25:10.060] Senator Alan Peter S. Cayetano** (asr-000349)  
@@ -1690,28 +1690,28 @@ Philippines, retire in the Philippines. Thank you
 **[01:38:43.800] Senator Alan Peter S. Cayetano** (asr-000731)  
 Mr. Chairman.
 
-**[01:38:45.800] Senator Erwin Tulfo** (asr-000732)  
+**[01:38:45.800] Senator Erwin T. Tulfo** (asr-000732)  
 Thank you, Majority...Minority
 
-**[01:38:47.800] Senator Erwin Tulfo** (asr-000733)  
+**[01:38:47.800] Senator Erwin T. Tulfo** (asr-000733)  
 Leader. Isang question
 
-**[01:38:49.800] Senator Erwin Tulfo** (asr-000734)  
+**[01:38:49.800] Senator Erwin T. Tulfo** (asr-000734)  
 lang po, Secretary. I wanted to question
 
-**[01:38:51.800] Senator Erwin Tulfo** (asr-000735)  
+**[01:38:51.800] Senator Erwin T. Tulfo** (asr-000735)  
 how many have you
 
-**[01:38:53.800] Senator Erwin Tulfo** (asr-000736)  
+**[01:38:53.800] Senator Erwin T. Tulfo** (asr-000736)  
 served the CFO? How many
 
-**[01:38:55.800] Senator Erwin Tulfo** (asr-000737)  
+**[01:38:55.800] Senator Erwin T. Tulfo** (asr-000737)  
 Filipinos or
 
-**[01:38:57.800] Senator Erwin Tulfo** (asr-000738)  
+**[01:38:57.800] Senator Erwin T. Tulfo** (asr-000738)  
 permanent residents have you served
 
-**[01:38:59.800] Senator Erwin Tulfo** (asr-000739)  
+**[01:38:59.800] Senator Erwin T. Tulfo** (asr-000739)  
 last year?
 
 **[01:39:01.800] CFO Chairperson Dante Francis M. Ang II** (asr-000740)  
@@ -1813,52 +1813,52 @@ pabalik, but the ones outgoing po,
 **[01:40:05.800] CFO Chairperson Dante Francis M. Ang II** (asr-000772)  
 about 70,000 po.
 
-**[01:40:07.800] Senator Erwin Tulfo** (asr-000773)  
+**[01:40:07.800] Senator Erwin T. Tulfo** (asr-000773)  
 Okay, thank you.
 
 **[01:40:09.800] CFO Chairperson Dante Francis M. Ang II** (asr-000774)  
 Thank you.
 
-**[01:40:11.800] Senator Erwin Tulfo** (asr-000775)  
+**[01:40:11.800] Senator Erwin T. Tulfo** (asr-000775)  
 Do you have any more questions? You're good.
 
-**[01:40:13.800] Senator Erwin Tulfo** (asr-000776)  
+**[01:40:13.800] Senator Erwin T. Tulfo** (asr-000776)  
 Well, anyway, there being no
 
-**[01:40:15.800] Senator Erwin Tulfo** (asr-000777)  
+**[01:40:15.800] Senator Erwin T. Tulfo** (asr-000777)  
 other questions, the fiscal
 
-**[01:40:17.800] Senator Erwin Tulfo** (asr-000778)  
+**[01:40:17.800] Senator Erwin T. Tulfo** (asr-000778)  
 year 2027 proposed budget
 
-**[01:40:19.800] Senator Erwin Tulfo** (asr-000779)  
+**[01:40:19.800] Senator Erwin T. Tulfo** (asr-000779)  
 of the Commission on Filipino Overseas
 
-**[01:40:21.800] Senator Erwin Tulfo** (asr-000780)  
+**[01:40:21.800] Senator Erwin T. Tulfo** (asr-000780)  
 is now being submitted for
 
-**[01:40:23.800] Senator Erwin Tulfo** (asr-000781)  
+**[01:40:23.800] Senator Erwin T. Tulfo** (asr-000781)  
 consideration, subject to
 
-**[01:40:25.800] Senator Erwin Tulfo** (asr-000782)  
+**[01:40:25.800] Senator Erwin T. Tulfo** (asr-000782)  
 the discussions and submission of
 
-**[01:40:27.800] Senator Erwin Tulfo** (asr-000783)  
+**[01:40:27.800] Senator Erwin T. Tulfo** (asr-000783)  
 requested documents. Thank you,
 
-**[01:40:29.800] Senator Erwin Tulfo** (asr-000784)  
+**[01:40:29.800] Senator Erwin T. Tulfo** (asr-000784)  
 Secretary. And the CFO delegation
 
-**[01:40:31.800] Senator Erwin Tulfo** (asr-000785)  
+**[01:40:31.800] Senator Erwin T. Tulfo** (asr-000785)  
 is now permitted to leave the venue.
 
-**[01:40:33.800] Senator Erwin Tulfo** (asr-000786)  
+**[01:40:33.800] Senator Erwin T. Tulfo** (asr-000786)  
 This budget briefing of
 
-**[01:40:35.800] Senator Erwin Tulfo** (asr-000787)  
+**[01:40:35.800] Senator Erwin T. Tulfo** (asr-000787)  
 the CFO is now over. Thank you.
 
-**[01:40:39.800] Senator Erwin Tulfo** (asr-000788)  
+**[01:40:39.800] Senator Erwin T. Tulfo** (asr-000788)  
 Budget briefing is suspended.
 
 **[01:46:30.000] PRA Chair Alex Lopez** (asr-000801)  
@@ -2074,19 +2074,19 @@ in Singapore Expo alone in Thailand.
 **[01:58:51.720] PRA Chair Alex Lopez** (asr-000871)  
 We are confident we can do this.
 
-**[01:58:54.400] Senator Erwin Tulfo** (asr-000872)  
+**[01:58:54.400] Senator Erwin T. Tulfo** (asr-000872)  
 One quick question, Mr. Chairman.
 
-**[01:58:57.260] Senator Erwin Tulfo** (asr-000873)  
+**[01:58:57.260] Senator Erwin T. Tulfo** (asr-000873)  
 Ano po ang specific competitive advantage ng PIEC natin na wala sa existing convention and exhibition facilities
 
-**[01:59:08.680] Senator Erwin Tulfo** (asr-000874)  
+**[01:59:08.680] Senator Erwin T. Tulfo** (asr-000874)  
 sa isang bangsa?
 
-**[01:59:11.540] Senator Erwin Tulfo** (asr-000875)  
+**[01:59:11.540] Senator Erwin T. Tulfo** (asr-000875)  
 At ano po magiging dahilan para piliin ng international organizers ang PIEC natin
 
-**[01:59:18.080] Senator Erwin Tulfo** (asr-000876)  
+**[01:59:18.080] Senator Erwin T. Tulfo** (asr-000876)  
 kaysa sa ibang venue sa Southeast Asia, Singapore, Thailand?
 
 **[01:59:24.400] PRA Chair Alex Lopez** (asr-000877)  
@@ -2122,13 +2122,13 @@ In fact, we have already had...
 **[02:00:00.000] PRA Chair Alex Lopez** (asr-000887)  
 Some inquiries on this, no?
 
-**[02:00:01.580] Senator Erwin Tulfo** (asr-000888)  
+**[02:00:01.580] Senator Erwin T. Tulfo** (asr-000888)  
 Patanong ko lang din po, Mr. Chairman.
 
-**[02:00:04.080] Senator Erwin Tulfo** (asr-000889)  
+**[02:00:04.080] Senator Erwin T. Tulfo** (asr-000889)  
 May projected number na po ba ang international conventions, exhibitions, events na inaasahan po natin na dadalhin po ng PIEC kada taon?
 
-**[02:00:15.820] Senator Erwin Tulfo** (asr-000890)  
+**[02:00:15.820] Senator Erwin T. Tulfo** (asr-000890)  
 Ano po ang assumption at saan nyo po nakuha itong projections na ito?
 
 **[02:00:19.460] PRA Chair Alex Lopez** (asr-000891)  
@@ -2206,49 +2206,49 @@ And we are signing with the cultural center dahil kulang daw sila ng exhibition 
 **[02:03:03.080] PRA Chair Alex Lopez** (asr-000915)  
 And with the PIEC, PICC, another MOA po para po makapag-exhibit ang cultural center.
 
-**[02:03:14.160] Senator Erwin Tulfo** (asr-000916)  
+**[02:03:14.160] Senator Erwin T. Tulfo** (asr-000916)  
 Mr. Chairman, let me cut you there.
 
-**[02:03:18.040] Senator Erwin Tulfo** (asr-000917)  
+**[02:03:18.040] Senator Erwin T. Tulfo** (asr-000917)  
 Dito lang po ba nakasentro sa inyong presentation sa PIEC na project, ang inyong presentation this afternoon.
 
-**[02:03:25.300] Senator Erwin Tulfo** (asr-000918)  
+**[02:03:25.300] Senator Erwin T. Tulfo** (asr-000918)  
 Otherwise, if we will just be...
 
-**[02:03:27.200] Senator Erwin Tulfo** (asr-000919)  
+**[02:03:27.200] Senator Erwin T. Tulfo** (asr-000919)  
 We will be centered on spend most of our time explaining PIEC.
 
-**[02:03:32.040] Senator Erwin Tulfo** (asr-000920)  
+**[02:03:32.040] Senator Erwin T. Tulfo** (asr-000920)  
 Ako pa tatanungin nyo, buhay benta po ito.
 
-**[02:03:34.740] Senator Erwin Tulfo** (asr-000921)  
+**[02:03:34.740] Senator Erwin T. Tulfo** (asr-000921)  
 I mean, mabenta po sa akin.
 
-**[02:03:36.480] Senator Erwin Tulfo** (asr-000922)  
+**[02:03:36.480] Senator Erwin T. Tulfo** (asr-000922)  
 Kung tatanungin nyo, okay po ito.
 
-**[02:03:38.800] Senator Erwin Tulfo** (asr-000923)  
+**[02:03:38.800] Senator Erwin T. Tulfo** (asr-000923)  
 But I have a few questions and of course, our minority leader would also ask questions.
 
 **[02:03:43.360] PRA Chair Alex Lopez** (asr-000924)  
 We will be happy to answer.
 
-**[02:03:45.080] Senator Erwin Tulfo** (asr-000925)  
+**[02:03:45.080] Senator Erwin T. Tulfo** (asr-000925)  
 Mabilisan lang ito. I hope pa, hindi na po tayo tatagal sa PIEC.
 
-**[02:03:48.640] Senator Erwin Tulfo** (asr-000926)  
+**[02:03:48.640] Senator Erwin T. Tulfo** (asr-000926)  
 Maganda po yan.
 
-**[02:03:49.460] Senator Erwin Tulfo** (asr-000927)  
+**[02:03:49.460] Senator Erwin T. Tulfo** (asr-000927)  
 Yung kanina po nag-usap tayo, pinipresent yun sa atin.
 
 **[02:03:53.200] PRA Chair Alex Lopez** (asr-000928)  
 It's a pride of our country, sir.
 
-**[02:03:55.400] Senator Erwin Tulfo** (asr-000929)  
+**[02:03:55.400] Senator Erwin T. Tulfo** (asr-000929)  
 Tanong ko lang po.
 
-**[02:03:57.200] Senator Erwin Tulfo** (asr-000930)  
+**[02:03:57.200] Senator Erwin T. Tulfo** (asr-000930)  
 Is it expected po ba na self-sustaining itong PIEC o kailangan pa rin natin na annual government subsidy?
 
 **[02:04:03.360] PRA Chair Alex Lopez** (asr-000931)  
@@ -2266,10 +2266,10 @@ Not the personnel.
 **[02:04:26.800] PRA Chair Alex Lopez** (asr-000935)  
 Of course, kailangan po natin mga electricity dyan, water, personnel, pasweldo.
 
-**[02:04:36.100] Senator Erwin Tulfo** (asr-000936)  
+**[02:04:36.100] Senator Erwin T. Tulfo** (asr-000936)  
 Ilan tao po ang kakailanganin nyo dyan?
 
-**[02:04:39.240] Senator Erwin Tulfo** (asr-000937)  
+**[02:04:39.240] Senator Erwin T. Tulfo** (asr-000937)  
 Dapat po lahat ito, naka-breakdown.
 
 **[02:04:41.000] PRA Chair Alex Lopez** (asr-000938)  
@@ -2323,10 +2323,10 @@ At nauna po, with this vision, we commend him for...
 **[02:05:56.800] PRA Chair Alex Lopez** (asr-000954)  
 for coming up with this project and we are supporting it po.
 
-**[02:06:01.020] Senator Erwin Tulfo** (asr-000955)  
+**[02:06:01.020] Senator Erwin T. Tulfo** (asr-000955)  
 Alright, Mr. Chairman. With the indulgence of our minority leader, okay na po sa inyo.
 
-**[02:06:05.580] Senator Erwin Tulfo** (asr-000956)  
+**[02:06:05.580] Senator Erwin T. Tulfo** (asr-000956)  
 Para sa akin eh. Okay na po itong presentation ng PIEC or you have questions pa about PIEC?
 
 **[02:06:11.100] PRA Chair Alex Lopez** (asr-000957)  
@@ -2335,7 +2335,7 @@ Para sa akin eh. Okay na po itong presentation ng PIEC or you have questions pa 
 **[02:06:13.220] PRA Chair Alex Lopez** (asr-000958)  
 Joke. Joke pa, boss.
 
-**[02:06:16.000] Senator Erwin Tulfo** (asr-000959)  
+**[02:06:16.000] Senator Erwin T. Tulfo** (asr-000959)  
 Go ahead po. Go ahead po, minority leader.
 
 **[02:06:18.120] Senator Alan Peter S. Cayetano** (asr-000960)  
@@ -2485,55 +2485,55 @@ So, last two questions.
 **[02:08:38.680] Senator Alan Peter S. Cayetano** (asr-001008)  
 May...
 
-**[02:08:39.360] Senator Erwin Tulfo** (asr-001009)  
+**[02:08:39.360] Senator Erwin T. Tulfo** (asr-001009)  
 Just to support your question kanina,
 
-**[02:08:43.080] Senator Erwin Tulfo** (asr-001010)  
+**[02:08:43.080] Senator Erwin T. Tulfo** (asr-001010)  
 Senator Caetano.
 
-**[02:08:45.680] Senator Erwin Tulfo** (asr-001011)  
+**[02:08:45.680] Senator Erwin T. Tulfo** (asr-001011)  
 Yung sinasabing nyo po na 27 billion,
 
-**[02:08:48.180] Senator Erwin Tulfo** (asr-001012)  
+**[02:08:48.180] Senator Erwin T. Tulfo** (asr-001012)  
 for your information, minority leader,
 
-**[02:08:50.860] Senator Erwin Tulfo** (asr-001013)  
+**[02:08:50.860] Senator Erwin T. Tulfo** (asr-001013)  
 actually, 6 billion po ang inilabas
 
-**[02:08:53.300] Senator Erwin Tulfo** (asr-001014)  
+**[02:08:53.300] Senator Erwin T. Tulfo** (asr-001014)  
 sa unprogrammed appropriations po ng 2024 GAA,
 
-**[02:08:54.780] Senator Erwin Tulfo** (asr-001015)  
+**[02:08:54.780] Senator Erwin T. Tulfo** (asr-001015)  
 some appropriations po ng 2024, ga-a.
 
-**[02:08:57.920] Senator Erwin Tulfo** (asr-001016)  
+**[02:08:57.920] Senator Erwin T. Tulfo** (asr-001016)  
 Tapos, nagdagdaga ng 6 billion naman,
 
-**[02:09:00.520] Senator Erwin Tulfo** (asr-001017)  
+**[02:09:00.520] Senator Erwin T. Tulfo** (asr-001017)  
 contingency fund ng 2026, ga-a.
 
-**[02:09:03.820] Senator Erwin Tulfo** (asr-001018)  
+**[02:09:03.820] Senator Erwin T. Tulfo** (asr-001018)  
 So, total na po,
 
-**[02:09:04.920] Senator Erwin Tulfo** (asr-001019)  
+**[02:09:04.920] Senator Erwin T. Tulfo** (asr-001019)  
 tapos sumingi po kayo nga ng 5 billion for 2027.
 
-**[02:09:08.180] Senator Erwin Tulfo** (asr-001020)  
+**[02:09:08.180] Senator Erwin T. Tulfo** (asr-001020)  
 So, that will be 17 billion.
 
-**[02:09:10.360] Senator Erwin Tulfo** (asr-001021)  
+**[02:09:10.360] Senator Erwin T. Tulfo** (asr-001021)  
 Ang estimate po, 27.
 
-**[02:09:12.280] Senator Erwin Tulfo** (asr-001022)  
+**[02:09:12.280] Senator Erwin T. Tulfo** (asr-001022)  
 So, kulang pa po ng 10 billion.
 
-**[02:09:14.320] Senator Erwin Tulfo** (asr-001023)  
+**[02:09:14.320] Senator Erwin T. Tulfo** (asr-001023)  
 Is that what you're saying?
 
-**[02:09:15.540] Senator Erwin Tulfo** (asr-001024)  
+**[02:09:15.540] Senator Erwin T. Tulfo** (asr-001024)  
 Nasaan na po tayo ngayon sa construction?
 
-**[02:09:18.060] Senator Erwin Tulfo** (asr-001025)  
+**[02:09:18.060] Senator Erwin T. Tulfo** (asr-001025)  
 Ilang percent?
 
 **[02:09:18.820] Senator Alan Peter S. Cayetano** (asr-001026)  
@@ -2758,7 +2758,7 @@ So after that, Mr. President,
 **[02:11:49.000] Senator Alan Peter S. Cayetano** (asr-001099)  
 I have some questions for the GM.
 
-**[02:11:51.460] Senator Erwin Tulfo** (asr-001100)  
+**[02:11:51.460] Senator Erwin T. Tulfo** (asr-001100)  
 Go ahead.
 
 **[02:11:52.640] Senator Alan Peter S. Cayetano** (asr-001101)  
@@ -3568,7 +3568,7 @@ Yes, Sir.
 **[02:28:46.000] Senator Alan Peter S. Cayetano** (asr-001375)  
 Sir, with your permission, Mr. Chairman. This is a one-minute video. Can you show the one-minute video?
 
-**[02:29:02.000] Senator Erwin Tulfo** (asr-001376)  
+**[02:29:02.000] Senator Erwin T. Tulfo** (asr-001376)  
 Yes?
 
 **[02:29:06.000] Senator Alan Peter S. Cayetano** (asr-001377)  
@@ -3730,64 +3730,64 @@ More or less lang, di ba?
 **[02:33:04.320] Senator Alan Peter S. Cayetano** (asr-001429)  
 Oh, so meron po ba akong pananakot sa PRA?
 
-**[02:33:08.300] Senator Erwin Tulfo** (asr-001430)  
+**[02:33:08.300] Senator Erwin T. Tulfo** (asr-001430)  
 With the indulgence of the minority leader.
 
-**[02:33:11.160] Senator Erwin Tulfo** (asr-001431)  
+**[02:33:11.160] Senator Erwin T. Tulfo** (asr-001431)  
 I just have two quick questions.
 
 **[02:33:12.940] Senator Alan Peter S. Cayetano** (asr-001432)  
 Oh, go ahead.
 
-**[02:33:13.300] Senator Erwin Tulfo** (asr-001433)  
+**[02:33:13.300] Senator Erwin T. Tulfo** (asr-001433)  
 Very quick lang.
 
-**[02:33:14.900] Senator Erwin Tulfo** (asr-001434)  
+**[02:33:14.900] Senator Erwin T. Tulfo** (asr-001434)  
 I would like to address this to the PRA.
 
-**[02:33:17.180] Senator Erwin Tulfo** (asr-001435)  
+**[02:33:17.180] Senator Erwin T. Tulfo** (asr-001435)  
 When is the approval of PRA needed for reclamation project?
 
-**[02:33:22.060] Senator Erwin Tulfo** (asr-001436)  
+**[02:33:22.060] Senator Erwin T. Tulfo** (asr-001436)  
 Can any one of you answer that?
 
-**[02:33:25.000] Senator Erwin Tulfo** (asr-001437)  
+**[02:33:25.000] Senator Erwin T. Tulfo** (asr-001437)  
 Attorney literal.
 
-**[02:33:26.060] Senator Erwin Tulfo** (asr-001438)  
+**[02:33:26.060] Senator Erwin T. Tulfo** (asr-001438)  
 Kailan ika nga ang kailangan ng approval ng PRA para sa isang reclamation project?
 
-**[02:33:33.760] Senator Erwin Tulfo** (asr-001439)  
+**[02:33:33.760] Senator Erwin T. Tulfo** (asr-001439)  
 When?
 
 **[02:33:34.680] PRA Assistant General Manager Joseph John M. Literal** (asr-001440)  
 Sir, under our present, they need approval in all types of reclamations for whatever purpose, Mr.
 
-**[02:33:43.500] Senator Erwin Tulfo** (asr-001441)  
+**[02:33:43.500] Senator Erwin T. Tulfo** (asr-001441)  
 Okay.
 
-**[02:33:44.640] Senator Erwin Tulfo** (asr-001442)  
+**[02:33:44.640] Senator Erwin T. Tulfo** (asr-001442)  
 So, actually, lahat kailangan.
 
-**[02:33:46.820] Senator Erwin Tulfo** (asr-001443)  
+**[02:33:46.820] Senator Erwin T. Tulfo** (asr-001443)  
 Hindi kailangan na yung approval ng DA, hindi kailangan.
 
-**[02:33:50.620] Senator Erwin Tulfo** (asr-001444)  
+**[02:33:50.620] Senator Erwin T. Tulfo** (asr-001444)  
 Kailangan lahat.
 
-**[02:33:52.060] Senator Erwin Tulfo** (asr-001445)  
+**[02:33:52.060] Senator Erwin T. Tulfo** (asr-001445)  
 Pag reclamation.
 
 **[02:33:53.020] PRA Assistant General Manager Joseph John M. Literal** (asr-001446)  
 Yes, sir.
 
-**[02:33:53.480] Senator Erwin Tulfo** (asr-001447)  
+**[02:33:53.480] Senator Erwin T. Tulfo** (asr-001447)  
 Alright.
 
-**[02:33:54.000] Senator Erwin Tulfo** (asr-001448)  
+**[02:33:54.000] Senator Erwin T. Tulfo** (asr-001448)  
 One last quick question.
 
-**[02:33:56.320] Senator Erwin Tulfo** (asr-001449)  
+**[02:33:56.320] Senator Erwin T. Tulfo** (asr-001449)  
 What does Taguig need para ikang malift yung ikang cease and desist order?
 
 **[02:34:05.120] PRA Assistant General Manager Joseph John M. Literal** (asr-001450)  
@@ -6265,52 +6265,52 @@ sorry for any inconvenience
 **[03:09:09.240] PRA Chair Alex Lopez** (asr-002269)  
 in the miscommunication, if any.
 
-**[03:09:12.860] Senator Erwin Tulfo** (asr-002270)  
+**[03:09:12.860] Senator Erwin T. Tulfo** (asr-002270)  
 Thank you.
 
-**[03:09:14.460] Senator Erwin Tulfo** (asr-002271)  
+**[03:09:14.460] Senator Erwin T. Tulfo** (asr-002271)  
 Thank you,
 
-**[03:09:15.460] Senator Erwin Tulfo** (asr-002272)  
+**[03:09:15.460] Senator Erwin T. Tulfo** (asr-002272)  
 Minority Leader. Thank you.
 
-**[03:09:18.300] Senator Erwin Tulfo** (asr-002273)  
+**[03:09:18.300] Senator Erwin T. Tulfo** (asr-002273)  
 Anyway, there
 
-**[03:09:19.400] Senator Erwin Tulfo** (asr-002274)  
+**[03:09:19.400] Senator Erwin T. Tulfo** (asr-002274)  
 being no other questions,
 
-**[03:09:21.640] Senator Erwin Tulfo** (asr-002275)  
+**[03:09:21.640] Senator Erwin T. Tulfo** (asr-002275)  
 the fiscal year 2027
 
-**[03:09:23.460] Senator Erwin Tulfo** (asr-002276)  
+**[03:09:23.460] Senator Erwin T. Tulfo** (asr-002276)  
 proposed budget of the
 
-**[03:09:25.380] Senator Erwin Tulfo** (asr-002277)  
+**[03:09:25.380] Senator Erwin T. Tulfo** (asr-002277)  
 Philippine Reclamation Authority
 
-**[03:09:26.940] Senator Erwin Tulfo** (asr-002278)  
+**[03:09:26.940] Senator Erwin T. Tulfo** (asr-002278)  
 is now or will be submitted.
 
-**[03:09:29.360] Senator Erwin Tulfo** (asr-002279)  
+**[03:09:29.360] Senator Erwin T. Tulfo** (asr-002279)  
 So, plenary consideration.
 
-**[03:09:31.540] Senator Erwin Tulfo** (asr-002280)  
+**[03:09:31.540] Senator Erwin T. Tulfo** (asr-002280)  
 Subject, of course, to discussions
 
-**[03:09:33.420] Senator Erwin Tulfo** (asr-002281)  
+**[03:09:33.420] Senator Erwin T. Tulfo** (asr-002281)  
 and questions from my
 
-**[03:09:35.620] Senator Erwin Tulfo** (asr-002282)  
+**[03:09:35.620] Senator Erwin T. Tulfo** (asr-002282)  
 colleagues in the plenary.
 
-**[03:09:37.340] Senator Erwin Tulfo** (asr-002283)  
+**[03:09:37.340] Senator Erwin T. Tulfo** (asr-002283)  
 I hope you'll be prepared by then.
 
-**[03:09:39.800] Senator Erwin Tulfo** (asr-002284)  
+**[03:09:39.800] Senator Erwin T. Tulfo** (asr-002284)  
 And submission of
 
-**[03:09:41.500] Senator Erwin Tulfo** (asr-002285)  
+**[03:09:41.500] Senator Erwin T. Tulfo** (asr-002285)  
 requested documents. Thank you.
 
 **[03:09:43.240] PRA Chair Alex Lopez** (asr-002286)  
@@ -6319,30 +6319,30 @@ Thank you, Senator Erwin.
 **[03:09:45.440] PRA Chair Alex Lopez** (asr-002287)  
 Thank you so much.
 
-**[03:09:46.440] Senator Erwin Tulfo** (asr-002287-split-2)  
+**[03:09:46.440] Senator Erwin T. Tulfo** (asr-002287-split-2)  
 Yes, I would like to thank
 
-**[03:09:47.600] Senator Erwin Tulfo** (asr-002288)  
+**[03:09:47.600] Senator Erwin T. Tulfo** (asr-002288)  
 the officials and employees of the
 
-**[03:09:49.520] Senator Erwin Tulfo** (asr-002289)  
+**[03:09:49.520] Senator Erwin T. Tulfo** (asr-002289)  
 Philippine Reclamation Authority
 
-**[03:09:51.260] Senator Erwin Tulfo** (asr-002290)  
+**[03:09:51.260] Senator Erwin T. Tulfo** (asr-002290)  
 for their budget briefing to this committee.
 
-**[03:09:53.900] Senator Erwin Tulfo** (asr-002291)  
+**[03:09:53.900] Senator Erwin T. Tulfo** (asr-002291)  
 And I would like to thank Senator
 
-**[03:09:55.580] Senator Erwin Tulfo** (asr-002292)  
+**[03:09:55.580] Senator Erwin T. Tulfo** (asr-002292)  
 Cayetano for
 
-**[03:09:57.460] Senator Erwin Tulfo** (asr-002293)  
+**[03:09:57.460] Senator Erwin T. Tulfo** (asr-002293)  
 attending this budget briefing. Thank you.
 
-**[03:09:59.360] Senator Erwin Tulfo** (asr-002294)  
+**[03:09:59.360] Senator Erwin T. Tulfo** (asr-002294)  
 This budget briefing is hereby suspended.
 
-**[03:10:01.840] Senator Erwin Tulfo** (asr-002295)  
+**[03:10:01.840] Senator Erwin T. Tulfo** (asr-002295)  
 Maraming salamat po.
 

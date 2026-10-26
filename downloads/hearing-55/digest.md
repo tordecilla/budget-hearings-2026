@@ -226,7 +226,7 @@ Literal said PRA would hold a coordination meeting with the relevant national ag
 
 [02:45:00 · asr-001689](https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001689) · [02:50:42 · asr-001753](https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-001753) · [03:00:23 · asr-002008](https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002008) · [03:06:35 · asr-002192](https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002192) · [03:06:48 · asr-002198-split-2](https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002198-split-2) · [03:09:07 · asr-002268](https://tordecilla.github.io/budget-hearings-2026/records/55/#asr-002268)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### CFO services and diaspora engagement
 

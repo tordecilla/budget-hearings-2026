@@ -34,7 +34,7 @@ Senator Joel Villanueva cited a PHP74.449 billion FY2027 National Health Insuran
 
 ### FY2027 NNC amount cited in the hearing
 
-Senator Sherwin “Win” T. Gatchalian cited ₱340 million shown under the National Nutrition Council (NNC) for FY2027. The original NNC request amount is not stated in the hearing.
+Senate President Sherwin "Win" T. Gatchalian cited ₱340 million shown under the National Nutrition Council (NNC) for FY2027. The original NNC request amount is not stated in the hearing.
 
 [01:33:07 · asr-002019](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002019) · [01:33:08 · asr-002020](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002020) · [01:33:11 · asr-002021](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-002021)
 
@@ -102,7 +102,7 @@ Tulfo said an earlier Secretary of Health had stopped a 3 billion peso procureme
 
 ### Immunization coverage, vaccine wastage, and delivery response
 
-Senator Sherwin "Win" T. Gatchalian linked medicine wastage to immunization and cited a total budget of about P7.9 billion, and about P4.9 billion for the first 1,000 days. He said reported coverage was 65%, later describing coverage among children in the first 1,000 days as 60%, despite the need to reach all eligible children. For 2025 he cited vaccine and medicine wastage of P590 million among seven types, after correcting a rougher estimate. Secretary Edwin M. Mercado responded that the Department of Health (DOH) and Philippine Health Insurance Corporation (PhilHealth) were expanding maternal care: eight prenatal visits, pregnancy growth monitoring, delivery and four postnatal visits. He described linking newborn registration to YAKAP, using care coordinators to track immunization and growth, incentivizing clinics, and coordinating DOH vaccine delivery and outreach. Gatchalian asked whether PhilHealth would track children from birth; Mercado said clinics could feed records into an electronic medical record platform and the National Health Data Repository, while DOH retained its own programs. Mercado also acknowledged that the vaccine inventory system was outdated and not maintained, and that tracking often stopped at regional offices instead of reaching local governments and rural health units; he said this was an early system priority.
+Senate President Sherwin "Win" T. Gatchalian linked medicine wastage to immunization and cited a total budget of about P7.9 billion, and about P4.9 billion for the first 1,000 days. He said reported coverage was 65%, later describing coverage among children in the first 1,000 days as 60%, despite the need to reach all eligible children. For 2025 he cited vaccine and medicine wastage of P590 million among seven types, after correcting a rougher estimate. Secretary Edwin M. Mercado responded that the Department of Health (DOH) and Philippine Health Insurance Corporation (PhilHealth) were expanding maternal care: eight prenatal visits, pregnancy growth monitoring, delivery and four postnatal visits. He described linking newborn registration to YAKAP, using care coordinators to track immunization and growth, incentivizing clinics, and coordinating DOH vaccine delivery and outreach. Gatchalian asked whether PhilHealth would track children from birth; Mercado said clinics could feed records into an electronic medical record platform and the National Health Data Repository, while DOH retained its own programs. Mercado also acknowledged that the vaccine inventory system was outdated and not maintained, and that tracking often stopped at regional offices instead of reaching local governments and rural health units; he said this was an early system priority.
 
 [01:23:51 · asr-001834](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001834) · [01:23:56 · asr-001835](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001835) · [01:25:11 · asr-001849](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001849) · [01:25:16 · asr-001850](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001850) · [01:26:46 · asr-001874](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001874) · [01:29:35 · asr-001920](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001920) · [01:32:21 · asr-001996](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001996)
 
@@ -386,7 +386,7 @@ Tulfo questioned Atty. Franklin Anthony M. Tabaquin IV, Officer in Charge Direct
 
 [01:19:25 · asr-001590](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001590) · [01:19:37 · asr-001599](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001599) · [01:20:00 · asr-001621](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001621) · [01:20:03 · asr-001624](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001624) · [01:21:55 · asr-001714](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-001714)
 
-## Senator Panfilo Lacson
+## Senator Panfilo "Ping" M. Lacson
 
 ### Universal health care implementation and local delivery capacity
 
@@ -394,7 +394,7 @@ Senator Panfilo Lacson asked Department of Health (DOH) Secretary Edwin M. Merca
 
 [00:42:52 · asr-000717](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000717) · [00:43:25 · asr-000725](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000725) · [00:45:54 · asr-000752](https://tordecilla.github.io/budget-hearings-2026/records/43/#asr-000752)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Nutrition outcomes, performance measures, and local delivery
 

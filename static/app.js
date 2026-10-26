@@ -15,7 +15,8 @@ function applyHearingFilters() {
   let visible = 0;
   agencySessionCards.forEach((card) => {
     const subject = card.querySelector('[data-title-field="subject"]')?.textContent || '';
-    const haystack = `${card.dataset.agencies || ''} ${subject}`.toLocaleLowerCase();
+    const haystack = `${card.dataset.agencies || ''} ${subject}`.toLocaleLowerCase()
+      .replace(/\bcsos?\b/g, 'civil society organizations');
     const matches = terms.every((term) => haystack.includes(term))
       && (chamber === 'all' || card.dataset.chamber === chamber);
     card.hidden = !matches;

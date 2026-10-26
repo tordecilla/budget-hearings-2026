@@ -114,7 +114,7 @@
         },
         {
           "label": "FY2027 NNC amount cited in the hearing",
-          "text": "Senator Sherwin “Win” T. Gatchalian cited ₱340 million shown under the National Nutrition Council (NNC) for FY2027. The original NNC request amount is not stated in the hearing.",
+          "text": "Senate President Sherwin \"Win\" T. Gatchalian cited ₱340 million shown under the National Nutrition Council (NNC) for FY2027. The original NNC request amount is not stated in the hearing.",
           "citations": [
             {
               "stable_id": "asr-002019",
@@ -510,7 +510,7 @@
         },
         {
           "label": "Immunization coverage, vaccine wastage, and delivery response",
-          "text": "Senator Sherwin \"Win\" T. Gatchalian linked medicine wastage to immunization and cited a total budget of about P7.9 billion, and about P4.9 billion for the first 1,000 days. He said reported coverage was 65%, later describing coverage among children in the first 1,000 days as 60%, despite the need to reach all eligible children. For 2025 he cited vaccine and medicine wastage of P590 million among seven types, after correcting a rougher estimate. Secretary Edwin M. Mercado responded that the Department of Health (DOH) and Philippine Health Insurance Corporation (PhilHealth) were expanding maternal care: eight prenatal visits, pregnancy growth monitoring, delivery and four postnatal visits. He described linking newborn registration to YAKAP, using care coordinators to track immunization and growth, incentivizing clinics, and coordinating DOH vaccine delivery and outreach. Gatchalian asked whether PhilHealth would track children from birth; Mercado said clinics could feed records into an electronic medical record platform and the National Health Data Repository, while DOH retained its own programs. Mercado also acknowledged that the vaccine inventory system was outdated and not maintained, and that tracking often stopped at regional offices instead of reaching local governments and rural health units; he said this was an early system priority.",
+          "text": "Senate President Sherwin \"Win\" T. Gatchalian linked medicine wastage to immunization and cited a total budget of about P7.9 billion, and about P4.9 billion for the first 1,000 days. He said reported coverage was 65%, later describing coverage among children in the first 1,000 days as 60%, despite the need to reach all eligible children. For 2025 he cited vaccine and medicine wastage of P590 million among seven types, after correcting a rougher estimate. Secretary Edwin M. Mercado responded that the Department of Health (DOH) and Philippine Health Insurance Corporation (PhilHealth) were expanding maternal care: eight prenatal visits, pregnancy growth monitoring, delivery and four postnatal visits. He described linking newborn registration to YAKAP, using care coordinators to track immunization and growth, incentivizing clinics, and coordinating DOH vaccine delivery and outreach. Gatchalian asked whether PhilHealth would track children from birth; Mercado said clinics could feed records into an electronic medical record platform and the National Health Data Repository, while DOH retained its own programs. Mercado also acknowledged that the vaccine inventory system was outdated and not maintained, and that tracking often stopped at regional offices instead of reaching local governments and rural health units; he said this was an early system priority.",
           "citations": [
             {
               "stable_id": "asr-001834",
@@ -2210,7 +2210,7 @@
     },
     {
       "key": "senator-panfilo-lacson",
-      "label": "Senator Panfilo Lacson",
+      "label": "Senator Panfilo \"Ping\" M. Lacson",
       "items": [
         {
           "label": "Universal health care implementation and local delivery capacity",
@@ -2240,7 +2240,7 @@
     },
     {
       "key": "senator-sherwin-win-t-gatchalian",
-      "label": "Senator Sherwin \"Win\" T. Gatchalian",
+      "label": "Senate President Sherwin \"Win\" T. Gatchalian",
       "items": [
         {
           "label": "Nutrition outcomes, performance measures, and local delivery",

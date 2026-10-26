@@ -8,7 +8,7 @@ AI-assisted working draft. AI can make errors. Always verify consequential inter
 
 - **Agency proposals:** The Department of Budget and Management (DBM) and Metropolitan Manila Development Authority (MMDA) faced questions on spending cuts, retained local assistance, delayed utilization, infrastructure funding and safeguards. Acting DBM Secretary Kim Robert C. De Leon and MMDA Chairman Romando Artes explained their proposals and defended or qualified implementation choices.
 
-- **Unprogrammed appropriations and fiscal rules:** Committee chair Senator Joseph Victor "JV" G. Ejercito, Senator Imee R. Marcos, Senator Sherwin "Win" T. Gatchalian and Senator Francis Kiko Pangilinan pressed DBM on the Supreme Court ruling, release triggers, funding certifications, reconciliation and safeguards. DBM described its legal review and sought clarification from the Office of the Solicitor General; the ruling's implications remained under study.
+- **Unprogrammed appropriations and fiscal rules:** Committee chair Senator Joseph Victor "JV" G. Ejercito, Senator Imee R. Marcos, Senate President Sherwin "Win" T. Gatchalian and Senator Francis Kiko Pangilinan pressed DBM on the Supreme Court ruling, release triggers, funding certifications, reconciliation and safeguards. DBM described its legal review and sought clarification from the Office of the Solicitor General; the ruling's implications remained under study.
 
 - **Local assistance and accountability:** Marcos and Gatchalian questioned Local Government Support Fund (LGSF) eligibility, overlapping assistance, delayed implementation and performance criteria. De Leon acknowledged that DBM could not itself check duplicate aid across agencies, described work with the Department of Social Welfare and Development and Department of Health, and committed to provide recipient and utilization information. Questions also covered Growth Equity Fund guidance and National Task Force to End Local Communist Armed Conflict barangay coverage.
 
@@ -74,7 +74,7 @@ De Leon said DBM had revisited its requirements, including subscription expansio
 
 ### PS-DBM mandate and procurement savings
 
-Senator Sherwin “Win” T. Gatchalian raised the Pharmally and Department of Education (DepEd) laptop controversies involving the Procurement Service-Department of Budget and Management (PS-DBM), asking what reforms it had made, what benefits it provided and whether it had returned to its common-use procurement mandate. Acting DBM Secretary Kim Robert C. De Leon said PS-DBM was back to its basic mandate of procuring common-use supplies and equipment; it now rarely acts as a procurement agent for other activities, which require his clearance. He agreed that PS-DBM no longer procures fire trucks. Under the New Government Procurement Act, national agencies, local government units (LGUs), and state universities and colleges are required to source common-use items through the Procurement Service (PS); DBM is focusing on stock availability. Its e-marketplace also covers vehicles and email subscriptions.
+Senate President Sherwin "Win" T. Gatchalian raised the Pharmally and Department of Education (DepEd) laptop controversies involving the Procurement Service-Department of Budget and Management (PS-DBM), asking what reforms it had made, what benefits it provided and whether it had returned to its common-use procurement mandate. Acting DBM Secretary Kim Robert C. De Leon said PS-DBM was back to its basic mandate of procuring common-use supplies and equipment; it now rarely acts as a procurement agent for other activities, which require his clearance. He agreed that PS-DBM no longer procures fire trucks. Under the New Government Procurement Act, national agencies, local government units (LGUs), and state universities and colleges are required to source common-use items through the Procurement Service (PS); DBM is focusing on stock availability. Its e-marketplace also covers vehicles and email subscriptions.
 
 De Leon said bulk purchasing produced prices about 20–30% below market prices. Asked for the average savings, he repeated an estimate of about 20–30% but said he would ask a Procurement Service official for the nominal figures. On fund parking, De Leon said PS-DBM could no longer be used as a parking lot. Gatchalian said agencies had parked funds at PS-DBM or the Philippine International Trading Corporation (PITC) to window-dress their financials.
 
@@ -190,7 +190,7 @@ The exchange later returned to foreign-assisted-project releases: Marcos contras
 
 ### Unprogrammed funding, comparisons and release triggers
 
-Senator Sherwin “Win” T. Gatchalian asked Acting Department of Budget and Management (DBM) Secretary Kim Robert C. De Leon how the Supreme Court ruling should shape the FY2027 budget. De Leon said SAGIP was absent from the FY2027 Unprogrammed Appropriations (UA) and that the Executive was not releasing FY2026 funds under special provisions 1A and 1B; only foreign-assisted projects (FAPs) had been released from the UA so far.
+Senate President Sherwin "Win" T. Gatchalian asked Acting Department of Budget and Management (DBM) Secretary Kim Robert C. De Leon how the Supreme Court ruling should shape the FY2027 budget. De Leon said SAGIP was absent from the FY2027 Unprogrammed Appropriations (UA) and that the Executive was not releasing FY2026 funds under special provisions 1A and 1B; only foreign-assisted projects (FAPs) had been released from the UA so far.
 
 Gatchalian said Congress must keep total programmed and unprogrammed appropriations within the President’s National Expenditure Program (NEP) proposal. He contrasted the UA proposals and enacted totals: about PHP 281 billion versus PHP 731 billion in 2024, PHP 158 billion versus PHP 363 billion in 2025, and PHP 249 billion versus PHP 150 billion in 2026. He argued that invalidating triggers 1A and 1B would leave FAPs as the remaining UA basis, and referred to the FY2027 UA as PHP 111 billion, including a PHP 42 billion foreign-assisted-project amount. De Leon gave a preliminary alternative reading: excess should be measured against total revenue targets rather than any one revenue item; an excess might still trigger UA, subject to legal clarification. Gatchalian said the Senate would remove 1A and 1B and work with DBM on a replacement provision. De Leon committed to work with Congress to fine-tune the language in line with the ruling.
 
@@ -412,7 +412,7 @@ Marcos cited the briefing’s report of 465 vacancies among 1,762 permanent posi
 
 [03:03:00 · asr-005530](https://tordecilla.github.io/budget-hearings-2026/records/103/#asr-005530) · [03:03:44 · asr-005544](https://tordecilla.github.io/budget-hearings-2026/records/103/#asr-005544) · [03:04:18 · asr-005559](https://tordecilla.github.io/budget-hearings-2026/records/103/#asr-005559) · [03:04:43 · asr-005573](https://tordecilla.github.io/budget-hearings-2026/records/103/#asr-005573)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Budget ceilings and legal clarification
 

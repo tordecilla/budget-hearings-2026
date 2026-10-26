@@ -4,13 +4,13 @@ Source: https://www.youtube.com/watch?v=N9oCjsL0TCg
 
 AI-assisted working draft. AI can make errors. Always check quotations, names, rulings, and other consequential details against the official video.
 
-**[00:02:30.000] Senator Erwin Tulfo** (asr-000006)  
+**[00:02:30.000] Senator Erwin T. Tulfo** (asr-000006)  
 The budget briefing on the fiscal year 2027 proposed budget of the Department of Foreign Affairs and attached agencies
 
-**[00:03:00.000] Senator Erwin Tulfo** (asr-000007)  
+**[00:03:00.000] Senator Erwin T. Tulfo** (asr-000007)  
 is hereby called to order. Later on, we are expecting to be joined by our Senate President Win Gatchalian and our Finance Chair Senator JV Ejercito. They are just winding down next door the budget hearing of the Department of Transportation. So I would like to acknowledge the
 
-**[00:03:30.000] Senator Erwin Tulfo** (asr-000008)  
+**[00:03:30.000] Senator Erwin T. Tulfo** (asr-000008)  
 presence of our DFA Secretary Ma. Theresa P. Lazaro. At this point may I ask the committee secretary to acknowledge our other resource persons for today's budget briefing?
 
 **[00:03:38.520] Committee Secretary** (asr-000008-split-2)  
@@ -40,22 +40,22 @@ From the Department of Budget and Management, we have Ms. Marie Rose Aguilar and
 **[00:06:30.000] Committee Secretary** (asr-000014)  
 from the Presidential Commission on Visiting Forces, and we have Secretary-General Ivan [unclear] from the UNESCO National Commission of the Philippines. We have Director General Neil Frank Ferrer from the Foreign Service Institute. I think I have acknowledged everybody.
 
-**[00:07:00.000] Senator Erwin Tulfo** (asr-000015)  
+**[00:07:00.000] Senator Erwin T. Tulfo** (asr-000015)  
 Thank you. Today the Committee on Finance, Subcommittee H, will deliberate the budget proposal of the Department of Foreign Affairs and its attached agencies, namely the Foreign Service Institute,
 
-**[00:07:30.000] Senator Erwin Tulfo** (asr-000016)  
+**[00:07:30.000] Senator Erwin T. Tulfo** (asr-000016)  
 the Presidential Commission on Visiting Forces, and the UNESCO National Commission of the Philippines. Under Republic Act No. 12314, the DFA was given a 28.32 billion budget for fiscal year 2026. For fiscal year 2027, the department is requesting 34.88 billion,
 
-**[00:08:00.000] Senator Erwin Tulfo** (asr-000017)  
+**[00:08:00.000] Senator Erwin T. Tulfo** (asr-000017)  
 broken down into 34.62 billion for the Office of the Secretary, 161.7 million for the Foreign Service Institute, 51.4 million for the Presidential Commission on Visiting Forces, and 50.9 million for the UNESCO National Commission. The DFA is more than a government agency that issues passports, processes visas and conducts diplomacy. For more than 10 million Filipinos abroad, the DFA is the
 
-**[00:08:30.000] Senator Erwin Tulfo** (asr-000018)  
+**[00:08:30.000] Senator Erwin T. Tulfo** (asr-000018)  
 Philippine government when they are farthest from home. Kapag may gyera, sakuna, pagkakakulong, pang-aabuso, anumang krisis, ang Pilipino ay umaasa po sa ating gobyerno. At sa mga oras na pinakamahirap at pinakamapanganib, the DFA must be more than a presence abroad. It must be a government that responds, protects, and brings its people home. Therefore, our test today is to ensure that the proposed 34.88 billion budget
 
-**[00:09:00.000] Senator Erwin Tulfo** (asr-000019)  
+**[00:09:00.000] Senator Erwin T. Tulfo** (asr-000019)  
 It's fully aligned with this heavy mandate. We look forward to hearing how the department plans to utilize these funds to serve both our national interest and our people. And I believe I will be asking not only the DFA but its attached agency some questions. So you have to be prepared.
 
-**[00:09:19.320] Senator Erwin Tulfo** (asr-000020)  
+**[00:09:19.320] Senator Erwin T. Tulfo** (asr-000020)  
 Before we go to the briefing proper, okay, let me take that. On that note, let us proceed with the briefing proper. We now recognize Secretary Lazaro for the presentation of DFA's proposed budget for fiscal year 2027. Madam Secretary, please proceed with your presentation if you have any.
 
 **[00:09:45.300] DFA Secretary Ma. Theresa P. Lazaro** (asr-000021)  
@@ -115,22 +115,22 @@ Actually, Mr. Chair, if we can just present a very short PowerPoint presentation
 **[00:11:56.960] DFA Secretary Ma. Theresa P. Lazaro** (asr-000045)  
 to encompass the whole situation of the...
 
-**[00:12:00.980] Senator Erwin Tulfo** (asr-000046)  
+**[00:12:00.980] Senator Erwin T. Tulfo** (asr-000046)  
 Please do so, Secretary Lazaro.
 
-**[00:12:03.080] Senator Erwin Tulfo** (asr-000047)  
+**[00:12:03.080] Senator Erwin T. Tulfo** (asr-000047)  
 And if there are any other attached agencies who will make presentation,
 
-**[00:12:08.700] Senator Erwin Tulfo** (asr-000048)  
+**[00:12:08.700] Senator Erwin T. Tulfo** (asr-000048)  
 before we'll be asking questions,
 
-**[00:12:11.120] Senator Erwin Tulfo** (asr-000049)  
+**[00:12:11.120] Senator Erwin T. Tulfo** (asr-000049)  
 I'll allow you guys to...
 
-**[00:12:14.080] Senator Erwin Tulfo** (asr-000050)  
+**[00:12:14.080] Senator Erwin T. Tulfo** (asr-000050)  
 to make your presentation first before we will ask questions.
 
-**[00:12:17.400] Senator Erwin Tulfo** (asr-000051)  
+**[00:12:17.400] Senator Erwin T. Tulfo** (asr-000051)  
 Go ahead.
 
 **[00:12:19.400] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000052)  
@@ -403,10 +403,10 @@ uh this is a snapshot uh your honor of the consular services uh we brought close
 **[00:18:33.520] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000141)  
 filipino people
 
-**[00:18:34.740] Senator Erwin Tulfo** (asr-000141-split-2)  
+**[00:18:34.740] Senator Erwin T. Tulfo** (asr-000141-split-2)  
 uh bolivar i'm sorry for cutting in so whatever happens or to to those filipinos
 
-**[00:18:42.960] Senator Erwin Tulfo** (asr-000142)  
+**[00:18:42.960] Senator Erwin T. Tulfo** (asr-000142)  
 na walang siniservice walang office on dmw who handles those problems nila
 
 **[00:18:48.970] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000142-split-2)  
@@ -415,25 +415,25 @@ sir it's uh the df
 **[00:18:50.240] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000143)  
 the department of foreign affairs to our embassies and consulates uh in those jurisdictions sir
 
-**[00:18:54.560] Senator Erwin Tulfo** (asr-000144)  
+**[00:18:54.560] Senator Erwin T. Tulfo** (asr-000144)  
 well
 
-**[00:18:56.240] Senator Erwin Tulfo** (asr-000145)  
+**[00:18:56.240] Senator Erwin T. Tulfo** (asr-000145)  
 Mayroon bang labor attache office, sir?
 
 **[00:18:59.970] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000145-split-2)  
 Yung labor attache po was basically renamed as the Migrant Workers Office. So kung wala pong MWO din po doon
 
-**[00:19:05.360] Senator Erwin Tulfo** (asr-000146)  
+**[00:19:05.360] Senator Erwin T. Tulfo** (asr-000146)  
 wala rin pong labor attache po?
 
 **[00:19:07.280] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000146-split-2)  
 Wala.
 
-**[00:19:07.510] Senator Erwin Tulfo** (asr-000146-split-3)  
+**[00:19:07.510] Senator Erwin T. Tulfo** (asr-000146-split-3)  
 So how do you handle that kung labor problems
 
-**[00:19:10.480] Senator Erwin Tulfo** (asr-000147)  
+**[00:19:10.480] Senator Erwin T. Tulfo** (asr-000147)  
 issues, contracts, benefits?
 
 **[00:19:12.000] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000147-split-2)  
@@ -448,10 +448,10 @@ but of course we also have our diplomatic and consular officers sir who are look
 **[00:19:26.240] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000150)  
 filipinos
 
-**[00:19:26.630] Senator Erwin Tulfo** (asr-000150-split-2)  
+**[00:19:26.630] Senator Erwin T. Tulfo** (asr-000150-split-2)  
 may mga instances by mga areas na walang dmw and yet nagpapa-rescue kailangan ng
 
-**[00:19:34.480] Senator Erwin Tulfo** (asr-000151)  
+**[00:19:34.480] Senator Erwin T. Tulfo** (asr-000151)  
 tulong are there instances na may ganun din kayo
 
 **[00:19:38.640] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000151-split-2)  
@@ -460,7 +460,7 @@ Yes, sir. Mayroon po.
 **[00:19:40.960] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000152)  
 Sorry, if you wish for details, sir.
 
-**[00:19:43.740] Senator Erwin Tulfo** (asr-000152-split-2)  
+**[00:19:43.740] Senator Erwin T. Tulfo** (asr-000152-split-2)  
 You just, go ahead po. Go ahead, Usec Tago.
 
 **[00:19:47.920] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000153)  
@@ -481,13 +481,13 @@ usually diplomatic officials uh from the embassy and under the direct supervisio
 **[00:20:14.640] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000158)  
 ng ambassador at saka yung dfa po
 
-**[00:20:17.190] Senator Erwin Tulfo** (asr-000158-split-2)  
+**[00:20:17.190] Senator Erwin T. Tulfo** (asr-000158-split-2)  
 okay meron din bang uh yusec tago na representative
 
-**[00:20:21.920] Senator Erwin Tulfo** (asr-000159)  
+**[00:20:21.920] Senator Erwin T. Tulfo** (asr-000159)  
 na from uh overseas workers welfare administration
 
-**[00:20:26.240] Senator Erwin Tulfo** (asr-000160)  
+**[00:20:26.240] Senator Erwin T. Tulfo** (asr-000160)  
 Kung wala mang MWO, isa na lang yun.
 
 **[00:20:29.440] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000161)  
@@ -505,13 +505,13 @@ or sa DFA na pwedeng sumulat sa OWA kung kailangan, kung membro sila ng OWA.
 **[00:20:57.480] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000165)  
 Kung hindi, ang embahada ang in-charge at nagbibigay ng tulong po.
 
-**[00:21:02.780] Senator Erwin Tulfo** (asr-000166)  
+**[00:21:02.780] Senator Erwin T. Tulfo** (asr-000166)  
 Secretary Lazaro, tama po ba ito on my list?
 
-**[00:21:05.580] Senator Erwin Tulfo** (asr-000167)  
+**[00:21:05.580] Senator Erwin T. Tulfo** (asr-000167)  
 We have 38 embassies na wala pong MWO, walang migrant worker officers.
 
-**[00:21:15.580] Senator Erwin Tulfo** (asr-000168)  
+**[00:21:15.580] Senator Erwin T. Tulfo** (asr-000168)  
 38 po siya. Is this correct?
 
 **[00:21:17.720] DFA Secretary Ma. Theresa P. Lazaro** (asr-000169)  
@@ -520,7 +520,7 @@ Actually, salamat po. Thank you very much, Mr. Chair.
 **[00:21:23.360] DFA Secretary Ma. Theresa P. Lazaro** (asr-000170)  
 Actually, we have 67 posts that have no offices of the DMW.
 
-**[00:21:30.800] Senator Erwin Tulfo** (asr-000171)  
+**[00:21:30.800] Senator Erwin T. Tulfo** (asr-000171)  
 That includes the Philippine consulates, right?
 
 **[00:21:33.600] DFA Secretary Ma. Theresa P. Lazaro** (asr-000172)  
@@ -547,22 +547,22 @@ So, nililipat natin sila sa Turkey.
 **[00:22:02.720] DFA Secretary Ma. Theresa P. Lazaro** (asr-000179)  
 So, it's all the work of our embassies and consulates kasi wala pong DMW.
 
-**[00:22:09.740] Senator Erwin Tulfo** (asr-000180)  
+**[00:22:09.740] Senator Erwin T. Tulfo** (asr-000180)  
 Para sa kalaman po ng mga kababayan natin na nanonood po sa atin live po sa social media, sa mga TV,
 
-**[00:22:17.300] Senator Erwin Tulfo** (asr-000181)  
+**[00:22:17.300] Senator Erwin T. Tulfo** (asr-000181)  
 ano?
 
-**[00:22:17.720] Senator Erwin Tulfo** (asr-000182)  
+**[00:22:17.720] Senator Erwin T. Tulfo** (asr-000182)  
 Anong reasons bakit wala po tayo, or maging mga OFWs na nanonood sa atin, na wala pong offices ang DMW?
 
-**[00:22:25.040] Senator Erwin Tulfo** (asr-000183)  
+**[00:22:25.040] Senator Erwin T. Tulfo** (asr-000183)  
 Ang understand…
 
-**[00:22:25.820] Senator Erwin Tulfo** (asr-000184)  
+**[00:22:25.820] Senator Erwin T. Tulfo** (asr-000184)  
 Anong reasons nito? Is it ayaw ng bansa na may DMW tayo doon?
 
-**[00:22:32.600] Senator Erwin Tulfo** (asr-000185)  
+**[00:22:32.600] Senator Erwin T. Tulfo** (asr-000185)  
 Or ano ang dahilan? Matagal na po itong natatanong sa akin.
 
 **[00:22:36.680] DFA Secretary Ma. Theresa P. Lazaro** (asr-000186)  
@@ -601,22 +601,22 @@ But it's taking time. May burokrasya din po yung mga host country.
 **[00:23:29.520] DFA Secretary Ma. Theresa P. Lazaro** (asr-000197)  
 So, yun din po ang isang sa mga dahilan.
 
-**[00:23:33.900] Senator Erwin Tulfo** (asr-000198)  
+**[00:23:33.900] Senator Erwin T. Tulfo** (asr-000198)  
 Asics, ikang presentation. I have two more questions.
 
-**[00:23:39.300] Senator Erwin Tulfo** (asr-000199)  
+**[00:23:39.300] Senator Erwin T. Tulfo** (asr-000199)  
 Yung mga maghahandle po from DFA na mga about labor,
 
-**[00:23:43.500] Senator Erwin Tulfo** (asr-000200)  
+**[00:23:43.500] Senator Erwin T. Tulfo** (asr-000200)  
 is he well-briefed or is he equipped to handle problems of an overseas worker Filipino?
 
-**[00:23:54.280] Senator Erwin Tulfo** (asr-000201)  
+**[00:23:54.280] Senator Erwin T. Tulfo** (asr-000201)  
 Yung mga foreign service officers natin?
 
 **[00:23:57.120] DFA Secretary Ma. Theresa P. Lazaro** (asr-000202)  
 Check if I can answer.
 
-**[00:23:58.660] Senator Erwin Tulfo** (asr-000203)  
+**[00:23:58.660] Senator Erwin T. Tulfo** (asr-000203)  
 Please.
 
 **[00:23:59.180] DFA Secretary Ma. Theresa P. Lazaro** (asr-000204)  
@@ -640,13 +640,13 @@ Na hanggang ngayon naman po ay ginagawa namin sa mga estudyante, mga migrants, m
 **[00:24:27.660] DFA Secretary Ma. Theresa P. Lazaro** (asr-000210)  
 But yes, our people are very well-trained.
 
-**[00:24:30.940] Senator Erwin Tulfo** (asr-000211)  
+**[00:24:30.940] Senator Erwin T. Tulfo** (asr-000211)  
 Sa mga bansang sekretary na wala pong MWO,
 
-**[00:24:36.220] Senator Erwin Tulfo** (asr-000212)  
+**[00:24:36.220] Senator Erwin T. Tulfo** (asr-000212)  
 ano po ang country na may pinakamaraming Pilipino pero wala po tayong representative from MWO
 
-**[00:24:42.420] Senator Erwin Tulfo** (asr-000213)  
+**[00:24:42.420] Senator Erwin T. Tulfo** (asr-000213)  
 or DMW?
 
 **[00:24:42.680] DFA Secretary Ma. Theresa P. Lazaro** (asr-000214)  
@@ -709,16 +709,16 @@ Chair, hindi naman po talaga magkakaroon lahat ng mga MWO offices kasi po nandun
 **[00:25:48.700] DFA Secretary Ma. Theresa P. Lazaro** (asr-000233)  
 We have 105 posts na po ngayon eh.
 
-**[00:25:52.420] Senator Erwin Tulfo** (asr-000234)  
+**[00:25:52.420] Senator Erwin T. Tulfo** (asr-000234)  
 So lahat po itong mga posts na ito can handle.
 
-**[00:25:55.420] Senator Erwin Tulfo** (asr-000235)  
+**[00:25:55.420] Senator Erwin T. Tulfo** (asr-000235)  
 In the absence of an MWO,
 
-**[00:26:00.200] Senator Erwin Tulfo** (asr-000236)  
+**[00:26:00.200] Senator Erwin T. Tulfo** (asr-000236)  
 the DFA personnel can handle itong mga problems po.
 
-**[00:26:04.220] Senator Erwin Tulfo** (asr-000237)  
+**[00:26:04.220] Senator Erwin T. Tulfo** (asr-000237)  
 About labor, about problems po ng OFWs natin.
 
 **[00:26:07.920] DFA Secretary Ma. Theresa P. Lazaro** (asr-000238)  
@@ -727,16 +727,16 @@ Definitely, sir.
 **[00:26:08.940] DFA Secretary Ma. Theresa P. Lazaro** (asr-000239)  
 Your honor.
 
-**[00:26:09.340] Senator Erwin Tulfo** (asr-000240)  
+**[00:26:09.340] Senator Erwin T. Tulfo** (asr-000240)  
 All right.
 
-**[00:26:10.160] Senator Erwin Tulfo** (asr-000241)  
+**[00:26:10.160] Senator Erwin T. Tulfo** (asr-000241)  
 Thank you.
 
-**[00:26:11.540] Senator Erwin Tulfo** (asr-000242)  
+**[00:26:11.540] Senator Erwin T. Tulfo** (asr-000242)  
 Mr. Bolivar, go ahead.
 
-**[00:26:13.380] Senator Erwin Tulfo** (asr-000243)  
+**[00:26:13.380] Senator Erwin T. Tulfo** (asr-000243)  
 Please continue.
 
 **[00:26:14.860] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000244)  
@@ -976,22 +976,22 @@ in Kazakhstan.
 **[00:29:13.000] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000322)  
 Yes, sir.
 
-**[00:29:15.220] Senator Erwin Tulfo** (asr-000323)  
+**[00:29:15.220] Senator Erwin T. Tulfo** (asr-000323)  
 These numbers that
 
-**[00:29:16.500] Senator Erwin Tulfo** (asr-000324)  
+**[00:29:16.500] Senator Erwin T. Tulfo** (asr-000324)  
 we are seeing right
 
-**[00:29:18.920] Senator Erwin Tulfo** (asr-000325)  
+**[00:29:18.920] Senator Erwin T. Tulfo** (asr-000325)  
 now, 1-8, 1-5, ito po
 
-**[00:29:21.080] Senator Erwin Tulfo** (asr-000326)  
+**[00:29:21.080] Senator Erwin T. Tulfo** (asr-000326)  
 yung population ng
 
-**[00:29:22.680] Senator Erwin Tulfo** (asr-000327)  
+**[00:29:22.680] Senator Erwin T. Tulfo** (asr-000327)  
 Filipino sa country na yan, or hindi
 
-**[00:29:24.660] Senator Erwin Tulfo** (asr-000328)  
+**[00:29:24.660] Senator Erwin T. Tulfo** (asr-000328)  
 naman, not necessarily?
 
 **[00:29:27.300] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000329)  
@@ -1009,19 +1009,19 @@ meron po tayong embassy in Hanoi, which covers
 **[00:29:34.460] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000333)  
 a separate number of Filipinos.
 
-**[00:29:35.450] Senator Erwin Tulfo** (asr-000333-split-2)  
+**[00:29:35.450] Senator Erwin T. Tulfo** (asr-000333-split-2)  
 Is that mixed already?
 
-**[00:29:37.500] Senator Erwin Tulfo** (asr-000334)  
+**[00:29:37.500] Senator Erwin T. Tulfo** (asr-000334)  
 Migrants?
 
-**[00:29:38.840] Senator Erwin Tulfo** (asr-000335)  
+**[00:29:38.840] Senator Erwin T. Tulfo** (asr-000335)  
 O-F-Ws?
 
 **[00:29:40.820] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000336)  
 Yes, sir.
 
-**[00:29:42.040] Senator Erwin Tulfo** (asr-000337)  
+**[00:29:42.040] Senator Erwin T. Tulfo** (asr-000337)  
 Go ahead. Thank you.
 
 **[00:29:44.140] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000338)  
@@ -1213,103 +1213,103 @@ Next slide please.
 **[00:31:52.280] DFA Assistant Secretary Robespierre L. Bolivar** (asr-000400)  
 Maraming salamat po, Your Honor.
 
-**[00:31:54.840] Senator Erwin Tulfo** (asr-000401)  
+**[00:31:54.840] Senator Erwin T. Tulfo** (asr-000401)  
 Thank you.
 
-**[00:31:58.220] Senator Erwin Tulfo** (asr-000402)  
+**[00:31:58.220] Senator Erwin T. Tulfo** (asr-000402)  
 May mga yung sinasabi nyo
 
-**[00:32:00.360] Senator Erwin Tulfo** (asr-000403)  
+**[00:32:00.360] Senator Erwin T. Tulfo** (asr-000403)  
 na nag-request kayo pero hindi po
 
-**[00:32:02.140] Senator Erwin Tulfo** (asr-000404)  
+**[00:32:02.140] Senator Erwin T. Tulfo** (asr-000404)  
 napagbigyan. I've already talked to
 
-**[00:32:04.140] Senator Erwin Tulfo** (asr-000405)  
+**[00:32:04.140] Senator Erwin T. Tulfo** (asr-000405)  
 Secretary Lazaro. Secretary Lazaro,
 
-**[00:32:07.040] Senator Erwin Tulfo** (asr-000406)  
+**[00:32:07.040] Senator Erwin T. Tulfo** (asr-000406)  
 in your
 
-**[00:32:09.420] Senator Erwin Tulfo** (asr-000407)  
+**[00:32:09.420] Senator Erwin T. Tulfo** (asr-000407)  
 2024
 
-**[00:32:11.260] Senator Erwin Tulfo** (asr-000408)  
+**[00:32:11.260] Senator Erwin T. Tulfo** (asr-000408)  
 ga'a,
 
-**[00:32:16.240] Senator Erwin Tulfo** (asr-000409)  
+**[00:32:16.240] Senator Erwin T. Tulfo** (asr-000409)  
 there was like 10 billion
 
-**[00:32:17.740] Senator Erwin Tulfo** (asr-000410)  
+**[00:32:17.740] Senator Erwin T. Tulfo** (asr-000410)  
 ang naging unused appropriations.
 
-**[00:32:21.160] Senator Erwin Tulfo** (asr-000411)  
+**[00:32:21.160] Senator Erwin T. Tulfo** (asr-000411)  
 Then in 2025,
 
-**[00:32:23.400] Senator Erwin Tulfo** (asr-000412)  
+**[00:32:23.400] Senator Erwin T. Tulfo** (asr-000412)  
 27.4 billion po ang ga'a
 
-**[00:32:26.240] Senator Erwin Tulfo** (asr-000413)  
+**[00:32:26.240] Senator Erwin T. Tulfo** (asr-000413)  
 ninyo but then yung unused
 
-**[00:32:27.400] Senator Erwin Tulfo** (asr-000414)  
+**[00:32:27.400] Senator Erwin T. Tulfo** (asr-000414)  
 appropriations,
 
-**[00:32:28.220] Senator Erwin Tulfo** (asr-000415)  
+**[00:32:28.220] Senator Erwin T. Tulfo** (asr-000415)  
 appropriations is 12.4.
 
-**[00:32:31.520] Senator Erwin Tulfo** (asr-000416)  
+**[00:32:31.520] Senator Erwin T. Tulfo** (asr-000416)  
 And then this year,
 
-**[00:32:33.960] Senator Erwin Tulfo** (asr-000417)  
+**[00:32:33.960] Senator Erwin T. Tulfo** (asr-000417)  
 28.3 billion,
 
-**[00:32:36.500] Senator Erwin Tulfo** (asr-000418)  
+**[00:32:36.500] Senator Erwin T. Tulfo** (asr-000418)  
 23 billion
 
-**[00:32:38.240] Senator Erwin Tulfo** (asr-000419)  
+**[00:32:38.240] Senator Erwin T. Tulfo** (asr-000419)  
 ang unused appropriations po po.
 
-**[00:32:40.040] Senator Erwin Tulfo** (asr-000420)  
+**[00:32:40.040] Senator Erwin T. Tulfo** (asr-000420)  
 So, how do you expect,
 
-**[00:32:41.800] Senator Erwin Tulfo** (asr-000421)  
+**[00:32:41.800] Senator Erwin T. Tulfo** (asr-000421)  
 how will you explain to this
 
-**[00:32:43.780] Senator Erwin Tulfo** (asr-000422)  
+**[00:32:43.780] Senator Erwin T. Tulfo** (asr-000422)  
 committee,
 
-**[00:32:44.880] Senator Erwin Tulfo** (asr-000423)  
+**[00:32:44.880] Senator Erwin T. Tulfo** (asr-000423)  
 to this committee na
 
-**[00:32:47.260] Senator Erwin Tulfo** (asr-000424)  
+**[00:32:47.260] Senator Erwin T. Tulfo** (asr-000424)  
 binabaan kayo and yet you're requesting
 
-**[00:32:51.880] Senator Erwin Tulfo** (asr-000425)  
+**[00:32:51.880] Senator Erwin T. Tulfo** (asr-000425)  
 na hindi binigay
 
-**[00:32:54.040] Senator Erwin Tulfo** (asr-000426)  
+**[00:32:54.040] Senator Erwin T. Tulfo** (asr-000426)  
 sa inyo. When the DBM
 
-**[00:32:56.040] Senator Erwin Tulfo** (asr-000427)  
+**[00:32:56.040] Senator Erwin T. Tulfo** (asr-000427)  
 very glaring,
 
-**[00:32:57.900] Senator Erwin Tulfo** (asr-000428)  
+**[00:32:57.900] Senator Erwin T. Tulfo** (asr-000428)  
 Secretary, hindi po ninyo nagagamit.
 
-**[00:33:01.900] Senator Erwin Tulfo** (asr-000429)  
+**[00:33:01.900] Senator Erwin T. Tulfo** (asr-000429)  
 So, tatama lang nang siguro sa sabihin ng DBM we might as well give it to some, give it somewhere else or give it to somebody else who really needs it.
 
-**[00:33:12.080] Senator Erwin Tulfo** (asr-000430)  
+**[00:33:12.080] Senator Erwin T. Tulfo** (asr-000430)  
 Your take, Secretary.
 
 **[00:33:15.080] DFA Secretary Ma. Theresa P. Lazaro** (asr-000431)  
 Thank you, Mr. Chair. But for the specifics of this, of your question, I'll ask may ASIC for Fiscal Management to respond to that. Thank you.
 
-**[00:33:25.800] Senator Erwin Tulfo** (asr-000432)  
+**[00:33:25.800] Senator Erwin T. Tulfo** (asr-000432)  
 Go ahead, ASIC.
 
-**[00:33:27.920] Senator Erwin Tulfo** (asr-000433)  
+**[00:33:27.920] Senator Erwin T. Tulfo** (asr-000433)  
 Emilio Fernandez.
 
 **[00:33:29.280] DFA Assistant Secretary Emilio T. Fernandez** (asr-000434)  
@@ -1441,13 +1441,13 @@ That's when ginagamit ho sila.
 **[00:37:54.640] DFA Assistant Secretary Emilio T. Fernandez** (asr-000480)  
 Thank you.
 
-**[00:37:55.280] Senator Erwin Tulfo** (asr-000481)  
+**[00:37:55.280] Senator Erwin T. Tulfo** (asr-000481)  
 Can you confirm, Asec Fernandez, na on the 2024 budget, 12.4 billion in 2025,
 
-**[00:38:05.560] Senator Erwin Tulfo** (asr-000482)  
+**[00:38:05.560] Senator Erwin T. Tulfo** (asr-000482)  
 it says here 6.3 billion of that in appropriations were not released by the DBM to DFA, Osec.
 
-**[00:38:13.480] Senator Erwin Tulfo** (asr-000483)  
+**[00:38:13.480] Senator Erwin T. Tulfo** (asr-000483)  
 Can you confirm that?
 
 **[00:38:15.160] DFA Assistant Secretary Emilio T. Fernandez** (asr-000484)  
@@ -1498,7 +1498,7 @@ But for the later years, so only part of the passport budget ang nagagamit.
 **[00:39:25.940] DFA Assistant Secretary Emilio T. Fernandez** (asr-000501)  
 So big chunk, nagiging unused appropriations.
 
-**[00:39:30.500] Senator Erwin Tulfo** (asr-000502)  
+**[00:39:30.500] Senator Erwin T. Tulfo** (asr-000502)  
 So the 6.3 billion na hindi po naibigay ng BBM, ano ito? Part of what is this?
 
 **[00:39:36.560] DFA Assistant Secretary Emilio T. Fernandez** (asr-000503)  
@@ -1510,10 +1510,10 @@ And the small part, tinatawag ko na international commitments fund.
 **[00:39:48.860] DFA Assistant Secretary Emilio T. Fernandez** (asr-000505)  
 It's in the amount of 50 million.
 
-**[00:39:51.100] Senator Erwin Tulfo** (asr-000506)  
+**[00:39:51.100] Senator Erwin T. Tulfo** (asr-000506)  
 If it isn't released, don't you call DBM and say we need it?
 
-**[00:39:56.060] Senator Erwin Tulfo** (asr-000507)  
+**[00:39:56.060] Senator Erwin T. Tulfo** (asr-000507)  
 Or you do?
 
 **[00:39:58.260] DFA Assistant Secretary Emilio T. Fernandez** (asr-000508)  
@@ -1525,34 +1525,34 @@ magagamit ho yan the following year.
 **[00:40:08.960] DFA Assistant Secretary Emilio T. Fernandez** (asr-000510)  
 So they keep it intact for the needs.
 
-**[00:40:11.460] Senator Erwin Tulfo** (asr-000511)  
+**[00:40:11.460] Senator Erwin T. Tulfo** (asr-000511)  
 Let me just go to the Department of Budget and Management.
 
-**[00:40:15.180] Senator Erwin Tulfo** (asr-000512)  
+**[00:40:15.180] Senator Erwin T. Tulfo** (asr-000512)  
 Maybe Ms. Aguilar or Ms. Dizon,
 
-**[00:40:18.860] Senator Erwin Tulfo** (asr-000513)  
+**[00:40:18.860] Senator Erwin T. Tulfo** (asr-000513)  
 can you answer this?
 
-**[00:40:19.920] Senator Erwin Tulfo** (asr-000514)  
+**[00:40:19.920] Senator Erwin T. Tulfo** (asr-000514)  
 Ano po nangyari, ma'am, at hindi po na-release yung 6.3 billion appropriations
 
-**[00:40:25.120] Senator Erwin Tulfo** (asr-000515)  
+**[00:40:25.120] Senator Erwin T. Tulfo** (asr-000515)  
 para sa DFA o SEC?
 
-**[00:40:27.300] Senator Erwin Tulfo** (asr-000516)  
+**[00:40:27.300] Senator Erwin T. Tulfo** (asr-000516)  
 Anong dahilan o basis ng non-release ng mga pondong ito?
 
-**[00:40:31.240] Senator Erwin Tulfo** (asr-000517)  
+**[00:40:31.240] Senator Erwin T. Tulfo** (asr-000517)  
 Kaya minsan, hindi lang po ito first time ko narinig.
 
-**[00:40:34.720] Senator Erwin Tulfo** (asr-000518)  
+**[00:40:34.720] Senator Erwin T. Tulfo** (asr-000518)  
 Narinig ko sa other agencies, kahit previous budget,
 
-**[00:40:39.500] Senator Erwin Tulfo** (asr-000519)  
+**[00:40:39.500] Senator Erwin T. Tulfo** (asr-000519)  
 ang hindi na-release ng DBM.
 
-**[00:40:41.380] Senator Erwin Tulfo** (asr-000520)  
+**[00:40:41.380] Senator Erwin T. Tulfo** (asr-000520)  
 Ano po mga reasons po ba na hindi po agad na-release ng DBM?
 
 **[00:40:46.520] DBM OIC Director III Mary Rose P. Aguilar** (asr-000521)  
@@ -1591,22 +1591,22 @@ So ang nangyayari po, lumalaki po yung unrelease APRO nila
 **[00:41:25.580] DBM OIC Director III Mary Rose P. Aguilar** (asr-000532)  
 kasi hindi po nila nagagamit yung current appropriations.
 
-**[00:41:32.740] Senator Erwin Tulfo** (asr-000533)  
+**[00:41:32.740] Senator Erwin T. Tulfo** (asr-000533)  
 I don't know if the good secretary can answer this or ask Si Fernandez.
 
-**[00:41:38.120] Senator Erwin Tulfo** (asr-000534)  
+**[00:41:38.120] Senator Erwin T. Tulfo** (asr-000534)  
 Magkano na po ang overall disbursement rate ng DFA as of August 31, 2026 this year?
 
-**[00:41:44.900] Senator Erwin Tulfo** (asr-000535)  
+**[00:41:44.900] Senator Erwin T. Tulfo** (asr-000535)  
 Kasi dito po as of June,
 
-**[00:41:47.140] Senator Erwin Tulfo** (asr-000536)  
+**[00:41:47.140] Senator Erwin T. Tulfo** (asr-000536)  
 may 23 billion pa po kayo na unused appropriations
 
-**[00:41:51.000] Senator Erwin Tulfo** (asr-000537)  
+**[00:41:51.000] Senator Erwin T. Tulfo** (asr-000537)  
 of the 28.3 billion po sa gaan ninyo.
 
-**[00:41:55.680] Senator Erwin Tulfo** (asr-000538)  
+**[00:41:55.680] Senator Erwin T. Tulfo** (asr-000538)  
 That was June, pero siyempre on August po, I'm asking for August 31.
 
 **[00:42:29.100] DFA Assistant Secretary Emilio T. Fernandez** (asr-000539)  
@@ -1615,37 +1615,37 @@ Your Honor, as of the end of August,
 **[00:42:33.200] DFA Assistant Secretary Emilio T. Fernandez** (asr-000540)  
 our BURs in the neighborhood are 55%.
 
-**[00:42:37.680] Senator Erwin Tulfo** (asr-000541)  
+**[00:42:37.680] Senator Erwin T. Tulfo** (asr-000541)  
 In big year, sir, that will be 55%.
 
-**[00:42:41.220] Senator Erwin Tulfo** (asr-000542)  
+**[00:42:41.220] Senator Erwin T. Tulfo** (asr-000542)  
 Out of the 28.3, that will be around what?
 
-**[00:42:44.840] Senator Erwin Tulfo** (asr-000543)  
+**[00:42:44.840] Senator Erwin T. Tulfo** (asr-000543)  
 About 14?
 
-**[00:42:47.140] Senator Erwin Tulfo** (asr-000544)  
+**[00:42:47.140] Senator Erwin T. Tulfo** (asr-000544)  
 Ah, billion na ang nagagastos ninyo?
 
-**[00:42:53.600] Senator Erwin Tulfo** (asr-000545)  
+**[00:42:53.600] Senator Erwin T. Tulfo** (asr-000545)  
 Mga 15 na lang natitira or 13 billion na lang natitira?
 
-**[00:42:57.140] Senator Erwin Tulfo** (asr-000546)  
+**[00:42:57.140] Senator Erwin T. Tulfo** (asr-000546)  
 If you're saying 55%?
 
 **[00:43:03.080] DFA Assistant Secretary Emilio T. Fernandez** (asr-000547)  
 Your Honor, 17.5 billion.
 
-**[00:43:05.320] Senator Erwin Tulfo** (asr-000548)  
+**[00:43:05.320] Senator Erwin T. Tulfo** (asr-000548)  
 17.5 billion ang natitira?
 
 **[00:43:07.840] DFA Assistant Secretary Emilio T. Fernandez** (asr-000549)  
 Ang nagamit.
 
-**[00:43:09.240] Senator Erwin Tulfo** (asr-000550)  
+**[00:43:09.240] Senator Erwin T. Tulfo** (asr-000550)  
 Ang nagamit.
 
-**[00:43:09.740] Senator Erwin Tulfo** (asr-000551)  
+**[00:43:09.740] Senator Erwin T. Tulfo** (asr-000551)  
 Ang na-appropriate?
 
 **[00:43:11.200] DFA Assistant Secretary Emilio T. Fernandez** (asr-000552)  
@@ -1654,34 +1654,34 @@ Yes, ang na-obligato.
 **[00:43:12.360] DFA Assistant Secretary Emilio T. Fernandez** (asr-000553)  
 17.5 billion.
 
-**[00:43:13.900] Senator Erwin Tulfo** (asr-000554)  
+**[00:43:13.900] Senator Erwin T. Tulfo** (asr-000554)  
 Alright, moving to another issue.
 
-**[00:43:17.140] Senator Erwin Tulfo** (asr-000555)  
+**[00:43:17.140] Senator Erwin T. Tulfo** (asr-000555)  
 Ito po ang 1.6 billion in budgetary adjustments.
 
-**[00:43:20.780] Senator Erwin Tulfo** (asr-000556)  
+**[00:43:20.780] Senator Erwin T. Tulfo** (asr-000556)  
 May mga transfer po kayong ginawa.
 
-**[00:43:24.440] Senator Erwin Tulfo** (asr-000557)  
+**[00:43:24.440] Senator Erwin T. Tulfo** (asr-000557)  
 Miscellaneous personal benefits funds, 1.5B.
 
-**[00:43:28.120] Senator Erwin Tulfo** (asr-000558)  
+**[00:43:28.120] Senator Erwin T. Tulfo** (asr-000558)  
 Pension and gratuity funds, 77 million.
 
-**[00:43:32.160] Senator Erwin Tulfo** (asr-000559)  
+**[00:43:32.160] Senator Erwin T. Tulfo** (asr-000559)  
 Contingent fund, 26.1 million.
 
-**[00:43:35.660] Senator Erwin Tulfo** (asr-000560)  
+**[00:43:35.660] Senator Erwin T. Tulfo** (asr-000560)  
 Mababa po ang utilization rate,
 
-**[00:43:37.600] Senator Erwin Tulfo** (asr-000561)  
+**[00:43:37.600] Senator Erwin T. Tulfo** (asr-000561)  
 pero kinakailangan ninyo maglipat ng pondo.
 
-**[00:43:40.800] Senator Erwin Tulfo** (asr-000562)  
+**[00:43:40.800] Senator Erwin T. Tulfo** (asr-000562)  
 Saan po ba ginagamit ang budgetary adjustments?
 
-**[00:43:45.060] Senator Erwin Tulfo** (asr-000563)  
+**[00:43:45.060] Senator Erwin T. Tulfo** (asr-000563)  
 ...
 
 **[00:43:52.860] DFA Assistant Secretary Emilio T. Fernandez** (asr-000566)  
@@ -1702,49 +1702,49 @@ services, usually at post
 **[00:44:09.640] DFA Assistant Secretary Emilio T. Fernandez** (asr-000572)  
 na nire-request ko sa DBM.
 
-**[00:44:12.830] Senator Erwin Tulfo** (asr-000573)  
+**[00:44:12.830] Senator Erwin T. Tulfo** (asr-000573)  
 Yes, yes.
 
-**[00:44:14.340] Senator Erwin Tulfo** (asr-000574)  
+**[00:44:14.340] Senator Erwin T. Tulfo** (asr-000574)  
 Alright.
 
-**[00:44:17.140] Senator Erwin Tulfo** (asr-000577)  
+**[00:44:17.140] Senator Erwin T. Tulfo** (asr-000577)  
 Isa pa hong nakikita natin, legal assistance po, under din po ito sa OSEC, di po ba?
 
 **[00:44:26.840] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000578)  
 Yes, Your Honor.
 
-**[00:44:28.960] Senator Erwin Tulfo** (asr-000579)  
+**[00:44:28.960] Senator Erwin T. Tulfo** (asr-000579)  
 Now, the question here is 364.5 million po was appropriated but only 2.4 million has been utilized.
 
-**[00:44:41.620] Senator Erwin Tulfo** (asr-000580)  
+**[00:44:41.620] Senator Erwin T. Tulfo** (asr-000580)  
 Bakit parang less than 1% lang po utilization natin?
 
-**[00:44:47.140] Senator Erwin Tulfo** (asr-000581)  
+**[00:44:47.140] Senator Erwin T. Tulfo** (asr-000581)  
 Sobra-sobra ho yung binigay sa inyo.
 
-**[00:44:53.640] Senator Erwin Tulfo** (asr-000582)  
+**[00:44:53.640] Senator Erwin T. Tulfo** (asr-000582)  
 Considering na nababalitaan natin sa mga diaryo naman na may mga nakukulong tayo, mga Pilipino.
 
-**[00:45:00.000] Senator Erwin Tulfo** (asr-000583)  
+**[00:45:00.000] Senator Erwin T. Tulfo** (asr-000583)  
 May mga mamet, tatanungin ko si Secretary,
 
-**[00:45:03.340] Senator Erwin Tulfo** (asr-000584)  
+**[00:45:03.340] Senator Erwin T. Tulfo** (asr-000584)  
 kumusta na po itong mga kababayan natin?
 
-**[00:45:05.420] Senator Erwin Tulfo** (asr-000585)  
+**[00:45:05.420] Senator Erwin T. Tulfo** (asr-000585)  
 Ilan pa po ang nasa detro?
 
-**[00:45:06.860] Senator Erwin Tulfo** (asr-000586)  
+**[00:45:06.860] Senator Erwin T. Tulfo** (asr-000586)  
 Ilan yung na sintensyang habang buhay na pagkabilanggo?
 
-**[00:45:10.460] Senator Erwin Tulfo** (asr-000587)  
+**[00:45:10.460] Senator Erwin T. Tulfo** (asr-000587)  
 Ilan na po ang nakalabas?
 
-**[00:45:11.720] Senator Erwin Tulfo** (asr-000588)  
+**[00:45:11.720] Senator Erwin T. Tulfo** (asr-000588)  
 Ano-ano mga bansa po ito?
 
-**[00:45:13.240] Senator Erwin Tulfo** (asr-000589)  
+**[00:45:13.240] Senator Erwin T. Tulfo** (asr-000589)  
 Please get ready, Secretary Lazaro.
 
 **[00:45:20.000] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000590)  
@@ -1792,25 +1792,25 @@ They are either tourists, students, migrants,
 **[00:46:16.280] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000604)  
 permanent migrants.
 
-**[00:46:17.680] Senator Erwin Tulfo** (asr-000605)  
+**[00:46:17.680] Senator Erwin T. Tulfo** (asr-000605)  
 So yung explanation po ninyo, Yusek Tagu,
 
-**[00:46:21.780] Senator Erwin Tulfo** (asr-000606)  
+**[00:46:21.780] Senator Erwin T. Tulfo** (asr-000606)  
 ay kasi ang humahawak na ng legal assistance,
 
-**[00:46:25.380] Senator Erwin Tulfo** (asr-000607)  
+**[00:46:25.380] Senator Erwin T. Tulfo** (asr-000607)  
 ng mga OFWs, ay DMWs.
 
-**[00:46:28.380] Senator Erwin Tulfo** (asr-000608)  
+**[00:46:28.380] Senator Erwin T. Tulfo** (asr-000608)  
 So ano na lang po ang hinahawakan po ninyo?
 
-**[00:46:30.860] Senator Erwin Tulfo** (asr-000609)  
+**[00:46:30.860] Senator Erwin T. Tulfo** (asr-000609)  
 Ano po yung tinutulungan ninyo?
 
-**[00:46:32.880] Senator Erwin Tulfo** (asr-000610)  
+**[00:46:32.880] Senator Erwin T. Tulfo** (asr-000610)  
 Kung wala na po sa inyong office ang mga OFWs,
 
-**[00:46:36.620] Senator Erwin Tulfo** (asr-000611)  
+**[00:46:36.620] Senator Erwin T. Tulfo** (asr-000611)  
 sino-sino na lang po ang mga tinutulungan ninyo?
 
 **[00:46:39.340] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000612)  
@@ -1840,31 +1840,31 @@ or in a country without a system of legal aid.
 **[00:47:09.140] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000620)  
 Sir?
 
-**[00:47:10.380] Senator Erwin Tulfo** (asr-000621)  
+**[00:47:10.380] Senator Erwin T. Tulfo** (asr-000621)  
 Yung mga nasa kulungan po,
 
-**[00:47:13.920] Senator Erwin Tulfo** (asr-000622)  
+**[00:47:13.920] Senator Erwin T. Tulfo** (asr-000622)  
 nasa mga bilibit ng iba't-ibang bansa,
 
-**[00:47:17.120] Senator Erwin Tulfo** (asr-000623)  
+**[00:47:17.120] Senator Erwin T. Tulfo** (asr-000623)  
 karamihan po dito mga OFW po,
 
-**[00:47:19.120] Senator Erwin Tulfo** (asr-000624)  
+**[00:47:19.120] Senator Erwin T. Tulfo** (asr-000624)  
 hindi naman po sila talagang mga turista lang
 
-**[00:47:21.820] Senator Erwin Tulfo** (asr-000625)  
+**[00:47:21.820] Senator Erwin T. Tulfo** (asr-000625)  
 or kundi mga OFWs po,
 
-**[00:47:25.380] Senator Erwin Tulfo** (asr-000626)  
+**[00:47:25.380] Senator Erwin T. Tulfo** (asr-000626)  
 hindi naman po sila talagang mga turista lang lalo sa Middle East.
 
-**[00:47:27.380] Senator Erwin Tulfo** (asr-000627)  
+**[00:47:27.380] Senator Erwin T. Tulfo** (asr-000627)  
 Alright, what about sa Sabah, Malaysia po?
 
-**[00:47:31.380] Senator Erwin Tulfo** (asr-000628)  
+**[00:47:31.380] Senator Erwin T. Tulfo** (asr-000628)  
 Ito po ba yung mga nakakulong doon, yung pinapadeport lagi,
 
-**[00:47:35.380] Senator Erwin Tulfo** (asr-000629)  
+**[00:47:35.380] Senator Erwin T. Tulfo** (asr-000629)  
 OFWs po ito, o anong status nila?
 
 **[00:47:40.380] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000630)  
@@ -1879,52 +1879,52 @@ They are the jurisdiction of the DFA,
 **[00:47:48.380] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000633)  
 as long as they are not OFWs there, sir.
 
-**[00:47:52.380] Senator Erwin Tulfo** (asr-000634)  
+**[00:47:52.380] Senator Erwin T. Tulfo** (asr-000634)  
 So, bottom line, na yung natutulungan po ng DFA,
 
-**[00:47:54.380] Senator Erwin Tulfo** (asr-000635)  
+**[00:47:54.380] Senator Erwin T. Tulfo** (asr-000635)  
 So, bottom line, na yung natutulungan po ng DFA,
 
-**[00:47:55.140] Senator Erwin Tulfo** (asr-000636)  
+**[00:47:55.140] Senator Erwin T. Tulfo** (asr-000636)  
 ay hindi po migrant workers o hindi po OFWs.
 
-**[00:48:00.140] Senator Erwin Tulfo** (asr-000637)  
+**[00:48:00.140] Senator Erwin T. Tulfo** (asr-000637)  
 Pero my question now is, paano po,
 
-**[00:48:03.140] Senator Erwin Tulfo** (asr-000638)  
+**[00:48:03.140] Senator Erwin T. Tulfo** (asr-000638)  
 sino po ang tutulong doon sa mga babae natin?
 
-**[00:48:06.140] Senator Erwin Tulfo** (asr-000639)  
+**[00:48:06.140] Senator Erwin T. Tulfo** (asr-000639)  
 Marami rin po po ito.
 
-**[00:48:07.140] Senator Erwin Tulfo** (asr-000640)  
+**[00:48:07.140] Senator Erwin T. Tulfo** (asr-000640)  
 And I was once a TNT.
 
-**[00:48:09.140] Senator Erwin Tulfo** (asr-000641)  
+**[00:48:09.140] Senator Erwin T. Tulfo** (asr-000641)  
 Sino po ang tutulong? Paano po matutulungan ito?
 
-**[00:48:12.140] Senator Erwin Tulfo** (asr-000642)  
+**[00:48:12.140] Senator Erwin T. Tulfo** (asr-000642)  
 At assistance, anong klaseng assistance binibigay natin dito?
 
-**[00:48:16.140] Senator Erwin Tulfo** (asr-000643)  
+**[00:48:16.140] Senator Erwin T. Tulfo** (asr-000643)  
 Natago ng tago.
 
-**[00:48:17.140] Senator Erwin Tulfo** (asr-000644)  
+**[00:48:17.140] Senator Erwin T. Tulfo** (asr-000644)  
 And would you have numbers right now kung ilan yung mga TNT na sa Middle East,
 
-**[00:48:21.140] Senator Erwin Tulfo** (asr-000645)  
+**[00:48:21.140] Senator Erwin T. Tulfo** (asr-000645)  
 na sa US, na sa European Union,
 
-**[00:48:24.140] Senator Erwin Tulfo** (asr-000646)  
+**[00:48:24.140] Senator Erwin T. Tulfo** (asr-000646)  
 do we have those figures, sir?
 
-**[00:48:27.140] Senator Erwin Tulfo** (asr-000647)  
+**[00:48:27.140] Senator Erwin T. Tulfo** (asr-000647)  
 Yung mga nagturista pero ayaw na umuwi,
 
-**[00:48:30.140] Senator Erwin Tulfo** (asr-000648)  
+**[00:48:30.140] Senator Erwin T. Tulfo** (asr-000648)  
 maghanap na ng trabaho doon,
 
-**[00:48:32.140] Senator Erwin Tulfo** (asr-000649)  
+**[00:48:32.140] Senator Erwin T. Tulfo** (asr-000649)  
 nagbaba ka sa Cali.
 
 **[00:48:34.140] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000650)  
@@ -1975,37 +1975,37 @@ Some, if they don't approach, then we are unable to extend, of course.
 **[00:49:26.140] DFA OIC Undersecretary Ezzedin H. Tago** (asr-000665)  
 Pero usually, all of them, any Filipino would qualify based on kung nasaan po sila.
 
-**[00:49:36.140] Senator Erwin Tulfo** (asr-000666)  
+**[00:49:36.140] Senator Erwin T. Tulfo** (asr-000666)  
 But how do you reach out to these people?
 
-**[00:49:38.140] Senator Erwin Tulfo** (asr-000667)  
+**[00:49:38.140] Senator Erwin T. Tulfo** (asr-000667)  
 Kaya nga po, undocumented, tago ng tago, natatakot po sila lumutang.
 
-**[00:49:43.140] Senator Erwin Tulfo** (asr-000668)  
+**[00:49:43.140] Senator Erwin T. Tulfo** (asr-000668)  
 Is there a way kaya na you reach out to them?
 
-**[00:49:47.140] Senator Erwin Tulfo** (asr-000669)  
+**[00:49:47.140] Senator Erwin T. Tulfo** (asr-000669)  
 Or do you use communications sa mga Pilipino na OFW din na,
 
-**[00:49:52.140] Senator Erwin Tulfo** (asr-000670)  
+**[00:49:52.140] Senator Erwin T. Tulfo** (asr-000670)  
 kachismisan nila doon,
 
-**[00:49:54.140] Senator Erwin Tulfo** (asr-000671)  
+**[00:49:54.140] Senator Erwin T. Tulfo** (asr-000671)  
 Oye, pwede kang bumihingi ng tulong kahit nawala kang papel?
 
-**[00:49:57.140] Senator Erwin Tulfo** (asr-000672)  
+**[00:49:57.140] Senator Erwin T. Tulfo** (asr-000672)  
 Usually, ganun po eh.
 
-**[00:49:58.140] Senator Erwin Tulfo** (asr-000673)  
+**[00:49:58.140] Senator Erwin T. Tulfo** (asr-000673)  
 Na ito, legit nakakapitbahay niya o ka-boarding house siya,
 
-**[00:50:03.140] Senator Erwin Tulfo** (asr-000674)  
+**[00:50:03.140] Senator Erwin T. Tulfo** (asr-000674)  
 siya, undocumented, nagkakwentuhan sila.
 
-**[00:50:06.140] Senator Erwin Tulfo** (asr-000675)  
+**[00:50:06.140] Senator Erwin T. Tulfo** (asr-000675)  
 Pinaparating din po ba ninyo na,
 
-**[00:50:09.140] Senator Erwin Tulfo** (asr-000676)  
+**[00:50:09.140] Senator Erwin T. Tulfo** (asr-000676)  
 Oye, pwede kayo lumapit sa ating DFA?
 
 **[00:50:13.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000677)  
@@ -2026,7 +2026,7 @@ Out of 10.5 million Filipinos overseas,
 **[00:50:28.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000682)  
 actually, kulang-kulang po...
 
-**[00:50:30.140] Senator Erwin Tulfo** (asr-000683)  
+**[00:50:30.140] Senator Erwin T. Tulfo** (asr-000683)  
 10.5 kasama na po doon ang OFWs?
 
 **[00:50:32.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000684)  
@@ -2083,67 +2083,67 @@ tungkol doon sa problema na yun,
 **[00:51:23.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000701)  
 at kung paano kami makakatulong.
 
-**[00:51:25.140] Senator Erwin Tulfo** (asr-000702)  
+**[00:51:25.140] Senator Erwin T. Tulfo** (asr-000702)  
 Since we're already talking, Secretary,
 
-**[00:51:28.140] Senator Erwin Tulfo** (asr-000703)  
+**[00:51:28.140] Senator Erwin T. Tulfo** (asr-000703)  
 about mga Filipinos overseas, di po ba?
 
-**[00:51:31.140] Senator Erwin Tulfo** (asr-000704)  
+**[00:51:31.140] Senator Erwin T. Tulfo** (asr-000704)  
 Ito po ipadala po ng media.
 
-**[00:51:33.140] Senator Erwin Tulfo** (asr-000705)  
+**[00:51:33.140] Senator Erwin T. Tulfo** (asr-000705)  
 These are questions from the media who's watching right now next door,
 
-**[00:51:36.140] Senator Erwin Tulfo** (asr-000706)  
+**[00:51:36.140] Senator Erwin T. Tulfo** (asr-000706)  
 doon sa press office nila.
 
-**[00:51:38.140] Senator Erwin Tulfo** (asr-000707)  
+**[00:51:38.140] Senator Erwin T. Tulfo** (asr-000707)  
 Ang question po nila,
 
-**[00:51:41.140] Senator Erwin Tulfo** (asr-000708)  
+**[00:51:41.140] Senator Erwin T. Tulfo** (asr-000708)  
 namamonitor din po ba ng DFA yung mga kababayan natin?
 
-**[00:51:47.140] Senator Erwin Tulfo** (asr-000709)  
+**[00:51:47.140] Senator Erwin T. Tulfo** (asr-000709)  
 Example, Zaldy Co.
 
-**[00:51:49.140] Senator Erwin Tulfo** (asr-000710)  
+**[00:51:49.140] Senator Erwin T. Tulfo** (asr-000710)  
 Is he still in France?
 
-**[00:51:51.140] Senator Erwin Tulfo** (asr-000711)  
+**[00:51:51.140] Senator Erwin T. Tulfo** (asr-000711)  
 Ano po ang status?
 
-**[00:51:52.140] Senator Erwin Tulfo** (asr-000712)  
+**[00:51:52.140] Senator Erwin T. Tulfo** (asr-000712)  
 Are you monitoring his status?
 
-**[00:51:54.140] Senator Erwin Tulfo** (asr-000713)  
+**[00:51:54.140] Senator Erwin T. Tulfo** (asr-000713)  
 Kung nag-apply siya ng asylum?
 
-**[00:51:57.140] Senator Erwin Tulfo** (asr-000714)  
+**[00:51:57.140] Senator Erwin T. Tulfo** (asr-000714)  
 Kung pumasa ba ito, nabigyan ba ng asylum?
 
-**[00:51:59.140] Senator Erwin Tulfo** (asr-000715)  
+**[00:51:59.140] Senator Erwin T. Tulfo** (asr-000715)  
 Does France inform us like,
 
-**[00:52:01.140] Senator Erwin Tulfo** (asr-000716)  
+**[00:52:01.140] Senator Erwin T. Tulfo** (asr-000716)  
 Hoy, isang citizen nyo nag-apply ng asylum.
 
-**[00:52:04.140] Senator Erwin Tulfo** (asr-000717)  
+**[00:52:04.140] Senator Erwin T. Tulfo** (asr-000717)  
 Can you answer?
 
-**[00:52:05.140] Senator Erwin Tulfo** (asr-000718)  
+**[00:52:05.140] Senator Erwin T. Tulfo** (asr-000718)  
 Because definitely they will ask us, di ba?
 
-**[00:52:07.140] Senator Erwin Tulfo** (asr-000719)  
+**[00:52:07.140] Senator Erwin T. Tulfo** (asr-000719)  
 Bakit nag-apply si Zaldy Co ng asylum?
 
-**[00:52:11.140] Senator Erwin Tulfo** (asr-000720)  
+**[00:52:11.140] Senator Erwin T. Tulfo** (asr-000720)  
 Anything wrong?
 
-**[00:52:12.140] Senator Erwin Tulfo** (asr-000721)  
+**[00:52:12.140] Senator Erwin T. Tulfo** (asr-000721)  
 I mean, then do you answer?
 
-**[00:52:14.140] Senator Erwin Tulfo** (asr-000722)  
+**[00:52:14.140] Senator Erwin T. Tulfo** (asr-000722)  
 Secretary Lazaro.
 
 **[00:52:15.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000723)  
@@ -2182,10 +2182,10 @@ Again, based on their very strict privacy issues.
 **[00:52:44.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000734)  
 Ganun din po sa Austria with Harry Roque.
 
-**[00:52:49.140] Senator Erwin Tulfo** (asr-000735)  
+**[00:52:49.140] Senator Erwin T. Tulfo** (asr-000735)  
 So, wala po tayong kung anong status?
 
-**[00:52:53.140] Senator Erwin Tulfo** (asr-000736)  
+**[00:52:53.140] Senator Erwin T. Tulfo** (asr-000736)  
 Hindi po tayo ini-inform ng host country na isang citizen ninyo?
 
 **[00:52:58.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000737)  
@@ -2209,25 +2209,25 @@ ah kinuha na nandun na sa France.
 **[00:53:25.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000743)  
 Pero ang ganda nung po yung informasyon lamang.
 
-**[00:53:28.140] Senator Erwin Tulfo** (asr-000744)  
+**[00:53:28.140] Senator Erwin T. Tulfo** (asr-000744)  
 Ito po kay Harry Roque.
 
-**[00:53:31.140] Senator Erwin Tulfo** (asr-000745)  
+**[00:53:31.140] Senator Erwin T. Tulfo** (asr-000745)  
 The only information we got was like from the DILG.
 
-**[00:53:35.140] Senator Erwin Tulfo** (asr-000746)  
+**[00:53:35.140] Senator Erwin T. Tulfo** (asr-000746)  
 Wala din po kayong information kung na-deny nga,
 
-**[00:53:39.140] Senator Erwin Tulfo** (asr-000747)  
+**[00:53:39.140] Senator Erwin T. Tulfo** (asr-000747)  
 totoo or can you confirm with the France or what country he's in right now?
 
-**[00:53:46.140] Senator Erwin Tulfo** (asr-000748)  
+**[00:53:46.140] Senator Erwin T. Tulfo** (asr-000748)  
 Netherlands na hindi siya na-
 
 **[00:53:48.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000749)  
 Austria po.
 
-**[00:53:49.140] Senator Erwin Tulfo** (asr-000750)  
+**[00:53:49.140] Senator Erwin T. Tulfo** (asr-000750)  
 Austria, I'm sorry.
 
 **[00:53:50.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000751)  
@@ -2239,19 +2239,19 @@ if the asylum has been denied.
 **[00:53:59.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000753)  
 Wala pa, again, back to their basic tenets of strict privacy issues.
 
-**[00:54:04.140] Senator Erwin Tulfo** (asr-000754)  
+**[00:54:04.140] Senator Erwin T. Tulfo** (asr-000754)  
 Is it only in the European Union or what about in other countries?
 
-**[00:54:09.140] Senator Erwin Tulfo** (asr-000755)  
+**[00:54:09.140] Senator Erwin T. Tulfo** (asr-000755)  
 South America, ibibigay din po ng asylum.
 
-**[00:54:11.140] Senator Erwin Tulfo** (asr-000756)  
+**[00:54:11.140] Senator Erwin T. Tulfo** (asr-000756)  
 Are there other countries outside the European Union?
 
-**[00:54:15.140] Senator Erwin Tulfo** (asr-000757)  
+**[00:54:15.140] Senator Erwin T. Tulfo** (asr-000757)  
 Meron po ba tayo ngayon mga politiko, yung mga hinahanap ng gobyerno
 
-**[00:54:20.140] Senator Erwin Tulfo** (asr-000758)  
+**[00:54:20.140] Senator Erwin T. Tulfo** (asr-000758)  
 other than the European Union ay nandoon ngayon sa inyong palagay?
 
 **[00:54:26.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000759)  
@@ -2284,22 +2284,22 @@ itong tatlong treaties na ito, agreements.
 **[00:55:07.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000768)  
 So yun po siguro ang nagbibigay din ng difficulties.
 
-**[00:55:11.140] Senator Erwin Tulfo** (asr-000769)  
+**[00:55:11.140] Senator Erwin T. Tulfo** (asr-000769)  
 Nag-inspire daw po ba?
 
-**[00:55:13.140] Senator Erwin Tulfo** (asr-000770)  
+**[00:55:13.140] Senator Erwin T. Tulfo** (asr-000770)  
 Ang mga passports na mga ito.
 
-**[00:55:15.140] Senator Erwin Tulfo** (asr-000771)  
+**[00:55:15.140] Senator Erwin T. Tulfo** (asr-000771)  
 Paano po ito?
 
-**[00:55:16.140] Senator Erwin Tulfo** (asr-000772)  
+**[00:55:16.140] Senator Erwin T. Tulfo** (asr-000772)  
 Kailangan po sila ng batas dito ng mga otoridad.
 
-**[00:55:20.140] Senator Erwin Tulfo** (asr-000773)  
+**[00:55:20.140] Senator Erwin T. Tulfo** (asr-000773)  
 Pwede ba silang mag-renew ng kanilang passport
 
-**[00:55:22.140] Senator Erwin Tulfo** (asr-000774)  
+**[00:55:22.140] Senator Erwin T. Tulfo** (asr-000774)  
 or hindi na po i-hold na po ito ng DFA, ng embahada natin?
 
 **[00:55:27.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000775)  
@@ -2320,49 +2320,49 @@ One way yun eh.
 **[00:55:49.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000780)  
 From the foreign country to the Philippines, travel document po ang binibigay namin.
 
-**[00:55:55.140] Senator Erwin Tulfo** (asr-000781)  
+**[00:55:55.140] Senator Erwin T. Tulfo** (asr-000781)  
 We move to another attached agency.
 
-**[00:55:59.140] Senator Erwin Tulfo** (asr-000782)  
+**[00:55:59.140] Senator Erwin T. Tulfo** (asr-000782)  
 I have like class 3 questions.
 
-**[00:56:01.140] Senator Erwin Tulfo** (asr-000783)  
+**[00:56:01.140] Senator Erwin T. Tulfo** (asr-000783)  
 So by the way, Madam Secretary,
 
-**[00:56:03.140] Senator Erwin Tulfo** (asr-000784)  
+**[00:56:03.140] Senator Erwin T. Tulfo** (asr-000784)  
 kalalabas lang po sa media na isa na naman po before ship po natin
 
-**[00:56:07.140] Senator Erwin Tulfo** (asr-000785)  
+**[00:56:07.140] Senator Erwin T. Tulfo** (asr-000785)  
 binangga ng Chinese Coast Guard sa West Philippine Sea.
 
-**[00:56:10.140] Senator Erwin Tulfo** (asr-000786)  
+**[00:56:10.140] Senator Erwin T. Tulfo** (asr-000786)  
 You might want to look into this immediately
 
-**[00:56:13.140] Senator Erwin Tulfo** (asr-000787)  
+**[00:56:13.140] Senator Erwin T. Tulfo** (asr-000787)  
 kung meron po tayong mga casualties or injuries po doon.
 
-**[00:56:16.140] Senator Erwin Tulfo** (asr-000788)  
+**[00:56:16.140] Senator Erwin T. Tulfo** (asr-000788)  
 Alright. Ito po, isa pa po ito.
 
-**[00:56:20.140] Senator Erwin Tulfo** (asr-000789)  
+**[00:56:20.140] Senator Erwin T. Tulfo** (asr-000789)  
 Recruitment ng mga Filipinos dyan ngayon sa bakbakan sa Russia and Ukraine.
 
-**[00:56:29.140] Senator Erwin Tulfo** (asr-000790)  
+**[00:56:29.140] Senator Erwin T. Tulfo** (asr-000790)  
 Ano ho ang ikanga?
 
-**[00:56:32.140] Senator Erwin Tulfo** (asr-000791)  
+**[00:56:32.140] Senator Erwin T. Tulfo** (asr-000791)  
 Not only Russia, may mga balita din po po pati sa Ukraine.
 
-**[00:56:35.140] Senator Erwin Tulfo** (asr-000792)  
+**[00:56:35.140] Senator Erwin T. Tulfo** (asr-000792)  
 Yung mga may mga experience po na ating mga sundalo po rito,
 
-**[00:56:41.140] Senator Erwin Tulfo** (asr-000793)  
+**[00:56:41.140] Senator Erwin T. Tulfo** (asr-000793)  
 mga komando, pumupunta po dito.
 
-**[00:56:46.140] Senator Erwin Tulfo** (asr-000794)  
+**[00:56:46.140] Senator Erwin T. Tulfo** (asr-000794)  
 Ngayon, nahuhuli po sa Russia. May mga nahuli.
 
-**[00:56:50.140] Senator Erwin Tulfo** (asr-000795)  
+**[00:56:50.140] Senator Erwin T. Tulfo** (asr-000795)  
 So ano ang ginagawa natin dito? Paano ito mamomonitor, Secretary?
 
 **[00:56:55.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000796)  
@@ -2428,28 +2428,28 @@ Hinihingi namin ang salaysay niya kung paano siya napunta doon,
 **[00:58:27.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000816)  
 kung paano siya napasok doon sa sitwasyon niya na yan.
 
-**[00:58:30.140] Senator Erwin Tulfo** (asr-000817)  
+**[00:58:30.140] Senator Erwin T. Tulfo** (asr-000817)  
 I believe, narinig ko din po yan.
 
-**[00:58:33.140] Senator Erwin Tulfo** (asr-000818)  
+**[00:58:33.140] Senator Erwin T. Tulfo** (asr-000818)  
 Ang mga experience siya po, security guard po siya dito.
 
-**[00:58:37.140] Senator Erwin Tulfo** (asr-000819)  
+**[00:58:37.140] Senator Erwin T. Tulfo** (asr-000819)  
 Mabuti sana kung may experience siya sa scout ranger natin or special forces
 
-**[00:58:42.140] Senator Erwin Tulfo** (asr-000820)  
+**[00:58:42.140] Senator Erwin T. Tulfo** (asr-000820)  
 or special action force dahil well-trained po.
 
-**[00:58:45.140] Senator Erwin Tulfo** (asr-000821)  
+**[00:58:45.140] Senator Erwin T. Tulfo** (asr-000821)  
 Pero gayon pa man, malalagay po sa alanganin po sila.
 
-**[00:58:49.140] Senator Erwin Tulfo** (asr-000822)  
+**[00:58:49.140] Senator Erwin T. Tulfo** (asr-000822)  
 So, pamag-a-ganito po ba, have you already informed Russia and Ukraine if ever na may mga Filipinos
 
-**[00:58:56.140] Senator Erwin Tulfo** (asr-000823)  
+**[00:58:56.140] Senator Erwin T. Tulfo** (asr-000823)  
 na mga na-recruit o nakapasok sa kanila, sa kanilang military,
 
-**[00:59:01.140] Senator Erwin Tulfo** (asr-000824)  
+**[00:59:01.140] Senator Erwin T. Tulfo** (asr-000824)  
 pwedeng ipagbigay sa alam sa inyo? May ganun po ba kayong…
 
 **[00:59:05.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000825)  
@@ -2458,13 +2458,13 @@ Mr. Chair, we have been making representations pero hindi naman kami nabibigyan 
 **[00:59:14.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000826)  
 Pero continuous po ang representations namin dito since narinig namin itong sitwasyon na ito.
 
-**[00:59:20.140] Senator Erwin Tulfo** (asr-000827)  
+**[00:59:20.140] Senator Erwin T. Tulfo** (asr-000827)  
 Secretary, may mga casualties. Nire-report din po ba sa inyo?
 
-**[00:59:26.140] Senator Erwin Tulfo** (asr-000828)  
+**[00:59:26.140] Senator Erwin T. Tulfo** (asr-000828)  
 Nang both sides, like may namatay niya Filipino dito sa grupo namin o dito sa amin, sa bansa namin dahil nandun siya sa front line.
 
-**[00:59:37.140] Senator Erwin Tulfo** (asr-000829)  
+**[00:59:37.140] Senator Erwin T. Tulfo** (asr-000829)  
 Do they report it to us or to our embassies?
 
 **[00:59:40.140] DFA Secretary Ma. Theresa P. Lazaro** (asr-000830)  
@@ -2482,19 +2482,19 @@ May isa lang po kami palang natanggap na…
 **[01:00:00.000] DFA Secretary Ma. Theresa P. Lazaro** (asr-000834)  
 casualty.
 
-**[01:00:03.280] Senator Erwin Tulfo** (asr-000835)  
+**[01:00:03.280] Senator Erwin T. Tulfo** (asr-000835)  
 Nakakulong po?
 
-**[01:00:04.480] Senator Erwin Tulfo** (asr-000836)  
+**[01:00:04.480] Senator Erwin T. Tulfo** (asr-000836)  
 I mean, both sides? Russia,
 
-**[01:00:06.620] Senator Erwin Tulfo** (asr-000837)  
+**[01:00:06.620] Senator Erwin T. Tulfo** (asr-000837)  
 Ukraine? May mga Pilipinas po ba tayo
 
-**[01:00:08.740] Senator Erwin Tulfo** (asr-000838)  
+**[01:00:08.740] Senator Erwin T. Tulfo** (asr-000838)  
 na nakakulong po?
 
-**[01:00:10.680] Senator Erwin Tulfo** (asr-000839)  
+**[01:00:10.680] Senator Erwin T. Tulfo** (asr-000839)  
 Either sa Russia or sa Ukraine?
 
 **[01:00:13.500] DFA Secretary Ma. Theresa P. Lazaro** (asr-000840)  
@@ -2506,19 +2506,19 @@ information po, tig-isa.
 **[01:00:16.520] DFA Secretary Ma. Theresa P. Lazaro** (asr-000842)  
 Isa sa Russia, nakakulong. Isa sa Ukraine.
 
-**[01:00:19.880] Senator Erwin Tulfo** (asr-000843)  
+**[01:00:19.880] Senator Erwin T. Tulfo** (asr-000843)  
 Alright,
 
-**[01:00:20.520] Senator Erwin Tulfo** (asr-000844)  
+**[01:00:20.520] Senator Erwin T. Tulfo** (asr-000844)  
 thank you. Now, let's
 
-**[01:00:22.300] Senator Erwin Tulfo** (asr-000845)  
+**[01:00:22.300] Senator Erwin T. Tulfo** (asr-000845)  
 move on. Who's the next
 
-**[01:00:24.560] Senator Erwin Tulfo** (asr-000846)  
+**[01:00:24.560] Senator Erwin T. Tulfo** (asr-000846)  
 agency to present, Secretary
 
-**[01:00:26.360] Senator Erwin Tulfo** (asr-000847)  
+**[01:00:26.360] Senator Erwin T. Tulfo** (asr-000847)  
 Lazaro, if there's any?
 
 **[01:00:28.460] DFA Secretary Ma. Theresa P. Lazaro** (asr-000848)  
@@ -2545,10 +2545,10 @@ Presidential Commission on
 **[01:00:41.960] DFA Secretary Ma. Theresa P. Lazaro** (asr-000855)  
 Visiting Forces to start? Thank you.
 
-**[01:00:45.320] Senator Erwin Tulfo** (asr-000856)  
+**[01:00:45.320] Senator Erwin T. Tulfo** (asr-000856)  
 Yusek Habulan,
 
-**[01:00:46.560] Senator Erwin Tulfo** (asr-000857)  
+**[01:00:46.560] Senator Erwin T. Tulfo** (asr-000857)  
 do you have any statements?
 
 **[01:00:49.180] PCVF Executive Director Antonio Atanacio Habulan** (asr-000858)  
@@ -2749,13 +2749,13 @@ which include at least 10 major exercises and activities under the VFA, the SOFA
 **[01:03:34.060] PCVF Executive Director Antonio Atanacio Habulan** (asr-000923)  
 So that's about it.
 
-**[01:03:35.920] Senator Erwin Tulfo** (asr-000924)  
+**[01:03:35.920] Senator Erwin T. Tulfo** (asr-000924)  
 Thank you, Yusek Antonio Habulan.
 
-**[01:03:38.340] Senator Erwin Tulfo** (asr-000925)  
+**[01:03:38.340] Senator Erwin T. Tulfo** (asr-000925)  
 And before we proceed, I'd like to acknowledge the presence of our Chairman on Finance, Senator JV Ejercito.
 
-**[01:03:48.220] Senator Erwin Tulfo** (asr-000926)  
+**[01:03:48.220] Senator Erwin T. Tulfo** (asr-000926)  
 Sen. JV, do you have any statements?
 
 **[01:03:50.840] Senator Joseph Victor "JV" G. Ejercito** (asr-000927)  
@@ -3091,64 +3091,64 @@ Pag papadating, bawal ang foreigners. Pilipino lang pwede. Pag paalis, bawal nam
 **[01:13:36.600] Senator Joseph Victor "JV" G. Ejercito** (asr-001037)  
 Foreigners lang kasi sa anti-trafficking. So another issue that's on with probably Bureau of Immigration. Thank you, Mr. Chair.
 
-**[01:13:44.520] Senator Erwin Tulfo** (asr-001038)  
+**[01:13:44.520] Senator Erwin T. Tulfo** (asr-001038)  
 Thank you, Mr. Chair.
 
-**[01:13:45.980] Senator Erwin Tulfo** (asr-001039)  
+**[01:13:45.980] Senator Erwin T. Tulfo** (asr-001039)  
 Yeah, let me get back to ASEC Halandoon, Louie.
 
-**[01:13:52.320] Senator Erwin Tulfo** (asr-001040)  
+**[01:13:52.320] Senator Erwin T. Tulfo** (asr-001040)  
 Ma'am, nung tinayo pa ito ng BID, hindi man naku-coordinate sa inyo ang Bureau of Immigration, ang airport?
 
-**[01:13:59.720] Senator Erwin Tulfo** (asr-001041)  
+**[01:13:59.720] Senator Erwin T. Tulfo** (asr-001041)  
 Like, testing po muna tayo kasi sayang naman po, testing.
 
-**[01:14:04.900] Senator Erwin Tulfo** (asr-001042)  
+**[01:14:04.900] Senator Erwin T. Tulfo** (asr-001042)  
 Kaya dami yung nakapila.
 
-**[01:14:05.860] Senator Erwin Tulfo** (asr-001043)  
+**[01:14:05.860] Senator Erwin T. Tulfo** (asr-001043)  
 Ang daming mga windows ay windows. Yung mga machines po doon, readers, wala naman.
 
-**[01:14:11.120] Senator Erwin Tulfo** (asr-001044)  
+**[01:14:11.120] Senator Erwin T. Tulfo** (asr-001044)  
 Ang nakapila, maharap pa rin yung mga tatapos. Siyang ka makakitaan yan?
 
-**[01:14:16.000] Senator Erwin Tulfo** (asr-001045)  
+**[01:14:16.000] Senator Erwin T. Tulfo** (asr-001045)  
 Foreigner pagpapasok, hindi pwede. Paglabas, pwede. Pilipino, hindi. Dapat pareho. Foreigner, hindi.
 
-**[01:14:22.460] Senator Erwin Tulfo** (asr-001046)  
+**[01:14:22.460] Senator Erwin T. Tulfo** (asr-001046)  
 Hindi ko maintindihan. Wala ho bang coordination na bago nila itinayo yun? Ano yun? Sila-sila lang nag-decide?
 
-**[01:14:29.940] Senator Erwin Tulfo** (asr-001047)  
+**[01:14:29.940] Senator Erwin T. Tulfo** (asr-001047)  
 Dapat ay testing po ba? Di po ba na humingi sila sa DFA?
 
-**[01:14:34.320] Senator Erwin Tulfo** (asr-001048)  
+**[01:14:34.320] Senator Erwin T. Tulfo** (asr-001048)  
 Patingin nga.
 
-**[01:14:35.080] Senator Erwin Tulfo** (asr-001049)  
+**[01:14:35.080] Senator Erwin T. Tulfo** (asr-001049)  
 Specimen.
 
-**[01:14:35.860] Senator Erwin Tulfo** (asr-001050)  
+**[01:14:35.860] Senator Erwin T. Tulfo** (asr-001050)  
 Exactly.
 
 **[01:14:36.600] DFA Assistant Secretary Anne Jalando-on Louis** (asr-001051)  
 Yes. Your Honor, we did not receive any invitation to participate in any stage until it was already there.
 
-**[01:14:45.040] Senator Erwin Tulfo** (asr-001052)  
+**[01:14:45.040] Senator Erwin T. Tulfo** (asr-001052)  
 So you're saying, nung nilagay nila yung mga makina nila dyan yung reader, hindi malang sinulatan, Sekretary Lazaro, patesting po ng mga passport ninyo, yung luma, yung bago, diplomatic, official, civilian passport.
 
-**[01:15:00.000] Senator Erwin Tulfo** (asr-001053)  
+**[01:15:00.000] Senator Erwin T. Tulfo** (asr-001053)  
 passport para
 
-**[01:15:01.080] Senator Erwin Tulfo** (asr-001054)  
+**[01:15:01.080] Senator Erwin T. Tulfo** (asr-001054)  
 mag-dry run natin? None at all
 
-**[01:15:03.600] Senator Erwin Tulfo** (asr-001055)  
+**[01:15:03.600] Senator Erwin T. Tulfo** (asr-001055)  
 nung tinayo nila? Anong ginamit
 
-**[01:15:05.580] Senator Erwin Tulfo** (asr-001056)  
+**[01:15:05.580] Senator Erwin T. Tulfo** (asr-001056)  
 po nila sample doon? ID?
 
-**[01:15:09.200] Senator Erwin Tulfo** (asr-001057)  
+**[01:15:09.200] Senator Erwin T. Tulfo** (asr-001057)  
 Passport nila.
 
 **[01:15:11.120] DFA Assistant Secretary Anne Jalando-on Louis** (asr-001058)  
@@ -3160,22 +3160,22 @@ passports that they have, but they were not
 **[01:15:13.700] DFA Assistant Secretary Anne Jalando-on Louis** (asr-001060)  
 the actual specimens from this.
 
-**[01:15:15.060] Senator Erwin Tulfo** (asr-001061)  
+**[01:15:15.060] Senator Erwin T. Tulfo** (asr-001061)  
 You did not receive any?
 
-**[01:15:17.220] Senator Erwin Tulfo** (asr-001062)  
+**[01:15:17.220] Senator Erwin T. Tulfo** (asr-001062)  
 Didn't you talk to the Secretary of Justice
 
-**[01:15:19.800] Senator Erwin Tulfo** (asr-001063)  
+**[01:15:19.800] Senator Erwin T. Tulfo** (asr-001063)  
 about it, Secretary?
 
-**[01:15:21.580] Senator Erwin Tulfo** (asr-001064)  
+**[01:15:21.580] Senator Erwin T. Tulfo** (asr-001064)  
 Like, tignan mo, sub-line ngayon ito.
 
-**[01:15:23.860] Senator Erwin Tulfo** (asr-001065)  
+**[01:15:23.860] Senator Erwin T. Tulfo** (asr-001065)  
 May problema tayo dito sa reader po
 
-**[01:15:25.660] Senator Erwin Tulfo** (asr-001066)  
+**[01:15:25.660] Senator Erwin T. Tulfo** (asr-001066)  
 natin, Secretary. Actually,
 
 **[01:15:27.180] DFA Secretary Ma. Theresa P. Lazaro** (asr-001067)  
@@ -3202,25 +3202,25 @@ or anything. Hindi
 **[01:15:41.220] DFA Secretary Ma. Theresa P. Lazaro** (asr-001074)  
 nagkaroon ng meta-testing, nothing po.
 
-**[01:15:43.300] Senator Erwin Tulfo** (asr-001075)  
+**[01:15:43.300] Senator Erwin T. Tulfo** (asr-001075)  
 Were you surprised na suddenly
 
-**[01:15:45.360] Senator Erwin Tulfo** (asr-001076)  
+**[01:15:45.360] Senator Erwin T. Tulfo** (asr-001076)  
 paglabas mo, pagpasok mo,
 
-**[01:15:47.040] Senator Erwin Tulfo** (asr-001077)  
+**[01:15:47.040] Senator Erwin T. Tulfo** (asr-001077)  
 may mga reader na dito, pero
 
-**[01:15:48.780] Senator Erwin Tulfo** (asr-001078)  
+**[01:15:48.780] Senator Erwin T. Tulfo** (asr-001078)  
 kahit ikaw, hindi ka dumaan mo siguro
 
-**[01:15:51.200] Senator Erwin Tulfo** (asr-001079)  
+**[01:15:51.200] Senator Erwin T. Tulfo** (asr-001079)  
 doon, dumaan ka doon sa
 
-**[01:15:53.480] Senator Erwin Tulfo** (asr-001080)  
+**[01:15:53.480] Senator Erwin T. Tulfo** (asr-001080)  
 ikang isang lane.
 
-**[01:15:54.900] Senator Erwin Tulfo** (asr-001081)  
+**[01:15:54.900] Senator Erwin T. Tulfo** (asr-001081)  
 Weren't you surprised?
 
 **[01:15:56.920] DFA Secretary Ma. Theresa P. Lazaro** (asr-001082)  
@@ -3319,7 +3319,7 @@ Itong Apo, no? Kung sila ba gumagawin ito
 **[01:17:00.240] Senator Joseph Victor "JV" G. Ejercito** (asr-001113)  
 with a chip?
 
-**[01:17:01.380] Senator Erwin Tulfo** (asr-001114)  
+**[01:17:01.380] Senator Erwin T. Tulfo** (asr-001114)  
 Apo ho.
 
 **[01:17:01.980] Senator Joseph Victor "JV" G. Ejercito** (asr-001115)  
@@ -3376,109 +3376,109 @@ Yes.
 **[01:17:28.080] Senator Joseph Victor "JV" G. Ejercito** (asr-001132)  
 Thank you, Mr. Chair.
 
-**[01:17:29.920] Senator Erwin Tulfo** (asr-001133)  
+**[01:17:29.920] Senator Erwin T. Tulfo** (asr-001133)  
 Yeah.
 
-**[01:17:30.660] Senator Erwin Tulfo** (asr-001134)  
+**[01:17:30.660] Senator Erwin T. Tulfo** (asr-001134)  
 Asek, and hindi ba kayo nag-offer
 
-**[01:17:33.380] Senator Erwin Tulfo** (asr-001135)  
+**[01:17:33.380] Senator Erwin T. Tulfo** (asr-001135)  
 yung inyong office na for testing
 
-**[01:17:35.440] Senator Erwin Tulfo** (asr-001136)  
+**[01:17:35.440] Senator Erwin T. Tulfo** (asr-001136)  
 like Bureau of Immigration?
 
-**[01:17:39.100] Senator Erwin Tulfo** (asr-001137)  
+**[01:17:39.100] Senator Erwin T. Tulfo** (asr-001137)  
 Kasi they were announcing it already.
 
-**[01:17:41.160] Senator Erwin Tulfo** (asr-001138)  
+**[01:17:41.160] Senator Erwin T. Tulfo** (asr-001138)  
 Tayo ay magiging may mga reader na tayo.
 
-**[01:17:45.080] Senator Erwin Tulfo** (asr-001139)  
+**[01:17:45.080] Senator Erwin T. Tulfo** (asr-001139)  
 They've been bragging it for several months.
 
-**[01:17:47.840] Senator Erwin Tulfo** (asr-001140)  
+**[01:17:47.840] Senator Erwin T. Tulfo** (asr-001140)  
 Did it come to cross your mind
 
-**[01:17:49.920] Senator Erwin Tulfo** (asr-001141)  
+**[01:17:49.920] Senator Erwin T. Tulfo** (asr-001141)  
 to write them and tell them,
 
-**[01:17:51.560] Senator Erwin Tulfo** (asr-001142)  
+**[01:17:51.560] Senator Erwin T. Tulfo** (asr-001142)  
 hoy, testingan po natin,
 
-**[01:17:53.140] Senator Erwin Tulfo** (asr-001143)  
+**[01:17:53.140] Senator Erwin T. Tulfo** (asr-001143)  
 pwede ba testingan natin yung mga passport natin
 
-**[01:17:55.360] Senator Erwin Tulfo** (asr-001144)  
+**[01:17:55.360] Senator Erwin T. Tulfo** (asr-001144)  
 kung gagana dyan?
 
-**[01:17:56.920] Senator Erwin Tulfo** (asr-001145)  
+**[01:17:56.920] Senator Erwin T. Tulfo** (asr-001145)  
 Ikagaya nga, hindi po gumagana.
 
-**[01:17:58.200] Senator Erwin Tulfo** (asr-001146)  
+**[01:17:58.200] Senator Erwin T. Tulfo** (asr-001146)  
 Hindi ko alam kung pwede.
 
-**[01:18:00.980] Senator Erwin Tulfo** (asr-001147)  
+**[01:18:00.980] Senator Erwin T. Tulfo** (asr-001147)  
 Siguro, ate na lang ako doon,
 
-**[01:18:02.620] Senator Erwin Tulfo** (asr-001148)  
+**[01:18:02.620] Senator Erwin T. Tulfo** (asr-001148)  
 Mr. Chair, sa hearing ng BI.
 
-**[01:18:06.460] Senator Erwin Tulfo** (asr-001149)  
+**[01:18:06.460] Senator Erwin T. Tulfo** (asr-001149)  
 At ito po ba,
 
-**[01:18:07.940] Senator Erwin Tulfo** (asr-001150)  
+**[01:18:07.940] Senator Erwin T. Tulfo** (asr-001150)  
 pwede ba itong ibalik
 
-**[01:18:10.720] Senator Erwin Tulfo** (asr-001151)  
+**[01:18:10.720] Senator Erwin T. Tulfo** (asr-001151)  
 at mag-refund tayo
 
-**[01:18:11.960] Senator Erwin Tulfo** (asr-001152)  
+**[01:18:11.960] Senator Erwin T. Tulfo** (asr-001152)  
 or mapalitan
 
-**[01:18:12.760] Senator Erwin Tulfo** (asr-001153)  
+**[01:18:12.760] Senator Erwin T. Tulfo** (asr-001153)  
 or baka no return exchange na ho ito?
 
-**[01:18:15.720] Senator Erwin Tulfo** (asr-001154)  
+**[01:18:15.720] Senator Erwin T. Tulfo** (asr-001154)  
 At dekorasyon na lang.
 
-**[01:18:17.100] Senator Erwin Tulfo** (asr-001155)  
+**[01:18:17.100] Senator Erwin T. Tulfo** (asr-001155)  
 May nakita ng may gamit naman,
 
-**[01:18:18.540] Senator Erwin Tulfo** (asr-001156)  
+**[01:18:18.540] Senator Erwin T. Tulfo** (asr-001156)  
 Mr. Chair.
 
-**[01:18:19.080] Senator Erwin Tulfo** (asr-001157)  
+**[01:18:19.080] Senator Erwin T. Tulfo** (asr-001157)  
 Nakita ko yung bata
 
-**[01:18:19.960] Senator Erwin Tulfo** (asr-001158)  
+**[01:18:19.960] Senator Erwin T. Tulfo** (asr-001158)  
 nagsasalamin doon sa Kuan.
 
-**[01:18:21.880] Senator Erwin Tulfo** (asr-001159)  
+**[01:18:21.880] Senator Erwin T. Tulfo** (asr-001159)  
 Yun yung para bago siya humarap
 
-**[01:18:23.700] Senator Erwin Tulfo** (asr-001160)  
+**[01:18:23.700] Senator Erwin T. Tulfo** (asr-001160)  
 doon sa immigration officer.
 
-**[01:18:25.760] Senator Erwin Tulfo** (asr-001161)  
+**[01:18:25.760] Senator Erwin T. Tulfo** (asr-001161)  
 Wala pong ganon.
 
-**[01:18:26.420] Senator Erwin Tulfo** (asr-001162)  
+**[01:18:26.420] Senator Erwin T. Tulfo** (asr-001162)  
 Hindi kayo,
 
-**[01:18:27.200] Senator Erwin Tulfo** (asr-001163)  
+**[01:18:27.200] Senator Erwin T. Tulfo** (asr-001163)  
 or kayo na lang
 
-**[01:18:28.840] Senator Erwin Tulfo** (asr-001164)  
+**[01:18:28.840] Senator Erwin T. Tulfo** (asr-001164)  
 kung nag-effort na
 
-**[01:18:29.980] Senator Erwin Tulfo** (asr-001165)  
+**[01:18:29.980] Senator Erwin T. Tulfo** (asr-001165)  
 immigration,
 
-**[01:18:31.780] Senator Erwin Tulfo** (asr-001166)  
+**[01:18:31.780] Senator Erwin T. Tulfo** (asr-001166)  
 i-testing naman natin po
 
-**[01:18:32.960] Senator Erwin Tulfo** (asr-001167)  
+**[01:18:32.960] Senator Erwin T. Tulfo** (asr-001167)  
 itong passport natin.
 
 **[01:18:35.080] DFA Assistant Secretary Anne Jalando-on Louis** (asr-001168)  
@@ -3553,25 +3553,25 @@ So, our consultations
 **[01:19:17.440] DFA Assistant Secretary Anne Jalando-on Louis** (asr-001191)  
 are ongoing about it.
 
-**[01:19:20.300] Senator Erwin Tulfo** (asr-001192)  
+**[01:19:20.300] Senator Erwin T. Tulfo** (asr-001192)  
 May plan daw, ma'am,
 
-**[01:19:21.260] Senator Erwin Tulfo** (asr-001193)  
+**[01:19:21.260] Senator Erwin T. Tulfo** (asr-001193)  
 with that?
 
-**[01:19:22.080] Senator Erwin Tulfo** (asr-001194)  
+**[01:19:22.080] Senator Erwin T. Tulfo** (asr-001194)  
 May magagawa pa ba?
 
-**[01:19:23.180] Senator Erwin Tulfo** (asr-001195)  
+**[01:19:23.180] Senator Erwin T. Tulfo** (asr-001195)  
 I mean, what did they tell you?
 
-**[01:19:24.880] Senator Erwin Tulfo** (asr-001196)  
+**[01:19:24.880] Senator Erwin T. Tulfo** (asr-001196)  
 Itong APO, itong Bureau of Immigration,
 
-**[01:19:27.040] Senator Erwin Tulfo** (asr-001197)  
+**[01:19:27.040] Senator Erwin T. Tulfo** (asr-001197)  
 may solusyon pa po ba?
 
-**[01:19:28.680] Senator Erwin Tulfo** (asr-001198)  
+**[01:19:28.680] Senator Erwin T. Tulfo** (asr-001198)  
 Or, kailangan nila magpalit ng machines?
 
 **[01:19:31.680] DFA Assistant Secretary Anne Jalando-on Louis** (asr-001199)  
@@ -3673,160 +3673,160 @@ So, that's also as a result
 **[01:20:38.020] DFA Assistant Secretary Anne Jalando-on Louis** (asr-001231)  
 of our technical working group discussions.
 
-**[01:20:41.380] Senator Erwin Tulfo** (asr-001232)  
+**[01:20:41.380] Senator Erwin T. Tulfo** (asr-001232)  
 Dami pa po naman nakapila dun.
 
-**[01:20:43.240] Senator Erwin Tulfo** (asr-001233)  
+**[01:20:43.240] Senator Erwin T. Tulfo** (asr-001233)  
 Wala naman nung,
 
-**[01:20:44.240] Senator Erwin Tulfo** (asr-001234)  
+**[01:20:44.240] Senator Erwin T. Tulfo** (asr-001234)  
 naalikabukan lang,
 
-**[01:20:45.620] Senator Erwin Tulfo** (asr-001235)  
+**[01:20:45.620] Senator Erwin T. Tulfo** (asr-001235)  
 Mr. Chair.
 
-**[01:20:47.340] Senator Erwin Tulfo** (asr-001236)  
+**[01:20:47.340] Senator Erwin T. Tulfo** (asr-001236)  
 Sayang.
 
-**[01:20:48.280] Senator Erwin Tulfo** (asr-001237)  
+**[01:20:48.280] Senator Erwin T. Tulfo** (asr-001237)  
 Anyway,
 
-**[01:20:49.100] Senator Erwin Tulfo** (asr-001238)  
+**[01:20:49.100] Senator Erwin T. Tulfo** (asr-001238)  
 thank you po,
 
-**[01:20:50.300] Senator Erwin Tulfo** (asr-001239)  
+**[01:20:50.300] Senator Erwin T. Tulfo** (asr-001239)  
 Asek,
 
-**[01:20:51.040] Senator Erwin Tulfo** (asr-001240)  
+**[01:20:51.040] Senator Erwin T. Tulfo** (asr-001240)  
 Anne.
 
-**[01:20:52.520] Senator Erwin Tulfo** (asr-001241)  
+**[01:20:52.520] Senator Erwin T. Tulfo** (asr-001241)  
 Balik lang po tayo dito
 
-**[01:20:53.760] Senator Erwin Tulfo** (asr-001242)  
+**[01:20:53.760] Senator Erwin T. Tulfo** (asr-001242)  
 kay Yusek Habulan.
 
-**[01:20:54.740] Senator Erwin Tulfo** (asr-001243)  
+**[01:20:54.740] Senator Erwin T. Tulfo** (asr-001243)  
 Yusek!
 
-**[01:20:56.880] Senator Erwin Tulfo** (asr-001244)  
+**[01:20:56.880] Senator Erwin T. Tulfo** (asr-001244)  
 Dito po,
 
-**[01:20:59.640] Senator Erwin Tulfo** (asr-001245)  
+**[01:20:59.640] Senator Erwin T. Tulfo** (asr-001245)  
 sa June 2026 nyo,
 
-**[01:21:01.120] Senator Erwin Tulfo** (asr-001246)  
+**[01:21:01.120] Senator Erwin T. Tulfo** (asr-001246)  
 again,
 
-**[01:21:02.720] Senator Erwin Tulfo** (asr-001247)  
+**[01:21:02.720] Senator Erwin T. Tulfo** (asr-001247)  
 Presidential Commission
 
-**[01:21:03.720] Senator Erwin Tulfo** (asr-001248)  
+**[01:21:03.720] Senator Erwin T. Tulfo** (asr-001248)  
 and Visiting Forces,
 
-**[01:21:06.040] Senator Erwin Tulfo** (asr-001249)  
+**[01:21:06.040] Senator Erwin T. Tulfo** (asr-001249)  
 out of 51.6
 
-**[01:21:07.580] Senator Erwin Tulfo** (asr-001250)  
+**[01:21:07.580] Senator Erwin T. Tulfo** (asr-001250)  
 sa GAAP po ninyo,
 
-**[01:21:08.560] Senator Erwin Tulfo** (asr-001251)  
+**[01:21:08.560] Senator Erwin T. Tulfo** (asr-001251)  
 44.1
 
-**[01:21:10.000] Senator Erwin Tulfo** (asr-001252)  
+**[01:21:10.000] Senator Erwin T. Tulfo** (asr-001252)  
 unused.
 
-**[01:21:11.260] Senator Erwin Tulfo** (asr-001253)  
+**[01:21:11.260] Senator Erwin T. Tulfo** (asr-001253)  
 So, parang lumalabas
 
-**[01:21:12.460] Senator Erwin Tulfo** (asr-001254)  
+**[01:21:12.460] Senator Erwin T. Tulfo** (asr-001254)  
 12 or 13
 
-**[01:21:14.140] Senator Erwin Tulfo** (asr-001255)  
+**[01:21:14.140] Senator Erwin T. Tulfo** (asr-001255)  
 million pa lang
 
-**[01:21:15.660] Senator Erwin Tulfo** (asr-001256)  
+**[01:21:15.660] Senator Erwin T. Tulfo** (asr-001256)  
 ang nagagamit po ninyo
 
-**[01:21:17.580] Senator Erwin Tulfo** (asr-001257)  
+**[01:21:17.580] Senator Erwin T. Tulfo** (asr-001257)  
 or 17,
 
-**[01:21:19.260] Senator Erwin Tulfo** (asr-001258)  
+**[01:21:19.260] Senator Erwin T. Tulfo** (asr-001258)  
 something like that.
 
-**[01:21:20.620] Senator Erwin Tulfo** (asr-001259)  
+**[01:21:20.620] Senator Erwin T. Tulfo** (asr-001259)  
 I don't know.
 
-**[01:21:21.640] Senator Erwin Tulfo** (asr-001260)  
+**[01:21:21.640] Senator Erwin T. Tulfo** (asr-001260)  
 Yeah, parang mga ganun.
 
-**[01:21:22.920] Senator Erwin Tulfo** (asr-001261)  
+**[01:21:22.920] Senator Erwin T. Tulfo** (asr-001261)  
 Actually,
 
-**[01:21:25.000] Senator Erwin Tulfo** (asr-001262)  
+**[01:21:25.000] Senator Erwin T. Tulfo** (asr-001262)  
 seven,
 
-**[01:21:25.640] Senator Erwin Tulfo** (asr-001263)  
+**[01:21:25.640] Senator Erwin T. Tulfo** (asr-001263)  
 seven or eight million
 
-**[01:21:27.660] Senator Erwin Tulfo** (asr-001264)  
+**[01:21:27.660] Senator Erwin T. Tulfo** (asr-001264)  
 pa lang ho
 
-**[01:21:28.040] Senator Erwin Tulfo** (asr-001265)  
+**[01:21:28.040] Senator Erwin T. Tulfo** (asr-001265)  
 nagagamit ninyo
 
-**[01:21:29.200] Senator Erwin Tulfo** (asr-001266)  
+**[01:21:29.200] Senator Erwin T. Tulfo** (asr-001266)  
 na pondo.
 
-**[01:21:31.120] Senator Erwin Tulfo** (asr-001267)  
+**[01:21:31.120] Senator Erwin T. Tulfo** (asr-001267)  
 Eh, ang dami na ho
 
-**[01:21:31.860] Senator Erwin Tulfo** (asr-001268)  
+**[01:21:31.860] Senator Erwin T. Tulfo** (asr-001268)  
 nating inaprubahan.
 
-**[01:21:33.160] Senator Erwin Tulfo** (asr-001269)  
+**[01:21:33.160] Senator Erwin T. Tulfo** (asr-001269)  
 Ang dami ng treaty
 
-**[01:21:34.260] Senator Erwin Tulfo** (asr-001270)  
+**[01:21:34.260] Senator Erwin T. Tulfo** (asr-001270)  
 na na-approve.
 
-**[01:21:35.820] Senator Erwin Tulfo** (asr-001271)  
+**[01:21:35.820] Senator Erwin T. Tulfo** (asr-001271)  
 Visiting Forces
 
-**[01:21:36.780] Senator Erwin Tulfo** (asr-001272)  
+**[01:21:36.780] Senator Erwin T. Tulfo** (asr-001272)  
 with
 
-**[01:21:37.280] Senator Erwin Tulfo** (asr-001273)  
+**[01:21:37.280] Senator Erwin T. Tulfo** (asr-001273)  
 with
 
-**[01:21:38.020] Senator Erwin Tulfo** (asr-001274)  
+**[01:21:38.020] Senator Erwin T. Tulfo** (asr-001274)  
 New Zealand,
 
-**[01:21:40.500] Senator Erwin Tulfo** (asr-001275)  
+**[01:21:40.500] Senator Erwin T. Tulfo** (asr-001275)  
 meron pong
 
-**[01:21:41.120] Senator Erwin Tulfo** (asr-001276)  
+**[01:21:41.120] Senator Erwin T. Tulfo** (asr-001276)  
 iba-iba-iba-ibang
 
-**[01:21:43.320] Senator Erwin Tulfo** (asr-001277)  
+**[01:21:43.320] Senator Erwin T. Tulfo** (asr-001277)  
 country.
 
-**[01:21:43.780] Senator Erwin Tulfo** (asr-001278)  
+**[01:21:43.780] Senator Erwin T. Tulfo** (asr-001278)  
 May Canada na.
 
-**[01:21:45.240] Senator Erwin Tulfo** (asr-001279)  
+**[01:21:45.240] Senator Erwin T. Tulfo** (asr-001279)  
 Bakit po ganito?
 
-**[01:21:46.280] Senator Erwin Tulfo** (asr-001280)  
+**[01:21:46.280] Senator Erwin T. Tulfo** (asr-001280)  
 I mean,
 
-**[01:21:46.720] Senator Erwin Tulfo** (asr-001281)  
+**[01:21:46.720] Senator Erwin T. Tulfo** (asr-001281)  
 sobra din.
 
-**[01:21:48.420] Senator Erwin Tulfo** (asr-001282)  
+**[01:21:48.420] Senator Erwin T. Tulfo** (asr-001282)  
 Masyado kayo matipid
 
-**[01:21:49.520] Senator Erwin Tulfo** (asr-001283)  
+**[01:21:49.520] Senator Erwin T. Tulfo** (asr-001283)  
 sa DFA.
 
 **[01:21:50.860] PCVF Executive Director Antonio Atanacio Habulan** (asr-001284)  
@@ -3913,13 +3913,13 @@ monitoring
 **[01:22:18.120] PCVF Executive Director Antonio Atanacio Habulan** (asr-001311)  
 post-exercise.
 
-**[01:22:19.660] Senator Erwin Tulfo** (asr-001312)  
+**[01:22:19.660] Senator Erwin T. Tulfo** (asr-001312)  
 So, you cover
 
-**[01:22:20.440] Senator Erwin Tulfo** (asr-001313)  
+**[01:22:20.440] Senator Erwin T. Tulfo** (asr-001313)  
 these exercises
 
-**[01:22:21.700] Senator Erwin Tulfo** (asr-001314)  
+**[01:22:21.700] Senator Erwin T. Tulfo** (asr-001314)  
 and expenses?
 
 **[01:22:22.920] PCVF Executive Director Antonio Atanacio Habulan** (asr-001315)  
@@ -4165,28 +4165,28 @@ after our
 **[01:23:41.060] PCVF Executive Director Antonio Atanacio Habulan** (asr-001395)  
 monitoring, sir.
 
-**[01:23:42.760] Senator Erwin Tulfo** (asr-001396)  
+**[01:23:42.760] Senator Erwin T. Tulfo** (asr-001396)  
 May mga
 
-**[01:23:43.240] Senator Erwin Tulfo** (asr-001397)  
+**[01:23:43.240] Senator Erwin T. Tulfo** (asr-001397)  
 violations na po
 
-**[01:23:44.300] Senator Erwin Tulfo** (asr-001398)  
+**[01:23:44.300] Senator Erwin T. Tulfo** (asr-001398)  
 ba kayo na
 
-**[01:23:44.900] Senator Erwin Tulfo** (asr-001399)  
+**[01:23:44.900] Senator Erwin T. Tulfo** (asr-001399)  
 na-flag
 
-**[01:23:45.760] Senator Erwin Tulfo** (asr-001400)  
+**[01:23:45.760] Senator Erwin T. Tulfo** (asr-001400)  
 sa mga
 
-**[01:23:46.140] Senator Erwin Tulfo** (asr-001401)  
+**[01:23:46.140] Senator Erwin T. Tulfo** (asr-001401)  
 exercises po
 
-**[01:23:47.220] Senator Erwin Tulfo** (asr-001402)  
+**[01:23:47.220] Senator Erwin T. Tulfo** (asr-001402)  
 nito sa
 
-**[01:23:47.660] Senator Erwin Tulfo** (asr-001403)  
+**[01:23:47.660] Senator Erwin T. Tulfo** (asr-001403)  
 monitoring po ninyo?
 
 **[01:23:49.260] PCVF Executive Director Antonio Atanacio Habulan** (asr-001404)  
@@ -4267,115 +4267,115 @@ and state
 **[01:24:14.240] PCVF Executive Director Antonio Atanacio Habulan** (asr-001429)  
 policies, sir.
 
-**[01:24:15.660] Senator Erwin Tulfo** (asr-001430)  
+**[01:24:15.660] Senator Erwin T. Tulfo** (asr-001430)  
 How do you
 
-**[01:24:16.220] Senator Erwin Tulfo** (asr-001431)  
+**[01:24:16.220] Senator Erwin T. Tulfo** (asr-001431)  
 monitor
 
-**[01:24:16.800] Senator Erwin Tulfo** (asr-001432)  
+**[01:24:16.800] Senator Erwin T. Tulfo** (asr-001432)  
 o sino po
 
-**[01:24:17.580] Senator Erwin Tulfo** (asr-001433)  
+**[01:24:17.580] Senator Erwin T. Tulfo** (asr-001433)  
 nagmo-monitor
 
-**[01:24:18.400] Senator Erwin Tulfo** (asr-001434)  
+**[01:24:18.400] Senator Erwin T. Tulfo** (asr-001434)  
 ba during
 
-**[01:24:18.920] Senator Erwin Tulfo** (asr-001435)  
+**[01:24:18.920] Senator Erwin T. Tulfo** (asr-001435)  
 a exercise
 
-**[01:24:20.000] Senator Erwin Tulfo** (asr-001436)  
+**[01:24:20.000] Senator Erwin T. Tulfo** (asr-001436)  
 yung isang
 
-**[01:24:21.380] Senator Erwin Tulfo** (asr-001437)  
+**[01:24:21.380] Senator Erwin T. Tulfo** (asr-001437)  
 visiting forces
 
-**[01:24:22.580] Senator Erwin Tulfo** (asr-001438)  
+**[01:24:22.580] Senator Erwin T. Tulfo** (asr-001438)  
 or maging yung
 
-**[01:24:23.580] Senator Erwin Tulfo** (asr-001439)  
+**[01:24:23.580] Senator Erwin T. Tulfo** (asr-001439)  
 tropa ho natin?
 
-**[01:24:24.680] Senator Erwin Tulfo** (asr-001440)  
+**[01:24:24.680] Senator Erwin T. Tulfo** (asr-001440)  
 Ano,
 
-**[01:24:24.840] Senator Erwin Tulfo** (asr-001441)  
+**[01:24:24.840] Senator Erwin T. Tulfo** (asr-001441)  
 on the field?
 
-**[01:24:25.820] Senator Erwin Tulfo** (asr-001442)  
+**[01:24:25.820] Senator Erwin T. Tulfo** (asr-001442)  
 Di po ba?
 
-**[01:24:26.740] Senator Erwin Tulfo** (asr-001443)  
+**[01:24:26.740] Senator Erwin T. Tulfo** (asr-001443)  
 May mga
 
-**[01:24:28.440] Senator Erwin Tulfo** (asr-001444)  
+**[01:24:28.440] Senator Erwin T. Tulfo** (asr-001444)  
 namatay dyan
 
-**[01:24:29.480] Senator Erwin Tulfo** (asr-001445)  
+**[01:24:29.480] Senator Erwin T. Tulfo** (asr-001445)  
 na manok
 
-**[01:24:30.200] Senator Erwin Tulfo** (asr-001446)  
+**[01:24:30.200] Senator Erwin T. Tulfo** (asr-001446)  
 or what?
 
-**[01:24:30.760] Senator Erwin Tulfo** (asr-001447)  
+**[01:24:30.760] Senator Erwin T. Tulfo** (asr-001447)  
 Dahil yung
 
-**[01:24:31.460] Senator Erwin Tulfo** (asr-001448)  
+**[01:24:31.460] Senator Erwin T. Tulfo** (asr-001448)  
 training po nila,
 
-**[01:24:32.960] Senator Erwin Tulfo** (asr-001449)  
+**[01:24:32.960] Senator Erwin T. Tulfo** (asr-001449)  
 may nasagasa,
 
-**[01:24:34.320] Senator Erwin Tulfo** (asr-001450)  
+**[01:24:34.320] Senator Erwin T. Tulfo** (asr-001450)  
 nasagasaan
 
-**[01:24:35.240] Senator Erwin Tulfo** (asr-001451)  
+**[01:24:35.240] Senator Erwin T. Tulfo** (asr-001451)  
 ng tanki,
 
-**[01:24:35.940] Senator Erwin Tulfo** (asr-001452)  
+**[01:24:35.940] Senator Erwin T. Tulfo** (asr-001452)  
 tinamaan yung
 
-**[01:24:36.720] Senator Erwin Tulfo** (asr-001453)  
+**[01:24:36.720] Senator Erwin T. Tulfo** (asr-001453)  
 isang saging,
 
-**[01:24:37.940] Senator Erwin Tulfo** (asr-001454)  
+**[01:24:37.940] Senator Erwin T. Tulfo** (asr-001454)  
 puno ng saging
 
-**[01:24:39.120] Senator Erwin Tulfo** (asr-001455)  
+**[01:24:39.120] Senator Erwin T. Tulfo** (asr-001455)  
 o niyog?
 
-**[01:24:42.240] Senator Erwin Tulfo** (asr-001456)  
+**[01:24:42.240] Senator Erwin T. Tulfo** (asr-001456)  
 Paano yung
 
-**[01:24:42.800] Senator Erwin Tulfo** (asr-001457)  
+**[01:24:42.800] Senator Erwin T. Tulfo** (asr-001457)  
 compensation
 
-**[01:24:43.480] Senator Erwin Tulfo** (asr-001458)  
+**[01:24:43.480] Senator Erwin T. Tulfo** (asr-001458)  
 noon doon sa
 
-**[01:24:44.380] Senator Erwin Tulfo** (asr-001459)  
+**[01:24:44.380] Senator Erwin T. Tulfo** (asr-001459)  
 o yung kanyang
 
-**[01:24:45.440] Senator Erwin Tulfo** (asr-001460)  
+**[01:24:45.440] Senator Erwin T. Tulfo** (asr-001460)  
 inararo na
 
-**[01:24:46.300] Senator Erwin Tulfo** (asr-001461)  
+**[01:24:46.300] Senator Erwin T. Tulfo** (asr-001461)  
 platnay,
 
-**[01:24:46.940] Senator Erwin Tulfo** (asr-001462)  
+**[01:24:46.940] Senator Erwin T. Tulfo** (asr-001462)  
 kailangan araruhin
 
-**[01:24:47.940] Senator Erwin Tulfo** (asr-001463)  
+**[01:24:47.940] Senator Erwin T. Tulfo** (asr-001463)  
 ulit?
 
-**[01:24:48.940] Senator Erwin Tulfo** (asr-001464)  
+**[01:24:48.940] Senator Erwin T. Tulfo** (asr-001464)  
 How is that?
 
-**[01:24:49.980] Senator Erwin Tulfo** (asr-001465)  
+**[01:24:49.980] Senator Erwin T. Tulfo** (asr-001465)  
 How do you
 
-**[01:24:50.380] Senator Erwin Tulfo** (asr-001466)  
+**[01:24:50.380] Senator Erwin T. Tulfo** (asr-001466)  
 take care of that?
 
 **[01:24:51.500] PCVF Executive Director Antonio Atanacio Habulan** (asr-001467)  
@@ -4579,22 +4579,22 @@ are the ones
 **[01:26:19.640] PCVF Executive Director Antonio Atanacio Habulan** (asr-001536)  
 responsible.
 
-**[01:26:21.540] Senator Erwin Tulfo** (asr-001537)  
+**[01:26:21.540] Senator Erwin T. Tulfo** (asr-001537)  
 Pino,
 
-**[01:26:21.940] Senator Erwin Tulfo** (asr-001538)  
+**[01:26:21.940] Senator Erwin T. Tulfo** (asr-001538)  
 nagsasabi na
 
-**[01:26:22.560] Senator Erwin Tulfo** (asr-001539)  
+**[01:26:22.560] Senator Erwin T. Tulfo** (asr-001539)  
 ito yung babayaran,
 
-**[01:26:23.740] Senator Erwin Tulfo** (asr-001540)  
+**[01:26:23.740] Senator Erwin T. Tulfo** (asr-001540)  
 ito yung nasa
 
-**[01:26:24.260] Senator Erwin Tulfo** (asr-001541)  
+**[01:26:24.260] Senator Erwin T. Tulfo** (asr-001541)  
 sira,
 
-**[01:26:24.560] Senator Erwin Tulfo** (asr-001542)  
+**[01:26:24.560] Senator Erwin T. Tulfo** (asr-001542)  
 who determines that?
 
 **[01:26:26.500] PCVF Executive Director Antonio Atanacio Habulan** (asr-001543)  
@@ -4852,103 +4852,103 @@ recovery,
 **[01:27:56.860] PCVF Executive Director Antonio Atanacio Habulan** (asr-001627)  
 Your Honor.
 
-**[01:27:57.560] Senator Erwin Tulfo** (asr-001628)  
+**[01:27:57.560] Senator Erwin T. Tulfo** (asr-001628)  
 Kung wala pong mga injuries,
 
-**[01:27:59.200] Senator Erwin Tulfo** (asr-001629)  
+**[01:27:59.200] Senator Erwin T. Tulfo** (asr-001629)  
 damages lang po,
 
-**[01:28:00.320] Senator Erwin Tulfo** (asr-001630)  
+**[01:28:00.320] Senator Erwin T. Tulfo** (asr-001630)  
 kadalasan po kasi
 
-**[01:28:01.020] Senator Erwin Tulfo** (asr-001631)  
+**[01:28:01.020] Senator Erwin T. Tulfo** (asr-001631)  
 mga tangke nila
 
-**[01:28:02.480] Senator Erwin Tulfo** (asr-001632)  
+**[01:28:02.480] Senator Erwin T. Tulfo** (asr-001632)  
 nakakasagasa,
 
-**[01:28:02.740] Senator Erwin Tulfo** (asr-001633)  
+**[01:28:02.740] Senator Erwin T. Tulfo** (asr-001633)  
 nakasagasa
 
-**[01:28:03.580] Senator Erwin Tulfo** (asr-001634)  
+**[01:28:03.580] Senator Erwin T. Tulfo** (asr-001634)  
 ng
 
-**[01:28:03.960] Senator Erwin Tulfo** (asr-001636)  
+**[01:28:03.960] Senator Erwin T. Tulfo** (asr-001636)  
 mga
 
-**[01:28:04.460] Senator Erwin Tulfo** (asr-001639)  
+**[01:28:04.460] Senator Erwin T. Tulfo** (asr-001639)  
 manok,
 
-**[01:28:05.080] Senator Erwin Tulfo** (asr-001640)  
+**[01:28:05.080] Senator Erwin T. Tulfo** (asr-001640)  
 baboy,
 
-**[01:28:05.540] Senator Erwin Tulfo** (asr-001641)  
+**[01:28:05.540] Senator Erwin T. Tulfo** (asr-001641)  
 kambing,
 
-**[01:28:06.440] Senator Erwin Tulfo** (asr-001642)  
+**[01:28:06.440] Senator Erwin T. Tulfo** (asr-001642)  
 or
 
-**[01:28:06.760] Senator Erwin Tulfo** (asr-001643)  
+**[01:28:06.760] Senator Erwin T. Tulfo** (asr-001643)  
 hindi po yung mga
 
-**[01:28:07.740] Senator Erwin Tulfo** (asr-001644)  
+**[01:28:07.740] Senator Erwin T. Tulfo** (asr-001644)  
 personal o
 
-**[01:28:08.660] Senator Erwin Tulfo** (asr-001645)  
+**[01:28:08.660] Senator Erwin T. Tulfo** (asr-001645)  
 private
 
-**[01:28:09.080] Senator Erwin Tulfo** (asr-001646)  
+**[01:28:09.080] Senator Erwin T. Tulfo** (asr-001646)  
 properties,
 
-**[01:28:09.800] Senator Erwin Tulfo** (asr-001647)  
+**[01:28:09.800] Senator Erwin T. Tulfo** (asr-001647)  
 kundi yung
 
-**[01:28:10.700] Senator Erwin Tulfo** (asr-001648)  
+**[01:28:10.700] Senator Erwin T. Tulfo** (asr-001648)  
 sa gobyerno natin.
 
-**[01:28:12.080] Senator Erwin Tulfo** (asr-001649)  
+**[01:28:12.080] Senator Erwin T. Tulfo** (asr-001649)  
 Yung mga equipment po nila
 
-**[01:28:13.100] Senator Erwin Tulfo** (asr-001650)  
+**[01:28:13.100] Senator Erwin T. Tulfo** (asr-001650)  
 dahil sa sobrang bigat.
 
-**[01:28:15.120] Senator Erwin Tulfo** (asr-001651)  
+**[01:28:15.120] Senator Erwin T. Tulfo** (asr-001651)  
 Nasira po o na-damage
 
-**[01:28:15.700] Senator Erwin Tulfo** (asr-001652)  
+**[01:28:15.700] Senator Erwin T. Tulfo** (asr-001652)  
 'yung sidewalk,
 
-**[01:28:18.060] Senator Erwin Tulfo** (asr-001653)  
+**[01:28:18.060] Senator Erwin T. Tulfo** (asr-001653)  
 natumba 'yung
 
-**[01:28:19.980] Senator Erwin Tulfo** (asr-001654)  
+**[01:28:19.980] Senator Erwin T. Tulfo** (asr-001654)  
 solar lamp,
 
-**[01:28:20.720] Senator Erwin Tulfo** (asr-001655)  
+**[01:28:20.720] Senator Erwin T. Tulfo** (asr-001655)  
 naatrasan
 
-**[01:28:20.980] Senator Erwin Tulfo** (asr-001656)  
+**[01:28:20.980] Senator Erwin T. Tulfo** (asr-001656)  
 ng
 
-**[01:28:21.720] Senator Erwin Tulfo** (asr-001657)  
+**[01:28:21.720] Senator Erwin T. Tulfo** (asr-001657)  
 tangke
 
-**[01:28:21.960] Senator Erwin Tulfo** (asr-001658)  
+**[01:28:21.960] Senator Erwin T. Tulfo** (asr-001658)  
 ng truck.
 
-**[01:28:23.200] Senator Erwin Tulfo** (asr-001659)  
+**[01:28:23.200] Senator Erwin T. Tulfo** (asr-001659)  
 Ah, sino ho
 
-**[01:28:24.080] Senator Erwin Tulfo** (asr-001660)  
+**[01:28:24.080] Senator Erwin T. Tulfo** (asr-001660)  
 magbabayad
 
-**[01:28:24.920] Senator Erwin Tulfo** (asr-001661)  
+**[01:28:24.920] Senator Erwin T. Tulfo** (asr-001661)  
 at sino
 
-**[01:28:25.760] Senator Erwin Tulfo** (asr-001662)  
+**[01:28:25.760] Senator Erwin T. Tulfo** (asr-001662)  
 babayaran?
 
-**[01:28:26.300] Senator Erwin Tulfo** (asr-001663)  
+**[01:28:26.300] Senator Erwin T. Tulfo** (asr-001663)  
 Saan babayaran?
 
 **[01:28:27.820] PCVF Executive Director Antonio Atanacio Habulan** (asr-001671)  
@@ -4990,187 +4990,187 @@ or our visiting
 **[01:28:39.660] PCVF Executive Director Antonio Atanacio Habulan** (asr-001683)  
 force partners.
 
-**[01:28:41.840] Senator Erwin Tulfo** (asr-001684)  
+**[01:28:41.840] Senator Erwin T. Tulfo** (asr-001684)  
 Question na lang po,
 
-**[01:28:43.220] Senator Erwin Tulfo** (asr-001685)  
+**[01:28:43.220] Senator Erwin T. Tulfo** (asr-001685)  
 dahil dumadami na po
 
-**[01:28:44.480] Senator Erwin Tulfo** (asr-001686)  
+**[01:28:44.480] Senator Erwin T. Tulfo** (asr-001686)  
 ang ating
 
-**[01:28:44.960] Senator Erwin Tulfo** (asr-001687)  
+**[01:28:44.960] Senator Erwin T. Tulfo** (asr-001687)  
 visiting forces
 
-**[01:28:46.020] Senator Erwin Tulfo** (asr-001688)  
+**[01:28:46.020] Senator Erwin T. Tulfo** (asr-001688)  
 agreement
 
-**[01:28:46.480] Senator Erwin Tulfo** (asr-001689)  
+**[01:28:46.480] Senator Erwin T. Tulfo** (asr-001689)  
 with various
 
-**[01:28:47.600] Senator Erwin Tulfo** (asr-001690)  
+**[01:28:47.600] Senator Erwin T. Tulfo** (asr-001690)  
 nations,
 
-**[01:28:48.160] Senator Erwin Tulfo** (asr-001691)  
+**[01:28:48.160] Senator Erwin T. Tulfo** (asr-001691)  
 but don't get me wrong,
 
-**[01:28:49.420] Senator Erwin Tulfo** (asr-001692)  
+**[01:28:49.420] Senator Erwin T. Tulfo** (asr-001692)  
 I mean,
 
-**[01:28:49.680] Senator Erwin Tulfo** (asr-001693)  
+**[01:28:49.680] Senator Erwin T. Tulfo** (asr-001693)  
 pabor po sa atin yun,
 
-**[01:28:51.100] Senator Erwin Tulfo** (asr-001694)  
+**[01:28:51.100] Senator Erwin T. Tulfo** (asr-001694)  
 di ba?
 
-**[01:28:51.380] Senator Erwin Tulfo** (asr-001695)  
+**[01:28:51.380] Senator Erwin T. Tulfo** (asr-001695)  
 I mean,
 
-**[01:28:51.760] Senator Erwin Tulfo** (asr-001696)  
+**[01:28:51.760] Senator Erwin T. Tulfo** (asr-001696)  
 a lot of friends,
 
-**[01:28:53.200] Senator Erwin Tulfo** (asr-001697)  
+**[01:28:53.200] Senator Erwin T. Tulfo** (asr-001697)  
 who can help us
 
-**[01:28:54.440] Senator Erwin Tulfo** (asr-001698)  
+**[01:28:54.440] Senator Erwin T. Tulfo** (asr-001698)  
 monitor,
 
-**[01:28:55.540] Senator Erwin Tulfo** (asr-001699)  
+**[01:28:55.540] Senator Erwin T. Tulfo** (asr-001699)  
 patrol
 
-**[01:28:56.040] Senator Erwin Tulfo** (asr-001700)  
+**[01:28:56.040] Senator Erwin T. Tulfo** (asr-001700)  
 territories po natin.
 
-**[01:28:59.200] Senator Erwin Tulfo** (asr-001701)  
+**[01:28:59.200] Senator Erwin T. Tulfo** (asr-001701)  
 What about po,
 
-**[01:29:00.720] Senator Erwin Tulfo** (asr-001702)  
+**[01:29:00.720] Senator Erwin T. Tulfo** (asr-001702)  
 crime versus
 
-**[01:29:02.220] Senator Erwin Tulfo** (asr-001703)  
+**[01:29:02.220] Senator Erwin T. Tulfo** (asr-001703)  
 person?
 
-**[01:29:04.620] Senator Erwin Tulfo** (asr-001704)  
+**[01:29:04.620] Senator Erwin T. Tulfo** (asr-001704)  
 I mean,
 
-**[01:29:04.960] Senator Erwin Tulfo** (asr-001705)  
+**[01:29:04.960] Senator Erwin T. Tulfo** (asr-001705)  
 what happened po
 
-**[01:29:05.840] Senator Erwin Tulfo** (asr-001706)  
+**[01:29:05.840] Senator Erwin T. Tulfo** (asr-001706)  
 dati doon sa Marines po,
 
-**[01:29:07.480] Senator Erwin Tulfo** (asr-001707)  
+**[01:29:07.480] Senator Erwin T. Tulfo** (asr-001707)  
 sa Olonga po?
 
-**[01:29:11.100] Senator Erwin Tulfo** (asr-001708)  
+**[01:29:11.100] Senator Erwin T. Tulfo** (asr-001708)  
 Meron po bang
 
-**[01:29:12.200] Senator Erwin Tulfo** (asr-001709)  
+**[01:29:12.200] Senator Erwin T. Tulfo** (asr-001709)  
 tayong mga
 
-**[01:29:13.300] Senator Erwin Tulfo** (asr-001710)  
+**[01:29:13.300] Senator Erwin T. Tulfo** (asr-001710)  
 ikanga
 
-**[01:29:14.100] Senator Erwin Tulfo** (asr-001711)  
+**[01:29:14.100] Senator Erwin T. Tulfo** (asr-001711)  
 na
 
-**[01:29:14.660] Senator Erwin Tulfo** (asr-001712)  
+**[01:29:14.660] Senator Erwin T. Tulfo** (asr-001712)  
 safety nets
 
-**[01:29:16.320] Senator Erwin Tulfo** (asr-001713)  
+**[01:29:16.320] Senator Erwin T. Tulfo** (asr-001713)  
 na ngayon
 
-**[01:29:16.900] Senator Erwin Tulfo** (asr-001714)  
+**[01:29:16.900] Senator Erwin T. Tulfo** (asr-001714)  
 in place
 
-**[01:29:17.760] Senator Erwin Tulfo** (asr-001715)  
+**[01:29:17.760] Senator Erwin T. Tulfo** (asr-001715)  
 para hindi na po,
 
-**[01:29:19.840] Senator Erwin Tulfo** (asr-001716)  
+**[01:29:19.840] Senator Erwin T. Tulfo** (asr-001716)  
 lalo na pag mga
 
-**[01:29:20.440] Senator Erwin Tulfo** (asr-001717)  
+**[01:29:20.440] Senator Erwin T. Tulfo** (asr-001717)  
 RNR,
 
-**[01:29:21.320] Senator Erwin Tulfo** (asr-001718)  
+**[01:29:21.320] Senator Erwin T. Tulfo** (asr-001718)  
 nasa RNR,
 
-**[01:29:22.620] Senator Erwin Tulfo** (asr-001719)  
+**[01:29:22.620] Senator Erwin T. Tulfo** (asr-001719)  
 mayroon po
 
-**[01:29:23.200] Senator Erwin Tulfo** (asr-001720)  
+**[01:29:23.200] Senator Erwin T. Tulfo** (asr-001720)  
 meron po ba
 
-**[01:29:24.120] Senator Erwin Tulfo** (asr-001721)  
+**[01:29:24.120] Senator Erwin T. Tulfo** (asr-001721)  
 ang umiikot na
 
-**[01:29:24.960] Senator Erwin Tulfo** (asr-001722)  
+**[01:29:24.960] Senator Erwin T. Tulfo** (asr-001722)  
 ng mga MPs,
 
-**[01:29:26.160] Senator Erwin Tulfo** (asr-001723)  
+**[01:29:26.160] Senator Erwin T. Tulfo** (asr-001723)  
 military police
 
-**[01:29:27.000] Senator Erwin Tulfo** (asr-001724)  
+**[01:29:27.000] Senator Erwin T. Tulfo** (asr-001724)  
 on both sides,
 
-**[01:29:28.120] Senator Erwin Tulfo** (asr-001725)  
+**[01:29:28.120] Senator Erwin T. Tulfo** (asr-001725)  
 sa kanila,
 
-**[01:29:29.520] Senator Erwin Tulfo** (asr-001726)  
+**[01:29:29.520] Senator Erwin T. Tulfo** (asr-001726)  
 sa grupo natin,
 
-**[01:29:30.580] Senator Erwin Tulfo** (asr-001727)  
+**[01:29:30.580] Senator Erwin T. Tulfo** (asr-001727)  
 pag nag-RNR po
 
-**[01:29:32.040] Senator Erwin Tulfo** (asr-001728)  
+**[01:29:32.040] Senator Erwin T. Tulfo** (asr-001728)  
 yung mga sundalo?
 
-**[01:29:33.320] Senator Erwin Tulfo** (asr-001729)  
+**[01:29:33.320] Senator Erwin T. Tulfo** (asr-001729)  
 Kasi po,
 
-**[01:29:33.740] Senator Erwin Tulfo** (asr-001730)  
+**[01:29:33.740] Senator Erwin T. Tulfo** (asr-001730)  
 sa training exercise,
 
-**[01:29:35.920] Senator Erwin Tulfo** (asr-001731)  
+**[01:29:35.920] Senator Erwin T. Tulfo** (asr-001731)  
 talagang
 
-**[01:29:36.480] Senator Erwin Tulfo** (asr-001732)  
+**[01:29:36.480] Senator Erwin T. Tulfo** (asr-001732)  
 nakakonsentri po
 
-**[01:29:37.740] Senator Erwin Tulfo** (asr-001733)  
+**[01:29:37.740] Senator Erwin T. Tulfo** (asr-001733)  
 sa training.
 
-**[01:29:39.040] Senator Erwin Tulfo** (asr-001734)  
+**[01:29:39.040] Senator Erwin T. Tulfo** (asr-001734)  
 Nagkaka-problema po
 
-**[01:29:39.960] Senator Erwin Tulfo** (asr-001735)  
+**[01:29:39.960] Senator Erwin T. Tulfo** (asr-001735)  
 pag nag-iinuman
 
-**[01:29:40.880] Senator Erwin Tulfo** (asr-001736)  
+**[01:29:40.880] Senator Erwin T. Tulfo** (asr-001736)  
 at nag-RNR po,
 
-**[01:29:42.280] Senator Erwin Tulfo** (asr-001737)  
+**[01:29:42.280] Senator Erwin T. Tulfo** (asr-001737)  
 nag-happy-happy.
 
-**[01:29:43.360] Senator Erwin Tulfo** (asr-001738)  
+**[01:29:43.360] Senator Erwin T. Tulfo** (asr-001738)  
 So,
 
-**[01:29:43.940] Senator Erwin Tulfo** (asr-001739)  
+**[01:29:43.940] Senator Erwin T. Tulfo** (asr-001739)  
 papano po ito?
 
-**[01:29:44.940] Senator Erwin Tulfo** (asr-001740)  
+**[01:29:44.940] Senator Erwin T. Tulfo** (asr-001740)  
 Anong
 
-**[01:29:45.240] Senator Erwin Tulfo** (asr-001741)  
+**[01:29:45.240] Senator Erwin T. Tulfo** (asr-001741)  
 ikanga para
 
-**[01:29:46.460] Senator Erwin Tulfo** (asr-001742)  
+**[01:29:46.460] Senator Erwin T. Tulfo** (asr-001742)  
 hindi na po
 
-**[01:29:46.980] Senator Erwin Tulfo** (asr-001743)  
+**[01:29:46.980] Senator Erwin T. Tulfo** (asr-001743)  
 maulit yun
 
-**[01:29:47.620] Senator Erwin Tulfo** (asr-001744)  
+**[01:29:47.620] Senator Erwin T. Tulfo** (asr-001744)  
 nangyari dati?
 
 **[01:29:49.740] PCVF Executive Director Antonio Atanacio Habulan** (asr-001745)  
@@ -5290,61 +5290,61 @@ knowledge with respect
 **[01:30:58.220] PCVF Executive Director Antonio Atanacio Habulan** (asr-001788)  
 to how to deal with this.
 
-**[01:30:59.740] Senator Erwin Tulfo** (asr-001789)  
+**[01:30:59.740] Senator Erwin T. Tulfo** (asr-001789)  
 Last question po.
 
-**[01:31:01.320] Senator Erwin Tulfo** (asr-001790)  
+**[01:31:01.320] Senator Erwin T. Tulfo** (asr-001790)  
 Ini-inform po ba ang
 
-**[01:31:03.620] Senator Erwin Tulfo** (asr-001791)  
+**[01:31:03.620] Senator Erwin T. Tulfo** (asr-001791)  
 LGU at yung local
 
-**[01:31:05.880] Senator Erwin Tulfo** (asr-001792)  
+**[01:31:05.880] Senator Erwin T. Tulfo** (asr-001792)  
 populace na meron tayong
 
-**[01:31:07.940] Senator Erwin Tulfo** (asr-001793)  
+**[01:31:07.940] Senator Erwin T. Tulfo** (asr-001793)  
 exercise, magha-happy
 
-**[01:31:10.400] Senator Erwin Tulfo** (asr-001794)  
+**[01:31:10.400] Senator Erwin T. Tulfo** (asr-001794)  
 happy dito sa inyong bayan,
 
-**[01:31:12.340] Senator Erwin Tulfo** (asr-001795)  
+**[01:31:12.340] Senator Erwin T. Tulfo** (asr-001795)  
 itong mga ito, itong hindi lang po
 
-**[01:31:13.880] Senator Erwin Tulfo** (asr-001796)  
+**[01:31:13.880] Senator Erwin T. Tulfo** (asr-001796)  
 US, kasi marami na po tayong kausap
 
-**[01:31:15.920] Senator Erwin Tulfo** (asr-001797)  
+**[01:31:15.920] Senator Erwin T. Tulfo** (asr-001797)  
 ngayon, Australia, New Zealand,
 
-**[01:31:18.240] Senator Erwin Tulfo** (asr-001798)  
+**[01:31:18.240] Senator Erwin T. Tulfo** (asr-001798)  
 Canada, may mga nag-a-apply
 
-**[01:31:20.060] Senator Erwin Tulfo** (asr-001799)  
+**[01:31:20.060] Senator Erwin T. Tulfo** (asr-001799)  
 pa po sa ibang European Union.
 
-**[01:31:23.040] Senator Erwin Tulfo** (asr-001800)  
+**[01:31:23.040] Senator Erwin T. Tulfo** (asr-001800)  
 How do you
 
-**[01:31:24.140] Senator Erwin Tulfo** (asr-001801)  
+**[01:31:24.140] Senator Erwin T. Tulfo** (asr-001801)  
 do this? Do you inform the local
 
-**[01:31:26.000] Senator Erwin Tulfo** (asr-001802)  
+**[01:31:26.000] Senator Erwin T. Tulfo** (asr-001802)  
 populace? Do you inform
 
-**[01:31:27.600] Senator Erwin Tulfo** (asr-001803)  
+**[01:31:27.600] Senator Erwin T. Tulfo** (asr-001803)  
 the
 
-**[01:31:28.220] Senator Erwin Tulfo** (asr-001804)  
+**[01:31:28.220] Senator Erwin T. Tulfo** (asr-001804)  
 LGU lang na okay
 
-**[01:31:30.160] Senator Erwin Tulfo** (asr-001805)  
+**[01:31:30.160] Senator Erwin T. Tulfo** (asr-001805)  
 magpupunta dito kasi may mga tao na hindi
 
-**[01:31:32.280] Senator Erwin Tulfo** (asr-001806)  
+**[01:31:32.280] Senator Erwin T. Tulfo** (asr-001806)  
 naman nagusto? Dahil maingay,
 
-**[01:31:34.380] Senator Erwin Tulfo** (asr-001807)  
+**[01:31:34.380] Senator Erwin T. Tulfo** (asr-001807)  
 magulo. So how
 
 **[01:31:36.260] PCVF Executive Director Antonio Atanacio Habulan** (asr-001808)  
@@ -5479,16 +5479,16 @@ we do the FRCCs,
 **[01:33:02.800] PCVF Executive Director Antonio Atanacio Habulan** (asr-001851)  
 LCCs, and the like.
 
-**[01:33:03.860] Senator Erwin Tulfo** (asr-001852)  
+**[01:33:03.860] Senator Erwin T. Tulfo** (asr-001852)  
 All right, thank you.
 
 **[01:33:05.460] PCVF Executive Director Antonio Atanacio Habulan** (asr-001853)  
 Thank you very much, Mr. Chair.
 
-**[01:33:07.080] Senator Erwin Tulfo** (asr-001854)  
+**[01:33:07.080] Senator Erwin T. Tulfo** (asr-001854)  
 Moving on, ano hong next
 
-**[01:33:09.700] Senator Erwin Tulfo** (asr-001855)  
+**[01:33:09.700] Senator Erwin T. Tulfo** (asr-001855)  
 attach agency ninyo?
 
 **[01:33:12.240] DFA Secretary Ma. Theresa P. Lazaro** (asr-001856)  
@@ -5500,22 +5500,22 @@ UNACOM.
 **[01:33:15.880] DFA Secretary Ma. Theresa P. Lazaro** (asr-001858)  
 UNACOM.
 
-**[01:33:17.540] Senator Erwin Tulfo** (asr-001859)  
+**[01:33:17.540] Senator Erwin T. Tulfo** (asr-001859)  
 Yes, UNACOM,
 
-**[01:33:19.660] Senator Erwin Tulfo** (asr-001860)  
+**[01:33:19.660] Senator Erwin T. Tulfo** (asr-001860)  
 ganun din ho.
 
-**[01:33:21.600] Senator Erwin Tulfo** (asr-001861)  
+**[01:33:21.600] Senator Erwin T. Tulfo** (asr-001861)  
 Napakatipid ho ninyo.
 
-**[01:33:23.060] Senator Erwin Tulfo** (asr-001862)  
+**[01:33:23.060] Senator Erwin T. Tulfo** (asr-001862)  
 June na ho, 27.2 million
 
-**[01:33:25.460] Senator Erwin Tulfo** (asr-001863)  
+**[01:33:25.460] Senator Erwin T. Tulfo** (asr-001863)  
 ang unused appropriations.
 
-**[01:33:28.220] Senator Erwin Tulfo** (asr-001864)  
+**[01:33:28.220] Senator Erwin T. Tulfo** (asr-001864)  
 Go ahead po, sir.
 
 **[01:33:29.180] UNACOM Secretary-General Dr. Ivan Henares** (asr-001865)  
@@ -5587,19 +5587,19 @@ throughout the year, and we are very sure na maubos
 **[01:34:12.080] UNACOM Secretary-General Dr. Ivan Henares** (asr-001887)  
 ulit ang budget namin this year.
 
-**[01:34:14.900] Senator Erwin Tulfo** (asr-001888)  
+**[01:34:14.900] Senator Erwin T. Tulfo** (asr-001888)  
 Okay, thank you.
 
-**[01:34:17.020] Senator Erwin Tulfo** (asr-001889)  
+**[01:34:17.020] Senator Erwin T. Tulfo** (asr-001889)  
 Moving on,
 
-**[01:34:18.740] Senator Erwin Tulfo** (asr-001890)  
+**[01:34:18.740] Senator Erwin T. Tulfo** (asr-001890)  
 I guess, Foreign Services
 
-**[01:34:20.000] Senator Erwin Tulfo** (asr-001891)  
+**[01:34:20.000] Senator Erwin T. Tulfo** (asr-001891)  
 Institute, Director General
 
-**[01:34:22.300] Senator Erwin Tulfo** (asr-001892)  
+**[01:34:22.300] Senator Erwin T. Tulfo** (asr-001892)  
 Ferrer.
 
 **[01:34:26.720] FSI Director General Neil Frank R. Ferrer** (asr-001893)  
@@ -5662,13 +5662,13 @@ that we will be able to utilize
 **[01:35:04.020] FSI Director General Neil Frank R. Ferrer** (asr-001912)  
 the rest of the budget before the end of the year.
 
-**[01:35:07.480] Senator Erwin Tulfo** (asr-001913)  
+**[01:35:07.480] Senator Erwin T. Tulfo** (asr-001913)  
 Saan po ninyo ginagamit
 
-**[01:35:08.740] Senator Erwin Tulfo** (asr-001914)  
+**[01:35:08.740] Senator Erwin T. Tulfo** (asr-001914)  
 yung budget ninyo,
 
-**[01:35:10.080] Senator Erwin Tulfo** (asr-001915)  
+**[01:35:10.080] Senator Erwin T. Tulfo** (asr-001915)  
 Director General Ferrer?
 
 **[01:35:12.000] FSI Director General Neil Frank R. Ferrer** (asr-001916)  
@@ -5725,52 +5725,52 @@ officers, communications officers.
 **[01:35:46.440] FSI Director General Neil Frank R. Ferrer** (asr-001933)  
 We also conduct language courses po, Your Honor.
 
-**[01:35:49.000] Senator Erwin Tulfo** (asr-001934)  
+**[01:35:49.000] Senator Erwin T. Tulfo** (asr-001934)  
 What about moral
 
-**[01:35:50.200] Senator Erwin Tulfo** (asr-001935)  
+**[01:35:50.200] Senator Erwin T. Tulfo** (asr-001935)  
 and welfare? Is that under
 
-**[01:35:52.240] Senator Erwin Tulfo** (asr-001936)  
+**[01:35:52.240] Senator Erwin T. Tulfo** (asr-001936)  
 also your office,
 
-**[01:35:54.980] Senator Erwin Tulfo** (asr-001937)  
+**[01:35:54.980] Senator Erwin T. Tulfo** (asr-001937)  
 itong moral and welfare
 
-**[01:35:56.240] Senator Erwin Tulfo** (asr-001938)  
+**[01:35:56.240] Senator Erwin T. Tulfo** (asr-001938)  
 ng ating mga foreign service,
 
-**[01:35:58.220] Senator Erwin Tulfo** (asr-001939)  
+**[01:35:58.220] Senator Erwin T. Tulfo** (asr-001939)  
 law officers, because they'll be
 
-**[01:36:00.300] Senator Erwin Tulfo** (asr-001940)  
+**[01:36:00.300] Senator Erwin T. Tulfo** (asr-001940)  
 away from home for several months.
 
-**[01:36:02.600] Senator Erwin Tulfo** (asr-001941)  
+**[01:36:02.600] Senator Erwin T. Tulfo** (asr-001941)  
 Kahit na po, kasama nila minsan yung
 
-**[01:36:04.080] Senator Erwin Tulfo** (asr-001942)  
+**[01:36:04.080] Senator Erwin T. Tulfo** (asr-001942)  
 families po nila, iba pa rin na
 
-**[01:36:05.940] Senator Erwin Tulfo** (asr-001943)  
+**[01:36:05.940] Senator Erwin T. Tulfo** (asr-001943)  
 you're working here, di po ba?
 
-**[01:36:07.960] Senator Erwin Tulfo** (asr-001944)  
+**[01:36:07.960] Senator Erwin T. Tulfo** (asr-001944)  
 Nalo nyo po doon sa mga posts na
 
-**[01:36:09.880] Senator Erwin Tulfo** (asr-001945)  
+**[01:36:09.880] Senator Erwin T. Tulfo** (asr-001945)  
 malalayo dito po sa atin.
 
-**[01:36:13.020] Senator Erwin Tulfo** (asr-001946)  
+**[01:36:13.020] Senator Erwin T. Tulfo** (asr-001946)  
 At wala masyado silang
 
-**[01:36:14.220] Senator Erwin Tulfo** (asr-001947)  
+**[01:36:14.220] Senator Erwin T. Tulfo** (asr-001947)  
 ikanga ng mga nightlife
 
-**[01:36:16.320] Senator Erwin Tulfo** (asr-001948)  
+**[01:36:16.320] Senator Erwin T. Tulfo** (asr-001948)  
 or mga
 
-**[01:36:18.660] Senator Erwin Tulfo** (asr-001949)  
+**[01:36:18.660] Senator Erwin T. Tulfo** (asr-001949)  
 mall or something.
 
 **[01:36:21.180] FSI Director General Neil Frank R. Ferrer** (asr-001950)  
@@ -5830,106 +5830,106 @@ how to deal with the media, and those
 **[01:36:56.380] FSI Director General Neil Frank R. Ferrer** (asr-001968)  
 things. Kasama po yun, Your Honor.
 
-**[01:36:58.060] Senator Erwin Tulfo** (asr-001969)  
+**[01:36:58.060] Senator Erwin T. Tulfo** (asr-001969)  
 Let me direct my question
 
-**[01:37:00.200] Senator Erwin Tulfo** (asr-001970)  
+**[01:37:00.200] Senator Erwin T. Tulfo** (asr-001970)  
 to Secretary Lazaro. Secretary,
 
-**[01:37:02.420] Senator Erwin Tulfo** (asr-001971)  
+**[01:37:02.420] Senator Erwin T. Tulfo** (asr-001971)  
 yung mga officials po natin,
 
-**[01:37:04.500] Senator Erwin Tulfo** (asr-001972)  
+**[01:37:04.500] Senator Erwin T. Tulfo** (asr-001972)  
 working in embassy staff,
 
-**[01:37:06.360] Senator Erwin Tulfo** (asr-001973)  
+**[01:37:06.360] Senator Erwin T. Tulfo** (asr-001973)  
 mga consuls natin,
 
-**[01:37:08.400] Senator Erwin Tulfo** (asr-001974)  
+**[01:37:08.400] Senator Erwin T. Tulfo** (asr-001974)  
 yung kanila po ba mga allowances,
 
-**[01:37:11.100] Senator Erwin Tulfo** (asr-001975)  
+**[01:37:11.100] Senator Erwin T. Tulfo** (asr-001975)  
 nakakaagapay
 
-**[01:37:12.740] Senator Erwin Tulfo** (asr-001976)  
+**[01:37:12.740] Senator Erwin T. Tulfo** (asr-001976)  
 naman po ba sila doon
 
-**[01:37:14.240] Senator Erwin Tulfo** (asr-001977)  
+**[01:37:14.240] Senator Erwin T. Tulfo** (asr-001977)  
 sa economy ng
 
-**[01:37:16.120] Senator Erwin Tulfo** (asr-001978)  
+**[01:37:16.120] Senator Erwin T. Tulfo** (asr-001978)  
 country na yun? Kung malaki po,
 
-**[01:37:18.280] Senator Erwin Tulfo** (asr-001979)  
+**[01:37:18.280] Senator Erwin T. Tulfo** (asr-001979)  
 medyo mahal po ang bilihin. I'm sure
 
-**[01:37:20.240] Senator Erwin Tulfo** (asr-001980)  
+**[01:37:20.240] Senator Erwin T. Tulfo** (asr-001980)  
 yung iba yung rate
 
-**[01:37:22.200] Senator Erwin Tulfo** (asr-001981)  
+**[01:37:22.200] Senator Erwin T. Tulfo** (asr-001981)  
 nung nasa Vietnam, comparado sa mga
 
-**[01:37:24.160] Senator Erwin Tulfo** (asr-001982)  
+**[01:37:24.160] Senator Erwin T. Tulfo** (asr-001982)  
 naka-assigned sa Japan or Singapore.
 
-**[01:37:25.960] Senator Erwin Tulfo** (asr-001983)  
+**[01:37:25.960] Senator Erwin T. Tulfo** (asr-001983)  
 So, do you make sure?
 
-**[01:37:28.060] Senator Erwin Tulfo** (asr-001984)  
+**[01:37:28.060] Senator Erwin T. Tulfo** (asr-001984)  
 How often do you review this na
 
-**[01:37:29.920] Senator Erwin Tulfo** (asr-001985)  
+**[01:37:29.920] Senator Erwin T. Tulfo** (asr-001985)  
 tama pa rin ba itong allowance na binigay
 
-**[01:37:32.260] Senator Erwin Tulfo** (asr-001986)  
+**[01:37:32.260] Senator Erwin T. Tulfo** (asr-001986)  
 natin, cost of living allowance?
 
-**[01:37:35.400] Senator Erwin Tulfo** (asr-001987)  
+**[01:37:35.400] Senator Erwin T. Tulfo** (asr-001987)  
 Is it
 
-**[01:37:36.040] Senator Erwin Tulfo** (asr-001988)  
+**[01:37:36.040] Senator Erwin T. Tulfo** (asr-001988)  
 still ika nga feasible
 
-**[01:37:38.120] Senator Erwin Tulfo** (asr-001989)  
+**[01:37:38.120] Senator Erwin T. Tulfo** (asr-001989)  
 or
 
-**[01:37:39.000] Senator Erwin Tulfo** (asr-001990)  
+**[01:37:39.000] Senator Erwin T. Tulfo** (asr-001990)  
 tumutugma pa sa
 
-**[01:37:42.040] Senator Erwin Tulfo** (asr-001991)  
+**[01:37:42.040] Senator Erwin T. Tulfo** (asr-001991)  
 panahon? Or hindi na?
 
-**[01:37:44.180] Senator Erwin Tulfo** (asr-001992)  
+**[01:37:44.180] Senator Erwin T. Tulfo** (asr-001992)  
 Baka mamaya ho, ma'am,
 
-**[01:37:45.960] Senator Erwin Tulfo** (asr-001993)  
+**[01:37:45.960] Senator Erwin T. Tulfo** (asr-001993)  
 pinapadala natin doon, wala na siyang
 
-**[01:37:47.940] Senator Erwin Tulfo** (asr-001994)  
+**[01:37:47.940] Senator Erwin T. Tulfo** (asr-001994)  
 talagang halos kumain
 
-**[01:37:49.920] Senator Erwin Tulfo** (asr-001995)  
+**[01:37:49.920] Senator Erwin T. Tulfo** (asr-001995)  
 bagdating niya sa bahay niya, sa apartment
 
-**[01:37:51.980] Senator Erwin Tulfo** (asr-001996)  
+**[01:37:51.980] Senator Erwin T. Tulfo** (asr-001996)  
 niya, baka toyo kanin na lang
 
-**[01:37:53.920] Senator Erwin Tulfo** (asr-001997)  
+**[01:37:53.920] Senator Erwin T. Tulfo** (asr-001997)  
 yung kinakain niya. I mean na, hindi
 
-**[01:37:55.840] Senator Erwin Tulfo** (asr-001998)  
+**[01:37:55.840] Senator Erwin T. Tulfo** (asr-001998)  
 naman ho, because tayo, when we
 
-**[01:37:58.060] Senator Erwin Tulfo** (asr-001999)  
+**[01:37:58.060] Senator Erwin T. Tulfo** (asr-001999)  
 send somebody, do we make sure? How often?
 
-**[01:38:00.060] Senator Erwin Tulfo** (asr-002000)  
+**[01:38:00.060] Senator Erwin T. Tulfo** (asr-002000)  
 Do you check? Who checks them na
 
-**[01:38:01.600] Senator Erwin Tulfo** (asr-002001)  
+**[01:38:01.600] Senator Erwin T. Tulfo** (asr-002001)  
 okay ka pa ba dyan?
 
-**[01:38:04.060] Senator Erwin Tulfo** (asr-002002)  
+**[01:38:04.060] Senator Erwin T. Tulfo** (asr-002002)  
 Nakakaagapay pa ba kayo?
 
 **[01:38:06.100] DFA Secretary Ma. Theresa P. Lazaro** (asr-002003)  
@@ -6019,67 +6019,67 @@ na ibinigay namin sa
 **[01:39:01.720] DFA Secretary Ma. Theresa P. Lazaro** (asr-002031)  
 mga different posts?
 
-**[01:39:04.780] Senator Erwin Tulfo** (asr-002032)  
+**[01:39:04.780] Senator Erwin T. Tulfo** (asr-002032)  
 Bihin, pati po yung mga
 
-**[01:39:06.280] Senator Erwin Tulfo** (asr-002033)  
+**[01:39:06.280] Senator Erwin T. Tulfo** (asr-002033)  
 pag-rent nila ng mga
 
-**[01:39:08.280] Senator Erwin Tulfo** (asr-002034)  
+**[01:39:08.280] Senator Erwin T. Tulfo** (asr-002034)  
 apartments nila, na tama
 
-**[01:39:10.420] Senator Erwin Tulfo** (asr-002035)  
+**[01:39:10.420] Senator Erwin T. Tulfo** (asr-002035)  
 pa rin ho ba? Kasi,
 
-**[01:39:12.240] Senator Erwin Tulfo** (asr-002036)  
+**[01:39:12.240] Senator Erwin T. Tulfo** (asr-002036)  
 syempre, meron silang
 
-**[01:39:14.480] Senator Erwin Tulfo** (asr-002037)  
+**[01:39:14.480] Senator Erwin T. Tulfo** (asr-002037)  
 basic salary. Pero, of course,
 
-**[01:39:16.520] Senator Erwin Tulfo** (asr-002038)  
+**[01:39:16.520] Senator Erwin T. Tulfo** (asr-002038)  
 yung allowances where they're at.
 
-**[01:39:18.500] Senator Erwin Tulfo** (asr-002039)  
+**[01:39:18.500] Senator Erwin T. Tulfo** (asr-002039)  
 So, iba-iba naman ho ito.
 
-**[01:39:20.260] Senator Erwin Tulfo** (asr-002040)  
+**[01:39:20.260] Senator Erwin T. Tulfo** (asr-002040)  
 I mean, you guys make sure
 
-**[01:39:22.400] Senator Erwin Tulfo** (asr-002041)  
+**[01:39:22.400] Senator Erwin T. Tulfo** (asr-002041)  
 na hindi naman po sila
 
-**[01:39:23.960] Senator Erwin Tulfo** (asr-002042)  
+**[01:39:23.960] Senator Erwin T. Tulfo** (asr-002042)  
 nahihirapan. Yung ating mga
 
-**[01:39:25.680] Senator Erwin Tulfo** (asr-002043)  
+**[01:39:25.680] Senator Erwin T. Tulfo** (asr-002043)  
 naka-assign po sa iba't-ibang
 
-**[01:39:28.060] Senator Erwin Tulfo** (asr-002044)  
+**[01:39:28.060] Senator Erwin T. Tulfo** (asr-002044)  
 posts natin.
 
 **[01:39:29.200] DFA Secretary Ma. Theresa P. Lazaro** (asr-002045)  
 Actually, Mr. Chair, dalawa pong kinds of allowances.
 
-**[01:39:31.880] Senator Erwin Tulfo** (asr-002046)  
+**[01:39:31.880] Senator Erwin T. Tulfo** (asr-002046)  
 And also, may I add, what about the
 
-**[01:39:33.760] Senator Erwin Tulfo** (asr-002047)  
+**[01:39:33.760] Senator Erwin T. Tulfo** (asr-002047)  
 also check on their moral and welfare?
 
-**[01:39:35.940] Senator Erwin Tulfo** (asr-002048)  
+**[01:39:35.940] Senator Erwin T. Tulfo** (asr-002048)  
 Baka mamaya, nakaisip na
 
-**[01:39:38.020] Senator Erwin Tulfo** (asr-002049)  
+**[01:39:38.020] Senator Erwin T. Tulfo** (asr-002049)  
 ng hindi maganda. Di ho ba?
 
-**[01:39:39.680] Senator Erwin Tulfo** (asr-002050)  
+**[01:39:39.680] Senator Erwin T. Tulfo** (asr-002050)  
 Ibig sabihin, sa sobrang lungkot,
 
-**[01:39:41.960] Senator Erwin Tulfo** (asr-002051)  
+**[01:39:41.960] Senator Erwin T. Tulfo** (asr-002051)  
 maybe, yun ho ang nakakatakot
 
-**[01:39:44.300] Senator Erwin Tulfo** (asr-002052)  
+**[01:39:44.300] Senator Erwin T. Tulfo** (asr-002052)  
 doon. Di po ba? Depression.
 
 **[01:39:46.720] DFA Secretary Ma. Theresa P. Lazaro** (asr-002053)  
@@ -6169,28 +6169,28 @@ We're very, very conscious
 **[01:40:44.100] DFA Secretary Ma. Theresa P. Lazaro** (asr-002081)  
 of that, and it's part of our wellness program.
 
-**[01:40:47.200] Senator Erwin Tulfo** (asr-002082)  
+**[01:40:47.200] Senator Erwin T. Tulfo** (asr-002082)  
 What about benefits?
 
-**[01:40:48.160] Senator Erwin Tulfo** (asr-002083)  
+**[01:40:48.160] Senator Erwin T. Tulfo** (asr-002083)  
 Medical benefits, pag nagkasakit po siya
 
-**[01:40:50.080] Senator Erwin Tulfo** (asr-002084)  
+**[01:40:50.080] Senator Erwin T. Tulfo** (asr-002084)  
 o yung kanyang pamilya,
 
-**[01:40:51.900] Senator Erwin Tulfo** (asr-002085)  
+**[01:40:51.900] Senator Erwin T. Tulfo** (asr-002085)  
 who handles that? Do they have,
 
-**[01:40:54.140] Senator Erwin Tulfo** (asr-002086)  
+**[01:40:54.140] Senator Erwin T. Tulfo** (asr-002086)  
 is it enough, yung kanilang
 
-**[01:40:55.500] Senator Erwin Tulfo** (asr-002087)  
+**[01:40:55.500] Senator Erwin T. Tulfo** (asr-002087)  
 medical
 
-**[01:40:58.680] Senator Erwin Tulfo** (asr-002088)  
+**[01:40:58.680] Senator Erwin T. Tulfo** (asr-002088)  
 allowance, pang pa-hospital?
 
-**[01:41:01.220] Senator Erwin Tulfo** (asr-002089)  
+**[01:41:01.220] Senator Erwin T. Tulfo** (asr-002089)  
 Does the DFA take care of that?
 
 **[01:41:03.920] DFA Secretary Ma. Theresa P. Lazaro** (asr-002090)  
@@ -6208,63 +6208,63 @@ able to really keep up
 **[01:41:10.820] DFA Secretary Ma. Theresa P. Lazaro** (asr-002094)  
 with the medical expenses of our personnel.
 
-**[01:41:13.180] Senator Erwin Tulfo** (asr-002095)  
+**[01:41:13.180] Senator Erwin T. Tulfo** (asr-002095)  
 Well, anyway,
 
-**[01:41:17.220] Senator Erwin Tulfo** (asr-002096)  
+**[01:41:17.220] Senator Erwin T. Tulfo** (asr-002096)  
 thank you, Secretary
 
-**[01:41:21.120] Senator Erwin Tulfo** (asr-002097)  
+**[01:41:21.120] Senator Erwin T. Tulfo** (asr-002097)  
 Lazaro, for the budget presentation.
 
-**[01:41:23.360] Senator Erwin Tulfo** (asr-002098)  
+**[01:41:23.360] Senator Erwin T. Tulfo** (asr-002098)  
 There being
 
-**[01:41:26.740] Senator Erwin Tulfo** (asr-002099)  
+**[01:41:26.740] Senator Erwin T. Tulfo** (asr-002099)  
 no more other questions,
 
-**[01:41:29.200] Senator Erwin Tulfo** (asr-002100)  
+**[01:41:29.200] Senator Erwin T. Tulfo** (asr-002100)  
 the fiscal year
 
-**[01:41:30.700] Senator Erwin Tulfo** (asr-002101)  
+**[01:41:30.700] Senator Erwin T. Tulfo** (asr-002101)  
 2027 proposed budget of the Department
 
-**[01:41:32.900] Senator Erwin Tulfo** (asr-002102)  
+**[01:41:32.900] Senator Erwin T. Tulfo** (asr-002102)  
 of Foreign Affairs and attached agencies
 
-**[01:41:34.800] Senator Erwin Tulfo** (asr-002103)  
+**[01:41:34.800] Senator Erwin T. Tulfo** (asr-002103)  
 now being submitted for
 
-**[01:41:36.940] Senator Erwin Tulfo** (asr-002104)  
+**[01:41:36.940] Senator Erwin T. Tulfo** (asr-002104)  
 plenary consideration,
 
-**[01:41:38.960] Senator Erwin Tulfo** (asr-002105)  
+**[01:41:38.960] Senator Erwin T. Tulfo** (asr-002105)  
 subject to discussions,
 
-**[01:41:40.820] Senator Erwin Tulfo** (asr-002106)  
+**[01:41:40.820] Senator Erwin T. Tulfo** (asr-002106)  
 and submission of requested documents.
 
-**[01:41:43.680] Senator Erwin Tulfo** (asr-002107)  
+**[01:41:43.680] Senator Erwin T. Tulfo** (asr-002107)  
 So, thank you
 
-**[01:41:44.900] Senator Erwin Tulfo** (asr-002108)  
+**[01:41:44.900] Senator Erwin T. Tulfo** (asr-002108)  
 very much. I would like to thank the officials
 
-**[01:41:46.680] Senator Erwin Tulfo** (asr-002109)  
+**[01:41:46.680] Senator Erwin T. Tulfo** (asr-002109)  
 and employees of the DFA
 
-**[01:41:48.260] Senator Erwin Tulfo** (asr-002110)  
+**[01:41:48.260] Senator Erwin T. Tulfo** (asr-002110)  
 and their attached agencies for their
 
-**[01:41:50.680] Senator Erwin Tulfo** (asr-002111)  
+**[01:41:50.680] Senator Erwin T. Tulfo** (asr-002111)  
 participation in today's deliberation.
 
-**[01:41:52.160] Senator Erwin Tulfo** (asr-002112)  
+**[01:41:52.160] Senator Erwin T. Tulfo** (asr-002112)  
 This budget briefing,
 
-**[01:41:53.360] Senator Erwin Tulfo** (asr-002113)  
+**[01:41:53.360] Senator Erwin T. Tulfo** (asr-002113)  
 is hereby suspended. Maraming salamat po and good luck.
 
-**[01:41:55.620] Senator Erwin Tulfo** (asr-002114)  
+**[01:41:55.620] Senator Erwin T. Tulfo** (asr-002114)  
 Thank you very much, sir.
 

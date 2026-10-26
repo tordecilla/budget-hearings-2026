@@ -260,7 +260,7 @@ Committee on People's Participation Chairperson Rep. Maria Angela S. Garcia said
 
 [02:14:17 · asr-003000](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003000) · [02:16:04 · asr-003054](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003054) · [02:17:17 · asr-003090](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003090) · [02:21:18 · asr-003208](https://tordecilla.github.io/budget-hearings-2026/records/47/#asr-003208)
 
-## GoodGovPH Representative Michelle Andre Macahilo
+## GoodGovPH Representative Michel Andre D. Macahilo
 
 ### Youth participation in budget monitoring and accountability
 

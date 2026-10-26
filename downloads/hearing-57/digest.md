@@ -132,7 +132,7 @@ Ejercito said DEPDev would oversee fulfillment of the Master Plan for Infrastruc
 
 [00:59:59 · asr-000159](https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-000159)
 
-## Senator Panfilo Lacson
+## Senator Panfilo "Ping" M. Lacson
 
 ### Registration gaps and National ID use
 
@@ -256,7 +256,7 @@ The officials clarified that MAV implementation was a DA matter. Balisacan disti
 
 [02:24:36 · asr-002025](https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002025) · [02:25:35 · asr-002061](https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002061) · [02:27:20 · asr-002158](https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002158) · [02:27:47 · asr-002178](https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002178) · [02:28:04 · asr-002193](https://tordecilla.github.io/budget-hearings-2026/records/57/#asr-002193)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### Foreign investment pledges
 

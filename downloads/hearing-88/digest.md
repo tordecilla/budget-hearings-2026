@@ -400,7 +400,7 @@ Senator Erwin Tulfo said the subcommittee would examine how FY2027 proposals sup
 
 [00:17:16 · asr-000095](https://tordecilla.github.io/budget-hearings-2026/records/88/#asr-000095) · [00:19:59 · asr-000157](https://tordecilla.github.io/budget-hearings-2026/records/88/#asr-000157) · [00:20:31 · asr-000173](https://tordecilla.github.io/budget-hearings-2026/records/88/#asr-000173) · [00:21:13 · asr-000194](https://tordecilla.github.io/budget-hearings-2026/records/88/#asr-000194)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### Domestic travel costs and access
 

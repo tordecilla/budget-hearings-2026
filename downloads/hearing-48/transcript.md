@@ -4,64 +4,64 @@ Source: https://www.youtube.com/watch?v=cqBHdRknjtE
 
 AI-assisted working draft. AI can make errors. Always check quotations, names, rulings, and other consequential details against the official video.
 
-**[00:11:25.010] Senator Panfilo Lacson** (asr-000001)  
+**[00:11:25.010] Senator Panfilo "Ping" M. Lacson** (asr-000001)  
 Subcommittee J of the Committee on Finance is hereby called to order.
 
-**[00:11:29.310] Senator Panfilo Lacson** (asr-000002)  
+**[00:11:29.310] Senator Panfilo "Ping" M. Lacson** (asr-000002)  
 The Chair would like to acknowledge the presence of the Chairman of the Finance Committee,
 
-**[00:11:34.550] Senator Panfilo Lacson** (asr-000003)  
+**[00:11:34.550] Senator Panfilo "Ping" M. Lacson** (asr-000003)  
 Senator JV Ejercito. Good afternoon, sir.
 
-**[00:11:37.150] Senator Panfilo Lacson** (asr-000004)  
+**[00:11:37.150] Senator Panfilo "Ping" M. Lacson** (asr-000004)  
 And the Senate President Pro Tempore, Senator Tito Sotto.
 
-**[00:11:42.890] Senator Panfilo Lacson** (asr-000005)  
+**[00:11:42.890] Senator Panfilo "Ping" M. Lacson** (asr-000005)  
 Before we begin, I'd like to make a bit of a disclosure.
 
-**[00:11:47.110] Senator Panfilo Lacson** (asr-000006)  
+**[00:11:47.110] Senator Panfilo "Ping" M. Lacson** (asr-000006)  
 The Secretary, Secretary Remulla, and I both hail from the same hometown,
 
-**[00:11:52.490] Senator Panfilo Lacson** (asr-000007)  
+**[00:11:52.490] Senator Panfilo "Ping" M. Lacson** (asr-000007)  
 in Imus, Cavite. And if I'm not mistaken, we seem to be siblings.
 
-**[00:11:57.650] Senator Panfilo Lacson** (asr-000008)  
+**[00:11:57.650] Senator Panfilo "Ping" M. Lacson** (asr-000008)  
 My father told me that his second cousin is Gobjani.
 
-**[00:12:01.710] Senator Panfilo Lacson** (asr-000009)  
+**[00:12:01.710] Senator Panfilo "Ping" M. Lacson** (asr-000009)  
 So that would make us third cousins, okay?
 
-**[00:12:06.730] Senator Panfilo Lacson** (asr-000010)  
+**[00:12:06.730] Senator Panfilo "Ping" M. Lacson** (asr-000010)  
 The General Tates used to be my police aide-de-camp since 1998.
 
-**[00:12:12.510] Senator Panfilo Lacson** (asr-000011)  
+**[00:12:12.510] Senator Panfilo "Ping" M. Lacson** (asr-000011)  
 In 1998, when I was Chief of the Presidential Anti-Organized Crime Task Force,
 
-**[00:12:17.830] Senator Panfilo Lacson** (asr-000012)  
+**[00:12:17.830] Senator Panfilo "Ping" M. Lacson** (asr-000012)  
 all the way until I resigned.
 
-**[00:12:22.490] Senator Panfilo Lacson** (asr-000013)  
+**[00:12:22.490] Senator Panfilo "Ping" M. Lacson** (asr-000013)  
 As Chief PNP in 2001, because of the ouster of then-President Estrada.
 
-**[00:12:29.730] Senator Panfilo Lacson** (asr-000014)  
+**[00:12:29.730] Senator Panfilo "Ping" M. Lacson** (asr-000014)  
 The Vice Chairman of the NAPOLCOM, Paeng, is the son of a very good friend of mine,
 
-**[00:12:38.130] Senator Panfilo Lacson** (asr-000015)  
+**[00:12:38.130] Senator Panfilo "Ping" M. Lacson** (asr-000015)  
 General Roberto Calinizan.
 
-**[00:12:42.410] Senator Panfilo Lacson** (asr-000016)  
+**[00:12:42.410] Senator Panfilo "Ping" M. Lacson** (asr-000016)  
 So with that, let's start.
 
-**[00:12:44.670] Senator Panfilo Lacson** (asr-000017)  
+**[00:12:44.670] Senator Panfilo "Ping" M. Lacson** (asr-000017)  
 Let's start.
 
-**[00:12:49.330] Senator Panfilo Lacson** (asr-000018)  
+**[00:12:49.330] Senator Panfilo "Ping" M. Lacson** (asr-000018)  
 Just so that there's a conveyance that this budget hearing might not be too long.
 
-**[00:12:54.250] Senator Panfilo Lacson** (asr-000019)  
+**[00:12:54.250] Senator Panfilo "Ping" M. Lacson** (asr-000019)  
 We'll talk—recognize, first of all, let's acknowledge the presence of our resource persons.
 
-**[00:13:03.370] Senator Panfilo Lacson** (asr-000020)  
+**[00:13:03.370] Senator Panfilo "Ping" M. Lacson** (asr-000020)  
 Please, Committee Secretary.
 
 **[00:13:05.550] Committee Secretary** (asr-000021)  
@@ -256,16 +256,16 @@ Ms. Ramidet Bernal, and Mr. Joshua Mirabueno, sir. That?s all, sir. Thank
 **[00:19:55.670] Committee Secretary** (asr-000084)  
 you
 
-**[00:19:56.400] Senator Panfilo Lacson** (asr-000084-split-2)  
+**[00:19:56.400] Senator Panfilo "Ping" M. Lacson** (asr-000084-split-2)  
 thank you
 
-**[00:19:59.360] Senator Panfilo Lacson** (asr-000085)  
+**[00:19:59.360] Senator Panfilo "Ping" M. Lacson** (asr-000085)  
 Kalimutan nyo yung kanina, pang-trivia lang yun, nabanggit yung mga personal connection and relationships.
 
-**[00:20:04.300] Senator Panfilo Lacson** (asr-000086)  
+**[00:20:04.300] Senator Panfilo "Ping" M. Lacson** (asr-000086)  
 So huwag kayong lalapit, mga polis, huwag kayong lalapit sa akin for promotion dahil may sariling pag-iisip yung mga yan, tsaka hindi ko rin gagawin. Anyway, let?s cut to the chase.
 
-**[00:20:14.200] Senator Panfilo Lacson** (asr-000087)  
+**[00:20:14.200] Senator Panfilo "Ping" M. Lacson** (asr-000087)  
 Unless may mga opening statements ng ating mga colleagues dito, we?ll start the presentation.
 
 **[00:20:20.440] Senator Joseph Victor "JV" G. Ejercito** (asr-000088)  
@@ -310,7 +310,7 @@ filipino people so that uh that's all mr chair thank you very much so i know tha
 **[00:21:42.450] Senator Joseph Victor "JV" G. Ejercito** (asr-000101)  
 spice here we will uh further support not the the needs of the dilg and the pnp and the rest
 
-**[00:21:48.530] Senator Panfilo Lacson** (asr-000102)  
+**[00:21:48.530] Senator Panfilo "Ping" M. Lacson** (asr-000102)  
 of the agencies thank you chairman uh jb the senate president brought them
 
 **[00:21:54.450] Senator Vicente C. Sotto III** (asr-000103)  
@@ -325,7 +325,7 @@ we can take up later give it a chance but i would like to listen to their budget
 **[00:22:16.530] Senator Vicente C. Sotto III** (asr-000106)  
 disclosure might as well let you know that the mother of the secretary is my relative thank you
 
-**[00:22:26.860] Senator Panfilo Lacson** (asr-000107)  
+**[00:22:26.860] Senator Panfilo "Ping" M. Lacson** (asr-000107)  
 we're now ready to listen to your presentation mr secretary
 
 **[00:22:30.900] DILG Secretary Juanito Victor C. Remulla** (asr-000107-split-2)  
@@ -817,19 +817,19 @@ and in carrying forward our commitment to building a nation that embodies the id
 **[00:37:09.950] DILG Video Narrator** (asr-000278)  
 Thank you very much.
 
-**[00:37:12.950] Senator Panfilo Lacson** (asr-000279)  
+**[00:37:12.950] Senator Panfilo "Ping" M. Lacson** (asr-000279)  
 Any other presentation?
 
 **[00:37:22.890] DILG Secretary Juanito Victor C. Remulla** (asr-000280)  
 No, no other, sir.
 
-**[00:37:28.220] Senator Panfilo Lacson** (asr-000281)  
+**[00:37:28.220] Senator Panfilo "Ping" M. Lacson** (asr-000281)  
 Okay. So we are also joined by the Senate President, Sherwin Gatchalian.
 
-**[00:37:35.220] Senator Panfilo Lacson** (asr-000282)  
+**[00:37:35.220] Senator Panfilo "Ping" M. Lacson** (asr-000282)  
 Good afternoon, sir.
 
-**[00:37:37.220] Senator Panfilo Lacson** (asr-000283)  
+**[00:37:37.220] Senator Panfilo "Ping" M. Lacson** (asr-000283)  
 So we will recognize first the Senate President Pro Tempore, Tito Sotto, because he arrived.
 
 **[00:37:48.780] Senator Vicente C. Sotto III** (asr-000284)  
@@ -844,10 +844,10 @@ Chairman of Finance and the Senate President before my questions.
 **[00:38:06.020] Senator Vicente C. Sotto III** (asr-000287)  
 Thank you.
 
-**[00:38:08.020] Senator Sherwin "Win" T. Gatchalian** (asr-000288)  
+**[00:38:08.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000288)  
 Senate President.
 
-**[00:38:10.020] Senator Sherwin "Win" T. Gatchalian** (asr-000289)  
+**[00:38:10.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000289)  
 Chairman, I know I arrived the latest, so I'll give way to the one who came in earlier, Mr. President.
 
 **[00:38:22.020] Senator Joseph Victor "JV" G. Ejercito** (asr-000290)  
@@ -1171,10 +1171,10 @@ information and the owners of illegal uh of illegal firearms that we all know ho
 **[00:46:36.240] DILG Secretary Juanito Victor C. Remulla** (asr-000396)  
 when the law is passed.
 
-**[00:46:38.000] Senator Panfilo Lacson** (asr-000396-split-2)  
+**[00:46:38.000] Senator Panfilo "Ping" M. Lacson** (asr-000396-split-2)  
 Senator JV, we acknowledge the presence of Senator Erwin
 
-**[00:46:42.160] Senator Panfilo Lacson** (asr-000397)  
+**[00:46:42.160] Senator Panfilo "Ping" M. Lacson** (asr-000397)  
 Tulfo. Good afternoon, sir.
 
 **[00:46:44.610] Senator Joseph Victor "JV" G. Ejercito** (asr-000397-split-2)  
@@ -1417,7 +1417,7 @@ that that 825 will now be reduced to zero through peaceful means of course
 **[00:58:49.160] Senator Joseph Victor "JV" G. Ejercito** (asr-000478)  
 hey let me shift up mr chair
 
-**[00:58:59.000] Senator Panfilo Lacson** (asr-000479)  
+**[00:58:59.000] Senator Panfilo "Ping" M. Lacson** (asr-000479)  
 Assuming 55 million capital outlay, are you ready to implement this next year?
 
 **[00:59:02.900] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-000479-split-2)  
@@ -1432,7 +1432,7 @@ ready implement for implementation
 **[00:59:11.380] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-000482)  
 everything. Yes, Your Honor.
 
-**[00:59:13.300] Senator Panfilo Lacson** (asr-000482-split-2)  
+**[00:59:13.300] Senator Panfilo "Ping" M. Lacson** (asr-000482-split-2)  
 Yeah, thank you.
 
 **[00:59:16.980] Senator Joseph Victor "JV" G. Ejercito** (asr-000483)  
@@ -1549,40 +1549,40 @@ We feel that this is most advantageous to the Filipinos
 **[01:02:39.110] DILG Secretary Juanito Victor C. Remulla** (asr-000519)  
 and it will eliminate the corruption within the system.
 
-**[01:02:42.890] Senator Sherwin "Win" T. Gatchalian** (asr-000520)  
+**[01:02:42.890] Senate President Sherwin "Win" T. Gatchalian** (asr-000520)  
 Mr. Chairman.
 
-**[01:02:44.790] Senator Sherwin "Win" T. Gatchalian** (asr-000521)  
+**[01:02:44.790] Senate President Sherwin "Win" T. Gatchalian** (asr-000521)  
 Senate President, Mr. Gugnaz.
 
-**[01:02:46.130] Senator Sherwin "Win" T. Gatchalian** (asr-000522)  
+**[01:02:46.130] Senate President Sherwin "Win" T. Gatchalian** (asr-000522)  
 Mr. Chairman, just to interject with the kind indulgence
 
-**[01:02:49.990] Senator Sherwin "Win" T. Gatchalian** (asr-000523)  
+**[01:02:49.990] Senate President Sherwin "Win" T. Gatchalian** (asr-000523)  
 of our chairman,
 
-**[01:02:51.350] Senator Sherwin "Win" T. Gatchalian** (asr-000524)  
+**[01:02:51.350] Senate President Sherwin "Win" T. Gatchalian** (asr-000524)  
 of the Committee on Finance.
 
-**[01:02:53.430] Senator Sherwin "Win" T. Gatchalian** (asr-000525)  
+**[01:02:53.430] Senate President Sherwin "Win" T. Gatchalian** (asr-000525)  
 Last year, when Senator J. Vito was the subcommittee chair,
 
-**[01:02:58.030] Senator Sherwin "Win" T. Gatchalian** (asr-000526)  
+**[01:02:58.030] Senate President Sherwin "Win" T. Gatchalian** (asr-000526)  
 he recommended 487 million for fire trucks
 
-**[01:03:04.350] Senator Sherwin "Win" T. Gatchalian** (asr-000527)  
+**[01:03:04.350] Senate President Sherwin "Win" T. Gatchalian** (asr-000527)  
 and then 392 million for fire stations,
 
-**[01:03:09.270] Senator Sherwin "Win" T. Gatchalian** (asr-000528)  
+**[01:03:09.270] Senate President Sherwin "Win" T. Gatchalian** (asr-000528)  
 precisely because we found out during that time
 
-**[01:03:12.590] Senator Sherwin "Win" T. Gatchalian** (asr-000529)  
+**[01:03:12.590] Senate President Sherwin "Win" T. Gatchalian** (asr-000529)  
 that we have a lot of LGs of fire stations, but none.
 
-**[01:03:16.190] Senator Sherwin "Win" T. Gatchalian** (asr-000530)  
+**[01:03:16.190] Senate President Sherwin "Win" T. Gatchalian** (asr-000530)  
 So, Senator J. Vito also recommended that.
 
-**[01:03:21.350] Senator Sherwin "Win" T. Gatchalian** (asr-000531)  
+**[01:03:21.350] Senate President Sherwin "Win" T. Gatchalian** (asr-000531)  
 What happened here, Chief Kwan-Chu?
 
 **[01:03:24.350] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-000532)  
@@ -1615,28 +1615,28 @@ We aligned the specification now
 **[01:03:48.350] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-000541)  
 to what we will get in Korea.
 
-**[01:03:51.350] Senator Sherwin "Win" T. Gatchalian** (asr-000542)  
+**[01:03:51.350] Senate President Sherwin "Win" T. Gatchalian** (asr-000542)  
 When will this be released by the DBM?
 
 **[01:03:54.350] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-000543)  
 Not yet, Mr. Chair.
 
-**[01:03:57.350] Senator Panfilo Lacson** (asr-000544)  
+**[01:03:57.350] Senator Panfilo "Ping" M. Lacson** (asr-000544)  
 It's been almost a year.
 
 **[01:03:58.350] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-000545)  
 Yes, Mr. Chair.
 
-**[01:04:00.350] Senator Panfilo Lacson** (asr-000546)  
+**[01:04:00.350] Senator Panfilo "Ping" M. Lacson** (asr-000546)  
 But honestly, what are the causes of the delay?
 
-**[01:04:03.350] Senator Panfilo Lacson** (asr-000547)  
+**[01:04:03.350] Senator Panfilo "Ping" M. Lacson** (asr-000547)  
 Be honest.
 
 **[01:04:05.350] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-000548)  
 That is...
 
-**[01:04:07.350] Senator Panfilo Lacson** (asr-000549)  
+**[01:04:07.350] Senator Panfilo "Ping" M. Lacson** (asr-000549)  
 Do you agree with this?
 
 **[01:04:10.350] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-000550)  
@@ -1849,106 +1849,106 @@ Thank you.
 **[01:06:50.350] Senator Joseph Victor "JV" G. Ejercito** (asr-000619)  
 Okay.
 
-**[01:06:51.350] Senator Erwin Tulfo** (asr-000620)  
+**[01:06:51.350] Senator Erwin T. Tulfo** (asr-000620)  
 Mr. Chair.
 
-**[01:06:52.350] Senator Panfilo Lacson** (asr-000621)  
+**[01:06:52.350] Senator Panfilo "Ping" M. Lacson** (asr-000621)  
 Yes, Senator.
 
-**[01:06:53.350] Senator Erwin Tulfo** (asr-000622)  
+**[01:06:53.350] Senator Erwin T. Tulfo** (asr-000622)  
 May I interject?
 
-**[01:06:54.350] Senator Erwin Tulfo** (asr-000623)  
+**[01:06:54.350] Senator Erwin T. Tulfo** (asr-000623)  
 Para po sa Bureau of Fire.
 
-**[01:06:56.350] Senator Erwin Tulfo** (asr-000624)  
+**[01:06:56.350] Senator Erwin T. Tulfo** (asr-000624)  
 Dito po sa nire-request ninyo ng budget,
 
-**[01:06:59.350] Senator Erwin Tulfo** (asr-000625)  
+**[01:06:59.350] Senator Erwin T. Tulfo** (asr-000625)  
 siyempre naglaan po
 
-**[01:07:00.350] Senator Erwin Tulfo** (asr-000626)  
+**[01:07:00.350] Senator Erwin T. Tulfo** (asr-000626)  
 kayo ng for spare parts,
 
-**[01:07:02.350] Senator Erwin Tulfo** (asr-000627)  
+**[01:07:02.350] Senator Erwin T. Tulfo** (asr-000627)  
 for maintenance po ng sasakyan,
 
-**[01:07:04.350] Senator Erwin Tulfo** (asr-000628)  
+**[01:07:04.350] Senator Erwin T. Tulfo** (asr-000628)  
 because during last election po,
 
-**[01:07:06.350] Senator Erwin Tulfo** (asr-000629)  
+**[01:07:06.350] Senator Erwin T. Tulfo** (asr-000629)  
 I went around, na-notice ko po
 
-**[01:07:08.350] Senator Erwin Tulfo** (asr-000630)  
+**[01:07:08.350] Senator Erwin T. Tulfo** (asr-000630)  
 may mga fire trucks natin
 
-**[01:07:10.350] Senator Erwin Tulfo** (asr-000631)  
+**[01:07:10.350] Senator Erwin T. Tulfo** (asr-000631)  
 sa mga probinsya,
 
-**[01:07:11.350] Senator Erwin Tulfo** (asr-000632)  
+**[01:07:11.350] Senator Erwin T. Tulfo** (asr-000632)  
 hindi ho gumagana.
 
-**[01:07:13.350] Senator Erwin Tulfo** (asr-000633)  
+**[01:07:13.350] Senator Erwin T. Tulfo** (asr-000633)  
 Ang reason na
 
-**[01:07:14.350] Senator Erwin Tulfo** (asr-000634)  
+**[01:07:14.350] Senator Erwin T. Tulfo** (asr-000634)  
 sinasabi ng bumbero,
 
-**[01:07:16.350] Senator Erwin Tulfo** (asr-000635)  
+**[01:07:16.350] Senator Erwin T. Tulfo** (asr-000635)  
 na nag-aantay pa
 
-**[01:07:17.350] Senator Erwin Tulfo** (asr-000636)  
+**[01:07:17.350] Senator Erwin T. Tulfo** (asr-000636)  
 ng request dito sa main office,
 
-**[01:07:19.350] Senator Erwin Tulfo** (asr-000637)  
+**[01:07:19.350] Senator Erwin T. Tulfo** (asr-000637)  
 or wala ho talagang nailalaan na pondo.
 
-**[01:07:22.350] Senator Erwin Tulfo** (asr-000638)  
+**[01:07:22.350] Senator Erwin T. Tulfo** (asr-000638)  
 Hopefully,
 
-**[01:07:23.350] Senator Erwin Tulfo** (asr-000639)  
+**[01:07:23.350] Senator Erwin T. Tulfo** (asr-000639)  
 this year po ba
 
-**[01:07:24.350] Senator Erwin Tulfo** (asr-000640)  
+**[01:07:24.350] Senator Erwin T. Tulfo** (asr-000640)  
 meron tayong ilalaan
 
-**[01:07:25.350] Senator Erwin Tulfo** (asr-000641)  
+**[01:07:25.350] Senator Erwin T. Tulfo** (asr-000641)  
 na pondo para sa mga fire trucks natin?
 
-**[01:07:27.350] Senator Erwin Tulfo** (asr-000642)  
+**[01:07:27.350] Senator Erwin T. Tulfo** (asr-000642)  
 Kasi siyempre
 
-**[01:07:28.350] Senator Erwin Tulfo** (asr-000643)  
+**[01:07:28.350] Senator Erwin T. Tulfo** (asr-000643)  
 habang tumatagal po
 
-**[01:07:29.350] Senator Erwin Tulfo** (asr-000644)  
+**[01:07:29.350] Senator Erwin T. Tulfo** (asr-000644)  
 kailangan ng maintenance,
 
-**[01:07:30.350] Senator Erwin Tulfo** (asr-000645)  
+**[01:07:30.350] Senator Erwin T. Tulfo** (asr-000645)  
 kailangan po
 
-**[01:07:31.350] Senator Erwin Tulfo** (asr-000646)  
+**[01:07:31.350] Senator Erwin T. Tulfo** (asr-000646)  
 lagyan ng mga pyesa.
 
-**[01:07:32.350] Senator Erwin Tulfo** (asr-000647)  
+**[01:07:32.350] Senator Erwin T. Tulfo** (asr-000647)  
 Kasi yun po yung
 
-**[01:07:33.350] Senator Erwin Tulfo** (asr-000648)  
+**[01:07:33.350] Senator Erwin T. Tulfo** (asr-000648)  
 naririnig ko last year
 
-**[01:07:36.350] Senator Erwin Tulfo** (asr-000649)  
+**[01:07:36.350] Senator Erwin T. Tulfo** (asr-000649)  
 when I went around
 
-**[01:07:37.350] Senator Erwin Tulfo** (asr-000650)  
+**[01:07:37.350] Senator Erwin T. Tulfo** (asr-000650)  
 during the campaign.
 
-**[01:07:38.350] Senator Erwin Tulfo** (asr-000651)  
+**[01:07:38.350] Senator Erwin T. Tulfo** (asr-000651)  
 Yun po yung sinasabi
 
-**[01:07:40.350] Senator Erwin Tulfo** (asr-000652)  
+**[01:07:40.350] Senator Erwin T. Tulfo** (asr-000652)  
 ng mga bombero natin
 
-**[01:07:41.350] Senator Erwin Tulfo** (asr-000653)  
+**[01:07:41.350] Senator Erwin T. Tulfo** (asr-000653)  
 sa mga probinsya.
 
 **[01:07:44.350] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-000654)  
@@ -2002,82 +2002,82 @@ and fire stations,
 **[01:08:13.350] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-000670)  
 Mr. Chair.
 
-**[01:08:14.350] Senator Erwin Tulfo** (asr-000671)  
+**[01:08:14.350] Senator Erwin T. Tulfo** (asr-000671)  
 Another thing,
 
-**[01:08:16.350] Senator Erwin Tulfo** (asr-000672)  
+**[01:08:16.350] Senator Erwin T. Tulfo** (asr-000672)  
 equipment po.
 
-**[01:08:17.350] Senator Erwin Tulfo** (asr-000673)  
+**[01:08:17.350] Senator Erwin T. Tulfo** (asr-000673)  
 Kasi may mga,
 
-**[01:08:18.350] Senator Erwin Tulfo** (asr-000674)  
+**[01:08:18.350] Senator Erwin T. Tulfo** (asr-000674)  
 dito po sa Metro Manila,
 
-**[01:08:19.350] Senator Erwin Tulfo** (asr-000675)  
+**[01:08:19.350] Senator Erwin T. Tulfo** (asr-000675)  
 nakita po natin
 
-**[01:08:20.350] Senator Erwin Tulfo** (asr-000676)  
+**[01:08:20.350] Senator Erwin T. Tulfo** (asr-000676)  
 talagang upgraded po
 
-**[01:08:21.350] Senator Erwin Tulfo** (asr-000677)  
+**[01:08:21.350] Senator Erwin T. Tulfo** (asr-000677)  
 yung mga equipment nila,
 
-**[01:08:22.350] Senator Erwin Tulfo** (asr-000678)  
+**[01:08:22.350] Senator Erwin T. Tulfo** (asr-000678)  
 firefighting equipment.
 
-**[01:08:24.350] Senator Erwin Tulfo** (asr-000679)  
+**[01:08:24.350] Senator Erwin T. Tulfo** (asr-000679)  
 Pero sa provinces po,
 
-**[01:08:25.350] Senator Erwin Tulfo** (asr-000680)  
+**[01:08:25.350] Senator Erwin T. Tulfo** (asr-000680)  
 parang wala.
 
-**[01:08:26.350] Senator Erwin Tulfo** (asr-000681)  
+**[01:08:26.350] Senator Erwin T. Tulfo** (asr-000681)  
 Parang bota lang
 
-**[01:08:27.350] Senator Erwin Tulfo** (asr-000682)  
+**[01:08:27.350] Senator Erwin T. Tulfo** (asr-000682)  
 at saka yung parang kapote,
 
-**[01:08:29.350] Senator Erwin Tulfo** (asr-000683)  
+**[01:08:29.350] Senator Erwin T. Tulfo** (asr-000683)  
 wala silang mga oxygen tanks,
 
-**[01:08:31.350] Senator Erwin Tulfo** (asr-000684)  
+**[01:08:31.350] Senator Erwin T. Tulfo** (asr-000684)  
 wala po silang mga face masks
 
-**[01:08:33.350] Senator Erwin Tulfo** (asr-000685)  
+**[01:08:33.350] Senator Erwin T. Tulfo** (asr-000685)  
 sa mga probinsya.
 
-**[01:08:35.350] Senator Erwin Tulfo** (asr-000686)  
+**[01:08:35.350] Senator Erwin T. Tulfo** (asr-000686)  
 Bakit po ganun?
 
-**[01:08:36.350] Senator Erwin Tulfo** (asr-000687)  
+**[01:08:36.350] Senator Erwin T. Tulfo** (asr-000687)  
 Ano hong reason ito?
 
-**[01:08:37.350] Senator Erwin Tulfo** (asr-000688)  
+**[01:08:37.350] Senator Erwin T. Tulfo** (asr-000688)  
 Dito sa Metro Manila,
 
-**[01:08:38.350] Senator Erwin Tulfo** (asr-000689)  
+**[01:08:38.350] Senator Erwin T. Tulfo** (asr-000689)  
 kumpleto talaga
 
-**[01:08:39.350] Senator Erwin Tulfo** (asr-000690)  
+**[01:08:39.350] Senator Erwin T. Tulfo** (asr-000690)  
 yung firefighting equipment nila,
 
-**[01:08:41.350] Senator Erwin Tulfo** (asr-000691)  
+**[01:08:41.350] Senator Erwin T. Tulfo** (asr-000691)  
 may oxygen tank,
 
-**[01:08:42.350] Senator Erwin Tulfo** (asr-000692)  
+**[01:08:42.350] Senator Erwin T. Tulfo** (asr-000692)  
 kumpleto,
 
-**[01:08:43.350] Senator Erwin Tulfo** (asr-000693)  
+**[01:08:43.350] Senator Erwin T. Tulfo** (asr-000693)  
 may mga face masks,
 
-**[01:08:44.350] Senator Erwin Tulfo** (asr-000694)  
+**[01:08:44.350] Senator Erwin T. Tulfo** (asr-000694)  
 pero sa probinsya
 
-**[01:08:45.350] Senator Erwin Tulfo** (asr-000695)  
+**[01:08:45.350] Senator Erwin T. Tulfo** (asr-000695)  
 wala.
 
-**[01:08:46.350] Senator Erwin Tulfo** (asr-000696)  
+**[01:08:46.350] Senator Erwin T. Tulfo** (asr-000696)  
 Ano nangyari diyan?
 
 **[01:08:47.350] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-000697)  
@@ -2125,16 +2125,16 @@ they already have their equipment,
 **[01:09:05.350] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-000711)  
 Mr. Chair.
 
-**[01:09:06.350] Senator Erwin Tulfo** (asr-000712)  
+**[01:09:06.350] Senator Erwin T. Tulfo** (asr-000712)  
 All right.
 
-**[01:09:08.350] Senator Erwin Tulfo** (asr-000713)  
+**[01:09:08.350] Senator Erwin T. Tulfo** (asr-000713)  
 Thank you.
 
-**[01:09:09.350] Senator Erwin Tulfo** (asr-000714)  
+**[01:09:09.350] Senator Erwin T. Tulfo** (asr-000714)  
 Thank you.
 
-**[01:09:10.350] Senator Erwin Tulfo** (asr-000715)  
+**[01:09:10.350] Senator Erwin T. Tulfo** (asr-000715)  
 Thank you, Mr. Chair.
 
 **[01:09:11.350] Senator Joseph Victor "JV" G. Ejercito** (asr-000716)  
@@ -2158,7 +2158,7 @@ and our pro tem
 **[01:09:18.350] Senator Joseph Victor "JV" G. Ejercito** (asr-000722)  
 can ask their questions.
 
-**[01:09:20.350] Senator Panfilo Lacson** (asr-000723)  
+**[01:09:20.350] Senator Panfilo "Ping" M. Lacson** (asr-000723)  
 Senator Sotto is recognized.
 
 **[01:09:22.350] Senator Vicente C. Sotto III** (asr-000724)  
@@ -3265,25 +3265,25 @@ all right thank you sir thank you uh thank you very much thank you mr chairman
 **[01:22:21.760] Senator Vicente C. Sotto III** (asr-001099)  
 sir back to the senate president
 
-**[01:22:26.200] Senator Sherwin "Win" T. Gatchalian** (asr-001099-split-2)  
+**[01:22:26.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001099-split-2)  
 thank you very much mr chairman mr chairman i just want to get an
 
-**[01:22:29.480] Senator Sherwin "Win" T. Gatchalian** (asr-001100)  
+**[01:22:29.480] Senate President Sherwin "Win" T. Gatchalian** (asr-001100)  
 update i remember during last time there was a move by the ilg to purchase a building
 
-**[01:22:37.720] Senator Sherwin "Win" T. Gatchalian** (asr-001101)  
+**[01:22:37.720] Senate President Sherwin "Win" T. Gatchalian** (asr-001101)  
 may i get an update on that because that seems to me seems to be a novel idea
 
-**[01:22:47.080] Senator Sherwin "Win" T. Gatchalian** (asr-001102)  
+**[01:22:47.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001102)  
 to instead of government building a building which takes time
 
-**[01:22:53.240] Senator Sherwin "Win" T. Gatchalian** (asr-001103)  
+**[01:22:53.240] Senate President Sherwin "Win" T. Gatchalian** (asr-001103)  
 um government should just look at look for existing buildings that are not occupied
 
-**[01:23:01.080] Senator Sherwin "Win" T. Gatchalian** (asr-001104)  
+**[01:23:01.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001104)  
 and purchase the building ready to move in and ready to be occupied so may i get an update on
 
-**[01:23:10.360] Senator Sherwin "Win" T. Gatchalian** (asr-001105)  
+**[01:23:10.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001105)  
 that project i remember talking to the secretary about that project thank you very much sir um the
 
 **[01:23:16.360] DILG Secretary Juanito Victor C. Remulla** (asr-001106)  
@@ -3337,13 +3337,13 @@ because it's just a fit out it's just ordering the furniture and changing a few 
 **[01:25:01.320] DILG Secretary Juanito Victor C. Remulla** (asr-001122)  
 but in terms of uh uh the transaction the government has completely bought out that
 
-**[01:25:08.040] Senator Sherwin "Win" T. Gatchalian** (asr-001123)  
+**[01:25:08.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001123)  
 building
 
 **[01:25:09.300] DILG Secretary Juanito Victor C. Remulla** (asr-001123-split-2)  
 yes yes we have
 
-**[01:25:09.820] Senator Sherwin "Win" T. Gatchalian** (asr-001123-split-3)  
+**[01:25:09.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001123-split-3)  
 oh right i think it's through gsis
 
 **[01:25:12.100] DILG Secretary Juanito Victor C. Remulla** (asr-001123-split-4)  
@@ -3361,16 +3361,16 @@ our requests so we went through the gsis in order to complete this and then the 
 **[01:25:30.200] DILG Secretary Juanito Victor C. Remulla** (asr-001127)  
 page yes uh through a multi-year contractual agreement is that already incorporated here
 
-**[01:25:36.200] Senator Sherwin "Win" T. Gatchalian** (asr-001128)  
+**[01:25:36.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001128)  
 in the budget yes it is sir how much is the is the amortization for next year
 
 **[01:25:43.560] DILG Secretary Juanito Victor C. Remulla** (asr-001129)  
 one 1.5 billion per year sir
 
-**[01:25:50.000] Senator Sherwin "Win" T. Gatchalian** (asr-001130)  
+**[01:25:50.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001130)  
 yes
 
-**[01:25:50.240] Senator Sherwin "Win" T. Gatchalian** (asr-001131)  
+**[01:25:50.240] Senate President Sherwin "Win" T. Gatchalian** (asr-001131)  
 so every year
 
 **[01:26:09.760] Senator Joseph Victor "JV" G. Ejercito** (asr-001132)  
@@ -3382,19 +3382,19 @@ groundbreaking
 **[01:26:15.840] Senator Joseph Victor "JV" G. Ejercito** (asr-001134)  
 uh
 
-**[01:26:29.360] Senator Sherwin "Win" T. Gatchalian** (asr-001135)  
+**[01:26:29.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001135)  
 budget so i think um you have to uh look at other modalities uh to build buildings government
 
-**[01:26:36.000] Senator Sherwin "Win" T. Gatchalian** (asr-001136)  
+**[01:26:36.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001136)  
 offices and I think this is a different model because it was GSIS who bought the building
 
 **[01:26:42.400] DILG Secretary Juanito Victor C. Remulla** (asr-001137)  
 Yes, sir.
 
-**[01:26:44.200] Senator Sherwin "Win" T. Gatchalian** (asr-001138)  
+**[01:26:44.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001138)  
 G2G.
 
-**[01:26:45.840] Senator Sherwin "Win" T. Gatchalian** (asr-001139)  
+**[01:26:45.840] Senate President Sherwin "Win" T. Gatchalian** (asr-001139)  
 so it's really a a modality that is i think first time it is the first time sir that we
 
 **[01:26:54.080] DILG Secretary Juanito Victor C. Remulla** (asr-001140)  
@@ -3412,61 +3412,61 @@ uh compared to the two that we currently have in the napoleon building and mostl
 **[01:27:23.600] DILG Secretary Juanito Victor C. Remulla** (asr-001144)  
 at the consistent level so hopefully you will see a better service from the dlg once we move
 
-**[01:27:31.600] Senator Sherwin "Win" T. Gatchalian** (asr-001145)  
+**[01:27:31.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001145)  
 offices sir right thank you thank you for that update i'll go through some
 
-**[01:27:35.920] Senator Sherwin "Win" T. Gatchalian** (asr-001146)  
+**[01:27:35.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001146)  
 policy questions i'll start off with the bfp
 
-**[01:27:41.500] Senator Sherwin "Win" T. Gatchalian** (asr-001147)  
+**[01:27:41.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001147)  
 Dito sa COA report. Na-flag na rin namin ito last time, but I'll flag it again. Itong issue with PITC. May na-transfer na pondo. Matagal na ito, 2017.
 
-**[01:28:01.760] Senator Sherwin "Win" T. Gatchalian** (asr-001148)  
+**[01:28:01.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001148)  
 agency construction of typical fire station building 104 million
 
-**[01:28:08.160] Senator Sherwin "Win" T. Gatchalian** (asr-001149)  
+**[01:28:08.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001149)  
 tapos
 
-**[01:28:10.160] Senator Sherwin "Win" T. Gatchalian** (asr-001150)  
+**[01:28:10.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001150)  
 meron na namang transfer
 
-**[01:28:12.160] Senator Sherwin "Win" T. Gatchalian** (asr-001151)  
+**[01:28:12.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001151)  
 the same year, 2017, 787 million.
 
-**[01:28:14.160] Senator Sherwin "Win" T. Gatchalian** (asr-001152)  
+**[01:28:14.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001152)  
 so total of
 
-**[01:28:16.160] Senator Sherwin "Win" T. Gatchalian** (asr-001153)  
+**[01:28:16.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001153)  
 892 million
 
-**[01:28:18.160] Senator Sherwin "Win" T. Gatchalian** (asr-001154)  
+**[01:28:18.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001154)  
 na na-transfer sa PITC.
 
-**[01:28:20.160] Senator Sherwin "Win" T. Gatchalian** (asr-001155)  
+**[01:28:20.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001155)  
 Pero apparently,
 
-**[01:28:22.160] Senator Sherwin "Win" T. Gatchalian** (asr-001156)  
+**[01:28:22.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001156)  
 only nine out of the
 
-**[01:28:24.160] Senator Sherwin "Win" T. Gatchalian** (asr-001157)  
+**[01:28:24.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001157)  
 98 projects
 
-**[01:28:26.160] Senator Sherwin "Win" T. Gatchalian** (asr-001158)  
+**[01:28:26.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001158)  
 ang
 
-**[01:28:28.160] Senator Sherwin "Win" T. Gatchalian** (asr-001159)  
+**[01:28:28.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001159)  
 natapos.
 
-**[01:28:30.160] Senator Sherwin "Win" T. Gatchalian** (asr-001160)  
+**[01:28:30.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001160)  
 and this is already going in its 10th year anniversary
 
-**[01:28:34.160] Senator Sherwin "Win" T. Gatchalian** (asr-001161)  
+**[01:28:34.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001161)  
 So ano bang
 
-**[01:28:36.160] Senator Sherwin "Win" T. Gatchalian** (asr-001162)  
+**[01:28:36.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001162)  
 naayos ba
 
-**[01:28:38.160] Senator Sherwin "Win" T. Gatchalian** (asr-001163)  
+**[01:28:38.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001163)  
 itong problema nga ito?
 
 **[01:28:40.160] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001164)  
@@ -3517,13 +3517,13 @@ Pero yung 65 po, Mr. Chair,
 **[01:29:15.000] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001179)  
 we're just waiting for the release of SARO because it's under evaluation from the DBM.
 
-**[01:29:20.500] Senator Sherwin "Win" T. Gatchalian** (asr-001180)  
+**[01:29:20.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001180)  
 I thought the whole reason bakit tinransfer sa PITC
 
-**[01:29:26.500] Senator Sherwin "Win" T. Gatchalian** (asr-001181)  
+**[01:29:26.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001181)  
 para mas mabilis yung
 
-**[01:29:28.500] Senator Sherwin "Win" T. Gatchalian** (asr-001182)  
+**[01:29:28.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001182)  
 bidding process.
 
 **[01:29:30.500] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001183)  
@@ -3544,19 +3544,19 @@ terminations and unfinished
 **[01:29:44.300] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001188)  
 projects, Mr. Chair, with all due respect.
 
-**[01:29:45.800] Senator Sherwin "Win" T. Gatchalian** (asr-001189)  
+**[01:29:45.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001189)  
 Correct. So
 
-**[01:29:48.000] Senator Sherwin "Win" T. Gatchalian** (asr-001190)  
+**[01:29:48.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001190)  
 dito sa 892,
 
-**[01:29:50.000] Senator Sherwin "Win" T. Gatchalian** (asr-001191)  
+**[01:29:50.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001191)  
 ilan ang natitira na lang? I would assume
 
-**[01:29:52.000] Senator Sherwin "Win" T. Gatchalian** (asr-001192)  
+**[01:29:52.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001192)  
 na yung na-terminate ninyo,
 
-**[01:29:54.000] Senator Sherwin "Win" T. Gatchalian** (asr-001193)  
+**[01:29:54.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001193)  
 may nabayaran na yan, may down payment na?
 
 **[01:29:55.700] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001194)  
@@ -3604,19 +3604,19 @@ of the provided funding for the
 **[01:30:14.120] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001208)  
 BFP, Mr. Chair and Your Honors.
 
-**[01:30:16.220] Senator Sherwin "Win" T. Gatchalian** (asr-001209)  
+**[01:30:16.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001209)  
 So dalawang
 
-**[01:30:17.440] Senator Sherwin "Win" T. Gatchalian** (asr-001210)  
+**[01:30:17.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001210)  
 issue dito,
 
-**[01:30:20.180] Senator Sherwin "Win" T. Gatchalian** (asr-001211)  
+**[01:30:20.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001211)  
 yung sinasabi yung SARO,
 
-**[01:30:21.900] Senator Sherwin "Win" T. Gatchalian** (asr-001212)  
+**[01:30:21.900] Senate President Sherwin "Win" T. Gatchalian** (asr-001212)  
 hindi pa nalalabas. How come hindi siya
 
-**[01:30:23.980] Senator Sherwin "Win" T. Gatchalian** (asr-001213)  
+**[01:30:23.980] Senate President Sherwin "Win" T. Gatchalian** (asr-001213)  
 nalabas? We're just waiting
 
 **[01:30:25.600] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001214)  
@@ -3631,7 +3631,7 @@ Your Honor. And hopefully it can be out
 **[01:30:31.680] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001217)  
 within this year. That is included
 
-**[01:30:33.820] Senator Sherwin "Win" T. Gatchalian** (asr-001218)  
+**[01:30:33.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001218)  
 in the 892 million?
 
 **[01:30:36.380] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001219)  
@@ -3694,19 +3694,19 @@ So I think this was flawed from the start
 **[01:31:11.700] DILG Secretary Juanito Victor C. Remulla** (asr-001238)  
 that they passed through the PITC.
 
-**[01:31:14.200] Senator Sherwin "Win" T. Gatchalian** (asr-001239)  
+**[01:31:14.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001239)  
 And meron ba kayong
 
-**[01:31:16.080] Senator Sherwin "Win" T. Gatchalian** (asr-001240)  
+**[01:31:16.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001240)  
 did you pursue
 
-**[01:31:17.920] Senator Sherwin "Win" T. Gatchalian** (asr-001241)  
+**[01:31:17.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001241)  
 any legal action against
 
-**[01:31:19.760] Senator Sherwin "Win" T. Gatchalian** (asr-001242)  
+**[01:31:19.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001242)  
 these contractors
 
-**[01:31:20.820] Senator Sherwin "Win" T. Gatchalian** (asr-001243)  
+**[01:31:20.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001243)  
 or even PITC themselves?
 
 **[01:31:24.220] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001244)  
@@ -3736,10 +3736,10 @@ We have blacklisted them.
 **[01:31:37.640] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001252)  
 Your Honor.
 
-**[01:31:38.780] Senator Sherwin "Win" T. Gatchalian** (asr-001253)  
+**[01:31:38.780] Senate President Sherwin "Win" T. Gatchalian** (asr-001253)  
 We will submit to us
 
-**[01:31:40.140] Senator Sherwin "Win" T. Gatchalian** (asr-001254)  
+**[01:31:40.140] Senate President Sherwin "Win" T. Gatchalian** (asr-001254)  
 the list of blacklisted contractors.
 
 **[01:31:43.720] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001255)  
@@ -3751,16 +3751,16 @@ the updated list and the actions
 **[01:31:46.960] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001257)  
 taken to those contractors, Your Honor.
 
-**[01:31:49.180] Senator Sherwin "Win" T. Gatchalian** (asr-001258)  
+**[01:31:49.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001258)  
 So, magkano na lang natitira
 
-**[01:31:50.820] Senator Sherwin "Win" T. Gatchalian** (asr-001259)  
+**[01:31:50.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001259)  
 Fire Chief
 
-**[01:31:52.280] Senator Sherwin "Win" T. Gatchalian** (asr-001260)  
+**[01:31:52.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001260)  
 out of that 892?
 
-**[01:31:58.440] Senator Sherwin "Win" T. Gatchalian** (asr-001261)  
+**[01:31:58.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001261)  
 Magkano na lang usable amount?
 
 **[01:32:00.180] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001262)  
@@ -3769,7 +3769,7 @@ Around 60 million, Your Honor.
 **[01:32:02.400] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001263)  
 Yung pwede naman ito.
 
-**[01:32:02.800] Senator Sherwin "Win" T. Gatchalian** (asr-001264)  
+**[01:32:02.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001264)  
 So, magkano na lang natitira?
 
 **[01:32:02.880] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001265)  
@@ -3778,19 +3778,19 @@ Pwede po natin gamitin.
 **[01:32:03.860] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001266)  
 60 million, Your Honor.
 
-**[01:32:05.700] Senator Sherwin "Win" T. Gatchalian** (asr-001267)  
+**[01:32:05.700] Senate President Sherwin "Win" T. Gatchalian** (asr-001267)  
 60 na lang natira?
 
 **[01:32:06.800] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001268)  
 Yes, Your Honor.
 
-**[01:32:07.540] Senator Sherwin "Win" T. Gatchalian** (asr-001269)  
+**[01:32:07.540] Senate President Sherwin "Win" T. Gatchalian** (asr-001269)  
 So, out of the 892,
 
-**[01:32:10.060] Senator Sherwin "Win" T. Gatchalian** (asr-001270)  
+**[01:32:10.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001270)  
 60 million na lang
 
-**[01:32:11.540] Senator Sherwin "Win" T. Gatchalian** (asr-001271)  
+**[01:32:11.540] Senate President Sherwin "Win" T. Gatchalian** (asr-001271)  
 ang pwedeng magamit?
 
 **[01:32:12.580] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001272)  
@@ -3808,16 +3808,16 @@ nasa DBM po yun
 **[01:32:16.920] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001276)  
 for evaluation, Your Honor.
 
-**[01:32:18.580] Senator Sherwin "Win" T. Gatchalian** (asr-001277)  
+**[01:32:18.580] Senate President Sherwin "Win" T. Gatchalian** (asr-001277)  
 So, in other words,
 
-**[01:32:19.580] Senator Sherwin "Win" T. Gatchalian** (asr-001278)  
+**[01:32:19.580] Senate President Sherwin "Win" T. Gatchalian** (asr-001278)  
 yung 800
 
-**[01:32:22.460] Senator Sherwin "Win" T. Gatchalian** (asr-001279)  
+**[01:32:22.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001279)  
 830 plus million
 
-**[01:32:26.400] Senator Sherwin "Win" T. Gatchalian** (asr-001280)  
+**[01:32:26.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001280)  
 na wala na?
 
 **[01:32:27.480] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001281)  
@@ -3835,10 +3835,10 @@ napunta lahat sa contractor
 **[01:32:34.500] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001285)  
 na nag-abandon po.
 
-**[01:32:35.400] Senator Sherwin "Win" T. Gatchalian** (asr-001286)  
+**[01:32:35.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001286)  
 How much was reverted to the BTR?
 
-**[01:32:37.180] Senator Sherwin "Win" T. Gatchalian** (asr-001287)  
+**[01:32:37.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001287)  
 Paano nang na-revert natin?
 
 **[01:32:41.860] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001288)  
@@ -3847,70 +3847,70 @@ We will provide you the answer, Your Honor,
 **[01:32:43.660] BFP Officer-in-Charge Fire Chief Superintendent Wilberto Rico Neil A. Kwan Tiu** (asr-001289)  
 in a while.
 
-**[01:32:44.300] Senator Sherwin "Win" T. Gatchalian** (asr-001290)  
+**[01:32:44.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001290)  
 Sige.
 
-**[01:32:45.660] Senator Sherwin "Win" T. Gatchalian** (asr-001291)  
+**[01:32:45.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001291)  
 Hinto na natin
 
-**[01:32:46.660] Senator Sherwin "Win" T. Gatchalian** (asr-001292)  
+**[01:32:46.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001292)  
 yung ganitong practice
 
-**[01:32:47.520] Senator Sherwin "Win" T. Gatchalian** (asr-001293)  
+**[01:32:47.520] Senate President Sherwin "Win" T. Gatchalian** (asr-001293)  
 and I've heard the Secretary mention
 
-**[01:32:49.480] Senator Sherwin "Win" T. Gatchalian** (asr-001294)  
+**[01:32:49.480] Senate President Sherwin "Win" T. Gatchalian** (asr-001294)  
 that under his watch,
 
-**[01:32:52.160] Senator Sherwin "Win" T. Gatchalian** (asr-001295)  
+**[01:32:52.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001295)  
 wala nang ganitong practice
 
-**[01:32:54.380] Senator Sherwin "Win" T. Gatchalian** (asr-001296)  
+**[01:32:54.380] Senate President Sherwin "Win" T. Gatchalian** (asr-001296)  
 because even kami dito sa Senate,
 
-**[01:32:57.360] Senator Sherwin "Win" T. Gatchalian** (asr-001297)  
+**[01:32:57.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001297)  
 nagtataka kami bakit yung PITC
 
-**[01:32:59.520] Senator Sherwin "Win" T. Gatchalian** (asr-001298)  
+**[01:32:59.520] Senate President Sherwin "Win" T. Gatchalian** (asr-001298)  
 ang nagiging de facto procurement
 
-**[01:33:02.620] Senator Sherwin "Win" T. Gatchalian** (asr-001299)  
+**[01:33:02.620] Senate President Sherwin "Win" T. Gatchalian** (asr-001299)  
 and construction arm
 
-**[01:33:04.100] Senator Sherwin "Win" T. Gatchalian** (asr-001300)  
+**[01:33:04.100] Senate President Sherwin "Win" T. Gatchalian** (asr-001300)  
 ng iba.
 
-**[01:33:04.740] Senator Sherwin "Win" T. Gatchalian** (asr-001301)  
+**[01:33:04.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001301)  
 At ibang ahensya.
 
-**[01:33:06.420] Senator Sherwin "Win" T. Gatchalian** (asr-001302)  
+**[01:33:06.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001302)  
 And nag-charge pa sila
 
-**[01:33:07.800] Senator Sherwin "Win" T. Gatchalian** (asr-001303)  
+**[01:33:07.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001303)  
 ng management fee
 
-**[01:33:08.760] Senator Sherwin "Win" T. Gatchalian** (asr-001304)  
+**[01:33:08.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001304)  
 on top of that.
 
-**[01:33:10.240] Senator Sherwin "Win" T. Gatchalian** (asr-001305)  
+**[01:33:10.240] Senate President Sherwin "Win" T. Gatchalian** (asr-001305)  
 Well, in fact,
 
-**[01:33:11.280] Senator Sherwin "Win" T. Gatchalian** (asr-001306)  
+**[01:33:11.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001306)  
 the agencies themselves,
 
-**[01:33:12.820] Senator Sherwin "Win" T. Gatchalian** (asr-001307)  
+**[01:33:12.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001307)  
 mayroon namang capability
 
-**[01:33:13.900] Senator Sherwin "Win" T. Gatchalian** (asr-001308)  
+**[01:33:13.900] Senate President Sherwin "Win" T. Gatchalian** (asr-001308)  
 to buy,
 
-**[01:33:15.880] Senator Sherwin "Win" T. Gatchalian** (asr-001309)  
+**[01:33:15.880] Senate President Sherwin "Win" T. Gatchalian** (asr-001309)  
 to procure,
 
-**[01:33:16.680] Senator Sherwin "Win" T. Gatchalian** (asr-001310)  
+**[01:33:16.680] Senate President Sherwin "Win" T. Gatchalian** (asr-001310)  
 to construct.
 
-**[01:33:17.640] Senator Sherwin "Win" T. Gatchalian** (asr-001311)  
+**[01:33:17.640] Senate President Sherwin "Win" T. Gatchalian** (asr-001311)  
 So, it's really an anomaly.
 
 **[01:33:20.360] DILG Secretary Juanito Victor C. Remulla** (asr-001312)  
@@ -4009,28 +4009,28 @@ the 100 million lower
 **[01:34:13.120] DILG Secretary Juanito Victor C. Remulla** (asr-001343)  
 was the one who won the bid, sir.
 
-**[01:34:15.220] Senator Sherwin "Win" T. Gatchalian** (asr-001344)  
+**[01:34:15.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001344)  
 In short,
 
-**[01:34:17.020] Senator Sherwin "Win" T. Gatchalian** (asr-001345)  
+**[01:34:17.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001345)  
 Secretary,
 
-**[01:34:17.820] Senator Sherwin "Win" T. Gatchalian** (asr-001346)  
+**[01:34:17.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001346)  
 under this leadership,
 
-**[01:34:19.260] Senator Sherwin "Win" T. Gatchalian** (asr-001347)  
+**[01:34:19.260] Senate President Sherwin "Win" T. Gatchalian** (asr-001347)  
 wala nang transaction
 
-**[01:34:20.720] Senator Sherwin "Win" T. Gatchalian** (asr-001348)  
+**[01:34:20.720] Senate President Sherwin "Win" T. Gatchalian** (asr-001348)  
 with the PIPC
 
-**[01:34:21.880] Senator Sherwin "Win" T. Gatchalian** (asr-001349)  
+**[01:34:21.880] Senate President Sherwin "Win" T. Gatchalian** (asr-001349)  
 across the different DILG.
 
 **[01:34:24.540] DILG Secretary Juanito Victor C. Remulla** (asr-001350)  
 That is a different time, sir.
 
-**[01:34:26.040] Senator Sherwin "Win" T. Gatchalian** (asr-001351)  
+**[01:34:26.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001351)  
 Yeah, this is 2017.
 
 **[01:34:29.120] DILG Secretary Juanito Victor C. Remulla** (asr-001352)  
@@ -4039,148 +4039,148 @@ Yes, sir.
 **[01:34:29.500] DILG Secretary Juanito Victor C. Remulla** (asr-001353)  
 It's a long time ago.
 
-**[01:34:30.580] Senator Sherwin "Win" T. Gatchalian** (asr-001354)  
+**[01:34:30.580] Senate President Sherwin "Win" T. Gatchalian** (asr-001354)  
 Thank you for those answers.
 
-**[01:34:33.940] Senator Sherwin "Win" T. Gatchalian** (asr-001355)  
+**[01:34:33.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001355)  
 I'll go to the PNP.
 
-**[01:34:37.320] Senator Sherwin "Win" T. Gatchalian** (asr-001356)  
+**[01:34:37.320] Senate President Sherwin "Win" T. Gatchalian** (asr-001356)  
 Almost similar situation to
 
-**[01:34:40.300] Senator Sherwin "Win" T. Gatchalian** (asr-001357)  
+**[01:34:40.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001357)  
 and this is in the case of
 
-**[01:34:41.740] Senator Sherwin "Win" T. Gatchalian** (asr-001358)  
+**[01:34:41.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001358)  
 yung TICAS,
 
-**[01:34:43.940] Senator Sherwin "Win" T. Gatchalian** (asr-001359)  
+**[01:34:43.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001359)  
 Chief PNP.
 
-**[01:34:48.620] Senator Sherwin "Win" T. Gatchalian** (asr-001360)  
+**[01:34:48.620] Senate President Sherwin "Win" T. Gatchalian** (asr-001360)  
 The arrangement before with TICAS,
 
-**[01:34:51.920] Senator Sherwin "Win" T. Gatchalian** (asr-001361)  
+**[01:34:51.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001361)  
 yung mga infra-projects ng PNP
 
-**[01:34:54.220] Senator Sherwin "Win" T. Gatchalian** (asr-001362)  
+**[01:34:54.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001362)  
 ibinibigay sa
 
-**[01:34:55.920] Senator Sherwin "Win" T. Gatchalian** (asr-001363)  
+**[01:34:55.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001363)  
 o hindi binibigay
 
-**[01:34:57.880] Senator Sherwin "Win" T. Gatchalian** (asr-001364)  
+**[01:34:57.880] Senate President Sherwin "Win" T. Gatchalian** (asr-001364)  
 but nakalodge sa DPWH
 
-**[01:35:00.500] Senator Sherwin "Win" T. Gatchalian** (asr-001365)  
+**[01:35:00.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001365)  
 at DPWH ang nagpapatayo
 
-**[01:35:02.940] Senator Sherwin "Win" T. Gatchalian** (asr-001366)  
+**[01:35:02.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001366)  
 sa iba.
 
-**[01:35:03.940] Senator Sherwin "Win" T. Gatchalian** (asr-001367)  
+**[01:35:03.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001367)  
 Iba't ibang PNP camps
 
-**[01:35:05.940] Senator Sherwin "Win" T. Gatchalian** (asr-001368)  
+**[01:35:05.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001368)  
 at tineturn over to sa PNP.
 
-**[01:35:09.980] Senator Sherwin "Win" T. Gatchalian** (asr-001369)  
+**[01:35:09.980] Senate President Sherwin "Win" T. Gatchalian** (asr-001369)  
 Pero according to this COA report,
 
-**[01:35:13.820] Senator Sherwin "Win" T. Gatchalian** (asr-001370)  
+**[01:35:13.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001370)  
 almost 8.9 billion,
 
-**[01:35:18.120] Senator Sherwin "Win" T. Gatchalian** (asr-001371)  
+**[01:35:18.120] Senate President Sherwin "Win" T. Gatchalian** (asr-001371)  
 this is about 331 projects
 
-**[01:35:22.080] Senator Sherwin "Win" T. Gatchalian** (asr-001372)  
+**[01:35:22.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001372)  
 are either unrecorded,
 
-**[01:35:27.300] Senator Sherwin "Win" T. Gatchalian** (asr-001373)  
+**[01:35:27.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001373)  
 incomplete supporting documents
 
-**[01:35:29.940] Senator Sherwin "Win" T. Gatchalian** (asr-001374)  
+**[01:35:29.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001374)  
 or uncompleted.
 
-**[01:35:31.080] Senator Sherwin "Win" T. Gatchalian** (asr-001375)  
+**[01:35:31.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001375)  
 So about 800,000,
 
-**[01:35:33.940] Senator Sherwin "Win" T. Gatchalian** (asr-001376)  
+**[01:35:33.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001376)  
 8.9 billion pesos.
 
-**[01:35:36.980] Senator Sherwin "Win" T. Gatchalian** (asr-001377)  
+**[01:35:36.980] Senate President Sherwin "Win" T. Gatchalian** (asr-001377)  
 And ang nangyayari kasi,
 
-**[01:35:39.180] Senator Sherwin "Win" T. Gatchalian** (asr-001378)  
+**[01:35:39.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001378)  
 we found out last year
 
-**[01:35:40.560] Senator Sherwin "Win" T. Gatchalian** (asr-001379)  
+**[01:35:40.560] Senate President Sherwin "Win" T. Gatchalian** (asr-001379)  
 nung nag-budgeteering tayo
 
-**[01:35:43.220] Senator Sherwin "Win" T. Gatchalian** (asr-001380)  
+**[01:35:43.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001380)  
 na nagkoconstruct yung DPWH,
 
-**[01:35:47.220] Senator Sherwin "Win" T. Gatchalian** (asr-001381)  
+**[01:35:47.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001381)  
 more often than not,
 
-**[01:35:49.100] Senator Sherwin "Win" T. Gatchalian** (asr-001382)  
+**[01:35:49.100] Senate President Sherwin "Win" T. Gatchalian** (asr-001382)  
 hindi alam ng PNP
 
-**[01:35:50.180] Senator Sherwin "Win" T. Gatchalian** (asr-001383)  
+**[01:35:50.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001383)  
 na nagkoconstruct sila.
 
-**[01:35:52.700] Senator Sherwin "Win" T. Gatchalian** (asr-001384)  
+**[01:35:52.700] Senate President Sherwin "Win" T. Gatchalian** (asr-001384)  
 Walang coordination on the ground.
 
-**[01:35:55.260] Senator Sherwin "Win" T. Gatchalian** (asr-001385)  
+**[01:35:55.260] Senate President Sherwin "Win" T. Gatchalian** (asr-001385)  
 Kung natapos naman,
 
-**[01:35:56.860] Senator Sherwin "Win" T. Gatchalian** (asr-001386)  
+**[01:35:56.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001386)  
 hindi nai-inform yung PNP.
 
-**[01:35:59.140] Senator Sherwin "Win" T. Gatchalian** (asr-001387)  
+**[01:35:59.140] Senate President Sherwin "Win" T. Gatchalian** (asr-001387)  
 Or kung hindi natapos,
 
-**[01:36:00.140] Senator Sherwin "Win" T. Gatchalian** (asr-001388)  
+**[01:36:00.140] Senate President Sherwin "Win" T. Gatchalian** (asr-001388)  
 hindi rin nai-inform yung PNP.
 
-**[01:36:01.940] Senator Sherwin "Win" T. Gatchalian** (asr-001389)  
+**[01:36:01.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001389)  
 So yung project na hahang,
 
-**[01:36:03.940] Senator Sherwin "Win" T. Gatchalian** (asr-001390)  
+**[01:36:03.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001390)  
 may we get an update on this TICAS?
 
-**[01:36:09.180] Senator Sherwin "Win" T. Gatchalian** (asr-001391)  
+**[01:36:09.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001391)  
 Because ang chain of thought natin
 
-**[01:36:11.180] Senator Sherwin "Win" T. Gatchalian** (asr-001392)  
+**[01:36:11.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001392)  
 is let the PNP bid out
 
-**[01:36:15.180] Senator Sherwin "Win" T. Gatchalian** (asr-001393)  
+**[01:36:15.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001393)  
 and construct infrastructure projects themselves.
 
-**[01:36:19.180] Senator Sherwin "Win" T. Gatchalian** (asr-001394)  
+**[01:36:19.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001394)  
 Kasi pag tinitignan namin itong mga projects nila,
 
-**[01:36:23.180] Senator Sherwin "Win" T. Gatchalian** (asr-001395)  
+**[01:36:23.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001395)  
 mostly mga nasa iba't ibang kampo
 
-**[01:36:27.180] Senator Sherwin "Win" T. Gatchalian** (asr-001396)  
+**[01:36:27.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001396)  
 at iba't ibang PNP facilities all over the nation.
 
-**[01:36:31.180] Senator Sherwin "Win" T. Gatchalian** (asr-001397)  
+**[01:36:31.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001397)  
 So may we get an update dito po,
 
-**[01:36:33.780] Senator Sherwin "Win" T. Gatchalian** (asr-001398)  
+**[01:36:33.780] Senate President Sherwin "Win" T. Gatchalian** (asr-001398)  
 sa 8.9 billion
 
-**[01:36:37.020] Senator Sherwin "Win" T. Gatchalian** (asr-001399)  
+**[01:36:37.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001399)  
 on TICAS PNP projects.
 
-**[01:36:40.020] Senator Sherwin "Win" T. Gatchalian** (asr-001400)  
+**[01:36:40.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001400)  
 Kung merong resolution dito ho
 
-**[01:36:41.780] Senator Sherwin "Win" T. Gatchalian** (asr-001401)  
+**[01:36:41.780] Senate President Sherwin "Win" T. Gatchalian** (asr-001401)  
 at na-reconcile with the DPWH.
 
 **[01:36:45.020] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-001402)  
@@ -4249,43 +4249,43 @@ And we have accounting of such projects,
 **[01:37:43.420] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-001423)  
 Your Honor, Mr. Chair.
 
-**[01:37:46.420] Senator Sherwin "Win" T. Gatchalian** (asr-001424)  
+**[01:37:46.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001424)  
 Chief PNP,
 
-**[01:37:47.420] Senator Sherwin "Win" T. Gatchalian** (asr-001425)  
+**[01:37:47.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001425)  
 last year,
 
-**[01:37:48.420] Senator Sherwin "Win" T. Gatchalian** (asr-001426)  
+**[01:37:48.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001426)  
 linagay na namin yung TICAS projects sa PNP themselves.
 
-**[01:37:52.420] Senator Sherwin "Win" T. Gatchalian** (asr-001427)  
+**[01:37:52.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001427)  
 Pareho rin with AFP.
 
-**[01:37:54.420] Senator Sherwin "Win" T. Gatchalian** (asr-001428)  
+**[01:37:54.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001428)  
 Linagay namin yung mga TICAS projects,
 
-**[01:37:57.420] Senator Sherwin "Win" T. Gatchalian** (asr-001429)  
+**[01:37:57.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001429)  
 kasi ang TICAS, dalawa yan eh, AFP and PNP.
 
-**[01:38:00.420] Senator Sherwin "Win" T. Gatchalian** (asr-001430)  
+**[01:38:00.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001430)  
 Linagay namin sa AFP and sa PNP.
 
-**[01:38:03.420] Senator Sherwin "Win" T. Gatchalian** (asr-001431)  
+**[01:38:03.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001431)  
 PNP. Dito sa paglalagay sa PNP, is this an effective direction so that PNP na ngayon
 
-**[01:38:16.960] Senator Sherwin "Win" T. Gatchalian** (asr-001432)  
+**[01:38:16.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001432)  
 magpapabid out kayo kung kailangan ipabid out at kayo na rin magkoconstruct. Of course,
 
-**[01:38:22.500] Senator Sherwin "Win" T. Gatchalian** (asr-001433)  
+**[01:38:22.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001433)  
 kayo na rin mag-accept ng project kung tingin nyo tama. Because we're talking about
 
-**[01:38:27.460] Senator Sherwin "Win" T. Gatchalian** (asr-001434)  
+**[01:38:27.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001434)  
 easily, we're talking about in a year, mga 3 to 5 billion rin ito. So, we want to know,
 
-**[01:38:34.620] Senator Sherwin "Win" T. Gatchalian** (asr-001435)  
+**[01:38:34.620] Senate President Sherwin "Win" T. Gatchalian** (asr-001435)  
 first time na tinransfer to sa PNP, we want to know from the standpoint of PNP kung ganitong
 
-**[01:38:40.920] Senator Sherwin "Win" T. Gatchalian** (asr-001436)  
+**[01:38:40.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001436)  
 pag-transfer sa PNP, effective ba o mas prefer nyo pa rin sa DPWH?
 
 **[01:38:50.280] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-001437)  
@@ -4294,13 +4294,13 @@ Your Honor, mas effective pag nandito sa kung sino yung magbe-benefit. It's for 
 **[01:38:56.460] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-001438)  
 Your Honor.
 
-**[01:38:57.460] Senator Sherwin "Win" T. Gatchalian** (asr-001439)  
+**[01:38:57.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001439)  
 So, I understand from our budget officer na ibinalik ulit sa DPWH, we'll transfer again itong mga items
 
-**[01:39:09.380] Senator Sherwin "Win" T. Gatchalian** (asr-001440)  
+**[01:39:09.380] Senate President Sherwin "Win" T. Gatchalian** (asr-001440)  
 with the permission, of course, of our finance chair to the PNP para po mas mabilis yung projects.
 
-**[01:39:17.200] Senator Sherwin "Win" T. Gatchalian** (asr-001441)  
+**[01:39:17.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001441)  
 Kumusta ho yung tinransfer namin ng mga projects? Na-implement na ba ho sila this 2026?
 
 **[01:39:25.500] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-001442)  
@@ -4309,37 +4309,37 @@ Yes, Your Honor. It is being implemented.
 **[01:39:27.460] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-001443)  
 It is being implemented by the PNP themselves.
 
-**[01:39:28.460] Senator Sherwin "Win" T. Gatchalian** (asr-001444)  
+**[01:39:28.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001444)  
 By the PNP themselves. Thank you. Thank you for those answers.
 
-**[01:39:38.040] Senator Sherwin "Win" T. Gatchalian** (asr-001445)  
+**[01:39:38.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001445)  
 May isang policy question po ako, Chief PNP and to our DILG Secretary.
 
-**[01:39:44.800] Senator Sherwin "Win" T. Gatchalian** (asr-001446)  
+**[01:39:44.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001446)  
 Over the past years, pag titignan ho natin yung mga surveys na lumalabas na Pulse Asia, SWS,
 
-**[01:39:53.020] Senator Sherwin "Win" T. Gatchalian** (asr-001447)  
+**[01:39:53.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001447)  
 ang criminality drugs, below top 5 na siya.
 
-**[01:39:57.460] Senator Sherwin "Win" T. Gatchalian** (asr-001448)  
+**[01:39:57.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001448)  
 But slowly, umakit ang umakit. I'm sure you've seen the surveys.
 
-**[01:40:03.460] Senator Sherwin "Win" T. Gatchalian** (asr-001449)  
+**[01:40:03.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001449)  
 And on the ground, whenever I go around rin sa Valenzuela, naririnig ko rin na lumalakas na yung loob na naman ng mga drug pusher,
 
-**[01:40:13.180] Senator Sherwin "Win" T. Gatchalian** (asr-001450)  
+**[01:40:13.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001450)  
 lumalakas yung loob ngayon ng mga petty criminals.
 
-**[01:40:15.440] Senator Sherwin "Win" T. Gatchalian** (asr-001451)  
+**[01:40:15.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001451)  
 So, ano po yung mga programs natin on the ground to curb?
 
-**[01:40:27.460] Senator Sherwin "Win" T. Gatchalian** (asr-001452)  
+**[01:40:27.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001452)  
 So, ano po yung mga programs natin on the ground to curb?
 
-**[01:40:33.460] Senator Sherwin "Win" T. Gatchalian** (asr-001453)  
+**[01:40:33.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001453)  
 I know, tinitignan ko, yung index crime, in fairness, bumababa, but we have to sustain it.
 
-**[01:40:39.140] Senator Sherwin "Win" T. Gatchalian** (asr-001454)  
+**[01:40:39.140] Senate President Sherwin "Win" T. Gatchalian** (asr-001454)  
 So, what are the programs that the department and the agency is employing in order to sustain itong pagbaba ng mga index crimes?
 
 **[01:40:51.220] DILG Secretary Juanito Victor C. Remulla** (asr-001455)  
@@ -4369,16 +4369,16 @@ We estimate that there are 42,000 barangays. If we arrest 2 per barangay, that's
 **[01:41:45.400] DILG Secretary Juanito Victor C. Remulla** (asr-001463)  
 But we estimate we will, if given that chance, we will arrest maybe up to 150,000 more criminals and take them off the streets.
 
-**[01:41:53.600] Senator Sherwin "Win" T. Gatchalian** (asr-001464)  
+**[01:41:53.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001464)  
 Sabi niya itong loose firearms.
 
-**[01:41:57.460] Senator Sherwin "Win" T. Gatchalian** (asr-001465)  
+**[01:41:57.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001465)  
 Ito'y nagpapalakas ng loob ng mga criminals.
 
 **[01:42:00.880] DILG Secretary Juanito Victor C. Remulla** (asr-001466)  
 Yes, sir. Kasi madala, sir, pag-bail, one week later, they'll commit another crime using another firearm. Marami silang taguan.
 
-**[01:42:08.780] Senator Sherwin "Win" T. Gatchalian** (asr-001467)  
+**[01:42:08.780] Senate President Sherwin "Win" T. Gatchalian** (asr-001467)  
 And how can we amend the law or repeal, if that matter, kung kailangan, in order to stop this, itong paikot-ikot na lang na criminality?
 
 **[01:42:21.440] DILG Secretary Juanito Victor C. Remulla** (asr-001468)  
@@ -4387,19 +4387,19 @@ Yes, sir. We have to repeal that law, sir, that was passed in 1995, if I believe
 **[01:42:27.460] DILG Secretary Juanito Victor C. Remulla** (asr-001469)  
 I think it was 1995 when illegal firearms became bailable. So we are asking that that law be repealed and make it non-bailable again.
 
-**[01:42:37.940] Senator Sherwin "Win" T. Gatchalian** (asr-001470)  
+**[01:42:37.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001470)  
 So hindi na sila natatakot? Ibig sabihin mayroon siyang loose firearms? Alam naman nila makakabail sila.
 
 **[01:42:42.960] DILG Secretary Juanito Victor C. Remulla** (asr-001471)  
 Yes, sir.
 
-**[01:42:43.640] Senator Sherwin "Win" T. Gatchalian** (asr-001472)  
+**[01:42:43.640] Senate President Sherwin "Win" T. Gatchalian** (asr-001472)  
 Pag-bail nila, balik ulit sa ano?
 
 **[01:42:45.140] DILG Secretary Juanito Victor C. Remulla** (asr-001473)  
 Yes, sir.
 
-**[01:42:45.520] Senator Sherwin "Win" T. Gatchalian** (asr-001474)  
+**[01:42:45.520] Senate President Sherwin "Win" T. Gatchalian** (asr-001474)  
 Saan nila binibili itong mga loose firearms?
 
 **[01:42:48.340] DILG Secretary Juanito Victor C. Remulla** (asr-001475)  
@@ -4417,13 +4417,13 @@ then we will grant an amnesty and determine whether these firearms were used in 
 **[01:43:19.820] DILG Secretary Juanito Victor C. Remulla** (asr-001479)  
 But otherwise, sir, this repealment will greatly aid our nation.
 
-**[01:43:25.520] Senator Sherwin "Win" T. Gatchalian** (asr-001480)  
+**[01:43:25.520] Senate President Sherwin "Win" T. Gatchalian** (asr-001480)  
 In terms of itong mga petty drugs, ako naririnig rin, naririnig ko rin sa mga punong barangay namin sa Valenzuela,
 
-**[01:43:37.160] Senator Sherwin "Win" T. Gatchalian** (asr-001481)  
+**[01:43:37.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001481)  
 na itong madaming petty drug dealings on the ground.
 
-**[01:43:44.600] Senator Sherwin "Win" T. Gatchalian** (asr-001482)  
+**[01:43:44.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001482)  
 Ano bang mga plano ng agency to curb these petty drug dealings?
 
 **[01:43:49.800] DILG Secretary Juanito Victor C. Remulla** (asr-001483)  
@@ -4468,37 +4468,37 @@ And I think the increased visibility of the police in the streets...
 **[01:45:00.000] DILG Secretary Juanito Victor C. Remulla** (asr-001496)  
 using the Safer City initiative is also helping.
 
-**[01:45:03.480] Senator Sherwin "Win" T. Gatchalian** (asr-001497)  
+**[01:45:03.480] Senate President Sherwin "Win" T. Gatchalian** (asr-001497)  
 No, this is a very complex problem.
 
-**[01:45:05.420] Senator Sherwin "Win" T. Gatchalian** (asr-001498)  
+**[01:45:05.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001498)  
 And also,
 
-**[01:45:08.200] Senator Sherwin "Win" T. Gatchalian** (asr-001499)  
+**[01:45:08.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001499)  
 it's really a never-ending battle on the ground.
 
-**[01:45:23.620] Senator Sherwin "Win" T. Gatchalian** (asr-001500)  
+**[01:45:23.620] Senate President Sherwin "Win" T. Gatchalian** (asr-001500)  
 And it's really a complex problem.
 
-**[01:45:27.620] Senator Sherwin "Win" T. Gatchalian** (asr-001501)  
+**[01:45:27.620] Senate President Sherwin "Win" T. Gatchalian** (asr-001501)  
 However, we need to sustain the efforts
 
-**[01:45:31.280] Senator Sherwin "Win" T. Gatchalian** (asr-001502)  
+**[01:45:31.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001502)  
 because it affects everyone.
 
-**[01:45:33.840] Senator Sherwin "Win" T. Gatchalian** (asr-001503)  
+**[01:45:33.840] Senate President Sherwin "Win" T. Gatchalian** (asr-001503)  
 Everyone, sir.
 
-**[01:45:34.860] Senator Sherwin "Win" T. Gatchalian** (asr-001504)  
+**[01:45:34.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001504)  
 And cascading to another crime
 
-**[01:45:40.100] Senator Sherwin "Win" T. Gatchalian** (asr-001505)  
+**[01:45:40.100] Senate President Sherwin "Win" T. Gatchalian** (asr-001505)  
 is also a possibility.
 
-**[01:45:42.180] Senator Sherwin "Win" T. Gatchalian** (asr-001506)  
+**[01:45:42.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001506)  
 If he's addicted, he'll hold up.
 
-**[01:45:44.820] Senator Sherwin "Win" T. Gatchalian** (asr-001507)  
+**[01:45:44.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001507)  
 If another crime happens.
 
 **[01:45:47.400] DILG Secretary Juanito Victor C. Remulla** (asr-001508)  
@@ -4537,31 +4537,31 @@ because that is the cause of the congestion
 **[01:46:12.060] DILG Secretary Juanito Victor C. Remulla** (asr-001519)  
 of all our jails.
 
-**[01:46:13.680] Senator Sherwin "Win" T. Gatchalian** (asr-001520)  
+**[01:46:13.680] Senate President Sherwin "Win" T. Gatchalian** (asr-001520)  
 We also correlated it with
 
-**[01:46:16.080] Senator Sherwin "Win" T. Gatchalian** (asr-001521)  
+**[01:46:16.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001521)  
 drug rehab facilities.
 
-**[01:46:20.440] Senator Sherwin "Win" T. Gatchalian** (asr-001522)  
+**[01:46:20.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001522)  
 For example,
 
-**[01:46:21.920] Senator Sherwin "Win" T. Gatchalian** (asr-001523)  
+**[01:46:21.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001523)  
 if we promote drug rehab facilities
 
-**[01:46:26.000] Senator Sherwin "Win" T. Gatchalian** (asr-001524)  
+**[01:46:26.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001524)  
 among LGUs,
 
-**[01:46:27.620] Senator Sherwin "Win" T. Gatchalian** (asr-001525)  
+**[01:46:27.620] Senate President Sherwin "Win" T. Gatchalian** (asr-001525)  
 they might be given a chance
 
-**[01:46:31.940] Senator Sherwin "Win" T. Gatchalian** (asr-001526)  
+**[01:46:31.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001526)  
 to rehab themselves
 
-**[01:46:33.340] Senator Sherwin "Win" T. Gatchalian** (asr-001527)  
+**[01:46:33.340] Senate President Sherwin "Win" T. Gatchalian** (asr-001527)  
 instead of selling or entering.
 
-**[01:46:35.880] Senator Sherwin "Win" T. Gatchalian** (asr-001528)  
+**[01:46:35.880] Senate President Sherwin "Win" T. Gatchalian** (asr-001528)  
 Is that a worthwhile approach?
 
 **[01:46:40.540] DILG Secretary Juanito Victor C. Remulla** (asr-001529)  
@@ -4642,85 +4642,85 @@ on the LGU levels
 **[01:47:30.320] DILG Secretary Juanito Victor C. Remulla** (asr-001554)  
 or if the LGUs took it up.
 
-**[01:47:32.440] Senator Sherwin "Win" T. Gatchalian** (asr-001555)  
+**[01:47:32.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001555)  
 I don't want to oversimplify the problem
 
-**[01:47:34.560] Senator Sherwin "Win" T. Gatchalian** (asr-001556)  
+**[01:47:34.560] Senate President Sherwin "Win" T. Gatchalian** (asr-001556)  
 because it's complicated.
 
 **[01:47:35.840] DILG Secretary Juanito Victor C. Remulla** (asr-001557)  
 It's really, really complicated, sir.
 
-**[01:47:37.260] Senator Sherwin "Win" T. Gatchalian** (asr-001558)  
+**[01:47:37.260] Senate President Sherwin "Win" T. Gatchalian** (asr-001558)  
 But just to give some credit,
 
-**[01:47:42.340] Senator Sherwin "Win" T. Gatchalian** (asr-001559)  
+**[01:47:42.340] Senate President Sherwin "Win" T. Gatchalian** (asr-001559)  
 looking at the index crime volume
 
-**[01:47:44.780] Senator Sherwin "Win" T. Gatchalian** (asr-001560)  
+**[01:47:44.780] Senate President Sherwin "Win" T. Gatchalian** (asr-001560)  
 compared to last year,
 
-**[01:47:46.600] Senator Sherwin "Win" T. Gatchalian** (asr-001561)  
+**[01:47:46.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001561)  
 it went down by 5%.
 
-**[01:47:48.240] Senator Sherwin "Win" T. Gatchalian** (asr-001562)  
+**[01:47:48.240] Senate President Sherwin "Win" T. Gatchalian** (asr-001562)  
 So that means
 
-**[01:47:50.100] Senator Sherwin "Win" T. Gatchalian** (asr-001563)  
+**[01:47:50.100] Senate President Sherwin "Win" T. Gatchalian** (asr-001563)  
 there are efforts
 
-**[01:47:51.600] Senator Sherwin "Win" T. Gatchalian** (asr-001564)  
+**[01:47:51.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001564)  
 being done on the ground.
 
-**[01:47:53.420] Senator Sherwin "Win" T. Gatchalian** (asr-001565)  
+**[01:47:53.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001565)  
 It's just,
 
-**[01:47:54.020] Senator Sherwin "Win" T. Gatchalian** (asr-001566)  
+**[01:47:54.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001566)  
 it's the,
 
-**[01:47:55.220] Senator Sherwin "Win" T. Gatchalian** (asr-001567)  
+**[01:47:55.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001567)  
 how to sustain it
 
-**[01:47:56.140] Senator Sherwin "Win" T. Gatchalian** (asr-001568)  
+**[01:47:56.140] Senate President Sherwin "Win" T. Gatchalian** (asr-001568)  
 is the challenge.
 
 **[01:47:58.400] DILG Secretary Juanito Victor C. Remulla** (asr-001569)  
 And we support that.
 
-**[01:47:59.880] Senator Sherwin "Win" T. Gatchalian** (asr-001570)  
+**[01:47:59.880] Senate President Sherwin "Win" T. Gatchalian** (asr-001570)  
 That's why
 
-**[01:48:00.240] Senator Sherwin "Win" T. Gatchalian** (asr-001571)  
+**[01:48:00.240] Senate President Sherwin "Win" T. Gatchalian** (asr-001571)  
 the budget of PNP
 
-**[01:48:02.380] Senator Sherwin "Win" T. Gatchalian** (asr-001572)  
+**[01:48:02.380] Senate President Sherwin "Win" T. Gatchalian** (asr-001572)  
 and the other agencies
 
-**[01:48:03.440] Senator Sherwin "Win" T. Gatchalian** (asr-001573)  
+**[01:48:03.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001573)  
 were looking at
 
-**[01:48:05.580] Senator Sherwin "Win" T. Gatchalian** (asr-001574)  
+**[01:48:05.580] Senate President Sherwin "Win" T. Gatchalian** (asr-001574)  
 how to further improve it
 
-**[01:48:07.360] Senator Sherwin "Win" T. Gatchalian** (asr-001575)  
+**[01:48:07.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001575)  
 so that
 
-**[01:48:08.240] Senator Sherwin "Win" T. Gatchalian** (asr-001576)  
+**[01:48:08.240] Senate President Sherwin "Win" T. Gatchalian** (asr-001576)  
 the sustainability
 
-**[01:48:10.180] Senator Sherwin "Win" T. Gatchalian** (asr-001577)  
+**[01:48:10.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001577)  
 in crime fighting
 
-**[01:48:12.540] Senator Sherwin "Win" T. Gatchalian** (asr-001578)  
+**[01:48:12.540] Senate President Sherwin "Win" T. Gatchalian** (asr-001578)  
 can be done
 
-**[01:48:13.060] Senator Sherwin "Win" T. Gatchalian** (asr-001579)  
+**[01:48:13.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001579)  
 next year
 
-**[01:48:15.320] Senator Sherwin "Win" T. Gatchalian** (asr-001580)  
+**[01:48:15.320] Senate President Sherwin "Win" T. Gatchalian** (asr-001580)  
 and throughout
 
-**[01:48:15.760] Senator Sherwin "Win" T. Gatchalian** (asr-001581)  
+**[01:48:15.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001581)  
 the other years.
 
 **[01:48:17.500] DILG Secretary Juanito Victor C. Remulla** (asr-001582)  
@@ -4864,106 +4864,106 @@ that we can use
 **[01:49:28.700] DILG Secretary Juanito Victor C. Remulla** (asr-001628)  
 in order to solve this.
 
-**[01:49:30.400] Senator Sherwin "Win" T. Gatchalian** (asr-001629)  
+**[01:49:30.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001629)  
 Secretary,
 
-**[01:49:31.140] Senator Sherwin "Win" T. Gatchalian** (asr-001630)  
+**[01:49:31.140] Senate President Sherwin "Win" T. Gatchalian** (asr-001630)  
 thank you for those answers.
 
-**[01:49:32.300] Senator Sherwin "Win" T. Gatchalian** (asr-001631)  
+**[01:49:32.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001631)  
 I'll go to the,
 
-**[01:49:36.180] Senator Sherwin "Win" T. Gatchalian** (asr-001632)  
+**[01:49:36.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001632)  
 Mr. Chairman,
 
-**[01:49:37.960] Senator Sherwin "Win" T. Gatchalian** (asr-001633)  
+**[01:49:37.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001633)  
 so that the others can also ask questions.
 
-**[01:49:40.080] Senator Panfilo Lacson** (asr-001634)  
+**[01:49:40.080] Senator Panfilo "Ping" M. Lacson** (asr-001634)  
 Yes, Mr. President.
 
-**[01:49:41.280] Senator Panfilo Lacson** (asr-001635)  
+**[01:49:41.280] Senator Panfilo "Ping" M. Lacson** (asr-001635)  
 We, the chair acknowledges
 
-**[01:49:42.440] Senator Panfilo Lacson** (asr-001636)  
+**[01:49:42.440] Senator Panfilo "Ping" M. Lacson** (asr-001636)  
 the presence of Senator Bongos.
 
-**[01:49:43.940] Senator Panfilo Lacson** (asr-001637)  
+**[01:49:43.940] Senator Panfilo "Ping" M. Lacson** (asr-001637)  
 Senator Erwin Tulfo,
 
-**[01:49:44.880] Senator Panfilo Lacson** (asr-001638)  
+**[01:49:44.880] Senator Panfilo "Ping" M. Lacson** (asr-001638)  
 he's recognized.
 
-**[01:49:46.240] Senator Erwin Tulfo** (asr-001639)  
+**[01:49:46.240] Senator Erwin T. Tulfo** (asr-001639)  
 Thank you, Mr. Chair.
 
-**[01:49:47.680] Senator Erwin Tulfo** (asr-001640)  
+**[01:49:47.680] Senator Erwin T. Tulfo** (asr-001640)  
 First of all,
 
-**[01:49:48.140] Senator Erwin Tulfo** (asr-001641)  
+**[01:49:48.140] Senator Erwin T. Tulfo** (asr-001641)  
 I would like to commend
 
-**[01:49:49.140] Senator Erwin Tulfo** (asr-001642)  
+**[01:49:49.140] Senator Erwin T. Tulfo** (asr-001642)  
 our Secretary of the DILG
 
-**[01:49:52.080] Senator Erwin Tulfo** (asr-001643)  
+**[01:49:52.080] Senator Erwin T. Tulfo** (asr-001643)  
 for initiating these changes.
 
-**[01:49:55.040] Senator Erwin Tulfo** (asr-001644)  
+**[01:49:55.040] Senator Erwin T. Tulfo** (asr-001644)  
 I would also like to thank
 
-**[01:49:57.040] Senator Erwin Tulfo** (asr-001645)  
+**[01:49:57.040] Senator Erwin T. Tulfo** (asr-001645)  
 the PNP and then
 
-**[01:49:59.040] Senator Erwin Tulfo** (asr-001646)  
+**[01:49:59.040] Senator Erwin T. Tulfo** (asr-001646)  
 for exposing corruption
 
-**[01:50:01.040] Senator Erwin Tulfo** (asr-001647)  
+**[01:50:01.040] Senator Erwin T. Tulfo** (asr-001647)  
 in the Bureau of Fire Protection.
 
-**[01:50:03.040] Senator Erwin Tulfo** (asr-001648)  
+**[01:50:03.040] Senator Erwin T. Tulfo** (asr-001648)  
 We support you for that,
 
-**[01:50:05.040] Senator Erwin Tulfo** (asr-001649)  
+**[01:50:05.040] Senator Erwin T. Tulfo** (asr-001649)  
 Secretary.
 
-**[01:50:07.040] Senator Erwin Tulfo** (asr-001650)  
+**[01:50:07.040] Senator Erwin T. Tulfo** (asr-001650)  
 But I would like to bring to your attention
 
-**[01:50:09.040] Senator Erwin Tulfo** (asr-001651)  
+**[01:50:09.040] Senator Erwin T. Tulfo** (asr-001651)  
 that we already talked
 
-**[01:50:11.040] Senator Erwin Tulfo** (asr-001652)  
+**[01:50:11.040] Senator Erwin T. Tulfo** (asr-001652)  
 with the Chief of the Bureau of Fire
 
-**[01:50:13.040] Senator Erwin Tulfo** (asr-001653)  
+**[01:50:13.040] Senator Erwin T. Tulfo** (asr-001653)  
 in their investigation
 
-**[01:50:15.040] Senator Erwin Tulfo** (asr-001654)  
+**[01:50:15.040] Senator Erwin T. Tulfo** (asr-001654)  
 on the 200
 
-**[01:50:17.040] Senator Erwin Tulfo** (asr-001655)  
+**[01:50:17.040] Senator Erwin T. Tulfo** (asr-001655)  
 BAFP officers
 
-**[01:50:19.040] Senator Erwin Tulfo** (asr-001656)  
+**[01:50:19.040] Senator Erwin T. Tulfo** (asr-001656)  
 in their slots for sale
 
-**[01:50:21.040] Senator Erwin Tulfo** (asr-001657)  
+**[01:50:21.040] Senator Erwin T. Tulfo** (asr-001657)  
 to be able to enter.
 
-**[01:50:23.040] Senator Erwin Tulfo** (asr-001658)  
+**[01:50:23.040] Senator Erwin T. Tulfo** (asr-001658)  
 I just want to get an update.
 
-**[01:50:24.060] Senator Erwin Tulfo** (asr-001659)  
+**[01:50:24.060] Senator Erwin T. Tulfo** (asr-001659)  
 I don't know if you can give an update
 
-**[01:50:25.040] Senator Erwin Tulfo** (asr-001660)  
+**[01:50:25.040] Senator Erwin T. Tulfo** (asr-001660)  
 to Secretary John Vick
 
-**[01:50:27.040] Senator Erwin Tulfo** (asr-001661)  
+**[01:50:27.040] Senator Erwin T. Tulfo** (asr-001661)  
 or the BFP Chief
 
-**[01:50:29.040] Senator Erwin Tulfo** (asr-001662)  
+**[01:50:29.040] Senator Erwin T. Tulfo** (asr-001662)  
 can give us an update on this.
 
 **[01:50:31.040] DILG Secretary Juanito Victor C. Remulla** (asr-001663)  
@@ -5149,127 +5149,127 @@ and we don't know
 **[01:52:20.040] DILG Secretary Juanito Victor C. Remulla** (asr-001723)  
 who qualifies or not.
 
-**[01:52:22.040] Senator Erwin Tulfo** (asr-001724)  
+**[01:52:22.040] Senator Erwin T. Tulfo** (asr-001724)  
 Thank you.
 
-**[01:52:23.040] Senator Erwin Tulfo** (asr-001725)  
+**[01:52:23.040] Senator Erwin T. Tulfo** (asr-001725)  
 Another thing I would like
 
-**[01:52:25.040] Senator Erwin Tulfo** (asr-001726)  
+**[01:52:25.040] Senator Erwin T. Tulfo** (asr-001726)  
 to bring to your attention,
 
-**[01:52:27.040] Senator Erwin Tulfo** (asr-001727)  
+**[01:52:27.040] Senator Erwin T. Tulfo** (asr-001727)  
 Mr. Secretary, sir.
 
-**[01:52:28.040] Senator Erwin Tulfo** (asr-001728)  
+**[01:52:28.040] Senator Erwin T. Tulfo** (asr-001728)  
 There is a conflict
 
-**[01:52:31.040] Senator Erwin Tulfo** (asr-001729)  
+**[01:52:31.040] Senator Erwin T. Tulfo** (asr-001729)  
 in the guidelines
 
-**[01:52:32.040] Senator Erwin Tulfo** (asr-001730)  
+**[01:52:32.040] Senator Erwin T. Tulfo** (asr-001730)  
 regarding the recruitment
 
-**[01:52:34.040] Senator Erwin Tulfo** (asr-001731)  
+**[01:52:34.040] Senator Erwin T. Tulfo** (asr-001731)  
 of BFP officers
 
-**[01:52:36.040] Senator Erwin Tulfo** (asr-001732)  
+**[01:52:36.040] Senator Erwin T. Tulfo** (asr-001732)  
 in the Republic Act 11131
 
-**[01:52:39.040] Senator Erwin Tulfo** (asr-001733)  
+**[01:52:39.040] Senator Erwin T. Tulfo** (asr-001733)  
 or the Philippine Criminology
 
-**[01:52:40.040] Senator Erwin Tulfo** (asr-001734)  
+**[01:52:40.040] Senator Erwin T. Tulfo** (asr-001734)  
 Profession Act of 2018.
 
-**[01:52:43.040] Senator Erwin Tulfo** (asr-001735)  
+**[01:52:43.040] Senator Erwin T. Tulfo** (asr-001735)  
 It's clear there,
 
-**[01:52:45.040] Senator Erwin Tulfo** (asr-001736)  
+**[01:52:45.040] Senator Erwin T. Tulfo** (asr-001736)  
 Sec, that it says
 
-**[01:52:46.040] Senator Erwin Tulfo** (asr-001737)  
+**[01:52:46.040] Senator Erwin T. Tulfo** (asr-001737)  
 that those who got accepted
 
-**[01:52:49.040] Senator Erwin Tulfo** (asr-001738)  
+**[01:52:49.040] Senator Erwin T. Tulfo** (asr-001738)  
 and registered criminologists
 
-**[01:52:51.040] Senator Erwin Tulfo** (asr-001739)  
+**[01:52:51.040] Senator Erwin T. Tulfo** (asr-001739)  
 in the entrance exam,
 
-**[01:52:55.040] Senator Erwin Tulfo** (asr-001740)  
+**[01:52:55.040] Senator Erwin T. Tulfo** (asr-001740)  
 the qualifying exam,
 
-**[01:52:57.040] Senator Erwin Tulfo** (asr-001741)  
+**[01:52:57.040] Senator Erwin T. Tulfo** (asr-001741)  
 but what the BFP did is
 
-**[01:53:00.040] Senator Erwin Tulfo** (asr-001742)  
+**[01:53:00.040] Senator Erwin T. Tulfo** (asr-001742)  
 that if you are a registered
 
-**[01:53:02.040] Senator Erwin Tulfo** (asr-001743)  
+**[01:53:02.040] Senator Erwin T. Tulfo** (asr-001743)  
 criminologist,
 
-**[01:53:04.040] Senator Erwin Tulfo** (asr-001744)  
+**[01:53:04.040] Senator Erwin T. Tulfo** (asr-001744)  
 you will be given
 
-**[01:53:05.040] Senator Erwin Tulfo** (asr-001745)  
+**[01:53:05.040] Senator Erwin T. Tulfo** (asr-001745)  
 a 75 percentile grade.
 
-**[01:53:08.040] Senator Erwin Tulfo** (asr-001746)  
+**[01:53:08.040] Senator Erwin T. Tulfo** (asr-001746)  
 These are the complaints
 
-**[01:53:10.040] Senator Erwin Tulfo** (asr-001747)  
+**[01:53:10.040] Senator Erwin T. Tulfo** (asr-001747)  
 because others
 
-**[01:53:11.040] Senator Erwin Tulfo** (asr-001748)  
+**[01:53:11.040] Senator Erwin T. Tulfo** (asr-001748)  
 who are not registered
 
-**[01:53:12.040] Senator Erwin Tulfo** (asr-001749)  
+**[01:53:12.040] Senator Erwin T. Tulfo** (asr-001749)  
 criminologists,
 
-**[01:53:14.040] Senator Erwin Tulfo** (asr-001750)  
+**[01:53:14.040] Senator Erwin T. Tulfo** (asr-001750)  
 when they took the qualifying exam,
 
-**[01:53:16.040] Senator Erwin Tulfo** (asr-001751)  
+**[01:53:16.040] Senator Erwin T. Tulfo** (asr-001751)  
 they got 85, 90,
 
-**[01:53:19.040] Senator Erwin Tulfo** (asr-001752)  
+**[01:53:19.040] Senator Erwin T. Tulfo** (asr-001752)  
 even earlier than them.
 
-**[01:53:20.040] Senator Erwin Tulfo** (asr-001753)  
+**[01:53:20.040] Senator Erwin T. Tulfo** (asr-001753)  
 So,
 
-**[01:53:21.040] Senator Erwin Tulfo** (asr-001754)  
+**[01:53:21.040] Senator Erwin T. Tulfo** (asr-001754)  
 they are being bumped off
 
-**[01:53:23.040] Senator Erwin Tulfo** (asr-001755)  
+**[01:53:23.040] Senator Erwin T. Tulfo** (asr-001755)  
 by registered criminologists.
 
-**[01:53:25.040] Senator Erwin Tulfo** (asr-001756)  
+**[01:53:25.040] Senator Erwin T. Tulfo** (asr-001756)  
 So,
 
-**[01:53:26.040] Senator Erwin Tulfo** (asr-001757)  
+**[01:53:26.040] Senator Erwin T. Tulfo** (asr-001757)  
 they are asking
 
-**[01:53:27.040] Senator Erwin Tulfo** (asr-001758)  
+**[01:53:27.040] Senator Erwin T. Tulfo** (asr-001758)  
 if they can look
 
-**[01:53:29.040] Senator Erwin Tulfo** (asr-001759)  
+**[01:53:29.040] Senator Erwin T. Tulfo** (asr-001759)  
 at your acceptance
 
-**[01:53:30.040] Senator Erwin Tulfo** (asr-001760)  
+**[01:53:30.040] Senator Erwin T. Tulfo** (asr-001760)  
 and review
 
-**[01:53:31.040] Senator Erwin Tulfo** (asr-001761)  
+**[01:53:31.040] Senator Erwin T. Tulfo** (asr-001761)  
 this recruitment process
 
-**[01:53:34.040] Senator Erwin Tulfo** (asr-001762)  
+**[01:53:34.040] Senator Erwin T. Tulfo** (asr-001762)  
 for registered
 
-**[01:53:37.040] Senator Erwin Tulfo** (asr-001763)  
+**[01:53:37.040] Senator Erwin T. Tulfo** (asr-001763)  
 criminologists,
 
-**[01:53:38.040] Senator Erwin Tulfo** (asr-001764)  
+**[01:53:38.040] Senator Erwin T. Tulfo** (asr-001764)  
 Secretary.
 
 **[01:53:39.040] DILG Secretary Juanito Victor C. Remulla** (asr-001765)  
@@ -5395,55 +5395,55 @@ so that they have a better chance
 **[01:54:32.040] DILG Secretary Juanito Victor C. Remulla** (asr-001805)  
 of getting in.
 
-**[01:54:34.040] Senator Erwin Tulfo** (asr-001806)  
+**[01:54:34.040] Senator Erwin T. Tulfo** (asr-001806)  
 All right.
 
-**[01:54:35.040] Senator Erwin Tulfo** (asr-001807)  
+**[01:54:35.040] Senator Erwin T. Tulfo** (asr-001807)  
 Thank you.
 
-**[01:54:36.040] Senator Erwin Tulfo** (asr-001808)  
+**[01:54:36.040] Senator Erwin T. Tulfo** (asr-001808)  
 Also,
 
-**[01:54:37.040] Senator Erwin Tulfo** (asr-001809)  
+**[01:54:37.040] Senator Erwin T. Tulfo** (asr-001809)  
 Secretary John Vic,
 
-**[01:54:39.040] Senator Erwin Tulfo** (asr-001810)  
+**[01:54:39.040] Senator Erwin T. Tulfo** (asr-001810)  
 I would like to commend
 
-**[01:54:41.040] Senator Erwin Tulfo** (asr-001811)  
+**[01:54:41.040] Senator Erwin T. Tulfo** (asr-001811)  
 the NAPOLCOM
 
-**[01:54:43.040] Senator Erwin Tulfo** (asr-001812)  
+**[01:54:43.040] Senator Erwin T. Tulfo** (asr-001812)  
 under your watch
 
-**[01:54:44.040] Senator Erwin Tulfo** (asr-001813)  
+**[01:54:44.040] Senator Erwin T. Tulfo** (asr-001813)  
 for attaining zero backlog,
 
-**[01:54:46.040] Senator Erwin Tulfo** (asr-001814)  
+**[01:54:46.040] Senator Erwin T. Tulfo** (asr-001814)  
 resolving 2,404
 
-**[01:54:49.040] Senator Erwin Tulfo** (asr-001815)  
+**[01:54:49.040] Senator Erwin T. Tulfo** (asr-001815)  
 admin cases.
 
-**[01:54:50.040] Senator Erwin Tulfo** (asr-001816)  
+**[01:54:50.040] Senator Erwin T. Tulfo** (asr-001816)  
 Of these filed admin cases,
 
-**[01:54:52.040] Senator Erwin Tulfo** (asr-001817)  
+**[01:54:52.040] Senator Erwin T. Tulfo** (asr-001817)  
 I don't know
 
-**[01:54:53.040] Senator Erwin Tulfo** (asr-001818)  
+**[01:54:53.040] Senator Erwin T. Tulfo** (asr-001818)  
 if you can answer this
 
-**[01:54:54.040] Senator Erwin Tulfo** (asr-001819)  
+**[01:54:54.040] Senator Erwin T. Tulfo** (asr-001819)  
 or our NAPOLCOM
 
-**[01:54:56.040] Senator Erwin Tulfo** (asr-001820)  
+**[01:54:56.040] Senator Erwin T. Tulfo** (asr-001820)  
 officer in charge,
 
-**[01:54:58.040] Senator Erwin Tulfo** (asr-001821)  
+**[01:54:58.040] Senator Erwin T. Tulfo** (asr-001821)  
 how many personnel
 
-**[01:54:59.040] Senator Erwin Tulfo** (asr-001822)  
+**[01:54:59.040] Senator Erwin T. Tulfo** (asr-001822)  
 were charged?
 
 **[01:55:03.950] DILG Secretary Juanito Victor C. Remulla** (asr-001823)  
@@ -5656,46 +5656,46 @@ get close,
 **[01:56:49.580] NAPOLCOM Vice Chairperson and Executive Officer Atty. Rafael Vicente R. Calinisan** (asr-001892)  
 Mr. Chair.
 
-**[01:56:50.580] Senator Erwin Tulfo** (asr-001893)  
+**[01:56:50.580] Senator Erwin T. Tulfo** (asr-001893)  
 So,
 
-**[01:56:51.580] Senator Erwin Tulfo** (asr-001894)  
+**[01:56:51.580] Senator Erwin T. Tulfo** (asr-001894)  
 what adjustments
 
-**[01:56:52.580] Senator Erwin Tulfo** (asr-001895)  
+**[01:56:52.580] Senator Erwin T. Tulfo** (asr-001895)  
 did you make
 
-**[01:56:53.580] Senator Erwin Tulfo** (asr-001896)  
+**[01:56:53.580] Senator Erwin T. Tulfo** (asr-001896)  
 compared to
 
-**[01:56:54.580] Senator Erwin Tulfo** (asr-001897)  
+**[01:56:54.580] Senator Erwin T. Tulfo** (asr-001897)  
 the previous years
 
-**[01:56:55.580] Senator Erwin Tulfo** (asr-001898)  
+**[01:56:55.580] Senator Erwin T. Tulfo** (asr-001898)  
 of your predecessors?
 
-**[01:56:56.580] Senator Erwin Tulfo** (asr-001899)  
+**[01:56:56.580] Senator Erwin T. Tulfo** (asr-001899)  
 Why is this
 
-**[01:56:57.580] Senator Erwin Tulfo** (asr-001900)  
+**[01:56:57.580] Senator Erwin T. Tulfo** (asr-001900)  
 happening so fast
 
-**[01:56:58.580] Senator Erwin Tulfo** (asr-001901)  
+**[01:56:58.580] Senator Erwin T. Tulfo** (asr-001901)  
 now?
 
-**[01:56:59.580] Senator Erwin Tulfo** (asr-001902)  
+**[01:56:59.580] Senator Erwin T. Tulfo** (asr-001902)  
 What adjustments,
 
-**[01:57:00.580] Senator Erwin Tulfo** (asr-001903)  
+**[01:57:00.580] Senator Erwin T. Tulfo** (asr-001903)  
 if there are any,
 
-**[01:57:01.580] Senator Erwin Tulfo** (asr-001904)  
+**[01:57:01.580] Senator Erwin T. Tulfo** (asr-001904)  
 that you made?
 
-**[01:57:02.580] Senator Erwin Tulfo** (asr-001905)  
+**[01:57:02.580] Senator Erwin T. Tulfo** (asr-001905)  
 Go ahead,
 
-**[01:57:03.580] Senator Erwin Tulfo** (asr-001906)  
+**[01:57:03.580] Senator Erwin T. Tulfo** (asr-001906)  
 Secretary.
 
 **[01:57:04.580] DILG Secretary Juanito Victor C. Remulla** (asr-001907)  
@@ -5833,67 +5833,67 @@ of the Vice Chairman,
 **[01:57:43.700] DILG Secretary Juanito Victor C. Remulla** (asr-001951)  
 the backlog was completely taken out.
 
-**[01:57:47.360] Senator Erwin Tulfo** (asr-001952)  
+**[01:57:47.360] Senator Erwin T. Tulfo** (asr-001952)  
 Thank you, Secretary.
 
-**[01:57:49.340] Senator Erwin Tulfo** (asr-001953)  
+**[01:57:49.340] Senator Erwin T. Tulfo** (asr-001953)  
 Moving on, Mr. Chair,
 
-**[01:57:51.520] Senator Erwin Tulfo** (asr-001954)  
+**[01:57:51.520] Senator Erwin T. Tulfo** (asr-001954)  
 dito naman po sa BJMP.
 
-**[01:57:53.400] Senator Erwin Tulfo** (asr-001955)  
+**[01:57:53.400] Senator Erwin T. Tulfo** (asr-001955)  
 From 31.2 billion
 
-**[01:57:54.100] Senator Erwin Tulfo** (asr-001956)  
+**[01:57:54.100] Senator Erwin T. Tulfo** (asr-001956)  
 in the GAA
 
-**[01:57:54.580] Senator Erwin Tulfo** (asr-001957)  
+**[01:57:54.580] Senator Erwin T. Tulfo** (asr-001957)  
 2026,
 
-**[01:57:55.580] Senator Erwin Tulfo** (asr-001958)  
+**[01:57:55.580] Senator Erwin T. Tulfo** (asr-001958)  
 it increased
 
-**[01:57:56.580] Senator Erwin Tulfo** (asr-001959)  
+**[01:57:56.580] Senator Erwin T. Tulfo** (asr-001959)  
 to 34.4 billion
 
-**[01:57:57.580] Senator Erwin Tulfo** (asr-001960)  
+**[01:57:57.580] Senator Erwin T. Tulfo** (asr-001960)  
 under the
 
-**[01:57:58.580] Senator Erwin Tulfo** (asr-001961)  
+**[01:57:58.580] Senator Erwin T. Tulfo** (asr-001961)  
 NEP
 
-**[01:57:59.580] Senator Erwin Tulfo** (asr-001962)  
+**[01:57:59.580] Senator Erwin T. Tulfo** (asr-001962)  
 2027.
 
-**[01:58:00.580] Senator Erwin Tulfo** (asr-001963)  
+**[01:58:00.580] Senator Erwin T. Tulfo** (asr-001963)  
 How much
 
-**[01:58:01.580] Senator Erwin Tulfo** (asr-001964)  
+**[01:58:01.580] Senator Erwin T. Tulfo** (asr-001964)  
 did the daily
 
-**[01:58:02.580] Senator Erwin Tulfo** (asr-001965)  
+**[01:58:02.580] Senator Erwin T. Tulfo** (asr-001965)  
 food allowance
 
-**[01:58:03.580] Senator Erwin Tulfo** (asr-001966)  
+**[01:58:03.580] Senator Erwin T. Tulfo** (asr-001966)  
 of each
 
-**[01:58:04.580] Senator Erwin Tulfo** (asr-001967)  
+**[01:58:04.580] Senator Erwin T. Tulfo** (asr-001967)  
 PDL
 
-**[01:58:05.580] Senator Erwin Tulfo** (asr-001968)  
+**[01:58:05.580] Senator Erwin T. Tulfo** (asr-001968)  
 increase
 
-**[01:58:06.580] Senator Erwin Tulfo** (asr-001969)  
+**[01:58:06.580] Senator Erwin T. Tulfo** (asr-001969)  
 compared to
 
-**[01:58:07.580] Senator Erwin Tulfo** (asr-001970)  
+**[01:58:07.580] Senator Erwin T. Tulfo** (asr-001970)  
 last year
 
-**[01:58:09.860] Senator Erwin Tulfo** (asr-001971)  
+**[01:58:09.860] Senator Erwin T. Tulfo** (asr-001971)  
 or previous
 
-**[01:58:10.860] Senator Erwin Tulfo** (asr-001972)  
+**[01:58:10.860] Senator Erwin T. Tulfo** (asr-001972)  
 years?
 
 **[01:58:11.860] BJMP Chief Jail Director Efren A. Nemeño** (asr-001973)  
@@ -5923,13 +5923,13 @@ Mr. Chairman.
 **[01:58:19.860] BJMP Chief Jail Director Efren A. Nemeño** (asr-001981)  
 Your Honors.
 
-**[01:58:21.860] Senator Erwin Tulfo** (asr-001982)  
+**[01:58:21.860] Senator Erwin T. Tulfo** (asr-001982)  
 Breakfast,
 
-**[01:58:22.860] Senator Erwin Tulfo** (asr-001983)  
+**[01:58:22.860] Senator Erwin T. Tulfo** (asr-001983)  
 lunch,
 
-**[01:58:23.860] Senator Erwin Tulfo** (asr-001984)  
+**[01:58:23.860] Senator Erwin T. Tulfo** (asr-001984)  
 and dinner?
 
 **[01:58:24.860] BJMP Chief Jail Director Efren A. Nemeño** (asr-001985)  
@@ -5941,28 +5941,28 @@ Mr. Chairman
 **[01:58:26.860] BJMP Chief Jail Director Efren A. Nemeño** (asr-001987)  
 and Your Honors.
 
-**[01:58:27.860] Senator Erwin Tulfo** (asr-001988)  
+**[01:58:27.860] Senator Erwin T. Tulfo** (asr-001988)  
 On a typical day,
 
-**[01:58:28.860] Senator Erwin Tulfo** (asr-001989)  
+**[01:58:28.860] Senator Erwin T. Tulfo** (asr-001989)  
 what are the
 
-**[01:58:29.860] Senator Erwin Tulfo** (asr-001990)  
+**[01:58:29.860] Senator Erwin T. Tulfo** (asr-001990)  
 meals of
 
-**[01:58:30.860] Senator Erwin Tulfo** (asr-001991)  
+**[01:58:30.860] Senator Erwin T. Tulfo** (asr-001991)  
 our PDL?
 
-**[01:58:31.860] Senator Erwin Tulfo** (asr-001992)  
+**[01:58:31.860] Senator Erwin T. Tulfo** (asr-001992)  
 Because it's
 
-**[01:58:32.860] Senator Erwin Tulfo** (asr-001993)  
+**[01:58:32.860] Senator Erwin T. Tulfo** (asr-001993)  
 breakfast,
 
-**[01:58:33.860] Senator Erwin Tulfo** (asr-001994)  
+**[01:58:33.860] Senator Erwin T. Tulfo** (asr-001994)  
 lunch,
 
-**[01:58:34.860] Senator Erwin Tulfo** (asr-001995)  
+**[01:58:34.860] Senator Erwin T. Tulfo** (asr-001995)  
 and dinner.
 
 **[01:58:35.860] BJMP Chief Jail Director Efren A. Nemeño** (asr-001996)  
@@ -6052,19 +6052,19 @@ on that menu,
 **[01:59:03.860] BJMP Chief Jail Director Efren A. Nemeño** (asr-002024)  
 Your Honor.
 
-**[01:59:04.860] Senator Erwin Tulfo** (asr-002025)  
+**[01:59:04.860] Senator Erwin T. Tulfo** (asr-002025)  
 But is
 
-**[01:59:05.860] Senator Erwin Tulfo** (asr-002026)  
+**[01:59:05.860] Senator Erwin T. Tulfo** (asr-002026)  
 that different?
 
-**[01:59:06.860] Senator Erwin Tulfo** (asr-002027)  
+**[01:59:06.860] Senator Erwin T. Tulfo** (asr-002027)  
 For example,
 
-**[01:59:07.860] Senator Erwin Tulfo** (asr-002028)  
+**[01:59:07.860] Senator Erwin T. Tulfo** (asr-002028)  
 in Region 1,
 
-**[01:59:08.860] Senator Erwin Tulfo** (asr-002029)  
+**[01:59:08.860] Senator Erwin T. Tulfo** (asr-002029)  
 is different, or is it uniform?
 
 **[01:59:10.500] BJMP Chief Jail Director Efren A. Nemeño** (asr-002030)  
@@ -6073,91 +6073,91 @@ Uniform po,
 **[01:59:11.400] BJMP Chief Jail Director Efren A. Nemeño** (asr-002031)  
 Your Honor.
 
-**[01:59:11.960] Senator Erwin Tulfo** (asr-002032)  
+**[01:59:11.960] Senator Erwin T. Tulfo** (asr-002032)  
 Yes, sir. All right, thank you.
 
-**[01:59:14.340] Senator Erwin Tulfo** (asr-002033)  
+**[01:59:14.340] Senator Erwin T. Tulfo** (asr-002033)  
 Now
 
-**[01:59:15.100] Senator Erwin Tulfo** (asr-002034)  
+**[01:59:15.100] Senator Erwin T. Tulfo** (asr-002034)  
 let's go to
 
-**[01:59:15.700] Senator Erwin Tulfo** (asr-002035)  
+**[01:59:15.700] Senator Erwin T. Tulfo** (asr-002035)  
 the
 
-**[01:59:16.260] Senator Erwin Tulfo** (asr-002036)  
+**[01:59:16.260] Senator Erwin T. Tulfo** (asr-002036)  
 Philippine National
 
-**[01:59:16.960] Senator Erwin Tulfo** (asr-002037)  
+**[01:59:16.960] Senator Erwin T. Tulfo** (asr-002037)  
 Police.
 
-**[01:59:17.500] Senator Erwin Tulfo** (asr-002038)  
+**[01:59:17.500] Senator Erwin T. Tulfo** (asr-002038)  
 General Nartatez,
 
-**[01:59:19.300] Senator Erwin Tulfo** (asr-002039)  
+**[01:59:19.300] Senator Erwin T. Tulfo** (asr-002039)  
 6.9
 
-**[01:59:21.880] Senator Erwin Tulfo** (asr-002040)  
+**[01:59:21.880] Senator Erwin T. Tulfo** (asr-002040)  
 billion in 2026
 
-**[01:59:23.800] Senator Erwin Tulfo** (asr-002041)  
+**[01:59:23.800] Senator Erwin T. Tulfo** (asr-002041)  
 and
 
-**[01:59:24.400] Senator Erwin Tulfo** (asr-002042)  
+**[01:59:24.400] Senator Erwin T. Tulfo** (asr-002042)  
 NEP ngayon
 
-**[01:59:24.920] Senator Erwin Tulfo** (asr-002043)  
+**[01:59:24.920] Senator Erwin T. Tulfo** (asr-002043)  
 is 6.2,
 
-**[01:59:25.720] Senator Erwin Tulfo** (asr-002044)  
+**[01:59:25.720] Senator Erwin T. Tulfo** (asr-002044)  
 bumaba po
 
-**[01:59:26.420] Senator Erwin Tulfo** (asr-002045)  
+**[01:59:26.420] Senator Erwin T. Tulfo** (asr-002045)  
 a decrease
 
-**[01:59:27.220] Senator Erwin Tulfo** (asr-002046)  
+**[01:59:27.220] Senator Erwin T. Tulfo** (asr-002046)  
 by
 
-**[01:59:27.720] Senator Erwin Tulfo** (asr-002047)  
+**[01:59:27.720] Senator Erwin T. Tulfo** (asr-002047)  
 706
 
-**[01:59:28.340] Senator Erwin Tulfo** (asr-002048)  
+**[01:59:28.340] Senator Erwin T. Tulfo** (asr-002048)  
 million
 
-**[01:59:29.540] Senator Erwin Tulfo** (asr-002049)  
+**[01:59:29.540] Senator Erwin T. Tulfo** (asr-002049)  
 pesos.
 
-**[01:59:30.080] Senator Erwin Tulfo** (asr-002050)  
+**[01:59:30.080] Senator Erwin T. Tulfo** (asr-002050)  
 My question is,
 
-**[01:59:31.320] Senator Erwin Tulfo** (asr-002051)  
+**[01:59:31.320] Senator Erwin T. Tulfo** (asr-002051)  
 may mga areas po kayo
 
-**[01:59:33.500] Senator Erwin Tulfo** (asr-002052)  
+**[01:59:33.500] Senator Erwin T. Tulfo** (asr-002052)  
 na kailangan po ng mga sasakyan.
 
-**[01:59:36.740] Senator Erwin Tulfo** (asr-002053)  
+**[01:59:36.740] Senator Erwin T. Tulfo** (asr-002053)  
 So,
 
-**[01:59:37.280] Senator Erwin Tulfo** (asr-002054)  
+**[01:59:37.280] Senator Erwin T. Tulfo** (asr-002054)  
 magkano po
 
-**[01:59:37.900] Senator Erwin Tulfo** (asr-002055)  
+**[01:59:37.900] Senator Erwin T. Tulfo** (asr-002055)  
 ang
 
-**[01:59:38.400] Senator Erwin Tulfo** (asr-002056)  
+**[01:59:38.400] Senator Erwin T. Tulfo** (asr-002056)  
 nilaan nyo
 
-**[01:59:38.900] Senator Erwin Tulfo** (asr-002057)  
+**[01:59:38.900] Senator Erwin T. Tulfo** (asr-002057)  
 po ulit
 
-**[01:59:39.400] Senator Erwin Tulfo** (asr-002058)  
+**[01:59:39.400] Senator Erwin T. Tulfo** (asr-002058)  
 para sa
 
-**[01:59:39.900] Senator Erwin Tulfo** (asr-002059)  
+**[01:59:39.900] Senator Erwin T. Tulfo** (asr-002059)  
 capital
 
-**[01:59:40.400] Senator Erwin Tulfo** (asr-002060)  
+**[01:59:40.400] Senator Erwin T. Tulfo** (asr-002060)  
 outlay?
 
 **[01:59:44.020] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002061)  
@@ -6184,52 +6184,52 @@ That is our
 **[01:59:51.200] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002068)  
 CEP.
 
-**[01:59:53.080] Senator Erwin Tulfo** (asr-002070)  
+**[01:59:53.080] Senator Erwin T. Tulfo** (asr-002070)  
 Okay.
 
-**[01:59:53.860] Senator Erwin Tulfo** (asr-002071)  
+**[01:59:53.860] Senator Erwin T. Tulfo** (asr-002071)  
 Does that
 
-**[01:59:54.720] Senator Erwin Tulfo** (asr-002072)  
+**[01:59:54.720] Senator Erwin T. Tulfo** (asr-002072)  
 include
 
-**[01:59:55.240] Senator Erwin Tulfo** (asr-002073)  
+**[01:59:55.240] Senator Erwin T. Tulfo** (asr-002073)  
 po yung
 
-**[01:59:56.220] Senator Erwin Tulfo** (asr-002074)  
+**[01:59:56.220] Senator Erwin T. Tulfo** (asr-002074)  
 mga additional
 
-**[01:59:57.120] Senator Erwin Tulfo** (asr-002096)  
+**[01:59:57.120] Senator Erwin T. Tulfo** (asr-002096)  
 vessels po ng PNP Maritime? At saka isa po, yung PNP Mimaropa Region,
 
-**[02:00:08.520] Senator Erwin Tulfo** (asr-002097)  
+**[02:00:08.520] Senator Erwin T. Tulfo** (asr-002097)  
 yung regional director po natin, nahihirapan po siya because it is composed of five islands,
 
-**[02:00:13.880] Senator Erwin Tulfo** (asr-002098)  
+**[02:00:13.880] Senator Erwin T. Tulfo** (asr-002098)  
 yung mga provinces. Mindoro, ang headquarters niya po sa Mindoro,
 
-**[02:00:18.540] Senator Erwin Tulfo** (asr-002099)  
+**[02:00:18.540] Senator Erwin T. Tulfo** (asr-002099)  
 kailangan niya pumunta sa Marinduque, kailangan niya pumunta sa Rumblon,
 
-**[02:00:22.920] Senator Erwin Tulfo** (asr-002100)  
+**[02:00:22.920] Senator Erwin T. Tulfo** (asr-002100)  
 kailangan niya po buhabaan ng Palawan.
 
-**[02:00:24.900] Senator Erwin Tulfo** (asr-002101)  
+**[02:00:24.900] Senator Erwin T. Tulfo** (asr-002101)  
 Ito po yung problem niya, kailangan po siya umakit always sa,
 
-**[02:00:29.840] Senator Erwin Tulfo** (asr-002102)  
+**[02:00:29.840] Senator Erwin T. Tulfo** (asr-002102)  
 to get to Puerto Princesa, he has to fly to Manila.
 
-**[02:00:33.380] Senator Erwin Tulfo** (asr-002103)  
+**[02:00:33.380] Senator Erwin T. Tulfo** (asr-002103)  
 From Manila, sasakay po siya ng aeroplano.
 
-**[02:00:35.200] Senator Erwin Tulfo** (asr-002104)  
+**[02:00:35.200] Senator Erwin T. Tulfo** (asr-002104)  
 Ang tanong ko po, hindi ba po pwedeng bumili po ng vehicle ng sea transport, yung RD natin?
 
-**[02:00:43.640] Senator Erwin Tulfo** (asr-002105)  
+**[02:00:43.640] Senator Erwin T. Tulfo** (asr-002105)  
 From Mindoro, pwede niya po mag-inspection sa Rumblon, Marinduque, Palawan,
 
-**[02:00:51.720] Senator Erwin Tulfo** (asr-002106)  
+**[02:00:51.720] Senator Erwin T. Tulfo** (asr-002106)  
 para hindi na po siya pupunta ng Maynila?
 
 **[02:00:55.750] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002107)  
@@ -6307,37 +6307,37 @@ Everyone is in Manila.
 **[02:02:56.610] DILG Secretary Juanito Victor C. Remulla** (asr-002131)  
 So I suggest that we break up that region to make it more responsive to the times.
 
-**[02:03:01.070] Senator Erwin Tulfo** (asr-002132)  
+**[02:03:01.070] Senator Erwin T. Tulfo** (asr-002132)  
 So when do you plan to do that?
 
 **[02:03:03.430] DILG Secretary Juanito Victor C. Remulla** (asr-002133)  
 We will propose it to the Senate this coming, this year, Sir, and hopefully it will be supported.
 
-**[02:03:10.330] Senator Erwin Tulfo** (asr-002134)  
+**[02:03:10.330] Senator Erwin T. Tulfo** (asr-002134)  
 Thank you, Po.
 
-**[02:03:11.630] Senator Erwin Tulfo** (asr-002135)  
+**[02:03:11.630] Senator Erwin T. Tulfo** (asr-002135)  
 Another thing, Sec, yung ating pong PNP Maritime, kailangan po nila ng mga fast craft, lalo po sa Palawan,
 
-**[02:03:18.950] Senator Erwin Tulfo** (asr-002136)  
+**[02:03:18.950] Senator Erwin T. Tulfo** (asr-002136)  
 because I came from Palawan, panghabol po sa mga illegal fishermen.
 
-**[02:03:24.050] Senator Erwin Tulfo** (asr-002137)  
+**[02:03:24.050] Senator Erwin T. Tulfo** (asr-002137)  
 Medyo nahihirapan po sila.
 
-**[02:03:25.470] Senator Erwin Tulfo** (asr-002138)  
+**[02:03:25.470] Senator Erwin T. Tulfo** (asr-002138)  
 Ilang po mga members, yung sasakyan po ng maritime, minsan hindi na po gumagana, problema po, pyesa.
 
-**[02:03:31.830] Senator Erwin Tulfo** (asr-002139)  
+**[02:03:31.830] Senator Erwin T. Tulfo** (asr-002139)  
 Yung iba naman, gumagawa ng paraan, sumasakay po sa pump boat.
 
-**[02:03:35.650] Senator Erwin Tulfo** (asr-002140)  
+**[02:03:35.650] Senator Erwin T. Tulfo** (asr-002140)  
 E hindi sila makahabol po sa mga illegal fishermen, mga basnig, mga twin engine pa.
 
-**[02:03:41.350] Senator Erwin Tulfo** (asr-002141)  
+**[02:03:41.350] Senator Erwin T. Tulfo** (asr-002141)  
 So what do you plan to do this?
 
-**[02:03:43.070] Senator Erwin Tulfo** (asr-002142)  
+**[02:03:43.070] Senator Erwin T. Tulfo** (asr-002142)  
 Are you going to procure more sea transport for our faster vehicle or sea vessel for our PNP Maritime?
 
 **[02:03:53.550] DILG Secretary Juanito Victor C. Remulla** (asr-002143)  
@@ -6373,10 +6373,10 @@ So yung karpeta nila magkaiba.
 **[02:04:46.970] DILG Secretary Juanito Victor C. Remulla** (asr-002153)  
 So those are the things that we think we should do to rationalize the system of law enforcement in the country.
 
-**[02:04:53.950] Senator Erwin Tulfo** (asr-002154)  
+**[02:04:53.950] Senator Erwin T. Tulfo** (asr-002154)  
 I have filed.
 
-**[02:04:55.470] Senator Erwin Tulfo** (asr-002155)  
+**[02:04:55.470] Senator Erwin T. Tulfo** (asr-002155)  
 Already a bill on that matter, Sir, this year to transfer the BGNP to the Bureau of Corrections.
 
 **[02:05:05.070] DILG Secretary Juanito Victor C. Remulla** (asr-002156)  
@@ -6412,13 +6412,13 @@ So our response time for fugitives or for foreigners is more difficult.
 **[02:05:51.710] DILG Secretary Juanito Victor C. Remulla** (asr-002166)  
 So those are the rationalizations we propose, Sir.
 
-**[02:05:54.850] Senator Panfilo Lacson** (asr-002167)  
+**[02:05:54.850] Senator Panfilo "Ping" M. Lacson** (asr-002167)  
 With your permission.
 
-**[02:05:55.470] Senator Panfilo Lacson** (asr-002168)  
+**[02:05:55.470] Senator Panfilo "Ping" M. Lacson** (asr-002168)  
 Thank you, Senator Tulfo.
 
-**[02:05:57.370] Senator Panfilo Lacson** (asr-002169)  
+**[02:05:57.370] Senator Panfilo "Ping" M. Lacson** (asr-002169)  
 Have you recommended to the President?
 
 **[02:05:59.510] DILG Secretary Juanito Victor C. Remulla** (asr-002170)  
@@ -6427,19 +6427,19 @@ Yes, Sir.
 **[02:06:00.510] DILG Secretary Juanito Victor C. Remulla** (asr-002171)  
 And he has expressed support.
 
-**[02:06:02.290] Senator Panfilo Lacson** (asr-002172)  
+**[02:06:02.290] Senator Panfilo "Ping" M. Lacson** (asr-002172)  
 We have lawyers here, and I believe it will only take an EO under the administrative code.
 
-**[02:06:08.590] Senator Panfilo Lacson** (asr-002173)  
+**[02:06:08.590] Senator Panfilo "Ping" M. Lacson** (asr-002173)  
 Yes, Sir.
 
-**[02:06:09.050] Senator Panfilo Lacson** (asr-002174)  
+**[02:06:09.050] Senator Panfilo "Ping" M. Lacson** (asr-002174)  
 Hindi kailangan ng legislation.
 
-**[02:06:11.050] Senator Panfilo Lacson** (asr-002175)  
+**[02:06:11.050] Senator Panfilo "Ping" M. Lacson** (asr-002175)  
 So if the President is, you know, is in agreement with the proposal,
 
-**[02:06:16.450] Senator Panfilo Lacson** (asr-002176)  
+**[02:06:16.450] Senator Panfilo "Ping" M. Lacson** (asr-002176)  
 maybe you can just drop an EO for the President and the BGNP may be transferred to...
 
 **[02:06:23.070] DILG Secretary Juanito Victor C. Remulla** (asr-002177)  
@@ -6448,16 +6448,16 @@ Yes, Sir.
 **[02:06:23.670] DILG Secretary Juanito Victor C. Remulla** (asr-002178)  
 We have done so.
 
-**[02:06:25.470] Senator Panfilo Lacson** (asr-002179)  
+**[02:06:25.470] Senator Panfilo "Ping" M. Lacson** (asr-002179)  
 Thank you, Sir.
 
-**[02:06:25.990] Senator Panfilo Lacson** (asr-002180)  
+**[02:06:25.990] Senator Panfilo "Ping" M. Lacson** (asr-002180)  
 Thank you.
 
-**[02:06:28.030] Senator Panfilo Lacson** (asr-002181)  
+**[02:06:28.030] Senator Panfilo "Ping" M. Lacson** (asr-002181)  
 Hopefully, he said he will act on it already, so hopefully it will be done soon.
 
-**[02:06:31.790] Senator Panfilo Lacson** (asr-002182)  
+**[02:06:31.790] Senator Panfilo "Ping" M. Lacson** (asr-002182)  
 Thank you.
 
 **[02:06:33.330] Senator Joseph Victor "JV" G. Ejercito** (asr-002183)  
@@ -6502,52 +6502,52 @@ And Mr. Chair, just to interject.
 **[02:07:27.090] Senator Joseph Victor "JV" G. Ejercito** (asr-002196)  
 Thank you.
 
-**[02:07:27.970] Senator Erwin Tulfo** (asr-002197)  
+**[02:07:27.970] Senator Erwin T. Tulfo** (asr-002197)  
 One last question po, Secretary John Vic.
 
-**[02:07:31.330] Senator Erwin Tulfo** (asr-002198)  
+**[02:07:31.330] Senator Erwin T. Tulfo** (asr-002198)  
 Ilalapit ko na rin po sa inyo, tutal eh, mahilig po kayong baguhin at ayusin po yung sistema.
 
-**[02:07:38.030] Senator Erwin Tulfo** (asr-002199)  
+**[02:07:38.030] Senator Erwin T. Tulfo** (asr-002199)  
 Kaya nga po, eh, natutuwa ako.
 
-**[02:07:40.290] Senator Erwin Tulfo** (asr-002200)  
+**[02:07:40.290] Senator Erwin T. Tulfo** (asr-002200)  
 Ilalapit ko lang po sa inyo ito.
 
-**[02:07:41.830] Senator Erwin Tulfo** (asr-002201)  
+**[02:07:41.830] Senator Erwin T. Tulfo** (asr-002201)  
 I don't know kung nakarating na po sa inyong kalaman.
 
-**[02:07:44.730] Senator Erwin Tulfo** (asr-002202)  
+**[02:07:44.730] Senator Erwin T. Tulfo** (asr-002202)  
 Ito pong problema ng 911 emergency service na 2.45% lang po ang obligation rate.
 
-**[02:07:52.550] Senator Erwin Tulfo** (asr-002203)  
+**[02:07:52.550] Senator Erwin T. Tulfo** (asr-002203)  
 Napakababa nga po.
 
-**[02:07:54.810] Senator Erwin Tulfo** (asr-002204)  
+**[02:07:54.810] Senator Erwin T. Tulfo** (asr-002204)  
 Pero ang problema po kasi parang matagal pong sumagot.
 
-**[02:07:58.290] Senator Erwin Tulfo** (asr-002205)  
+**[02:07:58.290] Senator Erwin T. Tulfo** (asr-002205)  
 Meron hong isang nagpadala po sa amin, si Basti Ascripa ito sa Facebook.
 
-**[02:08:03.330] Senator Erwin Tulfo** (asr-002206)  
+**[02:08:03.330] Senator Erwin T. Tulfo** (asr-002206)  
 Pinoast niya.
 
-**[02:08:04.730] Senator Erwin Tulfo** (asr-002207)  
+**[02:08:04.730] Senator Erwin T. Tulfo** (asr-002207)  
 Actually, nag-viral po ito, 1.7 million.
 
-**[02:08:07.170] Senator Erwin Tulfo** (asr-002208)  
+**[02:08:07.170] Senator Erwin T. Tulfo** (asr-002208)  
 Namatay daw yung tatay niya kasi tunghawin sa 911, 10 minutes bago sumagot po.
 
-**[02:08:12.130] Senator Erwin Tulfo** (asr-002209)  
+**[02:08:12.130] Senator Erwin T. Tulfo** (asr-002209)  
 At nung sumag pa, hinold po po siya.
 
-**[02:08:14.890] Senator Erwin Tulfo** (asr-002210)  
+**[02:08:14.890] Senator Erwin T. Tulfo** (asr-002210)  
 Can you look into this, Sec?
 
-**[02:08:16.770] Senator Erwin Tulfo** (asr-002211)  
+**[02:08:16.770] Senator Erwin T. Tulfo** (asr-002211)  
 I know you have the, may political will ho kayo at kaya niyong baguhin ito mga,
 
-**[02:08:22.290] Senator Erwin Tulfo** (asr-002212)  
+**[02:08:22.290] Senator Erwin T. Tulfo** (asr-002212)  
 at risolbahin naman kayo itong klaseng problema.
 
 **[02:08:24.810] DILG Secretary Juanito Victor C. Remulla** (asr-002213)  
@@ -6598,22 +6598,22 @@ That was one call that was...
 **[02:09:24.810] DILG Secretary Juanito Victor C. Remulla** (asr-002228)  
 that we have learned from and we are improving with.
 
-**[02:09:28.990] Senator Erwin Tulfo** (asr-002229)  
+**[02:09:28.990] Senator Erwin T. Tulfo** (asr-002229)  
 Thank you, po.
 
-**[02:09:30.110] Senator Erwin Tulfo** (asr-002230)  
+**[02:09:30.110] Senator Erwin T. Tulfo** (asr-002230)  
 Last two questions, sir, sir.
 
-**[02:09:31.950] Senator Erwin Tulfo** (asr-002231)  
+**[02:09:31.950] Senator Erwin T. Tulfo** (asr-002231)  
 May plano po ba ang PNP na mag-augment pa po ng air assets para mas mabilis?
 
-**[02:09:39.110] Senator Erwin Tulfo** (asr-002232)  
+**[02:09:39.110] Senator Erwin T. Tulfo** (asr-002232)  
 Given the situation, lalo na po sa Metro Manila na sobrang traffic,
 
-**[02:09:43.590] Senator Erwin Tulfo** (asr-002233)  
+**[02:09:43.590] Senator Erwin T. Tulfo** (asr-002233)  
 mas mabilis po ang mobility kung meron pong air assets
 
-**[02:09:46.990] Senator Erwin Tulfo** (asr-002234)  
+**[02:09:46.990] Senator Erwin T. Tulfo** (asr-002234)  
 ang Philippine National Police to respond, sir?
 
 **[02:09:50.190] DILG Secretary Juanito Victor C. Remulla** (asr-002235)  
@@ -6649,22 +6649,22 @@ So, if we call 911, we have an air asset on the sky,
 **[02:10:35.210] DILG Secretary Juanito Victor C. Remulla** (asr-002245)  
 and it can go immediately on top of the crime scene and give a report on what is going on.
 
-**[02:10:39.330] Senator Erwin Tulfo** (asr-002246)  
+**[02:10:39.330] Senator Erwin T. Tulfo** (asr-002246)  
 Thank you, Secretary.
 
-**[02:10:40.070] Senator Erwin Tulfo** (asr-002247)  
+**[02:10:40.070] Senator Erwin T. Tulfo** (asr-002247)  
 Secretary, please continue po yung ginagawa ninyo mga changes sa inyo pong departamento and attach agency.
 
-**[02:10:46.790] Senator Erwin Tulfo** (asr-002248)  
+**[02:10:46.790] Senator Erwin T. Tulfo** (asr-002248)  
 You are doing a good job. Thank you, Secretary.
 
-**[02:10:48.470] Senator Erwin Tulfo** (asr-002249)  
+**[02:10:48.470] Senator Erwin T. Tulfo** (asr-002249)  
 Thank you very much, sir.
 
-**[02:10:49.130] Senator Erwin Tulfo** (asr-002250)  
+**[02:10:49.130] Senator Erwin T. Tulfo** (asr-002250)  
 Thank you, Mr. Chair.
 
-**[02:10:50.210] Senator Panfilo Lacson** (asr-002251)  
+**[02:10:50.210] Senator Panfilo "Ping" M. Lacson** (asr-002251)  
 Thank you, Senator Tulfo.
 
 **[02:10:52.650] Senator Joseph Victor "JV" G. Ejercito** (asr-002252)  
@@ -6739,46 +6739,46 @@ So we have to change the model of the helicopter, sir,
 **[02:12:16.790] DILG Secretary Juanito Victor C. Remulla** (asr-002275)  
 and we will distribute it around the country if we were given the budget to do so.
 
-**[02:12:21.510] Senator Erwin Tulfo** (asr-002276)  
+**[02:12:21.510] Senator Erwin T. Tulfo** (asr-002276)  
 And I agree with Senator J.V. Sec.
 
-**[02:12:24.200] Senator Erwin Tulfo** (asr-002277)  
+**[02:12:24.200] Senator Erwin T. Tulfo** (asr-002277)  
 Lalo na sa amin
 
-**[02:12:26.100] Senator Erwin Tulfo** (asr-002278)  
+**[02:12:26.100] Senator Erwin T. Tulfo** (asr-002278)  
 doon sa Palawan, yung marami pong
 
-**[02:12:28.000] Senator Erwin Tulfo** (asr-002279)  
+**[02:12:28.000] Senator Erwin T. Tulfo** (asr-002279)  
 nagkakaingin, yung mga ika nga namumutol po.
 
-**[02:12:32.600] Senator Erwin Tulfo** (asr-002280)  
+**[02:12:32.600] Senator Erwin T. Tulfo** (asr-002280)  
 Nakikita mo from sa below,
 
-**[02:12:34.300] Senator Erwin Tulfo** (asr-002281)  
+**[02:12:34.300] Senator Erwin T. Tulfo** (asr-002281)  
 sa baba, pero hindi naman po maakyat ng forest rangers natin.
 
-**[02:12:38.600] Senator Erwin Tulfo** (asr-002282)  
+**[02:12:38.600] Senator Erwin T. Tulfo** (asr-002282)  
 So ang ginagawa po, pupuntahan, two days na lakaran.
 
-**[02:12:42.600] Senator Erwin Tulfo** (asr-002283)  
+**[02:12:42.600] Senator Erwin T. Tulfo** (asr-002283)  
 Whereas kung meron nga po, lalapit po sila sa PNP, tatawag, mas mabilis po yung deployment.
 
-**[02:12:47.800] Senator Erwin Tulfo** (asr-002284)  
+**[02:12:47.800] Senator Erwin T. Tulfo** (asr-002284)  
 Nakikita agad.
 
-**[02:12:49.000] Senator Erwin Tulfo** (asr-002285)  
+**[02:12:49.000] Senator Erwin T. Tulfo** (asr-002285)  
 Unfortunately, hindi po mga ordinary farmers po yung nagkakaingin.
 
-**[02:12:52.500] Senator Erwin Tulfo** (asr-002286)  
+**[02:12:52.500] Senator Erwin T. Tulfo** (asr-002286)  
 Yung mga malalaking
 
-**[02:12:53.500] Senator Erwin Tulfo** (asr-002287)  
+**[02:12:53.500] Senator Erwin T. Tulfo** (asr-002287)  
 mga negosyo doon po
 
-**[02:12:54.810] Senator Erwin Tulfo** (asr-002288)  
+**[02:12:54.810] Senator Erwin T. Tulfo** (asr-002288)  
 doon po nagpuputol ng kahoy, doon po nagsusunog kasi yan din po.
 
-**[02:12:58.970] Senator Erwin Tulfo** (asr-002289)  
+**[02:12:58.970] Senator Erwin T. Tulfo** (asr-002289)  
 At saka itong pagpatrol po sa Sierra Madre, that's also another problem, yung mga illegal logging.
 
 **[02:13:03.830] DILG Secretary Juanito Victor C. Remulla** (asr-002290)  
@@ -6808,28 +6808,28 @@ In the last four years, three helicopters have crashed already.
 **[02:13:59.270] DILG Secretary Juanito Victor C. Remulla** (asr-002298)  
 And so we have to have a restudy on the core competency of the PNP in maintaining and operating helicopters.
 
-**[02:14:11.520] Senator Panfilo Lacson** (asr-002299)  
+**[02:14:11.520] Senator Panfilo "Ping" M. Lacson** (asr-002299)  
 With indulgence of the Senate President, puntala ko sa unfilled positions.
 
-**[02:14:16.520] Senator Panfilo Lacson** (asr-002300)  
+**[02:14:16.520] Senator Panfilo "Ping" M. Lacson** (asr-002300)  
 Yung total unfilled positions sa DILG, the entire DILG family is 17,000 plus, 17,622.
 
-**[02:14:25.100] Senator Panfilo Lacson** (asr-002301)  
+**[02:14:25.100] Senator Panfilo "Ping" M. Lacson** (asr-002301)  
 Before we...
 
-**[02:14:26.640] Senator Panfilo Lacson** (asr-002302)  
+**[02:14:26.640] Senator Panfilo "Ping" M. Lacson** (asr-002302)  
 Go to the breakdown of numbers.
 
-**[02:14:31.920] Senator Panfilo Lacson** (asr-002303)  
+**[02:14:31.920] Senator Panfilo "Ping" M. Lacson** (asr-002303)  
 Ang tanong ko lang po, meron ba kayong recruitment plan, pati yung inyong year-end quota?
 
-**[02:14:39.690] Senator Panfilo Lacson** (asr-002304)  
+**[02:14:39.690] Senator Panfilo "Ping" M. Lacson** (asr-002304)  
 Say for 2027, kasi most of the unfilled positions, nasa mga uniformed services.
 
-**[02:14:45.750] Senator Panfilo Lacson** (asr-002305)  
+**[02:14:45.750] Senator Panfilo "Ping" M. Lacson** (asr-002305)  
 PNP, BJMP, BFP.
 
-**[02:14:49.710] Senator Panfilo Lacson** (asr-002306)  
+**[02:14:49.710] Senator Panfilo "Ping" M. Lacson** (asr-002306)  
 So anong breakdown nito and ano yung inyong year-end quota as per your recruitment plan?
 
 **[02:14:57.530] DILG Secretary Juanito Victor C. Remulla** (asr-002307)  
@@ -6859,16 +6859,16 @@ and rethink the structure that we have.
 **[02:15:30.000] DILG Secretary Juanito Victor C. Remulla** (asr-002315)  
 The PNP, sir, has 10,041 unfilled positions.
 
-**[02:15:37.560] Senator Panfilo Lacson** (asr-002316)  
+**[02:15:37.560] Senator Panfilo "Ping" M. Lacson** (asr-002316)  
 And you're requesting for 2,000 to be filled up, diba?
 
-**[02:15:41.800] Senator Panfilo Lacson** (asr-002317)  
+**[02:15:41.800] Senator Panfilo "Ping" M. Lacson** (asr-002317)  
 For both PNP and BFP, 2,000 for 2027.
 
 **[02:15:48.380] DILG Secretary Juanito Victor C. Remulla** (asr-002318)  
 Yes, sir. Those are for the new recruits, sir. Yes.
 
-**[02:15:52.040] Senator Panfilo Lacson** (asr-002319)  
+**[02:15:52.040] Senator Panfilo "Ping" M. Lacson** (asr-002319)  
 PNP ganun din, 2,000 for 2027.
 
 **[02:15:55.320] DILG Secretary Juanito Victor C. Remulla** (asr-002320)  
@@ -6886,7 +6886,7 @@ Andami nag-a-apply pero hindi talaga pumapas eh.
 **[02:16:11.500] DILG Secretary Juanito Victor C. Remulla** (asr-002324)  
 So, doon ho kami nahihirapan talaga sa how to fill it up.
 
-**[02:16:15.440] Senator Panfilo Lacson** (asr-002325)  
+**[02:16:15.440] Senator Panfilo "Ping" M. Lacson** (asr-002325)  
 Yeah, related to that, ano yung per capita recruitment cost?
 
 **[02:16:21.580] DILG Secretary Juanito Victor C. Remulla** (asr-002326)  
@@ -6898,61 +6898,61 @@ I'll give you a minute, sir.
 **[02:16:32.390] DILG Secretary Juanito Victor C. Remulla** (asr-002328)  
 16,000 per police, sir.
 
-**[02:16:35.510] Senator Panfilo Lacson** (asr-002329)  
+**[02:16:35.510] Senator Panfilo "Ping" M. Lacson** (asr-002329)  
 And yung salary grade ng PNP?
 
-**[02:16:38.830] Senator Panfilo Lacson** (asr-002330)  
+**[02:16:38.830] Senator Panfilo "Ping" M. Lacson** (asr-002330)  
 Entry, no? Bagong entry.
 
-**[02:16:42.210] Senator Panfilo Lacson** (asr-002331)  
+**[02:16:42.210] Senator Panfilo "Ping" M. Lacson** (asr-002331)  
 Nasa mga 31,000, diba?
 
 **[02:16:44.490] DILG Secretary Juanito Victor C. Remulla** (asr-002332)  
 Yes, sir.
 
-**[02:16:44.890] Senator Panfilo Lacson** (asr-002333)  
+**[02:16:44.890] Senator Panfilo "Ping" M. Lacson** (asr-002333)  
 Both BFP and PNP.
 
 **[02:16:47.410] DILG Secretary Juanito Victor C. Remulla** (asr-002334)  
 Yes, sir.
 
-**[02:16:48.110] Senator Panfilo Lacson** (asr-002335)  
+**[02:16:48.110] Senator Panfilo "Ping" M. Lacson** (asr-002335)  
 Kasi yung numbers don't add up, ano.
 
-**[02:16:50.330] Senator Panfilo Lacson** (asr-002336)  
+**[02:16:50.330] Senator Panfilo "Ping" M. Lacson** (asr-002336)  
 Yung sa BFP submission, nangingin silang 2,000 additional fire officer 1.
 
-**[02:16:58.010] Senator Panfilo Lacson** (asr-002337)  
+**[02:16:58.010] Senator Panfilo "Ping" M. Lacson** (asr-002337)  
 Ang hiningi nila is 17,717 million pesos.
 
-**[02:17:02.390] Senator Panfilo Lacson** (asr-002338)  
+**[02:17:02.390] Senator Panfilo "Ping" M. Lacson** (asr-002338)  
 Ang sa inyong presentation, ang binigay ninyo is 697.
 
-**[02:17:08.830] Senator Panfilo Lacson** (asr-002339)  
+**[02:17:08.830] Senator Panfilo "Ping" M. Lacson** (asr-002339)  
 Pag dinivide po natin yun, sa 2,000, lumalabas na sa mga 29,000 plus lang eh, per month.
 
-**[02:17:20.790] Senator Panfilo Lacson** (asr-002340)  
+**[02:17:20.790] Senator Panfilo "Ping" M. Lacson** (asr-002340)  
 So, sino mag-aabono? Kasi 31,000 yung sweldo, yung entry level.
 
-**[02:17:28.020] Senator Panfilo Lacson** (asr-002341)  
+**[02:17:28.020] Senator Panfilo "Ping" M. Lacson** (asr-002341)  
 Or, meron kayong allowance for yung failure.
 
-**[02:17:32.520] Senator Panfilo Lacson** (asr-002342)  
+**[02:17:32.520] Senator Panfilo "Ping" M. Lacson** (asr-002342)  
 Pero hindi, recruitment na ito eh.
 
-**[02:17:34.320] Senator Panfilo Lacson** (asr-002343)  
+**[02:17:34.320] Senator Panfilo "Ping" M. Lacson** (asr-002343)  
 Ang assumption dito is recruited.
 
-**[02:17:35.860] Senator Panfilo Lacson** (asr-002344)  
+**[02:17:35.860] Senator Panfilo "Ping" M. Lacson** (asr-002344)  
 So, if you're recruiting, ang program nyo is to recruit 2,000.
 
-**[02:17:40.240] Senator Panfilo Lacson** (asr-002345)  
+**[02:17:40.240] Senator Panfilo "Ping" M. Lacson** (asr-002345)  
 2,000 police officers and 2,000 BFP.
 
-**[02:17:45.900] Senator Panfilo Lacson** (asr-002346)  
+**[02:17:45.900] Senator Panfilo "Ping" M. Lacson** (asr-002346)  
 Bakit may discrepancy sa total? Parang kulang yata.
 
-**[02:18:00.490] Senator Panfilo Lacson** (asr-002347)  
+**[02:18:00.490] Senator Panfilo "Ping" M. Lacson** (asr-002347)  
 Anyway, paki-reconcile na lang yung mga numbers?
 
 **[02:18:02.810] DILG Secretary Juanito Victor C. Remulla** (asr-002348)  
@@ -6961,43 +6961,43 @@ Yes, sir.
 **[02:18:04.690] DILG Secretary Juanito Victor C. Remulla** (asr-002349)  
 We will, in the next budget revision, we will give the complete answer, sir.
 
-**[02:18:09.470] Senator Panfilo Lacson** (asr-002350)  
+**[02:18:09.470] Senator Panfilo "Ping" M. Lacson** (asr-002350)  
 Maybe sa plenary na lang?
 
 **[02:18:10.190] DILG Secretary Juanito Victor C. Remulla** (asr-002351)  
 Sa plenary, sir.
 
-**[02:18:11.110] Senator Panfilo Lacson** (asr-002352)  
+**[02:18:11.110] Senator Panfilo "Ping" M. Lacson** (asr-002352)  
 Thank you.
 
-**[02:18:14.470] Senator Sherwin "Win" T. Gatchalian** (asr-002353)  
+**[02:18:14.470] Senate President Sherwin "Win" T. Gatchalian** (asr-002353)  
 Thank you, Mr. Chairman.
 
-**[02:18:16.410] Senator Sherwin "Win" T. Gatchalian** (asr-002354)  
+**[02:18:16.410] Senate President Sherwin "Win" T. Gatchalian** (asr-002354)  
 Mr. Chairman, just a few more questions.
 
-**[02:18:21.190] Senator Sherwin "Win" T. Gatchalian** (asr-002355)  
+**[02:18:21.190] Senate President Sherwin "Win" T. Gatchalian** (asr-002355)  
 Kumusta yung ating pulis?
 
-**[02:18:23.070] Senator Sherwin "Win" T. Gatchalian** (asr-002356)  
+**[02:18:23.070] Senate President Sherwin "Win" T. Gatchalian** (asr-002356)  
 Pulis to population ratio, to Secretary and to the Chief PNP.
 
-**[02:18:28.050] Senator Sherwin "Win" T. Gatchalian** (asr-002357)  
+**[02:18:28.050] Senate President Sherwin "Win" T. Gatchalian** (asr-002357)  
 How are we doing with the ideal?
 
-**[02:18:33.250] Senator Sherwin "Win" T. Gatchalian** (asr-002358)  
+**[02:18:33.250] Senate President Sherwin "Win" T. Gatchalian** (asr-002358)  
 Ang ideal if under Republic Act 6795 is 500 per one.
 
-**[02:18:42.590] Senator Sherwin "Win" T. Gatchalian** (asr-002359)  
+**[02:18:42.590] Senate President Sherwin "Win" T. Gatchalian** (asr-002359)  
 So, kumusta yung ating ratio?
 
-**[02:18:46.190] Senator Sherwin "Win" T. Gatchalian** (asr-002360)  
+**[02:18:46.190] Senate President Sherwin "Win" T. Gatchalian** (asr-002360)  
 And sabi nga ng ating chairman ni Senator Ping, iba rin yung nagiging ratio sa urban.
 
-**[02:18:53.070] Senator Sherwin "Win" T. Gatchalian** (asr-002361)  
+**[02:18:53.070] Senate President Sherwin "Win" T. Gatchalian** (asr-002361)  
 Iba rin yung nagiging ratio sa rural, no?
 
-**[02:18:55.530] Senator Sherwin "Win" T. Gatchalian** (asr-002362)  
+**[02:18:55.530] Senate President Sherwin "Win" T. Gatchalian** (asr-002362)  
 But I think system-wide, ano po ang ating ratio ngayon?
 
 **[02:19:01.330] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002363)  
@@ -7015,28 +7015,28 @@ So, if we will have to compute it, we need...
 **[02:19:24.610] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002367)  
 We need a total of...
 
-**[02:19:28.550] Senator Sherwin "Win" T. Gatchalian** (asr-002368)  
+**[02:19:28.550] Senate President Sherwin "Win" T. Gatchalian** (asr-002368)  
 How many do we need to reach the 1 is to 500 ratio?
 
-**[02:19:43.230] Senator Sherwin "Win" T. Gatchalian** (asr-002369)  
+**[02:19:43.230] Senate President Sherwin "Win" T. Gatchalian** (asr-002369)  
 Yes.
 
 **[02:19:46.990] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002370)  
 Right now, we are 130,000 and the ideal is we should be at 271,000, Mr. Chair, Your Honor.
 
-**[02:19:57.770] Senator Sherwin "Win" T. Gatchalian** (asr-002371)  
+**[02:19:57.770] Senate President Sherwin "Win" T. Gatchalian** (asr-002371)  
 271,000.
 
 **[02:19:58.930] DILG Secretary Juanito Victor C. Remulla** (asr-002393)  
 Sir, we need 49,000 additional policemen.
 
-**[02:20:03.350] Senator Panfilo Lacson** (asr-002394)  
+**[02:20:03.350] Senator Panfilo "Ping" M. Lacson** (asr-002394)  
 Mr. President, realistically, ito yung the entire police population, di ba?
 
-**[02:20:12.990] Senator Panfilo Lacson** (asr-002395)  
+**[02:20:12.990] Senator Panfilo "Ping" M. Lacson** (asr-002395)  
 Pero if we consider yung deployed, yung front line against those staying in the headquarters,
 
-**[02:20:20.510] Senator Panfilo Lacson** (asr-002396)  
+**[02:20:20.510] Senator Panfilo "Ping" M. Lacson** (asr-002396)  
 hindi 1 is to 650 yan.
 
 **[02:20:22.150] DILG Secretary Juanito Victor C. Remulla** (asr-002397)  
@@ -7048,13 +7048,13 @@ Mas lalaki pa yung...
 **[02:20:25.230] DILG Secretary Juanito Victor C. Remulla** (asr-002399)  
 Lalaki pa pala yung ratio.
 
-**[02:20:27.050] Senator Panfilo Lacson** (asr-002400)  
+**[02:20:27.050] Senator Panfilo "Ping" M. Lacson** (asr-002400)  
 Assuming na 15% ang nasa headquarters,
 
-**[02:20:30.850] Senator Panfilo Lacson** (asr-002401)  
+**[02:20:30.850] Senator Panfilo "Ping" M. Lacson** (asr-002401)  
 85% yung nasa labas.
 
-**[02:20:33.290] Senator Panfilo Lacson** (asr-002402)  
+**[02:20:33.290] Senator Panfilo "Ping" M. Lacson** (asr-002402)  
 So ano na yung ratio?
 
 **[02:20:36.310] DILG Secretary Juanito Victor C. Remulla** (asr-002403)  
@@ -7066,7 +7066,7 @@ a number of them become security personnel of governors, mayors,
 **[02:20:49.510] DILG Secretary Juanito Victor C. Remulla** (asr-002405)  
 even counselors and baragay captains request police.
 
-**[02:20:54.550] Senator Panfilo Lacson** (asr-002406)  
+**[02:20:54.550] Senator Panfilo "Ping" M. Lacson** (asr-002406)  
 And senators?
 
 **[02:20:55.910] DILG Secretary Juanito Victor C. Remulla** (asr-002407)  
@@ -7078,22 +7078,22 @@ The bigger problem is that there are 82 provinces and there are 169 cities and s
 **[02:21:09.830] DILG Secretary Juanito Victor C. Remulla** (asr-002409)  
 and they are dispersed as bodyguards of a lot of these politicians, sir.
 
-**[02:21:15.190] Senator Panfilo Lacson** (asr-002410)  
+**[02:21:15.190] Senator Panfilo "Ping" M. Lacson** (asr-002410)  
 Again, with the permission of the Senate President, alam ni Chief Tating ito, no?
 
-**[02:21:21.830] Senator Panfilo Lacson** (asr-002411)  
+**[02:21:21.830] Senator Panfilo "Ping" M. Lacson** (asr-002411)  
 Di ba dati tayo 1585?
 
-**[02:21:24.270] Senator Panfilo Lacson** (asr-002412)  
+**[02:21:24.270] Senator Panfilo "Ping" M. Lacson** (asr-002412)  
 Mga pa logistics, mga pa finance, mga pa personnel.
 
-**[02:21:28.830] Senator Panfilo Lacson** (asr-002413)  
+**[02:21:28.830] Senator Panfilo "Ping" M. Lacson** (asr-002413)  
 Hanggang ngayon ba 1585?
 
-**[02:21:30.310] Senator Panfilo Lacson** (asr-002414)  
+**[02:21:30.310] Senator Panfilo "Ping" M. Lacson** (asr-002414)  
 At all levels, lahat ng headquarters level, nasa 15% lang yung nasa headquarters.
 
-**[02:21:38.390] Senator Panfilo Lacson** (asr-002415)  
+**[02:21:38.390] Senator Panfilo "Ping" M. Lacson** (asr-002415)  
 Against deployed, yung actually deployed sa field?
 
 **[02:21:43.770] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002416)  
@@ -7135,22 +7135,22 @@ Such that this 100 personnel on a police station or a...
 **[02:23:00.310] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002428)  
 Kaya munisipality, magdo-double or triple ito, Mr. Chair, Your Honor.
 
-**[02:23:06.430] Senator Panfilo Lacson** (asr-002429)  
+**[02:23:06.430] Senator Panfilo "Ping" M. Lacson** (asr-002429)  
 Kung i-juxtapose natin ito sa atrisyon, yung 2,000 mo against yung nagre-retire na mamatay on a yearly basis,
 
-**[02:23:16.390] Senator Panfilo Lacson** (asr-002430)  
+**[02:23:16.390] Senator Panfilo "Ping" M. Lacson** (asr-002430)  
 ano maging effective number?
 
 **[02:23:20.450] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002431)  
 About 50% of that, Your Honor, Mr. Chair.
 
-**[02:23:24.150] Senator Panfilo Lacson** (asr-002432)  
+**[02:23:24.150] Senator Panfilo "Ping" M. Lacson** (asr-002432)  
 Mag-recruit ka ng 2,000, pero actually 1,000 lang yung warm bodies mo doon.
 
 **[02:23:30.310] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002433)  
 That's correct, Mr. Chair, Your Honor.
 
-**[02:23:33.450] Senator Panfilo Lacson** (asr-002434)  
+**[02:23:33.450] Senator Panfilo "Ping" M. Lacson** (asr-002434)  
 Thank you. Thank you, Mr. President.
 
 **[02:23:35.470] DILG Secretary Juanito Victor C. Remulla** (asr-002435)  
@@ -7165,16 +7165,16 @@ But there will be a discrepancy because they will enter the service sometime Mar
 **[02:23:53.210] DILG Secretary Juanito Victor C. Remulla** (asr-002438)  
 So, in the end, mas maliit ang magiging siyoldo ng lalabas na siyoldo.
 
-**[02:23:57.130] Senator Panfilo Lacson** (asr-002439)  
+**[02:23:57.130] Senator Panfilo "Ping" M. Lacson** (asr-002439)  
 Hindi 12 months.
 
-**[02:23:58.150] Senator Panfilo Lacson** (asr-002440)  
+**[02:23:58.150] Senator Panfilo "Ping" M. Lacson** (asr-002440)  
 Hindi pa 12 months.
 
-**[02:23:59.190] Senator Panfilo Lacson** (asr-002441)  
+**[02:23:59.190] Senator Panfilo "Ping" M. Lacson** (asr-002441)  
 Thank you. Now I understand.
 
-**[02:24:00.310] Senator Panfilo Lacson** (asr-002442)  
+**[02:24:00.310] Senator Panfilo "Ping" M. Lacson** (asr-002442)  
 Okay, sir.
 
 **[02:24:02.050] Senator Joseph Victor "JV" G. Ejercito** (asr-002443)  
@@ -7240,61 +7240,61 @@ I attest to that.
 **[02:25:08.070] Senator Joseph Victor "JV" G. Ejercito** (asr-002463)  
 That it really happens, especially the provinces.
 
-**[02:25:14.160] Senator Sherwin "Win" T. Gatchalian** (asr-002464)  
+**[02:25:14.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002464)  
 Buti, wala na nga tayong Pogo.
 
-**[02:25:15.940] Senator Sherwin "Win" T. Gatchalian** (asr-002465)  
+**[02:25:15.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002465)  
 Dati may Pogo pa.
 
 **[02:25:17.640] DILG Secretary Juanito Victor C. Remulla** (asr-002466)  
 May pa-isang naging problema.
 
-**[02:25:20.080] Senator Sherwin "Win" T. Gatchalian** (asr-002467)  
+**[02:25:20.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002467)  
 Nagiging bodyguard ng Pogo.
 
-**[02:25:22.880] Senator Sherwin "Win" T. Gatchalian** (asr-002468)  
+**[02:25:22.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002468)  
 Narinig ko, Secretary, that we need to recruit, to bring it down to 500.
 
-**[02:25:27.960] Senator Sherwin "Win" T. Gatchalian** (asr-002469)  
+**[02:25:27.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002469)  
 One is to 500.
 
-**[02:25:29.160] Senator Sherwin "Win" T. Gatchalian** (asr-002470)  
+**[02:25:29.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002470)  
 We need to recruit 49,000.
 
-**[02:25:31.200] Senator Sherwin "Win" T. Gatchalian** (asr-002471)  
+**[02:25:31.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002471)  
 Yes, sir.
 
-**[02:25:32.520] Senator Sherwin "Win" T. Gatchalian** (asr-002472)  
+**[02:25:32.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002472)  
 But tinitignan ko yung unfilled position ng PNP.
 
-**[02:25:36.560] Senator Sherwin "Win" T. Gatchalian** (asr-002473)  
+**[02:25:36.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002473)  
 Ang base dito sa amin, ang unfilled position is only 9,000.
 
-**[02:25:42.500] Senator Sherwin "Win" T. Gatchalian** (asr-002474)  
+**[02:25:42.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002474)  
 So, in other words, funded, 9,000.
 
-**[02:25:45.780] Senator Sherwin "Win" T. Gatchalian** (asr-002475)  
+**[02:25:45.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002475)  
 But we actually need 49,000.
 
-**[02:25:48.680] Senator Sherwin "Win" T. Gatchalian** (asr-002476)  
+**[02:25:48.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002476)  
 So, in other words, kulang implantilia items.
 
-**[02:25:52.500] Senator Sherwin "Win" T. Gatchalian** (asr-002477)  
+**[02:25:52.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002477)  
 Tama po ba?
 
-**[02:25:54.140] Senator Sherwin "Win" T. Gatchalian** (asr-002478)  
+**[02:25:54.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002478)  
 Tama po ba yung aking computation?
 
-**[02:25:57.260] Senator Sherwin "Win" T. Gatchalian** (asr-002479)  
+**[02:25:57.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002479)  
 So, in other words, hindi natin marireach yung 500.
 
-**[02:26:01.860] Senator Sherwin "Win" T. Gatchalian** (asr-002480)  
+**[02:26:01.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002480)  
 One is to 500.
 
-**[02:26:02.520] Senator Sherwin "Win" T. Gatchalian** (asr-002481)  
+**[02:26:02.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002481)  
 Kasi kulang tayo sa plantili items.
 
-**[02:26:06.620] Senator Sherwin "Win" T. Gatchalian** (asr-002482)  
+**[02:26:06.620] Senate President Sherwin "Win" T. Gatchalian** (asr-002482)  
 Tama po ba?
 
 **[02:26:07.300] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002483)  
@@ -7336,58 +7336,58 @@ That soon will be part of the increase of budget for the PNP.
 **[02:27:12.800] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002495)  
 Your Honor, Mr. Chair.
 
-**[02:27:14.180] Senator Panfilo Lacson** (asr-002496)  
+**[02:27:14.180] Senator Panfilo "Ping" M. Lacson** (asr-002496)  
 I will further complicate your problem.
 
-**[02:27:17.980] Senator Panfilo Lacson** (asr-002497)  
+**[02:27:17.980] Senator Panfilo "Ping" M. Lacson** (asr-002497)  
 Pag sa police to population ratio,
 
-**[02:27:21.020] Senator Panfilo Lacson** (asr-002498)  
+**[02:27:21.020] Senator Panfilo "Ping" M. Lacson** (asr-002498)  
 kinukonsider nyo ba yung daytime population against the actual population?
 
-**[02:27:25.780] Senator Panfilo Lacson** (asr-002499)  
+**[02:27:25.780] Senator Panfilo "Ping" M. Lacson** (asr-002499)  
 Makati, for example, ang population nila ay 309,000.
 
-**[02:27:30.080] Senator Panfilo Lacson** (asr-002500)  
+**[02:27:30.080] Senator Panfilo "Ping" M. Lacson** (asr-002500)  
 Okay.
 
-**[02:27:30.900] Senator Panfilo Lacson** (asr-002501)  
+**[02:27:30.900] Senator Panfilo "Ping" M. Lacson** (asr-002501)  
 Pero ang daytime population is time.
 
-**[02:27:32.520] Senator Panfilo Lacson** (asr-002502)  
+**[02:27:32.520] Senator Panfilo "Ping" M. Lacson** (asr-002502)  
 10 times, 3 million.
 
-**[02:27:35.500] Senator Panfilo Lacson** (asr-002503)  
+**[02:27:35.500] Senator Panfilo "Ping" M. Lacson** (asr-002503)  
 So is that
 
-**[02:27:36.360] Senator Panfilo Lacson** (asr-002504)  
+**[02:27:36.360] Senator Panfilo "Ping" M. Lacson** (asr-002504)  
 factored in when you deploy
 
-**[02:27:38.380] Senator Panfilo Lacson** (asr-002505)  
+**[02:27:38.380] Senator Panfilo "Ping" M. Lacson** (asr-002505)  
 policemen or
 
-**[02:27:40.740] Senator Panfilo Lacson** (asr-002506)  
+**[02:27:40.740] Senator Panfilo "Ping" M. Lacson** (asr-002506)  
 when you assign policemen sa field?
 
-**[02:27:43.480] Senator Panfilo Lacson** (asr-002507)  
+**[02:27:43.480] Senator Panfilo "Ping" M. Lacson** (asr-002507)  
 Kasi pagka 3.2
 
-**[02:27:44.920] Senator Panfilo Lacson** (asr-002508)  
+**[02:27:44.920] Senator Panfilo "Ping" M. Lacson** (asr-002508)  
 million yung in-address mo,
 
-**[02:27:47.460] Senator Panfilo Lacson** (asr-002509)  
+**[02:27:47.460] Senator Panfilo "Ping" M. Lacson** (asr-002509)  
 kung 1 is to 500,
 
-**[02:27:49.740] Senator Panfilo Lacson** (asr-002510)  
+**[02:27:49.740] Senator Panfilo "Ping" M. Lacson** (asr-002510)  
 medyo
 
-**[02:27:50.160] Senator Panfilo Lacson** (asr-002511)  
+**[02:27:50.160] Senator Panfilo "Ping" M. Lacson** (asr-002511)  
 lopsided na siguro yung
 
-**[02:27:52.200] Senator Panfilo Lacson** (asr-002512)  
+**[02:27:52.200] Senator Panfilo "Ping" M. Lacson** (asr-002512)  
 ratio niya. Ano na?
 
-**[02:27:54.960] Senator Panfilo Lacson** (asr-002513)  
+**[02:27:54.960] Senator Panfilo "Ping" M. Lacson** (asr-002513)  
 Yes, Your Honor, Mr. Chair.
 
 **[02:27:57.400] PNP Chief Police General Jose Melencio C. Nartatez Jr.** (asr-002514)  
@@ -7528,55 +7528,55 @@ Cavite.
 **[02:29:26.480] DILG Secretary Juanito Victor C. Remulla** (asr-002559)  
 So baligtad, baligtad ang problema nun.
 
-**[02:29:29.000] Senator Sherwin "Win" T. Gatchalian** (asr-002560)  
+**[02:29:29.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002560)  
 Bedroom community.
 
-**[02:29:32.620] Senator Sherwin "Win" T. Gatchalian** (asr-002561)  
+**[02:29:32.620] Senate President Sherwin "Win" T. Gatchalian** (asr-002561)  
 Bedroom province.
 
 **[02:29:33.420] DILG Secretary Juanito Victor C. Remulla** (asr-002562)  
 Yes, sir.
 
-**[02:29:35.040] Senator Sherwin "Win" T. Gatchalian** (asr-002563)  
+**[02:29:35.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002563)  
 Kay Chief PNP, pare-view na lang
 
-**[02:29:37.780] Senator Sherwin "Win" T. Gatchalian** (asr-002564)  
+**[02:29:37.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002564)  
 Chief PNP yung plantili items
 
-**[02:29:40.060] Senator Sherwin "Win" T. Gatchalian** (asr-002565)  
+**[02:29:40.060] Senate President Sherwin "Win" T. Gatchalian** (asr-002565)  
 because if we want to reach
 
-**[02:29:42.100] Senator Sherwin "Win" T. Gatchalian** (asr-002566)  
+**[02:29:42.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002566)  
 the 1 is to 500, we need to
 
-**[02:29:44.260] Senator Sherwin "Win" T. Gatchalian** (asr-002567)  
+**[02:29:44.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002567)  
 obviously increase the
 
-**[02:29:45.900] Senator Sherwin "Win" T. Gatchalian** (asr-002568)  
+**[02:29:45.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002568)  
 plantili items. I know it will
 
-**[02:29:47.980] Senator Sherwin "Win" T. Gatchalian** (asr-002569)  
+**[02:29:47.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002569)  
 entail cost.
 
-**[02:29:49.920] Senator Sherwin "Win" T. Gatchalian** (asr-002570)  
+**[02:29:49.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002570)  
 But yun ang direction at yun
 
-**[02:29:52.160] Senator Sherwin "Win" T. Gatchalian** (asr-002571)  
+**[02:29:52.160] Senate President Sherwin "Win" T. Gatchalian** (asr-002571)  
 rin naka-prescribe sa
 
-**[02:29:54.140] Senator Sherwin "Win" T. Gatchalian** (asr-002572)  
+**[02:29:54.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002572)  
 RA
 
-**[02:29:54.920] Senator Sherwin "Win" T. Gatchalian** (asr-002573)  
+**[02:29:54.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002573)  
 7695
 
-**[02:29:56.980] Senator Sherwin "Win" T. Gatchalian** (asr-002574)  
+**[02:29:56.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002574)  
 na dapat mag-reach tayo ng 1 is to
 
-**[02:30:02.800] Senator Sherwin "Win" T. Gatchalian** (asr-002575)  
+**[02:30:02.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002575)  
 500.
 
-**[02:30:03.400] Senator Sherwin "Win" T. Gatchalian** (asr-002576)  
+**[02:30:03.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002576)  
 So, hindi naman this time, but it's about time to look at the plantilla items so we can hire more policemen and reach the ideal rate.
 
 **[02:30:11.300] DILG Secretary Juanito Victor C. Remulla** (asr-002577)  
@@ -7600,22 +7600,22 @@ So, we have to do a great deal of capacity building before we fill up those posi
 **[02:30:40.960] DILG Secretary Juanito Victor C. Remulla** (asr-002583)  
 because it might end up in bigger problems if we put unqualified personnel into the PNP.
 
-**[02:30:47.820] Senator Sherwin "Win" T. Gatchalian** (asr-002584)  
+**[02:30:47.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002584)  
 I do agree. Dahil baka yung iba rin, iba yung motivation.
 
-**[02:30:58.630] Senator Sherwin "Win" T. Gatchalian** (asr-002585)  
+**[02:30:58.630] Senate President Sherwin "Win" T. Gatchalian** (asr-002585)  
 Alam naman natin na yung pagiging polis mabigat.
 
-**[02:31:02.990] Senator Sherwin "Win" T. Gatchalian** (asr-002586)  
+**[02:31:02.990] Senate President Sherwin "Win" T. Gatchalian** (asr-002586)  
 Ito yung mabigat ng responsibilidad.
 
-**[02:31:05.390] Senator Sherwin "Win" T. Gatchalian** (asr-002587)  
+**[02:31:05.390] Senate President Sherwin "Win" T. Gatchalian** (asr-002587)  
 Pero baka iba, short term lang yung tinitignan nila.
 
-**[02:31:08.250] Senator Sherwin "Win" T. Gatchalian** (asr-002588)  
+**[02:31:08.250] Senate President Sherwin "Win" T. Gatchalian** (asr-002588)  
 Yung mga, alam na natin, mga racket ang tinitignan nila.
 
-**[02:31:12.250] Senator Sherwin "Win" T. Gatchalian** (asr-002589)  
+**[02:31:12.250] Senate President Sherwin "Win" T. Gatchalian** (asr-002589)  
 So, I agree. I agree that we need to also be very careful in the recruitment of our policemen.
 
 **[02:31:19.910] DILG Secretary Juanito Victor C. Remulla** (asr-002590)  
@@ -7642,22 +7642,22 @@ That's why we cannot be in a rush to fill those positions.
 **[02:32:01.550] DILG Secretary Juanito Victor C. Remulla** (asr-002597)  
 Because it might end up getting.
 
-**[02:32:03.590] Senator Sherwin "Win" T. Gatchalian** (asr-002598)  
+**[02:32:03.590] Senate President Sherwin "Win" T. Gatchalian** (asr-002598)  
 Marami ba? Is there a great deal of interest in becoming a policeman? Marami bang nag-a-apply?
 
-**[02:32:11.170] Senator Sherwin "Win" T. Gatchalian** (asr-002599)  
+**[02:32:11.170] Senate President Sherwin "Win" T. Gatchalian** (asr-002599)  
 How's the recruitment process and the recruitment potential?
 
-**[02:32:19.150] Senator Sherwin "Win" T. Gatchalian** (asr-002600)  
+**[02:32:19.150] Senate President Sherwin "Win" T. Gatchalian** (asr-002600)  
 Kasi mataas na ngayon ang sweldo eh.
 
-**[02:32:21.050] Senator Sherwin "Win" T. Gatchalian** (asr-002601)  
+**[02:32:21.050] Senate President Sherwin "Win" T. Gatchalian** (asr-002601)  
 In fact, ang pinaka-popular na course ngayon sa college, hindi na business.
 
 **[02:32:26.430] DILG Secretary Juanito Victor C. Remulla** (asr-002602)  
 Sir, ah...
 
-**[02:32:27.290] Senator Sherwin "Win" T. Gatchalian** (asr-002603)  
+**[02:32:27.290] Senate President Sherwin "Win" T. Gatchalian** (asr-002603)  
 Criminology na pinaka-popular na course ngayon.
 
 **[02:32:29.510] DILG Secretary Juanito Victor C. Remulla** (asr-002604)  
@@ -7693,7 +7693,7 @@ That's less than 1% gets accepted into the PNPA.
 **[02:33:09.290] DILG Secretary Juanito Victor C. Remulla** (asr-002614)  
 And to apply as a policeman, only 10% are accepted because most are not fit to the qualifications that we prescribe.
 
-**[02:33:19.410] Senator Sherwin "Win" T. Gatchalian** (asr-002615)  
+**[02:33:19.410] Senate President Sherwin "Win" T. Gatchalian** (asr-002615)  
 Mga pag na-recruit sila, I would assume mayroon pang mga training na ginagawa.
 
 **[02:33:24.410] DILG Secretary Juanito Victor C. Remulla** (asr-002616)  
@@ -7711,31 +7711,31 @@ And marami nag-a-apply na may records na in the past.
 **[02:33:44.650] DILG Secretary Juanito Victor C. Remulla** (asr-002620)  
 So, there are a lot of disqualificatory factors that come into the selection of policemen.
 
-**[02:33:51.710] Senator Sherwin "Win" T. Gatchalian** (asr-002621)  
+**[02:33:51.710] Senate President Sherwin "Win" T. Gatchalian** (asr-002621)  
 Narirecruit na hindi galing ng PNPA, yung mga criminology graduates or graduates of other courses.
 
-**[02:33:58.790] Senator Sherwin "Win" T. Gatchalian** (asr-002622)  
+**[02:33:58.790] Senate President Sherwin "Win" T. Gatchalian** (asr-002622)  
 Pagpasok nila, tinitrain ng PNPA.
 
-**[02:34:01.910] Senator Sherwin "Win" T. Gatchalian** (asr-002623)  
+**[02:34:01.910] Senate President Sherwin "Win" T. Gatchalian** (asr-002623)  
 And those amounts, yung budget...
 
-**[02:34:03.950] Senator Sherwin "Win" T. Gatchalian** (asr-002624)  
+**[02:34:03.950] Senate President Sherwin "Win" T. Gatchalian** (asr-002624)  
 Yung budget para sa training, it's already here in our...
 
 **[02:34:07.070] DILG Secretary Juanito Victor C. Remulla** (asr-002625)  
 Yes, sir. In every region, there is a COTA and then they are trained in the region before they are dispatched and sworn in as policemen.
 
-**[02:34:13.870] Senator Sherwin "Win" T. Gatchalian** (asr-002626)  
+**[02:34:13.870] Senate President Sherwin "Win" T. Gatchalian** (asr-002626)  
 I do agree, no, that we need to be meticulous in recruitment.
 
-**[02:34:17.590] Senator Sherwin "Win" T. Gatchalian** (asr-002627)  
+**[02:34:17.590] Senate President Sherwin "Win" T. Gatchalian** (asr-002627)  
 Dahil nga mabigat yung temptation, very sensitive yung trabaho, of course, may dala silang armas.
 
 **[02:34:24.010] DILG Secretary Juanito Victor C. Remulla** (asr-002628)  
 Yes.
 
-**[02:34:24.390] Senator Sherwin "Win" T. Gatchalian** (asr-002629)  
+**[02:34:24.390] Senate President Sherwin "Win" T. Gatchalian** (asr-002629)  
 So, hindi naman natin pwedeng kung sino-sino lang bibigyan ng armas. Dahil yung pag-carry ng armas, responsibility na rin yun.
 
 **[02:34:30.930] DILG Secretary Juanito Victor C. Remulla** (asr-002630)  
@@ -7759,61 +7759,61 @@ So, ayun na rin. That is, we go back to...
 **[02:35:03.950] DILG Secretary Juanito Victor C. Remulla** (asr-002636)  
 We cannot belabor the point too much, but it is true that if we recruit sub-quality policemen, they end up in the other side of the law.
 
-**[02:35:11.590] Senator Sherwin "Win" T. Gatchalian** (asr-002637)  
+**[02:35:11.590] Senate President Sherwin "Win" T. Gatchalian** (asr-002637)  
 Thank you for that, Secretary.
 
-**[02:35:12.930] Senator Sherwin "Win" T. Gatchalian** (asr-002638)  
+**[02:35:12.930] Senate President Sherwin "Win" T. Gatchalian** (asr-002638)  
 Secretary, I'll jump to another topic.
 
-**[02:35:15.230] Senator Sherwin "Win" T. Gatchalian** (asr-002639)  
+**[02:35:15.230] Senate President Sherwin "Win" T. Gatchalian** (asr-002639)  
 I know that peace and order is very important. Public safety is important.
 
-**[02:35:21.170] Senator Sherwin "Win" T. Gatchalian** (asr-002640)  
+**[02:35:21.170] Senate President Sherwin "Win" T. Gatchalian** (asr-002640)  
 But we also transferred another important agency, yung ECCD, sa inyo.
 
-**[02:35:26.670] Senator Sherwin "Win" T. Gatchalian** (asr-002641)  
+**[02:35:26.670] Senate President Sherwin "Win" T. Gatchalian** (asr-002641)  
 Because we discussed this last time, na under the new law, ang mga local governments na ngayon,
 
-**[02:35:33.950] Senator Sherwin "Win" T. Gatchalian** (asr-002642)  
+**[02:35:33.950] Senate President Sherwin "Win" T. Gatchalian** (asr-002642)  
 ang in-charge ng early childhood care and development.
 
-**[02:35:37.350] Senator Sherwin "Win" T. Gatchalian** (asr-002643)  
+**[02:35:37.350] Senate President Sherwin "Win" T. Gatchalian** (asr-002643)  
 Dahil alam nyo naman, dahil former governor kayo, na ang nagpapasweldo ng daycare teachers, mga LGUs,
 
-**[02:35:44.290] Senator Sherwin "Win" T. Gatchalian** (asr-002644)  
+**[02:35:44.290] Senate President Sherwin "Win" T. Gatchalian** (asr-002644)  
 ang nagbabayad ng kuryente ng mga daycare, mga LGUs.
 
-**[02:35:47.190] Senator Sherwin "Win" T. Gatchalian** (asr-002645)  
+**[02:35:47.190] Senate President Sherwin "Win" T. Gatchalian** (asr-002645)  
 So, that's why we transferred it to the DALG para ma-push yung mga LGUs to take ECCD seriously.
 
-**[02:35:57.590] Senator Sherwin "Win" T. Gatchalian** (asr-002646)  
+**[02:35:57.590] Senate President Sherwin "Win" T. Gatchalian** (asr-002646)  
 And we thank the department for issuing the IRR last August 5.
 
-**[02:36:03.950] Senator Sherwin "Win" T. Gatchalian** (asr-002647)  
+**[02:36:03.950] Senate President Sherwin "Win" T. Gatchalian** (asr-002647)  
 But on the ground, Secretary, and I'm just putting this on the table, just to flag the department,
 
-**[02:36:12.790] Senator Sherwin "Win" T. Gatchalian** (asr-002648)  
+**[02:36:12.790] Senate President Sherwin "Win" T. Gatchalian** (asr-002648)  
 na hindi pa lahat ng LGUs ay nabibigyan ng instructions, maybe through a memorandum circular or a DALG circular,
 
-**[02:36:22.250] Senator Sherwin "Win" T. Gatchalian** (asr-002649)  
+**[02:36:22.250] Senate President Sherwin "Win" T. Gatchalian** (asr-002649)  
 to operationalize the law on the ground.
 
-**[02:36:24.590] Senator Sherwin "Win" T. Gatchalian** (asr-002650)  
+**[02:36:24.590] Senate President Sherwin "Win" T. Gatchalian** (asr-002650)  
 I'll give you a case in point.
 
-**[02:36:27.010] Senator Sherwin "Win" T. Gatchalian** (asr-002651)  
+**[02:36:27.010] Senate President Sherwin "Win" T. Gatchalian** (asr-002651)  
 Under the law, kasi he has to create a separate office for early childhood care.
 
-**[02:36:32.390] Senator Sherwin "Win" T. Gatchalian** (asr-002652)  
+**[02:36:32.390] Senate President Sherwin "Win" T. Gatchalian** (asr-002652)  
 So, hindi pa yung nakakreate.
 
-**[02:36:33.950] Senator Sherwin "Win" T. Gatchalian** (asr-002653)  
+**[02:36:33.950] Senate President Sherwin "Win" T. Gatchalian** (asr-002653)  
 Of course, yung mga plantelia items rin, for child development workers, child development teachers, hindi pa rin nakakreate.
 
-**[02:36:42.470] Senator Sherwin "Win" T. Gatchalian** (asr-002654)  
+**[02:36:42.470] Senate President Sherwin "Win" T. Gatchalian** (asr-002654)  
 So, I just want to flag the department.
 
-**[02:36:45.590] Senator Sherwin "Win" T. Gatchalian** (asr-002655)  
+**[02:36:45.590] Senate President Sherwin "Win" T. Gatchalian** (asr-002655)  
 Nandiyan na yung IRR, but to mobilize the LGUs, yun na lang ang nagkukulang.
 
 **[02:36:50.510] DILG Secretary Juanito Victor C. Remulla** (asr-002656)  
@@ -7825,31 +7825,31 @@ Noted, sir.
 **[02:36:52.330] DILG Secretary Juanito Victor C. Remulla** (asr-002658)  
 And we will exert all efforts to complete it, sir.
 
-**[02:36:56.910] Senator Sherwin "Win" T. Gatchalian** (asr-002659)  
+**[02:36:56.910] Senate President Sherwin "Win" T. Gatchalian** (asr-002659)  
 Next year, I noted also that the target is quite ambitious.
 
-**[02:37:02.470] Senator Sherwin "Win" T. Gatchalian** (asr-002660)  
+**[02:37:02.470] Senate President Sherwin "Win" T. Gatchalian** (asr-002660)  
 Yes.
 
-**[02:37:03.950] Senator Sherwin "Win" T. Gatchalian** (asr-002661)  
+**[02:37:03.950] Senate President Sherwin "Win" T. Gatchalian** (asr-002661)  
 Right now, ang ating participation rate na sa 33%.
 
-**[02:37:07.210] Senator Sherwin "Win" T. Gatchalian** (asr-002662)  
+**[02:37:07.210] Senate President Sherwin "Win" T. Gatchalian** (asr-002662)  
 For 2027, it's 40%.
 
-**[02:37:09.730] Senator Sherwin "Win" T. Gatchalian** (asr-002663)  
+**[02:37:09.730] Senate President Sherwin "Win" T. Gatchalian** (asr-002663)  
 So, I support that, of course.
 
-**[02:37:11.890] Senator Sherwin "Win" T. Gatchalian** (asr-002664)  
+**[02:37:11.890] Senate President Sherwin "Win" T. Gatchalian** (asr-002664)  
 The more mga bata, 3-4 year olds pumapasok, the better.
 
-**[02:37:16.970] Senator Sherwin "Win" T. Gatchalian** (asr-002665)  
+**[02:37:16.970] Senate President Sherwin "Win" T. Gatchalian** (asr-002665)  
 That's why it's about time to mobilize the LGUs.
 
-**[02:37:19.610] Senator Sherwin "Win" T. Gatchalian** (asr-002666)  
+**[02:37:19.610] Senate President Sherwin "Win" T. Gatchalian** (asr-002666)  
 And I think, being a former governor, alin yun naman kung paano mag-mobilize ng mga LGUs.
 
-**[02:37:25.410] Senator Sherwin "Win" T. Gatchalian** (asr-002667)  
+**[02:37:25.410] Senate President Sherwin "Win" T. Gatchalian** (asr-002667)  
 Yeah.
 
 **[02:37:26.910] DILG Secretary Juanito Victor C. Remulla** (asr-002668)  
@@ -7882,67 +7882,67 @@ This company to make meals ready to eat packets that just need to be heated.
 **[02:38:08.890] DILG Secretary Juanito Victor C. Remulla** (asr-002677)  
 Then the nutritional value will be more efficiently distributed to the children at a lower cost than to cook it manually over the 42,000 marangays in the country.
 
-**[02:38:20.490] Senator Sherwin "Win" T. Gatchalian** (asr-002678)  
+**[02:38:20.490] Senate President Sherwin "Win" T. Gatchalian** (asr-002678)  
 It's also part of the ECCD law.
 
-**[02:38:22.810] Senator Sherwin "Win" T. Gatchalian** (asr-002679)  
+**[02:38:22.810] Senate President Sherwin "Win" T. Gatchalian** (asr-002679)  
 So, ang kulang lang, Secretary, is a memorandum circular to all the LGUs on implementing the law and also operationalizing the law on the ground.
 
-**[02:38:33.950] Senator Sherwin "Win" T. Gatchalian** (asr-002680)  
+**[02:38:33.950] Senate President Sherwin "Win" T. Gatchalian** (asr-002680)  
 I think makikita natin malaking pagbabago na sa delivery ng early childhood education.
 
 **[02:38:39.530] DILG Secretary Juanito Victor C. Remulla** (asr-002681)  
 I agree, sir. We will have an MCA regarding this.
 
-**[02:38:42.090] Senator Sherwin "Win" T. Gatchalian** (asr-002682)  
+**[02:38:42.090] Senate President Sherwin "Win" T. Gatchalian** (asr-002682)  
 Thank you. Thank you.
 
-**[02:38:42.750] Senator Sherwin "Win" T. Gatchalian** (asr-002683)  
+**[02:38:42.750] Senate President Sherwin "Win" T. Gatchalian** (asr-002683)  
 And lastly, Mr. Chairman, medyo nagugulat lang ako dun sa mga naririnig ko about BFP.
 
-**[02:38:50.650] Senator Sherwin "Win" T. Gatchalian** (asr-002684)  
+**[02:38:50.650] Senate President Sherwin "Win" T. Gatchalian** (asr-002684)  
 Dati, ang naririnig lang natin, nagbebenta ng fire extinguisher.
 
-**[02:38:56.270] Senator Sherwin "Win" T. Gatchalian** (asr-002685)  
+**[02:38:56.270] Senate President Sherwin "Win" T. Gatchalian** (asr-002685)  
 Ngayon, pati yung slots binibenta.
 
-**[02:38:58.570] Senator Sherwin "Win" T. Gatchalian** (asr-002686)  
+**[02:38:58.570] Senate President Sherwin "Win" T. Gatchalian** (asr-002686)  
 Kanina, nabanggit nyo yung bid rigging.
 
-**[02:39:03.190] Senator Sherwin "Win" T. Gatchalian** (asr-002687)  
+**[02:39:03.190] Senate President Sherwin "Win" T. Gatchalian** (asr-002687)  
 No, mayroon pang...
 
-**[02:39:03.790] Senator Sherwin "Win" T. Gatchalian** (asr-002688)  
+**[02:39:03.790] Senate President Sherwin "Win" T. Gatchalian** (asr-002688)  
 Mayroon pang SOP.
 
-**[02:39:05.070] Senator Sherwin "Win" T. Gatchalian** (asr-002689)  
+**[02:39:05.070] Senate President Sherwin "Win" T. Gatchalian** (asr-002689)  
 And I'm very concerned with that.
 
-**[02:39:07.310] Senator Sherwin "Win" T. Gatchalian** (asr-002690)  
+**[02:39:07.310] Senate President Sherwin "Win" T. Gatchalian** (asr-002690)  
 And that's why when you shaked up the BFP, the department, talagang kailangan na talaga.
 
-**[02:39:15.730] Senator Sherwin "Win" T. Gatchalian** (asr-002691)  
+**[02:39:15.730] Senate President Sherwin "Win" T. Gatchalian** (asr-002691)  
 It's about time.
 
-**[02:39:16.550] Senator Sherwin "Win" T. Gatchalian** (asr-002692)  
+**[02:39:16.550] Senate President Sherwin "Win" T. Gatchalian** (asr-002692)  
 And I can see that we have a new chief, a new leader.
 
-**[02:39:22.890] Senator Sherwin "Win" T. Gatchalian** (asr-002693)  
+**[02:39:22.890] Senate President Sherwin "Win" T. Gatchalian** (asr-002693)  
 Nakatrabaho ko po si fire chief sa...
 
-**[02:39:24.950] Senator Sherwin "Win" T. Gatchalian** (asr-002694)  
+**[02:39:24.950] Senate President Sherwin "Win" T. Gatchalian** (asr-002694)  
 Not me, but si Secretary Rex when he was a mayor.
 
-**[02:39:29.310] Senator Sherwin "Win" T. Gatchalian** (asr-002695)  
+**[02:39:29.310] Senate President Sherwin "Win" T. Gatchalian** (asr-002695)  
 So, nakita ko na he was a very effective fire chief when he was in Valenzuela.
 
-**[02:39:33.790] Senator Sherwin "Win" T. Gatchalian** (asr-002696)  
+**[02:39:33.790] Senate President Sherwin "Win" T. Gatchalian** (asr-002696)  
 So, I hope, Fire Chief Kwan Tiu, matigil na itong mga corrupt practices in the department.
 
-**[02:39:41.870] Senator Sherwin "Win" T. Gatchalian** (asr-002697)  
+**[02:39:41.870] Senate President Sherwin "Win" T. Gatchalian** (asr-002697)  
 Nakakagulat eh, nung I heard earlier, na all the way to bid rigging and slot selling, hindi na maganda.
 
-**[02:39:51.630] Senator Sherwin "Win" T. Gatchalian** (asr-002698)  
+**[02:39:51.630] Senate President Sherwin "Win" T. Gatchalian** (asr-002698)  
 So, I hope that massive reforms will be undertaken in order to clean up the BFP.
 
 **[02:39:59.030] DILG Secretary Juanito Victor C. Remulla** (asr-002699)  
@@ -7975,76 +7975,76 @@ Thank you, Fire Marshals, today.
 **[02:40:34.850] DILG Secretary Juanito Victor C. Remulla** (asr-002708)  
 And we will follow up and make sure that they comply.
 
-**[02:40:38.090] Senator Panfilo Lacson** (asr-002709)  
+**[02:40:38.090] Senator Panfilo "Ping" M. Lacson** (asr-002709)  
 Thank you, Secretary.
 
 **[02:40:38.730] DILG Secretary Juanito Victor C. Remulla** (asr-002710)  
 Thank you, Mr. Chairman.
 
-**[02:40:39.910] Senator Panfilo Lacson** (asr-002711)  
+**[02:40:39.910] Senator Panfilo "Ping" M. Lacson** (asr-002711)  
 Thank you.
 
-**[02:40:40.970] Senator Panfilo Lacson** (asr-002712)  
+**[02:40:40.970] Senator Panfilo "Ping" M. Lacson** (asr-002712)  
 One of my advocacies, pagka-budget ng pigusapan, and this is one of your mandates,
 
-**[02:40:46.610] Senator Panfilo Lacson** (asr-002713)  
+**[02:40:46.610] Senator Panfilo "Ping" M. Lacson** (asr-002713)  
 is to ensure the alignment of LGU plans with the national priorities.
 
-**[02:40:52.750] Senator Panfilo Lacson** (asr-002714)  
+**[02:40:52.750] Senator Panfilo "Ping" M. Lacson** (asr-002714)  
 Kasi ang...
 
-**[02:40:55.350] Senator Panfilo Lacson** (asr-002715)  
+**[02:40:55.350] Senator Panfilo "Ping" M. Lacson** (asr-002715)  
 In fact, may budget po ito eh, 206 million pesos sa 2027.
 
-**[02:41:00.610] Senator Panfilo Lacson** (asr-002716)  
+**[02:41:00.610] Senator Panfilo "Ping" M. Lacson** (asr-002716)  
 Yun yung support for local governance program.
 
-**[02:41:03.790] Senator Panfilo Lacson** (asr-002717)  
+**[02:41:03.790] Senator Panfilo "Ping" M. Lacson** (asr-002717)  
 Kasi yung pre-mandanas, ang share ng local government, yung RDC-endorsed PAPs,
 
-**[02:41:12.330] Senator Panfilo Lacson** (asr-002718)  
+**[02:41:12.330] Senator Panfilo "Ping" M. Lacson** (asr-002718)  
 nasa mga 20% lang.
 
-**[02:41:14.230] Senator Panfilo Lacson** (asr-002719)  
+**[02:41:14.230] Senator Panfilo "Ping" M. Lacson** (asr-002719)  
 Ito lagi kong pinapoint out every time meron kaming plenary deliberation, especially sa DBCC.
 
-**[02:41:20.590] Senator Panfilo Lacson** (asr-002720)  
+**[02:41:20.590] Senator Panfilo "Ping" M. Lacson** (asr-002720)  
 Bakit yanon?
 
-**[02:41:21.870] Senator Panfilo Lacson** (asr-002721)  
+**[02:41:21.870] Senator Panfilo "Ping" M. Lacson** (asr-002721)  
 Ang core dapat ng budgeting system natin, sa labas eh, di ba?
 
-**[02:41:28.570] Senator Panfilo Lacson** (asr-002722)  
+**[02:41:28.570] Senator Panfilo "Ping" M. Lacson** (asr-002722)  
 Pero 20%.
 
-**[02:41:29.570] Senator Panfilo Lacson** (asr-002723)  
+**[02:41:29.570] Senator Panfilo "Ping" M. Lacson** (asr-002723)  
 Now it has improved to something like 35%, pero kulang pa rin.
 
-**[02:41:33.790] Senator Panfilo Lacson** (asr-002724)  
+**[02:41:33.790] Senator Panfilo "Ping" M. Lacson** (asr-002724)  
 Kasi yung first, yung synchronization ng preparation of the local government plans,
 
-**[02:41:43.830] Senator Panfilo Lacson** (asr-002725)  
+**[02:41:43.830] Senator Panfilo "Ping" M. Lacson** (asr-002725)  
 ng mga local government councils, hindi ito in sync with the budget call, yung timing.
 
-**[02:41:50.670] Senator Panfilo Lacson** (asr-002726)  
+**[02:41:50.670] Senator Panfilo "Ping" M. Lacson** (asr-002726)  
 Nagbabudget call tayo, yung start ng process siguro mga January, February.
 
-**[02:41:56.690] Senator Panfilo Lacson** (asr-002727)  
+**[02:41:56.690] Senator Panfilo "Ping" M. Lacson** (asr-002727)  
 Pero halos October na, hindi pa tapos yung deliberation sa mga local development councils.
 
-**[02:42:02.990] Senator Panfilo Lacson** (asr-002728)  
+**[02:42:02.990] Senator Panfilo "Ping" M. Lacson** (asr-002728)  
 So,
 
-**[02:42:03.790] Senator Panfilo Lacson** (asr-002729)  
+**[02:42:03.790] Senator Panfilo "Ping" M. Lacson** (asr-002729)  
 how do we, at least, you know,
 
-**[02:42:07.610] Senator Panfilo Lacson** (asr-002730)  
+**[02:42:07.610] Senator Panfilo "Ping" M. Lacson** (asr-002730)  
 i-synchronize yung timing man lang
 
-**[02:42:10.270] Senator Panfilo Lacson** (asr-002731)  
+**[02:42:10.270] Senator Panfilo "Ping" M. Lacson** (asr-002731)  
 para tumaas yung percentage ng RDC-endorsed PAPs
 
-**[02:42:15.990] Senator Panfilo Lacson** (asr-002732)  
+**[02:42:15.990] Senator Panfilo "Ping" M. Lacson** (asr-002732)  
 doon sa pag-craft ng national budget?
 
 **[02:42:22.050] DILG Secretary Juanito Victor C. Remulla** (asr-002733)  
@@ -8119,193 +8119,193 @@ and they should be,
 **[02:43:31.650] DILG Secretary Juanito Victor C. Remulla** (asr-002756)  
 and senators should be part of it.
 
-**[02:43:32.810] Senator Panfilo Lacson** (asr-002757)  
+**[02:43:32.810] Senator Panfilo "Ping" M. Lacson** (asr-002757)  
 But they are part of the municipal, provincial,
 
-**[02:43:35.870] Senator Panfilo Lacson** (asr-002758)  
+**[02:43:35.870] Senator Panfilo "Ping" M. Lacson** (asr-002758)  
 and development councils.
 
-**[02:43:37.510] Senator Panfilo Lacson** (asr-002759)  
+**[02:43:37.510] Senator Panfilo "Ping" M. Lacson** (asr-002759)  
 They can participate
 
-**[02:43:38.470] Senator Panfilo Lacson** (asr-002760)  
+**[02:43:38.470] Senator Panfilo "Ping" M. Lacson** (asr-002760)  
 during the deliberation of the local government plans.
 
 **[02:43:42.450] DILG Secretary Juanito Victor C. Remulla** (asr-002761)  
 Yes, sir.
 
-**[02:43:42.770] Senator Panfilo Lacson** (asr-002762)  
+**[02:43:42.770] Senator Panfilo "Ping" M. Lacson** (asr-002762)  
 Members na eh.
 
-**[02:43:43.810] Senator Panfilo Lacson** (asr-002763)  
+**[02:43:43.810] Senator Panfilo "Ping" M. Lacson** (asr-002763)  
 Even sa barangay level,
 
-**[02:43:45.850] Senator Panfilo Lacson** (asr-002764)  
+**[02:43:45.850] Senator Panfilo "Ping" M. Lacson** (asr-002764)  
 they can send their own representatives, di ba?
 
-**[02:43:47.690] Senator Panfilo Lacson** (asr-002765)  
+**[02:43:47.690] Senator Panfilo "Ping" M. Lacson** (asr-002765)  
 Yes, yes, sir.
 
-**[02:43:48.590] Senator Panfilo Lacson** (asr-002766)  
+**[02:43:48.590] Senator Panfilo "Ping" M. Lacson** (asr-002766)  
 Mayor,
 
-**[02:43:50.090] Senator Panfilo Lacson** (asr-002767)  
+**[02:43:50.090] Senator Panfilo "Ping" M. Lacson** (asr-002767)  
 Mabilog, yes.
 
-**[02:43:51.890] Senator Panfilo Lacson** (asr-002768)  
+**[02:43:51.890] Senator Panfilo "Ping" M. Lacson** (asr-002768)  
 Yeah, Mabilog, Jed.
 
-**[02:43:53.190] Senator Panfilo Lacson** (asr-002769)  
+**[02:43:53.190] Senator Panfilo "Ping" M. Lacson** (asr-002769)  
 Yes.
 
-**[02:43:53.830] Senator Panfilo Lacson** (asr-002770)  
+**[02:43:53.830] Senator Panfilo "Ping" M. Lacson** (asr-002770)  
 So, hindi na pa-practice.
 
-**[02:43:55.150] Senator Panfilo Lacson** (asr-002771)  
+**[02:43:55.150] Senator Panfilo "Ping" M. Lacson** (asr-002771)  
 Why?
 
-**[02:43:55.430] Senator Panfilo Lacson** (asr-002772)  
+**[02:43:55.430] Senator Panfilo "Ping" M. Lacson** (asr-002772)  
 Because ang mindset ng congressmen,
 
-**[02:43:58.490] Senator Panfilo Lacson** (asr-002773)  
+**[02:43:58.490] Senator Panfilo "Ping" M. Lacson** (asr-002773)  
 ba't kami makipag-debate sa inyo dyan?
 
 **[02:44:00.850] DILG Secretary Juanito Victor C. Remulla** (asr-002774)  
 Exactly, sir.
 
-**[02:44:01.450] Senator Panfilo Lacson** (asr-002775)  
+**[02:44:01.450] Senator Panfilo "Ping" M. Lacson** (asr-002775)  
 Eh, pagdating sa amin, kami yung hari.
 
 **[02:44:03.230] DILG Secretary Juanito Victor C. Remulla** (asr-002776)  
 Yes, sir.
 
-**[02:44:04.050] Senator Panfilo Lacson** (asr-002777)  
+**[02:44:04.050] Senator Panfilo "Ping" M. Lacson** (asr-002777)  
 Pumilak.
 
-**[02:44:04.790] Senator Panfilo Lacson** (asr-002778)  
+**[02:44:04.790] Senator Panfilo "Ping" M. Lacson** (asr-002778)  
 And that's the reason why,
 
-**[02:44:05.870] Senator Panfilo Lacson** (asr-002779)  
+**[02:44:05.870] Senator Panfilo "Ping" M. Lacson** (asr-002779)  
 pagka-budget season,
 
-**[02:44:08.330] Senator Panfilo Lacson** (asr-002780)  
+**[02:44:08.330] Senator Panfilo "Ping" M. Lacson** (asr-002780)  
 laging puno yung hallway namin dito.
 
-**[02:44:10.190] Senator Panfilo Lacson** (asr-002781)  
+**[02:44:10.190] Senator Panfilo "Ping" M. Lacson** (asr-002781)  
 Puno yung hallway sa batasan.
 
-**[02:44:13.470] Senator Panfilo Lacson** (asr-002782)  
+**[02:44:13.470] Senator Panfilo "Ping" M. Lacson** (asr-002782)  
 May mga folders lahat yung mga local government executives.
 
-**[02:44:16.950] Senator Panfilo Lacson** (asr-002783)  
+**[02:44:16.950] Senator Panfilo "Ping" M. Lacson** (asr-002783)  
 Namamalimos.
 
-**[02:44:18.250] Senator Panfilo Lacson** (asr-002784)  
+**[02:44:18.250] Senator Panfilo "Ping" M. Lacson** (asr-002784)  
 That's right, sir.
 
-**[02:44:18.730] Senator Panfilo Lacson** (asr-002785)  
+**[02:44:18.730] Senator Panfilo "Ping" M. Lacson** (asr-002785)  
 Well, in fact, dapat,
 
-**[02:44:20.290] Senator Panfilo Lacson** (asr-002786)  
+**[02:44:20.290] Senator Panfilo "Ping" M. Lacson** (asr-002786)  
 kung tataasan natin yung percentage share
 
-**[02:44:22.810] Senator Panfilo Lacson** (asr-002787)  
+**[02:44:22.810] Senator Panfilo "Ping" M. Lacson** (asr-002787)  
 ng endorsed ng RDC
 
-**[02:44:24.850] Senator Panfilo Lacson** (asr-002788)  
+**[02:44:24.850] Senator Panfilo "Ping" M. Lacson** (asr-002788)  
 from the local government councils,
 
-**[02:44:27.470] Senator Panfilo Lacson** (asr-002789)  
+**[02:44:27.470] Senator Panfilo "Ping" M. Lacson** (asr-002789)  
 mawawala na yun eh.
 
-**[02:44:28.310] Senator Panfilo Lacson** (asr-002790)  
+**[02:44:28.310] Senator Panfilo "Ping" M. Lacson** (asr-002790)  
 Kasi kung i-adapt sa national budget yung kanilang...
 
-**[02:44:30.970] Senator Panfilo Lacson** (asr-002791)  
+**[02:44:30.970] Senator Panfilo "Ping" M. Lacson** (asr-002791)  
 But, you know,
 
-**[02:44:32.070] Senator Panfilo Lacson** (asr-002792)  
+**[02:44:32.070] Senator Panfilo "Ping" M. Lacson** (asr-002792)  
 ang aking argument dito is,
 
-**[02:44:33.570] Senator Panfilo Lacson** (asr-002793)  
+**[02:44:33.570] Senator Panfilo "Ping" M. Lacson** (asr-002793)  
 who would know better
 
-**[02:44:35.870] Senator Panfilo Lacson** (asr-002794)  
+**[02:44:35.870] Senator Panfilo "Ping" M. Lacson** (asr-002794)  
 the needs and priorities
 
-**[02:44:37.870] Senator Panfilo Lacson** (asr-002795)  
+**[02:44:37.870] Senator Panfilo "Ping" M. Lacson** (asr-002795)  
 of the local government units,
 
-**[02:44:40.870] Senator Panfilo Lacson** (asr-002796)  
+**[02:44:40.870] Senator Panfilo "Ping" M. Lacson** (asr-002796)  
 di ba yung local government officials?
 
 **[02:44:42.870] DILG Secretary Juanito Victor C. Remulla** (asr-002797)  
 I totally agree, sir.
 
-**[02:44:44.870] Senator Panfilo Lacson** (asr-002798)  
+**[02:44:44.870] Senator Panfilo "Ping" M. Lacson** (asr-002798)  
 Pagdating sa crafting ng budget,
 
-**[02:44:46.870] Senator Panfilo Lacson** (asr-002799)  
+**[02:44:46.870] Senator Panfilo "Ping" M. Lacson** (asr-002799)  
 ang laki ng disconnect, no?
 
-**[02:44:47.870] Senator Panfilo Lacson** (asr-002800)  
+**[02:44:47.870] Senator Panfilo "Ping" M. Lacson** (asr-002800)  
 Yes, sir.
 
-**[02:44:48.370] Senator Panfilo Lacson** (asr-002801)  
+**[02:44:48.370] Senator Panfilo "Ping" M. Lacson** (asr-002801)  
 Bigaw na eh.
 
 **[02:44:49.370] DILG Secretary Juanito Victor C. Remulla** (asr-002802)  
 Yes, sir.
 
-**[02:44:50.370] Senator Panfilo Lacson** (asr-002803)  
+**[02:44:50.370] Senator Panfilo "Ping" M. Lacson** (asr-002803)  
 Hindi alam naman ng senators and congressmen
 
-**[02:44:53.370] Senator Panfilo Lacson** (asr-002804)  
+**[02:44:53.370] Senator Panfilo "Ping" M. Lacson** (asr-002804)  
 yung needs and priorities.
 
-**[02:44:54.370] Senator Panfilo Lacson** (asr-002805)  
+**[02:44:54.370] Senator Panfilo "Ping" M. Lacson** (asr-002805)  
 Anong nangyayari pa?
 
-**[02:44:55.870] Senator Panfilo Lacson** (asr-002806)  
+**[02:44:55.870] Senator Panfilo "Ping" M. Lacson** (asr-002806)  
 They don't even,
 
-**[02:44:56.870] Senator Panfilo Lacson** (asr-002807)  
+**[02:44:56.870] Senator Panfilo "Ping" M. Lacson** (asr-002807)  
 when they make,
 
-**[02:44:57.870] Senator Panfilo Lacson** (asr-002808)  
+**[02:44:57.870] Senator Panfilo "Ping" M. Lacson** (asr-002808)  
 or we,
 
-**[02:44:58.870] Senator Panfilo Lacson** (asr-002809)  
+**[02:44:58.870] Senator Panfilo "Ping" M. Lacson** (asr-002809)  
 when we make insertion,
 
-**[02:45:00.000] Senator Panfilo Lacson** (asr-002821)  
+**[02:45:00.000] Senator Panfilo "Ping" M. Lacson** (asr-002821)  
 We don't even coordinate or consult with the local government officials and the agencies that will implement the PAPs.
 
-**[02:45:11.360] Senator Panfilo Lacson** (asr-002822)  
+**[02:45:11.360] Senator Panfilo "Ping" M. Lacson** (asr-002822)  
 You know, problema.
 
-**[02:45:12.100] Senator Panfilo Lacson** (asr-002823)  
+**[02:45:12.100] Senator Panfilo "Ping" M. Lacson** (asr-002823)  
 So I think it's about time.
 
-**[02:45:14.820] Senator Panfilo Lacson** (asr-002824)  
+**[02:45:14.820] Senator Panfilo "Ping" M. Lacson** (asr-002824)  
 Kasi, you know, I'm happy na during the campaign, the President issued EO82, diba?
 
-**[02:45:21.260] Senator Panfilo Lacson** (asr-002825)  
+**[02:45:21.260] Senator Panfilo "Ping" M. Lacson** (asr-002825)  
 Ito yung enhancing the Regional Development Council.
 
-**[02:45:25.120] Senator Panfilo Lacson** (asr-002826)  
+**[02:45:25.120] Senator Panfilo "Ping" M. Lacson** (asr-002826)  
 In fact, when he was joining our campaign, laging meron siyang extra activity with the RDC.
 
-**[02:45:33.080] Senator Panfilo Lacson** (asr-002827)  
+**[02:45:33.080] Senator Panfilo "Ping" M. Lacson** (asr-002827)  
 Laging kasama sa ano yan, sa kanyang itinerary.
 
-**[02:45:37.800] Senator Panfilo Lacson** (asr-002828)  
+**[02:45:37.800] Senator Panfilo "Ping" M. Lacson** (asr-002828)  
 Kaya misa nadidelay yung rally because nanggagaling pa siya sa RDC meetings.
 
-**[02:45:43.100] Senator Panfilo Lacson** (asr-002829)  
+**[02:45:43.100] Senator Panfilo "Ping" M. Lacson** (asr-002829)  
 So, but how can we translate that into actual practice?
 
-**[02:45:49.110] Senator Panfilo Lacson** (asr-002830)  
+**[02:45:49.110] Senator Panfilo "Ping" M. Lacson** (asr-002830)  
 How can you fight batasan and how can you fight?
 
 **[02:45:52.950] DILG Secretary Juanito Victor C. Remulla** (asr-002831)  
@@ -8341,19 +8341,19 @@ Local government units and they find great comfort that finally Malacanang is li
 **[02:46:33.350] DILG Secretary Juanito Victor C. Remulla** (asr-002841)  
 So, I think enhancing the LGSF is one of the great equalizing factors in order for these projects and to be aligned with the national project, sir.
 
-**[02:46:43.050] Senator Panfilo Lacson** (asr-002842)  
+**[02:46:43.050] Senator Panfilo "Ping" M. Lacson** (asr-002842)  
 Some numbers here, no?
 
-**[02:46:44.950] Senator Panfilo Lacson** (asr-002843)  
+**[02:46:44.950] Senator Panfilo "Ping" M. Lacson** (asr-002843)  
 Yung 2025, 22.9 billion LGSF.
 
-**[02:46:50.530] Senator Panfilo Lacson** (asr-002844)  
+**[02:46:50.530] Senator Panfilo "Ping" M. Lacson** (asr-002844)  
 Nag-spike ito dramatically sa 57.87 billion in 2026.
 
-**[02:46:56.430] Senator Panfilo Lacson** (asr-002845)  
+**[02:46:56.430] Senator Panfilo "Ping" M. Lacson** (asr-002845)  
 Sa 2027 NEP, 58.53 billion.
 
-**[02:47:00.150] Senator Panfilo Lacson** (asr-002846)  
+**[02:47:00.150] Senator Panfilo "Ping" M. Lacson** (asr-002846)  
 So, tumataas talaga yung local government support fund.
 
 **[02:47:06.350] DILG Secretary Juanito Victor C. Remulla** (asr-002847)  
@@ -8368,10 +8368,10 @@ Unlike today, sir, the 58 billion goes directly to the local government.
 **[02:47:26.430] DILG Secretary Juanito Victor C. Remulla** (asr-002850)  
 So, there is now a greater connection between the local government units and the national governments.
 
-**[02:47:34.320] Senator Panfilo Lacson** (asr-002851)  
+**[02:47:34.320] Senator Panfilo "Ping" M. Lacson** (asr-002851)  
 Tanong ko lang, did you wrestle with the congressmen when you...
 
-**[02:47:39.200] Senator Panfilo Lacson** (asr-002852)  
+**[02:47:39.200] Senator Panfilo "Ping" M. Lacson** (asr-002852)  
 During your budget deliberation?
 
 **[02:47:41.440] DILG Secretary Juanito Victor C. Remulla** (asr-002853)  
@@ -8383,7 +8383,7 @@ It was not an issue.
 **[02:47:46.380] DILG Secretary Juanito Victor C. Remulla** (asr-002855)  
 We finished last week, two weeks ago, and it was not an issue with them.
 
-**[02:47:51.020] Senator Panfilo Lacson** (asr-002856)  
+**[02:47:51.020] Senator Panfilo "Ping" M. Lacson** (asr-002856)  
 I'm glad to hear that, Mr. Secretary.
 
 **[02:47:56.400] Senator Joseph Victor "JV" G. Ejercito** (asr-002857)  
@@ -8434,34 +8434,34 @@ for national funding.
 **[02:49:03.440] Senator Joseph Victor "JV" G. Ejercito** (asr-002872)  
 Thank you, Mr. Chair.
 
-**[02:49:05.880] Senator Panfilo Lacson** (asr-002873)  
+**[02:49:05.880] Senator Panfilo "Ping" M. Lacson** (asr-002873)  
 Yes.
 
-**[02:49:13.340] Senator Panfilo Lacson** (asr-002876)  
+**[02:49:13.340] Senator Panfilo "Ping" M. Lacson** (asr-002876)  
 We are thinking of passing a legislation that the UHC...
 
-**[02:49:15.900] Senator Panfilo Lacson** (asr-002877)  
+**[02:49:15.900] Senator Panfilo "Ping" M. Lacson** (asr-002877)  
 this is not enough at the local level, for the universal healthcare program.
 
-**[02:49:19.460] Senator Panfilo Lacson** (asr-002878)  
+**[02:49:19.460] Senator Panfilo "Ping" M. Lacson** (asr-002878)  
 Our chairman is the champion.
 
-**[02:49:22.260] Senator Panfilo Lacson** (asr-002879)  
+**[02:49:22.260] Senator Panfilo "Ping" M. Lacson** (asr-002879)  
 He is the author of the UHC.
 
-**[02:49:25.500] Senator Panfilo Lacson** (asr-002880)  
+**[02:49:25.500] Senator Panfilo "Ping" M. Lacson** (asr-002880)  
 He is the one that sponsored it.
 
-**[02:49:27.500] Senator Panfilo Lacson** (asr-002881)  
+**[02:49:27.500] Senator Panfilo "Ping" M. Lacson** (asr-002881)  
 We are thinking of earmarking.
 
-**[02:49:28.240] Senator Panfilo Lacson** (asr-002882)  
+**[02:49:28.240] Senator Panfilo "Ping" M. Lacson** (asr-002882)  
 The DOH fund, especially in hospitals, is already earmarked by the LGUs, just like the Calamity Fund, right? It has 5%.
 
-**[02:49:35.880] Senator Panfilo Lacson** (asr-002883)  
+**[02:49:35.880] Senator Panfilo "Ping" M. Lacson** (asr-002883)  
 How about earmarking, say, 10 or 15%?
 
-**[02:49:41.760] Senator Panfilo Lacson** (asr-002884)  
+**[02:49:41.760] Senator Panfilo "Ping" M. Lacson** (asr-002884)  
 So that the national government will not know how to deploy the logistics or the support for the health programs of the LGUs.
 
 **[02:49:54.500] DILG Secretary Juanito Victor C. Remulla** (asr-002885)  
@@ -8473,37 +8473,37 @@ As it is, the setup is that the universal health care plan goes to the governmen
 **[02:50:16.160] DILG Secretary Juanito Victor C. Remulla** (asr-002887)  
 Giving it directly to the LGUs might be counterproductive, because not all LGUs have the capacity to implement.
 
-**[02:50:24.500] Senator Panfilo Lacson** (asr-002888)  
+**[02:50:24.500] Senator Panfilo "Ping" M. Lacson** (asr-002888)  
 So, thank you, Mr. Secretary, and thank you to the entire...
 
-**[02:50:39.100] Senator Panfilo Lacson** (asr-002889)  
+**[02:50:39.100] Senator Panfilo "Ping" M. Lacson** (asr-002889)  
 Anyway, support staff, in case the Secretary needs to ask, you will also ask.
 
-**[02:50:52.240] Senator Panfilo Lacson** (asr-002890)  
+**[02:50:52.240] Senator Panfilo "Ping" M. Lacson** (asr-002890)  
 But it looks like all the Secretaries know the answer, so you are not top yet.
 
-**[02:50:58.780] Senator Sherwin "Win" T. Gatchalian** (asr-002891)  
+**[02:50:58.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002891)  
 Mr. Chairman, actually, to be honest...
 
-**[02:51:02.920] Senator Sherwin "Win" T. Gatchalian** (asr-002892)  
+**[02:51:02.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002892)  
 To be honest about it, I'm not saying this because the Secretary is here, but I have a lot of respect for the Secretaries who, when it comes to the budget season, budget hearings, they are the ones who answer.
 
-**[02:51:14.800] Senator Sherwin "Win" T. Gatchalian** (asr-002893)  
+**[02:51:14.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002893)  
 It means that they know their budget.
 
-**[02:51:19.060] Senator Sherwin "Win" T. Gatchalian** (asr-002894)  
+**[02:51:19.060] Senate President Sherwin "Win" T. Gatchalian** (asr-002894)  
 Because there are many Secretaries, oh, Yusek, answer this, oh, Asek, answer this, oh, this, Director, answer this.
 
-**[02:51:25.660] Senator Sherwin "Win" T. Gatchalian** (asr-002895)  
+**[02:51:25.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002895)  
 That's your budget, you should know what your budget contains.
 
-**[02:51:28.760] Senator Sherwin "Win" T. Gatchalian** (asr-002896)  
+**[02:51:28.760] Senate President Sherwin "Win" T. Gatchalian** (asr-002896)  
 So, you should defend your budget, not Yusek, not Asek.
 
-**[02:51:32.920] Senator Sherwin "Win" T. Gatchalian** (asr-002897)  
+**[02:51:32.920] Senate President Sherwin "Win" T. Gatchalian** (asr-002897)  
 Yusek is not the Director.
 
-**[02:51:34.440] Senator Sherwin "Win" T. Gatchalian** (asr-002898)  
+**[02:51:34.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002898)  
 So, I'm not saying this because I've been in Central JB, it sounds familiar.
 
 **[02:51:39.800] Senator Joseph Victor "JV" G. Ejercito** (asr-002899)  
@@ -8566,19 +8566,19 @@ Thank you, sir.
 **[02:52:49.000] DILG Secretary Juanito Victor C. Remulla** (asr-002918)  
 Thank you very much, sir.
 
-**[02:52:49.880] Senator Panfilo Lacson** (asr-002919)  
+**[02:52:49.880] Senator Panfilo "Ping" M. Lacson** (asr-002919)  
 In the same vein, I'm now the Chairman of the Public Order Committee.
 
-**[02:52:53.880] Senator Panfilo Lacson** (asr-002920)  
+**[02:52:53.880] Senator Panfilo "Ping" M. Lacson** (asr-002920)  
 The Firearms Amendment, about the Firearms, I will attend to that.
 
-**[02:52:59.340] Senator Panfilo Lacson** (asr-002921)  
+**[02:52:59.340] Senator Panfilo "Ping" M. Lacson** (asr-002921)  
 I just need your draft of your legislative proposal.
 
 **[02:53:02.920] DILG Secretary Juanito Victor C. Remulla** (asr-002922)  
 Thank you very much, sir.
 
-**[02:53:03.920] Senator Panfilo Lacson** (asr-002923)  
+**[02:53:03.920] Senator Panfilo "Ping" M. Lacson** (asr-002923)  
 So, with that, is there a motion to approve and submit to the plenary the budget of the DILG?
 
 **[02:53:10.920] Senator Joseph Victor "JV" G. Ejercito** (asr-002924)  
@@ -8587,10 +8587,10 @@ Yes, Mr. Chair, I move that the budget of the DILG and its attached agencies be 
 **[02:53:18.380] Senator Joseph Victor "JV" G. Ejercito** (asr-002925)  
 to the plenary for discussion and for debates, further debates, Mr. Chair.
 
-**[02:53:25.440] Senator Panfilo Lacson** (asr-002926)  
+**[02:53:25.440] Senator Panfilo "Ping" M. Lacson** (asr-002926)  
 So, the motion is approved.
 
-**[02:53:26.440] Senator Panfilo Lacson** (asr-002927)  
+**[02:53:26.440] Senator Panfilo "Ping" M. Lacson** (asr-002927)  
 Thank you very much.
 
 **[02:53:27.440] DILG Secretary Juanito Victor C. Remulla** (asr-002928)  

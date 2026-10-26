@@ -96,7 +96,7 @@ Presiding Senator Joseph Victor "JV" G. Ejercito opened the FY2027 COA budget di
 
 [00:29:02 · asr-000034](https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000034) · [00:30:07 · asr-000040](https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000040) · [00:30:14 · asr-000042](https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000042) · [00:30:28 · asr-000045](https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000045) · [00:30:58 · asr-000053](https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000053) · [00:31:16 · asr-000057](https://tordecilla.github.io/budget-hearings-2026/records/37/#asr-000057)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### Fraud audits, personnel rotation and accountability measures
 

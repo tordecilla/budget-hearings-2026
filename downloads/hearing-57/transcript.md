@@ -142,13 +142,13 @@ Before calling our guests, I'd like to ask our esteemed colleagues if they have 
 **[01:01:07.980] Senator Joseph Victor "JV" G. Ejercito** (asr-000165)  
 Senator Lacson?
 
-**[01:01:08.800] Senator Panfilo Lacson** (asr-000166)  
+**[01:01:08.800] Senator Panfilo "Ping" M. Lacson** (asr-000166)  
 None, Your Honor.
 
 **[01:01:10.360] Senator Joseph Victor "JV" G. Ejercito** (asr-000167)  
 Yes, Senator Tulfo?
 
-**[01:01:12.100] Senator Erwin Tulfo** (asr-000168)  
+**[01:01:12.100] Senator Erwin T. Tulfo** (asr-000168)  
 None, Your Honor.
 
 **[01:01:13.440] Senator Joseph Victor "JV" G. Ejercito** (asr-000169)  
@@ -1750,280 +1750,280 @@ Senator Panfilo Lacson.
 **[01:25:03.100] Senator Joseph Victor "JV" G. Ejercito** (asr-000705)  
 Sir, you have the floor.
 
-**[01:25:04.340] Senator Panfilo Lacson** (asr-000706)  
+**[01:25:04.340] Senator Panfilo "Ping" M. Lacson** (asr-000706)  
 Thank you, Mr. Chairman.
 
-**[01:25:05.560] Senator Panfilo Lacson** (asr-000707)  
+**[01:25:05.560] Senator Panfilo "Ping" M. Lacson** (asr-000707)  
 I'm particularly interested
 
-**[01:25:07.120] Senator Panfilo Lacson** (asr-000708)  
+**[01:25:07.120] Senator Panfilo "Ping" M. Lacson** (asr-000708)  
 in the implementation
 
-**[01:25:09.020] Senator Panfilo Lacson** (asr-000709)  
+**[01:25:09.020] Senator Panfilo "Ping" M. Lacson** (asr-000709)  
 of the National ID System.
 
-**[01:25:12.420] Senator Panfilo Lacson** (asr-000710)  
+**[01:25:12.420] Senator Panfilo "Ping" M. Lacson** (asr-000710)  
 You know,
 
-**[01:25:13.140] Senator Panfilo Lacson** (asr-000711)  
+**[01:25:13.140] Senator Panfilo "Ping" M. Lacson** (asr-000711)  
 when we were crafting
 
-**[01:25:14.060] Senator Panfilo Lacson** (asr-000712)  
+**[01:25:14.060] Senator Panfilo "Ping" M. Lacson** (asr-000712)  
 the National ID System law,
 
-**[01:25:17.020] Senator Panfilo Lacson** (asr-000713)  
+**[01:25:17.020] Senator Panfilo "Ping" M. Lacson** (asr-000713)  
 ako kasi yung
 
-**[01:25:17.880] Senator Panfilo Lacson** (asr-000714)  
+**[01:25:17.880] Senator Panfilo "Ping" M. Lacson** (asr-000714)  
 principal sponsor.
 
-**[01:25:20.340] Senator Panfilo Lacson** (asr-000715)  
+**[01:25:20.340] Senator Panfilo "Ping" M. Lacson** (asr-000715)  
 Our intention was to integrate
 
-**[01:25:22.120] Senator Panfilo Lacson** (asr-000716)  
+**[01:25:22.120] Senator Panfilo "Ping" M. Lacson** (asr-000716)  
 and consolidate,
 
-**[01:25:23.320] Senator Panfilo Lacson** (asr-000717)  
+**[01:25:23.320] Senator Panfilo "Ping" M. Lacson** (asr-000717)  
 di ba?
 
-**[01:25:24.200] Senator Panfilo Lacson** (asr-000718)  
+**[01:25:24.200] Senator Panfilo "Ping" M. Lacson** (asr-000718)  
 Lahat ng government IDs
 
-**[01:25:26.100] Senator Panfilo Lacson** (asr-000719)  
+**[01:25:26.100] Senator Panfilo "Ping" M. Lacson** (asr-000719)  
 kasi maraming tayong
 
-**[01:25:27.360] Senator Panfilo Lacson** (asr-000720)  
+**[01:25:27.360] Senator Panfilo "Ping" M. Lacson** (asr-000720)  
 functional IDs.
 
-**[01:25:28.980] Senator Panfilo Lacson** (asr-000721)  
+**[01:25:28.980] Senator Panfilo "Ping" M. Lacson** (asr-000721)  
 Ang count namin
 
-**[01:25:29.820] Senator Panfilo Lacson** (asr-000722)  
+**[01:25:29.820] Senator Panfilo "Ping" M. Lacson** (asr-000722)  
 at that time was
 
-**[01:25:30.580] Senator Panfilo Lacson** (asr-000723)  
+**[01:25:30.580] Senator Panfilo "Ping" M. Lacson** (asr-000723)  
 at least 33 IDs.
 
-**[01:25:33.580] Senator Panfilo Lacson** (asr-000724)  
+**[01:25:33.580] Senator Panfilo "Ping" M. Lacson** (asr-000724)  
 And we wanted to,
 
-**[01:25:35.800] Senator Panfilo Lacson** (asr-000725)  
+**[01:25:35.800] Senator Panfilo "Ping" M. Lacson** (asr-000725)  
 or our objective
 
-**[01:25:36.760] Senator Panfilo Lacson** (asr-000726)  
+**[01:25:36.760] Senator Panfilo "Ping" M. Lacson** (asr-000726)  
 was to consolidate
 
-**[01:25:37.720] Senator Panfilo Lacson** (asr-000727)  
+**[01:25:37.720] Senator Panfilo "Ping" M. Lacson** (asr-000727)  
 and integrate
 
-**[01:25:38.540] Senator Panfilo Lacson** (asr-000728)  
+**[01:25:38.540] Senator Panfilo "Ping" M. Lacson** (asr-000728)  
 into just one
 
-**[01:25:39.940] Senator Panfilo Lacson** (asr-000729)  
+**[01:25:39.940] Senator Panfilo "Ping" M. Lacson** (asr-000729)  
 singular ID
 
-**[01:25:41.360] Senator Panfilo Lacson** (asr-000730)  
+**[01:25:41.360] Senator Panfilo "Ping" M. Lacson** (asr-000730)  
 called
 
-**[01:25:41.860] Senator Panfilo Lacson** (asr-000731)  
+**[01:25:41.860] Senator Panfilo "Ping" M. Lacson** (asr-000731)  
 the National ID.
 
-**[01:25:44.060] Senator Panfilo Lacson** (asr-000732)  
+**[01:25:44.060] Senator Panfilo "Ping" M. Lacson** (asr-000732)  
 So,
 
-**[01:25:44.620] Senator Panfilo Lacson** (asr-000733)  
+**[01:25:44.620] Senator Panfilo "Ping" M. Lacson** (asr-000733)  
 ang question ko po is,
 
-**[01:25:46.200] Senator Panfilo Lacson** (asr-000734)  
+**[01:25:46.200] Senator Panfilo "Ping" M. Lacson** (asr-000734)  
 how much has been spent
 
-**[01:25:47.460] Senator Panfilo Lacson** (asr-000735)  
+**[01:25:47.460] Senator Panfilo "Ping" M. Lacson** (asr-000735)  
 so far
 
-**[01:25:48.020] Senator Panfilo Lacson** (asr-000736)  
+**[01:25:48.020] Senator Panfilo "Ping" M. Lacson** (asr-000736)  
 since
 
-**[01:25:49.160] Senator Panfilo Lacson** (asr-000737)  
+**[01:25:49.160] Senator Panfilo "Ping" M. Lacson** (asr-000737)  
 the law was passed
 
-**[01:25:50.500] Senator Panfilo Lacson** (asr-000738)  
+**[01:25:50.500] Senator Panfilo "Ping" M. Lacson** (asr-000738)  
 in 2018?
 
-**[01:25:52.060] Senator Panfilo Lacson** (asr-000739)  
+**[01:25:52.060] Senator Panfilo "Ping" M. Lacson** (asr-000739)  
 It's been 8 years.
 
-**[01:25:53.700] Senator Panfilo Lacson** (asr-000740)  
+**[01:25:53.700] Senator Panfilo "Ping" M. Lacson** (asr-000740)  
 Ang natatandang kong
 
-**[01:25:54.600] Senator Panfilo Lacson** (asr-000741)  
+**[01:25:54.600] Senator Panfilo "Ping" M. Lacson** (asr-000741)  
 timeline natin dito
 
-**[01:25:55.620] Senator Panfilo Lacson** (asr-000742)  
+**[01:25:55.620] Senator Panfilo "Ping" M. Lacson** (asr-000742)  
 for full implementation,
 
-**[01:25:57.360] Senator Panfilo Lacson** (asr-000743)  
+**[01:25:57.360] Senator Panfilo "Ping" M. Lacson** (asr-000743)  
 was 5 years.
 
-**[01:25:59.040] Senator Panfilo Lacson** (asr-000744)  
+**[01:25:59.040] Senator Panfilo "Ping" M. Lacson** (asr-000744)  
 If I'm not mistaken,
 
-**[01:26:00.380] Senator Panfilo Lacson** (asr-000745)  
+**[01:26:00.380] Senator Panfilo "Ping" M. Lacson** (asr-000745)  
 or less, ano?
 
-**[01:26:01.580] Senator Panfilo Lacson** (asr-000746)  
+**[01:26:01.580] Senator Panfilo "Ping" M. Lacson** (asr-000746)  
 So, how much has been spent
 
-**[01:26:03.340] Senator Panfilo Lacson** (asr-000747)  
+**[01:26:03.340] Senator Panfilo "Ping" M. Lacson** (asr-000747)  
 so far?
 
-**[01:26:04.720] Senator Panfilo Lacson** (asr-000748)  
+**[01:26:04.720] Senator Panfilo "Ping" M. Lacson** (asr-000748)  
 And,
 
-**[01:26:05.580] Senator Panfilo Lacson** (asr-000749)  
+**[01:26:05.580] Senator Panfilo "Ping" M. Lacson** (asr-000749)  
 what or how much more
 
-**[01:26:06.980] Senator Panfilo Lacson** (asr-000750)  
+**[01:26:06.980] Senator Panfilo "Ping" M. Lacson** (asr-000750)  
 do you need
 
-**[01:26:07.460] Senator Panfilo Lacson** (asr-000751)  
+**[01:26:07.460] Senator Panfilo "Ping" M. Lacson** (asr-000751)  
 to fully implement?
 
-**[01:26:09.400] Senator Panfilo Lacson** (asr-000752)  
+**[01:26:09.400] Senator Panfilo "Ping" M. Lacson** (asr-000752)  
 Irarattle ko na lahat yung
 
-**[01:26:10.620] Senator Panfilo Lacson** (asr-000753)  
+**[01:26:10.620] Senator Panfilo "Ping" M. Lacson** (asr-000753)  
 rattle up ko na lahat yung
 
-**[01:26:11.540] Senator Panfilo Lacson** (asr-000754)  
+**[01:26:11.540] Senator Panfilo "Ping" M. Lacson** (asr-000754)  
 questions, ano?
 
-**[01:26:12.360] Senator Panfilo Lacson** (asr-000755)  
+**[01:26:12.360] Senator Panfilo "Ping" M. Lacson** (asr-000755)  
 Sunod-sunod.
 
-**[01:26:13.340] Senator Panfilo Lacson** (asr-000756)  
+**[01:26:13.340] Senator Panfilo "Ping" M. Lacson** (asr-000756)  
 Para sunod-sunod na rin
 
-**[01:26:15.000] Senator Panfilo Lacson** (asr-000757)  
+**[01:26:15.000] Senator Panfilo "Ping" M. Lacson** (asr-000757)  
 yung sagot.
 
-**[01:26:16.160] Senator Panfilo Lacson** (asr-000758)  
+**[01:26:16.160] Senator Panfilo "Ping" M. Lacson** (asr-000758)  
 What are the challenges
 
-**[01:26:17.180] Senator Panfilo Lacson** (asr-000759)  
+**[01:26:17.180] Senator Panfilo "Ping" M. Lacson** (asr-000759)  
 that you are facing,
 
-**[01:26:18.900] Senator Panfilo Lacson** (asr-000760)  
+**[01:26:18.900] Senator Panfilo "Ping" M. Lacson** (asr-000760)  
 ano?
 
-**[01:26:21.240] Senator Panfilo Lacson** (asr-000761)  
+**[01:26:21.240] Senator Panfilo "Ping" M. Lacson** (asr-000761)  
 Na nakita nyo
 
-**[01:26:22.600] Senator Panfilo Lacson** (asr-000762)  
+**[01:26:22.600] Senator Panfilo "Ping" M. Lacson** (asr-000762)  
 para hindi na
 
-**[01:26:24.200] Senator Panfilo Lacson** (asr-000763)  
+**[01:26:24.200] Senator Panfilo "Ping" M. Lacson** (asr-000763)  
 pupuli implement?
 
-**[01:26:25.980] Senator Panfilo Lacson** (asr-000764)  
+**[01:26:25.980] Senator Panfilo "Ping" M. Lacson** (asr-000764)  
 And then,
 
-**[01:26:26.440] Senator Panfilo Lacson** (asr-000765)  
+**[01:26:26.440] Senator Panfilo "Ping" M. Lacson** (asr-000765)  
 another issue,
 
-**[01:26:27.360] Senator Panfilo Lacson** (asr-000766)  
+**[01:26:27.360] Senator Panfilo "Ping" M. Lacson** (asr-000766)  
 issue is,
 
-**[01:26:28.480] Senator Panfilo Lacson** (asr-000767)  
+**[01:26:28.480] Senator Panfilo "Ping" M. Lacson** (asr-000767)  
 how are you
 
-**[01:26:29.440] Senator Panfilo Lacson** (asr-000768)  
+**[01:26:29.440] Senator Panfilo "Ping" M. Lacson** (asr-000768)  
 addressing
 
-**[01:26:29.920] Senator Panfilo Lacson** (asr-000769)  
+**[01:26:29.920] Senator Panfilo "Ping" M. Lacson** (asr-000769)  
 the problem
 
-**[01:26:32.180] Senator Panfilo Lacson** (asr-000770)  
+**[01:26:32.180] Senator Panfilo "Ping" M. Lacson** (asr-000770)  
 of late registration
 
-**[01:26:33.340] Senator Panfilo Lacson** (asr-000771)  
+**[01:26:33.340] Senator Panfilo "Ping" M. Lacson** (asr-000771)  
 of birth?
 
-**[01:26:35.680] Senator Panfilo Lacson** (asr-000772)  
+**[01:26:35.680] Senator Panfilo "Ping" M. Lacson** (asr-000772)  
 Kasi, I understand
 
-**[01:26:36.480] Senator Panfilo Lacson** (asr-000773)  
+**[01:26:36.480] Senator Panfilo "Ping" M. Lacson** (asr-000773)  
 I was talking
 
-**[01:26:37.280] Senator Panfilo Lacson** (asr-000774)  
+**[01:26:37.280] Senator Panfilo "Ping" M. Lacson** (asr-000774)  
 to some intelligence
 
-**[01:26:38.200] Senator Panfilo Lacson** (asr-000775)  
+**[01:26:38.200] Senator Panfilo "Ping" M. Lacson** (asr-000775)  
 personnel
 
-**[01:26:39.120] Senator Panfilo Lacson** (asr-000776)  
+**[01:26:39.120] Senator Panfilo "Ping" M. Lacson** (asr-000776)  
 from the
 
-**[01:26:39.920] Senator Panfilo Lacson** (asr-000777)  
+**[01:26:39.920] Senator Panfilo "Ping" M. Lacson** (asr-000777)  
 armed forces.
 
-**[01:26:41.440] Senator Panfilo Lacson** (asr-000778)  
+**[01:26:41.440] Senator Panfilo "Ping" M. Lacson** (asr-000778)  
 I think they have
 
-**[01:26:42.240] Senator Panfilo Lacson** (asr-000779)  
+**[01:26:42.240] Senator Panfilo "Ping" M. Lacson** (asr-000779)  
 already discovered
 
-**[01:26:43.100] Senator Panfilo Lacson** (asr-000780)  
+**[01:26:43.100] Senator Panfilo "Ping" M. Lacson** (asr-000780)  
 thousands.
 
-**[01:26:44.520] Senator Panfilo Lacson** (asr-000781)  
+**[01:26:44.520] Senator Panfilo "Ping" M. Lacson** (asr-000781)  
 And, most of these
 
-**[01:26:45.340] Senator Panfilo Lacson** (asr-000782)  
+**[01:26:45.340] Senator Panfilo "Ping" M. Lacson** (asr-000782)  
 late registration
 
-**[01:26:46.840] Senator Panfilo Lacson** (asr-000783)  
+**[01:26:46.840] Senator Panfilo "Ping" M. Lacson** (asr-000783)  
 of birth
 
-**[01:26:47.560] Senator Panfilo Lacson** (asr-000784)  
+**[01:26:47.560] Senator Panfilo "Ping" M. Lacson** (asr-000784)  
 cases
 
-**[01:26:49.960] Senator Panfilo Lacson** (asr-000785)  
+**[01:26:49.960] Senator Panfilo "Ping" M. Lacson** (asr-000785)  
 from
 
-**[01:26:50.860] Senator Panfilo Lacson** (asr-000786)  
+**[01:26:50.860] Senator Panfilo "Ping" M. Lacson** (asr-000786)  
 China.
 
-**[01:26:55.020] Senator Panfilo Lacson** (asr-000787)  
+**[01:26:55.020] Senator Panfilo "Ping" M. Lacson** (asr-000787)  
 So,
 
-**[01:26:55.980] Senator Panfilo Lacson** (asr-000788)  
+**[01:26:55.980] Senator Panfilo "Ping" M. Lacson** (asr-000788)  
 there could be
 
-**[01:26:57.340] Senator Panfilo Lacson** (asr-000789)  
+**[01:26:57.340] Senator Panfilo "Ping" M. Lacson** (asr-000789)  
 a national security
 
-**[01:26:58.900] Senator Panfilo Lacson** (asr-000790)  
+**[01:26:58.900] Senator Panfilo "Ping" M. Lacson** (asr-000790)  
 issue involved here.
 
-**[01:27:01.160] Senator Panfilo Lacson** (asr-000791)  
+**[01:27:01.160] Senator Panfilo "Ping" M. Lacson** (asr-000791)  
 That's why we're interested
 
-**[01:27:02.420] Senator Panfilo Lacson** (asr-000792)  
+**[01:27:02.420] Senator Panfilo "Ping" M. Lacson** (asr-000792)  
 na mapuli implement na itong
 
-**[01:27:05.300] Senator Panfilo Lacson** (asr-000793)  
+**[01:27:05.300] Senator Panfilo "Ping" M. Lacson** (asr-000793)  
 national ID
 
-**[01:27:06.000] Senator Panfilo Lacson** (asr-000794)  
+**[01:27:06.000] Senator Panfilo "Ping" M. Lacson** (asr-000794)  
 para hindi na tayo magulo.
 
-**[01:27:07.720] Senator Panfilo Lacson** (asr-000795)  
+**[01:27:07.720] Senator Panfilo "Ping" M. Lacson** (asr-000795)  
 Thank you.
 
-**[01:27:08.460] Senator Panfilo Lacson** (asr-000796)  
+**[01:27:08.460] Senator Panfilo "Ping" M. Lacson** (asr-000796)  
 Then, I'll ask
 
-**[01:27:09.140] Senator Panfilo Lacson** (asr-000797)  
+**[01:27:09.140] Senator Panfilo "Ping" M. Lacson** (asr-000797)  
 further questions later.
 
 **[01:27:12.460] DEPDev Secretary Arsenio M. Balisacan** (asr-000798)  
@@ -2548,10 +2548,10 @@ But at least after that, konti na lang talaga yung...
 **[01:34:45.180] PSA Undersecretary Claire Dennis S. Mapa** (asr-000971)  
 yung unregistered individuals natin. Your Honor, thank you.
 
-**[01:34:50.640] Senator Panfilo Lacson** (asr-000972)  
+**[01:34:50.640] Senator Panfilo "Ping" M. Lacson** (asr-000972)  
 Sir Chairman, yeah. Yusef Gad, Dennis, how many more national and local government units or agencies use their own IDs?
 
-**[01:35:01.500] Senator Panfilo Lacson** (asr-000973)  
+**[01:35:01.500] Senator Panfilo "Ping" M. Lacson** (asr-000973)  
 Yung baka nakakonsolidate sa national ID.
 
 **[01:35:04.440] PSA Undersecretary Claire Dennis S. Mapa** (asr-000974)  
@@ -2572,10 +2572,10 @@ And as we discussed, sa mga social protection program, we really encourage that.
 **[01:35:45.180] PSA Undersecretary Claire Dennis S. Mapa** (asr-000979)  
 the agency will utilize as the database, the national ID database, because of the biometric authentication.
 
-**[01:35:52.600] Senator Panfilo Lacson** (asr-000980)  
+**[01:35:52.600] Senator Panfilo "Ping" M. Lacson** (asr-000980)  
 Now, does the PSA have any effort to purge yung ating system of yung mga pictures or dubious?
 
-**[01:36:03.440] Senator Panfilo Lacson** (asr-000981)  
+**[01:36:03.440] Senator Panfilo "Ping" M. Lacson** (asr-000981)  
 Yes, duplicate. Not only duplicate, yung nakapremise doon sa data registration na dubious yung pag-acquire ng national ID.
 
 **[01:36:13.820] PSA Undersecretary Claire Dennis S. Mapa** (asr-000982)  
@@ -2584,7 +2584,7 @@ Yes, Your Honor.
 **[01:36:15.180] PSA Undersecretary Claire Dennis S. Mapa** (asr-000983)  
 Yes, Your Honor. Yung una muna, doon sa late registration ng non-Filipinos, the PSA is very proactive.
 
-**[01:36:22.520] Senator Panfilo Lacson** (asr-000984)  
+**[01:36:22.520] Senator Panfilo "Ping" M. Lacson** (asr-000984)  
 How many have already been purged?
 
 **[01:36:24.400] PSA Undersecretary Claire Dennis S. Mapa** (asr-000985)  
@@ -2611,40 +2611,40 @@ And then once ma-establish namin na hindi talaga ito Pilipino, we block them.
 **[01:37:08.720] PSA Undersecretary Claire Dennis S. Mapa** (asr-000992)  
 And we have blocked so far, close to 1,600.
 
-**[01:37:10.560] Senator Panfilo Lacson** (asr-000993)  
+**[01:37:10.560] Senator Panfilo "Ping" M. Lacson** (asr-000993)  
 Can you submit to the committee the list of those...
 
-**[01:37:15.180] Senator Panfilo Lacson** (asr-000994)  
+**[01:37:15.180] Senator Panfilo "Ping" M. Lacson** (asr-000994)  
 late registration cases na na-purge nyo na?
 
-**[01:37:18.620] Senator Panfilo Lacson** (asr-000995)  
+**[01:37:18.620] Senator Panfilo "Ping" M. Lacson** (asr-000995)  
 So we can pursue further investigation?
 
 **[01:37:21.380] PSA Undersecretary Claire Dennis S. Mapa** (asr-000996)  
 Yes, Your Honor.
 
-**[01:37:22.940] Senator Panfilo Lacson** (asr-000997)  
+**[01:37:22.940] Senator Panfilo "Ping" M. Lacson** (asr-000997)  
 To deal with these people and those responsible behind the late registration.
 
-**[01:37:28.080] Senator Panfilo Lacson** (asr-000998)  
+**[01:37:28.080] Senator Panfilo "Ping" M. Lacson** (asr-000998)  
 Because this is a big, you know, scam ito, di ba?
 
-**[01:37:32.180] Senator Panfilo Lacson** (asr-000999)  
+**[01:37:32.180] Senator Panfilo "Ping" M. Lacson** (asr-000999)  
 Yes.
 
-**[01:37:32.880] Senator Panfilo Lacson** (asr-001000)  
+**[01:37:32.880] Senator Panfilo "Ping" M. Lacson** (asr-001000)  
 Alam nyo rin naman, we've heard of 500,000 pesos per late registration of birth and so forth and so on.
 
-**[01:37:38.720] Senator Panfilo Lacson** (asr-001001)  
+**[01:37:38.720] Senator Panfilo "Ping" M. Lacson** (asr-001001)  
 But I'm more particularly concerned about the national security issue.
 
-**[01:37:45.180] Senator Panfilo Lacson** (asr-001002)  
+**[01:37:45.180] Senator Panfilo "Ping" M. Lacson** (asr-001002)  
 Kasi kung may mga sleeper agents, mga sales dito, delikado tayo, di ba?
 
-**[01:37:53.300] Senator Panfilo Lacson** (asr-001003)  
+**[01:37:53.300] Senator Panfilo "Ping" M. Lacson** (asr-001003)  
 And we're talking of thousands or even tens of thousands of these people.
 
-**[01:37:58.620] Senator Panfilo Lacson** (asr-001004)  
+**[01:37:58.620] Senator Panfilo "Ping" M. Lacson** (asr-001004)  
 Well, you can just imagine.
 
 **[01:38:01.640] PSA Undersecretary Claire Dennis S. Mapa** (asr-001005)  
@@ -2665,61 +2665,61 @@ Yes, Your Honor.
 **[01:38:15.760] PSA Undersecretary Claire Dennis S. Mapa** (asr-001010)  
 But we can provide the Senate, the committee, on the names po.
 
-**[01:38:19.620] Senator Panfilo Lacson** (asr-001011)  
+**[01:38:19.620] Senator Panfilo "Ping" M. Lacson** (asr-001011)  
 Yes.
 
-**[01:38:20.100] Senator Panfilo Lacson** (asr-001012)  
+**[01:38:20.100] Senator Panfilo "Ping" M. Lacson** (asr-001012)  
 Earlier on, kasi nagkaroon ng issue, I was called by dating Secretary Carl Chua
 
-**[01:38:27.220] Senator Panfilo Lacson** (asr-001013)  
+**[01:38:27.220] Senator Panfilo "Ping" M. Lacson** (asr-001013)  
 because there seemed to be a problem with the PILSIS number.
 
-**[01:38:34.060] Senator Panfilo Lacson** (asr-001014)  
+**[01:38:34.060] Senator Panfilo "Ping" M. Lacson** (asr-001014)  
 Kasi sa batas, nakalagay on its face, di ba?
 
-**[01:38:37.760] Senator Panfilo Lacson** (asr-001015)  
+**[01:38:37.760] Senator Panfilo "Ping" M. Lacson** (asr-001015)  
 But I think I was told that the World Bank had some concerns about data privacy.
 
-**[01:38:45.180] Senator Panfilo Lacson** (asr-001016)  
+**[01:38:45.180] Senator Panfilo "Ping" M. Lacson** (asr-001016)  
 So tinago natin yung PILSIS number,
 
-**[01:38:47.560] Senator Panfilo Lacson** (asr-001017)  
+**[01:38:47.560] Senator Panfilo "Ping" M. Lacson** (asr-001017)  
 ang nakalagay sa ating card, on its face, yung temporary or not the real PILSIS number.
 
-**[01:38:56.000] Senator Panfilo Lacson** (asr-001018)  
+**[01:38:56.000] Senator Panfilo "Ping" M. Lacson** (asr-001018)  
 Di ba?
 
 **[01:38:56.760] PSA Undersecretary Claire Dennis S. Mapa** (asr-001019)  
 Yes, Your Honor.
 
-**[01:38:57.720] Senator Panfilo Lacson** (asr-001020)  
+**[01:38:57.720] Senator Panfilo "Ping" M. Lacson** (asr-001020)  
 So how do we resolve that?
 
-**[01:38:59.480] Senator Panfilo Lacson** (asr-001021)  
+**[01:38:59.480] Senator Panfilo "Ping" M. Lacson** (asr-001021)  
 Okay.
 
-**[01:38:59.940] Senator Panfilo Lacson** (asr-001022)  
+**[01:38:59.940] Senator Panfilo "Ping" M. Lacson** (asr-001022)  
 Ang promise ko sa kanya noon, maybe we need to amend the law para maalis yung on its face.
 
-**[01:39:08.620] Senator Panfilo Lacson** (asr-001023)  
+**[01:39:08.620] Senator Panfilo "Ping" M. Lacson** (asr-001023)  
 Kasi I agree that the PILSIS number should be hidden somewhere.
 
-**[01:39:14.580] Senator Panfilo Lacson** (asr-001024)  
+**[01:39:14.580] Senator Panfilo "Ping" M. Lacson** (asr-001024)  
 Pero binibigyan niyo maliit na card eh.
 
-**[01:39:16.560] Senator Panfilo Lacson** (asr-001025)  
+**[01:39:16.560] Senator Panfilo "Ping" M. Lacson** (asr-001025)  
 Yung iba, nawala na eh.
 
-**[01:39:18.540] Senator Panfilo Lacson** (asr-001026)  
+**[01:39:18.540] Senator Panfilo "Ping" M. Lacson** (asr-001026)  
 Ako ay, you know, milagaw sa notes ko eh.
 
-**[01:39:22.700] Senator Panfilo Lacson** (asr-001027)  
+**[01:39:22.700] Senator Panfilo "Ping" M. Lacson** (asr-001027)  
 Kaya memoryado ko yung aking PILSIS number.
 
-**[01:39:25.420] Senator Panfilo Lacson** (asr-001028)  
+**[01:39:25.420] Senator Panfilo "Ping" M. Lacson** (asr-001028)  
 But how about those who lost that piece of paper and what they only have is the temporary or the not the PILSIS number?
 
-**[01:39:35.600] Senator Panfilo Lacson** (asr-001029)  
+**[01:39:35.600] Senator Panfilo "Ping" M. Lacson** (asr-001029)  
 Yun ang problema.
 
 **[01:39:36.100] PSA Undersecretary Claire Dennis S. Mapa** (asr-001030)  
@@ -2746,7 +2746,7 @@ ayusin na lang natin na hindi dapat naka-expose yung PILSIS number.
 **[01:40:03.460] PSA Undersecretary Claire Dennis S. Mapa** (asr-001037)  
 Kasi siya lang po yung mag-isa talaga.
 
-**[01:40:04.800] Senator Panfilo Lacson** (asr-001038)  
+**[01:40:04.800] Senator Panfilo "Ping" M. Lacson** (asr-001038)  
 Otherwise, we keep violating the law.
 
 **[01:40:07.080] PSA Undersecretary Claire Dennis S. Mapa** (asr-001039)  
@@ -2758,10 +2758,10 @@ Pero nandoon naman po, wala ka print siya.
 **[01:40:10.740] PSA Undersecretary Claire Dennis S. Mapa** (asr-001041)  
 Yeah.
 
-**[01:40:12.700] Senator Panfilo Lacson** (asr-001042)  
+**[01:40:12.700] Senator Panfilo "Ping" M. Lacson** (asr-001042)  
 Kasi kung offline,
 
-**[01:40:14.580] Senator Panfilo Lacson** (asr-001043)  
+**[01:40:14.580] Senator Panfilo "Ping" M. Lacson** (asr-001043)  
 hindi na makikita.
 
 **[01:40:16.440] PSA Undersecretary Claire Dennis S. Mapa** (asr-001044)  
@@ -2776,64 +2776,64 @@ In fact, one of the section dun sa PILSIS Act is the introduction of technology.
 **[01:40:25.260] PSA Undersecretary Claire Dennis S. Mapa** (asr-001047)  
 Pwede na pong ma-link pa rin kahit na offline authentication, Your Honor.
 
-**[01:40:29.540] Senator Panfilo Lacson** (asr-001048)  
+**[01:40:29.540] Senator Panfilo "Ping" M. Lacson** (asr-001048)  
 Now, another common violation of the law,
 
-**[01:40:32.300] Senator Panfilo Lacson** (asr-001049)  
+**[01:40:32.300] Senator Panfilo "Ping" M. Lacson** (asr-001049)  
 yung the requirement of a second ID.
 
-**[01:40:36.060] Senator Panfilo Lacson** (asr-001050)  
+**[01:40:36.060] Senator Panfilo "Ping" M. Lacson** (asr-001050)  
 Hindi lahat ng transactions with the government agencies as well as private institutions,
 
-**[01:40:42.700] Senator Panfilo Lacson** (asr-001051)  
+**[01:40:42.700] Senator Panfilo "Ping" M. Lacson** (asr-001051)  
 pumapayag na yung,
 
-**[01:40:44.580] Senator Panfilo Lacson** (asr-001052)  
+**[01:40:44.580] Senator Panfilo "Ping" M. Lacson** (asr-001052)  
 ah, singular ID.
 
-**[01:40:46.080] Senator Panfilo Lacson** (asr-001053)  
+**[01:40:46.080] Senator Panfilo "Ping" M. Lacson** (asr-001053)  
 Nangingin na second ID.
 
-**[01:40:47.240] Senator Panfilo Lacson** (asr-001054)  
+**[01:40:47.240] Senator Panfilo "Ping" M. Lacson** (asr-001054)  
 And I'll read to you, ah, section 19,
 
-**[01:40:49.360] Senator Panfilo Lacson** (asr-001055)  
+**[01:40:49.360] Senator Panfilo "Ping" M. Lacson** (asr-001055)  
 penal provision.
 
-**[01:40:51.160] Senator Panfilo Lacson** (asr-001056)  
+**[01:40:51.160] Senator Panfilo "Ping" M. Lacson** (asr-001056)  
 Meron ditong, ah,
 
-**[01:40:52.880] Senator Panfilo Lacson** (asr-001057)  
+**[01:40:52.880] Senator Panfilo "Ping" M. Lacson** (asr-001057)  
 pag hindi tinanggap without just and sufficient cost,
 
-**[01:40:57.360] Senator Panfilo Lacson** (asr-001058)  
+**[01:40:57.360] Senator Panfilo "Ping" M. Lacson** (asr-001058)  
 ah, shall refuse to accept, acknowledge, and or recognize the PIL ID or PSN.
 
-**[01:41:03.060] Senator Panfilo Lacson** (asr-001059)  
+**[01:41:03.060] Senator Panfilo "Ping" M. Lacson** (asr-001059)  
 Subject to authentication.
 
-**[01:41:05.100] Senator Panfilo Lacson** (asr-001060)  
+**[01:41:05.100] Senator Panfilo "Ping" M. Lacson** (asr-001060)  
 Meron ditong,
 
-**[01:41:05.920] Senator Panfilo Lacson** (asr-001061)  
+**[01:41:05.920] Senator Panfilo "Ping" M. Lacson** (asr-001061)  
 shall be fined in the amount of 500,000 pesos.
 
-**[01:41:09.720] Senator Panfilo Lacson** (asr-001062)  
+**[01:41:09.720] Senator Panfilo "Ping" M. Lacson** (asr-001062)  
 So, I don't think this is being implemented, no?
 
-**[01:41:13.700] Senator Panfilo Lacson** (asr-001063)  
+**[01:41:13.700] Senator Panfilo "Ping" M. Lacson** (asr-001063)  
 Because of the,
 
-**[01:41:14.380] Senator Panfilo Lacson** (asr-001064)  
+**[01:41:14.380] Senator Panfilo "Ping" M. Lacson** (asr-001064)  
 ah, failure, ah, in the implementation.
 
-**[01:41:17.280] Senator Panfilo Lacson** (asr-001065)  
+**[01:41:17.280] Senator Panfilo "Ping" M. Lacson** (asr-001065)  
 In the full implementation.
 
 **[01:41:19.320] PSA Undersecretary Claire Dennis S. Mapa** (asr-001066)  
 Yeah.
 
-**[01:41:19.760] Senator Panfilo Lacson** (asr-001067)  
+**[01:41:19.760] Senator Panfilo "Ping" M. Lacson** (asr-001067)  
 And I don't want this to be a dead letter law.
 
 **[01:41:22.500] PSA Undersecretary Claire Dennis S. Mapa** (asr-001068)  
@@ -2884,16 +2884,16 @@ a strong information campaign on this.
 **[01:42:16.720] PSA Undersecretary Claire Dennis S. Mapa** (asr-001083)  
 So, encouragement muna ngayon, ah, Your Honors, ah, Mr. Senator, yung aming ginagamit.
 
-**[01:42:20.760] Senator Panfilo Lacson** (asr-001084)  
+**[01:42:20.760] Senator Panfilo "Ping" M. Lacson** (asr-001084)  
 I'm not sure if you're at liberty to, ah, inform the committee at this point, ano,
 
-**[01:42:25.080] Senator Panfilo Lacson** (asr-001085)  
+**[01:42:25.080] Senator Panfilo "Ping" M. Lacson** (asr-001085)  
 but I heard, during the initial phase of the implementation, medyo nagkagulo
 
-**[01:42:29.380] Senator Panfilo Lacson** (asr-001086)  
+**[01:42:29.380] Senator Panfilo "Ping" M. Lacson** (asr-001086)  
 because meron niya tanakialam sa kontrata.
 
-**[01:42:34.480] Senator Panfilo Lacson** (asr-001087)  
+**[01:42:34.480] Senator Panfilo "Ping" M. Lacson** (asr-001087)  
 The, ah, without giving any details, ano, would you confirm that?
 
 **[01:42:40.660] PSA Undersecretary Claire Dennis S. Mapa** (asr-001088)  
@@ -2917,10 +2917,10 @@ And, ah, we are now, ah, starting with a new service provider.
 **[01:43:06.040] PSA Undersecretary Claire Dennis S. Mapa** (asr-001094)  
 So, kung may problem po, ah, yun siguro naisip ko na, na problem.
 
-**[01:43:10.420] Senator Panfilo Lacson** (asr-001095)  
+**[01:43:10.420] Senator Panfilo "Ping" M. Lacson** (asr-001095)  
 So, without, you know, without giving details, more or less, you admit,
 
-**[01:43:14.260] Senator Panfilo Lacson** (asr-001096)  
+**[01:43:14.260] Senator Panfilo "Ping" M. Lacson** (asr-001096)  
 no, nagkaroon ng, ah, glitches.
 
 **[01:43:17.500] PSA Undersecretary Claire Dennis S. Mapa** (asr-001097)  
@@ -2929,19 +2929,19 @@ Ah, yeah, glitches, pero, ah, I'm not, I'm not, ah, about, about the, ah, issue 
 **[01:43:23.520] PSA Undersecretary Claire Dennis S. Mapa** (asr-001098)  
 But there was a glitch on the printing.
 
-**[01:43:24.940] Senator Panfilo Lacson** (asr-001099)  
+**[01:43:24.940] Senator Panfilo "Ping" M. Lacson** (asr-001099)  
 Narinig ko major glitch yun, eh, kasi meron nakasingit, eh.
 
 **[01:43:29.380] PSA Undersecretary Claire Dennis S. Mapa** (asr-001100)  
 Ah, yung...
 
-**[01:43:30.100] Senator Panfilo Lacson** (asr-001101)  
+**[01:43:30.100] Senator Panfilo "Ping" M. Lacson** (asr-001101)  
 You're there already, di ba?
 
 **[01:43:31.960] PSA Undersecretary Claire Dennis S. Mapa** (asr-001102)  
 Di, ah, ano, siguro, ah...
 
-**[01:43:33.380] Senator Panfilo Lacson** (asr-001103)  
+**[01:43:33.380] Senator Panfilo "Ping" M. Lacson** (asr-001103)  
 Siguro marami nagpapasin itong batas, eh.
 
 **[01:43:35.440] PSA Undersecretary Claire Dennis S. Mapa** (asr-001104)  
@@ -2953,7 +2953,7 @@ And you would know.
 **[01:43:38.260] PSA Undersecretary Claire Dennis S. Mapa** (asr-001106)  
 Ang, ang, ang, ah...
 
-**[01:43:39.360] Senator Panfilo Lacson** (asr-001107)  
+**[01:43:39.360] Senator Panfilo "Ping" M. Lacson** (asr-001107)  
 Never mind, never mind.
 
 **[01:43:40.020] PSA Undersecretary Claire Dennis S. Mapa** (asr-001108)  
@@ -2965,7 +2965,7 @@ Nakaintindihan na tayo.
 **[01:43:42.100] PSA Undersecretary Claire Dennis S. Mapa** (asr-001110)  
 Okay, thank you very much, ah, Your Honor.
 
-**[01:43:43.660] Senator Panfilo Lacson** (asr-001111)  
+**[01:43:43.660] Senator Panfilo "Ping" M. Lacson** (asr-001111)  
 Thank you, Mr. Chairman.
 
 **[01:43:44.260] Senator Joseph Victor "JV" G. Ejercito** (asr-001112)  
@@ -2980,13 +2980,13 @@ Two government IDs.
 **[01:43:55.540] Senator Joseph Victor "JV" G. Ejercito** (asr-001115)  
 It's the, the, is this, ang, ang, rason ba dahil wala tayong signature doon sa PhilSys natin?
 
-**[01:44:00.800] Senator Panfilo Lacson** (asr-001116)  
+**[01:44:00.800] Senator Panfilo "Ping" M. Lacson** (asr-001116)  
 I'm sorry, ano, if I may add.
 
 **[01:44:02.460] Senator Joseph Victor "JV" G. Ejercito** (asr-001117)  
 Yes, please.
 
-**[01:44:03.100] Senator Panfilo Lacson** (asr-001118)  
+**[01:44:03.100] Senator Panfilo "Ping" M. Lacson** (asr-001118)  
 That was beyond his control.
 
 **[01:44:04.720] Senator Joseph Victor "JV" G. Ejercito** (asr-001119)  
@@ -2995,13 +2995,13 @@ O nga.
 **[01:44:05.380] Senator Joseph Victor "JV" G. Ejercito** (asr-001120)  
 Ede, pero yun ba ang, isa, ibang isa sa rason?
 
-**[01:44:07.840] Senator Panfilo Lacson** (asr-001121)  
+**[01:44:07.840] Senator Panfilo "Ping" M. Lacson** (asr-001121)  
 Yung glitch na sinabi ko.
 
 **[01:44:08.940] Senator Joseph Victor "JV" G. Ejercito** (asr-001122)  
 Ah, glitch, okay.
 
-**[01:44:09.900] Senator Panfilo Lacson** (asr-001123)  
+**[01:44:09.900] Senator Panfilo "Ping" M. Lacson** (asr-001123)  
 I'm not a member of that.
 
 **[01:44:11.260] Senator Joseph Victor "JV" G. Ejercito** (asr-001124)  
@@ -6334,133 +6334,133 @@ uh,
 **[02:28:43.780] Senator Joseph Victor "JV" G. Ejercito** (asr-002232)  
 Senator Erwin Tulfo.
 
-**[02:28:44.780] Senator Erwin Tulfo** (asr-002233)  
+**[02:28:44.780] Senator Erwin T. Tulfo** (asr-002233)  
 Thank you,
 
-**[02:28:45.780] Senator Erwin Tulfo** (asr-002234)  
+**[02:28:45.780] Senator Erwin T. Tulfo** (asr-002234)  
 Mr. Chair.
 
-**[02:28:46.780] Senator Erwin Tulfo** (asr-002235)  
+**[02:28:46.780] Senator Erwin T. Tulfo** (asr-002235)  
 Uh,
 
-**[02:28:47.780] Senator Erwin Tulfo** (asr-002236)  
+**[02:28:47.780] Senator Erwin T. Tulfo** (asr-002236)  
 just,
 
-**[02:28:48.780] Senator Erwin Tulfo** (asr-002237)  
+**[02:28:48.780] Senator Erwin T. Tulfo** (asr-002237)  
 of the
 
-**[02:28:49.780] Senator Erwin Tulfo** (asr-002238)  
+**[02:28:49.780] Senator Erwin T. Tulfo** (asr-002238)  
 investment,
 
-**[02:28:50.780] Senator Erwin Tulfo** (asr-002239)  
+**[02:28:50.780] Senator Erwin T. Tulfo** (asr-002239)  
 uh,
 
-**[02:28:51.780] Senator Erwin Tulfo** (asr-002240)  
+**[02:28:51.780] Senator Erwin T. Tulfo** (asr-002240)  
 pledges
 
-**[02:28:52.780] Senator Erwin Tulfo** (asr-002241)  
+**[02:28:52.780] Senator Erwin T. Tulfo** (asr-002241)  
 by countries
 
-**[02:28:53.780] Senator Erwin Tulfo** (asr-002242)  
+**[02:28:53.780] Senator Erwin T. Tulfo** (asr-002242)  
 visited by
 
-**[02:28:54.780] Senator Erwin Tulfo** (asr-002243)  
+**[02:28:54.780] Senator Erwin T. Tulfo** (asr-002243)  
 PBBM
 
-**[02:28:55.780] Senator Erwin Tulfo** (asr-002244)  
+**[02:28:55.780] Senator Erwin T. Tulfo** (asr-002244)  
 since he took office
 
-**[02:28:56.780] Senator Erwin Tulfo** (asr-002245)  
+**[02:28:56.780] Senator Erwin T. Tulfo** (asr-002245)  
 in 2022,
 
-**[02:28:57.780] Senator Erwin Tulfo** (asr-002246)  
+**[02:28:57.780] Senator Erwin T. Tulfo** (asr-002246)  
 how many,
 
-**[02:28:58.780] Senator Erwin Tulfo** (asr-002247)  
+**[02:28:58.780] Senator Erwin T. Tulfo** (asr-002247)  
 so far,
 
-**[02:28:59.780] Senator Erwin Tulfo** (asr-002248)  
+**[02:28:59.780] Senator Erwin T. Tulfo** (asr-002248)  
 sir,
 
-**[02:29:00.780] Senator Erwin Tulfo** (asr-002249)  
+**[02:29:00.780] Senator Erwin T. Tulfo** (asr-002249)  
 have fulfilled those
 
-**[02:29:01.780] Senator Erwin Tulfo** (asr-002250)  
+**[02:29:01.780] Senator Erwin T. Tulfo** (asr-002250)  
 pledges?
 
-**[02:29:02.780] Senator Erwin Tulfo** (asr-002251)  
+**[02:29:02.780] Senator Erwin T. Tulfo** (asr-002251)  
 Alam ko po,
 
-**[02:29:03.780] Senator Erwin Tulfo** (asr-002252)  
+**[02:29:03.780] Senator Erwin T. Tulfo** (asr-002252)  
 ang daming niya pong binisita.
 
-**[02:29:04.780] Senator Erwin Tulfo** (asr-002253)  
+**[02:29:04.780] Senator Erwin T. Tulfo** (asr-002253)  
 And then,
 
-**[02:29:05.780] Senator Erwin Tulfo** (asr-002254)  
+**[02:29:05.780] Senator Erwin T. Tulfo** (asr-002254)  
 every time he visits,
 
-**[02:29:06.780] Senator Erwin Tulfo** (asr-002255)  
+**[02:29:06.780] Senator Erwin T. Tulfo** (asr-002255)  
 eh,
 
-**[02:29:07.780] Senator Erwin Tulfo** (asr-002256)  
+**[02:29:07.780] Senator Erwin T. Tulfo** (asr-002256)  
 yun naman talagang purpose niya.
 
-**[02:29:08.780] Senator Erwin Tulfo** (asr-002257)  
+**[02:29:08.780] Senator Erwin T. Tulfo** (asr-002257)  
 I was still Secretary of the SWD.
 
-**[02:29:09.780] Senator Erwin Tulfo** (asr-002258)  
+**[02:29:09.780] Senator Erwin T. Tulfo** (asr-002258)  
 I keep on hearing
 
-**[02:29:10.780] Senator Erwin Tulfo** (asr-002259)  
+**[02:29:10.780] Senator Erwin T. Tulfo** (asr-002259)  
 from them,
 
-**[02:29:11.780] Senator Erwin Tulfo** (asr-002260)  
+**[02:29:11.780] Senator Erwin T. Tulfo** (asr-002260)  
 they're saying,
 
-**[02:29:12.780] Senator Erwin Tulfo** (asr-002261)  
+**[02:29:12.780] Senator Erwin T. Tulfo** (asr-002261)  
 like,
 
-**[02:29:13.780] Senator Erwin Tulfo** (asr-002262)  
+**[02:29:13.780] Senator Erwin T. Tulfo** (asr-002262)  
 uh,
 
-**[02:29:14.780] Senator Erwin Tulfo** (asr-002263)  
+**[02:29:14.780] Senator Erwin T. Tulfo** (asr-002263)  
 we're pledging this,
 
-**[02:29:15.780] Senator Erwin Tulfo** (asr-002264)  
+**[02:29:15.780] Senator Erwin T. Tulfo** (asr-002264)  
 pledging that,
 
-**[02:29:16.780] Senator Erwin Tulfo** (asr-002265)  
+**[02:29:16.780] Senator Erwin T. Tulfo** (asr-002265)  
 eh,
 
-**[02:29:17.780] Senator Erwin Tulfo** (asr-002266)  
+**[02:29:17.780] Senator Erwin T. Tulfo** (asr-002266)  
 several billions of dollars already.
 
-**[02:29:19.780] Senator Erwin Tulfo** (asr-002267)  
+**[02:29:19.780] Senator Erwin T. Tulfo** (asr-002267)  
 How many,
 
-**[02:29:20.780] Senator Erwin Tulfo** (asr-002268)  
+**[02:29:20.780] Senator Erwin T. Tulfo** (asr-002268)  
 so far,
 
-**[02:29:21.780] Senator Erwin Tulfo** (asr-002269)  
+**[02:29:21.780] Senator Erwin T. Tulfo** (asr-002269)  
 have,
 
-**[02:29:22.780] Senator Erwin Tulfo** (asr-002270)  
+**[02:29:22.780] Senator Erwin T. Tulfo** (asr-002270)  
 eh,
 
-**[02:29:23.780] Senator Erwin Tulfo** (asr-002271)  
+**[02:29:23.780] Senator Erwin T. Tulfo** (asr-002271)  
 ikang made those pledges,
 
-**[02:29:24.780] Senator Erwin Tulfo** (asr-002272)  
+**[02:29:24.780] Senator Erwin T. Tulfo** (asr-002272)  
 eh,
 
-**[02:29:25.780] Senator Erwin Tulfo** (asr-002273)  
+**[02:29:25.780] Senator Erwin T. Tulfo** (asr-002273)  
 a reality,
 
-**[02:29:26.780] Senator Erwin Tulfo** (asr-002274)  
+**[02:29:26.780] Senator Erwin T. Tulfo** (asr-002274)  
 ah,
 
-**[02:29:27.780] Senator Erwin Tulfo** (asr-002275)  
+**[02:29:27.780] Senator Erwin T. Tulfo** (asr-002275)  
 Mr. Secretary?
 
 **[02:29:28.780] DEPDev Secretary Arsenio M. Balisacan** (asr-002276)  
@@ -6544,49 +6544,49 @@ the information,
 **[02:29:52.160] DEPDev Secretary Arsenio M. Balisacan** (asr-002302)  
 and I can submit it to you.
 
-**[02:29:53.440] Senator Erwin Tulfo** (asr-002303)  
+**[02:29:53.440] Senator Erwin T. Tulfo** (asr-002303)  
 Please do so,
 
-**[02:29:54.120] Senator Erwin Tulfo** (asr-002304)  
+**[02:29:54.120] Senator Erwin T. Tulfo** (asr-002304)  
 because,
 
-**[02:29:54.640] Senator Erwin Tulfo** (asr-002305)  
+**[02:29:54.640] Senator Erwin T. Tulfo** (asr-002305)  
 I
 
-**[02:29:54.880] Senator Erwin Tulfo** (asr-002306)  
+**[02:29:54.880] Senator Erwin T. Tulfo** (asr-002306)  
 believe,
 
-**[02:29:55.400] Senator Erwin Tulfo** (asr-002307)  
+**[02:29:55.400] Senator Erwin T. Tulfo** (asr-002307)  
 um,
 
-**[02:29:56.520] Senator Erwin Tulfo** (asr-002308)  
+**[02:29:56.520] Senator Erwin T. Tulfo** (asr-002308)  
 that's what we really need,
 
-**[02:29:57.600] Senator Erwin Tulfo** (asr-002309)  
+**[02:29:57.600] Senator Erwin T. Tulfo** (asr-002309)  
 like,
 
-**[02:29:58.120] Senator Erwin Tulfo** (asr-002310)  
+**[02:29:58.120] Senator Erwin T. Tulfo** (asr-002310)  
 investments,
 
-**[02:29:58.760] Senator Erwin Tulfo** (asr-002311)  
+**[02:29:58.760] Senator Erwin T. Tulfo** (asr-002311)  
 more investments
 
-**[02:29:59.760] Senator Erwin Tulfo** (asr-002312)  
+**[02:29:59.760] Senator Erwin T. Tulfo** (asr-002312)  
 for this country.
 
-**[02:30:00.680] Senator Erwin Tulfo** (asr-002313)  
+**[02:30:00.680] Senator Erwin T. Tulfo** (asr-002313)  
 And I believe may mga naging, ah, uh,
 
-**[02:30:05.000] Senator Erwin Tulfo** (asr-002314)  
+**[02:30:05.000] Senator Erwin T. Tulfo** (asr-002314)  
 Most of them were fruitful and it did happen, Mr. Secretary. So hindi naman nasayang yung pagbisita ng ating Pangulo.
 
-**[02:30:13.180] Senator Erwin Tulfo** (asr-002315)  
+**[02:30:13.180] Senator Erwin T. Tulfo** (asr-002315)  
 My next question, sir, is would you happen to know na number, I don't know, I want to ask you this. I'm kind of surprised kasi there was a survey, sir, it says ito pong World Happiness Report 2026. Believe it or not, the Philippines ranks as the fourth happiest in Southeast Asia.
 
-**[02:30:37.900] Senator Erwin Tulfo** (asr-002316)  
+**[02:30:37.900] Senator Erwin T. Tulfo** (asr-002316)  
 I don't know for what reason bakit tayo happy and dami naman yung problema natin dito.
 
-**[02:30:43.400] Senator Erwin Tulfo** (asr-002317)  
+**[02:30:43.400] Senator Erwin T. Tulfo** (asr-002317)  
 Would you happen to know, ito ba yung nakarating na sa inyo, pinag-aaralan na ba ninyo bakit tayo rank fourth? Well, sa Southeast Asia. Pero overall po, sir, sa worldwide, pang 56 po tayo. Why is that?
 
 **[02:31:01.740] DEPDev Secretary Arsenio M. Balisacan** (asr-002318)  
@@ -6607,34 +6607,34 @@ Gross domestic happiness as a measure of well-being for countries. And there are
 **[02:32:43.180] DEPDev Secretary Arsenio M. Balisacan** (asr-002323)  
 Especially involving welfare.
 
-**[02:32:45.940] Senator Erwin Tulfo** (asr-002324)  
+**[02:32:45.940] Senator Erwin T. Tulfo** (asr-002324)  
 Kasi kung titignan mo, Mr. Secretary, sa social media, kung ano-ano sinasabi, parang wala ng pag-asa itong ating bayan. Kung anong-anong paninira na politika, et cetera, mahal na kuryente, mahal na bilihin.
 
-**[02:32:59.820] Senator Erwin Tulfo** (asr-002325)  
+**[02:32:59.820] Senator Erwin T. Tulfo** (asr-002325)  
 Dapat it will, ika nga, yung ating minimum wage, et cetera. So, not that far with other countries. Pero, I don't know. I would appreciate it, sir.
 
-**[02:33:13.180] Senator Erwin Tulfo** (asr-002326)  
+**[02:33:13.180] Senator Erwin T. Tulfo** (asr-002326)  
 If you would look into this, I just want to find out why. Why are we ranked fourth happiest in Southeast Asia? We're the fourth, our people are the fourth happiest people in ASEAN, sir.
 
 **[02:33:26.400] DEPDev Secretary Arsenio M. Balisacan** (asr-002327)  
 I will look into that and what data factors that they consider in compiling the data, Mr. Chair.
 
-**[02:33:37.420] Senator Erwin Tulfo** (asr-002328)  
+**[02:33:37.420] Senator Erwin T. Tulfo** (asr-002328)  
 All right. I have another question, sir.
 
-**[02:33:41.260] Senator Erwin Tulfo** (asr-002329)  
+**[02:33:41.260] Senator Erwin T. Tulfo** (asr-002329)  
 I find the bill.
 
-**[02:33:43.180] Senator Erwin Tulfo** (asr-002330)  
+**[02:33:43.180] Senator Erwin T. Tulfo** (asr-002330)  
 When I came here in the Senate last year, on the lifetime validity of PWD IDs, inincorporate na po ba ang PWID sa national ID? Kasi ito pong reklamo ng PWDs. Every year or two years or three years, they have to go to the city hall, to the munisipyo. They have to travel, lalo na po yung may problema sa mobility.
 
-**[02:34:09.100] Senator Erwin Tulfo** (asr-002331)  
+**[02:34:09.100] Senator Erwin T. Tulfo** (asr-002331)  
 Inconvenient nga naman. So, I filed a bill na maging gawin na po.
 
-**[02:34:13.180] Senator Erwin Tulfo** (asr-002332)  
+**[02:34:13.180] Senator Erwin T. Tulfo** (asr-002332)  
 Itong lifetime. Habang nabubuhay yung PWD, tawag na siya mag-renew na mag-renew. Dahil kita naman, may kapansanang, putol ang paa, etc. na makalakad.
 
-**[02:34:26.020] Senator Erwin Tulfo** (asr-002333)  
+**[02:34:26.020] Senator Erwin T. Tulfo** (asr-002333)  
 Na-incorporate ba ito sa national ID or wala pa po? Wala pang plano dito?
 
 **[02:34:43.180] DEPDev Secretary Arsenio M. Balisacan** (asr-002334)  
@@ -6643,40 +6643,40 @@ Mr. Chair, it's now under discussion with the National Council of Disability Aff
 **[02:34:56.040] DEPDev Secretary Arsenio M. Balisacan** (asr-002335)  
 And once we have that recommendation, we'll pass it on to PSA for action.
 
-**[02:35:01.960] Senator Erwin Tulfo** (asr-002336)  
+**[02:35:01.960] Senator Erwin T. Tulfo** (asr-002336)  
 All right. Thank you, Mr. Secretary. Another point I want to raise with you, your office. I also filed a bill on Philippine Oil Reserve.
 
-**[02:35:14.000] Senator Erwin Tulfo** (asr-002337)  
+**[02:35:14.000] Senator Erwin T. Tulfo** (asr-002337)  
 Maaaring po bang malaman ang posisyon po ng DepDev? How will this strongly help our country's economy in terms of oil shortage?
 
-**[02:35:23.140] Senator Erwin Tulfo** (asr-002338)  
+**[02:35:23.140] Senator Erwin T. Tulfo** (asr-002338)  
 Actually, I've been speaking to some of the representatives of ADNOC in Abu Dhabi.
 
-**[02:35:31.480] Senator Erwin Tulfo** (asr-002339)  
+**[02:35:31.480] Senator Erwin T. Tulfo** (asr-002339)  
 They're very willing, Mr. Secretary, to put up storage facilities. Matter of fact, they want to put up storage facilities in Luzon, Visayas, and Mindanao.
 
-**[02:35:41.000] Senator Erwin Tulfo** (asr-002340)  
+**[02:35:41.000] Senator Erwin T. Tulfo** (asr-002340)  
 All we have to do is we have to come up or we have to identify an area where they can put the storage facilities. Depende daw po sa ating kung gano'ng kalaki. And they're looking at around 50 million barrels they want to store.
 
-**[02:35:57.960] Senator Erwin Tulfo** (asr-002341)  
+**[02:35:57.960] Senator Erwin T. Tulfo** (asr-002341)  
 So kung malalagyan. Pero when we were computing, it's a Department of Energy, it will take like about 500 hectares for that 50 million barrels. Because we consume like around 450,000 barrels per day.
 
-**[02:36:15.060] Senator Erwin Tulfo** (asr-002342)  
+**[02:36:15.060] Senator Erwin T. Tulfo** (asr-002342)  
 Saudi Arabia is also, Aramco is also interested, Mr. Secretary, in the same deal. Bahala po tayo sa lupa, sila po ang magkukonstruct.
 
-**[02:36:26.600] Senator Erwin Tulfo** (asr-002343)  
+**[02:36:26.600] Senator Erwin T. Tulfo** (asr-002343)  
 No money out po sa atin. Pati yung reserve po, yung fuel, ilalagay po nila. Well, double purpose din po sa kanila yun para kung magkakaroon na naman ng gera or something to that effect like closing Strait of Hormuz, Arabian Sea, etc.
 
-**[02:36:45.240] Senator Erwin Tulfo** (asr-002344)  
+**[02:36:45.240] Senator Erwin T. Tulfo** (asr-002344)  
 Meron na po silang pagkukunan na labas sa country nila. That's what their plans are. And then, what do we get out of it will be the first priority.
 
-**[02:36:55.860] Senator Erwin Tulfo** (asr-002345)  
+**[02:36:55.860] Senator Erwin T. Tulfo** (asr-002345)  
 So, number two, hindi naman totally bawaba na malaki yung price. Pero may konting effect because hindi na po itatransport kung meron na po mga storage facilities. I believe DOE also is making or talking with Japan, Ministry of Energy, METI.
 
-**[02:37:21.080] Senator Erwin Tulfo** (asr-002346)  
+**[02:37:21.080] Senator Erwin T. Tulfo** (asr-002346)  
 So, yun po. Yung tatlong...
 
-**[02:37:25.860] Senator Erwin Tulfo** (asr-002347)  
+**[02:37:25.860] Senator Erwin T. Tulfo** (asr-002347)  
 Aspect po na yun. Yun ang tanong ko sa inyo. Anong position nyo rito, Secretary?
 
 **[02:37:32.320] DEPDev Secretary Arsenio M. Balisacan** (asr-002348)  
@@ -6700,97 +6700,97 @@ To complement that measure, Mr. Chair, like increasing the mix of our energy. It
 **[02:39:21.860] DEPDev Secretary Arsenio M. Balisacan** (asr-002354)  
 technologically manageable. And we can assure of the safety of such technology because that's very cheap also from a source of energy. And so, yeah, I completely agree. We should move into diversifying our sources and making sure that we need the power when we need the most.
 
-**[02:39:48.540] Senator Erwin Tulfo** (asr-002355)  
+**[02:39:48.540] Senator Erwin T. Tulfo** (asr-002355)  
 Mr. Secretary, I believe on your next cabinet meeting, you might want to...
 
-**[02:39:51.880] Senator Erwin Tulfo** (asr-002356)  
+**[02:39:51.880] Senator Erwin T. Tulfo** (asr-002356)  
 I'm going to have to inform or remind the President because I believe on his visit in Dubai,
 
-**[02:39:56.480] Senator Erwin Tulfo** (asr-002357)  
+**[02:39:56.480] Senator Erwin T. Tulfo** (asr-002357)  
 he was already informed of their interest in building storage facilities. I believe Secretary Garin was also informed about it.
 
-**[02:40:09.140] Senator Erwin Tulfo** (asr-002358)  
+**[02:40:09.140] Senator Erwin T. Tulfo** (asr-002358)  
 So, and just recently, Saudi Arabia also made a proposal wherein they want to build storage facilities. If we have all these countries' storage facilities,
 
-**[02:40:20.420] Senator Erwin Tulfo** (asr-002359)  
+**[02:40:20.420] Senator Erwin T. Tulfo** (asr-002359)  
 I guess we won't have any problems. Hindi po tayo kakaba-kaba pag nagkaroon po ng mga gera in the very near future dahil nandito po yung kanilang facilities.
 
-**[02:40:29.600] Senator Erwin Tulfo** (asr-002360)  
+**[02:40:29.600] Senator Erwin T. Tulfo** (asr-002360)  
 Another thing, Mr. Secretary, I want to bring to your attention. I don't know. Gusto ko sanang paimbestigahan because I'm the chairman of the Committee on Energy.
 
-**[02:40:39.020] Senator Erwin Tulfo** (asr-002361)  
+**[02:40:39.020] Senator Erwin T. Tulfo** (asr-002361)  
 Unfortunately, we're in the process of conducting impeachment trial and then meron po kami budget hearing. But I really would love to get my hands on this issue.
 
-**[02:40:50.420] Senator Erwin Tulfo** (asr-002362)  
+**[02:40:50.420] Senator Erwin T. Tulfo** (asr-002362)  
 About our electricity rate. I found out, Mr. Secretary, maybe your office, maybe you can help us out. You can help my committee look into this because we have a problem with our power.
 
-**[02:41:05.500] Senator Erwin Tulfo** (asr-002363)  
+**[02:41:05.500] Senator Erwin T. Tulfo** (asr-002363)  
 It's one of the most expensive or the most expensive in the sea. But Mr. Secretary, when I did my research a couple of days ago, about 60% of our power, electricity, the source is coal.
 
-**[02:41:20.340] Senator Erwin Tulfo** (asr-002364)  
+**[02:41:20.340] Senator Erwin T. Tulfo** (asr-002364)  
 60%.
 
-**[02:41:20.420] Senator Erwin Tulfo** (asr-002365)  
+**[02:41:20.420] Senator Erwin T. Tulfo** (asr-002365)  
 About 10% to 15% is a bunker fuel. Pero how come the rate is so high, Mr. Secretary? And so I looked into it and I saw the problem.
 
-**[02:41:34.960] Senator Erwin Tulfo** (asr-002366)  
+**[02:41:34.960] Senator Erwin T. Tulfo** (asr-002366)  
 We get most of our coal from Jakarta. It's like 3 pesos per kilowatt hour. Bunker fuel per kilowatt hour is like about 25, 35 pesos. So there's a big difference.
 
-**[02:41:47.300] Senator Erwin Tulfo** (asr-002367)  
+**[02:41:47.300] Senator Erwin T. Tulfo** (asr-002367)  
 3 pesos po itong isa. 35 po itong isa. Pero pag dumating na po sa WESEM, sa spot market, pumapantay na po yung coal.
 
-**[02:42:02.380] Senator Erwin Tulfo** (asr-002368)  
+**[02:42:02.380] Senator Erwin T. Tulfo** (asr-002368)  
 At ang reason, kasi daw yung shipment. And I don't think, Mr. Secretary, na from 3 pesos, aabot sa 35 pesos ang coal dahil sa shipment.
 
-**[02:42:15.240] Senator Erwin Tulfo** (asr-002369)  
+**[02:42:15.240] Senator Erwin T. Tulfo** (asr-002369)  
 Pinapantay po. Nagkakaproblema po tayo sa WESEM.
 
-**[02:42:17.220] Senator Erwin Tulfo** (asr-002370)  
+**[02:42:17.220] Senator Erwin T. Tulfo** (asr-002370)  
 Sa spot market. Pumapantay po yung 3 pesos na coal sa bunker fuel. I guess if we can address this issue, if we can call the attention of WESEM, and probably the ERC can help us out, control this.
 
-**[02:42:33.940] Senator Erwin Tulfo** (asr-002371)  
+**[02:42:33.940] Senator Erwin T. Tulfo** (asr-002371)  
 I believe, Mr. Secretary, magiging affordable kahit papano yung electricity natin. Hindi po, sir. Ang ginagawa po sa spot market, dito po yung bunker fuel, dito po yung coal.
 
-**[02:42:46.080] Senator Erwin Tulfo** (asr-002372)  
+**[02:42:46.080] Senator Erwin T. Tulfo** (asr-002372)  
 Pinapantay po nila. You get what I mean? Wala na po yung difference eh.
 
-**[02:42:54.280] Senator Erwin Tulfo** (asr-002373)  
+**[02:42:54.280] Senator Erwin T. Tulfo** (asr-002373)  
 Eh dapat po mas mura dahil coal po tayo. Hindi naman po bunker. Bunker is only 15%.
 
-**[02:43:00.320] Senator Erwin Tulfo** (asr-002374)  
+**[02:43:00.320] Senator Erwin T. Tulfo** (asr-002374)  
 We use like about 60%. So maybe, Mr. Secretary, through your office, maybe you can call the attention of the WESEM para po ikang matignan po ito.
 
-**[02:43:12.160] Senator Erwin Tulfo** (asr-002375)  
+**[02:43:12.160] Senator Erwin T. Tulfo** (asr-002375)  
 Because there's really a big disparity, Mr. Secretary.
 
-**[02:43:16.080] Senator Erwin Tulfo** (asr-002376)  
+**[02:43:16.080] Senator Erwin T. Tulfo** (asr-002376)  
 And if we can do something about this, I guess we can bring the electricity rate down, Secretary Balisakan.
 
 **[02:43:24.880] DEPDev Secretary Arsenio M. Balisacan** (asr-002377)  
 Look into it, sir.
 
-**[02:43:27.100] Senator Erwin Tulfo** (asr-002378)  
+**[02:43:27.100] Senator Erwin T. Tulfo** (asr-002378)  
 Thank you, sir. That's what we found out recently. And I was informed by my contacts in the Energy Department na yan nga daw po ang problema.
 
-**[02:43:42.140] Senator Erwin Tulfo** (asr-002379)  
+**[02:43:42.140] Senator Erwin T. Tulfo** (asr-002379)  
 Alright, sir.
 
-**[02:43:46.080] Senator Erwin Tulfo** (asr-002380)  
+**[02:43:46.080] Senator Erwin T. Tulfo** (asr-002380)  
 Under the 2025 COA report, Mr. Secretary, the NEDA Building Improvement Project, Phase 1, 2, and 3, with a combined contract cost of 641.556 million, remain not completed due to risk, contingencies, and other circumstances not adequately considered by both the agency and the contractor.
 
-**[02:44:13.760] Senator Erwin Tulfo** (asr-002381)  
+**[02:44:13.760] Senator Erwin T. Tulfo** (asr-002381)  
 Resulting in project delays.
 
-**[02:44:16.080] Senator Erwin Tulfo** (asr-002382)  
+**[02:44:16.080] Senator Erwin T. Tulfo** (asr-002382)  
 Resulting in project delays and multiple contract amendments, extensions, which affected the timely delivery of intended benefits to end-users. Moreover, payment for variation orders arising from the erroneous as found plans submitted by the contractor resulted in increased costs to the agency and further contributed to delays in project completion.
 
-**[02:44:40.960] Senator Erwin Tulfo** (asr-002385)  
+**[02:44:40.960] Senator Erwin T. Tulfo** (asr-002385)  
 May project delays po ang NEDA building, improvement project with a combined contract cost worth 641 million.
 
-**[02:44:49.900] Senator Erwin Tulfo** (asr-002386)  
+**[02:44:49.900] Senator Erwin T. Tulfo** (asr-002386)  
 Madaming contract amendments and extensions.
 
-**[02:44:53.640] Senator Erwin Tulfo** (asr-002387)  
+**[02:44:53.640] Senator Erwin T. Tulfo** (asr-002387)  
 Naayos na po ba itong problema na ito, Mr. Secretary?
 
 **[02:45:00.000] DEPDev Secretary Arsenio M. Balisacan** (asr-002388)  
@@ -6799,10 +6799,10 @@ Yes, Mr. Chair, but I have my Undersecretary Monica Pagunsan here who is in char
 **[02:45:18.400] DEPDev Secretary Arsenio M. Balisacan** (asr-002389)  
 But what you mentioned is correct. We only found later after digging the basement for the basement of the building that the structure of the building adjacent to what we are trying to build was not stable because I believe some defects in the earlier construction.
 
-**[02:45:44.780] Senator Erwin Tulfo** (asr-002390)  
+**[02:45:44.780] Senator Erwin T. Tulfo** (asr-002390)  
 What is the problem initially on your investment?
 
-**[02:45:48.400] Senator Erwin Tulfo** (asr-002391)  
+**[02:45:48.400] Senator Erwin T. Tulfo** (asr-002391)  
 Before we go to the Undersecretary, I don't have any problem as a design. Is it the contractor's fault trying to save money? What is it?
 
 **[02:46:01.860] DEPDev Secretary Arsenio M. Balisacan** (asr-002392)  
@@ -6814,7 +6814,7 @@ It was adjacent to an existing building and it turned out that the walls for tha
 **[02:46:48.400] DEPDev Secretary Arsenio M. Balisacan** (asr-002394)  
 But Monica knows the details better than I do.
 
-**[02:46:54.800] Senator Erwin Tulfo** (asr-002395)  
+**[02:46:54.800] Senator Erwin T. Tulfo** (asr-002395)  
 Go ahead, Undersecretary, ma'am. Go ahead.
 
 **[02:46:57.920] DEPDev Undersecretary Ma. Monica P. Pagunsan** (asr-002396)  
@@ -6847,16 +6847,16 @@ Of the first…
 **[02:48:18.400] DEPDev Undersecretary Ma. Monica P. Pagunsan** (asr-002405)  
 The completion. In other words, we did not accept the project. That was why there was also a delay in the execution of the renovation.
 
-**[02:48:31.680] Senator Erwin Tulfo** (asr-002406)  
+**[02:48:31.680] Senator Erwin T. Tulfo** (asr-002406)  
 Kaya nga, ma'am, saan ho naging problema? Lack of foresight? Kanino pong kasalanan? Is it the contractor?
 
-**[02:48:37.080] Senator Erwin Tulfo** (asr-002407)  
+**[02:48:37.080] Senator Erwin T. Tulfo** (asr-002407)  
 Of course, when you do renovation, Undersecretary, there will be plans. Good thing po, nakita ho ninyo bago may madisgrasya, di po ba may mamatay.
 
-**[02:48:48.400] Senator Erwin Tulfo** (asr-002408)  
+**[02:48:48.400] Senator Erwin T. Tulfo** (asr-002408)  
 Kunting lindo lang ho yan. Tama si Secretary. Baka may mga masaktan. So, it was good. Pero my question is, lack of foresight? Yung planning? O yung ikang drawing ng architect?
 
-**[02:49:03.080] Senator Erwin Tulfo** (asr-002409)  
+**[02:49:03.080] Senator Erwin T. Tulfo** (asr-002409)  
 I mean, they should have submitted plans for the repair, Undersecretary.
 
 **[02:49:10.480] DEPDev Undersecretary Ma. Monica P. Pagunsan** (asr-002410)  
@@ -6886,16 +6886,16 @@ So, we did our best. I think there was… Our designers did… They may not have
 **[02:50:47.680] DEPDev Undersecretary Ma. Monica P. Pagunsan** (asr-002418)  
 However, dahil as-found… We did not find it during the design stage. Dahil it's… You really have to open up the certain areas before you do remediation.
 
-**[02:51:05.560] Senator Erwin Tulfo** (asr-002419)  
+**[02:51:05.560] Senator Erwin T. Tulfo** (asr-002419)  
 Kasi ma'am, kung may mga… Kung ang problem po ninyo, yung pagiging stable ng building when you construct it, meron po dapat ikaw nga mga tinatawag tayo na soil.
 
-**[02:51:17.680] Senator Erwin Tulfo** (asr-002420)  
+**[02:51:17.680] Senator Erwin T. Tulfo** (asr-002420)  
 Ito ba yung malambot? Kasi may mga projects po tayo, take the case of that skyway they built in Iloilo, sagging po at sumasayaw-sayaw ngayon because hindi po sila nag-soil test.
 
-**[02:51:33.480] Senator Erwin Tulfo** (asr-002421)  
+**[02:51:33.480] Senator Erwin T. Tulfo** (asr-002421)  
 Kaya yung foundation ng tulay ko sa Iloilo, gumaganoon. Under investigation nga din po. Kasama po yun dyan sa flood control issue. Kasi nga po yung contractor iniimbestigahan na ngayon dahil hindi nga po stable.
 
-**[02:51:47.680] Senator Erwin Tulfo** (asr-002422)  
+**[02:51:47.680] Senator Erwin T. Tulfo** (asr-002422)  
 Wala po bang ginawang soil test ang ika nga contractor o yung engineers na ika nga nagagawa po ng building na yan para ika nga masiguro na safe po na magtayo ng building dyan?
 
 **[02:52:06.520] DEPDev Undersecretary Ma. Monica P. Pagunsan** (asr-002423)  
@@ -6913,7 +6913,7 @@ Yung nare-refer po ng kuha namin, it's on the size of the particular…
 **[02:52:47.680] DEPDev Undersecretary Ma. Monica P. Pagunsan** (asr-002427)  
 Building. I mean, the size of that particular area wherein we really do have to make some variation order because of as found nga na po na we need to address.
 
-**[02:53:03.080] Senator Erwin Tulfo** (asr-002428)  
+**[02:53:03.080] Senator Erwin T. Tulfo** (asr-002428)  
 So ano hong status ngayon ng construction po na yan? Naka-hold po?
 
 **[02:53:06.940] DEPDev Undersecretary Ma. Monica P. Pagunsan** (asr-002429)  
@@ -6931,22 +6931,22 @@ Ah, September 30, 2026. And we are looking at… September 30 pala, sorry.
 **[02:54:03.120] DEPDev Undersecretary Ma. Monica P. Pagunsan** (asr-002433)  
 August 31, 2026. And we are expecting to transfer by January, Mr. Senator Tulfo.
 
-**[02:54:15.220] Senator Erwin Tulfo** (asr-002434)  
+**[02:54:15.220] Senator Erwin T. Tulfo** (asr-002434)  
 All right, ma'am. I'm satisfied.
 
-**[02:54:17.680] Senator Erwin Tulfo** (asr-002435)  
+**[02:54:17.680] Senator Erwin T. Tulfo** (asr-002435)  
 I'm satisfied with your answer. Parang kinakabahan ho kayo.
 
 **[02:54:20.060] DEPDev Undersecretary Ma. Monica P. Pagunsan** (asr-002436)  
 Kinakabahan ho talaga ako. Kaya I was not expecting that I'm going to answer this question.
 
-**[02:54:25.220] Senator Erwin Tulfo** (asr-002437)  
+**[02:54:25.220] Senator Erwin T. Tulfo** (asr-002437)  
 You blame Secretary Balisakan. Anyway, going back to you, Secretary Balisakan, sir.
 
-**[02:54:34.320] Senator Erwin Tulfo** (asr-002438)  
+**[02:54:34.320] Senator Erwin T. Tulfo** (asr-002438)  
 Last August 2026, I don't know if this was already asked kanina by my colleagues, the Senate created the Reinvigorate Investment and Sustainable Economic Growth or RISE.
 
-**[02:54:47.680] Senator Erwin Tulfo** (asr-002439)  
+**[02:54:47.680] Senator Erwin T. Tulfo** (asr-002439)  
 Ad-hoc committee to address the recent slowdown in the Philippine economy. I am the vice chair of this ad-hoc committee, Mr. Secretary. May mga nakikita ba kayong legislative reforms and long-term policy interventions aimed at sustainable economic growth?
 
 **[02:55:08.400] DEPDev Secretary Arsenio M. Balisacan** (asr-002440)  
@@ -6970,16 +6970,16 @@ The others have to do with improving accountability and transparency, access to�
 **[02:56:17.680] DEPDev Secretary Arsenio M. Balisacan** (asr-002446)  
 Information that we believe will help improve the sentiment of our people, particularly the investing community and our economy.
 
-**[02:56:32.960] Senator Erwin Tulfo** (asr-002447)  
+**[02:56:32.960] Senator Erwin T. Tulfo** (asr-002447)  
 Mr. Chair, I mean, Mr. Secretary, is it true because of the economy slowed down last year because of our expenses, government spending, particularly in construction?
 
-**[02:56:47.680] Senator Erwin Tulfo** (asr-002448)  
+**[02:56:47.680] Senator Erwin T. Tulfo** (asr-002448)  
 Dahil nga po, ang center of attention was the flood control by the public works and highways, so nag-slow down.
 
-**[02:56:55.240] Senator Erwin Tulfo** (asr-002449)  
+**[02:56:55.240] Senator Erwin T. Tulfo** (asr-002449)  
 Do you think we will do better this year? I mean, the Senate is funding now construction, I mean, funds for infrastructure by the public works and highways by next year, 2027.
 
-**[02:57:08.080] Senator Erwin Tulfo** (asr-002450)  
+**[02:57:08.080] Senator Erwin T. Tulfo** (asr-002450)  
 Do you think it will greatly help? Because right now, sir, last year or this year, talaga nag-slow down po yung ating economy.
 
 **[02:57:17.680] DEPDev Secretary Arsenio M. Balisacan** (asr-002451)  
@@ -7048,37 +7048,37 @@ DA for their farm-to-market roads and irrigation,
 **[03:00:55.100] DEPDev Secretary Arsenio M. Balisacan** (asr-002472)  
 and so on, there's a lot of that, Mr. Chair.
 
-**[03:00:59.240] Senator Erwin Tulfo** (asr-002473)  
+**[03:00:59.240] Senator Erwin T. Tulfo** (asr-002473)  
 Thank you, Secretary.
 
-**[03:01:00.780] Senator Erwin Tulfo** (asr-002474)  
+**[03:01:00.780] Senator Erwin T. Tulfo** (asr-002474)  
 Mr. Chair, before I go back to the plenary,
 
-**[03:01:04.780] Senator Erwin Tulfo** (asr-002475)  
+**[03:01:04.780] Senator Erwin T. Tulfo** (asr-002475)  
 I would just like to tell this body that I support
 
-**[03:01:09.200] Senator Erwin Tulfo** (asr-002476)  
+**[03:01:09.200] Senator Erwin T. Tulfo** (asr-002476)  
 for the passage of the budget of the DEP-DEV.
 
-**[03:01:15.060] Senator Erwin Tulfo** (asr-002477)  
+**[03:01:15.060] Senator Erwin T. Tulfo** (asr-002477)  
 And if there is any more or anything that they would like to add on,
 
-**[03:01:20.360] Senator Erwin Tulfo** (asr-002478)  
+**[03:01:20.360] Senator Erwin T. Tulfo** (asr-002478)  
 we will see at the plenary.
 
-**[03:01:22.640] Senator Erwin Tulfo** (asr-002479)  
+**[03:01:22.640] Senator Erwin T. Tulfo** (asr-002479)  
 So I will be supporting, rest assured,
 
-**[03:01:25.100] Senator Erwin Tulfo** (asr-002480)  
+**[03:01:25.100] Senator Erwin T. Tulfo** (asr-002480)  
 I support, Mr. Secretary,
 
-**[03:01:27.340] Senator Erwin Tulfo** (asr-002481)  
+**[03:01:27.340] Senator Erwin T. Tulfo** (asr-002481)  
 for the passage of this budget for 2027 of the DEP-DEV.
 
-**[03:01:32.360] Senator Erwin Tulfo** (asr-002482)  
+**[03:01:32.360] Senator Erwin T. Tulfo** (asr-002482)  
 Thank you, Secretary.
 
-**[03:01:34.220] Senator Erwin Tulfo** (asr-002483)  
+**[03:01:34.220] Senator Erwin T. Tulfo** (asr-002483)  
 Thank you, Mr. Chair.
 
 **[03:01:35.660] Senator Joseph Victor "JV" G. Ejercito** (asr-002484)  

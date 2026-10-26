@@ -308,7 +308,7 @@ Pangilinan said that, of 45 agriculture economic-sabotage complaints referred to
 
 [00:10:00 · asr-000060](https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000060) · [00:10:22 · asr-000063](https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000063) · [00:10:28 · asr-000064](https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000064) · [00:11:19 · asr-000073](https://tordecilla.github.io/budget-hearings-2026/records/52/#asr-000073)
 
-## Senator Panfilo Lacson
+## Senator Panfilo "Ping" M. Lacson
 
 ### Case-disposition calculation and performance data
 

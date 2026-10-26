@@ -88,7 +88,7 @@ Tulfo asked whether the PCG had included a roughly ₱360 million health-insuran
 
 ### Foreign-assisted transport projects and implementation
 
-Senator Sherwin "Win" T. Gatchalian contrasted the roughly 50% disbursement rate he had seen with Lopez's report that, as of July 2026, DOTr's obligation rate was above 80% and disbursement was 50%; 80% of disbursements were for FAPs, and ₱33 billion was disbursed in June and July, recorded in July. Gatchalian said the FY2027 FAP allocation was about ₱232 billion and warned that delays could leave funds unused, trigger later reductions, harm official development assistance (ODA) projects and local suppliers, and undermine Japan's confidence. Lopez said the FAP total combined loan proceeds and government counterpart funding and that DOTr requested ₱500 billion, citing accumulated invoices, prolongation costs, suspension-related costs and financing charges. He referred the project status to Batan.
+Senate President Sherwin "Win" T. Gatchalian contrasted the roughly 50% disbursement rate he had seen with Lopez's report that, as of July 2026, DOTr's obligation rate was above 80% and disbursement was 50%; 80% of disbursements were for FAPs, and ₱33 billion was disbursed in June and July, recorded in July. Gatchalian said the FY2027 FAP allocation was about ₱232 billion and warned that delays could leave funds unused, trigger later reductions, harm official development assistance (ODA) projects and local suppliers, and undermine Japan's confidence. Lopez said the FAP total combined loan proceeds and government counterpart funding and that DOTr requested ₱500 billion, citing accumulated invoices, prolongation costs, suspension-related costs and financing charges. He referred the project status to Batan.
 
 [01:24:57 · asr-002143](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002143) · [01:25:26 · asr-002158](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002158) · [01:25:48 · asr-002169](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002169) · [01:25:58 · asr-002174](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002174) · [01:26:01 · asr-002175](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002175) · [01:28:17 · asr-002244](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-002244)
 
@@ -304,7 +304,7 @@ Ejercito said transportation investment supports economic growth beyond commuter
 
 [00:10:59 · asr-000285](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000285) · [00:11:25 · asr-000305](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000305) · [00:12:19 · asr-000358](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-000358)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### Public transport funding, service and accountability
 
@@ -368,7 +368,7 @@ Ejercito asked about ports in San Fernando, El Nido, Borac, and Coron, saying a 
 
 [05:23:13 · asr-007989](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007989) · [05:23:42 · asr-007997](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-007997) · [05:24:14 · asr-008004](https://tordecilla.github.io/budget-hearings-2026/records/58/#asr-008004)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Weekly public-transport commute practice
 

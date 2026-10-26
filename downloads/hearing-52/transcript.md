@@ -223,7 +223,7 @@ Ng mga anak natin ang nakataya. We look forward to a productive and candid discu
 **[00:12:19.860] Senator Francis Kiko Pangilinan** (asr-000082)  
 We now ask Senator Lacson for his opening statement. You have the floor, sir.
 
-**[00:12:24.240] Senator Panfilo Lacson** (asr-000083)  
+**[00:12:24.240] Senator Panfilo "Ping" M. Lacson** (asr-000083)  
 None from this representation, Mr. Chairman.
 
 **[00:12:28.100] Senator Francis Kiko Pangilinan** (asr-000084)  
@@ -1558,64 +1558,64 @@ Ping Lakson has the floor.
 **[00:34:27.180] Senator Francis Kiko Pangilinan** (asr-000529)  
 Go ahead, Senator Ping, you have 10 minutes.
 
-**[00:34:29.800] Senator Panfilo Lacson** (asr-000530)  
+**[00:34:29.800] Senator Panfilo "Ping" M. Lacson** (asr-000530)  
 Thank you, Mr. Chairman.
 
-**[00:34:31.000] Senator Panfilo Lacson** (asr-000531)  
+**[00:34:31.000] Senator Panfilo "Ping" M. Lacson** (asr-000531)  
 Before I proceed to my particular point of interest
 
-**[00:34:34.340] Senator Panfilo Lacson** (asr-000532)  
+**[00:34:34.340] Senator Panfilo "Ping" M. Lacson** (asr-000532)  
 in today's budget hearing or briefing,
 
-**[00:34:37.460] Senator Panfilo Lacson** (asr-000533)  
+**[00:34:37.460] Senator Panfilo "Ping" M. Lacson** (asr-000533)  
 let me just seek clarification on the disposition of cases,
 
-**[00:34:43.100] Senator Panfilo Lacson** (asr-000534)  
+**[00:34:43.100] Senator Panfilo "Ping" M. Lacson** (asr-000534)  
 yung disposition rate.
 
-**[00:34:44.720] Senator Panfilo Lacson** (asr-000535)  
+**[00:34:44.720] Senator Panfilo "Ping" M. Lacson** (asr-000535)  
 Apparently, there's a mathematical error.
 
-**[00:34:47.600] Senator Panfilo Lacson** (asr-000536)  
+**[00:34:47.600] Senator Panfilo "Ping" M. Lacson** (asr-000536)  
 Kasi when we computed,
 
-**[00:34:48.720] Senator Panfilo Lacson** (asr-000537)  
+**[00:34:48.720] Senator Panfilo "Ping" M. Lacson** (asr-000537)  
 ang data nyo rito is 428,779 cases,
 
-**[00:34:55.240] Senator Panfilo Lacson** (asr-000538)  
+**[00:34:55.240] Senator Panfilo "Ping" M. Lacson** (asr-000538)  
 this was in 2025.
 
-**[00:34:58.140] Senator Panfilo Lacson** (asr-000539)  
+**[00:34:58.140] Senator Panfilo "Ping" M. Lacson** (asr-000539)  
 Ang na-dispose or resolved
 
-**[00:35:03.920] Senator Panfilo Lacson** (asr-000540)  
+**[00:35:03.920] Senator Panfilo "Ping" M. Lacson** (asr-000540)  
 And you computed it at 99.12%.
 
-**[00:35:07.740] Senator Panfilo Lacson** (asr-000541)  
+**[00:35:07.740] Senator Panfilo "Ping" M. Lacson** (asr-000541)  
 When we computed, nasa 92.3% lang.
 
-**[00:35:12.340] Senator Panfilo Lacson** (asr-000542)  
+**[00:35:12.340] Senator Panfilo "Ping" M. Lacson** (asr-000542)  
 Baka naman mali yung aming computation.
 
-**[00:35:15.700] Senator Panfilo Lacson** (asr-000543)  
+**[00:35:15.700] Senator Panfilo "Ping" M. Lacson** (asr-000543)  
 Pakiclarify lang nga.
 
-**[00:35:17.640] Senator Panfilo Lacson** (asr-000544)  
+**[00:35:17.640] Senator Panfilo "Ping" M. Lacson** (asr-000544)  
 Malaki yung discrepancy kasi between 99.12 and 92.3,
 
-**[00:35:23.160] Senator Panfilo Lacson** (asr-000545)  
+**[00:35:23.160] Senator Panfilo "Ping" M. Lacson** (asr-000545)  
 medyo malaki po.
 
-**[00:35:24.720] Senator Panfilo Lacson** (asr-000546)  
+**[00:35:24.720] Senator Panfilo "Ping" M. Lacson** (asr-000546)  
 At kung kailangan,
 
-**[00:35:25.240] Senator Panfilo Lacson** (asr-000547)  
+**[00:35:25.240] Senator Panfilo "Ping" M. Lacson** (asr-000547)  
 rectify, rectify lang natin.
 
-**[00:35:26.900] Senator Panfilo Lacson** (asr-000548)  
+**[00:35:26.900] Senator Panfilo "Ping" M. Lacson** (asr-000548)  
 Kung ako naman ang mali,
 
-**[00:35:28.800] Senator Panfilo Lacson** (asr-000549)  
+**[00:35:28.800] Senator Panfilo "Ping" M. Lacson** (asr-000549)  
 paki-explain lang.
 
 **[00:35:41.140] DOJ Secretary Fredderick A. Vida** (asr-000550)  
@@ -1678,10 +1678,10 @@ Kaya po, we computed it as 99.12% pa.
 **[00:36:35.220] DOJ Secretary Fredderick A. Vida** (asr-000569)  
 Ni-less po namin.
 
-**[00:36:36.260] Senator Panfilo Lacson** (asr-000570)  
+**[00:36:36.260] Senator Panfilo "Ping" M. Lacson** (asr-000570)  
 Maraming salamat sa clarification
 
-**[00:36:37.660] Senator Panfilo Lacson** (asr-000571)  
+**[00:36:37.660] Senator Panfilo "Ping" M. Lacson** (asr-000571)  
 kasi hindi naman napasama sa presentation.
 
 **[00:36:39.780] DOJ Secretary Fredderick A. Vida** (asr-000572)  
@@ -1690,97 +1690,97 @@ We will make the proper notation
 **[00:36:43.060] DOJ Secretary Fredderick A. Vida** (asr-000573)  
 so that it can be easily understood.
 
-**[00:36:45.820] Senator Panfilo Lacson** (asr-000574)  
+**[00:36:45.820] Senator Panfilo "Ping" M. Lacson** (asr-000574)  
 Kala ko, hindi marunong mag-math si Dong Padulyon eh.
 
 **[00:36:51.120] Senator Francis Kiko Pangilinan** (asr-000575)  
 Kaya nag-law school na lang.
 
-**[00:36:53.020] Senator Panfilo Lacson** (asr-000576)  
+**[00:36:53.020] Senator Panfilo "Ping" M. Lacson** (asr-000576)  
 ...
 
-**[00:36:55.240] Senator Panfilo Lacson** (asr-000577)  
+**[00:36:55.240] Senator Panfilo "Ping" M. Lacson** (asr-000577)  
 Ang second question,
 
-**[00:36:56.600] Senator Panfilo Lacson** (asr-000578)  
+**[00:36:56.600] Senator Panfilo "Ping" M. Lacson** (asr-000578)  
 doon sa same presentation,
 
-**[00:36:57.920] Senator Panfilo Lacson** (asr-000579)  
+**[00:36:57.920] Senator Panfilo "Ping" M. Lacson** (asr-000579)  
 90.84%,
 
-**[00:36:59.600] Senator Panfilo Lacson** (asr-000580)  
+**[00:36:59.600] Senator Panfilo "Ping" M. Lacson** (asr-000580)  
 ito yung prosecution success rate.
 
-**[00:37:02.840] Senator Panfilo Lacson** (asr-000581)  
+**[00:37:02.840] Senator Panfilo "Ping" M. Lacson** (asr-000581)  
 Define ito ng convictions versus acquittals.
 
-**[00:37:07.140] Senator Panfilo Lacson** (asr-000582)  
+**[00:37:07.140] Senator Panfilo "Ping" M. Lacson** (asr-000582)  
 Pero yung performance chain,
 
-**[00:37:09.140] Senator Panfilo Lacson** (asr-000583)  
+**[00:37:09.140] Senator Panfilo "Ping" M. Lacson** (asr-000583)  
 gusto na namin makita yung further details.
 
-**[00:37:11.940] Senator Panfilo Lacson** (asr-000584)  
+**[00:37:11.940] Senator Panfilo "Ping" M. Lacson** (asr-000584)  
 Yung share of all complaints received,
 
-**[00:37:14.860] Senator Panfilo Lacson** (asr-000585)  
+**[00:37:14.860] Senator Panfilo "Ping" M. Lacson** (asr-000585)  
 yung nakarating sa filing,
 
-**[00:37:16.920] Senator Panfilo Lacson** (asr-000586)  
+**[00:37:16.920] Senator Panfilo "Ping" M. Lacson** (asr-000586)  
 trial,
 
-**[00:37:18.060] Senator Panfilo Lacson** (asr-000587)  
+**[00:37:18.060] Senator Panfilo "Ping" M. Lacson** (asr-000587)  
 final conviction.
 
-**[00:37:19.800] Senator Panfilo Lacson** (asr-000588)  
+**[00:37:19.800] Senator Panfilo "Ping" M. Lacson** (asr-000588)  
 So, meron ba kayo dyang data?
 
-**[00:37:21.680] Senator Panfilo Lacson** (asr-000589)  
+**[00:37:21.680] Senator Panfilo "Ping" M. Lacson** (asr-000589)  
 Kung wala naman,
 
-**[00:37:22.280] Senator Panfilo Lacson** (asr-000590)  
+**[00:37:22.280] Senator Panfilo "Ping" M. Lacson** (asr-000590)  
 pwede namang isubmit later.
 
-**[00:37:23.920] Senator Panfilo Lacson** (asr-000591)  
+**[00:37:23.920] Senator Panfilo "Ping" M. Lacson** (asr-000591)  
 Pero kung meron kayong,
 
-**[00:37:25.240] Senator Panfilo Lacson** (asr-000592)  
+**[00:37:25.240] Senator Panfilo "Ping" M. Lacson** (asr-000592)  
 complete performance,
 
-**[00:37:27.020] Senator Panfilo Lacson** (asr-000593)  
+**[00:37:27.020] Senator Panfilo "Ping" M. Lacson** (asr-000593)  
 yung data sa performance chain,
 
-**[00:37:29.820] Senator Panfilo Lacson** (asr-000594)  
+**[00:37:29.820] Senator Panfilo "Ping" M. Lacson** (asr-000594)  
 yung
 
-**[00:37:30.880] Senator Panfilo Lacson** (asr-000595)  
+**[00:37:30.880] Senator Panfilo "Ping" M. Lacson** (asr-000595)  
 as to the complaints received,
 
-**[00:37:33.360] Senator Panfilo Lacson** (asr-000596)  
+**[00:37:33.360] Senator Panfilo "Ping" M. Lacson** (asr-000596)  
 dismissed, filed, withdrawn,
 
-**[00:37:34.640] Senator Panfilo Lacson** (asr-000597)  
+**[00:37:34.640] Senator Panfilo "Ping" M. Lacson** (asr-000597)  
 plea bargain,
 
-**[00:37:35.380] Senator Panfilo Lacson** (asr-000598)  
+**[00:37:35.380] Senator Panfilo "Ping" M. Lacson** (asr-000598)  
 convicted, acquitted,
 
-**[00:37:36.660] Senator Panfilo Lacson** (asr-000599)  
+**[00:37:36.660] Senator Panfilo "Ping" M. Lacson** (asr-000599)  
 archived,
 
-**[00:37:37.560] Senator Panfilo Lacson** (asr-000600)  
+**[00:37:37.560] Senator Panfilo "Ping" M. Lacson** (asr-000600)  
 appealed,
 
-**[00:37:38.140] Senator Panfilo Lacson** (asr-000601)  
+**[00:37:38.140] Senator Panfilo "Ping" M. Lacson** (asr-000601)  
 and finally resolved.
 
-**[00:37:40.060] Senator Panfilo Lacson** (asr-000602)  
+**[00:37:40.060] Senator Panfilo "Ping" M. Lacson** (asr-000602)  
 Kung meron lang,
 
-**[00:37:40.760] Senator Panfilo Lacson** (asr-000603)  
+**[00:37:40.760] Senator Panfilo "Ping" M. Lacson** (asr-000603)  
 kung wala naman,
 
-**[00:37:41.380] Senator Panfilo Lacson** (asr-000604)  
+**[00:37:41.380] Senator Panfilo "Ping" M. Lacson** (asr-000604)  
 we're willing to wait.
 
 **[00:37:42.780] DOJ Secretary Fredderick A. Vida** (asr-000605)  
@@ -1795,124 +1795,124 @@ disaggregated para mas,
 **[00:37:47.740] DOJ Secretary Fredderick A. Vida** (asr-000608)  
 with the proper filters.
 
-**[00:37:49.740] Senator Panfilo Lacson** (asr-000609)  
+**[00:37:49.740] Senator Panfilo "Ping" M. Lacson** (asr-000609)  
 Thank you.
 
-**[00:37:50.580] Senator Panfilo Lacson** (asr-000610)  
+**[00:37:50.580] Senator Panfilo "Ping" M. Lacson** (asr-000610)  
 Now, I'll proceed to the,
 
-**[00:37:52.040] Senator Panfilo Lacson** (asr-000611)  
+**[00:37:52.040] Senator Panfilo "Ping" M. Lacson** (asr-000611)  
 yung automatic appropriations.
 
-**[00:37:54.200] Senator Panfilo Lacson** (asr-000612)  
+**[00:37:54.200] Senator Panfilo "Ping" M. Lacson** (asr-000612)  
 Particularly,
 
-**[00:37:55.240] Senator Panfilo Lacson** (asr-000613)  
+**[00:37:55.240] Senator Panfilo "Ping" M. Lacson** (asr-000613)  
 doon sa special accounts.
 
-**[00:37:57.640] Senator Panfilo Lacson** (asr-000614)  
+**[00:37:57.640] Senator Panfilo "Ping" M. Lacson** (asr-000614)  
 Gusto ko lang malaman yung
 
-**[00:37:59.280] Senator Panfilo Lacson** (asr-000615)  
+**[00:37:59.280] Senator Panfilo "Ping" M. Lacson** (asr-000615)  
 how much
 
-**[00:38:01.240] Senator Panfilo Lacson** (asr-000616)  
+**[00:38:01.240] Senator Panfilo "Ping" M. Lacson** (asr-000616)  
 income was generated
 
-**[00:38:04.260] Senator Panfilo Lacson** (asr-000617)  
+**[00:38:04.260] Senator Panfilo "Ping" M. Lacson** (asr-000617)  
 against those earmarked
 
-**[00:38:08.080] Senator Panfilo Lacson** (asr-000618)  
+**[00:38:08.080] Senator Panfilo "Ping" M. Lacson** (asr-000618)  
 to the different agencies
 
-**[00:38:09.940] Senator Panfilo Lacson** (asr-000619)  
+**[00:38:09.940] Senator Panfilo "Ping" M. Lacson** (asr-000619)  
 under automatic appropriations
 
-**[00:38:13.500] Senator Panfilo Lacson** (asr-000620)  
+**[00:38:13.500] Senator Panfilo "Ping" M. Lacson** (asr-000620)  
 or under special accounts.
 
-**[00:38:16.460] Senator Panfilo Lacson** (asr-000621)  
+**[00:38:16.460] Senator Panfilo "Ping" M. Lacson** (asr-000621)  
 Kasi may mga income generating
 
-**[00:38:18.700] Senator Panfilo Lacson** (asr-000622)  
+**[00:38:18.700] Senator Panfilo "Ping" M. Lacson** (asr-000622)  
 agencies kayo, di ba?
 
-**[00:38:20.140] Senator Panfilo Lacson** (asr-000623)  
+**[00:38:20.140] Senator Panfilo "Ping" M. Lacson** (asr-000623)  
 Like,
 
-**[00:38:21.220] Senator Panfilo Lacson** (asr-000624)  
+**[00:38:21.220] Senator Panfilo "Ping" M. Lacson** (asr-000624)  
 ang malaki rito,
 
-**[00:38:22.160] Senator Panfilo Lacson** (asr-000625)  
+**[00:38:22.160] Senator Panfilo "Ping" M. Lacson** (asr-000625)  
 LRA,
 
-**[00:38:23.100] Senator Panfilo Lacson** (asr-000626)  
+**[00:38:23.100] Senator Panfilo "Ping" M. Lacson** (asr-000626)  
 Bureau of Immigration.
 
-**[00:38:24.500] Senator Panfilo Lacson** (asr-000627)  
+**[00:38:24.500] Senator Panfilo "Ping" M. Lacson** (asr-000627)  
 Ito yung mga trust receipts.
 
-**[00:38:25.240] Senator Panfilo Lacson** (asr-000628)  
+**[00:38:25.240] Senator Panfilo "Ping" M. Lacson** (asr-000628)  
 And, naturally,
 
-**[00:38:28.020] Senator Panfilo Lacson** (asr-000629)  
+**[00:38:28.020] Senator Panfilo "Ping" M. Lacson** (asr-000629)  
 lahat ito,
 
-**[00:38:29.400] Senator Panfilo Lacson** (asr-000630)  
+**[00:38:29.400] Senator Panfilo "Ping" M. Lacson** (asr-000630)  
 binabalik natin sa treasury,
 
-**[00:38:31.980] Senator Panfilo Lacson** (asr-000631)  
+**[00:38:31.980] Senator Panfilo "Ping" M. Lacson** (asr-000631)  
 di ba?
 
-**[00:38:32.180] Senator Panfilo Lacson** (asr-000632)  
+**[00:38:32.180] Senator Panfilo "Ping" M. Lacson** (asr-000632)  
 Sinasabit.
 
-**[00:38:33.100] Senator Panfilo Lacson** (asr-000633)  
+**[00:38:33.100] Senator Panfilo "Ping" M. Lacson** (asr-000633)  
 And then,
 
-**[00:38:33.740] Senator Panfilo Lacson** (asr-000634)  
+**[00:38:33.740] Senator Panfilo "Ping" M. Lacson** (asr-000634)  
 we are required to just request.
 
-**[00:38:36.360] Senator Panfilo Lacson** (asr-000635)  
+**[00:38:36.360] Senator Panfilo "Ping" M. Lacson** (asr-000635)  
 Ang gusto ko lang malaman,
 
-**[00:38:37.580] Senator Panfilo Lacson** (asr-000636)  
+**[00:38:37.580] Senator Panfilo "Ping" M. Lacson** (asr-000636)  
 yung ratio,
 
-**[00:38:39.200] Senator Panfilo Lacson** (asr-000637)  
+**[00:38:39.200] Senator Panfilo "Ping" M. Lacson** (asr-000637)  
 how much was earned
 
-**[00:38:40.260] Senator Panfilo Lacson** (asr-000638)  
+**[00:38:40.260] Senator Panfilo "Ping" M. Lacson** (asr-000638)  
 by the different agencies
 
-**[00:38:42.040] Senator Panfilo Lacson** (asr-000639)  
+**[00:38:42.040] Senator Panfilo "Ping" M. Lacson** (asr-000639)  
 paki-breakdown
 
-**[00:38:43.140] Senator Panfilo Lacson** (asr-000640)  
+**[00:38:43.140] Senator Panfilo "Ping" M. Lacson** (asr-000640)  
 as against those
 
-**[00:38:44.720] Senator Panfilo Lacson** (asr-000641)  
+**[00:38:44.720] Senator Panfilo "Ping" M. Lacson** (asr-000641)  
 appropriated under special accounts.
 
-**[00:38:49.380] Senator Panfilo Lacson** (asr-000642)  
+**[00:38:49.380] Senator Panfilo "Ping" M. Lacson** (asr-000642)  
 Dito namin kayo pwedeng tulungan.
 
-**[00:38:51.040] Senator Panfilo Lacson** (asr-000643)  
+**[00:38:51.040] Senator Panfilo "Ping" M. Lacson** (asr-000643)  
 Kaya, I'm asking for details.
 
-**[00:38:55.240] Senator Panfilo Lacson** (asr-000644)  
+**[00:38:55.240] Senator Panfilo "Ping" M. Lacson** (asr-000644)  
 By the way,
 
-**[00:38:58.540] Senator Panfilo Lacson** (asr-000645)  
+**[00:38:58.540] Senator Panfilo "Ping" M. Lacson** (asr-000645)  
 ano-ano mga agencies pa yung merong
 
-**[00:38:59.940] Senator Panfilo Lacson** (asr-000646)  
+**[00:38:59.940] Senator Panfilo "Ping" M. Lacson** (asr-000646)  
 income generation?
 
-**[00:39:02.080] Senator Panfilo Lacson** (asr-000647)  
+**[00:39:02.080] Senator Panfilo "Ping" M. Lacson** (asr-000647)  
 Income generating activities?
 
-**[00:39:03.920] Senator Panfilo Lacson** (asr-000648)  
+**[00:39:03.920] Senator Panfilo "Ping" M. Lacson** (asr-000648)  
 NBI.
 
 **[00:39:07.180] DOJ Undersecretary Majken Anika S. Gran-Ong** (asr-000649)  
@@ -1939,7 +1939,7 @@ DOJ, sir.
 **[00:39:19.140] DOJ Undersecretary Majken Anika S. Gran-Ong** (asr-000656)  
 The OSEC proper.
 
-**[00:39:21.160] Senator Panfilo Lacson** (asr-000657)  
+**[00:39:21.160] Senator Panfilo "Ping" M. Lacson** (asr-000657)  
 PCGG ba meron?
 
 **[00:39:22.200] DOJ Undersecretary Majken Anika S. Gran-Ong** (asr-000658)  
@@ -1948,16 +1948,16 @@ PCGG.
 **[00:39:25.240] DOJ Undersecretary Majken Anika S. Gran-Ong** (asr-000659)  
 PCGG as well.
 
-**[00:39:28.060] Senator Panfilo Lacson** (asr-000660)  
+**[00:39:28.060] Senator Panfilo "Ping" M. Lacson** (asr-000660)  
 Saan nasa source yung
 
-**[00:39:30.100] Senator Panfilo Lacson** (asr-000661)  
+**[00:39:30.100] Senator Panfilo "Ping" M. Lacson** (asr-000661)  
 sa DOJ proper?
 
-**[00:39:33.000] Senator Panfilo Lacson** (asr-000662)  
+**[00:39:33.000] Senator Panfilo "Ping" M. Lacson** (asr-000662)  
 Income generation?
 
-**[00:39:37.980] Senator Panfilo Lacson** (asr-000663)  
+**[00:39:37.980] Senator Panfilo "Ping" M. Lacson** (asr-000663)  
 Ah, okay.
 
 **[00:39:42.980] DOJ Undersecretary Majken Anika S. Gran-Ong** (asr-000664)  
@@ -1975,25 +1975,25 @@ other service income,
 **[00:39:50.040] DOJ Undersecretary Majken Anika S. Gran-Ong** (asr-000668)  
 and miscellaneous income.
 
-**[00:39:53.260] Senator Panfilo Lacson** (asr-000669)  
+**[00:39:53.260] Senator Panfilo "Ping" M. Lacson** (asr-000669)  
 Yung universe muna.
 
-**[00:39:54.640] Senator Panfilo Lacson** (asr-000670)  
+**[00:39:54.640] Senator Panfilo "Ping" M. Lacson** (asr-000670)  
 Magkano yung
 
-**[00:39:55.240] Senator Panfilo Lacson** (asr-000671)  
+**[00:39:55.240] Senator Panfilo "Ping" M. Lacson** (asr-000671)  
 total na
 
-**[00:39:56.220] Senator Panfilo Lacson** (asr-000672)  
+**[00:39:56.220] Senator Panfilo "Ping" M. Lacson** (asr-000672)  
 na generate na income
 
-**[00:39:58.640] Senator Panfilo Lacson** (asr-000673)  
+**[00:39:58.640] Senator Panfilo "Ping" M. Lacson** (asr-000673)  
 ng buong department?
 
-**[00:40:02.280] Senator Panfilo Lacson** (asr-000674)  
+**[00:40:02.280] Senator Panfilo "Ping" M. Lacson** (asr-000674)  
 Including all agencies
 
-**[00:40:04.020] Senator Panfilo Lacson** (asr-000675)  
+**[00:40:04.020] Senator Panfilo "Ping" M. Lacson** (asr-000675)  
 that generate income.
 
 **[00:40:17.540] DOJ Undersecretary Majken Anika S. Gran-Ong** (asr-000676)  
@@ -2011,43 +2011,43 @@ it's 18 billion,
 **[00:40:24.920] DOJ Undersecretary Majken Anika S. Gran-Ong** (asr-000680)  
 and 715,924,000.
 
-**[00:40:31.960] Senator Panfilo Lacson** (asr-000681)  
+**[00:40:31.960] Senator Panfilo "Ping" M. Lacson** (asr-000681)  
 715,924,000.
 
-**[00:40:34.740] Senator Panfilo Lacson** (asr-000682)  
+**[00:40:34.740] Senator Panfilo "Ping" M. Lacson** (asr-000682)  
 Ang ibinalik sa inyo,
 
-**[00:40:36.680] Senator Panfilo Lacson** (asr-000683)  
+**[00:40:36.680] Senator Panfilo "Ping" M. Lacson** (asr-000683)  
 magkano?
 
-**[00:40:37.300] Senator Panfilo Lacson** (asr-000684)  
+**[00:40:37.300] Senator Panfilo "Ping" M. Lacson** (asr-000684)  
 Buong agency again?
 
-**[00:40:38.380] Senator Panfilo Lacson** (asr-000685)  
+**[00:40:38.380] Senator Panfilo "Ping" M. Lacson** (asr-000685)  
 Magkano daw,
 
-**[00:40:38.920] Senator Panfilo Lacson** (asr-000686)  
+**[00:40:38.920] Senator Panfilo "Ping" M. Lacson** (asr-000686)  
 binalik?
 
-**[00:40:53.480] Senator Panfilo Lacson** (asr-000691)  
+**[00:40:53.480] Senator Panfilo "Ping" M. Lacson** (asr-000691)  
 Lahat ito,
 
-**[00:40:54.520] Senator Panfilo Lacson** (asr-000692)  
+**[00:40:54.520] Senator Panfilo "Ping" M. Lacson** (asr-000692)  
 under special accounts,
 
-**[00:40:55.560] Senator Panfilo Lacson** (asr-000693)  
+**[00:40:55.560] Senator Panfilo "Ping" M. Lacson** (asr-000693)  
 ano,
 
-**[00:40:56.100] Senator Panfilo Lacson** (asr-000694)  
+**[00:40:56.100] Senator Panfilo "Ping" M. Lacson** (asr-000694)  
 pinasok?
 
-**[00:40:57.900] Senator Panfilo Lacson** (asr-000695)  
+**[00:40:57.900] Senator Panfilo "Ping" M. Lacson** (asr-000695)  
 Under the proposed,
 
-**[00:40:59.700] Senator Panfilo Lacson** (asr-000696)  
+**[00:40:59.700] Senator Panfilo "Ping" M. Lacson** (asr-000696)  
 under the NEP,
 
-**[00:41:00.880] Senator Panfilo Lacson** (asr-000697)  
+**[00:41:00.880] Senator Panfilo "Ping" M. Lacson** (asr-000697)  
 under automatic appropriations.
 
 **[00:41:03.700] DOJ Undersecretary Majken Anika S. Gran-Ong** (asr-000698)  
@@ -2080,37 +2080,37 @@ like LRA.
 **[00:41:20.760] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000707)  
 I think also,
 
-**[00:41:22.200] Senator Panfilo Lacson** (asr-000708)  
+**[00:41:22.200] Senator Panfilo "Ping" M. Lacson** (asr-000708)  
 Total muna.
 
 **[00:41:23.080] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000709)  
 Ay, sir.
 
-**[00:41:23.660] Senator Panfilo Lacson** (asr-000710)  
+**[00:41:23.660] Senator Panfilo "Ping" M. Lacson** (asr-000710)  
 Kasi meron kayong
 
-**[00:41:25.320] Senator Panfilo Lacson** (asr-000711)  
+**[00:41:25.320] Senator Panfilo "Ping" M. Lacson** (asr-000711)  
 ibinigay sa treasurer
 
-**[00:41:28.480] Senator Panfilo Lacson** (asr-000712)  
+**[00:41:28.480] Senator Panfilo "Ping" M. Lacson** (asr-000712)  
 na 18 billion plus.
 
-**[00:41:29.640] Senator Panfilo Lacson** (asr-000713)  
+**[00:41:29.640] Senator Panfilo "Ping" M. Lacson** (asr-000713)  
 Gusto ko malaman,
 
-**[00:41:30.460] Senator Panfilo Lacson** (asr-000714)  
+**[00:41:30.460] Senator Panfilo "Ping" M. Lacson** (asr-000714)  
 magkano yung naibalik sa inyo.
 
 **[00:41:32.600] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000715)  
 Sir, sandali ah.
 
-**[00:41:37.520] Senator Panfilo Lacson** (asr-000716)  
+**[00:41:37.520] Senator Panfilo "Ping" M. Lacson** (asr-000716)  
 I just would like to find out
 
-**[00:41:39.560] Senator Panfilo Lacson** (asr-000717)  
+**[00:41:39.560] Senator Panfilo "Ping" M. Lacson** (asr-000717)  
 how much
 
-**[00:41:40.240] Senator Panfilo Lacson** (asr-000718)  
+**[00:41:40.240] Senator Panfilo "Ping" M. Lacson** (asr-000718)  
 you are being shortchanged.
 
 **[00:41:42.180] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000719)  
@@ -2170,16 +2170,16 @@ and capital outlay,
 **[00:42:23.660] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000737)  
 is 1.1 billion.
 
-**[00:42:25.700] Senator Panfilo Lacson** (asr-000738)  
+**[00:42:25.700] Senator Panfilo "Ping" M. Lacson** (asr-000738)  
 Teka, para clear lang na
 
-**[00:42:27.200] Senator Panfilo Lacson** (asr-000739)  
+**[00:42:27.200] Senator Panfilo "Ping" M. Lacson** (asr-000739)  
 we're on the same page,
 
-**[00:42:28.380] Senator Panfilo Lacson** (asr-000740)  
+**[00:42:28.380] Senator Panfilo "Ping" M. Lacson** (asr-000740)  
 ito yung
 
-**[00:42:29.000] Senator Panfilo Lacson** (asr-000741)  
+**[00:42:29.000] Senator Panfilo "Ping" M. Lacson** (asr-000741)  
 na-receive in 20...
 
 **[00:42:31.720] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000742)  
@@ -2191,10 +2191,10 @@ na special account in the general.
 **[00:42:34.960] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000744)  
 So, magkano yung
 
-**[00:42:35.580] Senator Panfilo Lacson** (asr-000745)  
+**[00:42:35.580] Senator Panfilo "Ping" M. Lacson** (asr-000745)  
 naibigay ng LRA
 
-**[00:42:37.820] Senator Panfilo Lacson** (asr-000746)  
+**[00:42:37.820] Senator Panfilo "Ping" M. Lacson** (asr-000746)  
 sa treasury?
 
 **[00:42:41.680] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000747)  
@@ -2206,13 +2206,13 @@ In 2026,
 **[00:42:49.840] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000749)  
 ang total na provide ng LRA...
 
-**[00:42:52.960] Senator Panfilo Lacson** (asr-000750)  
+**[00:42:52.960] Senator Panfilo "Ping" M. Lacson** (asr-000750)  
 No, 2026.
 
-**[00:42:53.660] Senator Panfilo Lacson** (asr-000751)  
+**[00:42:53.660] Senator Panfilo "Ping" M. Lacson** (asr-000751)  
 No, 2025.
 
-**[00:42:54.660] Senator Panfilo Lacson** (asr-000752)  
+**[00:42:54.660] Senator Panfilo "Ping" M. Lacson** (asr-000752)  
 Hindi pa tapos yung 2026 eh.
 
 **[00:42:55.660] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000753)  
@@ -2221,7 +2221,7 @@ Ah, kasi.
 **[00:42:56.660] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000754)  
 2025 provided by LRA...
 
-**[00:43:00.660] Senator Panfilo Lacson** (asr-000755)  
+**[00:43:00.660] Senator Panfilo "Ping" M. Lacson** (asr-000755)  
 Teka, ito, total.
 
 **[00:43:02.660] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000756)  
@@ -2230,10 +2230,10 @@ Special account in the general fund
 **[00:43:04.660] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000757)  
 is 2.2 billion.
 
-**[00:43:08.660] Senator Panfilo Lacson** (asr-000758)  
+**[00:43:08.660] Senator Panfilo "Ping" M. Lacson** (asr-000758)  
 2.2 billion ang nai-remit
 
-**[00:43:13.660] Senator Panfilo Lacson** (asr-000759)  
+**[00:43:13.660] Senator Panfilo "Ping" M. Lacson** (asr-000759)  
 sa treasury ng LRA.
 
 **[00:43:14.660] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000760)  
@@ -2245,10 +2245,10 @@ Yes, sir, ng LRA.
 **[00:43:16.660] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000762)  
 2 billion.
 
-**[00:43:18.660] Senator Panfilo Lacson** (asr-000763)  
+**[00:43:18.660] Senator Panfilo "Ping" M. Lacson** (asr-000763)  
 Ano pa yung iba?
 
-**[00:43:20.660] Senator Panfilo Lacson** (asr-000764)  
+**[00:43:20.660] Senator Panfilo "Ping" M. Lacson** (asr-000764)  
 Sa BI?
 
 **[00:43:22.660] DOJ Secretary Fredderick A. Vida** (asr-000765)  
@@ -2281,7 +2281,7 @@ The LRA contributed to the national treasury in 2025,
 **[00:43:41.660] LRA Administrator Gerardo P. Sirios** (asr-000774)  
 444 million...
 
-**[00:43:43.660] Senator Panfilo Lacson** (asr-000775)  
+**[00:43:43.660] Senator Panfilo "Ping" M. Lacson** (asr-000775)  
 Hindi 2.2, 11 billion.
 
 **[00:43:45.660] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000776)  
@@ -2290,34 +2290,34 @@ Hindi, for...
 **[00:43:47.660] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000777)  
 Special account lang, sir, yung tinatanong.
 
-**[00:43:49.660] Senator Panfilo Lacson** (asr-000778)  
+**[00:43:49.660] Senator Panfilo "Ping" M. Lacson** (asr-000778)  
 No, no, no.
 
-**[00:43:50.660] Senator Panfilo Lacson** (asr-000779)  
+**[00:43:50.660] Senator Panfilo "Ping" M. Lacson** (asr-000779)  
 Yung nai-remit ang tinatanong po.
 
-**[00:43:51.660] Senator Panfilo Lacson** (asr-000780)  
+**[00:43:51.660] Senator Panfilo "Ping" M. Lacson** (asr-000780)  
 Ang tinatanong po,
 
-**[00:43:52.660] Senator Panfilo Lacson** (asr-000781)  
+**[00:43:52.660] Senator Panfilo "Ping" M. Lacson** (asr-000781)  
 sabi ko nga kanina,
 
-**[00:43:53.660] Senator Panfilo Lacson** (asr-000782)  
+**[00:43:53.660] Senator Panfilo "Ping" M. Lacson** (asr-000782)  
 para same page tayo,
 
-**[00:43:54.660] Senator Panfilo Lacson** (asr-000783)  
+**[00:43:54.660] Senator Panfilo "Ping" M. Lacson** (asr-000783)  
 yung nai-remit muna.
 
 **[00:43:55.660] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-000784)  
 Ah, okay, sir.
 
-**[00:43:56.660] Senator Panfilo Lacson** (asr-000785)  
+**[00:43:56.660] Senator Panfilo "Ping" M. Lacson** (asr-000785)  
 So that's 11 billion.
 
-**[00:43:57.660] Senator Panfilo Lacson** (asr-000786)  
+**[00:43:57.660] Senator Panfilo "Ping" M. Lacson** (asr-000786)  
 Apo.
 
-**[00:44:05.660] Senator Panfilo Lacson** (asr-000787)  
+**[00:44:05.660] Senator Panfilo "Ping" M. Lacson** (asr-000787)  
 Sige, Jerry, please continue.
 
 **[00:44:08.660] LRA Administrator Gerardo P. Sirios** (asr-000788)  
@@ -2341,10 +2341,10 @@ ah,
 **[00:44:15.660] LRA Administrator Gerardo P. Sirios** (asr-000794)  
 15% of our...
 
-**[00:44:18.660] Senator Panfilo Lacson** (asr-000795)  
+**[00:44:18.660] Senator Panfilo "Ping" M. Lacson** (asr-000795)  
 Teka muna,
 
-**[00:44:19.660] Senator Panfilo Lacson** (asr-000796)  
+**[00:44:19.660] Senator Panfilo "Ping" M. Lacson** (asr-000796)  
 yung munang nai-remit ninyo.
 
 **[00:44:20.660] LRA Administrator Gerardo P. Sirios** (asr-000797)  
@@ -2377,25 +2377,25 @@ of which 20% is supposed to be retained
 **[00:44:34.660] LRA Administrator Gerardo P. Sirios** (asr-000806)  
 by the agency.
 
-**[00:44:36.660] Senator Panfilo Lacson** (asr-000807)  
+**[00:44:36.660] Senator Panfilo "Ping" M. Lacson** (asr-000807)  
 We were...
 
-**[00:44:37.660] Senator Panfilo Lacson** (asr-000808)  
+**[00:44:37.660] Senator Panfilo "Ping" M. Lacson** (asr-000808)  
 This is covered by law?
 
-**[00:44:38.660] Senator Panfilo Lacson** (asr-000809)  
+**[00:44:38.660] Senator Panfilo "Ping" M. Lacson** (asr-000809)  
 Yes, sir.
 
-**[00:44:39.660] Senator Panfilo Lacson** (asr-000810)  
+**[00:44:39.660] Senator Panfilo "Ping" M. Lacson** (asr-000810)  
 Yung earmark ito ah, 20%?
 
-**[00:44:40.660] Senator Panfilo Lacson** (asr-000811)  
+**[00:44:40.660] Senator Panfilo "Ping" M. Lacson** (asr-000811)  
 Yes, sir.
 
-**[00:44:41.660] Senator Panfilo Lacson** (asr-000812)  
+**[00:44:41.660] Senator Panfilo "Ping" M. Lacson** (asr-000812)  
 Under PD 1529.
 
-**[00:44:42.660] Senator Panfilo Lacson** (asr-000813)  
+**[00:44:42.660] Senator Panfilo "Ping" M. Lacson** (asr-000813)  
 Thank you.
 
 **[00:44:43.660] LRA Administrator Gerardo P. Sirios** (asr-000814)  
@@ -2419,85 +2419,85 @@ at that time,
 **[00:44:51.660] LRA Administrator Gerardo P. Sirios** (asr-000820)  
 Your Honor.
 
-**[00:44:53.660] Senator Panfilo Lacson** (asr-000821)  
+**[00:44:53.660] Senator Panfilo "Ping" M. Lacson** (asr-000821)  
 So, short ng 5%?
 
 **[00:44:55.660] LRA Administrator Gerardo P. Sirios** (asr-000822)  
 Yes, Your Honor.
 
-**[00:44:57.660] Senator Panfilo Lacson** (asr-000823)  
+**[00:44:57.660] Senator Panfilo "Ping" M. Lacson** (asr-000823)  
 So, violation of law?
 
-**[00:45:00.000] Senator Panfilo Lacson** (asr-000824)  
+**[00:45:00.000] Senator Panfilo "Ping" M. Lacson** (asr-000824)  
 kaya nga we want to find out
 
-**[00:45:03.240] Senator Panfilo Lacson** (asr-000825)  
+**[00:45:03.240] Senator Panfilo "Ping" M. Lacson** (asr-000825)  
 so we can you know make some adjustments
 
-**[00:45:05.560] Senator Panfilo Lacson** (asr-000826)  
+**[00:45:05.560] Senator Panfilo "Ping" M. Lacson** (asr-000826)  
 kasi ang laki ng cut ng
 
-**[00:45:07.140] Senator Panfilo Lacson** (asr-000827)  
+**[00:45:07.140] Senator Panfilo "Ping" M. Lacson** (asr-000827)  
 department
 
-**[00:45:08.000] Senator Panfilo Lacson** (asr-000828)  
+**[00:45:08.000] Senator Panfilo "Ping" M. Lacson** (asr-000828)  
 so at least sa aspect
 
-**[00:45:11.420] Senator Panfilo Lacson** (asr-000829)  
+**[00:45:11.420] Senator Panfilo "Ping" M. Lacson** (asr-000829)  
 na ito we want to
 
-**[00:45:13.200] Senator Panfilo Lacson** (asr-000830)  
+**[00:45:13.200] Senator Panfilo "Ping" M. Lacson** (asr-000830)  
 you know to support the department
 
-**[00:45:15.360] Senator Panfilo Lacson** (asr-000831)  
+**[00:45:15.360] Senator Panfilo "Ping" M. Lacson** (asr-000831)  
 that's the reason why I'm
 
-**[00:45:16.480] Senator Panfilo Lacson** (asr-000832)  
+**[00:45:16.480] Senator Panfilo "Ping" M. Lacson** (asr-000832)  
 trying to find out the details
 
-**[00:45:19.300] Senator Panfilo Lacson** (asr-000833)  
+**[00:45:19.300] Senator Panfilo "Ping" M. Lacson** (asr-000833)  
 kasi kung under the law
 
-**[00:45:21.080] Senator Panfilo Lacson** (asr-000834)  
+**[00:45:21.080] Senator Panfilo "Ping" M. Lacson** (asr-000834)  
 under the PD
 
-**[00:45:22.160] Senator Panfilo Lacson** (asr-000835)  
+**[00:45:22.160] Senator Panfilo "Ping" M. Lacson** (asr-000835)  
 entitled kayo sa 20%
 
-**[00:45:25.060] Senator Panfilo Lacson** (asr-000836)  
+**[00:45:25.060] Senator Panfilo "Ping" M. Lacson** (asr-000836)  
 tapos bibigyan lang kayo sa NEP ng 15%
 
-**[00:45:27.540] Senator Panfilo Lacson** (asr-000837)  
+**[00:45:27.540] Senator Panfilo "Ping" M. Lacson** (asr-000837)  
 probably
 
-**[00:45:28.260] Senator Panfilo Lacson** (asr-000838)  
+**[00:45:28.260] Senator Panfilo "Ping" M. Lacson** (asr-000838)  
 we can correct
 
-**[00:45:31.060] Senator Panfilo Lacson** (asr-000839)  
+**[00:45:31.060] Senator Panfilo "Ping" M. Lacson** (asr-000839)  
 or
 
-**[00:45:32.040] Senator Panfilo Lacson** (asr-000840)  
+**[00:45:32.040] Senator Panfilo "Ping" M. Lacson** (asr-000840)  
 i-remedyan natin yung error
 
-**[00:45:34.900] Senator Panfilo Lacson** (asr-000841)  
+**[00:45:34.900] Senator Panfilo "Ping" M. Lacson** (asr-000841)  
 yung violation of law by giving back
 
-**[00:45:37.020] Senator Panfilo Lacson** (asr-000842)  
+**[00:45:37.020] Senator Panfilo "Ping" M. Lacson** (asr-000842)  
 to the department
 
-**[00:45:38.040] Senator Panfilo Lacson** (asr-000843)  
+**[00:45:38.040] Senator Panfilo "Ping" M. Lacson** (asr-000843)  
 LRA
 
-**[00:45:41.060] Senator Panfilo Lacson** (asr-000844)  
+**[00:45:41.060] Senator Panfilo "Ping" M. Lacson** (asr-000844)  
 the missing 5%
 
-**[00:45:43.380] Senator Panfilo Lacson** (asr-000845)  
+**[00:45:43.380] Senator Panfilo "Ping" M. Lacson** (asr-000845)  
 kaya nga kaya ako nagtatanong
 
-**[00:45:46.980] Senator Panfilo Lacson** (asr-000846)  
+**[00:45:46.980] Senator Panfilo "Ping" M. Lacson** (asr-000846)  
 so okay settled
 
-**[00:45:49.160] Senator Panfilo Lacson** (asr-000847)  
+**[00:45:49.160] Senator Panfilo "Ping" M. Lacson** (asr-000847)  
 Bureau of Immigration
 
 **[00:45:50.480] Senator Francis Kiko Pangilinan** (asr-000848)  
@@ -2521,10 +2521,10 @@ Thank you for joining us
 **[00:46:01.440] Senator Francis Kiko Pangilinan** (asr-000854)  
 Go ahead Senator Ping
 
-**[00:46:03.360] Senator Panfilo Lacson** (asr-000855)  
+**[00:46:03.360] Senator Panfilo "Ping" M. Lacson** (asr-000855)  
 Thank you, BI
 
-**[00:46:04.380] Senator Panfilo Lacson** (asr-000856)  
+**[00:46:04.380] Senator Panfilo "Ping" M. Lacson** (asr-000856)  
 Another Kababayan
 
 **[00:46:07.360] BI Commissioner Joel Anthony M. Viado** (asr-000857)  
@@ -2659,13 +2659,13 @@ in the amount of
 **[00:47:45.420] BI Commissioner Joel Anthony M. Viado** (asr-000901)  
 your honor
 
-**[00:47:45.920] Senator Panfilo Lacson** (asr-000902)  
+**[00:47:45.920] Senator Panfilo "Ping" M. Lacson** (asr-000902)  
 Thank you
 
-**[00:47:47.860] Senator Panfilo Lacson** (asr-000903)  
+**[00:47:47.860] Senator Panfilo "Ping" M. Lacson** (asr-000903)  
 About the other agencies
 
-**[00:47:49.840] Senator Panfilo Lacson** (asr-000904)  
+**[00:47:49.840] Senator Panfilo "Ping" M. Lacson** (asr-000904)  
 na meron ding income generation
 
 **[00:47:52.280] Senator Francis Kiko Pangilinan** (asr-000905)  
@@ -2701,16 +2701,16 @@ Ah, mahina sa mouth, your honor
 **[00:48:25.280] BI Commissioner Joel Anthony M. Viado** (asr-000915)  
 thank you for the clarification
 
-**[00:48:26.720] Senator Panfilo Lacson** (asr-000916)  
+**[00:48:26.720] Senator Panfilo "Ping" M. Lacson** (asr-000916)  
 Yes, yes okay
 
-**[00:48:27.400] Senator Panfilo Lacson** (asr-000917)  
+**[00:48:27.400] Senator Panfilo "Ping" M. Lacson** (asr-000917)  
 Thank you
 
-**[00:48:28.140] Senator Panfilo Lacson** (asr-000918)  
+**[00:48:28.140] Senator Panfilo "Ping" M. Lacson** (asr-000918)  
 At ang nabalik lang sa inyo sa under the express lane, magkano lang?
 
-**[00:48:33.200] Senator Panfilo Lacson** (asr-000919)  
+**[00:48:33.200] Senator Panfilo "Ping" M. Lacson** (asr-000919)  
 Kasi wala nabalik sa inyo sa na-remit ninyo, no?
 
 **[00:48:37.600] BI Commissioner Joel Anthony M. Viado** (asr-000920)  
@@ -2725,76 +2725,76 @@ Yung bumabalik sa inyo, from the express lane lang?
 **[00:48:48.120] BI Commissioner Joel Anthony M. Viado** (asr-000923)  
 Yung pong ano, ang breakdown po noon is...
 
-**[00:48:50.700] Senator Panfilo Lacson** (asr-000924)  
+**[00:48:50.700] Senator Panfilo "Ping" M. Lacson** (asr-000924)  
 Teka, nawala na nga pala yung overtime nyo, no?
 
-**[00:48:53.620] Senator Panfilo Lacson** (asr-000925)  
+**[00:48:53.620] Senator Panfilo "Ping" M. Lacson** (asr-000925)  
 Wala po.
 
-**[00:48:54.280] Senator Panfilo Lacson** (asr-000926)  
+**[00:48:54.280] Senator Panfilo "Ping" M. Lacson** (asr-000926)  
 Pinatanggal nung kapartido ni Sen. Turquico.
 
-**[00:48:56.860] Senator Panfilo Lacson** (asr-000927)  
+**[00:48:56.860] Senator Panfilo "Ping" M. Lacson** (asr-000927)  
 Sen. Turmar.
 
-**[00:48:59.740] Senator Panfilo Lacson** (asr-000928)  
+**[00:48:59.740] Senator Panfilo "Ping" M. Lacson** (asr-000928)  
 Tinalis ni Maro.
 
-**[00:49:01.940] Senator Panfilo Lacson** (asr-000929)  
+**[00:49:01.940] Senator Panfilo "Ping" M. Lacson** (asr-000929)  
 Sana po yung...
 
-**[00:49:02.920] Senator Panfilo Lacson** (asr-000930)  
+**[00:49:02.920] Senator Panfilo "Ping" M. Lacson** (asr-000930)  
 Hindi, every time, alam nyo, every time nadadaan kami doon sa immigration lane, ito yung dinadadaan ng mga employees ninyo, eh.
 
-**[00:49:09.180] Senator Panfilo Lacson** (asr-000931)  
+**[00:49:09.180] Senator Panfilo "Ping" M. Lacson** (asr-000931)  
 Baka pwedeng ibalik yung overtime.
 
 **[00:49:11.780] BI Commissioner Joel Anthony M. Viado** (asr-000932)  
 Apo, Your Honor.
 
-**[00:49:12.720] Senator Panfilo Lacson** (asr-000933)  
+**[00:49:12.720] Senator Panfilo "Ping" M. Lacson** (asr-000933)  
 I don't know what it will take, no, to restore yung inyong overtime pay.
 
-**[00:49:19.280] Senator Panfilo Lacson** (asr-000934)  
+**[00:49:19.280] Senator Panfilo "Ping" M. Lacson** (asr-000934)  
 Kasi, this is...
 
-**[00:49:21.940] Senator Panfilo Lacson** (asr-000935)  
+**[00:49:21.940] Senator Panfilo "Ping" M. Lacson** (asr-000935)  
 The overtime pay is coming from the airlines, di ba?
 
 **[00:49:25.680] BI Commissioner Joel Anthony M. Viado** (asr-000936)  
 Yes, po, Your Honor.
 
-**[00:49:26.720] Senator Panfilo Lacson** (asr-000937)  
+**[00:49:26.720] Senator Panfilo "Ping" M. Lacson** (asr-000937)  
 Yun ang tinanggal.
 
 **[00:49:28.060] BI Commissioner Joel Anthony M. Viado** (asr-000938)  
 Yes, po, Your Honor.
 
-**[00:49:29.080] Senator Panfilo Lacson** (asr-000939)  
+**[00:49:29.080] Senator Panfilo "Ping" M. Lacson** (asr-000939)  
 So, anyway, bahala na si Chairman, siya na may abogado pag-aralan nyo, paano ma-restore.
 
-**[00:49:34.260] Senator Panfilo Lacson** (asr-000940)  
+**[00:49:34.260] Senator Panfilo "Ping" M. Lacson** (asr-000940)  
 Thank you very much, Po, Your Honor.
 
-**[00:49:34.720] Senator Panfilo Lacson** (asr-000941)  
+**[00:49:34.720] Senator Panfilo "Ping" M. Lacson** (asr-000941)  
 Saka siya rin yung Chairman ng Committee on Justice ng Senate.
 
-**[00:49:37.680] Senator Panfilo Lacson** (asr-000942)  
+**[00:49:37.680] Senator Panfilo "Ping" M. Lacson** (asr-000942)  
 So, probably...
 
 **[00:49:38.920] Senator Francis Kiko Pangilinan** (asr-000943)  
 We will review.
 
-**[00:49:39.900] Senator Panfilo Lacson** (asr-000944)  
+**[00:49:39.900] Senator Panfilo "Ping" M. Lacson** (asr-000944)  
 Yeah.
 
 **[00:49:40.380] BI Commissioner Joel Anthony M. Viado** (asr-000945)  
 Thank you very much, Po, Your Honor.
 
-**[00:49:41.380] Senator Panfilo Lacson** (asr-000946)  
+**[00:49:41.380] Senator Panfilo "Ping" M. Lacson** (asr-000946)  
 Thank you.
 
-**[00:49:42.520] Senator Panfilo Lacson** (asr-000947)  
+**[00:49:42.520] Senator Panfilo "Ping" M. Lacson** (asr-000947)  
 Ano pang...
 
 **[00:49:42.880] Senator Francis Kiko Pangilinan** (asr-000948)  
@@ -2809,25 +2809,25 @@ Baka pwedeng doon na i-incorporate yun, no?
 **[00:49:54.200] Senator Francis Kiko Pangilinan** (asr-000951)  
 So, we'll also look into that.
 
-**[00:49:55.900] Senator Panfilo Lacson** (asr-000952)  
+**[00:49:55.900] Senator Panfilo "Ping" M. Lacson** (asr-000952)  
 Thank you, thank you.
 
 **[00:49:56.720] BI Commissioner Joel Anthony M. Viado** (asr-000953)  
 Thank you very much, Po, Your Honor.
 
-**[00:49:57.420] Senator Panfilo Lacson** (asr-000954)  
+**[00:49:57.420] Senator Panfilo "Ping" M. Lacson** (asr-000954)  
 Thank you.
 
-**[00:49:57.980] Senator Panfilo Lacson** (asr-000955)  
+**[00:49:57.980] Senator Panfilo "Ping" M. Lacson** (asr-000955)  
 Any other agency na merong income?
 
-**[00:49:59.940] Senator Panfilo Lacson** (asr-000956)  
+**[00:49:59.940] Senator Panfilo "Ping" M. Lacson** (asr-000956)  
 NBI.
 
 **[00:50:03.400] NBI Director Melvin Matibag** (asr-000957)  
 Good morning, Your Honor.
 
-**[00:50:04.500] Senator Panfilo Lacson** (asr-000958)  
+**[00:50:04.500] Senator Panfilo "Ping" M. Lacson** (asr-000958)  
 Yung legal, ha?
 
 **[00:50:05.320] NBI Director Melvin Matibag** (asr-000959)  
@@ -2872,13 +2872,13 @@ So, lumalagpas po kami rin sa 150 kung 30% yung pagbabasihan.
 **[00:50:50.520] NBI Director Melvin Matibag** (asr-000972)  
 So, we're just getting 150 million po every year.
 
-**[00:50:55.840] Senator Panfilo Lacson** (asr-000973)  
+**[00:50:55.840] Senator Panfilo "Ping" M. Lacson** (asr-000973)  
 Thank you.
 
-**[00:50:56.720] Senator Panfilo Lacson** (asr-000974)  
+**[00:50:56.720] Senator Panfilo "Ping" M. Lacson** (asr-000974)  
 Any other?
 
-**[00:50:57.400] Senator Panfilo Lacson** (asr-000975)  
+**[00:50:57.400] Senator Panfilo "Ping" M. Lacson** (asr-000975)  
 PAO ba merong kinikita?
 
 **[00:51:00.640] PAO Chief Persida V. Rueda-Acosta** (asr-000976)  
@@ -2929,34 +2929,34 @@ Pati po yung upgrading ng senior para equivalent sa napros,
 **[00:51:55.960] PAO Chief Persida V. Rueda-Acosta** (asr-000991)  
 hindi pa rin po natutupad ng DBM.
 
-**[00:51:59.620] Senator Panfilo Lacson** (asr-000992)  
+**[00:51:59.620] Senator Panfilo "Ping" M. Lacson** (asr-000992)  
 Let's cut to the chase.
 
-**[00:52:01.960] Senator Panfilo Lacson** (asr-000993)  
+**[00:52:01.960] Senator Panfilo "Ping" M. Lacson** (asr-000993)  
 Ano lang, long and short, magkano yung universe?
 
-**[00:52:05.140] Senator Panfilo Lacson** (asr-000994)  
+**[00:52:05.140] Senator Panfilo "Ping" M. Lacson** (asr-000994)  
 18 billion yung na-remit in 2025.
 
-**[00:52:07.840] Senator Panfilo Lacson** (asr-000995)  
+**[00:52:07.840] Senator Panfilo "Ping" M. Lacson** (asr-000995)  
 Magkano yung nakabalik lang sa buong department?
 
-**[00:52:18.920] Senator Panfilo Lacson** (asr-000996)  
+**[00:52:18.920] Senator Panfilo "Ping" M. Lacson** (asr-000996)  
 Let me clarify.
 
-**[00:52:20.420] Senator Panfilo Lacson** (asr-000997)  
+**[00:52:20.420] Senator Panfilo "Ping" M. Lacson** (asr-000997)  
 Nag-remit kayo in 2025 ng income generated na
 
-**[00:52:23.740] Senator Panfilo Lacson** (asr-000998)  
+**[00:52:23.740] Senator Panfilo "Ping" M. Lacson** (asr-000998)  
 18 billion, 715 million,
 
-**[00:52:25.960] Senator Panfilo Lacson** (asr-000999)  
+**[00:52:25.960] Senator Panfilo "Ping" M. Lacson** (asr-000999)  
 924 thousand.
 
-**[00:52:27.620] Senator Panfilo Lacson** (asr-001000)  
+**[00:52:27.620] Senator Panfilo "Ping" M. Lacson** (asr-001000)  
 Magkano yung ibabalik sa inyo itong 2026?
 
-**[00:52:31.460] Senator Panfilo Lacson** (asr-001001)  
+**[00:52:31.460] Senator Panfilo "Ping" M. Lacson** (asr-001001)  
 Dito sa NEP, under special accounts.
 
 **[00:52:49.460] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-001002)  
@@ -2968,85 +2968,85 @@ Special account lang po.
 **[00:52:53.120] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-001004)  
 Yung mga na ibabalik.
 
-**[00:52:55.960] Senator Panfilo Lacson** (asr-001005)  
+**[00:52:55.960] Senator Panfilo "Ping" M. Lacson** (asr-001005)  
 NEP is just a proposed appropriations eh.
 
-**[00:53:01.540] Senator Panfilo Lacson** (asr-001006)  
+**[00:53:01.540] Senator Panfilo "Ping" M. Lacson** (asr-001006)  
 So, kaya nga nire-review ng Congress yan, di ba?
 
-**[00:53:04.920] Senator Panfilo Lacson** (asr-001007)  
+**[00:53:04.920] Senator Panfilo "Ping" M. Lacson** (asr-001007)  
 Kasi nasa amin yung authorization phase.
 
-**[00:53:08.640] Senator Panfilo Lacson** (asr-001008)  
+**[00:53:08.640] Senator Panfilo "Ping" M. Lacson** (asr-001008)  
 So, we want to find out,
 
-**[00:53:10.680] Senator Panfilo Lacson** (asr-001009)  
+**[00:53:10.680] Senator Panfilo "Ping" M. Lacson** (asr-001009)  
 out of the 18 billion that you have remitted in 2025,
 
-**[00:53:14.520] Senator Panfilo Lacson** (asr-001010)  
+**[00:53:14.520] Senator Panfilo "Ping" M. Lacson** (asr-001010)  
 magkano yung total lang na binabalik sa inyo
 
-**[00:53:16.740] Senator Panfilo Lacson** (asr-001011)  
+**[00:53:16.740] Senator Panfilo "Ping" M. Lacson** (asr-001011)  
 under special accounts?
 
-**[00:53:18.900] Senator Panfilo Lacson** (asr-001012)  
+**[00:53:18.900] Senator Panfilo "Ping" M. Lacson** (asr-001012)  
 Meron pa bang ibang nababalik na outside the special accounts?
 
-**[00:53:24.340] Senator Panfilo Lacson** (asr-001013)  
+**[00:53:24.340] Senator Panfilo "Ping" M. Lacson** (asr-001013)  
 Wala na, di ba?
 
 **[00:53:25.160] DOJ Assistant Secretary Maria Elisa B. Germar** (asr-001014)  
 Wala na, sir.
 
-**[00:53:25.960] Senator Panfilo Lacson** (asr-001015)  
+**[00:53:25.960] Senator Panfilo "Ping" M. Lacson** (asr-001015)  
 Okay, magkano yung binabalik sa inyo itong ano?
 
-**[00:53:28.780] Senator Panfilo Lacson** (asr-001016)  
+**[00:53:28.780] Senator Panfilo "Ping" M. Lacson** (asr-001016)  
 Ang nasa akin dito,
 
-**[00:53:31.360] Senator Panfilo Lacson** (asr-001017)  
+**[00:53:31.360] Senator Panfilo "Ping" M. Lacson** (asr-001017)  
 1.78 billion for LRA.
 
-**[00:53:36.020] Senator Panfilo Lacson** (asr-001018)  
+**[00:53:36.020] Senator Panfilo "Ping" M. Lacson** (asr-001018)  
 Ito yung sinasabi nga from the 20%,
 
-**[00:53:37.740] Senator Panfilo Lacson** (asr-001019)  
+**[00:53:37.740] Senator Panfilo "Ping" M. Lacson** (asr-001019)  
 which is short ng kulang ng 5%, ano?
 
-**[00:53:43.620] Senator Panfilo Lacson** (asr-001020)  
+**[00:53:43.620] Senator Panfilo "Ping" M. Lacson** (asr-001020)  
 Tapos, 118.6 million for OSG.
 
-**[00:53:50.040] Senator Panfilo Lacson** (asr-001021)  
+**[00:53:50.040] Senator Panfilo "Ping" M. Lacson** (asr-001021)  
 Yun lang eh.
 
-**[00:53:50.820] Senator Panfilo Lacson** (asr-001022)  
+**[00:53:50.820] Senator Panfilo "Ping" M. Lacson** (asr-001022)  
 Wala bang ibang naambunan pa rito, ibang agencies?
 
-**[00:53:54.760] Senator Panfilo Lacson** (asr-001023)  
+**[00:53:54.760] Senator Panfilo "Ping" M. Lacson** (asr-001023)  
 Ito lang ba yung total?
 
-**[00:53:55.960] Senator Panfilo Lacson** (asr-001024)  
+**[00:53:55.960] Senator Panfilo "Ping" M. Lacson** (asr-001024)  
 ...
 
-**[00:53:57.080] Senator Panfilo Lacson** (asr-001025)  
+**[00:53:57.080] Senator Panfilo "Ping" M. Lacson** (asr-001025)  
 ...
 
 **[00:53:58.920] DOJ Secretary Fredderick A. Vida** (asr-001026)  
 Your Honor, the PCGG also has our Chairman, Justice Sadang.
 
-**[00:54:06.740] Senator Panfilo Lacson** (asr-001027)  
+**[00:54:06.740] Senator Panfilo "Ping" M. Lacson** (asr-001027)  
 Go ahead, Justice.
 
 **[00:54:08.020] PCGG Chairperson Melchor Quirino C. Sadang** (asr-001028)  
 Good morning, Your Honors.
 
-**[00:54:10.060] Senator Panfilo Lacson** (asr-001029)  
+**[00:54:10.060] Senator Panfilo "Ping" M. Lacson** (asr-001029)  
 Teka muna, tama-tama.
 
-**[00:54:11.280] Senator Panfilo Lacson** (asr-001030)  
+**[00:54:11.280] Senator Panfilo "Ping" M. Lacson** (asr-001030)  
 Dito pala yung director for ng DBM.
 
-**[00:54:15.500] Senator Panfilo Lacson** (asr-001031)  
+**[00:54:15.500] Senator Panfilo "Ping" M. Lacson** (asr-001031)  
 So, siya yung gagang-up natin this morning.
 
 **[00:54:21.040] PCGG Chairperson Melchor Quirino C. Sadang** (asr-001032)  
@@ -3091,31 +3091,31 @@ was
 **[00:54:55.960] PCGG Chairperson Melchor Quirino C. Sadang** (asr-001050)  
 availed of by the PCGG.
 
-**[00:54:57.660] Senator Panfilo Lacson** (asr-001051)  
+**[00:54:57.660] Senator Panfilo "Ping" M. Lacson** (asr-001051)  
 So, diyan ang galing yung...
 
-**[00:54:59.340] Senator Panfilo Lacson** (asr-001052)  
+**[00:54:59.340] Senator Panfilo "Ping" M. Lacson** (asr-001052)  
 Ano?
 
-**[00:54:59.780] Senator Panfilo Lacson** (asr-001053)  
+**[00:54:59.780] Senator Panfilo "Ping" M. Lacson** (asr-001053)  
 Universe pala.
 
-**[00:55:00.480] Senator Panfilo Lacson** (asr-001054)  
+**[00:55:00.480] Senator Panfilo "Ping" M. Lacson** (asr-001054)  
 Yung 118 million ng for OSG
 
-**[00:55:03.300] Senator Panfilo Lacson** (asr-001055)  
+**[00:55:03.300] Senator Panfilo "Ping" M. Lacson** (asr-001055)  
 under the NEP.
 
 **[00:55:05.120] PCGG Chairperson Melchor Quirino C. Sadang** (asr-001056)  
 Yes.
 
-**[00:55:05.560] Senator Panfilo Lacson** (asr-001057)  
+**[00:55:05.560] Senator Panfilo "Ping" M. Lacson** (asr-001057)  
 Yun yung sinasabing yung
 
-**[00:55:07.120] Senator Panfilo Lacson** (asr-001058)  
+**[00:55:07.120] Senator Panfilo "Ping" M. Lacson** (asr-001058)  
 papunta sa...
 
-**[00:55:08.900] Senator Panfilo Lacson** (asr-001059)  
+**[00:55:08.900] Senator Panfilo "Ping" M. Lacson** (asr-001059)  
 Galing sa inyo.
 
 **[00:55:09.960] PCGG Chairperson Melchor Quirino C. Sadang** (asr-001060)  
@@ -3127,22 +3127,22 @@ Part of it.
 **[00:55:11.480] PCGG Chairperson Melchor Quirino C. Sadang** (asr-001062)  
 Yes, Mr. Senator.
 
-**[00:55:13.040] Senator Panfilo Lacson** (asr-001063)  
+**[00:55:13.040] Senator Panfilo "Ping" M. Lacson** (asr-001063)  
 Thank you.
 
-**[00:55:14.560] Senator Panfilo Lacson** (asr-001064)  
+**[00:55:14.560] Senator Panfilo "Ping" M. Lacson** (asr-001064)  
 So, medyo mahaba yung 10 minutes
 
-**[00:55:16.420] Senator Panfilo Lacson** (asr-001065)  
+**[00:55:16.420] Senator Panfilo "Ping" M. Lacson** (asr-001065)  
 para mapagbigay niyong iba.
 
-**[00:55:17.740] Senator Panfilo Lacson** (asr-001066)  
+**[00:55:17.740] Senator Panfilo "Ping" M. Lacson** (asr-001066)  
 Mamaya na lang ako second round.
 
-**[00:55:18.960] Senator Panfilo Lacson** (asr-001067)  
+**[00:55:18.960] Senator Panfilo "Ping" M. Lacson** (asr-001067)  
 Sige.
 
-**[00:55:19.260] Senator Panfilo Lacson** (asr-001068)  
+**[00:55:19.260] Senator Panfilo "Ping" M. Lacson** (asr-001068)  
 I'll wait 3 minutes.
 
 **[00:55:21.420] Senator Francis Kiko Pangilinan** (asr-001069)  
@@ -4006,46 +4006,46 @@ So, additional, ano po, 10 to
 **[01:02:29.400] Senator Joseph Victor "JV" G. Ejercito** (asr-001353)  
 Blackson would like to interject.
 
-**[01:02:30.480] Senator Panfilo Lacson** (asr-001354)  
+**[01:02:30.480] Senator Panfilo "Ping" M. Lacson** (asr-001354)  
 Ano lang, just to highlight yung pagiging
 
-**[01:02:32.580] Senator Panfilo Lacson** (asr-001355)  
+**[01:02:32.580] Senator Panfilo "Ping" M. Lacson** (asr-001355)  
 pretence, yung cybercrime,
 
-**[01:02:35.100] Senator Panfilo Lacson** (asr-001356)  
+**[01:02:35.100] Senator Panfilo "Ping" M. Lacson** (asr-001356)  
 425,000, that's
 
-**[01:02:36.720] Senator Panfilo Lacson** (asr-001357)  
+**[01:02:36.720] Senator Panfilo "Ping" M. Lacson** (asr-001357)  
 annual, no? That's for one year?
 
 **[01:02:39.160] DOJ Secretary Fredderick A. Vida** (asr-001358)  
 That's for one year.
 
-**[01:02:40.080] Senator Panfilo Lacson** (asr-001359)  
+**[01:02:40.080] Senator Panfilo "Ping" M. Lacson** (asr-001359)  
 Okay. So, kung i-divide mo ng 12,
 
-**[01:02:43.100] Senator Panfilo Lacson** (asr-001360)  
+**[01:02:43.100] Senator Panfilo "Ping" M. Lacson** (asr-001360)  
 35,000 a month?
 
 **[01:02:45.600] DOJ Secretary Fredderick A. Vida** (asr-001361)  
 Apo.
 
-**[01:02:46.580] Senator Panfilo Lacson** (asr-001362)  
+**[01:02:46.580] Senator Panfilo "Ping" M. Lacson** (asr-001362)  
 Yun lang, Mr. Chairman, para lang
 
-**[01:02:48.300] Senator Panfilo Lacson** (asr-001363)  
+**[01:02:48.300] Senator Panfilo "Ping" M. Lacson** (asr-001363)  
 makita natin na ganun ka
 
-**[01:02:50.820] Senator Panfilo Lacson** (asr-001364)  
+**[01:02:50.820] Senator Panfilo "Ping" M. Lacson** (asr-001364)  
 parang walang silbi.
 
-**[01:02:52.480] Senator Panfilo Lacson** (asr-001365)  
+**[01:02:52.480] Senator Panfilo "Ping" M. Lacson** (asr-001365)  
 Kasi if you have 35,000 monthly
 
-**[01:02:54.480] Senator Panfilo Lacson** (asr-001366)  
+**[01:02:54.480] Senator Panfilo "Ping" M. Lacson** (asr-001366)  
 intelligence fund, ano ma-accomplish mo?
 
-**[01:02:57.280] Senator Panfilo Lacson** (asr-001367)  
+**[01:02:57.280] Senator Panfilo "Ping" M. Lacson** (asr-001367)  
 Thank you.
 
 **[01:02:58.740] Senator Francis Kiko Pangilinan** (asr-001368)  
@@ -4702,7 +4702,7 @@ transaksyon. Tapos
 **[01:10:13.900] Senator Francis Kiko Pangilinan** (asr-001585)  
 34,000 a day, ano, a month.
 
-**[01:10:16.640] Senator Panfilo Lacson** (asr-001586)  
+**[01:10:16.640] Senator Panfilo "Ping" M. Lacson** (asr-001586)  
 35,000 per month.
 
 **[01:10:19.320] Senator Francis Kiko Pangilinan** (asr-001587)  
@@ -10234,136 +10234,136 @@ Senator Ping,
 **[01:57:10.660] Senator Francis Kiko Pangilinan** (asr-003429)  
 go ahead.
 
-**[01:57:10.920] Senator Panfilo Lacson** (asr-003430)  
+**[01:57:10.920] Senator Panfilo "Ping" M. Lacson** (asr-003430)  
 Thank you, Mr. Chairman.
 
-**[01:57:12.000] Senator Panfilo Lacson** (asr-003431)  
+**[01:57:12.000] Senator Panfilo "Ping" M. Lacson** (asr-003431)  
 Segway lang muna tayo
 
-**[01:57:12.960] Senator Panfilo Lacson** (asr-003432)  
+**[01:57:12.960] Senator Panfilo "Ping" M. Lacson** (asr-003432)  
 para pambawas ng passion
 
-**[01:57:14.400] Senator Panfilo Lacson** (asr-003433)  
+**[01:57:14.400] Senator Panfilo "Ping" M. Lacson** (asr-003433)  
 saka tension.
 
-**[01:57:16.540] Senator Panfilo Lacson** (asr-003434)  
+**[01:57:16.540] Senator Panfilo "Ping" M. Lacson** (asr-003434)  
 Balikan ko lang yung topic kanina
 
-**[01:57:17.880] Senator Panfilo Lacson** (asr-003435)  
+**[01:57:17.880] Senator Panfilo "Ping" M. Lacson** (asr-003435)  
 sa express lane.
 
-**[01:57:18.780] Senator Panfilo Lacson** (asr-003436)  
+**[01:57:18.780] Senator Panfilo "Ping" M. Lacson** (asr-003436)  
 Bit of information.
 
-**[01:57:21.640] Senator Panfilo Lacson** (asr-003437)  
+**[01:57:21.640] Senator Panfilo "Ping" M. Lacson** (asr-003437)  
 Under Special Provision No. 1
 
-**[01:57:23.720] Senator Panfilo Lacson** (asr-003438)  
+**[01:57:23.720] Senator Panfilo "Ping" M. Lacson** (asr-003438)  
 of the BI budget
 
-**[01:57:26.080] Senator Panfilo Lacson** (asr-003439)  
+**[01:57:26.080] Senator Panfilo "Ping" M. Lacson** (asr-003439)  
 sa 2026 gaya ito.
 
-**[01:57:29.680] Senator Panfilo Lacson** (asr-003440)  
+**[01:57:29.680] Senator Panfilo "Ping" M. Lacson** (asr-003440)  
 Yung express lane,
 
-**[01:57:31.580] Senator Panfilo Lacson** (asr-003441)  
+**[01:57:31.580] Senator Panfilo "Ping" M. Lacson** (asr-003441)  
 64%
 
-**[01:57:32.680] Senator Panfilo Lacson** (asr-003442)  
+**[01:57:32.680] Senator Panfilo "Ping" M. Lacson** (asr-003442)  
 ng collection ninyo
 
-**[01:57:34.400] Senator Panfilo Lacson** (asr-003443)  
+**[01:57:34.400] Senator Panfilo "Ping" M. Lacson** (asr-003443)  
 goes to overtime.
 
-**[01:57:37.160] Senator Panfilo Lacson** (asr-003444)  
+**[01:57:37.160] Senator Panfilo "Ping" M. Lacson** (asr-003444)  
 Di ba?
 
-**[01:57:37.980] Senator Panfilo Lacson** (asr-003445)  
+**[01:57:37.980] Senator Panfilo "Ping" M. Lacson** (asr-003445)  
 25% goes to contractual.
 
-**[01:57:41.480] Senator Panfilo Lacson** (asr-003446)  
+**[01:57:41.480] Senator Panfilo "Ping" M. Lacson** (asr-003446)  
 And 11%,
 
-**[01:57:42.520] Senator Panfilo Lacson** (asr-003447)  
+**[01:57:42.520] Senator Panfilo "Ping" M. Lacson** (asr-003447)  
 yun ang naririmit sa
 
-**[01:57:44.180] Senator Panfilo Lacson** (asr-003448)  
+**[01:57:44.180] Senator Panfilo "Ping" M. Lacson** (asr-003448)  
 Bureau of Treasury.
 
-**[01:57:46.460] Senator Panfilo Lacson** (asr-003449)  
+**[01:57:46.460] Senator Panfilo "Ping" M. Lacson** (asr-003449)  
 My question is,
 
-**[01:57:47.400] Senator Panfilo Lacson** (asr-003450)  
+**[01:57:47.400] Senator Panfilo "Ping" M. Lacson** (asr-003450)  
 let's,
 
-**[01:57:47.900] Senator Panfilo Lacson** (asr-003451)  
+**[01:57:47.900] Senator Panfilo "Ping" M. Lacson** (asr-003451)  
 lahat ba niririmit nyo muna
 
-**[01:57:50.080] Senator Panfilo Lacson** (asr-003452)  
+**[01:57:50.080] Senator Panfilo "Ping" M. Lacson** (asr-003452)  
 or
 
-**[01:57:50.680] Senator Panfilo Lacson** (asr-003453)  
+**[01:57:50.680] Senator Panfilo "Ping" M. Lacson** (asr-003453)  
 binibigay nyo muna sa
 
-**[01:57:53.020] Senator Panfilo Lacson** (asr-003454)  
+**[01:57:53.020] Senator Panfilo "Ping" M. Lacson** (asr-003454)  
 specific purposes,
 
-**[01:57:55.780] Senator Panfilo Lacson** (asr-003455)  
+**[01:57:55.780] Senator Panfilo "Ping" M. Lacson** (asr-003455)  
 then you'll remit?
 
-**[01:57:56.680] Senator Panfilo Lacson** (asr-003456)  
+**[01:57:56.680] Senator Panfilo "Ping" M. Lacson** (asr-003456)  
 Because in 2026,
 
-**[01:57:59.840] Senator Panfilo Lacson** (asr-003457)  
+**[01:57:59.840] Senator Panfilo "Ping" M. Lacson** (asr-003457)  
 your actual receipts,
 
-**[01:58:02.880] Senator Panfilo Lacson** (asr-003458)  
+**[01:58:02.880] Senator Panfilo "Ping" M. Lacson** (asr-003458)  
 ano, 2025 ito,
 
-**[01:58:04.200] Senator Panfilo Lacson** (asr-003459)  
+**[01:58:04.200] Senator Panfilo "Ping" M. Lacson** (asr-003459)  
 as of December 31,
 
-**[01:58:06.560] Senator Panfilo Lacson** (asr-003460)  
+**[01:58:06.560] Senator Panfilo "Ping" M. Lacson** (asr-003460)  
 actual receipts is
 
-**[01:58:07.480] Senator Panfilo Lacson** (asr-003461)  
+**[01:58:07.480] Senator Panfilo "Ping" M. Lacson** (asr-003461)  
 2,027,699,000.
 
-**[01:58:11.460] Senator Panfilo Lacson** (asr-003462)  
+**[01:58:11.460] Senator Panfilo "Ping" M. Lacson** (asr-003462)  
 Ang actual expenditures,
 
-**[01:58:13.320] Senator Panfilo Lacson** (asr-003463)  
+**[01:58:13.320] Senator Panfilo "Ping" M. Lacson** (asr-003463)  
 ito yung 92.6%.
 
-**[01:58:15.360] Senator Panfilo Lacson** (asr-003464)  
+**[01:58:15.360] Senator Panfilo "Ping" M. Lacson** (asr-003464)  
 Now,
 
-**[01:58:16.240] Senator Panfilo Lacson** (asr-003465)  
+**[01:58:16.240] Senator Panfilo "Ping" M. Lacson** (asr-003465)  
 meron kayong cash balance,
 
-**[01:58:17.900] Senator Panfilo Lacson** (asr-003466)  
+**[01:58:17.900] Senator Panfilo "Ping" M. Lacson** (asr-003466)  
 na 346,400.
 
-**[01:58:21.480] Senator Panfilo Lacson** (asr-003467)  
+**[01:58:21.480] Senator Panfilo "Ping" M. Lacson** (asr-003467)  
 Ito yung for remittance
 
-**[01:58:23.260] Senator Panfilo Lacson** (asr-003468)  
+**[01:58:23.260] Senator Panfilo "Ping" M. Lacson** (asr-003468)  
 to the Bureau of Treasury.
 
-**[01:58:26.260] Senator Panfilo Lacson** (asr-003469)  
+**[01:58:26.260] Senator Panfilo "Ping" M. Lacson** (asr-003469)  
 I go back to my previous question.
 
-**[01:58:28.500] Senator Panfilo Lacson** (asr-003470)  
+**[01:58:28.500] Senator Panfilo "Ping" M. Lacson** (asr-003470)  
 Lahat ba muna niririmit nyo?
 
-**[01:58:29.920] Senator Panfilo Lacson** (asr-003471)  
+**[01:58:29.920] Senator Panfilo "Ping" M. Lacson** (asr-003471)  
 Tapos saka
 
-**[01:58:30.820] Senator Panfilo Lacson** (asr-003472)  
+**[01:58:30.820] Senator Panfilo "Ping" M. Lacson** (asr-003472)  
 ibinabalik sa inyo?
 
-**[01:58:32.540] Senator Panfilo Lacson** (asr-003473)  
+**[01:58:32.540] Senator Panfilo "Ping" M. Lacson** (asr-003473)  
 Or it's the other way around?
 
 **[01:58:34.600] BI Commissioner Joel Anthony M. Viado** (asr-003474)  
@@ -10396,64 +10396,64 @@ to the National Treasury,
 **[01:58:59.720] BI Commissioner Joel Anthony M. Viado** (asr-003490)  
 Your Honor.
 
-**[01:58:59.860] Senator Panfilo Lacson** (asr-003491)  
+**[01:58:59.860] Senator Panfilo "Ping" M. Lacson** (asr-003491)  
 Thank you for that.
 
-**[01:59:00.780] Senator Panfilo Lacson** (asr-003492)  
+**[01:59:00.780] Senator Panfilo "Ping" M. Lacson** (asr-003492)  
 Now,
 
-**[01:59:01.300] Senator Panfilo Lacson** (asr-003493)  
+**[01:59:01.300] Senator Panfilo "Ping" M. Lacson** (asr-003493)  
 another topic,
 
-**[01:59:02.620] Senator Panfilo Lacson** (asr-003494)  
+**[01:59:02.620] Senator Panfilo "Ping" M. Lacson** (asr-003494)  
 last na ito,
 
-**[01:59:03.480] Senator Panfilo Lacson** (asr-003495)  
+**[01:59:03.480] Senator Panfilo "Ping" M. Lacson** (asr-003495)  
 from this representation,
 
-**[01:59:06.040] Senator Panfilo Lacson** (asr-003496)  
+**[01:59:06.040] Senator Panfilo "Ping" M. Lacson** (asr-003496)  
 I just wanna pick the brain
 
-**[01:59:07.920] Senator Panfilo Lacson** (asr-003497)  
+**[01:59:07.920] Senator Panfilo "Ping" M. Lacson** (asr-003497)  
 of the secretary
 
-**[01:59:09.360] Senator Panfilo Lacson** (asr-003498)  
+**[01:59:09.360] Senator Panfilo "Ping" M. Lacson** (asr-003498)  
 of the DOJ
 
-**[01:59:10.760] Senator Panfilo Lacson** (asr-003499)  
+**[01:59:10.760] Senator Panfilo "Ping" M. Lacson** (asr-003499)  
 and the others
 
-**[01:59:11.940] Senator Panfilo Lacson** (asr-003500)  
+**[01:59:11.940] Senator Panfilo "Ping" M. Lacson** (asr-003500)  
 na naandito.
 
-**[01:59:13.600] Senator Panfilo Lacson** (asr-003501)  
+**[01:59:13.600] Senator Panfilo "Ping" M. Lacson** (asr-003501)  
 Yung proposal ni
 
-**[01:59:15.600] Senator Panfilo Lacson** (asr-003502)  
+**[01:59:15.600] Senator Panfilo "Ping" M. Lacson** (asr-003502)  
 Secretary Jonvic
 
-**[01:59:17.580] Senator Panfilo Lacson** (asr-003503)  
+**[01:59:17.580] Senator Panfilo "Ping" M. Lacson** (asr-003503)  
 Remulla, na ilipat
 
-**[01:59:19.880] Senator Panfilo Lacson** (asr-003504)  
+**[01:59:19.880] Senator Panfilo "Ping" M. Lacson** (asr-003504)  
 yung BJMP sa
 
-**[01:59:21.160] Senator Panfilo Lacson** (asr-003505)  
+**[01:59:21.160] Senator Panfilo "Ping" M. Lacson** (asr-003505)  
 Bucor.
 
-**[01:59:24.080] Senator Panfilo Lacson** (asr-003506)  
+**[01:59:24.080] Senator Panfilo "Ping" M. Lacson** (asr-003506)  
 This may not need
 
-**[01:59:26.240] Senator Panfilo Lacson** (asr-003507)  
+**[01:59:26.240] Senator Panfilo "Ping" M. Lacson** (asr-003507)  
 legislation kasi under
 
-**[01:59:27.740] Senator Panfilo Lacson** (asr-003508)  
+**[01:59:27.740] Senator Panfilo "Ping" M. Lacson** (asr-003508)  
 the administrative code, pwede naman talaga
 
-**[01:59:29.880] Senator Panfilo Lacson** (asr-003509)  
+**[01:59:29.880] Senator Panfilo "Ping" M. Lacson** (asr-003509)  
 yung presidente mag-reorganize, diba?
 
-**[01:59:32.340] Senator Panfilo Lacson** (asr-003510)  
+**[01:59:32.340] Senator Panfilo "Ping" M. Lacson** (asr-003510)  
 So, anong take nyo rito?
 
 **[01:59:34.220] DOJ Secretary Fredderick A. Vida** (asr-003511)  
@@ -10513,13 +10513,13 @@ Detach BJMP from the ILG and make BJMP as a bureau.
 **[02:00:27.340] BuCor Director General Gregorio Pio P. Catapang Jr.** (asr-003529)  
 Initially as a bureau, and then when the time comes that really we can merge these two.
 
-**[02:00:34.080] Senator Panfilo Lacson** (asr-003530)  
+**[02:00:34.080] Senator Panfilo "Ping" M. Lacson** (asr-003530)  
 BJMP is effectively a bureau under the DILG, just like the PNP and the BFP, di ba?
 
 **[02:00:40.380] BuCor Director General Gregorio Pio P. Catapang Jr.** (asr-003531)  
 Yes, Your Honor.
 
-**[02:00:41.900] Senator Panfilo Lacson** (asr-003532)  
+**[02:00:41.900] Senator Panfilo "Ping" M. Lacson** (asr-003532)  
 So, ano, separate bureau?
 
 **[02:00:43.880] BuCor Director General Gregorio Pio P. Catapang Jr.** (asr-003533)  
@@ -10612,19 +10612,19 @@ If Yusek Marco is more knowledgeable on the current status now.
 **[02:02:36.560] DOJ Secretary Fredderick A. Vida** (asr-003562)  
 There are already ongoing discussions on this, Your Honors.
 
-**[02:02:39.560] Senator Panfilo Lacson** (asr-003563)  
+**[02:02:39.560] Senator Panfilo "Ping" M. Lacson** (asr-003563)  
 Isa nang tanong ko.
 
-**[02:02:40.560] Senator Panfilo Lacson** (asr-003564)  
+**[02:02:40.560] Senator Panfilo "Ping" M. Lacson** (asr-003564)  
 Anong status doon sa recommendation?
 
 **[02:02:43.020] DOJ Undersecretary Deo Marco** (asr-003565)  
 With the permission of the Secretary.
 
-**[02:02:44.680] Senator Panfilo Lacson** (asr-003566)  
+**[02:02:44.680] Senator Panfilo "Ping" M. Lacson** (asr-003566)  
 Is the President positive on this?
 
-**[02:02:48.000] Senator Panfilo Lacson** (asr-003567)  
+**[02:02:48.000] Senator Panfilo "Ping" M. Lacson** (asr-003567)  
 Thank you.
 
 **[02:02:49.340] DOJ Undersecretary Deo Marco** (asr-003568)  
@@ -10651,31 +10651,31 @@ Because the provincial jails, according to the local government code, belongs to
 **[02:03:17.080] DOJ Undersecretary Deo Marco** (asr-003575)  
 That's the only problem, Your Honors.
 
-**[02:03:21.160] Senator Panfilo Lacson** (asr-003576)  
+**[02:03:21.160] Senator Panfilo "Ping" M. Lacson** (asr-003576)  
 Yeah.
 
-**[02:03:22.060] Senator Panfilo Lacson** (asr-003577)  
+**[02:03:22.060] Senator Panfilo "Ping" M. Lacson** (asr-003577)  
 Binigyan ng staff ko, no?
 
-**[02:03:23.560] Senator Panfilo Lacson** (asr-003578)  
+**[02:03:23.560] Senator Panfilo "Ping" M. Lacson** (asr-003578)  
 Also under the Government Optimization Act.
 
-**[02:03:26.360] Senator Panfilo Lacson** (asr-003579)  
+**[02:03:26.360] Senator Panfilo "Ping" M. Lacson** (asr-003579)  
 No?
 
-**[02:03:27.340] Senator Panfilo Lacson** (asr-003580)  
+**[02:03:27.340] Senator Panfilo "Ping" M. Lacson** (asr-003580)  
 Pwede rin mag-reorganize yung Pangulo.
 
-**[02:03:29.980] Senator Panfilo Lacson** (asr-003581)  
+**[02:03:29.980] Senator Panfilo "Ping" M. Lacson** (asr-003581)  
 So maraming available na pieces of legislation.
 
-**[02:03:33.080] Senator Panfilo Lacson** (asr-003582)  
+**[02:03:33.080] Senator Panfilo "Ping" M. Lacson** (asr-003582)  
 No longer legislation, but batas.
 
 **[02:03:35.280] DOJ Undersecretary Deo Marco** (asr-003583)  
 Yes, Your Honor.
 
-**[02:03:35.980] Senator Panfilo Lacson** (asr-003584)  
+**[02:03:35.980] Senator Panfilo "Ping" M. Lacson** (asr-003584)  
 So maybe you can work around itong dinidiscuss natin.
 
 **[02:03:40.020] DOJ Undersecretary Deo Marco** (asr-003585)  
@@ -10705,16 +10705,16 @@ As you, before, we can proceed with the other items, but later on, we'll go back
 **[02:04:02.340] DOJ Undersecretary Deo Marco** (asr-003593)  
 Thank you, Your Honors.
 
-**[02:04:04.120] Senator Panfilo Lacson** (asr-003594)  
+**[02:04:04.120] Senator Panfilo "Ping" M. Lacson** (asr-003594)  
 Wala na akong.
 
-**[02:04:04.760] Senator Panfilo Lacson** (asr-003595)  
+**[02:04:04.760] Senator Panfilo "Ping" M. Lacson** (asr-003595)  
 Alas dosi na, Mr. Chairman.
 
-**[02:04:06.420] Senator Panfilo Lacson** (asr-003596)  
+**[02:04:06.420] Senator Panfilo "Ping" M. Lacson** (asr-003596)  
 Pauwi na natin sila.
 
-**[02:04:08.740] Senator Panfilo Lacson** (asr-003597)  
+**[02:04:08.740] Senator Panfilo "Ping" M. Lacson** (asr-003597)  
 Meron lang akong ilang katanungan.
 
 **[02:04:10.900] DOJ Secretary Fredderick A. Vida** (asr-003598)  
@@ -10732,13 +10732,13 @@ Their special account to the DOJ family is the total only of P262,778,000.
 **[02:04:36.820] DOJ Secretary Fredderick A. Vida** (asr-003602)  
 That's based on that.
 
-**[02:04:38.140] Senator Panfilo Lacson** (asr-003603)  
+**[02:04:38.140] Senator Panfilo "Ping" M. Lacson** (asr-003603)  
 We'll take note of that, Secretary Vida.
 
-**[02:04:42.720] Senator Panfilo Lacson** (asr-003604)  
+**[02:04:42.720] Senator Panfilo "Ping" M. Lacson** (asr-003604)  
 Ano lang na remit out of 18?
 
-**[02:04:45.360] Senator Panfilo Lacson** (asr-003605)  
+**[02:04:45.360] Senator Panfilo "Ping" M. Lacson** (asr-003605)  
 Maliit.
 
 **[02:04:46.260] DOJ Secretary Fredderick A. Vida** (asr-003606)  
@@ -10747,7 +10747,7 @@ Yes, sir.
 **[02:04:47.240] NBI Director Melvin Matibag** (asr-003607)  
 Sir, pahabol ko lang po. Pasensya na po.
 
-**[02:04:49.380] Senator Panfilo Lacson** (asr-003608)  
+**[02:04:49.380] Senator Panfilo "Ping" M. Lacson** (asr-003608)  
 Go ahead, Director.
 
 **[02:04:50.220] NBI Director Melvin Matibag** (asr-003609)  
@@ -10822,25 +10822,25 @@ Now, 6 dapat per region at per district.
 **[02:06:02.040] NBI Director Melvin Matibag** (asr-003632)  
 Ganyan po, we only have 370 po.
 
-**[02:06:04.140] Senator Panfilo Lacson** (asr-003633)  
+**[02:06:04.140] Senator Panfilo "Ping" M. Lacson** (asr-003633)  
 Director Melvin, kindly check again.
 
-**[02:06:06.560] Senator Panfilo Lacson** (asr-003634)  
+**[02:06:06.560] Senator Panfilo "Ping" M. Lacson** (asr-003634)  
 Kasi baka may naliligaw na provision para budget na lang yung problema.
 
-**[02:06:11.880] Senator Panfilo Lacson** (asr-003635)  
+**[02:06:11.880] Senator Panfilo "Ping" M. Lacson** (asr-003635)  
 Baka mayroong provision doon na related na pwedeng lagyan ng budget.
 
-**[02:06:16.960] Senator Panfilo Lacson** (asr-003636)  
+**[02:06:16.960] Senator Panfilo "Ping" M. Lacson** (asr-003636)  
 Pakireview na lang ulit yung NBI modernization.
 
-**[02:06:20.400] Senator Panfilo Lacson** (asr-003637)  
+**[02:06:20.400] Senator Panfilo "Ping" M. Lacson** (asr-003637)  
 Kasi kapapasa lang yan.
 
-**[02:06:22.720] Senator Panfilo Lacson** (asr-003638)  
+**[02:06:22.720] Senator Panfilo "Ping" M. Lacson** (asr-003638)  
 Baka naman mayroong naliligaw doon na nabanggit yung hazard.
 
-**[02:06:25.840] Senator Panfilo Lacson** (asr-003639)  
+**[02:06:25.840] Senator Panfilo "Ping" M. Lacson** (asr-003639)  
 Sige po.
 
 **[02:06:27.180] NBI Director Melvin Matibag** (asr-003640)  
@@ -10852,40 +10852,40 @@ Maraming salamat po.
 **[02:06:29.960] Senator Francis Kiko Pangilinan** (asr-003642)  
 Address it to the chairman of the committee.
 
-**[02:06:31.900] Senator Panfilo Lacson** (asr-003643)  
+**[02:06:31.900] Senator Panfilo "Ping" M. Lacson** (asr-003643)  
 Ito pala meron oh.
 
-**[02:06:32.920] Senator Panfilo Lacson** (asr-003644)  
+**[02:06:32.920] Senator Panfilo "Ping" M. Lacson** (asr-003644)  
 There you go.
 
 **[02:06:34.340] Senator Francis Kiko Pangilinan** (asr-003645)  
 Go ahead sir.
 
-**[02:06:35.040] Senator Panfilo Lacson** (asr-003646)  
+**[02:06:35.040] Senator Panfilo "Ping" M. Lacson** (asr-003646)  
 Section 10.
 
-**[02:06:38.000] Senator Panfilo Lacson** (asr-003647)  
+**[02:06:38.000] Senator Panfilo "Ping" M. Lacson** (asr-003647)  
 Benefits and privileges.
 
-**[02:06:40.920] Senator Panfilo Lacson** (asr-003648)  
+**[02:06:40.920] Senator Panfilo "Ping" M. Lacson** (asr-003648)  
 Paragraph E.
 
-**[02:06:41.940] Senator Panfilo Lacson** (asr-003649)  
+**[02:06:41.940] Senator Panfilo "Ping" M. Lacson** (asr-003649)  
 Hazard pay.
 
-**[02:06:43.880] Senator Panfilo Lacson** (asr-003650)  
+**[02:06:43.880] Senator Panfilo "Ping" M. Lacson** (asr-003650)  
 Subject to pertinent laws and rules.
 
-**[02:06:45.940] Senator Panfilo Lacson** (asr-003651)  
+**[02:06:45.940] Senator Panfilo "Ping" M. Lacson** (asr-003651)  
 Meaning, pag sinabing subject to pertinent laws, gaayon.
 
-**[02:06:50.740] Senator Panfilo Lacson** (asr-003652)  
+**[02:06:50.740] Senator Panfilo "Ping" M. Lacson** (asr-003652)  
 Di ba?
 
-**[02:06:51.420] Senator Panfilo Lacson** (asr-003653)  
+**[02:06:51.420] Senator Panfilo "Ping" M. Lacson** (asr-003653)  
 So hindi na kailangan ng legislation.
 
-**[02:06:53.300] Senator Panfilo Lacson** (asr-003654)  
+**[02:06:53.300] Senator Panfilo "Ping" M. Lacson** (asr-003654)  
 It's already there.
 
 **[02:06:56.240] NBI Director Melvin Matibag** (asr-003655)  
@@ -10894,7 +10894,7 @@ Yes sir.
 **[02:06:57.180] NBI Director Melvin Matibag** (asr-003656)  
 That's why we're requesting po for the...
 
-**[02:06:58.980] Senator Panfilo Lacson** (asr-003657)  
+**[02:06:58.980] Senator Panfilo "Ping" M. Lacson** (asr-003657)  
 Kaya, mag-usap pala kayo ng chairman.
 
 **[02:07:01.100] NBI Director Melvin Matibag** (asr-003658)  
@@ -11134,13 +11134,13 @@ Andiyan po ang isang system na kailangan tumakbo not only in the airports in Met
 **[02:12:41.640] BI Commissioner Joel Anthony M. Viado** (asr-003737)  
 Yan po.
 
-**[02:12:42.400] Senator Panfilo Lacson** (asr-003738)  
+**[02:12:42.400] Senator Panfilo "Ping" M. Lacson** (asr-003738)  
 Chair Chairman, ang facial identification or facial recognition, yung requirement ninyo?
 
 **[02:12:48.860] BI Commissioner Joel Anthony M. Viado** (asr-003739)  
 Facial recognition, yung requirement.
 
-**[02:12:50.080] Senator Panfilo Lacson** (asr-003740)  
+**[02:12:50.080] Senator Panfilo "Ping" M. Lacson** (asr-003740)  
 Recognition, mahal yan.
 
 **[02:12:52.280] BI Commissioner Joel Anthony M. Viado** (asr-003741)  
@@ -11167,7 +11167,7 @@ And secondly po, Your Honor, yung phase 2 po ng proyekto namin is around [unclea
 **[02:13:29.340] BI Commissioner Joel Anthony M. Viado** (asr-003748)  
 Hindi ko kasanayin na magbasa ng napakaraming...
 
-**[02:13:32.120] Senator Panfilo Lacson** (asr-003749)  
+**[02:13:32.120] Senator Panfilo "Ping" M. Lacson** (asr-003749)  
 Lagi mo inisip yung milyon.
 
 **[02:13:33.820] BI Commissioner Joel Anthony M. Viado** (asr-003750)  
@@ -11179,13 +11179,13 @@ And phase 3 po ng proyekto is for 2026, 536,072,000, your honors.
 **[02:13:45.420] BI Commissioner Joel Anthony M. Viado** (asr-003752)  
 Yan po.
 
-**[02:13:46.140] Senator Panfilo Lacson** (asr-003753)  
+**[02:13:46.140] Senator Panfilo "Ping" M. Lacson** (asr-003753)  
 Kasi basically, di ba, pagka facial identification, ang tanong lang, sino to?
 
-**[02:13:51.300] Senator Panfilo Lacson** (asr-003754)  
+**[02:13:51.300] Senator Panfilo "Ping" M. Lacson** (asr-003754)  
 Pero pagka facial recognition, may matching.
 
-**[02:13:53.700] Senator Panfilo Lacson** (asr-003755)  
+**[02:13:53.700] Senator Panfilo "Ping" M. Lacson** (asr-003755)  
 May matching pa ito, di ba?
 
 **[02:13:54.520] BI Commissioner Joel Anthony M. Viado** (asr-003756)  
@@ -11209,7 +11209,7 @@ pero kailangan ng biometric identification system.
 **[02:14:18.040] BI Commissioner Joel Anthony M. Viado** (asr-003762)  
 Yan po.
 
-**[02:14:19.180] Senator Panfilo Lacson** (asr-003763)  
+**[02:14:19.180] Senator Panfilo "Ping" M. Lacson** (asr-003763)  
 Sa Southeast Asia, tayo na lang ba yung walang facial recognition?
 
 **[02:14:24.520] BI Commissioner Joel Anthony M. Viado** (asr-003764)  
@@ -11221,19 +11221,19 @@ Nakita ko na po yan sa, of course, Singapore, ang Indonesia, sa Bali, ang dami p
 **[02:14:42.420] BI Commissioner Joel Anthony M. Viado** (asr-003766)  
 Yan po. Marami po talagang mga bansa, your honors, na gumagamit.
 
-**[02:14:45.260] Senator Panfilo Lacson** (asr-003767)  
+**[02:14:45.260] Senator Panfilo "Ping" M. Lacson** (asr-003767)  
 Kindly walk us through, no? Pagka meron na tayong facial recognition technology.
 
 **[02:14:50.220] BI Commissioner Joel Anthony M. Viado** (asr-003768)  
 Yes, your honor.
 
-**[02:14:52.780] Senator Panfilo Lacson** (asr-003769)  
+**[02:14:52.780] Senator Panfilo "Ping" M. Lacson** (asr-003769)  
 Anong...
 
-**[02:14:53.260] Senator Panfilo Lacson** (asr-003770)  
+**[02:14:53.260] Senator Panfilo "Ping" M. Lacson** (asr-003770)  
 Anong mako-cover nito?
 
-**[02:14:54.780] Senator Panfilo Lacson** (asr-003771)  
+**[02:14:54.780] Senator Panfilo "Ping" M. Lacson** (asr-003771)  
 Pagdating ng pasahero, wala na tayo yung mga boots.
 
 **[02:14:58.880] BI Commissioner Joel Anthony M. Viado** (asr-003772)  
@@ -11245,7 +11245,7 @@ Yes, your honor.
 **[02:15:00.000] BI Commissioner Joel Anthony M. Viado** (asr-003774)  
 Yes, Your Honor.
 
-**[02:15:00.880] Senator Panfilo Lacson** (asr-003775)  
+**[02:15:00.880] Senator Panfilo "Ping" M. Lacson** (asr-003775)  
 Hanggang Pochina.
 
 **[02:15:01.900] BI Commissioner Joel Anthony M. Viado** (asr-003776)  
@@ -11266,16 +11266,16 @@ Ganun.
 **[02:15:08.640] BI Commissioner Joel Anthony M. Viado** (asr-003781)  
 Pagdaan, nakaka-capture na po lahat.
 
-**[02:15:10.340] Senator Panfilo Lacson** (asr-003782)  
+**[02:15:10.340] Senator Panfilo "Ping" M. Lacson** (asr-003782)  
 Lahat captured na.
 
-**[02:15:11.340] Senator Panfilo Lacson** (asr-003783)  
+**[02:15:11.340] Senator Panfilo "Ping" M. Lacson** (asr-003783)  
 So, you don't need to queue.
 
-**[02:15:14.720] Senator Panfilo Lacson** (asr-003784)  
+**[02:15:14.720] Senator Panfilo "Ping" M. Lacson** (asr-003784)  
 Di ba?
 
-**[02:15:14.880] Senator Panfilo Lacson** (asr-003785)  
+**[02:15:14.880] Senator Panfilo "Ping" M. Lacson** (asr-003785)  
 Hindi ka na magka-queue.
 
 **[02:15:15.980] BI Commissioner Joel Anthony M. Viado** (asr-003786)  
@@ -11284,7 +11284,7 @@ Yes, Your Honor.
 **[02:15:17.080] BI Commissioner Joel Anthony M. Viado** (asr-003787)  
 Ganun po.
 
-**[02:15:17.700] Senator Panfilo Lacson** (asr-003788)  
+**[02:15:17.700] Senator Panfilo "Ping" M. Lacson** (asr-003788)  
 Because to which is own, you just go through.
 
 **[02:15:21.560] BI Commissioner Joel Anthony M. Viado** (asr-003789)  
@@ -11332,7 +11332,7 @@ Yes, Your Honor.
 **[02:15:58.360] BI Commissioner Joel Anthony M. Viado** (asr-003803)  
 Ito po ang...
 
-**[02:15:59.140] Senator Panfilo Lacson** (asr-003804)  
+**[02:15:59.140] Senator Panfilo "Ping" M. Lacson** (asr-003804)  
 Wala nang human intervention.
 
 **[02:16:00.840] BI Commissioner Joel Anthony M. Viado** (asr-003805)  
@@ -11341,7 +11341,7 @@ Yes, Your Honor.
 **[02:16:01.580] BI Commissioner Joel Anthony M. Viado** (asr-003806)  
 That would...
 
-**[02:16:02.380] Senator Panfilo Lacson** (asr-003807)  
+**[02:16:02.380] Senator Panfilo "Ping" M. Lacson** (asr-003807)  
 Ang problema nyo, saan nyo itatapon yung mga employees ninyo?
 
 **[02:16:05.040] BI Commissioner Joel Anthony M. Viado** (asr-003808)  
@@ -11371,7 +11371,7 @@ The discretion of the immigration officers still remains.
 **[02:16:30.120] BI Commissioner Joel Anthony M. Viado** (asr-003816)  
 So, kailangan pa rin po namin.
 
-**[02:16:30.880] Senator Panfilo Lacson** (asr-003817)  
+**[02:16:30.880] Senator Panfilo "Ping" M. Lacson** (asr-003817)  
 So, how much do we need for the first phase?
 
 **[02:16:33.520] BI Commissioner Joel Anthony M. Viado** (asr-003818)  
@@ -11380,16 +11380,16 @@ So, how much do we need for the first phase?
 **[02:16:36.160] BI Commissioner Joel Anthony M. Viado** (asr-003819)  
 Na ibigay na po sa amin, Your Honor.
 
-**[02:16:37.860] Senator Panfilo Lacson** (asr-003820)  
+**[02:16:37.860] Senator Panfilo "Ping" M. Lacson** (asr-003820)  
 Ah, nandiyan na.
 
-**[02:16:38.640] Senator Panfilo Lacson** (asr-003821)  
+**[02:16:38.640] Senator Panfilo "Ping" M. Lacson** (asr-003821)  
 So, in the works na ito?
 
 **[02:16:40.600] BI Commissioner Joel Anthony M. Viado** (asr-003822)  
 Yes po, Your Honor.
 
-**[02:16:42.280] Senator Panfilo Lacson** (asr-003823)  
+**[02:16:42.280] Senator Panfilo "Ping" M. Lacson** (asr-003823)  
 So, where are we now?
 
 **[02:16:44.820] BI Commissioner Joel Anthony M. Viado** (asr-003824)  
@@ -11401,19 +11401,19 @@ Sa phase 2 na po tayo, Your Honor.
 **[02:16:49.660] BI Commissioner Joel Anthony M. Viado** (asr-003826)  
 Nasa phase 2 na po.
 
-**[02:16:50.220] Senator Panfilo Lacson** (asr-003827)  
+**[02:16:50.220] Senator Panfilo "Ping" M. Lacson** (asr-003827)  
 Nasa NEP yan?
 
 **[02:16:51.820] BI Commissioner Joel Anthony M. Viado** (asr-003828)  
 Yes po, Your Honor.
 
-**[02:16:54.280] Senator Panfilo Lacson** (asr-003829)  
+**[02:16:54.280] Senator Panfilo "Ping" M. Lacson** (asr-003829)  
 Sufficient or not enough?
 
-**[02:16:56.620] Senator Panfilo Lacson** (asr-003830)  
+**[02:16:56.620] Senator Panfilo "Ping" M. Lacson** (asr-003830)  
 Yung nasa NEP?
 
-**[02:17:01.500] Senator Panfilo Lacson** (asr-003831)  
+**[02:17:01.500] Senator Panfilo "Ping" M. Lacson** (asr-003831)  
 Sapat na ba?
 
 **[02:17:02.260] BI Commissioner Joel Anthony M. Viado** (asr-003832)  
@@ -11422,28 +11422,28 @@ Enough na po, Your Honor.
 **[02:17:04.480] BI Commissioner Joel Anthony M. Viado** (asr-003833)  
 If I may, Your Honor.
 
-**[02:17:05.800] Senator Panfilo Lacson** (asr-003834)  
+**[02:17:05.800] Senator Panfilo "Ping" M. Lacson** (asr-003834)  
 Wala na po nga, pigi-usapang budget.
 
-**[02:17:08.560] Senator Panfilo Lacson** (asr-003835)  
+**[02:17:08.560] Senator Panfilo "Ping" M. Lacson** (asr-003835)  
 Okay na po.
 
 **[02:17:09.720] BI Commissioner Joel Anthony M. Viado** (asr-003836)  
 Your Honor.
 
-**[02:17:10.500] Senator Panfilo Lacson** (asr-003837)  
+**[02:17:10.500] Senator Panfilo "Ping" M. Lacson** (asr-003837)  
 I-adapt na lang yung NEP, ano?
 
 **[02:17:11.800] BI Commissioner Joel Anthony M. Viado** (asr-003838)  
 Yes po.
 
-**[02:17:12.300] Senator Panfilo Lacson** (asr-003839)  
+**[02:17:12.300] Senator Panfilo "Ping" M. Lacson** (asr-003839)  
 I-adapt na lang yung NEP.
 
 **[02:17:13.640] BI Commissioner Joel Anthony M. Viado** (asr-003840)  
 Yes po.
 
-**[02:17:13.900] Senator Panfilo Lacson** (asr-003841)  
+**[02:17:13.900] Senator Panfilo "Ping" M. Lacson** (asr-003841)  
 Okay na kayo?
 
 **[02:17:14.600] BI Commissioner Joel Anthony M. Viado** (asr-003842)  

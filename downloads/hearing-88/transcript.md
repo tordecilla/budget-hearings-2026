@@ -4,28 +4,28 @@ Source: https://www.youtube.com/watch?v=-9zzkxm8DXo
 
 AI-assisted working draft. AI can make errors. Always check quotations, names, rulings, and other consequential details against the official video.
 
-**[00:12:42.160] Senator Erwin Tulfo** (asr-000027)  
+**[00:12:42.160] Senator Erwin T. Tulfo** (asr-000027)  
 I also would like to thank and acknowledge the presence of CSC Chairperson and Attorney Marilyn Barua Yap.
 
-**[00:12:55.760] Senator Erwin Tulfo** (asr-000028)  
+**[00:12:55.760] Senator Erwin T. Tulfo** (asr-000028)  
 And later on, we will be joined by DOT Secretary Maria Bernardita
 
-**[00:12:59.640] Senator Erwin Tulfo** (asr-000033)  
+**[00:12:59.640] Senator Erwin T. Tulfo** (asr-000033)  
 Angara-Mathay while she's still attending
 
-**[00:13:03.700] Senator Erwin Tulfo** (asr-000034)  
+**[00:13:03.700] Senator Erwin T. Tulfo** (asr-000034)  
 ASEAN at the PICC, but
 
-**[00:13:07.600] Senator Erwin Tulfo** (asr-000035)  
+**[00:13:07.600] Senator Erwin T. Tulfo** (asr-000035)  
 we were told that she'll be arriving.
 
-**[00:13:13.080] Senator Erwin Tulfo** (asr-000036)  
+**[00:13:13.080] Senator Erwin T. Tulfo** (asr-000036)  
 At this juncture, may I ask ComSec Inda Mendoza
 
-**[00:13:16.660] Senator Erwin Tulfo** (asr-000037)  
+**[00:13:16.660] Senator Erwin T. Tulfo** (asr-000037)  
 to acknowledge the other resource persons in today's budget.
 
-**[00:13:20.860] Senator Erwin Tulfo** (asr-000038)  
+**[00:13:20.860] Senator Erwin T. Tulfo** (asr-000038)  
 ComSec.
 
 **[00:13:23.700] Committee Secretary** (asr-000039)  
@@ -169,400 +169,400 @@ Good afternoon ma'am.
 **[00:16:22.840] Committee Secretary** (asr-000085)  
 I think that is for now, Mr. Chair.
 
-**[00:16:26.820] Senator Erwin Tulfo** (asr-000086)  
+**[00:16:26.820] Senator Erwin T. Tulfo** (asr-000086)  
 All right.
 
-**[00:16:28.100] Senator Erwin Tulfo** (asr-000087)  
+**[00:16:28.100] Senator Erwin T. Tulfo** (asr-000087)  
 Thank you, ComSec.
 
-**[00:16:30.980] Senator Erwin Tulfo** (asr-000088)  
+**[00:16:30.980] Senator Erwin T. Tulfo** (asr-000088)  
 We're supposed to start with the Department of Tourism.
 
-**[00:16:34.920] Senator Erwin Tulfo** (asr-000089)  
+**[00:16:34.920] Senator Erwin T. Tulfo** (asr-000089)  
 Unfortunately, the Secretary cannot join us at this very moment.
 
-**[00:16:38.860] Senator Erwin Tulfo** (asr-000090)  
+**[00:16:38.860] Senator Erwin T. Tulfo** (asr-000090)  
 So, we will proceed with the budget hearing of the Civil Service Commission.
 
-**[00:16:46.300] Senator Erwin Tulfo** (asr-000091)  
+**[00:16:46.300] Senator Erwin T. Tulfo** (asr-000091)  
 We will tackle first the proposed budget to be followed by the Department of Tourism.
 
-**[00:16:51.780] Senator Erwin Tulfo** (asr-000092)  
+**[00:16:51.780] Senator Erwin T. Tulfo** (asr-000092)  
 Hopefully, the Secretary will be here.
 
-**[00:16:53.280] Senator Erwin Tulfo** (asr-000093)  
+**[00:16:53.280] Senator Erwin T. Tulfo** (asr-000093)  
 And then the Career Executive Service Board.
 
-**[00:16:58.080] Senator Erwin Tulfo** (asr-000094)  
+**[00:16:58.080] Senator Erwin T. Tulfo** (asr-000094)  
 We now recognize Chairperson, or before that, let me just have a short message or statement to make.
 
-**[00:17:16.000] Senator Erwin Tulfo** (asr-000095)  
+**[00:17:16.000] Senator Erwin T. Tulfo** (asr-000095)  
 Today, the Finance Subcommittee H will deliberate on the fiscal year 2027 proposed budgets of the Civil Service Commission,
 
-**[00:17:23.820] Senator Erwin Tulfo** (asr-000096)  
+**[00:17:23.820] Senator Erwin T. Tulfo** (asr-000096)  
 the Department of Tourism, and their attached agencies, and the Career Executive Service Board.
 
-**[00:17:31.300] Senator Erwin Tulfo** (asr-000097)  
+**[00:17:31.300] Senator Erwin T. Tulfo** (asr-000097)  
 As we go through the proposal, our focus will be straightforward: how do this proposed budget support the agency's mandates, and what concrete results can be public or can the public expect in return for this proposed budget?
 
-**[00:17:47.240] Senator Erwin Tulfo** (asr-000098)  
+**[00:17:47.240] Senator Erwin T. Tulfo** (asr-000098)  
 For the Civil Service Commission and Career Executive Service Board, we will look at how their proposed budgets will support their respective mandates.
 
-**[00:17:57.080] Senator Erwin Tulfo** (asr-000102)  
+**[00:17:57.080] Senator Erwin T. Tulfo** (asr-000102)  
 in strengthening our Civil Service,
 
-**[00:18:00.100] Senator Erwin Tulfo** (asr-000103)  
+**[00:18:00.100] Senator Erwin T. Tulfo** (asr-000103)  
 upholding the merit system,
 
-**[00:18:01.840] Senator Erwin Tulfo** (asr-000104)  
+**[00:18:01.840] Senator Erwin T. Tulfo** (asr-000104)  
 promoting professionalism and integrity,
 
-**[00:18:04.840] Senator Erwin Tulfo** (asr-000105)  
+**[00:18:04.840] Senator Erwin T. Tulfo** (asr-000105)  
 and ensuring that we have a competent
 
-**[00:18:08.280] Senator Erwin Tulfo** (asr-000106)  
+**[00:18:08.280] Senator Erwin T. Tulfo** (asr-000106)  
 and effective career executive services.
 
-**[00:18:10.920] Senator Erwin Tulfo** (asr-000107)  
+**[00:18:10.920] Senator Erwin T. Tulfo** (asr-000107)  
 We will also examine the Commission's modernization and digitalization initiatives,
 
-**[00:18:16.600] Senator Erwin Tulfo** (asr-000108)  
+**[00:18:16.600] Senator Erwin T. Tulfo** (asr-000108)  
 as well as its additional budgetary requirement.
 
-**[00:18:20.540] Senator Erwin Tulfo** (asr-000109)  
+**[00:18:20.540] Senator Erwin T. Tulfo** (asr-000109)  
 For the Department of Tourism,
 
-**[00:18:22.640] Senator Erwin Tulfo** (asr-000110)  
+**[00:18:22.640] Senator Erwin T. Tulfo** (asr-000110)  
 and its attached agencies and corporations, we will similarly
 
-**[00:18:27.920] Senator Erwin Tulfo** (asr-000111)  
+**[00:18:27.920] Senator Erwin T. Tulfo** (asr-000111)  
 examine how their proposed budgets
 
-**[00:18:30.100] Senator Erwin Tulfo** (asr-000112)  
+**[00:18:30.100] Senator Erwin T. Tulfo** (asr-000112)  
 will support the development
 
-**[00:18:31.960] Senator Erwin Tulfo** (asr-000113)  
+**[00:18:31.960] Senator Erwin T. Tulfo** (asr-000113)  
 and promotion of Philippine tourism,
 
-**[00:18:34.500] Senator Erwin Tulfo** (asr-000114)  
+**[00:18:34.500] Senator Erwin T. Tulfo** (asr-000114)  
 strengthen our destinations
 
-**[00:18:35.760] Senator Erwin Tulfo** (asr-000115)  
+**[00:18:35.760] Senator Erwin T. Tulfo** (asr-000115)  
 and tourism industry, create
 
-**[00:18:37.940] Senator Erwin Tulfo** (asr-000116)  
+**[00:18:37.940] Senator Erwin T. Tulfo** (asr-000116)  
 livelihood and employment opportunities,
 
-**[00:18:39.900] Senator Erwin Tulfo** (asr-000117)  
+**[00:18:39.900] Senator Erwin T. Tulfo** (asr-000117)  
 and ensure that tourism benefits
 
-**[00:18:42.120] Senator Erwin Tulfo** (asr-000118)  
+**[00:18:42.120] Senator Erwin T. Tulfo** (asr-000118)  
 reach communities across the country.
 
-**[00:18:44.720] Senator Erwin Tulfo** (asr-000119)  
+**[00:18:44.720] Senator Erwin T. Tulfo** (asr-000119)  
 Looking at the proposed
 
-**[00:18:46.160] Senator Erwin Tulfo** (asr-000120)  
+**[00:18:46.160] Senator Erwin T. Tulfo** (asr-000120)  
 2027 National Expenditure
 
-**[00:18:48.260] Senator Erwin Tulfo** (asr-000121)  
+**[00:18:48.260] Senator Erwin T. Tulfo** (asr-000121)  
 Program, we note
 
-**[00:18:49.960] Senator Erwin Tulfo** (asr-000122)  
+**[00:18:49.960] Senator Erwin T. Tulfo** (asr-000122)  
 an overall decrease in funding.
 
-**[00:18:52.740] Senator Erwin Tulfo** (asr-000123)  
+**[00:18:52.740] Senator Erwin T. Tulfo** (asr-000123)  
 The combined new appropriations
 
-**[00:18:54.240] Senator Erwin Tulfo** (asr-000124)  
+**[00:18:54.240] Senator Erwin T. Tulfo** (asr-000124)  
 for the DOT Office of the Secretary,
 
-**[00:18:56.040] Senator Erwin Tulfo** (asr-000125)  
+**[00:18:56.040] Senator Erwin T. Tulfo** (asr-000125)  
 Intramuros Administration,
 
-**[00:18:58.740] Senator Erwin Tulfo** (asr-000126)  
+**[00:18:58.740] Senator Erwin T. Tulfo** (asr-000126)  
 National Parks Development
 
-**[00:19:00.080] Senator Erwin Tulfo** (asr-000127)  
+**[00:19:00.080] Senator Erwin T. Tulfo** (asr-000127)  
 Committee, and Philippine
 
-**[00:19:02.120] Senator Erwin Tulfo** (asr-000128)  
+**[00:19:02.120] Senator Erwin T. Tulfo** (asr-000128)  
 Commission on Sports Scuba Diving
 
-**[00:19:04.000] Senator Erwin Tulfo** (asr-000129)  
+**[00:19:04.000] Senator Erwin T. Tulfo** (asr-000129)  
 dropped from 4.16 billion
 
-**[00:19:05.880] Senator Erwin Tulfo** (asr-000130)  
+**[00:19:05.880] Senator Erwin T. Tulfo** (asr-000130)  
 in 2016 or
 
-**[00:19:07.660] Senator Erwin Tulfo** (asr-000131)  
+**[00:19:07.660] Senator Erwin T. Tulfo** (asr-000131)  
 2026 to 3.96
 
-**[00:19:10.320] Senator Erwin Tulfo** (asr-000132)  
+**[00:19:10.320] Senator Erwin T. Tulfo** (asr-000132)  
 billion for this year or for
 
-**[00:19:12.000] Senator Erwin Tulfo** (asr-000133)  
+**[00:19:12.000] Senator Erwin T. Tulfo** (asr-000133)  
 this coming year. For the
 
-**[00:19:13.980] Senator Erwin Tulfo** (asr-000134)  
+**[00:19:13.980] Senator Erwin T. Tulfo** (asr-000134)  
 DOT's attached corporations,
 
-**[00:19:15.900] Senator Erwin Tulfo** (asr-000135)  
+**[00:19:15.900] Senator Erwin T. Tulfo** (asr-000135)  
 Tourism Promotion Board,
 
-**[00:19:18.120] Senator Erwin Tulfo** (asr-000136)  
+**[00:19:18.120] Senator Erwin T. Tulfo** (asr-000136)  
 subsidy decreased from 1.4
 
-**[00:19:20.100] Senator Erwin Tulfo** (asr-000137)  
+**[00:19:20.100] Senator Erwin T. Tulfo** (asr-000137)  
 to 1.1 billion,
 
-**[00:19:22.140] Senator Erwin Tulfo** (asr-000138)  
+**[00:19:22.140] Senator Erwin T. Tulfo** (asr-000138)  
 while TIEZA's 1 billion allocation
 
-**[00:19:23.920] Senator Erwin Tulfo** (asr-000139)  
+**[00:19:23.920] Senator Erwin T. Tulfo** (asr-000139)  
 for locally funded projects
 
-**[00:19:25.520] Senator Erwin Tulfo** (asr-000140)  
+**[00:19:25.520] Senator Erwin T. Tulfo** (asr-000140)  
 in 2026 drops to
 
-**[00:19:27.980] Senator Erwin Tulfo** (asr-000141)  
+**[00:19:27.980] Senator Erwin T. Tulfo** (asr-000141)  
 zero. In contrast,
 
-**[00:19:29.940] Senator Erwin Tulfo** (asr-000142)  
+**[00:19:29.940] Senator Erwin T. Tulfo** (asr-000142)  
 Duty Free Philippines Corporation
 
-**[00:19:31.620] Senator Erwin Tulfo** (asr-000143)  
+**[00:19:31.620] Senator Erwin T. Tulfo** (asr-000143)  
 is requesting 326.3
 
-**[00:19:34.400] Senator Erwin Tulfo** (asr-000144)  
+**[00:19:34.400] Senator Erwin T. Tulfo** (asr-000144)  
 million in capital
 
-**[00:19:35.820] Senator Erwin Tulfo** (asr-000145)  
+**[00:19:35.820] Senator Erwin T. Tulfo** (asr-000145)  
 support
 
-**[00:19:36.380] Senator Erwin Tulfo** (asr-000146)  
+**[00:19:36.380] Senator Erwin T. Tulfo** (asr-000146)  
 after receiving none last year.
 
-**[00:19:40.660] Senator Erwin Tulfo** (asr-000147)  
+**[00:19:40.660] Senator Erwin T. Tulfo** (asr-000147)  
 Finally, Nayong Pilipino
 
-**[00:19:41.900] Senator Erwin Tulfo** (asr-000148)  
+**[00:19:41.900] Senator Erwin T. Tulfo** (asr-000148)  
 Foundation and the Philippine Retirement Authority
 
-**[00:19:44.020] Senator Erwin Tulfo** (asr-000149)  
+**[00:19:44.020] Senator Erwin T. Tulfo** (asr-000149)  
 continue to request zero
 
-**[00:19:46.020] Senator Erwin Tulfo** (asr-000150)  
+**[00:19:46.020] Senator Erwin T. Tulfo** (asr-000150)  
 national budget.
 
-**[00:19:47.800] Senator Erwin Tulfo** (asr-000151)  
+**[00:19:47.800] Senator Erwin T. Tulfo** (asr-000151)  
 As we assess these budget proposals,
 
-**[00:19:49.720] Senator Erwin Tulfo** (asr-000152)  
+**[00:19:49.720] Senator Erwin T. Tulfo** (asr-000152)  
 we shall pay
 
-**[00:19:51.160] Senator Erwin Tulfo** (asr-000153)  
+**[00:19:51.160] Senator Erwin T. Tulfo** (asr-000153)  
 particular attention
 
-**[00:19:53.560] Senator Erwin Tulfo** (asr-000154)  
+**[00:19:53.560] Senator Erwin T. Tulfo** (asr-000154)  
 to the additional funding
 
-**[00:19:55.520] Senator Erwin Tulfo** (asr-000155)  
+**[00:19:55.520] Senator Erwin T. Tulfo** (asr-000155)  
 required for the
 
-**[00:19:57.520] Senator Erwin Tulfo** (asr-000156)  
+**[00:19:57.520] Senator Erwin T. Tulfo** (asr-000156)  
 new requests and new programs.
 
-**[00:19:59.520] Senator Erwin Tulfo** (asr-000157)  
+**[00:19:59.520] Senator Erwin T. Tulfo** (asr-000157)  
 For every request,
 
-**[00:20:01.520] Senator Erwin Tulfo** (asr-000158)  
+**[00:20:01.520] Senator Erwin T. Tulfo** (asr-000158)  
 we expect a clear explanation
 
-**[00:20:03.520] Senator Erwin Tulfo** (asr-000159)  
+**[00:20:03.520] Senator Erwin T. Tulfo** (asr-000159)  
 of the need, the beneficiaries,
 
-**[00:20:05.520] Senator Erwin Tulfo** (asr-000160)  
+**[00:20:05.520] Senator Erwin T. Tulfo** (asr-000160)  
 and the specific outcomes
 
-**[00:20:07.520] Senator Erwin Tulfo** (asr-000161)  
+**[00:20:07.520] Senator Erwin T. Tulfo** (asr-000161)  
 for Fiscal Year 2027.
 
-**[00:20:09.520] Senator Erwin Tulfo** (asr-000162)  
+**[00:20:09.520] Senator Erwin T. Tulfo** (asr-000162)  
 Hindi lang po kayo ang humihingi po
 
-**[00:20:11.520] Senator Erwin Tulfo** (asr-000163)  
+**[00:20:11.520] Senator Erwin T. Tulfo** (asr-000163)  
 ng increase ng budget.
 
-**[00:20:13.520] Senator Erwin Tulfo** (asr-000164)  
+**[00:20:13.520] Senator Erwin T. Tulfo** (asr-000164)  
 Halos lahat naman po
 
-**[00:20:15.520] Senator Erwin Tulfo** (asr-000165)  
+**[00:20:15.520] Senator Erwin T. Tulfo** (asr-000165)  
 na dumadaan ngayon dito sa amin ay
 
-**[00:20:17.520] Senator Erwin Tulfo** (asr-000166)  
+**[00:20:17.520] Senator Erwin T. Tulfo** (asr-000166)  
 humihingi po ng karagdagang
 
-**[00:20:19.520] Senator Erwin Tulfo** (asr-000167)  
+**[00:20:19.520] Senator Erwin T. Tulfo** (asr-000167)  
 budget. Kailangan lang po
 
-**[00:20:21.520] Senator Erwin Tulfo** (asr-000168)  
+**[00:20:21.520] Senator Erwin T. Tulfo** (asr-000168)  
 yung malinaw na paliwanag bakit.
 
-**[00:20:23.520] Senator Erwin Tulfo** (asr-000169)  
+**[00:20:23.520] Senator Erwin T. Tulfo** (asr-000169)  
 You have to convince the government
 
-**[00:20:25.520] Senator Erwin Tulfo** (asr-000170)  
+**[00:20:25.520] Senator Erwin T. Tulfo** (asr-000170)  
 this committee
 
-**[00:20:27.520] Senator Erwin Tulfo** (asr-000171)  
+**[00:20:27.520] Senator Erwin T. Tulfo** (asr-000171)  
 why you should be given
 
-**[00:20:29.520] Senator Erwin Tulfo** (asr-000172)  
+**[00:20:29.520] Senator Erwin T. Tulfo** (asr-000172)  
 that kind of budget.
 
-**[00:20:31.520] Senator Erwin Tulfo** (asr-000173)  
+**[00:20:31.520] Senator Erwin T. Tulfo** (asr-000173)  
 We also need to understand your capacity
 
-**[00:20:33.520] Senator Erwin Tulfo** (asr-000174)  
+**[00:20:33.520] Senator Erwin T. Tulfo** (asr-000174)  
 to implement these proposals.
 
-**[00:20:35.520] Senator Erwin Tulfo** (asr-000175)  
+**[00:20:35.520] Senator Erwin T. Tulfo** (asr-000175)  
 May sapat po bang personnel,
 
-**[00:20:37.520] Senator Erwin Tulfo** (asr-000176)  
+**[00:20:37.520] Senator Erwin T. Tulfo** (asr-000176)  
 systems, and mechanisms to
 
-**[00:20:39.520] Senator Erwin Tulfo** (asr-000177)  
+**[00:20:39.520] Senator Erwin T. Tulfo** (asr-000177)  
 actually deliver what is proposed?
 
-**[00:20:41.520] Senator Erwin Tulfo** (asr-000178)  
+**[00:20:41.520] Senator Erwin T. Tulfo** (asr-000178)  
 Budgets must be matched by
 
-**[00:20:43.520] Senator Erwin Tulfo** (asr-000179)  
+**[00:20:43.520] Senator Erwin T. Tulfo** (asr-000179)  
 realistic target.
 
-**[00:20:45.520] Senator Erwin Tulfo** (asr-000180)  
+**[00:20:45.520] Senator Erwin T. Tulfo** (asr-000180)  
 Hindi po yung panaginip.
 
-**[00:20:47.520] Senator Erwin Tulfo** (asr-000181)  
+**[00:20:47.520] Senator Erwin T. Tulfo** (asr-000181)  
 Ultimately, our duty
 
-**[00:20:49.520] Senator Erwin Tulfo** (asr-000182)  
+**[00:20:49.520] Senator Erwin T. Tulfo** (asr-000182)  
 is to ensure that public funds are directed
 
-**[00:20:51.520] Senator Erwin Tulfo** (asr-000183)  
+**[00:20:51.520] Senator Erwin T. Tulfo** (asr-000183)  
 towards legitimate priorities
 
-**[00:20:53.520] Senator Erwin Tulfo** (asr-000184)  
+**[00:20:53.520] Senator Erwin T. Tulfo** (asr-000184)  
 and that every proposed expenditure
 
-**[00:20:55.520] Senator Erwin Tulfo** (asr-000185)  
+**[00:20:55.520] Senator Erwin T. Tulfo** (asr-000185)  
 is properly justified.
 
-**[00:20:57.520] Senator Erwin Tulfo** (asr-000186)  
+**[00:20:57.520] Senator Erwin T. Tulfo** (asr-000186)  
 Kasi meron po tayong mga
 
-**[00:20:59.520] Senator Erwin Tulfo** (asr-000187)  
+**[00:20:59.520] Senator Erwin T. Tulfo** (asr-000187)  
 agencies request ng request
 
-**[00:21:01.520] Senator Erwin Tulfo** (asr-000188)  
+**[00:21:01.520] Senator Erwin T. Tulfo** (asr-000188)  
 tapos
 
-**[00:21:03.520] Senator Erwin Tulfo** (asr-000189)  
+**[00:21:03.520] Senator Erwin T. Tulfo** (asr-000189)  
 pagtitignan po yung
 
-**[00:21:05.520] Senator Erwin Tulfo** (asr-000190)  
+**[00:21:05.520] Senator Erwin T. Tulfo** (asr-000190)  
 ika nga unused
 
-**[00:21:07.520] Senator Erwin Tulfo** (asr-000191)  
+**[00:21:07.520] Senator Erwin T. Tulfo** (asr-000191)  
 or undisbursed
 
-**[00:21:09.520] Senator Erwin Tulfo** (asr-000192)  
+**[00:21:09.520] Senator Erwin T. Tulfo** (asr-000192)  
 na pondo. E nandyan pa po
 
-**[00:21:11.520] Senator Erwin Tulfo** (asr-000193)  
+**[00:21:11.520] Senator Erwin T. Tulfo** (asr-000193)  
 hawak pa po nila.
 
-**[00:21:13.520] Senator Erwin Tulfo** (asr-000194)  
+**[00:21:13.520] Senator Erwin T. Tulfo** (asr-000194)  
 Bakit hawak pa po ninyo? Bakit kayo
 
-**[00:21:15.520] Senator Erwin Tulfo** (asr-000195)  
+**[00:21:15.520] Senator Erwin T. Tulfo** (asr-000195)  
 hihingi ng additional budget?
 
-**[00:21:17.520] Senator Erwin Tulfo** (asr-000196)  
+**[00:21:17.520] Senator Erwin T. Tulfo** (asr-000196)  
 Bakit hindi nila ibigay sa ibang ahensya
 
-**[00:21:19.520] Senator Erwin Tulfo** (asr-000197)  
+**[00:21:19.520] Senator Erwin T. Tulfo** (asr-000197)  
 na nangangailangan?
 
-**[00:21:21.520] Senator Erwin Tulfo** (asr-000198)  
+**[00:21:21.520] Senator Erwin T. Tulfo** (asr-000198)  
 September na po tayo ngayon. September, October,
 
-**[00:21:23.520] Senator Erwin Tulfo** (asr-000199)  
+**[00:21:23.520] Senator Erwin T. Tulfo** (asr-000199)  
 November, December. Kung yung
 
-**[00:21:25.520] Senator Erwin Tulfo** (asr-000200)  
+**[00:21:25.520] Senator Erwin T. Tulfo** (asr-000200)  
 budget nyo nasa kalahati pa po,
 
-**[00:21:27.520] Senator Erwin Tulfo** (asr-000201)  
+**[00:21:27.520] Senator Erwin T. Tulfo** (asr-000201)  
 sa three months to go po tayo,
 
-**[00:21:29.520] Senator Erwin Tulfo** (asr-000202)  
+**[00:21:29.520] Senator Erwin T. Tulfo** (asr-000202)  
 may problema po
 
-**[00:21:31.520] Senator Erwin Tulfo** (asr-000203)  
+**[00:21:31.520] Senator Erwin T. Tulfo** (asr-000203)  
 kayo sa inyong disbursement.
 
-**[00:21:33.520] Senator Erwin Tulfo** (asr-000204)  
+**[00:21:33.520] Senator Erwin T. Tulfo** (asr-000204)  
 Ibig sabihin,
 
-**[00:21:35.520] Senator Erwin Tulfo** (asr-000205)  
+**[00:21:35.520] Senator Erwin T. Tulfo** (asr-000205)  
 baka sobra.
 
-**[00:21:37.520] Senator Erwin Tulfo** (asr-000206)  
+**[00:21:37.520] Senator Erwin T. Tulfo** (asr-000206)  
 Kaya huwag na po kayo magtaka kung kayo
 
-**[00:21:39.520] Senator Erwin Tulfo** (asr-000207)  
+**[00:21:39.520] Senator Erwin T. Tulfo** (asr-000207)  
 babawasan dahil ibig sabihin
 
-**[00:21:41.520] Senator Erwin Tulfo** (asr-000208)  
+**[00:21:41.520] Senator Erwin T. Tulfo** (asr-000208)  
 last year po hindi po ninyo nagasta.
 
-**[00:21:43.520] Senator Erwin Tulfo** (asr-000209)  
+**[00:21:43.520] Senator Erwin T. Tulfo** (asr-000209)  
 With that,
 
-**[00:21:45.520] Senator Erwin Tulfo** (asr-000210)  
+**[00:21:45.520] Senator Erwin T. Tulfo** (asr-000210)  
 I look forward to a
 
-**[00:21:47.520] Senator Erwin Tulfo** (asr-000211)  
+**[00:21:47.520] Senator Erwin T. Tulfo** (asr-000211)  
 productive, transparent, and substantive
 
-**[00:21:49.520] Senator Erwin Tulfo** (asr-000212)  
+**[00:21:49.520] Senator Erwin T. Tulfo** (asr-000212)  
 discussion of
 
-**[00:21:51.520] Senator Erwin Tulfo** (asr-000213)  
+**[00:21:51.520] Senator Erwin T. Tulfo** (asr-000213)  
 the Fiscal Year 2027
 
-**[00:21:53.520] Senator Erwin Tulfo** (asr-000214)  
+**[00:21:53.520] Senator Erwin T. Tulfo** (asr-000214)  
 budget proposal.
 
-**[00:21:55.520] Senator Erwin Tulfo** (asr-000215)  
+**[00:21:55.520] Senator Erwin T. Tulfo** (asr-000215)  
 With that, we now
 
-**[00:21:57.520] Senator Erwin Tulfo** (asr-000216)  
+**[00:21:57.520] Senator Erwin T. Tulfo** (asr-000216)  
 recognize Chairperson Yap for
 
-**[00:21:59.520] Senator Erwin Tulfo** (asr-000217)  
+**[00:21:59.520] Senator Erwin T. Tulfo** (asr-000217)  
 the presentation of CSE's
 
-**[00:22:01.520] Senator Erwin Tulfo** (asr-000218)  
+**[00:22:01.520] Senator Erwin T. Tulfo** (asr-000218)  
 proposed budget for Fiscal Year 2027.
 
-**[00:22:03.520] Senator Erwin Tulfo** (asr-000219)  
+**[00:22:03.520] Senator Erwin T. Tulfo** (asr-000219)  
 Please proceed
 
-**[00:22:05.520] Senator Erwin Tulfo** (asr-000220)  
+**[00:22:05.520] Senator Erwin T. Tulfo** (asr-000220)  
 with your presentation, Chairperson Yap.
 
 **[00:22:07.520] CSC Chairperson Marilyn B. Yap** (asr-000221)  
@@ -973,22 +973,22 @@ with more than 4,000 vacancies
 **[00:26:37.520] CSC Chairperson Marilyn B. Yap** (asr-000356)  
 each.
 
-**[00:26:39.520] Senator Erwin Tulfo** (asr-000357)  
+**[00:26:39.520] Senator Erwin T. Tulfo** (asr-000357)  
 Atty., may I interject?
 
-**[00:26:41.520] Senator Erwin Tulfo** (asr-000358)  
+**[00:26:41.520] Senator Erwin T. Tulfo** (asr-000358)  
 What is the reason
 
-**[00:26:43.520] Senator Erwin Tulfo** (asr-000359)  
+**[00:26:43.520] Senator Erwin T. Tulfo** (asr-000359)  
 behind
 
-**[00:26:45.520] Senator Erwin Tulfo** (asr-000360)  
+**[00:26:45.520] Senator Erwin T. Tulfo** (asr-000360)  
 vacant plantilia position?
 
-**[00:26:47.520] Senator Erwin Tulfo** (asr-000361)  
+**[00:26:47.520] Senator Erwin T. Tulfo** (asr-000361)  
 Is it the budget?
 
-**[00:26:49.520] Senator Erwin Tulfo** (asr-000362)  
+**[00:26:49.520] Senator Erwin T. Tulfo** (asr-000362)  
 What could be the reason, ma'am?
 
 **[00:26:51.520] CSC Chairperson Marilyn B. Yap** (asr-000363)  
@@ -1009,67 +1009,67 @@ agencies that determines whether or not
 **[00:27:01.520] CSC Chairperson Marilyn B. Yap** (asr-000368)  
 they will fill up these plantilia positions.
 
-**[00:27:03.520] Senator Erwin Tulfo** (asr-000369)  
+**[00:27:03.520] Senator Erwin T. Tulfo** (asr-000369)  
 But they have the funding, right?
 
 **[00:27:05.520] CSC Chairperson Marilyn B. Yap** (asr-000370)  
 Yes, they have.
 
-**[00:27:07.520] Senator Erwin Tulfo** (asr-000371)  
+**[00:27:07.520] Senator Erwin T. Tulfo** (asr-000371)  
 Have you spoken
 
-**[00:27:09.520] Senator Erwin Tulfo** (asr-000372)  
+**[00:27:09.520] Senator Erwin T. Tulfo** (asr-000372)  
 to them? Probably
 
-**[00:27:11.520] Senator Erwin Tulfo** (asr-000373)  
+**[00:27:11.520] Senator Erwin T. Tulfo** (asr-000373)  
 talked to them, ma'am? Kasi
 
-**[00:27:13.520] Senator Erwin Tulfo** (asr-000374)  
+**[00:27:13.520] Senator Erwin T. Tulfo** (asr-000374)  
 kung kulang ang tao po natin,
 
-**[00:27:15.520] Senator Erwin Tulfo** (asr-000375)  
+**[00:27:15.520] Senator Erwin T. Tulfo** (asr-000375)  
 syempre yung services
 
-**[00:27:17.520] Senator Erwin Tulfo** (asr-000376)  
+**[00:27:17.520] Senator Erwin T. Tulfo** (asr-000376)  
 will be affected.
 
-**[00:27:19.520] Senator Erwin Tulfo** (asr-000377)  
+**[00:27:19.520] Senator Erwin T. Tulfo** (asr-000377)  
 I don't know if you'll agree with me but
 
-**[00:27:21.520] Senator Erwin Tulfo** (asr-000378)  
+**[00:27:21.520] Senator Erwin T. Tulfo** (asr-000378)  
 I used to be a secretary of the Social
 
-**[00:27:23.520] Senator Erwin Tulfo** (asr-000379)  
+**[00:27:23.520] Senator Erwin T. Tulfo** (asr-000379)  
 Welfare and Development. Kulang
 
-**[00:27:25.520] Senator Erwin Tulfo** (asr-000380)  
+**[00:27:25.520] Senator Erwin T. Tulfo** (asr-000380)  
 po ang mga tao. People are telling me
 
-**[00:27:27.520] Senator Erwin Tulfo** (asr-000381)  
+**[00:27:27.520] Senator Erwin T. Tulfo** (asr-000381)  
 kulang po tayo ng tao sa ganito, kulang po tayo
 
-**[00:27:29.520] Senator Erwin Tulfo** (asr-000382)  
+**[00:27:29.520] Senator Erwin T. Tulfo** (asr-000382)  
 ng tao sa baba. Unfortunately,
 
-**[00:27:31.520] Senator Erwin Tulfo** (asr-000383)  
+**[00:27:31.520] Senator Erwin T. Tulfo** (asr-000383)  
 wala ho kami mga vacant plantilia
 
-**[00:27:33.520] Senator Erwin Tulfo** (asr-000384)  
+**[00:27:33.520] Senator Erwin T. Tulfo** (asr-000384)  
 positions. Marami po kami yung mga
 
-**[00:27:35.520] Senator Erwin Tulfo** (asr-000385)  
+**[00:27:35.520] Senator Erwin T. Tulfo** (asr-000385)  
 contract service workers. Pero
 
-**[00:27:37.520] Senator Erwin Tulfo** (asr-000386)  
+**[00:27:37.520] Senator Erwin T. Tulfo** (asr-000386)  
 ito, gaya po nito,
 
-**[00:27:39.520] Senator Erwin Tulfo** (asr-000387)  
+**[00:27:39.520] Senator Erwin T. Tulfo** (asr-000387)  
 Department of Education, ano po yung number of vacancies?
 
-**[00:27:41.520] Senator Erwin Tulfo** (asr-000388)  
+**[00:27:41.520] Senator Erwin T. Tulfo** (asr-000388)  
 Teachers po ba yan? Are we talking of teachers
 
-**[00:27:43.520] Senator Erwin Tulfo** (asr-000389)  
+**[00:27:43.520] Senator Erwin T. Tulfo** (asr-000389)  
 here?
 
 **[00:27:44.000] CSC Chairperson Marilyn B. Yap** (asr-000389-split-2)  
@@ -1078,25 +1078,25 @@ Most of it would be teachers,
 **[00:27:45.520] CSC Chairperson Marilyn B. Yap** (asr-000390)  
 sir.
 
-**[00:27:45.900] Senator Erwin Tulfo** (asr-000390-split-2)  
+**[00:27:45.900] Senator Erwin T. Tulfo** (asr-000390-split-2)  
 Teachers.
 
-**[00:27:46.500] Senator Erwin Tulfo** (asr-000391)  
+**[00:27:46.500] Senator Erwin T. Tulfo** (asr-000391)  
 57,000 something
 
-**[00:27:49.520] Senator Erwin Tulfo** (asr-000392)  
+**[00:27:49.520] Senator Erwin T. Tulfo** (asr-000392)  
 so kailangan natin ma-fill up yan.
 
 **[00:27:51.520] CSC Chairperson Marilyn B. Yap** (asr-000393)  
 Yes, sir.
 
-**[00:27:51.860] Senator Erwin Tulfo** (asr-000393-split-2)  
+**[00:27:51.860] Senator Erwin T. Tulfo** (asr-000393-split-2)  
 What is happening?
 
-**[00:27:53.520] Senator Erwin Tulfo** (asr-000394)  
+**[00:27:53.520] Senator Erwin T. Tulfo** (asr-000394)  
 Kaya nga, I was asking you. Is it the budget?
 
-**[00:27:55.520] Senator Erwin Tulfo** (asr-000395)  
+**[00:27:55.520] Senator Erwin T. Tulfo** (asr-000395)  
 What could be the reason?
 
 **[00:27:56.650] CSC Chairperson Marilyn B. Yap** (asr-000395-split-2)  
@@ -1231,58 +1231,58 @@ recruit contract of service
 **[00:29:21.520] CSC Chairperson Marilyn B. Yap** (asr-000438)  
 workers.
 
-**[00:29:22.590] Senator Erwin Tulfo** (asr-000438-split-2)  
+**[00:29:22.590] Senator Erwin T. Tulfo** (asr-000438-split-2)  
 Every year po ba
 
-**[00:29:23.520] Senator Erwin Tulfo** (asr-000439)  
+**[00:29:23.520] Senator Erwin T. Tulfo** (asr-000439)  
 itong mga vacancies
 
-**[00:29:25.520] Senator Erwin Tulfo** (asr-000440)  
+**[00:29:25.520] Senator Erwin T. Tulfo** (asr-000440)  
 na ito. Nafi-fill up din naman
 
-**[00:29:27.520] Senator Erwin Tulfo** (asr-000441)  
+**[00:29:27.520] Senator Erwin T. Tulfo** (asr-000441)  
 or ganito
 
-**[00:29:29.520] Senator Erwin Tulfo** (asr-000442)  
+**[00:29:29.520] Senator Erwin T. Tulfo** (asr-000442)  
 lang po ang number ito. Next year,
 
-**[00:29:31.520] Senator Erwin Tulfo** (asr-000443)  
+**[00:29:31.520] Senator Erwin T. Tulfo** (asr-000443)  
 pag nagkita na naman po tayo sa awa
 
-**[00:29:33.520] Senator Erwin Tulfo** (asr-000444)  
+**[00:29:33.520] Senator Erwin T. Tulfo** (asr-000444)  
 ng Diyos, will it still be 57
 
-**[00:29:35.520] Senator Erwin Tulfo** (asr-000445)  
+**[00:29:35.520] Senator Erwin T. Tulfo** (asr-000445)  
 o magiging 25 na lang
 
-**[00:29:37.520] Senator Erwin Tulfo** (asr-000446)  
+**[00:29:37.520] Senator Erwin T. Tulfo** (asr-000446)  
 ito. Yung isa naman,
 
-**[00:29:39.520] Senator Erwin Tulfo** (asr-000447)  
+**[00:29:39.520] Senator Erwin T. Tulfo** (asr-000447)  
 6,000, magiging babawasan na
 
-**[00:29:41.520] Senator Erwin Tulfo** (asr-000448)  
+**[00:29:41.520] Senator Erwin T. Tulfo** (asr-000448)  
 kalahat. Eh may pondo naman po pala. Tapos
 
-**[00:29:43.520] Senator Erwin Tulfo** (asr-000449)  
+**[00:29:43.520] Senator Erwin T. Tulfo** (asr-000449)  
 yung sinasabing recruitment,
 
-**[00:29:45.520] Senator Erwin Tulfo** (asr-000450)  
+**[00:29:45.520] Senator Erwin T. Tulfo** (asr-000450)  
 qualification,
 
-**[00:29:47.520] Senator Erwin Tulfo** (asr-000451)  
+**[00:29:47.520] Senator Erwin T. Tulfo** (asr-000451)  
 po pwede
 
-**[00:29:49.520] Senator Erwin Tulfo** (asr-000452)  
+**[00:29:49.520] Senator Erwin T. Tulfo** (asr-000452)  
 naman siguro yung isa dito
 
-**[00:29:51.520] Senator Erwin Tulfo** (asr-000453)  
+**[00:29:51.520] Senator Erwin T. Tulfo** (asr-000453)  
 baka pwede na i-promote, di mo ba
 
-**[00:29:53.520] Senator Erwin Tulfo** (asr-000454)  
+**[00:29:53.520] Senator Erwin T. Tulfo** (asr-000454)  
 para vacant po yun sa ilalim,
 
-**[00:29:55.520] Senator Erwin Tulfo** (asr-000455)  
+**[00:29:55.520] Senator Erwin T. Tulfo** (asr-000455)  
 di ba?
 
 **[00:29:57.520] CSC Chairperson Marilyn B. Yap** (asr-000456)  
@@ -1351,70 +1351,70 @@ kasi mabagal nga po yung proseso
 **[00:30:37.880] CSC Chairperson Marilyn B. Yap** (asr-000477)  
 ng recruitment.
 
-**[00:30:38.400] Senator Erwin Tulfo** (asr-000477-split-2)  
+**[00:30:38.400] Senator Erwin T. Tulfo** (asr-000477-split-2)  
 What about promotions?
 
 **[00:30:40.100] CSC Chairperson Marilyn B. Yap** (asr-000478)  
 Promotions, same.
 
-**[00:30:40.900] Senator Erwin Tulfo** (asr-000478-split-2)  
+**[00:30:40.900] Senator Erwin T. Tulfo** (asr-000478-split-2)  
 Of course. I mean,
 
-**[00:30:42.620] Senator Erwin Tulfo** (asr-000479)  
+**[00:30:42.620] Senator Erwin T. Tulfo** (asr-000479)  
 pag kunwari example dito,
 
-**[00:30:44.140] Senator Erwin Tulfo** (asr-000480)  
+**[00:30:44.140] Senator Erwin T. Tulfo** (asr-000480)  
 senior na ho ito, siguro
 
-**[00:30:46.040] Senator Erwin Tulfo** (asr-000481)  
+**[00:30:46.040] Senator Erwin T. Tulfo** (asr-000481)  
 susunod, di po ba you have to
 
-**[00:30:47.760] Senator Erwin Tulfo** (asr-000482)  
+**[00:30:47.760] Senator Erwin T. Tulfo** (asr-000482)  
 bring her or him up
 
-**[00:30:49.880] Senator Erwin Tulfo** (asr-000483)  
+**[00:30:49.880] Senator Erwin T. Tulfo** (asr-000483)  
 para ma-fill up itong vacancy na ito.
 
-**[00:30:52.420] Senator Erwin Tulfo** (asr-000484)  
+**[00:30:52.420] Senator Erwin T. Tulfo** (asr-000484)  
 And then, lahat naman po yan
 
-**[00:30:53.980] Senator Erwin Tulfo** (asr-000485)  
+**[00:30:53.980] Senator Erwin T. Tulfo** (asr-000485)  
 mag-move. Kunwari teacher 1,
 
-**[00:30:55.820] Senator Erwin Tulfo** (asr-000486)  
+**[00:30:55.820] Senator Erwin T. Tulfo** (asr-000486)  
 teacher 2, mapopromote si teacher 1 to teacher 2.
 
-**[00:30:58.780] Senator Erwin Tulfo** (asr-000487)  
+**[00:30:58.780] Senator Erwin T. Tulfo** (asr-000487)  
 Yung mga mag-
 
-**[00:30:59.200] Senator Erwin Tulfo** (asr-000488)  
+**[00:30:59.200] Senator Erwin T. Tulfo** (asr-000488)  
 nagaantay po dito, tataas po ito.
 
-**[00:31:01.300] Senator Erwin Tulfo** (asr-000489)  
+**[00:31:01.300] Senator Erwin T. Tulfo** (asr-000489)  
 Who persuades
 
-**[00:31:02.780] Senator Erwin Tulfo** (asr-000490)  
+**[00:31:02.780] Senator Erwin T. Tulfo** (asr-000490)  
 this agency's head of agency?
 
-**[00:31:05.500] Senator Erwin Tulfo** (asr-000491)  
+**[00:31:05.500] Senator Erwin T. Tulfo** (asr-000491)  
 Can you do that? Can you ask them?
 
-**[00:31:07.340] Senator Erwin Tulfo** (asr-000492)  
+**[00:31:07.340] Senator Erwin T. Tulfo** (asr-000492)  
 Like, Secretary,
 
-**[00:31:09.280] Senator Erwin Tulfo** (asr-000493)  
+**[00:31:09.280] Senator Erwin T. Tulfo** (asr-000493)  
 kailan po kaya ma-fill up ito?
 
-**[00:31:11.680] Senator Erwin Tulfo** (asr-000494)  
+**[00:31:11.680] Senator Erwin T. Tulfo** (asr-000494)  
 Or
 
-**[00:31:12.060] Senator Erwin Tulfo** (asr-000495)  
+**[00:31:12.060] Senator Erwin T. Tulfo** (asr-000495)  
 administrator? Do you have the power
 
-**[00:31:15.200] Senator Erwin Tulfo** (asr-000496)  
+**[00:31:15.200] Senator Erwin T. Tulfo** (asr-000496)  
 to remind them?
 
-**[00:31:17.700] Senator Erwin Tulfo** (asr-000497)  
+**[00:31:17.700] Senator Erwin T. Tulfo** (asr-000497)  
 Attorney?
 
 **[00:31:19.020] CSC Chairperson Marilyn B. Yap** (asr-000498)  
@@ -1564,40 +1564,40 @@ hindi na lang po yung basta
 **[00:32:54.960] CSC Chairperson Marilyn B. Yap** (asr-000546)  
 minimum basic qualifications.
 
-**[00:32:56.900] Senator Erwin Tulfo** (asr-000547)  
+**[00:32:56.900] Senator Erwin T. Tulfo** (asr-000547)  
 Thank you, Attorney. Before you proceed,
 
-**[00:32:59.200] Senator Erwin Tulfo** (asr-000548)  
+**[00:32:59.200] Senator Erwin T. Tulfo** (asr-000548)  
 I'd like to acknowledge the presence
 
-**[00:33:00.900] Senator Erwin Tulfo** (asr-000549)  
+**[00:33:00.900] Senator Erwin T. Tulfo** (asr-000549)  
 of our Secretary from Tourism,
 
-**[00:33:03.280] Senator Erwin Tulfo** (asr-000550)  
+**[00:33:03.280] Senator Erwin T. Tulfo** (asr-000550)  
 Secretary Dita Angara Matay.
 
-**[00:33:04.840] Senator Erwin Tulfo** (asr-000551)  
+**[00:33:04.840] Senator Erwin T. Tulfo** (asr-000551)  
 Thank you for joining us, ma'am. I know
 
-**[00:33:06.460] Senator Erwin Tulfo** (asr-000552)  
+**[00:33:06.460] Senator Erwin T. Tulfo** (asr-000552)  
 why you're late. I was already informed because
 
-**[00:33:08.760] Senator Erwin Tulfo** (asr-000553)  
+**[00:33:08.760] Senator Erwin T. Tulfo** (asr-000553)  
 you just came from that ASEAN thing
 
-**[00:33:11.080] Senator Erwin Tulfo** (asr-000554)  
+**[00:33:11.080] Senator Erwin T. Tulfo** (asr-000554)  
 at PICC. But thank you for joining us.
 
 **[00:33:13.520] DOT Secretary Dita Angara-Mathay** (asr-000555)  
 Magandang hapon po.
 
-**[00:33:15.520] Senator Erwin Tulfo** (asr-000556)  
+**[00:33:15.520] Senator Erwin T. Tulfo** (asr-000556)  
 Continue, Attorney.
 
-**[00:33:16.980] Senator Erwin Tulfo** (asr-000557)  
+**[00:33:16.980] Senator Erwin T. Tulfo** (asr-000557)  
 How many more minutes
 
-**[00:33:18.680] Senator Erwin Tulfo** (asr-000558)  
+**[00:33:18.680] Senator Erwin T. Tulfo** (asr-000558)  
 is your presentation?
 
 **[00:33:20.300] CSC Chairperson Marilyn B. Yap** (asr-000559)  
@@ -2191,43 +2191,43 @@ Wala po kasi tayo ngayon mabilis, accessible at reliable na database ng lahat ng
 **[00:43:46.740] CSC Chairperson Marilyn B. Yap** (asr-000758)  
 Or information ng lahat ng ating mga empleyado sa gobyerno.
 
-**[00:43:50.260] Senator Erwin Tulfo** (asr-000759)  
+**[00:43:50.260] Senator Erwin T. Tulfo** (asr-000759)  
 Let me just ask, bakit ngayon lang po ito?
 
-**[00:43:55.380] Senator Erwin Tulfo** (asr-000760)  
+**[00:43:55.380] Senator Erwin T. Tulfo** (asr-000760)  
 I mean, how long have you been requesting the government to modernize yung ating CSC?
 
-**[00:44:03.540] Senator Erwin Tulfo** (asr-000761)  
+**[00:44:03.540] Senator Erwin T. Tulfo** (asr-000761)  
 3 million po itong empleyado natin dapat po.
 
-**[00:44:06.900] Senator Erwin Tulfo** (asr-000762)  
+**[00:44:06.900] Senator Erwin T. Tulfo** (asr-000762)  
 At saka this is government, ikaw nga, we're talking of government institutions, personnel.
 
-**[00:44:13.040] Senator Erwin Tulfo** (asr-000763)  
+**[00:44:13.040] Senator Erwin T. Tulfo** (asr-000763)  
 Bakit ngayon lang po ito?
 
-**[00:44:14.660] Senator Erwin Tulfo** (asr-000764)  
+**[00:44:14.660] Senator Erwin T. Tulfo** (asr-000764)  
 How long have you requested?
 
-**[00:44:16.740] Senator Erwin Tulfo** (asr-000765)  
+**[00:44:16.740] Senator Erwin T. Tulfo** (asr-000765)  
 To modernize CSC?
 
 **[00:44:20.820] CSC Chairperson Marilyn B. Yap** (asr-000766)  
 Pumasok lang po ako sa Civil Service sa buntot po ng 2024.
 
-**[00:44:26.600] Senator Erwin Tulfo** (asr-000767)  
+**[00:44:26.600] Senator Erwin T. Tulfo** (asr-000767)  
 Have you already requested it since 2024?
 
 **[00:44:30.540] CSC Chairperson Marilyn B. Yap** (asr-000768)  
 Yes, yes.
 
-**[00:44:30.720] Senator Erwin Tulfo** (asr-000769)  
+**[00:44:30.720] Senator Erwin T. Tulfo** (asr-000769)  
 What happened?
 
 **[00:44:31.900] CSC Chairperson Marilyn B. Yap** (asr-000770)  
 Ito nga po, itong paglabas po.
 
-**[00:44:34.280] Senator Erwin Tulfo** (asr-000771)  
+**[00:44:34.280] Senator Erwin T. Tulfo** (asr-000771)  
 Ngayon pa lang?
 
 **[00:44:35.700] CSC Chairperson Marilyn B. Yap** (asr-000772)  
@@ -2239,37 +2239,37 @@ In-approve po yung loan, yung TOR ng loan ng second quarter ng 2025.
 **[00:44:46.740] CSC Chairperson Marilyn B. Yap** (asr-000774)  
 Mayroon pong proseso na pag-aaralan ng Department of Justice.
 
-**[00:44:50.200] Senator Erwin Tulfo** (asr-000775)  
+**[00:44:50.200] Senator Erwin T. Tulfo** (asr-000775)  
 Are you saying, attorney, may mga files tayo na nakalagay pa sa folder?
 
 **[00:44:55.760] CSC Chairperson Marilyn B. Yap** (asr-000776)  
 Karamihan po.
 
-**[00:44:56.980] Senator Erwin Tulfo** (asr-000777)  
+**[00:44:56.980] Senator Erwin T. Tulfo** (asr-000777)  
 Tao natin?
 
 **[00:44:57.840] CSC Chairperson Marilyn B. Yap** (asr-000778)  
 Karamihan po.
 
-**[00:44:58.740] Senator Erwin Tulfo** (asr-000779)  
+**[00:44:58.740] Senator Erwin T. Tulfo** (asr-000779)  
 So haanapin?
 
-**[00:45:00.000] Senator Erwin Tulfo** (asr-000796)  
+**[00:45:00.000] Senator Erwin T. Tulfo** (asr-000796)  
 Kung nari hahanapin si Alfredo Flores, saan ba yung letter A, anong agency siya?
 
 **[00:45:07.180] CSC Chairperson Marilyn B. Yap** (asr-000797)  
 Opo, nakakalungkot man pong tanggapin pero karamihan ng ating records sa civil service ay paper-based.
 
-**[00:45:12.860] Senator Erwin Tulfo** (asr-000798)  
+**[00:45:12.860] Senator Erwin T. Tulfo** (asr-000798)  
 Have you asked yung mga matagal na po dyan sa CSC anong nangyari?
 
-**[00:45:16.840] Senator Erwin Tulfo** (asr-000799)  
+**[00:45:16.840] Senator Erwin T. Tulfo** (asr-000799)  
 Because we heard that kayo po yung repository ng ikang employment na nasa gobyerno tapos naka-folder pa.
 
 **[00:45:25.340] CSC Chairperson Marilyn B. Yap** (asr-000800)  
 Kaya po urgent po yun?
 
-**[00:45:26.160] Senator Erwin Tulfo** (asr-000801)  
+**[00:45:26.160] Senator Erwin T. Tulfo** (asr-000801)  
 Hanggang ngayon?
 
 **[00:45:26.720] CSC Chairperson Marilyn B. Yap** (asr-000802)  
@@ -2287,28 +2287,28 @@ Pero ang migration po kasi, like scanning lang po, limited din po ang scanners n
 **[00:45:42.440] CSC Chairperson Marilyn B. Yap** (asr-000806)  
 Matagal na hindi po nag-request if you can see the history of the budget.
 
-**[00:45:45.920] Senator Erwin Tulfo** (asr-000807)  
+**[00:45:45.920] Senator Erwin T. Tulfo** (asr-000807)  
 I've been hearing, Attorney Chairman Yap, about this modernization.
 
-**[00:45:51.660] Senator Erwin Tulfo** (asr-000808)  
+**[00:45:51.660] Senator Erwin T. Tulfo** (asr-000808)  
 Since time immemorial pa ito, wala pa nga itong administration na ito.
 
-**[00:45:56.840] Senator Erwin Tulfo** (asr-000809)  
+**[00:45:56.840] Senator Erwin T. Tulfo** (asr-000809)  
 They're talking about ikang modernization.
 
-**[00:45:59.440] Senator Erwin Tulfo** (asr-000810)  
+**[00:45:59.440] Senator Erwin T. Tulfo** (asr-000810)  
 In time of Duterte, atras pa tayo, time of Pinoy, they've been talking about modernizing our system.
 
-**[00:46:06.480] Senator Erwin Tulfo** (asr-000811)  
+**[00:46:06.480] Senator Erwin T. Tulfo** (asr-000811)  
 Bakit ho, anong nangyari dito?
 
-**[00:46:08.060] Senator Erwin Tulfo** (asr-000812)  
+**[00:46:08.060] Senator Erwin T. Tulfo** (asr-000812)  
 I mean, I cannot understand.
 
-**[00:46:09.300] Senator Erwin Tulfo** (asr-000813)  
+**[00:46:09.300] Senator Erwin T. Tulfo** (asr-000813)  
 Well, I cannot blame you, but have you asked people na nariyan na sa CSC bago ka pa dumating na kung anong nangyari?
 
-**[00:46:18.600] Senator Erwin Tulfo** (asr-000814)  
+**[00:46:18.600] Senator Erwin T. Tulfo** (asr-000814)  
 Haven't they requested?
 
 **[00:46:20.180] CSC Chairperson Marilyn B. Yap** (asr-000815)  
@@ -2329,49 +2329,49 @@ Hindi po nakarating sa ganong pag-isip.
 **[00:46:46.440] CSC Chairperson Marilyn B. Yap** (asr-000820)  
 Napabilis ang pag-type, napabilis ang pag...
 
-**[00:46:48.440] Senator Erwin Tulfo** (asr-000821)  
+**[00:46:48.440] Senator Erwin T. Tulfo** (asr-000821)  
 Malay natin itong sinasabi kong itong isang tao dito, nagtatrabaho sa isang department, nagsasideline sa isang department.
 
-**[00:46:56.440] Senator Erwin Tulfo** (asr-000822)  
+**[00:46:56.440] Senator Erwin T. Tulfo** (asr-000822)  
 How would you know?
 
-**[00:46:57.440] Senator Erwin Tulfo** (asr-000823)  
+**[00:46:57.440] Senator Erwin T. Tulfo** (asr-000823)  
 Exactly.
 
-**[00:46:57.940] Senator Erwin Tulfo** (asr-000824)  
+**[00:46:57.940] Senator Erwin T. Tulfo** (asr-000824)  
 Kung wala sa system.
 
-**[00:46:58.940] Senator Erwin Tulfo** (asr-000825)  
+**[00:46:58.940] Senator Erwin T. Tulfo** (asr-000825)  
 Whereas kung ipapunch mo yung pangalan niya...
 
 **[00:47:00.940] CSC Chairperson Marilyn B. Yap** (asr-000826)  
 Magalaman po ka.
 
-**[00:47:01.940] Senator Erwin Tulfo** (asr-000827)  
+**[00:47:01.940] Senator Erwin T. Tulfo** (asr-000827)  
 For example, Erwin Tulba, dito ka pala nagtatrabaho sa Senado, tapos meron ka pang sideline sa department na ganito.
 
 **[00:47:06.940] CSC Chairperson Marilyn B. Yap** (asr-000828)  
 Opo.
 
-**[00:47:07.440] Senator Erwin Tulfo** (asr-000829)  
+**[00:47:07.440] Senator Erwin T. Tulfo** (asr-000829)  
 Kaya kung put out mo yung record, iba yung record na doon, iba yung record.
 
 **[00:47:10.940] CSC Chairperson Marilyn B. Yap** (asr-000830)  
 Tama po. Tama po kayo.
 
-**[00:47:11.940] Senator Erwin Tulfo** (asr-000831)  
+**[00:47:11.940] Senator Erwin T. Tulfo** (asr-000831)  
 Hindi naguusap.
 
-**[00:47:12.940] Senator Erwin Tulfo** (asr-000832)  
+**[00:47:12.940] Senator Erwin T. Tulfo** (asr-000832)  
 Do you think may mga ganyan tayo na nagmu-moonlight na mga employees because hindi pa po modernize tayo?
 
-**[00:47:19.940] Senator Erwin Tulfo** (asr-000833)  
+**[00:47:19.940] Senator Erwin T. Tulfo** (asr-000833)  
 What is your assessment?
 
 **[00:47:20.940] CSC Chairperson Marilyn B. Yap** (asr-000834)  
 I cannot discount...
 
-**[00:47:21.940] Senator Erwin Tulfo** (asr-000835)  
+**[00:47:21.940] Senator Erwin T. Tulfo** (asr-000835)  
 So let me ask your opinion.
 
 **[00:47:22.940] CSC Chairperson Marilyn B. Yap** (asr-000836)  
@@ -2380,7 +2380,7 @@ I cannot discount the possibility na meron pong ganon.
 **[00:47:25.940] CSC Chairperson Marilyn B. Yap** (asr-000837)  
 Kasi hindi naman po mabilis maghukay ng paper.
 
-**[00:47:27.940] Senator Erwin Tulfo** (asr-000838)  
+**[00:47:27.940] Senator Erwin T. Tulfo** (asr-000838)  
 Exactly.
 
 **[00:47:28.940] CSC Chairperson Marilyn B. Yap** (asr-000839)  
@@ -2401,61 +2401,61 @@ Kasi pag mag-planning ka ng succession, alam mo kung gaano katagal ang... ilan a
 **[00:47:52.940] CSC Chairperson Marilyn B. Yap** (asr-000844)  
 Ano yung mga retirement periods.
 
-**[00:47:54.940] Senator Erwin Tulfo** (asr-000845)  
+**[00:47:54.940] Senator Erwin T. Tulfo** (asr-000845)  
 Right.
 
 **[00:47:55.940] CSC Chairperson Marilyn B. Yap** (asr-000846)  
 Gaano ka katagal mag-i-estate.
 
-**[00:47:57.940] Senator Erwin Tulfo** (asr-000847)  
+**[00:47:57.940] Senator Erwin T. Tulfo** (asr-000847)  
 Kaya is that also the reason why matagal makakuha ng pensyon yung mga ibang employees natin dahil kailangan hanapin pa.
 
-**[00:48:05.940] Senator Erwin Tulfo** (asr-000848)  
+**[00:48:05.940] Senator Erwin T. Tulfo** (asr-000848)  
 Sabi nandoon pumunta ka sa letter H.
 
 **[00:48:08.940] CSC Chairperson Marilyn B. Yap** (asr-000849)  
 Opo.
 
-**[00:48:09.940] Senator Erwin Tulfo** (asr-000850)  
+**[00:48:09.940] Senator Erwin T. Tulfo** (asr-000850)  
 Tapos pa puro alikabuk na. May agyo pa nga.
 
 **[00:48:12.940] CSC Chairperson Marilyn B. Yap** (asr-000851)  
 Opo. Mas masakit pa po pag inulan yan at natunaw.
 
-**[00:48:15.940] Senator Erwin Tulfo** (asr-000852)  
+**[00:48:15.940] Senator Erwin T. Tulfo** (asr-000852)  
 Ay.
 
-**[00:48:16.940] Senator Erwin Tulfo** (asr-000853)  
+**[00:48:16.940] Senator Erwin T. Tulfo** (asr-000853)  
 Pinanay.
 
-**[00:48:18.940] Senator Erwin Tulfo** (asr-000854)  
+**[00:48:18.940] Senator Erwin T. Tulfo** (asr-000854)  
 That's very sad. Pero anong sinasabi na since time immemorial walang plano. Panahon nila Pinoy.
 
-**[00:48:26.940] Senator Erwin Tulfo** (asr-000855)  
+**[00:48:26.940] Senator Erwin T. Tulfo** (asr-000855)  
 I mean, let's backtrack.
 
-**[00:48:28.940] Senator Erwin Tulfo** (asr-000856)  
+**[00:48:28.940] Senator Erwin T. Tulfo** (asr-000856)  
 Naririnig ko na po yung usapan na yan. I don't know what's going on. And it's a very serious problem.
 
-**[00:48:35.940] Senator Erwin Tulfo** (asr-000857)  
+**[00:48:35.940] Senator Erwin T. Tulfo** (asr-000857)  
 I mean, yung mga staff ko, diba, kailangan na, dapat nandyan sila sa repository po ninyo.
 
 **[00:48:42.940] CSC Chairperson Marilyn B. Yap** (asr-000858)  
 Opo.
 
-**[00:48:43.940] Senator Erwin Tulfo** (asr-000859)  
+**[00:48:43.940] Senator Erwin T. Tulfo** (asr-000859)  
 And if you're a repository, eh dapat hindi nyo po mga folder-folder lang paano pag kinain ng daga.
 
 **[00:48:49.940] CSC Chairperson Marilyn B. Yap** (asr-000860)  
 Kaya nga po urgent yung aming mga programs kasi ano.
 
-**[00:48:53.300] Senator Erwin Tulfo** (asr-000861)  
+**[00:48:53.300] Senator Erwin T. Tulfo** (asr-000861)  
 Okay. Well, I support you on this. Good. Continue po. How many more minutes do you have there?
 
 **[00:48:57.920] CSC Chairperson Marilyn B. Yap** (asr-000865)  
 Kontina lang po siguro.
 
-**[00:48:59.000] Senator Erwin Tulfo** (asr-000866)  
+**[00:48:59.000] Senator Erwin T. Tulfo** (asr-000866)  
 Go ahead, because we still have a Career Executive Service Board and of course our DOT.
 
 **[00:49:04.180] CSC Chairperson Marilyn B. Yap** (asr-000867)  
@@ -2506,13 +2506,13 @@ At karamihan sa kanila ay either kulang na po ng space for us.
 **[00:51:09.960] CSC Chairperson Marilyn B. Yap** (asr-000882)  
 Yung isa po namin sa...
 
-**[00:51:13.640] Senator Erwin Tulfo** (asr-000883)  
+**[00:51:13.640] Senator Erwin T. Tulfo** (asr-000883)  
 My next question, para mapadali tayo, Chairman.
 
 **[00:51:17.860] CSC Chairperson Marilyn B. Yap** (asr-000884)  
 Yes po.
 
-**[00:51:18.880] Senator Erwin Tulfo** (asr-000885)  
+**[00:51:18.880] Senator Erwin T. Tulfo** (asr-000885)  
 Nagre-request po kayo ng restoration of unfunded proposal amounting to 783 million. Tama po ba?
 
 **[00:51:27.140] CSC Chairperson Marilyn B. Yap** (asr-000886)  
@@ -2521,7 +2521,7 @@ I think...
 **[00:51:28.640] CSC Chairperson Marilyn B. Yap** (asr-000887)  
 Nasa letter po namin...
 
-**[00:51:31.740] Senator Erwin Tulfo** (asr-000888)  
+**[00:51:31.740] Senator Erwin T. Tulfo** (asr-000888)  
 Yeah, 783 million.
 
 **[00:51:32.800] CSC Chairperson Marilyn B. Yap** (asr-000889)  
@@ -2530,16 +2530,16 @@ Yes po.
 **[00:51:34.160] CSC Chairperson Marilyn B. Yap** (asr-000890)  
 Nakalista po doon.
 
-**[00:51:35.020] Senator Erwin Tulfo** (asr-000891)  
+**[00:51:35.020] Senator Erwin T. Tulfo** (asr-000891)  
 Mayroon po the breakdown of this request and CSE's justification.
 
-**[00:51:40.080] Senator Erwin Tulfo** (asr-000892)  
+**[00:51:40.080] Senator Erwin T. Tulfo** (asr-000892)  
 At saka, kagaya po sinasabi, sana mo pagbigyan kayo.
 
-**[00:51:43.640] Senator Erwin Tulfo** (asr-000893)  
+**[00:51:43.640] Senator Erwin T. Tulfo** (asr-000893)  
 Ano ang justification nito? What if hindi po ito mabigay ng komite?
 
-**[00:51:48.500] Senator Erwin Tulfo** (asr-000894)  
+**[00:51:48.500] Senator Erwin T. Tulfo** (asr-000894)  
 Ano po ang effect nito sa services ng CSE?
 
 **[00:51:52.060] CSC Chairperson Marilyn B. Yap** (asr-000895)  
@@ -2551,19 +2551,19 @@ Nilista po namin sa submission namin na doon sa buo, may we request that we subm
 **[00:52:06.720] CSC Chairperson Marilyn B. Yap** (asr-000897)  
 Kagaya po nitong sa Region 3, sir, sa San Fernando.
 
-**[00:52:09.580] Senator Erwin Tulfo** (asr-000898)  
+**[00:52:09.580] Senator Erwin T. Tulfo** (asr-000898)  
 Well, anyway, ma'am,
 
 **[00:52:11.620] CSC Chairperson Marilyn B. Yap** (asr-000899)  
 Sasagasaan po ng national highway.
 
-**[00:52:13.200] Senator Erwin Tulfo** (asr-000900)  
+**[00:52:13.200] Senator Erwin T. Tulfo** (asr-000900)  
 Your budget will be brought before the plenary and then masasama po ito sa BICAM.
 
 **[00:52:17.120] CSC Chairperson Marilyn B. Yap** (asr-000901)  
 Yung details po, ibibigay po namin.
 
-**[00:52:18.760] Senator Erwin Tulfo** (asr-000902)  
+**[00:52:18.760] Senator Erwin T. Tulfo** (asr-000902)  
 Please submit it to the committee, ma'am.
 
 **[00:52:20.620] CSC Chairperson Marilyn B. Yap** (asr-000903)  
@@ -2578,76 +2578,76 @@ At yung huli po, mayroon po kami sanang hingin kasi dahil mataas ang power requi
 **[00:52:41.620] CSC Chairperson Marilyn B. Yap** (asr-000906)  
 we would like to establish a solar energy project at the central office para yung frontline services hindi po na-upend ng mga brownouts at saka pag may bagyo and then...
 
-**[00:52:55.540] Senator Erwin Tulfo** (asr-000907)  
+**[00:52:55.540] Senator Erwin T. Tulfo** (asr-000907)  
 How much would that be?
 
 **[00:52:56.600] CSC Chairperson Marilyn B. Yap** (asr-000908)  
 Ang initial po na mura lang naman sa initial po kasi 22 million po.
 
-**[00:53:01.980] Senator Erwin Tulfo** (asr-000909)  
+**[00:53:01.980] Senator Erwin T. Tulfo** (asr-000909)  
 Pwede ho nating ilaban yan. Alright.
 
 **[00:53:05.620] CSC Chairperson Marilyn B. Yap** (asr-000910)  
 Yun lang po. Maraming salamat po sa inyong panahon.
 
-**[00:53:08.500] Senator Erwin Tulfo** (asr-000911)  
+**[00:53:08.500] Senator Erwin T. Tulfo** (asr-000911)  
 Thank you.
 
-**[00:53:08.960] Senator Erwin Tulfo** (asr-000912)  
+**[00:53:08.960] Senator Erwin T. Tulfo** (asr-000912)  
 I just have a... Yeah, yun yung...
 
-**[00:53:11.620] Senator Erwin Tulfo** (asr-000913)  
+**[00:53:11.620] Senator Erwin T. Tulfo** (asr-000913)  
 My last question for you.
 
-**[00:53:13.100] Senator Erwin Tulfo** (asr-000914)  
+**[00:53:13.100] Senator Erwin T. Tulfo** (asr-000914)  
 Okay.
 
-**[00:53:16.280] Senator Erwin Tulfo** (asr-000915)  
+**[00:53:16.280] Senator Erwin T. Tulfo** (asr-000915)  
 What do you do dun sa mga empleyado natin na sa gobyerno na walang kapit, na walang koneksyon?
 
-**[00:53:22.540] Senator Erwin Tulfo** (asr-000916)  
+**[00:53:22.540] Senator Erwin T. Tulfo** (asr-000916)  
 Marami po ako naririnig na ganito.
 
-**[00:53:25.840] Senator Erwin Tulfo** (asr-000917)  
+**[00:53:25.840] Senator Erwin T. Tulfo** (asr-000917)  
 Tagal ko na po, senator, 15 years na po.
 
-**[00:53:28.860] Senator Erwin Tulfo** (asr-000918)  
+**[00:53:28.860] Senator Erwin T. Tulfo** (asr-000918)  
 Hindi po ako ma-promote kasi wala po akong kapit, wala po akong connect.
 
-**[00:53:33.400] Senator Erwin Tulfo** (asr-000919)  
+**[00:53:33.400] Senator Erwin T. Tulfo** (asr-000919)  
 Sabi ko, nag-accomplish mo na ba? May mga study ka na ba? Masteral?
 
-**[00:53:37.620] Senator Erwin Tulfo** (asr-000920)  
+**[00:53:37.620] Senator Erwin T. Tulfo** (asr-000920)  
 Mayroon na po eh.
 
-**[00:53:38.860] Senator Erwin Tulfo** (asr-000921)  
+**[00:53:38.860] Senator Erwin T. Tulfo** (asr-000921)  
 Ito na nga po, doctorate na po ako eh.
 
-**[00:53:40.620] Senator Erwin Tulfo** (asr-000922)  
+**[00:53:40.620] Senator Erwin T. Tulfo** (asr-000922)  
 Pero hindi pa po ako na po-promote. Bakit?
 
-**[00:53:43.720] Senator Erwin Tulfo** (asr-000923)  
+**[00:53:43.720] Senator Erwin T. Tulfo** (asr-000923)  
 Wala pong connection eh. Yung pinili po, yung junior sa akin, na wala namang qualification.
 
-**[00:53:48.820] Senator Erwin Tulfo** (asr-000924)  
+**[00:53:48.820] Senator Erwin T. Tulfo** (asr-000924)  
 What do you do when you hear this?
 
-**[00:53:51.260] Senator Erwin Tulfo** (asr-000925)  
+**[00:53:51.260] Senator Erwin T. Tulfo** (asr-000925)  
 May naririnig ba kayong ganito in your office as a chairman?
 
 **[00:53:55.460] CSC Chairperson Marilyn B. Yap** (asr-000926)  
 Marami po. Marami po.
 
-**[00:53:57.940] Senator Erwin Tulfo** (asr-000927)  
+**[00:53:57.940] Senator Erwin T. Tulfo** (asr-000927)  
 What do you do?
 
-**[00:54:01.680] Senator Erwin Tulfo** (asr-000928)  
+**[00:54:01.680] Senator Erwin T. Tulfo** (asr-000928)  
 Osa, can you please tell the other room to keep it down?
 
-**[00:54:07.340] Senator Erwin Tulfo** (asr-000929)  
+**[00:54:07.340] Senator Erwin T. Tulfo** (asr-000929)  
 Kung sino man yung mga bisita nila dyan.
 
-**[00:54:10.620] Senator Erwin Tulfo** (asr-000930)  
+**[00:54:10.620] Senator Erwin T. Tulfo** (asr-000930)  
 Go ahead, chairman.
 
 **[00:54:12.660] CSC Chairperson Marilyn B. Yap** (asr-000931)  
@@ -2656,28 +2656,28 @@ Yung mga ganun po. Again, sir, parang hands-tied kami kasi discretion po ito ng 
 **[00:54:22.340] CSC Chairperson Marilyn B. Yap** (asr-000932)  
 Pero pag dumating naman po sa amin, kung yung qualifications niya talaga ay kulang, kasi i-check po namin eh.
 
-**[00:54:30.760] Senator Erwin Tulfo** (asr-000933)  
+**[00:54:30.760] Senator Erwin T. Tulfo** (asr-000933)  
 Pero ibig sabihin, nangyayari pa rin ba ito at this day and age na kompleto na po siya ng requirement?
 
-**[00:54:38.840] Senator Erwin Tulfo** (asr-000934)  
+**[00:54:38.840] Senator Erwin T. Tulfo** (asr-000934)  
 Yan po ang problema sa gobyerno natin.
 
-**[00:54:40.620] Senator Erwin Tulfo** (asr-000935)  
+**[00:54:40.620] Senator Erwin T. Tulfo** (asr-000935)  
 Hindi po na po promote because walang connect.
 
-**[00:54:43.780] Senator Erwin Tulfo** (asr-000936)  
+**[00:54:43.780] Senator Erwin T. Tulfo** (asr-000936)  
 Graduate na po siya lahat na po ng requirement.
 
-**[00:54:46.340] Senator Erwin Tulfo** (asr-000937)  
+**[00:54:46.340] Senator Erwin T. Tulfo** (asr-000937)  
 Na-accomplish niya na hanggang sa magre-retire na lang siya.
 
-**[00:54:49.540] Senator Erwin Tulfo** (asr-000938)  
+**[00:54:49.540] Senator Erwin T. Tulfo** (asr-000938)  
 Hindi po siya ma-promote-promote kasi wala po siyang connect.
 
-**[00:54:52.600] Senator Erwin Tulfo** (asr-000939)  
+**[00:54:52.600] Senator Erwin T. Tulfo** (asr-000939)  
 Or kung kasi, hindi sa ma-promote siya, nilalagyan dito, nilalagyan doon kung saan saan galing yung mga tao na para sa pwesto niya.
 
-**[00:55:01.500] Senator Erwin Tulfo** (asr-000940)  
+**[00:55:01.500] Senator Erwin T. Tulfo** (asr-000940)  
 So what do you do about it?
 
 **[00:55:04.080] CSC Chairperson Marilyn B. Yap** (asr-000941)  
@@ -2695,73 +2695,73 @@ And we are now, we are doing an overhaul of qualification standards.
 **[00:55:20.060] CSC Chairperson Marilyn B. Yap** (asr-000945)  
 Meron ho tayong tinatawag na para mag-shift na siya sa competency base.
 
-**[00:55:24.880] Senator Erwin Tulfo** (asr-000946)  
+**[00:55:24.880] Senator Erwin T. Tulfo** (asr-000946)  
 Don't you ask your regional offices and then to check on government agencies to see who is due for promotion,
 
-**[00:55:35.140] Senator Erwin Tulfo** (asr-000947)  
+**[00:55:35.140] Senator Erwin T. Tulfo** (asr-000947)  
 who needs to be promoted sa agencies na ito?
 
-**[00:55:38.020] Senator Erwin Tulfo** (asr-000948)  
+**[00:55:38.020] Senator Erwin T. Tulfo** (asr-000948)  
 Or ask their HRMO?
 
-**[00:55:40.620] Senator Erwin Tulfo** (asr-000949)  
+**[00:55:40.620] Senator Erwin T. Tulfo** (asr-000949)  
 HR offices na submit, sino ba ang for promotion?
 
-**[00:55:47.980] Senator Erwin Tulfo** (asr-000950)  
+**[00:55:47.980] Senator Erwin T. Tulfo** (asr-000950)  
 I think this is the problem, Chairman.
 
-**[00:55:51.760] Senator Erwin Tulfo** (asr-000951)  
+**[00:55:51.760] Senator Erwin T. Tulfo** (asr-000951)  
 Kaya nakita ko na may mga vacancies po tayo, di ba?
 
-**[00:55:55.680] Senator Erwin Tulfo** (asr-000952)  
+**[00:55:55.680] Senator Erwin T. Tulfo** (asr-000952)  
 Na hindi po na-fill up kasi wala na po-promote dahil nga walang kapit or something.
 
-**[00:56:02.120] Senator Erwin Tulfo** (asr-000953)  
+**[00:56:02.120] Senator Erwin T. Tulfo** (asr-000953)  
 Iba ang nailalagay.
 
-**[00:56:04.140] Senator Erwin Tulfo** (asr-000954)  
+**[00:56:04.140] Senator Erwin T. Tulfo** (asr-000954)  
 Ito talaga ang problema sa gobyerno natin.
 
-**[00:56:06.620] Senator Erwin Tulfo** (asr-000955)  
+**[00:56:06.620] Senator Erwin T. Tulfo** (asr-000955)  
 And most of us here.
 
-**[00:56:09.320] Senator Erwin Tulfo** (asr-000956)  
+**[00:56:09.320] Senator Erwin T. Tulfo** (asr-000956)  
 Most of us here.
 
-**[00:56:10.620] Senator Erwin Tulfo** (asr-000957)  
+**[00:56:10.620] Senator Erwin T. Tulfo** (asr-000957)  
 I'm sure na-experience one time or another.
 
-**[00:56:13.980] Senator Erwin Tulfo** (asr-000958)  
+**[00:56:13.980] Senator Erwin T. Tulfo** (asr-000958)  
 Nag-gusto niyo ma-promote, kabatang-bata siya, lawyer siya, doktor siya, o ano man siya dyan,
 
-**[00:56:19.420] Senator Erwin Tulfo** (asr-000959)  
+**[00:56:19.420] Senator Erwin T. Tulfo** (asr-000959)  
 sa City Health, o Municipal Health, sa Department of Justice, nagsisigasig.
 
-**[00:56:25.540] Senator Erwin Tulfo** (asr-000960)  
+**[00:56:25.540] Senator Erwin T. Tulfo** (asr-000960)  
 Pero hindi po ma-promote kasi wala pong connect eh.
 
-**[00:56:27.880] Senator Erwin Tulfo** (asr-000961)  
+**[00:56:27.880] Senator Erwin T. Tulfo** (asr-000961)  
 Mauna itong si Atty. Tagpulano rito, nakaibigan ni Secretary o ni Director, yun po yun eh.
 
-**[00:56:34.600] Senator Erwin Tulfo** (asr-000962)  
+**[00:56:34.600] Senator Erwin T. Tulfo** (asr-000962)  
 Real talk lang po tayo.
 
-**[00:56:36.300] Senator Erwin Tulfo** (asr-000963)  
+**[00:56:36.300] Senator Erwin T. Tulfo** (asr-000963)  
 How do we solve this issue now?
 
-**[00:56:38.700] Senator Erwin Tulfo** (asr-000964)  
+**[00:56:38.700] Senator Erwin T. Tulfo** (asr-000964)  
 Kasi may naririnig pa rin po.
 
-**[00:56:40.620] Senator Erwin Tulfo** (asr-000965)  
+**[00:56:40.620] Senator Erwin T. Tulfo** (asr-000965)  
 Hanggang ngayon na gano'n pa rin po ang problema.
 
-**[00:56:43.520] Senator Erwin Tulfo** (asr-000966)  
+**[00:56:43.520] Senator Erwin T. Tulfo** (asr-000966)  
 I think that should be your mission, ma'am.
 
 **[00:56:45.900] CSC Chairperson Marilyn B. Yap** (asr-000967)  
 I think yung HRMISPS, sir, kasi naka-actual na na-upload mo yung mga records ng mga tao.
 
-**[00:56:53.720] Senator Erwin Tulfo** (asr-000968)  
+**[00:56:53.720] Senator Erwin T. Tulfo** (asr-000968)  
 So this will solve that problem?
 
 **[00:56:55.820] CSC Chairperson Marilyn B. Yap** (asr-000969)  
@@ -2809,67 +2809,67 @@ Then we can do the remedial measures with data, evidence,
 **[00:57:40.620] CSC Chairperson Marilyn B. Yap** (asr-000983)  
 based na po yung action po namin.
 
-**[00:57:42.400] Senator Erwin Tulfo** (asr-000984)  
+**[00:57:42.400] Senator Erwin T. Tulfo** (asr-000984)  
 Sila mag-file ng complaint sa CSC.
 
-**[00:57:44.780] Senator Erwin Tulfo** (asr-000985)  
+**[00:57:44.780] Senator Erwin T. Tulfo** (asr-000985)  
 Kanino po sila pwede mag-file na?
 
-**[00:57:47.320] Senator Erwin Tulfo** (asr-000986)  
+**[00:57:47.320] Senator Erwin T. Tulfo** (asr-000986)  
 Atorney or Ma'am Marilyn Yap?
 
-**[00:57:49.740] Senator Erwin Tulfo** (asr-000987)  
+**[00:57:49.740] Senator Erwin T. Tulfo** (asr-000987)  
 Ako po ay, ah, 25 years na po ako rito sa gobyerno.
 
-**[00:57:54.240] Senator Erwin Tulfo** (asr-000988)  
+**[00:57:54.240] Senator Erwin T. Tulfo** (asr-000988)  
 Dalaga pa po ako, may apo na po ako, hindi ako ma-promote, promote.
 
-**[00:57:58.060] Senator Erwin Tulfo** (asr-000989)  
+**[00:57:58.060] Senator Erwin T. Tulfo** (asr-000989)  
 Ah, ah, parang awa mo na.
 
-**[00:58:00.880] Senator Erwin Tulfo** (asr-000990)  
+**[00:58:00.880] Senator Erwin T. Tulfo** (asr-000990)  
 Pwede mo bang tulog?
 
-**[00:58:02.080] Senator Erwin Tulfo** (asr-000991)  
+**[00:58:02.080] Senator Erwin T. Tulfo** (asr-000991)  
 Kasi may mga dumadam po sa office ko.
 
 **[00:58:04.120] CSC Chairperson Marilyn B. Yap** (asr-000992)  
 Opo, opo.
 
-**[00:58:04.840] Senator Erwin Tulfo** (asr-000993)  
+**[00:58:04.840] Senator Erwin T. Tulfo** (asr-000993)  
 Na maging congressman ako, senador, nagpapapromote.
 
-**[00:58:07.720] Senator Erwin Tulfo** (asr-000994)  
+**[00:58:07.720] Senator Erwin T. Tulfo** (asr-000994)  
 Sabi ko, ayaw ko na, tingnan ko nga.
 
-**[00:58:09.860] Senator Erwin Tulfo** (asr-000995)  
+**[00:58:09.860] Senator Erwin T. Tulfo** (asr-000995)  
 Kompleto naman.
 
-**[00:58:10.620] Senator Erwin Tulfo** (asr-000996)  
+**[00:58:10.620] Senator Erwin T. Tulfo** (asr-000996)  
 So qualification, hindi lang talaga.
 
-**[00:58:12.600] Senator Erwin Tulfo** (asr-000997)  
+**[00:58:12.600] Senator Erwin T. Tulfo** (asr-000997)  
 Pag kinausap mo yung director, regional director,
 
-**[00:58:14.980] Senator Erwin Tulfo** (asr-000998)  
+**[00:58:14.980] Senator Erwin T. Tulfo** (asr-000998)  
 o kung ano man yan dyan, manager,
 
-**[00:58:16.940] Senator Erwin Tulfo** (asr-000999)  
+**[00:58:16.940] Senator Erwin T. Tulfo** (asr-000999)  
 kung ano-ano sinasabi sa akin,
 
-**[00:58:18.620] Senator Erwin Tulfo** (asr-001000)  
+**[00:58:18.620] Senator Erwin T. Tulfo** (asr-001000)  
 kaya hindi pa qualified, kaya time in grade, time in position.
 
-**[00:58:22.080] Senator Erwin Tulfo** (asr-001001)  
+**[00:58:22.080] Senator Erwin T. Tulfo** (asr-001001)  
 Pero qualified naman, ho.
 
-**[00:58:23.860] Senator Erwin Tulfo** (asr-001002)  
+**[00:58:23.860] Senator Erwin T. Tulfo** (asr-001002)  
 So, I really do not understand.
 
-**[00:58:25.400] Senator Erwin Tulfo** (asr-001003)  
+**[00:58:25.400] Senator Erwin T. Tulfo** (asr-001003)  
 Pwede ba sila magreklamo sa inyo na,
 
-**[00:58:27.900] Senator Erwin Tulfo** (asr-001004)  
+**[00:58:27.900] Senator Erwin T. Tulfo** (asr-001004)  
 ikang, ah, na hindi siya napopromote?
 
 **[00:58:32.060] CSC Chairperson Marilyn B. Yap** (asr-001005)  
@@ -2878,7 +2878,7 @@ Walang, wala kasing specific na kaso sa hindi napopromote.
 **[00:58:36.800] CSC Chairperson Marilyn B. Yap** (asr-001006)  
 Unless, unless...
 
-**[00:58:38.240] Senator Erwin Tulfo** (asr-001007)  
+**[00:58:38.240] Senator Erwin T. Tulfo** (asr-001007)  
 Wala po kayong, ah, ikang department.
 
 **[00:58:39.860] CSC Chairperson Marilyn B. Yap** (asr-001008)  
@@ -2914,28 +2914,28 @@ Mag-provide ng legal services or additional services.
 **[00:59:10.620] CSC Chairperson Marilyn B. Yap** (asr-001018)  
 To, to help the person who is in a particular position.
 
-**[00:59:14.300] Senator Erwin Tulfo** (asr-001019)  
+**[00:59:14.300] Senator Erwin T. Tulfo** (asr-001019)  
 O kahit hotline siguro.
 
 **[00:59:16.280] CSC Chairperson Marilyn B. Yap** (asr-001020)  
 We have, we have the Contact Center ng Bayan.
 
-**[00:59:19.000] Senator Erwin Tulfo** (asr-001021)  
+**[00:59:19.000] Senator Erwin T. Tulfo** (asr-001021)  
 Okay.
 
-**[00:59:19.760] Senator Erwin Tulfo** (asr-001022)  
+**[00:59:19.760] Senator Erwin T. Tulfo** (asr-001022)  
 Sana naman pag kinontak nila, hindi sila masibak the following week.
 
 **[00:59:23.440] CSC Chairperson Marilyn B. Yap** (asr-001023)  
 Ah, hindi po.
 
-**[00:59:24.020] Senator Erwin Tulfo** (asr-001024)  
+**[00:59:24.020] Senator Erwin T. Tulfo** (asr-001024)  
 Lalo pang madib.
 
 **[00:59:24.720] CSC Chairperson Marilyn B. Yap** (asr-001025)  
 Hindi po, kasi may confidentiality.
 
-**[00:59:26.100] Senator Erwin Tulfo** (asr-001026)  
+**[00:59:26.100] Senator Erwin T. Tulfo** (asr-001026)  
 Sumbong ka pa kay Attorney Yap, ha?
 
 **[00:59:28.080] CSC Chairperson Marilyn B. Yap** (asr-001027)  
@@ -2944,61 +2944,61 @@ Ay, ay, opo.
 **[00:59:28.900] CSC Chairperson Marilyn B. Yap** (asr-001028)  
 Ako na pong bahala doon pag...
 
-**[00:59:31.740] Senator Erwin Tulfo** (asr-001029)  
+**[00:59:31.740] Senator Erwin T. Tulfo** (asr-001029)  
 Kahapon nandito na siya sa NCR.
 
-**[00:59:33.800] Senator Erwin Tulfo** (asr-001030)  
+**[00:59:33.800] Senator Erwin T. Tulfo** (asr-001030)  
 Natapon siya doon sa Tawi-Tawi.
 
 **[00:59:34.860] CSC Chairperson Marilyn B. Yap** (asr-001031)  
 Ah, hindi po pwede yun, hindi po pwede yun.
 
-**[00:59:36.860] Senator Erwin Tulfo** (asr-001032)  
+**[00:59:36.860] Senator Erwin T. Tulfo** (asr-001032)  
 O, yun, o, yun.
 
 **[00:59:37.600] CSC Chairperson Marilyn B. Yap** (asr-001033)  
 Habang nandun po ako sa Civil Service Commission.
 
-**[00:59:39.400] Senator Erwin Tulfo** (asr-001034)  
+**[00:59:39.400] Senator Erwin T. Tulfo** (asr-001034)  
 Ay, salamat po.
 
-**[00:59:40.100] Senator Erwin Tulfo** (asr-001035)  
+**[00:59:40.100] Senator Erwin T. Tulfo** (asr-001035)  
 Okay.
 
-**[00:59:40.680] Senator Erwin Tulfo** (asr-001036)  
+**[00:59:40.680] Senator Erwin T. Tulfo** (asr-001036)  
 Thank you very much, attorney.
 
-**[00:59:41.760] Senator Erwin Tulfo** (asr-001037)  
+**[00:59:41.760] Senator Erwin T. Tulfo** (asr-001037)  
 Maraming salamat po.
 
-**[00:59:42.860] Senator Erwin Tulfo** (asr-001038)  
+**[00:59:42.860] Senator Erwin T. Tulfo** (asr-001038)  
 Maraming salamat.
 
-**[00:59:43.560] Senator Erwin Tulfo** (asr-001039)  
+**[00:59:43.560] Senator Erwin T. Tulfo** (asr-001039)  
 Now, let's move on to Career Executive Service Board.
 
-**[00:59:45.800] Senator Erwin Tulfo** (asr-001040)  
+**[00:59:45.800] Senator Erwin T. Tulfo** (asr-001040)  
 Ah, who's going to make a presentation?
 
-**[00:59:47.920] Senator Erwin Tulfo** (asr-001041)  
+**[00:59:47.920] Senator Erwin T. Tulfo** (asr-001041)  
 Kayo po yun?
 
-**[00:59:48.660] Senator Erwin Tulfo** (asr-001042)  
+**[00:59:48.660] Senator Erwin T. Tulfo** (asr-001042)  
 Yeah.
 
-**[00:59:49.280] Senator Erwin Tulfo** (asr-001043)  
+**[00:59:49.280] Senator Erwin T. Tulfo** (asr-001043)  
 Ah, Ma'am Maria Ballesteros.
 
-**[00:59:51.580] Senator Erwin Tulfo** (asr-001044)  
+**[00:59:51.580] Senator Erwin T. Tulfo** (asr-001044)  
 How long is your presentation, ma'am?
 
-**[00:59:53.140] Senator Erwin Tulfo** (asr-001045)  
+**[00:59:53.140] Senator Erwin T. Tulfo** (asr-001045)  
 I only have few questions for you.
 
-**[00:59:54.660] Senator Erwin Tulfo** (asr-001046)  
+**[00:59:54.660] Senator Erwin T. Tulfo** (asr-001046)  
 How long is your presentation?
 
-**[00:59:57.920] Senator Erwin Tulfo** (asr-001047)  
+**[00:59:57.920] Senator Erwin T. Tulfo** (asr-001047)  
 Go ahead, po.
 
 **[01:00:00.000] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001048)  
@@ -3043,25 +3043,25 @@ general provisions of the 2027 GAA, as these items are not in the current GAA pr
 **[01:04:54.100] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001061)  
 This includes prioritized budget items under the original proposal amounting to 18.9 million consisting of re-fleeting of six motor vehicles classified as unserviceable and for replacement under the DBM circular, 2022-1.
 
-**[01:05:11.500] Senator Erwin Tulfo** (asr-001061-split-2)  
+**[01:05:11.500] Senator Erwin T. Tulfo** (asr-001061-split-2)  
 Executive Director Ballesteros, hindi po nila sinama ba yan yung request ninyo ng transportation na yan?
 
 **[01:05:17.000] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001061-split-3)  
 Hindi po.
 
-**[01:05:17.350] Senator Erwin Tulfo** (asr-001061-split-4)  
+**[01:05:17.350] Senator Erwin T. Tulfo** (asr-001061-split-4)  
 Magkano po yan?
 
 **[01:05:18.200] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001061-split-5)  
 13 million, 13.251. We have been requesting this for four years already, sir.
 
-**[01:05:25.000] Senator Erwin Tulfo** (asr-001062)  
+**[01:05:25.000] Senator Erwin T. Tulfo** (asr-001062)  
 Magkano po?
 
 **[01:05:25.600] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001062-split-2)  
 13 million, 251,000.
 
-**[01:05:31.660] Senator Erwin Tulfo** (asr-001062-split-3)  
+**[01:05:31.660] Senator Erwin T. Tulfo** (asr-001062-split-3)  
 Okay, I'll help you out. Go ahead.
 
 **[01:05:33.380] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001062-split-4)  
@@ -3070,31 +3070,31 @@ Okay. So also some equipment for the approved new plantilla positions in our Eli
 **[01:05:54.100] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001063)  
 building at UP Diliman under the budget of the DPWH. And we also request, Honorable Senator, the additional funding requirement for the total rehabilitation, rehabilitation of the electrical system and related structural repairs in our old CESB building.
 
-**[01:06:14.160] Senator Erwin Tulfo** (asr-001063-split-2)  
+**[01:06:14.160] Senator Erwin T. Tulfo** (asr-001063-split-2)  
 Kasama na po ba diyan sa 66.9?
 
 **[01:06:17.500] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001063-split-3)  
 Yes po. Yes po.
 
-**[01:06:18.500] Senator Erwin Tulfo** (asr-001063-split-4)  
+**[01:06:18.500] Senator Erwin T. Tulfo** (asr-001063-split-4)  
 Okay.
 
 **[01:06:19.000] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001063-split-5)  
 Sa ngayon po kasi hindi namin ma-occupy ang aming old building and we are renting a temporary space.
 
-**[01:06:24.900] Senator Erwin Tulfo** (asr-001064)  
+**[01:06:24.900] Senator Erwin T. Tulfo** (asr-001064)  
 Sa House of Representatives, pinaprubahan po nila ito?
 
 **[01:06:27.350] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001064-split-2)  
 Yes po.
 
-**[01:06:28.000] Senator Erwin Tulfo** (asr-001064-split-3)  
+**[01:06:28.000] Senator Erwin T. Tulfo** (asr-001064-split-3)  
 Alright.
 
 **[01:06:28.600] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001064-split-4)  
 Thank you so much po.
 
-**[01:06:30.700] Senator Erwin Tulfo** (asr-001064-split-5)  
+**[01:06:30.700] Senator Erwin T. Tulfo** (asr-001064-split-5)  
 Okay.
 
 **[01:06:31.650] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001064-split-6)  
@@ -3118,34 +3118,34 @@ proactive in reaching out to the 1,319 incumbents of CES positions to assist the
 **[01:09:24.100] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001070)  
 The next, the subsequent slides will also show the details of our physical target per core program. I will not anymore go through it one by one.
 
-**[01:09:33.680] Senator Erwin Tulfo** (asr-001070-split-2)  
+**[01:09:33.680] Senator Erwin T. Tulfo** (asr-001070-split-2)  
 You don't need to. I'm okay with that and I can see, I, I only have a couple of questions for you. With the closure of CESB revolving fund pursuant to Permanent Committee Resolution No. 2026-01 dated July 16, 2026, can CESB explain the
 
-**[01:09:54.100] Senator Erwin Tulfo** (asr-001071)  
+**[01:09:54.100] Senator Erwin T. Tulfo** (asr-001071)  
 financial, operational rationale or rationale for this closure? Magkano po ang remaining balance ng fund?
 
 **[01:10:00.640] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001071-split-2)  
 The remaining balance of the fund is 66. So if we are going to use the, the...
 
-**[01:10:06.440] Senator Erwin Tulfo** (asr-001071-split-3)  
+**[01:10:06.440] Senator Erwin T. Tulfo** (asr-001071-split-3)  
 So this is what you're saying, the 66 na kuwan baka pwedeng idagdag doon sa nire-request.
 
 **[01:10:11.880] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001071-split-4)  
 Pero we are, we are using already in the conduct of our activities some of these funds, but by the end of the year we are going to return this to the national treasury. That's why
 
-**[01:10:23.560] Senator Erwin Tulfo** (asr-001072)  
+**[01:10:23.560] Senator Erwin T. Tulfo** (asr-001072)  
 you cannot use this, for ex-, for example, to use it to purchase your vehicles, right?
 
 **[01:10:29.120] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001072-split-2)  
 For next year we can no longer use that, sir. That's why we are...
 
-**[01:10:32.960] Senator Erwin Tulfo** (asr-001072-split-3)  
+**[01:10:32.960] Senator Erwin T. Tulfo** (asr-001072-split-3)  
 Unless, unless this committee will put it in your budget, right?
 
 **[01:10:36.720] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001072-split-4)  
 Yes. Those activities will be now financed under the General Appropriations Act.
 
-**[01:10:42.440] Senator Erwin Tulfo** (asr-001072-split-5)  
+**[01:10:42.440] Senator Erwin T. Tulfo** (asr-001072-split-5)  
 Right? May gastos ba na dati ay self-funded ngayon ay kailangan ng pondohan ng national budget, about the revolving fund?
 
 **[01:10:50.880] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001072-split-6)  
@@ -3154,19 +3154,19 @@ Yun na nga po, sir, yung pinresent ko po na
 **[01:10:54.100] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001073)  
 additional 58% in our MOOE na dating nasa revolving fund ngayon po ay gagastusin namin mula sa GAA of 2027.
 
-**[01:11:05.560] Senator Erwin Tulfo** (asr-001073-split-2)  
+**[01:11:05.560] Senator Erwin T. Tulfo** (asr-001073-split-2)  
 Alright. Right. Alright, there being no other questions, the fiscal year 2027 proposed budget of the Civil Service Commission
 
-**[01:11:24.100] Senator Erwin Tulfo** (asr-001074)  
+**[01:11:24.100] Senator Erwin T. Tulfo** (asr-001074)  
 and the Career Executive Service Board. Before I forget, ma'am, may pumasok lang sa isip. Tambakan pa rin ba ng mga floating ang inyong kumpanya, ay inyong ahensya? Kasi kapag may mga bagong gobyerno, bagong administrasyon, itapon mo sa CSB yan. Ang dami ng mga marireretiro na lang. Sabi ko, "Ba't puro matatanda dito sa CSB?"
 
 **[01:11:42.900] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001074-split-2)  
 Hindi naman po, Senator.
 
-**[01:11:44.950] Senator Erwin Tulfo** (asr-001074-split-3)  
+**[01:11:44.950] Senator Erwin T. Tulfo** (asr-001074-split-3)  
 Kasi mga nakaraang administrasyon ganon. May bumubulong pa doon sa DSWD ko, itapon mo sa CSB yan, bahala na ang CSB sa kanila.
 
-**[01:11:54.100] Senator Erwin Tulfo** (asr-001075)  
+**[01:11:54.100] Senator Erwin T. Tulfo** (asr-001075)  
 Kawawa naman.
 
 **[01:11:55.350] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001075-split-2)  
@@ -3175,19 +3175,19 @@ Hindi po. The board has promulgated an updated rule on the government executive 
 **[01:12:03.080] CESB Executive Director Maria Marcy Cosare-Ballesteros** (asr-001076)  
 Sa ngayon po, since it was promulgated, wala naman na po masyadong napupunta sa aming pool ng [unclear].
 
-**[01:12:10.560] Senator Erwin Tulfo** (asr-001077)  
+**[01:12:10.560] Senator Erwin T. Tulfo** (asr-001077)  
 Alright, thank you. Well, with that, the budget of CSC and CSB is deemed submitted for plenary consideration. Thank you po.
 
-**[01:12:24.100] Senator Erwin Tulfo** (asr-001078)  
+**[01:12:24.100] Senator Erwin T. Tulfo** (asr-001078)  
 And yung mga taga-SESC and CSB, you may now leave the room po. And thank you very much po.
 
-**[01:12:33.620] Senator Erwin Tulfo** (asr-001079)  
+**[01:12:33.620] Senator Erwin T. Tulfo** (asr-001079)  
 Salamat po. Salamat po.
 
-**[01:12:38.320] Senator Erwin Tulfo** (asr-001080)  
+**[01:12:38.320] Senator Erwin T. Tulfo** (asr-001080)  
 Hearing suspended.
 
-**[01:15:34.500] Senator Erwin Tulfo** (asr-001087)  
+**[01:15:34.500] Senator Erwin T. Tulfo** (asr-001087)  
 We now recognize Secretary Angara Matay for the presentation of DOT's proposed budget for fiscal year 2027. Secretary, please proceed.
 
 **[01:15:47.420] DOT Secretary Dita Angara-Mathay** (asr-001087-split-2)  
@@ -3730,7 +3730,7 @@ and Administration to take the floor.
 **[01:24:27.200] DOT Undersecretary Ma. Dionesa A. Rivera-Guillermo** (asr-001294)  
 Mr. Chair, may I be recognized?
 
-**[01:24:29.200] Senator Erwin Tulfo** (asr-001295)  
+**[01:24:29.200] Senator Erwin T. Tulfo** (asr-001295)  
 Go ahead.
 
 **[01:24:31.200] DOT Undersecretary Ma. Dionesa A. Rivera-Guillermo** (asr-001296)  
@@ -4015,46 +4015,46 @@ and other critical programs
 **[01:27:39.200] DOT Undersecretary Ma. Dionesa A. Rivera-Guillermo** (asr-001389)  
 nationwide.
 
-**[01:27:47.200] Senator Erwin Tulfo** (asr-001390)  
+**[01:27:47.200] Senator Erwin T. Tulfo** (asr-001390)  
 Before you continue, Secretary,
 
-**[01:27:49.200] Senator Erwin Tulfo** (asr-001391)  
+**[01:27:49.200] Senator Erwin T. Tulfo** (asr-001391)  
 Matay,
 
-**[01:27:51.200] Senator Erwin Tulfo** (asr-001392)  
+**[01:27:51.200] Senator Erwin T. Tulfo** (asr-001392)  
 ComSec,
 
-**[01:27:53.200] Senator Erwin Tulfo** (asr-001393)  
+**[01:27:53.200] Senator Erwin T. Tulfo** (asr-001393)  
 do we have a representative from
 
-**[01:27:55.200] Senator Erwin Tulfo** (asr-001394)  
+**[01:27:55.200] Senator Erwin T. Tulfo** (asr-001394)  
 DBM? I've been looking
 
-**[01:27:57.200] Senator Erwin Tulfo** (asr-001395)  
+**[01:27:57.200] Senator Erwin T. Tulfo** (asr-001395)  
 around because I will have
 
-**[01:27:59.200] Senator Erwin Tulfo** (asr-001396)  
+**[01:27:59.200] Senator Erwin T. Tulfo** (asr-001396)  
 questions for DBM.
 
-**[01:28:01.200] Senator Erwin Tulfo** (asr-001397)  
+**[01:28:01.200] Senator Erwin T. Tulfo** (asr-001397)  
 Unfortunately, I don't see any
 
-**[01:28:03.200] Senator Erwin Tulfo** (asr-001398)  
+**[01:28:03.200] Senator Erwin T. Tulfo** (asr-001398)  
 DBM.
 
-**[01:28:05.200] Senator Erwin Tulfo** (asr-001399)  
+**[01:28:05.200] Senator Erwin T. Tulfo** (asr-001399)  
 Ang sabi, yata po nila tama.
 
-**[01:28:07.200] Senator Erwin Tulfo** (asr-001400)  
+**[01:28:07.200] Senator Erwin T. Tulfo** (asr-001400)  
 Now, they will just attend
 
-**[01:28:09.200] Senator Erwin Tulfo** (asr-001401)  
+**[01:28:09.200] Senator Erwin T. Tulfo** (asr-001401)  
 online.
 
-**[01:28:11.200] Senator Erwin Tulfo** (asr-001402)  
+**[01:28:11.200] Senator Erwin T. Tulfo** (asr-001402)  
 What did they
 
-**[01:28:13.200] Senator Erwin Tulfo** (asr-001403)  
+**[01:28:13.200] Senator Erwin T. Tulfo** (asr-001403)  
 say? What did they tell you, ComSec?
 
 **[01:28:14.380] Committee Secretary** (asr-001404)  
@@ -4090,106 +4090,106 @@ nag-cancel po siya. So, wala pong
 **[01:28:35.200] Committee Secretary** (asr-001414)  
 representative from DBM.
 
-**[01:28:36.600] Senator Erwin Tulfo** (asr-001415)  
+**[01:28:36.600] Senator Erwin T. Tulfo** (asr-001415)  
 I want you to call them
 
-**[01:28:39.200] Senator Erwin Tulfo** (asr-001416)  
+**[01:28:39.200] Senator Erwin T. Tulfo** (asr-001416)  
 probably after this briefing.
 
-**[01:28:41.200] Senator Erwin Tulfo** (asr-001417)  
+**[01:28:41.200] Senator Erwin T. Tulfo** (asr-001417)  
 I want you
 
-**[01:28:43.200] Senator Erwin Tulfo** (asr-001418)  
+**[01:28:43.200] Senator Erwin T. Tulfo** (asr-001418)  
 to call the Secretary to report to
 
-**[01:28:45.200] Senator Erwin Tulfo** (asr-001419)  
+**[01:28:45.200] Senator Erwin T. Tulfo** (asr-001419)  
 my office. Is that possible?
 
 **[01:28:46.840] Committee Secretary** (asr-001420)  
 I will do, sir.
 
-**[01:28:48.000] Senator Erwin Tulfo** (asr-001420-split-2)  
+**[01:28:48.000] Senator Erwin T. Tulfo** (asr-001420-split-2)  
 I would like to speak
 
-**[01:28:49.200] Senator Erwin Tulfo** (asr-001421)  
+**[01:28:49.200] Senator Erwin T. Tulfo** (asr-001421)  
 to him. Ayoko naman
 
-**[01:28:51.200] Senator Erwin Tulfo** (asr-001422)  
+**[01:28:51.200] Senator Erwin T. Tulfo** (asr-001422)  
 na nagpatawag tayo
 
-**[01:28:53.200] Senator Erwin Tulfo** (asr-001423)  
+**[01:28:53.200] Senator Erwin T. Tulfo** (asr-001423)  
 dahil may mga questions ako dito
 
-**[01:28:55.200] Senator Erwin Tulfo** (asr-001424)  
+**[01:28:55.200] Senator Erwin T. Tulfo** (asr-001424)  
 para sa kanila.
 
-**[01:28:57.200] Senator Erwin Tulfo** (asr-001425)  
+**[01:28:57.200] Senator Erwin T. Tulfo** (asr-001425)  
 Ayaw nila sumagot. Anong problema?
 
-**[01:28:59.200] Senator Erwin Tulfo** (asr-001426)  
+**[01:28:59.200] Senator Erwin T. Tulfo** (asr-001426)  
 Is it
 
-**[01:29:01.200] Senator Erwin Tulfo** (asr-001427)  
+**[01:29:01.200] Senator Erwin T. Tulfo** (asr-001427)  
 binabastos nila itong
 
-**[01:29:03.200] Senator Erwin Tulfo** (asr-001428)  
+**[01:29:03.200] Senator Erwin T. Tulfo** (asr-001428)  
 subcommittee na ito?
 
-**[01:29:05.200] Senator Erwin Tulfo** (asr-001429)  
+**[01:29:05.200] Senator Erwin T. Tulfo** (asr-001429)  
 I want to find out.
 
-**[01:29:07.200] Senator Erwin Tulfo** (asr-001430)  
+**[01:29:07.200] Senator Erwin T. Tulfo** (asr-001430)  
 And I want you
 
-**[01:29:09.200] Senator Erwin Tulfo** (asr-001431)  
+**[01:29:09.200] Senator Erwin T. Tulfo** (asr-001431)  
 to do that tonight, to call the Secretary
 
-**[01:29:11.200] Senator Erwin Tulfo** (asr-001432)  
+**[01:29:11.200] Senator Erwin T. Tulfo** (asr-001432)  
 himself. If you cannot
 
-**[01:29:13.200] Senator Erwin Tulfo** (asr-001433)  
+**[01:29:13.200] Senator Erwin T. Tulfo** (asr-001433)  
 reach the Secretary, you call the
 
-**[01:29:15.200] Senator Erwin Tulfo** (asr-001434)  
+**[01:29:15.200] Senator Erwin T. Tulfo** (asr-001434)  
 Department of Finance Secretary
 
-**[01:29:17.200] Senator Erwin Tulfo** (asr-001435)  
+**[01:29:17.200] Senator Erwin T. Tulfo** (asr-001435)  
 to send someone to my office
 
-**[01:29:19.200] Senator Erwin Tulfo** (asr-001436)  
+**[01:29:19.200] Senator Erwin T. Tulfo** (asr-001436)  
 tomorrow.
 
 **[01:29:21.200] Committee Secretary** (asr-001437)  
 We will do, sir.
 
-**[01:29:23.200] Senator Erwin Tulfo** (asr-001438)  
+**[01:29:23.200] Senator Erwin T. Tulfo** (asr-001438)  
 Hindi naman po pwede itong
 
-**[01:29:25.200] Senator Erwin Tulfo** (asr-001439)  
+**[01:29:25.200] Senator Erwin T. Tulfo** (asr-001439)  
 pupunta pagkatapos
 
-**[01:29:27.200] Senator Erwin Tulfo** (asr-001440)  
+**[01:29:27.200] Senator Erwin T. Tulfo** (asr-001440)  
 kakanselin. Ano yan? Kabastusan?
 
-**[01:29:29.200] Senator Erwin Tulfo** (asr-001441)  
+**[01:29:29.200] Senator Erwin T. Tulfo** (asr-001441)  
 Aba.
 
-**[01:29:31.200] Senator Erwin Tulfo** (asr-001442)  
+**[01:29:31.200] Senator Erwin T. Tulfo** (asr-001442)  
 Huwag na nilang
 
-**[01:29:33.200] Senator Erwin Tulfo** (asr-001443)  
+**[01:29:33.200] Senator Erwin T. Tulfo** (asr-001443)  
 antayin, ComSec. Huwag na nilang antayin.
 
-**[01:29:35.200] Senator Erwin Tulfo** (asr-001444)  
+**[01:29:35.200] Senator Erwin T. Tulfo** (asr-001444)  
 Huwag na nilang antayin.
 
-**[01:29:37.200] Senator Erwin Tulfo** (asr-001445)  
+**[01:29:37.200] Senator Erwin T. Tulfo** (asr-001445)  
 Mapahiya sila.
 
-**[01:29:39.200] Senator Erwin Tulfo** (asr-001446)  
+**[01:29:39.200] Senator Erwin T. Tulfo** (asr-001446)  
 Anyway, please proceed. I'm sorry about that,
 
-**[01:29:41.200] Senator Erwin Tulfo** (asr-001447)  
+**[01:29:41.200] Senator Erwin T. Tulfo** (asr-001447)  
 Secretary Matay. Please proceed.
 
 **[01:29:43.200] DOT Secretary Dita Angara-Mathay** (asr-001448)  
@@ -4231,43 +4231,43 @@ and deliver more jobs, more investments, and more opportunities for Filipinos.
 **[01:30:14.200] DOT Secretary Dita Angara-Mathay** (asr-001460)  
 Maraming salamat po.
 
-**[01:30:16.140] Senator Erwin Tulfo** (asr-001461)  
+**[01:30:16.140] Senator Erwin T. Tulfo** (asr-001461)  
 Thank you, Secretary Matay.
 
-**[01:30:23.620] Senator Erwin Tulfo** (asr-001462)  
+**[01:30:23.620] Senator Erwin T. Tulfo** (asr-001462)  
 Okay.
 
-**[01:30:24.420] Senator Erwin Tulfo** (asr-001463)  
+**[01:30:24.420] Senator Erwin T. Tulfo** (asr-001463)  
 Okay. ComSec, who's, what agency or attached agency that will make a presentation?
 
-**[01:30:31.380] Senator Erwin Tulfo** (asr-001464)  
+**[01:30:31.380] Senator Erwin T. Tulfo** (asr-001464)  
 Pero before that, I have one quick question, Secretary.
 
-**[01:30:35.440] Senator Erwin Tulfo** (asr-001465)  
+**[01:30:35.440] Senator Erwin T. Tulfo** (asr-001465)  
 Your proposal, 12.12749, ang naaprubahan lang sa NEP is 4.29 billion?
 
 **[01:30:45.880] DOT Secretary Dita Angara-Mathay** (asr-001466)  
 Yes po.
 
-**[01:30:46.940] Senator Erwin Tulfo** (asr-001467)  
+**[01:30:46.940] Senator Erwin T. Tulfo** (asr-001467)  
 Dito sa 12 billion na ito, kasama na yung pinakita ninyo, yung mga requests ninyo
 
-**[01:30:52.280] Senator Erwin Tulfo** (asr-001468)  
+**[01:30:52.280] Senator Erwin T. Tulfo** (asr-001468)  
 about doon sa OSEC.
 
-**[01:30:54.020] Senator Erwin Tulfo** (asr-001469)  
+**[01:30:54.020] Senator Erwin T. Tulfo** (asr-001469)  
 These are all OSEC?
 
 **[01:30:56.460] DOT Secretary Dita Angara-Mathay** (asr-001470)  
 Yes.
 
-**[01:30:57.120] Senator Erwin Tulfo** (asr-001471)  
+**[01:30:57.120] Senator Erwin T. Tulfo** (asr-001471)  
 Yung 11.592.000 OSEC po ito?
 
 **[01:31:02.720] DOT Undersecretary Ma. Dionesa A. Rivera-Guillermo** (asr-001472)  
 Mr. Chair, may I answer the question po?
 
-**[01:31:06.020] Senator Erwin Tulfo** (asr-001473)  
+**[01:31:06.020] Senator Erwin T. Tulfo** (asr-001473)  
 Please.
 
 **[01:31:06.460] DOT Undersecretary Ma. Dionesa A. Rivera-Guillermo** (asr-001474)  
@@ -4282,19 +4282,19 @@ they are not yet indicated.
 **[01:31:24.020] DOT Undersecretary Ma. Dionesa A. Rivera-Guillermo** (asr-001477)  
 These are additional priority projects, your Honor.
 
-**[01:31:28.420] Senator Erwin Tulfo** (asr-001478)  
+**[01:31:28.420] Senator Erwin T. Tulfo** (asr-001478)  
 Great. Thank you. ComSec, who's next to present?
 
 **[01:31:39.640] Committee Secretary** (asr-001479)  
 Hindi na muna kayo magtatanong first, Osec?
 
-**[01:31:43.340] Senator Erwin Tulfo** (asr-001480)  
+**[01:31:43.340] Senator Erwin T. Tulfo** (asr-001480)  
 No. Who's next to present?
 
 **[01:31:47.460] Committee Secretary** (asr-001481)  
 First attached agency to present is the Tourism Promotions Board.
 
-**[01:31:51.760] Senator Erwin Tulfo** (asr-001482)  
+**[01:31:51.760] Senator Erwin T. Tulfo** (asr-001482)  
 Okay.
 
 **[01:31:52.260] Committee Secretary** (asr-001483)  
@@ -4303,43 +4303,43 @@ To be followed by the...
 **[01:31:54.020] Committee Secretary** (asr-001484)  
 Duty Free Philippines Corporation.
 
-**[01:31:57.360] Senator Erwin Tulfo** (asr-001485)  
+**[01:31:57.360] Senator Erwin T. Tulfo** (asr-001485)  
 Para mabilis tayo, ganito na lamang, for every presentation I'll be asking questions. Since yung OSEC po, quickly lamang po, Secretary, 3.3 billion po ang unused appropriations ng DOT-OSEC. September na po tayo, magtatapos na po ang taon. Bakit ang baba po ng utilization rate ng DOTC? I believe, ma'am, this is one of the reason kaya yung request ninyo na 12 billion ay hindi binigay, kundi ang binigay lang ay 4 billion kasi yung inyong utilization ay mababa.
 
-**[01:32:32.620] Senator Erwin Tulfo** (asr-001486)  
+**[01:32:32.620] Senator Erwin T. Tulfo** (asr-001486)  
 So, gets nyo po?
 
-**[01:32:34.340] Senator Erwin Tulfo** (asr-001487)  
+**[01:32:34.340] Senator Erwin T. Tulfo** (asr-001487)  
 Siyempre, parang tatay po ako, bibigyan ko po ikaw, anak ko, hihingi ka pa, kailangan ko ng 1,000 for this week.
 
-**[01:32:42.180] Senator Erwin Tulfo** (asr-001488)  
+**[01:32:42.180] Senator Erwin T. Tulfo** (asr-001488)  
 Tapos tatanungin kita middle of the week, Wednesday, magkano pa ang pera mo dyan?
 
-**[01:32:46.780] Senator Erwin Tulfo** (asr-001489)  
+**[01:32:46.780] Senator Erwin T. Tulfo** (asr-001489)  
 Nako pa, meron pa akong 800 dito.
 
-**[01:32:49.580] Senator Erwin Tulfo** (asr-001490)  
+**[01:32:49.580] Senator Erwin T. Tulfo** (asr-001490)  
 Hihingi ka na naman sa Monday.
 
-**[01:32:50.860] Senator Erwin Tulfo** (asr-001491)  
+**[01:32:50.860] Senator Erwin T. Tulfo** (asr-001491)  
 Siyempre, isipin ko marami ka pang budget.
 
-**[01:32:53.380] Senator Erwin Tulfo** (asr-001492)  
+**[01:32:53.380] Senator Erwin T. Tulfo** (asr-001492)  
 But what happened?
 
 **[01:32:54.700] DOT Secretary Dita Angara-Mathay** (asr-001493)  
 Mr. Senator, pwede po bang bigyan namin ng explanation?
 
-**[01:32:58.420] Senator Erwin Tulfo** (asr-001494)  
+**[01:32:58.420] Senator Erwin T. Tulfo** (asr-001494)  
 Go ahead, go ahead.
 
-**[01:32:59.280] Senator Erwin Tulfo** (asr-001495)  
+**[01:32:59.280] Senator Erwin T. Tulfo** (asr-001495)  
 Yes, Yusek, I understand, I understand.
 
-**[01:33:01.280] Senator Erwin Tulfo** (asr-001496)  
+**[01:33:01.280] Senator Erwin T. Tulfo** (asr-001496)  
 You're new here.
 
-**[01:33:02.240] Senator Erwin Tulfo** (asr-001497)  
+**[01:33:02.240] Senator Erwin T. Tulfo** (asr-001497)  
 Yeah, Yusek Guillermo, go ahead.
 
 **[01:33:04.580] DOT Undersecretary Ma. Dionesa A. Rivera-Guillermo** (asr-001498)  
@@ -4375,40 +4375,40 @@ So we therefore expect po yung substantial improvement po in our utilization rat
 **[01:33:52.780] DOT Undersecretary Ma. Dionesa A. Rivera-Guillermo** (asr-001508)  
 towards the end of the year.
 
-**[01:33:53.980] Senator Erwin Tulfo** (asr-001509)  
+**[01:33:53.980] Senator Erwin T. Tulfo** (asr-001509)  
 All right, okay.
 
-**[01:34:00.380] Senator Erwin Tulfo** (asr-001510)  
+**[01:34:00.380] Senator Erwin T. Tulfo** (asr-001510)  
 Ngayon po, since, matagal na po kayo, Yusek Guillermo, I mean,
 
-**[01:34:06.920] Senator Erwin Tulfo** (asr-001511)  
+**[01:34:06.920] Senator Erwin T. Tulfo** (asr-001511)  
 or you just arrived also together with Secretary Matay.
 
 **[01:34:11.300] DOT Undersecretary Ma. Dionesa A. Rivera-Guillermo** (asr-001512)  
 Yes.
 
-**[01:34:13.100] Senator Erwin Tulfo** (asr-001513)  
+**[01:34:13.100] Senator Erwin T. Tulfo** (asr-001513)  
 Okay.
 
-**[01:34:13.480] Senator Erwin Tulfo** (asr-001514)  
+**[01:34:13.480] Senator Erwin T. Tulfo** (asr-001514)  
 Kasi ang tatanong ko po, I don't know who can answer this dito po sa DOT natin.
 
-**[01:34:17.880] Senator Erwin Tulfo** (asr-001515)  
+**[01:34:17.880] Senator Erwin T. Tulfo** (asr-001515)  
 2025 fiscal year, DOT reported unpaid obligations amounting
 
-**[01:34:22.880] Senator Erwin Tulfo** (asr-001516)  
+**[01:34:22.880] Senator Erwin T. Tulfo** (asr-001516)  
 to approximately 1.2 billion.
 
-**[01:34:25.860] Senator Erwin Tulfo** (asr-001520)  
+**[01:34:25.860] Senator Erwin T. Tulfo** (asr-001520)  
 May we know the current status of these unpaid obligations and what accounts for the delay
 
-**[01:34:30.040] Senator Erwin Tulfo** (asr-001521)  
+**[01:34:30.040] Senator Erwin T. Tulfo** (asr-001521)  
 in the settlement?
 
-**[01:34:31.380] Senator Erwin Tulfo** (asr-001522)  
+**[01:34:31.380] Senator Erwin T. Tulfo** (asr-001522)  
 Or nasettle na po ba ito?
 
-**[01:34:32.960] Senator Erwin Tulfo** (asr-001523)  
+**[01:34:32.960] Senator Erwin T. Tulfo** (asr-001523)  
 Would you know the answer, Yusek Maria?
 
 **[01:34:35.160] DOT Undersecretary Ma. Dionesa A. Rivera-Guillermo** (asr-001524)  
@@ -4432,46 +4432,46 @@ And once these requirements are completed and validated, the department will imm
 **[01:35:15.880] DOT Undersecretary Ma. Dionesa A. Rivera-Guillermo** (asr-001536)  
 So we are targeting po, by end of this year, 100 percent po kami.
 
-**[01:35:20.060] Senator Erwin Tulfo** (asr-001537)  
+**[01:35:20.060] Senator Erwin T. Tulfo** (asr-001537)  
 Very good po.
 
-**[01:35:20.840] Senator Erwin Tulfo** (asr-001538)  
+**[01:35:20.840] Senator Erwin T. Tulfo** (asr-001538)  
 Very good.
 
-**[01:35:22.940] Senator Erwin Tulfo** (asr-001539)  
+**[01:35:22.940] Senator Erwin T. Tulfo** (asr-001539)  
 Nice to hear that.
 
-**[01:35:23.980] Senator Erwin Tulfo** (asr-001540)  
+**[01:35:23.980] Senator Erwin T. Tulfo** (asr-001540)  
 Magkano naman po ang inilalaan para sa 2027 budget sa Tourism Road Infrastructure Program?
 
-**[01:35:34.280] Senator Erwin Tulfo** (asr-001541)  
+**[01:35:34.280] Senator Erwin T. Tulfo** (asr-001541)  
 Totoo po bang narinig ko na zero daw po ang funding ng trip?
 
-**[01:35:38.960] Senator Erwin Tulfo** (asr-001542)  
+**[01:35:38.960] Senator Erwin T. Tulfo** (asr-001542)  
 Kakausap ko lamang po sa dalawang mayor po sa Busuanga, mayor ng Busuanga, mayor ng Coron.
 
-**[01:35:44.700] Senator Erwin Tulfo** (asr-001543)  
+**[01:35:44.700] Senator Erwin T. Tulfo** (asr-001543)  
 When I went to visit that place around July, naghihingi po sila ng funding para from the airport,
 
-**[01:35:56.500] Senator Erwin Tulfo** (asr-001544)  
+**[01:35:56.500] Senator Erwin T. Tulfo** (asr-001544)  
 diretso po doon sa beaches nila, sa Busuanga and Coron, isang island lang po yun.
 
-**[01:36:01.460] Senator Erwin Tulfo** (asr-001545)  
+**[01:36:01.460] Senator Erwin T. Tulfo** (asr-001545)  
 Chinay ko nga po, bitak-bitak na po yung kalsada.
 
-**[01:36:06.220] Senator Erwin Tulfo** (asr-001546)  
+**[01:36:06.220] Senator Erwin T. Tulfo** (asr-001546)  
 Saan po tayo kukuha ng pondo? Paano natin may repair? Is it DPWH na po ngayon yung trip?
 
-**[01:36:13.100] Senator Erwin Tulfo** (asr-001547)  
+**[01:36:13.100] Senator Erwin T. Tulfo** (asr-001547)  
 Dati po, malaki po ang pondo.
 
-**[01:36:14.700] Senator Erwin Tulfo** (asr-001548)  
+**[01:36:14.700] Senator Erwin T. Tulfo** (asr-001548)  
 Ano nangyari dito?
 
 **[01:36:16.800] DOT Undersecretary Maria Victoria V. Jasmin** (asr-001549)  
 May I be recognized?
 
-**[01:36:18.460] Senator Erwin Tulfo** (asr-001550)  
+**[01:36:18.460] Senator Erwin T. Tulfo** (asr-001550)  
 Please, Usec Jasmin.
 
 **[01:36:20.280] DOT Undersecretary Maria Victoria V. Jasmin** (asr-001551)  
@@ -4495,61 +4495,61 @@ Apparently, DPWH has several priorities and DOT is not one of the priorities.
 **[01:36:55.420] DOT Undersecretary Maria Victoria V. Jasmin** (asr-001557)  
 But moving forward,
 
-**[01:36:56.500] Senator Erwin Tulfo** (asr-001558)  
+**[01:36:56.500] Senator Erwin T. Tulfo** (asr-001558)  
 how do we expect our tourism will go up?
 
-**[01:37:00.460] Senator Erwin Tulfo** (asr-001559)  
+**[01:37:00.460] Senator Erwin T. Tulfo** (asr-001559)  
 Kung pangit po yung kalsada, biyak-biyak.
 
-**[01:37:03.680] Senator Erwin Tulfo** (asr-001560)  
+**[01:37:03.680] Senator Erwin T. Tulfo** (asr-001560)  
 I mean, I've seen a lot. I've been going around.
 
-**[01:37:06.920] Senator Erwin Tulfo** (asr-001561)  
+**[01:37:06.920] Senator Erwin T. Tulfo** (asr-001561)  
 I came from Palawan. I grew up in Palawan.
 
-**[01:37:10.800] Senator Erwin Tulfo** (asr-001562)  
+**[01:37:10.800] Senator Erwin T. Tulfo** (asr-001562)  
 Mindoro, Marinduque, Rumblon.
 
-**[01:37:13.000] Senator Erwin Tulfo** (asr-001563)  
+**[01:37:13.000] Senator Erwin T. Tulfo** (asr-001563)  
 I represent that.
 
-**[01:37:13.960] Senator Erwin Tulfo** (asr-001564)  
+**[01:37:13.960] Senator Erwin T. Tulfo** (asr-001564)  
 May Maropa region.
 
-**[01:37:15.460] Senator Erwin Tulfo** (asr-001565)  
+**[01:37:15.460] Senator Erwin T. Tulfo** (asr-001565)  
 Even Marinduque po, they have wonderful beaches.
 
-**[01:37:18.500] Senator Erwin Tulfo** (asr-001566)  
+**[01:37:18.500] Senator Erwin T. Tulfo** (asr-001566)  
 Unfortunately, hindi nga po marating.
 
-**[01:37:21.220] Senator Erwin Tulfo** (asr-001567)  
+**[01:37:21.220] Senator Erwin T. Tulfo** (asr-001567)  
 Dahil, Pierre, wala rin po.
 
-**[01:37:23.680] Senator Erwin Tulfo** (asr-001568)  
+**[01:37:23.680] Senator Erwin T. Tulfo** (asr-001568)  
 Airport, wala rin.
 
-**[01:37:24.840] Senator Erwin Tulfo** (asr-001569)  
+**[01:37:24.840] Senator Erwin T. Tulfo** (asr-001569)  
 May airport.
 
-**[01:37:25.500] Senator Erwin Tulfo** (asr-001570)  
+**[01:37:25.500] Senator Erwin T. Tulfo** (asr-001570)  
 Pero tinutubuan na ng damo.
 
-**[01:37:27.120] Senator Erwin Tulfo** (asr-001571)  
+**[01:37:27.120] Senator Erwin T. Tulfo** (asr-001571)  
 Ginagawang pastula nila ng kambing.
 
-**[01:37:29.460] Senator Erwin Tulfo** (asr-001572)  
+**[01:37:29.460] Senator Erwin T. Tulfo** (asr-001572)  
 How do you expect this?
 
-**[01:37:31.000] Senator Erwin Tulfo** (asr-001573)  
+**[01:37:31.000] Senator Erwin T. Tulfo** (asr-001573)  
 Our number will go up dito sa tourism arrivals kung hindi natin maayos itong mga problema na ito.
 
-**[01:37:39.100] Senator Erwin Tulfo** (asr-001574)  
+**[01:37:39.100] Senator Erwin T. Tulfo** (asr-001574)  
 Pero may request po kayo, Secretary, dito,
 
-**[01:37:41.680] Senator Erwin Tulfo** (asr-001575)  
+**[01:37:41.680] Senator Erwin T. Tulfo** (asr-001575)  
 na maglagay po ng tourism.
 
-**[01:37:43.960] Senator Erwin Tulfo** (asr-001576)  
+**[01:37:43.960] Senator Erwin T. Tulfo** (asr-001576)  
 Road infrastructure program this year.
 
 **[01:37:46.640] DOT Secretary Dita Angara-Mathay** (asr-001577)  
@@ -4558,10 +4558,10 @@ Kung hindi po masyadong tight ang fiscal space,
 **[01:37:49.500] DOT Secretary Dita Angara-Mathay** (asr-001578)  
 it will benefit us, as you put it quite eloquently, sir.
 
-**[01:37:52.340] Senator Erwin Tulfo** (asr-001579)  
+**[01:37:52.340] Senator Erwin T. Tulfo** (asr-001579)  
 Ito ang DPWH.
 
-**[01:37:53.000] Senator Erwin Tulfo** (asr-001580)  
+**[01:37:53.000] Senator Erwin T. Tulfo** (asr-001580)  
 Hindi po pa dati this was under DOT?
 
 **[01:37:57.340] DOT Secretary Dita Angara-Mathay** (asr-001581)  
@@ -4585,82 +4585,82 @@ kung maaari po may bigay na po sa amin,
 **[01:38:13.960] DOT Secretary Dita Angara-Mathay** (asr-001587)  
 at kami naman mag-i-implement.
 
-**[01:38:15.640] Senator Erwin Tulfo** (asr-001588)  
+**[01:38:15.640] Senator Erwin T. Tulfo** (asr-001588)  
 Oo nga, kasi baka mapunta lang sa flood control ito.
 
-**[01:38:18.560] Senator Erwin Tulfo** (asr-001589)  
+**[01:38:18.560] Senator Erwin T. Tulfo** (asr-001589)  
 Ang malaking problema.
 
-**[01:38:20.180] Senator Erwin Tulfo** (asr-001590)  
+**[01:38:20.180] Senator Erwin T. Tulfo** (asr-001590)  
 Maraming yayaman dito.
 
-**[01:38:21.820] Senator Erwin Tulfo** (asr-001591)  
+**[01:38:21.820] Senator Erwin T. Tulfo** (asr-001591)  
 Siguro, palagay ko, kaya inalis sa inyo.
 
-**[01:38:24.880] Senator Erwin Tulfo** (asr-001592)  
+**[01:38:24.880] Senator Erwin T. Tulfo** (asr-001592)  
 Dahil, mapupunta lang sa daan, napapunta sa kalsabulsa nila.
 
-**[01:38:30.620] Senator Erwin Tulfo** (asr-001593)  
+**[01:38:30.620] Senator Erwin T. Tulfo** (asr-001593)  
 Anyway, so wala pong pondo ang 2027 trip natin.
 
 **[01:38:35.480] DOT Secretary Dita Angara-Mathay** (asr-001594)  
 Yes po.
 
-**[01:38:36.260] Senator Erwin Tulfo** (asr-001595)  
+**[01:38:36.260] Senator Erwin T. Tulfo** (asr-001595)  
 So, you're requesting for funding for this?
 
 **[01:38:38.820] DOT Secretary Dita Angara-Mathay** (asr-001596)  
 Yes po, kung maaari po.
 
-**[01:38:40.220] Senator Erwin Tulfo** (asr-001597)  
+**[01:38:40.220] Senator Erwin T. Tulfo** (asr-001597)  
 Different po ito sa Tieza?
 
 **[01:38:42.640] DOT Secretary Dita Angara-Mathay** (asr-001598)  
 Different po.
 
-**[01:38:43.600] Senator Erwin Tulfo** (asr-001599)  
+**[01:38:43.600] Senator Erwin T. Tulfo** (asr-001599)  
 Different.
 
-**[01:38:44.400] Senator Erwin Tulfo** (asr-001600)  
+**[01:38:44.400] Senator Erwin T. Tulfo** (asr-001600)  
 Mamaya po I'll ask TIEZA.
 
-**[01:38:45.740] Senator Erwin Tulfo** (asr-001601)  
+**[01:38:45.740] Senator Erwin T. Tulfo** (asr-001601)  
 Anyway, so, mga to the tune of magkano kaya on top of your head po is,
 
-**[01:38:53.240] Senator Erwin Tulfo** (asr-001602)  
+**[01:38:53.240] Senator Erwin T. Tulfo** (asr-001602)  
 ilan po ang kakailanganin?
 
-**[01:38:54.920] Senator Erwin Tulfo** (asr-001603)  
+**[01:38:54.920] Senator Erwin T. Tulfo** (asr-001603)  
 Kasi marami.
 
-**[01:38:55.560] Senator Erwin Tulfo** (asr-001604)  
+**[01:38:55.560] Senator Erwin T. Tulfo** (asr-001604)  
 Doon pa lang sa amin, sa probinsya ko po,
 
-**[01:38:57.640] Senator Erwin Tulfo** (asr-001605)  
+**[01:38:57.640] Senator Erwin T. Tulfo** (asr-001605)  
 nagre-request na po ng kalsada yung isang island po na yun,
 
-**[01:39:01.560] Senator Erwin Tulfo** (asr-001606)  
+**[01:39:01.560] Senator Erwin T. Tulfo** (asr-001606)  
 parang circumferential road.
 
-**[01:39:03.540] Senator Erwin Tulfo** (asr-001607)  
+**[01:39:03.540] Senator Erwin T. Tulfo** (asr-001607)  
 Kasi lahat naman po yung Busuanga and Coron,
 
-**[01:39:06.640] Senator Erwin Tulfo** (asr-001608)  
+**[01:39:06.640] Senator Erwin T. Tulfo** (asr-001608)  
 napapalibutan po ng beaches.
 
-**[01:39:08.900] Senator Erwin Tulfo** (asr-001609)  
+**[01:39:08.900] Senator Erwin T. Tulfo** (asr-001609)  
 So, ito po yung nire-request nila.
 
-**[01:39:10.700] Senator Erwin Tulfo** (asr-001610)  
+**[01:39:10.700] Senator Erwin T. Tulfo** (asr-001610)  
 Hindi ko alam kung saan hukukuha.
 
-**[01:39:12.580] Senator Erwin Tulfo** (asr-001611)  
+**[01:39:12.580] Senator Erwin T. Tulfo** (asr-001611)  
 Doon pala sa inyo.
 
-**[01:39:13.600] Senator Erwin Tulfo** (asr-001612)  
+**[01:39:13.600] Senator Erwin T. Tulfo** (asr-001612)  
 Sa trip.
 
-**[01:39:14.520] Senator Erwin Tulfo** (asr-001613)  
+**[01:39:14.520] Senator Erwin T. Tulfo** (asr-001613)  
 So, approximately, mga magkano po ito?
 
 **[01:39:17.320] DOT Secretary Dita Angara-Mathay** (asr-001614)  
@@ -4675,31 +4675,31 @@ And ito po, navet na ng maigi.
 **[01:39:30.100] DOT Secretary Dita Angara-Mathay** (asr-001617)  
 At saka, ano na, it passed all the criteria po na ito talaga.
 
-**[01:39:34.780] Senator Erwin Tulfo** (asr-001618)  
+**[01:39:34.780] Senator Erwin T. Tulfo** (asr-001618)  
 Mas malaki ba sa budget nyo?
 
-**[01:39:35.940] Senator Erwin Tulfo** (asr-001619)  
+**[01:39:35.940] Senator Erwin T. Tulfo** (asr-001619)  
 Diyos ko po naman.
 
 **[01:39:36.580] DOT Secretary Dita Angara-Mathay** (asr-001620)  
 Kaya nga, sir.
 
-**[01:39:38.520] Senator Erwin Tulfo** (asr-001621)  
+**[01:39:38.520] Senator Erwin T. Tulfo** (asr-001621)  
 Alright, 6 billion.
 
-**[01:39:39.540] Senator Erwin Tulfo** (asr-001622)  
+**[01:39:39.540] Senator Erwin T. Tulfo** (asr-001622)  
 For how many projects is this?
 
 **[01:39:41.060] DOT Secretary Dita Angara-Mathay** (asr-001623)  
 28 po.
 
-**[01:39:41.960] Senator Erwin Tulfo** (asr-001624)  
+**[01:39:41.960] Senator Erwin T. Tulfo** (asr-001624)  
 28.
 
-**[01:39:43.600] Senator Erwin Tulfo** (asr-001625)  
+**[01:39:43.600] Senator Erwin T. Tulfo** (asr-001625)  
 And then, kung ano na ito, overdue na.
 
-**[01:39:46.660] Senator Erwin Tulfo** (asr-001626)  
+**[01:39:46.660] Senator Erwin T. Tulfo** (asr-001626)  
 Tama?
 
 **[01:39:46.880] DOT Secretary Dita Angara-Mathay** (asr-001627)  
@@ -4708,19 +4708,19 @@ Yes, sir.
 **[01:39:47.420] DOT Secretary Dita Angara-Mathay** (asr-001628)  
 Yes, sir.
 
-**[01:39:48.240] Senator Erwin Tulfo** (asr-001629)  
+**[01:39:48.240] Senator Erwin T. Tulfo** (asr-001629)  
 Pero, tell me, is this one of the reason why yung accessibility ng mga tao,
 
-**[01:39:53.100] Senator Erwin Tulfo** (asr-001630)  
+**[01:39:53.100] Senator Erwin T. Tulfo** (asr-001630)  
 hindi lang yung mga foreigners, pati tayo, mga Pilipino,
 
-**[01:39:55.480] Senator Erwin Tulfo** (asr-001631)  
+**[01:39:55.480] Senator Erwin T. Tulfo** (asr-001631)  
 because tatamarin na pagpunta doon because sira ang kalsada,
 
-**[01:39:59.560] Senator Erwin Tulfo** (asr-001632)  
+**[01:39:59.560] Senator Erwin T. Tulfo** (asr-001632)  
 masukal, doon maganda yung lugar,
 
-**[01:40:01.740] Senator Erwin Tulfo** (asr-001633)  
+**[01:40:01.740] Senator Erwin T. Tulfo** (asr-001633)  
 kailangan mo munang magsakripisyo bago ka makarating sa isang tourist destination?
 
 **[01:40:06.740] DOT Secretary Dita Angara-Mathay** (asr-001634)  
@@ -4741,22 +4741,22 @@ So, hopefully, itong sinasabi nyo kanina, magagandang tanawin and beaches,
 **[01:40:22.060] DOT Secretary Dita Angara-Mathay** (asr-001639)  
 with this investment in place po, it will be easier access for those who want to visit.
 
-**[01:40:29.080] Senator Erwin Tulfo** (asr-001640)  
+**[01:40:29.080] Senator Erwin T. Tulfo** (asr-001640)  
 Well, that 6 billion, can you give this committee a wish list?
 
-**[01:40:32.780] Senator Erwin Tulfo** (asr-001641)  
+**[01:40:32.780] Senator Erwin T. Tulfo** (asr-001641)  
 Ano po yung priority?
 
-**[01:40:33.980] Senator Erwin Tulfo** (asr-001642)  
+**[01:40:33.980] Senator Erwin T. Tulfo** (asr-001642)  
 Maaring hindi po lahat.
 
-**[01:40:35.780] Senator Erwin Tulfo** (asr-001643)  
+**[01:40:35.780] Senator Erwin T. Tulfo** (asr-001643)  
 Pero I might want to check po, I might want to see ano po itong priority ninyo, Secretary Dita.
 
-**[01:40:42.120] Senator Erwin Tulfo** (asr-001644)  
+**[01:40:42.120] Senator Erwin T. Tulfo** (asr-001644)  
 Hindi naman po may bibigay lahat.
 
-**[01:40:43.600] Senator Erwin Tulfo** (asr-001645)  
+**[01:40:43.600] Senator Erwin T. Tulfo** (asr-001645)  
 Pero at least, baka pwede naman kahit papano, eh, mapuondohan po yung ilan.
 
 **[01:40:49.980] DOT Secretary Dita Angara-Mathay** (asr-001646)  
@@ -4765,88 +4765,88 @@ Honorable Senator po, may iba-ibang regions na submission po.
 **[01:40:53.600] DOT Secretary Dita Angara-Mathay** (asr-001647)  
 Pwede ko namang bang i-submit na lang po sa inyo?
 
-**[01:40:56.360] Senator Erwin Tulfo** (asr-001648)  
+**[01:40:56.360] Senator Erwin T. Tulfo** (asr-001648)  
 Please.
 
 **[01:40:56.860] DOT Secretary Dita Angara-Mathay** (asr-001649)  
 Tapos we can discuss it later po.
 
-**[01:40:58.980] Senator Erwin Tulfo** (asr-001650)  
+**[01:40:58.980] Senator Erwin T. Tulfo** (asr-001650)  
 Please, please.
 
-**[01:40:59.780] Senator Erwin Tulfo** (asr-001651)  
+**[01:40:59.780] Senator Erwin T. Tulfo** (asr-001651)  
 Kasi sabi nga ng Pangulo, ah, mahalaga po ang turismo.
 
-**[01:41:05.320] Senator Erwin Tulfo** (asr-001652)  
+**[01:41:05.320] Senator Erwin T. Tulfo** (asr-001652)  
 Pero paano po tayo dadalawin kung pangit nyo yung papunta roon?
 
-**[01:41:09.760] Senator Erwin Tulfo** (asr-001653)  
+**[01:41:09.760] Senator Erwin T. Tulfo** (asr-001653)  
 I mean, lubak-lubak, okay?
 
-**[01:41:11.600] Senator Erwin Tulfo** (asr-001654)  
+**[01:41:11.600] Senator Erwin T. Tulfo** (asr-001654)  
 Madamo.
 
-**[01:41:12.840] Senator Erwin Tulfo** (asr-001655)  
+**[01:41:12.840] Senator Erwin T. Tulfo** (asr-001655)  
 Baka matuklawin pa siya ng ahas.
 
-**[01:41:14.840] Senator Erwin Tulfo** (asr-001656)  
+**[01:41:14.840] Senator Erwin T. Tulfo** (asr-001656)  
 That is the problem, okay?
 
-**[01:41:16.840] Senator Erwin Tulfo** (asr-001657)  
+**[01:41:16.840] Senator Erwin T. Tulfo** (asr-001657)  
 Anyway, mas pang dami po ang Pinoy, Secretary, na gumagala pa abroad kaysa dito sa atin.
 
-**[01:41:24.140] Senator Erwin Tulfo** (asr-001658)  
+**[01:41:24.140] Senator Erwin T. Tulfo** (asr-001658)  
 Ah, ah, mas maraming.
 
-**[01:41:27.140] Senator Erwin Tulfo** (asr-001659)  
+**[01:41:27.140] Senator Erwin T. Tulfo** (asr-001659)  
 Punta tayo, sabihin ni Mister.
 
-**[01:41:29.140] Senator Erwin Tulfo** (asr-001660)  
+**[01:41:29.140] Senator Erwin T. Tulfo** (asr-001660)  
 Punta tayo, sweetheart, sa Kwan.
 
-**[01:41:32.140] Senator Erwin Tulfo** (asr-001661)  
+**[01:41:32.140] Senator Erwin T. Tulfo** (asr-001661)  
 Ganito, punta tayo doon sa Siargao.
 
-**[01:41:34.140] Senator Erwin Tulfo** (asr-001662)  
+**[01:41:34.140] Senator Erwin T. Tulfo** (asr-001662)  
 Tsaka sabihin ni Mrs.
 
-**[01:41:36.140] Senator Erwin Tulfo** (asr-001663)  
+**[01:41:36.140] Senator Erwin T. Tulfo** (asr-001663)  
 Doon na lang tayo sa Hong Kong kaya, sweetheart, honey, kasi mas mura ang ticket papuntang Hong Kong.
 
-**[01:41:42.180] Senator Erwin Tulfo** (asr-001664)  
+**[01:41:42.180] Senator Erwin T. Tulfo** (asr-001664)  
 At may mga discount yung hotel ngayon.
 
-**[01:41:44.180] Senator Erwin Tulfo** (asr-001665)  
+**[01:41:44.180] Senator Erwin T. Tulfo** (asr-001665)  
 Sa Siargao, nako.
 
-**[01:41:46.180] Senator Erwin Tulfo** (asr-001666)  
+**[01:41:46.180] Senator Erwin T. Tulfo** (asr-001666)  
 Baka awayin pa tayo ng mga Israeli doon.
 
-**[01:41:48.180] Senator Erwin Tulfo** (asr-001667)  
+**[01:41:48.180] Senator Erwin T. Tulfo** (asr-001667)  
 Mamaya, tanong ko po yan sa iyo, si Yusek Azurin.
 
-**[01:41:50.180] Senator Erwin Tulfo** (asr-001668)  
+**[01:41:50.180] Senator Erwin T. Tulfo** (asr-001668)  
 Baka awayin tayo nga, mabugbog pa tayo ng mga Israeli doon.
 
-**[01:41:54.180] Senator Erwin Tulfo** (asr-001669)  
+**[01:41:54.180] Senator Erwin T. Tulfo** (asr-001669)  
 Anong sagot nyo dyan, Secretary?
 
-**[01:41:56.180] Senator Erwin Tulfo** (asr-001670)  
+**[01:41:56.180] Senator Erwin T. Tulfo** (asr-001670)  
 Bakit gano'n?
 
-**[01:41:58.180] Senator Erwin Tulfo** (asr-001671)  
+**[01:41:58.180] Senator Erwin T. Tulfo** (asr-001671)  
 Mas mahal pa.
 
-**[01:42:00.180] Senator Erwin Tulfo** (asr-001672)  
+**[01:42:00.180] Senator Erwin T. Tulfo** (asr-001672)  
 I mean, local na lang yun, ah.
 
-**[01:42:02.180] Senator Erwin Tulfo** (asr-001673)  
+**[01:42:02.180] Senator Erwin T. Tulfo** (asr-001673)  
 Mas mahal pa tayo going to Hong Kong. Vietnam.
 
-**[01:42:04.180] Senator Erwin Tulfo** (asr-001674)  
+**[01:42:04.180] Senator Erwin T. Tulfo** (asr-001674)  
 Doon na lang sa Vietnam pumunta.
 
-**[01:42:06.180] Senator Erwin Tulfo** (asr-001675)  
+**[01:42:06.180] Senator Erwin T. Tulfo** (asr-001675)  
 Ano po ang sagot nyo doon?
 
 **[01:42:07.300] DOT Secretary Dita Angara-Mathay** (asr-001676)  
@@ -4855,7 +4855,7 @@ Opo, opo. May I seek the
 **[01:42:10.180] DOT Secretary Dita Angara-Mathay** (asr-001677)  
 recognition of Usec?
 
-**[01:42:12.640] Senator Erwin Tulfo** (asr-001678)  
+**[01:42:12.640] Senator Erwin T. Tulfo** (asr-001678)  
 Go ahead, Usec Buongsuceso.
 
 **[01:42:14.720] DOT Undersecretary Verna Esmeralda C. Buensuceso** (asr-001679)  
@@ -4945,55 +4945,55 @@ at malaki rin ang kanilang naidudulot na
 **[01:43:14.180] DOT Undersecretary Verna Esmeralda C. Buensuceso** (asr-001709)  
 economic impact po.
 
-**[01:43:16.180] Senator Erwin Tulfo** (asr-001710)  
+**[01:43:16.180] Senator Erwin T. Tulfo** (asr-001710)  
 Pero yung ticket po kasi, ma'am,
 
-**[01:43:18.180] Senator Erwin Tulfo** (asr-001711)  
+**[01:43:18.180] Senator Erwin T. Tulfo** (asr-001711)  
 sabi lang, magbibiyahe ako
 
-**[01:43:20.180] Senator Erwin Tulfo** (asr-001712)  
+**[01:43:20.180] Senator Erwin T. Tulfo** (asr-001712)  
 d'yan, mas mahal. Kaming
 
-**[01:43:22.180] Senator Erwin Tulfo** (asr-001713)  
+**[01:43:22.180] Senator Erwin T. Tulfo** (asr-001713)  
 12,000, 15,000
 
-**[01:43:24.180] Senator Erwin Tulfo** (asr-001714)  
+**[01:43:24.180] Senator Erwin T. Tulfo** (asr-001714)  
 sa Hong Kong, may discount pa
 
-**[01:43:26.180] Senator Erwin Tulfo** (asr-001715)  
+**[01:43:26.180] Senator Erwin T. Tulfo** (asr-001715)  
 sa Cebu Pacific na piso fare.
 
-**[01:43:28.180] Senator Erwin Tulfo** (asr-001716)  
+**[01:43:28.180] Senator Erwin T. Tulfo** (asr-001716)  
 Makakaalis siya sa halagang 4,000
 
-**[01:43:30.180] Senator Erwin Tulfo** (asr-001717)  
+**[01:43:30.180] Senator Erwin T. Tulfo** (asr-001717)  
 piso. Yan ho yung problema
 
-**[01:43:32.180] Senator Erwin Tulfo** (asr-001718)  
+**[01:43:32.180] Senator Erwin T. Tulfo** (asr-001718)  
 natin, di po ba? Tapos number
 
-**[01:43:34.180] Senator Erwin Tulfo** (asr-001719)  
+**[01:43:34.180] Senator Erwin T. Tulfo** (asr-001719)  
 two, imbis na
 
-**[01:43:36.180] Senator Erwin Tulfo** (asr-001720)  
+**[01:43:36.180] Senator Erwin T. Tulfo** (asr-001720)  
 malapit lang po, punta
 
-**[01:43:38.180] Senator Erwin Tulfo** (asr-001721)  
+**[01:43:38.180] Senator Erwin T. Tulfo** (asr-001721)  
 pa siya ng Clark, sasakay
 
-**[01:43:40.180] Senator Erwin Tulfo** (asr-001722)  
+**[01:43:40.180] Senator Erwin T. Tulfo** (asr-001722)  
 pa siya ng bus, tapos
 
-**[01:43:42.180] Senator Erwin Tulfo** (asr-001723)  
+**[01:43:42.180] Senator Erwin T. Tulfo** (asr-001723)  
 pag-landing na doon siya ulit, e
 
-**[01:43:44.180] Senator Erwin Tulfo** (asr-001724)  
+**[01:43:44.180] Senator Erwin T. Tulfo** (asr-001724)  
 taga-Para?aque siya. Paano ho yan?
 
-**[01:43:46.180] Senator Erwin Tulfo** (asr-001725)  
+**[01:43:46.180] Senator Erwin T. Tulfo** (asr-001725)  
 Can everybody answer?
 
-**[01:43:48.180] Senator Erwin Tulfo** (asr-001726)  
+**[01:43:48.180] Senator Erwin T. Tulfo** (asr-001726)  
 Yusek Stanley?
 
 **[01:43:50.180] DOT Undersecretary Stanley K. Ng** (asr-001727)  
@@ -5161,31 +5161,31 @@ medyo mas mahal talaga
 **[01:45:38.060] DOT Undersecretary Stanley K. Ng** (asr-001781)  
 yung pag-travel sa atin.
 
-**[01:45:40.460] Senator Erwin Tulfo** (asr-001782)  
+**[01:45:40.460] Senator Erwin T. Tulfo** (asr-001782)  
 Well, before we proceed,
 
-**[01:45:42.240] Senator Erwin Tulfo** (asr-001783)  
+**[01:45:42.240] Senator Erwin T. Tulfo** (asr-001783)  
 I'd like to acknowledge the presence of our
 
-**[01:45:43.980] Senator Erwin Tulfo** (asr-001784)  
+**[01:45:43.980] Senator Erwin T. Tulfo** (asr-001784)  
 Finance Chair, Senator
 
-**[01:45:45.980] Senator Erwin Tulfo** (asr-001785)  
+**[01:45:45.980] Senator Erwin T. Tulfo** (asr-001785)  
 J.V. Ercito, and of course
 
-**[01:45:48.220] Senator Erwin Tulfo** (asr-001786)  
+**[01:45:48.220] Senator Erwin T. Tulfo** (asr-001786)  
 to my right, Senator
 
-**[01:45:49.840] Senator Erwin Tulfo** (asr-001787)  
+**[01:45:49.840] Senator Erwin T. Tulfo** (asr-001787)  
 Lito Lapid, the Chairman of our Games and Amusement.
 
-**[01:45:52.760] Senator Erwin Tulfo** (asr-001788)  
+**[01:45:52.760] Senator Erwin T. Tulfo** (asr-001788)  
 Thank you po. Thank you for joining us.
 
-**[01:45:54.600] Senator Erwin Tulfo** (asr-001789)  
+**[01:45:54.600] Senator Erwin T. Tulfo** (asr-001789)  
 Do you have an opening
 
-**[01:45:56.000] Senator Erwin Tulfo** (asr-001790)  
+**[01:45:56.000] Senator Erwin T. Tulfo** (asr-001790)  
 statement, Mr. Chair?
 
 **[01:45:57.880] Senator Joseph Victor "JV" G. Ejercito** (asr-001791)  
@@ -5263,25 +5263,25 @@ I'll just ask my questions later
 **[01:46:47.260] Senator Joseph Victor "JV" G. Ejercito** (asr-001815)  
 and we can go ahead with the presentation.
 
-**[01:46:49.500] Senator Erwin Tulfo** (asr-001816)  
+**[01:46:49.500] Senator Erwin T. Tulfo** (asr-001816)  
 Thank you, Mr. Chairman. Senator Lapid,
 
-**[01:46:51.680] Senator Erwin Tulfo** (asr-001817)  
+**[01:46:51.680] Senator Erwin T. Tulfo** (asr-001817)  
 sir, do you have any questions?
 
 **[01:46:52.980] Senator Manuel "Lito" M. Lapid** (asr-001818)  
 Okay lang.
 
-**[01:46:53.900] Senator Erwin Tulfo** (asr-001818-split-2)  
+**[01:46:53.900] Senator Erwin T. Tulfo** (asr-001818-split-2)  
 Alright. Let's
 
-**[01:46:55.620] Senator Erwin Tulfo** (asr-001819)  
+**[01:46:55.620] Senator Erwin T. Tulfo** (asr-001819)  
 proceed.
 
-**[01:46:55.980] Senator Erwin Tulfo** (asr-001820)  
+**[01:46:55.980] Senator Erwin T. Tulfo** (asr-001820)  
 I think
 
-**[01:46:58.020] Senator Erwin Tulfo** (asr-001821)  
+**[01:46:58.020] Senator Erwin T. Tulfo** (asr-001821)  
 ComSec, who's next to present?
 
 **[01:47:00.180] Committee Secretary** (asr-001822)  
@@ -5644,16 +5644,16 @@ and field positions.
 **[01:52:37.860] TPB COO Margarita Montemayor Nograles** (asr-001942)  
 Thank you, Mr. Chair.
 
-**[01:52:39.720] Senator Erwin Tulfo** (asr-001943)  
+**[01:52:39.720] Senator Erwin T. Tulfo** (asr-001943)  
 Thank you, COO Nograles.
 
-**[01:52:43.100] Senator Erwin Tulfo** (asr-001944)  
+**[01:52:43.100] Senator Erwin T. Tulfo** (asr-001944)  
 Quick question lang, ma'am.
 
-**[01:52:45.340] Senator Erwin Tulfo** (asr-001945)  
+**[01:52:45.340] Senator Erwin T. Tulfo** (asr-001945)  
 You're requesting for 1.1 billion.
 
-**[01:52:48.100] Senator Erwin Tulfo** (asr-001946)  
+**[01:52:48.100] Senator Erwin T. Tulfo** (asr-001946)  
 Tama po ba yun?
 
 **[01:52:49.060] TPB COO Margarita Montemayor Nograles** (asr-001947)  
@@ -5674,73 +5674,73 @@ So they are the ones that give us the budget ceiling
 **[01:53:04.020] TPB COO Margarita Montemayor Nograles** (asr-001952)  
 that we can use in a year.
 
-**[01:53:05.740] Senator Erwin Tulfo** (asr-001953)  
+**[01:53:05.740] Senator Erwin T. Tulfo** (asr-001953)  
 All right.
 
-**[01:53:06.320] Senator Erwin Tulfo** (asr-001954)  
+**[01:53:06.320] Senator Erwin T. Tulfo** (asr-001954)  
 See, this is what I was telling Mr. Chair,
 
-**[01:53:09.200] Senator Erwin Tulfo** (asr-001955)  
+**[01:53:09.200] Senator Erwin T. Tulfo** (asr-001955)  
 our ComSec,
 
-**[01:53:10.420] Senator Erwin Tulfo** (asr-001956)  
+**[01:53:10.420] Senator Erwin T. Tulfo** (asr-001956)  
 that I need a DBM here
 
-**[01:53:11.800] Senator Erwin Tulfo** (asr-001957)  
+**[01:53:11.800] Senator Erwin T. Tulfo** (asr-001957)  
 because my next question is about DBM.
 
-**[01:53:14.360] Senator Erwin Tulfo** (asr-001958)  
+**[01:53:14.360] Senator Erwin T. Tulfo** (asr-001958)  
 Anyway, yung TPB po,
 
-**[01:53:16.480] Senator Erwin Tulfo** (asr-001959)  
+**[01:53:16.480] Senator Erwin T. Tulfo** (asr-001959)  
 Tourism Promotions Board,
 
-**[01:53:17.780] Senator Erwin Tulfo** (asr-001960)  
+**[01:53:17.780] Senator Erwin T. Tulfo** (asr-001960)  
 has 25.7 billion
 
-**[01:53:20.540] Senator Erwin Tulfo** (asr-001961)  
+**[01:53:20.540] Senator Erwin T. Tulfo** (asr-001961)  
 unallocated balance
 
-**[01:53:22.240] Senator Erwin Tulfo** (asr-001962)  
+**[01:53:22.240] Senator Erwin T. Tulfo** (asr-001962)  
 sitting in our National Treasury.
 
-**[01:53:24.480] Senator Erwin Tulfo** (asr-001963)  
+**[01:53:24.480] Senator Erwin T. Tulfo** (asr-001963)  
 What specific steps,
 
-**[01:53:26.380] Senator Erwin Tulfo** (asr-001964)  
+**[01:53:26.380] Senator Erwin T. Tulfo** (asr-001964)  
 have you taken
 
-**[01:53:27.120] Senator Erwin Tulfo** (asr-001965)  
+**[01:53:27.120] Senator Erwin T. Tulfo** (asr-001965)  
 to seek DBM's assistance
 
-**[01:53:29.140] Senator Erwin Tulfo** (asr-001966)  
+**[01:53:29.140] Senator Erwin T. Tulfo** (asr-001966)  
 to gain access to these funds?
 
-**[01:53:32.240] Senator Erwin Tulfo** (asr-001967)  
+**[01:53:32.240] Senator Erwin T. Tulfo** (asr-001967)  
 Why are they remaining idle?
 
-**[01:53:34.020] Senator Erwin Tulfo** (asr-001968)  
+**[01:53:34.020] Senator Erwin T. Tulfo** (asr-001968)  
 Sayang naman po.
 
-**[01:53:35.400] Senator Erwin Tulfo** (asr-001969)  
+**[01:53:35.400] Senator Erwin T. Tulfo** (asr-001969)  
 Marami po kayong paggagamitan.
 
-**[01:53:37.040] Senator Erwin Tulfo** (asr-001970)  
+**[01:53:37.040] Senator Erwin T. Tulfo** (asr-001970)  
 Kailangan po natin i-promote
 
-**[01:53:38.360] Senator Erwin Tulfo** (asr-001971)  
+**[01:53:38.360] Senator Erwin T. Tulfo** (asr-001971)  
 na i-promote ang ating turismo.
 
-**[01:53:40.360] Senator Erwin Tulfo** (asr-001972)  
+**[01:53:40.360] Senator Erwin T. Tulfo** (asr-001972)  
 Ano po nangyayari dito?
 
-**[01:53:41.400] Senator Erwin Tulfo** (asr-001973)  
+**[01:53:41.400] Senator Erwin T. Tulfo** (asr-001973)  
 Have you checked on this?
 
-**[01:53:42.600] Senator Erwin Tulfo** (asr-001974)  
+**[01:53:42.600] Senator Erwin T. Tulfo** (asr-001974)  
 Have you asked DBM
 
-**[01:53:43.620] Senator Erwin Tulfo** (asr-001975)  
+**[01:53:43.620] Senator Erwin T. Tulfo** (asr-001975)  
 who's always absent?
 
 **[01:53:46.620] TPB COO Margarita Montemayor Nograles** (asr-001976)  
@@ -6457,40 +6457,40 @@ So we are not replacing Love the Philippines, but rather we are coming up with l
 **[02:03:11.880] DOT Assistant Secretary Armand Lorenze V. Sapitan** (asr-002211)  
 So we are.
 
-**[02:03:12.480] Senator Erwin Tulfo** (asr-002212)  
+**[02:03:12.480] Senator Erwin T. Tulfo** (asr-002212)  
 I have one quick question, if you would, si Chair, kay Secretary dito siguro.
 
-**[02:03:18.640] Senator Erwin Tulfo** (asr-002213)  
+**[02:03:18.640] Senator Erwin T. Tulfo** (asr-002213)  
 Parang tayo lang ang bansa na paiba-iba.
 
-**[02:03:21.300] Senator Erwin Tulfo** (asr-002214)  
+**[02:03:21.300] Senator Erwin T. Tulfo** (asr-002214)  
 Bawat administration.
 
-**[02:03:22.000] Senator Erwin Tulfo** (asr-002216)  
+**[02:03:22.000] Senator Erwin T. Tulfo** (asr-002216)  
 May love, may more love, may love-love, may more fun, may wow, may wow Philippines, kung ano-ano.
 
-**[02:03:30.460] Senator Erwin Tulfo** (asr-002217)  
+**[02:03:30.460] Senator Erwin T. Tulfo** (asr-002217)  
 Every time na may bagong administration, bakit ganun?
 
-**[02:03:33.560] Senator Erwin Tulfo** (asr-002218)  
+**[02:03:33.560] Senator Erwin T. Tulfo** (asr-002218)  
 Wala tayong tatakman eh. Unlike Malaysia, truly Asia.
 
-**[02:03:38.220] Senator Erwin Tulfo** (asr-002219)  
+**[02:03:38.220] Senator Erwin T. Tulfo** (asr-002219)  
 Ay mga ganun eh, diba?
 
-**[02:03:39.820] Senator Erwin Tulfo** (asr-002220)  
+**[02:03:39.820] Senator Erwin T. Tulfo** (asr-002220)  
 Kaya mamaya-maya, pustahan tayo. Pag pumalitan ng administration, hindi na love yan.
 
-**[02:03:44.220] Senator Erwin Tulfo** (asr-002221)  
+**[02:03:44.220] Senator Erwin T. Tulfo** (asr-002221)  
 Hate ba yan? Kung ano man yan.
 
-**[02:03:46.160] Senator Erwin Tulfo** (asr-002222)  
+**[02:03:46.160] Senator Erwin T. Tulfo** (asr-002222)  
 Come to the Philippines, enjoy the Philippines.
 
-**[02:03:49.140] Senator Erwin Tulfo** (asr-002223)  
+**[02:03:49.140] Senator Erwin T. Tulfo** (asr-002223)  
 Why do we change?
 
-**[02:03:50.540] Senator Erwin Tulfo** (asr-002224)  
+**[02:03:50.540] Senator Erwin T. Tulfo** (asr-002224)  
 Parang I don't see anything wrong with wow Philippines, talagang dumami ho, tapos pinalitan, tapos papalitan, it's more fun ngayon, love, love the Philippines, baka next administration na ito, come to the Philippines, mamuhay ka sa Philippines, what is going on in here?
 
 **[02:04:10.180] DOT Secretary Dita Angara-Mathay** (asr-002225)  
@@ -6541,34 +6541,34 @@ So it's still under the love the Philippines.
 **[02:05:19.820] DOT Secretary Dita Angara-Mathay** (asr-002240)  
 At hindi nilang po discover Philippines. Parang ganun.
 
-**[02:05:22.260] Senator Erwin Tulfo** (asr-002241)  
+**[02:05:22.260] Senator Erwin T. Tulfo** (asr-002241)  
 Or my next question, Secretary, do we, must we pass a law para hindi po bago-baguhin nila ito?
 
-**[02:05:30.000] Senator Erwin Tulfo** (asr-002242)  
+**[02:05:30.000] Senator Erwin T. Tulfo** (asr-002242)  
 Parang pinaglalaruan.
 
-**[02:05:31.940] Senator Erwin Tulfo** (asr-002243)  
+**[02:05:31.940] Senator Erwin T. Tulfo** (asr-002243)  
 Pag ako nung naisip ng bagong appoint na Secretary, palitan ko kaya ito dahil hindi ko gusto.
 
-**[02:05:39.020] Senator Erwin Tulfo** (asr-002244)  
+**[02:05:39.020] Senator Erwin T. Tulfo** (asr-002244)  
 Yung nakaraang Secretary may credit nito.
 
-**[02:05:41.080] Senator Erwin Tulfo** (asr-002245)  
+**[02:05:41.080] Senator Erwin T. Tulfo** (asr-002245)  
 So sabihin, yung susunod na DOT Secretary, itong love ni Secretary Mata, hindi ko gusto ito eh.
 
-**[02:05:47.300] Senator Erwin Tulfo** (asr-002246)  
+**[02:05:47.300] Senator Erwin T. Tulfo** (asr-002246)  
 Siya ang naalala ng mga tao, dapat meron akong sarili.
 
-**[02:05:50.960] Senator Erwin Tulfo** (asr-002247)  
+**[02:05:50.960] Senator Erwin T. Tulfo** (asr-002247)  
 Every administration, meron tayong bago.
 
-**[02:05:54.540] Senator Erwin Tulfo** (asr-002248)  
+**[02:05:54.540] Senator Erwin T. Tulfo** (asr-002248)  
 Why don't we stick? Kailangan ba ng batas?
 
-**[02:05:56.680] Senator Erwin Tulfo** (asr-002249)  
+**[02:05:56.680] Senator Erwin T. Tulfo** (asr-002249)  
 Kasi kung kailangan ma'am, then we'll have to file a law na huwag nyo na pakialaman niyang branding natin.
 
-**[02:06:02.620] Senator Erwin Tulfo** (asr-002250)  
+**[02:06:02.620] Senator Erwin T. Tulfo** (asr-002250)  
 Kasi paiba-iba eh.
 
 **[02:06:04.420] DOT Secretary Dita Angara-Mathay** (asr-002251)  
@@ -7171,13 +7171,13 @@ We're also providing the hyperbaric chamber sa mga different dive destinations p
 **[02:19:20.860] TIEZA COO Mark T. Lapid** (asr-002450)  
 So these were all being funded by the travel tax, Mr. Chair.
 
-**[02:19:24.680] Senator Erwin Tulfo** (asr-002451)  
+**[02:19:24.680] Senator Erwin T. Tulfo** (asr-002451)  
 So what is your request, Dr. Lapid?
 
-**[02:19:30.000] Senator Erwin Tulfo** (asr-002452)  
+**[02:19:30.000] Senator Erwin T. Tulfo** (asr-002452)  
 Ano hong request ninyo?
 
-**[02:19:31.920] Senator Erwin Tulfo** (asr-002453)  
+**[02:19:31.920] Senator Erwin T. Tulfo** (asr-002453)  
 Na po pwede ituloy muna hanggang December yung pagkukulek ng travel tax?
 
 **[02:19:37.420] TIEZA COO Mark T. Lapid** (asr-002454)  
@@ -7228,43 +7228,43 @@ we humbly seek na requesting na baka pwede magkaroon muna po ng extension for th
 **[02:20:37.400] TIEZA COO Mark T. Lapid** (asr-002469)  
 habang wala pong pera na pang-replace dun sa travel tax, Mr. Chair.
 
-**[02:20:43.700] Senator Erwin Tulfo** (asr-002470)  
+**[02:20:43.700] Senator Erwin T. Tulfo** (asr-002470)  
 That's the reason why I invited DBM.
 
-**[02:20:47.400] Senator Erwin Tulfo** (asr-002471)  
+**[02:20:47.400] Senator Erwin T. Tulfo** (asr-002471)  
 Hindi na sumipot. Natakot siguro. Baka walang masagot.
 
-**[02:20:50.660] Senator Erwin Tulfo** (asr-002472)  
+**[02:20:50.660] Senator Erwin T. Tulfo** (asr-002472)  
 Baka nahihina sa pantalon yung tao na yan.
 
-**[02:20:53.660] Senator Erwin Tulfo** (asr-002473)  
+**[02:20:53.660] Senator Erwin T. Tulfo** (asr-002473)  
 But anyway, sige po, we're looking to this.
 
-**[02:20:56.700] Senator Erwin Tulfo** (asr-002474)  
+**[02:20:56.700] Senator Erwin T. Tulfo** (asr-002474)  
 We understand where you're coming from.
 
-**[02:20:59.860] Senator Erwin Tulfo** (asr-002475)  
+**[02:20:59.860] Senator Erwin T. Tulfo** (asr-002475)  
 Mahirap nga ho yun.
 
 **[02:21:01.500] Senator Joseph Victor "JV" G. Ejercito** (asr-002475-split-2)  
 Tama ka. Tama, Mr. Chair.
 
-**[02:21:03.860] Senator Erwin Tulfo** (asr-002476)  
+**[02:21:03.860] Senator Erwin T. Tulfo** (asr-002476)  
 Pag nasa pipeline na yung project, anong gagawin? Hindi na po pondohan.
 
-**[02:21:07.860] Senator Erwin Tulfo** (asr-002477)  
+**[02:21:07.860] Senator Erwin T. Tulfo** (asr-002477)  
 So kailangan ho siguro.
 
-**[02:21:09.860] Senator Erwin Tulfo** (asr-002478)  
+**[02:21:09.860] Senator Erwin T. Tulfo** (asr-002478)  
 Pero kailangan, we have to sit down with DBM.
 
 **[02:21:12.860] TIEZA COO Mark T. Lapid** (asr-002479)  
 Thank you, Mr. Chair.
 
-**[02:21:14.860] Senator Erwin Tulfo** (asr-002480)  
+**[02:21:14.860] Senator Erwin T. Tulfo** (asr-002480)  
 Unfortunately, hindi ko makita eh.
 
-**[02:21:16.860] Senator Erwin Tulfo** (asr-002481)  
+**[02:21:16.860] Senator Erwin T. Tulfo** (asr-002481)  
 Pag nakita ko ho yung bukas.
 
 **[02:21:18.860] TIEZA COO Mark T. Lapid** (asr-002482)  
@@ -7273,31 +7273,31 @@ Salamat po.
 **[02:21:19.860] TIEZA COO Mark T. Lapid** (asr-002483)  
 Thank you, Mr. Chair.
 
-**[02:21:20.860] Senator Erwin Tulfo** (asr-002484)  
+**[02:21:20.860] Senator Erwin T. Tulfo** (asr-002484)  
 Thank you po.
 
-**[02:21:21.860] Senator Erwin Tulfo** (asr-002485)  
+**[02:21:21.860] Senator Erwin T. Tulfo** (asr-002485)  
 Comsec, who's next to present?
 
 **[02:21:23.860] Committee Secretary** (asr-002486)  
 Next to present their budget is the Duty Free Philippines Corporation.
 
-**[02:21:27.860] Senator Erwin Tulfo** (asr-002487)  
+**[02:21:27.860] Senator Erwin T. Tulfo** (asr-002487)  
 Duty Free, how long is your presentation?
 
 **[02:21:29.700] DFPC COO Patrick Joel M. Cinco** (asr-002488)  
 Six slides, sir. Maybe less.
 
-**[02:21:32.700] Senator Erwin Tulfo** (asr-002489)  
+**[02:21:32.700] Senator Erwin T. Tulfo** (asr-002489)  
 Okay, can you do that quickly?
 
-**[02:21:34.700] Senator Erwin Tulfo** (asr-002490)  
+**[02:21:34.700] Senator Erwin T. Tulfo** (asr-002490)  
 Because meron po nang malakanyang na family day po ngayon.
 
-**[02:21:38.700] Senator Erwin Tulfo** (asr-002491)  
+**[02:21:38.700] Senator Erwin T. Tulfo** (asr-002491)  
 Sumasobra na tayo.
 
-**[02:21:40.700] Senator Erwin Tulfo** (asr-002492)  
+**[02:21:40.700] Senator Erwin T. Tulfo** (asr-002492)  
 Hanggang alas-singko lang dapat. Go ahead, proceed po.
 
 **[02:21:42.700] DFPC COO Patrick Joel M. Cinco** (asr-002493)  
@@ -7432,40 +7432,40 @@ the FPC's contribution to the government.
 **[02:26:01.680] DFPC COO Patrick Joel M. Cinco** (asr-002538)  
 Thank you, Mr. Chair.
 
-**[02:26:03.460] Senator Erwin Tulfo** (asr-002539)  
+**[02:26:03.460] Senator Erwin T. Tulfo** (asr-002539)  
 Thank you.
 
-**[02:26:05.060] Senator Erwin Tulfo** (asr-002540)  
+**[02:26:05.060] Senator Erwin T. Tulfo** (asr-002540)  
 A couple of questions,
 
-**[02:26:08.980] Senator Erwin Tulfo** (asr-002541)  
+**[02:26:08.980] Senator Erwin T. Tulfo** (asr-002541)  
 COO Sinko.
 
-**[02:26:11.740] Senator Erwin Tulfo** (asr-002542)  
+**[02:26:11.740] Senator Erwin T. Tulfo** (asr-002542)  
 Why should
 
-**[02:26:13.040] Senator Erwin Tulfo** (asr-002543)  
+**[02:26:13.040] Senator Erwin T. Tulfo** (asr-002543)  
 the requested
 
-**[02:26:14.880] Senator Erwin Tulfo** (asr-002544)  
+**[02:26:14.880] Senator Erwin T. Tulfo** (asr-002544)  
 326 million subsidy
 
-**[02:26:16.720] Senator Erwin Tulfo** (asr-002545)  
+**[02:26:16.720] Senator Erwin T. Tulfo** (asr-002545)  
 be provided
 
-**[02:26:17.460] Senator Erwin Tulfo** (asr-002546)  
+**[02:26:17.460] Senator Erwin T. Tulfo** (asr-002546)  
 despite the apparent loss
 
-**[02:26:20.340] Senator Erwin Tulfo** (asr-002547)  
+**[02:26:20.340] Senator Erwin T. Tulfo** (asr-002547)  
 in 2025?
 
-**[02:26:23.020] Senator Erwin Tulfo** (asr-002548)  
+**[02:26:23.020] Senator Erwin T. Tulfo** (asr-002548)  
 Are you...
 
-**[02:26:24.920] Senator Erwin Tulfo** (asr-002549)  
+**[02:26:24.920] Senator Erwin T. Tulfo** (asr-002549)  
 Yan po yung tatanihin po
 
-**[02:26:26.580] Senator Erwin Tulfo** (asr-002550)  
+**[02:26:26.580] Senator Erwin T. Tulfo** (asr-002550)  
 sa atin.
 
 **[02:26:28.100] DFPC COO Patrick Joel M. Cinco** (asr-002551)  
@@ -7645,184 +7645,184 @@ in sales.
 **[02:27:59.380] DFPC COO Patrick Joel M. Cinco** (asr-002609)  
 So, that
 
-**[02:27:59.660] Senator Erwin Tulfo** (asr-002610)  
+**[02:27:59.660] Senator Erwin T. Tulfo** (asr-002610)  
 So, what you're saying
 
-**[02:28:01.020] Senator Erwin Tulfo** (asr-002611)  
+**[02:28:01.020] Senator Erwin T. Tulfo** (asr-002611)  
 COO Sinko,
 
-**[02:28:03.060] Senator Erwin Tulfo** (asr-002612)  
+**[02:28:03.060] Senator Erwin T. Tulfo** (asr-002612)  
 itong 326
 
-**[02:28:04.040] Senator Erwin Tulfo** (asr-002613)  
+**[02:28:04.040] Senator Erwin T. Tulfo** (asr-002613)  
 is to build
 
-**[02:28:05.000] Senator Erwin Tulfo** (asr-002614)  
+**[02:28:05.000] Senator Erwin T. Tulfo** (asr-002614)  
 more
 
-**[02:28:05.560] Senator Erwin Tulfo** (asr-002615)  
+**[02:28:05.560] Senator Erwin T. Tulfo** (asr-002615)  
 duty-free
 
-**[02:28:06.480] Senator Erwin Tulfo** (asr-002616)  
+**[02:28:06.480] Senator Erwin T. Tulfo** (asr-002616)  
 stores or shops?
 
 **[02:28:08.280] DFPC COO Patrick Joel M. Cinco** (asr-002617)  
 Yes, Mr. Chair.
 
-**[02:28:09.260] Senator Erwin Tulfo** (asr-002618)  
+**[02:28:09.260] Senator Erwin T. Tulfo** (asr-002618)  
 Ito po sa tingin ninyo
 
-**[02:28:10.820] Senator Erwin Tulfo** (asr-002619)  
+**[02:28:10.820] Senator Erwin T. Tulfo** (asr-002619)  
 ang problema
 
-**[02:28:11.440] Senator Erwin Tulfo** (asr-002620)  
+**[02:28:11.440] Senator Erwin T. Tulfo** (asr-002620)  
 kaya hindi po
 
-**[02:28:12.500] Senator Erwin Tulfo** (asr-002621)  
+**[02:28:12.500] Senator Erwin T. Tulfo** (asr-002621)  
 duty-free
 
-**[02:28:13.440] Senator Erwin Tulfo** (asr-002622)  
+**[02:28:13.440] Senator Erwin T. Tulfo** (asr-002622)  
 or Philippine duty-free
 
-**[02:28:14.920] Senator Erwin Tulfo** (asr-002623)  
+**[02:28:14.920] Senator Erwin T. Tulfo** (asr-002623)  
 is not making money
 
-**[02:28:15.900] Senator Erwin Tulfo** (asr-002624)  
+**[02:28:15.900] Senator Erwin T. Tulfo** (asr-002624)  
 dahil kulang siya?
 
-**[02:28:17.260] Senator Erwin Tulfo** (asr-002625)  
+**[02:28:17.260] Senator Erwin T. Tulfo** (asr-002625)  
 Or,
 
-**[02:28:17.460] Senator Erwin Tulfo** (asr-002626)  
+**[02:28:17.460] Senator Erwin T. Tulfo** (asr-002626)  
 is it?
 
-**[02:28:19.240] Senator Erwin Tulfo** (asr-002627)  
+**[02:28:19.240] Senator Erwin T. Tulfo** (asr-002627)  
 Ito po,
 
-**[02:28:19.660] Senator Erwin Tulfo** (asr-002628)  
+**[02:28:19.660] Senator Erwin T. Tulfo** (asr-002628)  
 feedback lang
 
-**[02:28:20.400] Senator Erwin Tulfo** (asr-002629)  
+**[02:28:20.400] Senator Erwin T. Tulfo** (asr-002629)  
 sa akin,
 
-**[02:28:21.080] Senator Erwin Tulfo** (asr-002630)  
+**[02:28:21.080] Senator Erwin T. Tulfo** (asr-002630)  
 ano po,
 
-**[02:28:21.600] Senator Erwin Tulfo** (asr-002631)  
+**[02:28:21.600] Senator Erwin T. Tulfo** (asr-002631)  
 ng mga
 
-**[02:28:22.140] Senator Erwin Tulfo** (asr-002632)  
+**[02:28:22.140] Senator Erwin T. Tulfo** (asr-002632)  
 turista,
 
-**[02:28:23.580] Senator Erwin Tulfo** (asr-002633)  
+**[02:28:23.580] Senator Erwin T. Tulfo** (asr-002633)  
 ng mga OFWs.
 
-**[02:28:25.200] Senator Erwin Tulfo** (asr-002634)  
+**[02:28:25.200] Senator Erwin T. Tulfo** (asr-002634)  
 Ikaw,
 
-**[02:28:25.540] Senator Erwin Tulfo** (asr-002635)  
+**[02:28:25.540] Senator Erwin T. Tulfo** (asr-002635)  
 bumibili ba ka?
 
-**[02:28:26.220] Senator Erwin Tulfo** (asr-002636)  
+**[02:28:26.220] Senator Erwin T. Tulfo** (asr-002636)  
 Hindi po eh.
 
-**[02:28:26.860] Senator Erwin Tulfo** (asr-002637)  
+**[02:28:26.860] Senator Erwin T. Tulfo** (asr-002637)  
 Bakit?
 
-**[02:28:27.380] Senator Erwin Tulfo** (asr-002638)  
+**[02:28:27.380] Senator Erwin T. Tulfo** (asr-002638)  
 Wala po mabili.
 
-**[02:28:28.860] Senator Erwin Tulfo** (asr-002639)  
+**[02:28:28.860] Senator Erwin T. Tulfo** (asr-002639)  
 Kasi yung
 
-**[02:28:29.680] Senator Erwin Tulfo** (asr-002640)  
+**[02:28:29.680] Senator Erwin T. Tulfo** (asr-002640)  
 bibiliin ko po dyan,
 
-**[02:28:30.620] Senator Erwin Tulfo** (asr-002641)  
+**[02:28:30.620] Senator Erwin T. Tulfo** (asr-002641)  
 mabibili ko na sa SNR.
 
-**[02:28:32.700] Senator Erwin Tulfo** (asr-002642)  
+**[02:28:32.700] Senator Erwin T. Tulfo** (asr-002642)  
 Kasi po,
 
-**[02:28:33.460] Senator Erwin Tulfo** (asr-002643)  
+**[02:28:33.460] Senator Erwin T. Tulfo** (asr-002643)  
 yung one,
 
-**[02:28:34.040] Senator Erwin Tulfo** (asr-002644)  
+**[02:28:34.040] Senator Erwin T. Tulfo** (asr-002644)  
 mabibili ko na sa SM,
 
-**[02:28:35.800] Senator Erwin Tulfo** (asr-002645)  
+**[02:28:35.800] Senator Erwin T. Tulfo** (asr-002645)  
 punta na lang po ako
 
-**[02:28:36.560] Senator Erwin Tulfo** (asr-002646)  
+**[02:28:36.560] Senator Erwin T. Tulfo** (asr-002646)  
 SM,
 
-**[02:28:37.100] Senator Erwin Tulfo** (asr-002647)  
+**[02:28:37.100] Senator Erwin T. Tulfo** (asr-002647)  
 bibili po ako
 
-**[02:28:37.680] Senator Erwin Tulfo** (asr-002648)  
+**[02:28:37.680] Senator Erwin T. Tulfo** (asr-002648)  
 ng coach na bag
 
-**[02:28:38.640] Senator Erwin Tulfo** (asr-002649)  
+**[02:28:38.640] Senator Erwin T. Tulfo** (asr-002649)  
 doon sa misis ko.
 
-**[02:28:40.140] Senator Erwin Tulfo** (asr-002650)  
+**[02:28:40.140] Senator Erwin T. Tulfo** (asr-002650)  
 Wala daw talaga
 
-**[02:28:40.740] Senator Erwin Tulfo** (asr-002651)  
+**[02:28:40.740] Senator Erwin T. Tulfo** (asr-002651)  
 yung mga high-end
 
-**[02:28:41.480] Senator Erwin Tulfo** (asr-002652)  
+**[02:28:41.480] Senator Erwin T. Tulfo** (asr-002652)  
 or even
 
-**[02:28:42.040] Senator Erwin Tulfo** (asr-002653)  
+**[02:28:42.040] Senator Erwin T. Tulfo** (asr-002653)  
 foreigners
 
-**[02:28:43.060] Senator Erwin Tulfo** (asr-002654)  
+**[02:28:43.060] Senator Erwin T. Tulfo** (asr-002654)  
 going back home.
 
-**[02:28:44.700] Senator Erwin Tulfo** (asr-002655)  
+**[02:28:44.700] Senator Erwin T. Tulfo** (asr-002655)  
 Wala pong makita
 
-**[02:28:45.540] Senator Erwin Tulfo** (asr-002656)  
+**[02:28:45.540] Senator Erwin T. Tulfo** (asr-002656)  
 na mabili.
 
-**[02:28:46.080] Senator Erwin Tulfo** (asr-002657)  
+**[02:28:46.080] Senator Erwin T. Tulfo** (asr-002657)  
 Bibili ng konti
 
-**[02:28:46.820] Senator Erwin Tulfo** (asr-002658)  
+**[02:28:46.820] Senator Erwin T. Tulfo** (asr-002658)  
 ng tsokolate,
 
-**[02:28:47.460] Senator Erwin Tulfo** (asr-002659)  
+**[02:28:47.460] Senator Erwin T. Tulfo** (asr-002659)  
 pero wala po yung
 
-**[02:28:48.620] Senator Erwin Tulfo** (asr-002660)  
+**[02:28:48.620] Senator Erwin T. Tulfo** (asr-002660)  
 pasalubong.
 
-**[02:28:49.720] Senator Erwin Tulfo** (asr-002661)  
+**[02:28:49.720] Senator Erwin T. Tulfo** (asr-002661)  
 Wala yung mga Chinese,
 
-**[02:28:50.620] Senator Erwin Tulfo** (asr-002662)  
+**[02:28:50.620] Senator Erwin T. Tulfo** (asr-002662)  
 mga Alak,
 
-**[02:28:51.540] Senator Erwin Tulfo** (asr-002663)  
+**[02:28:51.540] Senator Erwin T. Tulfo** (asr-002663)  
 et cetera,
 
-**[02:28:52.580] Senator Erwin Tulfo** (asr-002664)  
+**[02:28:52.580] Senator Erwin T. Tulfo** (asr-002664)  
 na the usual.
 
-**[02:28:54.580] Senator Erwin Tulfo** (asr-002665)  
+**[02:28:54.580] Senator Erwin T. Tulfo** (asr-002665)  
 My question is,
 
-**[02:28:57.760] Senator Erwin Tulfo** (asr-002666)  
+**[02:28:57.760] Senator Erwin T. Tulfo** (asr-002666)  
 are you guys making money
 
-**[02:28:58.860] Senator Erwin Tulfo** (asr-002667)  
+**[02:28:58.860] Senator Erwin T. Tulfo** (asr-002667)  
 or are you losing?
 
-**[02:29:00.320] Senator Erwin Tulfo** (asr-002668)  
+**[02:29:00.320] Senator Erwin T. Tulfo** (asr-002668)  
 Sir,
 
-**[02:29:00.940] Senator Erwin Tulfo** (asr-002669)  
+**[02:29:00.940] Senator Erwin T. Tulfo** (asr-002669)  
 [unclear] po tayo.
 
 **[02:29:02.410] DFPC COO Patrick Joel M. Cinco** (asr-002670)  
@@ -7993,52 +7993,52 @@ we have to have something na
 **[02:29:59.240] DFPC COO Patrick Joel M. Cinco** (asr-002758)  
 Something different that we can offer.
 
-**[02:30:04.060] Senator Erwin Tulfo** (asr-002759)  
+**[02:30:04.060] Senator Erwin T. Tulfo** (asr-002759)  
 Alam mo, Mr. Cinco, I believe we have to start studying, Secretary Matay, what we have to do with the duty-free Philippines.
 
-**[02:30:14.940] Senator Erwin Tulfo** (asr-002760)  
+**[02:30:14.940] Senator Erwin T. Tulfo** (asr-002760)  
 Perhaps not in this administration, perhaps in the next administration.
 
-**[02:30:19.840] Senator Erwin Tulfo** (asr-002761)  
+**[02:30:19.840] Senator Erwin T. Tulfo** (asr-002761)  
 Kung ganito po ng ganito, panahon pa po ni Pinoy, Duterte, ngayon parang hirap na hirap po siya talagang.
 
-**[02:30:28.700] Senator Erwin Tulfo** (asr-002762)  
+**[02:30:28.700] Senator Erwin T. Tulfo** (asr-002762)  
 So, I guess, siguro through your administration now, we have to make a study.
 
-**[02:30:35.960] Senator Erwin Tulfo** (asr-002763)  
+**[02:30:35.960] Senator Erwin T. Tulfo** (asr-002763)  
 Will it be better off if we just sell it to somewhere else?
 
-**[02:30:39.200] Senator Erwin Tulfo** (asr-002764)  
+**[02:30:39.200] Senator Erwin T. Tulfo** (asr-002764)  
 Kasi previous administrations po, they were interested buyers.
 
-**[02:30:43.760] Senator Erwin Tulfo** (asr-002765)  
+**[02:30:43.760] Senator Erwin T. Tulfo** (asr-002765)  
 You have the King Power of Thailand, you have the Lotte of South Korea, there's even DFS of the United States.
 
-**[02:30:52.200] Senator Erwin Tulfo** (asr-002766)  
+**[02:30:52.200] Senator Erwin T. Tulfo** (asr-002766)  
 Tingnan nga ho natin and they're offering to buy 4 billion, 5 billion.
 
-**[02:30:55.800] Senator Erwin Tulfo** (asr-002767)  
+**[02:30:55.800] Senator Erwin T. Tulfo** (asr-002767)  
 May commission po tayo yearly.
 
-**[02:30:57.840] Senator Erwin Tulfo** (asr-002768)  
+**[02:30:57.840] Senator Erwin T. Tulfo** (asr-002768)  
 Siyempre, isipin natin mga tao, madi-displace.
 
-**[02:31:00.760] Senator Erwin Tulfo** (asr-002769)  
+**[02:31:00.760] Senator Erwin T. Tulfo** (asr-002769)  
 Then, perhaps we can tell them to absorb some of our people.
 
-**[02:31:04.380] Senator Erwin Tulfo** (asr-002770)  
+**[02:31:04.380] Senator Erwin T. Tulfo** (asr-002770)  
 Then may mga experience na ho ito.
 
-**[02:31:06.300] Senator Erwin Tulfo** (asr-002771)  
+**[02:31:06.300] Senator Erwin T. Tulfo** (asr-002771)  
 Why don't you do that, Chief Operating Officer Cinco, and probably put up a study and you can submit it to this committee para next administration mailatag na po natin.
 
-**[02:31:17.720] Senator Erwin Tulfo** (asr-002772)  
+**[02:31:17.720] Senator Erwin T. Tulfo** (asr-002772)  
 Because I'm sure this administration, wala na ho tayong oras, we don't have time.
 
-**[02:31:21.540] Senator Erwin Tulfo** (asr-002773)  
+**[02:31:21.540] Senator Erwin T. Tulfo** (asr-002773)  
 So, we're looking at the next administration siguro.
 
-**[02:31:24.380] Senator Erwin Tulfo** (asr-002774)  
+**[02:31:24.380] Senator Erwin T. Tulfo** (asr-002774)  
 Can you do that?
 
 **[02:31:25.680] DFPC COO Patrick Joel M. Cinco** (asr-002775)  
@@ -8053,16 +8053,16 @@ As far as I know po kasi right now, it will require legislation.
 **[02:31:34.920] DFPC COO Patrick Joel M. Cinco** (asr-002778)  
 So, yung po yung pag-aaralan po natin.
 
-**[02:31:36.900] Senator Erwin Tulfo** (asr-002779)  
+**[02:31:36.900] Senator Erwin T. Tulfo** (asr-002779)  
 Exactly. Thank you. Thank you, Patrick Cinco.
 
-**[02:31:40.300] Senator Erwin Tulfo** (asr-002780)  
+**[02:31:40.300] Senator Erwin T. Tulfo** (asr-002780)  
 Comsec, who's next?
 
 **[02:31:41.700] Committee Secretary** (asr-002781)  
 Next to present their budget is the Nayong Pilipino Foundation.
 
-**[02:31:47.180] Senator Erwin Tulfo** (asr-002782)  
+**[02:31:47.180] Senator Erwin T. Tulfo** (asr-002782)  
 How long is your presentation, Nayong Pilipino?
 
 **[02:31:49.500] NPF Executive Director Leonila R. Fabul** (asr-002783)  
@@ -8071,10 +8071,10 @@ It's, I think, 10 slides of which 5 are photos.
 **[02:31:52.900] NPF Executive Director Leonila R. Fabul** (asr-002784)  
 So, I'll make it very quick.
 
-**[02:31:53.860] Senator Erwin Tulfo** (asr-002785)  
+**[02:31:53.860] Senator Erwin T. Tulfo** (asr-002785)  
 So, how many minutes would that, Ma'am?
 
-**[02:31:56.220] Senator Erwin Tulfo** (asr-002786)  
+**[02:31:56.220] Senator Erwin T. Tulfo** (asr-002786)  
 Ah, fabul?
 
 **[02:31:57.220] NPF Executive Director Leonila R. Fabul** (asr-002787)  
@@ -8083,7 +8083,7 @@ Fabul, yes. Thank you.
 **[02:31:58.580] NPF Executive Director Leonila R. Fabul** (asr-002788)  
 Ah, good afternoon.
 
-**[02:31:59.220] Senator Erwin Tulfo** (asr-002789)  
+**[02:31:59.220] Senator Erwin T. Tulfo** (asr-002789)  
 How many minutes po that, is that?
 
 **[02:32:00.560] NPF Executive Director Leonila R. Fabul** (asr-002790)  
@@ -8092,31 +8092,31 @@ Ah, 10 minutes, about 10 minutes.
 **[02:32:03.240] NPF Executive Director Leonila R. Fabul** (asr-002791)  
 Is that all right?
 
-**[02:32:03.740] Senator Erwin Tulfo** (asr-002792)  
+**[02:32:03.740] Senator Erwin T. Tulfo** (asr-002792)  
 Can you cut it shorter?
 
-**[02:32:04.800] Senator Erwin Tulfo** (asr-002793)  
+**[02:32:04.800] Senator Erwin T. Tulfo** (asr-002793)  
 Probably, just go to your budget.
 
-**[02:32:07.800] Senator Erwin Tulfo** (asr-002794)  
+**[02:32:07.800] Senator Erwin T. Tulfo** (asr-002794)  
 How much are you requesting?
 
-**[02:32:09.180] Senator Erwin Tulfo** (asr-002795)  
+**[02:32:09.180] Senator Erwin T. Tulfo** (asr-002795)  
 That's what I have a couple of questions for you.
 
-**[02:32:12.700] Senator Erwin Tulfo** (asr-002796)  
+**[02:32:12.700] Senator Erwin T. Tulfo** (asr-002796)  
 Go ahead, po. Go ahead.
 
 **[02:32:13.840] NPF Executive Director Leonila R. Fabul** (asr-002797)  
 Actually, sir, if directly to the budget, because we don't really secure any funds from the national government.
 
-**[02:32:20.220] Senator Erwin Tulfo** (asr-002798)  
+**[02:32:20.220] Senator Erwin T. Tulfo** (asr-002798)  
 You don't have subsidies.
 
-**[02:32:21.080] Senator Erwin Tulfo** (asr-002799)  
+**[02:32:21.080] Senator Erwin T. Tulfo** (asr-002799)  
 Sige, po. Sige, po.
 
-**[02:32:22.040] Senator Erwin Tulfo** (asr-002800)  
+**[02:32:22.040] Senator Erwin T. Tulfo** (asr-002800)  
 Try to make your, make short your presentation, please.
 
 **[02:32:24.800] NPF Executive Director Leonila R. Fabul** (asr-002801)  
@@ -8281,31 +8281,31 @@ as we will still be paying our RPT year-end for the 2027 season.
 **[02:36:49.980] NPF Executive Director Leonila R. Fabul** (asr-002866)  
 So, this is my presentation now, Secretary, Senator, yeah.
 
-**[02:36:57.260] Senator Erwin Tulfo** (asr-002867)  
+**[02:36:57.260] Senator Erwin T. Tulfo** (asr-002867)  
 Thank you, ma'am.
 
-**[02:37:00.340] Senator Erwin Tulfo** (asr-002868)  
+**[02:37:00.340] Senator Erwin T. Tulfo** (asr-002868)  
 Tanong ko lang po.
 
-**[02:37:02.300] Senator Erwin Tulfo** (asr-002869)  
+**[02:37:02.300] Senator Erwin T. Tulfo** (asr-002869)  
 Tinanong po ako ng anak ko, "Saan po ba itong Nayong Pilipino, Dad?"
 
-**[02:37:06.860] Senator Erwin Tulfo** (asr-002870)  
+**[02:37:06.860] Senator Erwin T. Tulfo** (asr-002870)  
 Saan na po ito ngayon?
 
-**[02:37:08.880] Senator Erwin Tulfo** (asr-002871)  
+**[02:37:08.880] Senator Erwin T. Tulfo** (asr-002871)  
 I'm sorry, ma'am, kasi ang alam ko Nayong Pilipino when I was in grade school,
 
-**[02:37:12.780] Senator Erwin Tulfo** (asr-002872)  
+**[02:37:12.780] Senator Erwin T. Tulfo** (asr-002872)  
 nandiyan po sa Pasay, malapit sa airport.
 
-**[02:37:15.100] Senator Erwin Tulfo** (asr-002873)  
+**[02:37:15.100] Senator Erwin T. Tulfo** (asr-002873)  
 Kaya giniba-giba na po.
 
-**[02:37:16.420] Senator Erwin Tulfo** (asr-002874)  
+**[02:37:16.420] Senator Erwin T. Tulfo** (asr-002874)  
 Sabi ko, saan na kayo lilipat itong mga ito?
 
-**[02:37:18.600] Senator Erwin Tulfo** (asr-002875)  
+**[02:37:18.600] Senator Erwin T. Tulfo** (asr-002875)  
 Saan na ba kayo nakikita?
 
 **[02:37:20.100] NPF Executive Director Leonila R. Fabul** (asr-002876)  
@@ -8314,46 +8314,46 @@ Actually, sir, we left Tarlac Museum, all our artifacts were there, just this ye
 **[02:37:27.100] NPF Executive Director Leonila R. Fabul** (asr-002877)  
 But we have a site, sir, in Paranaque.
 
-**[02:37:31.180] Senator Erwin Tulfo** (asr-002878)  
+**[02:37:31.180] Senator Erwin T. Tulfo** (asr-002878)  
 Natayo na ba? Wala pa?
 
 **[02:37:32.960] NPF Executive Director Leonila R. Fabul** (asr-002879)  
 No, not yet.
 
-**[02:37:33.580] Senator Erwin Tulfo** (asr-002880)  
+**[02:37:33.580] Senator Erwin T. Tulfo** (asr-002880)  
 Not yet?
 
 **[02:37:34.280] NPF Executive Director Leonila R. Fabul** (asr-002881)  
 Hopefully, within this year, we can ground break if we already finalize all the technical details.
 
-**[02:37:42.120] Senator Erwin Tulfo** (asr-002882)  
+**[02:37:42.120] Senator Erwin T. Tulfo** (asr-002882)  
 Okay, kasi hinahanap ng anak ko, hindi ko rin ho alam eh.
 
-**[02:37:44.920] Senator Erwin Tulfo** (asr-002883)  
+**[02:37:44.920] Senator Erwin T. Tulfo** (asr-002883)  
 Ginu-google ko, saan na ba ito?
 
-**[02:37:46.940] Senator Erwin Tulfo** (asr-002884)  
+**[02:37:46.940] Senator Erwin T. Tulfo** (asr-002884)  
 Eh para kayong, para kayong sasakyan, palipat-lipat, ano, dapat meron tayong fixed na?
 
 **[02:37:52.380] NPF Executive Director Leonila R. Fabul** (asr-002885)  
 And we have our signage in small museums.
 
-**[02:37:55.300] Senator Erwin Tulfo** (asr-002886)  
+**[02:37:55.300] Senator Erwin T. Tulfo** (asr-002886)  
 When I was in grade school, I love that place.
 
-**[02:37:57.260] Senator Erwin Tulfo** (asr-002887)  
+**[02:37:57.260] Senator Erwin T. Tulfo** (asr-002887)  
 It's very nice.
 
-**[02:37:57.900] Senator Erwin Tulfo** (asr-002888)  
+**[02:37:57.900] Senator Erwin T. Tulfo** (asr-002888)  
 It's educational.
 
 **[02:38:00.140] NPF Executive Director Leonila R. Fabul** (asr-002889)  
 Yes.
 
-**[02:38:00.240] Senator Erwin Tulfo** (asr-002890)  
+**[02:38:00.240] Senator Erwin T. Tulfo** (asr-002890)  
 Tapos marami po mga students.
 
-**[02:38:01.180] Senator Erwin Tulfo** (asr-002891)  
+**[02:38:01.180] Senator Erwin T. Tulfo** (asr-002891)  
 Studyante.
 
 **[02:38:01.860] NPF Executive Director Leonila R. Fabul** (asr-002892)  
@@ -8362,19 +8362,19 @@ Yes.
 **[02:38:02.540] NPF Executive Director Leonila R. Fabul** (asr-002893)  
 Tama po.
 
-**[02:38:03.260] Senator Erwin Tulfo** (asr-002894)  
+**[02:38:03.260] Senator Erwin T. Tulfo** (asr-002894)  
 So, ngayon ba, may mandato po kayo, di ba, under presidential decree to establish parks, recreation center, libraries, etc., etc.?
 
-**[02:38:15.560] Senator Erwin Tulfo** (asr-002895)  
+**[02:38:15.560] Senator Erwin T. Tulfo** (asr-002895)  
 Research, yes.
 
-**[02:38:16.380] Senator Erwin Tulfo** (asr-002896)  
+**[02:38:16.380] Senator Erwin T. Tulfo** (asr-002896)  
 How would you execute that mandate kung ang budget niyo lang para sa capital outlay, 1.5 million?
 
 **[02:38:23.660] NPF Executive Director Leonila R. Fabul** (asr-002897)  
 Actually, the budget we have is 73M, but if we are able to get the NEDA budget,
 
-**[02:38:30.460] Senator Erwin Tulfo** (asr-002898)  
+**[02:38:30.460] Senator Erwin T. Tulfo** (asr-002898)  
 All right.
 
 **[02:38:31.180] NPF Executive Director Leonila R. Fabul** (asr-002899)  
@@ -8386,19 +8386,19 @@ But we are looking at other PPP options and other financial opportunities.
 **[02:38:45.860] NPF Executive Director Leonila R. Fabul** (asr-002901)  
 Thank you, po.
 
-**[02:38:46.620] Senator Erwin Tulfo** (asr-002902)  
+**[02:38:46.620] Senator Erwin T. Tulfo** (asr-002902)  
 Thank you.
 
-**[02:38:47.100] Senator Erwin Tulfo** (asr-002903)  
+**[02:38:47.100] Senator Erwin T. Tulfo** (asr-002903)  
 All right.
 
-**[02:38:47.960] Senator Erwin Tulfo** (asr-002904)  
+**[02:38:47.960] Senator Erwin T. Tulfo** (asr-002904)  
 Comsec?
 
 **[02:38:49.100] Committee Secretary** (asr-002905)  
 Next to present is the Tourism Infrastructure and Enterprise Zone Authority.
 
-**[02:38:55.200] Senator Erwin Tulfo** (asr-002906)  
+**[02:38:55.200] Senator Erwin T. Tulfo** (asr-002906)  
 Dr. Lapid, how long is your presentation, sir?
 
 **[02:38:57.940] TIEZA COO Mark T. Lapid** (asr-002907)  
@@ -8407,13 +8407,13 @@ Sir, if I may, if we can just submit the...
 **[02:39:00.540] TIEZA COO Mark T. Lapid** (asr-002908)  
 Or go directly to the budget.
 
-**[02:39:01.880] Senator Erwin Tulfo** (asr-002909)  
+**[02:39:01.880] Senator Erwin T. Tulfo** (asr-002909)  
 Can you just go directly to the budget?
 
-**[02:39:03.540] Senator Erwin Tulfo** (asr-002910)  
+**[02:39:03.540] Senator Erwin T. Tulfo** (asr-002910)  
 And I know you're having a headache right now because once we remove that travel tax, you really have a big headache.
 
-**[02:39:11.920] Senator Erwin Tulfo** (asr-002911)  
+**[02:39:11.920] Senator Erwin T. Tulfo** (asr-002911)  
 So, please go ahead.
 
 **[02:39:16.660] TIEZA COO Mark T. Lapid** (asr-002912)  
@@ -8461,28 +8461,28 @@ And our improv project for 2027 will be 2.17 billion pesos, Mr. Chair.
 **[02:40:42.360] TIEZA COO Mark T. Lapid** (asr-002926)  
 So that would be for our budget for 2027, Mr. Chair.
 
-**[02:40:46.440] Senator Erwin Tulfo** (asr-002927)  
+**[02:40:46.440] Senator Erwin T. Tulfo** (asr-002927)  
 One question lang po.
 
 **[02:40:48.680] TIEZA COO Mark T. Lapid** (asr-002928)  
 Yes, sir.
 
-**[02:40:50.400] Senator Erwin Tulfo** (asr-002929)  
+**[02:40:50.400] Senator Erwin T. Tulfo** (asr-002929)  
 According to the Commission on Audit Findings, sir, Dr. Lapid,
 
-**[02:40:55.260] Senator Erwin Tulfo** (asr-002930)  
+**[02:40:55.260] Senator Erwin T. Tulfo** (asr-002930)  
 Your office was not able to effectively implement daw a significant number,
 
-**[02:41:00.700] Senator Erwin Tulfo** (asr-002931)  
+**[02:41:00.700] Senator Erwin T. Tulfo** (asr-002931)  
 of locally funded projects, with a contract cost of 3.3 billion.
 
-**[02:41:04.800] Senator Erwin Tulfo** (asr-002932)  
+**[02:41:04.800] Senator Erwin T. Tulfo** (asr-002932)  
 Ano na hong status nito?
 
-**[02:41:06.280] Senator Erwin Tulfo** (asr-002933)  
+**[02:41:06.280] Senator Erwin T. Tulfo** (asr-002933)  
 Naibigay niyo na po ba? Nasagot niyo na ang TIEZA?
 
-**[02:41:09.260] Senator Erwin Tulfo** (asr-002934)  
+**[02:41:09.260] Senator Erwin T. Tulfo** (asr-002934)  
 What's going on here?
 
 **[02:41:11.120] TIEZA COO Mark T. Lapid** (asr-002935)  
@@ -8497,25 +8497,25 @@ Because kinuhanan po kami ng 12 billion na budget namin ng Department of Finance
 **[02:41:26.920] TIEZA COO Mark T. Lapid** (asr-002938)  
 para i- gawin po, pondohan yung Bayanihan [unclear] One.
 
-**[02:41:31.620] Senator Erwin Tulfo** (asr-002939)  
+**[02:41:31.620] Senator Erwin T. Tulfo** (asr-002939)  
 So, this was taken from your budget, this 3.3.
 
-**[02:41:34.460] Senator Erwin Tulfo** (asr-002940)  
+**[02:41:34.460] Senator Erwin T. Tulfo** (asr-002940)  
 Okay.
 
-**[02:41:35.000] Senator Erwin Tulfo** (asr-002941)  
+**[02:41:35.000] Senator Erwin T. Tulfo** (asr-002941)  
 So, it wasn't your fault?
 
 **[02:41:37.360] TIEZA COO Mark T. Lapid** (asr-002942)  
 No, sir.
 
-**[02:41:38.280] Senator Erwin Tulfo** (asr-002943)  
+**[02:41:38.280] Senator Erwin T. Tulfo** (asr-002943)  
 Have you explained this to Commission on Audit?
 
 **[02:41:40.440] TIEZA COO Mark T. Lapid** (asr-002944)  
 Yes, sir.
 
-**[02:41:40.760] Senator Erwin Tulfo** (asr-002945)  
+**[02:41:40.760] Senator Erwin T. Tulfo** (asr-002945)  
 Do they know?
 
 **[02:41:41.320] TIEZA COO Mark T. Lapid** (asr-002946)  
@@ -8524,7 +8524,7 @@ We did po.
 **[02:41:42.080] TIEZA COO Mark T. Lapid** (asr-002947)  
 We submitted, sir.
 
-**[02:41:43.140] Senator Erwin Tulfo** (asr-002948)  
+**[02:41:43.140] Senator Erwin T. Tulfo** (asr-002948)  
 So, you've already satisfied their query?
 
 **[02:41:45.800] TIEZA COO Mark T. Lapid** (asr-002949)  
@@ -8533,13 +8533,13 @@ Actually, sir, we already got unqualified opinion coming from them.
 **[02:41:49.860] TIEZA COO Mark T. Lapid** (asr-002950)  
 So, we submitted everything sa kanila po.
 
-**[02:41:52.220] Senator Erwin Tulfo** (asr-002951)  
+**[02:41:52.220] Senator Erwin T. Tulfo** (asr-002951)  
 Very good. Thank you, Dr. Lapid.
 
 **[02:41:54.120] TIEZA COO Mark T. Lapid** (asr-002952)  
 Thank you, sir.
 
-**[02:41:54.600] Senator Erwin Tulfo** (asr-002953)  
+**[02:41:54.600] Senator Erwin T. Tulfo** (asr-002953)  
 Comsec?
 
 **[02:41:55.340] Committee Secretary** (asr-002954)  
@@ -8554,7 +8554,7 @@ I'm not going to last very long because we are not asking for money from the gov
 **[02:42:11.120] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-002957)  
 Instead, we're bringing money to the government.
 
-**[02:42:13.680] Senator Erwin Tulfo** (asr-002958)  
+**[02:42:13.680] Senator Erwin T. Tulfo** (asr-002958)  
 That's good to hear.
 
 **[02:42:16.580] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-002959)  
@@ -8710,49 +8710,49 @@ do what we're doing now, promoting
 **[02:45:17.780] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003009)  
 to different parts of the world.
 
-**[02:45:19.520] Senator Erwin Tulfo** (asr-003010)  
+**[02:45:19.520] Senator Erwin T. Tulfo** (asr-003010)  
 Sir, let me just ask you this question.
 
-**[02:45:21.800] Senator Erwin Tulfo** (asr-003011)  
+**[02:45:21.800] Senator Erwin T. Tulfo** (asr-003011)  
 What are the basis for these people
 
-**[02:45:24.080] Senator Erwin Tulfo** (asr-003012)  
+**[02:45:24.080] Senator Erwin T. Tulfo** (asr-003012)  
 to decide
 
-**[02:45:26.060] Senator Erwin Tulfo** (asr-003013)  
+**[02:45:26.060] Senator Erwin T. Tulfo** (asr-003013)  
 to retire in our country
 
-**[02:45:28.040] Senator Erwin Tulfo** (asr-003014)  
+**[02:45:28.040] Senator Erwin T. Tulfo** (asr-003014)  
 as foreigners?
 
-**[02:45:28.680] Senator Erwin Tulfo** (asr-003015)  
+**[02:45:28.680] Senator Erwin T. Tulfo** (asr-003015)  
 What do they base it on?
 
-**[02:45:35.520] Senator Erwin Tulfo** (asr-003016)  
+**[02:45:35.520] Senator Erwin T. Tulfo** (asr-003016)  
 Is it economy?
 
-**[02:45:37.240] Senator Erwin Tulfo** (asr-003017)  
+**[02:45:37.240] Senator Erwin T. Tulfo** (asr-003017)  
 Is it tourism infrastructure?
 
-**[02:45:40.100] Senator Erwin Tulfo** (asr-003018)  
+**[02:45:40.100] Senator Erwin T. Tulfo** (asr-003018)  
 Is it safety?
 
-**[02:45:42.640] Senator Erwin Tulfo** (asr-003019)  
+**[02:45:42.640] Senator Erwin T. Tulfo** (asr-003019)  
 Feeling safe na
 
-**[02:45:44.540] Senator Erwin Tulfo** (asr-003020)  
+**[02:45:44.540] Senator Erwin T. Tulfo** (asr-003020)  
 They will not be harmed
 
-**[02:45:46.140] Senator Erwin Tulfo** (asr-003021)  
+**[02:45:46.140] Senator Erwin T. Tulfo** (asr-003021)  
 while they're here in the country
 
-**[02:45:47.460] Senator Erwin Tulfo** (asr-003022)  
+**[02:45:47.460] Senator Erwin T. Tulfo** (asr-003022)  
 as they grow old?
 
-**[02:45:48.980] Senator Erwin Tulfo** (asr-003023)  
+**[02:45:48.980] Senator Erwin T. Tulfo** (asr-003023)  
 What is it?
 
-**[02:45:49.940] Senator Erwin Tulfo** (asr-003024)  
+**[02:45:49.940] Senator Erwin T. Tulfo** (asr-003024)  
 Or is it our beautiful women?
 
 **[02:45:53.340] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003025)  
@@ -8764,55 +8764,55 @@ The beautiful women
 **[02:45:56.980] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003027)  
 is being considered.
 
-**[02:45:57.780] Senator Erwin Tulfo** (asr-003028)  
+**[02:45:57.780] Senator Erwin T. Tulfo** (asr-003028)  
 I mean, it might sound like a joke,
 
-**[02:46:00.040] Senator Erwin Tulfo** (asr-003029)  
+**[02:46:00.040] Senator Erwin T. Tulfo** (asr-003029)  
 but what I'm saying, I'm proud of Filipinas.
 
 **[02:46:02.400] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003030)  
 Yes.
 
-**[02:46:02.820] Senator Erwin Tulfo** (asr-003031)  
+**[02:46:02.820] Senator Erwin T. Tulfo** (asr-003031)  
 Well, we have beautiful ladies.
 
-**[02:46:05.760] Senator Erwin Tulfo** (asr-003032)  
+**[02:46:05.760] Senator Erwin T. Tulfo** (asr-003032)  
 That's why we always win
 
-**[02:46:07.420] Senator Erwin Tulfo** (asr-003033)  
+**[02:46:07.420] Senator Erwin T. Tulfo** (asr-003033)  
 in the international beauty pageants.
 
 **[02:46:09.380] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003034)  
 Yes.
 
-**[02:46:09.800] Senator Erwin Tulfo** (asr-003035)  
+**[02:46:09.800] Senator Erwin T. Tulfo** (asr-003035)  
 Because we have beautiful women.
 
 **[02:46:11.940] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003036)  
 Yes, sir.
 
-**[02:46:12.280] Senator Erwin Tulfo** (asr-003037)  
+**[02:46:12.280] Senator Erwin T. Tulfo** (asr-003037)  
 Kaya nga, that's my question to you.
 
-**[02:46:14.440] Senator Erwin Tulfo** (asr-003038)  
+**[02:46:14.440] Senator Erwin T. Tulfo** (asr-003038)  
 Ano, which part of it?
 
-**[02:46:15.960] Senator Erwin Tulfo** (asr-003039)  
+**[02:46:15.960] Senator Erwin T. Tulfo** (asr-003039)  
 Is it safety?
 
-**[02:46:18.040] Senator Erwin Tulfo** (asr-003040)  
+**[02:46:18.040] Senator Erwin T. Tulfo** (asr-003040)  
 Is it mura, the economy
 
-**[02:46:20.180] Senator Erwin Tulfo** (asr-003041)  
+**[02:46:20.180] Senator Erwin T. Tulfo** (asr-003041)  
 that their money's worth?
 
-**[02:46:22.040] Senator Erwin Tulfo** (asr-003042)  
+**[02:46:22.040] Senator Erwin T. Tulfo** (asr-003042)  
 Is it tourism?
 
-**[02:46:24.540] Senator Erwin Tulfo** (asr-003043)  
+**[02:46:24.540] Senator Erwin T. Tulfo** (asr-003043)  
 I mean, good surroundings?
 
-**[02:46:26.540] Senator Erwin Tulfo** (asr-003044)  
+**[02:46:26.540] Senator Erwin T. Tulfo** (asr-003044)  
 What is it?
 
 **[02:46:27.780] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003045)  
@@ -8845,49 +8845,49 @@ is also a very important factor for them.
 **[02:46:45.300] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003054)  
 And all the others follow.
 
-**[02:46:47.520] Senator Erwin Tulfo** (asr-003055)  
+**[02:46:47.520] Senator Erwin T. Tulfo** (asr-003055)  
 Okay.
 
-**[02:46:48.420] Senator Erwin Tulfo** (asr-003056)  
+**[02:46:48.420] Senator Erwin T. Tulfo** (asr-003056)  
 My last question for you, sir.
 
 **[02:46:51.220] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003057)  
 Yes, sir.
 
-**[02:46:51.520] Senator Erwin Tulfo** (asr-003058)  
+**[02:46:51.520] Senator Erwin T. Tulfo** (asr-003058)  
 Is that in light of the Alice Guo case,
 
-**[02:46:57.780] Senator Erwin Tulfo** (asr-003059)  
+**[02:46:57.780] Senator Erwin T. Tulfo** (asr-003059)  
 broader concerns it raised regarding the entry
 
-**[02:47:00.020] Senator Erwin Tulfo** (asr-003060)  
+**[02:47:00.020] Senator Erwin T. Tulfo** (asr-003060)  
 and presence of foreign nationals in the Philippines,
 
-**[02:47:03.380] Senator Erwin Tulfo** (asr-003061)  
+**[02:47:03.380] Senator Erwin T. Tulfo** (asr-003061)  
 how do you monitor that these people are really legit?
 
-**[02:47:07.480] Senator Erwin Tulfo** (asr-003062)  
+**[02:47:07.480] Senator Erwin T. Tulfo** (asr-003062)  
 They're really retirees
 
-**[02:47:08.680] Senator Erwin Tulfo** (asr-003063)  
+**[02:47:08.680] Senator Erwin T. Tulfo** (asr-003063)  
 or probably they're just spies from other countries, sir.
 
-**[02:47:13.380] Senator Erwin Tulfo** (asr-003064)  
+**[02:47:13.380] Senator Erwin T. Tulfo** (asr-003064)  
 And how would you monitor that?
 
-**[02:47:16.020] Senator Erwin Tulfo** (asr-003065)  
+**[02:47:16.020] Senator Erwin T. Tulfo** (asr-003065)  
 Na hindi na tayo napapasok dito ng mga ikang spies
 
-**[02:47:23.380] Senator Erwin Tulfo** (asr-003066)  
+**[02:47:23.380] Senator Erwin T. Tulfo** (asr-003066)  
 in this country?
 
-**[02:47:24.500] Senator Erwin Tulfo** (asr-003067)  
+**[02:47:24.500] Senator Erwin T. Tulfo** (asr-003067)  
 Kasi binabaan pa natin yung retirement age.
 
 **[02:47:27.780] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003068)  
 Yeah.
 
-**[02:47:28.280] Senator Erwin Tulfo** (asr-003069)  
+**[02:47:28.280] Senator Erwin T. Tulfo** (asr-003069)  
 Go ahead.
 
 **[02:47:29.780] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003070)  
@@ -8992,40 +8992,40 @@ A list of new retirees that have availed of our retirement visa
 **[02:49:16.080] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003103)  
 is given to NICA for monitoring.
 
-**[02:49:19.080] Senator Erwin Tulfo** (asr-003104)  
+**[02:49:19.080] Senator Erwin T. Tulfo** (asr-003104)  
 How do they, how do you check their backgrounds?
 
-**[02:49:21.080] Senator Erwin Tulfo** (asr-003105)  
+**[02:49:21.080] Senator Erwin T. Tulfo** (asr-003105)  
 I mean, you can only check their backgrounds
 
-**[02:49:24.580] Senator Erwin Tulfo** (asr-003106)  
+**[02:49:24.580] Senator Erwin T. Tulfo** (asr-003106)  
 when they're already here or
 
-**[02:49:27.580] Senator Erwin Tulfo** (asr-003107)  
+**[02:49:27.580] Senator Erwin T. Tulfo** (asr-003107)  
 or kahit na nandoon pa sila in another country,
 
-**[02:49:29.080] Senator Erwin Tulfo** (asr-003108)  
+**[02:49:29.080] Senator Erwin T. Tulfo** (asr-003108)  
 in their own country.
 
-**[02:49:30.580] Senator Erwin Tulfo** (asr-003109)  
+**[02:49:30.580] Senator Erwin T. Tulfo** (asr-003109)  
 Is there a way to check it?
 
-**[02:49:32.580] Senator Erwin Tulfo** (asr-003110)  
+**[02:49:32.580] Senator Erwin T. Tulfo** (asr-003110)  
 Baka mamaya ito ay pedophile, itong retiree na ito.
 
-**[02:49:35.580] Senator Erwin Tulfo** (asr-003111)  
+**[02:49:35.580] Senator Erwin T. Tulfo** (asr-003111)  
 Itong retiree na ito ay may kasong murder.
 
-**[02:49:39.580] Senator Erwin Tulfo** (asr-003112)  
+**[02:49:39.580] Senator Erwin T. Tulfo** (asr-003112)  
 And then just want to retire or running away from their own laws.
 
-**[02:49:44.080] Senator Erwin Tulfo** (asr-003113)  
+**[02:49:44.080] Senator Erwin T. Tulfo** (asr-003113)  
 Baka wanted po yun.
 
-**[02:49:46.080] Senator Erwin Tulfo** (asr-003114)  
+**[02:49:46.080] Senator Erwin T. Tulfo** (asr-003114)  
 So how do you do that?
 
-**[02:49:48.080] Senator Erwin Tulfo** (asr-003115)  
+**[02:49:48.080] Senator Erwin T. Tulfo** (asr-003115)  
 How do you check?
 
 **[02:49:49.080] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003116)  
@@ -9046,88 +9046,88 @@ and it must be apostilled
 **[02:50:06.580] PRA General Manager and CEO Roberto Z. Zozobrado** (asr-003121)  
 to be sure that it's factual and correct.
 
-**[02:50:09.580] Senator Erwin Tulfo** (asr-003122)  
+**[02:50:09.580] Senator Erwin T. Tulfo** (asr-003122)  
 Alright, thank you, sir. Thank you, Mr. Sosobrado.
 
-**[02:50:13.580] Senator Erwin Tulfo** (asr-003123)  
+**[02:50:13.580] Senator Erwin T. Tulfo** (asr-003123)  
 Let me go to Yusec Azurin.
 
-**[02:50:15.580] Senator Erwin Tulfo** (asr-003124)  
+**[02:50:15.580] Senator Erwin T. Tulfo** (asr-003124)  
 Sir, anong ginagawa ninyo or what have you done?
 
-**[02:50:18.580] Senator Erwin Tulfo** (asr-003125)  
+**[02:50:18.580] Senator Erwin T. Tulfo** (asr-003125)  
 May adjustments? Itong pong mga Israeli sa Siargao,
 
-**[02:50:22.580] Senator Erwin Tulfo** (asr-003126)  
+**[02:50:22.580] Senator Erwin T. Tulfo** (asr-003126)  
 natapos na po ba yan?
 
-**[02:50:24.580] Senator Erwin Tulfo** (asr-003127)  
+**[02:50:24.580] Senator Erwin T. Tulfo** (asr-003127)  
 Yung mga, yung holdapan po sa
 
-**[02:50:27.580] Senator Erwin Tulfo** (asr-003128)  
+**[02:50:27.580] Senator Erwin T. Tulfo** (asr-003128)  
 El Nido.
 
-**[02:50:29.580] Senator Erwin Tulfo** (asr-003129)  
+**[02:50:29.580] Senator Erwin T. Tulfo** (asr-003129)  
 Dabagamat hindi naman foreigners ang in-hold up,
 
-**[02:50:31.580] Senator Erwin Tulfo** (asr-003130)  
+**[02:50:31.580] Senator Erwin T. Tulfo** (asr-003130)  
 kundi mga local community stores po doon.
 
-**[02:50:34.580] Senator Erwin Tulfo** (asr-003131)  
+**[02:50:34.580] Senator Erwin T. Tulfo** (asr-003131)  
 How do you step up yung security of our tourists?
 
-**[02:50:37.580] Senator Erwin Tulfo** (asr-003132)  
+**[02:50:37.580] Senator Erwin T. Tulfo** (asr-003132)  
 This is one of the reasons why medyo nagdadalawang isip sila.
 
-**[02:50:41.580] Senator Erwin Tulfo** (asr-003133)  
+**[02:50:41.580] Senator Erwin T. Tulfo** (asr-003133)  
 I'd rather go to Vietnam kasi medyo tahimik.
 
-**[02:50:45.580] Senator Erwin Tulfo** (asr-003134)  
+**[02:50:45.580] Senator Erwin T. Tulfo** (asr-003134)  
 I'd rather go, sasabihin, I'd rather go to Thailand, medyo safe doon.
 
-**[02:50:49.580] Senator Erwin Tulfo** (asr-003135)  
+**[02:50:49.580] Senator Erwin T. Tulfo** (asr-003135)  
 So how, how, what are you doing right now?
 
-**[02:50:53.580] Senator Erwin Tulfo** (asr-003136)  
+**[02:50:53.580] Senator Erwin T. Tulfo** (asr-003136)  
 Or what can be done?
 
-**[02:50:54.580] Senator Erwin Tulfo** (asr-003137)  
+**[02:50:54.580] Senator Erwin T. Tulfo** (asr-003137)  
 I mean, may nakikita akong tourist police,
 
-**[02:50:56.580] Senator Erwin Tulfo** (asr-003138)  
+**[02:50:56.580] Senator Erwin T. Tulfo** (asr-003138)  
 pero sa umaga lang.
 
-**[02:50:58.580] Senator Erwin Tulfo** (asr-003139)  
+**[02:50:58.580] Senator Erwin T. Tulfo** (asr-003139)  
 Sa gabi, when I go around sa mga island tourist destinations,
 
-**[02:51:04.580] Senator Erwin Tulfo** (asr-003140)  
+**[02:51:04.580] Senator Erwin T. Tulfo** (asr-003140)  
 parang nawawala na yung police natin sa umaga lang.
 
-**[02:51:07.580] Senator Erwin Tulfo** (asr-003141)  
+**[02:51:07.580] Senator Erwin T. Tulfo** (asr-003141)  
 Or dito sa Metro Manila, nakikita ko sa gabi, palakad-lakad sila.
 
-**[02:51:11.580] Senator Erwin Tulfo** (asr-003142)  
+**[02:51:11.580] Senator Erwin T. Tulfo** (asr-003142)  
 So anong adjustments ang ginagawa po ng DOT pertaining to this, to the safety?
 
-**[02:51:17.580] Senator Erwin Tulfo** (asr-003143)  
+**[02:51:17.580] Senator Erwin T. Tulfo** (asr-003143)  
 Kasi yung pang-una magiging concern eh.
 
-**[02:51:19.580] Senator Erwin Tulfo** (asr-003144)  
+**[02:51:19.580] Senator Erwin T. Tulfo** (asr-003144)  
 Will I, shall I bring my family to the Philippines?
 
-**[02:51:22.580] Senator Erwin Tulfo** (asr-003145)  
+**[02:51:22.580] Senator Erwin T. Tulfo** (asr-003145)  
 My wife and my two kids?
 
-**[02:51:24.580] Senator Erwin Tulfo** (asr-003146)  
+**[02:51:24.580] Senator Erwin T. Tulfo** (asr-003146)  
 Will it be safe if we go around the streets at night?
 
-**[02:51:28.580] Senator Erwin Tulfo** (asr-003147)  
+**[02:51:28.580] Senator Erwin T. Tulfo** (asr-003147)  
 In Boracay, in El Nido, in wherever?
 
-**[02:51:33.580] Senator Erwin Tulfo** (asr-003148)  
+**[02:51:33.580] Senator Erwin T. Tulfo** (asr-003148)  
 Will it be safe?
 
-**[02:51:35.580] Senator Erwin Tulfo** (asr-003149)  
+**[02:51:35.580] Senator Erwin T. Tulfo** (asr-003149)  
 Ano ang programa nyo rito, Yusek Azurin?
 
 **[02:51:40.580] DOT Undersecretary Rodolfo Azurin Jr.** (asr-003150)  
@@ -9238,49 +9238,49 @@ so that we can brief any embassies, sir,
 **[02:54:27.580] DOT Undersecretary Rodolfo Azurin Jr.** (asr-003185)  
 with respect sa mga travel advisories, sir, na ini-issue po nila, sir.
 
-**[02:54:31.580] Senator Erwin Tulfo** (asr-003186)  
+**[02:54:31.580] Senator Erwin T. Tulfo** (asr-003186)  
 Have you or are you looking into this?
 
-**[02:54:35.580] Senator Erwin Tulfo** (asr-003187)  
+**[02:54:35.580] Senator Erwin T. Tulfo** (asr-003187)  
 Sa TripAdvisor po,
 
-**[02:54:37.580] Senator Erwin Tulfo** (asr-003188)  
+**[02:54:37.580] Senator Erwin T. Tulfo** (asr-003188)  
 pag tinype mo Intramuros, nakalagay po doon scam.
 
-**[02:54:41.580] Senator Erwin Tulfo** (asr-003189)  
+**[02:54:41.580] Senator Erwin T. Tulfo** (asr-003189)  
 How are we going to resolve that?
 
-**[02:54:44.580] Senator Erwin Tulfo** (asr-003190)  
+**[02:54:44.580] Senator Erwin T. Tulfo** (asr-003190)  
 So kung ako ang turista, hindi pa ako nakapunta sa Intramuros,
 
-**[02:54:47.580] Senator Erwin Tulfo** (asr-003191)  
+**[02:54:47.580] Senator Erwin T. Tulfo** (asr-003191)  
 narinig ko lang sa office mate ko,
 
-**[02:54:49.580] Senator Erwin Tulfo** (asr-003192)  
+**[02:54:49.580] Senator Erwin T. Tulfo** (asr-003192)  
 ah, it's beautiful there.
 
-**[02:54:51.580] Senator Erwin Tulfo** (asr-003193)  
+**[02:54:51.580] Senator Erwin T. Tulfo** (asr-003193)  
 So na-type ko, diba, alam mo naman yung mga foreigner.
 
-**[02:54:54.580] Senator Erwin Tulfo** (asr-003194)  
+**[02:54:54.580] Senator Erwin T. Tulfo** (asr-003194)  
 Intramuros.
 
-**[02:54:56.580] Senator Erwin Tulfo** (asr-003195)  
+**[02:54:56.580] Senator Erwin T. Tulfo** (asr-003195)  
 Lalabas po doon mga scam.
 
-**[02:54:58.580] Senator Erwin Tulfo** (asr-003196)  
+**[02:54:58.580] Senator Erwin T. Tulfo** (asr-003196)  
 Na-scam sila sa tricycle, na-scam sila sa kalesa,
 
-**[02:55:02.580] Senator Erwin Tulfo** (asr-003197)  
+**[02:55:02.580] Senator Erwin T. Tulfo** (asr-003197)  
 overcharge sila, etc.
 
-**[02:55:04.580] Senator Erwin Tulfo** (asr-003198)  
+**[02:55:04.580] Senator Erwin T. Tulfo** (asr-003198)  
 Mate-turn off ako,
 
-**[02:55:06.580] Senator Erwin Tulfo** (asr-003199)  
+**[02:55:06.580] Senator Erwin T. Tulfo** (asr-003199)  
 how are we addressing this issue na itong mga scam na ito na,
 
-**[02:55:11.580] Senator Erwin Tulfo** (asr-003200)  
+**[02:55:11.580] Senator Erwin T. Tulfo** (asr-003200)  
 sa lahat pa naman ng lugar, itong Intramuros pa?
 
 **[02:55:14.580] DOT Undersecretary Rodolfo Azurin Jr.** (asr-003201)  
@@ -9382,160 +9382,160 @@ So, these are the things, sir, na hindi ho issue ng DOT
 **[02:57:21.580] DOT Undersecretary Rodolfo Azurin Jr.** (asr-003233)  
 pero concerned ng DOT because it affects yung mga foreign tourists.
 
-**[02:57:26.580] Senator Erwin Tulfo** (asr-003234)  
+**[02:57:26.580] Senator Erwin T. Tulfo** (asr-003234)  
 Tama. Dapat bago mo bigyan ng business permit, dapat make sure na safe po yun, di po ba?
 
-**[02:57:32.580] Senator Erwin Tulfo** (asr-003235)  
+**[02:57:32.580] Senator Erwin T. Tulfo** (asr-003235)  
 Yung mga nakikita po ako, DOT accredited, pinapaskil sa mga negosyo.
 
-**[02:57:36.580] Senator Erwin Tulfo** (asr-003236)  
+**[02:57:36.580] Senator Erwin T. Tulfo** (asr-003236)  
 Ewan ko, talagang DOT accredited.
 
-**[02:57:38.580] Senator Erwin Tulfo** (asr-003237)  
+**[02:57:38.580] Senator Erwin T. Tulfo** (asr-003237)  
 May mga restaurant na akong nakikita, DOT accredited, pero madumi pa.
 
-**[02:57:42.580] Senator Erwin Tulfo** (asr-003238)  
+**[02:57:42.580] Senator Erwin T. Tulfo** (asr-003238)  
 Parang mas marami yung langaw kaysa sa tao.
 
-**[02:57:45.580] Senator Erwin Tulfo** (asr-003239)  
+**[02:57:45.580] Senator Erwin T. Tulfo** (asr-003239)  
 So, paano maging DOT accredited yun?
 
-**[02:57:48.580] Senator Erwin Tulfo** (asr-003240)  
+**[02:57:48.580] Senator Erwin T. Tulfo** (asr-003240)  
 Papupunta ka ng paliguan, pagkakalagay ka, DOT accredited yung beach.
 
-**[02:57:53.580] Senator Erwin Tulfo** (asr-003241)  
+**[02:57:53.580] Senator Erwin T. Tulfo** (asr-003241)  
 Diyos ko po, hindi mong alam kung saan mo isasampay yung damit mo.
 
-**[02:57:57.580] Senator Erwin Tulfo** (asr-003242)  
+**[02:57:57.580] Senator Erwin T. Tulfo** (asr-003242)  
 Kailangan mo pumunta sa ilalim ng puno ng nyug, doon mo ilagay yung mga damit mo.
 
-**[02:58:01.580] Senator Erwin Tulfo** (asr-003243)  
+**[02:58:01.580] Senator Erwin T. Tulfo** (asr-003243)  
 How can that be DOT accredited?
 
-**[02:58:03.580] Senator Erwin Tulfo** (asr-003244)  
+**[02:58:03.580] Senator Erwin T. Tulfo** (asr-003244)  
 Kaya I believe we really have to check on, Secretary Dita.
 
-**[02:58:07.580] Senator Erwin Tulfo** (asr-003245)  
+**[02:58:07.580] Senator Erwin T. Tulfo** (asr-003245)  
 Hindi lang ito dapat maging concern ng local government unit.
 
-**[02:58:11.580] Senator Erwin Tulfo** (asr-003246)  
+**[02:58:11.580] Senator Erwin T. Tulfo** (asr-003246)  
 Dapat din kasama kayo.
 
-**[02:58:14.580] Senator Erwin Tulfo** (asr-003247)  
+**[02:58:14.580] Senator Erwin T. Tulfo** (asr-003247)  
 To make sure, yung inyong mga regional offices, provincial offices, na talagang nagkukumply.
 
-**[02:58:19.580] Senator Erwin Tulfo** (asr-003248)  
+**[02:58:19.580] Senator Erwin T. Tulfo** (asr-003248)  
 When you say DOT accredited, kasi nakakahiya po eh.
 
-**[02:58:22.580] Senator Erwin Tulfo** (asr-003249)  
+**[02:58:22.580] Senator Erwin T. Tulfo** (asr-003249)  
 Mga hotes, nakalagay, DOT accredited.
 
-**[02:58:24.580] Senator Erwin Tulfo** (asr-003250)  
+**[02:58:24.580] Senator Erwin T. Tulfo** (asr-003250)  
 Pag bukas mo ng tubig, kalawang yung lumalabas.
 
-**[02:58:27.580] Senator Erwin Tulfo** (asr-003251)  
+**[02:58:27.580] Senator Erwin T. Tulfo** (asr-003251)  
 Hindi mo makaligo, yung kama may surot.
 
-**[02:58:30.580] Senator Erwin Tulfo** (asr-003252)  
+**[02:58:30.580] Senator Erwin T. Tulfo** (asr-003252)  
 Sabi ko dito, may pinuntahan po kami nung kampanya.
 
-**[02:58:33.580] Senator Erwin Tulfo** (asr-003253)  
+**[02:58:33.580] Senator Erwin T. Tulfo** (asr-003253)  
 Sabi, DOT accredited. Sabi ko, maganda ito, DOT.
 
-**[02:58:36.580] Senator Erwin Tulfo** (asr-003254)  
+**[02:58:36.580] Senator Erwin T. Tulfo** (asr-003254)  
 Pag gising ko yung nabukasan, kamot ako ng kamot dahil ang dami kong kagat ng surot.
 
-**[02:58:40.580] Senator Erwin Tulfo** (asr-003255)  
+**[02:58:40.580] Senator Erwin T. Tulfo** (asr-003255)  
 How can that be DOT accredited?
 
-**[02:58:42.580] Senator Erwin Tulfo** (asr-003256)  
+**[02:58:42.580] Senator Erwin T. Tulfo** (asr-003256)  
 Huwag mo tayong basta bigay ng bigay.
 
-**[02:58:45.580] Senator Erwin Tulfo** (asr-003257)  
+**[02:58:45.580] Senator Erwin T. Tulfo** (asr-003257)  
 Siguro, responsibilidad po yan sa mga regional level natin, provincial,
 
-**[02:58:51.580] Senator Erwin Tulfo** (asr-003258)  
+**[02:58:51.580] Senator Erwin T. Tulfo** (asr-003258)  
 to make sure, daanan po siguro.
 
-**[02:58:53.580] Senator Erwin Tulfo** (asr-003259)  
+**[02:58:53.580] Senator Erwin T. Tulfo** (asr-003259)  
 Na-accredit ka this year, next year baka hindi ka na-accredit
 
-**[02:58:57.580] Senator Erwin Tulfo** (asr-003260)  
+**[02:58:57.580] Senator Erwin T. Tulfo** (asr-003260)  
 kasi pangit na yung services mo, di po ba?
 
-**[02:59:00.580] Senator Erwin Tulfo** (asr-003261)  
+**[02:59:00.580] Senator Erwin T. Tulfo** (asr-003261)  
 Dilapidated yung hotel, DOT accredited pero maka dilapidated.
 
-**[02:59:04.580] Senator Erwin Tulfo** (asr-003262)  
+**[02:59:04.580] Senator Erwin T. Tulfo** (asr-003262)  
 Walang pintura, tumutulo yung bubong. Nakakahiya naman.
 
-**[02:59:08.580] Senator Erwin Tulfo** (asr-003263)  
+**[02:59:08.580] Senator Erwin T. Tulfo** (asr-003263)  
 I mean, when you give that thumbs up that this is DOT accredited facility,
 
-**[02:59:13.580] Senator Erwin Tulfo** (asr-003264)  
+**[02:59:13.580] Senator Erwin T. Tulfo** (asr-003264)  
 make sure na hindi naman po kahiyahiya.
 
-**[02:59:16.580] Senator Erwin Tulfo** (asr-003265)  
+**[02:59:16.580] Senator Erwin T. Tulfo** (asr-003265)  
 Kasi yung turismo po natin bit-bit ho noon, kahit sa province yun.
 
-**[02:59:22.580] Senator Erwin Tulfo** (asr-003266)  
+**[02:59:22.580] Senator Erwin T. Tulfo** (asr-003266)  
 So, well, anyway, thank you for that briefing, short briefing, Yusek Azurin.
 
-**[02:59:29.580] Senator Erwin Tulfo** (asr-003267)  
+**[02:59:29.580] Senator Erwin T. Tulfo** (asr-003267)  
 Pero we really have to step up.
 
-**[02:59:31.580] Senator Erwin Tulfo** (asr-003268)  
+**[02:59:31.580] Senator Erwin T. Tulfo** (asr-003268)  
 I believe I have spoken, when I was the chairman of the Committee on Foreign Relations,
 
-**[02:59:35.580] Senator Erwin Tulfo** (asr-003269)  
+**[02:59:35.580] Senator Erwin T. Tulfo** (asr-003269)  
 I've spoken to several ambassadors.
 
-**[02:59:37.580] Senator Erwin Tulfo** (asr-003270)  
+**[02:59:37.580] Senator Erwin T. Tulfo** (asr-003270)  
 This is one of the reasons why, when I asked them,
 
-**[02:59:41.580] Senator Erwin Tulfo** (asr-003271)  
+**[02:59:41.580] Senator Erwin T. Tulfo** (asr-003271)  
 what do we need to bring in more tourists from your country?
 
-**[02:59:46.580] Senator Erwin Tulfo** (asr-003272)  
+**[02:59:46.580] Senator Erwin T. Tulfo** (asr-003272)  
 Ang sagot sa akin, peace and order. It's always peace and order.
 
-**[02:59:50.580] Senator Erwin Tulfo** (asr-003273)  
+**[02:59:50.580] Senator Erwin T. Tulfo** (asr-003273)  
 Na-scam, yung iba nanakawan, yung iba sobrang managa ng mga pamasahin.
 
-**[03:00:00.000] Senator Erwin Tulfo** (asr-003274)  
+**[03:00:00.000] Senator Erwin T. Tulfo** (asr-003274)  
 tricycle, bangka
 
-**[03:00:01.840] Senator Erwin Tulfo** (asr-003275)  
+**[03:00:01.840] Senator Erwin T. Tulfo** (asr-003275)  
 kahit dito lang po sa Metro Manila,
 
-**[03:00:03.780] Senator Erwin Tulfo** (asr-003276)  
+**[03:00:03.780] Senator Erwin T. Tulfo** (asr-003276)  
 sa NAIA na lang po agad,
 
-**[03:00:05.040] Senator Erwin Tulfo** (asr-003277)  
+**[03:00:05.040] Senator Erwin T. Tulfo** (asr-003277)  
 grabe yung overcharging there
 
-**[03:00:07.500] Senator Erwin Tulfo** (asr-003278)  
+**[03:00:07.500] Senator Erwin T. Tulfo** (asr-003278)  
 so we have to take a closer look
 
-**[03:00:09.620] Senator Erwin Tulfo** (asr-003279)  
+**[03:00:09.620] Senator Erwin T. Tulfo** (asr-003279)  
 how can we
 
-**[03:00:10.960] Senator Erwin Tulfo** (asr-003280)  
+**[03:00:10.960] Senator Erwin T. Tulfo** (asr-003280)  
 invite these people
 
-**[03:00:13.900] Senator Erwin Tulfo** (asr-003281)  
+**[03:00:13.900] Senator Erwin T. Tulfo** (asr-003281)  
 kung syempre may problema
 
-**[03:00:16.020] Senator Erwin Tulfo** (asr-003282)  
+**[03:00:16.020] Senator Erwin T. Tulfo** (asr-003282)  
 tayo doon sa
 
-**[03:00:17.680] Senator Erwin Tulfo** (asr-003283)  
+**[03:00:17.680] Senator Erwin T. Tulfo** (asr-003283)  
 safety facilities
 
-**[03:00:19.840] Senator Erwin Tulfo** (asr-003284)  
+**[03:00:19.840] Senator Erwin T. Tulfo** (asr-003284)  
 po natin
 
-**[03:00:20.700] Senator Erwin Tulfo** (asr-003285)  
+**[03:00:20.700] Senator Erwin T. Tulfo** (asr-003285)  
 I mean, medyo hindi ho kagandahan, di ba?
 
 **[03:00:24.840] DOT Secretary Dita Angara-Mathay** (asr-003286)  
@@ -9580,10 +9580,10 @@ upgrade po yung accreditation and standard
 **[03:00:50.240] DOT Secretary Dita Angara-Mathay** (asr-003299)  
 so if I kindly can
 
-**[03:00:52.160] Senator Erwin Tulfo** (asr-003300)  
+**[03:00:52.160] Senator Erwin T. Tulfo** (asr-003300)  
 Quickly lang po, Asec. Go ahead.
 
-**[03:00:54.340] Senator Erwin Tulfo** (asr-003301)  
+**[03:00:54.340] Senator Erwin T. Tulfo** (asr-003301)  
 what have you been doing?
 
 **[03:00:55.980] DOT Assistant Secretary Maria Christina G. Aquino** (asr-003302)  
@@ -9712,142 +9712,142 @@ are going to be registering
 **[03:02:16.840] DOT Assistant Secretary Maria Christina G. Aquino** (asr-003343)  
 with the local government units.
 
-**[03:02:18.840] Senator Erwin Tulfo** (asr-003344)  
+**[03:02:18.840] Senator Erwin T. Tulfo** (asr-003344)  
 Thank you for that explanation.
 
-**[03:02:20.840] Senator Erwin Tulfo** (asr-003345)  
+**[03:02:20.840] Senator Erwin T. Tulfo** (asr-003345)  
 Anyway,
 
-**[03:02:22.840] Senator Erwin Tulfo** (asr-003346)  
+**[03:02:22.840] Senator Erwin T. Tulfo** (asr-003346)  
 we will be forwarding our
 
-**[03:02:24.840] Senator Erwin Tulfo** (asr-003347)  
+**[03:02:24.840] Senator Erwin T. Tulfo** (asr-003347)  
 questions to this committee
 
-**[03:02:26.840] Senator Erwin Tulfo** (asr-003348)  
+**[03:02:26.840] Senator Erwin T. Tulfo** (asr-003348)  
 for DOT and its
 
-**[03:02:28.840] Senator Erwin Tulfo** (asr-003349)  
+**[03:02:28.840] Senator Erwin T. Tulfo** (asr-003349)  
 attached agencies. We hope
 
-**[03:02:30.840] Senator Erwin Tulfo** (asr-003350)  
+**[03:02:30.840] Senator Erwin T. Tulfo** (asr-003350)  
 the respective agencies can timely address
 
-**[03:02:32.840] Senator Erwin Tulfo** (asr-003351)  
+**[03:02:32.840] Senator Erwin T. Tulfo** (asr-003351)  
 these concerns
 
-**[03:02:34.840] Senator Erwin Tulfo** (asr-003352)  
+**[03:02:34.840] Senator Erwin T. Tulfo** (asr-003352)  
 so that we can be fully prepared
 
-**[03:02:36.840] Senator Erwin Tulfo** (asr-003353)  
+**[03:02:36.840] Senator Erwin T. Tulfo** (asr-003353)  
 to defend the DOT's budget
 
-**[03:02:38.840] Senator Erwin Tulfo** (asr-003354)  
+**[03:02:38.840] Senator Erwin T. Tulfo** (asr-003354)  
 next month, I
 
-**[03:02:40.840] Senator Erwin Tulfo** (asr-003355)  
+**[03:02:40.840] Senator Erwin T. Tulfo** (asr-003355)  
 think October-November
 
-**[03:02:42.840] Senator Erwin Tulfo** (asr-003356)  
+**[03:02:42.840] Senator Erwin T. Tulfo** (asr-003356)  
 in the plenary.
 
-**[03:02:44.460] Senator Erwin Tulfo** (asr-003357)  
+**[03:02:44.460] Senator Erwin T. Tulfo** (asr-003357)  
 Kasi pag hindi po natin na-defend yan,
 
-**[03:02:46.520] Senator Erwin Tulfo** (asr-003358)  
+**[03:02:46.520] Senator Erwin T. Tulfo** (asr-003358)  
 how can we convince the BICAM
 
-**[03:02:48.840] Senator Erwin Tulfo** (asr-003359)  
+**[03:02:48.840] Senator Erwin T. Tulfo** (asr-003359)  
 na dagdagan ang budget ninyo?
 
-**[03:02:51.200] Senator Erwin Tulfo** (asr-003360)  
+**[03:02:51.200] Senator Erwin T. Tulfo** (asr-003360)  
 Na kasi
 
-**[03:02:52.860] Senator Erwin Tulfo** (asr-003361)  
+**[03:02:52.860] Senator Erwin T. Tulfo** (asr-003361)  
 there are instances po pag hindi nasagot,
 
-**[03:02:54.980] Senator Erwin Tulfo** (asr-003362)  
+**[03:02:54.980] Senator Erwin T. Tulfo** (asr-003362)  
 nababawasan po yung budget.
 
-**[03:02:56.640] Senator Erwin Tulfo** (asr-003363)  
+**[03:02:56.640] Senator Erwin T. Tulfo** (asr-003363)  
 So I expect that each
 
-**[03:02:58.140] Senator Erwin Tulfo** (asr-003364)  
+**[03:02:58.140] Senator Erwin T. Tulfo** (asr-003364)  
 agency under DOT and DOT
 
-**[03:03:00.760] Senator Erwin Tulfo** (asr-003365)  
+**[03:03:00.760] Senator Erwin T. Tulfo** (asr-003365)  
 itself will be able to
 
-**[03:03:04.840] Senator Erwin Tulfo** (asr-003366)  
+**[03:03:04.840] Senator Erwin T. Tulfo** (asr-003366)  
 timely address all these questions
 
-**[03:03:06.940] Senator Erwin Tulfo** (asr-003367)  
+**[03:03:06.940] Senator Erwin T. Tulfo** (asr-003367)  
 Para when we go there on the
 
-**[03:03:08.420] Senator Erwin Tulfo** (asr-003368)  
+**[03:03:08.420] Senator Erwin T. Tulfo** (asr-003368)  
 floor, on the plenary,
 
-**[03:03:10.280] Senator Erwin Tulfo** (asr-003369)  
+**[03:03:10.280] Senator Erwin T. Tulfo** (asr-003369)  
 kasi hindi lang po ang
 
-**[03:03:12.880] Senator Erwin Tulfo** (asr-003370)  
+**[03:03:12.880] Senator Erwin T. Tulfo** (asr-003370)  
 majority po nandoon.
 
-**[03:03:14.200] Senator Erwin Tulfo** (asr-003371)  
+**[03:03:14.200] Senator Erwin T. Tulfo** (asr-003371)  
 May mga minority po tayo. They'll be asking questions.
 
-**[03:03:17.060] Senator Erwin Tulfo** (asr-003372)  
+**[03:03:17.060] Senator Erwin T. Tulfo** (asr-003372)  
 Sila po yung very critical,
 
-**[03:03:18.680] Senator Erwin Tulfo** (asr-003373)  
+**[03:03:18.680] Senator Erwin T. Tulfo** (asr-003373)  
 which is their job.
 
-**[03:03:20.840] Senator Erwin Tulfo** (asr-003374)  
+**[03:03:20.840] Senator Erwin T. Tulfo** (asr-003374)  
 So I just want to remind everybody
 
-**[03:03:22.840] Senator Erwin Tulfo** (asr-003375)  
+**[03:03:22.840] Senator Erwin T. Tulfo** (asr-003375)  
 to be prepared when we go there.
 
-**[03:03:24.840] Senator Erwin Tulfo** (asr-003376)  
+**[03:03:24.840] Senator Erwin T. Tulfo** (asr-003376)  
 So if we have questions,
 
-**[03:03:26.840] Senator Erwin Tulfo** (asr-003377)  
+**[03:03:26.840] Senator Erwin T. Tulfo** (asr-003377)  
 this committee, please send your
 
-**[03:03:28.840] Senator Erwin Tulfo** (asr-003378)  
+**[03:03:28.840] Senator Erwin T. Tulfo** (asr-003378)  
 answers immediately so that
 
-**[03:03:30.840] Senator Erwin Tulfo** (asr-003379)  
+**[03:03:30.840] Senator Erwin T. Tulfo** (asr-003379)  
 I can answer this because
 
-**[03:03:32.840] Senator Erwin Tulfo** (asr-003380)  
+**[03:03:32.840] Senator Erwin T. Tulfo** (asr-003380)  
 I'll be the one defending your budget.
 
-**[03:03:34.840] Senator Erwin Tulfo** (asr-003381)  
+**[03:03:34.840] Senator Erwin T. Tulfo** (asr-003381)  
 You'll be behind me
 
-**[03:03:36.840] Senator Erwin Tulfo** (asr-003382)  
+**[03:03:36.840] Senator Erwin T. Tulfo** (asr-003382)  
 so I'll be the one to answer
 
-**[03:03:38.840] Senator Erwin Tulfo** (asr-003383)  
+**[03:03:38.840] Senator Erwin T. Tulfo** (asr-003383)  
 all these questions.
 
-**[03:03:40.840] Senator Erwin Tulfo** (asr-003384)  
+**[03:03:40.840] Senator Erwin T. Tulfo** (asr-003384)  
 Well, there being
 
-**[03:03:42.840] Senator Erwin Tulfo** (asr-003385)  
+**[03:03:42.840] Senator Erwin T. Tulfo** (asr-003385)  
 no other questions,
 
-**[03:03:44.840] Senator Erwin Tulfo** (asr-003386)  
+**[03:03:44.840] Senator Erwin T. Tulfo** (asr-003386)  
 the fiscal year 2027
 
-**[03:03:46.840] Senator Erwin Tulfo** (asr-003387)  
+**[03:03:46.840] Senator Erwin T. Tulfo** (asr-003387)  
 proposed budget of DOT and its
 
-**[03:03:48.840] Senator Erwin Tulfo** (asr-003388)  
+**[03:03:48.840] Senator Erwin T. Tulfo** (asr-003388)  
 attached agencies and corporations
 
-**[03:03:50.840] Senator Erwin Tulfo** (asr-003389)  
+**[03:03:50.840] Senator Erwin T. Tulfo** (asr-003389)  
 is deemed submitted for plenary consideration.
 
 **[03:03:54.840] DOT Secretary Dita Angara-Mathay** (asr-003390)  
@@ -9889,33 +9889,33 @@ sir, we have a full compliment.
 **[03:04:18.500] DOT Secretary Dita Angara-Mathay** (asr-003402)  
 I know. Stand everyone please.
 
-**[03:04:22.300] Senator Erwin Tulfo** (asr-003403)  
+**[03:04:22.300] Senator Erwin T. Tulfo** (asr-003403)  
 I know.
 
-**[03:04:24.300] Senator Erwin Tulfo** (asr-003404)  
+**[03:04:24.300] Senator Erwin T. Tulfo** (asr-003404)  
 I have seen it.
 
-**[03:04:26.840] Senator Erwin Tulfo** (asr-003405)  
+**[03:04:26.840] Senator Erwin T. Tulfo** (asr-003405)  
 I mean, I think
 
-**[03:04:28.840] Senator Erwin Tulfo** (asr-003406)  
+**[03:04:28.840] Senator Erwin T. Tulfo** (asr-003406)  
 you?re the third, fourth agency
 
-**[03:04:30.840] Senator Erwin Tulfo** (asr-003407)  
+**[03:04:30.840] Senator Erwin T. Tulfo** (asr-003407)  
 that made a budget hearing
 
-**[03:04:32.840] Senator Erwin Tulfo** (asr-003408)  
+**[03:04:32.840] Senator Erwin T. Tulfo** (asr-003408)  
 and ito po yung pinakamarami na nakita ko.
 
-**[03:04:34.840] Senator Erwin Tulfo** (asr-003409)  
+**[03:04:34.840] Senator Erwin T. Tulfo** (asr-003409)  
 So thank you also. Thank you,
 
-**[03:04:36.720] Senator Erwin Tulfo** (asr-003410)  
+**[03:04:36.720] Senator Erwin T. Tulfo** (asr-003410)  
 Secretary.
 
-**[03:04:38.320] Senator Erwin Tulfo** (asr-003411)  
+**[03:04:38.320] Senator Erwin T. Tulfo** (asr-003411)  
 Anyway, this budget briefing is hereby suspended.
 
-**[03:04:40.840] Senator Erwin Tulfo** (asr-003412)  
+**[03:04:40.840] Senator Erwin T. Tulfo** (asr-003412)  
 Maraming salamat po at magandang hapon.
 

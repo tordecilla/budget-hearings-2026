@@ -172,7 +172,7 @@ thank you our Senate President Pro Tempore
 **[00:23:42.310] Senator Joseph Victor "JV" G. Ejercito** (asr-000055)  
 Next is Senator Panfilo Lacson.
 
-**[00:23:43.730] Senator Panfilo Lacson** (asr-000056)  
+**[00:23:43.730] Senator Panfilo "Ping" M. Lacson** (asr-000056)  
 nothing from this representation your honor
 
 **[00:23:47.130] Senator Joseph Victor "JV" G. Ejercito** (asr-000057)  
@@ -1180,82 +1180,82 @@ Thank you.
 **[00:49:14.900] Senator Joseph Victor "JV" G. Ejercito** (asr-000408)  
 Next to us, Senator Panfilo Ping-Lakson.
 
-**[00:49:18.320] Senator Panfilo Lacson** (asr-000409)  
+**[00:49:18.320] Senator Panfilo "Ping" M. Lacson** (asr-000409)  
 Thank you, Mr. Chairman.
 
-**[00:49:19.820] Senator Panfilo Lacson** (asr-000410)  
+**[00:49:19.820] Senator Panfilo "Ping" M. Lacson** (asr-000410)  
 First to address the concern raised by the Senate President Pro Temp.
 
-**[00:49:23.740] Senator Panfilo Lacson** (asr-000411)  
+**[00:49:23.740] Senator Panfilo "Ping" M. Lacson** (asr-000411)  
 I actually filed Senate Bill No. 2394.
 
-**[00:49:27.680] Senator Panfilo Lacson** (asr-000412)  
+**[00:49:27.680] Senator Panfilo "Ping" M. Lacson** (asr-000412)  
 What I just filed is for the Ombudsman's Marshal Service.
 
-**[00:49:31.480] Senator Panfilo Lacson** (asr-000413)  
+**[00:49:31.480] Senator Panfilo "Ping" M. Lacson** (asr-000413)  
 This is to amend Section 15 of the Ombudsman Law.
 
-**[00:49:34.920] Senator Panfilo Lacson** (asr-000414)  
+**[00:49:34.920] Senator Panfilo "Ping" M. Lacson** (asr-000414)  
 Ang tawag natin doon sa kanilang law enforcement service is Ombudsman Marshal Service.
 
-**[00:49:41.120] Senator Panfilo Lacson** (asr-000415)  
+**[00:49:41.120] Senator Panfilo "Ping" M. Lacson** (asr-000415)  
 I already mentioned there's a request for PS in the amount of 163.68 million Pesos and
 
-**[00:49:53.180] Senator Panfilo Lacson** (asr-000416)  
+**[00:49:53.180] Senator Panfilo "Ping" M. Lacson** (asr-000416)  
 and another 3.799 million para sa MOOE.
 
-**[00:49:54.680] Senator Panfilo Lacson** (asr-000417)  
+**[00:49:54.680] Senator Panfilo "Ping" M. Lacson** (asr-000417)  
 This is for 2027.
 
-**[00:49:55.620] Senator Panfilo Lacson** (asr-000418)  
+**[00:49:55.620] Senator Panfilo "Ping" M. Lacson** (asr-000418)  
 And
 
-**[00:49:56.580] Senator Panfilo Lacson** (asr-000419)  
+**[00:49:56.580] Senator Panfilo "Ping" M. Lacson** (asr-000419)  
 the chairman
 
-**[00:49:57.520] Senator Panfilo Lacson** (asr-000420)  
+**[00:49:57.520] Senator Panfilo "Ping" M. Lacson** (asr-000420)  
 has already whispered to me that approve na raw yung inyong request. Bahala na kami maghanap kung saan kukuha ng pangre-realign. Actually,
 
-**[00:50:12.480] Senator Panfilo Lacson** (asr-000421)  
+**[00:50:12.480] Senator Panfilo "Ping" M. Lacson** (asr-000421)  
 for information also in 2021 when the judicial marshal of the judiciary
 
-**[00:50:20.560] Senator Panfilo Lacson** (asr-000422)  
+**[00:50:20.560] Senator Panfilo "Ping" M. Lacson** (asr-000422)  
 under the supreme court was not yet passed i already realigned or augmented their budget
 
-**[00:50:26.560] Senator Panfilo Lacson** (asr-000423)  
+**[00:50:26.560] Senator Panfilo "Ping" M. Lacson** (asr-000423)  
 by 50 million and so doing at least item we can easily realign or augment no from the special
 
-**[00:50:34.880] Senator Panfilo Lacson** (asr-000424)  
+**[00:50:34.880] Senator Panfilo "Ping" M. Lacson** (asr-000424)  
 purpose fund allowed namanian of course uh in the pala under the office of the president because he
 
-**[00:50:41.120] Senator Panfilo Lacson** (asr-000425)  
+**[00:50:41.120] Senator Panfilo "Ping" M. Lacson** (asr-000425)  
 constitutional body kayo so you can align your budget to augment at least as long as there is
 
-**[00:50:49.760] Senator Panfilo Lacson** (asr-000426)  
+**[00:50:49.760] Senator Panfilo "Ping" M. Lacson** (asr-000426)  
 an item in the budget and the ombudsman ombudsman boying knows this very well having come from the
 
-**[00:50:57.120] Senator Panfilo Lacson** (asr-000427)  
+**[00:50:57.120] Senator Panfilo "Ping" M. Lacson** (asr-000427)  
 house of representatives now my my question is moving on of the 12.796 billion uh originally
 
-**[00:51:06.800] Senator Panfilo Lacson** (asr-000428)  
+**[00:51:06.800] Senator Panfilo "Ping" M. Lacson** (asr-000428)  
 proposed by the Ombudsman, ang ni-recommend lang ng DBM na nakasama sa NEP ay 7.3 billion, with a massive cut ito, 43.5 [unclear].
 
-**[00:51:18.000] Senator Panfilo Lacson** (asr-000429)  
+**[00:51:18.000] Senator Panfilo "Ping" M. Lacson** (asr-000429)  
 now my question is what specific paps will be sacrificed because of the cuts
 
-**[00:51:26.640] Senator Panfilo Lacson** (asr-000430)  
+**[00:51:26.640] Senator Panfilo "Ping" M. Lacson** (asr-000430)  
 And sundan ko na lang ng follow-up question. In their order of priorities, what PAPs do you think ang masasacrifice na
 
-**[00:51:42.600] Senator Panfilo Lacson** (asr-000431)  
+**[00:51:42.600] Senator Panfilo "Ping" M. Lacson** (asr-000431)  
 magha-hamper ng inyong investigative
 
-**[00:51:45.320] Senator Panfilo Lacson** (asr-000432)  
+**[00:51:45.320] Senator Panfilo "Ping" M. Lacson** (asr-000432)  
 function sa anti-corruption drive
 
-**[00:51:50.680] Senator Panfilo Lacson** (asr-000433)  
+**[00:51:50.680] Senator Panfilo "Ping" M. Lacson** (asr-000433)  
 kung hindi mare-restore?
 
-**[00:51:54.420] Senator Panfilo Lacson** (asr-000434)  
+**[00:51:54.420] Senator Panfilo "Ping" M. Lacson** (asr-000434)  
 Paki-prioritize na lang.
 
 **[00:51:57.360] Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.** (asr-000435)  
@@ -1285,49 +1285,49 @@ million, anti-corruption
 **[00:52:15.740] Assistant Ombudsman Luis Gonzaga S. Bonoan, Jr.** (asr-000444)  
 investigation program 300 million
 
-**[00:52:18.060] Senator Panfilo Lacson** (asr-000445)  
+**[00:52:18.060] Senator Panfilo "Ping" M. Lacson** (asr-000445)  
 Excuse me, ang tanong ko lang
 
-**[00:52:20.120] Senator Panfilo Lacson** (asr-000446)  
+**[00:52:20.120] Senator Panfilo "Ping" M. Lacson** (asr-000446)  
 pakiprioritize kung ano yung
 
-**[00:52:22.260] Senator Panfilo Lacson** (asr-000447)  
+**[00:52:22.260] Senator Panfilo "Ping" M. Lacson** (asr-000447)  
 sa tingin ninyo kailang
 
-**[00:52:24.040] Senator Panfilo Lacson** (asr-000448)  
+**[00:52:24.040] Senator Panfilo "Ping" M. Lacson** (asr-000448)  
 ma-restore in their
 
-**[00:52:26.200] Senator Panfilo Lacson** (asr-000449)  
+**[00:52:26.200] Senator Panfilo "Ping" M. Lacson** (asr-000449)  
 order of priorities. Of course
 
-**[00:52:27.920] Senator Panfilo Lacson** (asr-000450)  
+**[00:52:27.920] Senator Panfilo "Ping" M. Lacson** (asr-000450)  
 we have the records nung sinasabi ninyo
 
-**[00:52:30.240] Senator Panfilo Lacson** (asr-000451)  
+**[00:52:30.240] Senator Panfilo "Ping" M. Lacson** (asr-000451)  
 kung ano yung mga cuts
 
-**[00:52:31.540] Senator Panfilo Lacson** (asr-000452)  
+**[00:52:31.540] Senator Panfilo "Ping" M. Lacson** (asr-000452)  
 but I want to find out
 
-**[00:52:33.520] Senator Panfilo Lacson** (asr-000453)  
+**[00:52:33.520] Senator Panfilo "Ping" M. Lacson** (asr-000453)  
 we want to find out ano yung
 
-**[00:52:35.300] Senator Panfilo Lacson** (asr-000454)  
+**[00:52:35.300] Senator Panfilo "Ping" M. Lacson** (asr-000454)  
 parang indispensable
 
-**[00:52:36.840] Senator Panfilo Lacson** (asr-000455)  
+**[00:52:36.840] Senator Panfilo "Ping" M. Lacson** (asr-000455)  
 na ma-restore natin para
 
-**[00:52:39.260] Senator Panfilo Lacson** (asr-000456)  
+**[00:52:39.260] Senator Panfilo "Ping" M. Lacson** (asr-000456)  
 for our guidance
 
-**[00:52:40.720] Senator Panfilo Lacson** (asr-000457)  
+**[00:52:40.720] Senator Panfilo "Ping" M. Lacson** (asr-000457)  
 especially that the chairman is here
 
-**[00:52:42.880] Senator Panfilo Lacson** (asr-000458)  
+**[00:52:42.880] Senator Panfilo "Ping" M. Lacson** (asr-000458)  
 pwede nating magawa ng paraan
 
-**[00:52:45.520] Senator Panfilo Lacson** (asr-000459)  
+**[00:52:45.520] Senator Panfilo "Ping" M. Lacson** (asr-000459)  
 na i-restore. But we need to prioritize
 
 **[00:52:47.440] Senator Joseph Victor "JV" G. Ejercito** (asr-000460)  
@@ -1411,187 +1411,187 @@ Those are the priority items
 **[00:53:40.890] Ombudsman Jesus Crispin C. Remulla** (asr-000486)  
 that's amounting to 1.8 billion
 
-**[00:53:44.890] Senator Panfilo Lacson** (asr-000487)  
+**[00:53:44.890] Senator Panfilo "Ping" M. Lacson** (asr-000487)  
 Thank you, Ombudsman
 
-**[00:53:46.790] Senator Panfilo Lacson** (asr-000488)  
+**[00:53:46.790] Senator Panfilo "Ping" M. Lacson** (asr-000488)  
 Bahala na si chairman dyan
 
-**[00:53:50.590] Senator Panfilo Lacson** (asr-000489)  
+**[00:53:50.590] Senator Panfilo "Ping" M. Lacson** (asr-000489)  
 Anyway, understandably so
 
-**[00:53:51.990] Senator Panfilo Lacson** (asr-000490)  
+**[00:53:51.990] Senator Panfilo "Ping" M. Lacson** (asr-000490)  
 kasi if we compare
 
-**[00:53:53.990] Senator Panfilo Lacson** (asr-000491)  
+**[00:53:53.990] Senator Panfilo "Ping" M. Lacson** (asr-000491)  
 yung benchmark ng ICAC
 
-**[00:53:56.490] Senator Panfilo Lacson** (asr-000492)  
+**[00:53:56.490] Senator Panfilo "Ping" M. Lacson** (asr-000492)  
 yung Hong Kong
 
-**[00:53:57.830] Senator Panfilo Lacson** (asr-000493)  
+**[00:53:57.830] Senator Panfilo "Ping" M. Lacson** (asr-000493)  
 Independent Commission Against Corruption
 
-**[00:54:00.630] Senator Panfilo Lacson** (asr-000494)  
+**[00:54:00.630] Senator Panfilo "Ping" M. Lacson** (asr-000494)  
 yung kanilang percentage sa kanilang
 
-**[00:54:02.870] Senator Panfilo Lacson** (asr-000495)  
+**[00:54:02.870] Senator Panfilo "Ping" M. Lacson** (asr-000495)  
 total budget
 
-**[00:54:03.870] Senator Panfilo Lacson** (asr-000496)  
+**[00:54:03.870] Senator Panfilo "Ping" M. Lacson** (asr-000496)  
 0.38%
 
-**[00:54:05.170] Senator Panfilo Lacson** (asr-000497)  
+**[00:54:05.170] Senator Panfilo "Ping" M. Lacson** (asr-000497)  
 yan ang ina-allocate ng government ng Hong Kong
 
-**[00:54:07.870] Senator Panfilo Lacson** (asr-000498)  
+**[00:54:07.870] Senator Panfilo "Ping" M. Lacson** (asr-000498)  
 ng SAR
 
-**[00:54:08.470] Senator Panfilo Lacson** (asr-000499)  
+**[00:54:08.470] Senator Panfilo "Ping" M. Lacson** (asr-000499)  
 doon sa kanilang Independent Commission Against Corruption
 
-**[00:54:11.710] Senator Panfilo Lacson** (asr-000500)  
+**[00:54:11.710] Senator Panfilo "Ping" M. Lacson** (asr-000500)  
 compare that to the
 
-**[00:54:15.730] Senator Panfilo Lacson** (asr-000501)  
+**[00:54:15.730] Senator Panfilo "Ping" M. Lacson** (asr-000501)  
 Ombudsman
 
-**[00:54:16.370] Senator Panfilo Lacson** (asr-000502)  
+**[00:54:16.370] Senator Panfilo "Ping" M. Lacson** (asr-000502)  
 yung counterpart
 
-**[00:54:17.590] Senator Panfilo Lacson** (asr-000503)  
+**[00:54:17.590] Senator Panfilo "Ping" M. Lacson** (asr-000503)  
 nandun lang tayo sa 0.1%
 
-**[00:54:19.970] Senator Panfilo Lacson** (asr-000504)  
+**[00:54:19.970] Senator Panfilo "Ping" M. Lacson** (asr-000504)  
 kasi kung susunod na natin yung benchmark
 
-**[00:54:22.850] Senator Panfilo Lacson** (asr-000505)  
+**[00:54:22.850] Senator Panfilo "Ping" M. Lacson** (asr-000505)  
 ng ICAC
 
-**[00:54:24.770] Senator Panfilo Lacson** (asr-000506)  
+**[00:54:24.770] Senator Panfilo "Ping" M. Lacson** (asr-000506)  
 dapat 25.8 billion
 
-**[00:54:27.650] Senator Panfilo Lacson** (asr-000507)  
+**[00:54:27.650] Senator Panfilo "Ping" M. Lacson** (asr-000507)  
 at least yung inyong budget
 
-**[00:54:28.930] Senator Panfilo Lacson** (asr-000508)  
+**[00:54:28.930] Senator Panfilo "Ping" M. Lacson** (asr-000508)  
 so napakalayo doon sa
 
-**[00:54:30.150] Senator Panfilo Lacson** (asr-000509)  
+**[00:54:30.150] Senator Panfilo "Ping" M. Lacson** (asr-000509)  
 naiwanan na 7
 
-**[00:54:32.070] Senator Panfilo Lacson** (asr-000510)  
+**[00:54:32.070] Senator Panfilo "Ping" M. Lacson** (asr-000510)  
 7.2
 
-**[00:54:33.970] Senator Panfilo Lacson** (asr-000511)  
+**[00:54:33.970] Senator Panfilo "Ping" M. Lacson** (asr-000511)  
 3 billion
 
-**[00:54:35.910] Senator Panfilo Lacson** (asr-000512)  
+**[00:54:35.910] Senator Panfilo "Ping" M. Lacson** (asr-000512)  
 but then
 
-**[00:54:37.510] Senator Panfilo Lacson** (asr-000513)  
+**[00:54:37.510] Senator Panfilo "Ping" M. Lacson** (asr-000513)  
 these are issues that may be raised
 
-**[00:54:39.370] Senator Panfilo Lacson** (asr-000514)  
+**[00:54:39.370] Senator Panfilo "Ping" M. Lacson** (asr-000514)  
 sa plenary
 
-**[00:54:40.730] Senator Panfilo Lacson** (asr-000515)  
+**[00:54:40.730] Senator Panfilo "Ping" M. Lacson** (asr-000515)  
 ng aming mga colleagues
 
-**[00:54:42.430] Senator Panfilo Lacson** (asr-000516)  
+**[00:54:42.430] Senator Panfilo "Ping" M. Lacson** (asr-000516)  
 anyway, si chairman naman
 
-**[00:54:44.570] Senator Panfilo Lacson** (asr-000517)  
+**[00:54:44.570] Senator Panfilo "Ping" M. Lacson** (asr-000517)  
 ang mag-de-defend nito sa plenary
 
-**[00:54:46.950] Senator Panfilo Lacson** (asr-000518)  
+**[00:54:46.950] Senator Panfilo "Ping" M. Lacson** (asr-000518)  
 because we
 
-**[00:54:49.210] Senator Panfilo Lacson** (asr-000519)  
+**[00:54:49.210] Senator Panfilo "Ping" M. Lacson** (asr-000519)  
 see some
 
-**[00:54:50.530] Senator Panfilo Lacson** (asr-000520)  
+**[00:54:50.530] Senator Panfilo "Ping" M. Lacson** (asr-000520)  
 lump sum appropriations
 
-**[00:54:52.370] Senator Panfilo Lacson** (asr-000521)  
+**[00:54:52.370] Senator Panfilo "Ping" M. Lacson** (asr-000521)  
 for personal services
 
-**[00:54:54.670] Senator Panfilo Lacson** (asr-000522)  
+**[00:54:54.670] Senator Panfilo "Ping" M. Lacson** (asr-000522)  
 ang total nito
 
-**[00:54:56.150] Senator Panfilo Lacson** (asr-000523)  
+**[00:54:56.150] Senator Panfilo "Ping" M. Lacson** (asr-000523)  
 1.68 billion pesos
 
-**[00:54:58.290] Senator Panfilo Lacson** (asr-000524)  
+**[00:54:58.290] Senator Panfilo "Ping" M. Lacson** (asr-000524)  
 this is to provide
 
-**[00:55:01.690] Senator Panfilo Lacson** (asr-000525)  
+**[00:55:01.690] Senator Panfilo "Ping" M. Lacson** (asr-000525)  
 a
 
-**[00:55:02.070] Senator Panfilo Lacson** (asr-000526)  
+**[00:55:02.070] Senator Panfilo "Ping" M. Lacson** (asr-000526)  
 as mentioned
 
-**[00:55:02.730] Senator Panfilo Lacson** (asr-000527)  
+**[00:55:02.730] Senator Panfilo "Ping" M. Lacson** (asr-000527)  
 to fill up
 
-**[00:55:03.870] Senator Panfilo Lacson** (asr-000528)  
+**[00:55:03.870] Senator Panfilo "Ping" M. Lacson** (asr-000528)  
 1,247
 
-**[00:55:08.190] Senator Panfilo Lacson** (asr-000529)  
+**[00:55:08.190] Senator Panfilo "Ping" M. Lacson** (asr-000529)  
 vacant positions
 
-**[00:55:09.030] Senator Panfilo Lacson** (asr-000530)  
+**[00:55:09.030] Senator Panfilo "Ping" M. Lacson** (asr-000530)  
 51.1
 
-**[00:55:12.490] Senator Panfilo Lacson** (asr-000531)  
+**[00:55:12.490] Senator Panfilo "Ping" M. Lacson** (asr-000531)  
 ang vacancy rate
 
-**[00:55:14.070] Senator Panfilo Lacson** (asr-000532)  
+**[00:55:14.070] Senator Panfilo "Ping" M. Lacson** (asr-000532)  
 ng Ombudsman
 
-**[00:55:14.790] Senator Panfilo Lacson** (asr-000533)  
+**[00:55:14.790] Senator Panfilo "Ping" M. Lacson** (asr-000533)  
 my question is
 
-**[00:55:15.850] Senator Panfilo Lacson** (asr-000534)  
+**[00:55:15.850] Senator Panfilo "Ping" M. Lacson** (asr-000534)  
 how confident are you
 
-**[00:55:17.590] Senator Panfilo Lacson** (asr-000535)  
+**[00:55:17.590] Senator Panfilo "Ping" M. Lacson** (asr-000535)  
 na pwede nyo ma-fill up
 
-**[00:55:19.210] Senator Panfilo Lacson** (asr-000536)  
+**[00:55:19.210] Senator Panfilo "Ping" M. Lacson** (asr-000536)  
 kasi this will be an issue
 
-**[00:55:21.010] Senator Panfilo Lacson** (asr-000537)  
+**[00:55:21.010] Senator Panfilo "Ping" M. Lacson** (asr-000537)  
 that will be raised
 
-**[00:55:22.010] Senator Panfilo Lacson** (asr-000538)  
+**[00:55:22.010] Senator Panfilo "Ping" M. Lacson** (asr-000538)  
 during the plenary
 
-**[00:55:23.270] Senator Panfilo Lacson** (asr-000539)  
+**[00:55:23.270] Senator Panfilo "Ping" M. Lacson** (asr-000539)  
 deliberation
 
-**[00:55:25.050] Senator Panfilo Lacson** (asr-000540)  
+**[00:55:25.050] Senator Panfilo "Ping" M. Lacson** (asr-000540)  
 so we must be able
 
-**[00:55:26.590] Senator Panfilo Lacson** (asr-000541)  
+**[00:55:26.590] Senator Panfilo "Ping" M. Lacson** (asr-000541)  
 or at least si chairman
 
-**[00:55:27.570] Senator Panfilo Lacson** (asr-000542)  
+**[00:55:27.570] Senator Panfilo "Ping" M. Lacson** (asr-000542)  
 must be able to address that
 
-**[00:55:29.550] Senator Panfilo Lacson** (asr-000543)  
+**[00:55:29.550] Senator Panfilo "Ping" M. Lacson** (asr-000543)  
 kasi medyo malaki yung
 
-**[00:55:31.050] Senator Panfilo Lacson** (asr-000544)  
+**[00:55:31.050] Senator Panfilo "Ping" M. Lacson** (asr-000544)  
 51.1%
 
-**[00:55:32.070] Senator Panfilo Lacson** (asr-000545)  
+**[00:55:32.070] Senator Panfilo "Ping" M. Lacson** (asr-000545)  
 na vacancy rate
 
-**[00:55:36.510] Senator Panfilo Lacson** (asr-000546)  
+**[00:55:36.510] Senator Panfilo "Ping" M. Lacson** (asr-000546)  
 and that would translate
 
-**[00:55:38.750] Senator Panfilo Lacson** (asr-000547)  
+**[00:55:38.750] Senator Panfilo "Ping" M. Lacson** (asr-000547)  
 to how many personnel
 
 **[00:55:39.790] Ombudsman Jesus Crispin C. Remulla** (asr-000548)  
@@ -1657,64 +1657,64 @@ with the budget
 **[00:56:07.230] Ombudsman Jesus Crispin C. Remulla** (asr-000568)  
 your honor
 
-**[00:56:07.690] Senator Panfilo Lacson** (asr-000569)  
+**[00:56:07.690] Senator Panfilo "Ping" M. Lacson** (asr-000569)  
 in other words
 
-**[00:56:09.450] Senator Panfilo Lacson** (asr-000570)  
+**[00:56:09.450] Senator Panfilo "Ping" M. Lacson** (asr-000570)  
 it will
 
-**[00:56:09.950] Senator Panfilo Lacson** (asr-000571)  
+**[00:56:09.950] Senator Panfilo "Ping" M. Lacson** (asr-000571)  
 even
 
-**[00:56:10.830] Senator Panfilo Lacson** (asr-000572)  
+**[00:56:10.830] Senator Panfilo "Ping" M. Lacson** (asr-000572)  
 surpass the
 
-**[00:56:12.430] Senator Panfilo Lacson** (asr-000573)  
+**[00:56:12.430] Senator Panfilo "Ping" M. Lacson** (asr-000573)  
 two-year period
 
-**[00:56:13.930] Senator Panfilo Lacson** (asr-000574)  
+**[00:56:13.930] Senator Panfilo "Ping" M. Lacson** (asr-000574)  
 for
 
-**[00:56:14.710] Senator Panfilo Lacson** (asr-000575)  
+**[00:56:14.710] Senator Panfilo "Ping" M. Lacson** (asr-000575)  
 authorizing the
 
-**[00:56:15.650] Senator Panfilo Lacson** (asr-000576)  
+**[00:56:15.650] Senator Panfilo "Ping" M. Lacson** (asr-000576)  
 continuing appropriations
 
-**[00:56:16.830] Senator Panfilo Lacson** (asr-000577)  
+**[00:56:16.830] Senator Panfilo "Ping" M. Lacson** (asr-000577)  
 kaya kung
 
-**[00:56:18.410] Senator Panfilo Lacson** (asr-000578)  
+**[00:56:18.410] Senator Panfilo "Ping" M. Lacson** (asr-000578)  
 ibibigay lahat itong
 
-**[00:56:19.550] Senator Panfilo Lacson** (asr-000579)  
+**[00:56:19.550] Senator Panfilo "Ping" M. Lacson** (asr-000579)  
 1.68 billion
 
-**[00:56:20.730] Senator Panfilo Lacson** (asr-000580)  
+**[00:56:20.730] Senator Panfilo "Ping" M. Lacson** (asr-000580)  
 hindi rin ito ma-obligate
 
-**[00:56:22.290] Senator Panfilo Lacson** (asr-000581)  
+**[00:56:22.290] Senator Panfilo "Ping" M. Lacson** (asr-000581)  
 hindi mayu-utilize
 
-**[00:56:24.010] Senator Panfilo Lacson** (asr-000582)  
+**[00:56:24.010] Senator Panfilo "Ping" M. Lacson** (asr-000582)  
 because
 
-**[00:56:24.430] Senator Panfilo Lacson** (asr-000583)  
+**[00:56:24.430] Senator Panfilo "Ping" M. Lacson** (asr-000583)  
 it would take
 
-**[00:56:25.710] Senator Panfilo Lacson** (asr-000584)  
+**[00:56:25.710] Senator Panfilo "Ping" M. Lacson** (asr-000584)  
 three years
 
-**[00:56:26.550] Senator Panfilo Lacson** (asr-000585)  
+**[00:56:26.550] Senator Panfilo "Ping" M. Lacson** (asr-000585)  
 to hire the
 
-**[00:56:27.870] Senator Panfilo Lacson** (asr-000586)  
+**[00:56:27.870] Senator Panfilo "Ping" M. Lacson** (asr-000586)  
 the
 
-**[00:56:28.890] Senator Panfilo Lacson** (asr-000587)  
+**[00:56:28.890] Senator Panfilo "Ping" M. Lacson** (asr-000587)  
 the vacancies
 
-**[00:56:29.650] Senator Panfilo Lacson** (asr-000588)  
+**[00:56:29.650] Senator Panfilo "Ping" M. Lacson** (asr-000588)  
 the vacant positions
 
 **[00:56:30.830] Ombudsman Jesus Crispin C. Remulla** (asr-000589)  
@@ -1750,169 +1750,169 @@ break it in your honor
 **[00:56:41.670] Ombudsman Jesus Crispin C. Remulla** (asr-000599)  
 we have to actually
 
-**[00:56:42.630] Senator Panfilo Lacson** (asr-000600)  
+**[00:56:42.630] Senator Panfilo "Ping" M. Lacson** (asr-000600)  
 so it would be more practical
 
-**[00:56:43.670] Senator Panfilo Lacson** (asr-000601)  
+**[00:56:43.670] Senator Panfilo "Ping" M. Lacson** (asr-000601)  
 na yung part of the
 
-**[00:56:45.730] Senator Panfilo Lacson** (asr-000602)  
+**[00:56:45.730] Senator Panfilo "Ping" M. Lacson** (asr-000602)  
 1.68 billion
 
-**[00:56:47.110] Senator Panfilo Lacson** (asr-000603)  
+**[00:56:47.110] Senator Panfilo "Ping" M. Lacson** (asr-000603)  
 pwede nating realign
 
-**[00:56:48.510] Senator Panfilo Lacson** (asr-000604)  
+**[00:56:48.510] Senator Panfilo "Ping" M. Lacson** (asr-000604)  
 papunta sa
 
-**[00:56:49.210] Senator Panfilo Lacson** (asr-000605)  
+**[00:56:49.210] Senator Panfilo "Ping" M. Lacson** (asr-000605)  
 judicial marshal
 
-**[00:56:50.430] Senator Panfilo Lacson** (asr-000606)  
+**[00:56:50.430] Senator Panfilo "Ping" M. Lacson** (asr-000606)  
 sa
 
-**[00:56:50.890] Senator Panfilo Lacson** (asr-000607)  
+**[00:56:50.890] Senator Panfilo "Ping" M. Lacson** (asr-000607)  
 marshal
 
-**[00:56:53.010] Senator Panfilo Lacson** (asr-000608)  
+**[00:56:53.010] Senator Panfilo "Ping" M. Lacson** (asr-000608)  
 do sa
 
-**[00:56:53.890] Senator Panfilo Lacson** (asr-000609)  
+**[00:56:53.890] Senator Panfilo "Ping" M. Lacson** (asr-000609)  
 ombudsman
 
-**[00:56:54.970] Senator Panfilo Lacson** (asr-000610)  
+**[00:56:54.970] Senator Panfilo "Ping" M. Lacson** (asr-000610)  
 marshal
 
-**[00:56:55.750] Senator Panfilo Lacson** (asr-000611)  
+**[00:56:55.750] Senator Panfilo "Ping" M. Lacson** (asr-000611)  
 it can be done
 
 **[00:56:56.590] Ombudsman Jesus Crispin C. Remulla** (asr-000612)  
 yes sir
 
-**[00:56:57.330] Senator Panfilo Lacson** (asr-000613)  
+**[00:56:57.330] Senator Panfilo "Ping" M. Lacson** (asr-000613)  
 para yung
 
-**[00:56:58.190] Senator Panfilo Lacson** (asr-000614)  
+**[00:56:58.190] Senator Panfilo "Ping" M. Lacson** (asr-000614)  
 yung ma-absorb lang
 
-**[00:56:59.890] Senator Panfilo Lacson** (asr-000615)  
+**[00:56:59.890] Senator Panfilo "Ping" M. Lacson** (asr-000615)  
 for the
 
-**[00:57:00.570] Senator Panfilo Lacson** (asr-000616)  
+**[00:57:00.570] Senator Panfilo "Ping" M. Lacson** (asr-000616)  
 two-year period
 
-**[00:57:01.730] Senator Panfilo Lacson** (asr-000617)  
+**[00:57:01.730] Senator Panfilo "Ping" M. Lacson** (asr-000617)  
 para hindi na tayo
 
-**[00:57:04.050] Senator Panfilo Lacson** (asr-000618)  
+**[00:57:04.050] Senator Panfilo "Ping" M. Lacson** (asr-000618)  
 kukuha doon
 
-**[00:57:04.970] Senator Panfilo Lacson** (asr-000619)  
+**[00:57:04.970] Senator Panfilo "Ping" M. Lacson** (asr-000619)  
 sa ibang agencies
 
-**[00:57:05.690] Senator Panfilo Lacson** (asr-000620)  
+**[00:57:05.690] Senator Panfilo "Ping" M. Lacson** (asr-000620)  
 at least yung
 
-**[00:57:06.870] Senator Panfilo Lacson** (asr-000621)  
+**[00:57:06.870] Senator Panfilo "Ping" M. Lacson** (asr-000621)  
 ibang needs ninyo
 
-**[00:57:07.890] Senator Panfilo Lacson** (asr-000622)  
+**[00:57:07.890] Senator Panfilo "Ping" M. Lacson** (asr-000622)  
 sa mga priorities ninyo
 
-**[00:57:09.210] Senator Panfilo Lacson** (asr-000623)  
+**[00:57:09.210] Senator Panfilo "Ping" M. Lacson** (asr-000623)  
 yun na lang ang po
 
-**[00:57:10.190] Senator Panfilo Lacson** (asr-000624)  
+**[00:57:10.190] Senator Panfilo "Ping" M. Lacson** (asr-000624)  
 problemahin namin
 
-**[00:57:10.930] Senator Panfilo Lacson** (asr-000625)  
+**[00:57:10.930] Senator Panfilo "Ping" M. Lacson** (asr-000625)  
 kunin sa ibang agencies
 
-**[00:57:12.030] Senator Panfilo Lacson** (asr-000626)  
+**[00:57:12.030] Senator Panfilo "Ping" M. Lacson** (asr-000626)  
 since
 
-**[00:57:13.570] Senator Panfilo Lacson** (asr-000627)  
+**[00:57:13.570] Senator Panfilo "Ping" M. Lacson** (asr-000627)  
 1.68 billion
 
-**[00:57:14.970] Senator Panfilo Lacson** (asr-000628)  
+**[00:57:14.970] Senator Panfilo "Ping" M. Lacson** (asr-000628)  
 itong
 
-**[00:57:15.690] Senator Panfilo Lacson** (asr-000629)  
+**[00:57:15.690] Senator Panfilo "Ping" M. Lacson** (asr-000629)  
 hindi naman
 
-**[00:57:16.510] Senator Panfilo Lacson** (asr-000630)  
+**[00:57:16.510] Senator Panfilo "Ping" M. Lacson** (asr-000630)  
 kayang i-obligate
 
-**[00:57:17.430] Senator Panfilo Lacson** (asr-000631)  
+**[00:57:17.430] Senator Panfilo "Ping" M. Lacson** (asr-000631)  
 in the
 
-**[00:57:18.450] Senator Panfilo Lacson** (asr-000632)  
+**[00:57:18.450] Senator Panfilo "Ping" M. Lacson** (asr-000632)  
 in the
 
-**[00:57:18.830] Senator Panfilo Lacson** (asr-000633)  
+**[00:57:18.830] Senator Panfilo "Ping" M. Lacson** (asr-000633)  
 next two years
 
-**[00:57:19.750] Senator Panfilo Lacson** (asr-000634)  
+**[00:57:19.750] Senator Panfilo "Ping" M. Lacson** (asr-000634)  
 probably
 
-**[00:57:20.550] Senator Panfilo Lacson** (asr-000635)  
+**[00:57:20.550] Senator Panfilo "Ping" M. Lacson** (asr-000635)  
 pwede tayong
 
-**[00:57:21.730] Senator Panfilo Lacson** (asr-000636)  
+**[00:57:21.730] Senator Panfilo "Ping" M. Lacson** (asr-000636)  
 humiwa ng konti rito
 
-**[00:57:23.450] Senator Panfilo Lacson** (asr-000637)  
+**[00:57:23.450] Senator Panfilo "Ping" M. Lacson** (asr-000637)  
 para ma-augment
 
-**[00:57:24.570] Senator Panfilo Lacson** (asr-000638)  
+**[00:57:24.570] Senator Panfilo "Ping" M. Lacson** (asr-000638)  
 yung ibang priorities
 
 **[00:57:25.590] Ombudsman Jesus Crispin C. Remulla** (asr-000639)  
 it can be done sir
 
-**[00:57:26.770] Senator Panfilo Lacson** (asr-000640)  
+**[00:57:26.770] Senator Panfilo "Ping" M. Lacson** (asr-000640)  
 thank you
 
-**[00:57:27.290] Senator Panfilo Lacson** (asr-000641)  
+**[00:57:27.290] Senator Panfilo "Ping" M. Lacson** (asr-000641)  
 um
 
-**[00:57:28.690] Senator Panfilo Lacson** (asr-000642)  
+**[00:57:28.690] Senator Panfilo "Ping" M. Lacson** (asr-000642)  
 yun na lang muna
 
-**[00:57:33.060] Senator Panfilo Lacson** (asr-000643)  
+**[00:57:33.060] Senator Panfilo "Ping" M. Lacson** (asr-000643)  
 mister chairman
 
-**[00:57:33.700] Senator Panfilo Lacson** (asr-000644)  
+**[00:57:33.700] Senator Panfilo "Ping" M. Lacson** (asr-000644)  
 and
 
-**[00:57:34.200] Senator Panfilo Lacson** (asr-000645)  
+**[00:57:34.200] Senator Panfilo "Ping" M. Lacson** (asr-000645)  
 ako
 
-**[00:57:35.300] Senator Panfilo Lacson** (asr-000646)  
+**[00:57:35.300] Senator Panfilo "Ping" M. Lacson** (asr-000646)  
 I'm fully supportive
 
-**[00:57:36.580] Senator Panfilo Lacson** (asr-000647)  
+**[00:57:36.580] Senator Panfilo "Ping" M. Lacson** (asr-000647)  
 of the
 
-**[00:57:37.140] Senator Panfilo Lacson** (asr-000648)  
+**[00:57:37.140] Senator Panfilo "Ping" M. Lacson** (asr-000648)  
 of recommending
 
-**[00:57:39.080] Senator Panfilo Lacson** (asr-000649)  
+**[00:57:39.080] Senator Panfilo "Ping" M. Lacson** (asr-000649)  
 to the plenary
 
-**[00:57:40.120] Senator Panfilo Lacson** (asr-000650)  
+**[00:57:40.120] Senator Panfilo "Ping" M. Lacson** (asr-000650)  
 yung budget
 
-**[00:57:40.920] Senator Panfilo Lacson** (asr-000651)  
+**[00:57:40.920] Senator Panfilo "Ping" M. Lacson** (asr-000651)  
 ng
 
-**[00:57:41.240] Senator Panfilo Lacson** (asr-000652)  
+**[00:57:41.240] Senator Panfilo "Ping" M. Lacson** (asr-000652)  
 ng ombudsman
 
-**[00:57:42.800] Senator Panfilo Lacson** (asr-000653)  
+**[00:57:42.800] Senator Panfilo "Ping" M. Lacson** (asr-000653)  
 thank you
 
-**[00:57:43.140] Senator Panfilo Lacson** (asr-000654)  
+**[00:57:43.140] Senator Panfilo "Ping" M. Lacson** (asr-000654)  
 mister chairman
 
 **[00:57:43.600] Senator Joseph Victor "JV" G. Ejercito** (asr-000655)  
@@ -2143,31 +2143,31 @@ Ano yung
 **[00:59:06.000] Senator Joseph Victor "JV" G. Ejercito** (asr-000730)  
 actual timeline natin?
 
-**[00:59:06.500] Senator Panfilo Lacson** (asr-000731)  
+**[00:59:06.500] Senator Panfilo "Ping" M. Lacson** (asr-000731)  
 mr chairman
 
-**[00:59:07.000] Senator Panfilo Lacson** (asr-000732)  
+**[00:59:07.000] Senator Panfilo "Ping" M. Lacson** (asr-000732)  
 if i may interject
 
-**[00:59:07.940] Senator Panfilo Lacson** (asr-000733)  
+**[00:59:07.940] Senator Panfilo "Ping" M. Lacson** (asr-000733)  
 may i ask the
 
-**[00:59:09.000] Senator Panfilo Lacson** (asr-000734)  
+**[00:59:09.000] Senator Panfilo "Ping" M. Lacson** (asr-000734)  
 ombudsman
 
-**[00:59:09.620] Senator Panfilo Lacson** (asr-000735)  
+**[00:59:09.620] Senator Panfilo "Ping" M. Lacson** (asr-000735)  
 do you already have
 
-**[00:59:10.820] Senator Panfilo Lacson** (asr-000736)  
+**[00:59:10.820] Senator Panfilo "Ping" M. Lacson** (asr-000736)  
 somebody in mind
 
-**[00:59:11.740] Senator Panfilo Lacson** (asr-000737)  
+**[00:59:11.740] Senator Panfilo "Ping" M. Lacson** (asr-000737)  
 to head the
 
-**[00:59:12.440] Senator Panfilo Lacson** (asr-000738)  
+**[00:59:12.440] Senator Panfilo "Ping" M. Lacson** (asr-000738)  
 judicial
 
-**[00:59:12.880] Senator Panfilo Lacson** (asr-000739)  
+**[00:59:12.880] Senator Panfilo "Ping" M. Lacson** (asr-000739)  
 marshal service
 
 **[00:59:14.660] Ombudsman Jesus Crispin C. Remulla** (asr-000740)  
@@ -2182,7 +2182,7 @@ an assistant ombudsman
 **[00:59:17.580] Ombudsman Jesus Crispin C. Remulla** (asr-000743)  
 now
 
-**[00:59:17.860] Senator Panfilo Lacson** (asr-000744)  
+**[00:59:17.860] Senator Panfilo "Ping" M. Lacson** (asr-000744)  
 yeah
 
 **[00:59:18.260] Ombudsman Jesus Crispin C. Remulla** (asr-000745)  
@@ -2206,13 +2206,13 @@ our marshal
 **[00:59:24.460] Ombudsman Jesus Crispin C. Remulla** (asr-000751)  
 your honor
 
-**[00:59:24.840] Senator Panfilo Lacson** (asr-000752)  
+**[00:59:24.840] Senator Panfilo "Ping" M. Lacson** (asr-000752)  
 yeah and
 
-**[00:59:25.700] Senator Panfilo Lacson** (asr-000753)  
+**[00:59:25.700] Senator Panfilo "Ping" M. Lacson** (asr-000753)  
 and that is
 
-**[00:59:26.400] Senator Panfilo Lacson** (asr-000754)  
+**[00:59:26.400] Senator Panfilo "Ping" M. Lacson** (asr-000754)  
 general
 
 **[00:59:27.460] Ombudsman Jesus Crispin C. Remulla** (asr-000755)  
@@ -2221,43 +2221,43 @@ Eli Cruz
 **[00:59:28.380] Ombudsman Jesus Crispin C. Remulla** (asr-000756)  
 yeah
 
-**[00:59:28.620] Senator Panfilo Lacson** (asr-000757)  
+**[00:59:28.620] Senator Panfilo "Ping" M. Lacson** (asr-000757)  
 Para rin
 
-**[00:59:29.780] Senator Panfilo Lacson** (asr-000758)  
+**[00:59:29.780] Senator Panfilo "Ping" M. Lacson** (asr-000758)  
 ma-guide kami doon sa aming bill
 
-**[00:59:31.280] Senator Panfilo Lacson** (asr-000759)  
+**[00:59:31.280] Senator Panfilo "Ping" M. Lacson** (asr-000759)  
 na ipapasa
 
-**[00:59:32.220] Senator Panfilo Lacson** (asr-000760)  
+**[00:59:32.220] Senator Panfilo "Ping" M. Lacson** (asr-000760)  
 na he may not
 
-**[00:59:33.860] Senator Panfilo Lacson** (asr-000761)  
+**[00:59:33.860] Senator Panfilo "Ping" M. Lacson** (asr-000761)  
 necessarily be a lawyer
 
-**[00:59:34.880] Senator Panfilo Lacson** (asr-000762)  
+**[00:59:34.880] Senator Panfilo "Ping" M. Lacson** (asr-000762)  
 no
 
-**[00:59:35.220] Senator Panfilo Lacson** (asr-000763)  
+**[00:59:35.220] Senator Panfilo "Ping" M. Lacson** (asr-000763)  
 basta't merong
 
-**[00:59:36.000] Senator Panfilo Lacson** (asr-000764)  
+**[00:59:36.000] Senator Panfilo "Ping" M. Lacson** (asr-000764)  
 10 years na
 
-**[00:59:37.000] Senator Panfilo Lacson** (asr-000765)  
+**[00:59:37.000] Senator Panfilo "Ping" M. Lacson** (asr-000765)  
 law enforcement
 
-**[00:59:38.000] Senator Panfilo Lacson** (asr-000766)  
+**[00:59:38.000] Senator Panfilo "Ping" M. Lacson** (asr-000766)  
 service experience
 
-**[00:59:39.000] Senator Panfilo Lacson** (asr-000767)  
+**[00:59:39.000] Senator Panfilo "Ping" M. Lacson** (asr-000767)  
 yun na lang, investigative experience.
 
-**[00:59:42.000] Senator Panfilo Lacson** (asr-000768)  
+**[00:59:42.000] Senator Panfilo "Ping" M. Lacson** (asr-000768)  
 thank you
 
-**[00:59:42.300] Senator Panfilo Lacson** (asr-000769)  
+**[00:59:42.300] Senator Panfilo "Ping" M. Lacson** (asr-000769)  
 thank you mr chairman
 
 **[00:59:43.220] Senator Joseph Victor "JV" G. Ejercito** (asr-000770)  
@@ -2875,13 +2875,13 @@ But at a great expense, with a driveway that does not fit any SUV.
 **[01:12:19.150] Ombudsman Jesus Crispin C. Remulla** (asr-000990)  
 It will only fit a Wigo, Your Honor.
 
-**[01:12:20.910] Senator Panfilo Lacson** (asr-000991)  
+**[01:12:20.910] Senator Panfilo "Ping" M. Lacson** (asr-000991)  
 Mr. Chairman, and...
 
-**[01:12:23.070] Senator Panfilo Lacson** (asr-000992)  
+**[01:12:23.070] Senator Panfilo "Ping" M. Lacson** (asr-000992)  
 Kasi pagka kayo nagpagawa ng building, ang implementing agency is DPWH.
 
-**[01:12:28.330] Senator Panfilo Lacson** (asr-000993)  
+**[01:12:28.330] Senator Panfilo "Ping" M. Lacson** (asr-000993)  
 So, again, that's bad news.
 
 **[01:12:31.330] Senator Vicente C. Sotto III** (asr-000994)  
@@ -2890,61 +2890,61 @@ That's what David wants.
 **[01:12:33.510] Ombudsman Jesus Crispin C. Remulla** (asr-000995)  
 Yes, Your Honor.
 
-**[01:12:34.590] Senator Panfilo Lacson** (asr-000996)  
+**[01:12:34.590] Senator Panfilo "Ping" M. Lacson** (asr-000996)  
 Mr. Chairman, if I may...
 
 **[01:12:36.230] Senator Joseph Victor "JV" G. Ejercito** (asr-000997)  
 Yes, Senator Lackson.
 
-**[01:12:37.270] Senator Panfilo Lacson** (asr-000998)  
+**[01:12:37.270] Senator Panfilo "Ping" M. Lacson** (asr-000998)  
 It came to my mind.
 
-**[01:12:38.430] Senator Panfilo Lacson** (asr-000999)  
+**[01:12:38.430] Senator Panfilo "Ping" M. Lacson** (asr-000999)  
 Inisip ko lang, I was just mulling over the idea na
 
-**[01:12:43.110] Senator Panfilo Lacson** (asr-001000)  
+**[01:12:43.110] Senator Panfilo "Ping" M. Lacson** (asr-001000)  
 And I need the legal opinion of the ombudsman here.
 
-**[01:12:46.510] Senator Panfilo Lacson** (asr-001001)  
+**[01:12:46.510] Senator Panfilo "Ping" M. Lacson** (asr-001001)  
 Kasi ang bill naman is amendment ng Ombudsman Act, di ba?
 
-**[01:12:51.230] Senator Panfilo Lacson** (asr-001002)  
+**[01:12:51.230] Senator Panfilo "Ping" M. Lacson** (asr-001002)  
 So pwedeng i-incorporate doon na kung meron kayong ma-gain ang government,
 
-**[01:12:56.430] Senator Panfilo Lacson** (asr-001003)  
+**[01:12:56.430] Senator Panfilo "Ping" M. Lacson** (asr-001003)  
 national government or treasury, sa restitution,
 
-**[01:12:59.230] Senator Panfilo Lacson** (asr-001004)  
+**[01:12:59.230] Senator Panfilo "Ping" M. Lacson** (asr-001004)  
 baka parang akin to the
 
-**[01:13:01.330] Senator Panfilo Lacson** (asr-001005)  
+**[01:13:01.330] Senator Panfilo "Ping" M. Lacson** (asr-001005)  
 Customs modernization.
 
-**[01:13:03.190] Senator Panfilo Lacson** (asr-001006)  
+**[01:13:03.190] Senator Panfilo "Ping" M. Lacson** (asr-001006)  
 Part of that would be earmarked para sa madagdagan yung budget.
 
-**[01:13:09.510] Senator Panfilo Lacson** (asr-001007)  
+**[01:13:09.510] Senator Panfilo "Ping" M. Lacson** (asr-001007)  
 This will be your non-tax revenue, if I may say so.
 
-**[01:13:14.990] Senator Panfilo Lacson** (asr-001008)  
+**[01:13:14.990] Senator Panfilo "Ping" M. Lacson** (asr-001008)  
 So, probably during the...
 
-**[01:13:16.730] Senator Panfilo Lacson** (asr-001009)  
+**[01:13:16.730] Senator Panfilo "Ping" M. Lacson** (asr-001009)  
 Anyway, magkakomite hearing naman, mag-a-attend naman si Assistant Ombudsman Ellie.
 
-**[01:13:21.210] Senator Panfilo Lacson** (asr-001010)  
+**[01:13:21.210] Senator Panfilo "Ping" M. Lacson** (asr-001010)  
 So pwedeng i-incorporate yung provision na ganoon na
 
-**[01:13:25.470] Senator Panfilo Lacson** (asr-001011)  
+**[01:13:25.470] Senator Panfilo "Ping" M. Lacson** (asr-001011)  
 Maybe 10 or 20 percent of whatever amount is restituted
 
-**[01:13:30.390] Senator Panfilo Lacson** (asr-001012)  
+**[01:13:30.390] Senator Panfilo "Ping" M. Lacson** (asr-001012)  
 should be incorporated.
 
-**[01:13:31.330] Senator Panfilo Lacson** (asr-001013)  
+**[01:13:31.330] Senator Panfilo "Ping" M. Lacson** (asr-001013)  
 And it's covered by law.
 
-**[01:13:33.730] Senator Panfilo Lacson** (asr-001014)  
+**[01:13:33.730] Senator Panfilo "Ping" M. Lacson** (asr-001014)  
 So hindi pwedeng galawin na yung part of the restituted amount.
 
 **[01:13:38.790] Ombudsman Jesus Crispin C. Remulla** (asr-001015)  
@@ -2953,13 +2953,13 @@ It looks very appreciated.
 **[01:13:40.630] Ombudsman Jesus Crispin C. Remulla** (asr-001016)  
 We appreciate that very much.
 
-**[01:13:42.230] Senator Panfilo Lacson** (asr-001017)  
+**[01:13:42.230] Senator Panfilo "Ping" M. Lacson** (asr-001017)  
 Wala namang legal infirmity.
 
-**[01:13:43.190] Senator Panfilo Lacson** (asr-001018)  
+**[01:13:43.190] Senator Panfilo "Ping" M. Lacson** (asr-001018)  
 There's no legal infirmity.
 
-**[01:13:44.990] Senator Panfilo Lacson** (asr-001019)  
+**[01:13:44.990] Senator Panfilo "Ping" M. Lacson** (asr-001019)  
 Thank you.
 
 **[01:13:45.710] Senator Vicente C. Sotto III** (asr-001020)  
@@ -3226,79 +3226,79 @@ whatever ano kung mabibili noon.
 **[01:20:05.100] Senator Joseph Victor "JV" G. Ejercito** (asr-001107)  
 Probably, our Senate President, you have some questions?
 
-**[01:20:08.660] Senator Sherwin "Win" T. Gatchalian** (asr-001108)  
+**[01:20:08.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001108)  
 Thank you, Mr. Chairman.
 
-**[01:20:09.660] Senator Sherwin "Win" T. Gatchalian** (asr-001109)  
+**[01:20:09.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001109)  
 I do agree na yung 54 million is minuscule compared to the gravity of the corruption cases that we are embroiled in.
 
-**[01:20:20.260] Senator Sherwin "Win" T. Gatchalian** (asr-001110)  
+**[01:20:20.260] Senate President Sherwin "Win" T. Gatchalian** (asr-001110)  
 And the Ombudsman is tasked to resolve all of those corruption issues.
 
-**[01:20:25.860] Senator Sherwin "Win" T. Gatchalian** (asr-001111)  
+**[01:20:25.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001111)  
 Admittedly, kailangan talaga ng legitimate purchase of information
 
-**[01:20:34.760] Senator Sherwin "Win" T. Gatchalian** (asr-001112)  
+**[01:20:34.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001112)  
 para ma-establish yung evidence,
 
-**[01:20:37.500] Senator Sherwin "Win" T. Gatchalian** (asr-001113)  
+**[01:20:37.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001113)  
 lalong lumakas yung kaso at makasuhan natin
 
-**[01:20:39.660] Senator Sherwin "Win" T. Gatchalian** (asr-001114)  
+**[01:20:39.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001114)  
 at manalo tayo sa pagkaso
 
-**[01:20:40.660] Senator Sherwin "Win" T. Gatchalian** (asr-001115)  
+**[01:20:40.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001115)  
 kasi hindi lang mag-file ng cases kundi dapat manalo tayo doon sa mga kaso.
 
-**[01:20:46.660] Senator Sherwin "Win" T. Gatchalian** (asr-001116)  
+**[01:20:46.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001116)  
 So, I think the 51 million is well justified so that we can strengthen the cases that we
 
-**[01:20:56.960] Senator Sherwin "Win" T. Gatchalian** (asr-001117)  
+**[01:20:56.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001117)  
 will file.
 
-**[01:20:57.960] Senator Sherwin "Win" T. Gatchalian** (asr-001118)  
+**[01:20:57.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001118)  
 I have a few policy questions, Ombudsman.
 
-**[01:21:02.180] Senator Sherwin "Win" T. Gatchalian** (asr-001119)  
+**[01:21:02.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001119)  
 This is in relation to a topic that we're discussing here on the floor.
 
-**[01:21:06.460] Senator Sherwin "Win" T. Gatchalian** (asr-001120)  
+**[01:21:06.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001120)  
 yung barangay term setting.
 
-**[01:21:07.460] Senator Sherwin "Win" T. Gatchalian** (asr-001121)  
+**[01:21:07.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001121)  
 no?
 
-**[01:21:09.460] Senator Sherwin "Win" T. Gatchalian** (asr-001123)  
+**[01:21:09.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001123)  
 And kayo, nag-local government rin kayo, Ombudsman.
 
-**[01:21:13.820] Senator Sherwin "Win" T. Gatchalian** (asr-001124)  
+**[01:21:13.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001124)  
 May plano kasi habaan yung term to five years.
 
-**[01:21:19.700] Senator Sherwin "Win" T. Gatchalian** (asr-001125)  
+**[01:21:19.700] Senate President Sherwin "Win" T. Gatchalian** (asr-001125)  
 Kung magaling yung kapitan, walang problema. Pero kung yung kapitan bulok, problema tayo.
 
-**[01:21:24.520] Senator Sherwin "Win" T. Gatchalian** (asr-001126)  
+**[01:21:24.520] Senate President Sherwin "Win" T. Gatchalian** (asr-001126)  
 Lalo na kung corrupt.
 
-**[01:21:26.140] Senator Sherwin "Win" T. Gatchalian** (asr-001127)  
+**[01:21:26.140] Senate President Sherwin "Win" T. Gatchalian** (asr-001127)  
 Di ba, Tito Sen?
 
-**[01:21:27.460] Senator Sherwin "Win" T. Gatchalian** (asr-001128)  
+**[01:21:27.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001128)  
 Yun yung interpolation mo kahapon.
 
-**[01:21:30.560] Senator Sherwin "Win" T. Gatchalian** (asr-001129)  
+**[01:21:30.560] Senate President Sherwin "Win" T. Gatchalian** (asr-001129)  
 So I would like to pick your brains on your opinion on extending the five-year term.
 
-**[01:21:36.460] Senator Sherwin "Win" T. Gatchalian** (asr-001130)  
+**[01:21:36.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001130)  
 And then what are the
 
-**[01:21:37.460] Senator Sherwin "Win" T. Gatchalian** (asr-001131)  
+**[01:21:37.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001131)  
 recourses
 
-**[01:21:38.460] Senator Sherwin "Win" T. Gatchalian** (asr-001132)  
+**[01:21:38.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001132)  
 that our constituents can go to, especially with the Ombudsman?
 
-**[01:21:44.220] Senator Sherwin "Win" T. Gatchalian** (asr-001133)  
+**[01:21:44.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001133)  
 Kung may mga kapitan na hindi nagfa-function, hindi nagtatrabaho, corrupt, ano yung mga remedies nila?
 
 **[01:21:50.820] Ombudsman Jesus Crispin C. Remulla** (asr-001134)  
@@ -3418,70 +3418,70 @@ so that we can be a better country.
 **[01:24:25.220] Ombudsman Jesus Crispin C. Remulla** (asr-001172)  
 I think that that's one of the problems besetting us right now.
 
-**[01:24:29.770] Senator Sherwin "Win" T. Gatchalian** (asr-001173)  
+**[01:24:29.770] Senate President Sherwin "Win" T. Gatchalian** (asr-001173)  
 Ombudsman, I really appreciate your...
 
-**[01:24:35.330] Senator Sherwin "Win" T. Gatchalian** (asr-001174)  
+**[01:24:35.330] Senate President Sherwin "Win" T. Gatchalian** (asr-001174)  
 being proactive instead of just waiting for cases to be filed
 
-**[01:24:39.390] Senator Sherwin "Win" T. Gatchalian** (asr-001175)  
+**[01:24:39.390] Senate President Sherwin "Win" T. Gatchalian** (asr-001175)  
 and aaktuhan.
 
-**[01:24:40.950] Senator Sherwin "Win" T. Gatchalian** (asr-001176)  
+**[01:24:40.950] Senate President Sherwin "Win" T. Gatchalian** (asr-001176)  
 Yung nakikita ko na proactive ngayon ang Ombudsman,
 
-**[01:24:43.410] Senator Sherwin "Win" T. Gatchalian** (asr-001177)  
+**[01:24:43.410] Senate President Sherwin "Win" T. Gatchalian** (asr-001177)  
 meaning you go after the issues before it explodes,
 
-**[01:24:49.110] Senator Sherwin "Win" T. Gatchalian** (asr-001178)  
+**[01:24:49.110] Senate President Sherwin "Win" T. Gatchalian** (asr-001178)  
 which is the right way to do.
 
-**[01:24:51.670] Senator Sherwin "Win" T. Gatchalian** (asr-001179)  
+**[01:24:51.670] Senate President Sherwin "Win" T. Gatchalian** (asr-001179)  
 However, kagaya ng nasabi ng ating mga kasamahan,
 
-**[01:24:55.250] Senator Sherwin "Win" T. Gatchalian** (asr-001180)  
+**[01:24:55.250] Senate President Sherwin "Win" T. Gatchalian** (asr-001180)  
 the wheels of justice, kasama dito ang judiciary.
 
-**[01:24:59.490] Senator Sherwin "Win" T. Gatchalian** (asr-001181)  
+**[01:24:59.490] Senate President Sherwin "Win" T. Gatchalian** (asr-001181)  
 Kanina narinig ko sinabi niyo na it takes on average 15 years in the Sandiganbayan
 
-**[01:25:03.790] Senator Sherwin "Win" T. Gatchalian** (asr-001182)  
+**[01:25:03.790] Senate President Sherwin "Win" T. Gatchalian** (asr-001182)  
 to resolve a case.
 
-**[01:25:05.330] Senator Sherwin "Win" T. Gatchalian** (asr-001183)  
+**[01:25:05.330] Senate President Sherwin "Win" T. Gatchalian** (asr-001183)  
 Ngayon, the CA also reverses a lot of the decisions you make.
 
-**[01:25:12.990] Senator Sherwin "Win" T. Gatchalian** (asr-001184)  
+**[01:25:12.990] Senate President Sherwin "Win" T. Gatchalian** (asr-001184)  
 And I'm not blaming them.
 
-**[01:25:15.170] Senator Sherwin "Win" T. Gatchalian** (asr-001185)  
+**[01:25:15.170] Senate President Sherwin "Win" T. Gatchalian** (asr-001185)  
 I am just saying, yung wheels of justice putol eh.
 
-**[01:25:20.230] Senator Sherwin "Win" T. Gatchalian** (asr-001186)  
+**[01:25:20.230] Senate President Sherwin "Win" T. Gatchalian** (asr-001186)  
 Hindi gumugulong eh.
 
-**[01:25:21.510] Senator Sherwin "Win" T. Gatchalian** (asr-001187)  
+**[01:25:21.510] Senate President Sherwin "Win" T. Gatchalian** (asr-001187)  
 Parang na-stuck up siya.
 
-**[01:25:23.010] Senator Sherwin "Win" T. Gatchalian** (asr-001188)  
+**[01:25:23.010] Senate President Sherwin "Win" T. Gatchalian** (asr-001188)  
 So what efforts is the ombudsman doing together with the judiciary
 
-**[01:25:28.670] Senator Sherwin "Win" T. Gatchalian** (asr-001189)  
+**[01:25:28.670] Senate President Sherwin "Win" T. Gatchalian** (asr-001189)  
 to resolve this turning of the will of justice
 
-**[01:25:34.670] Senator Sherwin "Win" T. Gatchalian** (asr-001190)  
+**[01:25:34.670] Senate President Sherwin "Win" T. Gatchalian** (asr-001190)  
 to make it more effective?
 
-**[01:25:35.330] Senator Sherwin "Win" T. Gatchalian** (asr-001191)  
+**[01:25:35.330] Senate President Sherwin "Win" T. Gatchalian** (asr-001191)  
 More efficient, faster, and also to make it just for our constituents?
 
-**[01:25:42.110] Senator Sherwin "Win" T. Gatchalian** (asr-001192)  
+**[01:25:42.110] Senate President Sherwin "Win" T. Gatchalian** (asr-001192)  
 Kasi kung ang Ombudsman proactive,
 
-**[01:25:44.870] Senator Sherwin "Win" T. Gatchalian** (asr-001193)  
+**[01:25:44.870] Senate President Sherwin "Win" T. Gatchalian** (asr-001193)  
 kabilang banda naman hindi,
 
-**[01:25:46.830] Senator Sherwin "Win" T. Gatchalian** (asr-001194)  
+**[01:25:46.830] Senate President Sherwin "Win" T. Gatchalian** (asr-001194)  
 sayang, sayang yung efforts.
 
 **[01:25:49.270] Ombudsman Jesus Crispin C. Remulla** (asr-001195)  
@@ -3601,22 +3601,22 @@ we will be a much better country, Your Honor.
 **[01:27:55.770] Ombudsman Jesus Crispin C. Remulla** (asr-001233)  
 We will be a much, much better country.
 
-**[01:27:58.670] Senator Sherwin "Win" T. Gatchalian** (asr-001234)  
+**[01:27:58.670] Senate President Sherwin "Win" T. Gatchalian** (asr-001234)  
 With your coordination, what's the feedback?
 
-**[01:28:01.190] Senator Sherwin "Win" T. Gatchalian** (asr-001235)  
+**[01:28:01.190] Senate President Sherwin "Win" T. Gatchalian** (asr-001235)  
 I heard you say na meron
 
-**[01:28:02.650] Senator Sherwin "Win" T. Gatchalian** (asr-001236)  
+**[01:28:02.650] Senate President Sherwin "Win" T. Gatchalian** (asr-001236)  
 you have a...
 
-**[01:28:03.750] Senator Sherwin "Win" T. Gatchalian** (asr-001237)  
+**[01:28:03.750] Senate President Sherwin "Win" T. Gatchalian** (asr-001237)  
 Coordination or that committee.
 
-**[01:28:06.430] Senator Sherwin "Win" T. Gatchalian** (asr-001238)  
+**[01:28:06.430] Senate President Sherwin "Win" T. Gatchalian** (asr-001238)  
 Now, what's the feedback from the judiciary?
 
-**[01:28:08.430] Senator Sherwin "Win" T. Gatchalian** (asr-001239)  
+**[01:28:08.430] Senate President Sherwin "Win" T. Gatchalian** (asr-001239)  
 Are they all...
 
 **[01:28:08.770] Ombudsman Jesus Crispin C. Remulla** (asr-001240)  
@@ -3709,178 +3709,178 @@ is to be able to correct
 **[01:29:17.730] Ombudsman Jesus Crispin C. Remulla** (asr-001269)  
 and then make efficient the wheels of justice, Your Honor.
 
-**[01:29:23.130] Senator Sherwin "Win" T. Gatchalian** (asr-001270)  
+**[01:29:23.130] Senate President Sherwin "Win" T. Gatchalian** (asr-001270)  
 I support that, Ombudsman.
 
-**[01:29:25.170] Senator Sherwin "Win" T. Gatchalian** (asr-001271)  
+**[01:29:25.170] Senate President Sherwin "Win" T. Gatchalian** (asr-001271)  
 And like mga ano lang, in the ordinary day-to-day activities
 
-**[01:29:32.350] Senator Sherwin "Win" T. Gatchalian** (asr-001272)  
+**[01:29:32.350] Senate President Sherwin "Win" T. Gatchalian** (asr-001272)  
 of our country,
 
-**[01:29:33.450] Senator Sherwin "Win" T. Gatchalian** (asr-001273)  
+**[01:29:33.450] Senate President Sherwin "Win" T. Gatchalian** (asr-001273)  
 our constituents,
 
-**[01:29:34.770] Senator Sherwin "Win" T. Gatchalian** (asr-001274)  
+**[01:29:34.770] Senate President Sherwin "Win" T. Gatchalian** (asr-001274)  
 especially in public service,
 
-**[01:29:38.010] Senator Sherwin "Win" T. Gatchalian** (asr-001275)  
+**[01:29:38.010] Senate President Sherwin "Win" T. Gatchalian** (asr-001275)  
 kagaya po sa mga kapitan,
 
-**[01:29:40.590] Senator Sherwin "Win" T. Gatchalian** (asr-001276)  
+**[01:29:40.590] Senate President Sherwin "Win" T. Gatchalian** (asr-001276)  
 iyan diretso sa tao iyan.
 
-**[01:29:42.830] Senator Sherwin "Win" T. Gatchalian** (asr-001277)  
+**[01:29:42.830] Senate President Sherwin "Win" T. Gatchalian** (asr-001277)  
 And pag nagsumbong ang tao sa Ombudsman
 
-**[01:29:45.570] Senator Sherwin "Win" T. Gatchalian** (asr-001278)  
+**[01:29:45.570] Senate President Sherwin "Win" T. Gatchalian** (asr-001278)  
 or sa ibang mga government agencies,
 
-**[01:29:48.190] Senator Sherwin "Win" T. Gatchalian** (asr-001279)  
+**[01:29:48.190] Senate President Sherwin "Win" T. Gatchalian** (asr-001279)  
 kung hindi nag-function yung accountability mechanism natin,
 
-**[01:29:51.610] Senator Sherwin "Win" T. Gatchalian** (asr-001280)  
+**[01:29:51.610] Senate President Sherwin "Win" T. Gatchalian** (asr-001280)  
 when I say accountability, lahat ito,
 
-**[01:29:55.410] Senator Sherwin "Win" T. Gatchalian** (asr-001281)  
+**[01:29:55.410] Senate President Sherwin "Win" T. Gatchalian** (asr-001281)  
 from the Ombudsman to the judiciary,
 
-**[01:29:58.910] Senator Sherwin "Win" T. Gatchalian** (asr-001282)  
+**[01:29:58.910] Senate President Sherwin "Win" T. Gatchalian** (asr-001282)  
 hindi naman
 
-**[01:30:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-001283)  
+**[01:30:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001283)  
 nadedehado yung respondent
 
-**[01:30:03.940] Senator Sherwin "Win" T. Gatchalian** (asr-001284)  
+**[01:30:03.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001284)  
 o yung nakusahan.
 
-**[01:30:05.180] Senator Sherwin "Win" T. Gatchalian** (asr-001285)  
+**[01:30:05.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001285)  
 Nadedehado yung taong bayan.
 
-**[01:30:07.540] Senator Sherwin "Win" T. Gatchalian** (asr-001286)  
+**[01:30:07.540] Senate President Sherwin "Win" T. Gatchalian** (asr-001286)  
 Sila ang nadedehado dito.
 
-**[01:30:09.680] Senator Sherwin "Win" T. Gatchalian** (asr-001287)  
+**[01:30:09.680] Senate President Sherwin "Win" T. Gatchalian** (asr-001287)  
 Kaya I really support
 
-**[01:30:11.260] Senator Sherwin "Win" T. Gatchalian** (asr-001288)  
+**[01:30:11.260] Senate President Sherwin "Win" T. Gatchalian** (asr-001288)  
 making our
 
-**[01:30:13.620] Senator Sherwin "Win" T. Gatchalian** (asr-001289)  
+**[01:30:13.620] Senate President Sherwin "Win" T. Gatchalian** (asr-001289)  
 wills of justice efficient.
 
-**[01:30:15.220] Senator Sherwin "Win" T. Gatchalian** (asr-001290)  
+**[01:30:15.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001290)  
 And that's what hopefully we can
 
-**[01:30:17.340] Senator Sherwin "Win" T. Gatchalian** (asr-001291)  
+**[01:30:17.340] Senate President Sherwin "Win" T. Gatchalian** (asr-001291)  
 contribute
 
-**[01:30:19.360] Senator Sherwin "Win" T. Gatchalian** (asr-001292)  
+**[01:30:19.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001292)  
 during the budget season.
 
-**[01:30:21.460] Senator Sherwin "Win" T. Gatchalian** (asr-001293)  
+**[01:30:21.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001293)  
 In all aspects, in all agencies
 
-**[01:30:23.420] Senator Sherwin "Win" T. Gatchalian** (asr-001294)  
+**[01:30:23.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001294)  
 as well.
 
 **[01:30:25.080] Ombudsman Jesus Crispin C. Remulla** (asr-001295)  
 Thank you, Your Honor.
 
-**[01:30:26.420] Senator Sherwin "Win" T. Gatchalian** (asr-001296)  
+**[01:30:26.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001296)  
 I have a few items in the budget
 
-**[01:30:29.180] Senator Sherwin "Win" T. Gatchalian** (asr-001297)  
+**[01:30:29.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001297)  
 that I want to ask.
 
-**[01:30:33.200] Senator Sherwin "Win" T. Gatchalian** (asr-001298)  
+**[01:30:33.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001298)  
 I asked this last year, but I
 
-**[01:30:35.340] Senator Sherwin "Win" T. Gatchalian** (asr-001299)  
+**[01:30:35.340] Senate President Sherwin "Win" T. Gatchalian** (asr-001299)  
 saw an increase in
 
-**[01:30:37.420] Senator Sherwin "Win" T. Gatchalian** (asr-001300)  
+**[01:30:37.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001300)  
 the development and implementation
 
-**[01:30:39.400] Senator Sherwin "Win" T. Gatchalian** (asr-001301)  
+**[01:30:39.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001301)  
 of integrity promotion programs
 
-**[01:30:41.740] Senator Sherwin "Win" T. Gatchalian** (asr-001302)  
+**[01:30:41.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001302)  
 to generate a critical
 
-**[01:30:43.580] Senator Sherwin "Win" T. Gatchalian** (asr-001303)  
+**[01:30:43.580] Senate President Sherwin "Win" T. Gatchalian** (asr-001303)  
 mass of anti-corruption advocates
 
-**[01:30:45.760] Senator Sherwin "Win" T. Gatchalian** (asr-001304)  
+**[01:30:45.760] Senate President Sherwin "Win" T. Gatchalian** (asr-001304)  
 in the campaign against
 
-**[01:30:47.600] Senator Sherwin "Win" T. Gatchalian** (asr-001305)  
+**[01:30:47.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001305)  
 official abuse.
 
-**[01:30:49.520] Senator Sherwin "Win" T. Gatchalian** (asr-001306)  
+**[01:30:49.520] Senate President Sherwin "Win" T. Gatchalian** (asr-001306)  
 From 44 million to 148
 
-**[01:30:52.140] Senator Sherwin "Win" T. Gatchalian** (asr-001307)  
+**[01:30:52.140] Senate President Sherwin "Win" T. Gatchalian** (asr-001307)  
 million.
 
-**[01:30:54.280] Senator Sherwin "Win" T. Gatchalian** (asr-001308)  
+**[01:30:54.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001308)  
 Can you give us
 
-**[01:30:55.540] Senator Sherwin "Win" T. Gatchalian** (asr-001309)  
+**[01:30:55.540] Senate President Sherwin "Win" T. Gatchalian** (asr-001309)  
 a preview on
 
-**[01:30:58.960] Senator Sherwin "Win" T. Gatchalian** (asr-001310)  
+**[01:30:58.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001310)  
 why this program
 
-**[01:31:00.900] Senator Sherwin "Win" T. Gatchalian** (asr-001311)  
+**[01:31:00.900] Senate President Sherwin "Win" T. Gatchalian** (asr-001311)  
 increased? And I support this
 
-**[01:31:02.440] Senator Sherwin "Win" T. Gatchalian** (asr-001312)  
+**[01:31:02.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001312)  
 because obviously
 
-**[01:31:04.200] Senator Sherwin "Win" T. Gatchalian** (asr-001313)  
+**[01:31:04.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001313)  
 fighting corruption
 
-**[01:31:07.180] Senator Sherwin "Win" T. Gatchalian** (asr-001314)  
+**[01:31:07.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001314)  
 comes with promoting
 
-**[01:31:09.180] Senator Sherwin "Win" T. Gatchalian** (asr-001315)  
+**[01:31:09.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001315)  
 anti-corruption.
 
-**[01:31:10.820] Senator Sherwin "Win" T. Gatchalian** (asr-001316)  
+**[01:31:10.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001316)  
 Making sure that if we can promote it
 
-**[01:31:12.920] Senator Sherwin "Win" T. Gatchalian** (asr-001317)  
+**[01:31:12.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001317)  
 to our students, it's better
 
-**[01:31:14.460] Senator Sherwin "Win" T. Gatchalian** (asr-001318)  
+**[01:31:14.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001318)  
 for them to know the consequences
 
-**[01:31:17.600] Senator Sherwin "Win" T. Gatchalian** (asr-001319)  
+**[01:31:17.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001319)  
 before they enter the government service.
 
-**[01:31:20.000] Senator Sherwin "Win" T. Gatchalian** (asr-001320)  
+**[01:31:20.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001320)  
 And also
 
-**[01:31:20.420] Senator Sherwin "Win" T. Gatchalian** (asr-001321)  
+**[01:31:20.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001321)  
 the noble
 
-**[01:31:22.480] Senator Sherwin "Win" T. Gatchalian** (asr-001322)  
+**[01:31:22.480] Senate President Sherwin "Win" T. Gatchalian** (asr-001322)  
 philosophy
 
-**[01:31:24.860] Senator Sherwin "Win" T. Gatchalian** (asr-001323)  
+**[01:31:24.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001323)  
 of going into public service.
 
-**[01:31:26.480] Senator Sherwin "Win" T. Gatchalian** (asr-001324)  
+**[01:31:26.480] Senate President Sherwin "Win" T. Gatchalian** (asr-001324)  
 So, I just want to get
 
-**[01:31:27.500] Senator Sherwin "Win" T. Gatchalian** (asr-001325)  
+**[01:31:27.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001325)  
 feedback.
 
-**[01:31:28.960] Senator Sherwin "Win" T. Gatchalian** (asr-001326)  
+**[01:31:28.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001326)  
 On why this program increased
 
-**[01:31:30.800] Senator Sherwin "Win" T. Gatchalian** (asr-001327)  
+**[01:31:30.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001327)  
 by almost three-folds.
 
 **[01:31:33.300] Ombudsman Jesus Crispin C. Remulla** (asr-001328)  
@@ -3970,82 +3970,82 @@ and to be able to know the concept of corruption
 **[01:32:45.780] Ombudsman Jesus Crispin C. Remulla** (asr-001356)  
 as a bad concept, Your Honor.
 
-**[01:32:48.940] Senator Sherwin "Win" T. Gatchalian** (asr-001357)  
+**[01:32:48.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001357)  
 Thank you for that, Ombudsman.
 
-**[01:32:50.980] Senator Sherwin "Win" T. Gatchalian** (asr-001358)  
+**[01:32:50.980] Senate President Sherwin "Win" T. Gatchalian** (asr-001358)  
 I really support that.
 
-**[01:32:52.540] Senator Sherwin "Win" T. Gatchalian** (asr-001359)  
+**[01:32:52.540] Senate President Sherwin "Win" T. Gatchalian** (asr-001359)  
 If we can open the eyes and minds of our students
 
-**[01:32:56.040] Senator Sherwin "Win" T. Gatchalian** (asr-001360)  
+**[01:32:56.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001360)  
 in not being in integrity,
 
-**[01:32:58.960] Senator Sherwin "Win" T. Gatchalian** (asr-001361)  
+**[01:32:58.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001361)  
 and fighting corruption,
 
-**[01:32:59.960] Senator Sherwin "Win" T. Gatchalian** (asr-001362)  
+**[01:32:59.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001362)  
 I think that is the best direction.
 
-**[01:33:04.080] Senator Sherwin "Win" T. Gatchalian** (asr-001363)  
+**[01:33:04.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001363)  
 And is this program directed towards that?
 
-**[01:33:09.280] Senator Sherwin "Win" T. Gatchalian** (asr-001364)  
+**[01:33:09.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001364)  
 Yung mga sa mga bata?
 
 **[01:33:11.080] Ombudsman Jesus Crispin C. Remulla** (asr-001365)  
 Yes, Your Honor.
 
-**[01:33:14.200] Senator Sherwin "Win" T. Gatchalian** (asr-001366)  
+**[01:33:14.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001366)  
 Actually, meron akong anecdote.
 
-**[01:33:16.200] Senator Sherwin "Win" T. Gatchalian** (asr-001367)  
+**[01:33:16.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001367)  
 Nakwento ko ito sa ating chairman eh.
 
-**[01:33:17.960] Senator Sherwin "Win" T. Gatchalian** (asr-001368)  
+**[01:33:17.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001368)  
 Pag may mga lumalapit sa akin
 
-**[01:33:21.600] Senator Sherwin "Win" T. Gatchalian** (asr-001369)  
+**[01:33:21.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001369)  
 humihingi ng job recommendation sa gobyerno,
 
-**[01:33:25.240] Senator Sherwin "Win" T. Gatchalian** (asr-001370)  
+**[01:33:25.240] Senate President Sherwin "Win" T. Gatchalian** (asr-001370)  
 ang pinipili nila kaagad customs.
 
-**[01:33:28.080] Senator Sherwin "Win" T. Gatchalian** (asr-001371)  
+**[01:33:28.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001371)  
 No.
 
-**[01:33:28.880] Senator Sherwin "Win" T. Gatchalian** (asr-001372)  
+**[01:33:28.880] Senate President Sherwin "Win" T. Gatchalian** (asr-001372)  
 Halos lahat.
 
-**[01:33:29.440] Senator Sherwin "Win" T. Gatchalian** (asr-001373)  
+**[01:33:29.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001373)  
 Sabi ko sa inyo, halos lahat
 
-**[01:33:30.080] Senator Sherwin "Win" T. Gatchalian** (asr-001374)  
+**[01:33:30.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001374)  
 ng recommendation customs.
 
-**[01:33:34.120] Senator Sherwin "Win" T. Gatchalian** (asr-001375)  
+**[01:33:34.120] Senate President Sherwin "Win" T. Gatchalian** (asr-001375)  
 But the recommendation is for the wrong reason.
 
-**[01:33:36.400] Senator Sherwin "Win" T. Gatchalian** (asr-001376)  
+**[01:33:36.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001376)  
 And I made that example because itong mga batang ito na naghahanap ng trabaho,
 
-**[01:33:42.360] Senator Sherwin "Win" T. Gatchalian** (asr-001377)  
+**[01:33:42.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001377)  
 wrong reasons yung kanilang iniisip.
 
-**[01:33:44.160] Senator Sherwin "Win" T. Gatchalian** (asr-001378)  
+**[01:33:44.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001378)  
 Bakit customs?
 
-**[01:33:45.000] Senator Sherwin "Win" T. Gatchalian** (asr-001379)  
+**[01:33:45.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001379)  
 Bakit hindi sa DOST or sa ibang mga agencies?
 
-**[01:33:51.200] Senator Sherwin "Win" T. Gatchalian** (asr-001380)  
+**[01:33:51.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001380)  
 So that's why mas maganda kung maaga pa lang eh natuturuan na natin sila.
 
-**[01:33:58.080] Senator Sherwin "Win" T. Gatchalian** (asr-001381)  
+**[01:33:58.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001381)  
 Yung kultura nila maiba,
 
-**[01:33:59.360] Senator Sherwin "Win" T. Gatchalian** (asr-001382)  
+**[01:33:59.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001382)  
 yung kanilang pag-iisip.
 
 **[01:34:01.400] Ombudsman Jesus Crispin C. Remulla** (asr-001383)  
@@ -4099,13 +4099,13 @@ the way that they comport themselves.
 **[01:34:43.520] Ombudsman Jesus Crispin C. Remulla** (asr-001399)  
 I think it can be done with the proper leadership, Your Honor.
 
-**[01:34:46.600] Senator Sherwin "Win" T. Gatchalian** (asr-001400)  
+**[01:34:46.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001400)  
 Thank you, Mr. Ambudsman.
 
-**[01:34:47.640] Senator Sherwin "Win" T. Gatchalian** (asr-001401)  
+**[01:34:47.640] Senate President Sherwin "Win" T. Gatchalian** (asr-001401)  
 Thank you, Mr. Chairman.
 
-**[01:34:48.960] Senator Sherwin "Win" T. Gatchalian** (asr-001402)  
+**[01:34:48.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001402)  
 That's it for me.
 
 **[01:34:50.600] Senator Joseph Victor "JV" G. Ejercito** (asr-001403)  
@@ -4117,34 +4117,34 @@ Siguro we just have a few questions.
 **[01:34:55.000] Senator Joseph Victor "JV" G. Ejercito** (asr-001405)  
 Senator Lacson.
 
-**[01:34:55.880] Senator Panfilo Lacson** (asr-001406)  
+**[01:34:55.880] Senator Panfilo "Ping" M. Lacson** (asr-001406)  
 Yes.
 
-**[01:34:56.200] Senator Panfilo Lacson** (asr-001407)  
+**[01:34:56.200] Senator Panfilo "Ping" M. Lacson** (asr-001407)  
 Gusto ko lang makuha yung official
 
-**[01:34:57.480] Senator Panfilo Lacson** (asr-001408)  
+**[01:34:57.480] Senator Panfilo "Ping" M. Lacson** (asr-001408)  
 position ng Ombudsman doon sa...
 
-**[01:34:58.480] Senator Panfilo Lacson** (asr-001409)  
+**[01:34:58.480] Senator Panfilo "Ping" M. Lacson** (asr-001409)  
 kasi nag-pass kami ng
 
-**[01:34:59.200] Senator Panfilo Lacson** (asr-001410)  
+**[01:34:59.200] Senator Panfilo "Ping" M. Lacson** (asr-001410)  
 Judiciary Fiscal Autonomy Act.
 
-**[01:35:00.400] Senator Panfilo Lacson** (asr-001411)  
+**[01:35:00.400] Senator Panfilo "Ping" M. Lacson** (asr-001411)  
 Because we passed the Judiciary Fiscal Autonomy Act.
 
-**[01:35:05.080] Senator Panfilo Lacson** (asr-001412)  
+**[01:35:05.080] Senator Panfilo "Ping" M. Lacson** (asr-001412)  
 Of course, guaranteed naman talaga sa Constitution yung fiscal autonomy.
 
-**[01:35:09.160] Senator Panfilo Lacson** (asr-001413)  
+**[01:35:09.160] Senator Panfilo "Ping" M. Lacson** (asr-001413)  
 Pero ito na-strengthen pa.
 
-**[01:35:11.200] Senator Panfilo Lacson** (asr-001414)  
+**[01:35:11.200] Senator Panfilo "Ping" M. Lacson** (asr-001414)  
 But again, ano yung official position ninyo if we enact a similar law
 
-**[01:35:16.080] Senator Panfilo Lacson** (asr-001415)  
+**[01:35:16.080] Senator Panfilo "Ping" M. Lacson** (asr-001415)  
 that mirrors the statutory powers, yung fiscal autonomy ng judiciary?
 
 **[01:35:24.390] Ombudsman Jesus Crispin C. Remulla** (asr-001416)  
@@ -4177,61 +4177,61 @@ we might be disappointed.
 **[01:35:51.350] Ombudsman Jesus Crispin C. Remulla** (asr-001425)  
 We just want things to be right when we start this, Your Honor.
 
-**[01:35:55.430] Senator Panfilo Lacson** (asr-001426)  
+**[01:35:55.430] Senator Panfilo "Ping" M. Lacson** (asr-001426)  
 I was referring to the Ombudsman getting the same statutory protection.
 
-**[01:35:58.590] Senator Panfilo Lacson** (asr-001427)  
+**[01:35:58.590] Senator Panfilo "Ping" M. Lacson** (asr-001427)  
 Magkaroon din kayo,
 
-**[01:35:59.790] Senator Panfilo Lacson** (asr-001428)  
+**[01:35:59.790] Senator Panfilo "Ping" M. Lacson** (asr-001428)  
 kasi pagka merong fiscal autonomy,
 
-**[01:36:00.470] Senator Panfilo Lacson** (asr-001429)  
+**[01:36:00.470] Senator Panfilo "Ping" M. Lacson** (asr-001429)  
 yung parang full fiscal autonomy, not just in the implementation,
 
-**[01:36:08.990] Senator Panfilo Lacson** (asr-001430)  
+**[01:36:08.990] Senator Panfilo "Ping" M. Lacson** (asr-001430)  
 but in the proposal.
 
-**[01:36:11.450] Senator Panfilo Lacson** (asr-001431)  
+**[01:36:11.450] Senator Panfilo "Ping" M. Lacson** (asr-001431)  
 But I notice also, kasi in spite of the passage of that law,
 
-**[01:36:17.350] Senator Panfilo Lacson** (asr-001432)  
+**[01:36:17.350] Senator Panfilo "Ping" M. Lacson** (asr-001432)  
 na binibigyan na ng complete fiscal autonomy ang judiciary, nabawasan pa rin sila sa NEP eh.
 
-**[01:36:23.190] Senator Panfilo Lacson** (asr-001433)  
+**[01:36:23.190] Senator Panfilo "Ping" M. Lacson** (asr-001433)  
 What they proposed. That's why that is an issue that I'd like to raise.
 
-**[01:36:26.630] Senator Panfilo Lacson** (asr-001434)  
+**[01:36:26.630] Senator Panfilo "Ping" M. Lacson** (asr-001434)  
 Hindi ko lang ni-raise sa DBCC, Mr. President, na bakit nagpasa tayo ng law, may fiscal autonomy,
 
-**[01:36:34.490] Senator Panfilo Lacson** (asr-001435)  
+**[01:36:34.490] Senator Panfilo "Ping" M. Lacson** (asr-001435)  
 meaning sila na yung nagpe-prepare ng kanilang NEP, at bahala na yung Congress
 
-**[01:36:41.010] Senator Panfilo Lacson** (asr-001436)  
+**[01:36:41.010] Senator Panfilo "Ping" M. Lacson** (asr-001436)  
 kung anong gagawin by our power of review and oversight, at saka yung pag-review ng National
 
-**[01:36:48.530] Senator Panfilo Lacson** (asr-001437)  
+**[01:36:48.530] Senator Panfilo "Ping" M. Lacson** (asr-001437)  
 Expenditure Program.
 
-**[01:36:49.530] Senator Panfilo Lacson** (asr-001438)  
+**[01:36:49.530] Senator Panfilo "Ping" M. Lacson** (asr-001438)  
 Kami na magre-review.
 
-**[01:36:51.530] Senator Panfilo Lacson** (asr-001439)  
+**[01:36:51.530] Senator Panfilo "Ping" M. Lacson** (asr-001439)  
 Ang nangyari, I think it was slashed by two billion yata,
 
-**[01:36:56.610] Senator Panfilo Lacson** (asr-001440)  
+**[01:36:56.610] Senator Panfilo "Ping" M. Lacson** (asr-001440)  
 o three billion eh, as proposed.
 
-**[01:36:59.750] Senator Panfilo Lacson** (asr-001441)  
+**[01:36:59.750] Senator Panfilo "Ping" M. Lacson** (asr-001441)  
 So where's the fiscal autonomy?
 
-**[01:37:01.590] Senator Panfilo Lacson** (asr-001442)  
+**[01:37:01.590] Senator Panfilo "Ping" M. Lacson** (asr-001442)  
 So now I'm asking the official position of the Ombudsman, if the same statutory protection
 
-**[01:37:06.650] Senator Panfilo Lacson** (asr-001443)  
+**[01:37:06.650] Senator Panfilo "Ping" M. Lacson** (asr-001443)  
 sa inyong fiscal autonomy will be granted, para lang ma-enhance yung inyong integrity, independence
 
-**[01:37:14.670] Senator Panfilo Lacson** (asr-001444)  
+**[01:37:14.670] Senator Panfilo "Ping" M. Lacson** (asr-001444)  
 pagdating sa budgeting process.
 
 **[01:37:17.470] Ombudsman Jesus Crispin C. Remulla** (asr-001445)  
@@ -4246,70 +4246,70 @@ But of course, we will have to be transparent about everything we do.
 **[01:37:26.470] Ombudsman Jesus Crispin C. Remulla** (asr-001448)  
 Because it's the last moral compass that we have in government, so it has to be transparent,
 
-**[01:37:31.610] Senator Panfilo Lacson** (asr-001449)  
+**[01:37:31.610] Senator Panfilo "Ping" M. Lacson** (asr-001449)  
 Your Honor.
 
-**[01:37:32.610] Senator Panfilo Lacson** (asr-001450)  
+**[01:37:32.610] Senator Panfilo "Ping" M. Lacson** (asr-001450)  
 Mahirap din eh.
 
-**[01:37:33.610] Senator Panfilo Lacson** (asr-001451)  
+**[01:37:33.610] Senator Panfilo "Ping" M. Lacson** (asr-001451)  
 Pag walang fiscal autonomy, at least sa implementation, sa paggastos, okay yun eh.
 
-**[01:37:37.150] Senator Panfilo Lacson** (asr-001452)  
+**[01:37:37.150] Senator Panfilo "Ping" M. Lacson** (asr-001452)  
 Pero sa proposal, you're at the mercy of the DBCC.
 
-**[01:37:41.790] Senator Panfilo Lacson** (asr-001453)  
+**[01:37:41.790] Senator Panfilo "Ping" M. Lacson** (asr-001453)  
 So tulad niyo, nag-propose kayo ng 12 billion plus, 12.8, something like that,
 
-**[01:37:47.150] Senator Panfilo Lacson** (asr-001454)  
+**[01:37:47.150] Senator Panfilo "Ping" M. Lacson** (asr-001454)  
 pero ang cut 45% eh.
 
-**[01:37:50.650] Senator Panfilo Lacson** (asr-001455)  
+**[01:37:50.650] Senator Panfilo "Ping" M. Lacson** (asr-001455)  
 So yun lang.
 
-**[01:37:52.550] Senator Panfilo Lacson** (asr-001456)  
+**[01:37:52.550] Senator Panfilo "Ping" M. Lacson** (asr-001456)  
 I'm just thinking.
 
-**[01:37:53.550] Senator Panfilo Lacson** (asr-001457)  
+**[01:37:53.550] Senator Panfilo "Ping" M. Lacson** (asr-001457)  
 Kasi binigyan na namin,
 
-**[01:37:54.590] Senator Panfilo Lacson** (asr-001458)  
+**[01:37:54.590] Senator Panfilo "Ping" M. Lacson** (asr-001458)  
 I think,
 
-**[01:37:55.590] Senator Panfilo Lacson** (asr-001459)  
+**[01:37:55.590] Senator Panfilo "Ping" M. Lacson** (asr-001459)  
 [unclear],
 
-**[01:38:00.470] Senator Panfilo Lacson** (asr-001464)  
+**[01:38:00.470] Senator Panfilo "Ping" M. Lacson** (asr-001464)  
 yun ang
 
-**[01:38:01.470] Senator Panfilo Lacson** (asr-001465)  
+**[01:38:01.470] Senator Panfilo "Ping" M. Lacson** (asr-001465)  
 RA number
 
-**[01:38:02.470] Senator Panfilo Lacson** (asr-001466)  
+**[01:38:02.470] Senator Panfilo "Ping" M. Lacson** (asr-001466)  
 doon sa Judiciary
 
-**[01:38:03.470] Senator Panfilo Lacson** (asr-001467)  
+**[01:38:03.470] Senator Panfilo "Ping" M. Lacson** (asr-001467)  
 Fiscal Autonomy
 
-**[01:38:04.470] Senator Panfilo Lacson** (asr-001468)  
+**[01:38:04.470] Senator Panfilo "Ping" M. Lacson** (asr-001468)  
 Act.
 
-**[01:38:05.470] Senator Panfilo Lacson** (asr-001469)  
+**[01:38:05.470] Senator Panfilo "Ping" M. Lacson** (asr-001469)  
 So ang
 
-**[01:38:06.470] Senator Panfilo Lacson** (asr-001470)  
+**[01:38:06.470] Senator Panfilo "Ping" M. Lacson** (asr-001470)  
 official
 
-**[01:38:07.470] Senator Panfilo Lacson** (asr-001471)  
+**[01:38:07.470] Senator Panfilo "Ping" M. Lacson** (asr-001471)  
 position ninyo is
 
-**[01:38:08.470] Senator Panfilo Lacson** (asr-001472)  
+**[01:38:08.470] Senator Panfilo "Ping" M. Lacson** (asr-001472)  
 for that?
 
-**[01:38:09.470] Senator Panfilo Lacson** (asr-001473)  
+**[01:38:09.470] Senator Panfilo "Ping" M. Lacson** (asr-001473)  
 Yeah.
 
-**[01:38:10.470] Senator Panfilo Lacson** (asr-001474)  
+**[01:38:10.470] Senator Panfilo "Ping" M. Lacson** (asr-001474)  
 Thank you, Mr. Chairman.
 
 **[01:38:11.470] Senator Joseph Victor "JV" G. Ejercito** (asr-001475)  
@@ -4336,79 +4336,79 @@ in its appropriations. We can just
 **[01:38:31.670] Senator Joseph Victor "JV" G. Ejercito** (asr-001482)  
 enhance, no?
 
-**[01:38:33.470] Senator Panfilo Lacson** (asr-001483)  
+**[01:38:33.470] Senator Panfilo "Ping" M. Lacson** (asr-001483)  
 That's already in the Constitution, I think
 
-**[01:38:34.550] Senator Panfilo Lacson** (asr-001484)  
+**[01:38:34.550] Senator Panfilo "Ping" M. Lacson** (asr-001484)  
 Article XI?
 
-**[01:38:38.250] Senator Panfilo Lacson** (asr-001485)  
+**[01:38:38.250] Senator Panfilo "Ping" M. Lacson** (asr-001485)  
 That's correct.
 
-**[01:38:39.350] Senator Panfilo Lacson** (asr-001486)  
+**[01:38:39.350] Senator Panfilo "Ping" M. Lacson** (asr-001486)  
 Section 14 ba yan? Anyway,
 
-**[01:38:41.310] Senator Panfilo Lacson** (asr-001487)  
+**[01:38:41.310] Senator Panfilo "Ping" M. Lacson** (asr-001487)  
 nandiyan na yun, pero ang nire-refer ko
 
-**[01:38:43.930] Senator Panfilo Lacson** (asr-001488)  
+**[01:38:43.930] Senator Panfilo "Ping" M. Lacson** (asr-001488)  
 sa proposal,
 
-**[01:38:45.690] Senator Panfilo Lacson** (asr-001489)  
+**[01:38:45.690] Senator Panfilo "Ping" M. Lacson** (asr-001489)  
 kasi yung fiscal autonomy nila is in
 
-**[01:38:47.650] Senator Panfilo Lacson** (asr-001490)  
+**[01:38:47.650] Senator Panfilo "Ping" M. Lacson** (asr-001490)  
 the implementation, sa execution ng
 
-**[01:38:49.550] Senator Panfilo Lacson** (asr-001491)  
+**[01:38:49.550] Senator Panfilo "Ping" M. Lacson** (asr-001491)  
 budget, pero hindi covered yung proposal.
 
-**[01:38:52.450] Senator Panfilo Lacson** (asr-001492)  
+**[01:38:52.450] Senator Panfilo "Ping" M. Lacson** (asr-001492)  
 But then I'm wondering,
 
-**[01:38:53.650] Senator Panfilo Lacson** (asr-001493)  
+**[01:38:53.650] Senator Panfilo "Ping" M. Lacson** (asr-001493)  
 meron na nga sa Judiciary,
 
-**[01:38:55.410] Senator Panfilo Lacson** (asr-001494)  
+**[01:38:55.410] Senator Panfilo "Ping" M. Lacson** (asr-001494)  
 kinat pa rin ng DBCC.
 
-**[01:38:58.050] Senator Panfilo Lacson** (asr-001495)  
+**[01:38:58.050] Senator Panfilo "Ping" M. Lacson** (asr-001495)  
 So where's the fiscal autonomy
 
-**[01:38:59.670] Senator Panfilo Lacson** (asr-001496)  
+**[01:38:59.670] Senator Panfilo "Ping" M. Lacson** (asr-001496)  
 doon sa proposal? Dapat Congress
 
-**[01:39:02.250] Senator Panfilo Lacson** (asr-001497)  
+**[01:39:02.250] Senator Panfilo "Ping" M. Lacson** (asr-001497)  
 na yung magre-review.
 
-**[01:39:03.650] Senator Panfilo Lacson** (asr-001498)  
+**[01:39:03.650] Senator Panfilo "Ping" M. Lacson** (asr-001498)  
 Hindi na kayo dadaan sa
 
-**[01:39:04.790] Senator Panfilo Lacson** (asr-001499)  
+**[01:39:04.790] Senator Panfilo "Ping" M. Lacson** (asr-001499)  
 budget call. You'll still be
 
-**[01:39:07.670] Senator Panfilo Lacson** (asr-001500)  
+**[01:39:07.670] Senator Panfilo "Ping" M. Lacson** (asr-001500)  
 reporting to the DBCC
 
-**[01:39:09.370] Senator Panfilo Lacson** (asr-001501)  
+**[01:39:09.370] Senator Panfilo "Ping" M. Lacson** (asr-001501)  
 for processing or
 
-**[01:39:11.730] Senator Panfilo Lacson** (asr-001502)  
+**[01:39:11.730] Senator Panfilo "Ping" M. Lacson** (asr-001502)  
 vetting. So, anyway,
 
-**[01:39:13.830] Senator Panfilo Lacson** (asr-001503)  
+**[01:39:13.830] Senator Panfilo "Ping" M. Lacson** (asr-001503)  
 May power naman yung Congress.
 
-**[01:39:15.730] Senator Panfilo Lacson** (asr-001504)  
+**[01:39:15.730] Senator Panfilo "Ping" M. Lacson** (asr-001504)  
 Kami naman yung so-called power of the purse,
 
-**[01:39:17.890] Senator Panfilo Lacson** (asr-001505)  
+**[01:39:17.890] Senator Panfilo "Ping" M. Lacson** (asr-001505)  
 maski hindi...
 
-**[01:39:20.550] Senator Panfilo Lacson** (asr-001506)  
+**[01:39:20.550] Senator Panfilo "Ping" M. Lacson** (asr-001506)  
 Kasi hindi naman kami
 
-**[01:39:21.430] Senator Panfilo Lacson** (asr-001507)  
+**[01:39:21.430] Senator Panfilo "Ping" M. Lacson** (asr-001507)  
 nag-i-implement eh.
 
 **[01:39:23.150] Ombudsman Jesus Crispin C. Remulla** (asr-001508)  
@@ -4609,61 +4609,61 @@ We will do it.
 **[01:42:49.940] Senator Vicente C. Sotto III** (asr-001573)  
 All right. Thank you very much. Thank you for that.
 
-**[01:42:51.960] Senator Panfilo Lacson** (asr-001574)  
+**[01:42:51.960] Senator Panfilo "Ping" M. Lacson** (asr-001574)  
 Thank you.
 
-**[01:42:52.620] Senator Panfilo Lacson** (asr-001575)  
+**[01:42:52.620] Senator Panfilo "Ping" M. Lacson** (asr-001575)  
 Napag-usapan niyong basura.
 
-**[01:42:53.720] Senator Panfilo Lacson** (asr-001576)  
+**[01:42:53.720] Senator Panfilo "Ping" M. Lacson** (asr-001576)  
 I was tempted to inquire about the Taguig.
 
-**[01:42:57.840] Senator Panfilo Lacson** (asr-001577)  
+**[01:42:57.840] Senator Panfilo "Ping" M. Lacson** (asr-001577)  
 Baka mapagbintangan ako, nagde-demolition job.
 
-**[01:43:00.760] Senator Panfilo Lacson** (asr-001578)  
+**[01:43:00.760] Senator Panfilo "Ping" M. Lacson** (asr-001578)  
 Anyway, we're quietly but surely assisting the Ombudsman in this regard,
 
-**[01:43:07.020] Senator Panfilo Lacson** (asr-001579)  
+**[01:43:07.020] Senator Panfilo "Ping" M. Lacson** (asr-001579)  
 kasi I understand the complexity of the problem,
 
-**[01:43:10.340] Senator Panfilo Lacson** (asr-001580)  
+**[01:43:10.340] Senator Panfilo "Ping" M. Lacson** (asr-001580)  
 yung volume ng mga graft and corruption cases.
 
-**[01:43:13.140] Senator Panfilo Lacson** (asr-001581)  
+**[01:43:13.140] Senator Panfilo "Ping" M. Lacson** (asr-001581)  
 Yung office nga lang namin, Mr. Ombudsman,
 
-**[01:43:16.100] Senator Panfilo Lacson** (asr-001582)  
+**[01:43:16.100] Senator Panfilo "Ping" M. Lacson** (asr-001582)  
 case studies lang ang pinaggugulan namin ng panahon, pero ubos talaga oras namin.
 
-**[01:43:21.280] Senator Panfilo Lacson** (asr-001583)  
+**[01:43:21.280] Senator Panfilo "Ping" M. Lacson** (asr-001583)  
 Case studies in Bulacan,
 
-**[01:43:23.840] Senator Panfilo Lacson** (asr-001584)  
+**[01:43:23.840] Senator Panfilo "Ping" M. Lacson** (asr-001584)  
 case studies in Mindoro and in Taguig.
 
-**[01:43:27.080] Senator Panfilo Lacson** (asr-001585)  
+**[01:43:27.080] Senator Panfilo "Ping" M. Lacson** (asr-001585)  
 Hirap na hirap na yung mga staff.
 
-**[01:43:28.520] Senator Panfilo Lacson** (asr-001586)  
+**[01:43:28.520] Senator Panfilo "Ping" M. Lacson** (asr-001586)  
 What more na swarmed by so many cases ang Ombudsman,
 
-**[01:43:32.580] Senator Panfilo Lacson** (asr-001587)  
+**[01:43:32.580] Senator Panfilo "Ping" M. Lacson** (asr-001587)  
 very complex, hindi lang flood control, all sorts of graft and corruption cases.
 
-**[01:43:39.100] Senator Panfilo Lacson** (asr-001588)  
+**[01:43:39.100] Senator Panfilo "Ping" M. Lacson** (asr-001588)  
 So that's why we are really very supportive of the efforts of the Ombudsman
 
-**[01:43:44.400] Senator Panfilo Lacson** (asr-001589)  
+**[01:43:44.400] Senator Panfilo "Ping" M. Lacson** (asr-001589)  
 and in whatever capacity na makatulong kami, like the judicial marshal service,
 
-**[01:43:49.920] Senator Panfilo Lacson** (asr-001590)  
+**[01:43:49.920] Senator Panfilo "Ping" M. Lacson** (asr-001590)  
 yung fiscal autonomy, etcetera.
 
-**[01:43:53.240] Senator Panfilo Lacson** (asr-001591)  
+**[01:43:53.240] Senator Panfilo "Ping" M. Lacson** (asr-001591)  
 So, he says,
 
-**[01:43:53.680] Senator Panfilo Lacson** (asr-001592)  
+**[01:43:53.680] Senator Panfilo "Ping" M. Lacson** (asr-001592)  
 So rest assured that the Senate, under the leadership of the Senate President, will be foursquare behind the efforts of the Ombudsman.
 
 **[01:44:03.000] Senator Vicente C. Sotto III** (asr-001593)  
@@ -4678,52 +4678,52 @@ Yes, before the Senate President, I would like to acknowledge also the presence 
 **[01:44:15.780] Senator Joseph Victor "JV" G. Ejercito** (asr-001596)  
 Thank you, sir, for joining us.
 
-**[01:44:16.780] Senator Sherwin "Win" T. Gatchalian** (asr-001597)  
+**[01:44:16.780] Senate President Sherwin "Win" T. Gatchalian** (asr-001597)  
 Mr. Chairman, just a brief intervention lang.
 
-**[01:44:20.040] Senator Sherwin "Win" T. Gatchalian** (asr-001598)  
+**[01:44:20.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001598)  
 I was looking at itong corruption index scores natin, corruption perception index.
 
-**[01:44:31.200] Senator Sherwin "Win" T. Gatchalian** (asr-001599)  
+**[01:44:31.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001599)  
 And sad to say, in the last three years, bumagsak yung ating ranking, from 144, the lowest rank being the least corrupt.
 
-**[01:44:45.320] Senator Sherwin "Win" T. Gatchalian** (asr-001600)  
+**[01:44:45.320] Senate President Sherwin "Win" T. Gatchalian** (asr-001600)  
 From 144 rank naging 120 rank na tayo.
 
-**[01:44:50.040] Senator Sherwin "Win" T. Gatchalian** (asr-001601)  
+**[01:44:50.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001601)  
 And we're now the third most corrupt in Southeast Asia, next to Myanmar and Cambodia, which are...
 
-**[01:45:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-001602)  
+**[01:45:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001602)  
 alam naman natin, are junta states.
 
-**[01:45:02.920] Senator Sherwin "Win" T. Gatchalian** (asr-001603)  
+**[01:45:02.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001603)  
 So there is really a very big challenge for all of us to improve the perception of corruption in our country.
 
-**[01:45:13.160] Senator Sherwin "Win" T. Gatchalian** (asr-001604)  
+**[01:45:13.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001604)  
 Apektado tayo lahat eh.
 
-**[01:45:14.740] Senator Sherwin "Win" T. Gatchalian** (asr-001605)  
+**[01:45:14.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001605)  
 In fact, one of the reasons bakit mahina ang peso, dahil walang demand sa peso.
 
-**[01:45:20.640] Senator Sherwin "Win" T. Gatchalian** (asr-001606)  
+**[01:45:20.640] Senate President Sherwin "Win" T. Gatchalian** (asr-001606)  
 Walang nag-i-invest sa ating bansa.
 
-**[01:45:23.300] Senator Sherwin "Win" T. Gatchalian** (asr-001607)  
+**[01:45:23.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001607)  
 Kasama na dito rin itong, of course, ease of doing business and also the perception of corruption.
 
-**[01:45:28.900] Senator Sherwin "Win" T. Gatchalian** (asr-001608)  
+**[01:45:28.900] Senate President Sherwin "Win" T. Gatchalian** (asr-001608)  
 So it's really a big challenge for all of us.
 
-**[01:45:33.120] Senator Sherwin "Win" T. Gatchalian** (asr-001609)  
+**[01:45:33.120] Senate President Sherwin "Win" T. Gatchalian** (asr-001609)  
 And that is why I second the statement of Senator Lacson na
 
-**[01:45:36.580] Senator Sherwin "Win" T. Gatchalian** (asr-001610)  
+**[01:45:36.580] Senate President Sherwin "Win" T. Gatchalian** (asr-001610)  
 whatever we can do to help the Ombudsman, even the judiciary, to fight corruption, we will do it.
 
-**[01:45:42.820] Senator Sherwin "Win" T. Gatchalian** (asr-001611)  
+**[01:45:42.820] Senate President Sherwin "Win" T. Gatchalian** (asr-001611)  
 Because it affects our country, it affects our OFWs, it affects even the most ordinary Filipino.
 
-**[01:45:52.860] Senator Sherwin "Win" T. Gatchalian** (asr-001612)  
+**[01:45:52.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001612)  
 So kailangan talaga magtulong-tulong tayo diyan.
 
 **[01:45:56.640] Senator Joseph Victor "JV" G. Ejercito** (asr-001613)  
@@ -4738,28 +4738,28 @@ Thank you for joining us.
 **[01:46:04.540] Senator Joseph Victor "JV" G. Ejercito** (asr-001616)  
 Senator Erwin Tulfo, you now have the floor.
 
-**[01:46:12.460] Senator Erwin Tulfo** (asr-001617)  
+**[01:46:12.460] Senator Erwin T. Tulfo** (asr-001617)  
 Anyway, I don't know, Mr. Chair, if this was already asked.
 
-**[01:46:16.240] Senator Erwin Tulfo** (asr-001618)  
+**[01:46:16.240] Senator Erwin T. Tulfo** (asr-001618)  
 Ito lang po nakita ko, napansin kanina dito.
 
-**[01:46:19.340] Senator Erwin Tulfo** (asr-001619)  
+**[01:46:19.340] Senator Erwin T. Tulfo** (asr-001619)  
 Itong total number of authorized positions, Mr. Chair.
 
-**[01:46:23.440] Senator Erwin Tulfo** (asr-001620)  
+**[01:46:23.440] Senator Erwin T. Tulfo** (asr-001620)  
 2,439 po nire-request po ng authorized positions.
 
-**[01:46:28.900] Senator Erwin Tulfo** (asr-001621)  
+**[01:46:28.900] Senator Erwin T. Tulfo** (asr-001621)  
 Pero ang filled positions lamang ay 1,192.
 
-**[01:46:33.400] Senator Erwin Tulfo** (asr-001622)  
+**[01:46:33.400] Senator Erwin T. Tulfo** (asr-001622)  
 Dito po sa 2,439, Mr. Chair, Ombudsman, karamihan po ba nito ay mga investigators po ninyo?
 
-**[01:46:43.300] Senator Erwin Tulfo** (asr-001623)  
+**[01:46:43.300] Senator Erwin T. Tulfo** (asr-001623)  
 You would need lawyers?
 
-**[01:46:46.040] Senator Erwin Tulfo** (asr-001624)  
+**[01:46:46.040] Senator Erwin T. Tulfo** (asr-001624)  
 Sa anong mga positions po ito?
 
 **[01:46:48.820] Ombudsman Jesus Crispin C. Remulla** (asr-001625)  
@@ -4771,16 +4771,16 @@ Engineers who can educate us about infrastructure fraud, infrastructure corrupti
 **[01:46:58.900] Ombudsman Jesus Crispin C. Remulla** (asr-001627)  
 And other specialists, Your Honor, who are good at investigating different kinds of crimes, Your Honor.
 
-**[01:47:06.160] Senator Erwin Tulfo** (asr-001628)  
+**[01:47:06.160] Senator Erwin T. Tulfo** (asr-001628)  
 Mga normal positions po ito.
 
-**[01:47:08.160] Senator Erwin Tulfo** (asr-001629)  
+**[01:47:08.160] Senator Erwin T. Tulfo** (asr-001629)  
 I mean regular po.
 
-**[01:47:09.920] Senator Erwin Tulfo** (asr-001630)  
+**[01:47:09.920] Senator Erwin T. Tulfo** (asr-001630)  
 Regular positions po ito.
 
-**[01:47:11.500] Senator Erwin Tulfo** (asr-001631)  
+**[01:47:11.500] Senator Erwin T. Tulfo** (asr-001631)  
 Hindi po ito yung basta-bastang mga contractual employees.
 
 **[01:47:17.920] Ombudsman Jesus Crispin C. Remulla** (asr-001632)  
@@ -4789,19 +4789,19 @@ Your Honor.
 **[01:47:18.300] Ombudsman Jesus Crispin C. Remulla** (asr-001633)  
 They are plantilla positions.
 
-**[01:47:19.760] Senator Erwin Tulfo** (asr-001634)  
+**[01:47:19.760] Senator Erwin T. Tulfo** (asr-001634)  
 Plantilla positions.
 
 **[01:47:20.240] Ombudsman Jesus Crispin C. Remulla** (asr-001635)  
 Yes, Your Honor.
 
-**[01:47:20.840] Senator Erwin Tulfo** (asr-001636)  
+**[01:47:20.840] Senator Erwin T. Tulfo** (asr-001636)  
 All right.
 
-**[01:47:21.300] Senator Erwin Tulfo** (asr-001637)  
+**[01:47:21.300] Senator Erwin T. Tulfo** (asr-001637)  
 Thank you po.
 
-**[01:47:22.200] Senator Erwin Tulfo** (asr-001638)  
+**[01:47:22.200] Senator Erwin T. Tulfo** (asr-001638)  
 That's all, Mr. Chair.
 
 **[01:47:23.640] Senator Joseph Victor "JV" G. Ejercito** (asr-001639)  

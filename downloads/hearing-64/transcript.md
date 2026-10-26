@@ -127,34 +127,34 @@ to give his opening
 **[00:15:16.220] Senator Joel Villanueva** (asr-000063)  
 statements before our budget deliberation.
 
-**[00:15:18.140] Senator Erwin Tulfo** (asr-000064)  
+**[00:15:18.140] Senator Erwin T. Tulfo** (asr-000064)  
 No, Mr. Chair, but
 
-**[00:15:20.120] Senator Erwin Tulfo** (asr-000065)  
+**[00:15:20.120] Senator Erwin T. Tulfo** (asr-000065)  
 thank you. I'm very interested
 
-**[00:15:22.000] Senator Erwin Tulfo** (asr-000066)  
+**[00:15:22.000] Senator Erwin T. Tulfo** (asr-000066)  
 in joining
 
-**[00:15:23.740] Senator Erwin Tulfo** (asr-000067)  
+**[00:15:23.740] Senator Erwin T. Tulfo** (asr-000067)  
 this budget hearing
 
-**[00:15:25.880] Senator Erwin Tulfo** (asr-000068)  
+**[00:15:25.880] Senator Erwin T. Tulfo** (asr-000068)  
 because I have a lot of questions
 
-**[00:15:28.160] Senator Erwin Tulfo** (asr-000069)  
+**[00:15:28.160] Senator Erwin T. Tulfo** (asr-000069)  
 prepared here for
 
-**[00:15:30.200] Senator Erwin Tulfo** (asr-000070)  
+**[00:15:30.200] Senator Erwin T. Tulfo** (asr-000070)  
 TESDA. Questions that
 
-**[00:15:32.400] Senator Erwin Tulfo** (asr-000071)  
+**[00:15:32.400] Senator Erwin T. Tulfo** (asr-000071)  
 I want to
 
-**[00:15:34.100] Senator Erwin Tulfo** (asr-000072)  
+**[00:15:34.100] Senator Erwin T. Tulfo** (asr-000072)  
 get some real
 
-**[00:15:36.100] Senator Erwin Tulfo** (asr-000073)  
+**[00:15:36.100] Senator Erwin T. Tulfo** (asr-000073)  
 answers, Mr. Chair. That's all, Mr. Chair.
 
 **[00:15:38.060] Senator Joel Villanueva** (asr-000074)  
@@ -1684,25 +1684,25 @@ Kiko, we'll give the floor to our good friend and also supporter of TVET educati
 **[00:45:15.920] Senator Joel Villanueva** (asr-000595)  
 uh senator erwin tulfo sir you have the floor
 
-**[00:45:18.400] Senator Erwin Tulfo** (asr-000595-split-2)  
+**[00:45:18.400] Senator Erwin T. Tulfo** (asr-000595-split-2)  
 thank you mr chair uh i'll direct the question
 
-**[00:45:20.560] Senator Erwin Tulfo** (asr-000596)  
+**[00:45:20.560] Senator Erwin T. Tulfo** (asr-000596)  
 to uh secretary benitez if he can't answer it maybe you can pass it on uh to to your deputy
 
-**[00:45:27.600] Senator Erwin Tulfo** (asr-000597)  
+**[00:45:27.600] Senator Erwin T. Tulfo** (asr-000597)  
 director generals. Mr. Secretary, magkano po ang budget niyo sa 2027?
 
 **[00:45:33.700] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-000597-split-2)  
 For this year?
 
-**[00:45:35.450] Senator Erwin Tulfo** (asr-000597-split-3)  
+**[00:45:35.450] Senator Erwin T. Tulfo** (asr-000597-split-3)  
 For next year?
 
 **[00:45:36.350] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-000597-split-4)  
 26.
 
-**[00:45:37.120] Senator Erwin Tulfo** (asr-000598)  
+**[00:45:37.120] Senator Erwin T. Tulfo** (asr-000598)  
 How much are you asking for 2027?
 
 **[00:45:40.200] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-000598-split-2)  
@@ -1711,25 +1711,25 @@ Ah, for 2027, we originally asked for almost 39 billion
 **[00:45:44.800] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-000599)  
 Mr. Senator, Mr. Chair, but we were given 20.8 or 20.9 billion in the NEP.
 
-**[00:45:52.800] Senator Erwin Tulfo** (asr-000599-split-2)  
+**[00:45:52.800] Senator Erwin T. Tulfo** (asr-000599-split-2)  
 Yeah, I heard you kanina. Sabi niyo po, bumaba. Tama.
 
-**[00:45:56.960] Senator Erwin Tulfo** (asr-000600)  
+**[00:45:56.960] Senator Erwin T. Tulfo** (asr-000600)  
 Compared po
 
-**[00:45:57.600] Senator Erwin Tulfo** (asr-000601)  
+**[00:45:57.600] Senator Erwin T. Tulfo** (asr-000601)  
 to the GAA for 2026, because your utilization rate is low. Kaya for 2025 and 2026, kasi maaaring nakita po ng
 
-**[00:46:15.520] Senator Erwin Tulfo** (asr-000602)  
+**[00:46:15.520] Senator Erwin T. Tulfo** (asr-000602)  
 Congressional Policy and Budget Research Department
 
-**[00:46:18.960] Senator Erwin Tulfo** (asr-000603)  
+**[00:46:18.960] Senator Erwin T. Tulfo** (asr-000603)  
 na yung 2025 utilization niyo is only 68% obligated and 45.2% lang ang na-disburse.
 
-**[00:46:27.600] Senator Erwin Tulfo** (asr-000604)  
+**[00:46:27.600] Senator Erwin T. Tulfo** (asr-000604)  
 so so eh naisip siguro ng uh pamahalaan ibigay na lang natin yung budget sa iba kaysa dito na
 
-**[00:46:35.600] Senator Erwin Tulfo** (asr-000605)  
+**[00:46:35.600] Senator Erwin T. Tulfo** (asr-000605)  
 mabagal naman mag dispersed ang uh test da ano sa tingin ninyo
 
 **[00:46:39.840] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-000606)  
@@ -1939,103 +1939,103 @@ Give it back. Thank you,
 **[00:49:15.300] Senator Joel Villanueva** (asr-000674)  
 Senator Erwin. Well, Mr. Secretary,
 
-**[00:49:17.500] Senator Erwin Tulfo** (asr-000675)  
+**[00:49:17.500] Senator Erwin T. Tulfo** (asr-000675)  
 I beg to disagree na kulang po kayo ng tao
 
-**[00:49:19.480] Senator Erwin Tulfo** (asr-000676)  
+**[00:49:19.480] Senator Erwin T. Tulfo** (asr-000676)  
 with that budget. In
 
-**[00:49:20.960] Senator Erwin Tulfo** (asr-000677)  
+**[00:49:20.960] Senator Erwin T. Tulfo** (asr-000677)  
 2026, 26 billion,
 
-**[00:49:23.380] Senator Erwin Tulfo** (asr-000678)  
+**[00:49:23.380] Senator Erwin T. Tulfo** (asr-000678)  
 342 million.
 
-**[00:49:25.100] Senator Erwin Tulfo** (asr-000679)  
+**[00:49:25.100] Senator Erwin T. Tulfo** (asr-000679)  
 Tapos bumaba. Siguro
 
-**[00:49:27.300] Senator Erwin Tulfo** (asr-000680)  
+**[00:49:27.300] Senator Erwin T. Tulfo** (asr-000680)  
 nga po nakita po ng
 
-**[00:49:28.820] Senator Erwin Tulfo** (asr-000681)  
+**[00:49:28.820] Senator Erwin T. Tulfo** (asr-000681)  
 ika nga, nakita po
 
-**[00:49:31.320] Senator Erwin Tulfo** (asr-000682)  
+**[00:49:31.320] Senator Erwin T. Tulfo** (asr-000682)  
 ito ng
 
-**[00:49:32.020] Senator Erwin Tulfo** (asr-000683)  
+**[00:49:32.020] Senator Erwin T. Tulfo** (asr-000683)  
 Congressional
 
-**[00:49:35.520] Senator Erwin Tulfo** (asr-000684)  
+**[00:49:35.520] Senator Erwin T. Tulfo** (asr-000684)  
 Policy and Budget Research Department
 
-**[00:49:37.160] Senator Erwin Tulfo** (asr-000685)  
+**[00:49:37.160] Senator Erwin T. Tulfo** (asr-000685)  
 na mabagal po kayo gumasta.
 
-**[00:49:39.240] Senator Erwin Tulfo** (asr-000686)  
+**[00:49:39.240] Senator Erwin T. Tulfo** (asr-000686)  
 So might as well, naisip po nila, ilagay na lang
 
-**[00:49:41.380] Senator Erwin Tulfo** (asr-000687)  
+**[00:49:41.380] Senator Erwin T. Tulfo** (asr-000687)  
 natin sa CHED. Like CHED,
 
-**[00:49:42.940] Senator Erwin Tulfo** (asr-000688)  
+**[00:49:42.940] Senator Erwin T. Tulfo** (asr-000688)  
 ang lakiho ng kinaltas. Di ho ba?
 
-**[00:49:45.440] Senator Erwin Tulfo** (asr-000689)  
+**[00:49:45.440] Senator Erwin T. Tulfo** (asr-000689)  
 Ang lakiho, yung PUP.
 
-**[00:49:47.520] Senator Erwin Tulfo** (asr-000690)  
+**[00:49:47.520] Senator Erwin T. Tulfo** (asr-000690)  
 Nawala ng budget na
 
-**[00:49:49.000] Senator Erwin Tulfo** (asr-000691)  
+**[00:49:49.000] Senator Erwin T. Tulfo** (asr-000691)  
 Panginoon ko. My next question, sir,
 
-**[00:49:51.460] Senator Erwin Tulfo** (asr-000692)  
+**[00:49:51.460] Senator Erwin T. Tulfo** (asr-000692)  
 is are you aware of this
 
-**[00:49:53.160] Senator Erwin Tulfo** (asr-000693)  
+**[00:49:53.160] Senator Erwin T. Tulfo** (asr-000693)  
 audit observation
 
-**[00:49:55.020] Senator Erwin Tulfo** (asr-000694)  
+**[00:49:55.020] Senator Erwin T. Tulfo** (asr-000694)  
 and findings po
 
-**[00:49:56.400] Senator Erwin Tulfo** (asr-000695)  
+**[00:49:56.400] Senator Erwin T. Tulfo** (asr-000695)  
 na pinadala sa inyo? Have you already
 
-**[00:49:59.240] Senator Erwin Tulfo** (asr-000696)  
+**[00:49:59.240] Senator Erwin T. Tulfo** (asr-000696)  
 studied this and
 
-**[00:50:00.660] Senator Erwin Tulfo** (asr-000697)  
+**[00:50:00.660] Senator Erwin T. Tulfo** (asr-000697)  
 fixed this? Labing pito po ito,
 
-**[00:50:03.380] Senator Erwin Tulfo** (asr-000698)  
+**[00:50:03.380] Senator Erwin T. Tulfo** (asr-000698)  
 sir. I don't know if
 
-**[00:50:05.180] Senator Erwin Tulfo** (asr-000699)  
+**[00:50:05.180] Senator Erwin T. Tulfo** (asr-000699)  
 you have a list. If you don't have,
 
-**[00:50:07.100] Senator Erwin Tulfo** (asr-000700)  
+**[00:50:07.100] Senator Erwin T. Tulfo** (asr-000700)  
 I can mention here one by one
 
-**[00:50:08.900] Senator Erwin Tulfo** (asr-000701)  
+**[00:50:08.900] Senator Erwin T. Tulfo** (asr-000701)  
 para maalala po ninyo.
 
-**[00:50:12.860] Senator Erwin Tulfo** (asr-000702)  
+**[00:50:12.860] Senator Erwin T. Tulfo** (asr-000702)  
 Have you already corrected this? Because
 
-**[00:50:14.460] Senator Erwin Tulfo** (asr-000703)  
+**[00:50:14.460] Senator Erwin T. Tulfo** (asr-000703)  
 ito po yung audit findings
 
-**[00:50:17.020] Senator Erwin Tulfo** (asr-000704)  
+**[00:50:17.020] Senator Erwin T. Tulfo** (asr-000704)  
 and studied and reviewed by LBRMO.
 
-**[00:50:20.120] Senator Erwin Tulfo** (asr-000705)  
+**[00:50:20.120] Senator Erwin T. Tulfo** (asr-000705)  
 So what have you done
 
-**[00:50:21.060] Senator Erwin Tulfo** (asr-000706)  
+**[00:50:21.060] Senator Erwin T. Tulfo** (asr-000706)  
 so far? Yung 1 to 17
 
-**[00:50:23.200] Senator Erwin Tulfo** (asr-000707)  
+**[00:50:23.200] Senator Erwin T. Tulfo** (asr-000707)  
 po na ito. Quickly lang po.
 
 **[00:50:25.020] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-000708)  
@@ -2335,25 +2335,25 @@ Mr. Chair and our good
 **[00:53:40.760] TESDA FMS Director Cariza A. Dacuma** (asr-000806)  
 Senator.
 
-**[00:53:41.900] Senator Erwin Tulfo** (asr-000807)  
+**[00:53:41.900] Senator Erwin T. Tulfo** (asr-000807)  
 Alam mo, Sir,
 
-**[00:53:43.340] Senator Erwin Tulfo** (asr-000808)  
+**[00:53:43.340] Senator Erwin T. Tulfo** (asr-000808)  
 yung sagot po ninyo, hindi ko
 
-**[00:53:45.820] Senator Erwin Tulfo** (asr-000809)  
+**[00:53:45.820] Senator Erwin T. Tulfo** (asr-000809)  
 ma-digest. Parang inikot-ikot
 
-**[00:53:48.860] Senator Erwin Tulfo** (asr-000810)  
+**[00:53:48.860] Senator Erwin T. Tulfo** (asr-000810)  
 nyo lang ako, dribble-dribble nyo lamang
 
-**[00:53:50.920] Senator Erwin Tulfo** (asr-000811)  
+**[00:53:50.920] Senator Erwin T. Tulfo** (asr-000811)  
 ako. Let me ask the Commission on Audit,
 
-**[00:53:53.040] Senator Erwin Tulfo** (asr-000812)  
+**[00:53:53.040] Senator Erwin T. Tulfo** (asr-000812)  
 Sir Aldrin Candelario or,
 
-**[00:53:54.780] Senator Erwin Tulfo** (asr-000813)  
+**[00:53:54.780] Senator Erwin T. Tulfo** (asr-000813)  
 Ma'am Jennifer?
 
 **[00:53:56.580] Senator Joel Villanueva** (asr-000814)  
@@ -2389,31 +2389,31 @@ Thank you, Sirs. Senator Erwin,
 **[00:54:16.820] Senator Joel Villanueva** (asr-000824)  
 you have the floor, please.
 
-**[00:54:18.000] Senator Erwin Tulfo** (asr-000824-split-2)  
+**[00:54:18.000] Senator Erwin T. Tulfo** (asr-000824-split-2)  
 Sir Aldrin
 
-**[00:54:18.720] Senator Erwin Tulfo** (asr-000825)  
+**[00:54:18.720] Senator Erwin T. Tulfo** (asr-000825)  
 and Ma'am Jennifer, are you satisfied
 
-**[00:54:20.780] Senator Erwin Tulfo** (asr-000826)  
+**[00:54:20.780] Senator Erwin T. Tulfo** (asr-000826)  
 with the answer? Ako po, hindi ko po
 
-**[00:54:22.420] Senator Erwin Tulfo** (asr-000827)  
+**[00:54:22.420] Senator Erwin T. Tulfo** (asr-000827)  
 naintindihan. Pinaikot-ikot lang po ako
 
-**[00:54:24.780] Senator Erwin Tulfo** (asr-000828)  
+**[00:54:24.780] Senator Erwin T. Tulfo** (asr-000828)  
 nung ni Sir
 
-**[00:54:26.000] Senator Erwin Tulfo** (asr-000829)  
+**[00:54:26.000] Senator Erwin T. Tulfo** (asr-000829)  
 Director Cariza.
 
-**[00:54:28.500] Senator Erwin Tulfo** (asr-000830)  
+**[00:54:28.500] Senator Erwin T. Tulfo** (asr-000830)  
 Ano, na-fulfilled ba nila ito?
 
-**[00:54:31.100] Senator Erwin Tulfo** (asr-000831)  
+**[00:54:31.100] Senator Erwin T. Tulfo** (asr-000831)  
 Are you satisfied with their answer,
 
-**[00:54:33.220] Senator Erwin Tulfo** (asr-000832)  
+**[00:54:33.220] Senator Erwin T. Tulfo** (asr-000832)  
 Sir? Ma'am?
 
 **[00:54:35.020] COA Auditor Aldrin M. Candelario** (asr-000833)  
@@ -2479,52 +2479,52 @@ be uploaded in the COA
 **[00:55:14.500] COA Auditor Aldrin M. Candelario** (asr-000853)  
 website po, together with our audit report.
 
-**[00:55:17.060] Senator Erwin Tulfo** (asr-000854)  
+**[00:55:17.060] Senator Erwin T. Tulfo** (asr-000854)  
 This is their answer to
 
-**[00:55:18.520] Senator Erwin Tulfo** (asr-000855)  
+**[00:55:18.520] Senator Erwin T. Tulfo** (asr-000855)  
 your questions, Sir, to your observations.
 
-**[00:55:21.340] Senator Erwin Tulfo** (asr-000856)  
+**[00:55:21.340] Senator Erwin T. Tulfo** (asr-000856)  
 Isa po dito, mabilisan
 
-**[00:55:22.620] Senator Erwin Tulfo** (asr-000857)  
+**[00:55:22.620] Senator Erwin T. Tulfo** (asr-000857)  
 lamang po, ito pong
 
-**[00:55:24.620] Senator Erwin Tulfo** (asr-000858)  
+**[00:55:24.620] Senator Erwin T. Tulfo** (asr-000858)  
 corrected accounting error and
 
-**[00:55:26.440] Senator Erwin Tulfo** (asr-000859)  
+**[00:55:26.440] Senator Erwin T. Tulfo** (asr-000859)  
 omission. Number two, accounting
 
-**[00:55:28.580] Senator Erwin Tulfo** (asr-000860)  
+**[00:55:28.580] Senator Erwin T. Tulfo** (asr-000860)  
 deficiencies and unreliable account
 
-**[00:55:30.460] Senator Erwin Tulfo** (asr-000861)  
+**[00:55:30.460] Senator Erwin T. Tulfo** (asr-000861)  
 balances. Three, deficiencies
 
-**[00:55:32.520] Senator Erwin Tulfo** (asr-000862)  
+**[00:55:32.520] Senator Erwin T. Tulfo** (asr-000862)  
 in scholarship training program.
 
-**[00:55:34.660] Senator Erwin Tulfo** (asr-000863)  
+**[00:55:34.660] Senator Erwin T. Tulfo** (asr-000863)  
 Four, doubtful tuition fee payments
 
-**[00:55:36.560] Senator Erwin Tulfo** (asr-000864)  
+**[00:55:36.560] Senator Erwin T. Tulfo** (asr-000864)  
 under UAQTEA
 
-**[00:55:38.440] Senator Erwin Tulfo** (asr-000865)  
+**[00:55:38.440] Senator Erwin T. Tulfo** (asr-000865)  
 diploma program. Nasagot niyo po,
 
-**[00:55:40.680] Senator Erwin Tulfo** (asr-000866)  
+**[00:55:40.680] Senator Erwin T. Tulfo** (asr-000866)  
 nasagot mo ba nila ito ng tama?
 
-**[00:55:42.220] Senator Erwin Tulfo** (asr-000867)  
+**[00:55:42.220] Senator Erwin T. Tulfo** (asr-000867)  
 Pinag-aaralan na ho ba ninyo? Or pati
 
-**[00:55:44.460] Senator Erwin Tulfo** (asr-000868)  
+**[00:55:44.460] Senator Erwin T. Tulfo** (asr-000868)  
 kayo dinidribble-dribble nito mga tiga
 
-**[00:55:46.420] Senator Erwin Tulfo** (asr-000869)  
+**[00:55:46.420] Senator Erwin T. Tulfo** (asr-000869)  
 TESDA?
 
 **[00:55:48.980] COA Auditor Aldrin M. Candelario** (asr-000870)  
@@ -2629,190 +2629,190 @@ statements and controls ni TESDA ay
 **[00:56:54.160] COA Auditor Aldrin M. Candelario** (asr-000903)  
 marami o malaki po.
 
-**[00:56:57.680] Senator Erwin Tulfo** (asr-000904)  
+**[00:56:57.680] Senator Erwin T. Tulfo** (asr-000904)  
 Ito, 36 billion
 
-**[00:57:00.560] Senator Erwin Tulfo** (asr-000905)  
+**[00:57:00.560] Senator Erwin T. Tulfo** (asr-000905)  
 3.6
 
-**[00:57:02.040] Senator Erwin Tulfo** (asr-000906)  
+**[00:57:02.040] Senator Erwin T. Tulfo** (asr-000906)  
 billion yung uncorrected
 
-**[00:57:04.040] Senator Erwin Tulfo** (asr-000907)  
+**[00:57:04.040] Senator Erwin T. Tulfo** (asr-000907)  
 accounting errors and omission.
 
-**[00:57:06.540] Senator Erwin Tulfo** (asr-000908)  
+**[00:57:06.540] Senator Erwin T. Tulfo** (asr-000908)  
 E kaya po nakapagtataka,
 
-**[00:57:08.080] Senator Erwin Tulfo** (asr-000909)  
+**[00:57:08.080] Senator Erwin T. Tulfo** (asr-000909)  
 masyado pong glaring.
 
-**[00:57:10.140] Senator Erwin Tulfo** (asr-000910)  
+**[00:57:10.140] Senator Erwin T. Tulfo** (asr-000910)  
 Tapos po itong, ito na lang po, sample.
 
-**[00:57:12.660] Senator Erwin Tulfo** (asr-000911)  
+**[00:57:12.660] Senator Erwin T. Tulfo** (asr-000911)  
 Scholarship benefits amounting
 
-**[00:57:14.360] Senator Erwin Tulfo** (asr-000912)  
+**[00:57:14.360] Senator Erwin T. Tulfo** (asr-000912)  
 to at least 574
 
-**[00:57:16.140] Senator Erwin Tulfo** (asr-000913)  
+**[00:57:16.140] Senator Erwin T. Tulfo** (asr-000913)  
 million, 942
 
-**[00:57:18.160] Senator Erwin Tulfo** (asr-000914)  
+**[00:57:18.160] Senator Erwin T. Tulfo** (asr-000914)  
 were granted to learners
 
-**[00:57:19.960] Senator Erwin Tulfo** (asr-000915)  
+**[00:57:19.960] Senator Erwin T. Tulfo** (asr-000915)  
 with doubtful eligibility.
 
-**[00:57:23.140] Senator Erwin Tulfo** (asr-000916)  
+**[00:57:23.140] Senator Erwin T. Tulfo** (asr-000916)  
 Ito po,
 
-**[00:57:24.160] Senator Erwin Tulfo** (asr-000917)  
+**[00:57:24.160] Senator Erwin T. Tulfo** (asr-000917)  
 nagsasayang ho tayo ng pera
 
-**[00:57:26.680] Senator Erwin Tulfo** (asr-000918)  
+**[00:57:26.680] Senator Erwin T. Tulfo** (asr-000918)  
 samantalang kailangan ng ibang agency
 
-**[00:57:28.920] Senator Erwin Tulfo** (asr-000919)  
+**[00:57:28.920] Senator Erwin T. Tulfo** (asr-000919)  
 yung budget na yan,
 
-**[00:57:31.240] Senator Erwin Tulfo** (asr-000920)  
+**[00:57:31.240] Senator Erwin T. Tulfo** (asr-000920)  
 eh doon na lang natin ilagay,
 
-**[00:57:32.960] Senator Erwin Tulfo** (asr-000921)  
+**[00:57:32.960] Senator Erwin T. Tulfo** (asr-000921)  
 doon na lang sa CHED na mas
 
-**[00:57:34.620] Senator Erwin Tulfo** (asr-000922)  
+**[00:57:34.620] Senator Erwin T. Tulfo** (asr-000922)  
 importante, marami mga college student
 
-**[00:57:36.840] Senator Erwin Tulfo** (asr-000923)  
+**[00:57:36.840] Senator Erwin T. Tulfo** (asr-000923)  
 na nag-aaral. Ito pa ho,
 
-**[00:57:38.960] Senator Erwin Tulfo** (asr-000924)  
+**[00:57:38.960] Senator Erwin T. Tulfo** (asr-000924)  
 isa pa, scholarship allowances
 
-**[00:57:40.920] Senator Erwin Tulfo** (asr-000925)  
+**[00:57:40.920] Senator Erwin T. Tulfo** (asr-000925)  
 totaling 197
 
-**[00:57:42.220] Senator Erwin Tulfo** (asr-000926)  
+**[00:57:42.220] Senator Erwin T. Tulfo** (asr-000926)  
 million, 435
 
-**[00:57:44.540] Senator Erwin Tulfo** (asr-000927)  
+**[00:57:44.540] Senator Erwin T. Tulfo** (asr-000927)  
 were belatedly prematurely
 
-**[00:57:46.840] Senator Erwin Tulfo** (asr-000928)  
+**[00:57:46.840] Senator Erwin T. Tulfo** (asr-000928)  
 released, remain unreleased
 
-**[00:57:49.000] Senator Erwin Tulfo** (asr-000929)  
+**[00:57:49.000] Senator Erwin T. Tulfo** (asr-000929)  
 or unclaimed.
 
-**[00:57:50.820] Senator Erwin Tulfo** (asr-000930)  
+**[00:57:50.820] Senator Erwin T. Tulfo** (asr-000930)  
 Tapos ito pang delay in
 
-**[00:57:52.380] Senator Erwin Tulfo** (asr-000931)  
+**[00:57:52.380] Senator Erwin T. Tulfo** (asr-000931)  
 SIPBETS project,
 
-**[00:57:54.160] Senator Erwin Tulfo** (asr-000932)  
+**[00:57:54.160] Senator Erwin T. Tulfo** (asr-000932)  
 sa 19,832,000,
 
-**[00:57:58.840] Senator Erwin Tulfo** (asr-000933)  
+**[00:57:58.840] Senator Erwin T. Tulfo** (asr-000933)  
 pa paano naman ho tayo
 
-**[00:58:00.540] Senator Erwin Tulfo** (asr-000934)  
+**[00:58:00.540] Senator Erwin T. Tulfo** (asr-000934)  
 gaganahan na
 
-**[00:58:02.320] Senator Erwin Tulfo** (asr-000935)  
+**[00:58:02.320] Senator Erwin T. Tulfo** (asr-000935)  
 sinasabi ni Secretary dagdagan
 
-**[00:58:04.640] Senator Erwin Tulfo** (asr-000936)  
+**[00:58:04.640] Senator Erwin T. Tulfo** (asr-000936)  
 ng budget, eh kung hindi nga po nila
 
-**[00:58:06.380] Senator Erwin Tulfo** (asr-000937)  
+**[00:58:06.380] Senator Erwin T. Tulfo** (asr-000937)  
 ma-explica ito. I think hanggat
 
-**[00:58:08.520] Senator Erwin Tulfo** (asr-000938)  
+**[00:58:08.520] Senator Erwin T. Tulfo** (asr-000938)  
 di po nila masagot siguro ito, I think
 
-**[00:58:10.540] Senator Erwin Tulfo** (asr-000939)  
+**[00:58:10.540] Senator Erwin T. Tulfo** (asr-000939)  
 Sir Aldrin, ay dapat
 
-**[00:58:12.720] Senator Erwin Tulfo** (asr-000940)  
+**[00:58:12.720] Senator Erwin T. Tulfo** (asr-000940)  
 mag-isip-isip po siguro ang Senado
 
-**[00:58:14.640] Senator Erwin Tulfo** (asr-000941)  
+**[00:58:14.640] Senator Erwin T. Tulfo** (asr-000941)  
 dadagdagan ba o dadagdagan
 
-**[00:58:16.400] Senator Erwin Tulfo** (asr-000942)  
+**[00:58:16.400] Senator Erwin T. Tulfo** (asr-000942)  
 or papawasan. Because
 
-**[00:58:18.260] Senator Erwin Tulfo** (asr-000943)  
+**[00:58:18.260] Senator Erwin T. Tulfo** (asr-000943)  
 kailangan, I mean there are other
 
-**[00:58:20.520] Senator Erwin Tulfo** (asr-000944)  
+**[00:58:20.520] Senator Erwin T. Tulfo** (asr-000944)  
 agencies. There's CHED.
 
-**[00:58:23.120] Senator Erwin Tulfo** (asr-000945)  
+**[00:58:23.120] Senator Erwin T. Tulfo** (asr-000945)  
 Actually nga, sa
 
-**[00:58:24.160] Senator Erwin Tulfo** (asr-000946)  
+**[00:58:24.160] Senator Erwin T. Tulfo** (asr-000946)  
 Secretary, mabalik ako sa iyo, bakit
 
-**[00:58:25.900] Senator Erwin Tulfo** (asr-000947)  
+**[00:58:25.900] Senator Erwin T. Tulfo** (asr-000947)  
 ang scholar natin sa
 
-**[00:58:27.700] Senator Erwin Tulfo** (asr-000948)  
+**[00:58:27.700] Senator Erwin T. Tulfo** (asr-000948)  
 TESDA, meron
 
-**[00:58:30.060] Senator Erwin Tulfo** (asr-000949)  
+**[00:58:30.060] Senator Erwin T. Tulfo** (asr-000949)  
 ng tuition, libre tuition,
 
-**[00:58:32.760] Senator Erwin Tulfo** (asr-000950)  
+**[00:58:32.760] Senator Erwin T. Tulfo** (asr-000950)  
 meron pang allowance,
 
-**[00:58:34.300] Senator Erwin Tulfo** (asr-000951)  
+**[00:58:34.300] Senator Erwin T. Tulfo** (asr-000951)  
 meron pang insurance, napakaswerte.
 
-**[00:58:37.180] Senator Erwin Tulfo** (asr-000952)  
+**[00:58:37.180] Senator Erwin T. Tulfo** (asr-000952)  
 Sana,
 
-**[00:58:38.260] Senator Erwin Tulfo** (asr-000953)  
+**[00:58:38.260] Senator Erwin T. Tulfo** (asr-000953)  
 nag-TESDA scholar na lang ako.
 
-**[00:58:40.500] Senator Erwin Tulfo** (asr-000954)  
+**[00:58:40.500] Senator Erwin T. Tulfo** (asr-000954)  
 Hindi ako nag-aaral sa
 
-**[00:58:42.000] Senator Erwin Tulfo** (asr-000955)  
+**[00:58:42.000] Senator Erwin T. Tulfo** (asr-000955)  
 SUC. Mukhang
 
-**[00:58:44.240] Senator Erwin Tulfo** (asr-000956)  
+**[00:58:44.240] Senator Erwin T. Tulfo** (asr-000956)  
 maganda ho yata, Sir.
 
-**[00:58:46.040] Senator Erwin Tulfo** (asr-000957)  
+**[00:58:46.040] Senator Erwin T. Tulfo** (asr-000957)  
 Napakasarap ng buhay. May tuition
 
-**[00:58:48.200] Senator Erwin Tulfo** (asr-000958)  
+**[00:58:48.200] Senator Erwin T. Tulfo** (asr-000958)  
 na libre, may allowance,
 
-**[00:58:50.680] Senator Erwin Tulfo** (asr-000959)  
+**[00:58:50.680] Senator Erwin T. Tulfo** (asr-000959)  
 may insurance pa, baka makagat
 
-**[00:58:52.460] Senator Erwin Tulfo** (asr-000960)  
+**[00:58:52.460] Senator Erwin T. Tulfo** (asr-000960)  
 ng aso, babayaran.
 
-**[00:58:54.160] Senator Erwin Tulfo** (asr-000961)  
+**[00:58:54.160] Senator Erwin T. Tulfo** (asr-000961)  
 Why is that?
 
-**[00:58:56.780] Senator Erwin Tulfo** (asr-000962)  
+**[00:58:56.780] Senator Erwin T. Tulfo** (asr-000962)  
 Can someone
 
-**[00:58:58.000] Senator Erwin Tulfo** (asr-000963)  
+**[00:58:58.000] Senator Erwin T. Tulfo** (asr-000963)  
 explain this to me?
 
 **[00:59:00.160] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-000964)  
 Ako na lang, Sir.
 
-**[00:59:01.760] Senator Erwin Tulfo** (asr-000965)  
+**[00:59:01.760] Senator Erwin T. Tulfo** (asr-000965)  
 Sige, Secretary.
 
 **[00:59:02.980] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-000966)  
@@ -2878,73 +2878,73 @@ in terms of the packaging, Sir,
 **[00:59:44.320] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-000986)  
 ng scholarship.
 
-**[00:59:45.500] Senator Erwin Tulfo** (asr-000987)  
+**[00:59:45.500] Senator Erwin T. Tulfo** (asr-000987)  
 Alright, Sir.
 
-**[00:59:49.180] Senator Erwin Tulfo** (asr-000988)  
+**[00:59:49.180] Senator Erwin T. Tulfo** (asr-000988)  
 Gusto pong
 
-**[00:59:50.140] Senator Erwin Tulfo** (asr-000989)  
+**[00:59:50.140] Senator Erwin T. Tulfo** (asr-000989)  
 malinawan, Sir, paano
 
-**[00:59:51.740] Senator Erwin Tulfo** (asr-000990)  
+**[00:59:51.740] Senator Erwin T. Tulfo** (asr-000990)  
 nag-ooperate ba itong mga
 
-**[00:59:53.580] Senator Erwin Tulfo** (asr-000991)  
+**[00:59:53.580] Senator Erwin T. Tulfo** (asr-000991)  
 ikang mga
 
-**[00:59:55.620] Senator Erwin Tulfo** (asr-000992)  
+**[00:59:55.620] Senator Erwin T. Tulfo** (asr-000992)  
 TESDA accredited
 
-**[00:59:57.700] Senator Erwin Tulfo** (asr-000993)  
+**[00:59:57.700] Senator Erwin T. Tulfo** (asr-000993)  
 schools or training centers?
 
-**[00:59:59.440] Senator Erwin Tulfo** (asr-000994)  
+**[00:59:59.440] Senator Erwin T. Tulfo** (asr-000994)  
 They're getting
 
-**[01:00:00.000] Senator Erwin Tulfo** (asr-000995)  
+**[01:00:00.000] Senator Erwin T. Tulfo** (asr-000995)  
 funding from you. Correct?
 
 **[01:00:01.860] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-000996)  
 Yes, sir.
 
-**[01:00:02.320] Senator Erwin Tulfo** (asr-000996-split-2)  
+**[01:00:02.320] Senator Erwin T. Tulfo** (asr-000996-split-2)  
 Tama po.
 
 **[01:00:02.800] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-000996-split-3)  
 Yes, sir.
 
-**[01:00:03.820] Senator Erwin Tulfo** (asr-000997)  
+**[01:00:03.820] Senator Erwin T. Tulfo** (asr-000997)  
 Bakit po yung mga scholar kailangan
 
-**[01:00:05.940] Senator Erwin Tulfo** (asr-000998)  
+**[01:00:05.940] Senator Erwin T. Tulfo** (asr-000998)  
 magbabayad
 
-**[01:00:08.140] Senator Erwin Tulfo** (asr-000999)  
+**[01:00:08.140] Senator Erwin T. Tulfo** (asr-000999)  
 pa rin sa mga training centers?
 
-**[01:00:09.740] Senator Erwin Tulfo** (asr-001000)  
+**[01:00:09.740] Senator Erwin T. Tulfo** (asr-001000)  
 I'll cite you one example.
 
-**[01:00:11.880] Senator Erwin Tulfo** (asr-001001)  
+**[01:00:11.880] Senator Erwin T. Tulfo** (asr-001001)  
 Let me ask you this.
 
-**[01:00:13.700] Senator Erwin Tulfo** (asr-001002)  
+**[01:00:13.700] Senator Erwin T. Tulfo** (asr-001002)  
 Ito pong
 
-**[01:00:14.220] Senator Erwin Tulfo** (asr-001003)  
+**[01:00:14.220] Senator Erwin T. Tulfo** (asr-001003)  
 emperor
 
-**[01:00:19.840] Senator Erwin Tulfo** (asr-001004)  
+**[01:00:19.840] Senator Erwin T. Tulfo** (asr-001004)  
 international training
 
-**[01:00:21.800] Senator Erwin Tulfo** (asr-001005)  
+**[01:00:21.800] Senator Erwin T. Tulfo** (asr-001005)  
 assessment center,
 
-**[01:00:23.940] Senator Erwin Tulfo** (asr-001006)  
+**[01:00:23.940] Senator Erwin T. Tulfo** (asr-001006)  
 meron po bang supporta sa inyo
 
-**[01:00:26.100] Senator Erwin Tulfo** (asr-001007)  
+**[01:00:26.100] Senator Erwin T. Tulfo** (asr-001007)  
 ito?
 
 **[01:00:27.740] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-001008)  
@@ -2959,28 +2959,28 @@ center. We will
 **[01:00:32.340] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-001011)  
 verify, Mr. Senator, sir.
 
-**[01:00:34.700] Senator Erwin Tulfo** (asr-001012)  
+**[01:00:34.700] Senator Erwin T. Tulfo** (asr-001012)  
 Okay. Pero I believe
 
-**[01:00:36.180] Senator Erwin Tulfo** (asr-001013)  
+**[01:00:36.180] Senator Erwin T. Tulfo** (asr-001013)  
 sila po ay nakarehistro po sa inyo.
 
-**[01:00:39.220] Senator Erwin Tulfo** (asr-001014)  
+**[01:00:39.220] Senator Erwin T. Tulfo** (asr-001014)  
 Pero tanong po natin,
 
-**[01:00:40.660] Senator Erwin Tulfo** (asr-001015)  
+**[01:00:40.660] Senator Erwin T. Tulfo** (asr-001015)  
 meron pong isang
 
-**[01:00:41.620] Senator Erwin Tulfo** (asr-001016)  
+**[01:00:41.620] Senator Erwin T. Tulfo** (asr-001016)  
 kababayan natin, lumapit sa office ko,
 
-**[01:00:44.460] Senator Erwin Tulfo** (asr-001017)  
+**[01:00:44.460] Senator Erwin T. Tulfo** (asr-001017)  
 gusto mag-enroll. Sabi ko,
 
-**[01:00:46.280] Senator Erwin Tulfo** (asr-001018)  
+**[01:00:46.280] Senator Erwin T. Tulfo** (asr-001018)  
 Iha, dapat test day
 
-**[01:00:48.300] Senator Erwin Tulfo** (asr-001019)  
+**[01:00:48.300] Senator Erwin T. Tulfo** (asr-001019)  
 ha, dapat libre. Tama po ba?
 
 **[01:00:51.040] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-001020)  
@@ -2995,94 +2995,94 @@ or in a public test day institution,
 **[01:00:56.720] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-001023)  
 then yes, dapat po libre siya.
 
-**[01:00:58.500] Senator Erwin Tulfo** (asr-001024)  
+**[01:00:58.500] Senator Erwin T. Tulfo** (asr-001024)  
 O, kasi caregiving po eh.
 
-**[01:01:00.320] Senator Erwin Tulfo** (asr-001025)  
+**[01:01:00.320] Senator Erwin T. Tulfo** (asr-001025)  
 Gusto niya mag-abroad na eh.
 
-**[01:01:02.120] Senator Erwin Tulfo** (asr-001026)  
+**[01:01:02.120] Senator Erwin T. Tulfo** (asr-001026)  
 Waitress po siya, gusto niya mag-abroad.
 
-**[01:01:04.460] Senator Erwin Tulfo** (asr-001027)  
+**[01:01:04.460] Senator Erwin T. Tulfo** (asr-001027)  
 Pinagbayad po siya ng 19,000.
 
-**[01:01:06.300] Senator Erwin Tulfo** (asr-001028)  
+**[01:01:06.300] Senator Erwin T. Tulfo** (asr-001028)  
 Eh, ala naman ayaw umalis sa opisina ko
 
-**[01:01:08.260] Senator Erwin Tulfo** (asr-001029)  
+**[01:01:08.260] Senator Erwin T. Tulfo** (asr-001029)  
 hanggat di ko nabibigyan ng 19,000.
 
-**[01:01:10.520] Senator Erwin Tulfo** (asr-001030)  
+**[01:01:10.520] Senator Erwin T. Tulfo** (asr-001030)  
 Binigyan ko na lamang ho.
 
-**[01:01:12.100] Senator Erwin Tulfo** (asr-001031)  
+**[01:01:12.100] Senator Erwin T. Tulfo** (asr-001031)  
 Kaya ang tanong ko sa inyo ngayon,
 
-**[01:01:13.980] Senator Erwin Tulfo** (asr-001032)  
+**[01:01:13.980] Senator Erwin T. Tulfo** (asr-001032)  
 sa ano pupunta? Tulong tayo
 
-**[01:01:16.180] Senator Erwin Tulfo** (asr-001033)  
+**[01:01:16.180] Senator Erwin T. Tulfo** (asr-001033)  
 ng tulong sa mga test da
 
-**[01:01:17.900] Senator Erwin Tulfo** (asr-001034)  
+**[01:01:17.900] Senator Erwin T. Tulfo** (asr-001034)  
 ikang accredited training
 
-**[01:01:20.220] Senator Erwin Tulfo** (asr-001035)  
+**[01:01:20.220] Senator Erwin T. Tulfo** (asr-001035)  
 center, scholarship, kung
 
-**[01:01:22.000] Senator Erwin Tulfo** (asr-001036)  
+**[01:01:22.000] Senator Erwin T. Tulfo** (asr-001036)  
 magbabayad naman ang estudyante.
 
-**[01:01:24.000] Senator Erwin Tulfo** (asr-001037)  
+**[01:01:24.000] Senator Erwin T. Tulfo** (asr-001037)  
 Kaya siguro marami tayo mga estudyante
 
-**[01:01:26.340] Senator Erwin Tulfo** (asr-001038)  
+**[01:01:26.340] Senator Erwin T. Tulfo** (asr-001038)  
 na ikang pupunta ng
 
-**[01:01:28.380] Senator Erwin Tulfo** (asr-001039)  
+**[01:01:28.380] Senator Erwin T. Tulfo** (asr-001039)  
 abroad, walang experience,
 
-**[01:01:29.960] Senator Erwin Tulfo** (asr-001040)  
+**[01:01:29.960] Senator Erwin T. Tulfo** (asr-001040)  
 walang mga certificate because
 
-**[01:01:32.040] Senator Erwin Tulfo** (asr-001041)  
+**[01:01:32.040] Senator Erwin T. Tulfo** (asr-001041)  
 may bayad, sir.
 
-**[01:01:33.940] Senator Erwin Tulfo** (asr-001042)  
+**[01:01:33.940] Senator Erwin T. Tulfo** (asr-001042)  
 E mabuti, dumaan po sa opisina ko ito.
 
-**[01:01:36.220] Senator Erwin Tulfo** (asr-001043)  
+**[01:01:36.220] Senator Erwin T. Tulfo** (asr-001043)  
 How many more people like this
 
-**[01:01:38.240] Senator Erwin Tulfo** (asr-001044)  
+**[01:01:38.240] Senator Erwin T. Tulfo** (asr-001044)  
 going overseas,
 
-**[01:01:39.980] Senator Erwin Tulfo** (asr-001045)  
+**[01:01:39.980] Senator Erwin T. Tulfo** (asr-001045)  
 becoming caregivers, pero
 
-**[01:01:42.020] Senator Erwin Tulfo** (asr-001046)  
+**[01:01:42.020] Senator Erwin T. Tulfo** (asr-001046)  
 hindi naman po nagbayad sila
 
-**[01:01:43.940] Senator Erwin Tulfo** (asr-001047)  
+**[01:01:43.940] Senator Erwin T. Tulfo** (asr-001047)  
 for their training? How many more?
 
-**[01:01:45.960] Senator Erwin Tulfo** (asr-001048)  
+**[01:01:45.960] Senator Erwin T. Tulfo** (asr-001048)  
 We don't know.
 
-**[01:01:47.860] Senator Erwin Tulfo** (asr-001049)  
+**[01:01:47.860] Senator Erwin T. Tulfo** (asr-001049)  
 Hindi po ba? Isa pa pong katanungan,
 
-**[01:01:50.260] Senator Erwin Tulfo** (asr-001050)  
+**[01:01:50.260] Senator Erwin T. Tulfo** (asr-001050)  
 maramabilis na dahil alam ko nakapila po
 
-**[01:01:52.100] Senator Erwin Tulfo** (asr-001051)  
+**[01:01:52.100] Senator Erwin T. Tulfo** (asr-001051)  
 itong ilan senador.
 
-**[01:01:53.800] Senator Erwin Tulfo** (asr-001052)  
+**[01:01:53.800] Senator Erwin T. Tulfo** (asr-001052)  
 Yung test the skills passport po,
 
-**[01:01:55.720] Senator Erwin Tulfo** (asr-001053)  
+**[01:01:55.720] Senator Erwin T. Tulfo** (asr-001053)  
 anong objective po nito, Mr. Secretary?
 
 **[01:01:58.380] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-001054)  
@@ -3181,277 +3181,277 @@ listings for job openings
 **[01:02:59.980] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-001085)  
 po.
 
-**[01:03:00.500] Senator Erwin Tulfo** (asr-001085-split-2)  
+**[01:03:00.500] Senator Erwin T. Tulfo** (asr-001085-split-2)  
 Alright. Pero
 
-**[01:03:01.700] Senator Erwin Tulfo** (asr-001086)  
+**[01:03:01.700] Senator Erwin T. Tulfo** (asr-001086)  
 alam mo, Sekretary, meron na po tayong
 
-**[01:03:03.700] Senator Erwin Tulfo** (asr-001087)  
+**[01:03:03.700] Senator Erwin T. Tulfo** (asr-001087)  
 e-gov app ngayon.
 
-**[01:03:05.740] Senator Erwin Tulfo** (asr-001088)  
+**[01:03:05.740] Senator Erwin T. Tulfo** (asr-001088)  
 Dapat ho yan, nakalista na doon.
 
-**[01:03:08.120] Senator Erwin Tulfo** (asr-001089)  
+**[01:03:08.120] Senator Erwin T. Tulfo** (asr-001089)  
 Ano pa ang say-say na nagtayo-tayo
 
-**[01:03:09.980] Senator Erwin Tulfo** (asr-001090)  
+**[01:03:09.980] Senator Erwin T. Tulfo** (asr-001090)  
 tayo ng e-gov app
 
-**[01:03:11.460] Senator Erwin Tulfo** (asr-001091)  
+**[01:03:11.460] Senator Erwin T. Tulfo** (asr-001091)  
 kung hindi naman natin meron kayong sarili
 
-**[01:03:13.880] Senator Erwin Tulfo** (asr-001092)  
+**[01:03:13.880] Senator Erwin T. Tulfo** (asr-001092)  
 sa ika nga test da?
 
-**[01:03:16.040] Senator Erwin Tulfo** (asr-001093)  
+**[01:03:16.040] Senator Erwin T. Tulfo** (asr-001093)  
 Hindi po ba additional expense lang yun?
 
-**[01:03:18.200] Senator Erwin Tulfo** (asr-001094)  
+**[01:03:18.200] Senator Erwin T. Tulfo** (asr-001094)  
 Imbis na i-save natin,
 
-**[01:03:19.840] Senator Erwin Tulfo** (asr-001095)  
+**[01:03:19.840] Senator Erwin T. Tulfo** (asr-001095)  
 hindi ho tayo maraming pera, sir.
 
-**[01:03:21.980] Senator Erwin Tulfo** (asr-001096)  
+**[01:03:21.980] Senator Erwin T. Tulfo** (asr-001096)  
 Kulang lagi. Nasa deficit
 
-**[01:03:24.040] Senator Erwin Tulfo** (asr-001097)  
+**[01:03:24.040] Senator Erwin T. Tulfo** (asr-001097)  
 lagi tayo. Lagi tayo nangungutang
 
-**[01:03:26.360] Senator Erwin Tulfo** (asr-001098)  
+**[01:03:26.360] Senator Erwin T. Tulfo** (asr-001098)  
 para matusunod.
 
-**[01:03:27.860] Senator Erwin Tulfo** (asr-001099)  
+**[01:03:27.860] Senator Erwin T. Tulfo** (asr-001099)  
 Gustusan lang, kailangan ng mga ehensya.
 
-**[01:03:30.060] Senator Erwin Tulfo** (asr-001100)  
+**[01:03:30.060] Senator Erwin T. Tulfo** (asr-001100)  
 Kung hindi naman natin gagastusin,
 
-**[01:03:32.260] Senator Erwin Tulfo** (asr-001101)  
+**[01:03:32.260] Senator Erwin T. Tulfo** (asr-001101)  
 sayang naman po o mapunta lang
 
-**[01:03:33.920] Senator Erwin Tulfo** (asr-001102)  
+**[01:03:33.920] Senator Erwin T. Tulfo** (asr-001102)  
 sa kung saan-saan, di po ba?
 
-**[01:03:35.920] Senator Erwin Tulfo** (asr-001103)  
+**[01:03:35.920] Senator Erwin T. Tulfo** (asr-001103)  
 I believe this test
 
-**[01:03:37.920] Senator Erwin Tulfo** (asr-001104)  
+**[01:03:37.920] Senator Erwin T. Tulfo** (asr-001104)  
 the skills passport. Kailangan pag-aralan
 
-**[01:03:40.040] Senator Erwin Tulfo** (asr-001105)  
+**[01:03:40.040] Senator Erwin T. Tulfo** (asr-001105)  
 ninyo na mabuti. COA,
 
-**[01:03:41.800] Senator Erwin Tulfo** (asr-001106)  
+**[01:03:41.800] Senator Erwin T. Tulfo** (asr-001106)  
 look into this. Hindi kaya dagdag
 
-**[01:03:43.980] Senator Erwin Tulfo** (asr-001107)  
+**[01:03:43.980] Senator Erwin T. Tulfo** (asr-001107)  
 gastos lang ito, Sir Aldrin,
 
-**[01:03:46.100] Senator Erwin Tulfo** (asr-001108)  
+**[01:03:46.100] Senator Erwin T. Tulfo** (asr-001108)  
 Ma'am Jennifer. Why do we have
 
-**[01:03:47.880] Senator Erwin Tulfo** (asr-001109)  
+**[01:03:47.880] Senator Erwin T. Tulfo** (asr-001109)  
 test the skills passport when we already
 
-**[01:03:49.960] Senator Erwin Tulfo** (asr-001110)  
+**[01:03:49.960] Senator Erwin T. Tulfo** (asr-001110)  
 have e-gov app
 
-**[01:03:52.140] Senator Erwin Tulfo** (asr-001111)  
+**[01:03:52.140] Senator Erwin T. Tulfo** (asr-001111)  
 na pwede na po doon?
 
-**[01:03:54.000] Senator Erwin Tulfo** (asr-001112)  
+**[01:03:54.000] Senator Erwin T. Tulfo** (asr-001112)  
 Sa bakit sa, di po ba, sa
 
-**[01:03:55.840] Senator Erwin Tulfo** (asr-001113)  
+**[01:03:55.840] Senator Erwin T. Tulfo** (asr-001113)  
 sa DM,
 
-**[01:03:57.860] Senator Erwin Tulfo** (asr-001114)  
+**[01:03:57.860] Senator Erwin T. Tulfo** (asr-001114)  
 DMW, sa ika,
 
-**[01:03:59.460] Senator Erwin Tulfo** (asr-001115)  
+**[01:03:59.460] Senator Erwin T. Tulfo** (asr-001115)  
 POE, meron naman po, may kita mo
 
-**[01:04:01.300] Senator Erwin Tulfo** (asr-001116)  
+**[01:04:01.300] Senator Erwin T. Tulfo** (asr-001116)  
 ilistahan ng mga trabaho. Why can't
 
-**[01:04:03.580] Senator Erwin Tulfo** (asr-001117)  
+**[01:04:03.580] Senator Erwin T. Tulfo** (asr-001117)  
 they do that? The way we have
 
-**[01:04:05.660] Senator Erwin Tulfo** (asr-001118)  
+**[01:04:05.660] Senator Erwin T. Tulfo** (asr-001118)  
 to start looking at how we can
 
-**[01:04:07.600] Senator Erwin Tulfo** (asr-001119)  
+**[01:04:07.600] Senator Erwin T. Tulfo** (asr-001119)  
 save. Because we're not a rich
 
-**[01:04:09.780] Senator Erwin Tulfo** (asr-001120)  
+**[01:04:09.780] Senator Erwin T. Tulfo** (asr-001120)  
 country, we're a third world
 
-**[01:04:11.680] Senator Erwin Tulfo** (asr-001121)  
+**[01:04:11.680] Senator Erwin T. Tulfo** (asr-001121)  
 country. Kulang,
 
-**[01:04:13.680] Senator Erwin Tulfo** (asr-001122)  
+**[01:04:13.680] Senator Erwin T. Tulfo** (asr-001122)  
 lagi tayo nangungutang taon-taon.
 
-**[01:04:15.800] Senator Erwin Tulfo** (asr-001123)  
+**[01:04:15.800] Senator Erwin T. Tulfo** (asr-001123)  
 Problema. Problema natin,
 
-**[01:04:17.900] Senator Erwin Tulfo** (asr-001124)  
+**[01:04:17.900] Senator Erwin T. Tulfo** (asr-001124)  
 nag-ihingi siya ng dagdag ng budget.
 
-**[01:04:20.260] Senator Erwin Tulfo** (asr-001125)  
+**[01:04:20.260] Senator Erwin T. Tulfo** (asr-001125)  
 Ang dami mga tinanggalan ng
 
-**[01:04:21.600] Senator Erwin Tulfo** (asr-001126)  
+**[01:04:21.600] Senator Erwin T. Tulfo** (asr-001126)  
 budget. CHED, PUP,
 
-**[01:04:23.560] Senator Erwin Tulfo** (asr-001127)  
+**[01:04:23.560] Senator Erwin T. Tulfo** (asr-001127)  
 isang SUC, tinanggalan
 
-**[01:04:26.040] Senator Erwin Tulfo** (asr-001128)  
+**[01:04:26.040] Senator Erwin T. Tulfo** (asr-001128)  
 ng budget. Tapos ihingi
 
-**[01:04:27.700] Senator Erwin Tulfo** (asr-001129)  
+**[01:04:27.700] Senator Erwin T. Tulfo** (asr-001129)  
 dito. Tapos, yung
 
-**[01:04:29.780] Senator Erwin Tulfo** (asr-001130)  
+**[01:04:29.780] Senator Erwin T. Tulfo** (asr-001130)  
 low utilization rate.
 
-**[01:04:31.680] Senator Erwin Tulfo** (asr-001131)  
+**[01:04:31.680] Senator Erwin T. Tulfo** (asr-001131)  
 Number two, Mr. Secretary,
 
-**[01:04:33.820] Senator Erwin Tulfo** (asr-001132)  
+**[01:04:33.820] Senator Erwin T. Tulfo** (asr-001132)  
 we don't want students
 
-**[01:04:35.900] Senator Erwin Tulfo** (asr-001133)  
+**[01:04:35.900] Senator Erwin T. Tulfo** (asr-001133)  
 who are good at asking at
 
-**[01:04:37.360] Senator Erwin Tulfo** (asr-001134)  
+**[01:04:37.360] Senator Erwin T. Tulfo** (asr-001134)  
 ChatGPT, AI.
 
-**[01:04:40.040] Senator Erwin Tulfo** (asr-001135)  
+**[01:04:40.040] Senator Erwin T. Tulfo** (asr-001135)  
 Eh, hindi naman po accurate
 
-**[01:04:41.320] Senator Erwin Tulfo** (asr-001136)  
+**[01:04:41.320] Senator Erwin T. Tulfo** (asr-001136)  
 ang answers. Kaya nga po,
 
-**[01:04:43.880] Senator Erwin Tulfo** (asr-001137)  
+**[01:04:43.880] Senator Erwin T. Tulfo** (asr-001137)  
 kung po pwede, yung AI
 
-**[01:04:45.300] Senator Erwin Tulfo** (asr-001138)  
+**[01:04:45.300] Senator Erwin T. Tulfo** (asr-001138)  
 upskilling should be considered an opportunity
 
-**[01:04:47.780] Senator Erwin Tulfo** (asr-001139)  
+**[01:04:47.780] Senator Erwin T. Tulfo** (asr-001139)  
 and a challenge. Kasi,
 
-**[01:04:49.620] Senator Erwin Tulfo** (asr-001140)  
+**[01:04:49.620] Senator Erwin T. Tulfo** (asr-001140)  
 kung magdidepend lang po ang estudyante,
 
-**[01:04:51.800] Senator Erwin Tulfo** (asr-001141)  
+**[01:04:51.800] Senator Erwin T. Tulfo** (asr-001141)  
 walang matututunan kabubuhan po.
 
-**[01:04:54.360] Senator Erwin Tulfo** (asr-001142)  
+**[01:04:54.360] Senator Erwin T. Tulfo** (asr-001142)  
 Pero for now, Mr. Secretary,
 
-**[01:04:56.180] Senator Erwin Tulfo** (asr-001143)  
+**[01:04:56.180] Senator Erwin T. Tulfo** (asr-001143)  
 try to look po muna
 
-**[01:04:57.340] Senator Erwin Tulfo** (asr-001144)  
+**[01:04:57.340] Senator Erwin T. Tulfo** (asr-001144)  
 sagutin po natin ito and
 
-**[01:04:59.380] Senator Erwin Tulfo** (asr-001145)  
+**[01:04:59.380] Senator Erwin T. Tulfo** (asr-001145)  
 COA, Commission on Audit, I want you
 
-**[01:05:01.620] Senator Erwin Tulfo** (asr-001146)  
+**[01:05:01.620] Senator Erwin T. Tulfo** (asr-001146)  
 to review this. Ito po mga
 
-**[01:05:03.880] Senator Erwin Tulfo** (asr-001147)  
+**[01:05:03.880] Senator Erwin T. Tulfo** (asr-001147)  
 binigay niyo sa kanila kung ito
 
-**[01:05:05.720] Senator Erwin Tulfo** (asr-001148)  
+**[01:05:05.720] Senator Erwin T. Tulfo** (asr-001148)  
 po ba ay nagawa ng paraan.
 
-**[01:05:07.760] Senator Erwin Tulfo** (asr-001149)  
+**[01:05:07.760] Senator Erwin T. Tulfo** (asr-001149)  
 Kasi we'll be wasting money, sir.
 
-**[01:05:09.680] Senator Erwin Tulfo** (asr-001150)  
+**[01:05:09.680] Senator Erwin T. Tulfo** (asr-001150)  
 We'll be wasting another money
 
-**[01:05:11.360] Senator Erwin Tulfo** (asr-001151)  
+**[01:05:11.360] Senator Erwin T. Tulfo** (asr-001151)  
 na pwedeng ilaan sa ibang
 
-**[01:05:13.280] Senator Erwin Tulfo** (asr-001152)  
+**[01:05:13.280] Senator Erwin T. Tulfo** (asr-001152)  
 departamento. Pwedeng sa CHED,
 
-**[01:05:15.780] Senator Erwin Tulfo** (asr-001153)  
+**[01:05:15.780] Senator Erwin T. Tulfo** (asr-001153)  
 pwedeng sa DepEd, pwedeng
 
-**[01:05:17.520] Senator Erwin Tulfo** (asr-001154)  
+**[01:05:17.520] Senator Erwin T. Tulfo** (asr-001154)  
 sa DOH. Mas maraming
 
-**[01:05:19.720] Senator Erwin Tulfo** (asr-001155)  
+**[01:05:19.720] Senator Erwin T. Tulfo** (asr-001155)  
 ikanga na pagkapupulutan
 
-**[01:05:21.820] Senator Erwin Tulfo** (asr-001156)  
+**[01:05:21.820] Senator Erwin T. Tulfo** (asr-001156)  
 na nga ngailangan. I know we
 
-**[01:05:23.560] Senator Erwin Tulfo** (asr-001157)  
+**[01:05:23.560] Senator Erwin T. Tulfo** (asr-001157)  
 need test, da. Dahil tayo po
 
-**[01:05:25.580] Senator Erwin Tulfo** (asr-001158)  
+**[01:05:25.580] Senator Erwin T. Tulfo** (asr-001158)  
 ay nag-i-import ang ating major
 
-**[01:05:27.180] Senator Erwin Tulfo** (asr-001159)  
+**[01:05:27.180] Senator Erwin T. Tulfo** (asr-001159)  
 industry. Nag-i-export tayo
 
-**[01:05:29.680] Senator Erwin Tulfo** (asr-001160)  
+**[01:05:29.680] Senator Erwin T. Tulfo** (asr-001160)  
 ng labor. Kailangan natin
 
-**[01:05:31.540] Senator Erwin Tulfo** (asr-001161)  
+**[01:05:31.540] Senator Erwin T. Tulfo** (asr-001161)  
 i-upscale, kailangan i-training ang mga tao.
 
-**[01:05:33.980] Senator Erwin Tulfo** (asr-001162)  
+**[01:05:33.980] Senator Erwin T. Tulfo** (asr-001162)  
 Pero kung ganito naman,
 
-**[01:05:35.320] Senator Erwin Tulfo** (asr-001163)  
+**[01:05:35.320] Senator Erwin T. Tulfo** (asr-001163)  
 estudyante, maghihingi
 
-**[01:05:37.480] Senator Erwin Tulfo** (asr-001164)  
+**[01:05:37.480] Senator Erwin T. Tulfo** (asr-001164)  
 ng pang-tuisyon para mag-aral sa
 
-**[01:05:39.240] Senator Erwin Tulfo** (asr-001165)  
+**[01:05:39.240] Senator Erwin T. Tulfo** (asr-001165)  
 TESDA. Ayan, tanong ko, saan napunta
 
-**[01:05:41.280] Senator Erwin Tulfo** (asr-001166)  
+**[01:05:41.280] Senator Erwin T. Tulfo** (asr-001166)  
 yung budget po na binigay sa inyo?
 
-**[01:05:43.920] Senator Erwin Tulfo** (asr-001167)  
+**[01:05:43.920] Senator Erwin T. Tulfo** (asr-001167)  
 I mean, bakit tayo magbabudget po?
 
-**[01:05:45.940] Senator Erwin Tulfo** (asr-001168)  
+**[01:05:45.940] Senator Erwin T. Tulfo** (asr-001168)  
 Ganon po ba yan, former
 
-**[01:05:47.400] Senator Erwin Tulfo** (asr-001169)  
+**[01:05:47.400] Senator Erwin T. Tulfo** (asr-001169)  
 TESDA man, sir?
 
-**[01:05:50.480] Senator Erwin Tulfo** (asr-001170)  
+**[01:05:50.480] Senator Erwin T. Tulfo** (asr-001170)  
 I mean, by budget
 
-**[01:05:51.500] Senator Erwin Tulfo** (asr-001171)  
+**[01:05:51.500] Senator Erwin T. Tulfo** (asr-001171)  
 ang TESDA, pero maghihingi
 
-**[01:05:53.460] Senator Erwin Tulfo** (asr-001172)  
+**[01:05:53.460] Senator Erwin T. Tulfo** (asr-001172)  
 yung tao sa opisina ng mga
 
-**[01:05:55.480] Senator Erwin Tulfo** (asr-001173)  
+**[01:05:55.480] Senator Erwin T. Tulfo** (asr-001173)  
 senador, ang congressman, pang-enrollment,
 
-**[01:05:57.180] Senator Erwin Tulfo** (asr-001174)  
+**[01:05:57.180] Senator Erwin T. Tulfo** (asr-001174)  
 pang-enroll ko po para caregiving.
 
-**[01:05:59.560] Senator Erwin Tulfo** (asr-001175)  
+**[01:05:59.560] Senator Erwin T. Tulfo** (asr-001175)  
 Maybe you can answer me.
 
 **[01:06:01.080] Senator Joel Villanueva** (asr-001176)  
@@ -3484,19 +3484,19 @@ hindi ako umabot dun sa
 **[01:06:18.840] Senator Joel Villanueva** (asr-001185)  
 3 billion threshold.
 
-**[01:06:21.880] Senator Erwin Tulfo** (asr-001186)  
+**[01:06:21.880] Senator Erwin T. Tulfo** (asr-001186)  
 Parang kulang pa ho
 
-**[01:06:23.220] Senator Erwin Tulfo** (asr-001187)  
+**[01:06:23.220] Senator Erwin T. Tulfo** (asr-001187)  
 yata, Mr. Chair. Right now, it's 21 billion.
 
-**[01:06:25.180] Senator Erwin Tulfo** (asr-001188)  
+**[01:06:25.180] Senator Erwin T. Tulfo** (asr-001188)  
 21. Yours is 3 billion.
 
-**[01:06:27.180] Senator Erwin Tulfo** (asr-001189)  
+**[01:06:27.180] Senator Erwin T. Tulfo** (asr-001189)  
 Less than. Less than pa.
 
-**[01:06:28.780] Senator Erwin Tulfo** (asr-001190)  
+**[01:06:28.780] Senator Erwin T. Tulfo** (asr-001190)  
 Paano niya napagkasya?
 
 **[01:06:30.420] Senator Joel Villanueva** (asr-001191)  
@@ -3691,121 +3691,121 @@ fight for additional budget.
 **[01:08:39.680] Senator Joel Villanueva** (asr-001254)  
 So, I hope...
 
-**[01:08:40.080] Senator Erwin Tulfo** (asr-001255)  
+**[01:08:40.080] Senator Erwin T. Tulfo** (asr-001255)  
 Kasi higit lang, one last
 
-**[01:08:42.140] Senator Erwin Tulfo** (asr-001256)  
+**[01:08:42.140] Senator Erwin T. Tulfo** (asr-001256)  
 final note, Mr. Chair.
 
-**[01:08:46.040] Senator Erwin Tulfo** (asr-001257)  
+**[01:08:46.040] Senator Erwin T. Tulfo** (asr-001257)  
 Kailangan ho natin,
 
-**[01:08:47.260] Senator Erwin Tulfo** (asr-001258)  
+**[01:08:47.260] Senator Erwin T. Tulfo** (asr-001258)  
 siguro, Commission on Audit, tama po
 
-**[01:08:49.120] Senator Erwin Tulfo** (asr-001259)  
+**[01:08:49.120] Senator Erwin T. Tulfo** (asr-001259)  
 si Mr. Chair. We need that
 
-**[01:08:51.220] Senator Erwin Tulfo** (asr-001260)  
+**[01:08:51.220] Senator Erwin T. Tulfo** (asr-001260)  
 report, ano po, kung na-fulfill
 
-**[01:08:53.520] Senator Erwin Tulfo** (asr-001261)  
+**[01:08:53.520] Senator Erwin T. Tulfo** (asr-001261)  
 po ba, kasi we'll be wasting
 
-**[01:08:55.100] Senator Erwin Tulfo** (asr-001262)  
+**[01:08:55.100] Senator Erwin T. Tulfo** (asr-001262)  
 money. E parang lumalabas,
 
-**[01:08:57.180] Senator Erwin Tulfo** (asr-001263)  
+**[01:08:57.180] Senator Erwin T. Tulfo** (asr-001263)  
 so, with your
 
-**[01:08:59.320] Senator Erwin Tulfo** (asr-001264)  
+**[01:08:59.320] Senator Erwin T. Tulfo** (asr-001264)  
 pardon my
 
-**[01:09:00.860] Senator Erwin Tulfo** (asr-001265)  
+**[01:09:00.860] Senator Erwin T. Tulfo** (asr-001265)  
 language, sa Secretary Benitez, parang
 
-**[01:09:03.100] Senator Erwin Tulfo** (asr-001266)  
+**[01:09:03.100] Senator Erwin T. Tulfo** (asr-001266)  
 hindi kayo merong gumasta dyan.
 
-**[01:09:05.420] Senator Erwin Tulfo** (asr-001267)  
+**[01:09:05.420] Senator Erwin T. Tulfo** (asr-001267)  
 Either, yung
 
-**[01:09:07.200] Senator Erwin Tulfo** (asr-001268)  
+**[01:09:07.200] Senator Erwin T. Tulfo** (asr-001268)  
 inyong utilization rate,
 
-**[01:09:09.900] Senator Erwin Tulfo** (asr-001269)  
+**[01:09:09.900] Senator Erwin T. Tulfo** (asr-001269)  
 kasi hingi kayo na mas
 
-**[01:09:11.020] Senator Erwin Tulfo** (asr-001270)  
+**[01:09:11.020] Senator Erwin T. Tulfo** (asr-001270)  
 malaking budget. E siguro, tama
 
-**[01:09:13.100] Senator Erwin Tulfo** (asr-001271)  
+**[01:09:13.100] Senator Erwin T. Tulfo** (asr-001271)  
 na yung bawasan pa nga kayo,
 
-**[01:09:14.880] Senator Erwin Tulfo** (asr-001272)  
+**[01:09:14.880] Senator Erwin T. Tulfo** (asr-001272)  
 ibigay na lang natin sa itustos
 
-**[01:09:16.960] Senator Erwin Tulfo** (asr-001273)  
+**[01:09:16.960] Senator Erwin T. Tulfo** (asr-001273)  
 natin. Nasayang naman po,
 
-**[01:09:19.000] Senator Erwin Tulfo** (asr-001274)  
+**[01:09:19.000] Senator Erwin T. Tulfo** (asr-001274)  
 marami po tayong mga scholar dito sa SUC
 
-**[01:09:21.240] Senator Erwin Tulfo** (asr-001275)  
+**[01:09:21.240] Senator Erwin T. Tulfo** (asr-001275)  
 na wala po mga allowance.
 
-**[01:09:23.000] Senator Erwin Tulfo** (asr-001276)  
+**[01:09:23.000] Senator Erwin T. Tulfo** (asr-001276)  
 Tuition lang sa sagot ng gobyerno.
 
-**[01:09:24.920] Senator Erwin Tulfo** (asr-001277)  
+**[01:09:24.920] Senator Erwin T. Tulfo** (asr-001277)  
 Sa inyo, napakasarap naman ang scholar po ninyo.
 
-**[01:09:27.180] Senator Erwin Tulfo** (asr-001278)  
+**[01:09:27.180] Senator Erwin T. Tulfo** (asr-001278)  
 May allowance na, may insurance pa.
 
-**[01:09:29.680] Senator Erwin Tulfo** (asr-001279)  
+**[01:09:29.680] Senator Erwin T. Tulfo** (asr-001279)  
 Sa'ka makakita niyan. Sana
 
-**[01:09:31.180] Senator Erwin Tulfo** (asr-001280)  
+**[01:09:31.180] Senator Erwin T. Tulfo** (asr-001280)  
 nag-test na nalang ako, Mr.
 
-**[01:09:33.160] Senator Erwin Tulfo** (asr-001281)  
+**[01:09:33.160] Senator Erwin T. Tulfo** (asr-001281)  
 TESDA Man, para siguro mag-graduate
 
-**[01:09:35.340] Senator Erwin Tulfo** (asr-001282)  
+**[01:09:35.340] Senator Erwin T. Tulfo** (asr-001282)  
 ako ng caregiving.
 
-**[01:09:38.000] Senator Erwin Tulfo** (asr-001283)  
+**[01:09:38.000] Senator Erwin T. Tulfo** (asr-001283)  
 Para, yun lang po,
 
-**[01:09:39.320] Senator Erwin Tulfo** (asr-001284)  
+**[01:09:39.320] Senator Erwin T. Tulfo** (asr-001284)  
 Mr. Chair, I'm not very happy,
 
-**[01:09:41.480] Senator Erwin Tulfo** (asr-001285)  
+**[01:09:41.480] Senator Erwin T. Tulfo** (asr-001285)  
 I'm not satisfied. Yung sinasabi po na,
 
-**[01:09:43.080] Senator Erwin Tulfo** (asr-001286)  
+**[01:09:43.080] Senator Erwin T. Tulfo** (asr-001286)  
 I'm sorry, Mr. Secretary, until
 
-**[01:09:44.900] Senator Erwin Tulfo** (asr-001287)  
+**[01:09:44.900] Senator Erwin T. Tulfo** (asr-001287)  
 you fulfill that question,
 
-**[01:09:47.280] Senator Erwin Tulfo** (asr-001288)  
+**[01:09:47.280] Senator Erwin T. Tulfo** (asr-001288)  
 so, FOA, COA, and you've answered
 
-**[01:09:49.180] Senator Erwin Tulfo** (asr-001289)  
+**[01:09:49.180] Senator Erwin T. Tulfo** (asr-001289)  
 that, I believe, tama lang
 
-**[01:09:51.100] Senator Erwin Tulfo** (asr-001290)  
+**[01:09:51.100] Senator Erwin T. Tulfo** (asr-001290)  
 yung budget ninyo.
 
-**[01:09:53.140] Senator Erwin Tulfo** (asr-001291)  
+**[01:09:53.140] Senator Erwin T. Tulfo** (asr-001291)  
 Kung pagdadagdag po,
 
-**[01:09:54.660] Senator Erwin Tulfo** (asr-001292)  
+**[01:09:54.660] Senator Erwin T. Tulfo** (asr-001292)  
 I totally disagree at this point, sir.
 
-**[01:09:57.180] Senator Erwin Tulfo** (asr-001293)  
+**[01:09:57.180] Senator Erwin T. Tulfo** (asr-001293)  
 Sorry. Thank you.
 
 **[01:09:58.000] Senator Joel Villanueva** (asr-001293-split-2)  
@@ -7903,106 +7903,106 @@ Sir, SP Win, you have the floor.
 **[02:28:04.700] Senator Joel Villanueva** (asr-002670)  
 Sir, thank you for joining us.
 
-**[02:28:07.780] Senator Sherwin "Win" T. Gatchalian** (asr-002671)  
+**[02:28:07.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002671)  
 Thank you. Thank you, Mr. Chairman.
 
-**[02:28:09.280] Senator Sherwin "Win" T. Gatchalian** (asr-002672)  
+**[02:28:09.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002672)  
 Mr. Chairman, I just want to start off.
 
-**[02:28:11.800] Senator Sherwin "Win" T. Gatchalian** (asr-002673)  
+**[02:28:11.800] Senate President Sherwin "Win" T. Gatchalian** (asr-002673)  
 Well, first, let me welcome
 
-**[02:28:14.340] Senator Sherwin "Win" T. Gatchalian** (asr-002674)  
+**[02:28:14.340] Senate President Sherwin "Win" T. Gatchalian** (asr-002674)  
 Secretary Benitez
 
-**[02:28:17.140] Senator Sherwin "Win" T. Gatchalian** (asr-002675)  
+**[02:28:17.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002675)  
 and the Testa family
 
-**[02:28:18.620] Senator Sherwin "Win" T. Gatchalian** (asr-002676)  
+**[02:28:18.620] Senate President Sherwin "Win" T. Gatchalian** (asr-002676)  
 to this budget hearing.
 
-**[02:28:20.100] Senator Sherwin "Win" T. Gatchalian** (asr-002677)  
+**[02:28:20.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002677)  
 Umpisahan ko lang po doon sa
 
-**[02:28:23.760] Senator Sherwin "Win" T. Gatchalian** (asr-002678)  
+**[02:28:23.760] Senate President Sherwin "Win" T. Gatchalian** (asr-002678)  
 2026 budget.
 
-**[02:28:27.420] Senator Sherwin "Win" T. Gatchalian** (asr-002679)  
+**[02:28:27.420] Senate President Sherwin "Win" T. Gatchalian** (asr-002679)  
 We allocated about 1.6 billion
 
-**[02:28:29.720] Senator Sherwin "Win" T. Gatchalian** (asr-002680)  
+**[02:28:29.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002680)  
 for AI upskilling,
 
-**[02:28:32.980] Senator Sherwin "Win" T. Gatchalian** (asr-002681)  
+**[02:28:32.980] Senate President Sherwin "Win" T. Gatchalian** (asr-002681)  
 semiconductors, and healthcare.
 
-**[02:28:35.600] Senator Sherwin "Win" T. Gatchalian** (asr-002682)  
+**[02:28:35.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002682)  
 And natanong ko ito dahil
 
-**[02:28:37.760] Senator Sherwin "Win" T. Gatchalian** (asr-002683)  
+**[02:28:37.760] Senate President Sherwin "Win" T. Gatchalian** (asr-002683)  
 I'm sure you know,
 
-**[02:28:39.140] Senator Sherwin "Win" T. Gatchalian** (asr-002684)  
+**[02:28:39.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002684)  
 these past few days,
 
-**[02:28:43.280] Senator Sherwin "Win" T. Gatchalian** (asr-002685)  
+**[02:28:43.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002685)  
 malaki pong issue itong
 
-**[02:28:44.840] Senator Sherwin "Win" T. Gatchalian** (asr-002686)  
+**[02:28:44.840] Senate President Sherwin "Win" T. Gatchalian** (asr-002686)  
 artificial intelligence
 
-**[02:28:46.460] Senator Sherwin "Win" T. Gatchalian** (asr-002687)  
+**[02:28:46.460] Senate President Sherwin "Win" T. Gatchalian** (asr-002687)  
 and how it can wipe out humanity.
 
-**[02:28:49.300] Senator Sherwin "Win" T. Gatchalian** (asr-002688)  
+**[02:28:49.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002688)  
 No?
 
-**[02:28:50.100] Senator Sherwin "Win" T. Gatchalian** (asr-002689)  
+**[02:28:50.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002689)  
 Pero tingin ko,
 
-**[02:28:52.600] Senator Sherwin "Win" T. Gatchalian** (asr-002690)  
+**[02:28:52.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002690)  
 ewan ko kung buhay pa tayo
 
-**[02:28:53.780] Senator Sherwin "Win" T. Gatchalian** (asr-002691)  
+**[02:28:53.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002691)  
 ng sekretary o hindi.
 
-**[02:28:55.380] Senator Sherwin "Win" T. Gatchalian** (asr-002692)  
+**[02:28:55.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002692)  
 But my track is
 
-**[02:28:59.080] Senator Sherwin "Win" T. Gatchalian** (asr-002693)  
+**[02:28:59.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002693)  
 definitely AI will disrupt
 
-**[02:29:02.560] Senator Sherwin "Win" T. Gatchalian** (asr-002694)  
+**[02:29:02.560] Senate President Sherwin "Win" T. Gatchalian** (asr-002694)  
 many of our industries,
 
-**[02:29:04.520] Senator Sherwin "Win" T. Gatchalian** (asr-002695)  
+**[02:29:04.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002695)  
 specifically the business process outsourcing.
 
-**[02:29:08.280] Senator Sherwin "Win" T. Gatchalian** (asr-002696)  
+**[02:29:08.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002696)  
 So I just want to get an update
 
-**[02:29:10.280] Senator Sherwin "Win" T. Gatchalian** (asr-002697)  
+**[02:29:10.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002697)  
 dito sa 1.8 billion
 
-**[02:29:12.220] Senator Sherwin "Win" T. Gatchalian** (asr-002698)  
+**[02:29:12.220] Senate President Sherwin "Win" T. Gatchalian** (asr-002698)  
 sa TWSP
 
-**[02:29:14.080] Senator Sherwin "Win" T. Gatchalian** (asr-002699)  
+**[02:29:14.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002699)  
 and then ilan yung ating mga
 
-**[02:29:16.340] Senator Sherwin "Win" T. Gatchalian** (asr-002700)  
+**[02:29:16.340] Senate President Sherwin "Win" T. Gatchalian** (asr-002700)  
 na-upskill
 
-**[02:29:18.880] Senator Sherwin "Win" T. Gatchalian** (asr-002701)  
+**[02:29:18.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002701)  
 na mga batas,
 
-**[02:29:19.820] Senator Sherwin "Win" T. Gatchalian** (asr-002702)  
+**[02:29:19.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002702)  
 na mga batas,
 
-**[02:29:20.100] Senator Sherwin "Win" T. Gatchalian** (asr-002703)  
+**[02:29:20.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002703)  
 on AI, semiconductors,
 
-**[02:29:22.860] Senator Sherwin "Win" T. Gatchalian** (asr-002704)  
+**[02:29:22.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002704)  
 and healthcare.
 
 **[02:29:26.220] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-002705)  
@@ -8020,10 +8020,10 @@ Kanina pa kasi ako sumasagot.
 **[02:29:32.260] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-002709)  
 Si DDG Galo will respond.
 
-**[02:29:34.540] Senator Sherwin "Win" T. Gatchalian** (asr-002710)  
+**[02:29:34.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002710)  
 Si Galo, okay yan.
 
-**[02:29:35.500] Senator Sherwin "Win" T. Gatchalian** (asr-002711)  
+**[02:29:35.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002711)  
 Malakas kumain yan.
 
 **[02:29:38.160] TESDA Deputy Director General Galo B. Glino III** (asr-002712)  
@@ -8098,64 +8098,64 @@ And we hope to continue to be able to do this in 2027 with support of the Senate
 **[02:31:51.640] TESDA Deputy Director General Galo B. Glino III** (asr-002743)  
 Thank you, po.
 
-**[02:31:52.460] Senator Sherwin "Win" T. Gatchalian** (asr-002744)  
+**[02:31:52.460] Senate President Sherwin "Win" T. Gatchalian** (asr-002744)  
 DDG, itong you mentioned 30% of jobs at risk.
 
-**[02:31:58.120] Senator Sherwin "Win" T. Gatchalian** (asr-002745)  
+**[02:31:58.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002745)  
 So, based on statistics, mayroon tayong 49 million workforce.
 
-**[02:32:07.100] Senator Sherwin "Win" T. Gatchalian** (asr-002746)  
+**[02:32:07.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002746)  
 So, 30% is about 10 million, more or less.
 
-**[02:32:10.740] Senator Sherwin "Win" T. Gatchalian** (asr-002747)  
+**[02:32:10.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002747)  
 So, in other words, 10 million of our...
 
-**[02:32:14.580] Senator Sherwin "Win" T. Gatchalian** (asr-002748)  
+**[02:32:14.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002748)  
 10 million of the workforce is at risk of being affected by artificial intelligence.
 
-**[02:32:20.420] Senator Sherwin "Win" T. Gatchalian** (asr-002749)  
+**[02:32:20.420] Senate President Sherwin "Win" T. Gatchalian** (asr-002749)  
 Yes, Mr. President.
 
-**[02:32:20.900] Senator Sherwin "Win" T. Gatchalian** (asr-002750)  
+**[02:32:20.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002750)  
 But, obviously, maliit pa lang yung ating na-upskill, no?
 
-**[02:32:26.580] Senator Sherwin "Win" T. Gatchalian** (asr-002751)  
+**[02:32:26.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002751)  
 Only 30,000 lang.
 
-**[02:32:29.120] Senator Sherwin "Win" T. Gatchalian** (asr-002752)  
+**[02:32:29.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002752)  
 So, in your analysis, of course, we need more funds to upgrade.
 
-**[02:32:36.360] Senator Sherwin "Win" T. Gatchalian** (asr-002753)  
+**[02:32:36.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002753)  
 But in your analysis, what should be the priority in terms of protecting jobs from AI?
 
-**[02:32:44.580] Senator Sherwin "Win" T. Gatchalian** (asr-002754)  
+**[02:32:44.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002754)  
 For example, BPO.
 
-**[02:32:47.360] Senator Sherwin "Win" T. Gatchalian** (asr-002755)  
+**[02:32:47.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002755)  
 Kasi BPO, mayroon tayong about 1.5, 1.6 million employees.
 
-**[02:32:54.280] Senator Sherwin "Win" T. Gatchalian** (asr-002756)  
+**[02:32:54.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002756)  
 And marami sa kanila mga entry-level jobs, no?
 
-**[02:32:57.740] Senator Sherwin "Win" T. Gatchalian** (asr-002757)  
+**[02:32:57.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002757)  
 Kasi puro voice calls.
 
-**[02:33:00.100] Senator Sherwin "Win" T. Gatchalian** (asr-002758)  
+**[02:33:00.100] Senate President Sherwin "Win" T. Gatchalian** (asr-002758)  
 And I am predicting that AI will have a massive effect on them.
 
-**[02:33:07.060] Senator Sherwin "Win" T. Gatchalian** (asr-002759)  
+**[02:33:07.060] Senate President Sherwin "Win" T. Gatchalian** (asr-002759)  
 Dahil next time, kausap na ng tao, artificial intelligence.
 
-**[02:33:10.380] Senator Sherwin "Win" T. Gatchalian** (asr-002760)  
+**[02:33:10.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002760)  
 So, for example, BPO, particular, no?
 
-**[02:33:13.620] Senator Sherwin "Win" T. Gatchalian** (asr-002761)  
+**[02:33:13.620] Senate President Sherwin "Win" T. Gatchalian** (asr-002761)  
 How do we...
 
-**[02:33:14.580] Senator Sherwin "Win" T. Gatchalian** (asr-002762)  
+**[02:33:14.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002762)  
 How do we help the BPO industry survive the AI revolution
 
-**[02:33:20.240] Senator Sherwin "Win" T. Gatchalian** (asr-002763)  
+**[02:33:20.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002763)  
 so that AI will be part of the BPO industry and still grow our BPO industry?
 
 **[02:33:29.940] TESDA Deputy Director General Galo B. Glino III** (asr-002764)  
@@ -8185,22 +8185,22 @@ Yes, sir.
 **[02:33:53.180] TESDA Deputy Director General Galo B. Glino III** (asr-002772)  
 Okay.
 
-**[02:33:53.940] Senator Sherwin "Win" T. Gatchalian** (asr-002773)  
+**[02:33:53.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002773)  
 Can you describe to us ano ba yung mga skills, upskilling, or even reskilling ng AI skills?
 
-**[02:34:02.580] Senator Sherwin "Win" T. Gatchalian** (asr-002774)  
+**[02:34:02.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002774)  
 Can you...
 
-**[02:34:03.540] Senator Sherwin "Win" T. Gatchalian** (asr-002775)  
+**[02:34:03.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002775)  
 Kasi, to be honest about it, like kami dito, we just use it for research.
 
-**[02:34:08.480] Senator Sherwin "Win" T. Gatchalian** (asr-002776)  
+**[02:34:08.480] Senate President Sherwin "Win" T. Gatchalian** (asr-002776)  
 Yes, sir.
 
-**[02:34:08.780] Senator Sherwin "Win" T. Gatchalian** (asr-002777)  
+**[02:34:08.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002777)  
 But what type of upskilling or even reskilling is TESTA doing to...
 
-**[02:34:14.420] Senator Sherwin "Win" T. Gatchalian** (asr-002778)  
+**[02:34:14.420] Senate President Sherwin "Win" T. Gatchalian** (asr-002778)  
 Let's say, the BPO industry or the other industries?
 
 **[02:34:17.680] TESDA Deputy Director General Galo B. Glino III** (asr-002779)  
@@ -8257,73 +8257,73 @@ to create products for clients abroad.
 **[02:35:47.400] TESDA Deputy Director General Galo B. Glino III** (asr-002796)  
 Ayan po ang kasama sa roadmap natin, Mr. Chair.
 
-**[02:35:51.960] Senator Sherwin "Win" T. Gatchalian** (asr-002797)  
+**[02:35:51.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002797)  
 For 2027, is this roadmap funded, adequately funded?
 
-**[02:36:01.740] Senator Sherwin "Win" T. Gatchalian** (asr-002798)  
+**[02:36:01.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002798)  
 Kasi nakita ko dito yung TWSP bumaba by 45%.
 
-**[02:36:09.580] Senator Sherwin "Win" T. Gatchalian** (asr-002799)  
+**[02:36:09.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002799)  
 From 3.6 billion, naging...
 
-**[02:36:13.880] Senator Sherwin "Win" T. Gatchalian** (asr-002800)  
+**[02:36:13.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002800)  
 I think it's 3.6 billion next year, no?
 
-**[02:36:28.020] Senator Sherwin "Win" T. Gatchalian** (asr-002801)  
+**[02:36:28.020] Senate President Sherwin "Win" T. Gatchalian** (asr-002801)  
 In budget.
 
-**[02:36:29.140] Senator Sherwin "Win" T. Gatchalian** (asr-002802)  
+**[02:36:29.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002802)  
 So, bumaba siya by 45%.
 
-**[02:36:31.440] Senator Sherwin "Win" T. Gatchalian** (asr-002803)  
+**[02:36:31.440] Senate President Sherwin "Win" T. Gatchalian** (asr-002803)  
 So, it was mas malaki siya last year.
 
-**[02:36:34.680] Senator Sherwin "Win" T. Gatchalian** (asr-002804)  
+**[02:36:34.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002804)  
 So, in other words, with that roadmap, maganda meron tayong roadmap,
 
-**[02:36:42.000] Senator Sherwin "Win" T. Gatchalian** (asr-002805)  
+**[02:36:42.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002805)  
 pero bumaba naman yung ating...
 
-**[02:36:43.880] Senator Sherwin "Win" T. Gatchalian** (asr-002806)  
+**[02:36:43.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002806)  
 scholarship for AI,
 
-**[02:36:46.220] Senator Sherwin "Win" T. Gatchalian** (asr-002807)  
+**[02:36:46.220] Senate President Sherwin "Win" T. Gatchalian** (asr-002807)  
 how will this affect the upskilling and reskilling program of our workforce?
 
-**[02:36:55.260] Senator Sherwin "Win" T. Gatchalian** (asr-002808)  
+**[02:36:55.260] Senate President Sherwin "Win" T. Gatchalian** (asr-002808)  
 Malit na nga dati, lumit pa ngayon,
 
-**[02:36:59.080] Senator Sherwin "Win" T. Gatchalian** (asr-002809)  
+**[02:36:59.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002809)  
 and there's a big chance na maapektuhan itong...
 
-**[02:37:02.880] Senator Sherwin "Win" T. Gatchalian** (asr-002810)  
+**[02:37:02.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002810)  
 I just want to make it...
 
-**[02:37:04.880] Senator Sherwin "Win" T. Gatchalian** (asr-002811)  
+**[02:37:04.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002811)  
 I just want to make the BPO industry as an example
 
-**[02:37:09.860] Senator Sherwin "Win" T. Gatchalian** (asr-002812)  
+**[02:37:09.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002812)  
 kasi siya yung ating saving grace for our economy.
 
-**[02:37:13.880] Senator Sherwin "Win" T. Gatchalian** (asr-002813)  
+**[02:37:13.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002813)  
 So, baka magkaroon tayo ng malaking problema
 
-**[02:37:18.880] Senator Sherwin "Win" T. Gatchalian** (asr-002814)  
+**[02:37:18.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002814)  
 kung hindi natin pupondohan itong AI upskilling and reskilling natin.
 
-**[02:37:24.420] Senator Sherwin "Win" T. Gatchalian** (asr-002815)  
+**[02:37:24.420] Senate President Sherwin "Win" T. Gatchalian** (asr-002815)  
 We're looking for TESDA to really bridge that gap.
 
 **[02:37:28.780] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-002816)  
 Yes, sir.
 
-**[02:37:29.300] Senator Sherwin "Win" T. Gatchalian** (asr-002817)  
+**[02:37:29.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002817)  
 The gap meaning from our present low-value BPO industry
 
-**[02:37:35.940] Senator Sherwin "Win" T. Gatchalian** (asr-002818)  
+**[02:37:35.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002818)  
 to a high-value AI-driven BPO industry.
 
-**[02:37:39.540] Senator Sherwin "Win" T. Gatchalian** (asr-002819)  
+**[02:37:39.540] Senate President Sherwin "Win" T. Gatchalian** (asr-002819)  
 And I see that TESDA is the agency that will bridge that.
 
 **[02:37:43.880] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-002820)  
@@ -8614,136 +8614,136 @@ at ng DOST sa totoo lang,
 **[02:42:02.080] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-002915)  
 which is also still part of the roadmap.
 
-**[02:42:06.200] Senator Sherwin "Win" T. Gatchalian** (asr-002916)  
+**[02:42:06.200] Senate President Sherwin "Win" T. Gatchalian** (asr-002916)  
 And this AI,
 
-**[02:42:08.660] Senator Sherwin "Win" T. Gatchalian** (asr-002917)  
+**[02:42:08.660] Senate President Sherwin "Win" T. Gatchalian** (asr-002917)  
 nakita ko na very specific
 
-**[02:42:10.300] Senator Sherwin "Win" T. Gatchalian** (asr-002918)  
+**[02:42:10.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002918)  
 and it's good that test,
 
-**[02:42:12.680] Senator Sherwin "Win" T. Gatchalian** (asr-002919)  
+**[02:42:12.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002919)  
 that's ready to implement
 
-**[02:42:16.240] Senator Sherwin "Win" T. Gatchalian** (asr-002920)  
+**[02:42:16.240] Senate President Sherwin "Win" T. Gatchalian** (asr-002920)  
 this AI interventions natin.
 
-**[02:42:19.940] Senator Sherwin "Win" T. Gatchalian** (asr-002921)  
+**[02:42:19.940] Senate President Sherwin "Win" T. Gatchalian** (asr-002921)  
 And ako nakikita ko
 
-**[02:42:22.140] Senator Sherwin "Win" T. Gatchalian** (asr-002922)  
+**[02:42:22.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002922)  
 na kailangan supportahan yan
 
-**[02:42:23.360] Senator Sherwin "Win" T. Gatchalian** (asr-002923)  
+**[02:42:23.360] Senate President Sherwin "Win" T. Gatchalian** (asr-002923)  
 because this is really clear
 
-**[02:42:24.680] Senator Sherwin "Win" T. Gatchalian** (asr-002924)  
+**[02:42:24.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002924)  
 and present danger to our workforce.
 
-**[02:42:27.040] Senator Sherwin "Win" T. Gatchalian** (asr-002925)  
+**[02:42:27.040] Senate President Sherwin "Win" T. Gatchalian** (asr-002925)  
 And not only us,
 
-**[02:42:28.380] Senator Sherwin "Win" T. Gatchalian** (asr-002926)  
+**[02:42:28.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002926)  
 but the whole world is actually
 
-**[02:42:29.720] Senator Sherwin "Win" T. Gatchalian** (asr-002927)  
+**[02:42:29.720] Senate President Sherwin "Win" T. Gatchalian** (asr-002927)  
 in that concern.
 
 **[02:42:35.560] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-002928)  
 And the window, sir, is closing.
 
-**[02:42:37.580] Senator Sherwin "Win" T. Gatchalian** (asr-002929)  
+**[02:42:37.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002929)  
 Correct.
 
-**[02:42:38.080] Senator Sherwin "Win" T. Gatchalian** (asr-002930)  
+**[02:42:38.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002930)  
 So that's why
 
-**[02:42:39.080] Senator Sherwin "Win" T. Gatchalian** (asr-002931)  
+**[02:42:39.080] Senate President Sherwin "Win" T. Gatchalian** (asr-002931)  
 it's good to hear that Tesla
 
-**[02:42:42.400] Senator Sherwin "Win" T. Gatchalian** (asr-002932)  
+**[02:42:42.400] Senate President Sherwin "Win" T. Gatchalian** (asr-002932)  
 is ready to implement this AI interventions.
 
-**[02:42:42.680] Senator Sherwin "Win" T. Gatchalian** (asr-002933)  
+**[02:42:42.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002933)  
 It's ready.
 
-**[02:42:43.420] Senator Sherwin "Win" T. Gatchalian** (asr-002934)  
+**[02:42:43.420] Senate President Sherwin "Win" T. Gatchalian** (asr-002934)  
 All we need to do is to fund it.
 
-**[02:42:46.300] Senator Sherwin "Win" T. Gatchalian** (asr-002935)  
+**[02:42:46.300] Senate President Sherwin "Win" T. Gatchalian** (asr-002935)  
 Of course, we'll try to
 
-**[02:42:47.700] Senator Sherwin "Win" T. Gatchalian** (asr-002936)  
+**[02:42:47.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002936)  
 get as much funding as possible
 
-**[02:42:50.380] Senator Sherwin "Win" T. Gatchalian** (asr-002937)  
+**[02:42:50.380] Senate President Sherwin "Win" T. Gatchalian** (asr-002937)  
 so that we can
 
-**[02:42:52.580] Senator Sherwin "Win" T. Gatchalian** (asr-002938)  
+**[02:42:52.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002938)  
 help our workforce
 
-**[02:42:55.120] Senator Sherwin "Win" T. Gatchalian** (asr-002939)  
+**[02:42:55.120] Senate President Sherwin "Win" T. Gatchalian** (asr-002939)  
 adapt to the AI revolution.
 
-**[02:42:58.960] Senator Sherwin "Win" T. Gatchalian** (asr-002940)  
+**[02:42:58.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002940)  
 Importante yan kasi kung wala tayong gagawin,
 
-**[02:43:00.960] Senator Sherwin "Win" T. Gatchalian** (asr-002941)  
+**[02:43:00.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002941)  
 mawawipe out talaga tayo.
 
-**[02:43:02.700] Senator Sherwin "Win" T. Gatchalian** (asr-002942)  
+**[02:43:02.700] Senate President Sherwin "Win" T. Gatchalian** (asr-002942)  
 Mawawipe out talaga tayo.
 
-**[02:43:04.600] Senator Sherwin "Win" T. Gatchalian** (asr-002943)  
+**[02:43:04.600] Senate President Sherwin "Win" T. Gatchalian** (asr-002943)  
 So with that,
 
-**[02:43:06.280] Senator Sherwin "Win" T. Gatchalian** (asr-002944)  
+**[02:43:06.280] Senate President Sherwin "Win" T. Gatchalian** (asr-002944)  
 ang tanong ko is
 
-**[02:43:07.960] Senator Sherwin "Win" T. Gatchalian** (asr-002945)  
+**[02:43:07.960] Senate President Sherwin "Win" T. Gatchalian** (asr-002945)  
 how much do we need?
 
-**[02:43:12.000] Senator Sherwin "Win" T. Gatchalian** (asr-002946)  
+**[02:43:12.000] Senate President Sherwin "Win" T. Gatchalian** (asr-002946)  
 Narinig ko kasi,
 
-**[02:43:12.680] Senator Sherwin "Win" T. Gatchalian** (asr-002947)  
+**[02:43:12.680] Senate President Sherwin "Win" T. Gatchalian** (asr-002947)  
 kanina si Secretary sabi,
 
-**[02:43:13.820] Senator Sherwin "Win" T. Gatchalian** (asr-002948)  
+**[02:43:13.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002948)  
 we need to be strategic
 
-**[02:43:14.780] Senator Sherwin "Win" T. Gatchalian** (asr-002949)  
+**[02:43:14.780] Senate President Sherwin "Win" T. Gatchalian** (asr-002949)  
 because limitado yung pondo natin.
 
-**[02:43:17.520] Senator Sherwin "Win" T. Gatchalian** (asr-002950)  
+**[02:43:17.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002950)  
 But in your
 
-**[02:43:19.520] Senator Sherwin "Win" T. Gatchalian** (asr-002951)  
+**[02:43:19.520] Senate President Sherwin "Win" T. Gatchalian** (asr-002951)  
 strategy,
 
-**[02:43:22.140] Senator Sherwin "Win" T. Gatchalian** (asr-002952)  
+**[02:43:22.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002952)  
 a realistic amount
 
-**[02:43:23.880] Senator Sherwin "Win" T. Gatchalian** (asr-002953)  
+**[02:43:23.880] Senate President Sherwin "Win" T. Gatchalian** (asr-002953)  
 in order for our workforce,
 
-**[02:43:26.140] Senator Sherwin "Win" T. Gatchalian** (asr-002954)  
+**[02:43:26.140] Senate President Sherwin "Win" T. Gatchalian** (asr-002954)  
 at least part of our workforce,
 
-**[02:43:28.860] Senator Sherwin "Win" T. Gatchalian** (asr-002955)  
+**[02:43:28.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002955)  
 it can be
 
-**[02:43:30.580] Senator Sherwin "Win" T. Gatchalian** (asr-002956)  
+**[02:43:30.580] Senate President Sherwin "Win" T. Gatchalian** (asr-002956)  
 upskill and reskill.
 
-**[02:43:32.180] Senator Sherwin "Win" T. Gatchalian** (asr-002957)  
+**[02:43:32.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002957)  
 How much do we need?
 
-**[02:43:33.640] Senator Sherwin "Win" T. Gatchalian** (asr-002958)  
+**[02:43:33.640] Senate President Sherwin "Win" T. Gatchalian** (asr-002958)  
 Kung meron kayong number, okay.
 
-**[02:43:35.180] Senator Sherwin "Win" T. Gatchalian** (asr-002959)  
+**[02:43:35.180] Senate President Sherwin "Win" T. Gatchalian** (asr-002959)  
 If not, you can just submit it to the committee.
 
 **[02:43:37.580] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-002960)  
@@ -8770,25 +8770,25 @@ on AI upskilling for TESDA,
 **[02:43:49.520] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-002967)  
 to answer.
 
-**[02:43:49.900] Senator Sherwin "Win" T. Gatchalian** (asr-002968)  
+**[02:43:49.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002968)  
 Your original proposed budget is
 
-**[02:43:51.500] Senator Sherwin "Win" T. Gatchalian** (asr-002969)  
+**[02:43:51.500] Senate President Sherwin "Win" T. Gatchalian** (asr-002969)  
 39 billion. I would assume
 
-**[02:43:53.820] Senator Sherwin "Win" T. Gatchalian** (asr-002970)  
+**[02:43:53.820] Senate President Sherwin "Win" T. Gatchalian** (asr-002970)  
 andito siya sa 39 billion.
 
-**[02:43:58.740] Senator Sherwin "Win" T. Gatchalian** (asr-002971)  
+**[02:43:58.740] Senate President Sherwin "Win" T. Gatchalian** (asr-002971)  
 So,
 
-**[02:43:59.860] Senator Sherwin "Win" T. Gatchalian** (asr-002972)  
+**[02:43:59.860] Senate President Sherwin "Win" T. Gatchalian** (asr-002972)  
 si chairman nilang magahanap ng
 
-**[02:44:01.620] Senator Sherwin "Win" T. Gatchalian** (asr-002973)  
+**[02:44:01.620] Senate President Sherwin "Win" T. Gatchalian** (asr-002973)  
 39 billion.
 
-**[02:44:05.900] Senator Sherwin "Win" T. Gatchalian** (asr-002974)  
+**[02:44:05.900] Senate President Sherwin "Win" T. Gatchalian** (asr-002974)  
 But yeah, go ahead, DG Galo.
 
 **[02:44:07.820] TESDA Deputy Director General Galo B. Glino III** (asr-002975)  
@@ -8902,34 +8902,34 @@ ng AI
 **[02:45:20.340] TESDA Deputy Director General Galo B. Glino III** (asr-003011)  
 upskilling.
 
-**[02:45:21.980] Senator Sherwin "Win" T. Gatchalian** (asr-003012)  
+**[02:45:21.980] Senate President Sherwin "Win" T. Gatchalian** (asr-003012)  
 To us,
 
-**[02:45:23.800] Senator Sherwin "Win" T. Gatchalian** (asr-003013)  
+**[02:45:23.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003013)  
 ilimit lang natin sa
 
-**[02:45:26.280] Senator Sherwin "Win" T. Gatchalian** (asr-003014)  
+**[02:45:26.280] Senate President Sherwin "Win" T. Gatchalian** (asr-003014)  
 AI
 
-**[02:45:26.960] Senator Sherwin "Win" T. Gatchalian** (asr-003015)  
+**[02:45:26.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003015)  
 higher level
 
-**[02:45:30.780] Senator Sherwin "Win" T. Gatchalian** (asr-003016)  
+**[02:45:30.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003016)  
 skills, this type of
 
-**[02:45:32.160] Senator Sherwin "Win" T. Gatchalian** (asr-003017)  
+**[02:45:32.160] Senate President Sherwin "Win" T. Gatchalian** (asr-003017)  
 it's a submit to the committee kung anong
 
-**[02:45:34.340] Senator Sherwin "Win" T. Gatchalian** (asr-003018)  
+**[02:45:34.340] Senate President Sherwin "Win" T. Gatchalian** (asr-003018)  
 tingin nyo kailangan natin in order
 
-**[02:45:36.260] Senator Sherwin "Win" T. Gatchalian** (asr-003019)  
+**[02:45:36.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003019)  
 for us to
 
-**[02:45:37.840] Senator Sherwin "Win" T. Gatchalian** (asr-003020)  
+**[02:45:37.840] Senate President Sherwin "Win" T. Gatchalian** (asr-003020)  
 reskill and upskill to the AI
 
-**[02:45:40.600] Senator Sherwin "Win" T. Gatchalian** (asr-003021)  
+**[02:45:40.600] Senate President Sherwin "Win" T. Gatchalian** (asr-003021)  
 revolution.
 
 **[02:45:42.440] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003022)  
@@ -8974,7 +8974,7 @@ and fair use of AI
 **[02:46:07.920] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003035)  
 tools and so on.
 
-**[02:46:09.600] Senator Sherwin "Win" T. Gatchalian** (asr-003036)  
+**[02:46:09.600] Senate President Sherwin "Win" T. Gatchalian** (asr-003036)  
 And that's in your roadmap as well?
 
 **[02:46:11.360] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003037)  
@@ -8986,133 +8986,133 @@ It's not a single one.
 **[02:46:15.520] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003039)  
 So just to flag that.
 
-**[02:46:17.660] Senator Sherwin "Win" T. Gatchalian** (asr-003040)  
+**[02:46:17.660] Senate President Sherwin "Win" T. Gatchalian** (asr-003040)  
 I agree with you. As the world becomes
 
-**[02:46:19.520] Senator Sherwin "Win" T. Gatchalian** (asr-003041)  
+**[02:46:19.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003041)  
 digital and interconnected and
 
-**[02:46:21.520] Senator Sherwin "Win" T. Gatchalian** (asr-003042)  
+**[02:46:21.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003042)  
 cyber security becomes an essential
 
-**[02:46:23.460] Senator Sherwin "Win" T. Gatchalian** (asr-003043)  
+**[02:46:23.460] Senate President Sherwin "Win" T. Gatchalian** (asr-003043)  
 skill and tool,
 
-**[02:46:25.860] Senator Sherwin "Win" T. Gatchalian** (asr-003044)  
+**[02:46:25.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003044)  
 lahat na kasi ngayon is
 
-**[02:46:27.580] Senator Sherwin "Win" T. Gatchalian** (asr-003045)  
+**[02:46:27.580] Senate President Sherwin "Win" T. Gatchalian** (asr-003045)  
 digital eh. Pag digital na ngayon,
 
-**[02:46:30.200] Senator Sherwin "Win" T. Gatchalian** (asr-003046)  
+**[02:46:30.200] Senate President Sherwin "Win" T. Gatchalian** (asr-003046)  
 kailangan mo talaga ng cyber security.
 
-**[02:46:33.020] Senator Sherwin "Win" T. Gatchalian** (asr-003047)  
+**[02:46:33.020] Senate President Sherwin "Win" T. Gatchalian** (asr-003047)  
 I'll jump to another topic,
 
-**[02:46:34.480] Senator Sherwin "Win" T. Gatchalian** (asr-003048)  
+**[02:46:34.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003048)  
 Mr. Chairman,
 
-**[02:46:36.420] Senator Sherwin "Win" T. Gatchalian** (asr-003049)  
+**[02:46:36.420] Senate President Sherwin "Win" T. Gatchalian** (asr-003049)  
 with your permission.
 
-**[02:46:37.860] Senator Sherwin "Win" T. Gatchalian** (asr-003050)  
+**[02:46:37.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003050)  
 And this is on the
 
-**[02:46:39.680] Senator Sherwin "Win" T. Gatchalian** (asr-003051)  
+**[02:46:39.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003051)  
 topic of Paxilica.
 
-**[02:46:41.980] Senator Sherwin "Win" T. Gatchalian** (asr-003052)  
+**[02:46:41.980] Senate President Sherwin "Win" T. Gatchalian** (asr-003052)  
 And we'd like to
 
-**[02:46:43.680] Senator Sherwin "Win" T. Gatchalian** (asr-003053)  
+**[02:46:43.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003053)  
 also learn
 
-**[02:46:45.300] Senator Sherwin "Win" T. Gatchalian** (asr-003054)  
+**[02:46:45.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003054)  
 ano ang role ng TESDA
 
-**[02:46:47.740] Senator Sherwin "Win" T. Gatchalian** (asr-003055)  
+**[02:46:47.740] Senate President Sherwin "Win" T. Gatchalian** (asr-003055)  
 to Paxilica because it was
 
-**[02:46:49.880] Senator Sherwin "Win" T. Gatchalian** (asr-003056)  
+**[02:46:49.880] Senate President Sherwin "Win" T. Gatchalian** (asr-003056)  
 also mentioned
 
-**[02:46:51.920] Senator Sherwin "Win" T. Gatchalian** (asr-003057)  
+**[02:46:51.920] Senate President Sherwin "Win" T. Gatchalian** (asr-003057)  
 in one of our hearings
 
-**[02:46:53.660] Senator Sherwin "Win" T. Gatchalian** (asr-003058)  
+**[02:46:53.660] Senate President Sherwin "Win" T. Gatchalian** (asr-003058)  
 na up to 193%
 
-**[02:46:55.860] Senator Sherwin "Win" T. Gatchalian** (asr-003059)  
+**[02:46:55.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003059)  
 ang i-hire.
 
-**[02:46:58.420] Senator Sherwin "Win" T. Gatchalian** (asr-003060)  
+**[02:46:58.420] Senate President Sherwin "Win" T. Gatchalian** (asr-003060)  
 At di ano na ito,
 
-**[02:46:59.880] Senator Sherwin "Win" T. Gatchalian** (asr-003061)  
+**[02:46:59.880] Senate President Sherwin "Win" T. Gatchalian** (asr-003061)  
 full scale ng Paxilica,
 
-**[02:47:02.780] Senator Sherwin "Win" T. Gatchalian** (asr-003062)  
+**[02:47:02.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003062)  
 190,000
 
-**[02:47:04.240] Senator Sherwin "Win" T. Gatchalian** (asr-003063)  
+**[02:47:04.240] Senate President Sherwin "Win" T. Gatchalian** (asr-003063)  
 ang i-hire
 
-**[02:47:05.480] Senator Sherwin "Win" T. Gatchalian** (asr-003064)  
+**[02:47:05.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003064)  
 ng mga
 
-**[02:47:06.820] Senator Sherwin "Win" T. Gatchalian** (asr-003065)  
+**[02:47:06.820] Senate President Sherwin "Win" T. Gatchalian** (asr-003065)  
 workers working in
 
-**[02:47:10.060] Senator Sherwin "Win" T. Gatchalian** (asr-003066)  
+**[02:47:10.060] Senate President Sherwin "Win" T. Gatchalian** (asr-003066)  
 the semiconductor industry.
 
-**[02:47:12.480] Senator Sherwin "Win" T. Gatchalian** (asr-003067)  
+**[02:47:12.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003067)  
 And as we all know,
 
-**[02:47:13.760] Senator Sherwin "Win" T. Gatchalian** (asr-003068)  
+**[02:47:13.760] Senate President Sherwin "Win" T. Gatchalian** (asr-003068)  
 ang semiconductor industry is also a specialized
 
-**[02:47:15.800] Senator Sherwin "Win" T. Gatchalian** (asr-003069)  
+**[02:47:15.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003069)  
 industry.
 
-**[02:47:17.400] Senator Sherwin "Win" T. Gatchalian** (asr-003070)  
+**[02:47:17.400] Senate President Sherwin "Win" T. Gatchalian** (asr-003070)  
 At ilolocate ang
 
-**[02:47:20.000] Senator Sherwin "Win" T. Gatchalian** (asr-003071)  
+**[02:47:20.000] Senate President Sherwin "Win" T. Gatchalian** (asr-003071)  
 Paxilica sa Clark.
 
-**[02:47:22.580] Senator Sherwin "Win" T. Gatchalian** (asr-003072)  
+**[02:47:22.580] Senate President Sherwin "Win" T. Gatchalian** (asr-003072)  
 So may ano kung
 
-**[02:47:24.220] Senator Sherwin "Win" T. Gatchalian** (asr-003073)  
+**[02:47:24.220] Senate President Sherwin "Win" T. Gatchalian** (asr-003073)  
 ano ang role
 
-**[02:47:25.820] Senator Sherwin "Win" T. Gatchalian** (asr-003074)  
+**[02:47:25.820] Senate President Sherwin "Win" T. Gatchalian** (asr-003074)  
 ng TESDA, ano ba
 
-**[02:47:27.680] Senator Sherwin "Win" T. Gatchalian** (asr-003075)  
+**[02:47:27.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003075)  
 ang plano ng TESDA to, again,
 
-**[02:47:29.760] Senator Sherwin "Win" T. Gatchalian** (asr-003076)  
+**[02:47:29.760] Senate President Sherwin "Win" T. Gatchalian** (asr-003076)  
 reskill, upskill our constituents
 
-**[02:47:31.820] Senator Sherwin "Win" T. Gatchalian** (asr-003077)  
+**[02:47:31.820] Senate President Sherwin "Win" T. Gatchalian** (asr-003077)  
 in Tarlac, in northern
 
-**[02:47:33.920] Senator Sherwin "Win" T. Gatchalian** (asr-003078)  
+**[02:47:33.920] Senate President Sherwin "Win" T. Gatchalian** (asr-003078)  
 Luzon, and
 
-**[02:47:35.480] Senator Sherwin "Win" T. Gatchalian** (asr-003079)  
+**[02:47:35.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003079)  
 ano ba yung mga,
 
-**[02:47:37.320] Senator Sherwin "Win" T. Gatchalian** (asr-003080)  
+**[02:47:37.320] Senate President Sherwin "Win" T. Gatchalian** (asr-003080)  
 iyan ba ay nakapasok na dito rin
 
-**[02:47:39.800] Senator Sherwin "Win" T. Gatchalian** (asr-003081)  
+**[02:47:39.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003081)  
 sa 2027
 
-**[02:47:41.460] Senator Sherwin "Win" T. Gatchalian** (asr-003082)  
+**[02:47:41.460] Senate President Sherwin "Win" T. Gatchalian** (asr-003082)  
 budget natin?
 
 **[02:47:44.000] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003083)  
@@ -9448,124 +9448,124 @@ to be an anchor
 **[02:51:20.460] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003193)  
 rather than the whole thing actually.
 
-**[02:51:23.080] Senator Sherwin "Win" T. Gatchalian** (asr-003194)  
+**[02:51:23.080] Senate President Sherwin "Win" T. Gatchalian** (asr-003194)  
 Thank you for those answers.
 
-**[02:51:24.040] Senator Sherwin "Win" T. Gatchalian** (asr-003195)  
+**[02:51:24.040] Senate President Sherwin "Win" T. Gatchalian** (asr-003195)  
 Secretary, and I really appreciate
 
-**[02:51:26.780] Senator Sherwin "Win" T. Gatchalian** (asr-003196)  
+**[02:51:26.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003196)  
 that we're also now
 
-**[02:51:28.680] Senator Sherwin "Win" T. Gatchalian** (asr-003197)  
+**[02:51:28.680] Senate President Sherwin "Win" T. Gatchalian** (asr-003197)  
 cultivating our semiconductor
 
-**[02:51:30.360] Senator Sherwin "Win" T. Gatchalian** (asr-003198)  
+**[02:51:30.360] Senate President Sherwin "Win" T. Gatchalian** (asr-003198)  
 industry. That's also
 
-**[02:51:32.940] Senator Sherwin "Win" T. Gatchalian** (asr-003199)  
+**[02:51:32.940] Senate President Sherwin "Win" T. Gatchalian** (asr-003199)  
 another potential for
 
-**[02:51:34.880] Senator Sherwin "Win" T. Gatchalian** (asr-003200)  
+**[02:51:34.880] Senate President Sherwin "Win" T. Gatchalian** (asr-003200)  
 us. Half of our exports
 
-**[02:51:36.780] Senator Sherwin "Win" T. Gatchalian** (asr-003201)  
+**[02:51:36.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003201)  
 are actually semiconductors.
 
-**[02:51:39.300] Senator Sherwin "Win" T. Gatchalian** (asr-003202)  
+**[02:51:39.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003202)  
 More than half.
 
 **[02:51:41.180] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003203)  
 55 to 60 percent.
 
-**[02:51:42.980] Senator Sherwin "Win" T. Gatchalian** (asr-003204)  
+**[02:51:42.980] Senate President Sherwin "Win" T. Gatchalian** (asr-003204)  
 So in other words, that's a great
 
-**[02:51:44.900] Senator Sherwin "Win" T. Gatchalian** (asr-003205)  
+**[02:51:44.900] Senate President Sherwin "Win" T. Gatchalian** (asr-003205)  
 potential for us. Albeit
 
-**[02:51:46.860] Senator Sherwin "Win" T. Gatchalian** (asr-003206)  
+**[02:51:46.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003206)  
 low value rin eh. Di pa tayo
 
-**[02:51:48.540] Senator Sherwin "Win" T. Gatchalian** (asr-003207)  
+**[02:51:48.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003207)  
 umakit sa higher value
 
-**[02:51:50.040] Senator Sherwin "Win" T. Gatchalian** (asr-003208)  
+**[02:51:50.040] Senate President Sherwin "Win" T. Gatchalian** (asr-003208)  
 semiconductor manufacturing.
 
-**[02:51:52.520] Senator Sherwin "Win" T. Gatchalian** (asr-003209)  
+**[02:51:52.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003209)  
 So we hopefully,
 
-**[02:51:54.040] Senator Sherwin "Win" T. Gatchalian** (asr-003210)  
+**[02:51:54.040] Senate President Sherwin "Win" T. Gatchalian** (asr-003210)  
 itong Pax Silica will be our
 
-**[02:51:56.080] Senator Sherwin "Win" T. Gatchalian** (asr-003211)  
+**[02:51:56.080] Senate President Sherwin "Win" T. Gatchalian** (asr-003211)  
 our
 
-**[02:51:57.480] Senator Sherwin "Win" T. Gatchalian** (asr-003212)  
+**[02:51:57.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003212)  
 initial
 
-**[02:51:58.960] Senator Sherwin "Win" T. Gatchalian** (asr-003213)  
+**[02:51:58.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003213)  
 initial
 
-**[02:52:01.180] Senator Sherwin "Win" T. Gatchalian** (asr-003214)  
+**[02:52:01.180] Senate President Sherwin "Win" T. Gatchalian** (asr-003214)  
 direction to go higher value.
 
-**[02:52:05.080] Senator Sherwin "Win" T. Gatchalian** (asr-003215)  
+**[02:52:05.080] Senate President Sherwin "Win" T. Gatchalian** (asr-003215)  
 And
 
-**[02:52:05.440] Senator Sherwin "Win" T. Gatchalian** (asr-003216)  
+**[02:52:05.440] Senate President Sherwin "Win" T. Gatchalian** (asr-003216)  
 since ito ay specifically
 
-**[02:52:07.880] Senator Sherwin "Win" T. Gatchalian** (asr-003217)  
+**[02:52:07.880] Senate President Sherwin "Win" T. Gatchalian** (asr-003217)  
 in Clark,
 
-**[02:52:09.740] Senator Sherwin "Win" T. Gatchalian** (asr-003218)  
+**[02:52:09.740] Senate President Sherwin "Win" T. Gatchalian** (asr-003218)  
 ang gusto ko malaman sa TESDA
 
-**[02:52:11.960] Senator Sherwin "Win" T. Gatchalian** (asr-003219)  
+**[02:52:11.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003219)  
 because sayang eh. This is a
 
-**[02:52:14.040] Senator Sherwin "Win" T. Gatchalian** (asr-003220)  
+**[02:52:14.040] Senate President Sherwin "Win" T. Gatchalian** (asr-003220)  
 once in a lifetime
 
-**[02:52:15.140] Senator Sherwin "Win" T. Gatchalian** (asr-003221)  
+**[02:52:15.140] Senate President Sherwin "Win" T. Gatchalian** (asr-003221)  
 opportunity for our country.
 
-**[02:52:18.300] Senator Sherwin "Win" T. Gatchalian** (asr-003222)  
+**[02:52:18.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003222)  
 But if we cannot supply them
 
-**[02:52:20.020] Senator Sherwin "Win" T. Gatchalian** (asr-003223)  
+**[02:52:20.020] Senate President Sherwin "Win" T. Gatchalian** (asr-003223)  
 with skilled labor, kasi ang dami
 
-**[02:52:22.060] Senator Sherwin "Win" T. Gatchalian** (asr-003224)  
+**[02:52:22.060] Senate President Sherwin "Win" T. Gatchalian** (asr-003224)  
 yung kailangan na, 190,000.
 
-**[02:52:24.040] Senator Sherwin "Win" T. Gatchalian** (asr-003225)  
+**[02:52:24.040] Senate President Sherwin "Win" T. Gatchalian** (asr-003225)  
 We might lose that opportunity
 
-**[02:52:26.880] Senator Sherwin "Win" T. Gatchalian** (asr-003226)  
+**[02:52:26.880] Senate President Sherwin "Win" T. Gatchalian** (asr-003226)  
 because obviously, ang unang titignan nila
 
-**[02:52:29.540] Senator Sherwin "Win" T. Gatchalian** (asr-003227)  
+**[02:52:29.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003227)  
 yung quality of workforce in that area.
 
-**[02:52:31.800] Senator Sherwin "Win" T. Gatchalian** (asr-003228)  
+**[02:52:31.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003228)  
 So I want to just understand from TESDA
 
-**[02:52:37.140] Senator Sherwin "Win" T. Gatchalian** (asr-003229)  
+**[02:52:37.140] Senate President Sherwin "Win" T. Gatchalian** (asr-003229)  
 and also understand whether that initiative
 
-**[02:52:39.740] Senator Sherwin "Win" T. Gatchalian** (asr-003230)  
+**[02:52:39.740] Senate President Sherwin "Win" T. Gatchalian** (asr-003230)  
 will be in the 2027 budget.
 
-**[02:52:41.840] Senator Sherwin "Win" T. Gatchalian** (asr-003231)  
+**[02:52:41.840] Senate President Sherwin "Win" T. Gatchalian** (asr-003231)  
 Kung masasabayan ba natin yung
 
-**[02:52:44.480] Senator Sherwin "Win" T. Gatchalian** (asr-003232)  
+**[02:52:44.480] Senate President Sherwin "Win" T. Gatchalian** (asr-003232)  
 development ng Pax Silica
 
-**[02:52:47.280] Senator Sherwin "Win" T. Gatchalian** (asr-003233)  
+**[02:52:47.280] Senate President Sherwin "Win" T. Gatchalian** (asr-003233)  
 with skilled workforce?
 
 **[02:52:48.600] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003234)  
@@ -9808,28 +9808,28 @@ we would need to subsidize them
 **[02:56:02.180] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003318)  
 from our scholarship funds.
 
-**[02:56:05.320] Senator Sherwin "Win" T. Gatchalian** (asr-003319)  
+**[02:56:05.320] Senate President Sherwin "Win" T. Gatchalian** (asr-003319)  
 How fast is the
 
-**[02:56:06.240] Senator Sherwin "Win" T. Gatchalian** (asr-003320)  
+**[02:56:06.240] Senate President Sherwin "Win" T. Gatchalian** (asr-003320)  
 not turnover, but the training
 
-**[02:56:08.200] Senator Sherwin "Win" T. Gatchalian** (asr-003321)  
+**[02:56:08.200] Senate President Sherwin "Win" T. Gatchalian** (asr-003321)  
 for Paxilica?
 
-**[02:56:10.520] Senator Sherwin "Win" T. Gatchalian** (asr-003322)  
+**[02:56:10.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003322)  
 Let's go back to that. How fast
 
-**[02:56:11.940] Senator Sherwin "Win" T. Gatchalian** (asr-003323)  
+**[02:56:11.940] Senate President Sherwin "Win" T. Gatchalian** (asr-003323)  
 to reskill
 
-**[02:56:13.900] Senator Sherwin "Win" T. Gatchalian** (asr-003324)  
+**[02:56:13.900] Senate President Sherwin "Win" T. Gatchalian** (asr-003324)  
 a person
 
-**[02:56:15.960] Senator Sherwin "Win" T. Gatchalian** (asr-003325)  
+**[02:56:15.960] Senate President Sherwin "Win" T. Gatchalian** (asr-003325)  
 so that that person can be
 
-**[02:56:18.220] Senator Sherwin "Win" T. Gatchalian** (asr-003326)  
+**[02:56:18.220] Senate President Sherwin "Win" T. Gatchalian** (asr-003326)  
 gainfully employed in Paxilica?
 
 **[02:56:20.740] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003327)  
@@ -9940,97 +9940,97 @@ nila na i-employ ay yung talagang
 **[02:57:34.660] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003362)  
 ayaw magtrabaho sa kanila.
 
-**[02:57:39.740] Senator Sherwin "Win" T. Gatchalian** (asr-003363)  
+**[02:57:39.740] Senate President Sherwin "Win" T. Gatchalian** (asr-003363)  
 One more topic,
 
-**[02:57:41.100] Senator Sherwin "Win" T. Gatchalian** (asr-003364)  
+**[02:57:41.100] Senate President Sherwin "Win" T. Gatchalian** (asr-003364)  
 Mr. Chairman.
 
-**[02:57:42.840] Senator Sherwin "Win" T. Gatchalian** (asr-003365)  
+**[02:57:42.840] Senate President Sherwin "Win" T. Gatchalian** (asr-003365)  
 I know this is close to your heart.
 
-**[02:57:44.800] Senator Sherwin "Win" T. Gatchalian** (asr-003366)  
+**[02:57:44.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003366)  
 Ewan ko kung natanong mo na. Itong
 
-**[02:57:46.300] Senator Sherwin "Win" T. Gatchalian** (asr-003367)  
+**[02:57:46.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003367)  
 enterprise-based training.
 
-**[02:57:48.820] Senator Sherwin "Win" T. Gatchalian** (asr-003368)  
+**[02:57:48.820] Senate President Sherwin "Win" T. Gatchalian** (asr-003368)  
 Because I was looking at the data
 
-**[02:57:50.240] Senator Sherwin "Win" T. Gatchalian** (asr-003369)  
+**[02:57:50.240] Senate President Sherwin "Win" T. Gatchalian** (asr-003369)  
 and
 
-**[02:57:51.260] Senator Sherwin "Win" T. Gatchalian** (asr-003390)  
+**[02:57:51.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003390)  
 and bumaba siya
 
-**[02:57:53.920] Senator Sherwin "Win" T. Gatchalian** (asr-003391)  
+**[02:57:53.920] Senate President Sherwin "Win" T. Gatchalian** (asr-003391)  
 from 2024
 
-**[02:57:55.720] Senator Sherwin "Win" T. Gatchalian** (asr-003392)  
+**[02:57:55.720] Senate President Sherwin "Win" T. Gatchalian** (asr-003392)  
 to 2025
 
-**[02:57:58.740] Senator Sherwin "Win" T. Gatchalian** (asr-003393)  
+**[02:57:58.740] Senate President Sherwin "Win" T. Gatchalian** (asr-003393)  
 by 51%.
 
-**[02:58:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-003394)  
+**[02:58:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-003394)  
 So before, we used to have
 
-**[02:58:01.940] Senator Sherwin "Win" T. Gatchalian** (asr-003395)  
+**[02:58:01.940] Senate President Sherwin "Win" T. Gatchalian** (asr-003395)  
 126,000
 
-**[02:58:03.500] Senator Sherwin "Win" T. Gatchalian** (asr-003396)  
+**[02:58:03.500] Senate President Sherwin "Win" T. Gatchalian** (asr-003396)  
 enrollment.
 
-**[02:58:04.860] Senator Sherwin "Win" T. Gatchalian** (asr-003397)  
+**[02:58:04.860] Senate President Sherwin "Win" T. Gatchalian** (asr-003397)  
 Bumaba siya to 61,000
 
-**[02:58:07.460] Senator Sherwin "Win" T. Gatchalian** (asr-003398)  
+**[02:58:07.460] Senate President Sherwin "Win" T. Gatchalian** (asr-003398)  
 despite the law,
 
-**[02:58:08.880] Senator Sherwin "Win" T. Gatchalian** (asr-003399)  
+**[02:58:08.880] Senate President Sherwin "Win" T. Gatchalian** (asr-003399)  
 RA
 
-**[02:58:10.180] Senator Sherwin "Win" T. Gatchalian** (asr-003400)  
+**[02:58:10.180] Senate President Sherwin "Win" T. Gatchalian** (asr-003400)  
 12063.
 
-**[02:58:14.300] Senator Sherwin "Win" T. Gatchalian** (asr-003401)  
+**[02:58:14.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003401)  
 And alam naman natin,
 
-**[02:58:15.400] Senator Sherwin "Win" T. Gatchalian** (asr-003402)  
+**[02:58:15.400] Senate President Sherwin "Win" T. Gatchalian** (asr-003402)  
 si Secretary was
 
-**[02:58:17.300] Senator Sherwin "Win" T. Gatchalian** (asr-003403)  
+**[02:58:17.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003403)  
 once upon a time part of EDCOM,
 
-**[02:58:19.640] Senator Sherwin "Win" T. Gatchalian** (asr-003404)  
+**[02:58:19.640] Senate President Sherwin "Win" T. Gatchalian** (asr-003404)  
 na ang employment,
 
-**[02:58:21.260] Senator Sherwin "Win" T. Gatchalian** (asr-003405)  
+**[02:58:21.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003405)  
 na ang employment rate ng
 
-**[02:58:22.260] Senator Sherwin "Win" T. Gatchalian** (asr-003406)  
+**[02:58:22.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003406)  
 EBET is the highest,
 
-**[02:58:23.260] Senator Sherwin "Win" T. Gatchalian** (asr-003407)  
+**[02:58:23.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003407)  
 at 85,
 
-**[02:58:24.260] Senator Sherwin "Win" T. Gatchalian** (asr-003408)  
+**[02:58:24.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003408)  
 85-90%.
 
-**[02:58:25.260] Senator Sherwin "Win" T. Gatchalian** (asr-003409)  
+**[02:58:25.260] Senate President Sherwin "Win" T. Gatchalian** (asr-003409)  
 So is there a particular reason bakit bumaba siya ng 51%?
 
-**[02:58:30.980] Senator Sherwin "Win" T. Gatchalian** (asr-003410)  
+**[02:58:30.980] Senate President Sherwin "Win" T. Gatchalian** (asr-003410)  
 And what's the plan moving forward coming this coming 2027?
 
-**[02:58:37.380] Senator Sherwin "Win" T. Gatchalian** (asr-003411)  
+**[02:58:37.380] Senate President Sherwin "Win" T. Gatchalian** (asr-003411)  
 Because tayong tatlo goes without any question.
 
-**[02:58:41.300] Senator Sherwin "Win" T. Gatchalian** (asr-003412)  
+**[02:58:41.300] Senate President Sherwin "Win" T. Gatchalian** (asr-003412)  
 So we support EBET, enterprise-based training,
 
-**[02:58:44.800] Senator Sherwin "Win" T. Gatchalian** (asr-003413)  
+**[02:58:44.800] Senate President Sherwin "Win" T. Gatchalian** (asr-003413)  
 but mukhang bumaba yata yun.
 
 **[02:58:46.620] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003414)  
@@ -10294,31 +10294,31 @@ Sorry, SP.
 **[03:07:01.260] Senator Joel Villanueva** (asr-003501)  
 Please continue.
 
-**[03:07:02.780] Senator Sherwin "Win" T. Gatchalian** (asr-003502)  
+**[03:07:02.780] Senate President Sherwin "Win" T. Gatchalian** (asr-003502)  
 Bottom line lang, Secretary, is just take a look at the...
 
-**[03:07:06.460] Senator Sherwin "Win" T. Gatchalian** (asr-003503)  
+**[03:07:06.460] Senate President Sherwin "Win" T. Gatchalian** (asr-003503)  
 Those mga maliliit na bagay lang, no?
 
-**[03:07:09.000] Senator Sherwin "Win" T. Gatchalian** (asr-003504)  
+**[03:07:09.000] Senate President Sherwin "Win" T. Gatchalian** (asr-003504)  
 These are things that we might have overlooked.
 
-**[03:07:12.900] Senator Sherwin "Win" T. Gatchalian** (asr-003505)  
+**[03:07:12.900] Senate President Sherwin "Win" T. Gatchalian** (asr-003505)  
 Pero nakaka-ano siya, nakaka-discouraged ng participants, no?
 
-**[03:07:17.840] Senator Sherwin "Win" T. Gatchalian** (asr-003506)  
+**[03:07:17.840] Senate President Sherwin "Win" T. Gatchalian** (asr-003506)  
 Especially for eBET.
 
-**[03:07:19.420] Senator Sherwin "Win" T. Gatchalian** (asr-003507)  
+**[03:07:19.420] Senate President Sherwin "Win" T. Gatchalian** (asr-003507)  
 But this, in eBET is particularly, lahat naman tayo sinusuportahan ito, no?
 
-**[03:07:24.620] Senator Sherwin "Win" T. Gatchalian** (asr-003508)  
+**[03:07:24.620] Senate President Sherwin "Win" T. Gatchalian** (asr-003508)  
 Because we all know the outcome.
 
-**[03:07:26.540] Senator Sherwin "Win" T. Gatchalian** (asr-003509)  
+**[03:07:26.540] Senate President Sherwin "Win" T. Gatchalian** (asr-003509)  
 So, maraming salamat, Mr. Chairman.
 
-**[03:07:29.520] Senator Sherwin "Win" T. Gatchalian** (asr-003510)  
+**[03:07:29.520] Senate President Sherwin "Win" T. Gatchalian** (asr-003510)  
 Thank you for the opportunity.
 
 **[03:07:31.520] TESDA Secretary Jose Francisco "Kiko" Benitez** (asr-003511)  
@@ -10564,7 +10564,7 @@ Unless our Senate President or anyone would like to, perhaps, I don't want to pr
 **[03:14:12.080] Senator Joel Villanueva** (asr-003595)  
 To deem the, I mean, to submit for plenary consideration the…
 
-**[03:14:19.980] Senator Sherwin "Win" T. Gatchalian** (asr-003596)  
+**[03:14:19.980] Senate President Sherwin "Win" T. Gatchalian** (asr-003596)  
 Mr. Chairman, it's a pleasure to submit the budget of TESDA to plenary for further discussions and approval.
 
 **[03:14:28.140] Senator Joel Villanueva** (asr-003597)  

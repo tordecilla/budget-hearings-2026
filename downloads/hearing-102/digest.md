@@ -48,7 +48,7 @@ PCUP Chairperson Michelle Anne B. Gonzales stated a FY 2026 budget of PHP 258,92
 
 ### National Commission of Senior Citizens (NCSC)
 
-During the FY 2027 discussion, Senate President Senator Sherwin "Win" T. Gatchalian cited a PHP 3.8 billion NCSC budget. A separate original agency-submission total was not stated.
+During the FY 2027 discussion, Senate President Senate President Sherwin "Win" T. Gatchalian cited a PHP 3.8 billion NCSC budget. A separate original agency-submission total was not stated.
 
 [02:31:47 · asr-003293](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-003293)
 
@@ -286,7 +286,7 @@ Hontiveros questioned the absent NCSC chair and commissioners. Calapit cited a l
 
 [01:36:57 · asr-002167](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002167) · [01:37:54 · asr-002194](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002194) · [01:39:04 · asr-002230](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002230) · [01:40:50 · asr-002283](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002283) · [01:41:47 · asr-002312](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002312) · [01:43:23 · asr-002360](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002360) · [01:44:30 · asr-002394](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002394) · [01:44:55 · asr-002407](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002407) · [01:45:27 · asr-002419](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002419) · [01:45:35 · asr-002420](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002420) · [01:46:36 · asr-002439](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002439) · [01:46:55 · asr-002448](https://tordecilla.github.io/budget-hearings-2026/records/102/#asr-002448)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### 4Ps services and the education-to-work pathway
 

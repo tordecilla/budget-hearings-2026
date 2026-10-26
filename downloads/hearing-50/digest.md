@@ -120,7 +120,7 @@ Villanueva asked CHED to provide a comparison for budget deliberations showing l
 
 ### Incoming 4Ps students and the FY2027 subsidy gap
 
-Senator Sherwin "Win" T. Gatchalian asked how the FY2027 budget would cover new Pantawid Pamilyang Pilipino Program (4Ps) students entering college under the amended free higher education law. He cited ₱1.7 billion in the National Expenditure Program (NEP) for 150,000 new 4Ps beneficiaries and ₱2 billion for ongoing beneficiaries.
+Senate President Sherwin "Win" T. Gatchalian asked how the FY2027 budget would cover new Pantawid Pamilyang Pilipino Program (4Ps) students entering college under the amended free higher education law. He cited ₱1.7 billion in the National Expenditure Program (NEP) for 150,000 new 4Ps beneficiaries and ₱2 billion for ongoing beneficiaries.
 
 Commission on Higher Education (CHED) Chairperson Shirley Castañeda Agrupis said the Department of Social Welfare and Development (DSWD) list had 354,488 qualifiers. Based on current enrollment and feedback, CHED projected 65% of them, or 230,417 beneficiaries, and said ₱3.1 billion would be needed to fund that group. Gatchalian confirmed that the new incoming group was the problem, and Agrupis confirmed the projected 230,000 incoming beneficiaries had no allocation in the NEP. Gatchalian summarized that ₱3.1 billion would be needed to absorb them.
 
@@ -358,7 +358,7 @@ Villanueva asked Legaspi to provide a list of affected items and needs so senato
 
 ### PGH augmentation and zero-balance billing
 
-Senate President Senator Sherwin “Win” T. Gatchalian asked Philippine General Hospital (PGH) Director Dr. Gerardo D. Legaspi how PGH used the Senate’s ₱1.8 billion prior-year augmentation. Legaspi said it covered ₱1.04 billion in maintenance and operating expenses for medicines and supplies, ₱800 million for zero-balance billing services, and ₱15 million for research on X-linked dystonia-parkinsonism (Lubag of Panay). PGH had received the release about a month earlier; more than ₱500 million of the ₱800 million zero-balance-billing amount had been obligated and liquidated, while the ₱1 billion for procurement was in its annual procurement plan and expected to be obligated and disbursed soon. Legaspi distinguished drugs and supplies, which must be procured, from zero-balance-billing payments for services such as scans and procedures.
+Senate President Senate President Sherwin "Win" T. Gatchalian asked Philippine General Hospital (PGH) Director Dr. Gerardo D. Legaspi how PGH used the Senate’s ₱1.8 billion prior-year augmentation. Legaspi said it covered ₱1.04 billion in maintenance and operating expenses for medicines and supplies, ₱800 million for zero-balance billing services, and ₱15 million for research on X-linked dystonia-parkinsonism (Lubag of Panay). PGH had received the release about a month earlier; more than ₱500 million of the ₱800 million zero-balance-billing amount had been obligated and liquidated, while the ₱1 billion for procurement was in its annual procurement plan and expected to be obligated and disbursed soon. Legaspi distinguished drugs and supplies, which must be procured, from zero-balance-billing payments for services such as scans and procedures.
 
 Asked whether the added zero-balance-billing funding would be enough for 2027, Legaspi said PGH needed about ₱2 billion annually, had received ₱1.3 billion the prior year, and faced a ₱700 million balance. He said PGH needed another ₱600 million to maintain 2026 service levels in 2027, and that restoring an ₱800 million post-budget shortfall would allow the program to continue. When Gatchalian clarified the annual amount and prior-year funding, Legaspi confirmed both. PGH uses hospital income or savings when appropriations fall short.
 
@@ -506,7 +506,7 @@ Go described mental health as part of student well-being and said he had filed S
 
 [04:22:11 · asr-004494](https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004494) · [04:22:41 · asr-004509](https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004509) · [04:22:53 · asr-004515](https://tordecilla.github.io/budget-hearings-2026/records/50/#asr-004515)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Teacher-education standards and closures
 

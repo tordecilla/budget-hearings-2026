@@ -4,7 +4,7 @@ Source: https://www.youtube.com/watch?v=FKgRg0nvUHU
 
 AI-assisted working draft. AI can make errors. Always check quotations, names, rulings, and other consequential details against the official video.
 
-**[00:05:33.790] Senator Panfilo Lacson** (asr-000012)  
+**[00:05:33.790] Senator Panfilo "Ping" M. Lacson** (asr-000012)  
 This hearing is hereby called to order. Welcome to the Senate, our friends from the National Security Council and NICA. And I'd like to welcome the presence of my colleagues, the chairman of the Committee on National Defense of the Senate, Senator Tito Sotto, and of course my colleague here, Senator Lito Lapid. So, kindly acknowledge the presence of our resource persons.
 
 **[00:06:02.000] Committee Secretary** (asr-000013)  
@@ -220,43 +220,43 @@ as well as the people from COA, Sir.
 **[00:10:29.020] Committee Secretary** (asr-000084)  
 That's all, Sir. Thank you.
 
-**[00:10:31.020] Senator Panfilo Lacson** (asr-000085)  
+**[00:10:31.020] Senator Panfilo "Ping" M. Lacson** (asr-000085)  
 Thank you, Comsec.
 
-**[00:10:32.020] Senator Panfilo Lacson** (asr-000086)  
+**[00:10:32.020] Senator Panfilo "Ping" M. Lacson** (asr-000086)  
 The Chair has no opening statement except to say that the
 
-**[00:10:36.020] Senator Panfilo Lacson** (asr-000087)  
+**[00:10:36.020] Senator Panfilo "Ping" M. Lacson** (asr-000087)  
 intelligence community has been very close to my heart, you know,
 
-**[00:10:40.020] Senator Panfilo Lacson** (asr-000088)  
+**[00:10:40.020] Senator Panfilo "Ping" M. Lacson** (asr-000088)  
 having started my career upon graduation from the PMA.
 
-**[00:10:43.820] Senator Panfilo Lacson** (asr-000089)  
+**[00:10:43.820] Senator Panfilo "Ping" M. Lacson** (asr-000089)  
 Andito yung aking mista, si NICA Director Dick De Leon,
 
-**[00:10:48.720] Senator Panfilo Lacson** (asr-000090)  
+**[00:10:48.720] Senator Panfilo "Ping" M. Lacson** (asr-000090)  
 in the defunct Philippine Constabulary,
 
-**[00:10:50.300] Senator Panfilo Lacson** (asr-000091)  
+**[00:10:50.300] Senator Panfilo "Ping" M. Lacson** (asr-000091)  
 because I started my career as Intelligence and Investigation Officer
 
-**[00:10:54.420] Senator Panfilo Lacson** (asr-000092)  
+**[00:10:54.420] Senator Panfilo "Ping" M. Lacson** (asr-000092)  
 of the then Central Sector of the PC Metrocom.
 
-**[00:10:58.400] Senator Panfilo Lacson** (asr-000093)  
+**[00:10:58.400] Senator Panfilo "Ping" M. Lacson** (asr-000093)  
 And ever since, diyan na rin ako lumaki.
 
-**[00:11:04.840] Senator Panfilo Lacson** (asr-000094)  
+**[00:11:04.840] Senator Panfilo "Ping" M. Lacson** (asr-000094)  
 So, let's cut to the chase.
 
-**[00:11:06.200] Senator Panfilo Lacson** (asr-000095)  
+**[00:11:06.200] Senator Panfilo "Ping" M. Lacson** (asr-000095)  
 You have a presentation, right?
 
-**[00:11:08.200] Senator Panfilo Lacson** (asr-000096)  
+**[00:11:08.200] Senator Panfilo "Ping" M. Lacson** (asr-000096)  
 NSC and Nika both.
 
-**[00:11:10.320] Senator Panfilo Lacson** (asr-000097)  
+**[00:11:10.320] Senator Panfilo "Ping" M. Lacson** (asr-000097)  
 Thank you.
 
 **[00:11:12.120] Unresolved** (asr-000098)  
@@ -268,16 +268,16 @@ we would like to request for an executive session
 **[00:11:16.000] Unresolved** (asr-000100)  
 on behalf of Nika and the NSC.
 
-**[00:11:19.460] Senator Panfilo Lacson** (asr-000101)  
+**[00:11:19.460] Senator Panfilo "Ping" M. Lacson** (asr-000101)  
 Any objection from the panel?
 
-**[00:11:22.360] Senator Panfilo Lacson** (asr-000102)  
+**[00:11:22.360] Senator Panfilo "Ping" M. Lacson** (asr-000102)  
 Hearing none.
 
-**[00:11:25.090] Senator Panfilo Lacson** (asr-000103)  
+**[00:11:25.090] Senator Panfilo "Ping" M. Lacson** (asr-000103)  
 So, pakisanitize yung kwarto.
 
-**[00:11:26.820] Senator Panfilo Lacson** (asr-000123)  
+**[00:11:26.820] Senator Panfilo "Ping" M. Lacson** (asr-000123)  
 Comsec.
 
 **[00:11:36.800] Committee Secretary** (asr-000124)  

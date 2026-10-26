@@ -103,52 +103,52 @@ Thank you very much.
 **[00:13:40.380] Senator Joseph Victor "JV" G. Ejercito** (asr-000057)  
 Before we proceed, I would like to ask our colleagues, our Senate President, for his opening statements, if any.
 
-**[00:13:49.470] Senator Sherwin "Win" T. Gatchalian** (asr-000058)  
+**[00:13:49.470] Senate President Sherwin "Win" T. Gatchalian** (asr-000058)  
 Thank you, Mr. Chairman.
 
-**[00:13:50.840] Senator Sherwin "Win" T. Gatchalian** (asr-000059)  
+**[00:13:50.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000059)  
 First of all, we welcome our colleagues from the Office of the President.
 
-**[00:13:55.780] Senator Sherwin "Win" T. Gatchalian** (asr-000060)  
+**[00:13:55.780] Senate President Sherwin "Win" T. Gatchalian** (asr-000060)  
 At alam ko, napaka-busy ho sila dahil sa...
 
-**[00:13:58.500] Senator Sherwin "Win" T. Gatchalian** (asr-000061)  
+**[00:13:58.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000061)  
 ...ASEAN na padating na.
 
-**[00:14:00.480] Senator Sherwin "Win" T. Gatchalian** (asr-000062)  
+**[00:14:00.480] Senate President Sherwin "Win" T. Gatchalian** (asr-000062)  
 And this coming November 16 to 18 will be a very big event for our country because mag-host tayo ng ASEAN heads of state.
 
-**[00:14:12.660] Senator Sherwin "Win" T. Gatchalian** (asr-000063)  
+**[00:14:12.660] Senate President Sherwin "Win" T. Gatchalian** (asr-000063)  
 At hindi lang ASEAN heads of state, but narinig ko na pati si President Trump might be coming to the Philippines.
 
-**[00:14:21.000] Senator Sherwin "Win" T. Gatchalian** (asr-000064)  
+**[00:14:21.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000064)  
 So, isa yan sa pinakamahalagang event na ipapakita natin sa buong mundo.
 
-**[00:14:27.180] Senator Sherwin "Win" T. Gatchalian** (asr-000065)  
+**[00:14:27.180] Senate President Sherwin "Win" T. Gatchalian** (asr-000065)  
 With that, having said that...
 
-**[00:14:28.500] Senator Sherwin "Win" T. Gatchalian** (asr-000066)  
+**[00:14:28.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000066)  
 ...Mr. Chairman, typically meron tayong inter-parliamentary courtesy na binibigay sa Office of the President.
 
-**[00:14:35.620] Senator Sherwin "Win" T. Gatchalian** (asr-000067)  
+**[00:14:35.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000067)  
 Pero hindi lang inter-parliament courtesy, meron pang inter-senator courtesy dahil ang head ay isang former or inter-colleague courtesy dahil ang executive secretary ay dati nating kasamahan.
 
-**[00:14:49.860] Senator Sherwin "Win" T. Gatchalian** (asr-000068)  
+**[00:14:49.860] Senate President Sherwin "Win" T. Gatchalian** (asr-000068)  
 Na nandito sa side dati na tinatanong yung sa kabilang side.
 
-**[00:14:54.540] Senator Sherwin "Win" T. Gatchalian** (asr-000069)  
+**[00:14:54.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000069)  
 So, after the presentation, Mr. President...
 
-**[00:14:57.540] Senator Sherwin "Win" T. Gatchalian** (asr-000070)  
+**[00:14:57.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000070)  
 ...Mr. Chairman...
 
-**[00:14:59.280] Senator Sherwin "Win" T. Gatchalian** (asr-000071)  
+**[00:14:59.280] Senate President Sherwin "Win" T. Gatchalian** (asr-000071)  
 ...uh, I'll...
 
-**[00:15:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-000072)  
+**[00:15:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000072)  
 move for the approval of the budget
 
-**[00:15:02.100] Senator Sherwin "Win" T. Gatchalian** (asr-000073)  
+**[00:15:02.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000073)  
 of the Office of the President.
 
 **[00:15:04.360] Senator Joseph Victor "JV" G. Ejercito** (asr-000074)  

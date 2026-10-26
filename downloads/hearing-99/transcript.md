@@ -28,64 +28,64 @@ service through socioeconomic and support programs. Being the second highest exe
 **[00:21:30.000] Senator Joseph Victor "JV" G. Ejercito** (asr-000046)  
 Filipino people. Moving forward, this representation acknowledges the tradition of interparliamentary courtesy in respect to the Office of the Vice President, while also assuring the public that the fiscal year 2027 proposed expenditure is taken up with due diligence. Thank you very much. So, before we proceed, I would like to ask our Senate President if he has any remarks.
 
-**[00:22:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-000047)  
+**[00:22:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000047)  
 Thank you, Mr. Chairman.
 
-**[00:22:01.200] Senator Sherwin "Win" T. Gatchalian** (asr-000048)  
+**[00:22:01.200] Senate President Sherwin "Win" T. Gatchalian** (asr-000048)  
 Mr. Chairman, binabasa ko itong budget ng OVP and nakita ko na compared to last year, it went down by 11%.
 
-**[00:22:12.080] Senator Sherwin "Win" T. Gatchalian** (asr-000049)  
+**[00:22:12.080] Senate President Sherwin "Win" T. Gatchalian** (asr-000049)  
 It went down by approximately from P889 million to P785 million.
 
-**[00:22:23.920] Senator Sherwin "Win" T. Gatchalian** (asr-000050)  
+**[00:22:23.920] Senate President Sherwin "Win" T. Gatchalian** (asr-000050)  
 And nakita ko rin na ang kanilang main program ay yung social...
 
-**[00:22:30.000] Senator Sherwin "Win" T. Gatchalian** (asr-000051)  
+**[00:22:30.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000051)  
 social economic program na tumutulong sa ating mga constituents.
 
-**[00:22:39.180] Senator Sherwin "Win" T. Gatchalian** (asr-000052)  
+**[00:22:39.180] Senate President Sherwin "Win" T. Gatchalian** (asr-000052)  
 And I saw various components of that program.
 
-**[00:22:42.820] Senator Sherwin "Win" T. Gatchalian** (asr-000053)  
+**[00:22:42.820] Senate President Sherwin "Win" T. Gatchalian** (asr-000053)  
 So with that, nakita ko na the Office of the Vice President is spending their budget as efficiently, as wisely as possible.
 
-**[00:22:55.440] Senator Sherwin "Win" T. Gatchalian** (asr-000054)  
+**[00:22:55.440] Senate President Sherwin "Win" T. Gatchalian** (asr-000054)  
 Of course, bilang Vice President, meron din silang mga...
 
-**[00:23:00.000] Senator Sherwin "Win" T. Gatchalian** (asr-000055)  
+**[00:23:00.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000055)  
 kailangan tulungan.
 
-**[00:23:02.180] Senator Sherwin "Win" T. Gatchalian** (asr-000056)  
+**[00:23:02.180] Senate President Sherwin "Win" T. Gatchalian** (asr-000056)  
 Bilang kayo, mga politicians, marami talagang lumalapit sa amin.
 
-**[00:23:07.100] Senator Sherwin "Win" T. Gatchalian** (asr-000057)  
+**[00:23:07.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000057)  
 I'm sure kay Vice President, marami rin lumalapit ang humingi ng tulong.
 
-**[00:23:11.380] Senator Sherwin "Win" T. Gatchalian** (asr-000058)  
+**[00:23:11.380] Senate President Sherwin "Win" T. Gatchalian** (asr-000058)  
 At itong social economic program will be a tool for her to help her constituents, or our constituents for that matter,
 
-**[00:23:22.020] Senator Sherwin "Win" T. Gatchalian** (asr-000059)  
+**[00:23:22.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000059)  
 para mabigyan naman ng relief yung ating mga constituents.
 
-**[00:23:26.700] Senator Sherwin "Win" T. Gatchalian** (asr-000060)  
+**[00:23:26.700] Senate President Sherwin "Win" T. Gatchalian** (asr-000060)  
 So I only have one question.
 
-**[00:23:28.760] Senator Sherwin "Win" T. Gatchalian** (asr-000061)  
+**[00:23:28.760] Senate President Sherwin "Win" T. Gatchalian** (asr-000061)  
 Atty. Zulaika, bilang Chief of Staff, may I know where is the Vice President?
 
-**[00:23:35.640] Senator Sherwin "Win" T. Gatchalian** (asr-000062)  
+**[00:23:35.640] Senate President Sherwin "Win" T. Gatchalian** (asr-000062)  
 Traditionally kasi pag ganitong mga budget deliberation, the Head of Office comes here to defend their budget.
 
-**[00:23:46.460] Senator Sherwin "Win" T. Gatchalian** (asr-000063)  
+**[00:23:46.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000063)  
 Alam mo naman yan. You've been here for the last four years.
 
-**[00:23:52.780] Senator Sherwin "Win" T. Gatchalian** (asr-000064)  
+**[00:23:52.780] Senate President Sherwin "Win" T. Gatchalian** (asr-000064)  
 And traditionally, even last year when I was the Chairman of the Finance Committee,
 
-**[00:23:58.760] Senator Sherwin "Win" T. Gatchalian** (asr-000065)  
+**[00:23:58.760] Senate President Sherwin "Win" T. Gatchalian** (asr-000065)  
 the Vice President took time to come here to defend her budget.
 
-**[00:24:02.480] Senator Sherwin "Win" T. Gatchalian** (asr-000066)  
+**[00:24:02.480] Senate President Sherwin "Win" T. Gatchalian** (asr-000066)  
 So may I know, for the record, kung nasaan ang ating butihing Vice President?
 
 **[00:24:07.280] Undersecretary Zuleika T. Lopez** (asr-000067)  
@@ -106,43 +106,43 @@ So the schedule for the inurnment  is today, October 20.
 **[00:24:28.760] Undersecretary Zuleika T. Lopez** (asr-000072)  
 So she's the representative of the former President.
 
-**[00:24:34.140] Senator Sherwin "Win" T. Gatchalian** (asr-000073)  
+**[00:24:34.140] Senate President Sherwin "Win" T. Gatchalian** (asr-000073)  
 Is that in the country or outside of the country?
 
 **[00:24:37.200] Undersecretary Zuleika T. Lopez** (asr-000074)  
 Just in the country, Your Honor.
 
-**[00:24:38.220] Senator Sherwin "Win" T. Gatchalian** (asr-000075)  
+**[00:24:38.220] Senate President Sherwin "Win" T. Gatchalian** (asr-000075)  
 Just in the country.
 
-**[00:24:39.420] Senator Sherwin "Win" T. Gatchalian** (asr-000076)  
+**[00:24:39.420] Senate President Sherwin "Win" T. Gatchalian** (asr-000076)  
 Well, we hope that sa plenary, we would welcome her presence to further defend her budget.
 
-**[00:24:51.520] Senator Sherwin "Win" T. Gatchalian** (asr-000077)  
+**[00:24:51.520] Senate President Sherwin "Win" T. Gatchalian** (asr-000077)  
 This is the first step.
 
-**[00:24:52.480] Senator Sherwin "Win" T. Gatchalian** (asr-000078)  
+**[00:24:52.480] Senate President Sherwin "Win" T. Gatchalian** (asr-000078)  
 Alam mo naman yan, may second step pa tayo, which is plenary.
 
-**[00:24:55.480] Senator Sherwin "Win" T. Gatchalian** (asr-000080)  
+**[00:24:55.480] Senate President Sherwin "Win" T. Gatchalian** (asr-000080)  
 And we would hope that she can give time.
 
-**[00:24:58.760] Senator Sherwin "Win" T. Gatchalian** (asr-000081)  
+**[00:24:58.760] Senate President Sherwin "Win" T. Gatchalian** (asr-000081)  
 We would hope that she can give time to represent her office and defend her budget in plenary.
 
 **[00:25:03.340] Undersecretary Zuleika T. Lopez** (asr-000082)  
 Yes, Your Honor.
 
-**[00:25:03.840] Senator Sherwin "Win" T. Gatchalian** (asr-000083)  
+**[00:25:03.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000083)  
 But at this time, during the committee level, I'll leave it to our Chairman,
 
-**[00:25:09.500] Senator Sherwin "Win" T. Gatchalian** (asr-000084)  
+**[00:25:09.500] Senate President Sherwin "Win" T. Gatchalian** (asr-000084)  
 who is the one spearheading the budget of the entire bureaucracy.
 
-**[00:25:13.880] Senator Sherwin "Win" T. Gatchalian** (asr-000085)  
+**[00:25:13.880] Senate President Sherwin "Win" T. Gatchalian** (asr-000085)  
 So I'll leave the shepherding to him on the budget of the OVP.
 
-**[00:25:23.540] Senator Sherwin "Win" T. Gatchalian** (asr-000086)  
+**[00:25:23.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000086)  
 So with that, Mr. Chairman, maraming salamat.
 
 **[00:25:26.740] Senator Joseph Victor "JV" G. Ejercito** (asr-000087)  

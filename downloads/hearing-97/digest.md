@@ -334,7 +334,7 @@ Ejercito said the Philippines stood for mutual respect while firmly defending it
 
 [03:34:46 · asr-003900](https://tordecilla.github.io/budget-hearings-2026/records/97/#asr-003900) · [03:34:59 · asr-003903](https://tordecilla.github.io/budget-hearings-2026/records/97/#asr-003903) · [03:35:07 · asr-003905](https://tordecilla.github.io/budget-hearings-2026/records/97/#asr-003905) · [03:35:17 · asr-003908](https://tordecilla.github.io/budget-hearings-2026/records/97/#asr-003908) · [03:35:22 · asr-003909](https://tordecilla.github.io/budget-hearings-2026/records/97/#asr-003909) · [03:35:25 · asr-003910](https://tordecilla.github.io/budget-hearings-2026/records/97/#asr-003910) · [03:35:29 · asr-003911](https://tordecilla.github.io/budget-hearings-2026/records/97/#asr-003911)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Modernization, cyber readiness and disaster response
 

@@ -16078,43 +16078,43 @@ That you can actually implement this budget?
 **[05:19:27.340] Rep. Roberto Nazal** (asr-005459)  
 And what are your obligation in disbursement rates for 2026 as of today?
 
-**[05:19:34.150] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005460)  
+**[05:19:34.150] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005460)  
 Good afternoon, Mr. Chair. Good afternoon, Your Honors.
 
-**[05:19:38.230] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005461)  
+**[05:19:38.230] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005461)  
 I am Zaldi Perez, Assistant Director for Administrative Services of the Bureau of Fisheries and Aquatic Resources.
 
-**[05:19:44.610] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005462)  
+**[05:19:44.610] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005462)  
 Please be informed, Your Honors, that the 2024 project was delayed because of, of course,
 
-**[05:19:53.430] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005463)  
+**[05:19:53.430] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005463)  
 yung bidding process po natin.
 
-**[05:19:55.950] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005464)  
+**[05:19:55.950] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005464)  
 It took us some time to prepare the terms of reference as well as the specifications of these boats,
 
-**[05:20:04.130] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005465)  
+**[05:20:04.130] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005465)  
 which comprise po yung 50-meter vessels, 80-meter vessels, and then the 62-footer boats, Your Honors.
 
-**[05:20:11.990] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005466)  
+**[05:20:11.990] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005466)  
 So that's why po nadelay ng konti.
 
-**[05:20:14.470] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005467)  
+**[05:20:14.470] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005467)  
 It's because I think po nabid po namin siya later part na po ng 2024.
 
-**[05:20:21.170] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005468)  
+**[05:20:21.170] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005468)  
 But it was successfully bidded out.
 
-**[05:20:25.950] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005469)  
+**[05:20:25.950] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005469)  
 And then we obligated po preceding year po, which is 2025.
 
-**[05:20:32.510] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005470)  
+**[05:20:32.510] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005470)  
 So all this project po is already ongoing right now.
 
-**[05:20:37.170] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005471)  
+**[05:20:37.170] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005471)  
 And there is already a partial delivery of this patrol, of this 62-footer.
 
-**[05:20:42.830] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005472)  
+**[05:20:42.830] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005472)  
 While that 50-meter and 80-meter is still under construction, Your Honors.
 
 **[05:20:49.970] Rep. Roberto Nazal** (asr-005473)  
@@ -16126,7 +16126,7 @@ Magpapasubmit lang po ako ng list of projects na kukompletuhin nila for 2024.
 **[05:20:55.950] Rep. Jose "Bong" J. Teves Jr.** (asr-005475)  
 Okay, pakisubmit na lang yung list na hinihingi ni Congresman.
 
-**[05:20:59.790] BIFAR Assistant Director for Administrative Services Zaldi Perez** (asr-005476)  
+**[05:20:59.790] BFAR Assistant Director for Administrative and Other Support Services Zaldy P. Perez** (asr-005476)  
 Yes, Your Honor.
 
 **[05:21:00.610] Rep. Roberto Nazal** (asr-005477)  

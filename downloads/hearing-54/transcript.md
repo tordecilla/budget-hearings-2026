@@ -1705,91 +1705,91 @@ want to make
 **[01:04:59.540] Senator Joseph Victor "JV" G. Ejercito** (asr-000657)  
 an opening statement.
 
-**[01:05:00.800] Senator Erwin Tulfo** (asr-000657-split-2)  
+**[01:05:00.800] Senator Erwin T. Tulfo** (asr-000657-split-2)  
 Thank you, Mr. Chair.
 
-**[01:05:01.680] Senator Erwin Tulfo** (asr-000658)  
+**[01:05:01.680] Senator Erwin T. Tulfo** (asr-000658)  
 Actually, I have a hearing
 
-**[01:05:02.980] Senator Erwin Tulfo** (asr-000659)  
+**[01:05:02.980] Senator Erwin T. Tulfo** (asr-000659)  
 next door with the
 
-**[01:05:05.400] Senator Erwin Tulfo** (asr-000660)  
+**[01:05:05.400] Senator Erwin T. Tulfo** (asr-000660)  
 Philippine Reclamation Authority.
 
-**[01:05:07.560] Senator Erwin Tulfo** (asr-000661)  
+**[01:05:07.560] Senator Erwin T. Tulfo** (asr-000661)  
 I'd just like to
 
-**[01:05:08.340] Senator Erwin Tulfo** (asr-000662)  
+**[01:05:08.340] Senator Erwin T. Tulfo** (asr-000662)  
 support
 
-**[01:05:11.260] Senator Erwin Tulfo** (asr-000663)  
+**[01:05:11.260] Senator Erwin T. Tulfo** (asr-000663)  
 Mr. Chairman
 
-**[01:05:12.640] Senator Erwin Tulfo** (asr-000664)  
+**[01:05:12.640] Senator Erwin T. Tulfo** (asr-000664)  
 the budget requested
 
-**[01:05:15.260] Senator Erwin Tulfo** (asr-000665)  
+**[01:05:15.260] Senator Erwin T. Tulfo** (asr-000665)  
 by the Department of Finance.
 
-**[01:05:18.640] Senator Erwin Tulfo** (asr-000666)  
+**[01:05:18.640] Senator Erwin T. Tulfo** (asr-000666)  
 I noticed that there
 
-**[01:05:21.420] Senator Erwin Tulfo** (asr-000667)  
+**[01:05:21.420] Senator Erwin T. Tulfo** (asr-000667)  
 will be some
 
-**[01:05:22.160] Senator Erwin Tulfo** (asr-000668)  
+**[01:05:22.160] Senator Erwin T. Tulfo** (asr-000668)  
 or binawasan po
 
-**[01:05:24.220] Senator Erwin Tulfo** (asr-000669)  
+**[01:05:24.220] Senator Erwin T. Tulfo** (asr-000669)  
 yung budget.
 
-**[01:05:25.420] Senator Erwin Tulfo** (asr-000670)  
+**[01:05:25.420] Senator Erwin T. Tulfo** (asr-000670)  
 But I am for
 
-**[01:05:27.100] Senator Erwin Tulfo** (asr-000671)  
+**[01:05:27.100] Senator Erwin T. Tulfo** (asr-000671)  
 I am for
 
-**[01:05:29.280] Senator Erwin Tulfo** (asr-000672)  
+**[01:05:29.280] Senator Erwin T. Tulfo** (asr-000672)  
 actually, I support
 
-**[01:05:31.740] Senator Erwin Tulfo** (asr-000673)  
+**[01:05:31.740] Senator Erwin T. Tulfo** (asr-000673)  
 the budget, their budget proposal
 
-**[01:05:33.620] Senator Erwin Tulfo** (asr-000674)  
+**[01:05:33.620] Senator Erwin T. Tulfo** (asr-000674)  
 for next year. And I believe, Mr.
 
-**[01:05:35.840] Senator Erwin Tulfo** (asr-000675)  
+**[01:05:35.840] Senator Erwin T. Tulfo** (asr-000675)  
 Chair, my own opinion,
 
-**[01:05:37.620] Senator Erwin Tulfo** (asr-000676)  
+**[01:05:37.620] Senator Erwin T. Tulfo** (asr-000676)  
 since they're our money-making
 
-**[01:05:39.920] Senator Erwin Tulfo** (asr-000677)  
+**[01:05:39.920] Senator Erwin T. Tulfo** (asr-000677)  
 agency, they're the ones,
 
-**[01:05:41.960] Senator Erwin Tulfo** (asr-000678)  
+**[01:05:41.960] Senator Erwin T. Tulfo** (asr-000678)  
 they're the backbone of our
 
-**[01:05:43.580] Senator Erwin Tulfo** (asr-000679)  
+**[01:05:43.580] Senator Erwin T. Tulfo** (asr-000679)  
 Ikanga funds for
 
-**[01:05:45.700] Senator Erwin Tulfo** (asr-000680)  
+**[01:05:45.700] Senator Erwin T. Tulfo** (asr-000680)  
 next year, then why don't we give them
 
-**[01:05:47.680] Senator Erwin Tulfo** (asr-000681)  
+**[01:05:47.680] Senator Erwin T. Tulfo** (asr-000681)  
 what they want and perhaps even
 
-**[01:05:49.580] Senator Erwin Tulfo** (asr-000682)  
+**[01:05:49.580] Senator Erwin T. Tulfo** (asr-000682)  
 increase
 
-**[01:05:50.380] Senator Erwin Tulfo** (asr-000683)  
+**[01:05:50.380] Senator Erwin T. Tulfo** (asr-000683)  
 what was our putback, what
 
-**[01:05:53.660] Senator Erwin Tulfo** (asr-000684)  
+**[01:05:53.660] Senator Erwin T. Tulfo** (asr-000684)  
 was taken from them, from their
 
-**[01:05:55.300] Senator Erwin Tulfo** (asr-000685)  
+**[01:05:55.300] Senator Erwin T. Tulfo** (asr-000685)  
 budget. Thank you, Mr. Chairman.
 
 **[01:05:57.740] Senator Joseph Victor "JV" G. Ejercito** (asr-000686)  
@@ -1867,10 +1867,10 @@ reductions from our
 **[01:06:43.500] DOF Secretary Frederick D. Go** (asr-000709)  
 Thank you.
 
-**[01:06:44.450] Senator Erwin Tulfo** (asr-000709-split-2)  
+**[01:06:44.450] Senator Erwin T. Tulfo** (asr-000709-split-2)  
 You're welcome,
 
-**[01:06:45.660] Senator Erwin Tulfo** (asr-000710)  
+**[01:06:45.660] Senator Erwin T. Tulfo** (asr-000710)  
 Mr. Chair.
 
 **[01:06:46.880] Senator Joseph Victor "JV" G. Ejercito** (asr-000711)  

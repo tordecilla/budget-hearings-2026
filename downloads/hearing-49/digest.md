@@ -54,7 +54,7 @@ Senator Joseph Victor "JV" G. Ejercito said the judiciary needs control over its
 
 ### Overloaded courts and a capacity study
 
-Gomez-Estoesta cites 6,567 pending cases in Dasmariñas and says her office had asked the House to create more regional trial court branches and family courts; relocating the courts is under assessment, with land a constraint. She describes a Cabuyao judge handling more than 5,000 cases and other cities with heavy caseloads. Deputy Court Administrator Lilian C. Barribal-Co supplies further city totals, including 6,567 cases across three RTCs in Dasmariñas; Senator Francis "Kiko" Pangilinan says that would imply 13 additional courts at the stated 500-case ideal, which Gomez-Estoesta confirms is an ideal calculation. Asked what investment is needed to reach the benchmarks, she says no formal cost study has been conducted; current work examines processes, digitization, stakeholder satisfaction and personnel engagement. She commits to study whether more courts, improved systems or both are needed. Senator Sherwin "Win" T. Gatchalian and Pangilinan request the study and cost estimate; no estimate is given in the exchange.
+Gomez-Estoesta cites 6,567 pending cases in Dasmariñas and says her office had asked the House to create more regional trial court branches and family courts; relocating the courts is under assessment, with land a constraint. She describes a Cabuyao judge handling more than 5,000 cases and other cities with heavy caseloads. Deputy Court Administrator Lilian C. Barribal-Co supplies further city totals, including 6,567 cases across three RTCs in Dasmariñas; Senator Francis "Kiko" Pangilinan says that would imply 13 additional courts at the stated 500-case ideal, which Gomez-Estoesta confirms is an ideal calculation. Asked what investment is needed to reach the benchmarks, she says no formal cost study has been conducted; current work examines processes, digitization, stakeholder satisfaction and personnel engagement. She commits to study whether more courts, improved systems or both are needed. Senate President Sherwin "Win" T. Gatchalian and Pangilinan request the study and cost estimate; no estimate is given in the exchange.
 
 [00:51:25 · asr-000600](https://tordecilla.github.io/budget-hearings-2026/records/49/#asr-000600) · [00:57:44 · asr-000663](https://tordecilla.github.io/budget-hearings-2026/records/49/#asr-000663) · [00:58:51 · asr-000672](https://tordecilla.github.io/budget-hearings-2026/records/49/#asr-000672) · [01:03:39 · asr-000755](https://tordecilla.github.io/budget-hearings-2026/records/49/#asr-000755) · [01:05:09 · asr-000793](https://tordecilla.github.io/budget-hearings-2026/records/49/#asr-000793)
 
@@ -220,7 +220,7 @@ Pangilinan pledged to defend the judiciary?s budget and argued that timely, acce
 
 [00:16:49 · asr-000123](https://tordecilla.github.io/budget-hearings-2026/records/49/#asr-000123) · [00:18:51 · asr-000149](https://tordecilla.github.io/budget-hearings-2026/records/49/#asr-000149) · [00:19:33 · asr-000153](https://tordecilla.github.io/budget-hearings-2026/records/49/#asr-000153)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Court workloads and performance measures
 

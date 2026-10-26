@@ -52,7 +52,7 @@ Ejercito said confidential and intelligence funds should be limited to enforceme
 
 ### Government building purchase and annual amortization
 
-Senator Sherwin "Win" T. Gatchalian asked about the DILG's plan to buy an existing building. Remulla said the government had completed the purchase through the Government Service Insurance System (GSIS) under a multi-year arrangement involving the DBM, because DILG could not borrow directly for the purchase. He reported a price of ₱80,000 per square meter and an annual amortization of ₱1.5 billion. The property was a former Philippine Offshore Gaming Operator building in Pasay; fit-out was under way, and Remulla expected the department to move in around the first or second week of December. He presented the purchase as an alternative to continued government rent and new construction.
+Senate President Sherwin "Win" T. Gatchalian asked about the DILG's plan to buy an existing building. Remulla said the government had completed the purchase through the Government Service Insurance System (GSIS) under a multi-year arrangement involving the DBM, because DILG could not borrow directly for the purchase. He reported a price of ₱80,000 per square meter and an annual amortization of ₱1.5 billion. The property was a former Philippine Offshore Gaming Operator building in Pasay; fit-out was under way, and Remulla expected the department to move in around the first or second week of December. He presented the purchase as an alternative to continued government rent and new construction.
 
 [01:22:29 · asr-001100](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001100) · [01:23:16 · asr-001106](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001106) · [01:23:31 · asr-001109](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001109) · [01:23:37 · asr-001110](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001110) · [01:24:47 · asr-001120](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001120) · [01:25:43 · asr-001129](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001129)
 
@@ -206,7 +206,7 @@ Sotto asked whether the existing SK age limit of 18 to 24 would leave some offic
 
 [01:19:21 · asr-001058](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001058) · [01:19:38 · asr-001060](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001060) · [01:19:52 · asr-001062](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001062) · [01:20:08 · asr-001064](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001064) · [01:20:35 · asr-001069](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001069) · [01:20:41 · asr-001071](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001071) · [01:21:04 · asr-001080](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-001080)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### Illegal firearms, drugs, and local rehabilitation
 
@@ -226,7 +226,7 @@ Gatchalian raised reports of fire-extinguisher sales, slot selling, bid rigging,
 
 [02:38:42 · asr-002683](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-002683) · [02:39:59 · asr-002699](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-002699) · [02:40:12 · asr-002703](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-002703) · [02:40:34 · asr-002708](https://tordecilla.github.io/budget-hearings-2026/records/48/#asr-002708)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### BFP recruitment allegations and exam scoring
 

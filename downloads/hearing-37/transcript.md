@@ -397,22 +397,22 @@ Thank you, Assistant Commissioner Nilda Plaras. I'll ask my colleague, Senator T
 **[00:40:38.820] Senator Joseph Victor "JV" G. Ejercito** (asr-000136)  
 Blue Ribbon Chair, if he might have a statement or some queries.
 
-**[00:40:43.620] Senator Erwin Tulfo** (asr-000137)  
+**[00:40:43.620] Senator Erwin T. Tulfo** (asr-000137)  
 Just a few quick questions.
 
-**[00:40:46.100] Senator Erwin Tulfo** (asr-000138)  
+**[00:40:46.100] Senator Erwin T. Tulfo** (asr-000138)  
 Mr. Chair, una po sa lahat kay ASCOM Plaras, ba't wala pong capital outlay? I noticed.
 
 **[00:40:56.620] COA Assistant Commissioner Nilda B. Plaras** (asr-000139)  
 Wala po sa NEP, although we proposed.
 
-**[00:40:59.820] Senator Erwin Tulfo** (asr-000140)  
+**[00:40:59.820] Senator Erwin T. Tulfo** (asr-000140)  
 Magkano po yung proposal po ninyo?
 
 **[00:41:02.340] COA Assistant Commissioner Nilda B. Plaras** (asr-000141)  
 1.177 billion.
 
-**[00:41:09.830] Senator Erwin Tulfo** (asr-000142)  
+**[00:41:09.830] Senator Erwin T. Tulfo** (asr-000142)  
 Billion. Para saan po ito? Ano po ang purpose sana?
 
 **[00:41:12.230] COA Assistant Commissioner Nilda B. Plaras** (asr-000143)  
@@ -424,13 +424,13 @@ Marami pong composition, sir.
 **[00:41:26.130] COA Assistant Commissioner Nilda B. Plaras** (asr-000145)  
 Modernization of our COA building, fire protection works, renovation of our profession.
 
-**[00:41:32.170] Senator Erwin Tulfo** (asr-000146)  
+**[00:41:32.170] Senator Erwin T. Tulfo** (asr-000146)  
 When you say, ma'am, I'm sorry.
 
-**[00:41:33.770] Senator Erwin Tulfo** (asr-000147)  
+**[00:41:33.770] Senator Erwin T. Tulfo** (asr-000147)  
 When you say modernization of your building, you're building here, your main office,
 
-**[00:41:38.150] Senator Erwin Tulfo** (asr-000148)  
+**[00:41:38.150] Senator Erwin T. Tulfo** (asr-000148)  
 malapit sa Sandigan?
 
 **[00:41:39.850] COA Assistant Commissioner Nilda B. Plaras** (asr-000149)  
@@ -439,7 +439,7 @@ Yes, the building one and two po.
 **[00:41:41.550] COA Assistant Commissioner Nilda B. Plaras** (asr-000150)  
 Yung old one po.
 
-**[00:41:42.450] Senator Erwin Tulfo** (asr-000151)  
+**[00:41:42.450] Senator Erwin T. Tulfo** (asr-000151)  
 Anong year ho ba 'yan naitayo?
 
 **[00:41:44.470] COA Assistant Commissioner Nilda B. Plaras** (asr-000152)  
@@ -448,7 +448,7 @@ Anong year ho ba 'yan naitayo?
 **[00:41:47.770] COA Assistant Commissioner Nilda B. Plaras** (asr-000153)  
 Late sixties po, Your Honor.
 
-**[00:41:49.650] Senator Erwin Tulfo** (asr-000154)  
+**[00:41:49.650] Senator Erwin T. Tulfo** (asr-000154)  
 Late sixties, Chairman.
 
 **[00:41:51.050] COA Assistant Commissioner Nilda B. Plaras** (asr-000155)  
@@ -547,34 +547,34 @@ old building code pa po.
 **[00:43:13.790] COA Chairperson Gamaliel A. Cordoba** (asr-000206)  
 So baka po hindi na up to standard.
 
-**[00:43:16.630] Senator Erwin Tulfo** (asr-000207)  
+**[00:43:16.630] Senator Erwin T. Tulfo** (asr-000207)  
 I understand where you're coming from.
 
-**[00:43:19.750] Senator Erwin Tulfo** (asr-000208)  
+**[00:43:19.750] Senator Erwin T. Tulfo** (asr-000208)  
 Sabay ho yata itinayo sa DSWD at saka sa inyo.
 
-**[00:43:23.190] Senator Erwin Tulfo** (asr-000209)  
+**[00:43:23.190] Senator Erwin T. Tulfo** (asr-000209)  
 Kaya nung mag-earthquake ho, umuuga-uga kami sa DSWD.
 
-**[00:43:26.270] Senator Erwin Tulfo** (asr-000210)  
+**[00:43:26.270] Senator Erwin T. Tulfo** (asr-000210)  
 I was the secretary then.
 
-**[00:43:27.730] Senator Erwin Tulfo** (asr-000211)  
+**[00:43:27.730] Senator Erwin T. Tulfo** (asr-000211)  
 Number two, sir.
 
-**[00:43:28.270] Senator Erwin Tulfo** (asr-000212)  
+**[00:43:28.270] Senator Erwin T. Tulfo** (asr-000212)  
 Baka hindi pa kaya naubos ninyo yung 600 million na inallocate sa inyo last year,
 
-**[00:43:31.970] Senator Erwin Tulfo** (asr-000213)  
+**[00:43:31.970] Senator Erwin T. Tulfo** (asr-000213)  
 kaya ayaw ho kayong bigyan.
 
-**[00:43:33.750] Senator Erwin Tulfo** (asr-000214)  
+**[00:43:33.750] Senator Erwin T. Tulfo** (asr-000214)  
 Meron kayong 650 million para sa capital outlay?
 
 **[00:43:38.290] COA Chairperson Gamaliel A. Cordoba** (asr-000215)  
 Yes po.
 
-**[00:43:39.130] Senator Erwin Tulfo** (asr-000216)  
+**[00:43:39.130] Senator Erwin T. Tulfo** (asr-000216)  
 Have you already utilized that?
 
 **[00:43:40.550] COA Assistant Commissioner Nilda B. Plaras** (asr-000217)  
@@ -595,28 +595,28 @@ So our GSO is now preparing for phase 2.
 **[00:43:56.010] COA Assistant Commissioner Nilda B. Plaras** (asr-000222)  
 Once the building will be transferred, that's the time na ma-implement na po.
 
-**[00:44:01.510] Senator Erwin Tulfo** (asr-000223)  
+**[00:44:01.510] Senator Erwin T. Tulfo** (asr-000223)  
 Itong request ho ninyo for this year, is it really a must, Mr. Chairman?
 
-**[00:44:06.630] Senator Erwin Tulfo** (asr-000224)  
+**[00:44:06.630] Senator Erwin T. Tulfo** (asr-000224)  
 Kailangang-kailangan ba ito?
 
-**[00:44:08.070] Senator Erwin Tulfo** (asr-000225)  
+**[00:44:08.070] Senator Erwin T. Tulfo** (asr-000225)  
 Kung kailangang-kailangan at hindi nga maibibigay, pero ano ho yung
 
-**[00:44:13.670] Senator Erwin Tulfo** (asr-000226)  
+**[00:44:13.670] Senator Erwin T. Tulfo** (asr-000226)  
 medyo malapit-lapit sa realization sa hingi ninyo na one billion?
 
-**[00:44:16.350] Senator Erwin Tulfo** (asr-000227)  
+**[00:44:16.350] Senator Erwin T. Tulfo** (asr-000227)  
 Ano yung pwedeng malapit-lapit man lang?
 
-**[00:44:18.010] Senator Erwin Tulfo** (asr-000228)  
+**[00:44:18.010] Senator Erwin T. Tulfo** (asr-000228)  
 Ah.
 
 **[00:44:19.630] COA Chairperson Gamaliel A. Cordoba** (asr-000229)  
 Si ASCOM Nilda na po ang sasagot.
 
-**[00:44:21.350] Senator Erwin Tulfo** (asr-000230)  
+**[00:44:21.350] Senator Erwin T. Tulfo** (asr-000230)  
 Go ahead, ASCOM Plaras.
 
 **[00:44:24.250] COA Assistant Commissioner Nilda B. Plaras** (asr-000231)  
@@ -634,25 +634,25 @@ Then the second for us is the semi-expendable ICT items.
 **[00:44:42.190] COA Assistant Commissioner Nilda B. Plaras** (asr-000235)  
 This is the...
 
-**[00:44:42.530] Senator Erwin Tulfo** (asr-000236)  
+**[00:44:42.530] Senator Erwin T. Tulfo** (asr-000236)  
 So yung priority po ninyo, information and communication?
 
-**[00:44:47.590] Senator Erwin Tulfo** (asr-000237)  
+**[00:44:47.590] Senator Erwin T. Tulfo** (asr-000237)  
 How much is the total of that information and communication sa breakdown?
 
 **[00:44:52.110] COA Assistant Commissioner Nilda B. Plaras** (asr-000238)  
 297.6 million po.
 
-**[00:44:55.410] Senator Erwin Tulfo** (asr-000239)  
+**[00:44:55.410] Senator Erwin T. Tulfo** (asr-000239)  
 297.6 million.
 
 **[00:44:57.490] COA Assistant Commissioner Nilda B. Plaras** (asr-000240)  
 Yes po.
 
-**[00:44:58.150] Senator Erwin Tulfo** (asr-000241)  
+**[00:44:58.150] Senator Erwin T. Tulfo** (asr-000241)  
 Part of the capital outlay?
 
-**[00:45:00.000] Senator Erwin Tulfo** (asr-000242)  
+**[00:45:00.000] Senator Erwin T. Tulfo** (asr-000242)  
 Yung susunod po, ano?
 
 **[00:45:02.080] COA Assistant Commissioner Nilda B. Plaras** (asr-000243)  
@@ -691,70 +691,70 @@ information and communication.
 **[00:45:24.080] COA Assistant Commissioner Nilda B. Plaras** (asr-000254)  
 It is a priority.
 
-**[00:45:26.400] Senator Erwin Tulfo** (asr-000255)  
+**[00:45:26.400] Senator Erwin T. Tulfo** (asr-000255)  
 Alright. Thank you,
 
-**[00:45:28.500] Senator Erwin Tulfo** (asr-000256)  
+**[00:45:28.500] Senator Erwin T. Tulfo** (asr-000256)  
 ASCOM Plaras.
 
-**[00:45:30.500] Senator Erwin Tulfo** (asr-000257)  
+**[00:45:30.500] Senator Erwin T. Tulfo** (asr-000257)  
 Mr. Chair, I have another
 
-**[00:45:32.480] Senator Erwin Tulfo** (asr-000258)  
+**[00:45:32.480] Senator Erwin T. Tulfo** (asr-000258)  
 question, pero please proceed
 
-**[00:45:34.140] Senator Erwin Tulfo** (asr-000259)  
+**[00:45:34.140] Senator Erwin T. Tulfo** (asr-000259)  
 to the budget-related. I just want to ask
 
-**[00:45:36.640] Senator Erwin Tulfo** (asr-000260)  
+**[00:45:36.640] Senator Erwin T. Tulfo** (asr-000260)  
 Chairman Cordova.
 
-**[00:45:38.600] Senator Erwin Tulfo** (asr-000261)  
+**[00:45:38.600] Senator Erwin T. Tulfo** (asr-000261)  
 Sir, what have you done
 
-**[00:45:39.920] Senator Erwin Tulfo** (asr-000262)  
+**[00:45:39.920] Senator Erwin T. Tulfo** (asr-000262)  
 after all these
 
-**[00:45:42.060] Senator Erwin Tulfo** (asr-000263)  
+**[00:45:42.060] Senator Erwin T. Tulfo** (asr-000263)  
 investigations by the Blue
 
-**[00:45:44.480] Senator Erwin Tulfo** (asr-000264)  
+**[00:45:44.480] Senator Erwin T. Tulfo** (asr-000264)  
 Ribbon last year? Yung ating
 
-**[00:45:46.220] Senator Erwin Tulfo** (asr-000265)  
+**[00:45:46.220] Senator Erwin T. Tulfo** (asr-000265)  
 Yung ating mga COA personnel, medyo may mga
 
-**[00:45:48.880] Senator Erwin Tulfo** (asr-000266)  
+**[00:45:48.880] Senator Erwin T. Tulfo** (asr-000266)  
 ikang
 
-**[00:45:49.740] Senator Erwin Tulfo** (asr-000267)  
+**[00:45:49.740] Senator Erwin T. Tulfo** (asr-000267)  
 pagkukulang din na lumusot po
 
-**[00:45:52.460] Senator Erwin Tulfo** (asr-000268)  
+**[00:45:52.460] Senator Erwin T. Tulfo** (asr-000268)  
 sa kanila. Have you made any
 
-**[00:45:54.480] Senator Erwin Tulfo** (asr-000269)  
+**[00:45:54.480] Senator Erwin T. Tulfo** (asr-000269)  
 changes para hindi na po maulit
 
-**[00:45:56.720] Senator Erwin Tulfo** (asr-000270)  
+**[00:45:56.720] Senator Erwin T. Tulfo** (asr-000270)  
 para hindi malusutan
 
-**[00:45:58.580] Senator Erwin Tulfo** (asr-000271)  
+**[00:45:58.580] Senator Erwin T. Tulfo** (asr-000271)  
 yung ating COA personnel?
 
-**[00:46:00.000] Senator Erwin Tulfo** (asr-000272)  
+**[00:46:00.000] Senator Erwin T. Tulfo** (asr-000272)  
 Or hindi maging kasabwat
 
-**[00:46:02.220] Senator Erwin Tulfo** (asr-000273)  
+**[00:46:02.220] Senator Erwin T. Tulfo** (asr-000273)  
 sa ikang
 
-**[00:46:03.140] Senator Erwin Tulfo** (asr-000274)  
+**[00:46:03.140] Senator Erwin T. Tulfo** (asr-000274)  
 nefarious
 
-**[00:46:06.420] Senator Erwin Tulfo** (asr-000275)  
+**[00:46:06.420] Senator Erwin T. Tulfo** (asr-000275)  
 activities? Have you done
 
-**[00:46:08.040] Senator Erwin Tulfo** (asr-000276)  
+**[00:46:08.040] Senator Erwin T. Tulfo** (asr-000276)  
 something about this?
 
 **[00:46:09.620] COA Chairperson Gamaliel A. Cordoba** (asr-000277)  
@@ -796,40 +796,40 @@ nag-file po kami ng cases against
 **[00:46:33.960] COA Chairperson Gamaliel A. Cordoba** (asr-000289)  
 them, Your Honors.
 
-**[00:46:35.420] Senator Erwin Tulfo** (asr-000290)  
+**[00:46:35.420] Senator Erwin T. Tulfo** (asr-000290)  
 How often po ang ikang
 
-**[00:46:37.980] Senator Erwin Tulfo** (asr-000291)  
+**[00:46:37.980] Senator Erwin T. Tulfo** (asr-000291)  
 rotation? Do you rotate
 
-**[00:46:39.880] Senator Erwin Tulfo** (asr-000292)  
+**[00:46:39.880] Senator Erwin T. Tulfo** (asr-000292)  
 your people? For example,
 
-**[00:46:41.820] Senator Erwin Tulfo** (asr-000293)  
+**[00:46:41.820] Senator Erwin T. Tulfo** (asr-000293)  
 itong auditor na ito sa
 
-**[00:46:43.560] Senator Erwin Tulfo** (asr-000294)  
+**[00:46:43.560] Senator Erwin T. Tulfo** (asr-000294)  
 Bulacan, 1st District,
 
-**[00:46:45.740] Senator Erwin Tulfo** (asr-000295)  
+**[00:46:45.740] Senator Erwin T. Tulfo** (asr-000295)  
 how long will he or she stay there?
 
-**[00:46:47.780] Senator Erwin Tulfo** (asr-000296)  
+**[00:46:47.780] Senator Erwin T. Tulfo** (asr-000296)  
 Or hanggang sa magretiro siya
 
-**[00:46:49.660] Senator Erwin Tulfo** (asr-000297)  
+**[00:46:49.660] Senator Erwin T. Tulfo** (asr-000297)  
 o you rotate them para walang
 
-**[00:46:51.680] Senator Erwin Tulfo** (asr-000298)  
+**[00:46:51.680] Senator Erwin T. Tulfo** (asr-000298)  
 familiarization ng mga officials,
 
-**[00:46:53.900] Senator Erwin Tulfo** (asr-000299)  
+**[00:46:53.900] Senator Erwin T. Tulfo** (asr-000299)  
 etc.? As a general
 
 **[00:46:55.880] COA Chairperson Gamaliel A. Cordoba** (asr-000300)  
 rule po, three years po, Your Honors.
 
-**[00:46:57.540] Senator Erwin Tulfo** (asr-000301)  
+**[00:46:57.540] Senator Erwin T. Tulfo** (asr-000301)  
 Three years. Then they get rotated?
 
 **[00:46:59.300] COA Chairperson Gamaliel A. Cordoba** (asr-000302)  
@@ -838,100 +838,100 @@ Yes po.
 **[00:47:00.000] COA Chairperson Gamaliel A. Cordoba** (asr-000303)  
 Kiniikot po sila.
 
-**[00:47:01.440] Senator Erwin Tulfo** (asr-000304)  
+**[00:47:01.440] Senator Erwin T. Tulfo** (asr-000304)  
 Mr. Chair, one last question.
 
-**[00:47:04.060] Senator Erwin Tulfo** (asr-000305)  
+**[00:47:04.060] Senator Erwin T. Tulfo** (asr-000305)  
 Ongoing po ang aming
 
-**[00:47:05.300] Senator Erwin Tulfo** (asr-000306)  
+**[00:47:05.300] Senator Erwin T. Tulfo** (asr-000306)  
 impeachment trial,
 
-**[00:47:08.340] Senator Erwin Tulfo** (asr-000307)  
+**[00:47:08.340] Senator Erwin T. Tulfo** (asr-000307)  
 ang sinasabi po, ongoing
 
-**[00:47:09.820] Senator Erwin Tulfo** (asr-000308)  
+**[00:47:09.820] Senator Erwin T. Tulfo** (asr-000308)  
 din po ang inyong mga review
 
-**[00:47:11.320] Senator Erwin Tulfo** (asr-000309)  
+**[00:47:11.320] Senator Erwin T. Tulfo** (asr-000309)  
 doon po sa mga motion
 
-**[00:47:13.660] Senator Erwin Tulfo** (asr-000310)  
+**[00:47:13.660] Senator Erwin T. Tulfo** (asr-000310)  
 for reconsideration sa Office of the
 
-**[00:47:15.620] Senator Erwin Tulfo** (asr-000311)  
+**[00:47:15.620] Senator Erwin T. Tulfo** (asr-000311)  
 Vice President, and ganoon din
 
-**[00:47:17.680] Senator Erwin Tulfo** (asr-000312)  
+**[00:47:17.680] Senator Erwin T. Tulfo** (asr-000312)  
 po yung when she was with the Education
 
-**[00:47:19.840] Senator Erwin Tulfo** (asr-000313)  
+**[00:47:19.840] Senator Erwin T. Tulfo** (asr-000313)  
 Department. Ano na ho
 
-**[00:47:21.560] Senator Erwin Tulfo** (asr-000314)  
+**[00:47:21.560] Senator Erwin T. Tulfo** (asr-000314)  
 status nito?
 
-**[00:47:23.160] Senator Erwin Tulfo** (asr-000315)  
+**[00:47:23.160] Senator Erwin T. Tulfo** (asr-000315)  
 We want to find out kasi
 
-**[00:47:25.240] Senator Erwin Tulfo** (asr-000316)  
+**[00:47:25.240] Senator Erwin T. Tulfo** (asr-000316)  
 her people,
 
-**[00:47:28.700] Senator Erwin Tulfo** (asr-000317)  
+**[00:47:28.700] Senator Erwin T. Tulfo** (asr-000317)  
 mga former
 
-**[00:47:30.000] Senator Erwin Tulfo** (asr-000318)  
+**[00:47:30.000] Senator Erwin T. Tulfo** (asr-000318)  
 officials, they're pointing to you na
 
-**[00:47:31.660] Senator Erwin Tulfo** (asr-000319)  
+**[00:47:31.660] Senator Erwin T. Tulfo** (asr-000319)  
 they're just waiting. Sinagot naman daw nila
 
-**[00:47:33.880] Senator Erwin Tulfo** (asr-000320)  
+**[00:47:33.880] Senator Erwin T. Tulfo** (asr-000320)  
 po yung mga AOMs ninyo,
 
-**[00:47:36.100] Senator Erwin Tulfo** (asr-000321)  
+**[00:47:36.100] Senator Erwin T. Tulfo** (asr-000321)  
 discrepancies, so they're
 
-**[00:47:37.780] Senator Erwin Tulfo** (asr-000322)  
+**[00:47:37.780] Senator Erwin T. Tulfo** (asr-000322)  
 waiting. Ano ho ang status na nito?
 
-**[00:47:39.680] Senator Erwin Tulfo** (asr-000323)  
+**[00:47:39.680] Senator Erwin T. Tulfo** (asr-000323)  
 And if kailan po
 
-**[00:47:42.060] Senator Erwin Tulfo** (asr-000324)  
+**[00:47:42.060] Senator Erwin T. Tulfo** (asr-000324)  
 natin malalaman,
 
-**[00:47:43.560] Senator Erwin Tulfo** (asr-000325)  
+**[00:47:43.560] Senator Erwin T. Tulfo** (asr-000325)  
 your ruling or your decision na
 
-**[00:47:45.700] Senator Erwin Tulfo** (asr-000326)  
+**[00:47:45.700] Senator Erwin T. Tulfo** (asr-000326)  
 acceptable yung mga
 
-**[00:47:47.540] Senator Erwin Tulfo** (asr-000327)  
+**[00:47:47.540] Senator Erwin T. Tulfo** (asr-000327)  
 ikang
 
-**[00:47:48.600] Senator Erwin Tulfo** (asr-000328)  
+**[00:47:48.600] Senator Erwin T. Tulfo** (asr-000328)  
 evidence that they
 
-**[00:47:51.620] Senator Erwin Tulfo** (asr-000329)  
+**[00:47:51.620] Senator Erwin T. Tulfo** (asr-000329)  
 filed or ikang
 
-**[00:47:53.760] Senator Erwin Tulfo** (asr-000330)  
+**[00:47:53.760] Senator Erwin T. Tulfo** (asr-000330)  
 reasons that they submitted
 
-**[00:47:55.820] Senator Erwin Tulfo** (asr-000331)  
+**[00:47:55.820] Senator Erwin T. Tulfo** (asr-000331)  
 to your office to qualify
 
-**[00:47:57.980] Senator Erwin Tulfo** (asr-000332)  
+**[00:47:57.980] Senator Erwin T. Tulfo** (asr-000332)  
 or justify yung
 
-**[00:48:00.000] Senator Erwin Tulfo** (asr-000333)  
+**[00:48:00.000] Senator Erwin T. Tulfo** (asr-000333)  
 kanila pong expenses, lalo na po
 
-**[00:48:01.800] Senator Erwin Tulfo** (asr-000334)  
+**[00:48:01.800] Senator Erwin T. Tulfo** (asr-000334)  
 sa Confidential Fund
 
-**[00:48:03.120] Senator Erwin Tulfo** (asr-000335)  
+**[00:48:03.120] Senator Erwin T. Tulfo** (asr-000335)  
 ng agency, Chairman.
 
 **[00:48:06.260] COA Chairperson Gamaliel A. Cordoba** (asr-000336)  
@@ -988,19 +988,19 @@ but they filed a motion for reconsideration.
 **[00:48:40.000] COA Chairperson Gamaliel A. Cordoba** (asr-000353)  
 Yun po ang pending po sa amin ngayon.
 
-**[00:48:42.500] Senator Erwin Tulfo** (asr-000354)  
+**[00:48:42.500] Senator Erwin T. Tulfo** (asr-000354)  
 So, the
 
-**[00:48:43.620] Senator Erwin Tulfo** (asr-000355)  
+**[00:48:43.620] Senator Erwin T. Tulfo** (asr-000355)  
 first motion was denied.
 
 **[00:48:46.040] COA Chairperson Gamaliel A. Cordoba** (asr-000356)  
 Yes po.
 
-**[00:48:46.700] Senator Erwin Tulfo** (asr-000356-split-2)  
+**[00:48:46.700] Senator Erwin T. Tulfo** (asr-000356-split-2)  
 So, nasa second
 
-**[00:48:47.480] Senator Erwin Tulfo** (asr-000357)  
+**[00:48:47.480] Senator Erwin T. Tulfo** (asr-000357)  
 motion.
 
 **[00:48:48.500] COA Chairperson Gamaliel A. Cordoba** (asr-000357-split-2)  
@@ -1012,28 +1012,28 @@ The appeal po was denied, so they
 **[00:48:51.820] COA Chairperson Gamaliel A. Cordoba** (asr-000359)  
 filed a motion for reconsideration.
 
-**[00:48:54.480] Senator Erwin Tulfo** (asr-000360)  
+**[00:48:54.480] Senator Erwin T. Tulfo** (asr-000360)  
 After this, sir,
 
-**[00:48:55.760] Senator Erwin Tulfo** (asr-000361)  
+**[00:48:55.760] Senator Erwin T. Tulfo** (asr-000361)  
 kung sakasakali, kung whatever happens
 
-**[00:48:57.940] Senator Erwin Tulfo** (asr-000362)  
+**[00:48:57.940] Senator Erwin T. Tulfo** (asr-000362)  
 like it's still unacceptable,
 
-**[00:49:00.000] Senator Erwin Tulfo** (asr-000363)  
+**[00:49:00.000] Senator Erwin T. Tulfo** (asr-000363)  
 I mean, we're not so sure, whatever
 
-**[00:49:01.840] Senator Erwin Tulfo** (asr-000364)  
+**[00:49:01.840] Senator Erwin T. Tulfo** (asr-000364)  
 your decisions, baka may mga additional
 
-**[00:49:03.880] Senator Erwin Tulfo** (asr-000365)  
+**[00:49:03.880] Senator Erwin T. Tulfo** (asr-000365)  
 evidence po sila, documents to
 
-**[00:49:05.980] Senator Erwin Tulfo** (asr-000366)  
+**[00:49:05.980] Senator Erwin T. Tulfo** (asr-000366)  
 present, sabihin na natin na
 
-**[00:49:08.120] Senator Erwin Tulfo** (asr-000367)  
+**[00:49:08.120] Senator Erwin T. Tulfo** (asr-000367)  
 ganun pa rin po. What's going
 
 **[00:49:09.920] COA Chairperson Gamaliel A. Cordoba** (asr-000368)  
@@ -1045,40 +1045,40 @@ the Supreme Court po, Your Honor,
 **[00:49:13.800] COA Chairperson Gamaliel A. Cordoba** (asr-000370)  
 on Rule 64 of the Rules of Court po.
 
-**[00:49:16.660] Senator Erwin Tulfo** (asr-000371)  
+**[00:49:16.660] Senator Erwin T. Tulfo** (asr-000371)  
 Okay. So,
 
-**[00:49:18.300] Senator Erwin Tulfo** (asr-000372)  
+**[00:49:18.300] Senator Erwin T. Tulfo** (asr-000372)  
 the last recourse nila
 
-**[00:49:20.040] Senator Erwin Tulfo** (asr-000373)  
+**[00:49:20.040] Senator Erwin T. Tulfo** (asr-000373)  
 will be the Supreme Court.
 
 **[00:49:21.140] COA Chairperson Gamaliel A. Cordoba** (asr-000373-split-2)  
 Yes, Your Honor.
 
-**[00:49:22.020] Senator Erwin Tulfo** (asr-000374)  
+**[00:49:22.020] Senator Erwin T. Tulfo** (asr-000374)  
 Is it possible po ba, or is it
 
-**[00:49:23.840] Senator Erwin Tulfo** (asr-000375)  
+**[00:49:23.840] Senator Erwin T. Tulfo** (asr-000375)  
 confidential that, can you publish
 
-**[00:49:26.260] Senator Erwin Tulfo** (asr-000376)  
+**[00:49:26.260] Senator Erwin T. Tulfo** (asr-000376)  
 our
 
-**[00:49:26.800] Senator Erwin Tulfo** (asr-000377)  
+**[00:49:26.800] Senator Erwin T. Tulfo** (asr-000377)  
 the impeachment court,
 
-**[00:49:30.000] Senator Erwin Tulfo** (asr-000378)  
+**[00:49:30.000] Senator Erwin T. Tulfo** (asr-000378)  
 documentations about this,
 
-**[00:49:32.000] Senator Erwin Tulfo** (asr-000379)  
+**[00:49:32.000] Senator Erwin T. Tulfo** (asr-000379)  
 I mean, about your reports, kung sakasakaling
 
-**[00:49:34.100] Senator Erwin Tulfo** (asr-000380)  
+**[00:49:34.100] Senator Erwin T. Tulfo** (asr-000380)  
 lumabas na kayo after it's
 
-**[00:49:36.040] Senator Erwin Tulfo** (asr-000381)  
+**[00:49:36.040] Senator Erwin T. Tulfo** (asr-000381)  
 a motion for reconsideration?
 
 **[00:49:37.700] COA Chairperson Gamaliel A. Cordoba** (asr-000382)  
@@ -1096,13 +1096,13 @@ at saka po yung motion for
 **[00:49:45.520] COA Chairperson Gamaliel A. Cordoba** (asr-000386)  
 reconsideration na desisyon namin pag lumabas na po.
 
-**[00:49:48.260] Senator Erwin Tulfo** (asr-000387)  
+**[00:49:48.260] Senator Erwin T. Tulfo** (asr-000387)  
 How many more months
 
-**[00:49:49.560] Senator Erwin Tulfo** (asr-000388)  
+**[00:49:49.560] Senator Erwin T. Tulfo** (asr-000388)  
 you have to make a decision on do sa
 
-**[00:49:51.820] Senator Erwin Tulfo** (asr-000389)  
+**[00:49:51.820] Senator Erwin T. Tulfo** (asr-000389)  
 MR po nila?
 
 **[00:49:53.270] COA Chairperson Gamaliel A. Cordoba** (asr-000389-split-2)  
@@ -1114,13 +1114,13 @@ a month or so lang po, Your Honor.
 **[00:49:55.880] COA Chairperson Gamaliel A. Cordoba** (asr-000391)  
 Tapusin na po namin.
 
-**[00:49:57.030] Senator Erwin Tulfo** (asr-000391-split-2)  
+**[00:49:57.030] Senator Erwin T. Tulfo** (asr-000391-split-2)  
 Another month or so?
 
 **[00:49:57.880] COA Chairperson Gamaliel A. Cordoba** (asr-000392)  
 Yes, sir.
 
-**[00:49:58.230] Senator Erwin Tulfo** (asr-000392-split-2)  
+**[00:49:58.230] Senator Erwin T. Tulfo** (asr-000392-split-2)  
 Thank you po, Mr. Chairman po.
 
 **[00:50:00.000] COA Chairperson Gamaliel A. Cordoba** (asr-000393)  
@@ -1153,34 +1153,34 @@ po, this year, to file an appeal.
 **[00:50:18.620] COA Chairperson Gamaliel A. Cordoba** (asr-000402)  
 So, wala pa po ina-ante.
 
-**[00:50:19.600] Senator Erwin Tulfo** (asr-000402-split-2)  
+**[00:50:19.600] Senator Erwin T. Tulfo** (asr-000402-split-2)  
 So, yung sa
 
-**[00:50:20.240] Senator Erwin Tulfo** (asr-000403)  
+**[00:50:20.240] Senator Erwin T. Tulfo** (asr-000403)  
 DepEd, di ba po sila nag-appeal?
 
 **[00:50:21.260] COA Chairperson Gamaliel A. Cordoba** (asr-000403-split-2)  
 Di pa po.
 
-**[00:50:22.300] Senator Erwin Tulfo** (asr-000404)  
+**[00:50:22.300] Senator Erwin T. Tulfo** (asr-000404)  
 Yung sa OVP lang?
 
 **[00:50:23.050] COA Chairperson Gamaliel A. Cordoba** (asr-000404-split-2)  
 Yes.
 
-**[00:50:23.900] Senator Erwin Tulfo** (asr-000405)  
+**[00:50:23.900] Senator Erwin T. Tulfo** (asr-000405)  
 Yung giving them
 
-**[00:50:26.300] Senator Erwin Tulfo** (asr-000406)  
+**[00:50:26.300] Senator Erwin T. Tulfo** (asr-000406)  
 one more month?
 
 **[00:50:26.960] COA Chairperson Gamaliel A. Cordoba** (asr-000406-split-2)  
 Yes.
 
-**[00:50:27.520] Senator Erwin Tulfo** (asr-000406-split-3)  
+**[00:50:27.520] Senator Erwin T. Tulfo** (asr-000406-split-3)  
 Alright.
 
-**[00:50:28.460] Senator Erwin Tulfo** (asr-000407)  
+**[00:50:28.460] Senator Erwin T. Tulfo** (asr-000407)  
 Thank you po. Thank you po, Mr. Chair.
 
 **[00:50:30.000] Senator Joseph Victor "JV" G. Ejercito** (asr-000408)  

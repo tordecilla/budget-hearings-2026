@@ -232,7 +232,7 @@ Senator Erwin Tulfo opened the hearing by describing the Presidential Communicat
 
 [00:17:00 · asr-000037](https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000037) · [00:18:00 · asr-000039](https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000039) · [00:20:30 · asr-000044](https://tordecilla.github.io/budget-hearings-2026/records/82/#asr-000044)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### Public-service programming and staff productivity
 

@@ -565,82 +565,82 @@ would you have an opening statement, sir?
 **[00:21:38.380] Senator Francis Kiko Pangilinan** (asr-000186)  
 Mr. President, we beg the indulgence of Justice Estoesta.
 
-**[00:21:46.490] Senator Sherwin "Win" T. Gatchalian** (asr-000187)  
+**[00:21:46.490] Senate President Sherwin "Win" T. Gatchalian** (asr-000187)  
 Maraming salamat, Chair Kiko.
 
-**[00:21:49.110] Senator Sherwin "Win" T. Gatchalian** (asr-000188)  
+**[00:21:49.110] Senate President Sherwin "Win" T. Gatchalian** (asr-000188)  
 Napakinggan ko po 'yung inyong opening statement
 
-**[00:21:52.650] Senator Sherwin "Win" T. Gatchalian** (asr-000189)  
+**[00:21:52.650] Senate President Sherwin "Win" T. Gatchalian** (asr-000189)  
 sa sasakyan noong papunta po ako dito.
 
-**[00:21:56.470] Senator Sherwin "Win" T. Gatchalian** (asr-000190)  
+**[00:21:56.470] Senate President Sherwin "Win" T. Gatchalian** (asr-000190)  
 Unang-una sa lahat, we welcome our friends and our colleagues from the judiciary.
 
-**[00:22:02.770] Senator Sherwin "Win" T. Gatchalian** (asr-000191)  
+**[00:22:02.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000191)  
 Lahat naman ho tayo dito ay nagtatrabaho para sa taong bayan.
 
-**[00:22:08.270] Senator Sherwin "Win" T. Gatchalian** (asr-000192)  
+**[00:22:08.270] Senate President Sherwin "Win" T. Gatchalian** (asr-000192)  
 Lahat naman ho tayo dito ay mga government employees.
 
-**[00:22:12.610] Senator Sherwin "Win" T. Gatchalian** (asr-000193)  
+**[00:22:12.610] Senate President Sherwin "Win" T. Gatchalian** (asr-000193)  
 At higit sa lahat, lahat naman ho tayo pantay-pantay ang gusto ho natin para sa minamahal nating bansa,
 
-**[00:22:18.610] Senator Sherwin "Win" T. Gatchalian** (asr-000194)  
+**[00:22:18.610] Senate President Sherwin "Win" T. Gatchalian** (asr-000194)  
 na maayos at maibalik po ang tiwala ng taong bayan sa ating gobyerno.
 
-**[00:22:27.730] Senator Sherwin "Win" T. Gatchalian** (asr-000195)  
+**[00:22:27.730] Senate President Sherwin "Win" T. Gatchalian** (asr-000195)  
 Sang-ayon po ako sa ating Chairman na nasa crossroads ho tayo
 
-**[00:22:31.850] Senator Sherwin "Win" T. Gatchalian** (asr-000196)  
+**[00:22:31.850] Senate President Sherwin "Win" T. Gatchalian** (asr-000196)  
 pagdating sa tiwala.
 
-**[00:22:32.770] Senator Sherwin "Win" T. Gatchalian** (asr-000197)  
+**[00:22:32.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000197)  
 Hindi na ho
 
-**[00:22:34.770] Senator Sherwin "Win" T. Gatchalian** (asr-000198)  
+**[00:22:34.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000198)  
 Hindi na ho tinitingnan ng taong bayan
 
-**[00:22:37.770] Senator Sherwin "Win" T. Gatchalian** (asr-000199)  
+**[00:22:37.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000199)  
 kung ikaw ay congressman, senator, or judge, or justice, or mayor.
 
-**[00:22:43.770] Senator Sherwin "Win" T. Gatchalian** (asr-000200)  
+**[00:22:43.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000200)  
 Tingin nila, buong gobyerno ay nawawala na po ang tiwala nila.
 
-**[00:22:48.770] Senator Sherwin "Win" T. Gatchalian** (asr-000201)  
+**[00:22:48.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000201)  
 Kaya nandito ho kami para mabigyan po ng suporta ang judiciary
 
-**[00:22:55.770] Senator Sherwin "Win" T. Gatchalian** (asr-000202)  
+**[00:22:55.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000202)  
 para po 'yung wheels of justice, 'yung gulong ng hustisya,
 
-**[00:23:00.770] Senator Sherwin "Win" T. Gatchalian** (asr-000203)  
+**[00:23:00.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000203)  
 ay gumana
 
-**[00:23:01.770] Senator Sherwin "Win" T. Gatchalian** (asr-000204)  
+**[00:23:01.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000204)  
 at maging episyente.
 
-**[00:23:02.770] Senator Sherwin "Win" T. Gatchalian** (asr-000205)  
+**[00:23:02.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000205)  
 Marami ho talaga tayong dapat ayusin
 
-**[00:23:04.770] Senator Sherwin "Win" T. Gatchalian** (asr-000206)  
+**[00:23:04.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000206)  
 at marami ho tayong dapat panagutin,
 
-**[00:23:09.770] Senator Sherwin "Win" T. Gatchalian** (asr-000207)  
+**[00:23:09.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000207)  
 lalo na dito po sa mga nangyaring corruption issues.
 
-**[00:23:13.770] Senator Sherwin "Win" T. Gatchalian** (asr-000208)  
+**[00:23:13.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000208)  
 At hindi ho magiging kumpleto po itong pagbabalik ng tiwala
 
-**[00:23:19.770] Senator Sherwin "Win" T. Gatchalian** (asr-000209)  
+**[00:23:19.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000209)  
 kung isa sa ating mga sangay ng ating pamahalaan ay hindi po gagana.
 
-**[00:23:25.770] Senator Sherwin "Win" T. Gatchalian** (asr-000210)  
+**[00:23:25.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000210)  
 Kaya nandito ho kami para suportahan ho kayo.
 
-**[00:23:30.770] Senator Sherwin "Win" T. Gatchalian** (asr-000211)  
+**[00:23:30.770] Senate President Sherwin "Win" T. Gatchalian** (asr-000211)  
 Pero importante rin po na ang hanay natin ay masigurado natin ay gumagana at lahat po ay sumusuporta sa parehong adikain na maibalik po ang tiwala ng taong bayan sa ating gobyerno.
 
-**[00:23:48.110] Senator Sherwin "Win" T. Gatchalian** (asr-000212)  
+**[00:23:48.110] Senate President Sherwin "Win" T. Gatchalian** (asr-000212)  
 So with that, Chairman, maraming maraming salamat po.
 
 **[00:23:50.370] Senator Francis Kiko Pangilinan** (asr-000213)  
@@ -1396,121 +1396,121 @@ Thank you, Senator JV. We now give the floor to our
 **[00:48:04.580] Senator Francis Kiko Pangilinan** (asr-000460)  
 senate president for his questions go ahead uh
 
-**[00:48:08.960] Senator Sherwin "Win" T. Gatchalian** (asr-000460-split-2)  
+**[00:48:08.960] Senate President Sherwin "Win" T. Gatchalian** (asr-000460-split-2)  
 thank you mr chairman well first uh of all um
 
-**[00:48:12.980] Senator Sherwin "Win" T. Gatchalian** (asr-000461)  
+**[00:48:12.980] Senate President Sherwin "Win" T. Gatchalian** (asr-000461)  
 let me um commend the judiciary for uh an efficient use of your budget uh so looking at
 
-**[00:48:21.200] Senator Sherwin "Win" T. Gatchalian** (asr-000462)  
+**[00:48:21.200] Senate President Sherwin "Win" T. Gatchalian** (asr-000462)  
 uh one of the things that we measure uh the different agencies the utilization of the budget
 
-**[00:48:28.680] Senator Sherwin "Win" T. Gatchalian** (asr-000463)  
+**[00:48:28.680] Senate President Sherwin "Win" T. Gatchalian** (asr-000463)  
 and for 2024 it's 98 percent in 2025 it's 99 percent
 
-**[00:48:36.540] Senator Sherwin "Win" T. Gatchalian** (asr-000464)  
+**[00:48:36.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000464)  
 goes to show that um not only efficient but
 
-**[00:48:45.720] Senator Sherwin "Win" T. Gatchalian** (asr-000465)  
+**[00:48:45.720] Senate President Sherwin "Win" T. Gatchalian** (asr-000465)  
 um in some cases
 
-**[00:48:48.580] Senator Sherwin "Win" T. Gatchalian** (asr-000466)  
+**[00:48:48.580] Senate President Sherwin "Win" T. Gatchalian** (asr-000466)  
 especially in
 
-**[00:48:50.380] Senator Sherwin "Win" T. Gatchalian** (asr-000467)  
+**[00:48:50.380] Senate President Sherwin "Win" T. Gatchalian** (asr-000467)  
 yes
 
-**[00:48:50.840] Senator Sherwin "Win" T. Gatchalian** (asr-000468)  
+**[00:48:50.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000468)  
 uh
 
-**[00:48:51.180] Senator Sherwin "Win" T. Gatchalian** (asr-000469)  
+**[00:48:51.180] Senate President Sherwin "Win" T. Gatchalian** (asr-000469)  
 the lower courts or the courts near to our constituents so i just want to ask um
 
-**[00:48:58.100] Senator Sherwin "Win" T. Gatchalian** (asr-000470)  
+**[00:48:58.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000470)  
 because i was looking at the uh accomplishment rates and uh a lot of the accomplishment rates
 
-**[00:49:05.840] Senator Sherwin "Win" T. Gatchalian** (asr-000471)  
+**[00:49:05.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000471)  
 are past a hundred percent so
 
-**[00:49:07.820] Senator Sherwin "Win" T. Gatchalian** (asr-000472)  
+**[00:49:07.820] Senate President Sherwin "Win" T. Gatchalian** (asr-000472)  
 Ibig sabihin sobra ho sila sa target nila. But on the ground, whenever I go around, especially in cities,
 
-**[00:49:13.920] Senator Sherwin "Win" T. Gatchalian** (asr-000473)  
+**[00:49:13.920] Senate President Sherwin "Win" T. Gatchalian** (asr-000473)  
 Ah may mga courts talaga na ang isang court ang hawak nilang kaso napakadami, no? So may uneven
 
-**[00:49:23.020] Senator Sherwin "Win" T. Gatchalian** (asr-000532)  
+**[00:49:23.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000532)  
 in other words and even po yung case load ng mga judges natin i would assume in the provinces it will be much lower therefore the accomplishment rate is much faster or higher yes but in the cities especially in areas commercial areas i would assume that the case load is higher so yes um do we have any data to show ano po yung average case loads ng mga
 
-**[00:49:53.020] Senator Sherwin "Win" T. Gatchalian** (asr-000533)  
+**[00:49:53.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000533)  
 lower courts natin in um first level courts and and second level courts um then let's divide them into cities and also into municipalities because we cannot compare apples to apples the same case for classrooms um normally here in metro manila it's always uh congested but in the provinces um it's not congested but when you look at system wide
 
-**[00:50:19.160] Senator Sherwin "Win" T. Gatchalian** (asr-000534)  
+**[00:50:19.160] Senate President Sherwin "Win" T. Gatchalian** (asr-000534)  
 mukhang walang problema
 
-**[00:50:20.400] Senator Sherwin "Win" T. Gatchalian** (asr-000535)  
+**[00:50:20.400] Senate President Sherwin "Win" T. Gatchalian** (asr-000535)  
 no because the
 
-**[00:50:21.980] Senator Sherwin "Win" T. Gatchalian** (asr-000536)  
+**[00:50:21.980] Senate President Sherwin "Win" T. Gatchalian** (asr-000536)  
 classroom
 
-**[00:50:23.020] Senator Sherwin "Win" T. Gatchalian** (asr-000537)  
+**[00:50:23.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000537)  
 ratio is low
 
-**[00:50:24.540] Senator Sherwin "Win" T. Gatchalian** (asr-000538)  
+**[00:50:24.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000538)  
 in the same case with
 
-**[00:50:26.360] Senator Sherwin "Win" T. Gatchalian** (asr-000539)  
+**[00:50:26.360] Senate President Sherwin "Win" T. Gatchalian** (asr-000539)  
 case loads i would assume that in the cities
 
-**[00:50:28.600] Senator Sherwin "Win" T. Gatchalian** (asr-000540)  
+**[00:50:28.600] Senate President Sherwin "Win" T. Gatchalian** (asr-000540)  
 matataas mo no so we
 
-**[00:50:29.900] Senator Sherwin "Win" T. Gatchalian** (asr-000541)  
+**[00:50:29.900] Senate President Sherwin "Win" T. Gatchalian** (asr-000541)  
 can we have um
 
-**[00:50:31.460] Senator Sherwin "Win" T. Gatchalian** (asr-000542)  
+**[00:50:31.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000542)  
 um information that on that
 
-**[00:50:34.440] Senator Sherwin "Win" T. Gatchalian** (asr-000543)  
+**[00:50:34.440] Senate President Sherwin "Win" T. Gatchalian** (asr-000543)  
 because my next question will be
 
-**[00:50:36.160] Senator Sherwin "Win" T. Gatchalian** (asr-000544)  
+**[00:50:36.160] Senate President Sherwin "Win" T. Gatchalian** (asr-000544)  
 are there
 
-**[00:50:37.280] Senator Sherwin "Win" T. Gatchalian** (asr-000545)  
+**[00:50:37.280] Senate President Sherwin "Win" T. Gatchalian** (asr-000545)  
 lgus or areas wherein we
 
-**[00:50:40.320] Senator Sherwin "Win" T. Gatchalian** (asr-000546)  
+**[00:50:40.320] Senate President Sherwin "Win" T. Gatchalian** (asr-000546)  
 need to add more courts
 
-**[00:50:42.040] Senator Sherwin "Win" T. Gatchalian** (asr-000547)  
+**[00:50:42.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000547)  
 no uh alam nyo
 
-**[00:50:44.100] Senator Sherwin "Win" T. Gatchalian** (asr-000548)  
+**[00:50:44.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000548)  
 ang paborito pong batas
 
-**[00:50:46.360] Senator Sherwin "Win" T. Gatchalian** (asr-000549)  
+**[00:50:46.360] Senate President Sherwin "Win" T. Gatchalian** (asr-000549)  
 ng mga mambabatas
 
-**[00:50:48.100] Senator Sherwin "Win" T. Gatchalian** (asr-000550)  
+**[00:50:48.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000550)  
 is magdagdag ng courts
 
-**[00:50:49.460] Senator Sherwin "Win" T. Gatchalian** (asr-000551)  
+**[00:50:49.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000551)  
 no kahit na walang kailangan
 
-**[00:50:51.620] Senator Sherwin "Win" T. Gatchalian** (asr-000552)  
+**[00:50:51.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000552)  
 na court
 
 **[00:50:52.500] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000552-split-2)  
 yes po
 
-**[00:50:53.080] Senator Sherwin "Win" T. Gatchalian** (asr-000553)  
+**[00:50:53.080] Senate President Sherwin "Win" T. Gatchalian** (asr-000553)  
 diba ganun talaga eh um kaya pag minsan pag um i'm sure sa committee on justice marami yan and uh we notice lang na some of the areas hindi naman kailangan ng courts but may may no it's a it's a bragging right eh no so do we have yes so that we will be guided accordingly and be rational in approving the loss
 
-**[00:51:12.660] Senator Sherwin "Win" T. Gatchalian** (asr-000554)  
+**[00:51:12.660] Senate President Sherwin "Win" T. Gatchalian** (asr-000554)  
 mayroon ba tayong matrix that for example this area we need more courts because the case load is higher um do we have that data
 
-**[00:51:20.620] Senator Sherwin "Win" T. Gatchalian** (asr-000555)  
+**[00:51:20.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000555)  
 um
 
 **[00:51:22.780] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000575)  
@@ -1528,34 +1528,34 @@ they're only less than just a minute your honor i i forgot because we just visit
 **[00:52:22.780] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000603)  
 your honor but we are about to move them out to make the uh to deliver better services and to make our judges feel that it is a dignified court your honor um for the bottleneck or the constraint will be the area yes the land yes
 
-**[00:52:40.840] Senator Sherwin "Win" T. Gatchalian** (asr-000604)  
+**[00:52:40.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000604)  
 i think
 
-**[00:52:42.040] Senator Sherwin "Win" T. Gatchalian** (asr-000605)  
+**[00:52:42.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000605)  
 um just submit to the committee uh just divided to divided to municipalities and to cities where
 
-**[00:52:51.840] Senator Sherwin "Win" T. Gatchalian** (asr-000606)  
+**[00:52:51.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000606)  
 more
 
-**[00:52:52.120] Senator Sherwin "Win" T. Gatchalian** (asr-000607)  
+**[00:52:52.120] Senate President Sherwin "Win" T. Gatchalian** (asr-000607)  
 i think
 
-**[00:52:52.560] Senator Sherwin "Win" T. Gatchalian** (asr-000608)  
+**[00:52:52.560] Senate President Sherwin "Win" T. Gatchalian** (asr-000608)  
 i think
 
-**[00:52:52.760] Senator Sherwin "Win" T. Gatchalian** (asr-000609)  
+**[00:52:52.760] Senate President Sherwin "Win" T. Gatchalian** (asr-000609)  
 i'm more uh interested looking at the caseload per per sala or caseload per judge in the cities
 
-**[00:53:01.440] Senator Sherwin "Win" T. Gatchalian** (asr-000610)  
+**[00:53:01.440] Senate President Sherwin "Win" T. Gatchalian** (asr-000610)  
 especially in um highly urbanized city because there are a lot of businesses there a lot of businesses
 
-**[00:53:11.540] Senator Sherwin "Win" T. Gatchalian** (asr-000611)  
+**[00:53:11.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000611)  
 and obviously if there are such transactions there are some we cannot avoid but there are
 
-**[00:53:17.680] Senator Sherwin "Win" T. Gatchalian** (asr-000612)  
+**[00:53:17.680] Senate President Sherwin "Win" T. Gatchalian** (asr-000612)  
 issues that are emerging unless you have it now but if not you can just submit it to the committee
 
-**[00:53:22.540] Senator Sherwin "Win" T. Gatchalian** (asr-000613)  
+**[00:53:22.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000613)  
 submitted to the committee so we'll be guided accordingly
 
 **[00:53:25.440] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000613-split-2)  
@@ -1624,16 +1624,16 @@ consideration total case disposal over target case disposal and multiply it 100 
 **[00:55:54.590] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000633)  
 total case disposal over total case input your honor
 
-**[00:55:58.030] Senator Sherwin "Win" T. Gatchalian** (asr-000634)  
+**[00:55:58.030] Senate President Sherwin "Win" T. Gatchalian** (asr-000634)  
 Are there, um, are there courts na thousands pa ang hinahawakan ng isang judge?
 
 **[00:56:08.820] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000635)  
 Yes.
 
-**[00:56:09.000] Senator Sherwin "Win" T. Gatchalian** (asr-000635-split-2)  
+**[00:56:09.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000635-split-2)  
 Other than the one in Dasma, would you like to— Meron ba tayong mga ganyan?
 
-**[00:56:12.160] Senator Sherwin "Win" T. Gatchalian** (asr-000636)  
+**[00:56:12.160] Senate President Sherwin "Win" T. Gatchalian** (asr-000636)  
 Kasi if the prescription is 300 per judge, I think this is for RTC.
 
 **[00:56:19.120] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000636-split-2)  
@@ -1687,40 +1687,40 @@ health concerns, and it's really next to impossible that he handles all 5,000 ca
 **[00:57:20.680] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000652)  
 and he's the only one court in Cabuyao, Laguna, Your Honor.
 
-**[00:57:24.240] Senator Sherwin "Win" T. Gatchalian** (asr-000653)  
+**[00:57:24.240] Senate President Sherwin "Win" T. Gatchalian** (asr-000653)  
 5,000 cases.
 
 **[00:57:25.200] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000654)  
 5,000 plus.
 
-**[00:57:25.960] Senator Sherwin "Win" T. Gatchalian** (asr-000656)  
+**[00:57:25.960] Senate President Sherwin "Win" T. Gatchalian** (asr-000656)  
 Magre-resign talaga yung...
 
 **[00:57:27.260] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000657)  
 Magre-resign po siya.
 
-**[00:57:28.440] Senator Sherwin "Win" T. Gatchalian** (asr-000658)  
+**[00:57:28.440] Senate President Sherwin "Win" T. Gatchalian** (asr-000658)  
 Oo, wala.
 
 **[00:57:30.640] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000659)  
 Nagkasakit na po siya. Kaka-opera lang po niya.
 
-**[00:57:34.040] Senator Sherwin "Win" T. Gatchalian** (asr-000660)  
+**[00:57:34.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000660)  
 So my point of the matter is, mayroon ba tayong study?
 
-**[00:57:38.400] Senator Sherwin "Win" T. Gatchalian** (asr-000661)  
+**[00:57:38.400] Senate President Sherwin "Win" T. Gatchalian** (asr-000661)  
 Just to make it a, doon sa benchmark na na-mention nyo.
 
-**[00:57:44.100] Senator Sherwin "Win" T. Gatchalian** (asr-000662)  
+**[00:57:44.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000662)  
 Yes, pa.
 
-**[00:57:44.780] Senator Sherwin "Win" T. Gatchalian** (asr-000663)  
+**[00:57:44.780] Senate President Sherwin "Win" T. Gatchalian** (asr-000663)  
 How much do we need in terms of investment so that we can lower down?
 
-**[00:57:51.000] Senator Sherwin "Win" T. Gatchalian** (asr-000664)  
+**[00:57:51.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000664)  
 Obviously, the approach is to build more courts, to hire more judges.
 
-**[00:57:55.020] Senator Sherwin "Win" T. Gatchalian** (asr-000665)  
+**[00:57:55.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000665)  
 But do we have an estimate on how much do we need that in order to reach an acceptable level of caseload?
 
 **[00:58:03.100] Senator Francis Kiko Pangilinan** (asr-000666)  
@@ -1828,34 +1828,34 @@ So the infrastructure requirement so that we achieve that for the judiciary.
 **[01:00:37.820] Senator Francis Kiko Pangilinan** (asr-000700)  
 But if it's not yet available…
 
-**[01:00:40.780] Senator Sherwin "Win" T. Gatchalian** (asr-000701)  
+**[01:00:40.780] Senate President Sherwin "Win" T. Gatchalian** (asr-000701)  
 Submit it to the committee so that we'll be guided.
 
-**[01:00:44.120] Senator Sherwin "Win" T. Gatchalian** (asr-000702)  
+**[01:00:44.120] Senate President Sherwin "Win" T. Gatchalian** (asr-000702)  
 So that we'll know the universe or a target that we will work on moving forward.
 
 **[01:00:52.220] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000703)  
 Thank you, Your Honor.
 
-**[01:00:53.660] Senator Sherwin "Win" T. Gatchalian** (asr-000704)  
+**[01:00:53.660] Senate President Sherwin "Win" T. Gatchalian** (asr-000704)  
 Thank you.
 
-**[01:00:54.100] Senator Sherwin "Win" T. Gatchalian** (asr-000705)  
+**[01:00:54.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000705)  
 But are there many cases of 5,000 per judge?
 
-**[01:00:56.940] Senator Sherwin "Win" T. Gatchalian** (asr-000706)  
+**[01:00:56.940] Senate President Sherwin "Win" T. Gatchalian** (asr-000706)  
 Are there many cases like that?
 
-**[01:00:58.680] Senator Sherwin "Win" T. Gatchalian** (asr-000707)  
+**[01:00:58.680] Senate President Sherwin "Win" T. Gatchalian** (asr-000707)  
 I'm sorry.
 
 **[01:00:59.100] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000708)  
 I can also think of Antipolo, Your Honor.
 
-**[01:01:01.980] Senator Sherwin "Win" T. Gatchalian** (asr-000709)  
+**[01:01:01.980] Senate President Sherwin "Win" T. Gatchalian** (asr-000709)  
 Did you increase the health insurance?
 
-**[01:01:04.420] Senator Sherwin "Win" T. Gatchalian** (asr-000710)  
+**[01:01:04.420] Senate President Sherwin "Win" T. Gatchalian** (asr-000710)  
 Is the salary of 5,000 more?
 
 **[01:01:07.940] Senator Francis Kiko Pangilinan** (asr-000711)  
@@ -2101,16 +2101,16 @@ Go ahead.
 **[01:05:07.320] Senator Francis Kiko Pangilinan** (asr-000791)  
 You have the floor.
 
-**[01:05:08.840] Senator Sherwin "Win" T. Gatchalian** (asr-000792)  
+**[01:05:08.840] Senate President Sherwin "Win" T. Gatchalian** (asr-000792)  
 Thank you.
 
-**[01:05:09.340] Senator Sherwin "Win" T. Gatchalian** (asr-000793)  
+**[01:05:09.340] Senate President Sherwin "Win" T. Gatchalian** (asr-000793)  
 Just submit to the committee and study on enriching that ideal number of caseload per judge or per court.
 
-**[01:05:21.480] Senator Sherwin "Win" T. Gatchalian** (asr-000794)  
+**[01:05:21.480] Senate President Sherwin "Win" T. Gatchalian** (asr-000794)  
 How much will it cost?
 
-**[01:05:23.200] Senator Sherwin "Win" T. Gatchalian** (asr-000795)  
+**[01:05:23.200] Senate President Sherwin "Win" T. Gatchalian** (asr-000795)  
 Maybe we can have a program moving forward.
 
 **[01:05:26.080] Senator Francis Kiko Pangilinan** (asr-000796)  
@@ -2158,52 +2158,52 @@ So if you want...
 **[01:05:58.240] Senator Francis Kiko Pangilinan** (asr-000810)  
 One percent, right?
 
-**[01:06:00.260] Senator Sherwin "Win" T. Gatchalian** (asr-000811)  
+**[01:06:00.260] Senate President Sherwin "Win" T. Gatchalian** (asr-000811)  
 Mr. Chairman,
 
-**[01:06:01.360] Senator Sherwin "Win" T. Gatchalian** (asr-000812)  
+**[01:06:01.360] Senate President Sherwin "Win" T. Gatchalian** (asr-000812)  
 if you look at the other side,
 
-**[01:06:03.440] Senator Sherwin "Win" T. Gatchalian** (asr-000813)  
+**[01:06:03.440] Senate President Sherwin "Win" T. Gatchalian** (asr-000813)  
 it's also the litigants.
 
-**[01:06:05.100] Senator Sherwin "Win" T. Gatchalian** (asr-000814)  
+**[01:06:05.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000814)  
 Imagine the litigants,
 
-**[01:06:06.520] Senator Sherwin "Win" T. Gatchalian** (asr-000815)  
+**[01:06:06.520] Senate President Sherwin "Win" T. Gatchalian** (asr-000815)  
 it's a long wait
 
-**[01:06:07.280] Senator Sherwin "Win" T. Gatchalian** (asr-000816)  
+**[01:06:07.280] Senate President Sherwin "Win" T. Gatchalian** (asr-000816)  
 before their cases are to be heard.
 
-**[01:06:11.520] Senator Sherwin "Win" T. Gatchalian** (asr-000817)  
+**[01:06:11.520] Senate President Sherwin "Win" T. Gatchalian** (asr-000817)  
 Because if you're talking about
 
-**[01:06:13.440] Senator Sherwin "Win" T. Gatchalian** (asr-000818)  
+**[01:06:13.440] Senate President Sherwin "Win" T. Gatchalian** (asr-000818)  
 one judge holding 5,000 cases,
 
-**[01:06:17.000] Senator Sherwin "Win" T. Gatchalian** (asr-000819)  
+**[01:06:17.000] Senate President Sherwin "Win" T. Gatchalian** (asr-000819)  
 there are only 365 days in a year.
 
-**[01:06:20.820] Senator Sherwin "Win" T. Gatchalian** (asr-000820)  
+**[01:06:20.820] Senate President Sherwin "Win" T. Gatchalian** (asr-000820)  
 It's a long wait.
 
-**[01:06:22.540] Senator Sherwin "Win" T. Gatchalian** (asr-000821)  
+**[01:06:22.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000821)  
 It's a long wait.
 
-**[01:06:24.260] Senator Sherwin "Win" T. Gatchalian** (asr-000822)  
+**[01:06:24.260] Senate President Sherwin "Win" T. Gatchalian** (asr-000822)  
 So it's really...
 
-**[01:06:25.420] Senator Sherwin "Win" T. Gatchalian** (asr-000823)  
+**[01:06:25.420] Senate President Sherwin "Win" T. Gatchalian** (asr-000823)  
 We really need to look at this angle
 
-**[01:06:27.520] Senator Sherwin "Win" T. Gatchalian** (asr-000824)  
+**[01:06:27.520] Senate President Sherwin "Win" T. Gatchalian** (asr-000824)  
 because if you...
 
-**[01:06:28.220] Senator Sherwin "Win" T. Gatchalian** (asr-000825)  
+**[01:06:28.220] Senate President Sherwin "Win" T. Gatchalian** (asr-000825)  
 If we're not to make the wheels of justice turn faster,
 
-**[01:06:34.280] Senator Sherwin "Win" T. Gatchalian** (asr-000826)  
+**[01:06:34.280] Senate President Sherwin "Win" T. Gatchalian** (asr-000826)  
 then we need to also invest.
 
 **[01:06:36.380] Senator Francis Kiko Pangilinan** (asr-000827)  
@@ -2275,112 +2275,112 @@ But still, if you can separate it, even better.
 **[01:07:37.540] Senator Francis Kiko Pangilinan** (asr-000849)  
 Sorry.
 
-**[01:07:40.020] Senator Sherwin "Win" T. Gatchalian** (asr-000850)  
+**[01:07:40.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000850)  
 Thank you, Mr. Chairman, for that.
 
-**[01:07:42.200] Senator Sherwin "Win" T. Gatchalian** (asr-000851)  
+**[01:07:42.200] Senate President Sherwin "Win" T. Gatchalian** (asr-000851)  
 We'll just wait for that study
 
-**[01:07:43.900] Senator Sherwin "Win" T. Gatchalian** (asr-000852)  
+**[01:07:43.900] Senate President Sherwin "Win" T. Gatchalian** (asr-000852)  
 and some basic statistics
 
-**[01:07:46.080] Senator Sherwin "Win" T. Gatchalian** (asr-000853)  
+**[01:07:46.080] Senate President Sherwin "Win" T. Gatchalian** (asr-000853)  
 so that we can be guided accordingly.
 
 **[01:07:50.160] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000854)  
 Yes, Your Honor.
 
-**[01:07:50.560] Senator Sherwin "Win" T. Gatchalian** (asr-000855)  
+**[01:07:50.560] Senate President Sherwin "Win" T. Gatchalian** (asr-000855)  
 I just have some items in the budget
 
-**[01:07:52.360] Senator Sherwin "Win" T. Gatchalian** (asr-000856)  
+**[01:07:52.360] Senate President Sherwin "Win" T. Gatchalian** (asr-000856)  
 that I saw...
 
-**[01:07:59.040] Senator Sherwin "Win" T. Gatchalian** (asr-000857)  
+**[01:07:59.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000857)  
 There's a lot of decrease.
 
-**[01:08:00.800] Senator Sherwin "Win" T. Gatchalian** (asr-000858)  
+**[01:08:00.800] Senate President Sherwin "Win" T. Gatchalian** (asr-000858)  
 This is a locally funded project.
 
 **[01:08:04.560] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000859)  
 Yes, Your Honor.
 
-**[01:08:05.800] Senator Sherwin "Win" T. Gatchalian** (asr-000860)  
+**[01:08:05.800] Senate President Sherwin "Win" T. Gatchalian** (asr-000860)  
 From 9 billion last year
 
-**[01:08:07.620] Senator Sherwin "Win" T. Gatchalian** (asr-000861)  
+**[01:08:07.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000861)  
 to about 2.4 billion this year.
 
-**[01:08:09.900] Senator Sherwin "Win" T. Gatchalian** (asr-000862)  
+**[01:08:09.900] Senate President Sherwin "Win" T. Gatchalian** (asr-000862)  
 And there are two items
 
-**[01:08:11.320] Senator Sherwin "Win" T. Gatchalian** (asr-000863)  
+**[01:08:11.320] Senate President Sherwin "Win" T. Gatchalian** (asr-000863)  
 that decreased substantially.
 
-**[01:08:14.800] Senator Sherwin "Win" T. Gatchalian** (asr-000864)  
+**[01:08:14.800] Senate President Sherwin "Win" T. Gatchalian** (asr-000864)  
 Construction, completion,
 
-**[01:08:16.820] Senator Sherwin "Win" T. Gatchalian** (asr-000865)  
+**[01:08:16.820] Senate President Sherwin "Win" T. Gatchalian** (asr-000865)  
 and or repairs of halls of justice
 
-**[01:08:20.060] Senator Sherwin "Win" T. Gatchalian** (asr-000866)  
+**[01:08:20.060] Senate President Sherwin "Win" T. Gatchalian** (asr-000866)  
 from 2.6 to 200 million.
 
-**[01:08:23.380] Senator Sherwin "Win" T. Gatchalian** (asr-000867)  
+**[01:08:23.380] Senate President Sherwin "Win" T. Gatchalian** (asr-000867)  
 And then also strategic plan
 
-**[01:08:25.540] Senator Sherwin "Win" T. Gatchalian** (asr-000868)  
+**[01:08:25.540] Senate President Sherwin "Win" T. Gatchalian** (asr-000868)  
 for judicial innovations
 
-**[01:08:26.920] Senator Sherwin "Win" T. Gatchalian** (asr-000869)  
+**[01:08:26.920] Senate President Sherwin "Win" T. Gatchalian** (asr-000869)  
 from 5%.
 
-**[01:08:29.040] Senator Sherwin "Win" T. Gatchalian** (asr-000870)  
+**[01:08:29.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000870)  
 From 5.1 billion to 600 million.
 
-**[01:08:32.460] Senator Sherwin "Win" T. Gatchalian** (asr-000871)  
+**[01:08:32.460] Senate President Sherwin "Win" T. Gatchalian** (asr-000871)  
 Is there any particular reason?
 
-**[01:08:35.360] Senator Sherwin "Win" T. Gatchalian** (asr-000872)  
+**[01:08:35.360] Senate President Sherwin "Win" T. Gatchalian** (asr-000872)  
 Obviously, we're talking about
 
-**[01:08:37.100] Senator Sherwin "Win" T. Gatchalian** (asr-000873)  
+**[01:08:37.100] Senate President Sherwin "Win" T. Gatchalian** (asr-000873)  
 the construction of halls of justice.
 
-**[01:08:39.300] Senator Sherwin "Win" T. Gatchalian** (asr-000874)  
+**[01:08:39.300] Senate President Sherwin "Win" T. Gatchalian** (asr-000874)  
 It's counterintuitive
 
-**[01:08:40.860] Senator Sherwin "Win" T. Gatchalian** (asr-000875)  
+**[01:08:40.860] Senate President Sherwin "Win" T. Gatchalian** (asr-000875)  
 that we need to construct,
 
-**[01:08:43.780] Senator Sherwin "Win" T. Gatchalian** (asr-000876)  
+**[01:08:43.780] Senate President Sherwin "Win" T. Gatchalian** (asr-000876)  
 but the funds for the construction
 
-**[01:08:47.700] Senator Sherwin "Win" T. Gatchalian** (asr-000877)  
+**[01:08:47.700] Senate President Sherwin "Win" T. Gatchalian** (asr-000877)  
 of halls of justice have been reduced.
 
-**[01:08:50.940] Senator Sherwin "Win" T. Gatchalian** (asr-000878)  
+**[01:08:50.940] Senate President Sherwin "Win" T. Gatchalian** (asr-000878)  
 And then the other one
 
-**[01:08:52.300] Senator Sherwin "Win" T. Gatchalian** (asr-000879)  
+**[01:08:52.300] Senate President Sherwin "Win" T. Gatchalian** (asr-000879)  
 is strategic plan for judicial innovation
 
-**[01:08:54.620] Senator Sherwin "Win" T. Gatchalian** (asr-000880)  
+**[01:08:54.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000880)  
 from 5.1 to 600 million.
 
-**[01:08:58.040] Senator Sherwin "Win" T. Gatchalian** (asr-000881)  
+**[01:08:58.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000881)  
 From 5.1 to 600 million.
 
-**[01:08:59.040] Senator Sherwin "Win" T. Gatchalian** (asr-000882)  
+**[01:08:59.040] Senate President Sherwin "Win" T. Gatchalian** (asr-000882)  
 Maybe we know the reason
 
-**[01:09:01.260] Senator Sherwin "Win" T. Gatchalian** (asr-000883)  
+**[01:09:01.260] Senate President Sherwin "Win" T. Gatchalian** (asr-000883)  
 why these two programs
 
-**[01:09:03.980] Senator Sherwin "Win" T. Gatchalian** (asr-000884)  
+**[01:09:03.980] Senate President Sherwin "Win" T. Gatchalian** (asr-000884)  
 under the locally funded projects
 
-**[01:09:05.980] Senator Sherwin "Win" T. Gatchalian** (asr-000885)  
+**[01:09:05.980] Senate President Sherwin "Win" T. Gatchalian** (asr-000885)  
 went down substantially.
 
 **[01:09:09.200] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000886)  
@@ -2602,46 +2602,46 @@ our infrastructure projects.
 **[01:11:50.560] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000958)  
 Thank you, Your Honor.
 
-**[01:11:51.400] Senator Sherwin "Win" T. Gatchalian** (asr-000959)  
+**[01:11:51.400] Senate President Sherwin "Win" T. Gatchalian** (asr-000959)  
 The SPJI,
 
-**[01:11:53.480] Senator Sherwin "Win" T. Gatchalian** (asr-000960)  
+**[01:11:53.480] Senate President Sherwin "Win" T. Gatchalian** (asr-000960)  
 if I understand it correctly,
 
-**[01:11:55.680] Senator Sherwin "Win" T. Gatchalian** (asr-000961)  
+**[01:11:55.680] Senate President Sherwin "Win" T. Gatchalian** (asr-000961)  
 these are for,
 
 **[01:11:56.640] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000962)  
 Ah, yes.
 
-**[01:11:58.060] Senator Sherwin "Win" T. Gatchalian** (asr-000963)  
+**[01:11:58.060] Senate President Sherwin "Win" T. Gatchalian** (asr-000963)  
 For judicial innovation.
 
 **[01:12:00.340] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000964)  
 Yes, Your Honor.
 
-**[01:12:01.060] Senator Sherwin "Win" T. Gatchalian** (asr-000965)  
+**[01:12:01.060] Senate President Sherwin "Win" T. Gatchalian** (asr-000965)  
 Digitalization.
 
-**[01:12:03.060] Senator Sherwin "Win" T. Gatchalian** (asr-000966)  
+**[01:12:03.060] Senate President Sherwin "Win" T. Gatchalian** (asr-000966)  
 Digitalization.
 
 **[01:12:04.220] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000967)  
 Yes, Your Honor.
 
-**[01:12:04.760] Senator Sherwin "Win" T. Gatchalian** (asr-000968)  
+**[01:12:04.760] Senate President Sherwin "Win" T. Gatchalian** (asr-000968)  
 These are mostly,
 
-**[01:12:08.020] Senator Sherwin "Win" T. Gatchalian** (asr-000969)  
+**[01:12:08.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000969)  
 if I'm not mistaken,
 
-**[01:12:10.020] Senator Sherwin "Win" T. Gatchalian** (asr-000970)  
+**[01:12:10.020] Senate President Sherwin "Win" T. Gatchalian** (asr-000970)  
 for efficiency,
 
-**[01:12:12.760] Senator Sherwin "Win" T. Gatchalian** (asr-000971)  
+**[01:12:12.760] Senate President Sherwin "Win" T. Gatchalian** (asr-000971)  
 accessibility,
 
-**[01:12:13.760] Senator Sherwin "Win" T. Gatchalian** (asr-000972)  
+**[01:12:13.760] Senate President Sherwin "Win" T. Gatchalian** (asr-000972)  
 and accountability.
 
 **[01:12:15.120] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000973)  
@@ -2650,7 +2650,7 @@ Efficiency, innovation,
 **[01:12:16.820] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000974)  
 and access, Your Honor.
 
-**[01:12:17.860] Senator Sherwin "Win" T. Gatchalian** (asr-000975)  
+**[01:12:17.860] Senate President Sherwin "Win" T. Gatchalian** (asr-000975)  
 Access.
 
 **[01:12:18.400] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000976)  
@@ -2662,7 +2662,7 @@ that I can mention right now
 **[01:12:21.520] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000978)  
 just to support them.
 
-**[01:12:22.620] Senator Sherwin "Win" T. Gatchalian** (asr-000979)  
+**[01:12:22.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000979)  
 These are basically information technology.
 
 **[01:12:24.800] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000980)  
@@ -2671,34 +2671,34 @@ Yes, Your Honor.
 **[01:12:25.420] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000981)  
 The heart of the SPJI.
 
-**[01:12:28.060] Senator Sherwin "Win" T. Gatchalian** (asr-000982)  
+**[01:12:28.060] Senate President Sherwin "Win" T. Gatchalian** (asr-000982)  
 So from a locally funded project, naging ano na siya?
 
 **[01:12:32.440] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000983)  
 Opo, MOE na po.
 
-**[01:12:33.620] Senator Sherwin "Win" T. Gatchalian** (asr-000984)  
+**[01:12:33.620] Senate President Sherwin "Win" T. Gatchalian** (asr-000984)  
 MOE na siya?
 
 **[01:12:34.280] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000985)  
 Yes, for your honor.
 
-**[01:12:35.240] Senator Sherwin "Win" T. Gatchalian** (asr-000986)  
+**[01:12:35.240] Senate President Sherwin "Win" T. Gatchalian** (asr-000986)  
 Regular project na siya?
 
 **[01:12:37.640] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000987)  
 Yes, your honor.
 
-**[01:12:38.240] Senator Sherwin "Win" T. Gatchalian** (asr-000988)  
+**[01:12:38.240] Senate President Sherwin "Win" T. Gatchalian** (asr-000988)  
 All right, I understand.
 
-**[01:12:38.940] Senator Sherwin "Win" T. Gatchalian** (asr-000989)  
+**[01:12:38.940] Senate President Sherwin "Win" T. Gatchalian** (asr-000989)  
 And the Halls of Justice, the decrease from 2.6 billion to 200 million, I heard you earlier that you would also request for augment.
 
 **[01:12:54.960] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000990)  
 Yes, your honor.
 
-**[01:12:55.680] Senator Sherwin "Win" T. Gatchalian** (asr-000991)  
+**[01:12:55.680] Senate President Sherwin "Win" T. Gatchalian** (asr-000991)  
 Bakit siya bumaba? Ang laka ng binaba?
 
 **[01:12:57.240] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000992)  
@@ -2719,19 +2719,19 @@ Augmented it.
 **[01:13:28.460] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000997)  
 Opo.
 
-**[01:13:29.360] Senator Sherwin "Win" T. Gatchalian** (asr-000998)  
+**[01:13:29.360] Senate President Sherwin "Win" T. Gatchalian** (asr-000998)  
 The Manila Hall of Justice?
 
 **[01:13:31.560] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-000999)  
 Yes, your honor.
 
-**[01:13:32.060] Senator Sherwin "Win" T. Gatchalian** (asr-001000)  
+**[01:13:32.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001000)  
 Tapos na ba yan? Parang matagal na yan.
 
 **[01:13:33.460] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-001001)  
 Not yet, your honor.
 
-**[01:13:34.400] Senator Sherwin "Win" T. Gatchalian** (asr-001002)  
+**[01:13:34.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001002)  
 Parang bago pa akong senador, naririnig ko na yan eh.
 
 **[01:13:39.580] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-001003)  
@@ -2749,7 +2749,7 @@ But as of now, we're trying to fast-track it because there's already a committee
 **[01:14:07.680] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-001007)  
 And we are making it, your honor.
 
-**[01:14:08.960] Senator Sherwin "Win" T. Gatchalian** (asr-001008)  
+**[01:14:08.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001008)  
 Three years na ginagawa itong, kung first term mo di, matagal na yan eh.
 
 **[01:14:17.220] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-001009)  
@@ -2770,7 +2770,7 @@ And during that time, we were looking forward to the construction of the Manila.
 **[01:14:37.900] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-001014)  
 Twenty years, ah.
 
-**[01:14:39.980] Senator Sherwin "Win" T. Gatchalian** (asr-001015)  
+**[01:14:39.980] Senate President Sherwin "Win" T. Gatchalian** (asr-001015)  
 Meron ng 20 years?
 
 **[01:14:41.060] Court Administrator Theresa Dolores Gomez-Estoesta** (asr-001016)  
@@ -2965,13 +2965,13 @@ Maybe by the end of the year, it will be groundbreaking and it will continue.
 **[01:18:13.660] Senator Francis Kiko Pangilinan** (asr-001079)  
 Go ahead, Senate President.
 
-**[01:18:15.460] Senator Sherwin "Win" T. Gatchalian** (asr-001080)  
+**[01:18:15.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001080)  
 Mr. Chairman, I'll avail of the second round.
 
-**[01:18:17.780] Senator Sherwin "Win" T. Gatchalian** (asr-001081)  
+**[01:18:17.780] Senate President Sherwin "Win" T. Gatchalian** (asr-001081)  
 So that we...
 
-**[01:18:18.440] Senator Sherwin "Win" T. Gatchalian** (asr-001082)  
+**[01:18:18.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001082)  
 So that the chairman can pursue his questions.
 
 **[01:18:23.440] Senator Joseph Victor "JV" G. Ejercito** (asr-001083)  
@@ -4108,211 +4108,211 @@ No, no, go ahead. I will
 **[01:36:57.780] Senator Francis Kiko Pangilinan** (asr-001459)  
 let you exhaust.
 
-**[01:37:01.160] Senator Sherwin "Win" T. Gatchalian** (asr-001460)  
+**[01:37:01.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001460)  
 A few more
 
-**[01:37:03.640] Senator Sherwin "Win" T. Gatchalian** (asr-001461)  
+**[01:37:03.640] Senate President Sherwin "Win" T. Gatchalian** (asr-001461)  
 items, Mr. Chairman.
 
-**[01:37:05.560] Senator Sherwin "Win" T. Gatchalian** (asr-001462)  
+**[01:37:05.560] Senate President Sherwin "Win" T. Gatchalian** (asr-001462)  
 Thank you for your generosity
 
-**[01:37:07.320] Senator Sherwin "Win" T. Gatchalian** (asr-001463)  
+**[01:37:07.320] Senate President Sherwin "Win" T. Gatchalian** (asr-001463)  
 with time.
 
-**[01:37:10.280] Senator Sherwin "Win" T. Gatchalian** (asr-001464)  
+**[01:37:10.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001464)  
 I'll go to the
 
-**[01:37:11.160] Senator Sherwin "Win" T. Gatchalian** (asr-001465)  
+**[01:37:11.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001465)  
 Sandigan Bayan
 
-**[01:37:12.260] Senator Sherwin "Win" T. Gatchalian** (asr-001466)  
+**[01:37:12.260] Senate President Sherwin "Win" T. Gatchalian** (asr-001466)  
 because I saw in
 
-**[01:37:15.060] Senator Sherwin "Win" T. Gatchalian** (asr-001467)  
+**[01:37:15.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001467)  
 the budget
 
-**[01:37:19.080] Senator Sherwin "Win" T. Gatchalian** (asr-001468)  
+**[01:37:19.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001468)  
 analysis that
 
-**[01:37:21.300] Senator Sherwin "Win" T. Gatchalian** (asr-001469)  
+**[01:37:21.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001469)  
 of course, we have now
 
-**[01:37:23.340] Senator Sherwin "Win" T. Gatchalian** (asr-001470)  
+**[01:37:23.340] Senate President Sherwin "Win" T. Gatchalian** (asr-001470)  
 the
 
-**[01:37:23.980] Senator Sherwin "Win" T. Gatchalian** (asr-001471)  
+**[01:37:23.980] Senate President Sherwin "Win" T. Gatchalian** (asr-001471)  
 Judiciary Autonomy
 
-**[01:37:27.060] Senator Sherwin "Win" T. Gatchalian** (asr-001472)  
+**[01:37:27.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001472)  
 Law or Fiscal Autonomy
 
-**[01:37:29.280] Senator Sherwin "Win" T. Gatchalian** (asr-001473)  
+**[01:37:29.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001473)  
 Law. And I saw
 
-**[01:37:31.040] Senator Sherwin "Win" T. Gatchalian** (asr-001474)  
+**[01:37:31.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001474)  
 in the
 
-**[01:37:32.040] Senator Sherwin "Win" T. Gatchalian** (asr-001475)  
+**[01:37:32.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001475)  
 DBM recommendation
 
-**[01:37:35.560] Senator Sherwin "Win" T. Gatchalian** (asr-001476)  
+**[01:37:35.560] Senate President Sherwin "Win" T. Gatchalian** (asr-001476)  
 that was
 
-**[01:37:37.200] Senator Sherwin "Win" T. Gatchalian** (asr-001477)  
+**[01:37:37.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001477)  
 given to us.
 
-**[01:37:40.480] Senator Sherwin "Win" T. Gatchalian** (asr-001478)  
+**[01:37:40.480] Senate President Sherwin "Win" T. Gatchalian** (asr-001478)  
 Ang proposal nila
 
-**[01:37:42.040] Senator Sherwin "Win" T. Gatchalian** (asr-001479)  
+**[01:37:42.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001479)  
 is to even reduce
 
-**[01:37:43.540] Senator Sherwin "Win" T. Gatchalian** (asr-001480)  
+**[01:37:43.540] Senate President Sherwin "Win" T. Gatchalian** (asr-001480)  
 the Sandigan
 
-**[01:37:46.000] Senator Sherwin "Win" T. Gatchalian** (asr-001481)  
+**[01:37:46.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001481)  
 Bayan budget by
 
-**[01:37:47.800] Senator Sherwin "Win" T. Gatchalian** (asr-001482)  
+**[01:37:47.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001482)  
 500 million, 550
 
-**[01:37:49.920] Senator Sherwin "Win" T. Gatchalian** (asr-001483)  
+**[01:37:49.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001483)  
 million, which is, I think,
 
-**[01:37:51.940] Senator Sherwin "Win" T. Gatchalian** (asr-001484)  
+**[01:37:51.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001484)  
 personally, Mr. Chairman, is
 
-**[01:37:53.600] Senator Sherwin "Win" T. Gatchalian** (asr-001485)  
+**[01:37:53.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001485)  
 counterintuitive of what we
 
-**[01:37:55.960] Senator Sherwin "Win" T. Gatchalian** (asr-001486)  
+**[01:37:55.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001486)  
 want to do.
 
-**[01:37:57.200] Senator Sherwin "Win" T. Gatchalian** (asr-001487)  
+**[01:37:57.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001487)  
 Because the focus now, actually,
 
-**[01:37:59.720] Senator Sherwin "Win" T. Gatchalian** (asr-001488)  
+**[01:37:59.720] Senate President Sherwin "Win" T. Gatchalian** (asr-001488)  
 is on the Sandigan
 
-**[01:38:00.960] Senator Sherwin "Win" T. Gatchalian** (asr-001489)  
+**[01:38:00.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001489)  
 Bayan. In fact,
 
-**[01:38:02.780] Senator Sherwin "Win" T. Gatchalian** (asr-001490)  
+**[01:38:02.780] Senate President Sherwin "Win" T. Gatchalian** (asr-001490)  
 we should support the Sandigan
 
-**[01:38:05.260] Senator Sherwin "Win" T. Gatchalian** (asr-001491)  
+**[01:38:05.260] Senate President Sherwin "Win" T. Gatchalian** (asr-001491)  
 Bayan more rather than
 
-**[01:38:07.380] Senator Sherwin "Win" T. Gatchalian** (asr-001492)  
+**[01:38:07.380] Senate President Sherwin "Win" T. Gatchalian** (asr-001492)  
 reduce its budget
 
-**[01:38:09.200] Senator Sherwin "Win" T. Gatchalian** (asr-001493)  
+**[01:38:09.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001493)  
 because they need to
 
-**[01:38:10.640] Senator Sherwin "Win" T. Gatchalian** (asr-001494)  
+**[01:38:10.640] Senate President Sherwin "Win" T. Gatchalian** (asr-001494)  
 capacitate
 
-**[01:38:12.380] Senator Sherwin "Win" T. Gatchalian** (asr-001495)  
+**[01:38:12.380] Senate President Sherwin "Win" T. Gatchalian** (asr-001495)  
 themselves, make
 
-**[01:38:15.300] Senator Sherwin "Win" T. Gatchalian** (asr-001496)  
+**[01:38:15.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001496)  
 themselves more efficient,
 
-**[01:38:17.740] Senator Sherwin "Win" T. Gatchalian** (asr-001497)  
+**[01:38:17.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001497)  
 get more
 
-**[01:38:18.600] Senator Sherwin "Win" T. Gatchalian** (asr-001498)  
+**[01:38:18.600] Senate President Sherwin "Win" T. Gatchalian** (asr-001498)  
 manpower to support the
 
-**[01:38:22.980] Senator Sherwin "Win" T. Gatchalian** (asr-001499)  
+**[01:38:22.980] Senate President Sherwin "Win" T. Gatchalian** (asr-001499)  
 voluminous cases that are being
 
-**[01:38:24.800] Senator Sherwin "Win" T. Gatchalian** (asr-001500)  
+**[01:38:24.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001500)  
 filed in the Sandigan.
 
-**[01:38:27.140] Senator Sherwin "Win" T. Gatchalian** (asr-001501)  
+**[01:38:27.140] Senate President Sherwin "Win" T. Gatchalian** (asr-001501)  
 So I don't
 
-**[01:38:28.460] Senator Sherwin "Win" T. Gatchalian** (asr-001502)  
+**[01:38:28.460] Senate President Sherwin "Win" T. Gatchalian** (asr-001502)  
 subscribe to the recommendation,
 
-**[01:38:30.960] Senator Sherwin "Win" T. Gatchalian** (asr-001503)  
+**[01:38:30.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001503)  
 the recommendation of the DBM to reduce it by 551 million.
 
-**[01:38:35.400] Senator Sherwin "Win" T. Gatchalian** (asr-001504)  
+**[01:38:35.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001504)  
 It's hindi tama yung oras at hindi tama yung timing na gagawin natin yan dahil nga napakadami, nakita naman hoon natin sa news ang daming cases sa finafile.
 
-**[01:38:51.240] Senator Sherwin "Win" T. Gatchalian** (asr-001505)  
+**[01:38:51.240] Senate President Sherwin "Win" T. Gatchalian** (asr-001505)  
 Dapat pa nga dagdagan para po masuportahan at makahabol ng mas mabilis ng paglilitis.
 
-**[01:38:59.680] Senator Sherwin "Win" T. Gatchalian** (asr-001506)  
+**[01:38:59.680] Senate President Sherwin "Win" T. Gatchalian** (asr-001506)  
 So with that,
 
-**[01:39:00.960] Senator Sherwin "Win" T. Gatchalian** (asr-001507)  
+**[01:39:00.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001507)  
 Mr. Chairman, I just want to manifest that.
 
-**[01:39:03.900] Senator Sherwin "Win" T. Gatchalian** (asr-001508)  
+**[01:39:03.900] Senate President Sherwin "Win" T. Gatchalian** (asr-001508)  
 And
 
-**[01:39:04.320] Senator Sherwin "Win" T. Gatchalian** (asr-001509)  
+**[01:39:04.320] Senate President Sherwin "Win" T. Gatchalian** (asr-001509)  
 I also saw in the Sandigan,
 
-**[01:39:07.340] Senator Sherwin "Win" T. Gatchalian** (asr-001510)  
+**[01:39:07.340] Senate President Sherwin "Win" T. Gatchalian** (asr-001510)  
 this is just an item that I
 
-**[01:39:09.120] Senator Sherwin "Win" T. Gatchalian** (asr-001511)  
+**[01:39:09.120] Senate President Sherwin "Win" T. Gatchalian** (asr-001511)  
 want to ask in the Sandigan
 
-**[01:39:11.300] Senator Sherwin "Win" T. Gatchalian** (asr-001512)  
+**[01:39:11.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001512)  
 budget. There's a
 
-**[01:39:13.360] Senator Sherwin "Win" T. Gatchalian** (asr-001513)  
+**[01:39:13.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001513)  
 the capital
 
-**[01:39:15.320] Senator Sherwin "Win" T. Gatchalian** (asr-001514)  
+**[01:39:15.320] Senate President Sherwin "Win" T. Gatchalian** (asr-001514)  
 outlay actually increased
 
-**[01:39:16.980] Senator Sherwin "Win" T. Gatchalian** (asr-001515)  
+**[01:39:16.980] Senate President Sherwin "Win" T. Gatchalian** (asr-001515)  
 in the Sandigan budget
 
-**[01:39:19.240] Senator Sherwin "Win" T. Gatchalian** (asr-001516)  
+**[01:39:19.240] Senate President Sherwin "Win" T. Gatchalian** (asr-001516)  
 from
 
-**[01:39:20.520] Senator Sherwin "Win" T. Gatchalian** (asr-001517)  
+**[01:39:20.520] Senate President Sherwin "Win" T. Gatchalian** (asr-001517)  
 300 million to 719
 
-**[01:39:23.280] Senator Sherwin "Win" T. Gatchalian** (asr-001518)  
+**[01:39:23.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001518)  
 million. May I ask
 
-**[01:39:25.100] Senator Sherwin "Win" T. Gatchalian** (asr-001519)  
+**[01:39:25.100] Senate President Sherwin "Win" T. Gatchalian** (asr-001519)  
 the Sandigan,
 
-**[01:39:26.420] Senator Sherwin "Win" T. Gatchalian** (asr-001520)  
+**[01:39:26.420] Senate President Sherwin "Win" T. Gatchalian** (asr-001520)  
 what is the rational
 
-**[01:39:28.940] Senator Sherwin "Win" T. Gatchalian** (asr-001521)  
+**[01:39:28.940] Senate President Sherwin "Win" T. Gatchalian** (asr-001521)  
 for this increase? Is there,
 
-**[01:39:30.960] Senator Sherwin "Win" T. Gatchalian** (asr-001522)  
+**[01:39:30.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001522)  
 a plan to
 
-**[01:39:32.960] Senator Sherwin "Win" T. Gatchalian** (asr-001523)  
+**[01:39:32.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001523)  
 put more
 
-**[01:39:34.960] Senator Sherwin "Win" T. Gatchalian** (asr-001524)  
+**[01:39:34.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001524)  
 buildings or put more capacity?
 
-**[01:39:36.960] Senator Sherwin "Win" T. Gatchalian** (asr-001525)  
+**[01:39:36.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001525)  
 May I just ask this
 
-**[01:39:38.960] Senator Sherwin "Win" T. Gatchalian** (asr-001526)  
+**[01:39:38.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001526)  
 increase in capital
 
-**[01:39:40.960] Senator Sherwin "Win" T. Gatchalian** (asr-001527)  
+**[01:39:40.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001527)  
 outlay? I saw also the account actually
 
-**[01:39:42.960] Senator Sherwin "Win" T. Gatchalian** (asr-001528)  
+**[01:39:42.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001528)  
 on building and other structures.
 
 **[01:39:44.960] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001529)  
@@ -4516,13 +4516,13 @@ for any disaster that
 **[01:42:02.200] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001595)  
 might happen.
 
-**[01:42:04.200] Senator Sherwin "Win" T. Gatchalian** (asr-001596)  
+**[01:42:04.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001596)  
 We inside the compound
 
-**[01:42:06.200] Senator Sherwin "Win" T. Gatchalian** (asr-001597)  
+**[01:42:06.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001597)  
 because I know the Sandigan compound
 
-**[01:42:08.200] Senator Sherwin "Win" T. Gatchalian** (asr-001598)  
+**[01:42:08.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001598)  
 is medyo masikip na rin eh, no?
 
 **[01:42:10.200] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001599)  
@@ -4546,19 +4546,19 @@ of the total almost
 **[01:42:22.200] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001605)  
 for us to build another building.
 
-**[01:42:26.200] Senator Sherwin "Win" T. Gatchalian** (asr-001606)  
+**[01:42:26.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001606)  
 That will only replace the old building
 
-**[01:42:28.200] Senator Sherwin "Win" T. Gatchalian** (asr-001607)  
+**[01:42:28.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001607)  
 or also are we
 
-**[01:42:30.200] Senator Sherwin "Win" T. Gatchalian** (asr-001608)  
+**[01:42:30.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001608)  
 anticipating more
 
-**[01:42:32.200] Senator Sherwin "Win" T. Gatchalian** (asr-001609)  
+**[01:42:32.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001609)  
 courts for that building?
 
-**[01:42:34.200] Senator Sherwin "Win" T. Gatchalian** (asr-001610)  
+**[01:42:34.200] Senate President Sherwin "Win" T. Gatchalian** (asr-001610)  
 More divisions?
 
 **[01:42:36.200] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001611)  
@@ -4723,22 +4723,22 @@ And
 **[01:44:26.090] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001664)  
 82.48.
 
-**[01:44:30.090] Senator Sherwin "Win" T. Gatchalian** (asr-001665)  
+**[01:44:30.090] Senate President Sherwin "Win" T. Gatchalian** (asr-001665)  
 Justice,
 
-**[01:44:32.090] Senator Sherwin "Win" T. Gatchalian** (asr-001666)  
+**[01:44:32.090] Senate President Sherwin "Win" T. Gatchalian** (asr-001666)  
 nung 2021, 11 percent lang
 
 **[01:44:34.090] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001667)  
 ang conviction rate po.
 
-**[01:44:36.090] Senator Sherwin "Win" T. Gatchalian** (asr-001668)  
+**[01:44:36.090] Senate President Sherwin "Win" T. Gatchalian** (asr-001668)  
 So in other words,
 
-**[01:44:38.090] Senator Sherwin "Win" T. Gatchalian** (asr-001669)  
+**[01:44:38.090] Senate President Sherwin "Win" T. Gatchalian** (asr-001669)  
 only 1 out of 10
 
-**[01:44:40.090] Senator Sherwin "Win" T. Gatchalian** (asr-001670)  
+**[01:44:40.090] Senate President Sherwin "Win" T. Gatchalian** (asr-001670)  
 na kaso na kukonvict?
 
 **[01:44:42.090] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001671)  
@@ -4759,16 +4759,16 @@ We now have 8
 **[01:44:52.090] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001676)  
 convicted out of 10.
 
-**[01:44:54.090] Senator Sherwin "Win" T. Gatchalian** (asr-001677)  
+**[01:44:54.090] Senate President Sherwin "Win" T. Gatchalian** (asr-001677)  
 So now it's 8 out of 10?
 
 **[01:44:56.090] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001678)  
 Yes po.
 
-**[01:44:57.080] Senator Sherwin "Win" T. Gatchalian** (asr-001678-split-2)  
+**[01:44:57.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001678-split-2)  
 Dapat talaga lakihan
 
-**[01:44:58.090] Senator Sherwin "Win" T. Gatchalian** (asr-001679)  
+**[01:44:58.090] Senate President Sherwin "Win" T. Gatchalian** (asr-001679)  
 ng pondo, Chairman. Baka
 
 **[01:45:00.340] Senator Francis Kiko Pangilinan** (asr-001680)  
@@ -4888,7 +4888,7 @@ That means that in less than a year, we are already in the defense side.
 **[01:48:38.620] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001718)  
 So, that's pretty fast po.
 
-**[01:48:42.040] Senator Sherwin "Win" T. Gatchalian** (asr-001719)  
+**[01:48:42.040] Senate President Sherwin "Win" T. Gatchalian** (asr-001719)  
 How many flood control cases have been filed already to the Sandigan?
 
 **[01:48:46.700] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001720)  
@@ -4903,13 +4903,13 @@ Against senators and against…
 **[01:48:58.460] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001723)  
 Against congressmen.
 
-**[01:49:01.800] Senator Sherwin "Win" T. Gatchalian** (asr-001724)  
+**[01:49:01.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001724)  
 Out of the 26 cases, you mentioned that some of them are already in the defense stage.
 
-**[01:49:10.440] Senator Sherwin "Win" T. Gatchalian** (asr-001725)  
+**[01:49:10.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001725)  
 Ilan po ang nasa defense stage na?
 
-**[01:49:12.960] Senator Sherwin "Win" T. Gatchalian** (asr-001726)  
+**[01:49:12.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001726)  
 More or less lang.
 
 **[01:49:13.740] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001727)  
@@ -4927,10 +4927,10 @@ Well, could not be located.
 **[01:49:30.340] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001731)  
 And the other cases that had co-accused is already in that defense stage already.
 
-**[01:49:37.480] Senator Sherwin "Win" T. Gatchalian** (asr-001732)  
+**[01:49:37.480] Senate President Sherwin "Win" T. Gatchalian** (asr-001732)  
 Okay.
 
-**[01:49:38.540] Senator Sherwin "Win" T. Gatchalian** (asr-001733)  
+**[01:49:38.540] Senate President Sherwin "Win" T. Gatchalian** (asr-001733)  
 So, in other words, we'll see a resolution on that particular case quite soon?
 
 **[01:49:44.500] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001734)  
@@ -4942,94 +4942,94 @@ The year po.
 **[01:50:01.680] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001736)  
 Or acquittal within the year.
 
-**[01:50:03.860] Senator Sherwin "Win" T. Gatchalian** (asr-001737)  
+**[01:50:03.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001737)  
 Or acquittal, of course.
 
 **[01:50:08.280] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001738)  
 Well, the disposition within the year, which may be a conviction or acquittal.
 
-**[01:50:16.180] Senator Sherwin "Win" T. Gatchalian** (asr-001739)  
+**[01:50:16.180] Senate President Sherwin "Win" T. Gatchalian** (asr-001739)  
 We're not going to say what our preference is.
 
-**[01:50:22.210] Senator Sherwin "Win" T. Gatchalian** (asr-001740)  
+**[01:50:22.210] Senate President Sherwin "Win" T. Gatchalian** (asr-001740)  
 But connected to this, Justice, I actually was doing some research.
 
-**[01:50:31.870] Senator Sherwin "Win" T. Gatchalian** (asr-001741)  
+**[01:50:31.870] Senate President Sherwin "Win" T. Gatchalian** (asr-001741)  
 There's this…
 
-**[01:50:32.590] Senator Sherwin "Win" T. Gatchalian** (asr-001742)  
+**[01:50:32.590] Senate President Sherwin "Win" T. Gatchalian** (asr-001742)  
 There's this…
 
-**[01:50:33.590] Senator Sherwin "Win" T. Gatchalian** (asr-001743)  
+**[01:50:33.590] Senate President Sherwin "Win" T. Gatchalian** (asr-001743)  
 There's this…
 
-**[01:50:33.630] Senator Sherwin "Win" T. Gatchalian** (asr-001744)  
+**[01:50:33.630] Senate President Sherwin "Win" T. Gatchalian** (asr-001744)  
 There's this matrix called the Corruption Perceptions Index.
 
 **[01:50:38.390] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001745)  
 Yes, po.
 
-**[01:50:38.830] Senator Sherwin "Win" T. Gatchalian** (asr-001746)  
+**[01:50:38.830] Senate President Sherwin "Win" T. Gatchalian** (asr-001746)  
 In which, noong 2001, we're actually ranked 117, 117.
 
-**[01:50:46.350] Senator Sherwin "Win" T. Gatchalian** (asr-001747)  
+**[01:50:46.350] Senate President Sherwin "Win" T. Gatchalian** (asr-001747)  
 And in 2025, bumagsak tayo to rank 120.
 
-**[01:50:53.530] Senator Sherwin "Win" T. Gatchalian** (asr-001748)  
+**[01:50:53.530] Senate President Sherwin "Win" T. Gatchalian** (asr-001748)  
 We're only higher than Myanmar and Cambodia, which are military junta regimes.
 
-**[01:51:01.190] Senator Sherwin "Win" T. Gatchalian** (asr-001749)  
+**[01:51:01.190] Senate President Sherwin "Win" T. Gatchalian** (asr-001749)  
 So, in other words…
 
-**[01:51:03.630] Senator Sherwin "Win" T. Gatchalian** (asr-001750)  
+**[01:51:03.630] Senate President Sherwin "Win" T. Gatchalian** (asr-001750)  
 The perception of our international peers, mga kasamahan na natin sa ibang bansa, is lumalalaing corruption sa atin.
 
-**[01:51:16.390] Senator Sherwin "Win" T. Gatchalian** (asr-001751)  
+**[01:51:16.390] Senate President Sherwin "Win" T. Gatchalian** (asr-001751)  
 And that also is connected to investments in our country.
 
-**[01:51:22.090] Senator Sherwin "Win" T. Gatchalian** (asr-001752)  
+**[01:51:22.090] Senate President Sherwin "Win" T. Gatchalian** (asr-001752)  
 That's why I saw numbers in our investments.
 
-**[01:51:24.250] Senator Sherwin "Win" T. Gatchalian** (asr-001753)  
+**[01:51:24.250] Senate President Sherwin "Win" T. Gatchalian** (asr-001753)  
 It's also gone down.
 
-**[01:51:27.390] Senator Sherwin "Win" T. Gatchalian** (asr-001754)  
+**[01:51:27.390] Senate President Sherwin "Win" T. Gatchalian** (asr-001754)  
 Lately, the Business Confidence Index by local businessmen has plunged to a negative.
 
-**[01:51:32.850] Senator Sherwin "Win" T. Gatchalian** (asr-001755)  
+**[01:51:32.850] Senate President Sherwin "Win" T. Gatchalian** (asr-001755)  
 Territory, which is actually even worse than the pandemic time.
 
-**[01:51:38.330] Senator Sherwin "Win" T. Gatchalian** (asr-001756)  
+**[01:51:38.330] Senate President Sherwin "Win" T. Gatchalian** (asr-001756)  
 So, in other words, the perception of corruption, and also government addressing it, is quite low.
 
-**[01:51:45.650] Senator Sherwin "Win" T. Gatchalian** (asr-001757)  
+**[01:51:45.650] Senate President Sherwin "Win" T. Gatchalian** (asr-001757)  
 So, I just want to ask the Sandigan, how are we also addressing this perception of corruption?
 
-**[01:51:54.750] Senator Sherwin "Win" T. Gatchalian** (asr-001758)  
+**[01:51:54.750] Senate President Sherwin "Win" T. Gatchalian** (asr-001758)  
 As well as, how is the Sandigan also working with the other branches of government?
 
-**[01:52:02.690] Senator Sherwin "Win" T. Gatchalian** (asr-001759)  
+**[01:52:02.690] Senate President Sherwin "Win" T. Gatchalian** (asr-001759)  
 To improve our perception of corruption, and eventually make people accountable.
 
-**[01:52:09.050] Senator Sherwin "Win" T. Gatchalian** (asr-001760)  
+**[01:52:09.050] Senate President Sherwin "Win" T. Gatchalian** (asr-001760)  
 At the end of the day, ang gusto naman natin kung ang evident siya, claro, then let's make people accountable.
 
-**[01:52:14.930] Senator Sherwin "Win" T. Gatchalian** (asr-001761)  
+**[01:52:14.930] Senate President Sherwin "Win" T. Gatchalian** (asr-001761)  
 So, and like I said, the executive, legislative, and judiciary, in the eyes of our kababayan, isa lang yan eh.
 
-**[01:52:22.850] Senator Sherwin "Win" T. Gatchalian** (asr-001762)  
+**[01:52:22.850] Senate President Sherwin "Win" T. Gatchalian** (asr-001762)  
 One government lang.
 
-**[01:52:24.210] Senator Sherwin "Win" T. Gatchalian** (asr-001763)  
+**[01:52:24.210] Senate President Sherwin "Win" T. Gatchalian** (asr-001763)  
 So, we want to ask, and right now is a crucial time because of the corruption issue.
 
-**[01:52:28.770] Senator Sherwin "Win" T. Gatchalian** (asr-001764)  
+**[01:52:28.770] Senate President Sherwin "Win" T. Gatchalian** (asr-001764)  
 So, I want to ask the Sandigan.
 
-**[01:52:31.170] Senator Sherwin "Win" T. Gatchalian** (asr-001765)  
+**[01:52:31.170] Senate President Sherwin "Win" T. Gatchalian** (asr-001765)  
 How are we?
 
-**[01:52:32.690] Senator Sherwin "Win" T. Gatchalian** (asr-001766)  
+**[01:52:32.690] Senate President Sherwin "Win" T. Gatchalian** (asr-001766)  
 In your internal management discussion, what are the mechanisms that you are employing to improve the perception of corruption in our country?
 
 **[01:52:49.310] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001767)  
@@ -5125,19 +5125,19 @@ And that's why I can assure you, Mr. President, Senate President,
 **[01:56:10.420] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001799)  
 that we are disposing of our cases at the earliest possible time.
 
-**[01:56:19.500] Senator Sherwin "Win" T. Gatchalian** (asr-001800)  
+**[01:56:19.500] Senate President Sherwin "Win" T. Gatchalian** (asr-001800)  
 Thank you. Thank you for those explanations, Justice.
 
-**[01:56:21.980] Senator Sherwin "Win" T. Gatchalian** (asr-001801)  
+**[01:56:21.980] Senate President Sherwin "Win" T. Gatchalian** (asr-001801)  
 And rest assured that we are one in our objective of making people accountable.
 
-**[01:56:30.160] Senator Sherwin "Win" T. Gatchalian** (asr-001802)  
+**[01:56:30.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001802)  
 In fact, that's why I said earlier na meron kaming masusuportahan para bumilis
 
-**[01:56:39.780] Senator Sherwin "Win" T. Gatchalian** (asr-001803)  
+**[01:56:39.780] Senate President Sherwin "Win" T. Gatchalian** (asr-001803)  
 at lalong mapanagot natin yung dapat mapanagot.
 
-**[01:56:43.740] Senator Sherwin "Win" T. Gatchalian** (asr-001804)  
+**[01:56:43.740] Senate President Sherwin "Win" T. Gatchalian** (asr-001804)  
 Yun ang dapat natin gawin in our own way during the budget deliberations.
 
 **[01:56:48.980] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001805)  
@@ -5155,31 +5155,31 @@ At the end of the day, the measure of the people on the performance of the justi
 **[01:57:14.140] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001809)  
 and the court itself is our disposal of cases at the soonest possible time.
 
-**[01:57:21.080] Senator Sherwin "Win" T. Gatchalian** (asr-001810)  
+**[01:57:21.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001810)  
 Thank you for that. And sana mag tuloy-tuloy na itong 82% conviction rate.
 
-**[01:57:27.280] Senator Sherwin "Win" T. Gatchalian** (asr-001811)  
+**[01:57:27.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001811)  
 Thank you.
 
-**[01:57:28.300] Senator Sherwin "Win" T. Gatchalian** (asr-001812)  
+**[01:57:28.300] Senate President Sherwin "Win" T. Gatchalian** (asr-001812)  
 Thank you.
 
-**[01:57:28.400] Senator Sherwin "Win" T. Gatchalian** (asr-001813)  
+**[01:57:28.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001813)  
 Thank you.
 
-**[01:57:30.160] Senator Sherwin "Win" T. Gatchalian** (asr-001814)  
+**[01:57:30.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001814)  
 Ang pangarap ni Sen. Pangilinan eh, in many of his speeches.
 
 **[01:57:38.140] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001815)  
 When the evidence points to that, po.
 
-**[01:57:40.960] Senator Sherwin "Win" T. Gatchalian** (asr-001816)  
+**[01:57:40.960] Senate President Sherwin "Win" T. Gatchalian** (asr-001816)  
 Yes.
 
-**[01:57:42.220] Senator Sherwin "Win" T. Gatchalian** (asr-001817)  
+**[01:57:42.220] Senate President Sherwin "Win" T. Gatchalian** (asr-001817)  
 Mabalik lang ako sa admin matters, Justice.
 
-**[01:57:45.140] Senator Sherwin "Win" T. Gatchalian** (asr-001818)  
+**[01:57:45.140] Senate President Sherwin "Win" T. Gatchalian** (asr-001818)  
 Yes, go ahead.
 
 **[01:57:47.100] Senator Francis Kiko Pangilinan** (asr-001819)  
@@ -5203,10 +5203,10 @@ So you can see, you know, we, well, at least with the 82% were somehow on track 
 **[01:58:28.060] Senator Francis Kiko Pangilinan** (asr-001825)  
 So I just wanted to put that on record.
 
-**[01:58:30.160] Senator Sherwin "Win" T. Gatchalian** (asr-001826)  
+**[01:58:30.160] Senate President Sherwin "Win" T. Gatchalian** (asr-001826)  
 Sir, very important information.
 
-**[01:58:31.860] Senator Sherwin "Win" T. Gatchalian** (asr-001827)  
+**[01:58:31.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001827)  
 At least we're now at the level of our developed country peers in the region at 80%.
 
 **[01:58:39.320] Senator Francis Kiko Pangilinan** (asr-001828)  
@@ -5233,25 +5233,25 @@ So boom about, you know, so we will wait for the end of the year to find out if 
 **[01:59:20.540] Senator Francis Kiko Pangilinan** (asr-001835)  
 Just on that.
 
-**[01:59:22.000] Senator Sherwin "Win" T. Gatchalian** (asr-001836)  
+**[01:59:22.000] Senate President Sherwin "Win" T. Gatchalian** (asr-001836)  
 Thank you, Mr. Chairman.
 
-**[01:59:22.920] Senator Sherwin "Win" T. Gatchalian** (asr-001837)  
+**[01:59:22.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001837)  
 I'll just, balik lang ako, Justice, doon sa some admin matters.
 
-**[01:59:27.920] Senator Sherwin "Win" T. Gatchalian** (asr-001838)  
+**[01:59:27.920] Senate President Sherwin "Win" T. Gatchalian** (asr-001838)  
 You mentioned earlier that the two courts.
 
-**[01:59:29.620] Senator Sherwin "Win" T. Gatchalian** (asr-001839)  
+**[01:59:29.620] Senate President Sherwin "Win" T. Gatchalian** (asr-001839)  
 Simda dalawang bagong divisions, nagsishare sila sa ibang divisions.
 
-**[01:59:35.360] Senator Sherwin "Win" T. Gatchalian** (asr-001840)  
+**[01:59:35.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001840)  
 So obviously that's a bottleneck.
 
-**[01:59:39.280] Senator Sherwin "Win" T. Gatchalian** (asr-001841)  
+**[01:59:39.280] Senate President Sherwin "Win" T. Gatchalian** (asr-001841)  
 If all the divisions can have their own sala or their own facility, then they can hear cases all at the same time.
 
-**[01:59:50.020] Senator Sherwin "Win" T. Gatchalian** (asr-001842)  
+**[01:59:50.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001842)  
 Will this new facility give them their own sala?
 
 **[01:59:55.420] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001843)  
@@ -5269,49 +5269,49 @@ hearing room.
 **[02:00:01.560] Sandiganbayan Presiding Justice Geraldine Faith Econg** (asr-001847)  
 We have seven. Yes, po.
 
-**[02:00:03.100] Senator Sherwin "Win" T. Gatchalian** (asr-001848)  
+**[02:00:03.100] Senate President Sherwin "Win" T. Gatchalian** (asr-001848)  
 Seven sala? Courtrooms.
 
-**[02:00:05.380] Senator Sherwin "Win" T. Gatchalian** (asr-001849)  
+**[02:00:05.380] Senate President Sherwin "Win" T. Gatchalian** (asr-001849)  
 Courtrooms. Alright. Thank you
 
-**[02:00:07.380] Senator Sherwin "Win" T. Gatchalian** (asr-001850)  
+**[02:00:07.380] Senate President Sherwin "Win" T. Gatchalian** (asr-001850)  
 Justice and rest assured we'll
 
-**[02:00:09.660] Senator Sherwin "Win" T. Gatchalian** (asr-001851)  
+**[02:00:09.660] Senate President Sherwin "Win" T. Gatchalian** (asr-001851)  
 support you on those
 
-**[02:00:11.400] Senator Sherwin "Win" T. Gatchalian** (asr-001852)  
+**[02:00:11.400] Senate President Sherwin "Win" T. Gatchalian** (asr-001852)  
 requirements. Like I said,
 
-**[02:00:14.800] Senator Sherwin "Win" T. Gatchalian** (asr-001853)  
+**[02:00:14.800] Senate President Sherwin "Win" T. Gatchalian** (asr-001853)  
 kung ano yung pwede namin
 
-**[02:00:15.840] Senator Sherwin "Win" T. Gatchalian** (asr-001854)  
+**[02:00:15.840] Senate President Sherwin "Win" T. Gatchalian** (asr-001854)  
 maitulong para bumilis yung
 
-**[02:00:18.060] Senator Sherwin "Win" T. Gatchalian** (asr-001855)  
+**[02:00:18.060] Senate President Sherwin "Win" T. Gatchalian** (asr-001855)  
 dispensation ng kaso,
 
-**[02:00:20.440] Senator Sherwin "Win" T. Gatchalian** (asr-001856)  
+**[02:00:20.440] Senate President Sherwin "Win" T. Gatchalian** (asr-001856)  
 eh tutulong ho kami.
 
-**[02:00:22.360] Senator Sherwin "Win" T. Gatchalian** (asr-001857)  
+**[02:00:22.360] Senate President Sherwin "Win" T. Gatchalian** (asr-001857)  
 And kung kailangan po magpatayo
 
-**[02:00:24.020] Senator Sherwin "Win" T. Gatchalian** (asr-001858)  
+**[02:00:24.020] Senate President Sherwin "Win" T. Gatchalian** (asr-001858)  
 ng building para magkaroon po ng
 
-**[02:00:25.700] Senator Sherwin "Win" T. Gatchalian** (asr-001859)  
+**[02:00:25.700] Senate President Sherwin "Win" T. Gatchalian** (asr-001859)  
 courtroom sabay-sabay at
 
-**[02:00:27.860] Senator Sherwin "Win" T. Gatchalian** (asr-001860)  
+**[02:00:27.860] Senate President Sherwin "Win" T. Gatchalian** (asr-001860)  
 magkaroon ng hearing sabay-sabay, tutulong
 
-**[02:00:30.080] Senator Sherwin "Win" T. Gatchalian** (asr-001861)  
+**[02:00:30.080] Senate President Sherwin "Win" T. Gatchalian** (asr-001861)  
 ho rin ho kami. Thank you. Maraming salamat po
 
-**[02:00:31.880] Senator Sherwin "Win" T. Gatchalian** (asr-001862)  
+**[02:00:31.880] Senate President Sherwin "Win" T. Gatchalian** (asr-001862)  
 Justice. Thank you Mr. Chairman.
 
 **[02:00:33.660] Senator Francis Kiko Pangilinan** (asr-001863)  

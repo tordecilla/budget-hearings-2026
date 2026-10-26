@@ -156,7 +156,7 @@ Villanueva invited Senator Erwin Tulfo to give opening remarks. Tulfo declined, 
 
 [00:15:18 · asr-000064](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000064) · [00:15:36 · asr-000073](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000073) · [00:15:55 · asr-000083](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000083) · [00:16:06 · asr-000088](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-000088)
 
-## Senator Erwin Tulfo
+## Senator Erwin T. Tulfo
 
 ### Scholarship costs and skills passport review
 
@@ -206,7 +206,7 @@ Villanueva asked about submitting the Philippines Updated ASEAN Qualifications R
 
 [03:12:15 · asr-003567](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003567) · [03:12:26 · asr-003568](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003568) · [03:12:53 · asr-003577](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003577) · [03:13:01 · asr-003578](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003578) · [03:13:19 · asr-003586](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003586) · [03:13:23 · asr-003587](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003587) · [03:13:43 · asr-003590](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003590) · [03:13:54 · asr-003591](https://tordecilla.github.io/budget-hearings-2026/records/64/#asr-003591)
 
-## Senator Sherwin "Win" T. Gatchalian
+## Senate President Sherwin "Win" T. Gatchalian
 
 ### AI disruption, workforce preparation, and BPO skills
 
