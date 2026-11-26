@@ -567,10 +567,11 @@ h2 { letter-spacing: -.025em; }
 .editing .turn-controls label, .editing .turn-controls .cancel-edit, .editing .turn-controls .save { display: grid; }
 .editing .turn-controls .save { display: block; }
 .editing .turn-controls .cancel-edit { display: block; }
-.editing .edit-turn, .editing .check-turn { display: none; }
+.editing .edit-turn, .editing .check-turn, .editing .delete-turn { display: none; }
 .editing .turn-controls { flex-wrap: wrap; padding: 14px; border: 1px solid #c4cfda; background: #f4f7fb; }
-.edit-turn, .split-turn, .check-turn { padding: 6px 0; background: transparent; color: var(--ph-blue); font-size: 9px; }
-.edit-turn:hover, .split-turn:hover, .check-turn:hover { text-decoration: underline; }
+.edit-turn, .split-turn, .check-turn, .delete-turn { padding: 6px 0; background: transparent; color: var(--ph-blue); font-size: 9px; }
+.edit-turn:hover, .split-turn:hover, .check-turn:hover, .delete-turn:hover { text-decoration: underline; }
+.delete-turn { color: var(--ph-red); }
 .split-turn { display: none; margin-right: auto; }
 .editing .split-turn, .split-turn.split-priority { display: inline-block; }
 .split-turn.split-priority { padding: 7px 10px; border: 1px solid var(--ph-red); color: var(--ph-red); }

@@ -473,6 +473,7 @@ function bindTurnForm(form) {
   boundTurnForms.add(form);
   const save = form.querySelector('.save');
   const check = form.querySelector('[data-check-turn]');
+  const remove = form.querySelector('[data-delete-turn]');
   const editor = form.querySelector('[data-transcript-editor]');
   const value = form.querySelector('[data-transcript-value]');
   const edit = form.querySelector('[data-edit-turn]');
@@ -541,20 +542,23 @@ function bindTurnForm(form) {
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
     const checking = event.submitter === check;
-    const submittedText = checking ? originalText : submittedEditorText();
+    const excluding = event.submitter === remove;
+    const exactStateAction = checking || excluding;
+    const submittedText = exactStateAction ? originalText : submittedEditorText();
     if (value) value.value = submittedText;
     refreshSaveState();
-    if (!checking && save?.disabled) return;
-    if (check?.disabled) return;
+    if (!exactStateAction && save?.disabled) return;
+    if (check?.disabled || remove?.disabled) return;
     if (check) check.disabled = true;
+    if (remove) remove.disabled = true;
     save.disabled = true;
     setStatus('Savingâ€¦', 'pending');
     try {
       const formData = new FormData(form);
       formData.set('text', submittedText);
-      formData.set('speaker', checking ? originalSpeaker : (speaker?.value || ''));
-      if (checking) {
-        formData.set('action', 'check');
+      formData.set('speaker', exactStateAction ? originalSpeaker : (speaker?.value || ''));
+      if (exactStateAction) {
+        formData.set('action', excluding ? 'exclude' : 'check');
         formData.set('start_seconds', form.closest('.turn').dataset.start);
         formData.set('end_seconds', form.closest('.turn').dataset.end);
       }
@@ -565,6 +569,17 @@ function bindTurnForm(form) {
       });
       const payload = await response.json().catch(() => ({}));
       if (!response.ok || !payload.ok) throw new Error(payload.error || `Save failed (${response.status})`);
+      if (excluding) {
+        const turn = form.closest('.turn');
+        const previous = turn.previousElementSibling;
+        turn.remove();
+        turns = turns.filter((item) => item !== turn);
+        updateTranscriptFind();
+        refreshReviewNavigation(previous);
+        const allCount = document.querySelector('[data-filter="all"] b');
+        if (allCount) allCount.textContent = turns.length;
+        return;
+      }
       originalText = payload.text ?? value.value;
       originalSpeaker = payload.speaker ?? '';
       value.value = originalText;
@@ -602,6 +617,7 @@ function bindTurnForm(form) {
       refreshSaveState();
     } finally {
       if (check) check.disabled = false;
+      if (remove) remove.disabled = false;
     }
   });
 
