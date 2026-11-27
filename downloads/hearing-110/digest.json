@@ -1,0 +1,2207 @@
+{
+  "hearing": {
+    "hearing_id": 110,
+    "title": "Senate Plenary: FY 2027 General Appropriations Bill - November 26, 2026",
+    "hearing_date": "2026-11-26",
+    "official_url": "https://www.youtube.com/watch?v=luEyzUVdYrs"
+  },
+  "digest_url": "https://tordecilla.github.io/budget-hearings-2026/digests/h110/",
+  "notice": "AI-assisted working draft. AI can make errors. Always verify consequential interpretations and wording against the cited transcript and official video.",
+  "at_a_glance": [
+    {
+      "label": "Opening agencies",
+      "text": "The Office of the Vice President received parliamentary courtesy without questions. Commission on Audit exchanges covered its digitalization request and budget utilization; Commission on Human Rights exchanges covered abortion-policy positions and historical central-office construction.",
+      "citations": []
+    },
+    {
+      "label": "Transportation and local development",
+      "text": "Transport exchanges covered rail-funding restorations, remaining project cuts, delayed airport funding releases, fuel subsidies, and tourism access. Zamboanga City's special economic zone allocation was retained by the House and Senate committee.",
+      "citations": []
+    },
+    {
+      "label": "Interior, housing, and environment",
+      "text": "Interior discussions covered emergency response, tourist police, and domestic procurement. Housing additions and two Bukidnon projects were discussed. The environment sponsor sought stronger water-security funding; The Laguna Lake Development Authority was deferred while the other listed environment budgets were deemed submitted.",
+      "citations": []
+    },
+    {
+      "label": "Sports and closing",
+      "text": "Sports exchanges covered athlete allowances, grassroots access, facilities, and equal incentives. The sponsor promised plans and reports, while senators challenged the handling of suspected game-fixing and advance notice of drug tests.",
+      "citations": []
+    }
+  ],
+  "method_note": "Figures retain their stated basis: National Expenditure Program (NEP), Senate committee recommendation, funding proposal, or historical account. Original agency-request totals were not stated in this session. Use the citations to read the complete exchanges and verify them against the official video.",
+  "sections": [
+    {
+      "key": "budget-summary",
+      "label": "Agency budget proposals and committee recommendations",
+      "items": [
+        {
+          "label": "Office of the Vice President",
+          "text": "P785,240,000 in proposed FY2027 budget for the Office of the Vice President (OVP). Parliamentary courtesy was extended without questions; the budget was deemed considered without objection.",
+          "citations": [
+            {
+              "stable_id": "asr-000044",
+              "start_seconds": 968.8199999999999,
+              "clock": "00:16:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000044"
+            },
+            {
+              "stable_id": "asr-000046",
+              "start_seconds": 987.44,
+              "clock": "00:16:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000046"
+            },
+            {
+              "stable_id": "asr-000049",
+              "start_seconds": 1003.16,
+              "clock": "00:16:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000049"
+            }
+          ]
+        },
+        {
+          "label": "Commission on Audit",
+          "text": "P14,992,000,000 in FY2027 Senate committee-recommended new appropriations for the Commission on Audit (COA).",
+          "citations": [
+            {
+              "stable_id": "asr-000065",
+              "start_seconds": 1336.1599999999999,
+              "clock": "00:22:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000065"
+            }
+          ]
+        },
+        {
+          "label": "Commission on Human Rights",
+          "text": "P1,285,963,000 in recommended new appropriations for the proposed FY2027 Commission on Human Rights (CHR) budget.",
+          "citations": [
+            {
+              "stable_id": "asr-000224",
+              "start_seconds": 2079.94,
+              "clock": "00:34:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000224"
+            }
+          ]
+        },
+        {
+          "label": "Department of Transportation and attached agencies/corporations",
+          "text": "P295,797,082,000 in Senate committee-recommended FY2027 new appropriations for the Department of Transportation (DOTr), attached agencies, and attached corporations. The stated components were P294,568,744,000 for the Department and attached agencies, plus P1,228,338,000 for attached corporations.",
+          "citations": [
+            {
+              "stable_id": "asr-000512-split-3",
+              "start_seconds": 3134.04,
+              "clock": "00:52:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000512-split-3"
+            },
+            {
+              "stable_id": "asr-000513",
+              "start_seconds": 3148.7,
+              "clock": "00:52:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000513"
+            }
+          ]
+        },
+        {
+          "label": "Zamboanga City Special Economic Zone Authority",
+          "text": "P375,455,000 in FY2027 budgetary support for the Zamboanga City Special Economic Zone Authority, expressly identified as the Executive National Expenditure Program (NEP) amount. The House and Senate versions retained it; the sponsor stated it was P20,804,000 above the approved FY2026 allocation.",
+          "citations": [
+            {
+              "stable_id": "asr-002696",
+              "start_seconds": 9943.98,
+              "clock": "02:45:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002696"
+            },
+            {
+              "stable_id": "asr-002697",
+              "start_seconds": 9951.16,
+              "clock": "02:45:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002697"
+            },
+            {
+              "stable_id": "asr-002698",
+              "start_seconds": 9954.48,
+              "clock": "02:45:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002698"
+            },
+            {
+              "stable_id": "asr-002699",
+              "start_seconds": 9960.86,
+              "clock": "02:46:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002699"
+            },
+            {
+              "stable_id": "asr-002700",
+              "start_seconds": 9964.5,
+              "clock": "02:46:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002700"
+            }
+          ]
+        },
+        {
+          "label": "Department of the Interior and Local Government and attached agencies",
+          "text": "P334,903,393,000 in proposed FY2027 budget for the Department of the Interior and Local Government (DILG) and attached agencies.",
+          "citations": [
+            {
+              "stable_id": "asr-002752",
+              "start_seconds": 10462.48,
+              "clock": "02:54:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002752"
+            }
+          ]
+        },
+        {
+          "label": "Department of Human Settlements and Urban Development and attached housing agencies",
+          "text": "P6,401,681,000 in recommended FY2027 new appropriations for the Department of Human Settlements and Urban Development (DHSUD) and its attached agencies and corporations.",
+          "citations": [
+            {
+              "stable_id": "asr-003058-split-3",
+              "start_seconds": 11798.42,
+              "clock": "03:16:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003058-split-3"
+            }
+          ]
+        },
+        {
+          "label": "Department of Environment and Natural Resources; Laguna Lake Development Authority deferred",
+          "text": "P28,410,000,000 in proposed FY2027 budget for the Department of Environment and Natural Resources (DENR) and attached agencies. The Laguna Lake Development Authority (LLDA) budget was deferred for the next day; the other listed DENR budgets were deemed submitted.",
+          "citations": [
+            {
+              "stable_id": "asr-003205",
+              "start_seconds": 14930.32,
+              "clock": "04:08:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003205"
+            },
+            {
+              "stable_id": "asr-003418",
+              "start_seconds": 15385.58,
+              "clock": "04:16:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003418"
+            },
+            {
+              "stable_id": "asr-003423",
+              "start_seconds": 15395.12,
+              "clock": "04:16:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003423"
+            }
+          ]
+        },
+        {
+          "label": "Philippine Sports Commission and Games and Amusements Board (joint take-up)",
+          "text": "P1,891,444,000 in new appropriations for the Philippine Sports Commission (PSC) and P157,230,000 for the Games and Amusements Board (GAB) were presented in the FY2027 Senate committee report. The GAB amount had no increase.",
+          "citations": [
+            {
+              "stable_id": "asr-003623",
+              "start_seconds": 20615.12,
+              "clock": "05:43:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003623"
+            },
+            {
+              "stable_id": "asr-003629",
+              "start_seconds": 20648.14,
+              "clock": "05:44:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003629"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-commission-on-audit",
+      "label": "Commission on Audit budget",
+      "items": [
+        {
+          "label": "Commission on Audit proposed 2027 budget",
+          "text": "For FY2027, the Commission on Audit (COA) Senate committee report added about P15.802 million for each national-government auditing subprogram and its special-audit subprogram. Finance Committee Chair Senator Joseph Victor \"JV\" G. Ejercito said the increases would support COA in safeguarding public funds.",
+          "citations": [
+            {
+              "stable_id": "asr-000066",
+              "start_seconds": 1347.44,
+              "clock": "00:22:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000066"
+            }
+          ]
+        },
+        {
+          "label": "FY2027 digitalization and computerization proposal",
+          "text": "The Commission on Audit (COA) proposed P739,090,680 for FY2027 digitalization and computerization, including information and communication technology equipment and software subscriptions. Senator Panfilo \"Ping\" M. Lacson asked for details of the digitalization and AI-assisted auditing and fraud-detection plans, recalling his promise to help find funds. Finance Committee Chair Senator Joseph Victor \"JV\" G. Ejercito cited the COA chair's letter transmitting the proposed schedule. Lacson said his copy lacked attachments and that he needed the breakdown to persuade the Finance Committee to source funds from other agencies for realignment. Ejercito promised to provide the details later. The figure was a program proposal, with any augmentation still to be pursued.",
+          "citations": [
+            {
+              "stable_id": "asr-000070",
+              "start_seconds": 1386.32,
+              "clock": "00:23:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000070"
+            },
+            {
+              "stable_id": "asr-000076",
+              "start_seconds": 1437.44,
+              "clock": "00:23:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000076"
+            },
+            {
+              "stable_id": "asr-000079",
+              "start_seconds": 1474.7600000000002,
+              "clock": "00:24:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000079"
+            },
+            {
+              "stable_id": "asr-000087",
+              "start_seconds": 1527.44,
+              "clock": "00:25:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000087"
+            }
+          ]
+        },
+        {
+          "label": "Implementation timeline, unobligated funds, and possible amendment",
+          "text": "Lacson asked how quickly COA could implement the amendment he was considering and asked for its 2025-2026 unused balances, separating unreleased funds from released but unobligated funds. Ejercito said the digitalization program would take about four years overall; its initial phase was expected to take about two years, with later phases and training extending completion to roughly four years and requiring appropriations in future fiscal years. Asked about balances, Ejercito said that as of October P82,533,000 remained unobligated. He then put unreleased funds at about P82 million and said 5.2% was unobligated. Lacson asked whether the unreleased and unobligated funds, together with COA's absorption capacity, justified seeking more. Ejercito clarified that the P82 million he had mentioned was for infrastructure for COA's building; when asked whether the ICT-related funds were obligated, he answered yes. Lacson said he was looking for a source and would try to introduce an amendment at the proper time, while cautioning that he could not promise the collegial body would accept it. No amendment amount was stated and no amendment was moved or adopted in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-000090",
+              "start_seconds": 1549.0,
+              "clock": "00:25:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000090"
+            },
+            {
+              "stable_id": "asr-000103",
+              "start_seconds": 1586.2,
+              "clock": "00:26:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000103"
+            },
+            {
+              "stable_id": "asr-000156",
+              "start_seconds": 1697.2400000000002,
+              "clock": "00:28:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000156"
+            },
+            {
+              "stable_id": "asr-000170",
+              "start_seconds": 1748.52,
+              "clock": "00:29:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000170"
+            },
+            {
+              "stable_id": "asr-000171",
+              "start_seconds": 1751.8000000000002,
+              "clock": "00:29:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000171"
+            },
+            {
+              "stable_id": "asr-000173",
+              "start_seconds": 1754.94,
+              "clock": "00:29:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000173"
+            },
+            {
+              "stable_id": "asr-000174",
+              "start_seconds": 1761.88,
+              "clock": "00:29:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000174"
+            },
+            {
+              "stable_id": "asr-000181",
+              "start_seconds": 1772.64,
+              "clock": "00:29:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000181"
+            },
+            {
+              "stable_id": "asr-000190",
+              "start_seconds": 1792.0,
+              "clock": "00:29:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000190"
+            },
+            {
+              "stable_id": "asr-000193",
+              "start_seconds": 1796.96,
+              "clock": "00:29:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000193"
+            },
+            {
+              "stable_id": "asr-000196",
+              "start_seconds": 1812.2,
+              "clock": "00:30:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000196"
+            },
+            {
+              "stable_id": "asr-000199",
+              "start_seconds": 1824.98,
+              "clock": "00:30:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000199"
+            }
+          ]
+        },
+        {
+          "label": "COA disposition",
+          "text": "Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri moved to deem the Commission on Audit (COA) budget submitted after no further members sought to interpellate. Senate President Sherwin \"Win\" T. Gatchalian declared it deemed submitted without objection.",
+          "citations": [
+            {
+              "stable_id": "asr-000208",
+              "start_seconds": 1858.98,
+              "clock": "00:30:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000208"
+            },
+            {
+              "stable_id": "asr-000209",
+              "start_seconds": 1861.68,
+              "clock": "00:31:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000209"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-commission-on-human-rights",
+      "label": "Commission on Human Rights budget",
+      "items": [
+        {
+          "label": "Support for the Commission on Human Rights budget",
+          "text": "After hearing the Commission on Human Rights (CHR) position, Senator Vicente C. Sotto III said he had no further questions, had no problem with the Commission's budget, and fully supported its submission.",
+          "citations": [
+            {
+              "stable_id": "asr-000284",
+              "start_seconds": 2237.02,
+              "clock": "00:37:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000284"
+            },
+            {
+              "stable_id": "asr-000288",
+              "start_seconds": 2240.5,
+              "clock": "00:37:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000288"
+            }
+          ]
+        },
+        {
+          "label": "CHR budget support",
+          "text": "Senator Juan Miguel \"Migz\" F. Zubiri supported the Commission on Human Rights (CHR) budget and whatever augmentation it would need to carry out its mandate. His statement expressed support without a quantified increase.",
+          "citations": [
+            {
+              "stable_id": "asr-000376",
+              "start_seconds": 2344.46,
+              "clock": "00:39:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000376"
+            },
+            {
+              "stable_id": "asr-000378",
+              "start_seconds": 2346.16,
+              "clock": "00:39:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000378"
+            }
+          ]
+        },
+        {
+          "label": "Oversight of prior central office construction augmentation",
+          "text": "Senator Panfilo \"Ping\" M. Lacson recalled that, while sponsoring the Commission on Human Rights (CHR) budget during Chito Gascon's chairmanship, he had augmented an unspecified amount for construction or rehabilitation of CHR's central office. He asked whether the funds had been fully obligated. Finance Committee Chair Senator Joseph Victor \"JV\" G. Ejercito reported that CHR had completed the five-story building, now named the Chito Gascon Building. Lacson asked whether it was fully implemented and Ejercito confirmed. Lacson then asked whether the prior augmentation also included the land purchase, recalling that he had augmented funds in 2019. Ejercito said the site was in the University of the Philippines vicinity and clarified that the augmentation under discussion was for building construction. Lacson corrected his reference to the relevant budget year as 2021.",
+          "citations": [
+            {
+              "stable_id": "asr-000409",
+              "start_seconds": 2388.88,
+              "clock": "00:39:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000409"
+            },
+            {
+              "stable_id": "asr-000459",
+              "start_seconds": 2457.3,
+              "clock": "00:40:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000459"
+            },
+            {
+              "stable_id": "asr-000467",
+              "start_seconds": 2475.52,
+              "clock": "00:41:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000467"
+            },
+            {
+              "stable_id": "asr-000474",
+              "start_seconds": 2489.44,
+              "clock": "00:41:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000474"
+            }
+          ]
+        },
+        {
+          "label": "CHR disposition",
+          "text": "With no further interpellation on the Commission on Human Rights (CHR) budget, Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri moved to deem it submitted. Senate President Sherwin \"Win\" T. Gatchalian declared the budget deemed submitted without objection.",
+          "citations": [
+            {
+              "stable_id": "asr-000481",
+              "start_seconds": 2503.1,
+              "clock": "00:41:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000481"
+            },
+            {
+              "stable_id": "asr-000483",
+              "start_seconds": 2507.42,
+              "clock": "00:41:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000483"
+            },
+            {
+              "stable_id": "asr-000485",
+              "start_seconds": 2511.34,
+              "clock": "00:41:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000485"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-transportation-and-attached-agencies-corporati",
+      "label": "Department of Transportation and attached agencies/corporations budget",
+      "items": [
+        {
+          "label": "Foreign-assisted rail project restorations",
+          "text": "FY2027 Senate committee restorations for the Department of Transportation (DOTr) included P19.7 billion for the Metro Manila Subway, covering loan proceeds and the government counterpart, and P15 billion in loan proceeds for the North-South Commuter Railway. Sponsor Senator Joseph Victor \"JV\" G. Ejercito said these restored the projects' National Expenditure Program (NEP) levels. He said the funding would support timely implementation and completion, honor commitments to international development partners, and avoid additional commitment fees and other costs from delays.",
+          "citations": [
+            {
+              "stable_id": "asr-000514",
+              "start_seconds": 3181.32,
+              "clock": "00:53:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000514"
+            },
+            {
+              "stable_id": "asr-000515",
+              "start_seconds": 3212.9,
+              "clock": "00:53:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000515"
+            }
+          ]
+        },
+        {
+          "label": "Other transportation funding increases",
+          "text": "Ejercito also said the Senate committee report increased funding for the Active Transport Bike Share System and Safe Pathways Program and the National Capital Region (NCR) busway, and provided additional funding to improve and upgrade airports across the country for regional connectivity, economic development, and safer, more reliable air travel.",
+          "citations": [
+            {
+              "stable_id": "asr-000515",
+              "start_seconds": 3212.9,
+              "clock": "00:53:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000515"
+            },
+            {
+              "stable_id": "asr-000516",
+              "start_seconds": 3242.12,
+              "clock": "00:54:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000516"
+            }
+          ]
+        },
+        {
+          "label": "Tourist-airport funding and runway expansion",
+          "text": "Discussing the Department of Transportation and attached agencies/corporations (DOTr) budget, Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri said he did not see runway-extension funding for Siquijor, Busuanga, Coron, or El Nido and asked where fiscal space could be found while protecting foreign-assisted projects. DOTr budget sponsor Senator Joseph Victor \"JV\" G. Ejercito said the Senate had consistently allotted funds for airport improvements and would pursue runway lengthening. He said Siargao would require reclamation and that Bukidnon could accommodate A320 aircraft by the following year. After Zubiri objected to waiting for that transition, Ejercito clarified that Bukidnon would have jet service immediately. Ejercito added that the Civil Aviation Authority of the Philippines (CAAP) had its own funds and was working with DOTr on airport improvements if runway work was not included in the department budget.",
+          "citations": [
+            {
+              "stable_id": "asr-000836",
+              "start_seconds": 3920.28,
+              "clock": "01:05:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000836"
+            },
+            {
+              "stable_id": "asr-000845",
+              "start_seconds": 3938.84,
+              "clock": "01:05:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000845"
+            },
+            {
+              "stable_id": "asr-000803",
+              "start_seconds": 3858.0,
+              "clock": "01:04:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000803"
+            },
+            {
+              "stable_id": "asr-001092",
+              "start_seconds": 4375.86,
+              "clock": "01:12:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001092"
+            }
+          ]
+        },
+        {
+          "label": "Coast Guard aircraft, search-and-rescue proposal, and Senate addition",
+          "text": "Senator Vicente C. Sotto III asked whether the Philippine Coast Guard had a search-and-rescue aircraft. Budget sponsor Senator Joseph Victor \"JV\" G. Ejercito said it operated three Islander turboprops and two helicopters, and expected delivery the following year of three King Air aircraft for search and rescue. He estimated the King Airs at about $15 million each without equipment; Sotto confirmed the three-aircraft total as $45 million U.S. dollars. Ejercito later said, citing the Coast Guard Commandant, that the three King Airs were U.S. military aid and the Philippines had spent no funds on them.\n\nSotto urged the Department of Transportation (DOTr) to revisit an unnamed Bombardier search-and-rescue aircraft he had seen demonstrated earlier. He described it as able to land on water and land, fight fires, and carry an ambulance and mini-hospital, and said it might cost a little more than one King Air but less than the three together. He asked the Transportation Secretary to look into it. Ejercito said Transportation Secretary Dizon would study a Bombardier type for possible future search-and-rescue purchase and speak with the Canadian Ambassador; he said the particular aircraft discussed was no longer in production and officials would look for a newer model. Sotto reiterated the suggestion and expressed support for the Department's budget. Ejercito then said the Senate committee had added budget for one Coast Guard trainer helicopter for its pilots. No amount was stated for that addition or for the proposed Bombardier aircraft.",
+          "citations": [
+            {
+              "stable_id": "asr-001168",
+              "start_seconds": 4464.8,
+              "clock": "01:14:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001168"
+            },
+            {
+              "stable_id": "asr-001197",
+              "start_seconds": 4504.04,
+              "clock": "01:15:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001197"
+            },
+            {
+              "stable_id": "asr-001214",
+              "start_seconds": 4551.68,
+              "clock": "01:15:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001214"
+            },
+            {
+              "stable_id": "asr-001215",
+              "start_seconds": 4553.4,
+              "clock": "01:15:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001215"
+            },
+            {
+              "stable_id": "asr-001220",
+              "start_seconds": 4562.52,
+              "clock": "01:16:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001220"
+            },
+            {
+              "stable_id": "asr-001221",
+              "start_seconds": 4564.3,
+              "clock": "01:16:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001221"
+            },
+            {
+              "stable_id": "asr-001255",
+              "start_seconds": 4638.74,
+              "clock": "01:17:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001255"
+            },
+            {
+              "stable_id": "asr-001256",
+              "start_seconds": 4640.12,
+              "clock": "01:17:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001256"
+            },
+            {
+              "stable_id": "asr-001327",
+              "start_seconds": 4793.8,
+              "clock": "01:19:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001327"
+            },
+            {
+              "stable_id": "asr-001331",
+              "start_seconds": 4804.52,
+              "clock": "01:20:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001331"
+            },
+            {
+              "stable_id": "asr-001337",
+              "start_seconds": 4815.08,
+              "clock": "01:20:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001337"
+            },
+            {
+              "stable_id": "asr-001340",
+              "start_seconds": 4821.62,
+              "clock": "01:20:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001340"
+            },
+            {
+              "stable_id": "asr-001374",
+              "start_seconds": 4889.18,
+              "clock": "01:21:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001374"
+            }
+          ]
+        },
+        {
+          "label": "PPA port infrastructure and funding",
+          "text": "In the FY2027 Department of Transportation budget discussion, Senator Erwin T. Tulfo described inadequate piers and roll-on/roll-off capacity in island destinations, then asked why the Philippine Ports Authority (PPA) had no appropriation and whether it planned to build more piers for roll-on/roll-off and fishing boats. Senator Joseph Victor \"JV\" G. Ejercito said fishing ports fall under the Department of Agriculture (DA). Citing the PPA general manager, he said most ports could accept vessels but that more vessels were needed. He said PPA is self-generating and uses its own income to improve passenger terminals. Tulfo responded that terminal capacity and waiting conditions remained inadequate, with some piers able to accommodate only one vessel. Ejercito described current passenger-terminal improvements, but gave no count or specific commitment for new PPA piers.",
+          "citations": [
+            {
+              "stable_id": "asr-001538",
+              "start_seconds": 5227.28,
+              "clock": "01:27:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001538"
+            },
+            {
+              "stable_id": "asr-001555",
+              "start_seconds": 5260.3,
+              "clock": "01:27:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001555"
+            },
+            {
+              "stable_id": "asr-001562",
+              "start_seconds": 5273.66,
+              "clock": "01:27:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001562"
+            },
+            {
+              "stable_id": "asr-001576",
+              "start_seconds": 5300.68,
+              "clock": "01:28:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001576"
+            },
+            {
+              "stable_id": "asr-001581",
+              "start_seconds": 5311.14,
+              "clock": "01:28:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001581"
+            }
+          ]
+        },
+        {
+          "label": "EDSA busway and commuter programs",
+          "text": "The Senate committee added P150 million for FY2027 maintenance and improvement of the EDSA busway project, Ejercito said after Tulfo asked why the EDSA busway service-contracting and fuel-subsidy programs had zero budget, and whether commuters would lose discounts or have to pay full fare. Ejercito initially confirmed a zero allocation. The later fuel-subsidy exchange with Go, below, provides his subsequent clarification; the EDSA addition here was for maintenance and improvement.",
+          "citations": [
+            {
+              "stable_id": "asr-001594",
+              "start_seconds": 5336.1,
+              "clock": "01:28:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001594"
+            },
+            {
+              "stable_id": "asr-001602",
+              "start_seconds": 5356.6,
+              "clock": "01:29:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001602"
+            },
+            {
+              "stable_id": "asr-001604",
+              "start_seconds": 5360.16,
+              "clock": "01:29:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001604"
+            },
+            {
+              "stable_id": "asr-001606",
+              "start_seconds": 5364.38,
+              "clock": "01:29:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001606"
+            }
+          ]
+        },
+        {
+          "label": "Tulfo's budget position",
+          "text": "After the exchange, Tulfo said he supported the Department of Transportation budget.",
+          "citations": [
+            {
+              "stable_id": "asr-001610",
+              "start_seconds": 5371.38,
+              "clock": "01:29:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001610"
+            }
+          ]
+        },
+        {
+          "label": "Foreign-assisted project budget history and Senate restoration",
+          "text": "For foreign-assisted projects of the Department of Transportation (DOTr), Senator Panfilo \"Ping\" M. Lacson cited a P34.7 billion Finance Committee restoration in the FY2027 discussion. In his historical comparison, he said the Executive's 2024 proposed foreign-assisted project budget was P213.7 billion; Congress reduced it to P41.2 billion, and he said 19% remained. For 2025, he specified an Executive proposal of P180.9 billion for DOTr alone, excluding the Department of Public Works and Highways (DPWH); he said 50% remained, or P89.8 billion, in the enacted budget. For 2026, he gave an Executive proposal of P197.3 billion and said 70% remained, or P137.8 billion. He then said the Finance Committee restored 98%, with P8.1 billion still left. Lacson later summarized P8.1 billion as the amount still unrestored by the Senate for DOTr foreign-assisted projects, excluding DPWH.",
+          "citations": [
+            {
+              "stable_id": "asr-001626",
+              "start_seconds": 5405.78,
+              "clock": "01:30:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001626"
+            },
+            {
+              "stable_id": "asr-001636",
+              "start_seconds": 5425.6,
+              "clock": "01:30:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001636"
+            },
+            {
+              "stable_id": "asr-001642",
+              "start_seconds": 5438.06,
+              "clock": "01:30:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001642"
+            },
+            {
+              "stable_id": "asr-001647",
+              "start_seconds": 5448.2,
+              "clock": "01:30:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001647"
+            },
+            {
+              "stable_id": "asr-001648",
+              "start_seconds": 5449.94,
+              "clock": "01:30:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001648"
+            },
+            {
+              "stable_id": "asr-001656",
+              "start_seconds": 5465.78,
+              "clock": "01:31:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001656"
+            },
+            {
+              "stable_id": "asr-001659",
+              "start_seconds": 5474.38,
+              "clock": "01:31:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001659"
+            },
+            {
+              "stable_id": "asr-001660",
+              "start_seconds": 5475.76,
+              "clock": "01:31:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001660"
+            },
+            {
+              "stable_id": "asr-001665",
+              "start_seconds": 5485.6,
+              "clock": "01:31:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001665"
+            },
+            {
+              "stable_id": "asr-001672",
+              "start_seconds": 5499.28,
+              "clock": "01:31:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001672"
+            }
+          ]
+        },
+        {
+          "label": "Commitment fees and Davao project restoration request",
+          "text": "Lacson said cuts to foreign-assisted project commitments had led to successive commitment-fee and penalty payments of $1.5 million and $8 million, which he said translated to P600-P650 million lost. Asked for DOTr's share, Senate Finance Committee Chair Senator Joseph Victor \"JV\" G. Ejercito gave a cumulative P1.7 billion in commitment fees from 2014 through 2026 and clarified that his figure covered DOTr. Lacson separately cited a People's Budget Coalition figure of P1.76 billion since 2014. Lacson asked how the 2014-2026 fees related to projects such as the North-South Commuter Railway and Metro Manila Subway Phase 1, which he said started in 2019. Ejercito explained that the earlier portfolio also included the Northrail project, which did not proceed, and the Davao Public Transport Modernization Program (DPTMP). Lacson said Davao implementation began in 2023 and described it as a seven-year project with the loan closing in June 2030. He said the House reduced the Davao program's 2027 budget by P5.1 billion and the Senate had not restored it. Ejercito said P20 million in Davao commitment fees had already been paid. Lacson warned of another P20-P30 million if implementation did not resume; Ejercito put the fee at about P3 million a year, said fees could be calculated only after delay was incurred, and relayed the Department's view that further payment was not certain because funds remained and the project was continuing. Lacson urged restoring the P5.1 billion if a source could be found; Ejercito said he would support restoration if funds were available. Ejercito also said the Senate had committed to honor obligations after discussions with the Japan International Cooperation Agency (JICA). The proposed restoration remained conditional, with no motion or final disposition recorded in this exchange.",
+          "citations": [
+            {
+              "stable_id": "asr-001683",
+              "start_seconds": 5522.08,
+              "clock": "01:32:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001683"
+            },
+            {
+              "stable_id": "asr-001684",
+              "start_seconds": 5524.78,
+              "clock": "01:32:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001684"
+            },
+            {
+              "stable_id": "asr-001688",
+              "start_seconds": 5534.14,
+              "clock": "01:32:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001688"
+            },
+            {
+              "stable_id": "asr-001689",
+              "start_seconds": 5536.34,
+              "clock": "01:32:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001689"
+            },
+            {
+              "stable_id": "asr-001714",
+              "start_seconds": 5608.5,
+              "clock": "01:33:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001714"
+            },
+            {
+              "stable_id": "asr-001716",
+              "start_seconds": 5612.92,
+              "clock": "01:33:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001716"
+            },
+            {
+              "stable_id": "asr-001717",
+              "start_seconds": 5615.06,
+              "clock": "01:33:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001717"
+            },
+            {
+              "stable_id": "asr-001722",
+              "start_seconds": 5624.66,
+              "clock": "01:33:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001722"
+            },
+            {
+              "stable_id": "asr-001723",
+              "start_seconds": 5627.08,
+              "clock": "01:33:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001723"
+            },
+            {
+              "stable_id": "asr-001775",
+              "start_seconds": 5724.18,
+              "clock": "01:35:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001775"
+            },
+            {
+              "stable_id": "asr-001787",
+              "start_seconds": 5761.98,
+              "clock": "01:36:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001787"
+            },
+            {
+              "stable_id": "asr-001791",
+              "start_seconds": 5768.46,
+              "clock": "01:36:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001791"
+            },
+            {
+              "stable_id": "asr-001820",
+              "start_seconds": 5840.6,
+              "clock": "01:37:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001820"
+            },
+            {
+              "stable_id": "asr-001821",
+              "start_seconds": 5841.96,
+              "clock": "01:37:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001821"
+            },
+            {
+              "stable_id": "asr-001822",
+              "start_seconds": 5843.96,
+              "clock": "01:37:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001822"
+            },
+            {
+              "stable_id": "asr-001828",
+              "start_seconds": 5859.52,
+              "clock": "01:37:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001828"
+            },
+            {
+              "stable_id": "asr-001858",
+              "start_seconds": 5917.8,
+              "clock": "01:38:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001858"
+            },
+            {
+              "stable_id": "asr-001866",
+              "start_seconds": 5936.68,
+              "clock": "01:38:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001866"
+            },
+            {
+              "stable_id": "asr-002031",
+              "start_seconds": 6280.9400000000005,
+              "clock": "01:44:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002031"
+            }
+          ]
+        },
+        {
+          "label": "Potential funding sources and other restoration priorities",
+          "text": "Lacson pointed to possible sources for realignment without identifying an approved source: a P48.14 billion assistance allocation, which he said the Department of Social Welfare and Development (DSWD) wanted retained in its existing form; a lump-sum pool he described as P61 billion, with the Growth Equity Fund's remaining amount corrected to P8.7 billion after cuts. He separately flagged a P3 billion reduction for the New Cebu International Container Port despite a second-quarter 2028 target and a February 2025 start. He argued that foreign-assisted infrastructure should be prioritized for its growth and economic impact. Ejercito agreed that the Senate Finance Committee should prioritize flagship projects with economic impact. No realignment source was selected in this round.",
+          "citations": [
+            {
+              "stable_id": "asr-001887",
+              "start_seconds": 5977.1,
+              "clock": "01:39:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001887"
+            },
+            {
+              "stable_id": "asr-001921",
+              "start_seconds": 6046.5,
+              "clock": "01:40:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001921"
+            },
+            {
+              "stable_id": "asr-001922",
+              "start_seconds": 6047.72,
+              "clock": "01:40:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001922"
+            },
+            {
+              "stable_id": "asr-001929",
+              "start_seconds": 6061.8,
+              "clock": "01:41:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001929"
+            },
+            {
+              "stable_id": "asr-001945",
+              "start_seconds": 6093.3,
+              "clock": "01:41:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001945"
+            },
+            {
+              "stable_id": "asr-001866",
+              "start_seconds": 5936.68,
+              "clock": "01:38:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001866"
+            },
+            {
+              "stable_id": "asr-002068",
+              "start_seconds": 6351.24,
+              "clock": "01:45:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002068"
+            }
+          ]
+        },
+        {
+          "label": "Mindanao Railway project and regional investment",
+          "text": "Senator Christopher Lawrence T. Go urged a fair share of transportation and infrastructure investment for Mindanao and asked for an update on the long-delayed Mindanao Railway, including potential foreign and multilateral financing. Senator Joseph Victor \"JV\" G. Ejercito, the Department of Transportation (DOTr) budget sponsor, said the project still had no partner, while right-of-way work and the feasibility study continued. He said the Senate Committee had allocated funds for a project management office to monitor the work and that the feasibility study was being managed jointly by the Asian Development Bank (ADB) and DOTr, so the project could be ready if a partner was found.",
+          "citations": [
+            {
+              "stable_id": "asr-002274",
+              "start_seconds": 6755.68,
+              "clock": "01:52:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002274"
+            },
+            {
+              "stable_id": "asr-002285",
+              "start_seconds": 6793.7,
+              "clock": "01:53:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002285"
+            },
+            {
+              "stable_id": "asr-002296",
+              "start_seconds": 6813.08,
+              "clock": "01:53:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002296"
+            }
+          ]
+        },
+        {
+          "label": "Mati City Airport funding and release",
+          "text": "For Mati City Airport, Go contrasted the unreleased P700 million for FY2026 with the Senate committee report's P300 million addition for FY2027. He said Congress had amended P700 million for the airport for FY2026, but the funding had not been released and construction was moving slowly for lack of funds. He also cited a P300 million FY2027 addition supported in the committee report and asked why the next-year addition was being made before the 2026 money was released. Ejercito said Transportation Secretary Vince Dizon would push for release of the 2026 P700 million, which had been held because of fiscal space, and had assured its release in the first quarter. The Senate Committee added another P300 million for FY2027. Ejercito described the combined P700 million for FY2026 and P300 million for FY2027 as P1 billion for Mati Airport, while the earlier amount remained pending release.",
+          "citations": [
+            {
+              "stable_id": "asr-002381",
+              "start_seconds": 6985.36,
+              "clock": "01:56:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002381"
+            },
+            {
+              "stable_id": "asr-002392",
+              "start_seconds": 7007.42,
+              "clock": "01:56:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002392"
+            },
+            {
+              "stable_id": "asr-002397",
+              "start_seconds": 7017.16,
+              "clock": "01:56:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002397"
+            },
+            {
+              "stable_id": "asr-002412",
+              "start_seconds": 7046.9400000000005,
+              "clock": "01:57:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002412"
+            },
+            {
+              "stable_id": "asr-002418",
+              "start_seconds": 7058.62,
+              "clock": "01:57:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002418"
+            },
+            {
+              "stable_id": "asr-002419",
+              "start_seconds": 7060.62,
+              "clock": "01:57:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002419"
+            },
+            {
+              "stable_id": "asr-002420",
+              "start_seconds": 7062.6,
+              "clock": "01:57:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002420"
+            }
+          ]
+        },
+        {
+          "label": "Fuel subsidy: zero in the NEP, P1 billion in the House bill",
+          "text": "Go said the FY2027 National Expenditure Program (NEP) had no fuel-subsidy funding and asked how public utility vehicle (PUV) drivers could be supported if a crisis made operations difficult. Ejercito clarified that the fuel subsidy was zero in the NEP but P1 billion in the House bill; he said the committee had adopted that House funding and that the agency had requested it from the House. Go welcomed the funding and urged that support continue.",
+          "citations": [
+            {
+              "stable_id": "asr-002483",
+              "start_seconds": 7188.3,
+              "clock": "01:59:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002483"
+            },
+            {
+              "stable_id": "asr-002490",
+              "start_seconds": 7210.62,
+              "clock": "02:00:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002490"
+            },
+            {
+              "stable_id": "asr-002492",
+              "start_seconds": 7220.88,
+              "clock": "02:00:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002492"
+            },
+            {
+              "stable_id": "asr-002496",
+              "start_seconds": 7228.06,
+              "clock": "02:00:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002496"
+            },
+            {
+              "stable_id": "asr-002499",
+              "start_seconds": 7249.0,
+              "clock": "02:00:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002499"
+            }
+          ]
+        },
+        {
+          "label": "Support for the proposed FY2027 DOTr budget",
+          "text": "Senator Joel Villanueva put his full support on record for the Department of Transportation (DOTr) budget and for passage and approval of the proposed 2027 budget.",
+          "citations": [
+            {
+              "stable_id": "asr-002553",
+              "start_seconds": 7601.74,
+              "clock": "02:06:41",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002553"
+            }
+          ]
+        },
+        {
+          "label": "Foreign-assisted project restoration",
+          "text": "Senate President Sherwin \"Win\" T. Gatchalian commended Finance Committee Chair Senator Joseph Victor \"JV\" G. Ejercito for restoring funding for foreign-assisted projects to nearly the amounts in the National Expenditure Program (NEP). He said nearly all of the agencies' requests had been restored, describing it as the largest restoration in about five years. Gatchalian stressed the importance of restoring the Government of the Philippines (GOP) counterpart share, which he described as the country's equity, for the subway, commuter rail, and other transportation projects and their long-term growth benefits.",
+          "citations": [
+            {
+              "stable_id": "asr-002562",
+              "start_seconds": 7654.6,
+              "clock": "02:07:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002562"
+            },
+            {
+              "stable_id": "asr-002568",
+              "start_seconds": 7703.38,
+              "clock": "02:08:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002568"
+            }
+          ]
+        },
+        {
+          "label": "Conditional deemed-submitted disposition",
+          "text": "Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri reported that the Minority Floor Leader was unwell and wanted further questions and clarifications on the Department of Transportation (DOTr) budget. Zubiri asked to have the budget deemed submitted without prejudice to a consultation with the Secretary, with Senator Joel Villanueva acting as the go-between so the Minority Floor Leader could discuss the issues privately. Senate President Gatchalian confirmed that if the Minority Floor Leader remained unsatisfied after the consultation, he could return to the floor to question the budget; Zubiri confirmed that understanding, and said the Secretary affirmed it. Zubiri then moved to deem submitted DOTr, particularly the Office of the Secretary, Civil Aeronautics Board, Maritime Industry Authority, Office of Transportation Cooperatives, Office of Transportation Security, Philippine Coast Guard, Toll Regulatory Board, and other government corporations including the Light Rail Transit Authority and Philippine National Railways. Gatchalian declared the budget deemed submitted after no objection, with the consultation and right to return to the floor preserved.",
+          "citations": [
+            {
+              "stable_id": "asr-002670",
+              "start_seconds": 9375.42,
+              "clock": "02:36:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002670"
+            },
+            {
+              "stable_id": "asr-002672-split-4",
+              "start_seconds": 9432.72,
+              "clock": "02:37:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002672-split-4"
+            },
+            {
+              "stable_id": "asr-002674-split-2",
+              "start_seconds": 9486.78,
+              "clock": "02:38:06",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002674-split-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-zamboanga-city-special-economic-zone-authority",
+      "label": "Zamboanga City Special Economic Zone Authority budget",
+      "items": [
+        {
+          "label": "Support for the Zamboanga City Special Economic Zone Authority budget",
+          "text": "Senator Joel Villanueva said he and Minority Leader Senator Alan Peter Cayetano would ask no questions on the Zamboanga City Special Economic Zone Authority budget. Expressing trust in budget sponsor Senator Paolo Benigno \"Bam\" Aquino IV, Villanueva said they supported passage of the agency's budget.",
+          "citations": [
+            {
+              "stable_id": "asr-002708",
+              "start_seconds": 9985.42,
+              "clock": "02:46:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002708"
+            },
+            {
+              "stable_id": "asr-002711",
+              "start_seconds": 9999.64,
+              "clock": "02:46:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002711"
+            }
+          ]
+        },
+        {
+          "label": "Zamboanga City Special Economic Zone Authority disposition",
+          "text": "After Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri moved to deem submitted the budgetary support for the Zamboanga City Special Economic Zone Authority, Senator Vicente C. Sotto III called for objections. Hearing none, he ruled the Authority's budget deemed submitted.",
+          "citations": [
+            {
+              "stable_id": "asr-002716",
+              "start_seconds": 10014.48,
+              "clock": "02:46:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002716"
+            },
+            {
+              "stable_id": "asr-002719",
+              "start_seconds": 10025.26,
+              "clock": "02:47:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002719"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-the-interior-and-local-government-and-attached",
+      "label": "Department of the Interior and Local Government and attached agencies budget",
+      "items": [
+        {
+          "label": "FY2027 DILG and attached agencies budget components",
+          "text": "The FY2027 proposal for the Department of the Interior and Local Government (DILG) and its attached agencies included a stated P4,023,809,000 increase, presented by sponsor Senator Panfilo \"Ping\" M. Lacson. He listed P34,428,339,000 for the Bureau of Jail Management and Penology (BJMP); P123,846,000 for the Early Childhood Care and Development Council (ECCD Council); P533,133,000 for the Local Government Academy (LGA); P1,177,539,000 for the National Commission on Muslim Filipinos (NCMF); P2,355,855,000 for the National Police Commission (NAPOLCOM); P295,914,000 for the National Youth Commission (NYC); P177,552,000 for the Philippine Commission on Women (PCW); P245,222,511,000 for the Philippine National Police (PNP); and P1,296,163,000 for the Philippine Public Safety College (PPSC). The presentation also listed the Bureau of Fire Protection (BFP), whose allocation is missing from the approved transcript passage.",
+          "citations": [
+            {
+              "stable_id": "asr-002753",
+              "start_seconds": 10482.48,
+              "clock": "02:54:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002753"
+            },
+            {
+              "stable_id": "asr-002756",
+              "start_seconds": 10520.48,
+              "clock": "02:55:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002756"
+            },
+            {
+              "stable_id": "asr-002757",
+              "start_seconds": 10530.42,
+              "clock": "02:55:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002757"
+            },
+            {
+              "stable_id": "asr-002758",
+              "start_seconds": 10537.78,
+              "clock": "02:55:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002758"
+            },
+            {
+              "stable_id": "asr-002759",
+              "start_seconds": 10543.34,
+              "clock": "02:55:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002759"
+            },
+            {
+              "stable_id": "asr-002760",
+              "start_seconds": 10552.84,
+              "clock": "02:55:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002760"
+            },
+            {
+              "stable_id": "asr-002761",
+              "start_seconds": 10560.86,
+              "clock": "02:56:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002761"
+            },
+            {
+              "stable_id": "asr-002762",
+              "start_seconds": 10568.34,
+              "clock": "02:56:08",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002762"
+            },
+            {
+              "stable_id": "asr-002763",
+              "start_seconds": 10573.34,
+              "clock": "02:56:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002763"
+            },
+            {
+              "stable_id": "asr-002764",
+              "start_seconds": 10583.26,
+              "clock": "02:56:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002764"
+            }
+          ]
+        },
+        {
+          "label": "Tourist police funding",
+          "text": "An additional P176.899 million for FY2027 tourist-police duties was included in the budget, sponsor Senator Panfilo \"Ping\" M. Lacson said. When Senator Erwin T. Tulfo asked whether the amount was sufficient, Lacson clarified that it was additional to the funding already provided for their duties. Tulfo later voiced support for passage of the FY2027 budget of the Department of the Interior and Local Government (DILG).",
+          "citations": [
+            {
+              "stable_id": "asr-002794",
+              "start_seconds": 10729.2,
+              "clock": "02:58:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002794"
+            },
+            {
+              "stable_id": "asr-002795",
+              "start_seconds": 10741.36,
+              "clock": "02:59:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002795"
+            },
+            {
+              "stable_id": "asr-002874",
+              "start_seconds": 10925.8,
+              "clock": "03:02:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002874"
+            }
+          ]
+        },
+        {
+          "label": "Senate-version additions for DILG attached agencies",
+          "text": "An additional P100.276 million for the DILG Office of the Secretary's 9-1-1 emergency-services program was among the FY2027 Senate-version augmentations described by Finance Committee Chair Senator Joseph Victor \"JV\" G. Ejercito. The Bureau of Fire Protection was proposed to receive an additional P922 million to hire 2,000 additional firefighters, buy ambulances, and improve emergency response. The National Police Commission's regional offices were proposed to receive an additional P30 million for modernization and rehabilitation of their front line. The Philippine Public Safety College was proposed to receive an additional P58.69 million to integrate cybersecurity into its existing curriculum. The Philippine National Police was proposed to receive a P2.9 billion augmentation for completion of the Police Regional Office in the Negros Island region, tourist police units, the PNP Counterterrorism Center, police buildings, additional intelligence funds, and repair and maintenance of air and water assets.",
+          "citations": [
+            {
+              "stable_id": "asr-002916",
+              "start_seconds": 11060.42,
+              "clock": "03:04:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002916"
+            },
+            {
+              "stable_id": "asr-002917",
+              "start_seconds": 11064.14,
+              "clock": "03:04:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002917"
+            },
+            {
+              "stable_id": "asr-002921",
+              "start_seconds": 11070.9,
+              "clock": "03:04:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002921"
+            },
+            {
+              "stable_id": "asr-002930",
+              "start_seconds": 11089.44,
+              "clock": "03:04:49",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002930"
+            },
+            {
+              "stable_id": "asr-002933",
+              "start_seconds": 11095.28,
+              "clock": "03:04:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002933"
+            },
+            {
+              "stable_id": "asr-002934",
+              "start_seconds": 11097.04,
+              "clock": "03:04:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002934"
+            },
+            {
+              "stable_id": "asr-002940",
+              "start_seconds": 11109.04,
+              "clock": "03:05:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002940"
+            }
+          ]
+        },
+        {
+          "label": "DILG budget deemed submitted",
+          "text": "Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri moved that the Department of the Interior and Local Government (DILG) budget and the listed attached-agency budgets be deemed submitted. Presiding Senator Vicente C. Sotto III asked for objections and then ruled that the DILG and attached agencies' budgets were deemed submitted.",
+          "citations": [
+            {
+              "stable_id": "asr-003017",
+              "start_seconds": 11262.46,
+              "clock": "03:07:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003017"
+            },
+            {
+              "stable_id": "asr-003034",
+              "start_seconds": 11295.52,
+              "clock": "03:08:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003034"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-human-settlements-and-urban-development-and-at",
+      "label": "Department of Human Settlements and Urban Development and attached housing agencies budget",
+      "items": [
+        {
+          "label": "Senate additions for housing programs and agency disposition",
+          "text": "For FY2027, the Senate committee report proposed an additional P400 million for various housing projects under the National Housing Authority (NHA) and P504.8 million for the Community Mortgage Program under the Social Housing Finance Corporation (SHFC). Finance Committee Chair Senator Joseph Victor \"JV\" G. Ejercito also cited additional funding for the Socialized Housing Loan Takeout Receivable for the Shelter Program and a housing project for military retirees on a Philippine Veterans Affairs Office (PVAO) property in Taguig City; no amounts were stated for those items. He said the additions were intended to address the housing backlog and expand access to affordable, decent housing. With no member seeking to interpellate, Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri praised two Department of Human Settlements and Urban Development (DHSUD) projects in Bukidnon as on time and nearing turnover, then moved to deem DHSUD and its listed attached agencies submitted. Presiding Senator Vicente C. Sotto III called for objections and ruled that the DHSUD budget, including budgetary support to government corporations, was deemed submitted.",
+          "citations": [
+            {
+              "stable_id": "asr-003059",
+              "start_seconds": 11822.18,
+              "clock": "03:17:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003059"
+            },
+            {
+              "stable_id": "asr-003061",
+              "start_seconds": 11880.3,
+              "clock": "03:18:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003061"
+            },
+            {
+              "stable_id": "asr-003062-split-2",
+              "start_seconds": 11922.38,
+              "clock": "03:18:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003062-split-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-department-of-environment-and-natural-resources-laguna-lake-",
+      "label": "Department of Environment and Natural Resources; Laguna Lake Development Authority deferred budget",
+      "items": [
+        {
+          "label": "Senate additions for water security and environmental programs",
+          "text": "P336 million above the House version was proposed for the FY2027 Department of Environment and Natural Resources (DENR) budget, sponsor Senator Risa Hontiveros said, with half of the increase going to water agencies. She cited P183 million under the Local Water Utilities Administration (LWUA) for Super El Nino and water-district subsidy; she said this would reach an estimated 5,727 households out of a target of 3.26 million. She listed P139 million for the Metropolitan Waterworks and Sewerage System (MWSS) Regulatory Office to monitor water-service quality in Metro Manila and elsewhere. The National Water Resources Board (NWRB) had a proposed P105 million, including a P65 million Senate allocation for a water-resource initiative intended to reduce flooding and store water in Cavite and Bulacan basins. The Environmental Management Bureau (EMB) was proposed to receive an additional P30 million to strengthen its programs, especially landfill monitoring and sites vulnerable to severe fires during hot weather. Hontiveros also said funding was added for small water impounding systems under the Forest Management Bureau (FMB) to help protect forests and nearby homes from fire. She said Super El Nino conditions were beginning to be felt in parts of the country, characterized the coming year as a historic natural threat, and argued that water security funding should be increased. She said DENR and water-agency funding together amounted to less than 1% of the national budget and called for clean, reliable water for every household.",
+          "citations": [
+            {
+              "stable_id": "asr-003210",
+              "start_seconds": 14940.0,
+              "clock": "04:09:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003210"
+            },
+            {
+              "stable_id": "asr-003219",
+              "start_seconds": 14963.8,
+              "clock": "04:09:23",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003219"
+            },
+            {
+              "stable_id": "asr-003223",
+              "start_seconds": 14969.38,
+              "clock": "04:09:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003223"
+            },
+            {
+              "stable_id": "asr-003230",
+              "start_seconds": 14988.48,
+              "clock": "04:09:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003230"
+            },
+            {
+              "stable_id": "asr-003233",
+              "start_seconds": 14995.16,
+              "clock": "04:09:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003233"
+            },
+            {
+              "stable_id": "asr-003241",
+              "start_seconds": 15012.72,
+              "clock": "04:10:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003241"
+            },
+            {
+              "stable_id": "asr-003259",
+              "start_seconds": 15050.72,
+              "clock": "04:10:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003259"
+            },
+            {
+              "stable_id": "asr-003277",
+              "start_seconds": 15087.8,
+              "clock": "04:11:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003277"
+            }
+          ]
+        },
+        {
+          "label": "DENR budget proceeding; LLDA deferred",
+          "text": "Majority Floor Leader Senator Juan Miguel \"Migz\" F. Zubiri said Senator Alan Peter Cayetano had no issue with the Department of Environment and Natural Resources (DENR) budget but had questions for the Laguna Lake Development Authority (LLDA). Zubiri said the parties had agreed to proceed with the DENR budget and defer the LLDA budget until the next day to allow those questions. Senator Risa Hontiveros added that LLDA had no budget under DENR and its authority had no budgetary implication for the department's appropriation.",
+          "citations": [
+            {
+              "stable_id": "asr-003318",
+              "start_seconds": 15173.3,
+              "clock": "04:12:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003318"
+            },
+            {
+              "stable_id": "asr-003342",
+              "start_seconds": 15208.56,
+              "clock": "04:13:28",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003342"
+            },
+            {
+              "stable_id": "asr-003388",
+              "start_seconds": 15275.66,
+              "clock": "04:14:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003388"
+            }
+          ]
+        },
+        {
+          "label": "DENR budget deemed submitted; LLDA deferred",
+          "text": "After the suspension, Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri moved to deem submitted the Department of Environment and Natural Resources (DENR) and its enumerated agencies, expressly excepting the Laguna Lake Development Authority (LLDA), which he asked to return the next day to meet the Minority Floor Leader. Presiding Senator Vicente C. Sotto III called for objections and ruled that the DENR budget and enumerated attached agencies were deemed submitted.",
+          "citations": [
+            {
+              "stable_id": "asr-003408",
+              "start_seconds": 15354.41,
+              "clock": "04:15:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003408"
+            },
+            {
+              "stable_id": "asr-003418",
+              "start_seconds": 15385.58,
+              "clock": "04:16:25",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003418"
+            },
+            {
+              "stable_id": "asr-003423",
+              "start_seconds": 15395.12,
+              "clock": "04:16:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003423"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "budget-philippine-sports-commission-and-games-and-amusements-board-",
+      "label": "Philippine Sports Commission and Games and Amusements Board (joint take-up) budget",
+      "items": [
+        {
+          "label": "PSC committee-report increase",
+          "text": "A P580 million increase for the Philippine Sports Commission (PSC) in the FY2027 Senate committee report was mostly for hosting international competitions, constructing regional sports facilities and football centers, grassroots sports programs, and assistance to athletes, sponsor Senator Christopher Lawrence T. Go said.",
+          "citations": [
+            {
+              "stable_id": "asr-003624",
+              "start_seconds": 20627.86,
+              "clock": "05:43:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003624"
+            }
+          ]
+        },
+        {
+          "label": "FIFA football initiative and agency-head attendance",
+          "text": "A $25 million sports and football development initiative, including a multipurpose football stadium, was being pursued at FIFA by Philippine Sports Commission (PSC) Chairman John Patrick C. Gregorio, Majority Floor Leader Senator Juan Miguel \"Migz\" F. Zubiri reported. Zubiri said Gregorio had asked to be excused from the joint PSC and Games and Amusements Board (GAB) budget session for that meeting and expected him back Thursday morning the following week before second-reading approval. Senator Joel Villanueva said he did not object to the meeting, which he understood could bring grants, but said the exception should not become precedent; he noted that the Vice President had attended her budget deliberation that day. Senate President Sherwin \"Win\" T. Gatchalian said agency heads traditionally defend their own budgets, called this an exception, and said Gregorio and other officials would be asked to return before approval to participate in discussion. Zubiri said absent agency heads had promised to appear before amendments and warned that he could recommend shifting or reducing the budgets of those who failed to appear.",
+          "citations": [
+            {
+              "stable_id": "asr-003641",
+              "start_seconds": 20690.76,
+              "clock": "05:44:50",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003641"
+            },
+            {
+              "stable_id": "asr-003654",
+              "start_seconds": 20733.38,
+              "clock": "05:45:33",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003654"
+            },
+            {
+              "stable_id": "asr-003682",
+              "start_seconds": 20856.34,
+              "clock": "05:47:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003682"
+            },
+            {
+              "stable_id": "asr-003690",
+              "start_seconds": 20890.08,
+              "clock": "05:48:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003690"
+            }
+          ]
+        },
+        {
+          "label": "Reviewing national-team athlete allowances",
+          "text": "P50,000 or P75,000 per month were allowance levels for national-team athletes that Senator Pia S. Cayetano asked the Philippine Sports Commission (PSC) to consider in reviewing basic allowances. She said current allowances were barely above minimum wage, many athletes held second jobs, and national sports associations (NSAs) or their supporters often helped athletes find work. She urged PSC to make its wish list public. She said PSC should not carry the responsibility alone. She presented the figures as targets for discussion.",
+          "citations": [
+            {
+              "stable_id": "asr-003922",
+              "start_seconds": 21447.32,
+              "clock": "05:57:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003922"
+            },
+            {
+              "stable_id": "asr-003946",
+              "start_seconds": 21491.76,
+              "clock": "05:58:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003946"
+            },
+            {
+              "stable_id": "asr-003947",
+              "start_seconds": 21493.56,
+              "clock": "05:58:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003947"
+            },
+            {
+              "stable_id": "asr-003948",
+              "start_seconds": 21495.06,
+              "clock": "05:58:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003948"
+            }
+          ]
+        },
+        {
+          "label": "PSC assistance and allowances for professional national athletes",
+          "text": "Senator Joel Villanueva asked how the Philippine Sports Commission (PSC) could assist national athletes who compete for professional teams, after athletes told him their professional status kept them from support. Senator Christopher Lawrence T. Go first said national professional athletes were not automatically entitled to regular monthly allowances, though they could receive competition-related assistance and other benefits; he also said the PSC was planning to amend its charter to expand its mandate. After noting commissioners had given differing explanations, Go clarified that athletes endorsed by their national sports association (NSA) could receive PSC help regardless of professional or amateur status, while competition-related assistance depended on events. Villanueva said athletes had told him their allowances stopped after the SEA Games and asked for an update on volleyball players, reporting that the volleyball NSA had changed leadership eight times in nine months. He requested a PSC report on how athlete allowances are monitored. Go promised to send a PSC report to Villanueva's office and said PSC Chairman John Patrick C. Gregorio would mediate between athletes and their association.",
+          "citations": [
+            {
+              "stable_id": "asr-004292",
+              "start_seconds": 22318.86,
+              "clock": "06:11:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004292"
+            },
+            {
+              "stable_id": "asr-004343",
+              "start_seconds": 22420.78,
+              "clock": "06:13:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004343"
+            },
+            {
+              "stable_id": "asr-004425",
+              "start_seconds": 22678.0,
+              "clock": "06:17:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004425"
+            },
+            {
+              "stable_id": "asr-004442",
+              "start_seconds": 22710.0,
+              "clock": "06:18:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004442"
+            },
+            {
+              "stable_id": "asr-004526",
+              "start_seconds": 22881.66,
+              "clock": "06:21:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004526"
+            }
+          ]
+        },
+        {
+          "label": "Support for PSC and GAB budgets",
+          "text": "Villanueva reiterated his full support for the PSC and Games and Amusements Board (GAB) budgets. He recalled helping fund GAB equipment and an ambulance when the Board could not find funding for those needs, and said the agencies could count on Senate support so long as they did what was right.",
+          "citations": [
+            {
+              "stable_id": "asr-004905",
+              "start_seconds": 23927.64,
+              "clock": "06:38:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004905"
+            },
+            {
+              "stable_id": "asr-004917",
+              "start_seconds": 23976.08,
+              "clock": "06:39:36",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004917"
+            }
+          ]
+        },
+        {
+          "label": "Future PSC support for international sports events",
+          "text": "Senator Juan Miguel \"Migz\" F. Zubiri said he was not adding funding to the Philippine Sports Commission (PSC) budget at this stage, but would move at the proper time for additional support for the Southeast Asian Youth Plus Games and another World Championship hosted by the Philippines. He described the youth event as a Southeast Asian Games-style competition for athletes aged 16 and below and said the country could invite other nations. He presented this as a future amendment. Zubiri also expressed full support for Arnis.",
+          "citations": [
+            {
+              "stable_id": "asr-004944",
+              "start_seconds": 24058.44,
+              "clock": "06:40:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004944"
+            },
+            {
+              "stable_id": "asr-004952",
+              "start_seconds": 24090.74,
+              "clock": "06:41:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004952"
+            },
+            {
+              "stable_id": "asr-004962",
+              "start_seconds": 24118.44,
+              "clock": "06:41:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004962"
+            }
+          ]
+        },
+        {
+          "label": "Sports facilities and project planning",
+          "text": "Cayetano supported multipurpose buildings that would be used mainly as sports facilities, describing a basketball-court-sized center hosting free play, dance exercise, and children's sports at the same time. She supported modernizing and decentralizing sports infrastructure. PSC sponsor Senator Christopher Lawrence T. Go said the Commission was pursuing those goals and would submit facility plans and project status; he added that it already had plans by sport.",
+          "citations": [
+            {
+              "stable_id": "asr-003978",
+              "start_seconds": 21540.6,
+              "clock": "05:59:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003978"
+            },
+            {
+              "stable_id": "asr-004178",
+              "start_seconds": 22078.06,
+              "clock": "06:07:58",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004178"
+            }
+          ]
+        },
+        {
+          "label": "Budget submission and closing motions",
+          "text": "Zubiri moved that the GAB and PSC budgets be deemed submitted. Senate President Sherwin \"Win\" T. Gatchalian heard no objection and declared both budgets deemed submitted. Zubiri then moved to suspend consideration of House Bill No. 10858; Gatchalian heard no objection and approved that motion.",
+          "citations": [
+            {
+              "stable_id": "asr-004972",
+              "start_seconds": 24134.48,
+              "clock": "06:42:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004972"
+            },
+            {
+              "stable_id": "asr-004975",
+              "start_seconds": 24141.68,
+              "clock": "06:42:21",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004975"
+            },
+            {
+              "stable_id": "asr-004979",
+              "start_seconds": 24152.44,
+              "clock": "06:42:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004979"
+            },
+            {
+              "stable_id": "asr-004982",
+              "start_seconds": 24159.94,
+              "clock": "06:42:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004982"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-chr",
+      "label": "Commission on Human Rights",
+      "items": [
+        {
+          "label": "Senator Vicente C. Sotto III",
+          "text": "CHR position on abortion: Senator Vicente C. Sotto III recalled that in 2023 the CHR opposed abortion except in certain extreme cases and asked its current position in relation to a proposed move to decriminalize abortion. Senator Joseph Victor \"JV\" G. Ejercito, sponsoring the CHR budget, said the Commission's official position was pro-life and anti-abortion except in extreme circumstances, citing life-threatening situations, rape, and medical reasons. Sotto thanked him, noting an ongoing hearing on revision of the Revised Penal Code, and said the CHR's answer resolved his questions.",
+          "citations": [
+            {
+              "stable_id": "asr-000249",
+              "start_seconds": 2145.12,
+              "clock": "00:35:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000249"
+            },
+            {
+              "stable_id": "asr-000254",
+              "start_seconds": 2160.94,
+              "clock": "00:36:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000254"
+            },
+            {
+              "stable_id": "asr-000261",
+              "start_seconds": 2191.62,
+              "clock": "00:36:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000261"
+            },
+            {
+              "stable_id": "asr-000275",
+              "start_seconds": 2225.64,
+              "clock": "00:37:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000275"
+            }
+          ]
+        },
+        {
+          "label": "Senator Juan Miguel \"Migz\" F. Zubiri",
+          "text": "Opposition to abortion decriminalization: Senator Juan Miguel \"Migz\" F. Zubiri echoed the Minority Floor Leader's opposition to legislation decriminalizing abortion, describing himself as a conservative, pro-life lawmaker who regarded life as sacred. He contrasted his position with what he described as easy access to abortion in the United States and other countries, and recounted his family's efforts to save a baby relative born with a heart defect. He said he would oppose legislation decriminalizing abortion while he remained in the Senate.",
+          "citations": [
+            {
+              "stable_id": "asr-000297",
+              "start_seconds": 2258.28,
+              "clock": "00:37:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000297"
+            },
+            {
+              "stable_id": "asr-000315",
+              "start_seconds": 2281.7200000000003,
+              "clock": "00:38:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000315"
+            },
+            {
+              "stable_id": "asr-000343",
+              "start_seconds": 2309.76,
+              "clock": "00:38:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000343"
+            },
+            {
+              "stable_id": "asr-000364",
+              "start_seconds": 2334.2,
+              "clock": "00:38:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000364"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dotr",
+      "label": "Department of Transportation and attached agencies/corporations",
+      "items": [
+        {
+          "label": "Senator Juan Miguel \"Migz\" F. Zubiri",
+          "text": "Tourist traffic and revenue potential: Zubiri said he had defended the Department of Tourism because it promotes the Philippines, while poor interconnectivity discourages visitors from returning and weakens tourism sites. He cited Vietnam at more than 20 million tourists, Thailand at 40 million, Bali at 15 million, and the Philippines at 5 million; he later described Bali's figure as 15 million to 20 million. He also pointed to Cambodia's new airport and direct flights to Phnom Penh and Siem Reap. He said a tourist route to Siargao could involve a trip through Manila and Clark and take 14 hours, and described a San Vicente hotel's occupancy at 15% to 20%, while citing occupancy declines to 20% to 30% at popular destinations. As an economic illustration, he calculated that 1 million tourists spending $1,000 each would bring in $1 billion, and that increasing visitor numbers to 6 million or 7 million could add $1 billion to $2 billion in income. He asked for a concrete plan for the next six months to improve tourism and interconnectivity. Senate President Sherwin \"Win\" T. Gatchalian remarked that DOTr Secretary Vince Dizon appeared to be nodding positively; Zubiri proposed focusing on 10 destinations and packaging them with airports and longer runways, roads, hospitals, internet, and reliable electricity. He named Boracay, Coron, El Nido, San Vicente, Siquijor, and Camiguin and said resorts were struggling. He also asked for an alternative to Clark for turboprop service. Ejercito said Secretary Dizon was exploring options and had heard the concerns.\n\nTurboprop service and airfares: Zubiri objected to sending turboprop passengers to Clark and said he preferred waiting for A320 service to local destinations. He relayed Don Ramon's claim that, if given the CAAP function, he could add 100 planes per hour; Zubiri said he hoped the claim was true. Ejercito explained that turboprops had been moved from Manila to Clark to avoid disrupting takeoff and landing sequences at the congested airport. He said DOTr Secretary Vince Dizon was working with San Miguel Corporation, the new Manila airport manager, to study whether some turboprop operations could resume in Manila while longer-term runway extensions were pursued. Ejercito first said Bukidnon could take A320s by the following year and that larger aircraft should lower fares. After Zubiri objected to waiting for A320 service, Ejercito clarified that jet service would begin immediately. Zubiri compared the 80-seat turboprop with A320 capacity of 260 passengers (and asked whether it could carry 300), said both used the same fuel, and cited a Siargao fare of 27,000 to 30,000 against a $300 fare to Hong Kong. The transcript does not specify the currency for the Siargao fare. Ejercito also said fares would fall when A320 service was operating and repeated that runway extensions were the longer-term approach.\n\nSangley as a short-term alternative to Clark: Zubiri proposed using Sangley in the short term and relayed Cavite City Mayor's offer of a free shuttle from Ninoy Aquino International Airport (NAIA) to Sangley, while runway extensions proceeded as the longer-term option. Ejercito said Sangley was developed but access from Metro Manila on narrow roads would take about two to two and a half hours. Zubiri asked whether the trip was longer than reaching Clark and said rain and bridge traffic could make the Clark trip take four or five hours; he asked for an alternative rather than requiring travelers to wait for airport extensions. Ejercito later said restoring the North-South Commuter Railway (NSCR) would make Clark more accessible. The exchange did not resolve the comparative travel times or record a final decision on the shuttle proposal.\n\nVisitor declines after the airport transfer: Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri said he had received alarming figures from a Department of Tourism (DOT) briefing. For January-September 2026 compared with the same period in 2025, he reported 271,720 fewer tourists across El Nido and Coron and 151,361 fewer in Siargao. He presented the counts as a reason to address the effect of the airport transfer on access to these destinations.\n\nEstimated economic activity losses: Zubiri said the DOT estimated total economic activity losses of P7.6 billion in El Nido, P10.61 billion in Coron, and P14.2 billion in Siargao. He said the estimates came from the Department of Tourism and framed them as relevant to the Civil Aviation Authority of the Philippines (CAAP) and the Department of Transportation (DOTr). He urged the Department of Tourism, the Department of Public Works and Highways (DPWH), and DOTr to coordinate around the losses.\n\nLimited daily slots for island destinations: Zubiri said the secretaries had asked him to request limited slots for Siargao, Coron, and El Nido: 10 per day for each destination. He said resort owners would package the slots for tourists as an interim measure while runway extensions remained years away. The DOTr budget sponsor, Senator Joseph Victor \"JV\" G. Ejercito, replied that DOTr Secretary Vince Dizon had committed to finding a way and would discuss the matter with the new Ninoy Aquino International Airport (NAIA) management at San Miguel about allotting slots for those tourist destinations. The response was a commitment to discuss the proposed slots with the airport management.",
+          "citations": [
+            {
+              "stable_id": "asr-000545",
+              "start_seconds": 3319.66,
+              "clock": "00:55:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000545"
+            },
+            {
+              "stable_id": "asr-000662",
+              "start_seconds": 3557.74,
+              "clock": "00:59:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000662"
+            },
+            {
+              "stable_id": "asr-000663",
+              "start_seconds": 3560.3,
+              "clock": "00:59:20",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000663"
+            },
+            {
+              "stable_id": "asr-000666",
+              "start_seconds": 3566.0,
+              "clock": "00:59:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000666"
+            },
+            {
+              "stable_id": "asr-000667",
+              "start_seconds": 3567.7799999999997,
+              "clock": "00:59:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000667"
+            },
+            {
+              "stable_id": "asr-000679",
+              "start_seconds": 3592.22,
+              "clock": "00:59:52",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000679"
+            },
+            {
+              "stable_id": "asr-000961",
+              "start_seconds": 4174.4,
+              "clock": "01:09:34",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000961"
+            },
+            {
+              "stable_id": "asr-001052",
+              "start_seconds": 4339.48,
+              "clock": "01:12:19",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001052"
+            },
+            {
+              "stable_id": "asr-000700",
+              "start_seconds": 3632.14,
+              "clock": "01:00:32",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000700"
+            },
+            {
+              "stable_id": "asr-000760",
+              "start_seconds": 3751.84,
+              "clock": "01:02:31",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000760"
+            },
+            {
+              "stable_id": "asr-000803",
+              "start_seconds": 3858.0,
+              "clock": "01:04:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000803"
+            },
+            {
+              "stable_id": "asr-000826",
+              "start_seconds": 3900.32,
+              "clock": "01:05:00",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000826"
+            },
+            {
+              "stable_id": "asr-000827",
+              "start_seconds": 3902.26,
+              "clock": "01:05:02",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000827"
+            },
+            {
+              "stable_id": "asr-000828",
+              "start_seconds": 3904.18,
+              "clock": "01:05:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000828"
+            },
+            {
+              "stable_id": "asr-001020",
+              "start_seconds": 4287.3,
+              "clock": "01:11:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001020"
+            },
+            {
+              "stable_id": "asr-000850",
+              "start_seconds": 3948.58,
+              "clock": "01:05:48",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000850"
+            },
+            {
+              "stable_id": "asr-000877",
+              "start_seconds": 4002.7,
+              "clock": "01:06:42",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-000877"
+            },
+            {
+              "stable_id": "asr-001072",
+              "start_seconds": 4357.9400000000005,
+              "clock": "01:12:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001072"
+            },
+            {
+              "stable_id": "asr-002079",
+              "start_seconds": 6373.26,
+              "clock": "01:46:13",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002079"
+            },
+            {
+              "stable_id": "asr-002112",
+              "start_seconds": 6437.58,
+              "clock": "01:47:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002112"
+            },
+            {
+              "stable_id": "asr-002122",
+              "start_seconds": 6457.26,
+              "clock": "01:47:37",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002122"
+            },
+            {
+              "stable_id": "asr-002130",
+              "start_seconds": 6473.86,
+              "clock": "01:47:53",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002130"
+            },
+            {
+              "stable_id": "asr-002131",
+              "start_seconds": 6475.82,
+              "clock": "01:47:55",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002131"
+            },
+            {
+              "stable_id": "asr-002132",
+              "start_seconds": 6477.88,
+              "clock": "01:47:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002132"
+            },
+            {
+              "stable_id": "asr-002133",
+              "start_seconds": 6479.68,
+              "clock": "01:47:59",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002133"
+            },
+            {
+              "stable_id": "asr-002136",
+              "start_seconds": 6485.12,
+              "clock": "01:48:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002136"
+            },
+            {
+              "stable_id": "asr-002137",
+              "start_seconds": 6487.86,
+              "clock": "01:48:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002137"
+            },
+            {
+              "stable_id": "asr-002138",
+              "start_seconds": 6489.76,
+              "clock": "01:48:09",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002138"
+            },
+            {
+              "stable_id": "asr-002148",
+              "start_seconds": 6509.48,
+              "clock": "01:48:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002148"
+            },
+            {
+              "stable_id": "asr-002200",
+              "start_seconds": 6612.98,
+              "clock": "01:50:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002200"
+            }
+          ]
+        },
+        {
+          "label": "Senator Erwin T. Tulfo",
+          "text": "Airfares and access to tourism destinations: Tulfo asked who was responsible for expensive airfares, saying it could be easier to travel abroad than to local tourism sites. Ejercito identified the Civil Aeronautics Board (CAB) as responsible for airfares and said the Department of Tourism had also raised concerns. He explained that major tourism destinations were served by turboprop aircraft, which he described as more costly to operate and seating 70 to 80 passengers. He said larger jet-powered aircraft could carry more passengers at lower operating cost, but would require longer runways at major tourism destinations. Tulfo replied that this could take time to realize.",
+          "citations": [
+            {
+              "stable_id": "asr-001418",
+              "start_seconds": 4985.52,
+              "clock": "01:23:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001418"
+            },
+            {
+              "stable_id": "asr-001425",
+              "start_seconds": 4998.62,
+              "clock": "01:23:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001425"
+            },
+            {
+              "stable_id": "asr-001459",
+              "start_seconds": 5066.74,
+              "clock": "01:24:26",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-001459"
+            }
+          ]
+        },
+        {
+          "label": "Senator Christopher Lawrence T. Go",
+          "text": "Support for safer, affordable transportation across regions: Go said he supported the Department of Transportation's programs for a safer, more efficient, and affordable transportation system, and urged fair and equal distribution of its priorities so remote parts of the country, including Mindanao, would not be left behind.",
+          "citations": [
+            {
+              "stable_id": "asr-002503",
+              "start_seconds": 7275.76,
+              "clock": "02:01:15",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002503"
+            },
+            {
+              "stable_id": "asr-002505",
+              "start_seconds": 7287.26,
+              "clock": "02:01:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002505"
+            }
+          ]
+        },
+        {
+          "label": "Senator Joel Villanueva",
+          "text": "MacArthur Highway flooding in Bulacan: Villanueva said he had raised an obstruction on MacArthur Highway in Bulacan, which he believed had worsened flooding during a recent disaster. He said action by the Department of Transportation followed only after the then Department of Public Works and Highways secretary intervened. Villanueva later thanked Transportation Secretary Vince Dizon for his concern amid worsening flooding and recalled his visits to Bulacan.\n\nRepeated flight cancellations and passenger compensation: Villanueva recounted a group of passengers who traveled two to three hours to an airport, only to learn 30 minutes before departure that their flight had been canceled. After returning home, the same passengers booked the same Cebu Pacific flight the next day and it was canceled again 30 minutes before departure. He asked who compensates passengers for the inconvenience and why flights were not canceled earlier in view of weather conditions, referring to a question raised during Department of Science and Technology budget deliberations about checking weather conditions. He said he would leave that matter to experts and was not claiming expertise. The compensation and earlier-notice questions received no response in this manifestation.",
+          "citations": [
+            {
+              "stable_id": "asr-002528",
+              "start_seconds": 7404.6,
+              "clock": "02:03:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002528"
+            },
+            {
+              "stable_id": "asr-002552",
+              "start_seconds": 7587.04,
+              "clock": "02:06:27",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002552"
+            },
+            {
+              "stable_id": "asr-002530",
+              "start_seconds": 7447.6,
+              "clock": "02:04:07",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002530"
+            },
+            {
+              "stable_id": "asr-002538",
+              "start_seconds": 7512.7,
+              "clock": "02:05:12",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002538"
+            }
+          ]
+        },
+        {
+          "label": "DOTR closing remarks consultation and disposition",
+          "text": "Gatchalian supported Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri's tourism requests and proposed returning turboprop service to Coron, El Nido, and Siargao from Clark to Metro Manila as an interim measure, until a permanent solution was found for the relocated flights. He said a traveler could spend two hours reaching Clark, wait an hour, then take a 30- to 45-minute flight, making the trip about three to four hours one way. He argued that restoring these routes would improve accessibility for visitors to the three tourism destinations.",
+          "citations": [
+            {
+              "stable_id": "asr-002576",
+              "start_seconds": 7744.26,
+              "clock": "02:09:04",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002576"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-dilg",
+      "label": "Department of the Interior and Local Government and attached agencies",
+      "items": [
+        {
+          "label": "Senator Erwin T. Tulfo",
+          "text": "Tourist police and rescue readiness: Tulfo asked whether local governments had personnel ready to respond to accidents at beaches, resorts, rivers, and waterfalls, including a reported drowning where no warning sign was posted. Lacson said organized tourist police were deployed in eight major tourist destinations and had a full complement of equipment, including patrol cars and motorcycles. Tulfo asked whether the officers were equipped and trained in life support and whether smaller towns should assign people to rescue work; Lacson answered that their training was complete.\n\nCross-municipality emergency response: Tulfo described an incident in Rizal where two municipalities disputed responsibility for an emergency patient and an ambulance did not respond because the caller was outside its municipality. Lacson advised callers to dial 9-1-1, saying the call would trigger dispatch and that dispatch was available nationwide for emergencies.\n\nComplaints about local government service: Tulfo asked where residents could complain about rude or unhelpful service by municipal and provincial employees, including in remote areas. Lacson identified the designated DILG undersecretary as the official for such complaints and called on him to introduce himself. Tulfo said callers report poor treatment, while clarifying that the behavior does not apply to every municipality or employee.",
+          "citations": [
+            {
+              "stable_id": "asr-002777",
+              "start_seconds": 10650.54,
+              "clock": "02:57:30",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002777"
+            },
+            {
+              "stable_id": "asr-002780",
+              "start_seconds": 10667.86,
+              "clock": "02:57:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002780"
+            },
+            {
+              "stable_id": "asr-002792",
+              "start_seconds": 10723.42,
+              "clock": "02:58:43",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002792"
+            },
+            {
+              "stable_id": "asr-002801",
+              "start_seconds": 10756.22,
+              "clock": "02:59:16",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002801"
+            },
+            {
+              "stable_id": "asr-002812",
+              "start_seconds": 10797.4,
+              "clock": "02:59:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002812"
+            },
+            {
+              "stable_id": "asr-002833",
+              "start_seconds": 10839.96,
+              "clock": "03:00:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002833"
+            },
+            {
+              "stable_id": "asr-002852-split-2",
+              "start_seconds": 10878.1,
+              "clock": "03:01:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002852-split-2"
+            }
+          ]
+        },
+        {
+          "label": "Senator Juan Miguel \"Migz\" F. Zubiri",
+          "text": "Local sourcing, technology transfer, and defense self-reliance: Majority Leader Senator Juan Miguel \"Migz\" F. Zubiri made a brief appeal for the Self-Reliance Defense Posture Act (SRDP), saying the DILG Secretary supported it, particularly for the Philippine National Police (PNP), and that Senator Panfilo \"Ping\" M. Lacson was a co-author. Zubiri urged the PNP and other law-enforcement agencies to source equipment domestically to support the Philippine economy. He contrasted imported pistols and rifles with locally made ammunition and equipment, and mentioned a bamboo-based protective vest that he attributed to the Department of Science and Technology (DOST). Lacson cautioned that domestic sourcing was not simple because it required joint ventures and technology transfer. Zubiri responded that arms and equipment were being made locally and suggested agencies seek lifetime warranties from local suppliers; he contrasted this with buying abroad, where he said warranty support could end after sale. He closed by saying local sourcing could help jump-start the economy.",
+          "citations": [
+            {
+              "stable_id": "asr-002971",
+              "start_seconds": 11171.72,
+              "clock": "03:06:11",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002971"
+            },
+            {
+              "stable_id": "asr-002996",
+              "start_seconds": 11221.18,
+              "clock": "03:07:01",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-002996"
+            },
+            {
+              "stable_id": "asr-003002",
+              "start_seconds": 11234.14,
+              "clock": "03:07:14",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-denr",
+      "label": "Department of Environment and Natural Resources; Laguna Lake Development Authority deferred",
+      "items": [
+        {
+          "label": "Senator Risa Hontiveros",
+          "text": "LLDA-Taguig memorandum of agreement: Hontiveros said a draft memorandum of agreement between the LLDA and the City Government of Taguig was under review by the LLDA Board, and said she looked forward to resolving any remaining disagreements between the two agencies. She noted that the earlier department budget hearing had devoted an hour to a broad range of concerns between Taguig and LLDA.",
+          "citations": [
+            {
+              "stable_id": "asr-003354",
+              "start_seconds": 15225.58,
+              "clock": "04:13:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003354"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agency-sports",
+      "label": "Philippine Sports Commission and Games and Amusements Board (joint take-up)",
+      "items": [
+        {
+          "label": "Senator Pia S. Cayetano",
+          "text": "Grassroots access and regional sports development: Cayetano said access to elite competition had become more geographically diverse since her own university-athlete years, but opportunities and tournaments remained uneven, including for women's football players who often moved to Metro Manila. She described holding her Pinay in Action Cup in the Visayas and Mindanao to provide girls more tournament opportunities. She urged each national sports association to plan how to develop its sport in different parts of the country, while accepting that not every sport could be developed everywhere immediately. She also argued that emerging sports should have grassroots access rather than remain available only to the more affluent. Go said PSC had noted her concerns and would submit its grassroots-program plan and address her other concerns.\n\nCayetano cited hybrid racing, padel, and pickleball as emerging sports that could draw public interest. She said hybrid racing and padel might appear in future Olympic programs, and argued that emerging sports also needed grassroots opportunities so they would not become elite-only activities.\n\nEqual prizes for women athletes: Cayetano argued that women athletes should receive equal prizes, saying organizers often cite smaller women's fields as a reason for lower awards, which can discourage participation further. She said women in smaller fields work just as hard as men in larger ones, and invoked the Magna Carta of Women while asking how to bring tournament organizers into compliance. She noted that some well-known tournaments had not complied and that she had already raised the issue with a PSC commissioner.\n\nNational and para-athlete incentives: Cayetano said the Senate had passed a bill to increase national-athlete incentives and equalize incentives for para-athletes, and asked the House to pass its version. Go identified Senate Bill No. 1743, amending Republic Act 10699, as a measure to increase para-athlete incentives and provide tax exemptions for athletes' incentives. He said the proposal was intended to encourage private companies to reward athletes and urged House passage, saying it would help make awards for para-athletes more equal.\n\nSports-event safety and allied-health support: Cayetano recalled her staff's note that the Samboy Lim Law requires cardiopulmonary resuscitation (CPR) instruction in schools, and asked whether basic CPR was required at youth sports events such as basketball, volleyball, and softball leagues. She asked for minimum safety recommendations that would protect participants without making events too difficult to organize.\n\nCayetano urged PSC to coordinate with the Commission on Higher Education (CHED) to address shortages in allied-health fields, distinguishing broader shortages such as speech therapy and radiologic technology from the sports-specific shortage of physical therapists. She said some teams had full-time or part-time physical therapists and sports-conditioning coaches, but provision was not standardized and personnel could leave for other opportunities. She asked PSC and CHED to identify needed professions and expand university programs, especially in the provinces, so teams could better support athlete health and safety.\n\nUpdating the GAB charter: Cayetano offered support to the Games and Amusements Board (GAB) in updating its charter, which she described as outdated. She asked whether GAB had a draft or wanted legislative help, while saying the Board should define the substantive changes it needed.",
+          "citations": [
+            {
+              "stable_id": "asr-003723",
+              "start_seconds": 20985.58,
+              "clock": "05:49:45",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003723"
+            },
+            {
+              "stable_id": "asr-003812",
+              "start_seconds": 21226.34,
+              "clock": "05:53:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003812"
+            },
+            {
+              "stable_id": "asr-004131",
+              "start_seconds": 21982.88,
+              "clock": "06:06:22",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004131"
+            },
+            {
+              "stable_id": "asr-003844",
+              "start_seconds": 21297.82,
+              "clock": "05:54:57",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003844"
+            },
+            {
+              "stable_id": "asr-003902",
+              "start_seconds": 21400.56,
+              "clock": "05:56:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-003902"
+            },
+            {
+              "stable_id": "asr-004137",
+              "start_seconds": 21995.5,
+              "clock": "06:06:35",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004137"
+            },
+            {
+              "stable_id": "asr-004145",
+              "start_seconds": 22011.9,
+              "clock": "06:06:51",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004145"
+            },
+            {
+              "stable_id": "asr-004029",
+              "start_seconds": 21764.4,
+              "clock": "06:02:44",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004029"
+            },
+            {
+              "stable_id": "asr-004053",
+              "start_seconds": 21827.9,
+              "clock": "06:03:47",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004053"
+            },
+            {
+              "stable_id": "asr-004188",
+              "start_seconds": 22104.0,
+              "clock": "06:08:24",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004188"
+            }
+          ]
+        },
+        {
+          "label": "Senator Joel Villanueva",
+          "text": "MPBL game-fixing investigation and coordination: Villanueva asked what the GAB investigation found after allegations of possible game-fixing in a July 2026 Bacolod-Bulacan Maharlika Pilipinas Basketball League (MPBL) game, including whether there was evidence against people who may have ordered or funded it and whether the matter had been referred for criminal investigation. Go reported a September 16, 2026 board decision against five players; Villanueva read its penalties as license revocation upon finality and permanent disqualification from GAB-sanctioned professional basketball, with charges against four others dismissed. Go said there was no evidence against those four; he said no criminal charges had been filed and, citing the GAB chairperson, that game-fixing had not been established. Go also relayed the chairperson's statement that the MPBL removed Bacolod from the season after a later game against Abra. Villanueva called for fair investigations that protect both league credibility and players' due process, and for a mechanism to flag suspicious betting. Go urged the GAB to coordinate with the Philippine National Police (PNP), National Bureau of Investigation (NBI), Philippine Amusement and Gaming Corporation (PAGCOR), and other agencies for technical help, intelligence sharing, and enforcement. Villanueva said league investigations alone were insufficient and supported developing alerts and procedures for suspected fixing.\n\nRandom drug testing: Villanueva asked whether GAB drug testing of professional athletes was continuous and how teams were selected. Go said there were no specific dates and that GAB visited practices for random testing; he relayed that the Philippine Basketball Association (PBA) had complained those visits were intrusive. Villanueva confirmed testing also took place during games. He later said he had been told in advance which teams GAB would test, arguing that this would no longer be random. Go instructed GAB to ensure testing was genuinely random, with athletes not knowing when it would occur.",
+          "citations": [
+            {
+              "stable_id": "asr-004630",
+              "start_seconds": 23094.7,
+              "clock": "06:24:54",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004630"
+            },
+            {
+              "stable_id": "asr-004666",
+              "start_seconds": 23170.4,
+              "clock": "06:26:10",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004666"
+            },
+            {
+              "stable_id": "asr-004688",
+              "start_seconds": 23216.12,
+              "clock": "06:26:56",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004688"
+            },
+            {
+              "stable_id": "asr-004699",
+              "start_seconds": 23238.28,
+              "clock": "06:27:18",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004699"
+            },
+            {
+              "stable_id": "asr-004710",
+              "start_seconds": 23258.16,
+              "clock": "06:27:38",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004710"
+            },
+            {
+              "stable_id": "asr-004802",
+              "start_seconds": 23506.12,
+              "clock": "06:31:46",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004802"
+            },
+            {
+              "stable_id": "asr-004819",
+              "start_seconds": 23585.68,
+              "clock": "06:33:05",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004819"
+            },
+            {
+              "stable_id": "asr-004852",
+              "start_seconds": 23739.86,
+              "clock": "06:35:39",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004852"
+            },
+            {
+              "stable_id": "asr-004861",
+              "start_seconds": 23777.84,
+              "clock": "06:36:17",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004861"
+            },
+            {
+              "stable_id": "asr-004887",
+              "start_seconds": 23860.82,
+              "clock": "06:37:40",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004887"
+            },
+            {
+              "stable_id": "asr-004932",
+              "start_seconds": 24029.26,
+              "clock": "06:40:29",
+              "transcript_url": "https://tordecilla.github.io/budget-hearings-2026/records/110/#asr-004932"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
